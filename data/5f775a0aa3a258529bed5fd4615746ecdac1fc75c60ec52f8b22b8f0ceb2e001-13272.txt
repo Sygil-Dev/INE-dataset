@@ -1,0 +1,22 @@
+armor
+armour
+category:ine
+characterdesign
+creator:siwoo kim
+knight
+medium:digital 2d
+paladin
+subreddit:imaginaryarmor
+subreddit:imaginaryclerics
+subreddit:imaginaryknights
+subreddit:imaginaryladyboners
+subreddit:imcharacters
+subreddit:imnsfw
+subreddit:imtechnology
+title:paladin
+title:paladin art by siwoo kim
+title:paladin by siwoo kim
+uploader:godforesaken
+uploader:lol33ta
+uploader:mostcertainlynsfw
+uploader:racconccity

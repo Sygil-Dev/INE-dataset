@@ -1,0 +1,46 @@
+anchor
+anchor symbol
+armored vehicle
+artist name
+autocannon
+battleship
+cannon
+character:sakuya (zenseava)
+creator:zenseava
+ground vehicle
+hangar
+japan self-defense force
+light
+medium:artist name
+medium:watermark
+meta:commentary request
+meta:source request
+meta:tagme
+military
+military vehicle
+military watercraft
+missile pod
+no humans
+ocean
+radar
+railgun
+range finder
+rating:safe
+sakuya (zenseava)
+series:japan maritime self-defense force
+shadow
+ship
+smokestack
+subreddit:imaginarywarships
+title:bb-5061 rottweiler-class railgun battleship 'sakuya' by zenseava
+torpedo launcher
+turret
+uploader:admiral_agito
+vehicle
+wake
+warship
+water
+watercraft
+watermark
+window
+wire

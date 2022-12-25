@@ -1,0 +1,20 @@
+camo
+camolage
+category:ine
+creator:lawrence vdm
+forest
+forrest
+machanical
+mech
+mecha
+medium:digital 2d
+robot
+robotic
+scifi
+subreddit:imaginarymechs
+subreddit:imtechnology
+title:forest mech
+title:forest mech, trying to keep it loose.
+uploader:vesvaughn
+war
+weapons

@@ -1,0 +1,21 @@
+arrow
+artifact
+brujula
+category:ine
+compass
+creator:andrea grau
+marmoset
+medium:digital 3d
+model
+pbr
+rusty
+subreddit:imaginaryartifacts
+subreddit:immeta
+substance designer
+substance painter
+texture
+textures
+title:compass artifact
+title:compass artifact by andrea grau
+treasure
+uploader:net-diver

@@ -1,0 +1,49 @@
+baby
+backpack
+bag
+baseball cap
+blue hair
+character:dande (pokemon)
+character:hop (pokemon)
+character:pokemon character
+character:protagonist (pokemon)
+character:red (pokemon)
+clothing:baseball cap
+clothing:gloves
+clothing:hat
+clothing:headwear
+clothing:legwear
+clothing:shorts
+creator:meiji ken
+dark skin
+dark-skinned male
+gen 1 pokemon
+gender:male
+gloves
+grin
+gym challenge uniform
+hat
+head out of frame
+poke ball (generic)
+poké ball
+rating:mature
+rating:safe
+series:pokemon sword & shield
+series:pokémon
+series:pokémon firered & leafgreen
+shorts
+single glove
+smile
+species:charmander
+species:monster
+species:pokémon
+studio:creatures (company)
+studio:game freak
+studio:nintendo
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:leon's childhood by @meiji_pkmn on twitter
+twitter username
+uploader:pardusco
+yellow eyes
+younger

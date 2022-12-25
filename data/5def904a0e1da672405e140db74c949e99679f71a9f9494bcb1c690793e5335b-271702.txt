@@ -1,0 +1,20 @@
+category:ine
+characters
+creator:jenaro pagan
+digital
+horror
+lycan
+medium:digital 2d
+monster
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:wolf
+subreddit:imaginarywerewolves
+subreddit:immonsters
+title:on the prowl
+title:on the prowl , jenaro pagan, artstation.com
+uploader:nikephoros_ii_phokas
+werewolf
+werewolves

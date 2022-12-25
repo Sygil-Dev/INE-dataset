@@ -1,0 +1,112 @@
+2 females
+5 males
+alcohol
+apple
+art
+assassin
+bankett
+banquet
+banquette
+beard
+bird
+black hair
+bowl
+cape
+category:ine
+choker
+clothing:choker
+clothing:earrings
+clothing:gloves
+clothing:headwear
+clothing:necklace
+creator:scebiqu
+creator:simon eckert
+crown
+cup
+dagger
+das
+drill hair
+earrings
+eckert
+evil smile
+facial hair
+fantasyflight
+fat
+fat man
+feast
+ffg
+food
+freckles
+fruit
+fruit bowl
+fur cape
+game
+gender:female
+gender:male
+gloves
+goatee
+goblet
+gold
+grapes
+grey hair
+grin
+hat
+indoors
+instrument
+jewelry
+king
+last
+letzte
+long sleeves
+looking at another
+lute (instrument)
+lyre
+medieval
+medium:official art
+melee weapon
+meta:commentary
+meta:official art
+multiple boys
+multiple females
+multiple girls
+multiple males
+music
+mustache
+neck ruff
+necklace
+orange
+orange hair
+overweight
+pear
+pitcher
+playing instrument
+pouring
+puffy long sleeves
+puffy sleeves
+rating:mature
+rating:safe
+scebiqu
+series:the last banquet
+sideburns
+simon
+smile
+species:avian
+species:pheasant
+subreddit:imaginarygatherings
+subreddit:imaginarypolitics
+subreddit:imcharacters
+subreddit:immeta
+table
+tablecloth
+tassel
+the last banquet
+throne
+title:the last banquet
+title:the last banquet by simon eckert
+toast (gesture)
+twin drills
+uploader:[deleted]
+uploader:ethan_kahn
+uploader:lol33ta
+weapon
+wine

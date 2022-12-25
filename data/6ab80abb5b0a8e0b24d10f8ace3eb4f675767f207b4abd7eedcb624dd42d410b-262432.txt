@@ -1,0 +1,59 @@
+ambiguous gender
+anthropomorphism
+black eyes
+bodypart:black eyes
+brown body
+brown fur
+category:ine
+clothed
+clothing
+clothing:boots
+clothing:footwear
+creator:cryptid-creations
+creator:piperdraws
+earmuffs
+english text
+filename:dp1835_s
+footwear
+fur
+gender:ambiguous
+gender:male
+grey body
+grey fur
+humor
+language:english
+male:1
+medium:english text
+medium:patreon reward
+medium:text
+meme:humor
+meta:2017
+meta:english text
+meta:paid reward
+meta:patreon reward
+meta:url
+outside
+plant
+pun
+rating:safe
+site:patreon
+site:yiff.party
+snow
+solo
+species:coati
+species:mammal
+species:procyonid
+subreddit:imaginaryanimals
+subreddit:imnature
+text
+title:1$ patreon pack - daily paint 1835# winter coati
+title:5$ patreon pack - daily paint 1835# winter coati
+title:daily paint 1835# winter coati
+title:winter coati by piper thibodeau
+tree
+uploader:myrandall
+white body
+white fur
+winter
+year:2017
+yiff id:457132

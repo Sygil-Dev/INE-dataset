@@ -1,0 +1,47 @@
+ambiguous_gender
+artist:cryptid-creations
+basket
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+bodypart:black eyes
+bread
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+feral
+filename:dp1132_s
+food
+gender:ambiguous
+group
+humor
+medium:patreon reward
+medium:simple background
+medium:white background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:white background
+pun
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+species:food creature
+species:food_creature
+species:lagomorph
+species:leporid
+species:mammal
+species:rabbit
+subreddit:imaginaryfood
+subreddit:immeta
+title:bun'nies by piper thibodeau
+title:daily paint #1132. bun'nies
+uploader:myrandall
+visual pun
+visual_pun
+website:reddit
+whiskers
+white_background

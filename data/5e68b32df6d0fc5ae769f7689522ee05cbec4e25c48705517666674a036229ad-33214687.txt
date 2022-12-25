@@ -1,0 +1,38 @@
+alien
+artist:marsminer
+ashio
+category:ine
+character:ashio
+character:sangheili
+copyright:halo (series)
+copyright:halo_(series)
+copyright:microsoft
+copyright:xbox game studios
+copyright:xbox_game_studios
+creator:marsminer
+elite (disambiguation)
+gender:male
+halo
+letterbox
+male
+medium:high resolution
+medium:video game
+meta:hi_res
+rating:safe
+sangheili
+series:halo
+series:halo (series)
+series:microsoft
+series:xbox game studios
+solo
+species:alien
+species:sangheili
+studio:microsoft
+subreddit:imaginaryhalo
+subreddit:imfandoms
+title:ashio by marsminer
+uploader:[deleted]
+uploader:bleeding_choker
+video games
+video_games
+xbox game studios

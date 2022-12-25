@@ -1,0 +1,61 @@
+beard
+black eyes
+board:/k/
+bodypart:black eyes
+bone
+booru:e621
+brown body
+brown fur
+category:ine
+character:poseidon
+creator:cryptid-creations
+crown
+facial hair
+feral
+fur
+gender:male
+hair
+humor
+male:1
+melee weapon
+meme:humor
+pawpads
+polearm
+pun
+rating:safe
+rock
+series:european mythology
+series:greek mythology
+series:mythology
+solo
+species:canid
+species:canine
+species:canis
+species:cetacean
+species:deity
+species:delphinoid
+species:dog
+species:dolphin
+species:domestic dog
+species:hybrid
+species:mammal
+species:marine
+species:molosser
+species:pug
+species:small molosser
+species:toothed whale
+species:toy dog
+subreddit:imaginaryaww
+subreddit:imaginaryhybrids
+subreddit:immeta
+subreddit:immonsters
+tan body
+tan fur
+title:daily paint 2038# pugsideon
+title:pugsideon by piper thibodeau
+trident
+uploader:myrandall
+water
+weapon
+website:e621
+white hair

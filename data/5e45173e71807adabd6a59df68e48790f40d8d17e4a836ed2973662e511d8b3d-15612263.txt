@@ -1,0 +1,27 @@
+armor
+category:ine
+cloud
+creator:harvester
+creator:kakotomirai
+dragon
+flying
+furry
+gender:female
+glowing
+monster
+no humans
+rating:mature
+rating:safe
+series:original
+sky
+species:dragon
+species:mythical
+species:scalie
+subreddit:imaginaryleviathans
+subreddit:immonsters
+tail
+teeth
+title:the remains which live
+title:the remains which live by keisuke asaba
+uploader:faeryknight
+wyvern

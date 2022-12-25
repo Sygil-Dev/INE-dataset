@@ -1,0 +1,55 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+category:ine
+cauliflower
+creator:cryptid-creations
+creator:piperdraws
+duo
+eating
+feral
+filename:dp1096_s
+food
+fur
+grass
+grey body
+grey fur
+leaf
+leaf ears
+medium:patreon reward
+meta:2015
+meta:paid reward
+meta:patreon reward
+meta:url
+pink body
+plant
+rating:safe
+simple background
+site:patreon
+site:yiff.party
+species:bovid
+species:caprine
+species:elemental creature
+species:elemental_creature
+species:flora fauna
+species:flora_fauna
+species:food creature
+species:food_creature
+species:hybrid
+species:living vegetable
+species:living_vegetable
+species:mammal
+species:sheep
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:'cauliflower sheep' by piper thibodeau
+title:daily paint #1096. cauliflower sheep
+uploader:myrandall
+vegetable
+white background
+yiff id:457132

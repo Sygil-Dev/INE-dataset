@@ -1,0 +1,26 @@
+bathroom
+category:ine
+clothing
+clothing:boots
+clothing:cape
+clothing:footwear
+clothing:gloves
+clothing:jewelry
+clothing:necklace
+fantasy art
+footwear
+gender:female
+jewelry
+knife
+leather clothing
+men
+painting
+peeping
+red hair
+subreddit:imaginarygatherings
+subreddit:imcharacters
+symbols
+title:sh*ttalk by sixmorevodka studio
+toilets
+uploader:natezomby
+warrior

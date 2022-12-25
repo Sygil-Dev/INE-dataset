@@ -1,0 +1,65 @@
+action:closing eyes
+ambiguous gender
+box
+category:ine
+cheese
+closed eyes
+creator:cryptid-creations
+creator:piperdraws
+dairy products
+english text
+eyes closed
+feral
+filename:dp1766_s
+food
+furry
+gender:ambiguous
+gender:male
+horn
+horns
+humor
+language:english
+male:1
+medium:english text
+medium:patreon reward
+medium:simple background
+medium:text
+medium:white background
+meme:humor
+meta:2017
+meta:english text
+meta:paid reward
+meta:patreon reward
+meta:url
+meta:white background
+pepperoni
+pizza
+pizza box
+pun
+rating:safe
+simple background
+site:patreon
+site:yiff.party
+solo
+species:ceratopsian
+species:dinosaur
+species:extinct
+species:food creature
+species:hybrid
+species:ornithischian
+species:reptile
+species:scalie
+species:triceratops
+subreddit:imaginarydinosaurs
+subreddit:imaginaryfood
+subreddit:immeta
+subreddit:immonsters
+text
+title:1$ patreon pack - daily paint 1766# pizzasaurus - triceratoppings
+title:5-10$ patreon pack - daily paint 1766# pizzasaurus - triceratoppings
+title:daily paint 1766# pizzasaurus - triceratoppings
+title:pizzasaurus - triceratoppings by piper thibodeau
+uploader:myrandall
+visual pun
+website:e621
+year:2017

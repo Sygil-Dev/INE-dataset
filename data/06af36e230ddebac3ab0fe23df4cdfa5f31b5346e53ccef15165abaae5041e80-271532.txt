@@ -1,0 +1,24 @@
+arena
+arenathecontest
+boardgame
+category:ine
+creator:guilherme batista
+dark
+darkness
+medieval
+medium:digital 2d
+monster
+rpg
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:wolf
+subreddit:imaginarywerewolves
+subreddit:immonsters
+tabletop
+title:sedrik the werewolf
+title:sedrik the werewolf, guilherme batista, artstation
+uploader:nikephoros_ii_phokas
+werewolf
+world

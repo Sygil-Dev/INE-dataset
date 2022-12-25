@@ -1,0 +1,48 @@
+ambiguous gender
+ambiguous_gender
+artist:sandara
+category:ine
+character:zinogre
+clothed
+clothing
+clothing:tagme
+copyright:capcom
+copyright:monster_hunter
+creator:sandara
+fanged wyvern
+feral
+gender:ambiguous
+group
+holding object
+holding weapon
+holding_object
+holding_weapon
+horn
+horns
+medium:digital media
+meta:2019
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+open mouth
+open_mouth
+rating:safe
+series:capcom
+series:monster hunter
+species:fanged wyvern
+species:fanged_wyvern
+species:human
+species:mammal
+species:primate
+species:zinogre
+studio:capcom
+subreddit:imaginarybattlefields
+subreddit:imlandscapes
+teeth
+title:zinogre by sandara tang
+tongue
+uploader:lol33ta
+video games
+video_games
+weapon
+year:2019
+zinogre
