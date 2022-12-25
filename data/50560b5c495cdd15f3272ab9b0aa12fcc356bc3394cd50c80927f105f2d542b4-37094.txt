@@ -1,0 +1,64 @@
+animal
+booru:sankaku channel
+brown hair
+cat
+category:ine
+chair
+character:artorias the abysswalker
+character:hunter (bloodborne)
+character:kirby
+character:luigi
+character:mario
+character:mei-ling zhou
+character:panther (persona 5)
+character:shizue (doubutsu no mori)
+character:takamaki ann
+character:takamaki anne
+clothing:eyewear
+clothing:glasses
+computer
+creator:mario
+eyewear
+facial hair
+food
+gender:female
+gender:male
+genre:science fiction
+glasses
+headphones
+long hair
+medium:16:9 aspect ratio
+medium:high resolution
+medium:video game
+medium:wallpaper
+mustache
+pillow
+rating:safe
+series:animal crossing
+series:bloodborne
+series:dark souls
+series:doubutsu no mori
+series:kirby
+series:kirby series
+series:nintendo switch
+series:overwatch
+series:persona
+series:persona 5
+series:shin megami tensei
+series:souls (from software)
+series:super mario brothers
+solo
+species:cat
+species:feline
+species:mammal
+studio:atlus
+studio:blizzard entertainment
+studio:from software
+studio:nintendo
+subreddit:imaginaryhumans
+subreddit:imraces
+the hunter (bloodborne)
+tied hair
+title:game player by hanzheng tang
+twintails
+uploader:forsureaturtle

@@ -1,0 +1,47 @@
+2017
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+bird
+category:ine
+clothing
+clothing:hat
+clothing:headwear
+creator:cryptid-creations
+creator:piperdraws
+duo
+feral
+filename:dp1856_s
+hat
+headgear
+headwear
+medium:patreon reward
+meta:2017
+meta:url
+murid
+murine
+rating:safe
+rodent
+site:patreon
+site:yiff.party
+snow
+species:avian
+species:bird
+species:mammal
+species:mouse
+species:murid
+species:murine
+species:owl
+species:rodent
+subreddit:imaginaryanimals
+subreddit:imnature
+text
+title:1$ patreon pack - daily paint 1856# snowy owl
+title:5$ patreon pack - daily paint 1856# snowy owl
+title:daily paint 1856# snowy owl
+title:snowy owl by piper thibodeau
+uploader:myrandall
+url
+website:reddit
+year:2017
+yiff id:457132

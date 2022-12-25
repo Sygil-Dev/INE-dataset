@@ -1,0 +1,43 @@
+ambiguous gender
+black body
+black eyes
+black fur
+bodypart:black eyes
+booru:e621
+brown body
+brown fur
+category:ine
+creator:cryptid-creations
+cute
+feral
+fur
+gender:ambiguous
+howl
+humor
+meme:humor
+meta:english text
+meta:url
+moon
+night
+pun
+rating:safe
+solo
+species:canid
+species:canine
+species:canis
+species:mammal
+species:wolf
+star
+subreddit:imaginaryhybrids
+subreddit:immonsters
+tan body
+tan fur
+text
+title:woolf by piper thibodeau
+uploader:myrandall
+website:e621
+website:reddit
+white body
+white fur
+wool
+wool (fur)

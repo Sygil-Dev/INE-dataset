@@ -1,0 +1,26 @@
+1 female
+category:ine
+character:kusanagi motoko
+clothing:bodysuit
+clothing:bottomwear
+clothing:topwear
+firearm
+gender:female
+genre:science fiction
+long coat
+medium:high resolution
+outdoors
+outside
+purple hair
+series:ghost in the shell
+series:ghost in the shell: stand alone complex
+solo
+submachine gun
+subreddit:imaginaryanime
+subreddit:imaginaryassassins
+subreddit:imcharacters
+subreddit:imfandoms
+title:kusanagi by ivan yakushev
+title:kusanagi by ivan yakushev (xpost /r/imaginaryanime)
+uploader:lol33ta
+weapon

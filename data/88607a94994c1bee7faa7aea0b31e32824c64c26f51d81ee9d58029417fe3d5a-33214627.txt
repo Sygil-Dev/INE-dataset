@@ -1,0 +1,71 @@
+3 heads
+7 fingers
+7_fingers
+16:9
+2019
+alien
+ambiguous gender
+ambiguous_gender
+antlers
+artist:themefinland
+beast
+canid
+canine
+canis
+category:ine
+cerberus
+claws
+combined
+creator:themefinland
+creature
+digital media (artwork)
+eldritch
+fingers
+forest
+gender:ambiguous
+hi res
+horns
+horror
+mammal
+medium:16:9 aspect ratio
+medium:digital media
+medium:high resolution
+meta:16:9
+meta:2019
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:hi res
+meta:hi_res
+meta:widescreen
+monster
+multi head
+multi_head
+multiple heads
+night
+open mouth
+open_mouth
+polydactyly
+rating:questionable
+solo
+source:furaffinity.net
+species:alien
+species:canid
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:werewolf
+species:wolf
+subreddit:imaginarybeasts
+subreddit:imaginaryhorrors
+subreddit:immonsters
+tail
+tails
+teeth
+tentacles
+title:'horrors of the silent woods' by timi honkanen, aka themefinland
+title:horrors of the silent woods
+tongue
+uploader:jg379
+wolf
+year:2019

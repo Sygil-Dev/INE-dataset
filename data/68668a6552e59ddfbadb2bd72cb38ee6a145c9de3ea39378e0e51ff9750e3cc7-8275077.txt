@@ -1,0 +1,33 @@
+boots
+category:ine
+character:bob (overwatch)
+character:elizabeth caledonia "calamity" ashe
+clothing:footwear
+clothing:gloves
+clothing:headwear
+creator:nakanoart
+feathers
+firearm
+footwear
+garter
+genre:science fiction
+grey hair
+hat
+heart
+jacket
+jewelry
+mecha
+medium:high resolution
+nail polish
+necktie
+rating:safe
+red eyes
+series:overwatch
+short hair
+smile
+studio:blizzard entertainment
+subreddit:imaginaryoverwatch
+subreddit:imfandoms
+title:ashe: queen of hearts by nana nakano
+uploader:lol33ta
+weapon

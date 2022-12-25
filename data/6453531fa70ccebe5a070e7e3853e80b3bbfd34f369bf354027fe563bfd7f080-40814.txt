@@ -1,0 +1,44 @@
+1 female
+armour
+booru:lolibooru
+booru:lolibooru.moe
+boots
+brown eyes
+category:ine
+clothing:boots
+clothing:footwear
+clothing:hair tie
+creator:seo dongjun
+creator:seo_dongjun
+ears
+fang
+fangs
+footwear
+gender:female
+green skin
+headwear
+helmet
+long hair
+medium:absurd resolution
+medium:high resolution
+monster
+monster girl
+pink hair
+pointy ears
+ponytail
+rating:safe
+series:original
+sharp teeth
+shield
+short
+solo
+species:goblin
+subreddit:imaginarygoblins
+subreddit:imraces
+sword
+teeth
+tied hair
+title:goblin knight by dongjun seo
+tusks
+uploader:lol33ta
+weapon

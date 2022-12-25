@@ -1,0 +1,79 @@
+artist:potaachi
+blue body
+blue skin
+blue_body
+blue_skin
+booru:e621
+bubble
+category:ine
+character:baby mario
+character:baby_mario
+character:mario
+character:naval piranha
+character:nipper plant
+character:yoshi
+clothing
+clothing:hat
+clothing:headwear
+clothing:tagme
+copyright:mario_bros
+copyright:nintendo
+copyright:yoshi's_island
+creator:potaachi
+dark blue yoshi
+diaper
+dinosaur
+egg
+furry
+gender:male
+hat
+headgear
+headwear
+male
+nipper plant
+plant
+potaachi
+rating:safe
+red body
+red skin
+red_body
+red_skin
+series:mario bros
+series:nintendo
+series:super mario brothers
+series:yoshi's island
+species:dark blue yoshi
+species:dark_blue_yoshi
+species:dinosaur
+species:elemental creature
+species:elemental_creature
+species:extinct
+species:flora fauna
+species:flora_fauna
+species:human
+species:mammal
+species:naval piranha
+species:naval_piranha
+species:nipper plant
+species:nipper_plant
+species:piranha plant
+species:piranha_plant
+species:primate
+species:reptile
+species:scalie
+species:yoshi
+spots
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imfandoms
+tentacles
+title:"naval piranha" by potachi
+uploader:torvusil
+video games
+video_games
+white body
+white skin
+white_body
+white_skin
+yoshi
+yoshi's island

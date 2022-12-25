@@ -1,0 +1,20 @@
+adventurer
+advisor
+category:ine
+creator:sandra duchiewicz
+games workshop
+mage
+man
+medium:digital 2d
+npc
+old
+subreddit:imaginaryscholars
+subreddit:imcharacters
+title:total war: warhammer - advisor
+title:total war: warhammer - advisor by sandra duchiewicz
+total war
+traveler
+tzeentch
+uploader:net-diver
+warhammer
+wise

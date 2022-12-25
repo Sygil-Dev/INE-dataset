@@ -1,0 +1,41 @@
+1 male
+art
+bag
+bottle
+cape
+category:ine
+chain
+character:spawn (spawn)
+comic
+copyright:image comics
+copyright:spawn
+creator:nivanh chanthara
+firearm
+formal
+gender:male
+glowing
+glowing eyes
+green eyes
+headphones
+load bearing vest
+mask
+medium:high resolution
+meta:highres
+meta:official art
+military
+rating:mature
+rating:safe
+rifle
+series:spawn
+skull
+sniper rifle
+species:demon
+spikes
+studio:image comics
+subreddit:imaginarysoldiers
+subreddit:imcharacters
+suit
+title:spawn #270 cover.
+title:spawn #272 cover by nivanh chanthara [x-post /r/imaginarydemons]
+uploader:valar_m0rghul1s
+weapon

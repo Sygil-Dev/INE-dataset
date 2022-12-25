@@ -1,0 +1,44 @@
+1 female
+1girl
+2 males
+ardail
+category:ine
+character:dark magician girl
+character:dark magician girl (cosplay)
+character:twilight sparkle
+clothing:headwear
+creator:ardail
+dark magician girl (cosplay)
+furry
+gender:female
+gender:male
+genre:fantasy
+hat
+horns
+horse
+medium:absurd resolution
+medium:high resolution
+meta:absurdres
+meta:commentary
+meta:highres
+multiple boys
+multiple males
+rating:safe
+series:my little pony
+series:my little pony friendship is magic
+series:yu-gi-oh!
+series:yuu-gi-ou
+series:yuu-gi-ou duel monsters
+species:equine
+species:horse
+species:mammal
+studio:hasbro
+subreddit:imaginaryequestria
+subreddit:imfandoms
+title:"card games ftw" by dustin coffey (ardail)
+title:card games ftw
+uploader:torvusil
+wand
+wink
+witch hat
+yu-gi-oh! duel monsters

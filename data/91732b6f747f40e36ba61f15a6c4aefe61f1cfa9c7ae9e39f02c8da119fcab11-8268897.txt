@@ -1,0 +1,38 @@
+ambiguous_gender
+angry
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+category:ine
+cloud
+creator:cryptid-creations
+emotion:anger
+feral
+gender:ambiguous
+gender:male
+humor
+lightning
+male:1
+meme:humor
+meta:tagme
+pun
+raining
+rating:safe
+solo
+species:cephalopod
+species:coleoid
+species:marine
+species:mollusc
+species:mollusk
+species:octopodiform
+species:octopus
+storm
+subreddit:imaginaryweather
+subreddit:imnature
+thunder
+title:daily paint 1590. shocktopus
+title:shocktopus by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun

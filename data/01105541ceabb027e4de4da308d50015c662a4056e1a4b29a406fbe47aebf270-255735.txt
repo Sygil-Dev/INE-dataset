@@ -1,0 +1,48 @@
+amazing
+booru:e621
+category:ine
+clothed
+clothing
+clothing:hat
+clothing:headwear
+cloud
+cowboy
+cowboy hat
+creator:kekai kotaki
+detailed
+detailed background
+feral
+field
+firearm
+front view
+gender:male
+group
+gun
+hat
+headgear
+headwear
+male
+medium:detailed background
+meta:detailed
+not furry
+outside
+ranged weapon
+rating:safe
+riding
+sky
+species:annelid
+species:equid
+species:equine
+species:horse
+species:human
+species:mammal
+species:primate
+species:worm
+straddling
+subreddit:imaginarycowboys
+subreddit:imcharacters
+title:stampede by kekai kotaki
+uploader:lol33ta
+weapon
+website:reddit
+western

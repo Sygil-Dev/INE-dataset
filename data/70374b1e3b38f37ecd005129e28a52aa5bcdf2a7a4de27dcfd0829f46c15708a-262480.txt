@@ -1,0 +1,48 @@
+animal
+booru:e621
+category:ine
+creator:alradeck
+creator:firefeathers
+crossbreed
+day
+detailed background
+feral
+gathering
+grass
+group
+host
+kangaroo
+labs
+looking at viewer
+magic
+mechanic
+medium:detailed background
+medium:digital media
+meta:2017
+meta:digital media (artwork)
+meta:english text
+mtg
+outside
+plant
+pov
+rating:safe
+sky
+species:kangaroo
+species:macropod
+species:mammal
+species:marsupial
+species:rodent
+species:sciurid
+species:squirrel
+species:tree squirrel
+standing
+subreddit:imaginaryanimals
+subreddit:imnature
+text
+the
+title:mother kangaroo by andrea radeck
+title:mtg unstable: mother kangaroo
+unstable
+uploader:myrandall
+website:reddit
+year:2017

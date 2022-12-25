@@ -1,0 +1,71 @@
+action:open mouth
+action:smile
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+bodypart:black eyes
+category:ine
+cheetah
+creator:cryptid-creations
+english text
+eyebrows
+fangs
+felid
+feline
+feral
+fire
+flaming hair
+flaming_hair
+gender:ambiguous
+gender:male
+glowing
+humor
+language:english
+male:1
+mammal
+medium:english text
+medium:simple background
+medium:text
+medium:white background
+meme:humor
+meta:2018
+meta:english text
+meta:english_text
+meta:white background
+open mouth
+open smile
+open_mouth
+open_smile
+pseudo hair
+pseudo_hair
+pun
+rating:safe
+simple background
+simple_background
+smile
+solo
+species:cheetah
+species:elemental
+species:elemental creature
+species:elemental_creature
+species:felid
+species:feline
+species:fire creature
+species:fire elemental
+species:fire_creature
+species:mammal
+subreddit:imaginaryelementals
+subreddit:immonsters
+teeth
+text
+title:cheatah by piper thibodeau
+title:daily paint 1893# cheatah
+uploader:myrandall
+visual pun
+visual_pun
+white background
+white_background
+year:2018

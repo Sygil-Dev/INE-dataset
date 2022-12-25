@@ -1,0 +1,120 @@
+5 fingers
+5 toes
+5_fingers
+5_toes
+ambiguous gender
+ambiguous_gender
+analog clock
+analog_clock
+artist:tamberella
+barefoot
+bed
+biped
+bracelet
+character:totoro
+clock
+clothed
+clothing
+controller
+copyright:gamecube
+copyright:ghibli
+copyright:my_neighbor_totoro
+copyright:nintendo
+copyright:nintendo_ds_family
+copyright:pokémon
+creator:tamberella
+detailed background
+detailed_background
+door
+feet
+female
+feral
+fingers
+footwear
+fully clothed
+fully_clothed
+furniture
+game console
+game controller
+game_console
+game_controller
+gamecube console
+gamecube controller
+gamecube_console
+gamecube_controller
+gaming
+gen 1 pokemon
+group
+indoors
+inside
+jewelry
+looking at another
+looking down
+looking_at_another
+looking_down
+lying
+meta:2020
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:hi res
+meta:hi_res
+nintendo controller
+nintendo_controller
+on front
+on_front
+open mouth
+open_mouth
+perched
+playing videogame
+playing_videogame
+pokéball
+quadruped
+raised arm
+raised_arm
+rating:safe
+series:gamecube
+series:ghibli
+series:my neighbor totoro
+series:nintendo
+series:nintendo ds family
+series:pokémon
+series:studio ghibli
+shoes
+sitting
+skateboard
+species:baby pokémon
+species:baby_pokémon
+species:bonsly
+species:buneary
+species:burmy
+species:chatot
+species:chimchar
+species:drifblim
+species:drifloon
+species:happiny
+species:human
+species:mammal
+species:pikachu
+species:piplup
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+species:porygon-z
+species:primate
+species:shinx
+species:shiny pokémon
+species:shiny_pokémon
+species:starly
+species:turtwig
+species:wormadam
+studio:nintendo
+studio:studio ghibli
+subreddit:imaginarykanto
+subreddit:imfandoms
+teeth
+title:diamond + pearl release party by tamberella
+toes
+tongue
+uploader:lol33ta
+video games
+video_games

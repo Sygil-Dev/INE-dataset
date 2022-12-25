@@ -1,0 +1,64 @@
+2017
+action:closing eyes
+ambiguous_gender
+artist:cryptid-creations
+black body
+black fur
+black_body
+black_fur
+category:ine
+crate
+creator:cryptid-creations
+eyes closed
+eyes_closed
+feral
+food
+fruit
+fur
+gender:ambiguous
+gender:male
+green body
+green fur
+green_body
+green_fur
+humor
+leaf
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:2017
+meta:url
+meta:white background
+orange (fruit)
+orange body
+orange fur
+orange_(fruit)
+orange_body
+orange_fur
+plant
+pun
+rating:safe
+simple background
+simple_background
+sleeping
+solo
+species:canid
+species:canine
+species:fox
+species:mammal
+species:red fox
+species:red_fox
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:daily painting 1727# kitrus fruit by cryptid-creations/ piper thibodeau
+uploader:chalkchick0
+visual pun
+visual_pun
+white body
+white fur
+white_background
+white_body
+white_fur
+year:2017

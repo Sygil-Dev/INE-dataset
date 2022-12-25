@@ -1,0 +1,67 @@
+2019
+ambiguous gender
+ambiguous_gender
+armor
+artist:x-celebril-x
+category:ine
+clothed
+clothing
+clothing:armor
+copyright:blizzard_entertainment
+copyright:warcraft
+creator:x-celebril-x
+digital media (artwork)
+female
+feral
+flying
+gender:ambiguous
+gender:female
+hi res
+holding object
+holding weapon
+holding_object
+holding_weapon
+medium:digital media
+medium:high resolution
+meta:2019
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:hi res
+meta:hi_res
+meta:url
+night
+outside
+rating:safe
+series:blizzard entertainment
+series:warcraft
+species:avian
+species:bird
+species:elf
+species:felid
+species:feline
+species:humanoid
+species:leopard
+species:mammal
+species:night elf
+species:night_elf
+species:owl
+species:pantherine
+standing
+studio:blizzard entertainment
+subreddit:imaginaryanimals
+subreddit:imaginaryarchers
+subreddit:imaginaryazeroth
+subreddit:imaginarybeasts
+subreddit:imaginaryelves
+subreddit:imcharacters
+subreddit:imfandoms
+subreddit:immonsters
+subreddit:imnature
+subreddit:imraces
+text
+title:'a night of sorrow' by x-celebril-x
+uploader:jg379
+video games
+video_games
+weapon
+year:2019

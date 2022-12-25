@@ -1,0 +1,20 @@
+atmosphere
+category:ine
+concept
+creator:duncan halleck
+cyberpunk
+design
+fantasy
+future
+futurism
+industrial
+italy
+medium:digital 2d
+scifi
+space
+subreddit:imaginaryfuturism
+subreddit:imtechnology
+title:il futuro vecchio - cetona
+title:il vecchio futuro - cetona, duncan halleck
+uploader:dhalleck
+venice

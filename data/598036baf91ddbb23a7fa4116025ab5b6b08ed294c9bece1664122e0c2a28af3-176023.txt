@@ -1,0 +1,78 @@
+2019
+action:open mouth
+ambiguous_gender
+artist:cryptid-creations
+bandana
+bandanna
+black eyes
+black_eyes
+board:/v/
+bodypart:black eyes
+booru:e621
+bread
+canid
+category:ine
+cheese
+clothing
+copyright:fakémon
+copyright:nintendo
+copyright:pokémon
+creator:cryptid-creations
+dairy products
+dairy_products
+fakémon
+feral
+food
+food creature
+gender:ambiguous
+gender:male
+humor
+kerchief
+lettuce
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:2019
+meta:english text
+meta:english_text
+meta:url
+meta:white background
+open mouth
+open_mouth
+plant
+pun
+rating:safe
+sandwich (food)
+sandwich_(food)
+series:fakémon
+series:pokémon
+simple background
+simple_background
+site:4chan.org
+solo
+species:canid
+species:eeveelution
+species:food creature
+species:food_creature
+species:mammal
+species:monster
+species:pokémon
+studio:nintendo
+subreddit:imaginaryaww
+subreddit:imaginaryfood
+subreddit:imaginarygaming
+subreddit:imaginarykanto
+subreddit:imfandoms
+subreddit:immeta
+text
+title:"luncheon" by piper thibodeau
+uploader:torvusil
+vegetable
+video games
+video_games
+visual pun
+visual_pun
+website:chan style imageboards
+white_background
+year:2019

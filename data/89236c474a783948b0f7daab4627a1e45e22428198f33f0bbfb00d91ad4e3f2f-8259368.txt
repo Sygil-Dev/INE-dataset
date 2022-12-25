@@ -1,0 +1,38 @@
+category:ine
+clothing
+creator:manweri
+disguise
+gender:male
+graphite (artwork)
+group
+humor
+male
+medium:monochrome
+medium:pencil
+medium:traditional media
+meme:humor
+meta:graphite (artwork)
+meta:monochrome
+meta:pencil (artwork)
+meta:traditional media (artwork)
+monster
+rating:safe
+species:centaur
+species:equid
+species:equid taur
+species:equine
+species:equine taur
+species:horse
+species:human
+species:humanoid taur
+species:mammal
+species:mammal taur
+species:primate
+species:taur
+subreddit:imaginarycentaurs
+subreddit:imraces
+title:a centaur in disguise
+title:a centaur in disguise by michelle tolo
+town
+uploader:luteraar
+website:e621

@@ -1,0 +1,54 @@
+2017
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+breath
+brown hair
+brown_hair
+category:ine
+cloud
+creator:cryptid-creations
+death
+duo
+feral
+gender:ambiguous
+hair
+humor
+meta:2017
+open mouth
+open_mouth
+outside
+panting
+pun
+rating:safe
+rock
+sea
+sky
+species:canid
+species:canine
+species:canis
+species:cetacean
+species:delphinoid
+species:domestic dog
+species:domestic_dog
+species:fish
+species:hybrid
+species:mammal
+species:marine
+species:toothed whale
+species:toothed_whale
+subreddit:imaginaryhybrids
+subreddit:immonsters
+tan hair
+tan_hair
+teeth
+title:daily painting 1723# dogphin
+title:dogphin by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+water

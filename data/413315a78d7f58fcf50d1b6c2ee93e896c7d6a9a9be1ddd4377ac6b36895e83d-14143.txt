@@ -1,0 +1,40 @@
+ambiguous_gender
+artist:chiakiro
+black bars
+black_bars
+booru:e621
+category:ine
+copyright:nintendo
+copyright:pokémon
+creator:chiakiro
+fur
+gender:ambiguous
+letterbox
+medium:text
+meta:2016
+meta:url
+open mouth
+open_mouth
+rating:safe
+red body
+red fur
+red_body
+red_fur
+series:pokémon
+solo
+species:monster
+species:pokémon
+species:pokémon_(species)
+species:torracat
+studio:nintendo
+subreddit:imaginarykanto
+subreddit:imfandoms
+teeth
+text
+title:torracat by chiakiro on deviantart
+tongue
+uploader:o_no_my_buttholes
+video games
+video_games
+whiskers
+year:2016

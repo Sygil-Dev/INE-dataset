@@ -1,0 +1,49 @@
+action pose
+ambiguous gender
+armor
+booru:e621
+category:ine
+claws
+clothing:armor
+cloudscape
+creator:willian murai
+duo
+feral
+fighting pose
+fighting stance
+furry
+gender:ambiguous
+glowing
+melee weapon
+membrane (anatomy)
+membranous wings
+meta:official art
+meta:signature
+open mouth
+outside
+pose
+rating:safe
+rear view
+series:hasbro
+series:magic: the gathering
+series:official art
+shield
+signature
+sky
+species:dragon
+species:human
+species:mammal
+species:mythical
+species:primate
+species:scalie
+spread wings
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarydragons
+subreddit:immonsters
+sword
+title:valorous stance by willian murai
+uploader:[deleted]
+uploader:faeryknight
+weapon
+wings

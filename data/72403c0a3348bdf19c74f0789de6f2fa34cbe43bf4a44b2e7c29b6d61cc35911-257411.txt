@@ -1,0 +1,31 @@
+action:smile
+ambiguous gender
+ball of yarn
+black eyes
+bodypart:black eyes
+category:ine
+creator:cryptid-creations
+feral
+gender:ambiguous
+gender:male
+humor
+male:1
+medium:simple background
+medium:white background
+meme:humor
+pawpads
+plushie
+pun
+rating:safe
+simple background
+smile
+solo
+species:ailurid
+species:mammal
+species:red panda
+subreddit:imaginaryaww
+subreddit:immeta
+title:thred panda by piper thibodeau
+uploader:myrandall
+white background
+yarn

@@ -1,0 +1,29 @@
+argonian
+category:ine
+clothing:armor
+clothing:legwear
+clothing:pants
+creator:elena leonteva
+fighter
+flaming sword
+furry
+genre:fantasy
+green scales
+medium:detailed background
+medium:digital 2d
+paladin
+rating:safe
+scales
+series:the elder scrolls
+species:argonian
+species:lizard
+species:reptile
+species:scalie
+subreddit:imaginarytamriel
+subreddit:imfandoms
+sword
+tes
+title:argonian comission art
+title:argonian commission art by elena leonteva
+uploader:knighterrannt
+weapon

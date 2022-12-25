@@ -1,0 +1,20 @@
+atmosphere
+category:ine
+city
+creator:duncan halleck
+cyberpunk
+cyborg
+dark
+future soldier
+mech
+medium:digital 2d
+scifi
+space
+space marine
+spaceships
+subreddit:imaginaryfuturism
+subreddit:imaginaryrobotics
+subreddit:imtechnology
+title:search party
+title:search party, duncan halleck
+uploader:dhalleck

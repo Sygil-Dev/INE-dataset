@@ -1,0 +1,34 @@
+artstation
+booru:sankaku
+booru:sankaku channel
+category:ine
+character:high inquisitor whitemane
+character:sally whitemane
+clothing:headwear
+creator:daria leonova
+creator:kittew
+female
+gender:female
+hat
+headwear
+high inquisitor whitemane
+long hair
+meta:duplicate
+rating:s
+rating:safe
+series:warcraft
+series:world of warcraft
+solo
+staff
+studio:blizzard entertainment
+subreddit:imaginarygaming
+subreddit:imaginarywitches
+subreddit:imcharacters
+subreddit:imfandoms
+title:"whitemane" by daria leonova
+title:whitemane
+title:whitemane by daria leonova
+uploader:myrandall
+uploader:torvusil
+weapon
+white hair

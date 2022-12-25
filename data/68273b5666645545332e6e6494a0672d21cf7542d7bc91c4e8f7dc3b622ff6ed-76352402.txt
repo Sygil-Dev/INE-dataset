@@ -1,0 +1,51 @@
+accessory
+ambiguous gender
+bell
+blush
+box
+brown body
+brown fur
+brush
+clothed
+clothing
+collar
+creator:samantha whitten
+cub
+dress
+eyelashes
+female
+flower
+fur
+grey body
+grey fur
+group
+hat
+headgear
+headwear
+markings
+meta:4:5
+meta:2021
+mirror
+multicolored body
+multicolored fur
+pawpads
+paws
+perfume
+photo
+pink nose
+plant
+rating:safe
+ribbons
+semi-anthro
+smile
+species:domestic cat
+species:felid
+species:feline
+species:felis
+species:mammal
+stripes
+subreddit:imaginaryaww
+title:a day out with mom by celesse
+uploader:lol33ta
+whiskers
+young

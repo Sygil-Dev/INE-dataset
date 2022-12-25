@@ -1,0 +1,26 @@
+1 female
+1 male
+category:ine
+character:ecthellien
+claws
+creator:sandara
+fire
+furry
+gender:female
+gender:male
+long hair
+male focus
+rating:safe
+red hair
+series:luthiel's song
+solo
+species:dragon
+species:mythical
+species:scalie
+subreddit:imaginarydragons
+subreddit:immonsters
+sword
+title:e vs n
+title:e vs n by sandara tang
+uploader:panzer-kunst
+weapon

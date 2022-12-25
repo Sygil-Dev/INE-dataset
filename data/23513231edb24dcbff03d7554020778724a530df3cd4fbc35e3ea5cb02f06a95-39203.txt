@@ -1,0 +1,24 @@
+art
+artwork
+bokeh
+category:ine
+digital
+fall
+foliage
+forest
+leaves
+mallard duck
+medium:concept art
+plants
+river
+rocks
+species:cervine
+species:deer
+species:mammal
+subreddit:imaginaryanimals
+subreddit:imaginaryforests
+subreddit:imaginaryrivers
+subreddit:imnature
+title:autumn creek by calder moore
+trees
+uploader:myrandall

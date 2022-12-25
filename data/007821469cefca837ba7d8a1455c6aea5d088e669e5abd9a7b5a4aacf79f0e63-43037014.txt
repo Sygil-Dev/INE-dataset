@@ -1,0 +1,35 @@
+ambiguous_gender
+artist:sandara
+brown hair
+brown_hair
+category:ine
+clothed
+clothing
+creator:sandara
+female
+feral
+gender:ambiguous
+gender:female
+group
+hair
+ivy
+meta:2020
+meta:hi_res
+meta:tagme
+night
+outside
+rain
+raining
+rating:safe
+smile
+species:human
+species:leaf dragon
+species:leaf_dragon
+species:mammal
+species:primate
+subreddit:imaginaryweather
+subreddit:imnature
+title:rainy day
+title:rainy day by sandara
+uploader:lol33ta
+year:2020

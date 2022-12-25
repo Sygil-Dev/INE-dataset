@@ -1,0 +1,22 @@
+anime
+animecharacter
+category:ine
+character
+conceptart
+creator:denis kornev
+dark
+digitalart
+fandom
+fantasy
+medium:digital 2d
+roleplaying
+rpg
+steampunk
+subreddit:imaginarysoldiers
+subreddit:imaginarysteampunk
+subreddit:imcharacters
+subreddit:imtechnology
+title:marcus foks
+title:marcus foks by denis kornev
+uploader:net-diver
+warrior

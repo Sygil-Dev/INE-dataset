@@ -1,0 +1,29 @@
+category:ine
+creator:sergey vasnev
+drakkar
+environments
+mattepainting
+medium:digital 2d
+north
+runa
+sea
+series:the elder scrolls
+series:the elder scrolls v: skyrim
+ship
+skyrim
+subreddit:imaginaryseascapes
+subreddit:imaginaryvessels
+subreddit:imaginaryvikings
+subreddit:imcharacters
+subreddit:imlandscapes
+subreddit:imtechnology
+title:northern legend
+title:northern legend by sergey vasnev
+title:northern legend: drakkar, by sergey vasnev
+title:the northern legend, dragonborn by sergey vasnev
+uploader:ethereeal
+uploader:valar_m0rghul1s
+uploader:will_twerk_4_jezus
+vehicle
+vikings
+watercraft

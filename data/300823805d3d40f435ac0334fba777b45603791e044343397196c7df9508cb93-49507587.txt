@@ -1,0 +1,22 @@
+armor
+bodysuit
+booru:sankaku
+booru:sankaku channel
+character:elsa (frozen)
+creator:zeronis
+footwear
+frozen
+heels
+high heels
+medium:high resolution
+rating:s
+rating:safe
+series:frozen
+shoes
+studio:disney
+subreddit:imaginaryarmor
+sword
+title:elsa - knight queen by zeronis
+uploader:lol33ta
+weapon
+zeronis

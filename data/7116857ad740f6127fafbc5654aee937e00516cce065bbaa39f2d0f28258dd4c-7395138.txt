@@ -1,0 +1,31 @@
+arttrade
+artwork
+comics
+creator:evasolo
+creator:evasoloart
+digitalart
+drawing
+evasoloart
+fanart
+fenix
+gender:female
+guro
+illustration
+marvel
+misc
+nude
+phoenix
+phoenixjeangrey
+pinup
+rating:contains female nudity
+rating:explicit
+rating:mature
+studio:marvel
+subreddit:imaginarymutants
+subreddit:imfandoms
+title:fenix
+title:phoenix fire
+title:phoenix fire by evasoloart
+uploader:i_burn_cereal
+x-men
+xman

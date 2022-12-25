@@ -1,0 +1,24 @@
+akira
+art
+bike
+bikes
+creator:eddie mendoza
+cyberpunk
+digital
+eddie mendoza
+environments
+futuristic
+genre:cyberpunk
+genre:science fiction
+ground vehicle
+keyframe
+medium:concept art
+medium:digital 2d
+motor vehicle
+motorcycle
+street
+subreddit:imaginarycyberpunk
+title:idling
+title:idling by eddie mendoza
+uploader:e-leventy
+vehicle

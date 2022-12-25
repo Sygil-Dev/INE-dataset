@@ -1,0 +1,58 @@
+2019
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+book
+bookmark
+category:ine
+claws
+creator:cryptid-creations
+english text
+feral
+fur
+gender:ambiguous
+gender:male
+grey body
+grey fur
+grey_body
+grey_fur
+humor
+language:english
+looking at viewer
+looking_at_viewer
+male:1
+medium:english text
+medium:simple background
+medium:text
+medium:white background
+meme:humor
+meta:2019
+meta:english text
+meta:english_text
+meta:url
+moleskine
+plant
+pov
+pun
+rating:safe
+ribbons
+simple background
+simple_background
+solo
+species:eulipotyphlan
+species:mammal
+species:mole (animal)
+species:mole_(animal)
+subreddit:imaginarybooks
+subreddit:immeta
+text
+title:moleskine by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+whiskers
+white background
+white_background

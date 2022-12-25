@@ -1,0 +1,25 @@
+aircraft
+arasaka
+art
+carrier
+concept
+creator:filippo ubertino
+cyber
+cyberpunk
+cyberpunk2077
+heavy
+medium:digital 2d
+military
+plane
+sea
+subreddit:imaginarycyberpunk
+subreddit:imaginaryvehicles
+subreddit:imtechnology
+title:arasaka aircraft carrier - cyberpunk 2077 concept
+title:arasaka aircraft carrier, by filippo ubertino
+title:arisaka corporation supercarrier "kujira" from cyberpunk 2077. artist is filippo ubertino.
+uploader:jaximumpower
+uploader:tabulaerrata
+vehicle
+weapon
+weapons
