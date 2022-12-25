@@ -1,0 +1,19 @@
+atmosphere
+castle
+category:ine
+creator:duncan halleck
+epic
+keyframe
+lord of the rings
+magic
+medium:digital 2d
+mood
+mountains
+subreddit:imaginaryseascapes
+subreddit:imaginaryworlds
+subreddit:imlandscapes
+temple
+title:lake town
+title:lake town, duncan halleck
+uploader:dhalleck
+village

@@ -1,0 +1,30 @@
+character:princess cadance
+character:princess celestia
+character:princess luna
+character:twilight sparkle
+creator:yakovlev-vad
+day
+forest
+genre:fantasy
+horns
+medium:high resolution
+outside
+pool
+series:mlp:generation 4
+series:my little pony
+series:my little pony friendship is magic
+series:my little pony: friendship is magic
+shrine
+species:arthropod
+species:butterfly
+species:insect
+statue
+studio:hasbro
+subreddit:imaginarystatues
+title:alicorn statues by yakovlev vadim
+title:alicorn's statue
+tree
+uploader:myrandall
+water
+waterfall
+wings

@@ -1,0 +1,22 @@
+1 female
+category:ine
+character:sylvanas windrunner
+creator:cj l
+creator:gantzu
+female
+female focus
+female only
+gender:female
+series:warcraft
+solo
+solo female
+species:elf
+species:night elf
+species:undead
+studio:blizzard entertainment
+subreddit:imaginaryazeroth
+subreddit:imfandoms
+title:sylvanas windrunner
+title:sylvanas windrunner - long live the queen
+title:sylvanas windrunner: world of warcraft
+uploader:ignit3e

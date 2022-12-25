@@ -1,0 +1,67 @@
+action:smile
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+cutlery
+feral
+filename:dp1203_s
+food
+fork
+furniture
+furry
+gender:ambiguous
+gender:male
+green body
+green scales
+green_body
+green_scales
+humor
+kitchen utensils
+kitchen_utensils
+male:1
+medium:patreon reward
+medium:simple background
+medium:white background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:url
+meta:white background
+napkin
+pasta
+plate
+pun
+rating:safe
+real person
+scales
+simple background
+simple_background
+site:patreon
+site:yiff.party
+smile
+solo
+species:reptile
+species:scalie
+species:turtle
+subreddit:imaginaryfood
+subreddit:immeta
+table
+tan body
+tan scales
+tan_body
+tan_scales
+text
+title:'torto-lini' by piper thibodeau
+title:daily paint #1203. torto-lini
+tools
+uploader:myrandall
+visual pun
+visual_pun
+white_background
+yiff id:457132

@@ -1,0 +1,58 @@
+2019
+ambiguous gender
+ambiguous_gender
+artist:kenket
+booru:e621
+creator:kenket
+day
+detailed background
+detailed_background
+digitigrade
+dogbomb
+feral
+fur
+gender:ambiguous
+lake
+landscape
+lens flare
+lens_flare
+light
+medium:detailed background
+medium:traditional media
+meta:2019
+meta:painting (artwork)
+meta:painting_(artwork)
+meta:traditional media (artwork)
+meta:traditional_media_(artwork)
+meta:url
+mountain
+nature
+outside
+painting (artwork)
+quadruped
+rating:safe
+river
+sky
+solo
+species:canid
+species:canine
+species:canis
+species:domestic dog
+species:domestic_dog
+species:mammal
+standing
+subreddit:imaginarywildlands
+subreddit:imlandscapes
+sun
+sunlight
+text
+title:if i ever leave this world alive
+title:if i ever leave this world alive by tess garman
+tongue
+tongue out
+tongue_out
+traditional media (artwork)
+uploader:myrandall
+url
+water
+year:2019

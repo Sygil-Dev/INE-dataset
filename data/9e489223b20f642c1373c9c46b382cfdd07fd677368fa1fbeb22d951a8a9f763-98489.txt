@@ -1,0 +1,50 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+avian
+bird
+board:/k/
+category:ine
+character:jack sparrow
+character:jack_sparrow
+cloud
+copyright:disney
+copyright:pirates_of_the_caribbean
+creator:cryptid-creations
+cryptid-creations
+feral
+gender:ambiguous
+humor
+melee weapon
+melee_weapon
+meme:humor
+net
+object in mouth
+object_in_mouth
+pirate
+pun
+rating:safe
+sea
+series:disney
+series:pirates of the caribbean
+sky
+solo
+sparrow
+species:avian
+species:bird
+species:oscine
+species:passerine
+species:sparrow
+studio:disney
+subreddit:imaginarypirates
+subreddit:imcharacters
+sword
+sword in mouth
+sword_in_mouth
+title:daily paint 1937# jack sparrow
+title:jack sparrow by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+water
+weapon

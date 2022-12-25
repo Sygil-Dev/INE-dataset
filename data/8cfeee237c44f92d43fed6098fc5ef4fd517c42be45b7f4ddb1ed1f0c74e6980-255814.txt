@@ -1,0 +1,26 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+creator:cryptid-creations
+duo
+feral
+food
+meta:url
+rating:safe
+simple background
+simple_background
+species:amphibian
+species:food creature
+species:food_creature
+species:frog
+species:toad (frog)
+species:toad_(frog)
+subreddit:imaginaryaww
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:burritoad by piper thibodeau
+uploader:myrandall
+white background
+white_background

@@ -1,0 +1,25 @@
+1 female
+1 male
+1boy
+1girl
+bouquet
+building
+category:ine
+city
+cityscape
+creator:kakotomirai
+flower
+from behind
+gender:female
+gender:male
+rating:mature
+rating:safe
+scenery
+series:original
+sitting
+subreddit:imaginarylovers
+subreddit:imcharacters
+surreal
+title:on a street corner
+title:on a street corner by kakotomirai
+uploader:forsureaturtle

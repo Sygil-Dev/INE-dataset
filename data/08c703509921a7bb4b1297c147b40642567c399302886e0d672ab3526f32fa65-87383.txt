@@ -1,0 +1,27 @@
+cannons
+category:ine
+clothing:armor
+culture
+firearm
+futuristic
+gender:female
+grass
+hangar
+hologram
+machine
+men
+moss
+people
+plants
+ruins
+subreddit:imaginaryfeels
+subreddit:imaginaryfuturism
+subreddit:immeta
+subreddit:imtechnology
+title:'phantom' by vladimir manyukhin
+title:phantom by vladimir manyukhin
+uploader:[deleted]
+uploader:bleeding_choker
+uploader:jaykirsch
+vladimir manyukhin
+weapon

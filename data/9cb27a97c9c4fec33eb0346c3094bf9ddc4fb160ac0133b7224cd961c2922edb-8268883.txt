@@ -1,0 +1,24 @@
+canyon
+category:ine
+creator:aaros
+creator:alradeck
+creator:firefeathers
+crow
+downpour
+forest
+glowy
+gryphon
+monster
+mushroom
+net
+rain
+source:furaffinity.net
+species:hybrid
+species:mythical
+subreddit:imaginaryweather
+subreddit:imnature
+tattoos
+title:downpour
+title:downpour by a.l. radeck
+uploader:myrandall
+water

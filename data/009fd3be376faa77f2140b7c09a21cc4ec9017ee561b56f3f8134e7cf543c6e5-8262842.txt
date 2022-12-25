@@ -1,0 +1,58 @@
+armor
+bar
+bent knees
+booru:sankaku
+booru:sankaku channel
+boots
+candle
+card (object)
+category:ine
+chair
+character:cirilla fiona elen riannon
+clothing:armor
+clothing:boots
+clothing:footwear
+clothing:gloves
+clothing:shoes
+creator:wlop
+crossed legs
+facial mark
+female
+fire
+footwear
+garrison cap
+gender:female
+gloves
+green eyes
+gwent
+holding
+holding object
+indoors
+inside
+leather boots
+leather clothes
+leather gloves
+leg up
+legs on table
+medium:high resolution
+raised leg
+rating:s
+rating:safe
+scar
+series:gwent
+series:the witcher
+series:the witcher 3: wild hunt
+series:the witcher (series)
+shoes
+sitting
+sitting on chair
+subreddit:imaginarywitcher
+subreddit:imcharacters
+subreddit:imfandoms
+table
+title:gwent
+title:gwent by wang ling
+title:gwent by wlop
+uploader:dievah
+uploader:lol33ta
+white hair

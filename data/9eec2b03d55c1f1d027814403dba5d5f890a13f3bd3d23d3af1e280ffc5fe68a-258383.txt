@@ -1,0 +1,36 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+character:parfait
+creator:cryptid-creations
+feral
+food
+meta:english text
+meta:english_text
+meta:url
+parfait (dessert)
+parfait_(dessert)
+rating:safe
+simple background
+simple_background
+species:cat
+species:domestic cat
+species:domestic_cat
+species:felid
+species:feline
+species:felis
+species:food creature
+species:food_creature
+species:mammal
+subreddit:imaginaryaww
+subreddit:imaginaryfood
+subreddit:imaginaryhybrids
+subreddit:immeta
+subreddit:immonsters
+text
+title:"purrfait" by piper thibodeau
+title:daily paint 2087. purrfait
+uploader:torvusil
+white background
+white_background

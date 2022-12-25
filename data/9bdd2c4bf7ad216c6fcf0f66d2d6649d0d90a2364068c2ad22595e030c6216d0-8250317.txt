@@ -1,0 +1,50 @@
+anthro
+anthropomorphism
+artist:ovopack
+black nose
+black_nose
+blue body
+blue fur
+blue_body
+blue_fur
+category:ine
+clothing
+creator:ovopack
+detailed background
+detailed_background
+fangs
+fur
+gender:male
+gloves
+group
+handwear
+male
+medium:detailed background
+melee weapon
+melee_weapon
+meta:2016
+meta:hi res
+meta:hi_res
+open mouth
+open_mouth
+outside
+plant
+rating:safe
+shield
+species:avian
+species:canid
+species:canine
+species:canis
+species:mammal
+species:wolf
+subreddit:imaginarywerewolves
+subreddit:immonsters
+sword
+title:battle of forest by ryota murayama
+tree
+uploader:lol33ta
+weapon
+white body
+white fur
+white_body
+white_fur

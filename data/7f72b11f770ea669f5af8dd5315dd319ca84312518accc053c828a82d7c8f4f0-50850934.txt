@@ -1,0 +1,18 @@
+axe
+category:ine
+champion
+creator:bram sels
+magic:the gathering
+medium:digital 2d
+mountains
+mtg
+slamming
+subreddit:imaginarywarriors
+subreddit:imaginaryweaponry
+subreddit:imcharacters
+title:expedition champion
+title:expedition champion by bram sels
+uploader:myrandall
+warrior
+weapon
+zendikar

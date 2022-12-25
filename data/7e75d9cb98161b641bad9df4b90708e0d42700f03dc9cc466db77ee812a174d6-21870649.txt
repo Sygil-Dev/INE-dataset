@@ -1,0 +1,83 @@
+1 female
+1 male
+1boy
+1girl
+against wall
+backpack
+bag
+black footwear
+black shirt
+blue jacket
+blue pants
+blue skirt
+blue sky
+booru:danbooru
+booru:danbooru-safebooru
+booru:gelbooru
+booru:safebooru
+bouquet
+brown hair
+brown scarf
+closed eyes
+clothing:black footwear
+clothing:black shirt
+clothing:blue skirt
+clothing:footwear
+clothing:jacket
+clothing:legwear
+clothing:pants
+clothing:pleated skirt
+clothing:scarf
+clothing:shirt
+clothing:shoes
+clothing:skirt
+clothing:socks
+cloud
+clouds
+cloudy sky
+creator:keishin
+day
+eyebrows
+eyebrows visible through hair
+eyes closed
+flower
+footwear
+gender:female
+gender:male
+grey jacket
+grey legwear
+hand in pocket
+highres
+holding
+jacket
+long hair
+long sleeves
+medium:high resolution
+meta:cropped
+meta:highres
+open clothes
+open jacket
+outdoors
+outside
+pants
+parted lips
+pleated skirt
+rating:mature
+rating:safe
+red scarf
+scarf
+series:original
+shirt
+shoes
+skirt
+sky
+smile
+snow
+snowing
+socks
+spread wings
+subreddit:imaginaryfeels
+subreddit:immeta
+title:reminiscing lost friends - untitled picture by @keisin
+uploader:uoso
+wings

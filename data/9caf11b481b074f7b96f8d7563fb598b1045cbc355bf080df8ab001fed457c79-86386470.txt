@@ -1,0 +1,23 @@
+architecture
+buildings
+city
+clouds
+concept art
+creator:patryk stefaniak
+design
+development
+environment
+fantasy
+high
+houses
+medieval
+medium:digital 2d
+sky
+subreddit:imaginarycastles
+subreddit:imarchitecture
+title:hightower city
+title:hightower city by patryk stefaniak
+tower
+uploader:lol33ta
+visdev
+visual

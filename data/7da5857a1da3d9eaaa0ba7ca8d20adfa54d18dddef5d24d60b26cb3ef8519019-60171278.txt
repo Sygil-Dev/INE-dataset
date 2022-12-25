@@ -1,0 +1,34 @@
+ambiguous gender
+anthro
+axe
+battle
+character:matthias (redwall)
+character:orlando the axe
+clothed
+clothing
+creator:sandara
+group
+male
+melee weapon
+open mouth
+polearm
+rating:safe
+series:redwall
+spear
+species:badger
+species:mammal
+species:mouse
+species:murid
+species:murine
+species:mustelid
+species:musteline
+species:rat
+species:rodent
+subreddit:imaginarywarriors
+subreddit:imcharacters
+sword
+teeth
+title:redwall - orlando and matthias by sandara tang
+tongue
+uploader:lol33ta
+weapon

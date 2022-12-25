@@ -1,0 +1,39 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+candy
+category:ine
+chocolate
+creator:cryptid-creations
+dessert
+feral
+food
+fruit
+meta:english text
+meta:english_text
+meta:url
+plant
+rating:safe
+simple background
+simple_background
+smile
+solo
+species:amphibian
+species:axolotl
+species:food creature
+species:food_creature
+species:living candy
+species:living_candy
+species:mole salamander
+species:mole_salamander
+species:salamander (amphibian)
+species:salamander_(amphibian)
+strawberry
+subreddit:imaginaryaww
+subreddit:immeta
+text
+title:a whole lotl' chococlate by piper thibodeau
+title:daily paint 2022# a whole lotl' chococlate
+uploader:myrandall
+white background
+white_background

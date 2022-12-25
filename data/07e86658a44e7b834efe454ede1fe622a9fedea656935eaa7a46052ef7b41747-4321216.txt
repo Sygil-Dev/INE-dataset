@@ -1,0 +1,33 @@
+ambiguous gender
+booru:e621
+category:ine
+character:kruphix
+creator:daarken
+detailed background
+gender:ambiguous
+landscape
+macro
+medium:detailed background
+meta:official art
+multi limb
+multiple limbs
+nature
+outside
+rating:safe
+series:gigantic
+series:hasbro
+series:magic the gathering
+series:magic: the gathering
+series:official art
+silhouette
+solo
+species:deity
+star
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginaryimmortals
+subreddit:imraces
+title:kruphix, god of horizons by mike lim
+uploader:faeryknight
+water
+waterfall

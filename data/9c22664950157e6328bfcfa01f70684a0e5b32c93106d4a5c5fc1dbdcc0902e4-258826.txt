@@ -1,0 +1,58 @@
+black eyes
+blue body
+blue scales
+bodypart:black eyes
+booru:e621
+category:ine
+clothing
+clothing:eyewear
+clothing:hat
+clothing:headwear
+clothing:tagme
+creator:cryptid-creations
+cup
+facial hair
+fangs
+feral
+furry
+gender:male
+half-closed eyes
+hat
+headgear
+headwear
+humor
+male
+male:1
+medium:1:1 aspect ratio
+medium:simple background
+medium:white background
+meme:humor
+meta:1:1
+meta:tagme
+meta:url
+meta:white background
+monocle
+mustache
+narrowed eyes
+pun
+rating:safe
+red body
+red scales
+scales
+simple background
+solo
+species:reptile
+species:scalie
+species:snake
+subreddit:imaginaryanimals
+subreddit:imnature
+tea cup
+text
+title:"sirpent" by piper thibodeau (cryptid-creations)
+title:daily paint 2039# sirpent
+top hat
+uploader:torvusil
+website:e621
+white background
+white body
+white scales

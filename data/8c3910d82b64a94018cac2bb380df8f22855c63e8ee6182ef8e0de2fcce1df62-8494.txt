@@ -1,0 +1,34 @@
+autumn
+bird
+booru:sankaku channel
+category:ine
+creator:wenqing yan
+creator:yuumei
+dove
+indoors
+leaf
+maple leaf
+maple tree
+medium:3:2 aspect ratio
+medium:high resolution
+medium:watermark
+medium:web address
+meta:commentary
+meta:commentary request
+meta:english commentary
+meta:highres
+meta:photoshop (medium)
+no humans
+rating:mature
+rating:safe
+series:original
+species:avian
+species:bird
+subreddit:imaginaryautumnscapes
+subreddit:imlandscapes
+title:with time
+title:with time by wenqing yan
+tree
+uploader:fireflycities
+watermark
+web address

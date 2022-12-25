@@ -1,0 +1,83 @@
+1 female
+1girl
+armor
+artist name
+assault rifle
+blush
+bodysuit
+bottomwear
+breastplate
+category:ine
+character:ghost
+character:sarah kerrigan
+character:terran
+character:terran ghost
+clothing:bodysuit
+clothing:bottomwear
+clothing:hair tie
+clothing:topwear
+creator:raikoart
+creator:sean "raiko" tay
+creator:sean tay
+crevice
+firearm
+gauntlets
+gender:female
+genre:science fiction
+ghost
+glowing
+green eyes
+gun
+headgear
+headphones
+high resolution
+holding
+holding object
+holding weapon
+kerrigan
+light smile
+lips
+long hair
+looking at viewer
+md5 mismatch
+medium:artist name
+medium:digital 2d
+medium:high resolution
+meta:artist name
+meta:highres
+meta:md5 mismatch
+moss
+plant
+point of view
+ponytail
+pov
+raikoart
+rating:mature
+rating:s
+rating:safe
+red hair
+rifle
+sarah kerrigan
+sarah_kerrigan
+scifi
+series:starcraft
+skin tight
+smile
+sniper
+solo
+starcraft
+studio:blizzard entertainment
+studio:ghost
+studio:plant
+subreddit:imaginaryassassins
+subreddit:imcharacters
+terran
+terran ghost
+terran_ghost
+tied hair
+title:i read ya'
+title:i read ya' by sean tay
+topwear
+uploader:myrandall
+wall
+weapon

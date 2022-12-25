@@ -1,0 +1,41 @@
+ambiguous gender
+ambiguous_gender
+artist:arvalis
+category:ine
+claws
+creator:arvalis
+day
+detailed background
+detailed_background
+feral
+furry
+gender:ambiguous
+grass
+medium:detailed background
+medium:digital media
+meta:2018
+meta:absurd res
+meta:absurd_res
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:hi res
+meta:hi_res
+open mouth
+open_mouth
+outside
+plant
+rating:safe
+sky
+solo
+species:crocodile
+species:crocodilian
+species:crocodylid
+species:reptile
+species:scalie
+subreddit:imaginaryanimals
+subreddit:imnature
+teeth
+title:saurian-thoracosaurus
+title:saurian-thoracosaurus by rj palmer
+uploader:net-diver
+year:2018

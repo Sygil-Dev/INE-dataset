@@ -1,0 +1,46 @@
+2015
+booru:e621
+breasts
+category:ine
+column
+creator:nathanandersonart
+feathered wings
+feathers
+female
+gender:female
+guro
+hair
+hi res
+high resolution
+medium:1:1 aspect ratio
+medium:high resolution
+medium:simple background
+meta:1:1
+meta:2015
+meta:hi res
+meta:nsfw
+monster
+navel
+nipples
+nude
+rating:explicit
+rating:mature
+rating:questionable
+series:european mythology
+series:greek mythology
+series:mythology
+simple background
+solo
+species:animal humanoid
+species:avian
+species:harpy
+species:humanoid
+species:mythological avian
+stomach
+subreddit:imaginarymythology
+subreddit:imcharacters
+tag source:e621
+title:h is for harpy by deimos-remus
+uploader:revolverocelotto
+wings
+year:2015

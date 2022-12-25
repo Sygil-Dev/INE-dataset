@@ -1,0 +1,122 @@
+5 fingers
+5 toes
+5_fingers
+5_toes
+8 legs
+8_legs
+ambiguous gender
+ambiguous_gender
+armor
+artist:sandara
+biped
+black bottomwear
+black clothing
+black hair
+black_bottomwear
+black_clothing
+black_hair
+bottomwear
+branch
+carrying
+category:ine
+clothing
+clothing:tagme
+creator:sandara
+dragon
+facial scar
+facial_scar
+feathered dragon
+feathered wings
+feathered_wings
+feathers
+feet
+feral
+fingers
+forked tongue
+forked_tongue
+furry
+gender:ambiguous
+gender:male
+green body
+green eyes
+green scales
+green_body
+green_eyes
+green_scales
+grey body
+grey hair
+grey scales
+grey_body
+grey_hair
+grey_scales
+hair
+horn
+horns
+looking at viewer
+looking_at_viewer
+male
+mammal
+medium:digital media
+medium:high resolution
+melee weapon
+melee_weapon
+meta:2020
+meta:digital_media_(artwork)
+meta:hi_res
+multicolored body
+multicolored scales
+multicolored_body
+multicolored_scales
+multiple legs
+multiple limbs
+no pupils
+no_pupils
+on shoulders
+on_shoulders
+open mouth
+open_mouth
+rating:safe
+red body
+red horn
+red scales
+red tongue
+red_body
+red_horn
+red_scales
+red_tongue
+rock
+scabbard
+scales
+scar
+species:dragon
+species:feathered dragon
+species:feathered_dragon
+species:human
+species:mammal
+species:mythical
+species:primate
+species:scalie
+standing
+striped
+striped body
+striped scales
+striped_body
+striped_scales
+stripes
+subreddit:imaginarydragons
+subreddit:imaginarypets
+subreddit:immeta
+subreddit:immonsters
+sword
+title:carnivorous eupithecia by sandara tang
+toes
+tongue
+tongue out
+tongue_out
+uploader:lol33ta
+uploader:myrandall
+weapon
+wings
+year:2020
+yellow eyes
+yellow_eyes

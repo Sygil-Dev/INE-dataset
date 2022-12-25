@@ -1,0 +1,22 @@
+1920
+art
+bearwojtek
+category:ine
+concept art
+creator:jakub rozalski
+digitalpainting
+enviroment
+illustration
+landscape
+medium:concept art
+medium:digital 2d
+painting
+storytelling
+subreddit:imaginarysoldiers
+subreddit:imaginarywinterscapes
+subreddit:imcharacters
+subreddit:imlandscapes
+title:1920 - first snow
+title:1920 - first snow by jakub rozalski
+uploader:valar_m0rghul1s
+winter

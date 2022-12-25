@@ -1,0 +1,88 @@
+::3
+^ ^
+^_^
+action:closing eyes
+action:open mouth
+action:smile
+ambiguous_gender
+artist:cryptid-creations
+blue sky
+buckteeth
+bunny
+category:ine
+cinnamon bun
+cinnamon roll
+cinnamon_bun
+closed eyes
+cloud
+creator:cryptid creations
+creator:cryptid-creations
+creator:piperdraws
+day
+duo
+ears
+eeth
+eyes closed
+face::3
+face::d
+face:^_^
+face:^o^
+field
+filename:dp1240_s
+food
+full body
+gender:ambiguous
+grass
+hopping
+humor
+jumping
+long ears
+long_ears
+male:0
+medium:patreon reward
+medium:simple background
+medium:watermark
+medium:web address
+medium:white background
+meme:humor
+meta:commentary
+meta:paid reward
+meta:patreon reward
+meta:white background
+motion lines
+no humans
+open mouth
+open_mouth
+outdoors
+outside
+plant
+pun
+rating:mature
+rating:safe
+running
+series:original
+simple background
+simple_background
+site:patreon
+site:yiff.party
+sky
+smile
+species:food creature
+species:food_creature
+species:lagomorph
+species:leporid
+species:mammal
+species:rabbit
+subreddit:imaginaryfood
+subreddit:immeta
+sweets
+teeth
+title:cinnamon bunnies by piper thibodeau
+title:daily paint #1240. cinnamon bunnies
+uploader:myrandall
+visual pun
+visual_pun
+watermark
+web address
+whiskers
+white_background

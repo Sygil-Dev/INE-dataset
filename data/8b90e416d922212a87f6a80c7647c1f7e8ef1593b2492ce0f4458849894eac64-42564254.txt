@@ -1,0 +1,81 @@
+ambiguous_gender
+artist:sandara
+blonde hair
+blonde_hair
+branch
+category:ine
+closed eyes
+clothing
+creator:sandara
+digitigrade
+dress
+duo
+eyes_closed
+female
+feral
+furry
+gender:ambiguous
+gender:female
+green body
+green clothing
+green dress
+green wings
+green_body
+green_clothing
+green_dress
+green_wings
+hair
+hand on head
+hand_on_head
+insect wings
+insect_wings
+leaf
+long hair
+long tail
+long_hair
+long_tail
+looking at another
+looking_at_another
+medium:simple background
+medium:white background
+meta:hi_res
+meta:shaded
+meta:tagme
+rating:safe
+rock
+shaded
+simple_background
+species:arthropod
+species:dragon
+species:human
+species:mammal
+species:mythical
+species:primate
+species:scalie
+species:wyvern
+spread wings
+spread_wings
+standing
+subreddit:imaginarybestof
+subreddit:imaginarydragons
+subreddit:imaginarypets
+subreddit:immeta
+subreddit:immonsters
+tail
+tan body
+tan_body
+tan_skin
+tanned
+title:[/r/imaginarypets] luna moth dragon by sandara tang
+title:luna moth dragon by sandara tang
+translucent
+translucent wings
+translucent_wings
+uploader:lol33ta
+uploader:myrandall
+white_background
+wings
+yellow clothing
+yellow dress
+yellow_clothing
+yellow_dress

@@ -1,0 +1,25 @@
+booru:safebooru
+category:ine
+creator:fuchsia
+creator:m_shia
+gardevoir
+green hair
+orange eyes
+pca
+pokemon
+pokemon (creature)
+pokemorph
+series:pokémon
+smile
+solo
+source:furaffinity.net
+species:gardevoir
+species:monster
+species:pokemon
+species:pokémon
+studio:nintendo
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:gardevoir
+title:gardevoir (しあ / m_shia)
+uploader:audrian

@@ -1,0 +1,58 @@
+ambiguous gender
+ambiguous_gender
+art
+artist:k-dromka
+black bars
+black_bars
+blue eyes
+blue_eyes
+category:ine
+character
+commission
+creator:k-dromka
+creator:ryanneilen
+detailed background
+detailed_background
+dragon
+feathered wings
+feathered_wings
+feathers
+feral
+furry
+gender:ambiguous
+horn
+horns
+light
+medium:absurd resolution
+medium:detailed background
+medium:digital media
+medium:high resolution
+meta:2020
+meta:absurd res
+meta:absurd_res
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:hi res
+meta:hi_res
+night
+orange body
+orange feathers
+orange_body
+orange_feathers
+portrait
+rating:safe
+scales
+solo
+species:dragon
+species:feathered dragon
+species:feathered_dragon
+species:mythical
+species:scalie
+stars
+subreddit:imaginarydragons
+subreddit:immonsters
+title:"dragon portrait #3" by k-dromka
+title:dragon portrait #3
+uploader:torvusil
+wings
+year:2020

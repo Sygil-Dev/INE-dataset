@@ -1,0 +1,18 @@
+art
+bears
+clothing:armor
+drawing
+dwarf
+medium:concept art
+men
+painting
+subreddit:imaginarybattlefields
+subreddit:imaginarydwarves
+subreddit:imaginarymiddleearth
+sword
+the hobbit
+title:the battle of five armies by justin gerard
+uploader:[deleted]
+uploader:killerbunnyfamily
+war
+weapon

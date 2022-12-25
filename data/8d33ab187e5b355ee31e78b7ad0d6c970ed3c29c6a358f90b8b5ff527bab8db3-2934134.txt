@@ -1,0 +1,88 @@
+booru:e621
+category:ine
+character:arbiter
+character:arbiter (halo)
+character:isaac clarke
+character:marcus fenix
+character:master chief
+character:spartan
+character:thel 'vadam
+character:twilight sparkle
+character:twilight sparkle (mlp)
+corpse
+corpse pile
+creator:mixermike622
+crossover
+death
+energy sword
+female
+feral
+firearm
+friends
+friendship
+fur
+gender:female
+gender:male
+genre:fantasy
+group
+gun
+hair
+horn
+horns
+male
+medium:5:4 aspect ratio
+melee weapon
+meta:5:4
+meta:alpha channel
+meta:crossover
+multicolored hair
+plasma cutter
+purple body
+purple fur
+purple hair
+ranged weapon
+rating:safe
+series:dead space
+series:epic games
+series:friendship is magic
+series:gears of war
+series:halo
+series:halo (series)
+series:hasbro
+series:microsoft
+series:my little pony
+series:my little pony friendship is magic
+series:xbox game studios
+simple background
+spartan
+species:alien
+species:equid
+species:equine
+species:flesh creature
+species:horse
+species:human
+species:humanoid
+species:mammal
+species:monster
+species:monstrous humanoid
+species:mythical
+species:necromorph (dead space)
+species:pony
+species:primate
+species:slasher (dead space)
+species:undead
+species:unicorn
+species:zombie
+studio:hasbro
+studio:microsoft
+subreddit:imaginaryhalo
+subreddit:imfandoms
+sword
+tag source:e621
+title:halo , gears of war , dead space , and mlp friendship is magic by mixermike622
+transparent background
+two tone hair
+uploader:[deleted]
+uploader:bleeding_choker
+video games
+weapon

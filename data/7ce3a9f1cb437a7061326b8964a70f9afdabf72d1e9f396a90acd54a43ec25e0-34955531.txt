@@ -1,0 +1,33 @@
+booru:sankaku channel
+category:ine
+character:fae
+character:mist
+creator:steven stahlberg
+fairy
+fantasy
+female
+foothold trap
+forest
+gender:female
+gender:male
+genre:fantasy
+injury
+magic
+male
+medium:realistic
+mist
+nature
+outdoors
+outside
+rating:questionable
+size difference
+species:fairy
+species:mythical
+studio:baroque
+subreddit:imaginaryfaeries
+subreddit:imraces
+title:trapper by steven stahlberg watchsend
+trap
+trapper
+tree
+uploader:revolverocelotto

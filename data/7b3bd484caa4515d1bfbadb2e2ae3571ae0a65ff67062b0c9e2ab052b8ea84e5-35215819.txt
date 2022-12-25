@@ -1,0 +1,67 @@
+age difference
+age_difference
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+brown bear
+brown body
+brown fur
+brown_body
+brown_fur
+category:ine
+closed eyes
+creator:cryptid-creations
+duo
+eyes closed
+eyes_closed
+feral
+fur
+gender:ambiguous
+grass
+hand holding
+hand_holding
+humor
+language:english
+medium:english text
+medium:simple background
+medium:text
+medium:white background
+meta:english text
+meta:english_text
+meta:url
+open mouth
+open_mouth
+plant
+puddle
+pun
+rating:safe
+simple background
+simple_background
+size difference
+size_difference
+species:brown bear
+species:brown_bear
+species:mammal
+species:ursid
+species:ursine
+subreddit:imaginaryweather
+subreddit:imnature
+tan body
+tan fur
+tan_body
+tan_fur
+text
+title:umbearella by cryptid-creations
+umbrella
+uploader:lol33ta
+ursid
+ursine
+visual pun
+visual_pun
+water
+white background
+white_background

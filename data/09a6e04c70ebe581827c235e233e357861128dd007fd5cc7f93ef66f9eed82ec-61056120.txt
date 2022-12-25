@@ -1,0 +1,24 @@
+character:nala
+character:simba
+creator:akeahi
+duo
+eyebrows
+eyelashes
+female
+feral
+meta:2021
+meta:digital media (artwork)
+open mouth
+rating:safe
+series:disney
+series:the lion king
+species:felid
+species:lion
+species:mammal
+species:pantherine
+subreddit:imaginarydisney
+subreddit:imfandoms
+teeth
+title:no by akeahi
+tongue
+uploader:myrandall

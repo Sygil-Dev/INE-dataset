@@ -1,0 +1,71 @@
+action:closing eyes
+ambiguous_gender
+artist:cryptid-creations
+bagel
+blep
+bread
+brown body
+brown fur
+brown_body
+brown_fur
+category:ine
+claws
+closed eyes
+creator:cryptid-creations
+creator:piperdraws
+eyes closed
+eyes_closed
+feral
+filename:dp1131_s
+food
+fur
+gender:ambiguous
+gender:male
+humor
+male:1
+medium:patreon reward
+medium:simple background
+medium:white background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:url
+meta:white background
+pun
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+sleeping
+solo
+species:beagle
+species:canid
+species:canine
+species:canis
+species:domestic dog
+species:domestic_dog
+species:food creature
+species:food_creature
+species:hunting dog
+species:hunting_dog
+species:mammal
+species:scent hound
+species:scent_hound
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:'bagele' by piper thibodeau
+title:daily paint #1131. bagele
+tongue
+tongue out
+tongue_out
+uploader:myrandall
+visual pun
+visual_pun
+website:reddit
+white body
+white fur
+white_background
+white_body
+white_fur

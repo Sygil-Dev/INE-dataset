@@ -1,0 +1,26 @@
+atlas
+c4d
+category:ine
+cinema 4d
+creator:calder moore
+fire
+foliage
+forest
+landscape
+medium:digital 3d
+megascans
+moody
+oak
+octane
+octane scatter
+photogrammetry
+photoscanned
+plants
+rdtextures
+smoke
+speedtree
+subreddit:imaginarywildlands
+subreddit:imlandscapes
+title:smokey lake
+title:smokey lake, calder moore
+uploader:refriedspinach

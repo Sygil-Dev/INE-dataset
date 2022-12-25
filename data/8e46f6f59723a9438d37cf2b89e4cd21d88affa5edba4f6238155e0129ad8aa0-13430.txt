@@ -1,0 +1,25 @@
+building
+category:ine
+charactersketches
+colorsketches
+colorthumbnail
+creator:chris karbach
+exterior
+fantasy
+forest
+interior
+interiordesign
+medium:digital 2d
+nature
+subreddit:imaginaryarchitecture
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+title:rootbeard's house
+title:rootbeard's house - exterior by chris karbach.
+title:rootbeard's house by chris karbach
+treehouse
+uploader:dcalidus
+uploader:ethan_kahn
+uploader:mstyle-
+whimsical
+wizard

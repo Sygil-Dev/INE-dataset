@@ -1,0 +1,30 @@
+anime
+art
+category:ine
+character
+comic
+concept art
+creator:alex chow
+design
+dog
+drawing
+epic
+fantasy
+game
+girl
+illustration
+ink
+manga
+medium:digital 2d
+overwatch
+portrait
+sketch
+species:canine
+species:mammal
+studio:blizzard entertainment
+subreddit:imaginarywerewolves
+subreddit:immonsters
+title:wolf of wall street (original)
+title:wolf of wall street (original) by alex chow
+uploader:o_no_my_buttholes
+wolf

@@ -1,0 +1,65 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+bowl
+category:ine
+creator:cryptid-creations
+feral
+fish
+food bowl
+food dish
+food_dish
+fur
+gender:ambiguous
+gender:male
+green body
+green fur
+green scales
+green_body
+green_fur
+green_scales
+grumpy
+humor
+hybrid
+male:1
+marine
+medium:simple background
+medium:white background
+meme:humor
+meta:white background
+pet bowl
+piranha
+pun
+rating:safe
+scales
+simple background
+simple_background
+solo
+species:cat
+species:domestic cat
+species:domestic_cat
+species:felid
+species:feline
+species:felis
+species:fish
+species:hybrid
+species:mammal
+species:marine
+species:piranha
+species:piranha (fish)
+species:piranha_(fish)
+species:red-bellied piranha
+species:red-bellied_piranha
+species:serrasalmid
+subreddit:imaginaryhybrids
+subreddit:immonsters
+teeth
+title:purrranha by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+water
+white_background

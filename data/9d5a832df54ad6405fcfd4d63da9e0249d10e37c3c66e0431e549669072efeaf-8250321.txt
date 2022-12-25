@@ -1,0 +1,23 @@
+1 female
+armor
+artist:akizhao
+barbarian
+bone
+brown hair
+category:ine
+club
+copyright:original
+creator:akizhao
+gender:female
+genre:fantasy
+headwear
+helmet
+rating:safe
+series:original
+solo
+subreddit:imaginarynatives
+subreddit:imcharacters
+title:barbarian
+title:barbarian by akizhao
+uploader:lordjimbob01
+weapon

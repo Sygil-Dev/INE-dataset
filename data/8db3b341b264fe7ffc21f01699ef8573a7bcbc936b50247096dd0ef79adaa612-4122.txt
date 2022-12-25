@@ -1,0 +1,35 @@
+2016
+anthropomorphism
+black belt
+black eyes
+board:/k/
+bodypart:black eyes
+category:ine
+clothing:belt
+creator:cryptid-creations
+gender:ambiguous
+group
+humor
+katana
+medium:simple background
+melee weapon
+meme:humor
+meta:white background
+ninja
+nunchaku
+nunchucks
+pun
+rating:safe
+simple background
+species:arthropod
+species:bee
+species:hymenopteran
+species:insect
+subreddit:imaginaryninjas
+subreddit:imcharacters
+sword
+title:day 1398. shinobee
+title:shinobee by piper thibodeau
+uploader:myrandall
+visual pun
+weapon

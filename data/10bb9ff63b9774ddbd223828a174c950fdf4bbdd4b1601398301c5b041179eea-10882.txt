@@ -1,0 +1,24 @@
+category:ine
+character
+concept
+creator:lars sowig
+creature
+genre:science fiction
+lol
+medium:3d rendering
+medium:digital 2d
+medium:digital media
+poseidon
+sculpt
+sculpting
+series:league of legends
+sowig
+sowigvis
+species:jellyfish
+subreddit:imaginaryaliens
+subreddit:imaginaryimmortals
+subreddit:imraces
+title:poseidon
+title:poseidon by lars sowig
+uploader:lol33ta
+zbrush

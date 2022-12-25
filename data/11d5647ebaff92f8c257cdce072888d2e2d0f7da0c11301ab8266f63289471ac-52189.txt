@@ -1,0 +1,30 @@
+3dcoat
+3ds max
+animation
+art
+category:ine
+concept
+creator:kurt stadther
+fi
+fiction
+firing
+gun
+hand
+handgun
+marmoset
+medium:digital 3d
+painter
+photoshop
+pistol
+sci
+sci-fi
+science
+subreddit:imaginaryweaponry
+subreddit:imtechnology
+substance
+title:animated handgun concept
+title:pistol concept
+toolbag
+uploader:wabiisabii
+weapon
+zbrush
