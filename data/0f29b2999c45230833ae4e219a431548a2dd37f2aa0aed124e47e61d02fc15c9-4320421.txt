@@ -1,0 +1,60 @@
+architecture
+armor
+art
+art nouveau
+atmospheric perspective
+beak
+booru:e621
+category:ine
+city
+cityscape
+clothing:armor
+creator:algenpfleger
+creator:johannes voss
+cupola
+duo
+feathered wings
+feathers
+feral
+holding object
+holding weapon
+knight
+looking away
+melee weapon
+meta:official art
+monster
+on top
+on top of
+polearm
+rating:safe
+riding
+saddle
+series:hasbro
+series:magic the gathering
+series:magic: the gathering
+series:mythology
+series:official art
+series:wizards of the coast
+spear
+species:avian
+species:gryphon
+species:human
+species:hybrid
+species:mammal
+species:mythical
+species:mythological avian
+species:primate
+spread wings
+standing
+straddling
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginaryknights
+subreddit:imcharacters
+title:lyev skyknight by johannes voss
+title:mtg: lyev skyknight
+uploader:[deleted]
+uploader:faeryknight
+warrior
+weapon
+wings

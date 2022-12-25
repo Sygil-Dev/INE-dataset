@@ -1,0 +1,27 @@
+booru:sankaku
+booru:sankaku channel
+category:ine
+character:aeolian
+creator:wlop
+female
+gender:female
+ghostblade
+medium:16:9 aspect ratio
+medium:high resolution
+meta:tagme
+page:5
+pixiv work:73755434
+rating:s
+rating:safe
+series:ghostblade
+series:original
+site:pixiv
+solo
+subreddit:imaginaryfashion
+subreddit:immeta
+title:cage3
+title:cage3 by wang ling
+title:水光之城
+uploader:dievah
+ここに行きたい
+空間の旅人

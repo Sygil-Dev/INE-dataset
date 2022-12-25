@@ -1,0 +1,35 @@
+antlers
+booru:e621
+category:ine
+creator:lars grant-west
+duo
+eating
+feathers
+feral
+furry
+horn
+horns
+landscape
+medium:text
+meta:official art
+meta:url
+rating:safe
+series:hasbro
+series:magic: the gathering
+series:official art
+sharp teeth
+size difference
+smoke
+species:dragon
+species:feathered dragon
+species:mythical
+species:scalie
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarybeasts
+subreddit:immonsters
+teeth
+text
+title:hunt the weak by lars grant-west
+uploader:tellanas
+url
