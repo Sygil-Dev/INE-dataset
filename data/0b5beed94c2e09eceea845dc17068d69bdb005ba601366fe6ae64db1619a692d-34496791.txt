@@ -1,0 +1,46 @@
+2019
+ambiguous gender
+ambiguous_gender
+artist:sandara
+category:ine
+creator:sandara
+detailed background
+detailed_background
+feral
+fire
+flaming wings
+flaming_wings
+gender:ambiguous
+medium:1:1 aspect ratio
+medium:detailed background
+medium:digital media
+membrane (anatomy)
+membrane_(anatomy)
+membranous wings
+membranous wingsfire
+membranous_wings
+meta:1:1
+meta:2019
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:english text
+meta:english_text
+open mouth
+open_mouth
+outside
+rating:safe
+solo
+species:dragon
+species:elemental creature
+species:elemental dragon
+species:elemental_creature
+species:elemental_dragon
+species:fire creature
+species:fire_creature
+subreddit:imaginarydragons
+subreddit:immonsters
+text
+title:stonesmelt dragon
+title:stonesmelt dragon by sandara
+uploader:lol33ta
+wings

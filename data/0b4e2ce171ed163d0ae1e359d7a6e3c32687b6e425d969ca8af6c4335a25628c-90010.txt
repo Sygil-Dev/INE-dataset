@@ -1,0 +1,38 @@
+artstation
+booru:sankaku channel
+braid
+category:ine
+clothing:armor
+clothing:hair tie
+creator:astri lohne
+creator:astri-lohne
+gender:female
+horns
+medium:16:9 aspect ratio
+medium:1920x1080 wallpaper
+medium:digital 2d
+medium:high resolution
+medium:wallpaper
+polearm
+rating:safe
+series:warcraft
+series:world of warcraft
+solo
+species:draenei
+species:lightforged draenei
+studio:blizzard entertainment
+subreddit:imaginaryazeroth
+subreddit:imaginarywarriors
+subreddit:imaginarywitches
+subreddit:imcharacters
+subreddit:imfandoms
+title:"jinaara" by astri lohne
+title:jinaara
+title:jinaara by astri lohne
+unnaturally white skin
+uploader:myrandall
+uploader:net-diver
+uploader:pyro_azer
+weapon
+weapon:spear
+white hair
