@@ -1,0 +1,22 @@
+artwork
+callofcthulhu
+category:ine
+climatechange
+creator:bram sels
+cthulhu
+cthulhu mythos
+horror
+lord
+lovecraft
+medium:digital 2d
+monster
+ocean
+ship
+subreddit:imaginaryhorrors
+subreddit:imaginaryleviathans
+subreddit:immonsters
+title:cthulhu rises
+title:cthulhu rises by bram sels
+uploader:ethereeal
+vehicle
+watercraft

@@ -1,0 +1,48 @@
+ambiguous gender
+ambiguous_gender
+artist:tamberella
+black body
+black fur
+black_body
+black_fur
+bone
+caninewhite background
+category:ine
+claws
+creator:tamberella
+cuddling
+duo
+feral
+fungus
+fur
+gender:ambiguous
+medium:simple background
+meta:2019
+meta:monochrome
+mushroom
+pawpads
+paws
+pool:18473
+rating:safe
+simple background
+simple_background
+skull
+species:canid
+species:canine
+species:cougar
+species:felid
+species:feline
+species:mammal
+subreddit:imaginarybeasts
+subreddit:immonsters
+teeth
+title:the crossing by devin elle kurtz
+toe claws
+toe_claws
+uploader:myrandall
+whiskers
+white background
+white eyes
+white_background
+white_eyes
+year:2019
