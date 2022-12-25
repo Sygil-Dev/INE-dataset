@@ -1,0 +1,23 @@
+c4d
+category:ine
+cinema 4d
+cliffs
+creator:calder moore
+foliage
+forest
+landscape
+medium:digital 3d
+miniature
+mountain
+octane
+octane scatter
+photogrammetry
+photoscanned
+rdtextures
+rock
+subreddit:imaginarywildlands
+subreddit:imlandscapes
+tiltshift
+title:miniature cave
+title:miniature cave, calder moore
+uploader:refriedspinach

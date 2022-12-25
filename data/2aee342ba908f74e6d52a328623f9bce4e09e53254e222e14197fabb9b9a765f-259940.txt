@@ -1,0 +1,79 @@
+3 heads
+2014
+action:open mouth
+beverage
+black body
+black eyes
+black fur
+bodily fluids
+bodypart:black eyes
+bodypart:derp eyes
+bone
+bottomless
+bowl
+category:ine
+clothed
+clothing
+clothing:bow tie
+clothing:hat
+clothing:headwear
+creator:cryptid-creations
+cup
+derp eyes
+drooling
+feral
+food bowl
+fur
+gender:ambiguous
+hat
+headgear
+headwear
+humor
+medium:simple background
+medium:white background
+meme:humor
+meta:2014
+meta:english text
+meta:url
+meta:white background
+monster
+multi head
+multiple heads
+open mouth
+pet bowl
+pun
+rating:safe
+saliva
+series:european mythology
+series:greek mythology
+series:mythology
+simple background
+species:canid
+species:canine
+species:canis
+species:cerberus
+species:doberman
+species:dobermann
+species:dog
+species:domestic dog
+species:mammal
+species:monster
+species:mythical
+species:pinscher
+subreddit:imaginaryaww
+subreddit:immeta
+tan body
+tan fur
+tea
+tea cup
+teeth
+text
+title:daily paint 2014# sirberus
+title:sirberus by piper thibodeau
+tongue
+tongue out
+top hat
+uploader:myrandall
+website:e621
+white background
+year:2014

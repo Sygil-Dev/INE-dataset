@@ -1,0 +1,57 @@
+25:16
+action:open mouth
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+category:ine
+claws
+creator:cryptid-creations
+drupe (fruit)
+drupe_(fruit)
+feral
+food
+fruit
+furry
+gender:ambiguous
+gender:male
+humor
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:english text
+meta:english_text
+meta:url
+meta:white background
+nut
+nut (fruit)
+nut_(fruit)
+open mouth
+open_mouth
+plant
+pun
+rating:safe
+simple background
+simple_background
+solo
+species:food creature
+species:food_creature
+species:reptile
+species:scalie
+species:turtle
+strawberry
+subreddit:imaginaryanimals
+subreddit:imaginaryfood
+subreddit:immeta
+subreddit:imnature
+text
+title:"daily paint 1914# nutshell" by piper thibodeau (cryptid-creations)
+title:daily paint 1914# nutshell
+uploader:torvusil
+visual pun
+visual_pun
+walnut
+website:reddit
+white_background

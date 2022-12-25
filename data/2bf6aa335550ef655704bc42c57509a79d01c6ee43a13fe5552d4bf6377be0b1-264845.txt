@@ -1,0 +1,43 @@
+ambiguous gender
+androgynous
+anthro
+armor
+battle
+booru:e621
+category:ine
+cleric
+clothing:armor
+creator:sandara
+domestic cat
+fantasy
+felid
+feline
+felis
+gender:ambiguous
+genre:fantasy
+group
+magic
+magic user
+mammal
+melee weapon
+monster
+outdoors
+outside
+polearm
+rating:questionable
+rating:safe
+species:cat
+species:domestic cat
+species:felid
+species:feline
+species:felis
+species:mammal
+species:monster
+staff
+subreddit:imaginarygatherings
+subreddit:imcharacters
+sword
+title:a party of cats
+title:a party of cats by sandara
+uploader:eunra
+weapon
