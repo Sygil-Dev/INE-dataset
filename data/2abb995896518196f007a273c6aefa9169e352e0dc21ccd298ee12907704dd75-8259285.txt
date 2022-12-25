@@ -1,0 +1,62 @@
+booru:e621
+category:ine
+character:applejack
+character:applejack (mlp)
+character:fausticorn
+character:fluttershy
+character:fluttershy (mlp)
+character:lauren faust
+character:lauren faust (character)
+character:pinkie pie
+character:pinkie pie (mlp)
+character:rainbow dash
+character:rainbow dash (mlp)
+character:rarity
+character:rarity (mlp)
+character:twilight sparkle
+character:twilight sparkle (mlp)
+closed eyes
+creator:viwrastupr
+eyes closed
+feathers
+female
+feral
+gender:female
+genre:fantasy
+group
+hooves
+horn
+horns
+light
+lying
+medium:absurd resolution
+medium:high resolution
+meta:absurd res
+meta:hi res
+rating:safe
+series:friendship is magic
+series:hasbro
+series:my little pony
+series:my little pony friendship is magic
+series:my little pony: friendship is magic
+sky
+smile
+species:equid
+species:equine
+species:mammal
+species:mythical
+species:pegasus
+species:pterippus
+species:unicorn
+species:winged unicorn
+star
+starry sky
+stars
+studio:hasbro
+subreddit:imaginaryequestria
+subreddit:imaginarystatues
+subreddit:imfandoms
+sunlight
+title:main six statuettes full by 'viwrastupr'
+uploader:myrandall
+wings

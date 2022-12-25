@@ -1,0 +1,44 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+brown body
+brown fur
+buckteeth
+capybara
+category:ine
+caviid
+creator:cryptid-creations
+cup
+dairy products
+dirt
+eyes closed
+feral
+food
+food creature
+fur
+leaf
+mammal
+meta:2019
+meta:url
+plant
+rating:safe
+rodent
+simple background
+simple_background
+solo
+species:capybara
+species:caviid
+species:food creature
+species:food_creature
+species:mammal
+species:rodent
+subreddit:imaginaryfood
+subreddit:immeta
+teeth
+text
+title:icecappybara by piper thibodeau
+uploader:myrandall
+whipped cream
+whiskers
+white background
+white_background

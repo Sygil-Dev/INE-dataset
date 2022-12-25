@@ -1,0 +1,26 @@
+art
+concept art
+creator:jakub rozalski
+dark
+dark fantasy
+digital painting
+medium:concept art
+medium:digital 2d
+monster
+painting
+procreate
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:werewolf
+species:wolf
+storytelling
+subreddit:imaginarybeasts
+subreddit:immonsters
+title:wounded wolf
+title:wounded wolf [by jakub rozalski]
+uploader:skooma-boi
+werewolf
+werewolves
+winter

@@ -1,0 +1,32 @@
+art
+booru:e621
+category:ine
+creator:jack wang
+fangs
+fire
+gender:male
+horn
+horns
+male
+melee weapon
+meta:official art
+not furry
+polearm
+rating:safe
+series:hasbro
+series:magic: the gathering
+series:official art
+series:wizards of the coast
+smoke
+solo
+species:demon
+species:horned humanoid
+species:humanoid
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarydemons
+subreddit:immonsters
+title:sin prodder by jack wang
+trident
+uploader:malign-god
+weapon
