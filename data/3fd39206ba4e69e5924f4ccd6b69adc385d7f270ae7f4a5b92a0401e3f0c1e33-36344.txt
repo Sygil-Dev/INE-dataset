@@ -1,0 +1,22 @@
+action scene
+capture
+category:ine
+characterdesign
+chase
+concept art
+creator:heriberto martinez
+illustration
+lizard
+mecha
+medium:digital 2d
+monster
+reptiles
+robot
+robots
+scene
+subreddit:imaginaryrobotics
+subreddit:imtechnology
+terror
+title:"reclaimator" by heriberto martinez
+title:reclaimator
+uploader:xensoldier

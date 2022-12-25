@@ -1,0 +1,21 @@
+artwork
+car
+category:ine
+creator:raphael lacoste
+genre:science fiction
+ground vehicle
+medium:digital 3d
+medium:digital media
+motor vehicle
+road
+snow
+species:robot
+subreddit:imaginaryfuturewar
+subreddit:imaginaryfuturism
+subreddit:imaginarymechs
+subreddit:imtechnology
+title:bug invasion
+title:bug invasion by raphael lacoste
+uploader:dievah
+uploader:lol33ta
+vehicle

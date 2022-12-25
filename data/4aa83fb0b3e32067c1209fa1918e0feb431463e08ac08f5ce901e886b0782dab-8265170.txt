@@ -1,0 +1,35 @@
+artwork
+brown hair
+building
+category:ine
+city
+clothing:hair tie
+clothing:legwear
+clothing:short shorts
+clothing:shorts
+cowboys
+cyborg
+drawing
+environment
+futuristic
+gender:female
+genre:cyberpunk
+genre:science fiction
+illustration
+medium:digital media
+ponytail
+running
+sheriff
+shorts
+species:equine
+species:horse
+species:mammal
+stomach
+street
+subreddit:imaginarycyberpunk
+subreddit:imtechnology
+tied hair
+title:cyberpunk deputy chase by rashed alakroka.
+uploader:turbologic
+urban
+white tops
