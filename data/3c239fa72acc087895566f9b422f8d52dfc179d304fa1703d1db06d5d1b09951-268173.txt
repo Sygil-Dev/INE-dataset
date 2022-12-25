@@ -1,0 +1,26 @@
+border
+category:ine
+city
+creator:joakim ericsson
+divide
+dystopian
+fence
+future
+genre:science fiction
+kid
+medium:digital 2d
+police
+refugee
+shanty
+slum
+smog
+state
+subreddit:imaginarycyberpunk
+subreddit:imaginarywalls
+subreddit:imarchitecture
+subreddit:imtechnology
+title:the divide
+title:the divide by joakim ericsson
+trench
+uploader:adverserius
+uploader:crowe410

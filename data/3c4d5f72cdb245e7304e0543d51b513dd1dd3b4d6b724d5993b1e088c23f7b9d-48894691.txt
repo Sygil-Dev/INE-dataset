@@ -1,0 +1,243 @@
+2020
+action pose
+action_pose
+antlers
+armor
+arrow
+artist:x-celebril-x
+avian
+beak
+biped
+bird
+black body
+black claws
+black feathers
+black hair
+black stripes
+black_body
+black_claws
+black_feathers
+black_hair
+black_stripes
+blind
+blindfold
+blonde hair
+blonde_hair
+blue body
+blue eyes
+blue feathers
+blue hair
+blue_body
+blue_eyes
+blue_feathers
+blue_hair
+bow (weapon)
+bow_(weapon)
+braid
+braided hair
+braided_hair
+character:alleria windrunner
+character:alleria_windrunner
+character:illidan stormrage
+character:illidan_stormrage
+character:kael'thas sunstrider
+character:kael'thas_sunstrider
+character:maiev shadowsong
+character:maiev_shadowsong
+character:malfurion stormrage
+character:malfurion_stormrage
+character:sylvanas windrunner
+character:sylvanas windrunner, the banshee queen
+character:sylvanas_windrunner
+character:tyrande whisperwind
+character:tyrande_whisperwind
+character:valeera sanguinar
+character:valeera_sanguinar
+character:vereesa windrunner
+character:vereesa_windrunner
+claws
+cloven hooves
+cloven_hooves
+copyright:blizzard_entertainment
+copyright:european_mythology
+copyright:greek_mythology
+copyright:mythology
+copyright:warcraft
+creator:ranged weapon
+creator:x-celebril-x
+demon hunter
+digital media (artwork)
+ears
+electricity
+electricity manipulation
+electricity_manipulation
+elemental manipulation
+elemental_manipulation
+elf
+european mythology
+fangs
+feathered wings
+feathered_wings
+feathers
+felid
+female
+feral
+fighting pose
+fighting_pose
+fire
+flaming feathers
+flaming_feathers
+flying
+fur
+gender:female
+gender:male
+glowing
+glowing eyes
+glowing markings
+glowing weapon
+glowing_eyes
+glowing_markings
+glowing_weapon
+grass
+green eyes
+green hair
+green_eyes
+green_hair
+group
+hair
+hi res
+holding arrow
+holding bow
+holding object
+holding weapon
+holding_arrow
+holding_bow
+holding_object
+holding_weapon
+hooves
+horn
+horns
+humanoid
+humanoid pointy ears
+humanoid_pointy_ears
+kael'thas sunstrider
+lantern
+lightning
+magic
+magic user
+magic_user
+male
+mammal
+markings
+medium:digital media
+medium:high resolution
+medium:video game
+melee weapon
+melee_weapon
+membrane (anatomy)
+membrane_(anatomy)
+membranous wings
+membranous_wings
+meta:2020
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:hi res
+meta:hi_res
+moss
+mythological avian
+mythological firebird
+mythology
+night
+night elf
+no pupils
+no_pupils
+notched wings
+notched_wings
+open mouth
+open_mouth
+orange beak
+orange body
+orange feathers
+orange_beak
+orange_body
+orange_feathers
+outside
+owl
+pantherine
+phoenix
+pink nose
+pink_nose
+plant
+pointy ears
+pose
+quadruped
+ranged weapon
+ranged_weapon
+rating:safe
+series:blizzard entertainment
+series:european mythology
+series:greek mythology
+series:mythology
+series:warcraft
+series:world of warcraft
+species:avian
+species:bird
+species:demon
+species:elf
+species:felid
+species:feline
+species:humanoid
+species:mammal
+species:mythological avian
+species:mythological firebird
+species:mythological_avian
+species:mythological_firebird
+species:night elf
+species:night_elf
+species:owl
+species:pantherine
+species:phoenix
+species:spirit
+species:tiger
+spirit
+standing
+striped
+striped body
+striped feathers
+striped fur
+striped_body
+striped_feathers
+striped_fur
+stripes
+studio:blizzard entertainment
+subreddit:imaginaryazeroth
+subreddit:imaginaryelves
+subreddit:imfandoms
+subreddit:imraces
+teeth
+tiger
+title:wow characters commission by x-celebril-x
+toe claws
+toe_claws
+translucent
+translucent body
+translucent feathers
+translucent_body
+translucent_feathers
+uploader:myrandall
+video games
+video_games
+weapon
+white body
+white feathers
+white fur
+white hair
+white_body
+white_feathers
+white_fur
+white_hair
+wing claws
+wing_claws
+wings
+x-celebril-x
+year:2020
