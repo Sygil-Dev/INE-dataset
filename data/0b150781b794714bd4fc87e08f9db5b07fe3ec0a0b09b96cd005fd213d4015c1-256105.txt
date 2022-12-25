@@ -1,0 +1,23 @@
+afol
+capital ship
+category:ine
+creator:darryl temple
+ground vehicle
+jet
+ldd
+lego
+medium:digital 3d
+minifig
+moc
+motor vehicle
+pirate
+sky
+space ship
+subreddit:imaginaryaviation
+subreddit:imtechnology
+title:lego sky pirate - pa mig 17
+title:lego sky pirate - pa mig 17 by darryl temple
+truck
+uploader:o_no_my_buttholes
+vehicle
+weapon

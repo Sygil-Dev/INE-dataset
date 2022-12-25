@@ -1,0 +1,54 @@
+action:open mouth
+anthropomorphism
+black eyes
+bodypart:black eyes
+brown body
+brown fur
+category:ine
+clothed
+clothing
+clothing:necktie
+cloud
+creator:cryptid-creations
+feral
+fur
+gender:ambiguous
+gender:male
+humor
+male:1
+meme:humor
+meta:english text
+meta:url
+news
+news report
+open mouth
+pun
+raining
+rating:safe
+solo
+species:canid
+species:canine
+species:canis
+species:cat
+species:dog
+species:domestic cat
+species:domestic dog
+species:felid
+species:feline
+species:felis
+species:mammal
+subreddit:imaginaryaww
+subreddit:immeta
+suit
+sun
+tan body
+tan fur
+teeth
+text
+title:4-day furcast by piper thibodeau
+title:daily paint 2013# 4-day furcast
+uploader:myrandall
+visual pun
+weather forecast
+weather report
+website:e621
