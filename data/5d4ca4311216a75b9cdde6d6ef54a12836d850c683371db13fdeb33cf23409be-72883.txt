@@ -1,0 +1,52 @@
+ambiguous gender
+ambiguous_gender
+art
+artist:willian_murai
+booru:e621
+category:ine
+character:speed
+clothing
+clothing:hat
+clothing:headwear
+clothing:tagme
+copyright:hasbro
+copyright:magic:_the_gathering
+copyright:official_art
+creator:willian murai
+feral
+foreshortening
+gender:ambiguous
+hat
+headgear
+headwear
+looking back
+looking_back
+mardu
+meta:official art
+monster
+rating:safe
+rear view
+rear_view
+riding
+series:hasbro
+series:magic the gathering
+series:magic: the gathering
+series:official art
+shiny
+smile
+smirk
+solo
+species:equid
+species:equine
+species:goblin
+species:horse
+species:humanoid
+species:mammal
+speed
+straddling
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarygoblins
+subreddit:imraces
+title:jeering instigator by will murai
+uploader:lol33ta

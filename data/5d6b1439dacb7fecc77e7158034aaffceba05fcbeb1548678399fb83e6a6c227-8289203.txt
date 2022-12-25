@@ -1,0 +1,28 @@
+armor
+banner
+category:ine
+cloud
+cloudy sky
+creator:rado javor
+creator:radojavor
+historical
+lighthouse
+medium:high resolution
+meta:highres
+ocean
+polearm
+rating:safe
+roman empire
+sail
+shield
+ship
+sky
+spear
+subreddit:imaginaryhistory
+subreddit:immeta
+title:alexandria
+title:alexandria by radojavor
+uploader:34dylan7
+vehicle
+watercraft
+weapon

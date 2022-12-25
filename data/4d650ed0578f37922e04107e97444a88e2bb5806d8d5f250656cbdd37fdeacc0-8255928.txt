@@ -1,0 +1,42 @@
+armor
+booru:danbooru
+booru:danbooru-safebooru
+booru:gelbooru
+booru:safebooru
+booru:sankaku
+booru:sankaku channel
+category:ine
+character:crescent rose
+character:ruby rose
+clothing:armor
+commentary
+creator:dishwasher1910
+crescent rose
+english commentary
+full body
+highres
+mecha
+mechanical
+medium:3:2 aspect ratio
+medium:high resolution
+meta:commentary
+meta:english commentary
+meta:highres
+no humans
+oldschool
+rating:general
+rating:s
+rating:safe
+red armor
+retro artstyle
+robot
+scythe
+series:original
+series:rwby
+species:robot
+standing
+subreddit:imaginarymechs
+subreddit:imtechnology
+title:crescent rose : v.16.0
+title:crescent rose : v.16.0 by bach do
+uploader:godnaruto21

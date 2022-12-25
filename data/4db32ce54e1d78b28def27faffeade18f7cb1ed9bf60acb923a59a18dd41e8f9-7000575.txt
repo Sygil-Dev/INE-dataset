@@ -1,0 +1,27 @@
+3 males
+alien
+backpack
+bag
+category:ine
+creator:david demaret
+creator:moonchild
+gate
+gender:male
+light
+mountain
+multiple boys
+multiple males
+rating:safe
+realistic
+scenery
+scientist
+series:at the mountains of madness
+series:cthulhu mythos
+shadow
+snow
+species:alien
+subreddit:imaginaryruins
+subreddit:imarchitecture
+temple
+title:at the mountains of madness 2 by david demaret
+uploader:tamander

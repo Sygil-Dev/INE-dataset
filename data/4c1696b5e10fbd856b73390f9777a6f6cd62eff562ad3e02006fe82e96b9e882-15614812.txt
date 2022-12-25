@@ -1,0 +1,31 @@
+andree wallin
+building
+cable
+car
+category:ine
+creator:andree wallin
+damaged
+dirty
+genre:science fiction
+ground vehicle
+junkyard
+mecha
+meta:photo background
+motor vehicle
+no humans
+photo background
+rating:mature
+rating:safe
+rating:sensitive
+realistic
+robot
+science fiction
+series:original
+shoulder lamp
+species:robot
+subreddit:imaginaryrobotics
+subreddit:imtechnology
+title:the farmbot by andree wallin
+uploader:lol33ta
+vehicle
+wreckage

@@ -1,0 +1,120 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+bird dog
+blue eyes
+blue_eyes
+breath
+canid
+canine
+canis
+category:ine
+child
+clothed
+clothing
+clothing:footwear
+clothing:shirt
+clothing:socks
+clothing:topwear
+creator:cryptid-creations
+dipstick ears
+dipstick_ears
+domestic dog
+duo
+english text
+eyes closed
+eyes_closed
+fish
+footwear
+freckles
+gender:ambiguous
+golden retriever
+goldfish
+hair
+human
+humor
+hunting dog
+hybrid
+kid
+language:english
+leg markings
+leg_markings
+mammal
+marine
+markings
+medium:english text
+medium:simple background
+medium:text
+meta:2018
+meta:english text
+meta:english_text
+meta:url
+multicolored ears
+multicolored_ears
+open mouth
+open smile
+open_mouth
+open_smile
+orange body
+orange scales
+orange_body
+orange_scales
+panting
+pun
+rating:safe
+red hair
+red_hair
+retriever
+sandals
+scales
+shirt
+short hair
+short_hair
+simple background
+simple_background
+smile
+socks (marking)
+socks_(marking)
+species:bird dog
+species:bird_dog
+species:canid
+species:canine
+species:canis
+species:cyprinid
+species:cypriniform
+species:dog
+species:domestic dog
+species:domestic_dog
+species:fish
+species:golden retriever
+species:golden_retriever
+species:goldfish
+species:human
+species:hunting dog
+species:hunting_dog
+species:hybrid
+species:mammal
+species:marine
+species:primate
+species:retriever
+subreddit:imaginaryaww
+subreddit:imaginaryhybrids
+subreddit:immeta
+subreddit:immonsters
+teeth
+text
+title:daily paint 1977# goldfish retriever
+title:goldfish retriever by piper thibodeau
+tongue
+tongue out
+tongue_out
+topwear
+uploader:myrandall
+url
+visual pun
+visual_pun
+white body
+white scales
+white_body
+white_scales
+young

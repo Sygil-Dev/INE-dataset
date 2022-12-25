@@ -1,0 +1,19 @@
+category:ine
+comic
+creator:jon gerung
+medium:digital 2d
+monster
+motion book
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:wolf
+steampunk
+subreddit:imaginarywerewolves
+subreddit:immonsters
+title:wolfshead attack
+title:wolfshead attack, jon gerung from "mercy is just my name"
+uploader:nikephoros_ii_phokas
+werewolf
+western

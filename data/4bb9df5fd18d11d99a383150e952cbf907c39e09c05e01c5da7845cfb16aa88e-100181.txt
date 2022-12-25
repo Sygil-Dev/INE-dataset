@@ -1,0 +1,21 @@
+category:ine
+character
+city
+concept
+creator:joakim ericsson
+environment
+genre:fantasy
+genre:science fiction
+gritty
+hel
+illustration
+medevial
+medium:digital 2d
+ship
+subreddit:imaginarypirates
+subreddit:imcharacters
+title:lost treasure-lost pirate by joakim ericsson
+title:various images
+uploader:thegypsyslayer
+vehicle
+watercraft

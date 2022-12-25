@@ -1,0 +1,28 @@
+bust
+category:ine
+concept
+creator:lars sowig
+crytek
+gas
+hard
+headwear
+helmet
+machine
+mask
+mech
+medium:3d rendering
+medium:digital 3d
+medium:digital media
+rendering
+series:metal gear
+sowig
+species:robot
+subreddit:imaginaryrobotics
+subreddit:imtechnology
+suit
+surface
+tech
+title:swamp devil
+title:swamp devil by lars sowig
+uploader:natezomby
+zbrush

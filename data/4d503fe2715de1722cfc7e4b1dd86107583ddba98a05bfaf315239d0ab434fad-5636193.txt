@@ -1,0 +1,45 @@
+21:19
+2016
+action:open mouth
+amphibian
+bacon
+beady eyes
+black eyes
+bodypart:black eyes
+butter
+category:ine
+creator:cryptid-creations
+dairy products
+duo
+feral
+food
+food creature
+frog
+gender:ambiguous
+humor
+meat
+medium:simple background
+medium:white background
+meme:humor
+meta:2016
+meta:english text
+meta:white background
+open mouth
+plant
+plate
+potato
+pun
+rating:safe
+simple background
+species:amphibian
+species:food creature
+species:frog
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:baked potatoad by piper thibodeau
+title:day 1420. baked potatoad
+uploader:myrandall
+vegetable
+visual pun
+year:2016

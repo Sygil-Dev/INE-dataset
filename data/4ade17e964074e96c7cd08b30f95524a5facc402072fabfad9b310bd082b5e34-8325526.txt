@@ -1,0 +1,31 @@
+1 female
+black hair
+category:ine
+creator:aquasixio
+creator:cyril rolando
+flower
+gender:female
+gradient
+instrument
+long hair
+medium:gradient background
+medium:simple background
+mlp
+musical instrument
+plant
+rating:safe
+rose
+series:my little pony
+series:original
+silk
+solo
+spider web
+studio:hasbro
+subreddit:imaginarymusic
+subreddit:immeta
+title:fiddleback
+title:fiddleback by cyril rolando
+tree
+uploader:lol33ta
+violin
+website:reddit

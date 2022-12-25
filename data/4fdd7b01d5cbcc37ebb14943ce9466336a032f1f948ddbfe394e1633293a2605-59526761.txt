@@ -1,0 +1,20 @@
+creator:sandara
+day
+detailed background
+forest
+grass
+moss
+outside
+plant
+rating:safe
+species:animal humanoid
+species:humanoid
+species:mammal
+standing
+subreddit:imaginarydwellings
+subreddit:imaginarytemples
+subreddit:imarchitecture
+title:fox shrine by sandara tang
+tree
+uploader:lol33ta
+uploader:myrandall

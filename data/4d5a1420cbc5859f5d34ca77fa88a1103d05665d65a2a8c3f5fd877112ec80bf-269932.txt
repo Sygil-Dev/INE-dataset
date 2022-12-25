@@ -1,0 +1,37 @@
+antlers
+bone
+booru:e621
+category:ine
+character:skeleton
+creator:yakovlev-vad
+detailed background
+flower
+forest
+fungus
+glowing
+glowing eyes
+horn
+horns
+medium:detailed background
+medium:high resolution
+meta:2016
+meta:hi res
+mushroom
+nature
+outside
+plant
+rating:safe
+skeleton
+solo
+species:cervid
+species:cervine
+species:deer
+species:mammal
+subreddit:imaginaryspirits
+subreddit:immonsters
+title:landscape 18
+title:landscape 18 by yakovlev vadim
+tree
+uploader:myrandall
+website:reddit
+year:2016

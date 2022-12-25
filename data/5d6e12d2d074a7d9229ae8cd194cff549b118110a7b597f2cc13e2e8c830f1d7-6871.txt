@@ -1,0 +1,57 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+board:/v/
+booru:e621
+brown eyes
+brown_eyes
+category:ine
+copyright:nintendo
+copyright:paprika
+copyright:pokémon
+creator:cryptid-creations
+feral
+gen 1 pokemon
+gen 2 pokemon
+gender:ambiguous
+group
+humor
+medium:simple background
+medium:white background
+meme:humor
+plant
+pun
+rating:safe
+series:nintendo
+series:paprika
+series:pokémon
+simple background
+simple_background
+site:4chan.org
+species:baby_pokémon
+species:elemental creature
+species:elemental_creature
+species:flora fauna
+species:flora_fauna
+species:hybrid
+species:monster
+species:pichu
+species:pikachu
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+studio:nintendo
+subreddit:imaginaryaww
+subreddit:imaginarykanto
+subreddit:imfandoms
+subreddit:immeta
+title:paprikachu by piper thibodeau
+uploader:myrandall
+video games
+video_games
+visual pun
+visual_pun
+website:chan style imageboards
+website:e621
+white background
+white_background

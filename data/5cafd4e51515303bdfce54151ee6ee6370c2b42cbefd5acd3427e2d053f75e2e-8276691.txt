@@ -1,0 +1,78 @@
+action:open mouth
+action:smile
+ambiguous_gender
+anthro
+anthropomorphism
+apron
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+blueberry (fruit)
+blueberry_(fruit)
+bodypart:black eyes
+brown body
+brown fur
+brown_body
+brown_fur
+butter
+category:ine
+clothed
+clothing
+clothing:apron
+cookware
+creator:cryptid-creations
+dairy products
+dairy_products
+fangs
+food
+fruit
+frying pan
+frying_pan
+fur
+gender:ambiguous
+gender:male
+humor
+kitchen utensils
+kitchen_utensils
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:url
+meta:white background
+open mouth
+open_mouth
+pan
+pancake
+plant
+pun
+raspberry
+rating:safe
+simple background
+simple_background
+smile
+solo
+spatula
+species:canid
+species:canine
+species:canis
+species:golden jackal
+species:golden_jackal
+species:jackal
+species:mammal
+subreddit:imaginaryfood
+subreddit:immeta
+tan body
+tan fur
+tan_body
+tan_fur
+text
+title:daily paint 1544. flapjackal
+title:flapjackal by piper thibodeau
+tools
+uploader:myrandall
+visual pun
+visual_pun
+white_background

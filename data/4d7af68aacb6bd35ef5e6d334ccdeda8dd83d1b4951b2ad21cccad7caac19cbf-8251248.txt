@@ -1,0 +1,27 @@
+booru:e621
+category:ine
+clothed
+clothing
+creator:88grzes
+detailed background
+duo
+feral
+medium:detailed background
+medium:digital media
+meta:digital media (artwork)
+open mouth
+partially submerged
+rating:safe
+species:human
+species:leviathan
+species:mammal
+species:primate
+standing
+subreddit:imaginaryswamps
+subreddit:imnature
+teeth
+title:swamp ambush by grzegorz rutkowski
+title:swamp ambush_2
+tongue
+uploader:scoreleven
+water

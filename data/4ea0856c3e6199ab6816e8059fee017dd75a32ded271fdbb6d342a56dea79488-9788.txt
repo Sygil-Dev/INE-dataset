@@ -1,0 +1,23 @@
+arabic
+category:ine
+cinematic shot
+creator:jose borges
+digital2d
+digital illustration
+fantasy art
+guild wars
+keyframe
+medium:digital 2d
+palace
+series:guild wars
+subreddit:imaginaryarchitecture
+subreddit:imaginarycastles
+subreddit:imaginarycityscapes
+subreddit:imarchitecture
+subreddit:imlandscapes
+title:tamuk palace
+title:tamuk palace by jose borges
+uploader:imwaaal
+uploader:wise_planeswalker
+valley
+website:reddit

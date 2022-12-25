@@ -1,0 +1,64 @@
+acorn
+ambiguous gender
+art
+biggest
+black body
+black fur
+booru:e621
+category:ine
+creator:alradeck
+creator:firefeathers
+day
+detailed background
+digital media (artwork)
+feral
+food
+fruit
+fur
+garden
+gathering
+gender:ambiguous
+half
+in
+magic
+medium:detailed background
+medium:digital media
+meta:2017
+meta:digital media (artwork)
+meta:english text
+meta:official art
+mtg
+nut
+nut (fruit)
+outside
+plant
+rating:safe
+series:hasbro
+series:magic: the gathering
+series:official art
+series:wizards of the coast
+set
+sky
+solo
+source:furaffinity.net
+species:mammal
+species:rodent
+species:sciurid
+species:squirrel
+species:tree squirrel
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginaryanimals
+subreddit:imnature
+tallest
+text
+the
+title:magic the gathering: unstable - half squirrel
+title:magic the gathering: unstable - half squirrel by andrea radeck
+title:mtg unstable: half squirrel- half
+tree
+unstable
+uploader:myrandall
+whiskers
+worlds
+year:2017

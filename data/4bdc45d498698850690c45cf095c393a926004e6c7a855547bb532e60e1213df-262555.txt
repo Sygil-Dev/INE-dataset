@@ -1,0 +1,50 @@
+ambiguous gender
+booru:e621
+category:ine
+cloud
+clouds
+comic
+creator:alectorfencer
+day
+detailed background
+dragon
+dragons
+duo
+fantasy
+feral
+filename:1500140473.alectorfencer_runningwithspirits
+furry
+gender:ambiguous
+genre:fantasy
+graphicnovel
+journey
+medium:detailed background
+medium:high resolution
+meta:hi res
+myre
+outside
+rating:general
+rating:safe
+riding
+sky
+source:furaffinity.net
+species:canid
+species:canine
+species:dragon
+species:fox
+species:mammal
+species:mythical
+species:scalie
+species:unspecified / any
+subreddit:imaginaryskyscapes
+subreddit:imaginaryspirits
+subreddit:imlandscapes
+subreddit:immonsters
+title:running with spirits
+title:running with spirits by alector fencer
+title:running with spirits by claudya schmidt
+traveling
+traveller
+uploader:fireflycities
+uploader:myrandall
+website:reddit

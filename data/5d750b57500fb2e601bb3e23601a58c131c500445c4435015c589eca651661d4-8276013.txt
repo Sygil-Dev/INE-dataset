@@ -1,0 +1,46 @@
+accessory
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+category:ine
+cookware
+creator:cryptid-creations
+feral
+food
+frying pan
+frying_pan
+headband
+humor
+kitchen utensils
+kitchen_utensils
+mat
+meta:2017
+pan
+pun
+rating:safe
+simple background
+simple_background
+smile
+solo
+species:cephalopod
+species:coleoid
+species:marine
+species:mollusc
+species:mollusk
+species:octopodiform
+species:octopus
+subreddit:imaginaryfood
+subreddit:immeta
+takoyaki
+title:daily painting 1704# takoyaki
+title:takoyaki by piper thibodeau
+tools
+uploader:myrandall
+visual pun
+visual_pun
+white background
+white_background

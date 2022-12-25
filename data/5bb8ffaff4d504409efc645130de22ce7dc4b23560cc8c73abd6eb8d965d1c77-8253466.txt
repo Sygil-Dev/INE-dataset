@@ -1,0 +1,69 @@
+angry
+armor
+bodypart:green eyes
+bodypart:hair
+bodypart:horns
+bodypart:scar
+bodypart:teeth
+booru:e621
+broken horn
+category:ine
+character:fizzlepop berrytwist
+character:spark
+character:tempest shadow
+character:tempest shadow (mlp)
+clothing
+clothing:armor
+creator:assasinmonkey
+emotion:anger
+female
+feral
+gender:female
+gender:male
+genre:fantasy
+glare
+green eyes
+grimace
+hair
+horn
+horns
+insignia
+lightning
+magenta hair
+magic
+male:1
+medium:abstract background
+medium:digital media
+medium:high resolution
+meta:2018
+meta:digital media (artwork)
+meta:hi res
+meta:tagme
+purple body
+rating:safe
+scar
+series:friendship is magic
+series:mlp:generation 4
+series:mlp:the movie
+series:my little pony
+series:my little pony friendship is magic
+series:my little pony the movie
+series:my little pony: friendship is magic
+series:my little pony: the movie (2017)
+solo
+spark
+species:equid
+species:equine
+species:mammal
+species:mythical
+species:pony
+species:unicorn
+studio:hasbro
+subreddit:imaginaryequestria
+subreddit:imfandoms
+teeth
+title:fizzlepop shadow
+title:fizzlepop shadow by myron c. p.
+uploader:myrandall
+website:e621
+year:2018

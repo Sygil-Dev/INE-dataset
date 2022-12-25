@@ -1,0 +1,23 @@
+aircraft
+aircraft carrier
+artwork
+category:ine
+fantasy art
+furry
+futuristic
+military watercraft
+ship
+species:dragon
+species:mythical
+species:scalie
+subreddit:imaginaryaviation
+subreddit:imaginarydragons
+subreddit:immonsters
+subreddit:imtechnology
+title:dragon by kotakan
+title:dragon by kou takano
+uploader:e-leventy
+uploader:myrandall
+vehicle
+warship
+watercraft
