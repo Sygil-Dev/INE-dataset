@@ -1,0 +1,62 @@
+ambiguous gender
+ambiguous_gender
+art
+artist:tsaoshin
+category:ine
+chibi
+copyright:nintendo
+copyright:pokémon
+creator:tsaoshin
+cute
+digital
+ericproctor
+fan
+feral
+flower (anatomy)
+flower_(anatomy)
+furry
+gen 1 pokemon
+gen 1 pokémon
+gender:ambiguous
+grass
+medium:1:1 aspect ratio
+medium:digital media
+meta:1:1
+meta:2016
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+nintendo
+open mouth
+open_mouth
+painting
+photoshop
+plant
+poison
+pokemon
+pool:15535
+rating:safe
+series:nintendo
+series:pokémon
+solo
+species:elemental creature
+species:elemental_creature
+species:flora fauna
+species:flora_fauna
+species:monster
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+species:scalie
+species:venusaur
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imfandoms
+teeth
+title:003 - venusaur
+title:"venusaur" by eric proctor
+tsaoshin
+uploader:torvusil
+venusaur
+video games
+video_games
+year:2016

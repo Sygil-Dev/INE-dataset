@@ -1,0 +1,28 @@
+5 fingers
+5 toes
+5_fingers
+5_toes
+ambiguous gender
+ambiguous_gender
+artist:sandara
+creator:sandara
+female
+feral
+fingers
+group
+meta:2020
+meta:digital_media_(artwork)
+meta:hi_res
+rating:safe
+species:canid
+species:canine
+species:canis
+species:human
+species:mammal
+species:primate
+species:wolf
+subreddit:imaginaryspirits
+subreddit:immonsters
+title:wolfwalkers fan art by sandara tang
+toes
+uploader:myrandall

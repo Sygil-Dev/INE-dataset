@@ -1,0 +1,24 @@
+art
+building
+castle
+creator:raphael lacoste
+film
+genre:science fiction
+illustration
+matte painting
+medium:concept art
+medium:digital 2d
+movie
+palace
+raphael lacoste
+series:jupiter ascending
+sf
+subreddit:imaginaryinteriors
+sunset
+title:jupiter ascending , inside the palace
+title:jupiter ascending - inside the palace by raphael lacoste
+title:jupiter ascending, inside the palace by raphael lacoste
+uploader:barson2408
+uploader:panzer-kunst
+wa
+wachowski

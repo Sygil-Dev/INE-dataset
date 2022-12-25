@@ -1,0 +1,76 @@
+1 female
+1girl
+blue bodysuit
+blurry
+blurry foreground
+bodysuit
+booru:danbooru
+booru:danbooru-safebooru
+booru:safebooru
+booru:yande.re
+bottomwear
+brown hair
+bunny pillow
+character:d.va
+character:d.va (overwatch)
+character:hana "d.va" song
+closed eyes
+clothing
+clothing:bodysuit
+clothing:bottomwear
+clothing:gloves
+clothing:topwear
+clothing:white gloves
+commentary
+creator:rui li
+depth of field
+derivative work
+english commentary
+eyes closed
+facial mark
+firearm
+gender:female
+genre:science fiction
+gloves
+gun
+handgun
+headphones
+highres
+long hair
+markings
+medium:blurry foreground
+medium:depth of field
+medium:derivative work
+medium:high resolution
+medium:image
+medium:no audio
+medium:photo-referenced
+medium:photorealistic
+medium:video
+meta:commentary
+meta:derivative work
+meta:english commentary
+meta:highres
+meta:photo-referenced
+photo-referenced
+photorealistic
+pillow
+pilot suit
+pistol
+rating:questionable
+rating:safe
+series:overwatch
+shoulder pads
+sleeping
+solo
+studio:blizzard entertainment
+subreddit:imaginaryoverwatch
+tagme
+title:d.va 2 hours practice
+title:d.va 2 hours practice by rui li.
+topwear
+uploader:turbologic
+weapon
+whisker markings
+white gloves
+wrench

@@ -1,0 +1,44 @@
+1 male
+2 females
+animal
+bird
+brown hair
+building
+cape
+category:ine
+chandelier
+checkered
+checkered floor
+clothing:dress
+clothing:footwear
+crack
+creator:shigatsuya
+dress
+field
+floor
+footwear
+gears
+gender:female
+gender:male
+heels
+high heels
+house
+medium:high resolution
+meta:highres
+multiple females
+multiple girls
+rating:safe
+series:original
+shoes
+short hair
+species:avian
+subreddit:imaginaryfeels
+subreddit:immeta
+suspenders
+tied hair
+title:country of memories by 四月屋
+tree
+twintails
+uploader:[deleted]
+website:reddit
+weeds

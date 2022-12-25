@@ -1,0 +1,60 @@
+2016
+action:open mouth
+action:smile
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+bowl
+category:ine
+cinnamon (spice)
+cinnamon stick
+cinnamon_(spice)
+cinnamon_stick
+creator:cryptid-creations
+dairy products
+dairy_products
+fangs
+feral
+food
+gender:ambiguous
+gender:male
+humor
+male:1
+medium:simple background
+meme:humor
+meta:2016
+meta:english text
+meta:english_text
+meta:white background
+open mouth
+open_mouth
+pun
+rating:safe
+simple background
+simple_background
+smile
+solo
+species:canid
+species:canine
+species:canis
+species:domestic dog
+species:domestic_dog
+species:hunting dog
+species:hunting_dog
+species:mammal
+species:sighthound
+species:whippet
+sprinkles
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:day 1402. whippet cream
+title:whippet cream by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+whipped cream
+whipped_cream
+white_background

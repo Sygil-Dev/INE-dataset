@@ -1,0 +1,56 @@
+ambiguous gender
+ambiguous_gender
+apple
+artist:cryptid-creations
+basket
+category:ine
+creator:cryptid-creations
+dessert
+feral
+food
+fruit
+furry
+gender:ambiguous
+gender:male
+grass
+humor
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:english text
+meta:english_text
+meta:url
+pie
+plant
+pun
+rating:safe
+simple background
+simple_background
+solo
+species:elemental creature
+species:elemental_creature
+species:flora fauna
+species:flora_fauna
+species:food creature
+species:food_creature
+species:living fruit
+species:living_fruit
+species:reptile
+species:scalie
+species:snapping turtle
+species:snapping_turtle
+species:turtle
+subreddit:imaginaryanimals
+subreddit:imaginaryaww
+subreddit:imaginaryfood
+subreddit:immeta
+subreddit:imnature
+text
+title:"snapple turtle" by piper thibodeau (cryptid-creations)
+title:daily paint 1978# snapple turtle
+uploader:torvusil
+visual pun
+visual_pun
+white background
+white_background

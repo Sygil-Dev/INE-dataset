@@ -1,0 +1,38 @@
+ambiguous gender
+ambiguous_gender
+artist:nyjee
+booru:e621
+category:ine
+copyright:fakémon
+copyright:nintendo
+copyright:pokémon
+creator:nyjee
+eeveelution
+fakémon
+feral
+gender:ambiguous
+nyjee
+pokémon
+rating:safe
+series:fakemon
+series:fakémon
+series:nintendo
+series:pokemon
+series:pokémon
+shiny pokémon
+solo
+species:eeveelution
+species:monster
+species:pokémon
+species:shiny pokemon
+species:shiny pokémon
+species:shiny_pokémon
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:"bug, dragon, and flying eeveelutions" by nyjee eiddiw
+title:bug,dragon,flying eevee
+uploader:torvusil
+video games
+video_games

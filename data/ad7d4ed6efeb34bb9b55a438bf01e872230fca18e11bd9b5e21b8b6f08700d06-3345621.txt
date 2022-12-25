@@ -1,0 +1,67 @@
+2015
+armor
+booru:e621
+category:ine
+changeling
+character:king sombra
+character:king sombra (mlp)
+character:nightmare moon
+character:nightmare moon (mlp)
+character:queen chrysalis
+character:queen chrysalis (mlp)
+character:starlight glimmer
+character:starlight glimmer (mlp)
+character:twilight sparkle
+character:twilight sparkle (mlp)
+clothing:armor
+creator:assasinmonkey
+equine
+fangs
+feathered wings
+feathers
+female
+fight
+flying
+gender:female
+gender:male
+genre:fantasy
+group
+headgear
+headwear
+helmet
+hi res
+horn
+horns
+male
+mammal
+medium:high resolution
+meta:2015
+meta:hi res
+pupils
+rating:safe
+series:friendship is magic
+series:hasbro
+series:my little pony
+series:my little pony friendship is magic
+series:my little pony: friendship is magic
+slit pupils
+species:arthropod
+species:changeling
+species:equid
+species:equine
+species:mammal
+species:mythical
+species:non-human animal
+species:unicorn
+species:winged unicorn
+studio:hasbro
+subreddit:imaginaryequestria
+subreddit:imfandoms
+tag source:e621
+title:times of strife
+title:times of strife by myron c. p.(assasinmonkey)
+unicorn
+uploader:pandas795
+winged unicorn
+wings
+year:2015

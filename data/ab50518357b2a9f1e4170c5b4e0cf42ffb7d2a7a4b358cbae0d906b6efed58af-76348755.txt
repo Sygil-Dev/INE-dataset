@@ -1,0 +1,20 @@
+2dart
+2dartist
+antihero
+comicbook
+creator:aleksa stajsic
+creature
+darkcomics
+demon
+digital2d
+hellboy
+illustration
+illustrator
+medium:digital 2d
+subreddit:imaginaryimmortals
+subreddit:imraces
+superhero
+title:hellboy fanart
+title:hellboy fanart, aleksa stajsic
+uploader:al3ks4
+warrior

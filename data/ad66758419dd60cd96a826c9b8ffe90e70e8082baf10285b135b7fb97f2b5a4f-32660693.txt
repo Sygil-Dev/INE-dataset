@@ -1,0 +1,55 @@
+2019
+ambiguous gender
+ambiguous_gender
+artist:sandara
+blonde hair
+blonde_hair
+canid
+canine
+canis
+category:ine
+character:invalid color
+clothed
+clothing
+creator:sandara
+digital media (artwork)
+female
+feral
+gender:ambiguous
+gender:female
+gender:male
+hair
+holding object
+holding weapon
+holding_object
+holding_weapon
+human
+male
+mammal
+medium:digital media
+meta:2019
+meta:digital_media_(artwork)
+open mouth
+open_mouth
+rating:safe
+riding
+series:invalid color
+sitting
+species:canid
+species:canine
+species:canis
+species:human
+species:mammal
+species:primate
+species:ursid
+species:wolf
+subreddit:imaginarybattlefields
+subreddit:imlandscapes
+teeth
+title:red vs gold by sandara
+title:red vs gold sketch ver
+tongue
+uploader:lol33ta
+ursid
+weapon
+wolf

@@ -1,0 +1,42 @@
+ambiguous gender
+art
+booru:e621
+category:ine
+couple
+creator:mark zug
+digitigrade
+duo
+female
+flail
+gender:ambiguous
+gender:ambiguous gender
+gender:female
+katana
+mask
+melee weapon
+meta:official art
+ninja
+rating:safe
+red eyes
+series:hasbro
+series:magic the gathering
+series:magic: the gathering
+series:official art
+series:wizards of the coast
+species:mammal
+species:murid
+species:murine
+species:nezumi (magic: the gathering)
+species:rat
+species:rodent
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginaryassassins
+subreddit:imcharacters
+sword
+tag source:e621
+title:okiba-gang shinobi by mark zug
+uploader:[deleted]
+uploader:faeryknight
+warrior
+weapon

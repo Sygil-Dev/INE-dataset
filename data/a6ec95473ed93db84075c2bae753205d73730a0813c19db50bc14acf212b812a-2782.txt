@@ -1,0 +1,44 @@
+1 female
+1girl
+bird
+category:ine
+character:corviknight
+character:female protagonist (pokemon swsh)
+character:gloria (pokemon)
+character:pokemon character
+character:protagonist (pokemon)
+character:yuuri (pokemon)
+clothing:hat
+clothing:headwear
+creator:pyohato (nebulamancers)
+gen 8 pokemon
+gender:female
+hat
+meta:tagme
+poke ball
+pokemon (creature)
+poké ball
+premier ball
+rating:mature
+rating:safe
+red eyes
+series:creatures (company)
+series:game freak
+series:nintendo
+series:pokemon
+series:pokemon (game)
+series:pokemon sword & shield
+series:pokemon swsh
+series:pokémon
+species:avian
+species:bird
+species:monster
+species:pokémon
+studio:creatures (company)
+studio:game freak
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:"corviknight" by pyo
+uploader:torvusil

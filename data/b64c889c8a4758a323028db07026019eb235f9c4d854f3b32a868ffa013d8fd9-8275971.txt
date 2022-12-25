@@ -1,0 +1,64 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+basket
+bedding
+black eyes
+black_eyes
+blanket
+blue body
+blue feathers
+blue_body
+blue_feathers
+bread
+category:ine
+creator:cryptid-creations
+duo
+feathered wings
+feathered_wings
+feathers
+feral
+food
+fruit
+grape
+grapes
+green body
+green feathers
+green_body
+green_feathers
+grey body
+grey feathers
+grey_body
+grey_feathers
+humor
+meta:2017
+picnic
+picnic basket
+picnic_basket
+plant
+pun
+rating:safe
+red body
+red feathers
+red_body
+red_feathers
+seed
+species:avian
+species:bird
+species:lovebird
+species:masked lovebird
+species:masked_lovebird
+species:parrot
+species:true parrot
+species:true_parrot
+subreddit:imaginaryfood
+subreddit:immeta
+title:daily painting 1709# pecknic
+title:pecknic by piper thibodeau
+tree
+uploader:myrandall
+white body
+white feathers
+white_body
+white_feathers
+wings

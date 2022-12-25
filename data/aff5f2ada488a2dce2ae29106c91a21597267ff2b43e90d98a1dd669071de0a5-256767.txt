@@ -1,0 +1,85 @@
+1 male
+1boy
+armor
+art
+artist name
+barefoot
+bayard wu
+beard
+booru:danbooru
+booru:gelbooru
+bracelet
+category:ine
+character:troll
+clothing:armor
+clothing:bracelet
+clothing:jewelry
+clothing:necklace
+color:green
+color:red
+colored skin
+creator:bayard wu
+creator:bayardwu
+dagger
+dated
+ears
+eyes
+faceless
+faceless male
+facial hair
+fangs
+feet
+fingernails
+fingers
+furry
+gender:male
+green eyes
+green skin
+headwear
+helmet
+horse
+jewelry
+knife
+leaf
+male focus
+medium:artist name
+medium:dated
+medium:watermark
+medium:web address
+melee weapon
+meta:artist name
+meta:commentary request
+meta:official art
+meta:photoshop (medium)
+nail polish
+necklace
+open eyes
+plant
+pointy ears
+rating:mature
+rating:safe
+rating:sensitive
+red hair
+series:legend of the cryptids
+shirtless
+skin
+snake
+solo
+solo focus
+species:equine
+species:horse
+species:mammal
+species:reptile
+species:scalie
+species:snake
+subreddit:imaginarytrolls
+subreddit:imraces
+title:yellow snake
+title:yellow snake by bayard wu
+topless male
+tree
+troll
+uploader:lordjimbob01
+watermark
+weapon
+web address

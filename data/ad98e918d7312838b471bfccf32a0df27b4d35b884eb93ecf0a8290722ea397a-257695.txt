@@ -1,0 +1,53 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+bird
+black body
+black feathers
+black_body
+black_feathers
+category:ine
+clothing
+clothing:footwear
+clothing:shoes
+corvid
+creator:cryptid-creations
+crow
+feathered wings
+feathered_wings
+feathers
+feral
+footwear
+gender:ambiguous
+gender:male
+humor
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:2018
+pun
+rating:safe
+shoes
+simple background
+simple_background
+solo
+species:avian
+species:bird
+species:corvid
+species:corvus (genus)
+species:corvus_(genus)
+species:crow
+species:oscine
+species:passerine
+subreddit:imaginaryanimals
+subreddit:imnature
+title:velcrow by piper thibodeau
+uploader:myrandall
+website:reddit
+white background
+white_background
+wings
+year:2018
+yellow eyes
+yellow_eyes

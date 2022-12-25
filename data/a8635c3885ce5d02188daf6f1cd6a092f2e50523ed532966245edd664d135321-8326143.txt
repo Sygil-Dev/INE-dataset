@@ -1,0 +1,27 @@
+bodysuit
+booru:sankaku channel
+category:ine
+character:amélie "widowmaker" lacroix
+character:widowmaker
+clothing:bottomwear
+clothing:topwear
+creator:seuyan
+genre:science fiction
+headdress
+long hair
+medium:high resolution
+medium:large filesize
+medium:very high resolution
+ponytail
+purple hair
+rating:safe
+series:overwatch
+studio:blizzard entertainment
+subreddit:imaginaryoverwatch
+subreddit:imfandoms
+tied hair
+title:widowmaker fan art!
+title:widowmaker!
+uploader:seuyan-art
+website:reddit
+yellow eyes

@@ -1,0 +1,37 @@
+ambiguous gender
+ambiguous_gender
+anthro
+artist:cgfelker
+booru:e621
+category:ine
+copyright:alien_(franchise)
+copyright:star_wars
+creator:cgfelker
+crossover
+cybernetics
+genre:science fiction
+lightsaber
+machine
+medium:high resolution
+melee weapon
+melee_weapon
+meta:crossover
+meta:hi res
+meta:hi_res
+rating:safe
+red lightsaber
+red_lightsaber
+series:alien
+series:alien (franchise)
+series:star wars
+sith
+solo
+species:alien
+species:cyborg
+species:xenomorph
+subreddit:imaginaryaliens
+subreddit:imraces
+title:xenomorph sith
+title:xenomorph sith by clinton felker
+uploader:godnaruto21
+weapon

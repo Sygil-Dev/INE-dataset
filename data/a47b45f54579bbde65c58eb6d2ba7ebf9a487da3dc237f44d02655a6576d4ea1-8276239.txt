@@ -1,0 +1,53 @@
+2017
+anatid
+anseriform
+bird
+black eyes
+bodypart:black eyes
+bowl
+category:ine
+chips (food)
+clothing
+clothing:hat
+clothing:headwear
+creator:cryptid-creations
+feral
+food
+food creature
+gender:ambiguous
+gender:male
+guacamole
+hat
+headgear
+headwear
+humor
+male:1
+medium:simple background
+medium:text
+medium:white background
+meme:humor
+meta:2017
+meta:english text
+meta:tagme
+meta:url
+meta:white background
+pun
+rating:safe
+simple background
+solo
+species:anatid
+species:anseriform
+species:avian
+species:bird
+species:duck
+species:food creature
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:daily painting 1653# - quackamole
+title:quackamole by piper thibodeau
+uploader:myrandall
+visual pun
+website:reddit
+wings
+year:2017

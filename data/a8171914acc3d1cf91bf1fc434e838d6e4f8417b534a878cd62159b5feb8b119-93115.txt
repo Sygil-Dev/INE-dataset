@@ -1,0 +1,26 @@
+bird
+blue sky
+building
+castle
+category:ine
+creator:kenji gonzales
+creator:kyomu
+genre:fantasy
+medium:high resolution
+meta:commentary
+meta:english commentary
+no humans
+rating:safe
+scenery
+series:original
+signature
+sky
+species:avian
+species:bird
+subreddit:imaginarytowers
+subreddit:imarchitecture
+title:the tower of erian
+title:the tower of erian - by kenji (kyomu)
+uploader:greypo
+water
+waterfall

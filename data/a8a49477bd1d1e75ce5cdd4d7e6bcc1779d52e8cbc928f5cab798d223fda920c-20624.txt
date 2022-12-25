@@ -1,0 +1,24 @@
+arctic
+atmosphere
+category:ine
+concept art
+creator:duncan halleck
+digital 2d
+environment
+medium:digital 2d
+mood
+planet
+research station
+science fiction
+ship
+snow
+space
+spaceship
+subreddit:imaginarywinterscapes
+subreddit:imaginaryworlds
+subreddit:imlandscapes
+title:sub-polar research station kel7b
+title:sub-polar research station kel7b, duncan halleck
+uploader:dhalleck
+vehicle
+watercraft

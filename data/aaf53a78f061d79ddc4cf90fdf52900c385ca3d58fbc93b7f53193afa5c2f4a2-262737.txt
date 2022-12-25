@@ -1,0 +1,52 @@
+anthony_scroggins_(shimmering_sword)
+arm cannon
+autocannon
+awesome (battletech)
+awesome_(battletech)
+battle
+battletech
+cannon
+canyon
+category:ine
+character:awesome (battletech)
+character:hunchback (battletech)
+character:rifleman
+cockpit
+commentary
+control panel overlay
+control_panel_overlay
+creator:anthony scroggins (shimmering sword)
+creator:reticule
+creator:shimmering-sword
+crosshair
+damaged
+dated
+energy cannon
+energy_cannon
+fire
+genre:science fiction
+heads-up display
+heads-up_display
+hunchback_(battletech)
+mecha
+meta:commentary
+particle projector cannon
+radar
+rating:mature
+rating:safe
+realistic
+reticule
+rifleman
+rock
+science_fiction
+series:battletech
+smoke
+sparks
+subreddit:imaginaryfuturewar
+subreddit:imtechnology
+title:battletech - anthology #5
+title:battletech - anthology #5 by anthony scroggins
+uploader:lordjimbob01
+weapon
+year:2001
+year:2010

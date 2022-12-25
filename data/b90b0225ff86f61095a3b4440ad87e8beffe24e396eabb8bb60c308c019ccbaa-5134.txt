@@ -1,0 +1,37 @@
+1920
+1920+
+animal
+atmosphere
+category:ine
+concept
+concept art
+creator:jakub rozalski
+futuristic
+game art
+illustration
+jakub różalski
+machine
+mech
+medium:concept art
+medium:digital 2d
+medium:digital media
+mist
+nature
+painting
+pipe
+portrait display
+scythe
+sheep
+shepherd
+species:canine
+species:dog
+species:mammal
+species:robot
+species:sheep
+subreddit:imaginaryrobotics
+subreddit:imaginarysteampunk
+subreddit:imtechnology
+title:1920 - shepherd
+title:1920 - shepherd by jakub rozalski
+trees
+uploader:chalkchick0

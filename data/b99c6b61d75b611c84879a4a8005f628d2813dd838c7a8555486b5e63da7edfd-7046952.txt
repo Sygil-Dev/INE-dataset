@@ -1,0 +1,25 @@
+art:classical fine art
+board:/pol/
+board:/tg/
+character art
+creator:carl spitzweg
+filename:gnome watching railway train
+filename:zartwork carl spitzweg (1808-1885) gnome watching railway train - oil on panel 1848
+fine art
+hydrus invalid tag:"board: /pol/"
+medium:1848
+medium:image
+medium:jpg
+medium:oil on panel
+medium:traditional media
+meta:character request
+series:classic art
+site:4chan.org
+subreddit:imaginarydwarves
+subreddit:imraces
+title:gnome watching railway (from carl spitzweg)
+title:gnome watching railway train - 1848
+type:useless filename tags
+uploader:just_a_perfect_day
+website:chan style imageboards
+year:1848

@@ -1,0 +1,62 @@
+1 female
+1girl
+aek-919
+armband
+artist:sigama
+blonde hair
+boots
+category:ine
+clothing:boots
+clothing:footwear
+clothing:gloves
+clothing:miniskirt
+clothing:necktie
+clothing:scarf
+clothing:school uniform
+clothing:skirt
+clothing:uniform
+copyright:original
+creator:sigama
+cyborg
+female
+firearm
+footwear
+gender:female
+gloves
+gun
+mechanical arm
+mechanical arms
+medium:high resolution
+medium:simple background
+meta:commentary request
+meta:highres
+meta:translation request
+meta:weapon request
+miniskirt
+necktie
+original
+pink eyes
+rating:general
+rating:mature
+rating:safe
+robot
+scarf
+school uniform
+series:original
+short hair
+sigama
+simple background
+single glove
+single mechanical arm
+single_glove
+skirt
+solo
+species:robot
+subreddit:imaginarycybernetics
+subreddit:imtechnology
+suppressor
+title:character design by sigama
+uniform
+uploader:scott_paladin
+weapon
+weapon_request

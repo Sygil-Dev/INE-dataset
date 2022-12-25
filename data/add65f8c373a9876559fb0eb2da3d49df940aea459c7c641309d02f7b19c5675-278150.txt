@@ -1,0 +1,29 @@
+bedtime
+books
+category:ine
+concept art
+concept design
+creator:jorge gonzalez
+creatures
+drawing
+horror
+illustration
+medium:digital 2d
+monster
+movies
+painting
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:undead
+species:wolf
+storytelling
+subreddit:imaginarywerewolves
+subreddit:immonsters
+terror
+title:zombie werewolf - bedtimehorrors
+title:zombie werewolf - bedtimehorrors by jorge gonzalez
+uploader:o_no_my_buttholes
+werewolf
+zombie

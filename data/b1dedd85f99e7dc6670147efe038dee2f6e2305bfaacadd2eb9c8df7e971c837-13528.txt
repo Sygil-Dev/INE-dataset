@@ -1,0 +1,26 @@
+army
+banner
+category:ine
+cavalry
+eragon
+fantasy art
+fire
+furry
+knight
+siege
+smoke
+species:dragon
+species:mythical
+species:scalie
+subreddit:imaginarybattlefields
+subreddit:imaginarybestof
+subreddit:imaginarycastles
+subreddit:imarchitecture
+subreddit:imlandscapes
+subreddit:immeta
+title:[/r/imaginarydragons] castle defence by greg rutkowski
+title:castle defence by greg rutkowski
+uploader:faeryknight
+uploader:lol33ta
+wall
+website:reddit

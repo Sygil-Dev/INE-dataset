@@ -1,0 +1,25 @@
+booru:sankaku channel
+building
+category:ine
+character:genji (overwatch)
+character:genji shimada
+character:genji shimada (overwatch)
+creator:zarory
+eiffel tower
+gender:male
+katana
+leaf
+male
+medium:fanart from deviantart
+medium:high resolution
+paris (town)
+rating:safe
+series:overwatch
+site:deviantart
+studio:blizzard entertainment
+subreddit:imaginaryoverwatch
+subreddit:imfandoms
+sword
+title:genji - v2 by zarory
+uploader:lol33ta
+weapon

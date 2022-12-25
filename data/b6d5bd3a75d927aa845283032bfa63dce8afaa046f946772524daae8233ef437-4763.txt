@@ -1,0 +1,28 @@
+action
+buildings
+cartoon
+category:ine
+comic art
+concept art
+concept design
+creator:jon cameron li
+creatures
+dragon
+dragons
+environment art
+environment concept
+formula 1
+game art
+medium:digital 2d
+product design
+production shot
+race
+racing
+speed
+story
+subreddit:imaginarydragons
+subreddit:immonsters
+title:race dragon captain chippy
+title:race dragon captain chippy by jon cameron li
+uploader:jawn-lee
+vehicles

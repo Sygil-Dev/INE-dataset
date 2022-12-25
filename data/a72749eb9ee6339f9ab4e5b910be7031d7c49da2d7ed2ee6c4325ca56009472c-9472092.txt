@@ -1,0 +1,104 @@
+action pose
+action:looking at viewer
+action:open mouth
+action:standing upright
+action_pose
+angry
+artist:daarken
+attack
+biceps
+big muscles
+black nose
+bodily fluids
+bodypart:black nose
+bodypart:glowing eyes
+bodypart:grey fur
+bodypart:muscles
+bodypart:orange eyes
+bodypart:teeth
+booru:e621
+bright eyes
+bright_eyes
+building
+category:ine
+claws
+copyright:magic:_the_gathering
+copyright:official_art
+courtain
+creator:daarken
+daarken
+damage
+destruction
+detailed background
+emotion:anger
+fangs
+fire
+full moon
+fur
+gender:male
+glowing
+glowing eyes
+grey body
+grey fur
+house
+light
+long claws
+long_claws
+looking at viewer
+male
+male:1
+medium:detailed background
+medium:digital media
+meta:2016
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:official art
+meta:tagme
+monster
+moon
+muscles
+muscular
+muscular male
+night
+no pupils
+official art
+open mouth
+orange eyes
+outside
+pecs
+pose
+pov
+rating:safe
+saliva
+scene
+series:hasbro
+series:magic: the gathering
+series:wizards of the coast
+sharp claws
+sharp teeth
+sky
+solo
+source:e621
+species:canid
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:were
+species:werecanid
+species:werecanine
+species:werewolf
+species:wolf
+standing
+street
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarywerewolves
+subreddit:immonsters
+teeth
+title:moonrise intruder by mike lim
+uploader:faeryknight
+website:e621
+were
+whiskers
+year:2016

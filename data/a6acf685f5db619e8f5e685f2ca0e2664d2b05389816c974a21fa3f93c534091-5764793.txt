@@ -1,0 +1,52 @@
+boat
+booru:e621
+breasts
+category:ine
+creator:sandara
+day
+detailed
+detailed background
+duo
+female
+feral
+fin
+gender:female
+guro
+marine
+medium:1:1 aspect ratio
+medium:detailed background
+merfolk
+meta:1:1
+meta:2016
+meta:detailed
+nude
+outside
+rating:explicit
+rating:mature
+rating:questionable
+rock
+rocky shore
+sandara
+sea
+series:siren
+serpents
+ship
+siren
+sky
+source:e621
+species:marine
+species:merfolk
+species:mythical
+species:siren
+split form
+storm
+subreddit:imaginaryseascapes
+subreddit:imlandscapes
+title:conquest of the seven seas
+title:conquest of the seven seas by sandara tang
+uploader:fireflycities
+vehicle
+water
+watercraft
+wave
+year:2016

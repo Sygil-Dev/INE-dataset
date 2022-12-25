@@ -1,0 +1,70 @@
+accessory
+action:open mouth
+alternate species
+alternate_species
+artist:cryptid-creations
+blue eyes
+blue hair
+blue_eyes
+blue_hair
+bodypart:blue hair
+category:ine
+character:hades (disney)
+character:hades_(disney)
+character:hercules
+clothing
+clothing:cape
+clothing:headband
+copyright:hercules_(disney)
+creator:cryptid-creations
+eyes:blue
+fangs
+fire
+flaming hair
+flaming_hair
+furrification
+furry
+gender:male
+hair
+horn
+horns
+humor
+insect wings
+insect_wings
+male
+medium:simple background
+medium:white background
+meme:humor
+meta:url
+meta:white background
+open mouth
+open_mouth
+pedestal
+pseudo_hair
+pun
+rating:safe
+series:hercules (disney)
+simple background
+simple_background
+species:arthropod
+species:beetle
+species:dipteran
+species:fly
+species:hercules beetle
+species:hercules_beetle
+species:insect
+species:rhinoceros beetle
+species:rhinoceros_beetle
+species:scarabaeid
+subreddit:imaginarydisney
+subreddit:imfandoms
+text
+title:daily paint 2394. hercules beetle
+title:hercules beetle by piper thibodeau
+uploader:sw4ahl
+visual pun
+visual_pun
+white_background
+wings
+yellow eyes
+yellow_eyes

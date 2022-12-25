@@ -1,0 +1,20 @@
+biomech
+biomechanical
+creator:[ alice ]
+creator:alice bruderer
+creature
+experimental
+himag
+hvst-l
+hydrothrax
+mech
+mecha
+mechanized
+medium:digital 2d
+robots
+subreddit:imaginarytechnology
+tank
+tankbeast
+title:h.i.m.a.g.
+title:h.i.m.a.g. by mechmonster
+uploader:one_giant_nostril

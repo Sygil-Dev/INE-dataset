@@ -1,0 +1,20 @@
+card
+category:ine
+creator:phu thieu
+doberman
+eagle
+electric
+game
+lion
+magic
+medium:digital 2d
+power
+scout
+sentry
+subreddit:imaginarybeasts
+subreddit:immonsters
+title:my artwork- hex- shard of fate
+title:twilight watcher - hex - shard of fate by phu thieu
+twilight
+uploader:lol33ta
+watcher

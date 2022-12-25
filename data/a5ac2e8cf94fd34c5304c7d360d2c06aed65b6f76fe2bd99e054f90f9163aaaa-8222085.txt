@@ -1,0 +1,41 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beak
+bone
+cactus
+category:ine
+copyright:mythology
+creator:cryptid-creations
+desert
+detailed background
+detailed_background
+feathered wings
+feathered_wings
+feathers
+feral
+meta:url
+monster
+night
+plant
+rating:safe
+sand
+series:mythology
+sky
+solo
+species:accipitriform
+species:avian
+species:bird
+species:gryphon
+species:hybrid
+species:mythical
+species:mythological avian
+species:mythological_avian
+species:vulture
+star
+subreddit:imaginaryhybrids
+subreddit:immonsters
+text
+title:griffon vulture by piper thibodeau
+uploader:myrandall
+wings

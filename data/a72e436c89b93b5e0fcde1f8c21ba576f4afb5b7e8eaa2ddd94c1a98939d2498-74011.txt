@@ -1,0 +1,20 @@
+category:ine
+creator:bram sels
+hour of devastation
+medium:digital 2d
+mtg
+series:magic: the gathering
+species:canine
+species:canis
+species:jackal
+species:mammal
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginaryarchers
+subreddit:imaginaryhybrids
+subreddit:imcharacters
+title:bitterbow sharpshooters
+title:bitterbow sharpshooters by bram sels
+uploader:hvitserkr
+uploader:killerbunnyfamily
+uploader:myrandall

@@ -1,0 +1,47 @@
+16k
+bark
+creator:greg zdunek
+door
+foliage
+forest
+gate
+gods
+grass
+hypergrass
+hyperscatter
+hypertrees
+landscape
+materials
+medium:digital 3d
+megascans
+moss
+mythology
+natural
+nature
+norse
+odin
+pbr
+photogrammetry
+photoscan
+plants
+portal
+procedural
+realism
+realistic
+river
+rocks
+scan
+seamless
+subreddit:imaginaryforests
+subreddit:imnature
+teleport
+texture
+textures
+tileable
+tiled
+title:odin's forest
+title:odin's foresta art by greg zdunek
+tree
+trees
+uploader:racconccity
+water

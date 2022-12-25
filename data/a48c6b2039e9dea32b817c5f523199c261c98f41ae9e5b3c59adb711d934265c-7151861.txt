@@ -1,0 +1,59 @@
+artist
+ass
+beard
+booru:e621
+butt
+category:ine
+centaur
+clothing
+clothing:eyewear
+clothing:hat
+clothing:headwear
+cloud
+creating art
+creator:krittachai srijugawan
+creator:yudai (krittachai srijugawan)
+detailed background
+digital painting
+eyewear
+facial hair
+female
+gender:female
+gender:male
+glasses
+group
+hat
+headgear
+headwear
+holding object
+holding tool
+hooves
+male
+medium:detailed background
+medium:digital 2d
+medium:high resolution
+meta:hi res
+monster
+mostly nude
+outside
+rating:safe
+sculpture
+sky
+species:centaur
+species:equid
+species:equid taur
+species:equine
+species:equine taur
+species:human
+species:humanoid taur
+species:mammal
+species:mammal taur
+species:primate
+species:taur
+statue
+subreddit:imaginarycentaurs
+subreddit:imraces
+title:centaur art school
+title:centaur art school by krittachai srijugawan
+tools
+uploader:[deleted]
