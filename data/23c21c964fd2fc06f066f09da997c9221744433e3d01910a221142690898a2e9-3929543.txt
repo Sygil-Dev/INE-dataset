@@ -1,0 +1,60 @@
+action:licking
+ambiguous_gender
+artist:cryptid-creations
+beverage
+black eyes
+black_eyes
+bodypart:black eyes
+bodypart:tongue
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+feral
+filename:dp1271_s
+food
+fruit
+gender:ambiguous
+gender:male
+glass
+humor
+licking
+male:1
+medium:patreon reward
+medium:simple background
+meta:paid reward
+meta:patreon reward
+meta:white background
+orange (fruit)
+orange juice
+orange_(fruit)
+orange_juice
+pancake
+plant
+plate
+pun
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+solo
+species:food creature
+species:food_creature
+species:giant panda
+species:giant_panda
+species:mammal
+species:ursid
+straw
+subreddit:imaginaryfood
+subreddit:immeta
+syrup
+title:daily paint #1271. pandcakes
+title:pandcakes by piper thibodeau
+tongue
+tongue out
+tongue_out
+uploader:myrandall
+visual pun
+visual_pun
+white_background
+yiff id:457132

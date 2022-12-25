@@ -1,0 +1,48 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+bottomless
+category:ine
+chair
+clothed
+clothed feral
+clothed_feral
+clothing
+clothing:tagme
+creator:cryptid-creations
+duo
+feral
+furniture
+furry
+gender:ambiguous
+medium:simple background
+medium:white background
+meta:url
+open mouth
+pencil (object)
+pencil_(object)
+rating:safe
+sharp teeth
+simple background
+simple_background
+species:ceratopsian
+species:dinosaur
+species:extinct
+species:ornithischian
+species:reptile
+species:scalie
+species:theropod
+species:triceratops
+species:tyrannosaurid
+species:tyrannosaurus
+species:tyrannosaurus rex
+species:tyrannosaurus_rex
+subreddit:imaginarydinosaurs
+subreddit:immonsters
+teeth
+text
+title:theropist by piper thibodeau
+tongue
+uploader:myrandall
+white background
+white_background

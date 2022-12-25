@@ -1,0 +1,20 @@
+booru:sankaku channel
+category:ine
+character:evelynn
+creator:jessibeans
+gender:female
+medium:fanart from deviantart
+medium:high resolution
+medium:very high resolution
+rating:safe
+series:league of legends
+solo
+subreddit:imaginarygaming
+subreddit:imaginarymonstergirls
+subreddit:imfandoms
+subreddit:immonsters
+title:"kda evelynn" by jessica oyhenart
+title:kda evelynn
+title:kda evelynn by jessica oyhenart
+uploader:net-diver
+uploader:torvusil

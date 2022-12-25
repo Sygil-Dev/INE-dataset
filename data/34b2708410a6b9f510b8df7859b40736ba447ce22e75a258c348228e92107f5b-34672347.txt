@@ -1,0 +1,28 @@
+ambiguous gender
+ambiguous_gender
+artist:sandara
+brown eyes
+brown_eyes
+category:ine
+creator:sandara
+detailed background
+detailed_background
+feral
+gender:ambiguous
+medium:detailed background
+rating:safe
+solo
+species:canid
+species:canine
+species:canis
+species:domestic dog
+species:domestic_dog
+species:mammal
+subreddit:imaginaryaww
+subreddit:imaginarynobles
+subreddit:imcharacters
+subreddit:immeta
+title:moose
+title:moose by sandara tang
+uploader:lol33ta
+uploader:myrandall

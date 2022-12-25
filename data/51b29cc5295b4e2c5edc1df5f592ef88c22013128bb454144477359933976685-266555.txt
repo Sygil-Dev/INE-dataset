@@ -1,0 +1,20 @@
+akira
+bike
+category:ine
+creator:eddie mendoza
+cyberpunk
+environments
+ground vehicle
+keyframe
+medium:digital 2d
+motor vehicle
+motorcycle
+street
+subreddit:imaginarycyberpunk
+subreddit:imaginaryvehicles
+subreddit:imtechnology
+title:idling
+title:idling by eddie mendoza
+uploader:e-leventy
+uploader:net-diver
+vehicle

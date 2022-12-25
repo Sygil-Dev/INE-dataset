@@ -1,0 +1,61 @@
+<3
+ambiguous gender
+bedding
+black body
+black fur
+blanket
+category:ine
+clothing
+clothing:hat
+clothing:headwear
+counting sheep
+creator:cryptid-creations
+crescent moon
+feral
+fur
+gender:ambiguous
+group
+headgear
+headwear
+heart symbol
+humor
+meme:humor
+meta:english text
+meta:url
+moon
+night
+orange body
+orange fur
+pawpads
+plushie
+pun
+quilt
+rating:safe
+simple background
+sleeping
+solo focus
+sound effects
+species:bovid
+species:canid
+species:canine
+species:caprine
+species:domestic sheep
+species:fox
+species:lagomorph
+species:leporid
+species:mammal
+species:rabbit
+species:sheep
+species:suffolk sheep
+star
+stocking cap
+subreddit:imaginaryaww
+subreddit:immeta
+text
+title:blankit by piper thibodeau
+uploader:myrandall
+visual pun
+white background
+white body
+white fur
+zzz

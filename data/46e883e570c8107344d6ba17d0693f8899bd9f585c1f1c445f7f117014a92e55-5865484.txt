@@ -1,0 +1,72 @@
+1 female
+1girl
+art
+artist name
+bird
+black hair
+book
+booru:sankaku
+boots
+breasts
+brown eyes
+candle
+cape
+category:ine
+circlet
+cleavage
+clothing:boots
+clothing:cape
+clothing:dress
+clothing:earrings
+clothing:footwear
+clothing:gloves
+clothing:hood
+clothing:jewelry
+copyright name
+creator:liang xing - 星星梁
+creator:liang-xing
+crow
+dated
+dress
+earrings
+female
+footwear
+fur
+fur trim
+gender:female
+gloves
+high resolution
+hood
+jewelry
+legend of the cryptids
+long hair
+medium:artist name
+medium:copyright name
+medium:dated
+medium:high resolution
+medium:official art
+medium:watermark
+medium:web address
+meta:artist name
+meta:commentary request
+meta:highres
+meta:official art
+meta:photoshop (medium)
+meta:pixiv-import
+meta:watermark
+official art
+paper
+rating:mature
+rating:s
+rating:safe
+raven (animal)
+series:legend of the cryptids
+species:avian
+species:bird
+subreddit:imaginarybooks
+subreddit:immeta
+title:grimoire fanatic chantelle1
+title:grimoire fanatic chantelle 1 by liang xing
+uploader:lol33ta
+watermark
+web address

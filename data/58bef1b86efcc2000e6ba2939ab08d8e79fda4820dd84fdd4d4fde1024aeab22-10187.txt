@@ -1,0 +1,22 @@
+category:ine
+creator:bjorn hurri
+fire
+flying
+hunting
+sci fi
+sky
+space ship
+species:cetacean
+species:mammal
+species:whale
+subreddit:imaginaryaetherpunk
+subreddit:imaginaryrobotics
+subreddit:imaginarystarships
+subreddit:imtechnology
+title:whale hunter by bjorn hurri
+title:whale hunting
+title:whale hunting by bjorn hurri
+uploader:hvitserkr
+uploader:myrandall
+uploader:thomar
+whale

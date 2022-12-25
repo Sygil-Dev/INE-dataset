@@ -1,0 +1,43 @@
+action:closing eyes
+action:smile
+bovid
+category:ine
+cattle
+creator:cryptid-creations
+curtains
+curtains open
+eyes closed
+female
+feral
+food
+food creature
+gender:female
+gender:male
+holstein friesian cattle
+horn
+horns
+humor
+male:1
+meme:humor
+pie
+piebald
+pun
+rating:safe
+sleeping
+smile
+solo
+species:bovid
+species:bovine
+species:cattle
+species:food creature
+species:holstein friesian cattle
+species:mammal
+subreddit:imaginaryfood
+subreddit:immeta
+title:cowpie by piper thibodeau
+title:daily paint 1575. cowpie
+tree
+uploader:myrandall
+visual pun
+window
+window sill

@@ -1,0 +1,53 @@
+ambiguous gender
+beverage
+black eyes
+bodypart:black eyes
+booru:e621
+category:ine
+creator:cryptid-creations
+duo
+feral
+flower
+furry
+gender:ambiguous
+horn
+horns
+humor
+medium:simple background
+medium:white background
+membrane (anatomy)
+membranous wings
+meme:humor
+plant
+pun
+rating:safe
+simple background
+species:animate inanimate
+species:ankylosaur
+species:ankylosaurian
+species:ankylosaurid
+species:ankylosaurus
+species:dinosaur
+species:extinct
+species:ornithischian
+species:pteranodon
+species:pteranodontid
+species:pterosaur
+species:reptile
+species:scalie
+species:thyreophoran
+subreddit:imaginarydinosaurs
+subreddit:imaginaryfood
+subreddit:immeta
+subreddit:immonsters
+tea
+teabag
+teapot
+text
+title:daily paint 1972# teahistoric - ankylosaur
+title:teahistoric - ankylosaur by piper thibodeau
+uploader:myrandall
+visual pun
+website:e621
+white background
+wings

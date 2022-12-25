@@ -1,0 +1,67 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+brown body
+brown fur
+brown_body
+brown_fur
+category:ine
+creator:cryptid-creations
+feral
+fire
+fire fur
+flaming fur
+flaming_fur
+fur
+gender:ambiguous
+gender:female
+gender:male
+grass
+humor
+loli body type
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:2018
+orange body
+orange fur
+orange_body
+orange_fur
+plant
+pun
+rating:safe
+simple background
+simple_background
+solo
+species:bovid
+species:caprine
+species:domestic sheep
+species:domestic_sheep
+species:elemental creature
+species:elemental_creature
+species:fire creature
+species:fire_creature
+species:mammal
+species:sheep
+subreddit:imaginaryelementals
+subreddit:immonsters
+title:flamb-e by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+white background
+white body
+white fur
+white_background
+white_body
+white_fur
+year:2018
+yellow body
+yellow fur
+yellow_body
+yellow_fur
+young

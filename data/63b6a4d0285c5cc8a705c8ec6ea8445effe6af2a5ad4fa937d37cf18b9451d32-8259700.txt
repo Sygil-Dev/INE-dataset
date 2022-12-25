@@ -1,0 +1,42 @@
+armor
+booru:e621
+category:ine
+clothing:armor
+creator:jake parker
+creator:jakeparker
+firearm
+gender:male
+grey background
+gun
+headgear
+headwear
+helmet
+hooves
+male
+medium:grey background
+medium:simple background
+meta:2014
+monster
+ranged weapon
+rating:safe
+simple background
+soldier
+solo
+species:centaur
+species:equid
+species:equid taur
+species:equine
+species:equine taur
+species:horse
+species:humanoid taur
+species:mammal
+species:mammal taur
+species:taur
+subreddit:imaginarycentaurs
+subreddit:imraces
+title:world war centaur
+title:world war centaur by jake parker
+uploader:lol33ta
+warrior
+weapon
+year:2014

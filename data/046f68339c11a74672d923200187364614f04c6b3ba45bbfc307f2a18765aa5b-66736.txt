@@ -1,0 +1,25 @@
+1 female
+1 male
+category:ine
+character:bob (meago)
+character:emily (meago)
+closed eyes
+couple
+creator:meago
+dress
+face
+gender:female
+gender:male
+hetero
+hug
+imminent kiss
+rain
+rating:safe
+series:original
+smile
+subreddit:imaginarylovers
+subreddit:imcharacters
+tagme
+title:in the rain
+title:in the rain, by meago
+uploader:dawnpaladin

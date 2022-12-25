@@ -1,0 +1,60 @@
+2018
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+beak
+branch
+category:ine
+creator:cryptid-creations
+english text
+feral
+food
+humor
+language:english
+medium:english text
+medium:simple background
+medium:text
+medium:white background
+meta:2018
+meta:english text
+meta:english_text
+meta:signature
+meta:url
+number
+pun
+rating:safe
+sandwich (food)
+sandwich_(food)
+signature
+simple background
+simple_background
+solo
+species:avian
+species:bird
+species:blue jay
+species:blue_jay
+species:corvid
+species:food creature
+species:food_creature
+species:jay (bird)
+species:jay_(bird)
+species:new world jay
+species:new_world_jay
+species:oscine
+species:passerine
+subreddit:imaginaryanimals
+subreddit:imaginaryfood
+subreddit:immeta
+subreddit:imnature
+text
+title:"daily paint 1905# pb and jay" by piper thibodeau (cryptid-creations)
+title:daily paint 1905# pb and jay
+uploader:torvusil
+visual pun
+visual_pun
+website:reddit
+white background
+white_background
+year:2018

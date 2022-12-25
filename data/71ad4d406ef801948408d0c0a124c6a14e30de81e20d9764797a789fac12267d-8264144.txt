@@ -1,0 +1,41 @@
+armor
+book
+category:ine
+character:chaos
+clothing:gloves
+creator:makarori (noah)
+creator:noah-kh
+demon
+extra eyes
+fire
+flame
+furry
+genre:fantasy
+gloves
+glowing
+glowing eyes
+medium:simple background
+molten
+mouth
+no humans
+open mouth
+rating:safe
+series:original
+series:warhammer
+sharp teeth
+skull
+snake
+solo
+species:demon
+species:reptile
+species:scalie
+species:snake
+studio:games workshop
+subreddit:imaginarybooks
+subreddit:immeta
+teeth
+title:the adjudicator by noah k h
+title:the_adjudicator
+uploader:lordjimbob01
+warhammer
+weapon

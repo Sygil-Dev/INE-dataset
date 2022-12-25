@@ -1,0 +1,67 @@
+ambiguous_gender
+artist:genzoman
+booru:e621
+category:ine
+character:mewtwo
+closed mouth
+copyright:nintendo
+copyright:pokémon
+creator:genzoman
+energy
+full body
+gamefreak
+gamefreakpokemon
+gen 1 pokemon
+gender:ambiguous
+genzoman
+kanto
+kantopokemon
+kantoregion
+legendary pokemon
+meta:2018
+meta:commentary
+meta:commission
+meta:english commentary
+mewtwo
+mewtwofanart
+mewtwopokemon
+nintendo
+nintendofanart
+no humans
+pokemon
+pokemon (creature)
+pokemon_blue
+pokemonblue
+pokemonfanart
+pokemongo
+pokemonnintendo
+pokemonredbluegreenyellow
+pokemonreded
+purple eyes
+purple_eyes
+rating:mature
+rating:safe
+rock
+series:creatures (company)
+series:game freak
+series:pokemon
+series:pokémon
+serious
+solo
+species:legendary pokémon
+species:legendary_pokémon
+species:mewtwo
+species:monster
+species:pokémon
+species:pokémon_(species)
+standing
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:"mewtwo" by gonzalo ordóñez arias (genzoman)
+title:mewtwo - pokemon
+uploader:torvusil
+video games
+video_games
+year:2018

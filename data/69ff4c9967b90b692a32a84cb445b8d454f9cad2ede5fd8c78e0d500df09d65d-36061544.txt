@@ -1,0 +1,37 @@
+1 female
+1girl
+black background
+booru:danbooru
+brown hair
+clothing:hair tie
+clothing:japanese clothes
+clothing:scarf
+creator:alpyro
+gender:female
+headwear
+helmet
+holding
+holding object
+holding sword
+holding weapon
+horned helmet
+japanese clothes
+katana
+mask
+medium:black background
+medium:high resolution
+medium:simple background
+meta:highres
+ninja
+ponytail
+rating:safe
+scarf
+series:original
+simple background
+subreddit:imaginaryninjas
+sword
+tattoo
+tied hair
+title:shinobi by remy paul.
+uploader:turbologic
+weapon

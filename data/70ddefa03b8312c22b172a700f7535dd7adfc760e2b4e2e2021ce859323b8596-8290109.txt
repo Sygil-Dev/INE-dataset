@@ -1,0 +1,45 @@
+action:smile
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+bamboo
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+board:/ck/
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+feral
+filename:dp1157_s
+food
+gender:male
+leaf
+male:1
+medium:patreon reward
+meta:paid reward
+meta:patreon reward
+meta:url
+rating:safe
+rice ball
+rice_ball
+site:4chan.org
+site:patreon
+site:yiff.party
+smile
+solo
+species:food creature
+species:food_creature
+species:giant panda
+species:giant_panda
+species:mammal
+species:ursid
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:'rice ball panda' by piper thibodeau
+title:daily paint #1157. rice ball panda
+uploader:myrandall
+website:reddit
+yiff id:457132

@@ -1,0 +1,23 @@
+category:ine
+character
+clothing:cloak
+creator:joakim ericsson
+frontier
+genre:science fiction
+medium:digital 2d
+mission
+outlander
+pioneer
+planet
+position:missionary
+snow
+space
+species:alien
+subreddit:imaginarysoldiers
+subreddit:imcharacters
+suit
+survival
+title:outlander
+title:outlander, joakim ericsson.
+uploader:turbologic
+winter

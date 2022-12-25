@@ -1,0 +1,29 @@
+animation
+armor
+background
+backgroundart
+character
+characterdesign
+concept
+creator:aaron jones
+dog
+dragon
+fantasy
+forest
+illustration
+magic
+medium:traditional 2d
+medium:traditional paint
+paint
+soldier
+storyboard
+subreddit:imaginarystash
+subreddit:imnsfw
+sword
+title:shaman
+title:tokin' shaman. by zenaly.
+tree
+treesong
+uploader:zenaly
+warrior
+woman

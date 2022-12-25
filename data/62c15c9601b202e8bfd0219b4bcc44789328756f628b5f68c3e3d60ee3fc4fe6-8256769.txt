@@ -1,0 +1,44 @@
+ambiguous gender
+annoyed
+black eyes
+board:/k/
+bodypart:black eyes
+category:ine
+creator:cryptid-creations
+emotion:annoyance
+feral
+furry
+gender:ambiguous
+group
+guro
+humor
+melee weapon
+meme:humor
+meta:2017
+nude
+polearm
+pun
+rating:explicit
+rating:mature
+rating:safe
+simple background
+spear
+species:reptile
+species:reptile taur
+species:scalie
+species:scalie taur
+species:taur
+species:tortoise
+species:turtle
+species:turtle taur
+subreddit:imaginarycentaurs
+subreddit:imraces
+title:daily paint 1596. taurtoise
+title:taurtoise by piper thibodeau
+uploader:myrandall
+visual pun
+weapon
+website:e621
+white background
+wood
+year:2017

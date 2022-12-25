@@ -1,0 +1,32 @@
+artist:cryptid-creations
+category:ine
+character:scar (the lion king)
+character:scar_(the_lion_king)
+copyright:disney
+copyright:the_lion_king
+creator:cryptid-creations
+felid
+gender:male
+language:english
+lionking
+male
+medium:text
+meta:english text
+meta:english_text
+meta:url
+rating:safe
+series:disney
+series:the lion king
+solo
+species:felid
+species:feline
+species:lion
+species:mammal
+species:pantherine
+studio:disney
+subreddit:imaginarydisney
+subreddit:imfandoms
+text
+title:daily painting 1669# - scar
+title:scar by piper thibodeau
+uploader:myrandall

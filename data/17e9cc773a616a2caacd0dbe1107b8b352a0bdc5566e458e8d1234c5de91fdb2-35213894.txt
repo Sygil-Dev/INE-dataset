@@ -1,0 +1,54 @@
+ambiguous_gender
+artist:sandara
+black hair
+black_hair
+brown eyes
+brown_eyes
+category:ine
+clothed
+clothing
+creator:sandara
+day
+detailed_background
+female
+fur
+furry
+gender:ambiguous
+gender:female
+grass
+hair
+medium:detailed background
+medium:digital media
+medium:high resolution
+meta:2020
+meta:digital_media_(artwork)
+meta:hi_res
+meta:tagme
+outside
+rating:safe
+species:canid
+species:canine
+species:canis
+species:domestic dog
+species:domestic_dog
+species:dragon
+species:human
+species:leaf dragon
+species:leaf_dragon
+species:mammal
+species:mythical
+species:primate
+species:scalie
+subreddit:imaginaryautumnscapes
+subreddit:imaginaryaww
+subreddit:imlandscapes
+subreddit:immeta
+title:yard work by sandara
+title:yard work by sandara tang
+uploader:lol33ta
+uploader:myrandall
+white body
+white fur
+white_body
+white_fur
+year:2020

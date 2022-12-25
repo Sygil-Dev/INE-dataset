@@ -1,0 +1,26 @@
+category:ine
+character:cortana
+creator:marsminer
+gender:female
+halo
+hi res
+medium:high resolution
+not furry
+series:halo
+series:halo (series)
+series:mario bros
+series:microsoft
+series:nintendo
+series:super mario brothers
+series:xbox game studios
+solo
+species:humanoid
+species:shyguy
+studio:microsoft
+studio:nintendo
+subreddit:imaginaryhalo
+subreddit:imfandoms
+title:shytana by marsminer
+uploader:[deleted]
+uploader:bleeding_choker
+video games

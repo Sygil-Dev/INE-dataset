@@ -1,0 +1,52 @@
+action:closing eyes
+action:smile
+brown fur
+brown hair
+category:ine
+cherry
+closed eyes
+clothing:brown hair
+creator:cryptid-creations
+cryptid-creations
+cub
+cupcake
+eyes closed
+felid
+feral
+food
+food creature
+frosting
+fruit
+fur
+gender:ambiguous
+gender:female
+gender:male
+hair
+humor
+lion
+loli body type
+male:1
+mammal
+meme:humor
+plant
+pun
+rating:safe
+sleeping
+smile
+solo
+species:felid
+species:feline
+species:food creature
+species:lion
+species:mammal
+species:pantherine
+subreddit:imaginaryfood
+subreddit:immeta
+tan fur
+title:cubcake by piper thibodeau
+title:daily paint 1498. cubcake
+tray
+uploader:myrandall
+visual pun
+website:reddit
+young

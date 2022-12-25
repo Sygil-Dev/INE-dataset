@@ -1,0 +1,40 @@
+3d
+ammunition belt
+bandolier
+belt feed
+bullet hole
+cable
+category:ine
+character:fuchikoma
+cockpit
+creator:wen jr
+creator:wen-jr
+damaged
+dark background
+firearm
+gatling gun
+genre:science fiction
+machinery
+mecha
+mechanical parts
+medium:3d rendering
+medium:digital media
+medium:high resolution
+meta:highres
+no humans
+parts exposed
+rating:safe
+reflection
+reflective floor
+searchlight
+series:ghost in the shell
+shiny
+subreddit:imaginarymechs
+subreddit:imtechnology
+title:fuchikoma hi res
+title:fuchikoma hi res by romeo jonathan
+uploader:net-diver
+walker
+water
+weapon
+wire

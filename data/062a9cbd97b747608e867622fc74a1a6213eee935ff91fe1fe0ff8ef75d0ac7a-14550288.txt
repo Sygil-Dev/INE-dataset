@@ -1,0 +1,50 @@
+1 female
+1girl
+assault rifle
+category:ine
+creator:kasagarasu
+creator:mihato senba
+cyberpunk
+cyborg
+explosive
+firearm
+full body
+gender:female
+genre:cyberpunk
+genre:science fiction
+grenade
+grey hair
+gun
+hair over one eye
+holding
+holding gun
+holding object
+holding weapon
+knife
+machine gun
+magazine (weapon)
+mecha
+mecha musume
+mechanical arm
+mechanical arms
+mechanical legs
+medium:high resolution
+medium:simple background
+meta:commentary
+prosthesis
+rating:mature
+rating:s
+rating:safe
+rifle
+series:original
+short hair
+simple background
+single mechanical arm
+solo
+subreddit:imaginarycybernetics
+subreddit:imtechnology
+title:luna by k454
+trigger discipline
+uploader:scott_paladin
+weapon
+yellow eyes

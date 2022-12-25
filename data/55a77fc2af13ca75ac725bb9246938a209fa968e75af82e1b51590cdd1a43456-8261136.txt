@@ -1,0 +1,51 @@
+absurd res
+booru:e621
+category:ine
+character:star swirl (mlp)
+character:starswirl the bearded (mlp)
+clothing
+clothing:hat
+clothing:headwear
+creator:nemo2d
+detailed background
+fantasy
+feral
+gender:male
+hat
+headgear
+headwear
+hi res
+horn
+horns
+landscape
+male
+medium:absurd resolution
+medium:detailed background
+medium:high resolution
+meta:absurd res
+meta:hi res
+mlp
+mlpfim
+mlpmylittlepony
+outside
+rating:safe
+robe
+series:friendship is magic
+series:hasbro
+series:my little pony
+snow
+solo
+species:equid
+species:equine
+species:mammal
+species:mythical
+species:non-human animal
+species:unicorn
+standing
+starswirlthebearded
+studio:hasbro
+subreddit:imaginaryequestria
+subreddit:imfandoms
+title:"the last shelter" by nemo2d
+title:the last shelter
+uploader:torvusil

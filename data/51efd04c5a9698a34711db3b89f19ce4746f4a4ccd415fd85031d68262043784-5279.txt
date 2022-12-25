@@ -1,0 +1,29 @@
+category:ine
+creator:red-izak
+deathwing
+demon
+dragon
+fox
+furry
+lava
+mage
+magic
+series:warcraft
+source:furaffinity.net
+species:canine
+species:canis
+species:demon
+species:dragon
+species:mammal
+species:mythical
+species:scalie
+species:wolf
+studio:blizzard entertainment
+subreddit:imaginarydragons
+subreddit:immonsters
+title:"our last hope" by izabela kaszuba
+title:our last hope
+uploader:nikephoros_ii_phokas
+warcraft
+wolf
+wow

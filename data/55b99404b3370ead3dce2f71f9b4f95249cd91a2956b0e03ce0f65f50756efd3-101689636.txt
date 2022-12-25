@@ -1,0 +1,17 @@
+conceptart
+creator:alexandr elichev
+cyberpunk
+gender:female
+girl
+katana
+medium:digital 2d
+motorcycle
+scifi
+spaceship
+subreddit:imaginaryassassins
+subreddit:imaginarywitches
+title:entropy hunter
+title:entropy hunter by alexandr elichev
+uploader:myrandall
+weapon
+woman

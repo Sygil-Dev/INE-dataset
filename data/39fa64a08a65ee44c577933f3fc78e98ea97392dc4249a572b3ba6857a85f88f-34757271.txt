@@ -1,0 +1,58 @@
+1 male
+5 fingers
+5_fingers
+anthro
+anthropomorphism
+armor
+artist:hitmore
+bandage
+category:ine
+clothed
+clothing
+clothing:armor
+clothing:tagme
+creator:hitmore
+fingers
+firearm
+fur
+gender:male
+genre:science fiction
+gun
+hair
+holding object
+holding weapon
+holding_object
+holding_weapon
+machine gun
+machine_gun
+male
+male only
+medium:detailed background
+medium:focus on male character
+medium:high resolution
+meta:2019
+meta:hi res
+meta:hi_res
+neck tuft
+neck_tuft
+ranged weapon
+ranged_weapon
+rating:safe
+solo
+solo male
+source:furaffinity.net
+species:canid
+species:canine
+species:canis
+species:mammal
+species:wolf
+standing
+subreddit:imaginaryhalo
+subreddit:imfandoms
+title:cm: everywhere i look, i see red
+title:odst furry - everywhere i look, i see red by hitmore
+tuft
+uploader:bleeding_choker
+walking
+weapon
+year:2019

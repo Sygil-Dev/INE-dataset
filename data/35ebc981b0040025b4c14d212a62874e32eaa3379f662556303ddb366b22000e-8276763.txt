@@ -1,0 +1,65 @@
+action:open mouth
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+claws
+cooking pot
+cooking_pot
+copyright:patreon
+creator:cryptid-creations
+feral
+food
+furry
+gender:ambiguous
+gender:male
+green body
+green scales
+green_body
+green_scales
+humor
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:english text
+meta:english_text
+meta:paid reward
+meta:patreon reward
+meta:url
+meta:white background
+open mouth
+open_mouth
+partially submerged
+partially_submerged
+patreon logo
+patreon_logo
+pun
+rating:safe
+scales
+series:patreon
+simple background
+simple_background
+solo
+soup
+species:arthropod
+species:crocodile
+species:crocodilian
+species:crocodylid
+species:crustacean
+species:marine
+species:reptile
+species:scalie
+species:shrimp
+subreddit:imaginaryfood
+subreddit:immeta
+teeth
+text
+title:croc-pot by piper thibodeau
+title:daily paint 1520. croc-pot
+uploader:myrandall
+visual pun
+visual_pun
+white background
+white_background
+yellow eyes
+yellow_eyes

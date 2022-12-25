@@ -1,0 +1,27 @@
+art
+artwork
+category:ine
+cliffs
+color keys
+creator:jason scheier
+cryptid
+environment
+ice
+illustration
+jasonscheier
+landscape
+medium:digital 2d
+monster
+mountain
+museum
+paint
+smallfoot
+snow
+species:mammal
+species:primate
+species:yeti
+subreddit:imaginaryinteriors
+subreddit:imarchitecture
+title:smallfoot - location design - the yeti museum
+title:smallfoot - location design - the yeti museum by jason scheier
+uploader:crowe410

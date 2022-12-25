@@ -1,0 +1,43 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+creator:cryptid-creations
+curled tail
+curled_tail
+domestic pig
+feral
+grass
+group
+male
+mammal
+medium:simple background
+plant
+rating:safe
+simple background
+simple_background
+size difference
+size_difference
+species:domestic pig
+species:domestic_pig
+species:mammal
+species:suid
+species:suina
+species:sus (pig)
+species:sus_(pig)
+subreddit:imaginaryanimals
+subreddit:imaginaryaww
+subreddit:imaginaryfamilies
+subreddit:imcharacters
+subreddit:immeta
+subreddit:imnature
+suid
+suina
+sus (pig)
+text
+title:daily paint 2053# piggyback
+title:piggyback by piper thibodeau
+tusks
+uploader:myrandall
+white background
+white_background

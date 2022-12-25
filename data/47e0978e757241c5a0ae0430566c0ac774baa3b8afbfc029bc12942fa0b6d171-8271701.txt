@@ -1,0 +1,55 @@
+action:closing eyes
+action:open mouth
+ambiguous_gender
+artist:cryptid-creations
+box
+burger
+category:ine
+cheese
+claws
+creator:cryptid-creations
+dairy products
+dairy_products
+eating
+eyes closed
+eyes_closed
+feet
+feral
+food
+food creature
+fries
+fruit
+gender:ambiguous
+gender:male
+humor
+lettuce
+male:1
+medium:simple background
+meme:humor
+meta:white background
+olive (food)
+olive (fruit)
+olive_(fruit)
+open mouth
+open_mouth
+pawpads
+plant
+pun
+rating:safe
+simple background
+simple_background
+soles
+solo
+species:food creature
+species:food_creature
+species:mammal
+species:ursid
+subreddit:imaginaryfood
+subreddit:immeta
+title:bearger by piper thibodeau
+uploader:myrandall
+ursid
+vegetable
+visual pun
+visual_pun
+white_background

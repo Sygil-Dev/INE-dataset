@@ -1,0 +1,42 @@
+action:smile
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+category:ine
+creator:cryptid-creations
+feral
+food
+gender:ambiguous
+gender:male
+humor
+male:1
+meme:humor
+meta:2018
+pun
+rating:safe
+simple_background
+smile
+solo
+species:cat
+species:domestic_cat
+species:felid
+species:feline
+species:felis
+species:food_creature
+species:mammal
+subreddit:imaginaryfood
+subreddit:immeta
+surfboard
+sushi
+title:califurnia roll by piper thibodeau
+uploader:myrandall
+vehicle
+visual_pun
+water
+watercraft
+wave
+website:reddit
+white_background
+year:2018

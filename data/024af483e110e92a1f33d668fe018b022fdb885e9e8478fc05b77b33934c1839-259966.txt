@@ -1,0 +1,52 @@
+action:closing eyes
+action:open mouth
+ambiguous gender
+baton
+black eyes
+bodypart:black eyes
+booru:e621
+category:ine
+closed eyes
+clothing:bow tie
+conductor
+creator:cryptid-creations
+cymbals
+eyes closed
+feral
+flute
+gender:ambiguous
+group
+humor
+meme:humor
+meta:url
+music stand
+musical instrument
+open mouth
+outside
+percussion instrument
+pun
+rating:safe
+rock
+sea
+seashell
+shell
+species:cetacean
+species:delphinoid
+species:mammal
+species:marine
+species:oceanic dolphin
+species:orca
+species:toothed whale
+species:whale
+star
+subreddit:imaginaryanimals
+subreddit:imnature
+teeth
+text
+title:daily paint 1938# orcaestra
+title:orcaestra by piper thibodeau
+uploader:myrandall
+water
+website:e621
+wind instrument
+woodwind instrument

@@ -1,0 +1,28 @@
+category:ine
+class:mammal
+creator:grandtaurus
+digital
+fire
+forest
+genre:fantasy
+magic
+monster
+muscles
+muscular
+painting
+red
+source:furaffinity.net
+species:canine
+species:canis
+species:mythical
+species:werewolf
+species:wolf
+subreddit:imaginarywerewolves
+subreddit:immonsters
+title:rampaging hunt-caller - adastra illustration
+title:rampaging hunt-caller - adastra illustration - by grandtaurus
+transformation
+tree
+uploader:[deleted]
+uploader:bleeding_choker
+veins

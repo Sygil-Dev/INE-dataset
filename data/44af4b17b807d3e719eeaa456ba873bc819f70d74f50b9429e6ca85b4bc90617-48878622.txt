@@ -1,0 +1,30 @@
+bfa
+blizzard
+category:ine
+creator:joseph weston
+medium:digital 2d
+riot
+series:league of legends
+series:warcraft
+series:world of warcraft
+shadowlands
+species:canine
+species:canis
+species:elf
+species:mammal
+species:mythical
+species:night elf
+species:werewolf
+species:wolf
+species:worgen
+studio:blizzard entertainment
+studio:riot games
+subreddit:imaginaryazeroth
+subreddit:imfandoms
+title:wow - zephirya and devan
+title:zephirya and devan by joseph weston
+uploader:lol33ta
+valorant
+warrior
+wow
+wow shadowlands

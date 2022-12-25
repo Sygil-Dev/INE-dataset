@@ -1,0 +1,21 @@
+bastion
+blizzard
+category:ine
+character:amélie "widowmaker" lacroix
+character:widowmaker
+creator:zoma phamoz
+dva
+fanart
+hanzo
+medium:digital 2d
+overwatch
+reaper
+series:overwatch
+studio:blizzard entertainment
+subreddit:imaginaryoverwatch
+subreddit:imfandoms
+title:overwatch crossover fanart
+title:overwatch crossover fanart by zoma phamoz
+tracer
+uploader:net-diver
+widowmaker

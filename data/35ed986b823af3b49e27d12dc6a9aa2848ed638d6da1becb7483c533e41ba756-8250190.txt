@@ -1,0 +1,22 @@
+category:ine
+children
+creature
+fantasy art
+furry
+giraffes
+horns
+light house
+lightning
+mountains
+sea
+species:cervine
+species:mammal
+species:moose
+species:reptile
+species:scalie
+species:snake
+stags
+subreddit:imaginaryhybrids
+subreddit:immonsters
+title:glitch by erik shoemaker
+uploader:lambentenigma
