@@ -1,0 +1,63 @@
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+bodypart:black eyes
+bodypart:teeth
+brown body
+buckteeth
+candy
+category:ine
+chocolate
+chocolate chip
+chocolate chips
+chocolate_chips
+cookie
+creator:cryptid-creations
+creator:piperdraws
+dessert
+feral
+filename:dp1158_s
+food
+gender:ambiguous
+gender:male
+humor
+male:1
+medium:patreon reward
+medium:simple background
+medium:white background
+meta:2016
+meta:paid reward
+meta:patreon reward
+meta:url
+meta:white background
+pun
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+solo
+species:chipmunk
+species:food creature
+species:food_creature
+species:ground squirrel
+species:ground_squirrel
+species:mammal
+species:rodent
+species:sciurid
+subreddit:imaginaryfood
+subreddit:immeta
+tan body
+teeth
+text
+title:'chocolate chipmunk' by piper thibodeau
+title:daily paint #1158. chocolate chipmunk
+uploader:myrandall
+visual pun
+visual_pun
+website:reddit
+white_background
+yiff id:457132

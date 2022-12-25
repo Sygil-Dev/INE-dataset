@@ -1,0 +1,29 @@
+1 male
+1boy
+armor
+category:ine
+character:zer0
+english
+firearm
+gender:male
+gun
+haiku
+headwear
+helmet
+language:english
+male focus
+medium:english text
+medium:text
+poem
+rating:s
+rating:safe
+series:borderlands
+series:borderlands 2
+solo
+subreddit:imaginaryassassins
+subreddit:imcharacters
+sword
+text
+title:zer0 by justduet
+uploader:i_burn_cereal
+weapon

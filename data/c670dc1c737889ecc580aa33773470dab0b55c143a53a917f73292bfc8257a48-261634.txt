@@ -1,0 +1,51 @@
+1 female
+applibot
+artist:jana schirmer
+booru:danbooru
+branch
+category:ine
+character:lady of the lake
+clothing:dress
+copyright name
+copyright:legend of the cryptids
+creator:jana schirmer
+creator:janaschi
+dress
+gender:female
+head scarf
+legend of the cryptids
+long hair
+looking at viewer
+meta:commentary
+meta:english commentary
+multicolored
+multicolored clothes
+multicolored dress
+pov
+rating:safe
+rock
+scarf
+series:legend of the cryptids
+solo
+standing
+subreddit:imaginaryimmortals
+subreddit:imaginarymythology
+subreddit:imaginaryspirits
+subreddit:imaginaryweaponry
+subreddit:imcharacters
+subreddit:immonsters
+subreddit:imraces
+subreddit:imtechnology
+sword
+title:lady of the lake
+title:lady of the lake 2
+title:lady of the lake 02
+title:lady of the lake 02 by jana schirmer
+title:lady of the lake 2 by jana schirmer
+title:lady of the lake by jana schirmer
+tree
+uploader:davekayaus
+uploader:incredibel
+uploader:myrandall
+uploader:sylvyrfyre
+weapon

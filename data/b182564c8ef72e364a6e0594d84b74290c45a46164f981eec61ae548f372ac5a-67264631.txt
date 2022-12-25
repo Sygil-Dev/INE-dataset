@@ -1,0 +1,19 @@
+cable
+character:domino (marvel)
+character:nathan "cable" summers
+creator:ivanna matilla
+deadpool
+domino
+medium:digital 2d
+psylocke
+series:cable (marvel)
+series:x-force
+studio:marvel
+subreddit:imaginarymutants
+subreddit:imfandoms
+title:x-force by chokoo and ivanna matilla
+uploader:i_burn_cereal
+wolverine
+x force
+xforce
+xmen

@@ -1,0 +1,96 @@
+ambiguous gender
+ambiguous_gender
+artist:caraid
+black body
+black fur
+black horn
+black horns
+black nose
+black_body
+black_fur
+black_horn
+black_nose
+booru:e621
+branch
+brown body
+brown fur
+brown_body
+brown_fur
+category:ine
+claws
+countershade face
+countershade torso
+countershade_face
+countershade_torso
+countershading
+creator:caraid
+day
+detailed background
+detailed_background
+feral
+fur
+gender:ambiguous
+grey body
+grey fur
+grey_body
+grey_fur
+group
+hooves
+horn
+horns
+long claws
+long_claws
+medium:detailed background
+medium:digital media
+medium:high resolution
+meta:2020
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:hi res
+meta:hi_res
+meta:official art
+multicolored body
+multicolored fur
+multicolored_body
+multicolored_fur
+on branch
+on_branch
+orange eyes
+orange_eyes
+outside
+purple body
+purple fur
+purple_body
+purple_fur
+rating:safe
+red body
+red fur
+red_body
+red_fur
+rosettes
+series:hasbro
+series:magic: the gathering
+series:official art
+series:wizards of the coast
+species:antelope
+species:bovid
+species:felid
+species:feline
+species:mammal
+spots
+spotted body
+spotted fur
+spotted_body
+spotted_fur
+subreddit:imaginaryanimals
+subreddit:imnature
+title:canopy stalker by lhuneart
+uploader:myrandall
+walking
+whiskers
+white body
+white countershading
+white fur
+white_body
+white_countershading
+white_fur

@@ -1,0 +1,68 @@
+action:open mouth
+anthropomorphism
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+bottomwear
+brown body
+brown fur
+brown_body
+brown_fur
+butterfly wings
+category:ine
+character:tooth fairy
+character:tooth_fairy
+clothed
+clothing
+clothing:bottomwear
+clothing:skirt
+creator:cryptid-creations
+female
+fur
+gender:female
+humor
+lepidopteran wings
+lepidopteran_wings
+medium:simple background
+medium:white background
+meme:humor
+meta:2018
+meta:url
+open mouth
+open_mouth
+pun
+rating:safe
+sigh
+simple background
+simple_background
+skirt
+solo
+species:domestic ferret
+species:domestic_ferret
+species:ferret
+species:mammal
+species:mustela
+species:mustelid
+species:musteline
+species:true musteline
+star
+subreddit:imaginaryfaeries
+subreddit:imaginaryhybrids
+subreddit:immonsters
+subreddit:imraces
+tan body
+tan fur
+tan_body
+tan_fur
+teeth
+text
+tired
+title:tooth ferret by piper thibodeau
+topless
+uploader:myrandall
+wand
+white background
+white_background
+wings
+year:2018

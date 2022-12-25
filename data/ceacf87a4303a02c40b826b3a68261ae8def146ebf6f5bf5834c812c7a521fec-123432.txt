@@ -1,0 +1,81 @@
+1 female
+1 male
+1boy
+1girl
+background
+backwards hat
+bird
+black boots
+black dress
+black footwear
+black hair
+black jacket
+blonde hair
+blurry
+boots
+building
+cable
+cable car
+category:ine
+city
+clothing:footwear
+clothing:headwear
+clothing:legwear
+commentary
+creator:noba
+creator:pokopem
+creator:のば
+depth of field
+dress
+facing away
+fantasy
+foot dangle
+footwear
+from behind
+gears
+gender:female
+gender:male
+genre:fantasy
+genre:steampunk
+goggles
+goggles on head
+goggles on headwear
+hat
+heels
+high heel boots
+high heels
+house
+jacket
+knee boots
+ladder
+landscape
+long hair
+meta:commentary
+pants
+people
+pillar
+pixiv artist id:222905
+pixiv illust id:62207383
+railing
+rating:adult
+rating:mature
+rating:safe
+scenery
+series:original
+shirt
+short hair
+signature
+sitting
+sleeveless
+sleeveless dress
+species:avian
+steam
+steampunk
+subreddit:imaginarysteampunk
+subreddit:imtechnology
+title:gyro house
+uniform
+waving
+wheel
+建物
+機械

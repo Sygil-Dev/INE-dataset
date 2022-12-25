@@ -1,0 +1,21 @@
+category:ine
+clothing:dress
+creator:zeen chin
+creature
+dress
+gender:female
+kill
+little daemons
+medium:digital 2d
+monster
+painting
+re-child
+red hair
+species:goblin
+subreddit:imaginarycarnage
+subreddit:imnsfw
+title:kill monday, live long sunday, by zeen chin
+title:殺了星期一，星期天萬歲 。kill monday, long live sunday
+uploader:sylvyrfyre
+warrior
+zeen chin

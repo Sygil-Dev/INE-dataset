@@ -1,0 +1,51 @@
+ambiguous gender
+ambiguous_gender
+artist:alradeck
+booru:e621
+card
+category:ine
+class:mammal
+claws
+creator:alradeck
+creator:firefeathers
+family:felidae
+feral
+gathering
+gender:ambiguous
+green body
+green scales
+green_body
+green_scales
+kingdom
+little
+magic
+medium:digital media
+meta:2019
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+mtg
+rating:safe
+rock
+scales
+solo
+source:furaffinity.net
+species:cat
+species:felid
+species:feline
+species:fish
+species:hybrid
+species:mammal
+species:marine
+species:merfolk
+species:mythical
+subreddit:imaginarymerfolk
+subreddit:imraces
+the
+title:card kingdom: merfolk token
+title:merfolk token by a.l. radeck
+token
+tokens
+uploader:myrandall
+water
+year:2019
+year:dec 5, 2019

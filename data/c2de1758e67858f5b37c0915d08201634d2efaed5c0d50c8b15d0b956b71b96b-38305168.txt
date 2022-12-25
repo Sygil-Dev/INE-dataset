@@ -1,0 +1,44 @@
+1 male
+barefoot
+black eyes
+bone
+bottle
+brown hair
+brown pants
+candle
+clothing:legwear
+creator:devin elle kurtz
+creature
+crossed legs
+drawer
+feet
+fire
+frown
+gender:male
+holding
+holding bone
+horns
+indoors
+jar
+legwear
+light
+medium:high resolution
+meta:commentary
+meta:english commentary
+pants
+pillow
+plant
+rating:safe
+red shirt
+series:original
+shirt
+short sleeves
+sitting
+sitting on ground
+skeleton
+skull
+stairs
+subreddit:imaginarydruids
+title:fyogan's workshop by tamberella
+uploader:lambentenigma
+wood

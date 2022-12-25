@@ -1,0 +1,22 @@
+artwork
+beeple
+category:ine
+cube
+dark
+fantasy art
+futuristic
+genre:science fiction
+lights
+medium:3d rendering
+medium:digital media
+neon
+subreddit:imaginaryimmortals
+subreddit:imaginarymythology
+subreddit:imaginaryrobotics
+subreddit:imcharacters
+subreddit:imraces
+subreddit:imtechnology
+surreal
+title:"artificial supergod six" by beeple
+uploader:[deleted]
+uploader:bretcodes

@@ -1,0 +1,65 @@
+1 female
+1 male
+1boy
+1girl
+10s
+brown hair
+category:ine
+character:beautifly
+character:brendan (pokemon oras)
+character:brendan (pokemon)
+character:haruka (pokemon)
+character:haruka (pokemon) (remake)
+character:may (pokemon oras)
+character:may (pokemon)
+character:pokemon character
+character:protagonist (pokemon)
+character:skitty
+character:torchic
+character:yuuki (pokemon)
+character:yuuki (pokemon) (remake)
+clothing:footwear
+clothing:headwear
+creator:yakkun
+footwear
+forest
+from below
+gen 3 pokemon
+gender:female
+gender:male
+grass
+hat
+head out of frame
+holding
+holding umbrella
+meta:commentary request
+nature
+pokemon (creature)
+rain
+rating:safe
+series:creatures (company)
+series:game freak
+series:nintendo
+series:pokemon
+series:pokemon (game)
+series:pokemon oras
+series:pokémon
+series:pokémon omega ruby & alpha sapphire
+shoes
+short hair
+sneakers
+solo focus
+species:beautifly
+species:monster
+species:pokémon
+species:skitty
+species:torchic
+starter pokemon
+studio:nintendo
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:such a season by やっくん
+transparent
+transparent umbrella
+umbrella
+uploader:[deleted]

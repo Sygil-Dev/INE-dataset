@@ -1,0 +1,33 @@
+ambiguous gender
+ambiguous_gender
+artist:tamberella
+category:ine
+creator:tamberella
+feral
+fur
+gender:ambiguous
+green body
+green fur
+green_body
+green_fur
+medium:digital media
+meta:2020
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+orange eyes
+orange_eyes
+raining
+rating:safe
+solo
+species:cougar
+species:felid
+species:feline
+species:mammal
+subreddit:imaginaryelementals
+subreddit:imaginaryweather
+subreddit:immonsters
+subreddit:imnature
+title:night rain by devin elle kurtz
+uploader:lol33ta
+uploader:myrandall
+year:2020

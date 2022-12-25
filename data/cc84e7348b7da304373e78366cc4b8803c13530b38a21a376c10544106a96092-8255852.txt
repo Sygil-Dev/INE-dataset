@@ -1,0 +1,47 @@
+booru:e621
+category:ine
+character:fan character
+creator:yakovlev-vad
+detailed background
+duo
+feathered wings
+feathers
+female
+feral
+fur
+garrison cap
+gender:female
+genre:fantasy
+green body
+green eyes
+green fur
+hi res
+hooves
+medium:detailed background
+medium:high resolution
+meta:hi res
+meta:original character
+original character
+paws
+pink body
+pink feathers
+pink fur
+rating:safe
+series:my little pony
+series:my little pony friendship is magic
+series:my little pony: friendship is magic
+smile
+species:equid
+species:equine
+species:mammal
+species:mythical
+species:non-human animal
+species:pegasus
+species:pterippus
+studio:hasbro
+subreddit:imaginaryequestria
+subreddit:imfandoms
+title:"assistant" by yakovlev vadim (yakovlev-vad)
+title:assistant
+uploader:torvusil
+wings

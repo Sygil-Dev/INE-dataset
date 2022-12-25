@@ -1,0 +1,41 @@
+1 female
+1girl
+armor
+bodysuit
+brown eyes
+brown hair
+category:ine
+character:codsworth
+character:sole survivor (female)
+clothing:armor
+clothing:bodysuit
+clothing:bottomwear
+clothing:eyewear
+clothing:glasses
+clothing:hat
+clothing:headwear
+clothing:topwear
+codsworth
+creator:majoee
+eyewear
+fallout
+gender:female
+glasses
+hat
+majoee
+meta:bad id
+meta:bad twitter id
+rating:mature
+rating:s
+rating:safe
+robot
+series:fallout
+series:fallout 4
+short hair
+sole_survivor_(female)
+species:robot
+subreddit:imaginaryfallout
+subreddit:imfandoms
+title:codsworth, mister handy and sole survivor by majoee
+uploader:saallee
+vault suit

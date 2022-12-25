@@ -1,0 +1,84 @@
+90s
+::d
+ambiguous gender
+ambiguous_gender
+art
+artist name
+artist:tsaoshin
+booru:e621
+booru:safebooru
+bulbasaur
+category:ine
+chibi
+claws
+copyright:nintendo
+copyright:pokémon
+creator:eric proctor
+creator:tsaoshin
+cute
+digital
+ericproctor
+fan
+fangs
+feral
+full body
+furry
+gen 1 pokemon
+gen 1 pokémon
+gender:ambiguous
+gradient
+gradient background
+looking at viewer
+looking_at_viewer
+medium:1:1 aspect ratio
+medium:artist name
+medium:digital media
+medium:gradient background
+medium:simple background
+meta:1:1
+meta:2016
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+nintendo
+no humans
+open mouth
+open_mouth
+painting
+photoshop
+plant
+pokemon
+pokemon (creature)
+pool:15535
+pov
+rating:mature
+rating:safe
+red eyes
+series:nintendo
+series:pokemon (game)
+series:pokémon
+series:pokémon red green blue & yellow
+signature
+smile
+solo
+species:bulbasaur
+species:elemental creature
+species:elemental_creature
+species:flora fauna
+species:flora_fauna
+species:monster
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+species:scalie
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imaginarykanto
+subreddit:imfandoms
+teeth
+title:001 - bulbasaur
+title:"001 - bulbasaur" by eric proctor (tsaoshin)
+tsaoshin
+uploader:torvusil
+video games
+video_games
+year:2016

@@ -1,0 +1,23 @@
+beach
+category:ine
+character:wonder woman
+classic
+clothing:armor
+creator:diego cunha
+diana
+genre:fantasy
+goddess
+medium:digital 2d
+series:wonder woman
+studio:dc comics
+subreddit:imaginarydc
+subreddit:imfandoms
+sword
+title:w. w.
+title:w. w. by diego cunha
+title:wonder woman by diego cunha
+uploader:[deleted]
+uploader:lol33ta
+uploader:owntheknight
+weapon
+woman

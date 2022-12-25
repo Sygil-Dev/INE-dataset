@@ -1,0 +1,26 @@
+armor
+bikini
+bikini armor
+blood elf
+clothing:armor
+clothing:bikini
+clothing:swimsuit
+cosplay design
+creator:zach fischer
+female
+gender:female
+impractical armor
+medium:digital 2d
+paladin
+revealing armor
+subreddit:imaginaryazeroth
+subreddit:impracticalarmour
+swimsuit
+swimwear
+title:judgement paladin by zach fischer
+title:judgement paladin concept by zach fischer
+title:judgement paladin redesign concept
+title:judgement paladin wow
+uploader:lol33ta
+warcraft
+website:reddit

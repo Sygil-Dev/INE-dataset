@@ -1,0 +1,38 @@
+1 female
+1 male
+armor
+blonde hair
+blood
+bodily fluids
+category:ine
+character:eowyn
+character:nazgul
+character:nazgûl
+character:theoden
+claws
+creator:depingo
+creator:john ronald reuel tolkien
+crown
+crown tail
+death
+gender:female
+gender:male
+genre:fantasy
+long hair
+middle earth
+monster
+mountain
+open mouth
+pauldrons
+rating:safe
+series:the lord of the rings
+shield
+subreddit:imaginarymiddleearth
+subreddit:imfandoms
+sword
+tail
+title:eowyn and the nazgul
+title:eowyn and the nazgul by anna steinbauer
+uploader:drunkindragon
+weapon
+wings

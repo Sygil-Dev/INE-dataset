@@ -1,0 +1,22 @@
+category:ine
+creator:eddie mendoza
+environment
+epic
+fantasy
+illustration
+landscape
+monk
+ruins
+science fiction
+space fantasy
+subreddit:imaginaryarchitecture
+subreddit:imaginaryruins
+subreddit:imaginarytemples
+subreddit:imarchitecture
+temple
+title:shambhala
+title:shambhala by eddie mendoza
+uploader:crowe410
+uploader:dr_mrs_them0narch
+uploader:elumental
+waterfall

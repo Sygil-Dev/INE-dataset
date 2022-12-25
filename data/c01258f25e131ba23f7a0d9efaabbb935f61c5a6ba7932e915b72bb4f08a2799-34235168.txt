@@ -1,0 +1,40 @@
+ambiguous_gender
+artist:cryptid-creations
+book
+claws
+creator:cryptid-creations
+feathers
+gender:ambiguous
+humor
+math
+medium:simple background
+medium:text
+medium:white background
+meme:humor
+meta:url
+pencil (object)
+pencil_(object)
+pun
+rating:safe
+red body
+red feathers
+red_body
+red_feathers
+simple_background
+species:avian
+species:bird
+species:owl
+subreddit:imaginaryscholars
+subreddit:imcharacters
+text
+title:owlgebra by piper thibodeau
+uploader:lol33ta
+visual pun
+visual_pun
+white body
+white feathers
+white_background
+white_body
+white_feathers
+yellow eyes
+yellow_eyes

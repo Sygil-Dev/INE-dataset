@@ -1,0 +1,30 @@
+1863
+category:ine
+concept
+concept art
+creator:jakub rozalski
+dark
+illustration
+landscape
+medium:concept art
+medium:digital 2d
+mood
+painting
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:werewolf
+species:wolf
+subreddit:imaginarywerewolves
+subreddit:immonsters
+title:1863 - after party
+title:1863 - after party by jakub rozalski
+title:1863 after party, by jacob rozalski
+uploader:sylvyrfyre
+uploader:valar_m0rghul1s
+werewolf
+werewolves
+winter
+wolf
+wolfpack

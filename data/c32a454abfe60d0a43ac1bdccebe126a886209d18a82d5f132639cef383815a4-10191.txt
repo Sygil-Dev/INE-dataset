@@ -1,0 +1,54 @@
+bird
+blue
+blue theme
+booru:danbooru
+booru:danbooru-safebooru
+booru:gelbooru
+booru:safebooru
+category:ine
+character:articuno
+claws
+commentary
+commission
+creator:rabenfeder
+creature
+english commentary
+flying
+full body
+gen 1 pokemon
+ice
+legendary pokemon
+medium:watermark
+medium:web address
+meta:commentary
+meta:commission
+meta:english commentary
+no humans
+pokemon (creature)
+rabenfeder
+rating:mature
+rating:safe
+realistic
+series:creatures (company)
+series:game freak
+series:pokemon
+series:pokémon
+solo
+species:articuno
+species:avian
+species:bird
+species:legendary pokémon
+species:monster
+species:pokémon
+studio:creatures (company)
+studio:game freak
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:"articuno" by rabenfeder
+title:commission - articuno
+uploader:torvusil
+watermark
+web address
+yellow eyes

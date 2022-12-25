@@ -1,0 +1,31 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+creator:cryptid-creations
+feral
+filename:dp1839_s
+group
+medium:patreon reward
+rating:safe
+rock
+shell
+simple background
+simple_background
+site:patreon
+site:yiff.party
+species:lutrine
+species:mammal
+species:mustelid
+subreddit:imaginaryanimals
+subreddit:imnature
+title:1$ patreon pack - daily paint 1839# otterly shellfish
+title:5$ patreon pack - daily paint 1839# otterly shellfish
+title:daily paint 1839# otterly shellfish
+title:otterly shellfish by piper thibodeau
+uploader:myrandall
+water
+website:reddit
+white background
+white_background
+yiff id:457132

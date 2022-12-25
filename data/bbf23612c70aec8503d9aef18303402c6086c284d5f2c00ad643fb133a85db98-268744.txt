@@ -1,0 +1,21 @@
+art
+category:ine
+creator:tomás norambuena
+digitalpainting
+fantasy
+illustration
+lcg
+medium:digital 2d
+monster
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:wolf
+subreddit:imaginarywerewolves
+subreddit:immonsters
+title:werewolf warlock
+title:werewolf warlock, by tomás norambuena
+uploader:nikephoros_ii_phokas
+warlock
+werewolf

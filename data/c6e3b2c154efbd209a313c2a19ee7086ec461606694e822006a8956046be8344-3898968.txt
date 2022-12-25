@@ -1,0 +1,37 @@
+1 male
+4 females
+artist:robin7188
+ball
+bodypart:horns
+booru:danbooru
+category:ine
+copyright:original
+creator:banned artist
+creator:robin7188
+emotion:joy
+female:2+
+female:4
+filename:28905020.jpg
+folder:pics
+gender:female
+gender:male
+high resolution
+horns
+lantern
+male:1
+medium:high resolution
+meta:highres
+multiple females
+multiple girls
+original
+rating:safe
+robin7188
+series:original
+species:cat
+species:feline
+species:mammal
+subreddit:imaginarycolorscapes
+subreddit:immeta
+title:bancho cat house by ▲わわわ▲
+uploader:[deleted]
+website:danbooru

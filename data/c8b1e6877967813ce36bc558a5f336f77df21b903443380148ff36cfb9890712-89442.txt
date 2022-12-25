@@ -1,0 +1,98 @@
+action:open mouth
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+blue body
+blue feathers
+blue_body
+blue_feathers
+bodypart:black eyes
+bodypart:horns
+bodypart:wings
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+feathered wings
+feathered_wings
+feathers
+feral
+filename:dp1314_s
+furry
+gender:ambiguous
+grass
+grey body
+grey scales
+grey_body
+grey_scales
+group
+horn
+horns
+humor
+medium:patreon reward
+medium:simple background
+medium:white background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:white background
+nest
+open mouth
+open_mouth
+orange body
+orange feathers
+orange_body
+orange_feathers
+plant
+pun
+purple body
+purple feathers
+purple_body
+purple_feathers
+rating:safe
+red body
+red feathers
+red_body
+red_feathers
+scales
+simple background
+simple_background
+site:patreon
+site:yiff.party
+solo focus
+solo_focus
+species:avian
+species:bird
+species:ceratopsian
+species:dinosaur
+species:elemental_creature
+species:extinct
+species:flora fauna
+species:flora_fauna
+species:ornithischian
+species:reptile
+species:scalie
+species:triceratops
+subreddit:imaginarydinosaurs
+subreddit:immonsters
+title:daily 1314. treeceratops
+title:treeceratops by piper thibodeau
+tree
+uploader:myrandall
+visual pun
+visual_pun
+white body
+white feathers
+white scales
+white_background
+white_body
+white_feathers
+white_scales
+wings
+yellow body
+yellow feathers
+yellow_body
+yellow_feathers
+yiff id:457132

@@ -1,0 +1,23 @@
+attack
+category:ine
+creator:phu thieu
+demons
+fighting
+fire
+fullplate armor
+hell
+horse
+king
+knight
+lancer
+lion
+medium:digital 2d
+monsters
+rider
+subreddit:imaginarydemons
+subreddit:immonsters
+title:demon: allocer by phu thieu
+title:my artwork: demon: allocer
+uploader:myrandall
+war
+warrior

@@ -1,0 +1,50 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+bottomless
+canid
+canine
+canis
+category:ine
+character:felis
+clothed
+clothed feral
+clothed_feral
+clothing
+clothing:hoodie
+clothing:topwear
+creator:cryptid-creations
+domestic cat
+domestic dog
+duo
+felid
+feline
+feral
+furniture
+hoodie
+mammal
+rating:safe
+simple background
+simple_background
+species:canid
+species:canine
+species:canis
+species:cat
+species:domestic cat
+species:domestic dog
+species:domestic_cat
+species:domestic_dog
+species:felid
+species:feline
+species:felis
+species:mammal
+stool
+subreddit:imaginaryanimals
+subreddit:imaginaryaww
+subreddit:immeta
+subreddit:imnature
+title:barkour by piper thibodeau
+topwear
+uploader:myrandall
+white background
+white_background

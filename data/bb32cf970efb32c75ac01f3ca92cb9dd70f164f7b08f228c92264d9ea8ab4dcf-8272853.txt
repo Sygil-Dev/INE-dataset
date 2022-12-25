@@ -1,0 +1,35 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+coleoid
+creator:cryptid-creations
+cuttlefish
+decapodiform
+feral
+food
+makizushi
+marine
+meta:english text
+meta:english_text
+meta:url
+nigirizushi
+rating:safe
+simple background
+simple_background
+solo
+species:cephalopod
+species:coleoid
+species:cuttlefish
+species:decapodiform
+species:marine
+species:mollusc
+species:mollusk
+subreddit:imaginaryfood
+subreddit:immeta
+sushi
+text
+title:cutterfish by piper thibodeau
+uploader:myrandall
+white background
+white_background

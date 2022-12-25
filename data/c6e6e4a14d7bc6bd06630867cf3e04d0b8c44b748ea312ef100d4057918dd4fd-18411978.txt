@@ -1,0 +1,39 @@
+armor
+art
+bomber
+category:ine
+character
+city
+colors
+concept
+creator:filippo ubertino
+design
+draw
+drone
+firearm
+future
+genre:science fiction
+giant
+green
+gun
+jacket
+led
+machine
+mech
+mecha
+medium:digital 2d
+padded
+piumino
+species:robot
+sphere
+subreddit:imaginaryrobotics
+subreddit:imtechnology
+title:mf gun_138 alum
+title:mf gun_138 alum by filippo ubertino
+tubes
+uploader:lol33ta
+videogame
+visor
+war
+weapon
+white

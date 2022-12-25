@@ -1,0 +1,29 @@
+armor
+category:ine
+character:darjia
+clothed
+clothing
+clothing:armor
+creator:azaleesh
+fire
+gender:female
+hammer
+human only
+machine
+medium:high resolution
+not furry
+power armor
+series:warhammer
+series:warhammer 40k (franchise)
+sister of battle
+solo
+species:human
+species:mammal
+species:primate
+studio:games workshop
+subreddit:imaginarywarhammer
+subreddit:imfandoms
+title:with armor and fire for the empire [c] by azaleesh
+tools
+uploader:chaosmarine123
+warhammer

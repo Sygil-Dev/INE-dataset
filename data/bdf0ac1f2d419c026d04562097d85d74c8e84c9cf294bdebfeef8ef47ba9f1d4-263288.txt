@@ -1,0 +1,23 @@
+category:ine
+fan art
+fantasy art
+futuristic
+gender:female
+genre:cyberpunk
+genre:science fiction
+ground vehicle
+katana
+medium:digital media
+motor vehicle
+motorcycle
+pink hair
+shuo shi
+species:robot
+subreddit:imaginaryweaponry
+subreddit:imtechnology
+sword
+title:mechanical girl 3 by shuo shi
+uploader:valar_m0rghul1s
+vehicle
+warrior
+weapon

@@ -1,0 +1,50 @@
+ambiguous gender
+brain
+category:ine
+chicken meat
+chicken nugget
+container
+creator:cryptid-creations
+creator:piperdraws
+cup
+empty eyes
+filename:dp1063_s
+food
+frown
+meat
+medium:patreon reward
+meta:2015
+meta:english text
+meta:paid reward
+meta:patreon reward
+meta:url
+napkin
+open mouth
+organs
+rating:safe
+simple background
+site:patreon
+site:yiff.party
+solo
+species:ambient arthropod
+species:ambient insect
+species:animate inanimate
+species:arthropod
+species:dipteran
+species:food creature
+species:housefly
+species:insect
+species:undead
+species:zombie
+straw
+subreddit:imaginaryfood
+subreddit:immeta
+taco
+text
+title:daily paint #1063. zombie taco
+title:daily paint #1063. zombie taco by piper thibodeau
+uploader:hvitserkr
+website:reddit
+white background
+white eyes
+yiff id:457132
