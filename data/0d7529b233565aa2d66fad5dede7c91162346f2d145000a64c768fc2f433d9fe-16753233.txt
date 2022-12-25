@@ -1,0 +1,33 @@
+army
+art
+black
+category:ine
+character
+concept
+creator:filippo ubertino
+death
+genre:science fiction
+guns
+hard
+mech
+medium:digital 3d
+model
+nazist
+panzer
+red
+render
+revenge
+robot
+sci-fi
+sculpt
+second
+species:robot
+ss
+subreddit:imaginarymechs
+subreddit:imtechnology
+surface
+tank
+title:u-kanone.1
+title:u-kanone.1 by filippo ubertino
+uploader:lol33ta
+war

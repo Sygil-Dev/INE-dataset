@@ -1,0 +1,22 @@
+ambiguous_gender
+artist:tsaoshin
+category:ine
+creator:tsaoshin
+gender:ambiguous
+group
+meta:3:2
+moon
+mountain
+night
+rating:safe
+sky
+species:canid
+species:canine
+species:canis
+species:mammal
+species:wolf
+star
+subreddit:imaginarycolorscapes
+subreddit:immeta
+title:kindred by tsaoshin
+uploader:lol33ta
