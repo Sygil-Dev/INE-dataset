@@ -1,0 +1,44 @@
+animal
+black eyes
+book
+book (object)
+cat
+category:ine
+clothing:legwear
+creator:nakanoart
+eyes closed
+freckles
+gender:female
+glowing
+holding
+holding book
+holding object
+lying
+medium:artist name
+medium:text
+midriff
+navel
+no shoes
+orange hair
+ponytail
+reading
+series:original
+shirt
+short hair
+short sleeves
+shorts
+sidelocks
+smile
+solo
+species:feline
+species:mammal
+star (sky)
+stomach
+subreddit:imaginaryaww
+subreddit:immeta
+thigh-highs
+tied hair
+title:big imagination by nakano art (r/celestialbodies)
+uploader:lol33ta
+white legwear
+white shirt
