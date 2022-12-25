@@ -1,0 +1,44 @@
+army
+booru:e621
+category:ine
+creator:hamsterfly
+creator:viktor titov
+feral
+fortress
+group
+holding object
+holding weapon
+landscape
+macro
+meta:official art
+quadruped
+rating:safe
+series:hasbro
+series:magic: the gathering
+series:official art
+series:wizards of the coast
+solo focus
+species:behemoth (disambiguation)
+species:human
+species:mammal
+species:monster
+species:primate
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarybehemoths
+subreddit:imaginarytowers
+subreddit:imaginaryturtleworlds
+subreddit:imarchitecture
+subreddit:immeta
+subreddit:immonsters
+title:'siegecraft' by viktor titov [x-post /r/imaginarybattlefields]
+title:siege craft
+title:siege craft by viktor titov
+title:siegecraft by viktor titov
+tusks
+uploader:crowe410
+uploader:drunkindragon
+uploader:m1dn1ght5un
+uploader:nt337
+walking
+weapon

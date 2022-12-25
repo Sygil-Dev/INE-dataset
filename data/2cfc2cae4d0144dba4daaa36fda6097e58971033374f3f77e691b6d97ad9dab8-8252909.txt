@@ -1,0 +1,56 @@
+2018
+bone
+booru:e621
+category:ine
+clothed
+clothing
+clothing:tagme
+creator:yakovlev-vad
+detailed background
+digital media (artwork)
+female
+feral
+forest
+gender:female
+genre:fantasy
+group
+hair
+hi res
+hooves
+horn
+horns
+magic user
+medium:detailed background
+medium:digital media
+medium:high resolution
+melee weapon
+meta:2018
+meta:digital media (artwork)
+meta:hi res
+plant
+rating:safe
+series:hasbro
+series:my little pony
+series:my little pony friendship is magic
+series:my little pony: friendship is magic
+series:the witcher
+skull
+species:equid
+species:equine
+species:mammal
+species:mythical
+species:non-human animal
+species:undead
+species:unicorn
+studio:hasbro
+subreddit:imaginaryequestria
+subreddit:imfandoms
+sword
+title:"time to work" by yakovlev vadim
+title:time to work (patreon reward)
+tree
+uploader:torvusil
+weapon
+white hair
+year:2018
+yellow eyes

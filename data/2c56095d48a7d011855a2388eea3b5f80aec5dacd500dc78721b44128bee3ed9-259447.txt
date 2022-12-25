@@ -1,0 +1,55 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beverage
+black eyes
+blep
+canid
+canine
+canis
+cappuccino (coffee)
+category:ine
+coffee
+creator:cryptid-creations
+cup
+dog biscuit
+dog food
+dog treat
+dog_biscuit
+domestic dog
+feral
+food
+food creature
+humor
+mammal
+meta:2018
+meta:english text
+meta:english_text
+meta:url
+pawpads
+pet food
+pun
+rating:safe
+saucer
+solo
+species:canid
+species:canine
+species:canis
+species:domestic dog
+species:domestic_dog
+species:food creature
+species:food_creature
+species:mammal
+subreddit:imaginaryaww
+subreddit:imaginaryfood
+subreddit:immeta
+tea cup
+text
+title:"cappoochino" by piper thibodeau
+title:cappoochino by piper thibodeau
+title:daily paint 2032# cappoochino
+tongue
+tongue out
+uploader:myrandall
+uploader:torvusil

@@ -1,0 +1,36 @@
+armordesign
+astajsic
+category:concept art
+category:ine
+characterdesign
+conceptart
+creator:aleksa stajsic
+environment
+fantasy
+greek
+hercules
+knight
+landscape
+lion
+medium:digital 2d
+mythology
+subreddit:conceptart
+subreddit:imaginaryarmor
+subreddit:imaginarybeasts
+subreddit:imaginaryimmortals
+subreddit:imaginaryknights
+subreddit:imaginarymythology
+subreddit:imaginarynobles
+subreddit:imaginarysoldiers
+subreddit:imaginarywarriors
+subreddit:imaginaryweaponry
+subreddit:imcharacters
+subreddit:immeta
+subreddit:immonsters
+subreddit:imraces
+subreddit:imtechnology
+title:6th labor of hercules
+title:6th labor of hercules, aleksa stajsic
+uploader:al3ks4
+warrior
+weapondesign
