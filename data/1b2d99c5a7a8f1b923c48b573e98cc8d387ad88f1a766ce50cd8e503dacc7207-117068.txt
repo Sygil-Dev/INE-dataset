@@ -1,0 +1,22 @@
+category:ine
+creator:zack stella
+eldritch moon
+fire
+innistrad
+magic
+magic:the gathering
+medium:digital 2d
+monster
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:wolf
+subreddit:imaginarywerewolves
+subreddit:immonsters
+title:smoldering werewolf - m:tg eldritch moon
+title:smoldering werewolf by zack stella
+title:smoldering werewolf by zack stella from magic: the gathering
+uploader:nikephoros_ii_phokas
+uploader:the-thirteenth
+werewolf

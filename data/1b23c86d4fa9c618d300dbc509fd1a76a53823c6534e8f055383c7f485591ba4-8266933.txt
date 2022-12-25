@@ -1,0 +1,30 @@
+art
+bastien
+bicycle
+blue
+category:ine
+color
+concept
+creator:bastien grivet
+flash
+grivetart
+ground vehicle
+medium:digital 2d
+motor vehicle
+motorcycle
+neon
+nerve
+purple
+red
+road
+sciencefiction
+sharp
+speed
+subreddit:imaginarycyberpunk
+subreddit:imtechnology
+title:on my way
+title:on my way, by bastien grivet
+tron
+uploader:panzer-kunst
+vehicle
+way

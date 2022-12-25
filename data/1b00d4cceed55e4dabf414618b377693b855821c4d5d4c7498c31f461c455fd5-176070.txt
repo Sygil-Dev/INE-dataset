@@ -1,0 +1,62 @@
+ambiguous gender
+ambiguous_gender
+artist:arvalis
+category:ine
+claws
+creator:arvalis
+day
+detailed background
+detailed_background
+dorsal frill
+dorsal_frill
+feral
+frill (anatomy)
+frill spines
+frill_(anatomy)
+frill_spines
+furry
+gender:ambiguous
+head crest
+head frill
+head_crest
+head_frill
+horn
+horns
+medium:absurd resolution
+medium:detailed background
+medium:digital media
+medium:high resolution
+membrane (anatomy)
+membrane_(anatomy)
+membranous wings
+membranous_wings
+meta:2017
+meta:absurd res
+meta:absurd_res
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:hi res
+meta:hi_res
+outside
+pose
+rating:safe
+scales
+sky
+solo
+species:dragon
+species:mythical
+species:scalie
+species:western dragon
+species:western_dragon
+spines
+spread wings
+spread_wings
+subreddit:imaginarydragons
+subreddit:immonsters
+tail frill
+tail_frill
+title:"european dragon" by rj palmer (arvalis)
+title:european dragon
+uploader:nikephoros_ii_phokas
+wings
+year:2017
