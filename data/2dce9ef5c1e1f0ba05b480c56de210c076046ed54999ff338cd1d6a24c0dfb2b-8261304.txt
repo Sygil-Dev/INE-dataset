@@ -1,0 +1,53 @@
+action:open mouth
+ambiguous gender
+anthro
+anthropomorphism
+black eyes
+bodypart:black eyes
+book
+category:ine
+clothing
+clothing:sweater
+clothing:topwear
+creator:cryptid-creations
+creator:piperdraws
+english text
+filename:dp1215_s
+furry
+gender:ambiguous
+gender:male
+green body
+green scales
+language:english
+male:1
+medium:english text
+medium:patreon reward
+medium:simple background
+medium:text
+medium:white background
+meme:humor
+meta:english text
+meta:paid reward
+meta:patreon reward
+meta:tagme
+meta:url
+open mouth
+pun
+rating:safe
+scales
+simple background
+site:patreon
+site:yiff.party
+solo
+species:reptile
+species:scalie
+species:turtle
+subreddit:imaginarybooks
+subreddit:immeta
+text
+title:daily paint #1215. turtleneck
+title:daily paint #1215. turtleneck by piper thibodeau
+topwear
+uploader:hvitserkr
+white background
+yiff id:457132
