@@ -1,0 +1,31 @@
+all male
+art:wallpaper
+black hair
+board:/x/
+book
+category:ine
+character:wizard
+clouds
+creator:ka92
+creator:ka-92
+gender:male
+jpeg artifacts
+landscape
+male
+medium:image
+medium:jpg
+medium:wallpaper
+notawallpaper
+scenic
+series:original
+short hair
+site:4chan.org
+sky
+subreddit:imaginaryscholars
+subreddit:imcharacters
+title:solitude
+title:solitude, by ka-92
+uploader:belledame-sans-serif
+wallpaper
+wallpapers
+website:reddit
