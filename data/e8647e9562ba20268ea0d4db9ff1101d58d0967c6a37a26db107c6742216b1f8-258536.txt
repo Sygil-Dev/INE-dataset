@@ -1,0 +1,61 @@
+action:open mouth
+black eyes
+bodypart:black eyes
+brown body
+brown fur
+carpet
+category:ine
+character:fortune teller
+character:pearl (disambiguation)
+clothing:jewelry
+clothing:necklace
+creator:cryptid-creations
+crystal ball
+duo
+feral
+fish
+fortune teller
+fortune telling
+fur
+gem
+gender:ambiguous
+gypsy
+humor
+jewelry
+mammal
+marine
+medium:simple background
+medium:white background
+meme:humor
+meta:english text
+meta:url
+meta:white background
+necklace
+open mouth
+orange body
+orange scales
+pawpads
+pearl (gem)
+pearl necklace
+pun
+purple eyes
+rating:safe
+scales
+simple background
+species:cat
+species:domestic cat
+species:felid
+species:feline
+species:felis
+species:fish
+species:mammal
+species:marine
+subreddit:imaginaryaww
+subreddit:immeta
+text
+title:furtune teller by piper thibodeau
+totes adorbs
+uploader:myrandall
+whiskers
+white body
+white fur

@@ -1,0 +1,37 @@
+armor
+artist:evenytron
+category:ine
+character:cinwiril_(gilded_lives)
+cinwiril (gilded lives)
+clothing
+copyright:bethesda_softworks
+copyright:morrowind
+copyright:oblivion
+copyright:skyrim
+copyright:the_elder_scrolls
+creator:kierano
+female
+furry
+glass armor
+glass_armor
+meta:hi_res
+not furry
+not_furry
+rating:safe
+series:bethesda softworks
+series:morrowind
+series:oblivion
+series:skyrim
+series:the elder scrolls
+solo
+species:altmer
+species:high elf
+species:high_elf
+subreddit:imaginaryarmor
+subreddit:imaginaryelves
+subreddit:imraces
+subreddit:imtechnology
+title:cinwiril [oc] (art made by pedrovin)
+uploader:spacecheesewiz
+video games
+video_games

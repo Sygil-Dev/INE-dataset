@@ -1,0 +1,33 @@
+3dcoat
+3ds max
+art
+bike
+category:ine
+concept
+craft
+creator:kurt stadther
+cycle
+designer
+digital
+fiction
+ground vehicle
+hard
+hover
+marvelous
+medium:digital 3d
+painter
+photoshop
+sci-fi
+science
+subreddit:imaginarycyberpunk
+subreddit:imaginaryvehicles
+subreddit:imtechnology
+substance
+surface
+title:hovercycle
+title:hovercycle concept
+toolbag
+uploader:wabiisabii
+v-ray
+vehicle
+zbrush

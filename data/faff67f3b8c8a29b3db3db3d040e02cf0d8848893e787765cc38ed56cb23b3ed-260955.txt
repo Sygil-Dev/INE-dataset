@@ -1,0 +1,46 @@
+2018
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+bowl
+category:ine
+creator:cryptid-creations
+dot eyes
+dot_eyes
+feral
+food
+fries
+gender:ambiguous
+group
+humor
+ketchup
+medium:simple background
+medium:white background
+meme:humor
+meta:2018
+meta:white background
+pun
+rating:safe
+simple background
+simple_background
+species:cat
+species:domestic cat
+species:domestic_cat
+species:felid
+species:feline
+species:felis
+species:food creature
+species:food_creature
+species:mammal
+subreddit:imaginaryanimals
+subreddit:imnature
+title:"daily paint 1904# katchup and furies" by piper thibodeau (cryptid-creations)
+title:daily paint 1904# katchup and furies
+uploader:torvusil
+visual pun
+visual_pun
+website:reddit
+white_background
+year:2018

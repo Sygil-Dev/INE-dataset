@@ -1,0 +1,53 @@
+ambiguous gender
+beverage
+black eyes
+bodypart:black eyes
+booru:e621
+box
+category:ine
+clothing
+clothing:eyewear
+clothing:hat
+clothing:headwear
+creator:cryptid-creations
+english text
+feral
+furry
+gender:ambiguous
+goggles
+group
+hat
+headgear
+headwear
+humor
+language:english
+medium:english text
+medium:simple background
+medium:text
+medium:white background
+membrane (anatomy)
+membranous wings
+meme:humor
+meta:english text
+meta:tagme
+pun
+rating:safe
+simple background
+species:dinosaur
+species:extinct
+species:pteranodon
+species:pteranodontid
+species:pterosaur
+species:reptile
+species:scalie
+subreddit:imaginarydinosaurs
+subreddit:immonsters
+tea
+teabag
+text
+title:daily paint 1970# teahistoric - tealivery
+title:teahistoric - tealivery by piper thibodeau
+uploader:myrandall
+website:e621
+white background
+wings

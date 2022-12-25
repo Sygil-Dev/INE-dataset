@@ -1,0 +1,73 @@
+action:open mouth
+ambiguous_gender
+annoyed
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+bodypart:black eyes
+buckteeth
+carrot
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+duo
+emotion:annoyance
+feral
+filename:dp1201_s
+food
+fur
+furry
+gender:ambiguous
+humor
+leaf
+medium:patreon reward
+medium:simple background
+medium:white background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:white background
+open mouth
+open_mouth
+outside
+plant
+pun
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+solo focus
+solo_focus
+species:ceratopsian
+species:dinosaur
+species:extinct
+species:food creature
+species:food_creature
+species:lagomorph
+species:leporid
+species:mammal
+species:ornithischian
+species:pterodactylus
+species:pterosaur
+species:rabbit
+species:reptile
+species:scalie
+species:triceratops
+subreddit:imaginarydinosaurs
+subreddit:immonsters
+teeth
+title:'tricarrotops' by piper thibodeau
+title:daily paint #1201. tricarrotops
+tree
+uploader:myrandall
+vegetable
+visual pun
+visual_pun
+white body
+white fur
+white_background
+white_body
+white_fur

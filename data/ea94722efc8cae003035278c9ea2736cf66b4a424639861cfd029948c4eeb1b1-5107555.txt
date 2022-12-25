@@ -1,0 +1,67 @@
+2016
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+bottle
+butter
+category:ine
+creator:cryptid-creations
+creator:licantrox
+creator:piperdraws
+dairy products
+dairy_products
+filename:dp1354_s
+food
+fruit
+gender:ambiguous
+gender:male
+humor
+male:1
+maple syrup
+maple_syrup
+medium:patreon reward
+medium:simple background
+medium:white background
+meme:humor
+meta:2016
+meta:english text
+meta:english_text
+meta:paid reward
+meta:patreon reward
+meta:white background
+napkin
+plant
+plate
+pun
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+solo
+species:canid
+species:canine
+species:canis
+species:domestic dog
+species:domestic_dog
+species:food creature
+species:food_creature
+species:mammal
+strawberry
+subreddit:imaginaryfood
+subreddit:immeta
+syrup
+text
+title:daily 1354. woofles
+title:woofles by piper thibodeau
+tongue
+tongue out
+tongue_out
+uploader:myrandall
+visual pun
+visual_pun
+waffle
+white_background
+year:2016

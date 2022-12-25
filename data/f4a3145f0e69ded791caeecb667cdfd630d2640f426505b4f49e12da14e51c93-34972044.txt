@@ -1,0 +1,31 @@
+anthro
+anthropomorphism
+artist:sandara
+category:ine
+creator:sandara
+day
+detailed_background
+gender:male
+male
+medium:detailed background
+medium:digital media
+meta:2019
+meta:digital_media_(artwork)
+outside
+rating:safe
+solo
+species:mammal
+species:mouse
+species:murid
+species:murine
+species:rodent
+standing
+subreddit:imaginaryanimals
+subreddit:imaginaryaww
+subreddit:immeta
+subreddit:imnature
+title:field rat by sandara tang
+uploader:lol33ta
+uploader:myrandall
+whiskers
+year:2019

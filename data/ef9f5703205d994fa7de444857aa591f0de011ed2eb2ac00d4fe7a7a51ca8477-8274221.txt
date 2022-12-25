@@ -1,0 +1,43 @@
+action:closing eyes
+ambiguous gender
+antennae
+antennae (anatomy)
+black eyes
+bodypart:antennae
+bodypart:black eyes
+booru:e621
+category:ine
+chopstick
+chopsticks
+closed eyes
+creator:cryptid-creations
+eyes closed
+feral
+food
+gender:ambiguous
+group
+half-closed eyes
+humor
+medium:simple background
+medium:white background
+meme:humor
+meta:2018
+meta:english text
+meta:url
+narrowed eyes
+pun
+rating:safe
+simple background
+species:arthropod
+species:insect
+subreddit:imaginaryfood
+subreddit:immeta
+sushi
+text
+title:chopstick bug by piper thibodeau
+title:daily paint 1926# chopstick bug
+uploader:myrandall
+website:e621
+website:reddit
+white background
+year:2018

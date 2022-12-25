@@ -1,0 +1,58 @@
+#mtgcommunity
+abstract
+angel
+archive
+beautiful
+blood
+book
+book art
+card
+character
+characterdesign
+color
+colorscript
+conceptart
+cover
+coverart
+creator:dominik mayer
+creepy
+dark
+demon
+dominikmayer
+eerie
+energy
+epic
+evil
+fairytale
+flower
+ghost
+graphical
+horror
+illustration
+king
+knight
+lore
+medium:digital 2d
+monster
+mood
+mtg
+mythic
+painting
+playmat
+portal
+poster
+posterart
+promo art
+saga
+story
+stylized
+subreddit:imaginaryknights
+subreddit:imcharacters
+title:red knight
+title:red knight by dominik mayer
+token
+undead
+uploader:lol33ta
+warrior
+weird
+zombie

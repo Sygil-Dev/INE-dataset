@@ -1,0 +1,45 @@
+1 female
+1girl
+::t
+anpan
+apron
+blue eyes
+blush
+booru:danbooru
+booru:danbooru-safebooru
+booru:gelbooru
+booru:safebooru
+brown hair
+clothing:apron
+creator:maeya susumu
+drinking straw
+eating
+face::t
+food
+full mouth
+gender:female
+looking to the side
+maeya susumu
+maid
+maid apron
+maid headdress
+medium:simple background
+medium:yellow background
+meta:commentary request
+milk
+milk carton
+puffy cheeks
+rating:mature
+rating:safe
+rating:sensitive
+series:original
+short hair
+signature
+simple background
+sitting
+solo
+subreddit:imaginaryfood
+subreddit:immeta
+title:anpan day by no33no
+uploader:goodlibrarian
+yellow background

@@ -1,0 +1,42 @@
+booru:e621
+bridge
+category:ine
+creator:nils hamm
+death
+duo
+feathered wings
+feathers
+furry
+lying
+magic
+magic user
+meta:official art
+necromancy
+on front
+open mouth
+rating:safe
+restricted palette
+series:hasbro
+series:magic: the gathering
+series:official art
+side view
+size difference
+species:dragon
+species:feathered dragon
+species:human
+species:mammal
+species:mythical
+species:primate
+species:scalie
+spell
+standing
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarywizards
+subreddit:imcharacters
+title:death wind by nils hamm
+uploader:[deleted]
+uploader:faeryknight
+water
+waterfall
+wings

@@ -1,0 +1,38 @@
+booru:safebooru
+category:ine
+character:pikachu
+cockpit
+creator:genzoman
+destruction
+electricity
+epic
+gen 1 pokemon
+hologram
+holographic interface
+looking at viewer
+mecha
+meta:commentary
+meta:english commentary
+parody
+pokemon (creature)
+pov
+punching
+rating:mature
+rating:safe
+rubble
+scarf
+series:nintendo
+series:pokémon
+species:monster
+species:pikachu
+species:pokémon
+studio:nintendo
+subreddit:imaginarykanto
+subreddit:imaginarymechs
+subreddit:imfandoms
+subreddit:imtechnology
+title:mecha pikachu - the game #11 cover
+title:mecha pikachu - the game #11 cover by genzoman
+uploader:lol33ta
+violence
+wall

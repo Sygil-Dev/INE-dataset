@@ -1,0 +1,22 @@
+armor
+category:ine
+creator:calder moore
+fantasy
+forest
+knight
+medium:digital 2d
+skeleton
+snow
+soldier
+subreddit:imaginaryknights
+subreddit:imaginaryundead
+subreddit:imcharacters
+subreddit:immonsters
+title:frozen to the bone
+title:frozen to the bone by calder moore
+title:frozen to the bone, calder moore
+uploader:myrandall
+uploader:refriedspinach
+warhammer
+warrior
+zombie

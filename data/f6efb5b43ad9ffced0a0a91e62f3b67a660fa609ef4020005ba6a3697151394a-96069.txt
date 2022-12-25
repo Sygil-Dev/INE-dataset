@@ -1,0 +1,59 @@
+armor
+art
+booru:e621
+category:ine
+charging
+clothing
+clothing:armor
+clothing:gloves
+clothing:tagme
+creator:svetlin velinov
+creator:velinov
+detailed background
+ear piercing
+ears
+facial piercing
+female
+gauntlets
+gender:female
+gloves
+group
+handwear
+hooves
+humanoid pointy ears
+jewelry
+medium:detailed background
+melee weapon
+meta:official art
+monster
+monster girl (genre)
+piercing
+pointy ears
+polearm
+rating:safe
+series:hasbro
+series:magic the gathering
+series:magic: the gathering
+series:official art
+series:wizards of the coast
+spear
+species:centaur
+species:equid
+species:equid taur
+species:equine
+species:equine taur
+species:humanoid
+species:humanoid taur
+species:mammal
+species:mammal taur
+species:taur
+star
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarycentaurs
+subreddit:imraces
+tag source:e621
+title:fated intervention
+title:fated intervention by svetlin velinov
+uploader:tamander
+weapon

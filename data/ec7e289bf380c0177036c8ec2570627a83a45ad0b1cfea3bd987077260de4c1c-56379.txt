@@ -1,0 +1,67 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+black body
+black eyes
+black fur
+black nose
+black_body
+black_eyes
+black_fur
+black_nose
+bodypart:black eyes
+bodypart:black nose
+branch
+carrot
+category:ine
+clothing:armor
+creator:cryptid-creations
+duo
+english text
+feral
+food
+fur
+gender:ambiguous
+grass
+headgear
+headwear
+helmet
+humor
+language:english
+looking at viewer
+looking_at_viewer
+medium:english text
+medium:simple background
+medium:text
+medium:white background
+meme:humor
+meta:english text
+meta:english_text
+military
+orange body
+orange fur
+orange_body
+orange_fur
+plant
+pov
+pun
+rating:safe
+simple background
+simple_background
+species:canid
+species:canine
+species:fox
+species:mammal
+subreddit:imaginarybattlefields
+subreddit:imlandscapes
+text
+title:daily paint 1550. fox hole
+title:fox hole by piper thibodeau
+uploader:myrandall
+vegetable
+white background
+white body
+white fur
+white_background
+white_body
+white_fur

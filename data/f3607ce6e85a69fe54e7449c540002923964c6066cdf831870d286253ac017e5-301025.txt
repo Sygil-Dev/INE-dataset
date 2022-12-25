@@ -1,0 +1,42 @@
+adepta sororitas
+armor
+black hair
+bolter
+category:ine
+chainsword
+character:adepta sororitas
+character:sisters of battle
+crane
+creator:r7ll
+cyber
+cybernetics
+explosive
+female
+game:warhammer
+game:warhammer 40k
+gender:female
+grenade
+imperium
+jewelry
+mechanical limb
+meta:potential duplicate
+meta:sfw
+one-eyed
+purity seal
+r7ll
+red eyes
+robotic
+scar
+series:warhammer
+series:warhammer 40,000
+series:warhammer 40k
+sisters of battle
+source:deviantart
+studio:games workshop
+subreddit:imaginarywarhammer
+subreddit:imfandoms
+tattoo
+title:adepta sororita
+title:adepta sororita by r7ll
+uploader:levthered
+weapon

@@ -1,0 +1,25 @@
+3d
+airship
+ark royal
+category:ine
+ciws
+creator:liam keating
+creator:robots v dinosaurs
+destroyer
+digital
+f35
+frigate
+medium:digital 3d
+military watercraft
+phalanx
+royal navy
+subreddit:imaginaryairships
+subreddit:imaginaryvehicles
+subreddit:imtechnology
+title:another one from the weekend, hms basalisk
+title:british navy ships
+title:hms basilisk
+uploader:scifi887
+vehicle
+warship
+watercraft

@@ -1,0 +1,49 @@
+artist:kuroi-kisin
+beak
+black body
+black feathers
+black_body
+black_feathers
+category:ine
+creator:kur0i
+creator:kuroi-kisin
+duo
+feathered wings
+feathered_wings
+feathers
+feral
+medium:digital media
+medium:simple background
+medium:white background
+meta:2016
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+open mouth
+open_mouth
+rating:safe
+simple background
+simple_background
+sitting
+species:accipitrid
+species:accipitriform
+species:avian
+species:bird
+species:canid
+species:canine
+species:canis
+species:eagle
+species:hybrid
+species:lagomorph
+species:leporid
+species:mammal
+species:rabbit
+species:wolf
+subreddit:imaginaryhybrids
+subreddit:immonsters
+title:falco lupus by elena samoylova
+tongue
+uploader:hvitserkr
+white background
+white_background
+wings
+year:2016

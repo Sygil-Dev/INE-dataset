@@ -1,0 +1,44 @@
+ambiguous gender
+black eyes
+bodypart:black eyes
+category:ine
+claws
+creator:cryptid-creations
+daffodil (flower)
+duo
+feral
+flower
+gender:ambiguous
+half-closed eyes
+humor
+insect wings
+medium:simple background
+medium:white background
+meme:humor
+meta:2018
+meta:url
+narrowed eyes
+plant
+pun
+rating:safe
+simple background
+species:armadillo
+species:arthropod
+species:bee
+species:elemental creature
+species:flora fauna
+species:hymenopteran
+species:insect
+species:mammal
+species:xenarthran
+subreddit:imaginaryanimals
+subreddit:imnature
+text
+title:daffodillo by piper thibodeau
+title:daily paint 1906# daffodillo
+uploader:myrandall
+website:e621
+website:reddit
+white background
+wings
+year:2018

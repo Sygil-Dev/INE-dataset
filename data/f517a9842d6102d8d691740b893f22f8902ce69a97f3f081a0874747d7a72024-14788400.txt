@@ -1,0 +1,59 @@
+1 female
+armor
+armored boots
+art
+booru:danbooru
+booru:gelbooru
+boots
+category:ine
+clothing:armor
+clothing:armored boots
+clothing:boots
+clothing:footwear
+clothing:gloves
+creator:james ryman
+creator:jamesryman
+dagger
+ears
+flower
+footwear
+gender:female
+gloves
+glowing
+glowing eyes
+grass
+green hair
+headwear
+helmet
+insect wings
+james ryman
+long hair
+mask
+medium:watermark
+medium:web address
+melee weapon
+meta:official art
+monster
+monster girl
+pointy ears
+rating:mature
+rating:safe
+series:legend of the cryptids
+shield
+skull
+solo
+solo focus
+subreddit:imaginaryarmor
+subreddit:imaginaryfaeries
+subreddit:imraces
+subreddit:imtechnology
+sword
+title:legend of the cryptids: pixie - advanced
+title:pixie by james ryman
+tree
+uploader:myrandall
+watermark
+weapon
+web address
+wings
+yellow eyes

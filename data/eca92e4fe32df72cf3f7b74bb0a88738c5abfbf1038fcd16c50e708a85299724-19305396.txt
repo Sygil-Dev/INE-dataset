@@ -1,0 +1,21 @@
+camera
+category:concept art
+category:ine
+composition
+conceptart
+creator:tim murray
+drone
+hazard
+industrial
+medium:digital 2d
+photobash
+photoshop
+quadcopter
+scifi
+scout
+security
+subreddit:conceptart
+subreddit:immeta
+title:hasard drone
+title:hasard drone - photobashed concept i did up a little while back.
+uploader:tmurrayart

@@ -1,0 +1,36 @@
+3d
+background
+booru:sankaku
+category:ine
+creator:arsenixc
+landscape
+medium:3d rendering
+medium:16:9 aspect ratio
+medium:digital media
+medium:high resolution
+medium:official art
+meta:tagme
+no humans
+page:1
+rating:s
+scenery
+series:original
+series:shining nikki
+subreddit:imaginarycityscapes
+subreddit:imaginarytrees
+subreddit:imaginaryvillages
+subreddit:imarchitecture
+subreddit:imlandscapes
+subreddit:imnature
+title:four season town
+title:four season town by arsenixc
+uploader:kedamono1st
+uploader:myrandall
+village
+オリジナル
+仕事絵
+環境
+背景
+街並み
+闪耀暖暖
+風景

@@ -1,0 +1,22 @@
+category:ine
+cave
+creator:thibault girard
+dark
+exploration
+illustration
+medium:digital 2d
+scenery
+sciencefiction
+scifi
+shuttle
+spacecraft
+spaceship
+subreddit:imaginaryaviation
+subreddit:imaginarystarships
+subreddit:imtechnology
+title:exploration shuttle - design concept
+title:exploration shuttle - design concept by thibault girard
+title:thibault girard: exploration shuttle - design concept
+uploader:nfcwalletcard
+uploader:xeelee1123
+vehicle

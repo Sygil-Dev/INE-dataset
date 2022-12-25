@@ -1,0 +1,46 @@
+booru:danbooru
+building
+character:latias
+character:latios
+chimney
+creator:rounin (amuza)
+flying
+gen 3 pokemon
+legendary pokemon
+medium:high resolution
+meta:commentary
+meta:commentary request
+meta:highres
+no humans
+outdoors
+outside
+plant
+pokemon (creature)
+rating:general
+rating:mature
+rating:safe
+red eyes
+rooftop
+scenery
+series:creatures (company)
+series:game freak
+series:nintendo
+series:pokemon
+series:pokemon (anime)
+series:pokemon (classic anime)
+series:pokemon heroes: latios & latias
+series:pokemon m05
+series:pokémon
+species:latias
+species:latios
+species:legendary pokémon
+species:monster
+species:pokémon
+studio:creatures (company)
+studio:game freak
+studio:nintendo
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+title:alto mare by lowine
+tree
+uploader:mtlgrems

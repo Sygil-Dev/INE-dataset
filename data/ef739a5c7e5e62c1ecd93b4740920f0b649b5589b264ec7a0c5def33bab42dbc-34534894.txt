@@ -1,0 +1,66 @@
+1 female
+1 male
+1boy
+1girl
+belt
+blonde hair
+blue eyes
+category:ine
+character:link
+character:navi
+clothing:earrings
+clothing:gloves
+clothing:hat
+clothing:headwear
+clothing:pantyhose
+cowboy shot
+creator:bellhenge
+earrings
+ears
+fairy
+game:ocarina of time
+gender:female
+gender:male
+genre:fantasy
+gloves
+hat
+high resolution
+holding
+holding object
+holding sword
+holding weapon
+jewelry
+leather
+leather gloves
+left-handed
+lips
+male
+master sword
+medium:high resolution
+meta:highres
+meta:md5 mismatch
+meta:paint.net (medium)
+meta:resized
+meta:resolution mismatch
+meta:source smaller
+meta:upscaled
+nose
+pantyhose
+pointy ears
+rating:mature
+rating:safe
+series:the legend of zelda
+series:the legend of zelda: ocarina of time
+shield
+species:fairy
+species:mythical
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imfandoms
+sword
+title:"historic hero" by bellhenge
+title:historic hero
+tunic
+uploader:torvusil
+weapon
+white legwear

@@ -1,0 +1,37 @@
+ambiguous gender
+ambiguous_gender
+artist:tsaoshin
+booru:e621
+copyright:nintendo
+copyright:pokémon
+creator:tsaoshin
+gen 1 pokemon
+gender:ambiguous
+medium:1:1 aspect ratio
+medium:digital media
+meta:1:1
+meta:2017
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+pool:15535
+rating:safe
+series:nintendo
+series:pokemon
+series:pokémon
+solo
+species:cnidarian
+species:marine
+species:monster
+species:pokemon
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+species:tentacool
+studio:nintendo
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:072 - tentacool by tsaoshin
+uploader:lol33ta
+video games
+video_games
+year:2017

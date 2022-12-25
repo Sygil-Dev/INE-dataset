@@ -1,0 +1,23 @@
+category:ine
+character
+city
+concept
+creator:joakim ericsson
+environment
+genre:fantasy
+genre:science fiction
+gritty
+hel
+illustration
+medevial
+medium:digital 2d
+ship
+subreddit:imaginaryfuturewar
+subreddit:imaginarymechs
+subreddit:imtechnology
+title:defeated mech by joakim ericsson
+title:somebody has to lose by joakim ericsson
+title:various images
+uploader:thegypsyslayer
+vehicle
+watercraft

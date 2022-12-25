@@ -1,0 +1,24 @@
+2d
+boardgame
+category:ine
+creator:igor krstic
+dark
+digital2d
+digitalpainting
+fantasy
+folklore
+horror
+illustration
+medium:digital 2d
+monster
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:wolf
+subreddit:imaginarywerewolves
+subreddit:immonsters
+title:werewolf
+title:werewolf, igor krstic, artstation.com
+uploader:nikephoros_ii_phokas
+werewolf

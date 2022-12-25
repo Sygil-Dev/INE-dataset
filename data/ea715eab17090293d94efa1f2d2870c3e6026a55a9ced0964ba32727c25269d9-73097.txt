@@ -1,0 +1,55 @@
+action pose
+animal legs
+animal limbs
+archer
+arrow
+black hair
+booru:e621
+bow
+bow (weapon)
+category:ine
+character:sagittarius (zodiac)
+creator:sandara
+cybernetic leg
+cybernetics
+detailed background
+female
+futuristic
+gender:female
+hair
+hard light construct
+hooves
+human only
+jumping
+machine
+medium:detailed background
+not furry
+personification
+pose
+prosthetic
+prosthetic leg
+prosthetic limb
+ranged weapon
+rating:safe
+sagittarius
+sagittarius (astrology)
+series:western zodiac
+solo
+species:animal humanoid
+species:cyborg
+species:equid
+species:equid humanoid
+species:equine
+species:equine humanoid
+species:human
+species:humanoid
+species:mammal
+species:mammal humanoid
+species:mythical
+species:satyr
+subreddit:imaginaryarchers
+subreddit:imcharacters
+title:sagittarius
+title:sagittarius by sandara tang
+uploader:myrandall
+weapon

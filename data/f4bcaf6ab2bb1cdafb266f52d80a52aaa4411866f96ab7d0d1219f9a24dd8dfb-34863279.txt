@@ -1,0 +1,26 @@
+capcom
+category:ine
+creator:jason kang
+creatureart
+dragon
+furry
+gungho
+illustration
+medium:digital 2d
+monsterhunter
+rathalos
+species:dragon
+species:mythical
+species:rathalos
+species:scalie
+studio:capcom
+subreddit:imaginarydragons
+subreddit:imaginarygaming
+subreddit:imfandoms
+subreddit:immonsters
+teppen
+title:"rathalos" by jason kang
+title:illustrations for teppen
+title:rathalos by jason kang
+uploader:lol33ta
+uploader:torvusil

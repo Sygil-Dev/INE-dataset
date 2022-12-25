@@ -1,0 +1,56 @@
+1 female
+1girl
+backpack
+bag
+black footwear
+black hair
+boots
+brown eyes
+brown jacket
+building
+category:ine
+clothing:boots
+clothing:footwear
+clothing:jacket
+clothing:miniskirt
+clothing:shirt
+clothing:skirt
+clothing:white shirt
+creator:denki
+fantasy
+footwear
+gender:female
+genre:fantasy
+headphones
+holding
+holding object
+holding umbrella
+jacket
+knee boots
+long sleeves
+looking at viewer
+meta:commentary request
+miniskirt
+open clothes
+open jacket
+pleated skirt
+pov
+rating:safe
+rubber
+rubber boots
+scenery
+series:original
+shirt
+short hair
+sign
+skirt
+solo
+stairs
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+title:(xpost r/imaginarysliceoflife) upper section of the city [電鬼]
+transparent
+transparent umbrella
+umbrella
+uploader:great_salad
+white shirt

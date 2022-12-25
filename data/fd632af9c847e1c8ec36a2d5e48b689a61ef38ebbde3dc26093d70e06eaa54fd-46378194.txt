@@ -1,0 +1,29 @@
+1 female
+1girl
+bird
+birdcage
+building
+cage
+creator:rounin (amuza)
+gender:female
+highres
+jacket
+long hair
+medium:high resolution
+meta:commentary
+meta:highres
+outdoors
+owl
+rating:general
+rating:safe
+scenery
+series:original
+signature
+species:avian
+species:bird
+species:owl
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+sunlight
+title:morning routine by lownine
+uploader:mtlgrems

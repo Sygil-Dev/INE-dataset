@@ -1,0 +1,53 @@
+action:smile
+ambiguous gender
+black body
+black eyes
+black fur
+bodypart:black eyes
+booru:e621
+category:ine
+creator:cryptid-creations
+fur
+gender:ambiguous
+grass
+grin
+group
+humor
+medium:simple background
+medium:white background
+meme:humor
+plant
+pun
+rating:safe
+simple background
+smile
+species:border collie
+species:bovid
+species:canid
+species:canine
+species:canis
+species:caprine
+species:collie
+species:dog
+species:domestic dog
+species:domestic sheep
+species:herding dog
+species:mammal
+species:pastoral dog
+species:sheep
+species:sheepdog
+species:suffolk sheep
+subreddit:imaginaryanimals
+subreddit:imaginaryaww
+subreddit:immeta
+subreddit:imnature
+tailwag
+teeth
+title:daily paint 2041# hoarder collie
+title:hoarder collie by piper thibodeau
+uploader:myrandall
+visual pun
+website:e621
+white background
+white body
+white fur

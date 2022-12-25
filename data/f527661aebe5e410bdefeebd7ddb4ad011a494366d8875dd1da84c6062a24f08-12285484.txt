@@ -1,0 +1,47 @@
+ambiguous gender
+backpack
+belt
+booru:e621
+character:dew
+creator:drachenmagier
+dagger
+dew
+dormouse
+drachenmagier
+feral
+fur
+gender:ambiguous
+grey body
+grey fur
+heroicrodent
+leaf umbrella
+medium:simple background
+medium:traditional media
+medium:white background
+melee weapon
+meta:2016
+rain
+raindrop
+rating:safe
+sash
+simple background
+sleeping bag
+solo
+species:dormouse
+species:edible dormouse
+species:mammal
+species:mouse
+species:rodent
+subreddit:imaginaryaww
+subreddit:immeta
+title:dormouse
+title:dormouse by drachenmagier
+traditionalmedia
+uploader:lol33ta
+utility belt
+water
+weapon
+white background
+white body
+white fur
+year:2016

@@ -1,0 +1,18 @@
+3d
+bioware
+category:ine
+creator:dmitry kozlov
+ea
+games
+mass effect
+medium:3d rendering
+medium:digital 3d
+medium:digital media
+n7
+sfm
+subreddit:imaginarymasseffect
+subreddit:imfandoms
+thane
+title:thane
+title:thane by dmitry kozlov
+uploader:[deleted]

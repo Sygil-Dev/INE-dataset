@@ -1,0 +1,46 @@
+1 female
+ass
+back
+black hair
+blue bodysuit
+category:ine
+character:sole survivor (female)
+closed mouth
+clothing
+clothing:bodysuit
+clothing:bottomwear
+clothing:topwear
+cloud
+cloudy sky
+creator:emanuel mendez
+eyeshadow
+firearm
+gender:female
+half-closed eyes
+handgun
+headwear
+helmet
+holding
+holding gun
+holding object
+holding weapon
+lips
+lipstick
+makeup
+meta:artist name
+rating:safe
+revolver
+series:fallout
+series:fallout 4
+short hair
+signature
+skin tight
+sky
+solo
+subreddit:imaginaryfallout
+subreddit:imfandoms
+subreddit:inegentlemanboners
+title:vault booty by emanuel mendez
+title:vaultbooty by emanuel mendez
+uploader:lol33ta
+weapon

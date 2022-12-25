@@ -1,0 +1,63 @@
+armor
+artist:klaher_baklaher
+bbm
+bovid horn
+caprine horn
+category:ine
+cauldron
+character:khorne
+character:nurgle
+character:slaanesh
+character:tzeentch
+clothing
+copyright:warhammer_(franchise)
+creator:klaher baklaher
+extra eyes
+facial hair
+facial_hair
+female
+gauntlets
+gender:female
+gloves
+handwear
+headgear
+headwear
+helmet
+horn
+horned helmet
+horned_helmet
+horns
+long tongue
+long_tongue
+melee weapon
+melee_weapon
+meta:16:9
+meta:hi res
+meta:hi_res
+meta:multiple images
+meta:widescreen
+multi eye
+multi_eye
+rating:safe
+series:warhammer
+series:warhammer (franchise)
+sharp teeth
+sharp_teeth
+solo
+species:chaos daemon
+species:chaos_daemon
+species:deity
+species:demon
+species:eldritch horror
+studio:games workshop
+subreddit:imaginarywarhammer
+subreddit:imfandoms
+tabletop game
+teeth
+tentacles
+title:gods of chaos by klaher baklaher
+tongue
+tongue out
+tongue_out
+uploader:chaosmarine123
+weapon

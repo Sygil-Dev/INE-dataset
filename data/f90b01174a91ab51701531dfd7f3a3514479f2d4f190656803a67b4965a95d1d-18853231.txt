@@ -1,0 +1,76 @@
+2018
+ambiguous gender
+ambiguous_gender
+artist:heather_bruton
+bird
+black body
+black eyes
+black feathers
+black fur
+black hair
+black_body
+black_eyes
+black_feathers
+black_fur
+black_hair
+blue body
+blue feathers
+blue fur
+blue hair
+blue jay
+blue theme
+blue_body
+blue_feathers
+blue_fur
+blue_hair
+corvid
+creator:heather bruton
+duo
+feathered wings
+feathered_wings
+feathers
+feral
+fur
+gender:ambiguous
+gender:male
+hair
+male
+meta:2018
+meta:blue theme
+meta:blue_theme
+multicolored hair
+multicolored_hair
+rating:safe
+source:furaffinity.net
+species:avian
+species:bird
+species:blue jay
+species:blue_jay
+species:corvid
+species:equid
+species:equine
+species:jay (bird)
+species:jay_(bird)
+species:mammal
+species:mythical
+species:new world jay
+species:new_world_jay
+species:oscine
+species:passerine
+species:pegasus
+species:pterippus
+subreddit:imaginaryhybrids
+subreddit:immonsters
+title:bluejay pegasus
+title:bluejay pegasus by hbruton
+uploader:lol33ta
+white body
+white feathers
+white fur
+white hair
+white_body
+white_feathers
+white_fur
+white_hair
+wings
+year:2018

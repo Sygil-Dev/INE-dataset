@@ -1,0 +1,25 @@
+adam burn
+airship
+artwork
+big ben
+blimp
+clouds
+creator:adam burn
+fantasy
+illustration
+london
+medium:digital 2d
+oil
+painting
+rain
+scifi
+smoke
+steampunk
+subreddit:imaginaryairships
+subreddit:imaginarysteampunk
+title:victorian pride
+title:victorian pride by adam burn
+uploader:i_burn_cereal
+uploader:myrandall
+victorian
+zeplin

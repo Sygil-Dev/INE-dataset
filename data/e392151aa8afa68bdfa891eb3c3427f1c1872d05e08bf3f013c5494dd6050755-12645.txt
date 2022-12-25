@@ -1,0 +1,44 @@
+2017
+ambiguous_gender
+artist:tsaoshin
+artwork:digital media
+booru:e621
+category:ine
+copyright:nintendo
+copyright:pokémon
+creator:tsaoshin
+feral
+gen 1 pokemon
+gender:ambiguous
+looking at viewer
+looking_at_viewer
+medium:1:1 aspect ratio
+medium:digital media
+meta:1:1
+meta:2017
+meta:digital_media_(artwork)
+pool:15535
+pov
+rating:safe
+series:nintendo
+series:pokemon
+series:pokémon
+solo
+species:fish
+species:gyarados
+species:marine
+species:monster
+species:pokemon
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+species:sea serpent
+species:sea_serpent
+studio:nintendo
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:gyarados by eric proctor
+uploader:lol33ta
+video games
+video_games
+year:2017

@@ -1,0 +1,39 @@
+animal
+bird
+category:ine
+cloud
+clouds
+cloudy sky
+creator:jakub skop
+creator:stgspi
+day
+dracaena cinnabari
+fog
+hill
+landscape
+meta:sfw
+mountain
+nature
+no humans
+outdoors
+outside
+plant
+rating:safe
+river
+rock
+scenery
+shadow
+sky
+socotra dragon tree
+species:ambient bird
+species:ambient wildlife
+species:avian
+subreddit:imaginaryworlds
+subreddit:imlandscapes
+sunlight
+title:journey
+title:journey by jakub skop
+tree
+uploader:dcalidus
+vines
+water

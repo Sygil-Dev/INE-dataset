@@ -1,0 +1,35 @@
+booru:e621
+category:ine
+charging
+creator:kev walker
+feral
+front view
+horn
+horns
+landscape
+looking at viewer
+medium:simple background
+meta:official art
+pov
+quadruped
+rating:safe
+running
+series:hasbro
+series:magic: the gathering
+series:official art
+signature
+simple background
+snarling
+snow
+solo
+species:mammal
+species:monster
+species:rhinoceros
+species:rhinocerotoid
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarybeasts
+subreddit:immonsters
+title:feral krushok by kev walker
+uploader:[deleted]
+uploader:faeryknight
