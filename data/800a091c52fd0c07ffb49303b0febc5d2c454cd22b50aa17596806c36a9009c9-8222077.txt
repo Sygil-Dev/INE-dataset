@@ -1,0 +1,33 @@
+black eyes
+bodypart:black eyes
+category:ine
+caterpillar
+clothing:armor
+creator:cryptid-creations
+feral
+flag
+grass
+group
+headgear
+headwear
+helmet
+humor
+larva
+leaf
+meme:humor
+multi leg
+multi limb
+multiple limbs
+plant
+pun
+rating:safe
+soldier
+species:arachnid
+species:arthropod
+species:insect
+species:spider
+subreddit:imaginarysoldiers
+subreddit:imcharacters
+title:army of caterpillars by piper thibodeau
+uploader:myrandall
+warrior

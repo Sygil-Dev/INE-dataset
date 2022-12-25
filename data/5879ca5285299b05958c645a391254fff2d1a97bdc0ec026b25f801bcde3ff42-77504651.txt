@@ -1,0 +1,19 @@
+concept
+conceptart
+creator:michal kus
+demo
+design
+digital
+education
+focalpointschool
+linedrawing
+medium tank
+medium:digital 2d
+rendering
+school
+sci fi
+subreddit:imaginaryvehicles
+tank
+title:sci-fi main battle tank design by michal kus
+uploader:johncarterofares
+vehicle

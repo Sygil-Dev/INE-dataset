@@ -1,0 +1,27 @@
+category:ine
+claws
+creator:kaiju samurai
+creator:kaijusamurai
+dinosaur
+furry
+gender:female
+meateater
+medium:high resolution
+monster
+mutant
+rating:safe
+scales
+species:dinosaur
+species:extinct
+species:reptile
+species:scalie
+spikes
+subreddit:imaginarydinosaurs
+subreddit:immonsters
+tail
+teeth
+title:mutant t rex by matt frank
+title:mutant tyranno full
+tyrannosaurus rex
+uploader:optimusprime1313
+yellow eyes

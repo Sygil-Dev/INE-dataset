@@ -1,0 +1,69 @@
+ambiguous gender
+bell
+black eyes
+board:/v/
+bodypart:black eyes
+booru:e621
+bow
+bow (disambiguation)
+category:ine
+christmas
+christmas lights
+clothing:bow
+creator:cryptid-creations
+creator:piperdraws
+english text
+gen 1 pokemon
+gender:ambiguous
+gender:male
+holidays
+humor
+language:english
+male:1
+medium:english text
+medium:patreon reward
+medium:simple background
+medium:text
+medium:white background
+meme:humor
+meta:2017
+meta:english text
+meta:paid reward
+meta:patreon reward
+meta:url
+plant
+poke ball
+poké ball
+pun
+rating:safe
+series:nintendo
+series:pokemon
+series:pokémon
+simple background
+site:4chan.org
+site:patreon
+site:yiff.party
+solo
+species:bellsprout
+species:elemental creature
+species:flora fauna
+species:monster
+species:pokemon
+species:pokémon
+species:pokémon (species)
+species:staryu
+standard pokéball
+studio:nintendo
+subreddit:imaginarykanto
+subreddit:imfandoms
+text
+title:1$ patreon pack - daily paint 1847# jingle bellsprout
+title:5$ patreon pack - daily paint 1847# jingle bellsprout
+title:daily paint 1847# jingle bellsprout
+title:jingle bellsprout by piper thibodeau
+uploader:myrandall
+video games
+website:chan style imageboards
+website:e621
+white background
+year:2017

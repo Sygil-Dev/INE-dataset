@@ -1,0 +1,27 @@
+1 male
+category:ine
+clothing:armor
+creator:willobrien
+digitigrade
+full body
+gender:male
+genre:fantasy
+male only
+medium:simple background
+medium:white background
+paladin
+plate armor
+rating:safe
+shield
+solo
+solo male
+species:minotaur
+subreddit:imaginaryarmor
+subreddit:imaginarywarriors
+subreddit:imcharacters
+subreddit:imtechnology
+title:karnak
+title:karnak by will o'brien
+uploader:myrandall
+warhammer
+warrior

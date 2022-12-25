@@ -1,0 +1,50 @@
+ambiguous_gender
+artist:cryptid-creations
+barbel (anatomy)
+barbel_(anatomy)
+black eyes
+black_eyes
+category:ine
+cloud
+copyright:asian_mythology
+copyright:east_asian_mythology
+copyright:mythology
+creator:cryptid-creations
+furry
+gender:ambiguous
+green body
+green scales
+green_body
+green_scales
+horn
+horns
+medium:text
+meta:url
+mountain
+outside
+rating:safe
+scales
+series:asian mythology
+series:east asian mythology
+series:mythology
+sky
+solo
+species:dragon
+species:eastern dragon
+species:eastern_dragon
+species:mythical
+species:scalie
+subreddit:imaginarydragons
+subreddit:immonsters
+tan body
+tan scales
+tan_body
+tan_scales
+text
+title:canyon by cryptid creations
+tree
+uploader:jarrad960
+white body
+white scales
+white_body
+white_scales

@@ -1,0 +1,21 @@
+category:ine
+creator:joseph weston
+dark
+gender:female
+genre:fantasy
+hex
+medieval
+medium:digital 2d
+mtg
+necromancer
+necromancy
+necrotic
+species:undead
+subreddit:imaginarymonstergirls
+subreddit:immonsters
+tcg
+title:mistress of bones
+title:mistress of bones by joseph weston
+uploader:sr_myers
+vampiress
+woman

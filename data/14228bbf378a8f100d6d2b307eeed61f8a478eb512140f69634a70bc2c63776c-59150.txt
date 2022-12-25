@@ -1,0 +1,48 @@
+1:1
+2016
+ambiguous gender
+ambiguous_gender
+artist:ryky
+category:ine
+creator:ryky
+detailed background
+detailed_background
+digital media (artwork)
+digital painting (artwork)
+fantasy
+feral
+fin
+flying
+furry
+gender:ambiguous
+genre:fantasy
+hi res
+medium:1:1 aspect ratio
+medium:detailed background
+medium:digital media
+medium:high resolution
+meta:1:1
+meta:2016
+meta:digital media (artwork)
+meta:digital painting (artwork)
+meta:digital_media_(artwork)
+meta:digital_painting_(artwork)
+meta:hi res
+meta:hi_res
+outside
+rating:safe
+ryky
+scenery
+sky
+solo
+species:mammal
+species:reptile
+species:scalie
+species:turtle
+subreddit:imaginaryturtleworlds
+subreddit:immeta
+title:flying village
+title:flying village by benjamin cehelsky
+uploader:fireflycities
+village
+year:2016

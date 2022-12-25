@@ -1,0 +1,21 @@
+army
+artwork
+category:ine
+chartreuse
+creator:manuel castañón
+creature
+dragon
+fantasy art
+furry
+green
+lance
+medium:digital 2d
+speardude
+species:dragon
+species:mythical
+species:scalie
+subreddit:imaginarydragons
+subreddit:immonsters
+title:"chartreuse" by manuel castañón
+title:chartreuse
+uploader:nikephoros_ii_phokas

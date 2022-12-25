@@ -1,0 +1,57 @@
+apple
+artist:sandara
+blue horn
+blue_horn
+category:ine
+copyright:asian_mythology
+copyright:chinese_mythology
+copyright:east_asian_mythology
+copyright:mythology
+creator:sandara
+day
+detailed_background
+duo
+female
+feral
+food
+fruit
+fur
+grass
+horn
+horns
+incense
+mammal
+medium:detailed background
+medium:digital media
+medium:high resolution
+meta:2020
+meta:digital_media_(artwork)
+meta:hi_res
+moss
+mountain
+outside
+plant
+rating:safe
+scales
+series:asian mythology
+series:chinese mythology
+series:east asian mythology
+series:mythology
+sky
+species:equid
+species:equine
+species:human
+species:kirin
+species:mammal
+species:mythical
+species:unicorn
+subreddit:imaginarymythology
+subreddit:imcharacters
+title:offerings by sandara tang
+unicorn
+uploader:lol33ta
+white body
+white fur
+white_body
+white_fur
+year:2020

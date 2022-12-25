@@ -1,0 +1,38 @@
+ambiguous gender
+armor
+booru:e621
+clothed
+clothing
+clothing:armor
+creator:pechschwinge
+feral
+furry
+gender:ambiguous
+green body
+green scales
+holding object
+holding sword
+holding weapon
+medium:1:1 aspect ratio
+medium:digital media
+medium:high resolution
+melee weapon
+meta:1:1
+meta:digital media (artwork)
+meta:hi res
+rating:safe
+scales
+species:dragon
+species:human
+species:mammal
+species:mythical
+species:primate
+species:scalie
+subreddit:imaginarymythology
+subreddit:imcharacters
+sword
+teeth
+title:ancient giant lindwurm
+title:ancient giant lindwurm by pechschwinge
+uploader:lol33ta
+weapon

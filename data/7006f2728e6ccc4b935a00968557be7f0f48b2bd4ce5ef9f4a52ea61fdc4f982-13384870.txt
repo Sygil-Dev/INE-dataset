@@ -1,0 +1,32 @@
+building
+character:dune (planet)
+city
+cityscape
+cloud
+creator:david demaret
+creator:moonchild
+desert
+dust
+epic
+floating
+flying
+genre:science fiction
+landing
+medium:high resolution
+meta:commentary
+meta:highres
+moon
+no humans
+palace
+planet
+rating:safe
+realistic
+sand
+scenery
+series:dune (novel)
+space craft
+species:alien
+subreddit:superstructures
+sun
+title:the emperor's arrival by artist moonxels (david demaret)
+uploader:anon_ymou5

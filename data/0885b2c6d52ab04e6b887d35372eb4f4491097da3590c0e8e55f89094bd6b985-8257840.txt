@@ -1,0 +1,69 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+blue body
+blue fur
+blue_body
+blue_fur
+board:/v/
+bodypart:derp eyes
+booru:e621
+brown eyes
+brown_eyes
+category:ine
+copyright:nintendo
+copyright:pokémon
+creator:cryptid-creations
+derp eyes
+derp_eyes
+duo
+feral
+fur
+gen 1 pokemon
+gender:ambiguous
+gnawing
+humor
+medium:simple background
+medium:white background
+meme:humor
+meta:2018
+pun
+rating:safe
+series:nintendo
+series:pokémon
+shell
+simple background
+simple_background
+site:4chan.org
+species:hybrid
+species:mammal
+species:monster
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+species:rodent
+species:sciurid
+species:seedot
+species:squirrel
+species:squirtle
+species:tree squirrel
+species:tree_squirrel
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imfandoms
+tan eyes
+tan_eyes
+title:"squirreltle" by piper thibodeau
+title:daily paint 2216. squirreltle
+turtle shell
+turtle_shell
+uploader:torvusil
+video games
+video_games
+visual pun
+visual_pun
+website:chan style imageboards
+website:e621
+white background
+white_background
+year:2018

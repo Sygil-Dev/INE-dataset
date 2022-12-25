@@ -1,0 +1,25 @@
+art
+category:ine
+concept
+creator:bleats
+creator:goat-kid
+dragon
+epic
+fantasy
+furry
+genre:fantasy
+leviathan
+monster
+painting
+sea
+serpent
+source:furaffinity.net
+species:dragon
+species:mythical
+species:scalie
+subreddit:imaginaryleviathans
+subreddit:immonsters
+title:goddess of water
+title:goddess of water by goat-kid
+uploader:lordgreyii
+year:2019

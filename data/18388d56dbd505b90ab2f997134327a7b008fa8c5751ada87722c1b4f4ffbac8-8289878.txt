@@ -1,0 +1,48 @@
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+beet
+black eyes
+black_eyes
+bodypart:black eyes
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+feral
+filename:dp1206_s
+food
+gender:ambiguous
+gender:male
+humor
+leaf
+male:1
+medium:patreon reward
+medium:simple background
+medium:white background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:url
+meta:white background
+pun
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+solo
+species:arthropod
+species:beetle
+species:food creature
+species:food_creature
+species:insect
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:beet'le by piper thibodeau
+title:daily paint #1206. beet'le
+uploader:myrandall
+visual pun
+visual_pun
+white_background

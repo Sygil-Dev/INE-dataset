@@ -1,0 +1,69 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beak
+black body
+black eyes
+black scales
+black_body
+black_eyes
+black_scales
+booru:e621
+brown body
+brown feathers
+brown scales
+brown_body
+brown_feathers
+brown_scales
+canada goose
+category:ine
+cobra
+creator:cryptid-creations
+fangs
+feathered wings
+feathered_wings
+feathers
+female
+feral
+furry
+gender:ambiguous
+gender:female
+goose
+group
+hissing
+medium:simple background
+medium:white background
+nest
+rating:safe
+scales
+simple background
+simple_background
+species:anatid
+species:anseriform
+species:anserinae
+species:avian
+species:bird
+species:canada goose
+species:canada_goose
+species:cobra
+species:goose
+species:hybrid
+species:reptile
+species:scalie
+species:snake
+subreddit:imaginaryhybrids
+subreddit:immonsters
+tail feathers
+tail_feathers
+title:cobra chicken by piper thibodeau
+title:daily paint 2030# cobra chicken
+tongue
+uploader:myrandall
+white background
+white body
+white feathers
+white_background
+white_body
+white_feathers
+wings
+young

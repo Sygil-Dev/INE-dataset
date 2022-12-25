@@ -1,0 +1,61 @@
+1 male
+abs
+art
+blue eyes
+booru:danbooru
+booru:gelbooru
+category:ine
+chest
+clothing:eyewear
+clothing:hat
+clothing:headwear
+cloud
+clouds
+copyright name
+creator:map
+creator:zinnadu
+dagger
+dated
+eyepatch
+faceless
+faceless male
+facial mark
+firearm
+gender:male
+hat
+hook hand
+long hair
+male focus
+map
+medium:artist name
+medium:copyright name
+medium:dated
+medium:high resolution
+melee weapon
+meta:artist name
+meta:highres
+meta:official art
+navel
+pirate
+pirate hat
+rating:mature
+rating:safe
+series:legend of the cryptids
+shirtless
+sky
+solo
+solo focus
+species:mammal
+species:rodent
+species:squirrel
+stomach
+subreddit:imaginarypirates
+subreddit:imcharacters
+sword
+teeth
+title:reg
+title:reg by zinna du
+uploader:lol33ta
+weapon
+white hair
+zinnadu

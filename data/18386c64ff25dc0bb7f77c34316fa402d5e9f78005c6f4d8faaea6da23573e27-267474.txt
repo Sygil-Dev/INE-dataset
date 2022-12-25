@@ -1,0 +1,23 @@
+artwork
+blue
+category:ine
+chun lo
+cyan
+dead
+digital
+drawing
+illustration
+lights
+medium:digital media
+skeleton
+skull
+subreddit:imaginaryspirits
+subreddit:immonsters
+teeth
+title:death by chun lo
+turquoise
+uploader:natezomby
+vertical
+violet
+website:reddit
+white

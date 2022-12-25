@@ -1,0 +1,31 @@
+aircraft
+category:ine
+character:solaris ocean
+creator:deviantartalexandreev
+deviantartalexandreev
+epic
+flying
+gender:female
+genre:science fiction
+lens flare
+liquid
+meta:commentary
+monster
+no humans
+ocean
+perspective
+rating:mature
+rating:safe
+realistic
+series:solaris (copyright)
+signature
+solaris ocean
+species:alien
+subreddit:imaginarycanyons
+subreddit:imnature
+title:dlinnush by alex andreyev
+title:solaris - art for stanislaw lem's novel: dlinnush by alex andreyev
+transformation
+uploader:faeryknight
+uploader:lol33ta
+vehicle

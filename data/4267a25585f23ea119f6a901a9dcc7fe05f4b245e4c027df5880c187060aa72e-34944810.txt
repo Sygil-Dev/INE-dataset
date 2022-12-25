@@ -1,0 +1,20 @@
+category:ine
+cigarettes
+coats
+cyborg
+fantasy girl
+gender:female
+genre:science fiction
+red hair
+smoke
+smoking
+subreddit:imaginaryassassins
+subreddit:imaginarycybernetics
+subreddit:imaginarycyberpunk
+subreddit:imcharacters
+subreddit:imtechnology
+sword
+title:red contract killer by fred augis
+uploader:myrandall
+uploader:n0laloth
+weapon

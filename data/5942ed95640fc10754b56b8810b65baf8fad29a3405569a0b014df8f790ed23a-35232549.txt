@@ -1,0 +1,59 @@
+artist name
+backpack
+bag
+bed
+black cat
+bookshelf
+cake
+cake slice
+cat
+category:ine
+cd
+character:susuwatari
+clothesline
+creator:evergreenqueen
+creator:evergreenqveen
+crescent
+diorama
+doll
+evergreenqueen
+fan
+food
+game boy
+game console
+handheld game console
+headphones
+headphones removed
+indoors
+ladder
+mask
+meta:highres
+meta:source request
+mouse
+nintendo 64
+paper
+phonograph
+pillow
+plant
+polly pocket
+potted plant
+rating:safe
+rug
+scenery
+series:game boy
+series:nintendo 64
+series:polly pocket
+shelf
+sleeping
+slice of cake
+sootball
+studio:nintendo
+stuffed animal
+stuffed toy
+subreddit:imaginaryinteriors
+subreddit:imarchitecture
+teapot
+teddy bear
+television
+title:polly pocket slumber by brittnie (@evergreenqveen)
+uploader:merigemini

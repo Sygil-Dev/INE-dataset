@@ -1,0 +1,56 @@
+2015
+bag
+booru:e621
+building
+category:ine
+character:applejack
+character:applejack (mlp)
+character:rarity
+character:rarity (mlp)
+city
+clothing
+commercial vehicle
+creator:jowybean
+detailed background
+female
+feral
+gender:female
+genre:fantasy
+group
+horn
+horns
+manehattan
+medium:detailed background
+meta:2015
+mountain
+outside
+police
+police uniform
+public transportation
+rating:safe
+series:friendship is magic
+series:hasbro
+series:my little pony
+series:my little pony friendship is magic
+species:earth pony
+species:equid
+species:equine
+species:horse
+species:mammal
+species:mythical
+species:pony
+species:unicorn
+studio:hasbro
+subreddit:imaginaryequestria
+subreddit:imfandoms
+tag source:e621
+taxi
+taxicab
+title:"hey rar lets go bowling!" by joshua whitehouse (jowybean)
+title:hey rar lets go bowling!
+tower
+uniform
+uploader:crystallord
+vehicle
+vehicle for hire
+year:2015

@@ -1,0 +1,58 @@
+action:closing eyes
+ambiguous gender
+beverage
+black eyes
+bodypart:black eyes
+booru:e621
+category:ine
+claws
+closed eyes
+container
+creator:cryptid-creations
+cup
+eyes closed
+feral
+flower
+furry
+gender:ambiguous
+gender:female
+group
+humor
+loli body type
+medium:simple background
+medium:white background
+membrane (anatomy)
+membranous wings
+meme:humor
+meta:english text
+meta:url
+plant
+pun
+rating:safe
+saucer
+simple background
+species:dinosaur
+species:extinct
+species:pteranodon
+species:pteranodontid
+species:pterosaur
+species:reptile
+species:scalie
+species:theropod
+species:tyrannosaurid
+species:tyrannosaurus
+species:tyrannosaurus rex
+subreddit:imaginarydinosaurs
+subreddit:immonsters
+tea
+tea cup
+teabag
+teapot
+text
+title:daily paint 1971# teahistoric - tearex
+title:teahistoric - tearex by piper thibodeau
+uploader:myrandall
+website:e621
+white background
+wings
+young

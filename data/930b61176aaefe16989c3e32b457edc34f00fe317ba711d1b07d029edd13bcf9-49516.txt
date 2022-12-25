@@ -1,0 +1,26 @@
+architecture
+artwork
+beeple
+category:ine
+clash
+fantasy art
+gender:female
+giant
+japan
+katana
+medium:3d rendering
+medium:digital media
+night
+samurai
+smoke
+subreddit:imaginarybehemoths
+subreddit:imaginarygiants
+subreddit:imaginarywarriors
+subreddit:imraces
+sword
+title:'resistance' by beeple, aka mike winkelmann
+title:resistance by beeple, mike winkelmann
+uploader:elumental
+uploader:jaykirsch
+warrior
+weapon

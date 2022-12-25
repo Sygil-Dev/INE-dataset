@@ -1,0 +1,48 @@
+2019
+alpaca
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+bowl
+cactus
+camelid
+category:ine
+creator:cryptid-creations
+feral
+flower
+gender:ambiguous
+gender:male
+green eyes
+green_eyes
+humor
+hybrid
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:2019
+meta:url
+plant
+pun
+rating:safe
+simple background
+simple_background
+solo
+species:alpaca
+species:camelid
+species:elemental creature
+species:elemental_creature
+species:flora fauna
+species:flora_fauna
+species:hybrid
+species:mammal
+subreddit:imaginaryaww
+subreddit:immeta
+text
+title:"daily paint 2234. alpactus" by piper thibodeau
+title:daily paint 2234. alpactus
+uploader:pipalexandria
+visual pun
+visual_pun
+white background
+white_background

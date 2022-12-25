@@ -1,0 +1,40 @@
+ambiguous gender
+art
+booru:e621
+category:ine
+clint cearly
+creator:clint cearly
+creator:clintcearley
+eldrazi
+feathered wings
+feathers
+fusion
+gender:ambiguous
+gender:female
+meta:official art
+mutation
+nightmare fuel
+rating:safe
+series:hasbro
+series:magic: the gathering
+series:official art
+series:wizards of the coast
+solo
+species:angel
+species:angel humanoid
+species:eldrazi
+species:eldritch horror
+species:flesh creature
+species:humanoid
+species:monster
+species:monstrous humanoid
+species:winged humanoid
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginaryleviathans
+subreddit:immonsters
+tentacles
+title:brisela, the voice of nightmares - mtg
+title:brisela, the voice of nightmares - mtg by clint cearley
+uploader:tamander
+wings

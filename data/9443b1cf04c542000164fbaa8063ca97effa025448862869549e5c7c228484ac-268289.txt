@@ -1,0 +1,34 @@
+1 female
+1 male
+brown hair
+category:ine
+child
+creator:marktal
+day
+facing away
+flock
+gender:female
+gender:male
+grass
+long hair
+long sleeves
+mecha
+nature
+overgrown
+river
+riverbank
+robe
+scenery
+series:original
+standing
+subreddit:imaginarymindscapes
+subreddit:imlandscapes
+sunlight
+title:robot by masashi kageyama.
+towel
+traditional clothes
+tree
+uploader:[deleted]
+uploader:ethan_kahn
+valley
+young

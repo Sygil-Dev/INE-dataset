@@ -1,0 +1,34 @@
+artist
+blood
+bodily fluids
+category:ine
+concept art
+creator:mauricio carrasco
+dark fantasy
+digital art
+eclipse
+fantasy
+full moon
+game art
+horror
+illustration
+medieval
+medium:digital 2d
+medium:digital media
+monster
+moon
+night
+sky
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:wolf
+subreddit:imaginarywerewolves
+subreddit:immonsters
+terror
+title:"the darkest hour," by mauricio carrasco
+title:the darkest hour
+uploader:nikephoros_ii_phokas
+victorian
+werewolf

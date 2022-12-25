@@ -1,0 +1,70 @@
+action:closing eyes
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+bone
+brown body
+brown fur
+brown_body
+brown_fur
+category:ine
+character on plate
+character_on_plate
+chicken meat
+chicken_meat
+closed eyes
+cranberry sauce
+cranberry_sauce
+creator:cryptid-creations
+drumstick
+eyes closed
+eyes_closed
+feral
+food
+fruit
+fur
+gender:ambiguous
+gender:male
+humor
+lettuce
+male:1
+meat
+meme:humor
+meta:2018
+meta:url
+pawpads
+plant
+plate
+pun
+rating:safe
+roast chicken leg
+roast_chicken_leg
+solo
+species:canid
+species:canine
+species:canis
+species:corgi
+species:dog
+species:domestic dog
+species:domestic_dog
+species:herding dog
+species:herding_dog
+species:mammal
+species:pastoral dog
+species:pastoral_dog
+species:welsh corgi
+species:welsh_corgi
+subreddit:imaginaryfood
+subreddit:immeta
+tan body
+tan fur
+tan_body
+tan_fur
+text
+title:leftrovers by piper thibodeau
+tomato
+uploader:myrandall
+vegetable
+visual pun
+visual_pun
+year:2018

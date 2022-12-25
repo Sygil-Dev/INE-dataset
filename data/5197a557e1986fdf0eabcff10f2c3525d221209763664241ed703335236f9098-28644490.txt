@@ -1,0 +1,26 @@
+artwork
+booru:yande.re
+camera
+category:ine
+cats
+clothing:eyewear
+clothing:footwear
+creator:rui li
+digital
+eyewear
+fantasy art
+footwear
+galaxy
+gender:female
+glasses
+heels
+landscape
+neko
+rating:safe
+rui li
+stars
+subreddit:imaginarymindscapes
+subreddit:imaginarypathways
+subreddit:imlandscapes
+title:the glaxy by rui li
+uploader:lol33ta

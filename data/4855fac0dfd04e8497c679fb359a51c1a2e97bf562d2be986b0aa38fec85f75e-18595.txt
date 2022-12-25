@@ -1,0 +1,28 @@
+artwork
+category:ine
+creator:juan pablo roldan
+creature
+dragon
+drawing
+fantasy art
+furry
+illustration
+juan pablo roldan
+knight
+lava
+medium:digital 2d
+medium:digital media
+painting
+species:dragon
+species:mythical
+species:scalie
+subreddit:imaginarydragons
+subreddit:immonsters
+sword
+title:dw - dragon
+title:dw - dragon by juan pablo roldan
+title:dw - dragon, juan pablo roldan
+uploader:nikephoros_ii_phokas
+uploader:tamander
+warrior
+weapon

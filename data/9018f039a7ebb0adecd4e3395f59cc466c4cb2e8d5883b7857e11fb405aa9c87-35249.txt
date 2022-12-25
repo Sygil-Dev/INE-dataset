@@ -1,0 +1,31 @@
+1 female
+1 male
+armor
+booru:gelbooru
+booru:safebooru
+category:ine
+character:draenei
+character:paladin
+character:paladin (warcraft)
+character:paladin (world of warcraft)
+child
+creator:siakim
+creator:warden7
+gender:female
+gender:male
+paladin
+rating:safe
+series:warcraft
+series:world of warcraft
+species:draenei
+studio:blizzard entertainment
+subreddit:imaginaryclerics
+subreddit:imaginaryfamilies
+subreddit:imcharacters
+sword
+title:protector
+title:protector by kim tae kyeong
+uploader:lol33ta
+weapon
+world_of_warcraft
+young

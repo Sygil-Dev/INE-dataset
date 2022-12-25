@@ -1,0 +1,21 @@
+category:ine
+creator:ainur salimova
+medium:digital 2d
+monster
+panoptes
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:wolf
+subreddit:imaginarywerewolves
+subreddit:immonsters
+title:"venerated werewolf," by ainur salimova from artstation.com
+title:venerated werewolf
+title:venerated werewolf by ainur salimova
+title:venerated werewolf by floya mios
+uploader:[deleted]
+uploader:faeryknight
+uploader:nikephoros_ii_phokas
+uploader:valar_m0rghul1s
+werewolf

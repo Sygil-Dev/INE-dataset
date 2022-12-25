@@ -1,0 +1,48 @@
+2018
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beak
+bowl
+category:ine
+creator:cryptid-creations
+egg
+english text
+feathers
+feral
+food
+group
+language:english
+medium:english text
+medium:simple background
+medium:text
+medium:white background
+meta:2018
+meta:english text
+meta:english_text
+meta:signature
+meta:url
+mouth hold
+mouth_hold
+number
+pasta
+rating:safe
+signature
+simple background
+simple_background
+soup
+spaghetti
+species:avian
+species:bird
+subreddit:imaginaryanimals
+subreddit:imaginaryfood
+subreddit:immeta
+subreddit:imnature
+text
+title:"daily paint 1907# birds nest soup" by piper thibodeau (cryptid-creations)
+title:daily paint 1907# birds nest soup
+uploader:torvusil
+white background
+white_background
+wings
+year:2018

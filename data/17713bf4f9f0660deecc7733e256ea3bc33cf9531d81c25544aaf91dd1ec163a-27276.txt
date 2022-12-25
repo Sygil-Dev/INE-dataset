@@ -1,0 +1,49 @@
+armor
+blonde hair
+booru:e621
+category:ine
+class
+claws
+clothing
+clothing:armor
+creator:sandara
+feathers
+female
+gender:female
+hair
+lightsworn
+medium:1:1 aspect ratio
+meta:1:1
+monster
+mount
+priest
+rating:safe
+riding
+robe
+seeker
+series:blizzard entertainment
+series:mythology
+series:warcraft
+series:world of warcraft
+species:avian
+species:blood elf
+species:elf
+species:gryphon
+species:humanoid
+species:hybrid
+species:mythical
+species:mythological avian
+staff
+studio:blizzard entertainment
+subreddit:imaginaryclerics
+subreddit:imcharacters
+title:lightsworn seeker
+title:lightsworn seeker by sandara tang
+uploader:myrandall
+video games
+warcraft
+white body
+white feathers
+wow
+yellow body
+yellow feathers

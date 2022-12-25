@@ -1,0 +1,74 @@
+1 female
+1girl
+art
+artist name
+blonde
+blonde hair
+blue eyes
+book
+booru:danbooru
+booru:gelbooru
+booru:sankaku
+booru:sankaku channel
+breasts
+candle
+cape
+category:ine
+cleavage
+clothing:cape
+clothing:gloves
+clothing:hat
+clothing:headwear
+clothing:jewelry
+clothing:necklace
+copyright name
+creator:liang xing
+creator:liang xing - 星星梁
+creator:liang-xing
+cross
+curly hair
+dated
+female
+fur
+fur trim
+gender:female
+gloves
+hat
+headwear
+high resolution
+jewelry
+legend of the cryptids
+liang xing
+long hair
+medium:artist name
+medium:copyright name
+medium:dated
+medium:high resolution
+medium:official art
+medium:watermark
+medium:web address
+meta:artist name
+meta:commentary request
+meta:highres
+meta:official art
+meta:photoshop (medium)
+meta:pixiv-import
+meta:watermark
+necklace
+nose
+official art
+rating:mature
+rating:s
+rating:safe
+rating:sensitive
+series:legend of the cryptids
+solo
+subreddit:imaginaryclerics
+subreddit:imcharacters
+title:(ataxia) revered oracle milleon
+title:ataxia revered oracle milleon by liang xing
+uploader:lol33ta
+watermark
+web address
+window
+year:2014

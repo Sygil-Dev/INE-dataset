@@ -1,0 +1,49 @@
+black body
+black feathers
+booru:e621
+brown body
+brown feathers
+category:ine
+clothed
+clothing
+clothing:eyewear
+creator:ursula vernon
+creator:ursulav
+cybernetics
+eyewear
+feathered wings
+feathers
+feral
+gender:male
+genre:steampunk
+goggles
+machine
+male
+meta:3:4
+meta:2010
+meta:story
+meta:story in description
+meta:tagme
+rating:safe
+solo
+species:avian
+species:bird
+species:chicken
+species:cyborg
+species:galliform
+species:gallus (genus)
+species:phasianid
+steampunk
+story
+story in description
+subreddit:imaginaryanimals
+subreddit:imaginarysteampunk
+subreddit:imnature
+subreddit:imtechnology
+title:steampunk rooster
+title:steampunk rooster by ursula vernon
+uploader:myrandall
+white body
+white feathers
+wings
+year:2010
