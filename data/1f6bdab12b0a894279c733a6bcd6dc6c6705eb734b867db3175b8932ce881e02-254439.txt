@@ -1,0 +1,38 @@
+ambiguous gender
+art
+booru:e621
+category:ine
+cloud
+cloudscape
+creator:petemohrbacher
+creator:peter mohrbacher
+feathered wings
+feathers
+feral
+flying
+gender:ambiguous
+markings
+meta:official art
+outside
+rating:safe
+series:hasbro
+series:magic: the gathering
+series:official art
+sky
+solo
+species:anatid
+species:anseriform
+species:anserinae
+species:avian
+species:bird
+species:swan
+species:whooper swan
+star
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginaryanimals
+subreddit:imnature
+title:bird token by peter mohrbacher
+uploader:dievah
+website:reddit
+wings
