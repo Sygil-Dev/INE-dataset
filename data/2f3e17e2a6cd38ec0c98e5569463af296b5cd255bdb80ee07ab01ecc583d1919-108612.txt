@@ -1,0 +1,38 @@
+1 female
+black hair
+blue eyes
+blue lipstick
+blue nails
+blue_lipstick
+category:ine
+colored nails
+creator:lisa buijteweg
+fingernails
+flower
+gender:female
+green skin
+lipstick
+lisa_buijteweg
+long fingernails
+long hair
+long_fingernails
+makeup
+medium:realistic
+medium:watermark
+medium:web address
+nail polish
+original
+rating:mature
+rating:safe
+realistic
+series:original
+sharp fingernails
+sharp_fingernails
+signature
+solo
+subreddit:imaginaryfaeries
+subreddit:imraces
+title:blue poison, by lisa buijteweg
+uploader:belledame-sans-serif
+upper body
+watermark
