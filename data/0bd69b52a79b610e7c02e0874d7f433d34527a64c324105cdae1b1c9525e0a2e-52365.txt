@@ -1,0 +1,57 @@
+1:1
+5 fingers
+5_fingers
+2019
+ambiguous gender
+ambiguous_gender
+artist:thomas_chamberlain_-_keen
+baby
+category:ine
+copyright:nasa
+creator:thomas chamberlain - keen
+cropped
+female
+fingers
+gender:ambiguous
+gender:female
+gender:male
+group
+hi res
+hominid
+male
+medium:1:1 aspect ratio
+medium:high resolution
+meta:1:1
+meta:2019
+meta:cropped
+meta:hi_res
+outside
+photorealism
+plant
+primate
+rating:safe
+realistic
+series:nasa
+space
+spacesuit
+species:canid
+species:canine
+species:canis
+species:domestic dog
+species:domestic_dog
+species:feral canid
+species:feral canine
+species:feral canis
+species:feral dog
+species:hominid
+species:human
+species:mammal
+species:primate
+standing
+subreddit:imaginaryfamilies
+subreddit:imcharacters
+title:from the moon to mars by thomas chamberlain - keen
+uploader:synntara
+walking
+working
+young
