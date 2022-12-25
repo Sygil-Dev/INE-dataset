@@ -1,0 +1,27 @@
+absurdres
+category:ine
+creator:david delanty
+creator:vest
+dusk
+floating
+forest
+hill
+landscape
+medium:absurd resolution
+medium:high resolution
+meta:absurdres
+meta:highres
+mountain
+nature
+rating:general
+rating:mature
+rating:safe
+river
+scenery
+stone
+subreddit:imaginaryrivers
+subreddit:imnature
+sun
+title:s1e06 - beauty is everywhere, change of seasons
+tree
+water
