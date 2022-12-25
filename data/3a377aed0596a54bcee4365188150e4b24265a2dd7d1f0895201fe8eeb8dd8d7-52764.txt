@@ -1,0 +1,43 @@
+1 female
+1girl
+anglerfish
+animal
+artist name
+booru:gelbooru
+category:ine
+city
+clothing:skirt
+colored
+commentary
+creator:demizu posuka
+cross
+fish
+furry
+gender:female
+island turtle
+medium:artist name
+medium:high resolution
+meta:artist name
+meta:colorized
+meta:commentary
+meta:highres
+monster
+open mouth
+oversized animal
+pleated skirt
+rating:mature
+rating:safe
+reflection
+series:original
+shadow
+skirt
+species:reptile
+species:scalie
+species:turtle
+steeple
+subreddit:imaginaryturtleworlds
+subreddit:immeta
+title:千年に一度沈む街 by ポ～ン（出水ぽすか）
+turtle
+underwater
+uploader:hvitserkr

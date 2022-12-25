@@ -1,0 +1,48 @@
+ambiguous_gender
+antennae (anatomy)
+antennae_(anatomy)
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+burger
+category:ine
+cheese
+creator:cryptid-creations
+dairy products
+dairy_products
+feral
+food
+fruit
+gender:ambiguous
+gender:male
+humor
+lettuce
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:white background
+plant
+pun
+rating:safe
+simple background
+simple_background
+solo
+species:arthropod
+species:beetle
+species:cucujoid
+species:food creature
+species:food_creature
+species:insect
+species:ladybug
+subreddit:imaginaryfood
+subreddit:immeta
+title:daily paint 1566. lady buger
+title:lady buger by piper thibodeau
+tomato
+uploader:myrandall
+vegetable
+visual pun
+visual_pun
+white_background

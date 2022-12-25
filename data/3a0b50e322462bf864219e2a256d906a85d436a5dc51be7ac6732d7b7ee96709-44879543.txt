@@ -1,0 +1,22 @@
+2d
+category:ine
+concept
+creator:ismail inceoglu
+daily
+environment
+genre:fantasy
+giant
+kick
+medium:digital 2d
+nordic
+scenery
+species:cow
+subreddit:imaginarybehemoths
+subreddit:immonsters
+thief
+title:midday thief
+title:midday thief by ismail inceoglu
+uploader:mtlgrems
+valhalla
+viking
+winter

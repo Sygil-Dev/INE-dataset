@@ -1,0 +1,27 @@
+art
+artstation
+category:ine
+concept art
+creator:jakub rozalski
+cursed knight
+illustration
+medium:concept art
+medium:digital 2d
+monster
+painting
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:werewolf
+species:wolf
+storytelling
+subreddit:imaginaryhorrors
+subreddit:immonsters
+teutonic
+title:ritterbrüder
+title:ritterbrüder by jakub rozalski.
+uploader:[deleted]
+uploader:ethan_kahn
+werewolf
+wolfpack
