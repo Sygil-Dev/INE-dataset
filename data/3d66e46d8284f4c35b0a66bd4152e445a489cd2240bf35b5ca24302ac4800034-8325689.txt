@@ -1,0 +1,60 @@
+action:sitting
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+beak
+black eyes
+black_eyes
+board:/ck/
+brown feathers
+brown_body
+brown_feathers
+category:ine
+character:kiwi (disambiguation)
+creator:cryptid-creations
+creator:piperdraws
+dialogue
+english text
+feathers
+filename:dp1060_s
+food
+fruit
+gender:male
+kiwifruit
+language:english
+male:1
+medium:english text
+medium:patreon reward
+medium:simple background
+medium:text
+medium:white background
+meta:english_text
+meta:paid reward
+meta:patreon reward
+meta:url
+nest
+plant
+rating:safe
+simple background
+simple_background
+site:4chan.org
+site:patreon
+site:yiff.party
+sitting
+solo
+species:avian
+species:bird
+species:kiwi (bird)
+species:kiwi_(bird)
+species:ratite
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:daily paint #1060. kiwi bird
+title:daily paint #1060. kiwi bird by piper thibodeau
+uploader:nt337
+white background
+white_background
+yiff id:457132

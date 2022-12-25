@@ -1,0 +1,51 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beach
+black eyes
+black_eyes
+bodypart:black eyes
+brown body
+brown fur
+brown_body
+brown_fur
+buckteeth
+category:ine
+creator:cryptid-creations
+dot eyes
+dot_eyes
+duo
+feral
+fur
+gender:ambiguous
+grumpy
+humor
+meme:humor
+meta:url
+outside
+pun
+rating:safe
+seaside
+sky
+species:arthropod
+species:crab
+species:crustacean
+species:decapoda
+species:hybrid
+species:lagomorph
+species:leporid
+species:malacostracan
+species:mammal
+species:marine
+species:rabbit
+subreddit:imaginaryhybrids
+subreddit:immonsters
+tan body
+tan fur
+tan_body
+tan_fur
+teeth
+text
+title:crabbit by piper thibodeau
+uploader:myrandall
+water

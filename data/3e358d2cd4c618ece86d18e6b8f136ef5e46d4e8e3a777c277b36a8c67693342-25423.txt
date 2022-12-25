@@ -1,0 +1,40 @@
+2018
+ambiguous gender
+ambiguous_gender
+artist:tsaoshin
+booru:e621
+category:ine
+copyright:nintendo
+copyright:pokémon
+creator:tsaoshin
+gen 1 pokemon
+gender:ambiguous
+medium:1:1 aspect ratio
+medium:digital media
+meta:1:1
+meta:2018
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+plushie
+pool:15535
+rating:safe
+series:nintendo
+series:pokemon
+series:pokémon
+solo
+species:legendary pokémon
+species:legendary_pokémon
+species:mew
+species:monster
+species:pokemon
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+studio:nintendo
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:151 - mew by tsaoshin (eric proctor)
+uploader:lol33ta
+video games
+video_games
+year:2018

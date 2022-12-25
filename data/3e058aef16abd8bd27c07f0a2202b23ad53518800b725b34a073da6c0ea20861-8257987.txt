@@ -1,0 +1,11 @@
+armor
+category:ine
+creator:jee-hyung lee
+holding spear
+shield
+solo female
+species:centaur
+subreddit:imaginarycentaurs
+subreddit:imraces
+title:kentauros by jeehyung lee
+uploader:valar_m0rghul1s
