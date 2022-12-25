@@ -1,0 +1,23 @@
+artwork
+category:ine
+clothing:armor
+creator:bram sels
+fantasy art
+gender:female
+medium:digital 2d
+red hair
+series:magic: the gathering
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginaryangels
+subreddit:imaginarybestof
+subreddit:immeta
+subreddit:imraces
+sword
+title:[/r/imaginaryangels] chance for glory by bram sels
+title:chance for glory
+title:chance for glory by bram sels
+uploader:lol33ta
+uploader:the-thirteenth
+weapon
+wings
