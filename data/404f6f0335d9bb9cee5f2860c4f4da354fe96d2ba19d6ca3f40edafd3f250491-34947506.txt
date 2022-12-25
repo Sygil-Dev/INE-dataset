@@ -1,0 +1,35 @@
+beard
+card
+category:ine
+character
+christmas
+claus
+clothing:armor
+creator:emilis emka
+dnd
+facial hair
+fantasy
+genre:fantasy
+holidays
+mage
+magic
+medium:detailed background
+medium:digital 2d
+mountains
+priest
+rating:safe
+santa
+santa claus
+sky
+solo male
+sorcerer
+species:human
+staff
+subreddit:imaginaryarmor
+subreddit:imaginarywizards
+subreddit:imcharacters
+subreddit:imtechnology
+title:wizard of december by emilis emka
+uploader:faeryknight
+winter
+wizard

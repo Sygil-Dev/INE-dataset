@@ -1,0 +1,35 @@
+art
+category:ine
+concept art
+creator:jakub rozalski
+dark fantasy
+fantasy
+genre:fantasy
+illustration
+jakub rozalski
+knight
+medium:concept art
+medium:digital 2d
+monster
+mr.werewolf
+painting
+species:canine
+species:canis
+species:mammal
+species:mythical
+species:werewolf
+species:wolf
+storytelling
+subreddit:imaginarybattlefields
+subreddit:imaginarygiants
+subreddit:imlandscapes
+subreddit:imraces
+teutonic knights
+title:starza
+title:starza by jakub rozalski
+title:starza, by jakub rozalski
+uploader:sylvyrfyre
+uploader:yamamba78
+werewolf
+werewolves
+winter

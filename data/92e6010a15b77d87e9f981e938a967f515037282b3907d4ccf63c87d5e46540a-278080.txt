@@ -1,0 +1,40 @@
+2018
+black hair
+booru:e621
+category:ine
+creator:sandara
+detailed background
+gender:male
+group
+hair
+holding object
+holding weapon
+kraken
+male
+mammal
+marine
+medium:detailed background
+medium:digital media
+medium:high resolution
+meta:2018
+meta:digital media (artwork)
+meta:hi res
+rating:safe
+source:e621
+species:human
+species:kraken
+species:mammal
+species:marine
+species:merfolk
+species:mythical
+species:primate
+split form
+subreddit:imaginarymerfolk
+subreddit:imraces
+title:mermaid 2
+title:mermaid 2 by sandara tang
+underwater
+uploader:net-diver
+water
+weapon
+year:2018

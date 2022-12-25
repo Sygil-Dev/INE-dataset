@@ -1,0 +1,44 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+feral
+filename:dp1754_s
+flower pot
+flower_pot
+humor
+medium:patreon reward
+meta:paid reward
+meta:patreon reward
+meta:url
+plant
+pun
+rating:safe
+site:patreon
+site:yiff.party
+solo
+species:amphibian
+species:elemental creature
+species:elemental_creature
+species:flora fauna
+species:flora_fauna
+species:frog
+species:red-eyed treefrog
+species:red-eyed_treefrog
+species:treant
+species:tree frog
+species:tree_frog
+subreddit:imaginarytrees
+subreddit:imnature
+text
+title:1$ patreon pack - daily paint 1754# bonsai tree-frog
+title:5-10$ patreon pack - daily paint 1754# bonsai tree-frog
+title:bonsai tree-frog by piper thibodeau
+title:daily paint 1754# bonsai tree-frog
+tree
+uploader:myrandall
+visual pun
+visual_pun
+yiff id:457132

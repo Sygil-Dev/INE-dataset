@@ -1,0 +1,71 @@
+action:open mouth
+ambiguous gender
+ambiguous_gender
+angry
+artist:cryptid-creations
+black eyes
+black_eyes
+blue eyes
+blue_eyes
+bodypart:black eyes
+bodypart:tongue
+category:ine
+clock
+creator:cryptid-creations
+cuckoo clock
+cuckoo_clock
+duo
+emotion:anger
+eyes:blue
+feathered wings
+feathered_wings
+feathers
+gender:ambiguous
+grey body
+grey feathers
+grey_body
+grey_feathers
+humor
+medium:simple background
+medium:white background
+meme:humor
+meta:2018
+meta:tagme
+open mouth
+open_mouth
+pendulum
+pun
+rating:safe
+simple background
+simple_background
+species:avian
+species:bird
+species:cephalopod
+species:coleoid
+species:gull
+species:lari
+species:larid
+species:marine
+species:mollusc
+species:mollusk
+species:octopodiform
+species:octopus
+species:seagull
+subreddit:imaginarywtf
+subreddit:imnsfw
+title:clocktopus by piper thibodeau
+tongue
+tongue out
+tongue_out
+uploader:myrandall
+visual pun
+visual_pun
+white background
+white body
+white feathers
+white_background
+white_body
+white_feathers
+wings
+wood
+year:2018

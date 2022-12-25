@@ -1,0 +1,41 @@
+artist:atlas-66
+balloon
+blue body
+blue fur
+blue_body
+blue_fur
+category:ine
+character:trixie (mlp)
+character:trixie lulamoon
+character:trixie_(mlp)
+copyright:friendship_is_magic
+copyright:my_little_pony
+creator:atlas-66
+cup
+female
+feral
+fur
+gender:female
+genre:fantasy
+grass
+horn
+horns
+meta:hi_res
+outside
+rating:safe
+series:my little pony
+series:my little pony: friendship is magic
+solo
+species:equid
+species:equine
+species:mammal
+species:mythical
+species:unicorn
+studio:hasbro
+subreddit:imaginaryequestria
+subreddit:imfandoms
+tea cup
+tea_cup
+title:"cup of grave" by dmitry (atlas-66)
+title:cup of grave
+uploader:torvusil

@@ -1,0 +1,83 @@
+2017
+action:open mouth
+ambiguous gender
+angry
+black eyes
+bodypart:black eyes
+bodypart:tongue
+box
+category:ine
+cheese
+claws
+creator:cryptid-creations
+creator:piperdraws
+dairy products
+emotion:anger
+english text
+feral
+filename:dp1765_s
+food
+fruit
+furry
+gender:ambiguous
+gender:male
+green body
+green scales
+ham
+humor
+language:english
+male:1
+meat
+medium:english text
+medium:patreon reward
+medium:simple background
+medium:text
+medium:white background
+meme:humor
+meta:2017
+meta:english text
+meta:paid reward
+meta:patreon reward
+meta:tagme
+meta:url
+meta:white background
+open mouth
+pepperoni
+pineapple
+pizza
+pizza box
+plant
+pork
+pun
+rating:safe
+scales
+simple background
+site:patreon
+site:yiff.party
+solo
+species:dilophosaurid
+species:dilophosaurus
+species:dinosaur
+species:extinct
+species:food creature
+species:hybrid
+species:reptile
+species:scalie
+species:theropod
+subreddit:imaginarydinosaurs
+subreddit:imaginaryfood
+subreddit:immeta
+subreddit:immonsters
+teeth
+text
+title:1$ patreon pack - daily paint 1765# pizzasaurus - pineapple sins
+title:5-10$ patreon pack - daily paint 1765# pizzasaurus - pineapple sins
+title:daily paint 1765# pizzasaurus - pineapple sins
+title:pizzasaurus - pineapple sins by piper thibodeau
+tongue
+tongue out
+uploader:myrandall
+website:e621
+year:2017
+yellow body
+yellow scales

@@ -1,0 +1,22 @@
+arms
+asian
+category:ine
+cyborg
+debris
+fire
+genre:science fiction
+horns
+japanese
+katana
+medium:digital media
+monster
+species:mythical
+species:oni
+species:robot
+street
+subreddit:imaginarywarriors
+subreddit:imcharacters
+sword
+title:wrok by yongming yang
+uploader:erdeebee
+weapon

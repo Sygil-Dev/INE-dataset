@@ -1,0 +1,42 @@
+2019
+ambiguous gender
+ambiguous_gender
+artist:sandara
+building
+category:ine
+claws
+creator:sandara
+detailed background
+detailed_background
+digital media (artwork)
+dragon
+feral
+furry
+gender:ambiguous
+horn
+horns
+medium:detailed background
+medium:digital media
+membrane (anatomy)
+membrane_(anatomy)
+membranous wings
+membranous_wings
+meta:2019
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+rating:safe
+reflection
+species:dragon
+species:human
+species:mammal
+species:mythical
+species:primate
+species:scalie
+spines
+standing
+subreddit:imaginarydragons
+subreddit:immonsters
+title:reflection
+title:reflection by sandara tang
+uploader:net-diver
+wings

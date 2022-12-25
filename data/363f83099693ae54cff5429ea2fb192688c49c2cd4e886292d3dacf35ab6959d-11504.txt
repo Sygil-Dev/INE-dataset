@@ -1,0 +1,57 @@
+artist:arvalis
+booru:e621
+category:ine
+copyright:nintendo
+copyright:pokémon
+creator:arvalis
+feral
+flower (anatomy)
+flower_(anatomy)
+gen 1 pokémon
+gen 2 pokemon
+group
+language:english
+medium:absurd resolution
+medium:digital media
+medium:english text
+medium:high resolution
+medium:text
+medium:video game
+meta:2013
+meta:absurd res
+meta:absurd_res
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:english text
+meta:english_text
+meta:hi res
+meta:hi_res
+meta:model sheet
+model sheet
+model_sheet
+rating:safe
+series:nintendo
+series:pokémon
+species:bayleef
+species:celebi
+species:chikorita
+species:legendary pokémon
+species:legendary_pokémon
+species:meganium
+species:monster
+species:paras
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+standing
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imaginarykanto
+subreddit:imfandoms
+text
+title:"meganium" by rj palmer (arvalis)
+title:meganium-
+uploader:torvusil
+video games
+video_games
+year:2013

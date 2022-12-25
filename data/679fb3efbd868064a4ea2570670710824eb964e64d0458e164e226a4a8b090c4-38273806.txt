@@ -1,0 +1,26 @@
+aztec
+category:ine
+clothing:jewelry
+creator:themefinland
+egypt
+furry
+gold
+landscape
+mountain
+null
+series:digimon
+source:furaffinity.net
+species:digimon
+species:dragon
+species:guilmon
+species:monster
+species:mythical
+species:scalie
+subreddit:imaginarydragons
+subreddit:immonsters
+sunset
+temple
+title:the corrupted king
+title:the corrupted king by themefinland
+uploader:physical_fatness
+wings

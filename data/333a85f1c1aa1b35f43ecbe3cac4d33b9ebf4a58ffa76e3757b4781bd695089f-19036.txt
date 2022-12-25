@@ -1,0 +1,46 @@
+3others
+armor
+artist:conar cross
+booru:danbooru
+booru:danbooru-safebooru
+booru:gelbooru
+booru:safebooru
+booru:sankaku channel
+building
+castle
+category:ine
+cloud
+clouds
+commentary
+conar cross
+copyright:berserk
+creator:conar cross
+english commentary
+flag
+fortress
+headwear
+helmet
+horse
+knight
+letterboxed
+medium:high resolution
+medium:letterboxed
+meta:commentary
+meta:english commentary
+meta:highres
+mountain
+multiple others
+rating:mature
+rating:safe
+series:berserk
+signature
+sky
+species:equine
+species:horse
+species:mammal
+subreddit:imaginarybattlefields
+subreddit:imaginarywalls
+subreddit:imarchitecture
+subreddit:imlandscapes
+title:stronghold doldrey by conar cross
+uploader:e-leventy

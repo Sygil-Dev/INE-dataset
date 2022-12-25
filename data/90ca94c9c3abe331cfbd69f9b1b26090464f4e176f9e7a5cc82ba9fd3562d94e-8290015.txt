@@ -1,0 +1,49 @@
+action:closing eyes
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+eyes closed
+eyes_closed
+feral
+filename:dp1178_s
+food
+gender:ambiguous
+group
+humor
+ketchup
+medium:patreon reward
+medium:simple background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:url
+meta:white background
+mustard
+plate
+pun
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+sleeping
+species:domestic pig
+species:domestic_pig
+species:food creature
+species:food_creature
+species:mammal
+species:suid
+species:suina
+species:sus (pig)
+species:sus_(pig)
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:'pigs in a blanket' by piper thibodeau
+title:daily paint #1178. 'pigs in a blanket'
+uploader:myrandall
+visual pun
+visual_pun
+white_background

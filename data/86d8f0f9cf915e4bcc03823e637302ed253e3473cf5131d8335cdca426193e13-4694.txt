@@ -1,0 +1,27 @@
+2d
+art
+artwork
+assassins
+bar
+category:ine
+digital painting
+drawing
+environment
+fantasy art
+genre:science fiction
+illustration
+juan pablo roldan
+katana
+lamp
+medium:concept art
+medium:digital media
+subreddit:imaginaryninjas
+subreddit:imaginarytaverns
+subreddit:imarchitecture
+subreddit:imcharacters
+sword
+title:blue shadows by juan pablo roldan
+uploader:lol33ta
+uploader:valar_m0rghul1s
+warrior
+weapon

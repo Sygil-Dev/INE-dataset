@@ -1,0 +1,60 @@
+action pose
+armor
+bag
+blue sky
+booru:e621
+bracers
+building
+category:ine
+character:ajani goldmane
+character:planeswalker
+clothing
+clothing:armor
+clothing:eyewear
+clothing:tagme
+creator:james ryman
+digitigrade
+duo
+eyewear
+gender:male
+goth
+male
+melee weapon
+meta:official art
+meta:signature
+monk's spade
+net
+ornate
+planeswalker
+polearm
+pose
+pouch
+rating:safe
+sash
+series:hasbro
+series:magic: the gathering
+series:official art
+series:wizards of the coast
+signature
+sky
+snarling
+species:catfolk
+species:felid
+species:feline
+species:human
+species:leonin
+species:lion
+species:mammal
+species:pantherine
+species:primate
+standing
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginaryhybrids
+subreddit:immonsters
+title:heroic intervention by james ryman
+topwear
+uploader:malign-god
+vest
+weapon
+wrapping

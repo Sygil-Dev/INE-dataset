@@ -1,0 +1,55 @@
+2016
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+bodypart:black eyes
+brown body
+brown scales
+brown_body
+brown_scales
+burrito
+category:ine
+claws
+creator:cryptid-creations
+feral
+food
+fruit
+furry
+gender:ambiguous
+gender:male
+humor
+lime
+male:1
+medium:simple background
+medium:white background
+meme:humor
+meta:2016
+meta:english text
+meta:english_text
+meta:white background
+napkin
+plant
+pun
+rating:safe
+scales
+simple background
+simple_background
+solo
+species:food creature
+species:food_creature
+species:reptile
+species:scalie
+species:turtle
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:daily paint 1466. turtilla
+title:turtilla by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+white_background
+year:2016

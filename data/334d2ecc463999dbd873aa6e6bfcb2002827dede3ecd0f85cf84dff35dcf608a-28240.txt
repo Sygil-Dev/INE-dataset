@@ -1,0 +1,34 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+boa (snake)
+boa constrictor
+boinae
+category:ine
+cigarette
+creator:cryptid-creations
+feather boa
+feather_boa
+feral
+furry
+gender:ambiguous
+meta:english text
+meta:english_text
+meta:url
+rating:safe
+runway
+solo
+species:boa (snake)
+species:boa constrictor
+species:boa_(snake)
+species:boa_constrictor
+species:boinae
+species:reptile
+species:scalie
+species:snake
+subreddit:imaginaryfashion
+subreddit:immeta
+text
+title:daily painting 1652# - feather boa
+title:feather boa by piper thibodeau
+uploader:myrandall

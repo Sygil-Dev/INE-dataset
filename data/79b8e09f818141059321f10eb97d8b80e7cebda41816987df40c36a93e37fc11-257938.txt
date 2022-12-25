@@ -1,0 +1,50 @@
+2018
+action:closing eyes
+action:open mouth
+ambiguous gender
+black eyes
+blush
+blushing cheeks
+bodypart:black eyes
+category:ine
+closed eyes
+creator:cryptid-creations
+cub
+eyes closed
+feral
+food
+fur
+gender:ambiguous
+green body
+green fur
+group
+humor
+marine
+medium:simple background
+medium:white background
+meme:humor
+meta:2018
+open mouth
+pea (food)
+peapod
+pinniped
+plant
+pun
+rating:safe
+seal
+simple background
+species:elemental creature
+species:flora fauna
+species:food creature
+species:mammal
+species:marine
+species:pinniped
+species:seal
+subreddit:imaginaryaww
+subreddit:immeta
+title:pod of seals by piper thibodeau
+uploader:myrandall
+vegetable
+white background
+year:2018
+young

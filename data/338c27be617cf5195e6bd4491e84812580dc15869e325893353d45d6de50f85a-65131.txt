@@ -1,0 +1,44 @@
+1 female
+1 male
+anthropomorphism
+armwear
+bare shoulders
+blue eyes
+brown hair
+category:ine
+character:beast (disney)
+character:belle (disney)
+character:prince adam
+closed eyes
+clothing:dress
+clothing:earrings
+clothing:gloves
+creator:u-min
+creator:umintsu
+dress
+earrings
+elbow gloves
+gender:female
+gender:male
+gloves
+jewelry
+lipstick
+makeup
+medium:high resolution
+meta:highres
+meta:md5 mismatch
+personification
+rating:mature
+rating:safe
+red lipstick
+series:beauty and the beast
+smile
+studio:disney
+subreddit:imaginarylovers
+subreddit:imcharacters
+title:beauty and the beast
+title:beauty and the beast by umintsu
+uploader:lol33ta
+white gloves
+yellow dress
+yellow gloves

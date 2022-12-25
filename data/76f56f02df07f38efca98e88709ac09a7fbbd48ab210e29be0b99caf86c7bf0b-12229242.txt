@@ -1,0 +1,34 @@
+ambiguous gender
+art
+booru:e621
+category:ine
+creator:sam burley
+fangs
+feral
+furry
+gender:ambiguous
+meta:2013
+meta:official art
+meta:url
+plant
+rating:safe
+series:hasbro
+series:magic: the gathering
+series:official art
+series:wizards of the coast
+snarling
+solo
+species:reptile
+species:scalie
+species:snake
+spine
+star
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarybeasts
+subreddit:immonsters
+text
+title:erebos's emissary by sam burley
+tree
+uploader:lol33ta
+year:2013

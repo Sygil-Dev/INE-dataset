@@ -1,0 +1,42 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+blood
+bodily fluids
+bodily_fluids
+category:ine
+collar
+creator:cryptid-creations
+disembodied hand
+disembodied_hand
+empty eyes
+empty_eyes
+feral
+fur
+gender:ambiguous
+green body
+green fur
+green_body
+green_fur
+notched ear
+notched_ear
+rating:safe
+simple background
+simple_background
+species:canid
+species:canine
+species:canis
+species:domestic dog
+species:domestic_dog
+species:mammal
+species:undead
+species:zombie
+subreddit:imaginaryundead
+subreddit:immonsters
+teeth
+title:daily painting 618 # zombie dog by piper thibodeau
+uploader:hvitserkr
+white background
+white eyes
+white_background
+white_eyes

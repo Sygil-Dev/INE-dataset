@@ -1,0 +1,68 @@
+action:open mouth
+ambiguous gender
+beak
+board:/v/
+booru:e621
+category:ine
+cloud
+creator:lynxgriffin
+crossover
+feathered wings
+feathers
+feral
+gen 1 pokemon
+gen 2 pokemon
+gender:ambiguous
+group
+humor
+meme:humor
+meta:crossover
+open mouth
+rating:safe
+series:disney
+series:for the birds
+series:mythology
+series:nintendo
+series:pixar
+series:pokémon
+site:4chan.org
+sky
+species:avian
+species:bird
+species:columbid
+species:corvid
+species:ducklett
+species:ho-oh
+species:hoothoot
+species:legendary pokémon
+species:monster
+species:murkrow
+species:mythological avian
+species:mythological firebird
+species:natu
+species:oscine
+species:passerine
+species:pidgey
+species:pidove
+species:pokémon
+species:pokémon (species)
+species:rufflet
+species:spearow
+species:starly
+species:swablu
+species:taillow
+species:togetic
+species:vullaby
+studio:disney
+studio:nintendo
+studio:pixar
+subreddit:imaginarygaming
+subreddit:imaginarykanto
+subreddit:imfandoms
+title:"for the flying types" by lynxgriffin
+title:for the flying types
+uploader:torvusil
+video games
+website:chan style imageboards
+website:e621
+wings

@@ -1,0 +1,43 @@
+board:/ck/
+bowl
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+cutting board
+filename:dp1305_s
+food
+furry
+gender:ambiguous
+gender:male
+humor
+male:1
+medium:patreon reward
+medium:simple background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:white background
+pun
+rating:safe
+simple background
+site:4chan.org
+site:patreon
+site:yiff.party
+solo
+soy sauce
+species:dragon
+species:food creature
+species:mythical
+species:scalie
+subreddit:imaginaryfood
+subreddit:immeta
+sushi
+title:daily paint 1305. dragon roll
+title:dragon roll by piper thibodeau
+tongue
+tongue out
+uploader:myrandall
+visual pun
+wasabi
+yellow eyes
+yiff id:457132

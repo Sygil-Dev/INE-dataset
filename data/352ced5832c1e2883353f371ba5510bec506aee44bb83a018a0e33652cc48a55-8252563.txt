@@ -1,0 +1,36 @@
+airship
+canterlot
+category:ine
+city
+cloudsdale
+creator:plainoasis
+day
+flying
+gender:ambiguous
+hot air balloon
+landscape
+medium:high resolution
+meta:unknown character
+mountain
+outside
+rainbow
+river
+road sign
+saddlebag
+sky
+species:avian
+species:bird
+species:equine
+species:mammal
+species:phoenix
+subreddit:imaginaryequestria
+subreddit:imfandoms
+text
+title:"southward bound" by zhu jiang-nan (plainoasis)
+title:southward bound
+tree
+uploader:torvusil
+water
+waterfall
+wings
+zeppelin

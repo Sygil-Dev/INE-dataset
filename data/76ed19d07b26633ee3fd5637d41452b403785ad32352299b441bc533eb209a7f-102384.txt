@@ -1,0 +1,21 @@
+2d
+category:ine
+concept
+conceptart
+creator:ismail inceoglu
+cross
+digital
+digitalart
+environment
+farm
+genre:science fiction
+glasssphere
+landscape
+medium:digital 2d
+scenery
+sphere
+subreddit:imaginarywastelands
+subreddit:imlandscapes
+title:fortune faded
+title:fortune faded by ismail inceoglu
+uploader:l-ya

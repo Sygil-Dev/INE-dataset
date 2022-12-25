@@ -1,0 +1,22 @@
+art:character
+billy-christian-spookyjack2
+category:ine
+creator:billy christian
+filename:billy-christian-spookyjack2
+halloween
+jack o lantern
+jack-o'-lantern
+medium:digital 2d
+medium:image
+medium:jpg
+meta:character request
+pumpkin
+subreddit:imaginaryimmortals
+subreddit:imaginaryundead
+subreddit:immonsters
+subreddit:imraces
+title:spooky jack o' lantern
+title:spooky jack o' lantern by billy christian
+type:useless filename tags
+uploader:dr_mrs_them0narch
+uploader:lol33ta

@@ -1,0 +1,50 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+creator:cryptid-creations
+domestic pig
+feral
+furry
+gender:ambiguous
+gender:male
+hog-nosed snake
+humor
+hybrid
+male:1
+mammal
+medium:simple background
+medium:white background
+meme:humor
+pun
+rating:safe
+reptile
+scalie
+simple background
+simple_background
+snake
+solo
+species:domestic pig
+species:domestic_pig
+species:hog-nosed snake
+species:hog-nosed_snake
+species:hybrid
+species:mammal
+species:reptile
+species:scalie
+species:snake
+species:suid
+species:suina
+species:sus (pig)
+species:sus_(pig)
+subreddit:imaginaryhybrids
+subreddit:immonsters
+suid
+suina
+sus (pig)
+title:hognose by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+white background
+white_background

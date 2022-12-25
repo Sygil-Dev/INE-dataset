@@ -1,0 +1,75 @@
+action:open mouth
+ambiguous_gender
+artist:cryptid-creations
+asparagus
+black eyes
+black_eyes
+bodypart:black eyes
+bodypart:wings
+category:ine
+cattail
+cattail (plant)
+cattail_(plant)
+creator:cryptid-creations
+creator:piperdraws
+duo
+feathered wings
+feathered_wings
+feathers
+feral
+filename:dp1214_s
+food
+gender:ambiguous
+grass
+green body
+green feathers
+green_body
+green_feathers
+humor
+lily pad
+lily_pad
+medium:patreon reward
+medium:simple background
+medium:white background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:signature
+meta:white background
+open mouth
+open_mouth
+plant
+pond
+pun
+rating:safe
+signature
+simple background
+simple_background
+site:patreon
+site:yiff.party
+species:anatid
+species:anseriform
+species:anserinae
+species:avian
+species:bird
+species:elemental creature
+species:elemental_creature
+species:flora fauna
+species:flora_fauna
+species:food creature
+species:food_creature
+species:goose
+species:living vegetable
+species:living_vegetable
+subreddit:imaginaryfood
+subreddit:immeta
+title:'asparageese' by piper thibodeau
+title:daily paint #1214. asparageese
+uploader:myrandall
+vegetable
+visual pun
+visual_pun
+water
+white_background
+wings
+yiff id:457132

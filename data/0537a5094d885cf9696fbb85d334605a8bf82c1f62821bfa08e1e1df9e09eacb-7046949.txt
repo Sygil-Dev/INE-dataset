@@ -1,0 +1,21 @@
+art:classical fine art
+board:/pol/
+board:/tg/
+character art
+creator:ulpiano fernanded-checa y saiz
+creator:ulpiano fernández-checa y saiz
+filename:horseman of the apocalypse
+fine art
+hydrus invalid tag:"board: /pol/"
+medium:image
+medium:jpg
+medium:traditional media
+meta:character request
+series:classic art
+site:4chan.org
+subreddit:imaginarymythology
+title:horseman of the apocalypse
+title:horseman of the apocalypse, by ulpiano checa (ca 1900)
+type:unfunny filename thread
+uploader:kollapse1
+website:chan style imageboards

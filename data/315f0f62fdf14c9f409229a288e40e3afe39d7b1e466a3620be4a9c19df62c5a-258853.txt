@@ -1,0 +1,29 @@
+android
+artstation
+booru:sankaku
+booru:sankaku channel
+category:ine
+character:penny polendina
+creator:dishwasher1910
+female
+gender:female
+mechanical wings
+medium:artist name
+medium:high resolution
+medium:text
+meta:artist name
+meta:potential duplicate
+rating:s
+rating:safe
+robotic
+series:rwby
+solo
+species:android
+species:robot
+subreddit:imaginaryangels
+subreddit:imaginarycybernetics
+subreddit:imraces
+subreddit:imtechnology
+title:a.n.g.e.l by bach do
+uploader:myrandall
+wings

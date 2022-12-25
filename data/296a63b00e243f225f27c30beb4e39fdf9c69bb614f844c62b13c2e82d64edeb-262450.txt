@@ -1,0 +1,49 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+duo
+filename:dp1834_s
+fungus
+gender:ambiguous
+grass
+humor
+log
+medium:patreon reward
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:url
+mushroom
+plant
+pun
+rating:safe
+site:patreon
+site:yiff.party
+solo focus
+solo_focus
+species:arthropod
+species:beetle
+species:cucujoid
+species:elemental creature
+species:elemental_creature
+species:eulipotyphlan
+species:flora fauna
+species:flora_fauna
+species:hedgehog
+species:insect
+species:ladybug
+species:mammal
+subreddit:imaginaryanimals
+subreddit:imnature
+text
+title:1$ patreon pack - daily paint 1834# hedgelog
+title:5$ patreon pack - daily paint 1834# hedgelog
+title:daily paint 1834# hedgelog
+title:hedgelog by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+wood

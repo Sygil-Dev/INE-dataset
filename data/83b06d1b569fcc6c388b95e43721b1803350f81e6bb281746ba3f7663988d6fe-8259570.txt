@@ -1,0 +1,52 @@
+2009
+armor
+axe
+beard
+belt
+booru:e621
+category:ine
+character:dwolf
+clothing:armor
+clothing:necklace
+creator:daniel lieske
+creator:daniellieske
+dwolf
+ears
+facial hair
+gender:male
+hammer
+humanoid pointy ears
+jewelry
+male
+medium:4:3 aspect ratio
+medium:wallpaper
+melee weapon
+meta:4:3
+meta:2009
+meta:wallpaper
+necklace
+pointy ears
+rating:safe
+solo
+species:canid
+species:canine
+species:canis
+species:dwarf
+species:human
+species:humanoid
+species:humanoid taur
+species:mammal
+species:primate
+species:taur
+species:wolf
+subreddit:imaginarycentaurs
+subreddit:imraces
+tattoo
+title:dwolf
+title:dwolf by daniel lieske
+tools
+uploader:lol33ta
+wallpaper
+warrior
+weapon
+year:2009

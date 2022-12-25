@@ -1,0 +1,26 @@
+3d
+3dart
+#architecture
+#artwork
+#cinema4d
+#digitalart
+#fantasy
+#future
+#motiongraphics
+#render
+#scifi
+#steam
+#technology
+category:ine
+conceptart
+creator:inward .
+medium:traditional 3d
+octane
+otoy
+subreddit:imaginaryarchitecture
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+title:the upper city
+title:the upper city by inward
+uploader:dr_mrs_them0narch
+uploader:faeryknight

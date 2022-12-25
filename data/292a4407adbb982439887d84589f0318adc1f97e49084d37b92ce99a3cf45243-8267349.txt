@@ -1,0 +1,44 @@
+ambiguous_gender
+antennae (anatomy)
+antennae_(anatomy)
+artist:cryptid-creations
+black eyes
+black_eyes
+bodypart:black eyes
+category:ine
+caterpillar
+clothing
+clothing:cape
+creator:cryptid-creations
+crown
+dot eyes
+dot_eyes
+feral
+floating
+gender:ambiguous
+grass
+group
+humor
+insect wings
+insect_wings
+larva
+leaf
+meme:humor
+plant
+pun
+rating:safe
+royalty
+species:arthropod
+species:butterfly
+species:insect
+species:lepidopteran
+species:monarch butterfly
+species:monarch_butterfly
+subreddit:imaginarynobles
+subreddit:imcharacters
+title:daily paint 1607. monarch butterfly
+title:monarch butterfly by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+wings

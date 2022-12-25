@@ -1,0 +1,23 @@
+angel
+category:ine
+clothing:dress
+drawing
+dress
+feathered wings
+feathers
+gender:female
+genre:fantasy
+medium:detailed background
+rating:safe
+spear
+species:angel
+subreddit:imaginaryimmortals
+subreddit:imaginarystarscapes
+subreddit:imlandscapes
+subreddit:imraces
+title:goddess of light by axel sauerwald
+uploader:[deleted]
+uploader:ethan_kahn
+uploader:myrandall
+weapon
+wings

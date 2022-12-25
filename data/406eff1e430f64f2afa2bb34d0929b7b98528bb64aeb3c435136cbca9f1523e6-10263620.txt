@@ -1,0 +1,23 @@
+alexboca
+banner
+category:ine
+creator:alexboca
+creature
+imperium
+medium:monochrome
+series:warhammer 40,000
+shield
+space marines
+space wolves
+species:canine
+species:canis
+species:mammal
+species:wolf
+studio:games workshop
+subreddit:imaginarywarhammer
+subreddit:imfandoms
+sword
+title:space wolf (by alex boca)
+uploader:[deleted]
+uploader:austria9000
+weapon

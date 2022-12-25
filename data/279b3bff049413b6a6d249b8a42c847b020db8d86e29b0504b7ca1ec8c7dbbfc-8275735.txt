@@ -1,0 +1,35 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+feral
+filename:dp1758_s
+food
+fruit
+medium:patreon reward
+meta:english text
+meta:english_text
+meta:url
+plant
+rating:safe
+site:patreon
+site:yiff.party
+solo
+species:equid
+species:equine
+species:food creature
+species:food_creature
+species:horse
+species:mammal
+strawberry
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:1$ patreon pack - daily paint 1758# mascarpony
+title:5-10$ patreon pack - daily paint 1758# mascarpony
+title:daily paint 1758# mascarpony
+title:mascarpony by piper thibodeau
+uploader:myrandall
+yiff id:457132

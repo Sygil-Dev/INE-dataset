@@ -1,0 +1,23 @@
+#brushwork
+#character
+#knight
+#landscape
+#medieval
+#soldier
+#spartacus
+#warrior
+artwork
+category:ine
+cavalry
+creator:leonardo borazio
+fantasy art
+knight
+medium:digital 2d
+species:equine
+species:horse
+species:mammal
+subreddit:imaginaryknights
+subreddit:imcharacters
+title:sunny army
+title:sunny army by leonardo borazio
+uploader:net-diver

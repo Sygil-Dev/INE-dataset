@@ -1,0 +1,95 @@
+action:open mouth
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+board:/v/
+bodypart:black eyes
+booru:e621
+bowl
+candy
+category:ine
+cereal
+character:lucky (lucky charms)
+character:lucky the leprechaun
+character:lucky_the_leprechaun
+claws
+clover
+copyright:general_mills
+copyright:lucky_charms
+copyright:nintendo
+copyright:pokémon
+creator:cryptid-creations
+cutlery
+derby
+dessert
+feral
+food
+four leaf clover
+four_leaf_clover
+furry
+gen 1 pokemon
+gen 1 pokémon
+gender:ambiguous
+gender:male
+humor
+kitchen utensils
+kitchen_utensils
+male:1
+marshmallow
+mascot
+medium:simple background
+medium:white background
+meme:humor
+meta:2018
+meta:url
+open mouth
+open_mouth
+orange body
+orange scales
+orange_body
+orange_scales
+pun
+rating:safe
+scales
+series:general mills
+series:lucky charms
+series:nintendo
+series:pokémon
+simple background
+simple_background
+site:4chan.org
+solo
+species:charmander
+species:monster
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+species:reptile
+species:scalie
+spoon
+studio:nintendo
+subreddit:imaginaryaww
+subreddit:imaginarygaming
+subreddit:imaginarykanto
+subreddit:imfandoms
+subreddit:immeta
+tan body
+tan scales
+tan_body
+tan_scales
+text
+title:"lucky charmanders" by piper thibodeau
+title:daily paint 2215. lucky charmanders
+tools
+uploader:torvusil
+video games
+video_games
+visual pun
+visual_pun
+website:chan style imageboards
+website:e621
+white background
+white_background
+year:2018

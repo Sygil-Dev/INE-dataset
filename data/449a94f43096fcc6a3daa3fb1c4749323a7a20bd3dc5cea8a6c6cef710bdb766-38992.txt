@@ -1,0 +1,56 @@
+1 female
+1 male
+1boy
+1girl
+art
+art brush
+barefoot
+belt
+blood
+bodily fluids
+canvas (object)
+category:ine
+character:blood artist
+clothing:belt
+corpse
+cravat
+creator:algenpfleger
+creator:johannes voss
+death
+easel
+feet
+from below
+gender:female
+gender:male
+hanging
+hook
+looking at viewer
+meta:official art
+official art
+paintbrush
+painting
+perspective
+pov
+rating:mature
+rating:safe
+realistic
+series:magic: the gathering
+standing
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginarybestof
+subreddit:imaginarycarnage
+subreddit:imaginaryvampires
+subreddit:immeta
+subreddit:immonsters
+subreddit:imnsfw
+title:[/r/imaginarycarnage] blood artist by johannes voss
+title:blood artist by johannes voss
+title:mtg: blood artist
+title:mtg: blood artist, by johannes voß (crossposted from /r/imaginaryartists)
+uploader:belledame-sans-serif
+uploader:karmicviolence
+uploader:lol33ta
+uploader:synntara
+upside down
+white hair

@@ -1,0 +1,38 @@
+1 female
+1girl
+10s
+category:ine
+character:eldar
+character:howling banshee
+creator:lutherniel
+crossover
+disgust
+ears
+elf
+facial mark
+gender:female
+greyscale
+iya na kao sare nagara kozukuri sasete moraitai
+looking at viewer
+maid
+maid headdress
+meta:commentary
+meta:crossover
+meta:english commentary
+monochrome
+pointy ears
+pov
+rating:mature
+rating:safe
+reaction
+series:iya na kao sare nagara kozukuri sasete moraitai
+series:iya na kao sare nagara opantsu misete moraitai
+series:warhammer 40,000
+solo
+species:elf
+studio:games workshop
+subreddit:imaginaryelves
+subreddit:imraces
+title:disgusted space elf, by lutherniel on deviantart
+uploader:deluded_fruitcake
+year:10s

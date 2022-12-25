@@ -1,0 +1,29 @@
+button
+cloth
+commission
+creator:sixthleafclover
+cushion
+dress
+fabric
+golem
+green
+lace
+machine
+naga
+needle
+pin
+reflection
+sewing
+source:furaffinity.net
+species:draconcopode
+species:naga
+species:snake
+subreddit:imaginaryfashion
+subreddit:immeta
+tailor
+thread
+title:tailoring dreams
+title:tailoring dreams by the-sixthleafclover
+uploader:lol33ta
+wedding
+zipper

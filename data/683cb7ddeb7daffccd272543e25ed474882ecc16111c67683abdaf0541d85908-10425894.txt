@@ -1,0 +1,78 @@
+1 female
+1 male
+1boy
+1girl
+10000users入り
+armor
+artist name
+beard
+booru:sankaku
+booru:sankaku channel
+boots
+carrying
+character:ciri
+character:cirilla fiona elen riannon
+character:geralt of rivia
+cirilla
+clothing:armor
+clothing:boots
+clothing:footwear
+clothing:shoes
+creator:wlop
+dagger
+duo
+facial hair
+father and daughter
+female
+footwear
+gender:female
+gender:male
+geralt
+girls with swords
+grey hair
+highres
+male
+medium:artist name
+medium:high resolution
+medium:simple background
+medium:text
+medium:white background
+melee weapon
+meta:artist name
+meta:commentary
+meta:highres
+piggyback
+pine tree
+rating:mature
+rating:s
+rating:safe
+rating:sensitive
+series:the witcher
+series:the witcher 3
+series:the witcher 3: wild hunt
+series:the witcher (series)
+shoes
+site:kemono.party
+site:patreon
+site:pixiv
+snow
+subreddit:imaginarywitcher
+subreddit:imcharacters
+subreddit:imfandoms
+sword
+sword on back
+thewitcher
+title:father
+title:father, by wlop
+tree
+uploader:tabulaerrata
+weapon
+weapon on back
+white background
+wlop
+おんぶ
+ウィッチャー3
+父と娘
+父娘
+鎧
+雪景色

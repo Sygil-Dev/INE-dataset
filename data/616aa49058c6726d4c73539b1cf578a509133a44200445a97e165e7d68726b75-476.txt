@@ -1,0 +1,23 @@
+adventurers
+category:ine
+clothing:cape
+cyan
+fantasy art
+forest
+glowing
+glowing eyes
+mountains
+runes
+species:cervine
+species:deer
+species:mammal
+spirit
+statue
+subreddit:imaginarybehemoths
+subreddit:imaginaryelementals
+subreddit:immonsters
+sword
+title:the king's journey: the forgotten by anato finnstark
+trees
+uploader:dievah
+weapon

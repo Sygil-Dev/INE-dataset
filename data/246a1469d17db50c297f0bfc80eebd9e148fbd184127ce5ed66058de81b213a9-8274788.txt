@@ -1,0 +1,72 @@
+<3
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beverage
+black eyes
+black_eyes
+bodypart:black eyes
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+cup
+dairy products
+dairy_products
+english text
+fangs
+feral
+filename:dp1868_s
+food
+frappuccino
+furry
+gender:ambiguous
+gender:male
+green body
+green scales
+green_body
+green_scales
+heart symbol
+humor
+language:english
+male:1
+medium:english text
+medium:patreon reward
+medium:simple background
+medium:text
+medium:white background
+meta:2017
+meta:english text
+meta:english_text
+meta:paid reward
+meta:patreon reward
+meta:url
+pun
+rating:safe
+scales
+simple background
+simple_background
+site:patreon
+site:yiff.party
+solo
+species:reptile
+species:scalie
+species:snake
+straw
+subreddit:imaginaryfood
+subreddit:immeta
+tan body
+tan scales
+tan_body
+tan_scales
+text
+title:1$ patreon pack - daily paint 1868# wrappuccino
+title:5$ patreon pack - daily paint 1868# wrappuccino
+title:daily paint 1868# wrappuccino
+title:wrappuccino by piper thibodeau
+uploader:myrandall
+whipped cream
+whipped_cream
+white background
+white_background
+year:2017
+yiff id:457132
