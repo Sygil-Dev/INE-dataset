@@ -1,0 +1,89 @@
+1 female
+1 male
+alarm clock
+alternate color
+bag
+bangs
+barefoot
+bed
+bedroom
+bookbag
+bottle
+brown eyes
+brown hair
+bubble
+category:ine
+chair
+character:yuuki (pokemon)
+chest of drawers
+clock
+clothes hanger
+clothes removed
+coat
+controller
+creator:narumiya (040miya)
+curtains
+desk
+feet
+footwear
+game console
+game controller
+gamecube
+gamecube controller
+gen 3 pokémon
+gender:female
+gender:male
+grocery bag
+hair clip
+hair ornament
+hairclip
+holding controller
+holding game controller
+indian style
+indoors
+inside
+legwear
+medium:focus on male character
+messy room
+meta:commentary
+mouth hold
+nose bubble
+office chair
+on bed
+pillow
+plant
+playing games
+poster (object)
+potion
+protagonist (pokemon)
+rating:safe
+series:gamecube
+series:pokémon
+series:pokémon ruby sapphire & emerald
+shirt
+shoes
+shoes removed
+shopping bag
+short hair
+short sleeves
+shorts
+sitting
+sleeping
+sneakers
+species:metagross
+species:metang
+species:pokémon
+species:shiny pokémon
+spray bottle
+studio:creatures (company)
+studio:game freak
+studio:nintendo
+subreddit:imaginarykanto
+subreddit:imfandoms
+swept bangs
+t-shirt
+television
+title:late night gaming by 成海屋
+uploader:apparitions_
+white shirt
+window

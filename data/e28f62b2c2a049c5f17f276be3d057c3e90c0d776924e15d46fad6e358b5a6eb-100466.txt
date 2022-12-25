@@ -1,0 +1,41 @@
+artist:conar cross
+booru:danbooru
+booru:danbooru-safebooru
+booru:gelbooru
+booru:safebooru
+booru:sankaku channel
+campfire
+category:ine
+commentary
+conar cross
+copyright:berserk
+creator:conar cross
+english commentary
+forest
+grass
+horse
+letterboxed
+medium:high resolution
+medium:letterboxed
+meta:commentary
+meta:english commentary
+meta:highres
+moss
+nature
+outdoors
+outside
+rating:mature
+rating:safe
+series:berserk
+signature
+smoke
+species:equine
+species:horse
+species:mammal
+stream
+subreddit:imaginarywildlands
+subreddit:imlandscapes
+tent
+title:woodland camp by conar cross
+tree
+uploader:e-leventy

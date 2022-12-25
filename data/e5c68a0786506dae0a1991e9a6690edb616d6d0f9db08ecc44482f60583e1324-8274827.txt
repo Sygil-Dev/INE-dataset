@@ -1,0 +1,31 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+duo
+filename:dp1863_s
+food
+medium:patreon reward
+meta:url
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+species:food creature
+species:food_creature
+species:mammal
+species:ursid
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:1$ patreon pack - daily paint 1863# moonpie bears
+title:5$ patreon pack - daily paint 1863# moonpie bears
+title:daily paint 1863# moonpie bears
+title:moonpie bears by piper thibodeau
+uploader:myrandall
+white background
+white_background
+yiff id:457132

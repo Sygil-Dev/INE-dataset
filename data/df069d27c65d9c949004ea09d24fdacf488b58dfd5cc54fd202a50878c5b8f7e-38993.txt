@@ -1,0 +1,20 @@
+blue eyes
+brown hair
+category:ine
+clothing
+clothing:earrings
+clothing:jewelry
+clothing:necklace
+gender:female
+jewelry
+painting
+ropes
+sabre
+sasha beliaev
+ship
+subreddit:imaginaryhumans
+subreddit:imraces
+title:rokshanek by sasha beliaev
+uploader:hvitserkr
+vehicle
+watercraft

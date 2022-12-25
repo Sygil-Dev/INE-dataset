@@ -1,0 +1,22 @@
+category:ine
+cave
+creator:luches
+grenade
+imperial guard
+imperium
+luches
+ordo tempestus
+plasma
+rain
+series:warhammer 40,000
+stormtroopers
+studio:games workshop
+subreddit:imaginarycaves
+subreddit:imaginaryfuturewar
+subreddit:imnature
+subreddit:imtechnology
+title:militarum tempestus codex by leos "okita" ng
+title:militarum tempestus codex interior art 01
+tyranids
+uploader:karmicviolence
+valkyrie

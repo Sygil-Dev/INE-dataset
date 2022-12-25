@@ -1,0 +1,33 @@
+booru:sankaku channel
+broll_bearmantle
+category:ine
+character:valeera sanguinar
+creator:raikoart
+creator:sean "raiko" tay
+creator:ライコ
+gender:female
+hearthstone
+lo'gosh
+medium:16:10 aspect ratio
+medium:1280x800 wallpaper
+medium:digital 2d
+medium:fanart from deviantart
+medium:wallpaper
+rating:safe
+sanguinar
+series:warcraft
+series:world of warcraft
+site:deviantart
+studio:blizzard entertainment
+subreddit:imaginaryazeroth
+subreddit:imfandoms
+title:valeera
+title:valeera by sean "raiko" tay
+trio
+uploader:lol33ta
+valeera
+valeera_sanguinar
+varian_wrynn
+warcraft
+worldofwarcraft
+wow

@@ -1,0 +1,27 @@
+armour
+category:ine
+character
+creator:manu herrador
+digital 3d
+gender:female
+magic
+magician
+marmoset
+medium:3d rendering
+medium:digital 3d
+medium:digital media
+modeling
+pbr
+real time
+sculpt
+subreddit:imaginarywitches
+subreddit:imcharacters
+title:witch
+title:witch by manu herrador
+uploader:n0laloth
+warrior
+witch
+witcher
+wizard
+woman
+zbrush

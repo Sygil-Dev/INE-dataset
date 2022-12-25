@@ -1,0 +1,28 @@
+2d
+art
+artwork
+car
+category:ine
+eddie mendoza
+environment
+futuristic
+genre:cyberpunk
+genre:science fiction
+ground vehicle
+headwear
+helmet
+illustration
+leather jackets
+medium:concept art
+medium:digital media
+motor vehicle
+motorcycle
+motorcyclist
+people
+street
+subreddit:imaginaryvehicles
+subreddit:imtechnology
+title:yellow wheel by eddie mendoza
+uploader:tallantas
+urban
+vehicle

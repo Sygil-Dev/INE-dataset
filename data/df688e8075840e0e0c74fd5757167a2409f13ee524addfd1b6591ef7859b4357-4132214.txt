@@ -1,0 +1,59 @@
+action:closing eyes
+board:/ck/
+bowl
+brown body
+category:ine
+chopsticks
+creator:cryptid-creations
+creator:piperdraws
+eyes closed
+feral
+filename:dp1298_s
+food
+gender:ambiguous
+gender:male
+humor
+male:1
+mat
+medium:patreon reward
+medium:simple background
+meme:humor
+meta:2016
+meta:paid reward
+meta:patreon reward
+meta:url
+meta:white background
+orange body
+pun
+rating:safe
+rice
+simple background
+site:4chan.org
+site:patreon
+site:yiff.party
+sleeping
+solo
+soy sauce
+species:arthropod
+species:cat
+species:crustacean
+species:domestic cat
+species:felid
+species:feline
+species:felis
+species:food creature
+species:hybrid
+species:mammal
+species:marine
+species:shrimp
+subreddit:imaginaryfood
+subreddit:immeta
+sushi
+text
+title:daily paint 1298. shrimp tempurra
+title:shrimp tempurra by piper thibodeau
+uploader:myrandall
+visual pun
+website:reddit
+white body
+yiff id:457132

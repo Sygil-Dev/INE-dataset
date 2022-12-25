@@ -1,0 +1,69 @@
+anklet
+armor
+bone
+booru:e621
+bracelet
+category:ine
+chain
+clothing
+clothing:armor
+clothing:bracelet
+clothing:hood
+cowl
+creator:sandara
+desert
+detailed background
+duo
+elephant
+fog
+hood
+jewelry
+legband
+magic user
+medium:detailed background
+meta:orange theme
+meta:red theme
+necromancer
+necromancy
+orange theme
+pipe
+rating:safe
+red theme
+reins
+rib cage
+robe
+rotting flesh
+skeleton
+smoke
+species:animated skeleton
+species:avian
+species:bird
+species:corvid
+species:corvus (genus)
+species:crow
+species:elephant
+species:elephantid
+species:human
+species:mammal
+species:oscine
+species:pachyderm
+species:passerine
+species:primate
+species:proboscidean
+species:undead
+species:zombie
+spiked anklet
+spiked armor
+spiked bracelet
+spiked legband
+spikes
+subreddit:imaginaryundead
+subreddit:immonsters
+teeth
+title:re-animated elephant mount
+title:re-animated elephant mount by sandara tang
+trunk
+tusks
+undead
+uploader:net-diver
+wristband

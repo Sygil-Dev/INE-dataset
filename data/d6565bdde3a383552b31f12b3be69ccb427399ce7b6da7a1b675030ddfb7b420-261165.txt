@@ -1,0 +1,19 @@
+aircraft
+battle ship
+category:ine
+concept art
+creator:jakub javora
+creator:javoraj - paranormal studio
+details
+machine
+medium:digital 2d
+painting
+photoshop
+subreddit:imaginaryaviation
+subreddit:imtechnology
+texturing
+title:battle zeppelin
+title:battle zeppelin (2 animated pcs) by jakub javora
+uploader:[deleted]
+vehicle
+zeppelin

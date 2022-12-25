@@ -1,0 +1,44 @@
+ambiguous gender
+ambiguous_gender
+artist:sandara
+attack
+category:ine
+creator:sandara
+day
+detailed background
+detailed_background
+feral
+fur
+gender:ambiguous
+grey body
+grey fur
+grey_body
+grey_fur
+group
+hooves
+horn
+horns
+medium:detailed background
+meta:2020
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+open mouth
+open_mouth
+outside
+rating:safe
+sky
+species:canid
+species:canine
+species:canis
+species:equid
+species:equine
+species:mammal
+species:mythical
+species:unicorn
+species:wolf
+subreddit:imaginaryadrenaline
+subreddit:immeta
+teeth
+title:unicorns by sandara tang
+tongue
+uploader:myrandall

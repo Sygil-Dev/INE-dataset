@@ -1,0 +1,155 @@
+1 male
+abs
+action pose
+action:open mouth
+action:standing upright
+action_pose
+admira wijaya
+angry
+anthropomorphism
+art
+art:character art
+artist:admira_wijaya
+attack
+battle
+beard
+biceps
+big muscles
+black nose
+blade
+blonde hair
+blood
+blue eyes
+board:/k/
+bodily fluids
+bodypart:abs
+bodypart:black nose
+bodypart:blonde hair
+bodypart:blue eyes
+bodypart:brown hair
+bodypart:facial hair
+bodypart:grey fur
+bodypart:hair
+bodypart:long hair
+bodypart:muscles
+bodypart:red eyes
+bodypart:teeth
+bodypart:tongue
+booru:danbooru
+booru:e621
+booru:gelbooru
+bottomwear
+brown hair
+cape
+category:ine
+claws
+clothed
+clothing
+clothing:boots
+clothing:bottomwear
+clothing:cape
+clothing:footwear
+clothing:hair tie
+clothing:legwear
+clothing:pants
+creator:admira wijaya
+creator:admirawijaya
+dagger
+death
+detailed background
+emotion:anger
+facial hair
+fangs
+fantasyillustration
+feral
+firearm
+firearm:tagme
+footwear
+forest
+full moon
+fur
+gender:male
+grey body
+grey fur
+group
+gun
+hair
+half-dressed
+human
+hunter
+interspecies
+legwear
+long hair
+low ponytail
+male
+male:1
+medium:artist name
+medium:detailed background
+medium:digital media
+medium:focus on male character
+melee weapon
+meta:artist name
+meta:digital media (artwork)
+meta:digital_media_(artwork)
+meta:official art
+meta:tagme
+monster
+moon
+muscles
+muscular
+night
+night sky
+no pupils
+open mouth
+outside
+pecs
+plant
+ponytail
+pose
+ranged weapon
+rating:mature
+rating:questionable
+rating:safe
+red eyes
+scene
+series:legend of the cryptids
+shooting
+shotgun
+size difference
+sky
+snow
+snowing
+solo
+source:e621
+species:canid
+species:canine
+species:canis
+species:human
+species:mammal
+species:mythical
+species:primate
+species:were
+species:werecanid
+species:werecanine
+species:werewolf
+species:wolf
+standing
+subreddit:imaginarywerewolves
+subreddit:immonsters
+teeth
+tied hair
+title:the wolf hunter ii
+title:the wolf hunter ii by admira wijaya
+tongue
+topless
+torn clothes
+torn clothing
+tree
+uploader:lol33ta
+weapon
+website:danbooru
+website:e621
+website:gelbooru
+were
+werewolves
+wounded

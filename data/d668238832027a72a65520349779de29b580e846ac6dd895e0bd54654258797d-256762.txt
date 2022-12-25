@@ -1,0 +1,44 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+canid
+canine
+category:ine
+creator:cryptid-creations
+feral
+flora fauna
+food
+food creature
+for a head
+for_a_head
+fox
+fruit
+jack-o'-lantern
+living fruit
+mammal
+meta:url
+object head
+plant
+pumpkin
+rating:safe
+solo
+species:canid
+species:canine
+species:elemental creature
+species:elemental_creature
+species:flora fauna
+species:flora_fauna
+species:food creature
+species:food_creature
+species:fox
+species:living fruit
+species:living_fruit
+species:mammal
+species:object head
+species:object_head
+subreddit:imaginaryaww
+subreddit:immeta
+text
+title:daily paint 2165. pumpkit
+title:daily paint 2165. pumpkit by piper thibodeau
+uploader:net-diver

@@ -1,0 +1,23 @@
+art
+bike
+category:ine
+concept
+creator:sergio seabra
+cyberpunk
+design
+environment
+film
+futuristic
+ground vehicle
+hardsurface
+hoverbike
+painting
+propdesign
+scifi
+subreddit:imaginarycyberpunk
+subreddit:imtechnology
+title:nazgul_hoverbike
+title:nazgul_hoverbike, by sergio seabra
+uploader:sseabra
+vehicle
+vehicledesign

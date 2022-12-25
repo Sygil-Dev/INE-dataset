@@ -1,0 +1,23 @@
+category:ine
+clouds
+creator:andreas rocha
+fortress
+frozen
+haze
+ice
+keep
+medium:digital 2d
+mist
+mountains
+noai
+rocks
+snow
+subreddit:imaginarycastles
+subreddit:imaginarytowers
+subreddit:imarchitecture
+sunset
+title:the wizard's tower iii
+title:the wizard's tower iii by andreas rocha
+tower
+uploader:dievah
+uploader:net-diver

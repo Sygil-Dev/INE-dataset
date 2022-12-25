@@ -1,0 +1,47 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+bowl
+bread
+brown body
+category:ine
+creator:cryptid-creations
+creator:piperdraws
+feral
+filename:dp1067_s
+food
+furry
+gender:ambiguous
+medium:patreon reward
+medium:simple background
+medium:white background
+meta:2015
+meta:url
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+smile
+solo
+soup
+species:animate inanimate
+species:food creature
+species:food_creature
+species:reptile
+species:scalie
+species:turtle
+steam
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:'bread bowl turtle' by piper thibodeau
+title:daily paint #1067. bread bowl turtle
+uploader:myrandall
+white background
+white_background
+yiff id:457132

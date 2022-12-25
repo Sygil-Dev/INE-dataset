@@ -1,0 +1,20 @@
+1 female
+armor
+bedroom eyes
+blonde hair
+category:ine
+character:samus aran
+creator:petri rahkola
+gender:female
+holding helmet
+medium:high resolution
+medium:realistic
+medium:very high resolution
+rating:safe
+series:metroid
+solo
+studio:nintendo
+subreddit:imaginaryarmor
+subreddit:imtechnology
+title:samus by petri rahkola
+uploader:lol33ta

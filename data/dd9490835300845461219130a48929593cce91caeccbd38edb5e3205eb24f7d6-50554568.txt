@@ -1,0 +1,32 @@
+archer
+armor
+arrow
+blue
+bow
+category:ine
+clothing:armor
+cosmic
+creator:sixthleafclover
+dragon
+fur
+galaxy
+genre:fantasy
+glow
+glowing
+honorary
+light
+mane
+path
+purple
+rooth
+scales
+silver
+source:furaffinity.net
+space
+species:dragon
+subreddit:imaginaryarchers
+subreddit:imcharacters
+title:the pathmaker
+title:the pathmaker (sagittarius) by the-sixthleafclover
+uploader:lol33ta
+zodiac

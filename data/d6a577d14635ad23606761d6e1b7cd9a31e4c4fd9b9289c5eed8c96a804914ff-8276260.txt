@@ -1,0 +1,47 @@
+<3
+ambiguous_gender
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+bodypart:black eyes
+category:ine
+character:pandini
+character:panini
+creator:cryptid-creations
+feral
+food
+food creature
+gender:ambiguous
+gender:male
+giant panda
+heart symbol
+humor
+male:1
+medium:simple background
+meme:humor
+meta:white background
+panini
+panini (sandwich)
+plate
+pun
+rating:safe
+simple background
+simple_background
+solo
+species:food creature
+species:food_creature
+species:giant panda
+species:giant_panda
+species:mammal
+species:ursid
+subreddit:imaginaryfood
+subreddit:immeta
+title:daily paint 1641. pandini
+title:pandini by piper thibodeau
+uploader:myrandall
+ursid
+visual pun
+visual_pun
+white_background

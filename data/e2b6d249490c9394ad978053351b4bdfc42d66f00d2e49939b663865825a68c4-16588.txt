@@ -1,0 +1,118 @@
+16:9
+2013
+aa-12
+action:open mouth
+blood
+board:/k/
+bodily fluids
+bodypart:brown hair
+bodypart:hair
+bodypart:long hair
+bodypart:short hair
+bodypart:teeth
+bodypart:white hair
+bomb
+bottomwear
+brown hair
+bulge
+bullet
+category:ine
+character:bill clinton
+character:monica lewinsky
+character:ronald mcdonald
+cigarette
+claws
+clothing
+clothing:bottomwear
+clothing:collar
+clothing:legwear
+clothing:necktie
+clothing:pants
+cloud
+clown
+collar
+country:usa
+creator:sharpwriter
+emotion:confusion
+explosives
+female
+fire
+firearm
+firearm:tagme
+flag
+furry
+gender:female
+gender:male
+glock
+group
+gun
+hair
+handgun
+hi res
+holding object
+holding weapon
+human focus
+lol comments
+long hair
+machine gun
+male
+medium:16:9 aspect ratio
+medium:high resolution
+medium:wallpaper
+meta:tagme
+musical instrument
+necktie
+nuclear bomb
+open mouth
+open pants
+outside
+pants
+paper
+pet
+pistol
+pushbutton
+ranged weapon
+rating:safe
+saxophone
+scratch
+scratches
+series:mcdonald's
+series:real world
+short hair
+shotgun
+sky
+smoke
+smoking
+species:alien
+species:alligator
+species:alligatorid
+species:crocodile
+species:crocodilian
+species:crocodylid
+species:human
+species:mammal
+species:primate
+species:reptile
+species:scalie
+spent casing
+stars and stripes
+statue of liberty
+submachine gun
+subreddit:imaginaryhistory
+subreddit:imaginarypolitics
+subreddit:immeta
+suit
+tag
+teeth
+title:bill clinton the lady killer
+title:bill clinton the lady killer - by jason odin heuser
+title:bill clinton the lady killer - by jason odin heuser (x-post /r/imaginarypolitics)
+ufo
+united states of america
+uploader:greypo
+wallpaper
+weapon
+what
+white hair
+widescreen
+year:2013

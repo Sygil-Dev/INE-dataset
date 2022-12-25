@@ -1,0 +1,21 @@
+character:shadow the hedgehog
+creator:bram sels
+flower
+hero
+knight
+light
+medium:digital 2d
+mtg
+series:magic: the gathering
+series:sonic the hedgehog
+shield
+studio:hasbro
+studio:wizards of the coast
+subreddit:imaginaryknights
+swamp
+thorns
+throne of eldraine
+title:knight of the keep
+title:knight of the keep by bram sels
+uploader:lol33ta
+white

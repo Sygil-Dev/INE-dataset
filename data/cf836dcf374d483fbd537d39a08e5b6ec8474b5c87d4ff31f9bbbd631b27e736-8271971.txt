@@ -1,0 +1,37 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+creator:cryptid-creations
+feral
+food
+gender:male
+humor
+lemur
+male:1
+mammal
+meme:humor
+onion rings
+onion_rings
+primate
+pun
+rating:safe
+ring-tailed lemur
+simple background
+simple_background
+solo
+species:lemur
+species:mammal
+species:primate
+species:ring-tailed lemur
+species:ring-tailed_lemur
+species:strepsirrhine
+strepsirrhine
+subreddit:imaginaryfood
+subreddit:immeta
+title:onion ring-tailed lemur by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+white background
+white_background

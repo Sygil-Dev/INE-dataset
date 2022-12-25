@@ -1,0 +1,23 @@
+art:wallpaper
+artist
+board:/v/
+bodypart:orange hair
+category:ine
+headphones
+medium:image
+medium:jpg
+medium:wallpaper
+meta:artist request
+meta:character request
+playstation
+site:4chan.org
+species:robot
+subreddit:imaginaryinteriors
+subreddit:imarchitecture
+tablet
+tagme
+title:workstation by stacy jujika
+type:deleteme
+uploader:ethan_kahn
+wallpaper
+website:chan style imageboards

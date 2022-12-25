@@ -1,0 +1,59 @@
+2015
+bench
+booru:e621
+category:ine
+character:princess celestia
+character:princess celestia (mlp)
+character:twilight sparkle
+character:twilight sparkle (mlp)
+clothing:necklace
+creator:1jaz
+crown
+cup
+detailed background
+duo
+feathered wings
+feathers
+female
+feral
+flower
+fountain
+garden
+gender:female
+genre:fantasy
+gold (metal)
+hi res
+high resolution
+horn
+horns
+jewelry
+medium:detailed background
+medium:high resolution
+meta:2015
+meta:hi res
+necklace
+park
+plant
+rating:safe
+rose
+rose (flower)
+series:friendship is magic
+series:hasbro
+series:my little pony
+series:my little pony friendship is magic
+species:equid
+species:equine
+species:mammal
+species:winged unicorn
+studio:hasbro
+subreddit:imaginaryequestria
+subreddit:imfandoms
+tag source:e621
+tea cup
+tea pot
+title:"after the story" by paul (1jaz)
+title:after the story
+tree
+uploader:crystallord
+wings
+year:2015

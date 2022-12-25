@@ -1,0 +1,59 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+bone
+category:ine
+character:death (personification)
+character:death_(personification)
+claws
+cloak
+clothed
+clothing
+clothing:tagme
+creator:cryptid-creations
+creator:piperdraws
+empty eyes
+empty_eyes
+fangs
+feral
+filename:dp1074_s
+furry
+gender:ambiguous
+gender:male
+humor
+male:1
+medium:patreon reward
+medium:simple background
+medium:white background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:url
+meta:white background
+pun
+rating:safe
+shroud
+simple background
+simple_background
+site:patreon
+site:yiff.party
+skeleton
+skull
+solo
+species:dinosaur
+species:dromaeosaurid
+species:extinct
+species:reptile
+species:scalie
+species:theropod
+species:velociraptor
+subreddit:imaginarydinosaurs
+subreddit:immonsters
+text
+title:"velocireaper" by piper thibodeau
+title:daily paint #1074. velocireaper
+uploader:mysalmonhasfeets
+visual pun
+visual_pun
+white background
+white_background

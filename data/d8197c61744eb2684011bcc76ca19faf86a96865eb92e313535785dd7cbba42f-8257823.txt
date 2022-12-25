@@ -1,0 +1,31 @@
+artwork
+blood
+bodily fluids
+category:ine
+clothing:legwear
+clothing:stockings
+cyborg
+digital painting
+drawing
+dyed hair
+fantasy girl
+fishnet pantyhose
+futuristic
+gender:female
+genre:cyberpunk
+genre:science fiction
+green eyes
+legwear
+lying
+lying on back
+medium:digital media
+monokinis
+murder
+painting
+pedram mohammadi
+subreddit:imaginarycarnage
+subreddit:imaginarycyberpunk
+subreddit:imnsfw
+subreddit:imtechnology
+title:payback by pedram mohammadi
+uploader:n0laloth

@@ -1,0 +1,38 @@
+1 female
+1girl
+bad id
+barefoot
+book
+booru:danbooru
+booru:gelbooru
+booru:sankaku channel
+broom
+clothing:headwear
+creator:burari
+feet
+female
+foot hold
+gender:female
+hat
+indoors
+light
+medium:wallpaper
+meta:bad id
+meta:bad pixiv id
+meta:copyright request
+pole
+pot
+rating:questionable
+rating:safe
+roomscape
+roomscapes
+solo
+study
+studying
+subreddit:imaginaryscholars
+subreddit:imcharacters
+title:witch by burari
+uploader:lol33ta
+window
+witch
+witch hat

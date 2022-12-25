@@ -1,0 +1,39 @@
+2017
+booru:e621
+character:winona (mlp)
+clothing:collar
+collar
+creator:assasinmonkey
+female
+feral
+gender:female
+genre:fantasy
+grass
+medium:high resolution
+meta:2017
+meta:hi res
+outside
+plant
+raining
+rating:safe
+sculpture
+series:friendship is magic
+series:hasbro
+series:my little pony
+series:my little pony friendship is magic
+series:my little pony: friendship is magic
+smile
+solo
+species:canid
+species:canine
+species:canis
+species:dog
+species:domestic dog
+species:mammal
+statue
+studio:hasbro
+subreddit:imaginarystatues
+title:still an apple
+title:still an apple by myron c. p.
+uploader:myrandall
+year:2017

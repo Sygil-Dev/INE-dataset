@@ -1,0 +1,53 @@
+2016
+artist:fel-x
+brachiosaurus
+category:ine
+creator:fel-x
+day
+detailed
+detailed background
+detailed_background
+dino
+dinosaurs
+feral
+flying
+furry
+geology
+hi res
+landscape
+medium:16:9 aspect ratio
+medium:detailed background
+medium:high resolution
+meta:2016
+meta:detailed
+meta:hi res
+meta:hi_res
+mountain
+nature
+outside
+plant
+pterodactyl
+rating:safe
+species
+species:brachiosaurid
+species:brachiosaurus
+species:ceratopsian
+species:dinosaur
+species:extinct
+species:ornithischian
+species:pterodactylus
+species:pterosaur
+species:reptile
+species:sauropod
+species:scalie
+species:triceratops
+subreddit:imaginarydinosaurs
+subreddit:immonsters
+title:dinosaurs
+title:dinosaurs by feliks grzesiczek
+tree
+uploader:fireflycities
+water
+waterfall
+wings
+year:2016

@@ -1,0 +1,20 @@
+category:ine
+concept art
+creator:alec beals
+future
+laser
+medium:digital 2d
+military
+military watercraft
+ship
+stealth
+subreddit:imaginaryfuturewar
+subreddit:imaginarywarships
+subreddit:imtechnology
+title:evening ship sketch/photo study
+title:stealth warship by alec beals
+title:stealth warships - alec beals
+uploader:beals
+vehicle
+warship
+watercraft

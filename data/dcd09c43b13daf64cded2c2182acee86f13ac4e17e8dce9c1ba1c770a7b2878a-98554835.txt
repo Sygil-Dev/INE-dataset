@@ -1,0 +1,20 @@
+art
+artwork
+boardgameart
+conceptart
+coverart
+creator:arkadiusz banaś
+darkage
+fight
+graphic
+illustration
+knight
+medieval
+medium:digital 2d
+painting
+subreddit:imaginarywarriors
+title:hereward
+title:hereward, arkadiusz banaś
+uploader:hipposrevenge
+viking
+war

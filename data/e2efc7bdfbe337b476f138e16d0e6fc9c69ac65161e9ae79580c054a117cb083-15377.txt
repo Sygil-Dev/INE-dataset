@@ -1,0 +1,70 @@
+1 female
+10s
+2014
+artist:laura sava
+black dress
+book
+book stack
+bookshelf
+bottle
+box
+candle
+candlestand
+category:ine
+choker
+clothing:black dress
+clothing:choker
+clothing:dress
+clothing:earrings
+clothing:hair ornament
+clothing:jewelry
+copyright name
+copyright:legend of the cryptids
+creator:laura sava
+dagger
+dress
+earrings
+gender:female
+girl
+globe
+goblet
+hair ornament
+hourglass
+indoors
+inkwell
+jewelry
+legend of the cryptids
+loc
+magic
+medium:copyright name
+medium:digital 2d
+medium:watermark
+melee weapon
+meta:artstation sample
+meta:image sample
+open book
+pestle
+quill
+rating:safe
+realistic
+room
+scroll
+series:legend of the cryptids
+skull
+solo
+spell
+standing
+studio:box
+subreddit:imaginaryartifacts
+subreddit:immeta
+table
+title:legend of the cryptids
+title:legend of the cryptids by laura sava
+uploader:lol33ta
+watermark
+weapon
+window
+witch
+woman
+year:10s
+year:2014

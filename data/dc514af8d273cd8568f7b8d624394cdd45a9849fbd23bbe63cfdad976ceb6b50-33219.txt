@@ -1,0 +1,33 @@
+1 female
+1 male
+blush
+booru:safebooru
+brown eyes
+brown hair
+category:ine
+character:honda tohru
+character:sohma kyo
+creator:sharkie19
+gender:female
+gender:male
+green eyes
+long hair
+medium:artist name
+open mouth
+orange hair
+rating:safe
+ribbon
+school uniform
+series:fruits basket
+short hair
+skirt
+sky
+smile
+species:cat
+species:feline
+species:mammal
+subreddit:imaginarypets
+subreddit:immeta
+title:fruits basket by rachel/'sharkie19'
+uniform
+uploader:myrandall

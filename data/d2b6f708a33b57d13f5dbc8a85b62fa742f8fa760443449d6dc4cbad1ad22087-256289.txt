@@ -1,0 +1,50 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+black body
+black eyes
+black fur
+black_body
+black_eyes
+black_fur
+bodypart:black eyes
+category:ine
+cloud
+creator:cryptid-creations
+feral
+fur
+gender:ambiguous
+grass
+green body
+green fur
+green_body
+green_fur
+group
+humor
+meme:humor
+meta:url
+plant
+pun
+rating:safe
+sky
+species:bovid
+species:caprine
+species:domestic sheep
+species:domestic_sheep
+species:elemental creature
+species:elemental_creature
+species:flora fauna
+species:flora_fauna
+species:mammal
+species:sheep
+subreddit:imaginaryanimals
+subreddit:imnature
+text
+title:lambscape by piper thibodeau
+uploader:myrandall
+visual pun
+visual_pun
+white body
+white fur
+white_body
+white_fur

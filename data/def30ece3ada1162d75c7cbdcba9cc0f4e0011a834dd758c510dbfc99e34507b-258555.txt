@@ -1,0 +1,43 @@
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+category:ine
+character:felis
+creator:cryptid-creations
+domestic cat
+felid
+feline
+feral
+group
+herpestid
+humor
+mammal
+meerkat
+meme:humor
+meta:english text
+meta:english_text
+pun
+rating:safe
+rock
+simple background
+simple_background
+species:cat
+species:domestic cat
+species:domestic_cat
+species:felid
+species:feline
+species:felis
+species:herpestid
+species:mammal
+species:meerkat
+subreddit:imaginaryaww
+subreddit:imaginaryfeels
+subreddit:immeta
+text
+title:daily paint 2001# mere cat
+title:daily paint 2001# mere cat by piper thibodeau
+uploader:net-diver
+visual pun
+visual_pun
+white background
+white_background

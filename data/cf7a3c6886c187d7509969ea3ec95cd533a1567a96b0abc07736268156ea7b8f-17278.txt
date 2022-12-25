@@ -1,0 +1,46 @@
+1 male
+1 other
+1other
+belt
+blue coat
+bob kehl
+booru:danbooru
+category:ine
+character:black mage
+character:vivi ornitier
+clothing:belt
+clothing:hat
+clothing:headwear
+clothing:striped pattern
+coat
+creator:bob kehl
+faceless
+fire
+fireball
+gender:male
+glowing
+glowing eyes
+hat
+mage
+magic
+medium:watermark
+medium:web address
+meta:commentary
+meta:english commentary
+no pupils
+rating:safe
+series:final fantasy
+series:final fantasy ix
+solo
+staff
+striped
+studio:square enix
+subreddit:imaginarywizards
+subreddit:imcharacters
+title:vivi by bob kehl
+uploader:tamander
+vertical stripes
+watermark
+web address
+wizard hat
+yellow eyes

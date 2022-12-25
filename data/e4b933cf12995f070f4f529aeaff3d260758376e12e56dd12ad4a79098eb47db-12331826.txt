@@ -1,0 +1,31 @@
+booru:e621
+creator:sandara
+day
+detailed
+detailed background
+feral
+group
+marina bay sands
+medium:detailed background
+meta:2017
+meta:detailed
+outside
+partially submerged
+rating:safe
+series:real world
+singapore
+sky
+species:deity
+species:felid
+species:feline
+species:fish
+species:hybrid
+species:mammal
+species:marine
+species:merlion
+subreddit:imaginarymonsters
+title:merlion
+title:merlion by sandara tang
+uploader:killerbunnyfamily
+water
+year:2017

@@ -1,0 +1,39 @@
+bird
+bug
+category:ine
+character:sonic
+character:sonic the hedgehog
+character:tails (sonic)
+chicken
+crab
+creator:justin currie (chasingartwork)
+hornet
+jewelry
+meta:character request
+meta:commentary
+meta:english commentary
+monkey
+monster
+octopus
+pig
+piglet
+rating:safe
+rating:sensitive
+ring
+series:sonic (series)
+series:sonic the hedgehog
+species:arachnid
+species:arthropod
+species:avian
+species:chicken
+species:crab
+species:crustacean
+species:mammal
+species:primate
+species:spider
+spider
+subreddit:imaginarygaming
+subreddit:imfandoms
+television
+title:gotta go fast! by justin currie
+uploader:anndromedda

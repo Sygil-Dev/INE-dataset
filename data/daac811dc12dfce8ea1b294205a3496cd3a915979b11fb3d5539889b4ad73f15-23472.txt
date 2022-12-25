@@ -1,0 +1,42 @@
+1 male
+1boy
+artist:weihao wei
+beanie
+booru:danbooru
+booru:gelbooru
+canada
+car
+category:ine
+clothing:headwear
+copyright:tom clancy's the division
+creator:weihao wei
+firearm
+flare
+ford
+gender:male
+genre:science fiction
+ground vehicle
+gun
+hat
+holding
+holding gun
+holding object
+holding weapon
+medium:high resolution
+meta:highres
+military
+motor vehicle
+rating:mature
+rating:safe
+science fiction
+series:tom clancy's the division
+snow
+snowing
+subreddit:imaginarybattlefields
+subreddit:imlandscapes
+title:what if canada falls by weihao wei
+uploader:yamamba78
+vehicle
+walking
+weapon
+weihao wei
