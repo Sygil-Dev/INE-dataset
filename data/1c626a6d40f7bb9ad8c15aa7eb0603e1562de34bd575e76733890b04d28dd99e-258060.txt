@@ -1,0 +1,56 @@
+action:licking
+ambiguous gender
+banana peel
+black eyes
+bodypart:black eyes
+brown body
+brown fur
+category:ine
+creator:cryptid-creations
+cup
+feral
+fur
+gender:ambiguous
+gender:female
+group
+humor
+licking
+licking lips
+loli body type
+medium:simple background
+medium:white background
+meme:humor
+meme:trash
+meta:2018
+meta:url
+orange body
+orange fur
+pun
+rating:safe
+self lick
+simple background
+species:cat
+species:domestic cat
+species:felid
+species:feline
+species:felis
+species:mammal
+species:murid
+species:murine
+species:rat
+species:rodent
+subreddit:imaginaryaww
+subreddit:immeta
+tan body
+tan fur
+text
+title:daily paint 2095. litter of kittens
+title:daily paint 2095. litter of kittens by piper thibodeau
+tongue
+tongue out
+uploader:net-diver
+white background
+white body
+white fur
+year:2018
+young

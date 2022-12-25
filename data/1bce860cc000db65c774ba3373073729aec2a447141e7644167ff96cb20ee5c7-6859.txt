@@ -1,0 +1,89 @@
+action:open mouth
+ambiguous gender
+ambiguous_gender
+artist:cryptid-creations
+black eyes
+black_eyes
+board:/v/
+bodypart:black eyes
+brown body
+brown fur
+brown_body
+brown_fur
+category:ine
+cloud
+convenient censorship
+convenient_censorship
+copyright:bible
+copyright:nintendo
+copyright:pokémon
+creator:cryptid-creations
+duo
+evolutionary stone
+feral
+food
+fruit
+fruit of knowledge
+fruit_of_knowledge
+fur
+garden of eden
+garden_of_eden
+gen 1 pokemon
+gender:ambiguous
+grass
+humor
+leaf stone
+leaf_stone
+medium:censored
+medium:convenient censoring
+meme:humor
+meta:url
+open mouth
+open_mouth
+outside
+patreon_url
+plant
+pun
+purple body
+purple scales
+purple_body
+purple_scales
+rating:safe
+rattle (anatomy)
+rattle_(anatomy)
+scales
+series:bible
+series:nintendo
+series:pokémon
+site:4chan.org
+sky
+species:eevee
+species:ekans
+species:monster
+species:pokémon
+species:pokémon (species)
+species:pokémon_(species)
+studio:nintendo
+subreddit:imaginarygaming
+subreddit:imaginarykanto
+subreddit:imfandoms
+text
+title:"adam and eevee" by piper thibodeau
+title:daily paint 2217. adam and eevee
+tree
+uploader:torvusil
+video games
+video_games
+visual pun
+visual_pun
+website:chan style imageboards
+white body
+white fur
+white_body
+white_fur
+yellow body
+yellow eyes
+yellow scales
+yellow_body
+yellow_eyes
+yellow_scales

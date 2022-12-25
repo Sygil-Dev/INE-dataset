@@ -1,0 +1,40 @@
+1 female
+bag
+black hair
+blue eyes
+bubble
+category:ine
+clothing request
+clothing:bracelet
+crane (animal)
+ears
+fish
+flower
+gender:female
+hair flower
+hair ornament
+instrument request
+jewelry
+language:english
+medium:abstract background
+medium:english text
+medium:high resolution
+medium:text
+meta:artist name
+meta:commentary request
+multicolored hair
+shoulder bag
+species:avian
+species:bird
+species:cervine
+species:deer
+species:elf
+species:mammal
+subreddit:imaginaryaww
+subreddit:immeta
+tagme:series
+text
+title:a song by wenjun lin
+uploader:spirtomb1831
+water
+wenjun lin

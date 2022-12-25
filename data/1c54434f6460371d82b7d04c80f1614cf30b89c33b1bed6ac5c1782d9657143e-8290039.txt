@@ -1,0 +1,76 @@
+action:smile
+ambiguous_gender
+antlers
+artist:cryptid-creations
+beady eyes
+beady_eyes
+black eyes
+black_eyes
+bodypart:black eyes
+bodypart:horns
+bowl
+brown body
+brown fur
+brown_body
+brown_fur
+candy
+category:ine
+cherry
+chocolate
+creator:cryptid-creations
+creator:piperdraws
+dairy products
+dairy_products
+dessert
+feral
+filename:dp1168_s
+food
+fruit
+fur
+gender:ambiguous
+gender:male
+horn
+horns
+humor
+ice cream
+ice_cream
+male:1
+medium:patreon reward
+medium:simple background
+meme:humor
+meta:paid reward
+meta:patreon reward
+meta:url
+meta:white background
+mousse (food)
+mousse_(food)
+plant
+pun
+rating:safe
+simple background
+simple_background
+site:patreon
+site:yiff.party
+smile
+solo
+species:capreoline
+species:cervid
+species:cervine
+species:food creature
+species:food_creature
+species:mammal
+species:moose
+subreddit:imaginaryfood
+subreddit:immeta
+text
+title:'chocolate mousse' by piper thibodeau
+title:daily paint #1168. chocolate mousse
+tray
+uploader:myrandall
+visual pun
+visual_pun
+website:reddit
+whipped cream
+whipped_cream
+white_background
+yiff id:457132
