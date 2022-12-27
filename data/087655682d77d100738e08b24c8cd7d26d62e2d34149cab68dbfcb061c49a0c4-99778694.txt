@@ -5,11 +5,13 @@ day
 detailed background
 feathered wings
 feathers
+feral
 meta:2022
 meta:digital media (artwork)
 meta:hi res
 outside
 rating:safe
+riding
 sky
 species:accipitrid
 species:accipitriform

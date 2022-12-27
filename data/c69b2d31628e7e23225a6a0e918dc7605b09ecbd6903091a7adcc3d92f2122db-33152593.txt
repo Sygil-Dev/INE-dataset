@@ -63,6 +63,7 @@ species:mythical
 species:oni
 species:red oni
 subreddit:imaginaryboners
+subreddit:imaginarydemons
 subreddit:imaginarymonstergirls
 subreddit:immonsters
 subreddit:imnsfw
@@ -74,7 +75,6 @@ title:oni by krenz cushart
 title:oni girl, by krenz cushart
 title:oni, by krenz cushart
 underwear
-uploader:[deleted]
 uploader:musaibwadkar
 uploader:sylvyrfyre
 upper body

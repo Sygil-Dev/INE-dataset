@@ -28,6 +28,5 @@ studio:nintendo
 subreddit:imaginarykanto
 subreddit:imfandoms
 title:giratina by sido tamashii
-uploader:[deleted]
 uploader:ayalim
 white background

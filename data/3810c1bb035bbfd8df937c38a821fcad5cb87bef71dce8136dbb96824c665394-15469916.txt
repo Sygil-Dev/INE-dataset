@@ -30,6 +30,5 @@ subreddit:immeta
 teeth
 title:[/r/imaginarycarnage] blood knight by matt cavotta
 title:blood knight by matt cavotta
-uploader:[deleted]
 uploader:faeryknight
 uploader:lol33ta

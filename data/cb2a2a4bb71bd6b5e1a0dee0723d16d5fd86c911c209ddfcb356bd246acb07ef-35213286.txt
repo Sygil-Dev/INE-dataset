@@ -18,5 +18,6 @@ subreddit:imraces
 subreddit:imtechnology
 surreal
 title:"artificial supergod six" by beeple
-uploader:[deleted]
+title:artificial supergod six by beeple
 uploader:bretcodes
+uploader:l-ya

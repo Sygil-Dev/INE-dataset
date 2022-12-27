@@ -61,7 +61,6 @@ subreddit:immonsters
 teeth
 title:waxing moon by adam paquette
 tree
-uploader:[deleted]
 uploader:faeryknight
 were
 werewolf

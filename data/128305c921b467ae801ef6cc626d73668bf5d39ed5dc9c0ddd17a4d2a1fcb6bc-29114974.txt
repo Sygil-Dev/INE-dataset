@@ -44,5 +44,4 @@ subreddit:imaginarystash
 subreddit:imnsfw
 title:skull of a skeleton with burning cigarette, by vincent van gogh
 traditional media (artwork)
-uploader:[deleted]
 uploader:faeryknight

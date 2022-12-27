@@ -26,5 +26,4 @@ subreddit:imnsfw
 title:dryads by boris vallejo
 toned
 tree
-uploader:[deleted]
 uploader:bleeding_choker

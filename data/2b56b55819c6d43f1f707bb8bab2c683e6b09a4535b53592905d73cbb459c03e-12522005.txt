@@ -61,7 +61,6 @@ subreddit:imfandoms
 title:freelancer
 title:freelancer by bach do
 topwear
-uploader:[deleted]
 uploader:bleeding_choker
 watermark
 web address

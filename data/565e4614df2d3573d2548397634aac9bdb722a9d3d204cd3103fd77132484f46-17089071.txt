@@ -12,6 +12,7 @@ bushes
 category:ine
 character:kokiri
 character:saria
+character:saria (the legend of zelda)
 closed mouth
 clothes writing
 commentary
@@ -40,6 +41,7 @@ meta:commentary
 meta:paint.net (medium)
 pointed ears
 pointy ears
+rating:general
 rating:mature
 rating:safe
 series:nintendo

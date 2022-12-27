@@ -31,5 +31,4 @@ studio:wizards of the coast
 subreddit:imaginarybeasts
 subreddit:immonsters
 title:feral krushok by kev walker
-uploader:[deleted]
 uploader:faeryknight

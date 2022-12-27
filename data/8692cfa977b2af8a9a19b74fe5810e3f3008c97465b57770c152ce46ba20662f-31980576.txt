@@ -44,7 +44,6 @@ subreddit:immonsters
 title:靄の向こうの何か by seiji yoshida
 torii
 tree
-uploader:[deleted]
 uploader:zeniak_
 walking
 white dress

@@ -37,7 +37,6 @@ subreddit:imtechnology
 title:hms royal george
 title:hms royal george by rado javor
 title:hms royal george by rado javor.
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:karmicviolence
 vehicle

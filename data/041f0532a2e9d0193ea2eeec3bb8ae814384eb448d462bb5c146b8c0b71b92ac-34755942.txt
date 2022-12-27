@@ -21,6 +21,5 @@ studio:nintendo
 subreddit:imaginaryhalo
 subreddit:imfandoms
 title:shytana by marsminer
-uploader:[deleted]
 uploader:bleeding_choker
 video games

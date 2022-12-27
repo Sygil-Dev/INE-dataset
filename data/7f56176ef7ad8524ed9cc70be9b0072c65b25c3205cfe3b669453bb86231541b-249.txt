@@ -67,7 +67,6 @@ subreddit:imlandscapes
 subreddit:immeta
 title:[/r/imaginarycityscapes] night city by arsenixc
 title:night city by arsenixc.
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:lol33ta
 vehicle

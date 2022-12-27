@@ -56,6 +56,7 @@ point of view
 ponytail
 pov
 rating:safe
+rating:sensitive
 red eyes
 red skirt
 rigging

@@ -1,6 +1,7 @@
 4 fingers
 4 toes
 anthro
+armpit hair
 athletic
 athletic male
 biceps
@@ -8,6 +9,7 @@ body hair
 bottomwear
 character:tagg
 claws
+clothed
 clothing
 creator:taran fiddler
 digitigrade
@@ -33,6 +35,7 @@ red hair
 scales
 sharp teeth
 shirtless
+shorts
 simple background
 solo
 species:dinosaur
@@ -44,5 +47,6 @@ subreddit:immonsters
 teeth
 title:birthday painting, by taran fiddler
 toes
+topless
 uploader:tabulaerrata
 vein

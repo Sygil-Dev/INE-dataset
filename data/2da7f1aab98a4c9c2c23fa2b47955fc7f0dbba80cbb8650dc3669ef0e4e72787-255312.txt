@@ -54,5 +54,4 @@ subreddit:imarchitecture
 test tube
 test tube rack
 title:wizard's holiday by [濱田イト]
-uploader:[deleted]
 uploader:ethan_kahn

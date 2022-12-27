@@ -53,7 +53,6 @@ subreddit:imlandscapes
 subreddit:immonsters
 title:the end of evangelion
 title:the end of evangelion by gydw1n.
-uploader:[deleted]
 uploader:ethan_kahn
 upper body
 エヴァ1000users入り

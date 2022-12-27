@@ -56,7 +56,6 @@ sword
 tag source:e621
 title:angel
 title:voice of the provinces by igor kieryluk
-uploader:[deleted]
 uploader:faeryknight
 weapon
 wings

@@ -58,5 +58,4 @@ thorns
 title:welcome to my garden
 title:welcome to my garden by yang fan
 tree
-uploader:[deleted]
 window

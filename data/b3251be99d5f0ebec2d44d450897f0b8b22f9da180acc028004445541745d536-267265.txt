@@ -34,7 +34,6 @@ sun
 title:reflection by niko p.
 tree
 twilight
-uploader:[deleted]
 uploader:ethan_kahn
 utility pole
 utility pole (object)

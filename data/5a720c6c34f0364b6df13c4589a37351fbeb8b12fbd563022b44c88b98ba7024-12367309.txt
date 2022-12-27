@@ -40,7 +40,6 @@ standing
 subreddit:imaginarydragons
 subreddit:immonsters
 title:whisk away by zack stella
-uploader:[deleted]
 uploader:faeryknight
 warrior
 wings

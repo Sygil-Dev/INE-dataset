@@ -44,4 +44,3 @@ subreddit:imfandoms
 table
 title:3/7 by 水面乃ろとす
 tree
-uploader:[deleted]

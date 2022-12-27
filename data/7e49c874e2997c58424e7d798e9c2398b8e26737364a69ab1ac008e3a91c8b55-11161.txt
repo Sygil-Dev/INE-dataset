@@ -68,7 +68,6 @@ subreddit:imfandoms
 title:pokemon summary by ぴっぴ
 title:ポケモンまとめ
 tree
-uploader:[deleted]
 vest
 wooden bridge
 wristband

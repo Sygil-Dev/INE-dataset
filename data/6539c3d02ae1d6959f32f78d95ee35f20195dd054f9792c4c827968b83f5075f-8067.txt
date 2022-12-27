@@ -71,7 +71,6 @@ subreddit:imraces
 sword
 title:knight
 title:knight by guweiz
-uploader:[deleted]
 uploader:faeryknight
 uploader:malign-god
 uploader:spirtomb1831

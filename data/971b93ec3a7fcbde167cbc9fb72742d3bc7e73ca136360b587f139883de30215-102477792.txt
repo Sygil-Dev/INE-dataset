@@ -19,6 +19,9 @@ title:812g - gigantimax rillaboom by foresterdesigns
 title:815g - gigantimax cinderace by foresterdesigns
 title:818g - gigantimax inteleon by foresterdesigns
 title:823g - gigantimax corviknight by foresterdesigns
+title:826g - gigantimax orbeetle by foresterdesigns
+title:834g - gigantimax drednaw by foresterdesigns
+title:839g - gigantimax coalossal by foresterdesigns
 title:888a - zacian by foresterdesigns
 title:888b - zacian by foresterdesigns
 title:889a - zamazenta by foresterdesigns
@@ -27,5 +30,6 @@ title:890a - eternatus by foresterdesigns
 title:890b - eternatus by foresterdesigns
 title:f69 - longswords of the thunderous earth by foresterdesigns
 title:f70 - lute of the chatting tunes by foresterdesigns
+title:f71 - claws of the cold mountains by foresterdesigns
 title:pokémon inspired weapons &amp; items, 133g - gigantimax eevee
 uploader:comics0026

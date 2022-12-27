@@ -58,6 +58,8 @@ medium:text
 medium:watermark
 medium:web address
 meta:artist name
+meta:commentary request
+meta:photoshop (medium)
 midriff
 multicolored hair
 nose

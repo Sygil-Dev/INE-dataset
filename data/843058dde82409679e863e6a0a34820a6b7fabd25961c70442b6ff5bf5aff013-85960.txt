@@ -15,7 +15,6 @@ subreddit:immeta
 subreddit:imtechnology
 title:alone by vladimir manyukhin
 title:alone, by vladimir manyukhin
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:sylvyrfyre
 vladimir manyukhin

@@ -16,6 +16,5 @@ subreddit:immonsters
 succubus
 title:characters
 title:succubus by mikhail palamarchuk
-uploader:[deleted]
 uploader:himmlische-gonner
 warrior

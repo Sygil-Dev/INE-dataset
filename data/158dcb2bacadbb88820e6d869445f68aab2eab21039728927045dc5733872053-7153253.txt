@@ -20,6 +20,5 @@ spartan
 subreddit:imaginaryhalo
 subreddit:imfandoms
 title:kelly's reflection by bloodfart
-uploader:[deleted]
 uploader:bleeding_choker
 website:reddit

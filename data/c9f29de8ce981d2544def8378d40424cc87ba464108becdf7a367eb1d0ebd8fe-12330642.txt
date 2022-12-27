@@ -30,6 +30,5 @@ studio:wizards of the coast
 subreddit:imaginarydragons
 subreddit:immonsters
 title:dragonlord's prerogative by seb mckinnon
-uploader:[deleted]
 uploader:faeryknight
 wings

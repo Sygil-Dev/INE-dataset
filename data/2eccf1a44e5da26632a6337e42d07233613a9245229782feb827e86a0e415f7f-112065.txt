@@ -16,7 +16,6 @@ subreddit:imnature
 swamp
 title:immersion
 title:immersion by ismail inceoglu
-uploader:[deleted]
 uploader:the-thirteenth
 vehicle
 watercraft

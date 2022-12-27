@@ -1,5 +1,6 @@
 2boys
 angel wings
+artist name
 black hair
 black jacket
 black necktie
@@ -18,12 +19,14 @@ leaning on rail
 long hair
 looking ahead
 looking away
+meta:commentary
 meta:highres
 multiple boys
 necktie
 pants
 pink hair
 railing
+rating:general
 rating:safe
 rating:sensitive
 series:chainsaw man
@@ -35,6 +38,8 @@ suit
 title:風 by tuzaixia
 topknot
 uploader:musaibwadkar
+weibo logo
+weibo username
 white wings
 wind
 wings

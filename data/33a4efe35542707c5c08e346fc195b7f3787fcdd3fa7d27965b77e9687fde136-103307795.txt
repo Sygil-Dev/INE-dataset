@@ -27,6 +27,7 @@ ground vehicle
 hair ornament
 hairclip
 hand up
+highres
 holding
 holding bag
 jacket

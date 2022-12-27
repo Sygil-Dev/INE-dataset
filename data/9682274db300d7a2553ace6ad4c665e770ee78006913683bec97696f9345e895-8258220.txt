@@ -21,6 +21,7 @@ series:world of warcraft
 solo
 staff
 studio:blizzard entertainment
+subreddit:imaginaryclerics
 subreddit:imaginarygaming
 subreddit:imaginarywitches
 subreddit:imcharacters

@@ -16,7 +16,6 @@ subreddit:imaginarystarscapes
 subreddit:imlandscapes
 subreddit:imraces
 title:goddess of light by axel sauerwald
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:myrandall
 weapon

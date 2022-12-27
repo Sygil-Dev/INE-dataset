@@ -42,7 +42,6 @@ studio:wizards of the coast
 subreddit:imaginarydragons
 subreddit:immonsters
 title:dromoka's gift by winona nelson
-uploader:[deleted]
 uploader:faeryknight
 website:reddit
 wings

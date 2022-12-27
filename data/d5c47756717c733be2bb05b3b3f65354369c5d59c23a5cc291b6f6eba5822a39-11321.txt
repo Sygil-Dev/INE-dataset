@@ -31,6 +31,5 @@ subreddit:imaginarygiants
 subreddit:imraces
 swimming
 title:the journey by ming yee sheh
-uploader:[deleted]
 uploader:faeryknight
 volcano

@@ -50,6 +50,8 @@ medium breasts
 medium:simple background
 medium:white background
 medium_breasts
+meta:bad id
+meta:bad twitter id
 meta:bad_id
 meta:bad_twitter_id
 meta:commentary request
@@ -61,8 +63,10 @@ pencil_skirt
 piercing
 pink eyes
 pink_eyes
+rating:questionable
 rating:s
 rating:safe
+rating:sensitive
 see-through
 series:misc
 series:original

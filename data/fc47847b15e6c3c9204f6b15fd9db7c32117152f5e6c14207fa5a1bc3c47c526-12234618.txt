@@ -36,6 +36,5 @@ subreddit:imaginarydemons
 subreddit:imaginaryhorrors
 subreddit:immonsters
 title:to the slaughter by christine choi
-uploader:[deleted]
 uploader:faeryknight
 uploader:myrandall

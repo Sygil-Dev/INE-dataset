@@ -42,7 +42,6 @@ subreddit:imaginaryhybrids
 subreddit:immonsters
 sword
 title:high sentinels of arashin by james ryman
-uploader:[deleted]
 uploader:faeryknight
 weapon
 white body

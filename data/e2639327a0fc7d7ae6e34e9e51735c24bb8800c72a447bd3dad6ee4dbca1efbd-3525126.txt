@@ -34,6 +34,5 @@ subreddit:imaginarybeasts
 subreddit:immonsters
 teeth
 title:skarrg goliath by karl kopinski
-uploader:[deleted]
 uploader:faeryknight
 website:reddit

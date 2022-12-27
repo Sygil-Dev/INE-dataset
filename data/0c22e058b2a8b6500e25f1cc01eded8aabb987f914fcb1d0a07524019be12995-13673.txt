@@ -35,7 +35,6 @@ synthesizer
 techno
 title:"jungle juice," by artem solop
 title:jungle juice
-uploader:[deleted]
 vector
 voodoo
 wired

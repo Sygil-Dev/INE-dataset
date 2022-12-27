@@ -28,7 +28,6 @@ subreddit:imaginaryarmor
 subreddit:imtechnology
 sword
 title:the fawn of war by assasinmonkey
-uploader:[deleted]
 uploader:myrandall
 weapon
 yellow eyes

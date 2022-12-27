@@ -136,7 +136,6 @@ subreddit:imnsfw
 subreddit:rule34_albums
 title:albedo
 title:albedo by zumidraws
-uploader:[deleted]
 uploader:bleeding_choker
 very long hair
 white dress

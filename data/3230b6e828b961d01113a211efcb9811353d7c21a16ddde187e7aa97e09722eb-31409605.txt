@@ -40,7 +40,6 @@ subreddit:imaginaryknights
 subreddit:imcharacters
 title:knight by kyoung hwan kim
 torn clothes
-uploader:[deleted]
 uploader:faeryknight
 weapon
 wings

@@ -18,4 +18,3 @@ otoy
 subreddit:imaginarycityscapes
 title:the upper city
 title:the upper city by inward
-uploader:[deleted]

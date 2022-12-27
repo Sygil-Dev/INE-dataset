@@ -45,6 +45,5 @@ studio:wizards of the coast
 subreddit:imaginarydragons
 subreddit:immonsters
 title:wind drake by john severin brassel
-uploader:[deleted]
 uploader:faeryknight
 wings

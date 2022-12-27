@@ -11,6 +11,7 @@ category:ine
 cherry
 cloud
 colored eyelashes
+convenient censoring
 copyright:original
 creator:gohpot
 curly hair
@@ -63,6 +64,7 @@ rating:explicit
 rating:mature
 rating:questionable
 rating:safe
+rating:sensitive
 real person
 series:original
 sideboob

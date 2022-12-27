@@ -46,6 +46,5 @@ studio:wizards of the coast
 subreddit:imaginarydragons
 subreddit:immonsters
 title:monastery siege by mark winters
-uploader:[deleted]
 uploader:faeryknight
 wings

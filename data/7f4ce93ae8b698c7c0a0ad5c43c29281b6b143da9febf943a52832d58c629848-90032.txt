@@ -17,10 +17,14 @@ gender:female
 indoors
 lamp
 landscape
+meta:commentary request
 meta:making of
 meta:making-of available
+meta:photoshop (medium)
 pixiv work:40582951
+rating:general
 rating:safe
+rating:sensitive
 school uniform
 schoolgirl uniform
 serafuku

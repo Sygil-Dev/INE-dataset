@@ -24,6 +24,7 @@ monster
 nagayama koharu
 organs
 rating:safe
+rating:sensitive
 red footwear
 red gloves
 series:chainsaw man
@@ -31,6 +32,7 @@ series:marvel
 shield
 shoulder holster
 simple background
+solo
 standing
 star (symbol)
 studio:marvel

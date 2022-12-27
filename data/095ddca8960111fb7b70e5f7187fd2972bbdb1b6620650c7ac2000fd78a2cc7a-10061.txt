@@ -15,7 +15,6 @@ subreddit:immonsters
 title:black mist, by efflam mercier
 title:the black mist by efflam mercier
 title:the black mist by efflam mercier.
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:lol33ta
 uploader:myrandall

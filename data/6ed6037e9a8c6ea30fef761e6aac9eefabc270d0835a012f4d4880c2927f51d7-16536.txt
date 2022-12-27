@@ -105,7 +105,6 @@ title:the last banquet
 title:the last banquet by simon eckert
 toast (gesture)
 twin drills
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:lol33ta
 weapon

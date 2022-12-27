@@ -15,7 +15,6 @@ subreddit:imcharacters
 title:new guy in valhalla
 title:new guy in valhalla by irina kuzmina
 title:new guy in valhalla by irina nordsol kuzmina
-uploader:[deleted]
 uploader:myrandall
 uploader:nordsol
 valhalla

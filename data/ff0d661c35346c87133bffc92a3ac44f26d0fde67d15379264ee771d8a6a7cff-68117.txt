@@ -37,7 +37,6 @@ subreddit:imaginarybeasts
 subreddit:immonsters
 teeth
 title:nergigante by cosme (aeflus) lucero
-uploader:[deleted]
 uploader:owntheknight
 watermark
 web address

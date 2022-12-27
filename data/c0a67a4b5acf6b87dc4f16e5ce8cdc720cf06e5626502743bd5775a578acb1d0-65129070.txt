@@ -16,6 +16,7 @@ monster boy
 necktie
 pants
 rating:safe
+rating:sensitive
 series:chainsaw man
 sharp teeth
 shirt

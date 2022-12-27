@@ -14,7 +14,6 @@ subreddit:immonsters
 title:anne is the wolf! /new patron reward
 title:anne is the wolf! by blacktigerr
 transformation
-uploader:[deleted]
 uploader:bleeding_choker
 white
 with

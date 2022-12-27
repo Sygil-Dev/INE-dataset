@@ -20,7 +20,6 @@ subreddit:immeta
 subreddit:imtechnology
 title:'phantom' by vladimir manyukhin
 title:phantom by vladimir manyukhin
-uploader:[deleted]
 uploader:bleeding_choker
 uploader:jaykirsch
 vladimir manyukhin

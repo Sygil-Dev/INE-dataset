@@ -59,5 +59,4 @@ subreddit:imcharacters
 subreddit:immonsters
 title:the girl and her werewolf by lyricacostello
 underwear
-uploader:[deleted]
 uploader:bleeding_choker

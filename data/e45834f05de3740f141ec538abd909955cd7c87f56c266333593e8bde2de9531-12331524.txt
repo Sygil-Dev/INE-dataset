@@ -35,5 +35,4 @@ studio:wizards of the coast
 subreddit:imaginaryhybrids
 subreddit:immonsters
 title:dawn gryff by christine choi
-uploader:[deleted]
 uploader:faeryknight

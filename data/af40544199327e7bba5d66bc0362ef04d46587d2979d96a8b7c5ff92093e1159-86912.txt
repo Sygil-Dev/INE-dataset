@@ -42,5 +42,4 @@ subreddit:imaginaryfeels
 subreddit:immeta
 suitcase
 title:knite: chapter 1 page 62 by wenqing yan
-uploader:[deleted]
 website:reddit

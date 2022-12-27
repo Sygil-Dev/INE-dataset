@@ -18,11 +18,13 @@ samurai
 snow
 snowing
 subreddit:imaginaryassassins
+subreddit:imaginarybattlefields
 subreddit:imcharacters
 sword
 title:assassin
 title:assassin by joakim ericsson
 uploader:hvitserkr
+uploader:lexxx20
 uploader:yamamba78
 warrior
 weapon

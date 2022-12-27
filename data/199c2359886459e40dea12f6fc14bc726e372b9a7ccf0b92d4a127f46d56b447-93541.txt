@@ -24,7 +24,6 @@ subreddit:imfandoms
 suit
 title:scarab graveyard
 title:scarab graveyard by thomas wievegg
-uploader:[deleted]
 uploader:bleeding_choker
 uploader:dead_slender-
 walking

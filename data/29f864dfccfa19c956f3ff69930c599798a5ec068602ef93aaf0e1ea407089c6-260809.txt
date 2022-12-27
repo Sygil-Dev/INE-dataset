@@ -21,7 +21,6 @@ subreddit:imaginaryaviation
 subreddit:imtechnology
 title:dawn
 title:dawn by alex ries
-uploader:[deleted]
 uploader:faeryknight
 uploader:kingswhiskey
 walking

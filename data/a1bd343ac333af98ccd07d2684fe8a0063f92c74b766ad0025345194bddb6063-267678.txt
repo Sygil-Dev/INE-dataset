@@ -59,7 +59,6 @@ subreddit:imaginaryweaponry
 subreddit:imtechnology
 tagme
 title:metroid tribute by roméo jonathan
-uploader:[deleted]
 uploader:ethan_kahn
 varia suit
 varia_suit

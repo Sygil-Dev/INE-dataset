@@ -46,6 +46,7 @@ profile
 rating:explicit
 rating:mature
 rating:safe
+rating:sensitive
 realistic
 sad
 sakimichan

@@ -177,7 +177,6 @@ trash can
 trash_can
 underwear
 underwear removed
-uploader:[deleted]
 uploader:ethan_kahn
 viewed from above
 vinyl record

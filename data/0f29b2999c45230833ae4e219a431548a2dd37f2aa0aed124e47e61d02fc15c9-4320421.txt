@@ -53,7 +53,6 @@ subreddit:imaginaryknights
 subreddit:imcharacters
 title:lyev skyknight by johannes voss
 title:mtg: lyev skyknight
-uploader:[deleted]
 uploader:faeryknight
 warrior
 weapon

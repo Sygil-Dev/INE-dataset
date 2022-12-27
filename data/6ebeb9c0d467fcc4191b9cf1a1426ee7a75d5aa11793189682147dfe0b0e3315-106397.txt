@@ -19,6 +19,5 @@ subreddit:imtechnology
 title:time for school, kids!
 title:time for school, kids! - duncan halleck
 title:time for school, kids!, duncan halleck
-uploader:[deleted]
 uploader:dhalleck
 uploader:ethan_kahn

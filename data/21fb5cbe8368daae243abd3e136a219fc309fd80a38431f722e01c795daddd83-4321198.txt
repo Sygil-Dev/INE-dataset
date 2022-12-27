@@ -32,7 +32,6 @@ subreddit:imaginaryanimals
 subreddit:imnature
 talons
 title:ringwarden owl by titus lunter
-uploader:[deleted]
 uploader:faeryknight
 website:reddit
 wings

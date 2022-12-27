@@ -22,6 +22,7 @@ species:draenei
 species:lightforged draenei
 studio:blizzard entertainment
 subreddit:imaginaryazeroth
+subreddit:imaginarybattlefields
 subreddit:imaginarywarriors
 subreddit:imaginarywitches
 subreddit:imcharacters

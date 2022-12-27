@@ -21,7 +21,6 @@ subreddit:immonsters
 teutonic
 title:ritterbrüder
 title:ritterbrüder by jakub rozalski.
-uploader:[deleted]
 uploader:ethan_kahn
 werewolf
 wolfpack

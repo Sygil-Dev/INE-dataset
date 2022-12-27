@@ -15,7 +15,6 @@ subreddit:imlandscapes
 subreddit:immonsters
 title:sacrifice
 title:sacrifice by sam carr
-uploader:[deleted]
 uploader:faeryknight
 uploader:lol33ta
 website:reddit

@@ -68,7 +68,6 @@ sunlight
 title:forest by kyoung hwan kim
 title:forest, by kyoung hwan kim
 tree
-uploader:[deleted]
 uploader:belledame-sans-serif
 uploader:ethan_kahn
 uploader:faeryknight

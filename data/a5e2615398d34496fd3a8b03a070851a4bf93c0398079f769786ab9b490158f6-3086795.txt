@@ -36,7 +36,6 @@ subreddit:imcharacters
 sword
 tag source:e621
 title:okiba-gang shinobi by mark zug
-uploader:[deleted]
 uploader:faeryknight
 warrior
 weapon

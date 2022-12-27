@@ -30,6 +30,5 @@ subreddit:imaginaryanimals
 subreddit:imnature
 talons
 title:eyes in the skies by james ryman
-uploader:[deleted]
 uploader:faeryknight
 wings

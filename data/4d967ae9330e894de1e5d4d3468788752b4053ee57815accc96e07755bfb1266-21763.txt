@@ -45,7 +45,6 @@ swimwear
 title:archangel morrigan
 title:archangel morrigan by kachima
 toned
-uploader:[deleted]
 uploader:bleeding_choker
 wings
 ド

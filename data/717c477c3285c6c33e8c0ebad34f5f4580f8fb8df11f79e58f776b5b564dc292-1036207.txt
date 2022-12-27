@@ -35,7 +35,6 @@ subreddit:imaginarymonstergirls
 subreddit:immonsters
 subreddit:spidergirls
 title:spider witch by genzoman
-uploader:[deleted]
 uploader:bleeding_choker
 very long hair
 witch

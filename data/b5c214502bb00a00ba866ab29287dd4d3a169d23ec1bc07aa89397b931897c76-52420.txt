@@ -42,5 +42,4 @@ subreddit:imfandoms
 subreddit:imnsfw
 title:pt : cortana
 title:pt : cortana by kachima
-uploader:[deleted]
 uploader:bleeding_choker

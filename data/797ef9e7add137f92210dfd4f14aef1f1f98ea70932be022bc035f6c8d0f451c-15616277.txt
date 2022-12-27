@@ -26,6 +26,5 @@ subreddit:imaginarydragons
 subreddit:immonsters
 tail
 title:fire drake by sansyu
-uploader:[deleted]
 uploader:faeryknight
 wings

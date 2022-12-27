@@ -36,7 +36,6 @@ subreddit:imaginarydragons
 subreddit:immonsters
 teeth
 title:savage ventmaw by slawomir maniak
-uploader:[deleted]
 uploader:blood-n-cheese
 uploader:faeryknight
 volcano

@@ -42,7 +42,6 @@ subreddit:imaginarywerewolves
 subreddit:immonsters
 teeth
 title:blessings of nature by anthony francisco
-uploader:[deleted]
 uploader:faeryknight
 were
 werewolf

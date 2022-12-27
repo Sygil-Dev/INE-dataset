@@ -33,4 +33,3 @@ subreddit:imnsfw
 title:cleaning
 title:cleaning day
 title:cleaning day by aivelin
-uploader:[deleted]

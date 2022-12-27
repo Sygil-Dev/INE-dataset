@@ -41,7 +41,6 @@ subreddit:imlandscapes
 tall image
 title:fishing for stars by yuumei.
 title:fishing stars
-uploader:[deleted]
 uploader:ethan_kahn
 water
 water lily

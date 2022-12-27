@@ -28,7 +28,6 @@ subreddit:imaginaryfaeries
 subreddit:imraces
 tag source:e621
 title:cloud sprite by mark zug
-uploader:[deleted]
 uploader:faeryknight
 uploader:lol33ta
 water

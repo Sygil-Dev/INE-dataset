@@ -37,5 +37,4 @@ subreddit:imaginaryleviathans
 subreddit:immonsters
 subreddit:imnature
 title:long-finned skywhale by cliff childs
-uploader:[deleted]
 uploader:faeryknight

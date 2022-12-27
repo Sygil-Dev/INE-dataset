@@ -31,5 +31,4 @@ sun rays
 sunrise
 sunset
 title:inspire by ricodz.
-uploader:[deleted]
 uploader:ethan_kahn

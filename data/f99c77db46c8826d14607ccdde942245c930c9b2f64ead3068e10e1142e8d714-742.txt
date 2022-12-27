@@ -19,6 +19,7 @@ religion
 species:dragon
 species:mythical
 species:scalie
+subreddit:imaginaryarchitecture
 subreddit:imaginarybestof
 subreddit:imaginarycastles
 subreddit:imaginarytemples
@@ -36,3 +37,4 @@ uploader:jaykirsch
 uploader:johncarterofares
 uploader:lol33ta
 uploader:net-diver
+uploader:pyro_azer

@@ -71,7 +71,6 @@ tag source:e621
 title:renegades of pern by michael whelan
 topwear
 tree
-uploader:[deleted]
 uploader:faeryknight
 vehicle
 wagon

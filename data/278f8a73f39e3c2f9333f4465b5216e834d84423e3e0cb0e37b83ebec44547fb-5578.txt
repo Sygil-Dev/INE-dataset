@@ -38,6 +38,5 @@ subreddit:imaginaryninjas
 subreddit:imcharacters
 title:hatake kakashi
 title:hatake kakashi by lius lasahido
-uploader:[deleted]
 upper body
 vest

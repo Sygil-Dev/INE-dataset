@@ -1,4 +1,5 @@
 ambiguous gender
+barefoot
 brown hair
 child
 clothed
@@ -8,6 +9,7 @@ day
 detailed background
 dress
 eyes closed
+feet
 female
 feral
 grass
@@ -25,5 +27,6 @@ species:human
 species:mammal
 subreddit:adorabledragons
 title:dance by sandara
+toes
 uploader:lol33ta
 young

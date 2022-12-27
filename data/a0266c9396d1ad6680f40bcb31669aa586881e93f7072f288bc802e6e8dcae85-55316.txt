@@ -30,6 +30,7 @@ tank
 title:angry gorillas by juan pablo roldan
 uniform
 uploader:natezomby
+uploader:spoon_artillery
 uploader:valar_m0rghul1s
 war
 weapon

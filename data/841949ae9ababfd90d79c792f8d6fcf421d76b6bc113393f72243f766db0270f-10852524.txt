@@ -67,6 +67,5 @@ subreddit:imaginaryoverwatch
 subreddit:imfandoms
 title:d.va playing a game [artist: hwansang]
 topwear
-uploader:[deleted]
 uploader:luigi_64dd
 whisker markings

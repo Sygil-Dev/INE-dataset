@@ -1,12 +1,15 @@
 1 female
+1girl
 blonde hair
 blue skin
 breasts
 category:ine
 closed mouth
+colored skin
 creator:marie magny
 creator:skyzocat
 ears
+fairy
 fairy wings
 from side
 gender:female
@@ -19,10 +22,12 @@ medium breasts
 medium:high resolution
 meta:commentary
 meta:highres
+meta:photoshop (medium)
 pointy ears
 profile
 rating:mature
 rating:safe
+rating:sensitive
 realistic
 series:original
 solo

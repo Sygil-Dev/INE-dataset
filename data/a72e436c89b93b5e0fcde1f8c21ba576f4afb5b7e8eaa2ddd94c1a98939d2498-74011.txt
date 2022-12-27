@@ -12,9 +12,12 @@ studio:hasbro
 studio:wizards of the coast
 subreddit:imaginaryarchers
 subreddit:imaginaryhybrids
+subreddit:imaginarywarriors
 subreddit:imcharacters
+title:'bitterbow sharpshooters' by bram sels
 title:bitterbow sharpshooters
 title:bitterbow sharpshooters by bram sels
 uploader:hvitserkr
+uploader:jaykirsch
 uploader:killerbunnyfamily
 uploader:myrandall

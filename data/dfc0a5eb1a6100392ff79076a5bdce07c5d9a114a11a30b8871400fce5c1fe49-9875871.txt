@@ -24,7 +24,6 @@ studio:wizards of the coast
 subreddit:imaginaryleviathans
 subreddit:immonsters
 title:awoken horror by svetlin velinov
-uploader:[deleted]
 uploader:faeryknight
 vehicle
 water

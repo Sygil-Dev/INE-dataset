@@ -84,7 +84,6 @@ telephone_pole
 title:11.2 km/s
 title:11.2 km/s by 炜炜
 title:11.2 km/s, by gu wei, (da)
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:sylvyrfyre
 utility pole

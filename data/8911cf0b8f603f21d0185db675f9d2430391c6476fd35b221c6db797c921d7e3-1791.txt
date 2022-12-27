@@ -18,7 +18,6 @@ sun
 title:sun eater
 title:sun eater by chris cold
 title:sun eater by chris cold.
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:godforesaken
 uploader:thejesusguy

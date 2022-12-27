@@ -43,7 +43,6 @@ subreddit:imaginarydragons
 subreddit:immonsters
 sword
 title:valorous stance by willian murai
-uploader:[deleted]
 uploader:faeryknight
 weapon
 wings

@@ -24,6 +24,5 @@ subreddit:imaginaryanimals
 subreddit:imnature
 title:aetherstorm roc by scott murphy
 tree
-uploader:[deleted]
 uploader:faeryknight
 wings

@@ -31,7 +31,6 @@ studio:microsoft
 subreddit:imaginaryhalo
 subreddit:imfandoms
 title:ashio by marsminer
-uploader:[deleted]
 uploader:bleeding_choker
 video games
 video_games

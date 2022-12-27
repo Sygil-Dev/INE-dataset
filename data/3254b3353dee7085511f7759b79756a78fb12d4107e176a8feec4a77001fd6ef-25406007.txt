@@ -21,7 +21,6 @@ subreddit:imnsfw
 sweat
 title:bird in a cage
 title:bird in a cage by whitebeads
-uploader:[deleted]
 uploader:bleeding_choker
 white
 whitebeads

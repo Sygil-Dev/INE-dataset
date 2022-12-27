@@ -35,7 +35,6 @@ studio:wizards of the coast
 subreddit:imaginarywizards
 subreddit:imcharacters
 title:death wind by nils hamm
-uploader:[deleted]
 uploader:faeryknight
 water
 waterfall

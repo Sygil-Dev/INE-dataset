@@ -36,7 +36,6 @@ subreddit:imlandscapes
 tidal wave
 title:poseidon's wrath by dehong he
 trident
-uploader:[deleted]
 uploader:faeryknight
 water
 waves

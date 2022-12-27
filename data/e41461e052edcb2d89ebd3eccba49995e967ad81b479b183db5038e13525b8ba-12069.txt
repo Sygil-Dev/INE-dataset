@@ -77,7 +77,6 @@ subreddit:imaginarykanto
 subreddit:imfandoms
 title:pokemon:: forest by kissai
 tree
-uploader:[deleted]
 video games
 yellow body
 yellow fur

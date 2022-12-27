@@ -43,7 +43,6 @@ subreddit:immonsters
 subreddit:imnature
 title:silburlind snapper by tomasz jedruszek
 tree
-uploader:[deleted]
 uploader:faeryknight
 uploader:lol33ta
 uploader:valar_m0rghul1s

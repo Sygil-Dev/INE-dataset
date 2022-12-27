@@ -51,7 +51,6 @@ subreddit:imaginaryhalo
 subreddit:imfandoms
 tag source:e621
 title:darth vader vs master chief ice hockey by gamefan84
-uploader:[deleted]
 uploader:bleeding_choker
 video games
 video_games

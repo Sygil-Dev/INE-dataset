@@ -1,4 +1,6 @@
+1girl
 arm tattoo
+artist logo
 bag
 bandaid
 bandaid on face
@@ -9,9 +11,12 @@ camera
 candle
 cat
 creator:simz
+fairy
 fairy wings
 fire
+flame
 flower pot
+full body
 full-length portrait
 green leggings
 hair bun
@@ -19,6 +24,7 @@ indoors
 leggings
 looking away
 medium:artist logo
+meta:highres
 no socks
 on floor
 photo (object)
@@ -26,6 +32,7 @@ plant
 pointy ears
 polaroid
 potted plant
+rating:general
 satchel
 series:original
 shirt

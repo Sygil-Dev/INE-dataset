@@ -45,7 +45,6 @@ subreddit:imaginarydragons
 subreddit:immonsters
 three-quarter view
 title:hellkite igniter by jason chan
-uploader:[deleted]
 uploader:blood-n-cheese
 uploader:faeryknight
 year:2011

@@ -56,7 +56,6 @@ subreddit:immonsters
 title:water's shadow
 title:water's shadow by yuumei
 torii
-uploader:[deleted]
 uploader:ethan_kahn
 vehicle
 water

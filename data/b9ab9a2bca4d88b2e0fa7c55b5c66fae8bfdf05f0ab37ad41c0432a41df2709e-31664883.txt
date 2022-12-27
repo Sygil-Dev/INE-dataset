@@ -15,7 +15,6 @@ swamp
 title:the long delta
 title:the long delta by timi honkanen.
 trees
-uploader:[deleted]
 uploader:ethan_kahn
 water
 waterfall

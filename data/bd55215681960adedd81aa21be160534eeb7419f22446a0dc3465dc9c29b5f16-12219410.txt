@@ -45,7 +45,6 @@ subreddit:imaginarybeasts
 subreddit:immonsters
 teeth
 title:massacre wurm by jason chan
-uploader:[deleted]
 uploader:faeryknight
 worms
 year:2011

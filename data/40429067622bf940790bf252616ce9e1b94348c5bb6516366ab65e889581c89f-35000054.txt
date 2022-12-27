@@ -41,4 +41,3 @@ subreddit:imtechnology
 tail
 title:mudrunner by haguruma-c
 tool belt
-uploader:[deleted]

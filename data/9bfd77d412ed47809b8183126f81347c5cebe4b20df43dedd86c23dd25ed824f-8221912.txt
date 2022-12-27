@@ -22,6 +22,5 @@ standing
 subreddit:imaginarymindscapes
 subreddit:imlandscapes
 title:new growth by tamber ella
-uploader:[deleted]
 uploader:ethan_kahn
 year:2019

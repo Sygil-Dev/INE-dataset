@@ -51,7 +51,6 @@ subreddit:imaginaryautumnscapes
 subreddit:imlandscapes
 title:autumn massacre
 title:autumn massacre by wenqing yan
-uploader:[deleted]
 uploader:ethan_kahn
 watermark
 web address

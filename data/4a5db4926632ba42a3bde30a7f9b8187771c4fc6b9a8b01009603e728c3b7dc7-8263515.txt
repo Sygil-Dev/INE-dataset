@@ -40,5 +40,4 @@ subreddit:immonsters
 tentacles
 title:queen azshara by ujin shamoney
 ujin shamoney
-uploader:[deleted]
 uploader:bleeding_choker

@@ -18,7 +18,6 @@ subreddit:imraces
 title:"centauri" by chuy de leon
 title:centauri by chuy de leon
 title:centauri by chuy de leon.
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:myrandall
 uploader:pyro_azer

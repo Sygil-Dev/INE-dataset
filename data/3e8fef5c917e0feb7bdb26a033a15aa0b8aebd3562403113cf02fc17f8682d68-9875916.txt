@@ -25,5 +25,4 @@ subreddit:imaginarybehemoths
 subreddit:immonsters
 teeth
 title:vastwood gorger by kieran yanner
-uploader:[deleted]
 uploader:faeryknight

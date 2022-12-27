@@ -20,7 +20,6 @@ staff
 subreddit:imaginarywarships
 subreddit:imtechnology
 title:lost battleship by alvin lee.
-uploader:[deleted]
 uploader:ethan_kahn
 vehicle
 watercraft

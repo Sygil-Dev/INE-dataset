@@ -35,5 +35,4 @@ subreddit:imnature
 sunbeam
 sunlight
 title:post box in the forest by kyoung hwan kim
-uploader:[deleted]
 uploader:faeryknight

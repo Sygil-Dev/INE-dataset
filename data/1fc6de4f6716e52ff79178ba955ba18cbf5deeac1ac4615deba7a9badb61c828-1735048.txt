@@ -53,6 +53,8 @@ medium:copyright name
 medium:official art
 medium:watermark
 medium:web address
+meta:commentary
+meta:english commentary
 meta:official art
 meta:watermark
 navia the guiding fairy
@@ -63,6 +65,7 @@ pov
 rating:mature
 rating:s
 rating:safe
+rating:sensitive
 red gloves
 santa costume
 santa hat

@@ -48,7 +48,6 @@ tag source:e621
 tail
 text
 title:swell of growth by magali villeneuve
-uploader:[deleted]
 uploader:faeryknight
 water
 wave

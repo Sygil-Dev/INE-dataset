@@ -19,7 +19,6 @@ subreddit:immeta
 title:1920 - final charge
 title:1920 - final charge by jakub rozalski
 title:"the final charge" (alternate version of the battle of warsaw) by jakub rozalski.
-uploader:[deleted]
 uploader:crowe410
 uploader:ethan_kahn
 war

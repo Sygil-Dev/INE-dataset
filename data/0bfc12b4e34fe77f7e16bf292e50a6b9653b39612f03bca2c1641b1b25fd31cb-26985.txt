@@ -33,7 +33,6 @@ subreddit:imaginarydisney
 subreddit:imfandoms
 title:it doesn't have to be a snowman
 title:it doesn't have to be a snowman by esther shen
-uploader:[deleted]
 uploader:owntheknight
 young!anna
 young!elsa

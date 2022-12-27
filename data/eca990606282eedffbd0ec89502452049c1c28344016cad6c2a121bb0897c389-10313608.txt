@@ -49,6 +49,5 @@ studio:wizards of the coast
 subreddit:imaginaryhybrids
 subreddit:immonsters
 title:qarsi deceiver by raymond swanland
-uploader:[deleted]
 uploader:faeryknight
 wings

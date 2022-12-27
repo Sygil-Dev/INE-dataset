@@ -48,7 +48,6 @@ subreddit:immeta
 subreddit:immonsters
 title:the young king by stefano carta
 title:the young wolf by stefano carta
-uploader:[deleted]
 uploader:natezomby
 uploader:owntheknight
 uploader:saltysolomon

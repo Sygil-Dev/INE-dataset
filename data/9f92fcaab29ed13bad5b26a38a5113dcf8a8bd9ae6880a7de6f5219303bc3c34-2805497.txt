@@ -25,8 +25,10 @@ gender:female
 gloves
 insect wings
 jewelry
+meta:commentary request
 open-back dress
 rating:safe
+rating:sensitive
 ring
 rose
 sad

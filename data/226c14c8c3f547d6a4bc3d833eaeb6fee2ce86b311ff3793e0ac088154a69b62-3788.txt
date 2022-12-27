@@ -35,7 +35,6 @@ swamp
 title:prowling pangolin by tomasz jedruszek
 tongue
 tongue out
-uploader:[deleted]
 uploader:faeryknight
 water
 weapon

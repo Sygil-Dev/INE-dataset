@@ -21,6 +21,5 @@ subreddit:imaginarywerewolves
 subreddit:immonsters
 title:[cm] zakelina
 title:zakelina - by i-zora
-uploader:[deleted]
 uploader:bleeding_choker
 year:2019

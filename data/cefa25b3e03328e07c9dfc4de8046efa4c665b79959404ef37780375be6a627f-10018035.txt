@@ -25,6 +25,5 @@ subreddit:imaginarydragons
 subreddit:immonsters
 title:ancient forest dragon
 tree
-uploader:[deleted]
 uploader:_samishii_
 wings

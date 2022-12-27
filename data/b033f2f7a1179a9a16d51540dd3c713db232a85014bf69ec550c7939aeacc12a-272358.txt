@@ -12,7 +12,6 @@ subreddit:immonsters
 tank
 title:scorched earth
 title:scorched earth by sixthleafclover
-uploader:[deleted]
 uploader:bleeding_choker
 weapon
 werewolf

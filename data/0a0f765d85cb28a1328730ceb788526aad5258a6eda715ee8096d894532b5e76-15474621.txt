@@ -30,6 +30,5 @@ species:alien
 subreddit:imaginarybehemoths
 teeth
 title:evangelion 01 by ming yee sheh
-uploader:[deleted]
 uploader:blood-n-cheese
 yellow eyes

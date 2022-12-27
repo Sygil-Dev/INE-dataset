@@ -53,8 +53,10 @@ point of view
 pov
 rating:s
 rating:safe
+rating:sensitive
 ring
 see-through
+see-through shirt
 see-through sleeves
 see-through_sleeves
 series:original
@@ -69,6 +71,7 @@ smile
 solo
 subreddit:imaginaryfashion
 subreddit:immeta
+techwear
 teeth
 title:untitled by imlllsn
 transparent shirt

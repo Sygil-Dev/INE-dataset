@@ -10,11 +10,15 @@ cleavage
 clothing:dress
 creator:amber harris
 creator:amberharrisart
+draenei
+draeneifemale
 dress
 ears
+female
 gender:female
 horns
 lipstick
+lounging
 makeup
 monster girl
 pointy ears
@@ -24,9 +28,14 @@ series:warcraft
 series:world of warcraft
 sitting
 species:draenei
+staff
 studio:blizzard entertainment
 subreddit:imaginarymonstergirls
 tail
 title:[c] vyssele
 title:vyssele by amberharrisart
 uploader:vikingzx
+warcraft
+weapon
+worldofwarcraft
+wow

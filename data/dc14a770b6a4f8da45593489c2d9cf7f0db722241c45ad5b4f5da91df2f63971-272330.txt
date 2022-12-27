@@ -56,7 +56,6 @@ text
 title:lord of the kraken
 title:lord of the kraken by steve argyle
 title:lord of the kraken, by steve argyle
-uploader:[deleted]
 uploader:belledame-sans-serif
 uploader:faeryknight
 weapon

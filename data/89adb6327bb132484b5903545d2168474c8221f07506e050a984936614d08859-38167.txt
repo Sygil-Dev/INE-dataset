@@ -2,6 +2,9 @@
 ::3
 ::d
 >_<
+adorable
+animal
+anime
 aqua shirt
 artist name
 bare shoulders
@@ -16,28 +19,36 @@ cat food
 category:ine
 chromatic aberration
 closed eyes
+colorful
 creator:nakanoart
 creator:nana nakano
 creator:nana_nakano
+cute
 eyes closed
 food
 food bowl
 freckles
 fur
 gender:female
+girl
 groin
+kitty
 lying
+manga
 medium:4:3 aspect ratio
 medium:artist name
 medium:simple background
 medium:speech bubble
 medium:white background
 midriff
+morning
 navel
+oc
 off shoulder
 on bed
 on person
 open mouth
+originalcharacter
 parted lips
 pillow
 rating:safe

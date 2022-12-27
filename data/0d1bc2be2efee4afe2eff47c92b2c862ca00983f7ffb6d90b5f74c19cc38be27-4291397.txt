@@ -47,6 +47,5 @@ tail
 tail tuft
 title:jelenn sphinx by wesley burt
 tuft
-uploader:[deleted]
 uploader:faeryknight
 wings

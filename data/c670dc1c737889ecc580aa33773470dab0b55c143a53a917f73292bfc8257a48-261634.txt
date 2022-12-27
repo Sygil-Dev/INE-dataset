@@ -38,8 +38,8 @@ subreddit:imraces
 subreddit:imtechnology
 sword
 title:lady of the lake
-title:lady of the lake 2
 title:lady of the lake 02
+title:lady of the lake 2
 title:lady of the lake 02 by jana schirmer
 title:lady of the lake 2 by jana schirmer
 title:lady of the lake by jana schirmer

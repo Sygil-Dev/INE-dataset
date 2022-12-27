@@ -24,7 +24,6 @@ subreddit:imraces
 title:duhov day
 title:duhov day by waldemar von kozak
 title:duhov day, waldemar von kozak, digital, 2018
-uploader:[deleted]
 uploader:bleeding_choker
 uploader:lol33ta
 uploader:o-shi

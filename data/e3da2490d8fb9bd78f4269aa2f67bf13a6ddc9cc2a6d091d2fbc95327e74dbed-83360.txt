@@ -19,5 +19,4 @@ subreddit:imnsfw
 title:that
 title:that night
 title:that night by kumi-pumi
-uploader:[deleted]
 yaoi

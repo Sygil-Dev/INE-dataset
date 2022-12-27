@@ -11,13 +11,15 @@ medium:digital 2d
 space
 subreddit:imaginaryderelicts
 subreddit:imaginarymindscapes
+subreddit:imaginaryruins
 subreddit:imaginarywastelands
 subreddit:imlandscapes
 subreddit:imtechnology
+title:"quiet day" by sergey vasnev
 title:a quiet day by sergey vasnev
 title:quiet day
 title:quiet day by sergey vasnev
 title:quiet day by sergey vasnev.
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:myrandall
+uploader:pyro_azer

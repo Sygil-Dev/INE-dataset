@@ -16,7 +16,6 @@ subreddit:imaginaryspirits
 subreddit:immonsters
 title:mistwraith by michal ivan
 turquoise
-uploader:[deleted]
 uploader:faeryknight
 video game art
 video games

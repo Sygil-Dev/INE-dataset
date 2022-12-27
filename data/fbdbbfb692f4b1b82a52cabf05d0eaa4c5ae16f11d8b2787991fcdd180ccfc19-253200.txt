@@ -15,7 +15,6 @@ subreddit:imnature
 title:gibbon rock
 title:gibbon rock by bram sels
 title:gibbon's rock by bram sels
-uploader:[deleted]
 uploader:faeryknight
 uploader:lol33ta
 water

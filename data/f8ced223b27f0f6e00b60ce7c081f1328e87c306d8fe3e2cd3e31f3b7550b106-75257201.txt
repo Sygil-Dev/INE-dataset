@@ -23,6 +23,7 @@ necktie
 open clothes
 open coat
 pants
+rating:adult
 rating:safe
 rating:sensitive
 red theme

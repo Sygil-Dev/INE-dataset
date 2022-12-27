@@ -29,6 +29,5 @@ studio:wizards of the coast
 subreddit:imaginarybehemoths
 subreddit:immonsters
 title:segmented krotiq by christopher moeller
-uploader:[deleted]
 uploader:faeryknight
 vehicle

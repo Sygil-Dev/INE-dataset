@@ -16,7 +16,6 @@ subreddit:imtechnology
 title:warsaw 44
 title:warsaw 44 by jakub rozalski
 title:warsaw 1944 by jakub rozalski
-uploader:[deleted]
 uploader:ethan_kahn
 uploader:seed_eater
 war

@@ -18,7 +18,6 @@ subreddit:immonsters
 title:(artist) doomthewolf collection
 title:were-hatred
 title:were-hatred - by doom_the_wolf
-uploader:[deleted]
 uploader:bleeding_choker
 website:exhentai
 werewolf

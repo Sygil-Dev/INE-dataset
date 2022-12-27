@@ -30,5 +30,4 @@ subreddit:imaginarywerewolves
 title:wow_female_worgen
 title:wow_female_worgen by m1ken
 torn clothing
-uploader:[deleted]
 video games

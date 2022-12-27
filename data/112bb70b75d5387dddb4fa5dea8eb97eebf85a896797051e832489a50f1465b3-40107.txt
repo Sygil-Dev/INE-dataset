@@ -33,6 +33,7 @@ pov
 ragecndy
 rating:mature
 rating:safe
+rating:sensitive
 series:fire emblem
 series:fire emblem awakening
 series:fire emblem: awakening

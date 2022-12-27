@@ -51,6 +51,5 @@ subreddit:imfandoms
 table
 tea
 title:winter snuggles by paleona
-uploader:[deleted]
 uploader:lol33ta
 window

@@ -34,7 +34,6 @@ subreddit:imcharacters
 subreddit:imfandoms
 sword
 title:lady of space and time by drake tsui
-uploader:[deleted]
 uploader:faeryknight
 uploader:myrandall
 weapon

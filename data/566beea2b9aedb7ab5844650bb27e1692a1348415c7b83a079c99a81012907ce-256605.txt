@@ -36,7 +36,6 @@ sun
 temple
 title:exodus
 title:exodus by joakim ericsson
-uploader:[deleted]
 uploader:owntheknight
 vehicle
 war

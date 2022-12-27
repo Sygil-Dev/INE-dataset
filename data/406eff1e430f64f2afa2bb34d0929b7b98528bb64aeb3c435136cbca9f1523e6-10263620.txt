@@ -18,6 +18,5 @@ subreddit:imaginarywarhammer
 subreddit:imfandoms
 sword
 title:space wolf (by alex boca)
-uploader:[deleted]
 uploader:austria9000
 weapon

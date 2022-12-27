@@ -12,6 +12,7 @@ halo
 jacket
 long hair
 looking up
+male focus
 meta:highres
 necktie
 no arms

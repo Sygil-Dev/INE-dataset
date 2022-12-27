@@ -18,5 +18,4 @@ subreddit:imaginarywildlands
 subreddit:imlandscapes
 title:dark forest by jakub javora
 trees
-uploader:[deleted]
 uploader:ethan_kahn

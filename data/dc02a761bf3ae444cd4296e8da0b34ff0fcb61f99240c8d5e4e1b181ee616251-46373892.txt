@@ -1,10 +1,13 @@
+1girl
 animal
 architecture
+back
 black cat
 black furred animal
 booru:sankaku channel
 bow
 building (buildings)
+bush
 cat
 cherry blossom
 cherry blossoms
@@ -14,26 +17,36 @@ creator:yuumei
 drawing
 dress
 east asian architecture
+english text
+evening
 female
+fisheye
 flower
 from behind
 gender:female
 girl
 hieroglyph
 highres
+holding
+holding umbrella
+japan
 japanese clothes
 kimono
 large bow
 medium:high resolution
 medium:text
 medium:web address
+oil-paper umbrella
 oriental umbrella
 outdoors
 outside
+path
 petals
+plant
 rating:safe
 road
 series:original
+shop
 short hair
 signed
 single
@@ -49,5 +62,7 @@ traditional clothes
 tree
 umbrella
 uploader:lambentenigma
+vines
 wafuku
+walking
 wide sleeves

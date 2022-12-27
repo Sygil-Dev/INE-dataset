@@ -127,4 +127,3 @@ teapot
 title:green tea time by 祐壱
 traditional bowtie
 tray
-uploader:[deleted]

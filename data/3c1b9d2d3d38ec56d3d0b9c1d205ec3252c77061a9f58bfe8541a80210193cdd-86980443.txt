@@ -3,8 +3,10 @@ aircraft
 airship
 bridge
 cloud
+clouds
 control tower
 creator:sinsin08051
+highres
 meta:commentary
 meta:highres
 no humans
@@ -14,6 +16,7 @@ runway
 scenery
 science fiction
 series:original
+sinsin08051
 sky
 subreddit:imaginaryaviation
 subreddit:imtechnology

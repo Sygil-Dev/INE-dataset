@@ -49,7 +49,6 @@ subreddit:imaginaryhybrids
 subreddit:imaginaryleviathans
 subreddit:immonsters
 title:isperia, supreme judge by scott m. fischer
-uploader:[deleted]
 uploader:faeryknight
 uploader:myrandall
 water

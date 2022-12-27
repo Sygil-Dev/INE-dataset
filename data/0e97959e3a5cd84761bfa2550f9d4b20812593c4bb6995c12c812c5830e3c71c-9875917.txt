@@ -33,6 +33,5 @@ studio:wizards of the coast
 subreddit:imaginarybehemoths
 subreddit:immonsters
 title:gate smasher by filip burburan
-uploader:[deleted]
 uploader:faeryknight
 weapon
