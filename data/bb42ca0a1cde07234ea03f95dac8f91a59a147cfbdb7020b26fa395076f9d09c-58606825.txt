@@ -1,0 +1,43 @@
+1 female
+1girl
+armor
+blonde hair
+book
+booru:gelbooru
+booru:safebooru
+character:blood elf
+character:paladin
+character:paladin (warcraft)
+creator:wei
+creator:wei wang
+ears
+elf
+filename:30a44cc18cf7dcb35cbb4b10b4fc95c0ad67f5cb89c413a4e38e2ed06d649b96.jpg
+game:warcraft
+gender:female
+green eyes
+judgement armor
+magic weapon
+mangaka:wei (pixiv542330)
+medium:digital 2d
+medium:high resolution
+meta:highres
+meta:photoshop (medium)
+pointy ears
+rating:safe
+series:warcraft
+series:world of warcraft
+solo
+source:fanart
+source:fanart from pixiv
+source:pixiv
+species:blood elf
+species:elf
+studio:blizzard entertainment
+subreddit:imaginaryclerics
+sword
+title:blood elf paladin by wei wang
+title:the art of warcraft
+uploader:lol33ta
+weapon
+world_of_warcraft

@@ -1,0 +1,21 @@
+ancient
+bookcover
+bookcoverart
+bookillustration
+category:ine
+creator:fabianrensch
+environment
+fantasy
+fireflies
+forest
+giant
+illustration
+magic
+novel
+rpg
+subreddit:imaginarytrees
+subreddit:imnature
+title:heartstone: the weeping grove - book cover
+title:heartstone: the weeping grove - book cover by fabian rensch
+tree
+uploader:fireflycities

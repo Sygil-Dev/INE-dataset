@@ -1,0 +1,24 @@
+category:ine
+children
+colonization
+creator:eranfowler
+eran
+eranfolio
+fiction
+fowler
+futurism
+planet
+playing
+science
+scifi
+snow
+space
+subreddit:imaginaryastronauts
+subreddit:imaginarywinterscapes
+subreddit:imcharacters
+subreddit:imlandscapes
+title:new worlds
+title:new worlds by eran fowler
+title:new worlds, by eran fowler
+uploader:belledame-sans-serif
+uploader:myrandall

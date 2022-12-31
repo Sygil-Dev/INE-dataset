@@ -1,0 +1,19 @@
+artwork
+asia
+category:ine
+children
+chinese characters
+city
+digital
+species:canine
+species:canis
+species:mammal
+species:wolf
+subreddit:imaginarycityscapes
+subreddit:imaginarymerchants
+subreddit:imaginarypets
+subreddit:immeta
+sweets
+title:walking the dog by nikolai lockertsen
+title:walking the dog by nikolai lockertsen.
+uploader:dievah
