@@ -1,3 +1,4 @@
+1girl
 action
 armor
 armour
@@ -6,7 +7,9 @@ art
 bag
 battle
 beard
+black border
 book
+boots
 boreas
 boris
 breastplate
@@ -21,6 +24,7 @@ characterconcept
 characterdesign
 childrenbook
 cloak
+coat
 coin
 cold
 colorful
@@ -50,6 +54,7 @@ fingers
 floating
 fur
 game
+gloves
 gold
 gothic
 hand
@@ -63,6 +68,8 @@ instagram
 iris
 kukri
 legs
+letterboxed
+long coat
 longsword
 mage
 magic
@@ -79,9 +86,11 @@ of
 outfit
 painting
 particle
+pillarboxed
 portrait
 potion
 potions
+rating:safe
 render
 saber
 scenedesign
@@ -98,6 +107,7 @@ shoulders
 snow
 spooky
 staff
+standing
 stanisic
 storm
 subreddit:imaginaryfashion

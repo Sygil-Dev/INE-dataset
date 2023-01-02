@@ -1,0 +1,21 @@
+alley
+building
+city
+door
+house
+no humans
+outdoors
+power lines
+rating:safe
+road
+scenery
+sky
+stairs
+street
+subreddit:imaginaryarchitecture
+subreddit:imaginaryfuturism
+title:everything's b;ue in this world.
+title:everything's blue in this world.
+uploader:measlyvivacious
+uploader:yetanotherpenguin
+window

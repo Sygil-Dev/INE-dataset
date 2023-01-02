@@ -1,0 +1,34 @@
+beach
+category:ine
+cloud
+cloudy sky
+day
+full moon
+horizon
+ice
+lake
+landscape
+moon
+mountain
+mountainous horizon
+no humans
+ocean
+outdoors
+planet
+rating:safe
+river
+rock
+scenery
+shore
+sky
+snow
+subreddit:imaginarymountains
+subreddit:imaginarywinterscapes
+subreddit:imlandscapes
+subreddit:imnature
+sun
+title:snowy mountains landscape by jacek ogonowski
+uploader:o_no_my_buttholes
+water
+waterfall
+waves

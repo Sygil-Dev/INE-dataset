@@ -1,0 +1,22 @@
+arch
+architecture
+bridge
+building
+city
+city lights
+cityscape
+east asian architecture
+fantasy
+lantern
+library
+no humans
+pagoda
+paper lantern
+railing
+rating:safe
+scenery
+subreddit:imaginaryinteriors
+subreddit:imarchitecture
+title:"royal library" by oliver beck
+tower
+uploader:nikephoros_ii_phokas

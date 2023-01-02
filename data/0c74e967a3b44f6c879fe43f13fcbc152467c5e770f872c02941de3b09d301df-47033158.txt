@@ -2,8 +2,10 @@
 4_fingers
 angry
 anthro
+artist name
 artist:assasinmonkey
 beak
+blurry
 category:ine
 character:gilda
 character:gilda (mlp)
@@ -13,20 +15,26 @@ copyright:hasbro
 copyright:my_little_pony
 copyright:mythology
 creator:assasinmonkey
+curtains
 eyebrows
 eyelashes
 female
 fingers
+fur collar
+fur trim
 genre:fantasy
 monster
 open mouth
 open_mouth
 rating:safe
+realistic
+red background
 series:friendship is magic
 series:hasbro
 series:my little pony
 series:my little pony: friendship is magic
 series:mythology
+signature
 solo
 species:avian
 species:gryphon

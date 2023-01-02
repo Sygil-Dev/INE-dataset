@@ -1,0 +1,38 @@
+bench
+blue sky
+building
+bush
+category:ine
+cloud
+cloudy sky
+day
+fence
+field
+foliage
+forest
+garden
+grass
+hat
+hill
+house
+landscape
+moss
+mountain
+nature
+outdoors
+overgrown
+path
+plant
+rating:safe
+river
+road
+scenery
+sky
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+title:looking for a house? by atna joy
+tree
+tree shade
+tree stump
+uploader:dcalidus
+wooden fence

@@ -3,12 +3,19 @@
 ahoge
 animal ears
 anthropomorphism
+artist name
 banned artist
+bare shoulders
+blonde hair
+blurry
+blurry background
 breasts
 brown eyes
 category:ine
 character:leafeon
 creator:sakimichan
+crop top
+depth of field
 ears
 female
 female only
@@ -35,7 +42,11 @@ medium:web address
 meta:pixiv-import
 meta:watermark
 monster girl
+motion blur
+navel
+nose
 original
+parted lips
 plant girl
 point of view
 pointed ears
@@ -54,6 +65,7 @@ series:nintendo
 series:original
 series:pokemon
 series:pokémon
+signature
 site:deviant art
 solo
 species:eeveelution

@@ -1,16 +1,23 @@
 blue
+blue eyes
 bluescaled
 bluescaleddragon
+blurry
+blurry foreground
 category:ine
 creator:bluescaled
 creator:bluescaleddragon
 creator:velannal
+depth of field
 flower
 flowers
 lillies
 lily
+motion blur
+pokemon (creature)
 pond
 pool
+rating:safe
 soggy
 source:furaffinity.net
 subreddit:imaginarydragons

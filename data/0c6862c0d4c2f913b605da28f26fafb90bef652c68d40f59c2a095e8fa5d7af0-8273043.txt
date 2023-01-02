@@ -1,0 +1,28 @@
+architecture
+blue sky
+bridge
+building
+castle
+category:ine
+cliff
+cloud
+cloudy sky
+day
+dragon
+fantasy
+floating island
+mountain
+outdoors
+pagoda
+rating:safe
+scenery
+sky
+subreddit:imaginarytemples
+subreddit:imarchitecture
+sword
+title:temple by zeqing yan
+tower
+uploader:lol33ta
+water
+waterfall
+weapon

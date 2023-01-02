@@ -1,0 +1,27 @@
+armor
+axe
+beach
+bird
+boots
+cape
+category:ine
+desert
+full body
+fur
+fur trim
+gauntlets
+holding
+male focus
+outdoors
+rating:safe
+red eyes
+sand
+solo
+standing
+subreddit:imaginaryorcs
+subreddit:imraces
+sword
+title:orc by dae hoon lee
+uploader:synntara
+uploader:tabulaerrata
+weapon

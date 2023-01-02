@@ -1,3 +1,4 @@
+aircraft
 akira
 art
 artwork
@@ -10,6 +11,8 @@ genre:dieselpunk
 medium:concept art
 medium:digital media
 ponytail
+rating:safe
+sky
 smoking
 subreddit:imaginaryfuturism
 subreddit:imaginarypropaganda

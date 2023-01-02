@@ -1,0 +1,27 @@
+armor
+belt
+cape
+category:ine
+coat
+creator:petemohrbacher
+gloves
+helmet
+holding
+holding weapon
+male focus
+rating:safe
+ship
+subreddit:imaginarypirates
+subreddit:imaginaryspirits
+subreddit:imcharacters
+subreddit:immonsters
+sword
+title:drogskol captain
+title:drogskol captain - by peter mohrbacher
+title:drogskol captain by peter mohrbacher
+uploader:dievah
+uploader:greypo
+water
+watercraft
+weapon
+website:reddit

@@ -2,7 +2,9 @@ animation
 artwork
 background
 bg
+building
 category:ine
+city
 color
 color key
 color theory
@@ -12,14 +14,23 @@ design
 environment
 farm
 farmers market
+flower
 food
+hood
+hoodie
 market
 medium:digital 2d
+multiple boys
 neon
+outdoors
 painter
 painting
 prop
+raincoat
+rating:safe
+scenery
 setting
+shop
 subreddit:imaginarymerchants
 subreddit:immeta
 title:chilly day at the farmers market

@@ -1,0 +1,34 @@
+beach
+boat
+cloud
+cloudy sky
+day
+horizon
+ice
+island
+lake
+landscape
+mountain
+mountainous horizon
+ocean
+outdoors
+pier
+planet
+pool
+rating:safe
+river
+scenery
+ship
+shore
+signature
+sky
+snow
+snowing
+subreddit:imaginarywarships
+subreddit:imtechnology
+title:destroyer limping back to gibraltar with damage by chris mayger
+uploader:tsquare43
+water
+watercraft
+waterfall
+waves

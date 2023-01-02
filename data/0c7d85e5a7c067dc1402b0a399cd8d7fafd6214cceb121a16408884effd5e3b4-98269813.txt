@@ -1,0 +1,20 @@
+book
+bookshelf
+bottle
+dated
+fantasy
+globe
+indoors
+jar
+ladder
+lamp
+lantern
+library
+no humans
+rating:safe
+scenery
+signature
+subreddit:imaginaryassassins
+subreddit:imcharacters
+title:"bane" by me
+uploader:andresloubrielable

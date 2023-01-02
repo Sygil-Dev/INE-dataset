@@ -1,0 +1,24 @@
+arch
+architecture
+bridge
+building
+castle
+city
+cityscape
+east asian architecture
+gate
+house
+no humans
+outdoors
+pagoda
+rating:safe
+scenery
+sky
+skyscraper
+subreddit:imaginaryruins
+subreddit:imarchitecture
+sunset
+title:"our homes are gone" (1945) by viktor schreckengost
+tower
+town
+uploader:yannirotten

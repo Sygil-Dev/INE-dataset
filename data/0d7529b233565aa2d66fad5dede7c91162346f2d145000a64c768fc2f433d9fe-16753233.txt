@@ -1,11 +1,15 @@
+1other
+architecture
 army
 art
+bare tree
 black
 category:ine
 character
 concept
 creator:filippo ubertino
 death
+fog
 genre:science fiction
 guns
 hard
@@ -13,14 +17,19 @@ mech
 medium:digital 3d
 model
 nazist
+outdoors
 panzer
+rating:safe
 red
 render
 revenge
 robot
+ruins
+scenery
 sci-fi
 sculpt
 second
+snow
 species:robot
 ss
 subreddit:imaginarymechs
@@ -29,5 +38,6 @@ surface
 tank
 title:u-kanone.1
 title:u-kanone.1 by filippo ubertino
+tree
 uploader:lol33ta
 war

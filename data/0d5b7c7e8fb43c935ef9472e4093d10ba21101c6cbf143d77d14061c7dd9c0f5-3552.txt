@@ -1,12 +1,42 @@
+1girl
+argyle
+argyle background
+argyle legwear
+artist name
+bat wings
+board game
+breasts
+candle
+cape
 category:ine
 character design
+checkered
+checkered background
+checkered flag
+checkered floor
+checkered legwear
+chess piece
+cleavage
+copyright
 creator:livia prima
+dated
 dragon
 fantasyart
 furry
 game art
+goblet
+jewelry
+knight (chess)
 liviaprima
+long hair
 medium:digital 2d
+nail polish
+rating:safe
+realistic
+signature
+skull
+soccer ball
+solo
 species:dragon
 species:mythical
 species:scalie
@@ -16,9 +46,12 @@ subreddit:imaginarypets
 subreddit:imcharacters
 subreddit:immeta
 subreddit:immonsters
+table
+tiles
 title:phantom queen demery
 title:phantom queen demery by livia prima
 title:phantom queen demery, livia prima
 uploader:miciy5
 uploader:net-diver
 uploader:tamander
+wings

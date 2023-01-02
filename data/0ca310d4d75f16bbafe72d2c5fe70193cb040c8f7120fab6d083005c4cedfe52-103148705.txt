@@ -1,0 +1,19 @@
+armor
+cape
+gauntlets
+glowing
+helmet
+holding sword
+light particles
+rating:safe
+shoulder armor
+snow
+solo
+space
+star (sky)
+subreddit:imaginaryarmor
+sword
+title:crustacean warrior by veli nyström
+underwater
+uploader:tabulaerrata
+weapon

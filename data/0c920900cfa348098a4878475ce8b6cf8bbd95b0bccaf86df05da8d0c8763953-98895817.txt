@@ -1,0 +1,20 @@
+book
+bookshelf
+chair
+clock
+computer
+couch
+desk
+indoors
+lamp
+no humans
+paper
+plant
+pokemon (creature)
+rating:safe
+scenery
+shelf
+subreddit:imaginarysliceoflife
+table
+title:busy day at the office, by tidawan t.
+uploader:hornyheracross

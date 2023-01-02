@@ -1,0 +1,27 @@
+blue theme
+cave
+cloud
+cloudy sky
+horizon
+ice
+mountain
+ocean
+outdoors
+rating:safe
+rock
+scenery
+shore
+sky
+snow
+subreddit:imaginarywastelands
+subreddit:imaginaryweather
+subreddit:imaginarywinterscapes
+subreddit:imlandscapes
+subreddit:imnature
+title:into the lair by matt sellers
+title:into the lair, by matt sellers
+uploader:lol33ta
+uploader:miciy5
+water
+waves
+whale

@@ -1,21 +1,36 @@
 animation
 background
 background art
+bush
 category:ine
 character
 creator:aaron jones
+day
 forest
 grass
+green theme
 illustration
+jungle
+landscape
 magic
 matte
 medium:digital 2d
+moss
+nature
+no humans
+outdoors
+overgrown
 painting
+path
+plant
+rating:safe
+scenery
 subreddit:imaginaryforests
 subreddit:imaginarytrees
 subreddit:imnature
 title:the smiling tree background
 title:the smiling tree, by aaron jones
 title:the smiling tree, by aaron jones (oc)
+tree
 trees
 uploader:zenaly

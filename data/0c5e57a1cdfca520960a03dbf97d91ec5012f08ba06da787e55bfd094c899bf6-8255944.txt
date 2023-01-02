@@ -1,15 +1,21 @@
 2017
+artist name
+black sclera
 blue body
 blue scales
+blurry
+blurry background
 booru:e621
 bust portrait
 category:ine
 character:princess ember (mlp)
+colored sclera
 creator:krrrokozjabrra
 creator:scheadar
 dragon
 eyebrows
 eyelashes
+face
 female
 feral
 furry
@@ -26,6 +32,8 @@ meta:hi res
 meta:portrait
 mlp
 mylittlepony
+no humans
+pokemon (creature)
 pony
 portrait
 pov
@@ -40,12 +48,16 @@ solo
 species:dragon
 species:mythical
 species:scalie
+star (sky)
+starry sky
 studio:hasbro
 subreddit:imaginaryequestria
 subreddit:imfandoms
 title:ember
 title:ember by scheadar (krrrokozjabrra)
 uploader:sparroew
+watermark
+web address
 wings
 year:2017
 yellow eyes

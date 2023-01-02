@@ -1,4 +1,5 @@
 ambiguous_gender
+artist name
 artist:cryptid-creations
 beady eyes
 beady_eyes
@@ -15,11 +16,13 @@ dessert
 feral
 food
 food creature
+food focus
 fruit
 furry
 gender:ambiguous
 gender:male
 humor
+leaf
 male:1
 medium:patreon reward
 medium:simple background
@@ -28,6 +31,7 @@ meme:humor
 meta:paid reward
 meta:patreon reward
 meta:white background
+no humans
 pie
 plant
 pun
@@ -51,7 +55,10 @@ title:daily paint #1197. piethon
 uploader:myrandall
 visual pun
 visual_pun
+watermark
+web address
 website:reddit
 whipped cream
 whipped_cream
+white background
 white_background

@@ -1,0 +1,27 @@
+aiming
+assault rifle
+category:ine
+cyberpunk
+energy gun
+gradient
+gradient background
+green background
+gun
+handgun
+holding gun
+m4 carbine
+machine gun
+mecha
+no humans
+pistol
+rating:safe
+rifle
+science fiction
+scope
+sniper rifle
+submachine gun
+subreddit:imaginaryweaponry
+subreddit:imtechnology
+title:rhino by elijah mcneal
+uploader:lol33ta
+weapon

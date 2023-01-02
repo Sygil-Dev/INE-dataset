@@ -1,15 +1,19 @@
 ambiguous gender
 armor
+bird
 blue body
 blue fur
 blue sky
 booru:e621
+building
 category:ine
 city
 cityscape
 clothing:armor
 cloud
+cloudy sky
 creator:wesley burt
+day
 dutch angle
 feathered wings
 feathers
@@ -18,10 +22,14 @@ fur
 furgonomics
 gem
 gender:ambiguous
+landscape
 meta:official art
+mountain
+outdoors
 quadruped
 rating:safe
 rock
+scenery
 series:hasbro
 series:magic the gathering
 series:magic: the gathering

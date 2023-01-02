@@ -1,0 +1,28 @@
+bird
+category:ine
+cliff
+cloud
+cloudy sky
+day
+fantasy
+landscape
+lightning
+mountain
+ocean
+outdoors
+rating:safe
+river
+rock
+scenery
+sky
+subreddit:imaginaryfuturism
+subreddit:imaginarymountains
+subreddit:imtechnology
+title:future plateau by sichen wang
+title:the future plateau by sichen wang
+uploader:blood-n-cheese
+uploader:ethan_kahn
+water
+waterfall
+weapon
+whale

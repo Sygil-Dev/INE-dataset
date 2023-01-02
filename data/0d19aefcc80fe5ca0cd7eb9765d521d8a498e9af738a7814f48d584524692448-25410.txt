@@ -3,8 +3,10 @@
 2018
 ambiguous gender
 art
+artist name
 back markings
 beak
+bird
 bird feet
 blue body
 blue claws
@@ -32,6 +34,7 @@ facial tuft
 fanart
 feathers
 feral
+full body
 fur
 head tuft
 liloandstitch
@@ -45,9 +48,14 @@ meta:2018
 meta:digital media (artwork)
 meta:digital painting (artwork)
 meta:signature
+motion lines
+no humans
 notched ear
+outdoors
 paint
 photoshop
+pokemon (creature)
+rain
 raining
 rating:safe
 series:disney
@@ -56,7 +64,9 @@ series:lilo and stitch
 signature
 simple background
 sitting
+sky
 small tail
+solo
 species:alien
 species:anatid
 species:anseriform
@@ -66,6 +76,7 @@ species:duck
 species:duckling
 species:experiment (lilo and stitch)
 species:experiment (species)
+speed lines
 stitch
 stitchday
 streaming
@@ -74,6 +85,8 @@ subreddit:imaginaryaww
 subreddit:imaginarydisney
 subreddit:imfandoms
 subreddit:immeta
+sun
+sunlight
 timelapse
 title:stitch day 2018
 title:stitch day 2018 by eric proctor
@@ -83,7 +96,10 @@ tuft
 twitch
 uploader:lol33ta
 uploader:myrandall
+water
+watermark
 webbed feet
+wet
 white body
 white feathers
 year:2018

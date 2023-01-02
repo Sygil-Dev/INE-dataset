@@ -1,0 +1,37 @@
+architecture
+blue sky
+bridge
+building
+bush
+castle
+city
+cityscape
+cloud
+cloudy sky
+day
+east asian architecture
+fantasy
+fountain
+gate
+grass
+house
+nature
+no humans
+outdoors
+overgrown
+pagoda
+rating:safe
+river
+scenery
+sky
+skyline
+skyscraper
+subreddit:imaginarycastles
+subreddit:imarchitecture
+title:overlooked by sweeper.3d
+tower
+tree
+uploader:vecttor
+water
+waterfall
+windmill

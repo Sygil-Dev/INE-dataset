@@ -1,0 +1,25 @@
+architecture
+black border
+building
+chain-link fence
+city
+cityscape
+east asian architecture
+fence
+house
+letterboxed
+library
+newspaper
+page number
+pillarboxed
+pixel art
+rating:safe
+real world location
+rooftop
+scenery
+skyscraper
+subreddit:imaginaryarchitecture
+tatami
+title:imaginary building sketch - a4 - oc
+tokyo (city)
+uploader:yoggied

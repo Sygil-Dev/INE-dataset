@@ -2,25 +2,42 @@ ape
 art
 artem
 bubbles
+bush
 cables
+car
 category:ine
 connector
 creator:artem solop
 details
 effects
 equipment
+field
+forest
+grass
+green background
+green theme
+ground vehicle
 hard
 instrument
 japan
 juice
 jungle
+logo
 magic
 massive
 mech
 medium:digital 2d
 mojo
 monkey
+motor vehicle
 music
+nature
+no humans
+on grass
+outdoors
+overgrown
+rating:safe
+road
 robotic
 skull
 smoke
@@ -33,8 +50,11 @@ subreddit:imtechnology
 synth
 synthesizer
 techno
+tire
 title:"jungle juice," by artem solop
 title:jungle juice
+tree
+truck
 vector
 voodoo
 wired

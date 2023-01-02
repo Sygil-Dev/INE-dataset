@@ -1,0 +1,24 @@
+bush
+category:ine
+cliff
+fog
+forest
+lake
+landscape
+mountain
+mountainous horizon
+nature
+no humans
+outdoors
+rating:safe
+river
+scenery
+sky
+subreddit:imaginarywaterfalls
+subreddit:imnature
+sunlight
+title:afternoon light by philip straub
+tree
+uploader:drunkindragon
+water
+waterfall

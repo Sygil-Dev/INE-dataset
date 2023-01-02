@@ -7,11 +7,17 @@ creature
 furry
 game
 game development
+gradient
+gradient background
+grey background
+greyscale
 hst
 indie
 lizard
 medium:digital 2d
+monochrome
 monster
+rating:safe
 scp
 scp 682
 scp foundation

@@ -1,0 +1,27 @@
+cave
+character:kawashiro nitori
+cliff
+facing away
+forest
+horizon
+island
+lake
+landscape
+mountain
+nature
+ocean
+outdoors
+rating:safe
+river
+rock
+scenery
+standing
+stream
+subreddit:imaginarymonuments
+title:l o s t by gavin o'donnell
+uploader:sr_myers
+wading
+water
+waterfall
+waves
+weapon

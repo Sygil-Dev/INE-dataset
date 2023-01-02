@@ -1,0 +1,37 @@
+architecture
+artist name
+bridge
+building
+bush
+castle
+city
+cityscape
+clock
+cloud
+day
+fantasy
+fountain
+grass
+house
+mountain
+no humans
+outdoors
+overgrown
+post-apocalypse
+rating:safe
+real world location
+road
+ruins
+scenery
+sky
+skyscraper
+stairs
+subreddit:imaginaryarchitecture
+title:mars pop downtown by artist sylvain sarrailh
+tokyo (city)
+tower
+tree
+uploader:anon_ymou5
+water
+waterfall
+watermark

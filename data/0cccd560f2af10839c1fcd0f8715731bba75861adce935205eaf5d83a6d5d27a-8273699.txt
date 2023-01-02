@@ -2,14 +2,18 @@
 1girl
 alternate costume
 alternative costume
+artist name
 axsens
 bangs
 baseball cap
+baseball mitt
 black gloves
 booru:sankaku
 booru:sankaku channel
 breasts
+brown eyes
 brown hair
+building
 category:ine
 character:pizza delivery sivir
 character:sivir
@@ -37,16 +41,20 @@ day
 dutch angle
 employee uniform
 female
+fence
 fingerless gloves
+fire
 food
 games
 gender:female
 gloves
+grass
 guro
 hair between eyes
 hat
 headwear
 holding
+leaf
 league of legends
 long hair
 looking at viewer
@@ -72,6 +80,8 @@ rating:s
 rating:safe
 rating:sensitive
 series:league of legends
+shirt
+short sleeves
 shorts
 shorts under skirt
 signature
@@ -87,6 +97,7 @@ tied hair
 title:pizza delivery sivir
 title:pizza delivery sivir .nsfw opt.
 title:pizza delivery sivir by 'axsens'
+tree
 uniform
 uploader:myrandall
 wind

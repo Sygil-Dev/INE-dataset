@@ -1,0 +1,59 @@
+armor
+autumn
+autumn leaves
+battle
+bomb
+breathing fire
+burning
+campfire
+candle
+candlelight
+casing ejection
+category:ine
+character:charizard
+character:charmander
+cooking
+destruction
+dusk
+embers
+evening
+explosion
+fiery hair
+fiery wings
+fire
+fireplace
+fireworks
+firing
+flame
+flaming sword
+flaming weapon
+gradient sky
+helmet
+horns
+lightning
+magic
+molten rock
+mountain
+muzzle flash
+orange sky
+pyrokinesis
+rating:safe
+red sky
+rocket
+smoke
+sparks
+subreddit:imaginaryarmor
+subreddit:imaginarydwarves
+subreddit:imraces
+subreddit:imtechnology
+sun
+sunset
+sword
+tail-tip fire
+title:dwarven centurion by michael anthony gonzales
+torch
+twilight
+uploader:myrandall
+volcano
+war
+weapon
