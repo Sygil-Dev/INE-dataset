@@ -1,0 +1,24 @@
+architecture
+building
+castle
+category:ine
+city
+cityscape
+cloud
+cloudy sky
+mountain
+outdoors
+rating:safe
+ruins
+scenery
+sky
+solo
+standing
+subreddit:imaginarymonuments
+subreddit:imaginarywastelands
+subreddit:imarchitecture
+subreddit:imlandscapes
+sunset
+title:apocalypse art by igor solovyev
+tower
+uploader:iwasreallyshocked

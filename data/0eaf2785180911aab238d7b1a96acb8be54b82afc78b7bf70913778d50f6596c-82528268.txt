@@ -1,0 +1,34 @@
+architecture
+bridge
+building
+bush
+day
+east asian architecture
+fence
+forest
+gate
+grass
+house
+letterboxed
+nature
+no humans
+outdoors
+overgrown
+path
+plant
+rating:safe
+river
+scenery
+shrine
+sky
+stone lantern
+subreddit:imaginaryvillages
+subreddit:imarchitecture
+sunbeam
+sunlight
+title:forest village by kobong
+torii
+tree
+tree shade
+uploader:blood-n-cheese
+waterfall
