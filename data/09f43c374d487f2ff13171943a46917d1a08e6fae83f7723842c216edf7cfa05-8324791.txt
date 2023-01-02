@@ -2,8 +2,11 @@
 ambiguous gender
 ambiguous gender focus
 ambiguous gender only
+artist name
 black body
 black fur
+burger
+cat
 category:ine
 cheese
 creator:cryptid-creations
@@ -15,6 +18,8 @@ edible mushroom
 feral
 filename:dp1103_s
 food
+food focus
+fried egg
 fruit
 fungus
 fur
@@ -25,6 +30,7 @@ grey body
 grey fur
 humor
 male:1
+meat
 medium:patreon reward
 medium:simple background
 medium:white background
@@ -34,14 +40,17 @@ meta:2015
 meta:paid reward
 meta:patreon reward
 mushroom
+no humans
 pepper (food)
 pepper (fruit)
 pepperoni
 pizza
 pizza cat
 plant
+plate
 portobello mushroom
 rating:safe
+signature
 simple background
 site:patreon
 site:yiff.party
@@ -63,6 +72,7 @@ title:'pizza cat' by piper thibodeau
 title:daily paint #1103. pizza cat
 title:pizza cat
 uploader:myrandall
+watermark
 website:e621
 white background
 white body

@@ -1,0 +1,41 @@
+architecture
+blue sky
+bridge
+building
+bush
+castle
+city
+cliff
+cloud
+cloudy sky
+day
+east asian architecture
+fantasy
+forest
+grass
+house
+lake
+landscape
+mountain
+mountainous horizon
+nature
+no humans
+outdoors
+path
+rating:safe
+river
+road
+rock
+scenery
+sky
+stairs
+subreddit:imaginaryarchitecture
+subreddit:imaginarybestof
+subreddit:immeta
+title:[/r/imaginaryarchitecture] pavilion by max suleimanov
+title:pavilion by max suleimanov
+tower
+tree
+uploader:lol33ta
+water
+waterfall

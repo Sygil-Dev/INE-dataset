@@ -1,3 +1,4 @@
+1girl
 2d
 artwork
 category:ine
@@ -7,12 +8,15 @@ fantasy art
 futuristic
 gender:female
 genre:science fiction
+grass
 illustration
 klaus wittmann
 mechanics
 medium:digital 2d
 medium:digital media
 original characters
+rating:safe
+scenery
 subreddit:imaginaryvehicles
 subreddit:imtechnology
 title:'i can fix this' by klaus wittmann
@@ -23,4 +27,5 @@ uploader:myrandall
 uploader:yamamba78
 vehicle
 water lilies
+weapon
 weyland-yutani corporation

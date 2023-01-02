@@ -2,6 +2,7 @@ ally
 angel
 angelic
 armor
+artist name
 assassin
 berserk
 blades
@@ -15,6 +16,7 @@ chiloe
 creator:josu hernaiz
 eldrazi
 eldritch
+eldritch abomination
 eldritch moon
 elf
 fantasma
@@ -23,6 +25,7 @@ female
 fire
 frost
 gift
+glowing
 goblin
 gpquebec
 grand prix
@@ -49,12 +52,15 @@ monster
 moon
 moose
 mtg
+multiple tails
 niblis
 odyssey
+open mouth
 phantom
 pincoya
 playmat
 quebec
+rating:safe
 rider
 serra
 sharpshooter
@@ -71,7 +77,9 @@ subreddit:imaginaryleviathans
 subreddit:imaginaryworldeaters
 subreddit:immonsters
 sword
+tail
 tcg
+teeth
 tentacles
 terror
 the gathering
@@ -85,6 +93,7 @@ veteran
 warleader
 warrior
 weapon
+web address
 werewolf
 white
 woman

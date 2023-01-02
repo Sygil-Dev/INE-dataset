@@ -1,0 +1,24 @@
+architecture
+bridge
+building
+castle
+category:ine
+city
+cityscape
+day
+east asian architecture
+no humans
+outdoors
+rating:safe
+ruins
+scenery
+sky
+subreddit:imaginaryruins
+subreddit:imarchitecture
+title:godless shrine by rob alexander
+tower
+tree
+uploader:[deleted]
+uploader:faeryknight
+water
+waterfall

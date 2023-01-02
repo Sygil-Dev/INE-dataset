@@ -1,12 +1,18 @@
 2018
 artist:sandara
 category:ine
+cloud
+cloudy sky
 creator:sandara
 day
 detailed background
 detailed_background
 digital media (artwork)
+dragon
+dusk
+evening
 feral
+fire
 flying
 furry
 group
@@ -23,8 +29,14 @@ meta:2018
 meta:digital media (artwork)
 meta:digital_media_(artwork)
 meta:watermark
+monster
+mountain
+no humans
+open mouth
+orange sky
 outside
 rating:safe
+sharp teeth
 sky
 species:dragon
 species:mythical
@@ -35,9 +47,13 @@ spines
 subreddit:imaginarydragons
 subreddit:imaginaryleviathans
 subreddit:immonsters
+sun
+sunset
+teeth
 title:baby dragons 2
 title:baby dragons 2 by sandara tang
 title:baby dragons 2 by sandra tang
+twilight
 uploader:myrandall
 uploader:o-shi
 watermark

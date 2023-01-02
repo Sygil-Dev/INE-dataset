@@ -1,0 +1,28 @@
+architecture
+blue sky
+bridge
+building
+castle
+category:ine
+city
+cityscape
+cloud
+cloudy sky
+day
+mountain
+no humans
+ocean
+outdoors
+rating:safe
+scenery
+sky
+skyscraper
+subreddit:imaginarybestof
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+sunset
+title:[/r/imaginarywastelands] stronghold of red flame gang by mark li
+title:stronghold of red flame gang by mark li
+tower
+uploader:lol33ta
+watercraft

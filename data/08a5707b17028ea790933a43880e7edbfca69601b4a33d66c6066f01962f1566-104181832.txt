@@ -1,0 +1,26 @@
+arch
+architecture
+boat
+bridge
+building
+city
+cityscape
+cloud
+colored pencil (medium)
+east asian architecture
+fantasy
+no humans
+ocean
+outdoors
+pagoda
+rating:safe
+river
+scenery
+sky
+subreddit:imaginaryvessels
+title:sailing ships by victor sales
+tower
+traditional media
+uploader:lol33ta
+water
+watercraft

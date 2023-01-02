@@ -1,7 +1,11 @@
+1girl
 2019
+angel
+angel wings
 anthro
 anthropomorphic
 anthropomorphism
+artist name
 artist:assasinmonkey
 assasinmonkey
 biped
@@ -10,6 +14,7 @@ category:ine
 character:fluttershy
 character:fluttershy (mlp)
 character:fluttershy_(mlp)
+closed eyes
 clothed
 clothes
 clothing
@@ -19,6 +24,7 @@ creator:assasinmonkey
 detailed
 digital media (artwork)
 digitalpainting
+dress
 feathered wings
 feathered_wings
 feathers
@@ -28,8 +34,10 @@ fluttershy
 flying
 gender:female
 genre:fantasy
+halo
 hands
 hooves
+long hair
 mare
 medium:digital media
 meta:2019
@@ -38,12 +46,14 @@ meta:digital_media_(artwork)
 mlpfim
 mylittleponyfriendshipismagic
 pegasus
+pink hair
 rating:safe
 safe
 series:friendship is magic
 series:my little pony
 series:my little pony friendship is magic
 series:my little pony: friendship is magic
+signature
 solo
 species:equid
 species:equine
@@ -59,6 +69,9 @@ title:paint of flutter
 underhoof
 unguligrade anthro
 uploader:torvusil
+very long hair
+white dress
+white wings
 wings
 year:2019
 yellow body

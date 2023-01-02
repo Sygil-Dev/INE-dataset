@@ -1,25 +1,41 @@
+architecture
+bridge
+building
 cannons
+castle
 category:ine
+city
 clothing:armor
 culture
+facing away
+fantasy
 firearm
 futuristic
 gender:female
 grass
 hangar
 hologram
+letterboxed
+long hair
 machine
 men
 moss
+outdoors
+overgrown
 people
+plant
 plants
+rating:safe
 ruins
+scenery
 subreddit:imaginaryfeels
 subreddit:imaginaryfuturism
 subreddit:immeta
 subreddit:imtechnology
+sword
 title:'phantom' by vladimir manyukhin
 title:phantom by vladimir manyukhin
+tower
 uploader:bleeding_choker
 uploader:jaykirsch
 vladimir manyukhin

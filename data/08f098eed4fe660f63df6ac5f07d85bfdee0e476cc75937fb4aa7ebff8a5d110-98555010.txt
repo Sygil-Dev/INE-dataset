@@ -1,0 +1,21 @@
+armor
+artist name
+copyright name
+dated
+full armor
+gauntlets
+greaves
+helmet
+holding
+holding sword
+holding weapon
+male focus
+rating:safe
+signature
+solo
+standing
+subreddit:imaginaryorcs
+sword
+title:azog by nick keller
+uploader:killerbunnyfamily
+weapon

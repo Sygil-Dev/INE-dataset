@@ -1,8 +1,15 @@
 6+boys
 6+girls
+album cover
 arch
+aurora
+balcony
+bridge
 building
 bush
+car
+castle
+chain-link fence
 character:ampharos
 character:arcanine
 character:ariados
@@ -31,44 +38,89 @@ character:suicune
 character:vaporeon
 character:yanma
 character:zubat
+chimney
+christmas lights
+city
+city lights
+cityscape
 clock
 clock tower
+cloud
+constellation
 creator:zaebucca
+crescent moon
 door
+earth (planet)
 ecruteak city
 fence
+ferris wheel
+fireworks
+fisheye
 from above
+full moon
+galaxy
+gate
 gen 1 pokemon
 gen 2 pokemon
 grass
 hoothoot (prototype)
+house
+lamppost
+lantern
 legendary pokemon
+light
+light particles
 meta:absurdres
 meta:commentary
 meta:english commentary
 meta:highres
+milky way
+moon
 multiple boys
 multiple girls
 night
+night sky
+no humans
 old
 old man
 outdoors
+pagoda
 path
+pavement
 pixel art
+planet
 pokemon (creature)
 pokemon center
 pokemon gym
 rating:safe
 road
+rooftop
+scenery
 series:creatures (company)
 series:game freak
 series:nintendo
 series:pokemon
 series:pokemon (game)
 series:pokemon gsc
+shooting star
+sky
+skyline
+skyscraper
+snow
+snowing
+space
 stairs
+star (sky)
+starry sky
+starry sky print
 subreddit:imaginarykanto
+tanabata
+telescope
 title:ecruteak city at night by zaebucca
 tower
+town
 tree
+twilight
+ufo
 uploader:hornyheracross
+window

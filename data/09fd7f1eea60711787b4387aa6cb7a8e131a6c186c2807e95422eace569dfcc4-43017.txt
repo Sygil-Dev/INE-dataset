@@ -1,0 +1,37 @@
+architecture
+bridge
+building
+castle
+category:ine
+city
+cityscape
+cloud
+cloudy sky
+evening
+fire
+gradient sky
+horizon
+house
+mountain
+mountainous horizon
+no humans
+ocean
+orange sky
+outdoors
+rating:safe
+river
+scenery
+signature
+sky
+subreddit:imaginarycolorscapes
+subreddit:immeta
+sun
+sunlight
+sunrise
+sunset
+title:golden capital
+tower
+tree
+twilight
+uploader:winterkeepda
+water

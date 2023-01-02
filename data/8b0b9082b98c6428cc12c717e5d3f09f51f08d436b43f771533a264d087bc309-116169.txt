@@ -51,6 +51,7 @@ species:humanoid
 species:mammal
 species:orc
 species:tiefling
+subreddit:imaginaryfeels
 subreddit:imaginarytaverns
 subreddit:imarchitecture
 title:tavern by benjamin masi

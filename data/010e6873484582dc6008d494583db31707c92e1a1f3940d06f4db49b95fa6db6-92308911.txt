@@ -1,0 +1,36 @@
+argyle background
+armor
+axe
+blood
+blood on clothes
+blood on face
+blood on weapon
+blood splatter
+blood stain
+brick
+brick floor
+checkered
+checkered background
+checkered floor
+dirty
+floor
+glowing
+guro
+hexagon
+honeycomb (pattern)
+honeycomb background
+rating:safe
+silk
+spider web
+stone floor
+stone wall
+subreddit:imaginarymechs
+subreddit:imtechnology
+sword
+teeth
+tile floor
+tile wall
+tiles
+title:gazlowe by alexey kruglov
+uploader:lol33ta
+weapon

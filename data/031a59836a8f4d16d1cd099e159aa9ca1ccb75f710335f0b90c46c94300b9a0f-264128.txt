@@ -6,12 +6,18 @@ creator:louis-philippe desjardins
 crystal
 desjardins
 fantasy
+gradient
+gradient background
+green background
 hand painted
 huge
 louis
 louis-philippe
 medium:digital 3d
+polearm
+rating:safe
 simplified
+spear
 subreddit:imaginaryweaponry
 subreddit:imtechnology
 sword

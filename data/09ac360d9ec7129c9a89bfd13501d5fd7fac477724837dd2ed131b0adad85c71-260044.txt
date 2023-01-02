@@ -1,0 +1,29 @@
+argyle background
+assault rifle
+category:ine
+chain-link fence
+checkered
+checkered background
+checkered floor
+gatling gun
+gradient
+gradient background
+greyscale
+gun
+halftone
+halftone background
+holding gun
+honeycomb (pattern)
+lineart
+machine gun
+monochrome
+no humans
+rating:safe
+rifle
+scope
+sniper rifle
+subreddit:imaginaryweaponry
+subreddit:imtechnology
+title:"carbon 4x anti-matter pistol ( sketchup render )" by paul dave malla
+uploader:pyro_azer
+weapon

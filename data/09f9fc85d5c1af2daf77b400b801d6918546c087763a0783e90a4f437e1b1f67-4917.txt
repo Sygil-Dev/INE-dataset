@@ -1,4 +1,6 @@
+1girl
 armor
+artist name
 axe
 category:ine
 creator:cecilia g.f.
@@ -6,7 +8,13 @@ dark
 face
 fog
 hair
+lips
+long hair
 medium:digital 2d
+rating:safe
+realistic
+signature
+solo
 subreddit:imaginaryhumans
 subreddit:imaginarywarriors
 subreddit:imcharacters

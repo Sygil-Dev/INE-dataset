@@ -1,5 +1,8 @@
+1boy
 alien
 alien race
+black footwear
+boots
 category:ine
 character
 character portrait
@@ -13,13 +16,18 @@ drone
 dungeon master
 dungeons and dragons
 exocortex
+full body
 future
 futuristic
 game master
 genre:fantasy
 guardians of the galaxy
+gun
+handgun
+holding gun
 illustration
 lashunta
+male focus
 mantis
 mechanic
 medium:digital 2d
@@ -28,9 +36,13 @@ pathfinder
 pathfinder rpg
 pen and paper
 pen and paper rpg
+rating:safe
 rpg
 science fiction
 scifi
+simple background
+solo
+standing
 starfinder
 starfinder rpg
 studio:marvel
@@ -42,3 +54,4 @@ title:lashunta mechanic - starfinder rpg character portrait commission
 title:starfinder alien mechanic
 trpg
 uploader:matnightmare
+weapon

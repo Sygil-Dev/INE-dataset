@@ -2,6 +2,7 @@
 ambiguous gender
 ambiguous_gender
 anthro
+artist name
 artist:cryptid-creations
 black eyes
 black_eyes
@@ -34,9 +35,13 @@ meta:2018
 meta:url
 musical instrument
 musical_instrument
+night
+no humans
 open mouth
 open_mouth
+outdoors
 plant
+pokemon (creature)
 pun
 purple body
 purple fur
@@ -45,6 +50,7 @@ purple_fur
 rating:safe
 sheep
 skull
+sky
 species:bovid
 species:caprine
 species:faun
@@ -60,9 +66,12 @@ subreddit:immonsters
 teeth
 text
 title:faunted by piper thibodeau
+tree
 uploader:myrandall
 visual pun
 visual_pun
+watermark
+web address
 website:reddit
 wind instrument
 wind_instrument

@@ -1,21 +1,41 @@
+1boy
+armor
+beard
+blue cape
+cape
 captain
 category:ine
 chapter
 creator:diego gisbert llorens
 emperor
 empire
+facial hair
+full armor
+gauntlets
+helmet
+holding
+holding sword
+holding weapon
 imperium
 legion
+male focus
 medium:digital 2d
+rating:safe
 roman
 series:warhammer 40,000
+simple background
+solo
 space marine
+standing
 studio:games workshop
 subreddit:imaginarywarhammer
 subreddit:imfandoms
+sword
 title:captain fabian
 title:captain fabian by diego gisbert llorens
 ultramarines
 uploader:adverserius
 warhammer
 warrior
+weapon
+white background

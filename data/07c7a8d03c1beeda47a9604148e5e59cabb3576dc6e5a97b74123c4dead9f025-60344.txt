@@ -1,0 +1,24 @@
+armor
+blood
+blood on clothes
+blood on face
+blood on hands
+blood on weapon
+blood splatter
+boots
+category:ine
+chain
+death
+holding
+holding weapon
+injury
+night
+rating:safe
+subreddit:imaginarybeasts
+subreddit:imaginarycarnage
+subreddit:immonsters
+subreddit:imnsfw
+sword
+title:glutton by dima zasimovich
+uploader:drunkindragon
+weapon

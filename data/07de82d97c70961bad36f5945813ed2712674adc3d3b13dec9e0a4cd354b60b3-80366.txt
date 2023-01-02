@@ -1,0 +1,32 @@
+beach
+boat
+bridge
+category:ine
+cloud
+cloudy sky
+dock
+fishing
+horizon
+lake
+mountain
+no humans
+ocean
+outdoors
+pier
+planet
+rating:safe
+reflection
+river
+scenery
+ship
+shore
+sky
+subreddit:imaginarywarships
+subreddit:imtechnology
+title:the fatal chase by tom freeman. the uss hatteras engages the confederate raider css alabama. hatteras was sunk in the ensuing battle. [1280 × 810]
+tower
+uploader:kapitankurt
+warship
+water
+watercraft
+waves

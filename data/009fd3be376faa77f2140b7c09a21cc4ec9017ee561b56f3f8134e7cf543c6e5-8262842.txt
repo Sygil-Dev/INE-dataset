@@ -1,9 +1,13 @@
+1girl
 armor
 bar
 bent knees
+blurry
+blurry foreground
 booru:sankaku
 booru:sankaku channel
 boots
+breasts
 candle
 card (object)
 category:ine
@@ -16,6 +20,7 @@ clothing:gloves
 clothing:shoes
 creator:wlop
 crossed legs
+depth of field
 facial mark
 female
 fire
@@ -34,6 +39,7 @@ leather clothes
 leather gloves
 leg up
 legs on table
+long hair
 medium:high resolution
 raised leg
 rating:s

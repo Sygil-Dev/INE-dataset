@@ -1,0 +1,40 @@
+2d
+aircraft
+airplane
+army
+bird
+category:ine
+cloud
+concept
+conceptart
+creator:ismail inceoglu
+day
+digital
+digitalart
+environment
+fanart
+field
+grass
+holding
+horse
+landscape
+long hair
+medium:digital 2d
+outdoors
+planted
+rating:safe
+red cape
+scenery
+sky
+soldier
+standing
+subreddit:imaginarygiants
+subreddit:imraces
+sword
+thewitcher
+title:the witcher - say what?
+title:the witcher - say what? by ismail inceoglu [x-post /r/imaginarywitcher]
+uploader:valar_m0rghul1s
+weapon
+wildhunt
+witcher

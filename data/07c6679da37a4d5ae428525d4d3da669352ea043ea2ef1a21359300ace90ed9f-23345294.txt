@@ -1,5 +1,6 @@
 category:concept art
 category:ine
+city
 cloud
 concept art
 creator:jordi van hees
@@ -14,20 +15,32 @@ hub
 industry
 kicking up dust
 landing platform
+lens flare
 makeshift
 market
 marketplace
 medium:digital 2d
 morning
+mountain
+no humans
+outdoors
 people
 platform
+rating:safe
+scenery
 sci-fi
 ship design
+sky
 space ship design
 subreddit:conceptart
 subreddit:immeta
+sun
+sunlight
+sunrise
+sunset
 tarp
 title:yt-xs light hauler
 title:yt-xs light hauler- landing at dawn
 title:yt-xs light hauler- landing at dawn, jordi van hees
+tower
 uploader:jordi_van_hees

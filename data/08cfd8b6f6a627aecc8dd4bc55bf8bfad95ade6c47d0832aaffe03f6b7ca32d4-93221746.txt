@@ -1,0 +1,53 @@
+afloat
+air bubble
+aquarium
+barrel
+beach
+boat
+boots removed
+bridge
+bubble
+caustics
+cave
+dock
+fish
+fishing
+fishing line
+fishing rod
+holding fishing rod
+horizon
+innertube
+island
+ladder
+lake
+lily pad
+ocean
+partially submerged
+pier
+pond
+pool
+pool ladder
+poolside
+rating:safe
+ripples
+river
+rock
+scenery
+ship
+shore
+soaking feet
+splashing
+standing on liquid
+stream
+subreddit:imaginarymindscapes
+subreddit:imaginaryseascapes
+subreddit:imlandscapes
+swimming
+title:shark deck by devin elle kurtz
+uploader:lol33ta
+wading
+water
+watercraft
+waterfall
+waves
+weapon

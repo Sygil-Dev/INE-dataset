@@ -16,13 +16,19 @@ grey eyes
 hair ornament
 hairclip
 hat
+lens flare
 long hair
 looking to the side
 meta:commentary request
 meta:highres
+open mouth
 outdoors
+pink skirt
+poke ball print
+poke ball symbol
 pokemon (creature)
 rating:safe
+red scarf
 scarf
 series:creatures (company)
 series:game freak
@@ -31,11 +37,14 @@ series:pokemon
 series:pokemon (game)
 series:pokemon dppt
 shirt
+signature
 skirt
 sleeveless
 sleeveless shirt
+standing
 subreddit:imaginarykanto
 subreddit:imfandoms
+tied hair
 title:dawn and luxray by @_ha_ri_
 uploader:pardusco
 white headwear

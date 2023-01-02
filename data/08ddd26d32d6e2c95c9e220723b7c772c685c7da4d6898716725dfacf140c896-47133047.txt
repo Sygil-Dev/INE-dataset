@@ -1,28 +1,42 @@
+1girl
 archer
 archery
 barefoot
 bloomers
 blue eyes
+blue sky
 booru:sankaku channel
 booru:yande.re
 boots
 bow (weapon)
+breasts
 character:yan he
 character:yanhe
 china dress
 chinese clothes
+cloud
+cloudy sky
+condensation trail
 creator:tid
 creator:tidsean
+day
 dress
 feet
 female
 footwear
 gloves
+hair ornament
 heels
 high heels
+holding
+holding weapon
+horizon
+letterboxed
 medium:2d art
 medium:high resolution
 meta:tagme
+night sky
+outdoors
 page:24
 pixiv
 pixiv id:418969
@@ -31,11 +45,19 @@ rating:questionable
 rating:safe
 series:vocaloid
 shoes
+shooting star
+short dress
 short hair
 sky
 solo
+standing
+star (sky)
+starry sky
+strapless
+strapless dress
 subreddit:imaginaryarchers
 subreddit:imcharacters
+sunrise
 thighhighs
 title:v + by tidsean0
 title:v+

@@ -1,0 +1,25 @@
+beach
+caterpillar tracks
+day
+emblem
+ground vehicle
+military
+military vehicle
+motor vehicle
+mountain
+no humans
+ocean
+rating:safe
+sand
+shore
+subreddit:imaginaryweaponry
+subreddit:imtechnology
+tank
+tank focus
+title:dune 2 rocket launcher reimagined by andrii 'zelfit' mykhailov
+turret
+uploader:yannirotten
+vehicle focus
+water
+watercraft
+world war ii

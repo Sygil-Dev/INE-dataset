@@ -4,11 +4,13 @@ animal
 anthropomorphism
 anthropomorphization
 banned artist
+bare shoulders
 bench
 bent knees
 bird
 blue shorts
 blush
+bug
 butterfly
 category:ine
 character:fluttershy
@@ -25,6 +27,9 @@ clothing:tank top
 clothing:thigh-highs
 commentary
 creator:sakimichan
+denim
+denim shorts
+dove
 ear studs
 english commentary
 exposed shoulders
@@ -47,6 +52,7 @@ legwear
 lips
 lipstick
 long hair
+looking at viewer
 makeup
 medium:artist name
 medium:fanart from deviantart
@@ -64,6 +70,7 @@ meta:pixiv-import
 meta:watermark
 my little pony
 my little pony:friendship is magic
+off shoulder
 personification
 petals
 piercing
@@ -72,6 +79,7 @@ pink lips
 pink lipstick
 rating:mature
 rating:safe
+seagull
 series:my little pony
 series:my little pony friendship is magic
 series:my little pony: friendship is magic
@@ -100,9 +108,11 @@ sweater
 tank top
 tattoo
 thigh-highs
+thighhighs
 title:fluttershy
 title:fluttershy (term 16 reward)
 title:fluttershy by sakimichan (sakimi chan)
+tree
 uploader:lol33ta
 water
 watermark

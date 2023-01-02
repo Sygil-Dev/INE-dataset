@@ -19,11 +19,13 @@ booru:sankaku
 booru:sankaku channel
 breasts
 brown eyes
+cannon
 category:ine
 character:admiral hipper (azur lane)
 character:admiral hipper (azur lane) (cosplay)
 character:admiral hipper (muse) (azur lane)
 character:prinz eugen (azur lane)
+choker
 clothing:black jacket
 clothing:black legwear
 clothing:black skirt
@@ -79,9 +81,11 @@ rating:general
 rating:s
 rating:safe
 red hair
+rigging
 series:azur lane
 shirt
 shoes
+silver hair
 simple background
 skirt
 sleeveless

@@ -1,0 +1,38 @@
+beach
+blue sky
+category:ine
+cave
+cloud
+cloudy sky
+day
+earth (planet)
+horizon
+ice
+island
+lake
+landscape
+mountain
+mountainous horizon
+no humans
+ocean
+outdoors
+planet
+rating:safe
+river
+rock
+scenery
+shore
+sky
+snow
+snowing
+splashing
+subreddit:imaginarywinterscapes
+subreddit:imlandscapes
+title:winter travellers by andreas rocha
+uploader:[deleted]
+uploader:ethan_kahn
+water
+watercraft
+waterfall
+waves
+winter

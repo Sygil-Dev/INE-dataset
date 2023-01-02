@@ -1,0 +1,19 @@
+architecture
+artist name
+building
+city
+cloud
+cloudy sky
+copyright name
+fantasy
+no humans
+outdoors
+rating:safe
+scenery
+signature
+sky
+subreddit:imaginarystarships
+title:starship of the line - bonfire stars by martechi
+tower
+uploader:martechifalkberg
+watercraft

@@ -1,0 +1,34 @@
+beach
+boat
+cloud
+cloudy sky
+day
+earth (planet)
+horizon
+island
+lake
+landscape
+mountain
+no humans
+ocean
+outdoors
+pier
+planet
+rating:safe
+rising sun
+river
+sand
+scenery
+ship
+shore
+sky
+subreddit:imaginarywarships
+subreddit:imtechnology
+sunburst
+sunset
+title:i-370 type d1 submarine by takeshi yuki
+uploader:tsquare43
+warship
+water
+watercraft
+waves

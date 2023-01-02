@@ -1,7 +1,10 @@
+artist name
 bastien grivet
 blur studio
 category:ine
+character:hunter (bloodborne)
 cinematic
+copyright name
 creator:wardenlight studio
 digital 2d
 digitalart
@@ -9,12 +12,20 @@ elfe
 environment
 game art
 genre:fantasy
+glowing
+grass
 guerrier
+gun
+holding
+holding gun
+holding weapon
 illustration
 jessica rossier
 key art
 medium:concept art
 medium:digital 2d
+outdoors
+rating:safe
 series:the elder scrolls online
 studio:bethesda softworks
 subreddit:imaginarybattlefields
@@ -24,9 +35,11 @@ subreddit:imlandscapes
 thumbnail
 title:the elder scrolls online: cinematic
 title:the elder scrolls online: cinematic by wardenlight studio
+tree
 uploader:lol33ta
 uploader:natezomby
 wardenlight studio
 warrior
+weapon
 wizard
 zenimax online studio

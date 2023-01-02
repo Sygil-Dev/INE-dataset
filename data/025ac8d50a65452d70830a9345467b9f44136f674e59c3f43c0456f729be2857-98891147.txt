@@ -1,0 +1,22 @@
+day
+field
+forest
+grass
+ground vehicle
+gun
+house
+jungle
+motor vehicle
+nature
+no humans
+on grass
+outdoors
+rating:safe
+road
+signature
+sky
+subreddit:imaginaryfuturism
+title:redemption by claud z
+tree
+uploader:lol33ta
+weapon

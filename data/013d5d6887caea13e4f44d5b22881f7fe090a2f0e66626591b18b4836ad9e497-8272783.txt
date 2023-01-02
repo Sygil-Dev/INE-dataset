@@ -1,3 +1,4 @@
+bare tree
 blue eyes
 booru:e621
 category:ine
@@ -13,6 +14,7 @@ character:scootaloo
 character:scootaloo (mlp)
 character:sweetie belle
 character:sweetie belle (mlp)
+cloud
 creator:rublegun
 detailed background
 feathered wings
@@ -20,9 +22,11 @@ feathers
 female
 feral
 firearm
+full moon
 fur
 gender:female
 genre:fantasy
+grass
 group
 gun
 hair
@@ -41,6 +45,7 @@ moon
 night
 orange body
 orange fur
+outdoors
 outside
 purple eyes
 purple hair
@@ -52,6 +57,7 @@ series:hasbro
 series:my little pony
 series:my little pony friendship is magic
 series:my little pony: friendship is magic
+sky
 smile
 species:earth pony
 species:equid
@@ -68,8 +74,11 @@ standing
 studio:hasbro
 subreddit:imaginaryequestria
 subreddit:imfandoms
+sun
+teeth
 title:'this is halloween' by rublegun/ssujaak
 title:this is halloween
+tree
 uploader:schnitzellover
 weapon
 white body

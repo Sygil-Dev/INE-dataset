@@ -1,10 +1,16 @@
+1girl
+architecture
 booru:e621
 bottomwear
+bridge
+building
 category:ine
 chinese
+city
 clothing
 clothing:legwear
 clothing:pants
+cloud
 creator:sandara
 destruction
 detailed background
@@ -18,10 +24,12 @@ oriental
 pants
 rating:safe
 running
+scenery
 series:asian mythology
 series:east asian mythology
 series:mythology
 sharp teeth
+sky
 species:aquatic dragon
 species:dragon
 species:eastern dragon
