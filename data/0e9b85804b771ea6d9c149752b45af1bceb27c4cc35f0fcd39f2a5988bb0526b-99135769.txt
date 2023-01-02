@@ -1,0 +1,27 @@
+architecture
+bridge
+building
+castle
+city
+city lights
+cityscape
+cloud
+day
+east asian architecture
+forest
+mountain
+nature
+outdoors
+rating:safe
+river
+ruins
+scenery
+sky
+skyscraper
+subreddit:imaginaryarchitecture
+title:23/7/2022 by mattia lau
+tower
+tree
+uploader:lol33ta
+water
+waterfall
