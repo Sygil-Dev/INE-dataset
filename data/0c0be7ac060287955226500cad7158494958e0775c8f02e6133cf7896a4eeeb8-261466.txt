@@ -1,0 +1,23 @@
+armor
+beach
+brown background
+category:ine
+day
+desert
+glowing
+holding sword
+holding weapon
+mecha
+outdoors
+polearm
+rating:safe
+sand
+science fiction
+solo
+spear
+subreddit:imaginaryweaponry
+subreddit:imtechnology
+sword
+title:frosty fork of fury! by michael jaecks
+uploader:hvitserkr
+weapon

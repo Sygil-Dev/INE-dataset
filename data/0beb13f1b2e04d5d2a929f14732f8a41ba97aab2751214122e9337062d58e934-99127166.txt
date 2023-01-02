@@ -1,0 +1,19 @@
+architecture
+artist name
+bridge
+building
+city
+cityscape
+cloud
+cloudy sky
+copyright name
+no humans
+outdoors
+rating:safe
+scenery
+sky
+subreddit:imaginarytowers
+title:the beacon by max bedulenko
+tower
+uploader:myrandall
+watermark

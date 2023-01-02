@@ -1,0 +1,68 @@
+alcohol
+beer mug
+bento
+bowl
+bread
+burger
+carrot
+cellphone
+cheese
+chicken (food)
+chopsticks
+cup
+curry
+curry rice
+dish
+drinking glass
+dumpling
+egg
+fish
+food
+food focus
+fork
+fried egg
+glass
+holding
+holding chopsticks
+knife
+lemon
+lemon slice
+lettuce
+meat
+mug
+noodles
+omelet
+omurice
+onion
+pasta
+pizza
+plate
+ramen
+rating:safe
+restaurant
+rice
+rice bowl
+salad
+sandwich
+sausage
+seaweed
+shrimp
+shrimp tempura
+skewer
+smartphone
+soup
+spaghetti
+steak
+steam
+subreddit:imaginaryfood
+subreddit:immeta
+sushi
+table
+tamagoyaki
+tempura
+title:hotpot! i was told you guys might enjoy this
+toast
+tomato
+tray
+uploader:leafxceed
+vegetable

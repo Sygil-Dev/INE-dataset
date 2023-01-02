@@ -1,27 +1,54 @@
 absurdres
+autumn
+autumn leaves
+branch
+bridge
+bush
 category:ine
+cloud
 creator:david delanty
 creator:vest
 dusk
+evening
+fire
 floating
 forest
+gradient sky
 hill
+horizon
+lake
 landscape
+leaf
+maple leaf
 medium:absurd resolution
 medium:high resolution
 meta:absurdres
 meta:highres
 mountain
 nature
+no humans
+ocean
+orange sky
+outdoors
+palm tree
 rating:general
 rating:mature
 rating:safe
+red sky
 river
+rock
 scenery
+shore
+sky
 stone
+stream
 subreddit:imaginaryrivers
 subreddit:imnature
 sun
+sunlight
+sunset
 title:s1e06 - beauty is everywhere, change of seasons
 tree
+twilight
 water
+waterfall

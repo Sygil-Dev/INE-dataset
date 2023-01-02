@@ -7,7 +7,9 @@ belt
 black hair
 bodysuit
 booru:clangbooru
+breasts
 brown eyes
+brown hair
 category:ine
 circuit
 clothing:belt
@@ -30,6 +32,7 @@ facial tattoo
 gender:female
 genre:science fiction
 gloves
+glowing
 hair ornament
 kilart
 large breasts
@@ -49,6 +52,7 @@ open clothes
 original
 pov
 rating:mature
+rating:questionable
 rating:safe
 rating:sensitive
 realistic

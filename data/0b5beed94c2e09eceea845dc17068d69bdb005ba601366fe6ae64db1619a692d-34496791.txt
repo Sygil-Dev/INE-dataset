@@ -2,12 +2,27 @@
 ambiguous gender
 ambiguous_gender
 artist:sandara
+breathing fire
+burning
+campfire
 category:ine
+character:charizard
+cloud
+cloudy sky
+copyright name
 creator:sandara
 detailed background
 detailed_background
+dusk
+embers
+explosion
 feral
+fiery hair
+fiery wings
 fire
+flame
+flaming sword
+flaming weapon
 flaming wings
 flaming_wings
 gender:ambiguous
@@ -25,10 +40,16 @@ meta:digital media (artwork)
 meta:digital_media_(artwork)
 meta:english text
 meta:english_text
+molten rock
+night
+night sky
+no humans
 open mouth
 open_mouth
+orange sky
 outside
 rating:safe
+sky
 solo
 species:dragon
 species:elemental creature
@@ -39,8 +60,14 @@ species:fire creature
 species:fire_creature
 subreddit:imaginarydragons
 subreddit:immonsters
+sunset
+tail-tip fire
+teeth
 text
 title:stonesmelt dragon
 title:stonesmelt dragon by sandara
+torch
+twilight
 uploader:lol33ta
+volcano
 wings

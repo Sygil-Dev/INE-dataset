@@ -1,9 +1,14 @@
+1boy
 2019
+::p
+artist name
 artist:conditional_dnp
 artist:oksara
+body fur
 category:ine
 character:aeksdaarkarus
 claws
+colored skin
 conditional_dnp
 creator:conditional dnp
 creator:oksara
@@ -11,12 +16,15 @@ digital media (artwork)
 feral
 furry
 garrison cap
+gradient
+gradient background
 green eyes
 green_eyes
 hair
 hi res
 high resolution
 invalid tag
+male focus
 medium:digital media
 medium:high resolution
 medium:simple background
@@ -28,7 +36,9 @@ meta:hi res
 meta:hi_res
 open mouth
 open_mouth
+purple eyes
 rating:safe
+signature
 simple background
 simple_background
 smile
@@ -42,6 +52,7 @@ teeth
 title:"heart eater" by oksara
 title:heart eater
 tongue
+tongue out
 uploader:torvusil
 white background
 white hair

@@ -1,6 +1,9 @@
+::d
 ambiguous gender
 ambiguous_gender
+artist name
 artist:tsaoshin
+blue eyes
 booru:e621
 category:ine
 charmander
@@ -12,7 +15,10 @@ cute
 digital
 ericproctor
 fanart
+fangs
 fire
+flame
+full body
 furry
 gen 1 pokemon
 gen 1 pokémon
@@ -34,11 +40,14 @@ open_mouth
 painting
 photoshop
 pokemon
+pokemon (creature)
 pool:15535
 pov
 rating:safe
 series:nintendo
 series:pokémon
+signature
+smile
 solo
 species:charmander
 species:monster
@@ -51,6 +60,7 @@ starter
 studio:nintendo
 subreddit:imaginarygaming
 subreddit:imfandoms
+teeth
 title:004 - charmander
 title:"charmander" by eric proctor
 tsaoshin

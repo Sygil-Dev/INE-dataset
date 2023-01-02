@@ -1,3 +1,4 @@
+1girl
 art
 art of the day
 buggy
@@ -8,14 +9,23 @@ design
 digital art
 digital design
 esa
+greyscale
+ground vehicle
 hotrod
 illustration
+letterboxed
 lineart
+long hair
 mars
 medium:digital 3d
 medium:digital media
+military
+military vehicle
+monochrome
 moon
+motor vehicle
 nasa
+rating:safe
 ron cobb
 rover
 scifi
@@ -26,5 +36,6 @@ subreddit:imtechnology
 syd mead
 thea
 title:moon
+transparent background
 uploader:scifi887
 wheel

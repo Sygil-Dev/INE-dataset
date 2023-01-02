@@ -1,8 +1,12 @@
+1girl
 amazing background
 ambiguous gender
 armor
+bird
 booru:e621
 bracers
+brown hair
+bush
 category:ine
 claws
 clothed
@@ -22,12 +26,15 @@ grass
 group
 ixalan
 jungle
+long hair
 looking at viewer
 medium:amazing background
 medium:detailed background
 melee weapon
 midriff
 moss
+nature
+navel
 open mouth
 plant
 polearm
@@ -36,6 +43,7 @@ rating:safe
 red body
 red feathers
 riding
+sitting
 spear
 species:dinosaur
 species:extinct

@@ -1,0 +1,24 @@
+aircraft
+airplane
+animal
+armor
+bat
+bird
+bug
+butterfly
+cape
+crow
+full armor
+gauntlets
+greyscale
+helmet
+knight
+rating:safe
+seagull
+solo
+subreddit:imaginarywarhammer
+subreddit:imfandoms
+sword
+title:pre-heresy word bearer - mootslol
+uploader:jimbosayna2009
+weapon

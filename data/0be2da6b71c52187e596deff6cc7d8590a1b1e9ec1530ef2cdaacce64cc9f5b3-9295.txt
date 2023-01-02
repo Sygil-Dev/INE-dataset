@@ -1,0 +1,40 @@
+artist name
+bird
+blue sky
+branch
+bridge
+category:ine
+cherry blossoms
+cloud
+cloudy sky
+day
+fantasy
+floating island
+flower
+horizon
+lake
+landscape
+mountain
+mountainous horizon
+nature
+no humans
+ocean
+outdoors
+petals
+rating:safe
+river
+scenery
+signature
+sky
+snow
+spring (season)
+subreddit:imaginaryskyscapes
+subreddit:imaginarytrees
+subreddit:imlandscapes
+subreddit:imnature
+sunrise
+title:"《山海异闻录手游》宣传图" by jun zhang
+tower
+tree
+uploader:pyro_azer
+water

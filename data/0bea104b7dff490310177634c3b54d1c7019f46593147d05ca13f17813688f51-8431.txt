@@ -1,0 +1,34 @@
+architecture
+bridge
+building
+castle
+category:ine
+chain-link fence
+chimney
+city
+city lights
+cityscape
+clock tower
+cloud
+cloudy sky
+crane (machine)
+east asian architecture
+outdoors
+pagoda
+rating:safe
+river
+road
+rooftop
+scenery
+sky
+skyline
+skyscraper
+subreddit:imaginarycityscapes
+subreddit:imaginaryfuturism
+subreddit:imlandscapes
+subreddit:imtechnology
+title:mark li: fun art-sf city
+tokyo (city)
+tower
+town
+uploader:nfcwalletcard

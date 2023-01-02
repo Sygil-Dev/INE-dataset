@@ -1,0 +1,34 @@
+architecture
+blue sky
+bridge
+building
+castle
+chimney
+city
+cityscape
+clock tower
+cloud
+cloudy sky
+day
+east asian architecture
+fantasy
+gate
+house
+no humans
+outdoors
+pagoda
+rating:safe
+rooftop
+scenery
+sky
+skyline
+skyscraper
+subreddit:imaginaryarchitecture
+subreddit:imaginarycastles
+title:ue5 castle - hota aisa
+tower
+town
+uploader:rs_someone
+water
+watercraft
+windmill

@@ -1,5 +1,8 @@
+1other
 arctic circle
 category:ine
+cloud
+cloudy sky
 cold
 concept art
 creator:frej agelii
@@ -9,12 +12,21 @@ digital painting
 environment
 environment concept
 exterior
+facing away
+fantasy
 ice
 landscape
 medium:digital 2d
+mountain
 mountains
+outdoors
+rating:safe
 rocks
+scenery
 shipwreck
+sky
+snow
+snowing
 subreddit:imaginaryderelicts
 subreddit:imaginaryseascapes
 subreddit:imaginarywinterscapes
@@ -24,3 +36,5 @@ title:above the arctic circle
 title:above the arctic circle by frej agelii (xpost /r/imaginaryderelicts)
 title:above the arctic circle by frej agelii (xpost /r/imaginarywinterscapes)
 uploader:lol33ta
+water
+waterfall

@@ -5,6 +5,7 @@ breasts
 brown legwear
 brown thighhighs
 category:ine
+clothing
 creator:gawk inn
 creator:gawkinn
 dark elf
@@ -12,11 +13,15 @@ dark skin
 dark-skinned female
 earrings
 elf
+female
+female only
 from behind
 hoop earrings
 jewelry
+legwear
 medium breasts
 meta:commentary
+pointed ears
 pointy ears
 ponytail
 rating:safe
@@ -28,5 +33,6 @@ subreddit:imaginaryelves
 subreddit:imraces
 thighhighs
 thighs
+tied hair
 title:mature magic by gawkinn
 uploader:raxeldar

@@ -1,0 +1,25 @@
+architecture
+bridge
+building
+category:ine
+city
+cityscape
+east asian architecture
+lantern
+no humans
+outdoors
+pagoda
+power lines
+railing
+rating:safe
+road
+scenery
+sign
+sky
+stairs
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+title:walking around, by gediminas pranckevicius
+tower
+tree
+uploader:sylvyrfyre

@@ -1,0 +1,25 @@
+aircraft
+beach
+boat
+category:ine
+cloud
+horizon
+lake
+military
+military vehicle
+ocean
+rating:safe
+realistic
+river
+ship
+shore
+subreddit:imaginaryfuturism
+subreddit:imtechnology
+sunset
+title:old ways, hardy fowler
+uploader:superbreality2
+wading
+water
+watercraft
+waves
+weapon

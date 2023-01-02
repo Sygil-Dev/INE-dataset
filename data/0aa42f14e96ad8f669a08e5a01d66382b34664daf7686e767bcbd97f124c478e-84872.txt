@@ -1,22 +1,47 @@
 artwork
+beach
+boat
 callofcthulhu
 category:ine
 climatechange
+cloud
+cloudy sky
 creator:bram sels
 cthulhu
 cthulhu mythos
+demon wings
+dragon wings
+facing away
+flying
+giant
+grey sky
+horizon
 horror
+lake
+landscape
 lord
 lovecraft
 medium:digital 2d
 monster
+mountain
 ocean
+outdoors
+rating:safe
+sand
+scenery
 ship
+shore
+sky
 subreddit:imaginaryhorrors
 subreddit:imaginaryleviathans
 subreddit:immonsters
+sunlight
+sunset
 title:cthulhu rises
 title:cthulhu rises by bram sels
 uploader:ethereeal
 vehicle
+water
 watercraft
+waves
+wings

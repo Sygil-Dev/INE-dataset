@@ -1,0 +1,44 @@
+architecture
+blue sky
+bridge
+building
+bush
+castle
+city
+cityscape
+cloud
+cloudy sky
+day
+field
+fountain
+garden
+gate
+grass
+hill
+house
+lamppost
+landscape
+letterboxed
+mountain
+mountainous horizon
+no humans
+outdoors
+overgrown
+path
+power lines
+rating:safe
+river
+road
+ruins
+scenery
+sky
+skyline
+skyscraper
+street
+subreddit:imaginarycastles
+title:children's day by coco yang
+tower
+town
+tree
+uploader:lol33ta
+windmill

@@ -1,0 +1,23 @@
+armor
+blue cape
+cape
+full armor
+gauntlets
+greaves
+helmet
+holding
+holding sword
+holding weapon
+knight
+pauldrons
+planted
+planted sword
+rating:safe
+shoulder armor
+stairs
+standing
+subreddit:imaginarycharacters
+sword
+title:brago, king eternal by me
+uploader:seilaman02
+weapon

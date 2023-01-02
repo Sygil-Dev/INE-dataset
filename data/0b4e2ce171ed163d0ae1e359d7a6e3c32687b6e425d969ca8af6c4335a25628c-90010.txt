@@ -1,25 +1,41 @@
+1girl
+armor
 artstation
 booru:sankaku channel
 braid
+building
+burning
+castle
 category:ine
 clothing:armor
 clothing:hair tie
+cloud
+cloudy sky
 creator:astri lohne
 creator:astri-lohne
+embers
+fire
+gauntlets
 gender:female
+holding
+holding weapon
 horns
+long hair
 medium:16:9 aspect ratio
 medium:1920x1080 wallpaper
 medium:digital 2d
 medium:high resolution
 medium:wallpaper
+outdoors
 polearm
 rating:safe
 series:warcraft
 series:world of warcraft
+sky
 solo
 species:draenei
 species:lightforged draenei
+standing
 studio:blizzard entertainment
 subreddit:imaginaryazeroth
 subreddit:imaginarybattlefields
@@ -27,6 +43,7 @@ subreddit:imaginarywarriors
 subreddit:imaginarywitches
 subreddit:imcharacters
 subreddit:imfandoms
+sunset
 title:"jinaara" by astri lohne
 title:jinaara
 title:jinaara by astri lohne

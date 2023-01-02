@@ -1,0 +1,26 @@
+1girl
+backpack
+boots
+bush
+category:ine
+day
+forest
+grass
+jungle
+moss
+mushroom
+nature
+outdoors
+overgrown
+path
+plant
+rating:safe
+scenery
+solo
+subreddit:imaginarymonuments
+subreddit:imarchitecture
+title:stone of the ancestors, by wojciech wilk
+tree
+uploader:sylvyrfyre
+waterfall
+weapon

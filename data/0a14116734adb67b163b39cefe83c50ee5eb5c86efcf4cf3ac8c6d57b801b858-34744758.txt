@@ -16,14 +16,20 @@ feral
 fungus
 fur
 gender:ambiguous
+greyscale
 medium:simple background
 meta:2019
 meta:monochrome
+monochrome
+monster
 mushroom
+no humans
+open mouth
 pawpads
 paws
 pool:18473
 rating:safe
+sharp teeth
 simple background
 simple_background
 skull

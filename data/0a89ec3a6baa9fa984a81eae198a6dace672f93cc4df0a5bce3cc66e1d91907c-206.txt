@@ -1,3 +1,4 @@
+black background
 category:ine
 creator:leonardo silva carvalho
 dragon
@@ -10,7 +11,13 @@ gold
 hydra
 kaiju
 king ghidorah
+letterboxed
 medium:digital 2d
+monster
+no humans
+open mouth
+rating:safe
+sharp teeth
 skull
 species:monster
 species:mythical
@@ -24,6 +31,7 @@ subreddit:imaginaryworldeaters
 subreddit:immonsters
 subreddit:imnature
 subreddit:imraces
+teeth
 title:king ghidorah - godzilla king of the monsters.
 title:king ghidorah - godzilla king of the monsters. (2 versions)
 uploader:shademeadows

@@ -1,0 +1,31 @@
+architecture
+bridge
+building
+bush
+city
+cliff
+cloud
+day
+fantasy
+forest
+grass
+house
+moss
+mountain
+nature
+no humans
+outdoors
+path
+rating:safe
+river
+road
+rock
+scenery
+sky
+subreddit:imaginarytemples
+subreddit:imarchitecture
+title:new excercise (新练习) by tapa
+tree
+uploader:ajcarrington
+water
+waterfall

@@ -24,11 +24,14 @@ dog
 english
 english commentary
 firearm
+full armor
 gauntlets
 gender:female
 gun
 headwear
 helmet
+holding
+holding weapon
 long hair
 medium:2d art
 medium:high resolution

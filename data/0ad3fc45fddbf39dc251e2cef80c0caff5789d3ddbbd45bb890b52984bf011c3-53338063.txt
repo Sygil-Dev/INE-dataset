@@ -1,23 +1,37 @@
 airship
 aqua eyes
+belt
+black hair
+blonde hair
 booru:sankaku channel
+brown hair
 character:digitan (porforever)
+clock
 creator:porforever
 electric plug
 eyebrows
 eyebrows visible through hair
 fangs
+gears
+glasses
 goggles
 goggles around neck
+green eyes
 hair between eyes
 hat
+long hair
 medium:16:9 aspect ratio
 medium:high resolution
 monocle
+multiple boys
+multiple girls
 open mouth
 rating:safe
 scar
+semi-rimless eyewear
 series:original
+short hair
+smile
 star
 star (symbol)
 star-shaped pupils
@@ -27,5 +41,7 @@ symbol-shaped pupils
 tail
 title:airship station by porforever
 top hat
+under-rim eyewear
+uniform
 uploader:guobaorou
 white hair

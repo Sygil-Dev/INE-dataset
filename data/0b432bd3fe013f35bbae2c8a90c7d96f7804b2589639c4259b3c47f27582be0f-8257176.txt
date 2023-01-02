@@ -11,10 +11,12 @@ blurry background
 bodysuit
 boots
 bottomwear
+breasts
 broken glass
 bullet
 category:ine
 character:bullet
+character:samus aran
 character:tess (raikoart)
 character:tess turner
 city
@@ -41,6 +43,7 @@ gun
 handgun
 lips
 long hair
+looking at viewer
 male
 medium:16:10 aspect ratio
 medium:blurry background
@@ -55,7 +58,9 @@ ponytail
 rain
 rating:mature
 rating:safe
+realistic
 series:original
+solo
 solo focus
 standing
 subreddit:imaginaryassassins

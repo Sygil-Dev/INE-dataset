@@ -1,0 +1,21 @@
+arch
+architecture
+bridge
+building
+castle
+category:ine
+city
+cityscape
+clock
+east asian architecture
+fantasy
+gate
+letterboxed
+pagoda
+rating:safe
+scenery
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+title:town town by jordi gonzalez escamilla
+tower
+uploader:l-ya

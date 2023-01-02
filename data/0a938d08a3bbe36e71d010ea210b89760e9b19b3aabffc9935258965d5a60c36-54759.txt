@@ -1,0 +1,25 @@
+armor
+artwork
+cape
+category:ine
+facing away
+fantasy art
+giant
+holding
+holding weapon
+knight
+nikolay karelin
+outdoors
+rating:safe
+scenery
+snow
+snowing
+standing
+subreddit:imaginarybattlefields
+subreddit:imlandscapes
+sword
+title:ice kingdom by nikolay karelin
+uploader:[deleted]
+uploader:ethan_kahn
+warrior
+weapon

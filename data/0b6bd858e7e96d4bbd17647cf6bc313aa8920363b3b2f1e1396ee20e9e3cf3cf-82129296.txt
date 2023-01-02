@@ -1,14 +1,18 @@
+1boy
 akali
 anubis
 arabic
+arm tattoo
 art
 assassin
 batman
+beard
 blizzard
 blood
 bones
 brute
 chains
+chest tattoo
 claws
 colorful
 concept
@@ -30,10 +34,14 @@ egypt
 evolution
 explorer
 ezreal
+facepaint
+facial hair
+facial tattoo
 fan art
 fanart
 fashion
 fists
+full body
 game
 gandalf
 geralt
@@ -42,9 +50,13 @@ giant
 girl
 god
 goku
+gun
 halloween
+handgun
 harley quinn
+hat
 he-man
+heart tattoo
 horns
 horror
 ibralui
@@ -55,41 +67,56 @@ jojo
 joker
 knife
 league of legends
+leg tattoo
 lion
 luigi
+male focus
 medium:digital 2d
 mercenary
 minecraft
 mortal kombat
 moth
 mouse
+muscular
+mustache
 mutant
 nintendo
 nunu
 official
+old
+old man
 overwatch
+pants
 poison ivy
 pokemon
 popeye
+pouch
 pretty
 prison
 psyops
+rating:safe
 redhead
 renekton
 rider
 riot games
 ryu
+scar
 scarlet witch
 scary
 scifi
 scorpion
 shen
+shoes
+shoulder tattoo
 skin
 skulls
 smoke
 sobek
 soldier
+solo
+standing
 star guardian
+stomach tattoo
 stoneage
 street fighter
 streetfighter
@@ -102,6 +129,7 @@ sultan
 super mario
 swain
 sword
+tattoo
 tekken
 title:popeye by brahim bensehoul
 title:vs fashion fighters
@@ -111,6 +139,7 @@ vgu
 war
 warrior
 wasp
+weapon
 witcher
 yennefer
 yoda
