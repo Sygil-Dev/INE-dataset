@@ -5,12 +5,17 @@ action:raising arms
 action:smile
 ambiguous_gender
 arms up
+artist name
 artist:cryptid-creations
 beverage
+bird
 blush
 blushing cheeks
 buckteeth
 category:ine
+character:manjuu (azur lane)
+character:pikachu
+chick
 closed eyes
 closed mouth
 creator:cryptid creations
@@ -19,6 +24,7 @@ creator:piperdraws
 creature
 cutlery
 diving
+duck
 face::d
 face:^_^
 face:^o^
@@ -54,6 +60,8 @@ no humans
 open clothes
 open mouth
 open_mouth
+orange (fruit)
+orange slice
 pitcher
 plant
 pout
@@ -61,6 +69,7 @@ pun
 rating:mature
 rating:safe
 real person
+rubber duck
 running
 series:original
 simple background
@@ -96,6 +105,8 @@ transparent
 uploader:myrandall
 visual pun
 visual_pun
+watermark
+white background
 white_background
 wood
 wooden spoon

@@ -1,0 +1,21 @@
+armor
+axe
+category:ine
+gauntlets
+grass
+grey background
+holding
+holding sword
+holding weapon
+rating:safe
+solo
+standing
+subreddit:imaginaryangels
+subreddit:imaginaryelementals
+subreddit:immonsters
+subreddit:imraces
+sword
+title:graveyard angel by edward delandre
+uploader:azalann
+uploader:lol33ta
+weapon

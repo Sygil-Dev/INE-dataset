@@ -3,6 +3,7 @@
 alectorfencer
 anthro
 anthropomorphism
+artist name
 blue eyes
 booru:e621
 bunny
@@ -20,6 +21,8 @@ fingers
 fur
 furry
 genre:fantasy
+glowing
+holding
 holding object
 kemono
 medium:detailed background
@@ -56,6 +59,7 @@ title:haunter of dreams
 title:the haunter of dreams
 title:the haunter of dreams by alector fencer
 uploader:myrandall
+web address
 website:reddit
 white body
 white fur

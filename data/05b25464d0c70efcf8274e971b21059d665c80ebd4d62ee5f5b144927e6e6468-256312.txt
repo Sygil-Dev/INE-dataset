@@ -1,0 +1,27 @@
+basket
+cactus
+category:ine
+chair
+couch
+flower pot
+indoors
+ivy
+leaf
+no humans
+palm tree
+plant
+potted plant
+rating:safe
+scenery
+subreddit:imaginaryinteriors
+subreddit:imarchitecture
+table
+tanabata
+title:bed chamber
+tree
+uploader:michielvdheuvel
+vase
+vines
+water
+watering can
+window

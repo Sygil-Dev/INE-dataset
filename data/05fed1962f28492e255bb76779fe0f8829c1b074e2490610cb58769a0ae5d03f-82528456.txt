@@ -1,0 +1,33 @@
+architecture
+blue sky
+bridge
+building
+castle
+city
+cityscape
+clock
+clock tower
+cloud
+cloudy sky
+day
+east asian architecture
+flag
+gate
+hat
+horizon
+house
+mountain
+ocean
+outdoors
+pagoda
+railing
+rating:safe
+scenery
+sky
+stairs
+subreddit:imaginaryvillages
+subreddit:imarchitecture
+title:raft village by me
+tower
+uploader:jaypee2
+watercraft

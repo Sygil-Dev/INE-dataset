@@ -1,0 +1,54 @@
+architecture
+balcony
+blue sky
+bridge
+building
+bush
+castle
+chimney
+city
+cityscape
+cliff
+clock tower
+cloud
+cloudy sky
+creator:lathander1987
+day
+east asian architecture
+fantasy
+field
+floating island
+fountain
+gate
+grass
+horizon
+house
+island
+lake
+landscape
+mountain
+mountainous horizon
+no humans
+ocean
+outdoors
+pagoda
+path
+rating:safe
+river
+road
+rooftop
+ruins
+scenery
+sky
+skyline
+skyscraper
+subreddit:imaginarycityscapes
+title:the city
+title:the city by lathander1987
+tower
+town
+tree
+uploader:ultartx
+water
+waterfall
+windmill

@@ -1,0 +1,32 @@
+bench
+blue sky
+building
+bush
+city
+cloud
+cloudy sky
+day
+fence
+field
+flower field
+forest
+garden
+grass
+hill
+house
+mountain
+nature
+no humans
+outdoors
+path
+plant
+power lines
+rating:safe
+road
+scenery
+sky
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+title:pine valley trading post [source in comments]
+tree
+uploader:iqsoup

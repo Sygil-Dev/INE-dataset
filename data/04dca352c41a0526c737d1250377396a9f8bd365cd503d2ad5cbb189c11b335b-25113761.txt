@@ -9,8 +9,10 @@ booru:gelbooru
 booru:safebooru
 bow
 braid
+brooch
 category:ine
 character:peachette
+character:princess peach
 clothing:dress
 clothing:earrings
 clothing:gloves
@@ -21,6 +23,7 @@ creator:bellhenge
 crown
 dress
 earrings
+elbow gloves
 female
 gender:female
 gloves
@@ -35,6 +38,7 @@ meta:artist name
 meta:paint.net (medium)
 new super mario bros. u deluxe
 open mouth
+parted lips
 peachette
 pink background
 pink bow
@@ -42,6 +46,7 @@ pink dress
 pov
 puffy sleeves
 rating:safe
+red background
 red earrings
 series:mario (series)
 series:new super mario bros. u deluxe
@@ -54,6 +59,7 @@ studio:nintendo
 subreddit:imaginarynobles
 subreddit:imcharacters
 super crown
+teeth
 tied hair
 title:peachette
 title:peachette by bellhenge

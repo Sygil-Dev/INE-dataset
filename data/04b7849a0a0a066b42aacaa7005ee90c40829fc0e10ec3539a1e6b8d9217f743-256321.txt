@@ -1,4 +1,5 @@
 3d
+black background
 blender
 category:ine
 cell shaded
@@ -7,9 +8,11 @@ creator:nikola pavić
 game art
 medium:digital 3d
 medium:digital media
+rating:safe
 rifle
 sci-fi
 science fiction
+solo
 stylized
 subreddit:imaginaryfuturewar
 subreddit:imtechnology

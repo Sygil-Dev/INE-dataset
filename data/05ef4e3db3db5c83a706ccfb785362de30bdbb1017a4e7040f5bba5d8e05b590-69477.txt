@@ -1,0 +1,23 @@
+aircraft
+airplane
+category:ine
+gun
+helicopter
+machine gun
+mecha
+military
+military vehicle
+multiple boys
+rating:safe
+realistic
+rifle
+science fiction
+signature
+subreddit:imaginaryorcs
+subreddit:imaginarywarhammer
+subreddit:imfandoms
+subreddit:imraces
+title:warhammer 40k by morgan ketelaar-jarass
+uploader:lol33ta
+war
+weapon

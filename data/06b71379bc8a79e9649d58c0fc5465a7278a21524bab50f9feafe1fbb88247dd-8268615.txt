@@ -1,7 +1,10 @@
 4 toes
 action pose
+animal
 anisodactyl
 antlers
+bare tree
+bird
 bird feet
 booru:e621
 category:ine
@@ -22,6 +25,8 @@ hybrid wings
 membrane (anatomy)
 membranous wings
 monster
+no humans
+outdoors
 plant
 pose
 predator
@@ -30,8 +35,10 @@ prey
 prey (disambiguation)
 rabbit
 rating:safe
+realistic
 series:mythology
 snow
+snowing
 species:avian
 species:gryphon
 species:hybrid

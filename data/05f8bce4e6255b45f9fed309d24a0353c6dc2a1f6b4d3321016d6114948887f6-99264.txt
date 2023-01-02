@@ -1,8 +1,14 @@
+animal focus
 anthropomorphism
+artist name
 assasinmonkey
 beak
 beauty mark
 bird
+black background
+blurry
+blurry background
+blurry foreground
 brown eyes
 captain celaeno
 captaincelaeno
@@ -16,26 +22,35 @@ clothing:headwear
 cream body
 creator:assasinmonkey
 cute
+depth of field
+earrings
 feathers
 female
+fur collar
+fur trim
 gender:female
 hat
 jacket
 jewelry
+leaf
 medium:black background
 medium:simple background
 mlpfim
 mlpmovie
 mlpthemovie2017
+motion blur
 my little pony:the movie
 mylittleponyfriendshipismagic
+no humans
 open mouth
 pirate
 rating:safe
+realistic
 safe
 series:mlp:generation 4
 series:mlp:the movie
 series:my little pony
+signature
 small res
 solo
 species:avian

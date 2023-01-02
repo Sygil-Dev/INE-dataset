@@ -1,0 +1,22 @@
+alley
+arch
+architecture
+bridge
+building
+category:ine
+city
+cityscape
+clock
+fantasy
+library
+outdoors
+rating:safe
+road
+scenery
+skyscraper
+street
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+title:chinatown by nikolai lockertsen
+tower
+uploader:nitemyria

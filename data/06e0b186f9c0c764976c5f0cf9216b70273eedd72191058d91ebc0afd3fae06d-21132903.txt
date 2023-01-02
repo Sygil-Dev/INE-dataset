@@ -6,12 +6,14 @@ booru:gelbooru
 booru:safebooru
 bug
 butterfly
+butterfly wings
 character:beedrill
 character:butterfree
 character:caterpie
 character:kakuna
 character:metapod
 character:weedle
+colored sclera
 commentary
 creator:francis lumanog
 creature
@@ -21,12 +23,16 @@ eye contact
 fangs
 flying
 francis lumanog
+full body
 gen 1 pokemon
+gradient
+happy
 holding
 holding pokemon
 horn
 horns
 insect
+insect wings
 looking at another
 medium:simple background
 medium:white background
@@ -64,3 +70,4 @@ subreddit:imfandoms
 title:beedrill and butterfree families by francis-john
 uploader:lol33ta
 white background
+wings

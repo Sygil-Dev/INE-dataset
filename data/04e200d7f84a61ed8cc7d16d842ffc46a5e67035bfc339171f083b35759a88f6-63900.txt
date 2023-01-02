@@ -1,12 +1,27 @@
+battle
+burning
 category:ine
 chaos
 creator:diego gisbert llorens
+embers
 eternal crusade
+explosion
+fire
+firing
+glowing
+glowing eyes
 group
+gun
+holding gun
 legion
+mecha
 medium:digital 2d
 mmo
+rating:safe
+realistic
 rhino
+ruins
+science fiction
 series:warhammer 40,000
 space marine
 species:raptor
@@ -19,3 +34,4 @@ traitor
 uploader:adverserius
 warband
 warhammer
+weapon

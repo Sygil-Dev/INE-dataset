@@ -1,0 +1,21 @@
+architecture
+bridge
+building
+city
+city lights
+cityscape
+cloud
+fire
+no humans
+rating:safe
+red sky
+scenery
+sky
+skyscraper
+star (sky)
+subreddit:imaginarywarships
+sunset
+title:hms ‘vindictive’ at zeebrugge by charles de lacey, 23 april 1918. original source in comments.
+tower
+tree
+uploader:kapitankurt

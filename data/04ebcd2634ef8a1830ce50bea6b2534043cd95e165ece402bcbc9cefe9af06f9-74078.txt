@@ -1,0 +1,30 @@
+aiming
+arrow (projectile)
+artist name
+bow (weapon)
+branch
+bush
+category:ine
+foliage
+forest
+grass
+holding
+horns
+jungle
+leaf
+moss
+nature
+outdoors
+overgrown
+plant
+pointy ears
+rating:safe
+realistic
+solo
+subreddit:imaginaryarchers
+subreddit:imcharacters
+title:dwynen, gilt-leaf daen by steven belledin
+tree
+uploader:hvitserkr
+vines
+weapon

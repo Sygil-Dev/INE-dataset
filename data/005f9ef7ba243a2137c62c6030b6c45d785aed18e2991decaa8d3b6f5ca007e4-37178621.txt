@@ -64,6 +64,7 @@ rating:mature
 rating:nudity
 rating:q
 rating:questionable
+rating:safe
 red hair
 redhead
 series:original

@@ -1,0 +1,24 @@
+architecture
+building
+category:ine
+city
+cityscape
+house
+no humans
+outdoors
+rating:safe
+road
+scenery
+sky
+skyscraper
+street
+subreddit:imaginarybestof
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+subreddit:immeta
+title:[/r/imaginarydwellings] triumphal return by jacek yerka
+title:triumphal return by artist jacek yerka
+tower
+tree
+uploader:anon_ymou5
+uploader:lol33ta

@@ -1,0 +1,28 @@
+armor
+axe
+battle
+category:ine
+creator:李 瑞安
+gun
+hat
+helmet
+holding
+holding weapon
+multiple boys
+polearm
+rating:safe
+spear
+subreddit:imaginarybattlefields
+subreddit:imaginarydemons
+subreddit:imaginarygiants
+subreddit:imlandscapes
+subreddit:immonsters
+subreddit:imraces
+sword
+title:chaos invasion by xiondueng li
+title:chaos invasion xiondueng li
+title:混沌入侵 混鼎之乱
+title:混沌入侵 混鼎之乱 by xiondueng li
+uploader:azalann
+uploader:net-diver
+weapon

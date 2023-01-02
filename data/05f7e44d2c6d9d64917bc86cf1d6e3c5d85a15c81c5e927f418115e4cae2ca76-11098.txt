@@ -39,6 +39,7 @@ female only
 femdom
 femsub
 footwear
+gag
 games
 gender:female
 genre:bdsm
@@ -53,6 +54,7 @@ large breasts
 latex
 lawson
 leather
+long hair
 mass effect
 miranda
 mouth
@@ -77,6 +79,7 @@ rating:contains female nudity
 rating:e
 rating:explicit
 rating:mature
+rating:questionable
 rating:sexual content
 red hair
 restrained
@@ -86,7 +89,9 @@ series:mass effect
 series:mass effect 2
 shiny
 shiny suit
+short hair
 sissy
+skin tight
 studio:blizzard entertainment
 studio:capcom
 studio:dc comics

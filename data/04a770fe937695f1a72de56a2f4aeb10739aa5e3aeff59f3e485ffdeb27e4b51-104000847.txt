@@ -1,0 +1,44 @@
+acrylic paint (medium)
+architecture
+brick wall
+bridge
+building
+bush
+castle
+chain-link fence
+chimney
+city
+cityscape
+colored pencil (medium)
+day
+door
+fence
+field
+flower
+forest
+garden
+grass
+house
+lamppost
+nature
+no humans
+outdoors
+painting (medium)
+park
+path
+pavement
+plant
+rating:safe
+river
+road
+scenery
+sky
+subreddit:imaginarydwellings
+title:the burrow by lhox
+tower
+town
+traditional media
+tree
+tree stump
+uploader:[deleted]
+windmill

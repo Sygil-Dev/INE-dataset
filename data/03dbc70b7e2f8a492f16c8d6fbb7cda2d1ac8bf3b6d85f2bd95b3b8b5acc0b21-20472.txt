@@ -1,0 +1,29 @@
+battle
+bow (weapon)
+breathing fire
+burning
+campfire
+category:ine
+character:samus aran
+cloud
+explosion
+fire
+firing
+flame
+flaming sword
+flaming weapon
+gun
+holding weapon
+mecha
+molten rock
+rating:safe
+realistic
+subreddit:imaginarybattlefields
+subreddit:imlandscapes
+sunset
+sword
+title:starfinder by viktor mukhin
+torch
+uploader:lol33ta
+volcano
+weapon

@@ -1,0 +1,38 @@
+beach
+bird
+boat
+bridge
+city
+cityscape
+cloud
+cloudy sky
+dusk
+evening
+fire
+gradient sky
+horizon
+horse
+lake
+landscape
+mountain
+mountainous horizon
+ocean
+orange sky
+outdoors
+rating:safe
+red sky
+river
+scenery
+sky
+subreddit:imaginarycastles
+subreddit:imarchitecture
+sun
+sunrise
+sunset
+title:the edge and the tower by artist roberto robert
+tower
+twilight
+uploader:anon_ymou5
+water
+watercraft
+weapon

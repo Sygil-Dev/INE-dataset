@@ -1,17 +1,24 @@
+1girl
 ambiguous gender
 art
+artist name
 booru:e621
 category:ine
 claws
 creator:svetlin velinov
 creator:velinov
+dated
 duo
 gender:ambiguous
 gender:male
+grass
+holding
+holding weapon
 macro
 male
 melee weapon
 meta:official art
+monster
 polearm
 rating:safe
 sea
@@ -30,9 +37,12 @@ studio:hasbro
 studio:wizards of the coast
 subreddit:imaginaryleviathans
 subreddit:immonsters
+sword
+teeth
 tentacles
 title:kraken of the depths
 title:shipbreaker kraken by svetlin velinov
 uploader:tamander
 water
+watermark
 weapon

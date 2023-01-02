@@ -1,0 +1,39 @@
+beach
+blue sky
+boat
+bridge
+category:ine
+city
+cliff
+cloud
+cloudy sky
+day
+fantasy
+forest
+horizon
+island
+lake
+landscape
+mountain
+mountainous horizon
+nature
+no humans
+ocean
+outdoors
+pier
+planet
+rating:safe
+river
+rock
+scenery
+shore
+sky
+subreddit:imaginarydinosaurs
+subreddit:immonsters
+title:crique by florent llamas
+tree
+uploader:nitemyria
+water
+watercraft
+waterfall
+waves

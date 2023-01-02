@@ -1,0 +1,30 @@
+beach
+category:ine
+cliff
+cloud
+cloudy sky
+day
+desert
+horizon
+landscape
+lens flare
+light rays
+mountain
+mountainous horizon
+no humans
+outdoors
+rating:safe
+rock
+sand
+scenery
+sky
+subreddit:imaginarytemples
+subreddit:imarchitecture
+sun
+sunbeam
+sunlight
+sunrise
+sunset
+title:pinnacle temple by andrew bosley
+uploader:lol33ta
+water

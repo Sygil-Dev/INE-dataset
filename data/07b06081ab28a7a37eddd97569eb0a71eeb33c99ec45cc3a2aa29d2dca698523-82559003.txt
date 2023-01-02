@@ -2,16 +2,26 @@
 anatomy
 armor
 art
+bald
+beard
 character
 cloth
 creator:massimiliano bianchini
 face
+facial hair
 geralt
 geraltofrivia
+greyscale
+grin
 leather
 medium:digital 3d
 metal
+multiple boys
 netflix
+old
+old man
+pointy ears
+rating:safe
 realistic
 sculpt
 sculpture
@@ -23,5 +33,7 @@ texture
 thewicther
 title:geralt of rivia | butcher of blaviken
 title:geralt of rivia | butcher of blaviken, massimiliano bianchini
+ugly man
 uploader:a_good_hunter
 witcher
+wrinkled skin

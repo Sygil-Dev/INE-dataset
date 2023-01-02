@@ -1,0 +1,33 @@
+architecture
+beach
+building
+bush
+city
+cityscape
+cloud
+cloudy sky
+flower
+gradient sky
+grass
+house
+landscape
+mountain
+no humans
+outdoors
+palm tree
+plant
+potted plant
+rating:safe
+road
+scenery
+sky
+subreddit:imaginarylandscapes
+sun
+sunlight
+sunset
+title:coffee by the sea by jared magneson
+tower
+tree
+twilight
+uploader:one_giant_nostril
+water

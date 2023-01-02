@@ -1,6 +1,7 @@
 adobe
 ambiguous gender
 ambiguous_gender
+artist name
 artist:tsaoshin
 booru:e621
 category:ine
@@ -12,14 +13,17 @@ cute
 digital
 ericproctor
 feral
+full body
 furry
 gen 1 pokemon
 gen 1 pokémon
 gender:ambiguous
 gottadrawthemall
+gradient background
 grass
 ivysaur
 kanto
+leaf
 looking at viewer
 looking_at_viewer
 medium:1:1 aspect ratio
@@ -28,17 +32,22 @@ meta:1:1
 meta:2016
 meta:digital media (artwork)
 meta:digital_media_(artwork)
+no humans
 one eye closed
 one_eye_closed
 painting
+palm tree
 photoshop
 plant
 pokemon
+pokemon (creature)
 pool:15535
 pov
 rating:safe
+red eyes
 series:nintendo
 series:pokémon
+signature
 sketch
 solo
 species:elemental creature
@@ -51,12 +60,14 @@ species:pokémon
 species:pokémon (species)
 species:pokémon_(species)
 species:scalie
+standing
 starter
 studio:nintendo
 subreddit:imaginarygaming
 subreddit:imfandoms
 title:002 - ivysaur
 title:"ivysaur" by eric proctor
+tree
 tsaoshin
 type
 uploader:torvusil

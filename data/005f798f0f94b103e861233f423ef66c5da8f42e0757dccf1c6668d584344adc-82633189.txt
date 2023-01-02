@@ -1,0 +1,29 @@
+architecture
+bird
+bridge
+building
+city
+cityscape
+clock tower
+cloud
+east asian architecture
+evening
+gradient sky
+no humans
+orange sky
+outdoors
+pagoda
+rating:safe
+red sky
+scenery
+sky
+skyscraper
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+sunset
+title:dreamhouse: aloft by sean andrew murray
+tower
+traditional media
+twilight
+uploader:blood-n-cheese
+water

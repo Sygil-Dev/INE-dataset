@@ -1,0 +1,24 @@
+arrow (projectile)
+blue sky
+bow (weapon)
+category:ine
+cloud
+day
+desert
+drawing bow
+holding bow (weapon)
+horse
+outdoors
+quiver
+rating:safe
+reins
+saddle
+sand
+signature
+sky
+solo
+subreddit:imaginaryarchers
+subreddit:imcharacters
+title:aby by alexandra gaudibuendia khitrova
+uploader:tamander
+weapon

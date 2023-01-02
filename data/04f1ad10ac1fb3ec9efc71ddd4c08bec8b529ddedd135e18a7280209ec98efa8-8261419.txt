@@ -1,5 +1,6 @@
 anime
 asia
+beamed eighth notes
 car
 category:ine
 city
@@ -9,17 +10,26 @@ creator:rashed alakroka ✦
 cyberpunk
 cyborg
 dynamic
+eighth note
 girl
+greyscale
 ground vehicle
 gun
 japan
 medium:digital 2d
+monochrome
 motor vehicle
+musical note
 pose
 race
+rating:safe
 reload
 scifi
 shootout
+silk
+sketch
+spider web
+staff (music)
 styalized
 subreddit:imaginarymonstergirls
 subreddit:immonsters
@@ -29,4 +39,5 @@ tokyo
 uploader:net-diver
 vehicle
 weapon
+white background
 woman
