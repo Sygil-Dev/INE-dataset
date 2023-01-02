@@ -1,0 +1,20 @@
+battle
+bow (weapon)
+category:ine
+holding weapon
+monster
+open mouth
+oversized animal
+rating:safe
+realistic
+sharp teeth
+subreddit:imaginarybehemoths
+subreddit:imaginarywarhammer
+subreddit:imaginarywarriors
+subreddit:imfandoms
+teeth
+title:"the hunt" by tze kun chin 陈志堃
+title:the hunt by tze kun chin 陈志堃
+uploader:levthered
+uploader:pyro_azer
+weapon
