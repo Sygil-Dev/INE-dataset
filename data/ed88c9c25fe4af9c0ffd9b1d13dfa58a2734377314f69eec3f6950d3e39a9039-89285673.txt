@@ -8,6 +8,7 @@ half-orc
 medium:digital 2d
 orc
 ratfolk
+subreddit:imaginarydemons
 subreddit:imaginaryfood
 subreddit:imaginaryinteriors
 subreddit:imaginarymonstergirls
@@ -22,7 +23,9 @@ tavern
 title:legends and lattes - bookcover
 title:legends and lattes - cover by carson daniel lowmiller
 title:legends and lattes by carson lowmiller
+title:legends and lattes, by carson lowmiller
 uploader:henry-cavills-butt
 uploader:lol33ta
 uploader:myrandall
 uploader:standyourground10
+uploader:sylvyrfyre

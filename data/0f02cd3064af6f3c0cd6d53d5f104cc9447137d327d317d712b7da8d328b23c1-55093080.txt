@@ -3,27 +3,39 @@
 alternate weapon
 animal hood
 animal print
+bangs
 black legwear
 black skirt
 blue background
+blue sky
 booru:safebooru
 booru:sankaku channel
+breasts
 brown eyes
 brown hair
+brown legwear
 bunny hood
 bunny print
 casual
 character:d.va (overwatch)
 character:hana "d.va" song
+chewing gum
 colored nails
+cowboy shot
 creator:mike nesbitt
 creator:vashperado
+day
+drawstring
 english commentary
+facepaint
+facial mark
 from side
 gender:female
 glowing
 glowing sword
 glowing weapon
+gradient
+gradient background
 hair over shoulder
 hairband
 hand in pocket
@@ -33,11 +45,16 @@ holding sword
 holding weapon
 hood
 hood down
+hooded jacket
 hoodie
 in profile
+jacket
 katana
 long hair
+long sleeves
+looking at viewer
 markings
+medium breasts
 medium:blue background
 meta:commentary
 meta:english commentary
@@ -46,19 +63,27 @@ meta:paid reward
 meta:patreon reward
 miniskirt
 nail polish
+nose
 pink hairband
+pink hoodie
+pink lips
 pink nails
 pleated skirt
 rating:explicit
 rating:safe
 series:genji
 series:overwatch
+signature
 site:discord
 skirt
+sky
+smile
 solo
+standing
 studio:blizzard entertainment
 subreddit:imaginaryoverwatch
 subreddit:imfandoms
+swept bangs
 sword
 thigh-highs
 thighhighs
@@ -68,3 +93,4 @@ title:casual dva commission
 uploader:myrandall
 weapon
 whisker markings
+zettai ryouiki
