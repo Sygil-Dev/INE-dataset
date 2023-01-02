@@ -4,8 +4,10 @@ armor
 artist:ming yee sheh
 bodily fluids
 bridge
+building
 cable
 character:eva 01
+city
 copyright:neon genesis evangelion
 creator:ming yee sheh
 drooling
@@ -18,14 +20,17 @@ mecha
 meta:photoshop (medium)
 ming yee sheh
 monster
+outdoors
 people
 rating:mature
 rating:safe
 realistic
 saliva
+scenery
 science fiction
 series:neon genesis evangelion
 signature
+skyscraper
 species:alien
 subreddit:imaginarybehemoths
 teeth

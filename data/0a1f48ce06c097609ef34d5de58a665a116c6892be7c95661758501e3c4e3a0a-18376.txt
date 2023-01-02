@@ -8,6 +8,7 @@ creator:luis alfonso antoranz ros
 laar
 medium:digital 3d
 photoshop
+rating:safe
 science fiction
 space
 spaceman
