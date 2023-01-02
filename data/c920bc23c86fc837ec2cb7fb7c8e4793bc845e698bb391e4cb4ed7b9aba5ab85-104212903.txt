@@ -1,0 +1,25 @@
+black border
+border
+caterpillar tracks
+cloud
+cloudy sky
+ground vehicle
+letterboxed
+military
+military vehicle
+motor vehicle
+no humans
+ocean
+pillarboxed
+rating:safe
+red border
+scenery
+sky
+smoke
+subreddit:imaginaryvessels
+tank
+title:'winter power on the detroit' by mike newland.
+tower
+uploader:kapitankurt
+water
+watercraft

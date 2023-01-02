@@ -5,6 +5,7 @@ bare legs
 bare shoulders
 barefoot
 black hair
+brown hair
 clothing:dress
 clothing:earrings
 clothing:necklace
@@ -15,6 +16,7 @@ dress
 earrings
 feet
 gender:female
+green eyes
 hand on head
 jewelry
 legs
@@ -25,6 +27,7 @@ necklace
 on floor
 on the floor
 orange hair
+pillow
 rating:safe
 red dress
 subreddit:imaginarylesboners

@@ -3,15 +3,19 @@ creator:astri lohne
 fantasy
 medium:digital 2d
 subreddit:imaginaryassassins
+subreddit:imaginaryazeroth
 subreddit:imaginaryhumans
 subreddit:imaginaryknights
 subreddit:imaginarypets
+subreddit:imaginarywarriors
 subreddit:imcharacters
 subreddit:immeta
 subreddit:imraces
+title:"leidora" by astri lohne
 title:elven knight by astri lohne
 title:leidora
 title:leidora by astri lohne
 uploader:net-diver
+uploader:pyro_azer
 uploader:spirtomb1831
 world of warcraft

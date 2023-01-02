@@ -1,0 +1,36 @@
+architecture
+bridge
+building
+castle
+category:ine
+city
+city lights
+cityscape
+cloud
+cloudy sky
+dusk
+evening
+fantasy
+fire
+gradient sky
+house
+mountain
+no humans
+orange sky
+outdoors
+rating:safe
+river
+scenery
+sky
+subreddit:imaginaryautumnscapes
+subreddit:imaginarycastles
+subreddit:imarchitecture
+subreddit:imlandscapes
+sun
+sunset
+title:"dagas: puente de segovia" by pablo mendoza peces
+tower
+tree
+twilight
+uploader:pyro_azer
+website:reddit

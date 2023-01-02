@@ -1,0 +1,25 @@
+architecture
+bridge
+building
+bush
+city
+cityscape
+day
+gate
+grass
+house
+lamppost
+outdoors
+overgrown
+rating:safe
+road
+ruins
+scenery
+sky
+street
+subreddit:imaginaryvillages
+subreddit:imarchitecture
+title:rural town by artist david noren
+tower
+tree
+uploader:anon_ymou5

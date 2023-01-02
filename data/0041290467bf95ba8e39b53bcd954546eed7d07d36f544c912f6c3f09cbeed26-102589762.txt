@@ -1,0 +1,31 @@
+bird
+bridge
+building
+city
+city lights
+cityscape
+cloud
+cloudy sky
+evening
+flock
+gradient sky
+horizon
+mountain
+no humans
+orange sky
+outdoors
+rating:safe
+river
+scenery
+sky
+skyline
+skyscraper
+subreddit:imaginaryfuturism
+sun
+sunlight
+sunset
+title:"latala city" by artist raphael lacoste
+tower
+twilight
+uploader:anon_ymou5
+water

@@ -1,0 +1,25 @@
+1other
+architecture
+bird
+bridge
+building
+castle
+city
+cityscape
+cloud
+cloudy sky
+day
+mountain
+outdoors
+rating:safe
+river
+ruins
+scenery
+sky
+skyscraper
+subreddit:imaginarytemples
+title:winter by ivan laliashvili
+tower
+uploader:crowe410
+water
+waterfall

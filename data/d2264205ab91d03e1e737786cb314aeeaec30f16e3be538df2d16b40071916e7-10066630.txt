@@ -33,8 +33,11 @@ species:mythological avian
 species:mythological bird
 species:mythological firebird
 species:phoenix
+subreddit:imaginaryelementals
 subreddit:imaginarymythology
 subreddit:imcharacters
 title:phoenix by genzoman
+title:phoenix by gonzalo ordóñez arias (genzoman)
+uploader:killerbunnyfamily
 uploader:lol33ta
 wings

@@ -1,0 +1,26 @@
+1boy
+armor
+beard
+belt
+boots
+cape
+facial hair
+fire
+gender:male
+gloves
+magic
+male focus
+mustache
+old
+old man
+rating:safe
+solo
+staff
+standing
+subreddit:imaginarydruids
+subreddit:imaginarymen
+subreddit:imaginarywizards
+title:beastmaster by craig j spearing
+uploader:killerbunnyfamily
+weapon
+wizard

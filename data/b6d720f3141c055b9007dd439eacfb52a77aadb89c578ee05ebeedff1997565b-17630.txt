@@ -1,0 +1,20 @@
+category:ine
+creator:bram sels
+medium:digital 2d
+mtg
+species:mammal
+species:rodent
+species:squirrel
+subreddit:imaginaryhybrids
+subreddit:imaginarymerchants
+subreddit:imaginarywtf
+subreddit:immeta
+subreddit:immonsters
+subreddit:imnsfw
+title:'squirrel dealer' by bram sels
+title:squirrel dealer
+title:squirrel dealer by bram sels
+unstable
+uploader:faeryknight
+uploader:jaykirsch
+uploader:myrandall

@@ -1,6 +1,7 @@
 1boy
 animal
 animal ears
+artist name
 bald
 blurry
 blurry background
@@ -14,11 +15,14 @@ looking at viewer
 male focus
 meta:highres
 multicolored background
+no humans
 on shoulder
 rating:safe
+realistic
 red cape
 series:avatar (series)
 signature
+solo
 subreddit:imaginarypets
 subreddit:immeta
 tail

@@ -1,0 +1,25 @@
+1 female
+1girl
+category:ine
+creator:ikeda masateru
+creator:masateru
+fairy
+gender:female
+indoors
+instrument
+lips
+meta:commentary
+meta:photoshop (medium)
+musical instrument
+rating:safe
+rating:sensitive
+series:original
+silhouette
+species:fairy
+species:mythical
+subreddit:imaginaryfaeries
+subreddit:imraces
+title:10
+title:10, by masateru ikeda (crossposted from /r/imaginaryartists)
+uploader:belledame-sans-serif
+violin

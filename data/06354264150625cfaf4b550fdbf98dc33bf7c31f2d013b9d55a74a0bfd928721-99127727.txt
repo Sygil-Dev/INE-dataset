@@ -1,0 +1,38 @@
+bird
+blue sky
+bridge
+building
+bush
+castle
+city
+cliff
+cloud
+cloudy sky
+day
+fantasy
+field
+floating island
+flower
+grass
+horizon
+house
+lake
+landscape
+mountain
+mountainous horizon
+nature
+no humans
+outdoors
+path
+rating:safe
+river
+road
+scenery
+sky
+subreddit:imaginarycastles
+title:风格练习 by chenxianlong
+tower
+tree
+uploader:mr_nobody96
+water
+waterfall

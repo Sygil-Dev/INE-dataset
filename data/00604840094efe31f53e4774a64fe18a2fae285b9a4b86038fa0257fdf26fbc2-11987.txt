@@ -1,17 +1,40 @@
 1914
 1918
 battle
+breathing fire
+burning
 category:ine
+city
 creator:joakim ericsson
 desperate
+destruction
+electricity
+embers
+explosion
+fire
+firing
+flame
+flaming sword
+flaming weapon
 force
 front line
 genre:science fiction
+giant
+helicopter
 hour
 invasion
+light rays
+lightning
+magic
+mecha
 medium:digital 2d
+monster
+muzzle flash
 of
 old
+rating:safe
+science fiction
+sparks
 species:alien
 study
 style
@@ -21,9 +44,12 @@ subreddit:imaginarysoldiers
 subreddit:imcharacters
 subreddit:imlandscapes
 subreddit:imraces
+sun
+sunset
 the
 title:war of the worlds
 title:war of the worlds by joakim ericsson
+torch
 trenches
 tripod
 uploader:faeryknight
@@ -31,6 +57,7 @@ uploader:lol33ta
 uploader:silverlocker
 uploader:spoon_artillery
 war
+weapon
 wells
 worlds
 ww1

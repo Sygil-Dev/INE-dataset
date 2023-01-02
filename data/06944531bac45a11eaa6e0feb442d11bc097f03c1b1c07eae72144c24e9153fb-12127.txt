@@ -1,0 +1,23 @@
+aircraft
+assault rifle
+building
+category:ine
+city
+cyberpunk
+gun
+letterboxed
+military
+rain
+rating:safe
+rifle
+ruins
+science fiction
+skyscraper
+space craft
+subreddit:imaginaryassassins
+subreddit:imaginaryfactories
+subreddit:imarchitecture
+subreddit:imcharacters
+title:assassination by cheng gu
+uploader:valar_m0rghul1s
+weapon

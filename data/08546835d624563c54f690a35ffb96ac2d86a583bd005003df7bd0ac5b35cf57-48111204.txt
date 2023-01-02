@@ -26,6 +26,7 @@ hood
 hooded jacket
 hoodie
 jacket
+light particles
 long hair
 long sleeves
 looking at viewer
@@ -33,19 +34,29 @@ lying
 lying on person
 meta:absurdres
 meta:highres
+multiple girls
+night
+night sky
 pants
 pixiv
 pixiv id:418969
 pixiv work:83173805
 point of view
+rating:safe
 rating:sensitive
 series:satsuriku no tenshi
+shooting star
 short hair
 sitting
+sky
+space
+star (sky)
+starry sky
 subreddit:imaginaryangels
 subreddit:imraces
 title:מכשפה מלאך
 title:מכשפה מלאך by tidsean0
+twintails
 uploader:musaibwadkar
 very long hair
 white wings

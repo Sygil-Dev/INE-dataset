@@ -139,6 +139,7 @@ species:taur
 species:unknown species
 species:unknown_species
 subreddit:imaginarycentaurs
+subreddit:imaginarymonstergirls
 subreddit:imraces
 tail
 taur
@@ -152,6 +153,7 @@ two_tone_body
 two_tone_fur
 unknown species
 uploader:myrandall
+uploader:n0laloth
 white body
 white feathers
 white fur
