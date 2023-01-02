@@ -1,0 +1,27 @@
+architecture
+bird
+bridge
+building
+castle
+city
+city lights
+cityscape
+cloud
+no humans
+outdoors
+post-apocalypse
+rating:safe
+river
+scenery
+sky
+skyline
+skyscraper
+subreddit:imaginarycastles
+subreddit:imarchitecture
+title:castles by artist jean-francois liesenborghs
+tokyo (city)
+tower
+tree
+uploader:anon_ymou5
+water
+waterfall

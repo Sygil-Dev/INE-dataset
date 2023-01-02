@@ -1,10 +1,14 @@
 army
 battering ram
+blue sky
 booru:e621
+castle
 category:ine
 cloud
+cloudy sky
 creator:filip burburan
 day
+desert
 desolate
 feral
 group
@@ -12,10 +16,14 @@ macro
 melee weapon
 meta:official art
 meta:signature
+mountain
+no humans
+outdoors
 outside
 polearm
 quadruped
 rating:safe
+realistic
 series:hasbro
 series:magic: the gathering
 series:official art
@@ -33,5 +41,6 @@ studio:wizards of the coast
 subreddit:imaginarybehemoths
 subreddit:immonsters
 title:gate smasher by filip burburan
+tower
 uploader:faeryknight
 weapon

@@ -1,0 +1,35 @@
+architecture
+blue sky
+bridge
+building
+bush
+cloud
+cloudy sky
+day
+fence
+forest
+grass
+house
+landscape
+moss
+mountain
+mountainous horizon
+nature
+no humans
+outdoors
+path
+plant
+rating:safe
+river
+road
+rock
+scenery
+shrine
+sky
+subreddit:imaginaryvillages
+subreddit:imarchitecture
+title:life in the valley by artist lorenzo lanfranconi
+tree
+uploader:anon_ymou5
+water
+waterfall
