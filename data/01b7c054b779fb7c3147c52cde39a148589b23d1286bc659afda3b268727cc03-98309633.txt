@@ -1,0 +1,22 @@
+beach
+boat
+border
+horizon
+island
+lake
+letterboxed
+mountain
+ocean
+outdoors
+rating:safe
+realistic
+river
+scenery
+ship
+sky
+subreddit:imaginarycastles
+subreddit:imarchitecture
+title:castle fantastic cover (1995) by john howe
+uploader:yannirotten
+water
+watercraft

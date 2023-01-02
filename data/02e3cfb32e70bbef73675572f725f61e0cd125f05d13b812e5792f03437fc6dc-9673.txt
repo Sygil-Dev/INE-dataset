@@ -1,0 +1,27 @@
+architecture
+bridge
+building
+castle
+category:ine
+city
+cityscape
+cloud
+cloudy sky
+day
+fantasy
+mountain
+no humans
+outdoors
+rating:safe
+ruins
+scenery
+sky
+subreddit:imaginaryarchitecture
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+title:the metropolis by yura gvozdenko
+tower
+tree
+uploader:kuaiban
+uploader:natezomby
+waterfall

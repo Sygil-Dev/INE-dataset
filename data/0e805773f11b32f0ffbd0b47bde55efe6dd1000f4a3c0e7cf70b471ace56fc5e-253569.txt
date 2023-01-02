@@ -1,0 +1,48 @@
+architecture
+bamboo
+bare tree
+beach
+blue sky
+branch
+building
+bush
+category:ine
+city
+cityscape
+cloud
+coconut
+day
+desert
+evening
+gradient sky
+house
+ivy
+jungle
+lamppost
+leaf
+no humans
+outdoors
+palm leaf
+palm tree
+pine tree
+plant
+potted plant
+rating:safe
+road
+scenery
+sky
+stairs
+subreddit:imaginarydeserts
+subreddit:imaginarytemples
+subreddit:imarchitecture
+subreddit:imnature
+sunset
+tanabata
+tanzaku
+title:oasis by tobias koepp
+tower
+tree
+tree shade
+twilight
+uploader:natezomby
+winter

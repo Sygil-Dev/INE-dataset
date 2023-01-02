@@ -1,0 +1,38 @@
+artist name
+blue sky
+building
+castle
+category:ine
+cliff
+cloud
+cloudy sky
+copyright name
+day
+grass
+horizon
+lake
+landscape
+mountain
+mountainous horizon
+nature
+no humans
+ocean
+outdoors
+rating:safe
+river
+rock
+scenery
+sky
+subreddit:imaginaryruins
+subreddit:imarchitecture
+sunbeam
+sunrise
+sunset
+title:castle garenbrig by adam paquette
+tower
+tree
+uploader:[deleted]
+uploader:faeryknight
+water
+waterfall
+watermark

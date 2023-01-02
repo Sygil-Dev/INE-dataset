@@ -1,0 +1,24 @@
+armor
+category:ine
+character:hunter (bloodborne)
+cloud
+cloudy sky
+coat
+dual wielding
+holding
+holding sword
+holding weapon
+outdoors
+rating:safe
+sky
+standing
+subreddit:imaginarybehemoths
+subreddit:imaginarygiants
+subreddit:immonsters
+subreddit:imraces
+sword
+title:"celestial" by zhihui su
+title:celestial by zhihui su
+uploader:o-shi
+uploader:pyro_azer
+weapon

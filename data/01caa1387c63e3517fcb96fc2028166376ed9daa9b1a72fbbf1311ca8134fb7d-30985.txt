@@ -1,16 +1,23 @@
+1girl
+?
+air bubble
 ambiguous_gender
 ariel
 art
 artist:tsaoshin
 blue body
+blue eyes
 blue scales
 blue_body
 blue_scales
 booru:e621
+breasts
 bubble
+bubble blowing
 category:ine
 character:ariel_(disney)
 character:princess ariel
+cleavage
 collab
 collaboration
 colorful
@@ -27,6 +34,7 @@ eeveelution
 ericproctor
 eyebrows
 feral
+fish
 flyingfox
 game
 gen 1 pokémon
@@ -42,12 +50,14 @@ long hair
 long_hair
 luvdisc
 magikarp
+makeup
 mashup
 mermaid
 meta:2:3
 meta:2017
 meta:hi_res
 meta:signature
+monster girl
 movie
 nintendo
 ocean
@@ -55,21 +65,26 @@ open mouth
 open_mouth
 painting
 plant
+poke ball
 pokemon
+pokemon (creature)
 poké ball
 pokéball
 rating:safe
 red body
 red hair
+red lips
 red scales
 red_body
 red_hair
 red_scales
 scales
 sea
+seaweed
 series
 series:pokémon
 series:the little mermaid
+shell bikini
 smile
 source:e621
 species:eeveelution
@@ -91,6 +106,7 @@ studio:nintendo
 subreddit:imaginarydisney
 subreddit:imfandoms
 sunsetdragon
+swimming
 timelapse
 title:the little vaporeon
 title:the little vaporeon by eric proctor

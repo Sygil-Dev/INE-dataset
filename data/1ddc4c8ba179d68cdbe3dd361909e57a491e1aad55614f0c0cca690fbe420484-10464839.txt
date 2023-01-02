@@ -1,0 +1,21 @@
+category:ine
+creator:sirtiefling
+eldar
+farseer
+filename:1492538008807
+gender:female
+inside ships
+series:warhammer
+series:warhammer 40,000
+sirtiefling
+site:4chan.org
+studio:games workshop
+subreddit:imaginarywarhammer
+subreddit:imfandoms
+sword
+title:"eldar farseer" by sirtiefling
+title:eldar farseer
+title:eldar farseer (by sirtiefling)
+uploader:austria9000
+uploader:the-great-white-rat
+weapon

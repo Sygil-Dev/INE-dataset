@@ -1,5 +1,9 @@
+1girl
 2018
 artist:assasinmonkey
+blurry
+blurry background
+blurry foreground
 booru:e621
 bow
 braid
@@ -15,6 +19,7 @@ copyright:friendship_is_magic
 copyright:my_little_pony
 creator:assasinmonkey
 day
+depth of field
 digital media (artwork)
 digital painting (artwork)
 female
@@ -22,6 +27,7 @@ feral
 forest
 gender:female
 genre:fantasy
+grass
 green eyes
 hi res
 hooves
@@ -37,10 +43,14 @@ meta:digital_painting_(artwork)
 meta:hi res
 meta:hi_res
 mlpfim
+motion blur
 mylittleponyfriendshipismagic
+nature
+outdoors
 outside
 plant
 rating:safe
+red hair
 series:friendship is magic
 series:hasbro
 series:mlp:generation 4

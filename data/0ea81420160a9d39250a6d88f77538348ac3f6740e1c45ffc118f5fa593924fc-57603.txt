@@ -1,0 +1,21 @@
+armor
+breastplate
+category:ine
+full armor
+full body
+gauntlets
+greaves
+helmet
+male focus
+pauldrons
+rating:safe
+shoulder armor
+simple background
+solo
+standing
+subreddit:imaginaryknights
+subreddit:imcharacters
+title:knight by junq jeon
+uploader:lol33ta
+weapon
+white background

@@ -1,0 +1,35 @@
+armor
+bush
+day
+field
+flower
+flower field
+garden
+grass
+ivy
+jungle
+leaf
+moss
+mushroom
+nature
+no humans
+outdoors
+overgrown
+plant
+pot
+potted plant
+rating:safe
+rock
+scenery
+signature
+subreddit:imaginaryknights
+subreddit:imcharacters
+sword
+title:an oath unbroken by thegreaterdesign
+tombstone
+tree
+tree stump
+uploader:ultartx
+vines
+watering can
+weapon

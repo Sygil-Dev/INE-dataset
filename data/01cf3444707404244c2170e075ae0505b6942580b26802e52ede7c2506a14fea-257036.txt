@@ -11,6 +11,7 @@ android_a2
 areola
 areolae
 armband
+armlet
 armwear
 ass
 bare ass
@@ -20,7 +21,9 @@ bare_shoulders
 between legs
 black blindfold
 black gloves
+black hairband
 black legwear
+black shorts
 black thighhighs
 black_gloves
 black_legwear
@@ -43,6 +46,7 @@ character:yorha 2b
 character:yorha no.2 type b
 character:yorha no. 2 type b
 character:yorha type a no.2
+character:yorha type a no. 2
 character:yorha unit no. 2 type b
 character:yorha_no._2_type_b
 character:yorha_type_a_no._2
@@ -68,6 +72,8 @@ elbow gloves
 exposed breasts
 eyes closed
 eyes_closed
+feather trim
+feather-trimmed sleeves
 female
 female on female
 female only
@@ -88,9 +94,11 @@ hairband
 hentai
 hentai-foundry
 high resolution
+highleg
 hip focus
 hips
 hq
+joints
 large breasts
 leg between thighs
 legs
@@ -101,6 +109,7 @@ leotard_aside
 lesbian
 lips
 long hair
+long sleeves
 long_hair
 looking down
 looking pleasured
@@ -144,6 +153,8 @@ nier_automata
 nipples
 no blindfold
 no bra
+no mole
+no pants
 nude
 nude,
 open mouth
@@ -151,7 +162,9 @@ parted lips
 partially nude
 patreon reward
 penetration
+pink lips
 pixiv work:68778450
+puffy sleeves
 pussy
 pussy juice
 pussy juice drip
@@ -164,6 +177,7 @@ rating:e
 rating:explicit
 rating:mature
 rating:nudity
+robot joints
 rule34
 rule 34
 series:nier
@@ -176,6 +190,7 @@ series:patreon reward
 sex
 short hair
 short_hair
+shorts
 silver hair
 silver_hair
 site:patreon
@@ -197,11 +212,13 @@ subreddit:rule34
 subreddit:yuri
 tag source:hentai-foundry
 tags
+tank top
 tarakanovich
 tarakanovich,
 thigh straddling
 thigh-highs
 thighhighs
+thighhighs under boots
 thighs
 title:2b &amp; a2 by tarakanovich [nier automata]
 title:2b a2

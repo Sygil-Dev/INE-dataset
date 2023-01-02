@@ -1,0 +1,46 @@
+battle
+breathing fire
+building
+burning
+campfire
+candle
+cannon
+category:ine
+city
+damaged
+debris
+destruction
+dusk
+embers
+evening
+explosion
+fire
+fireplace
+firing
+flame
+flaming sword
+flaming weapon
+military
+military vehicle
+molten rock
+motor vehicle
+muzzle flash
+no humans
+orange sky
+rating:safe
+red sky
+ruins
+science fiction
+smoke
+sparks
+subreddit:imaginarycastles
+subreddit:imaginaryruins
+subreddit:imarchitecture
+sunset
+tank
+title:high castle ethuriel by sam keiser
+torch
+twilight
+uploader:faeryknight
+uploader:myrandall
+war

@@ -2,23 +2,34 @@
 ::3
 accessory
 ambiguous gender
+artist name
 black eyes
+black sclera
 blue body
 blue skin
 bluekomadori
 booru:e621
 booru:safebooru
+bouquet
+branch
+camellia
 category:ine
+colored sclera
 creator:bluekomadori
 creator:sora23163
 creator:コマドリ
+daisy
+dandelion
 detailed background
 eeveelution
 eyes
 face::3
 feral
+field
 fin
+floral background
 flower
+flower field
 flower in hair
 full body
 gen 1 pokemon
@@ -33,9 +44,14 @@ hand on own chest
 happy
 head fins
 high resolution
+holding bouquet
+holding flower
+leaf
 light
 light beam
 lighting
+lily (flower)
+lily of the valley
 lily pad
 looking up
 lotus
@@ -50,9 +66,12 @@ meta:hi res
 meta:highres
 meta:lighting
 meta:url
+nature
 no humans
+orange flower
 outside
 partially submerged
+pink flower
 pixiv artist id:2124558
 pixiv illust id:57119561
 plant
@@ -66,6 +85,7 @@ series:pokemon
 series:pokémon
 sitting
 smile
+snowflakes
 solo
 species:eeveelution
 species:monster
@@ -81,14 +101,19 @@ tail fin
 text
 title:vaporeon by bluekomadori
 title:シャワーズ
+tulip
 uploader:pkmnart
 url
 vaporeon
+vase
 video games
 water
 watermark
 web address
+white flower
+white rose
 year:2016
+yellow flower
 なにこれかわいい
 ブイズ
 ポケットモンスター

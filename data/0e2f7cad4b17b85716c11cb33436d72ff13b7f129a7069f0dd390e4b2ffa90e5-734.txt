@@ -1,0 +1,33 @@
+architecture
+blue sky
+bridge
+building
+castle
+category:ine
+city
+cityscape
+cloud
+cloudy sky
+day
+dragon
+fantasy
+gate
+house
+mountain
+outdoors
+pagoda
+rating:safe
+river
+rooftop
+ruins
+scenery
+sky
+skyline
+skyscraper
+subreddit:imaginarydragons
+subreddit:immonsters
+title:trip by kou takano
+tower
+town
+uploader:pelllmell
+water

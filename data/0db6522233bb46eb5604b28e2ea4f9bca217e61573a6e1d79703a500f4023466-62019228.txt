@@ -1,13 +1,17 @@
 1girl
 animal
+bangs
 blonde hair
 blue dress
 blurry
+braid
 bridal gauntlets
+character:link
 character:princess zelda
 circlet
 closed eyes
 creator:alzi xiaomi
+crown braid
 day
 depth of field
 dress
@@ -16,6 +20,7 @@ from side
 gender:female
 grass
 horse
+jewelry
 lens flare
 long hair
 long sleeves

@@ -1,8 +1,20 @@
+aircraft
+animal
+armor
+bat
 bethesda
+bird
+building
 card
 cardgame
+castle
 category:ine
+cloud
+cloudy sky
+copyright name
 creator:edward chee
+crow
+dated
 elder scroll
 elder scrolls
 elder scrolls legends
@@ -12,6 +24,11 @@ elderscrolls
 elderscrollslegends
 illustration
 medium:digital 2d
+mountain
+outdoors
+rating:safe
+seagull
+sky
 subreddit:imaginaryarmor
 subreddit:imaginarytamriel
 subreddit:imaginarywarriors
@@ -23,6 +40,8 @@ the elder scrolls:legends
 title:ghost gate defender by edward chee
 title:the elder scrolls: legends
 title:the elder scrolls: legends - ghost gate defender by edward chee
+tree
 uploader:knighterrannt
 uploader:lol33ta
+weapon
 zenimax

@@ -1,22 +1,53 @@
 ambiguous_gender
+artist name
 artist:tsaoshin
+aurora
+cat
 category:ine
+city lights
+cloud
+constellation
 creator:tsaoshin
+crescent moon
+earth (planet)
+full moon
+galaxy
 gender:ambiguous
+glowing
 group
+light particles
 meta:3:2
+milky way
 moon
+moonlight
 mountain
 night
+night sky
+no humans
+ocean
+open mouth
+planet
 rating:safe
+shooting star
+signature
 sky
+snowing
+space
+space craft
 species:canid
 species:canine
 species:canis
 species:mammal
 species:wolf
 star
+star (sky)
+star (symbol)
+starry background
+starry sky
+starry sky print
 subreddit:imaginarycolorscapes
 subreddit:immeta
+tanabata
 title:kindred by tsaoshin
 uploader:lol33ta
+water

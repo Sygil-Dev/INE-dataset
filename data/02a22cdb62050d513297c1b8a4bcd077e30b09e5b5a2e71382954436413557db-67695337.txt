@@ -1,0 +1,25 @@
+city
+fantasy
+fire
+forest
+grass
+light rays
+nature
+outdoors
+rating:safe
+river
+rock
+scenery
+subreddit:imaginarycanyons
+subreddit:imaginarycaves
+subreddit:imaginarymindscapes
+subreddit:imaginarytrees
+subreddit:imlandscapes
+subreddit:imnature
+sunlight
+title:wellspring glades by erik shoemaker
+tree
+uploader:0-0-1
+uploader:myrandall
+water
+waterfall

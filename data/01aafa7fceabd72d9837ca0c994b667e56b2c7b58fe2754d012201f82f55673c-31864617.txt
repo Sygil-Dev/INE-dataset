@@ -17,6 +17,7 @@ marvelous
 medium:digital 3d
 painter
 photoshop
+rating:safe
 sci-fi
 science
 subreddit:imaginarycyberpunk
@@ -30,4 +31,5 @@ toolbag
 uploader:wabiisabii
 v-ray
 vehicle
+wheel
 zbrush

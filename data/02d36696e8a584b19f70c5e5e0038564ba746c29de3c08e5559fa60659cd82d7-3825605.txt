@@ -1,4 +1,5 @@
 ambiguous_gender
+artist name
 artist:cryptid-creations
 beady eyes
 beady_eyes
@@ -6,6 +7,7 @@ black eyes
 black_eyes
 bodypart:black eyes
 bodypart:loli body type
+carrot
 category:ine
 creator:cryptid-creations
 creator:piperdraws
@@ -21,15 +23,21 @@ grass
 group
 humor
 leaf
+mandarin orange
 medium:patreon reward
 medium:simple background
 medium:white background
 meta:paid reward
 meta:patreon reward
 meta:white background
+no humans
 orange (fruit)
+orange slice
 orange_(fruit)
+palm tree
 plant
+potted plant
+pumpkin
 pun
 rating:safe
 rock
@@ -55,9 +63,14 @@ subreddit:imaginaryfood
 subreddit:immeta
 title:daily paint #1268. duck a l'orange
 title:duck a l'orange by piper thibodeau
+tomato
+tree
 uploader:myrandall
+vegetable
 visual pun
 visual_pun
+watermark
+white background
 white_background
 yiff id:457132
 young

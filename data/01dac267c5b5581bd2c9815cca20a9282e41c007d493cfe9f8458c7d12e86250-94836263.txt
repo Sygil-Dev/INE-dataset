@@ -1,0 +1,34 @@
+bare tree
+blue sky
+branch
+bush
+cloud
+day
+foliage
+forest
+grass
+house
+lake
+landscape
+moss
+mountain
+nature
+no humans
+outdoors
+palm tree
+path
+pine tree
+plant
+rating:safe
+river
+road
+scenery
+sky
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+title:river cottage by artist rob myers
+tree
+tree shade
+uploader:anon_ymou5
+water
+waterfall

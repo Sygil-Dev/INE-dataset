@@ -1,0 +1,26 @@
+brick
+brick wall
+bridge
+building
+car
+chimney
+city
+cityscape
+fountain
+ground vehicle
+pavement
+rating:safe
+road
+rooftop
+scenery
+sign
+stairs
+street
+subreddit:imaginaryarchitecture
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+tiles
+title:seattle 2240 by me
+title:seattle 2240 by me (deltakosh)
+tower
+uploader:deltakosh

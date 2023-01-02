@@ -1,0 +1,33 @@
+armor
+blue cape
+blue sky
+blurry
+blurry background
+blurry foreground
+breastplate
+category:ine
+cloud
+day
+flower
+gauntlets
+greaves
+holding
+holding shield
+holding weapon
+leaf
+outdoors
+palm tree
+plant
+rating:safe
+shield
+signature
+sky
+solo
+standing
+subreddit:imaginaryknights
+subreddit:imcharacters
+sword
+title:mouse knight by pierric sorel
+tree
+uploader:myrandall
+weapon

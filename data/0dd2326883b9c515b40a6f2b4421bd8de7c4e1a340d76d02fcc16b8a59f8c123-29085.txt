@@ -1,0 +1,22 @@
+armor
+assault rifle
+blurry
+blurry background
+blurry foreground
+category:ine
+depth of field
+gun
+helmet
+logo
+mecha
+motion blur
+rating:safe
+realistic
+rifle
+subreddit:imaginaryfuturewar
+subreddit:imaginaryrobotics
+subreddit:imtechnology
+title:military robot by bo porri
+uploader:[deleted]
+uploader:faeryknight
+weapon

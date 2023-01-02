@@ -1,0 +1,27 @@
+armor
+artstation
+boots
+breastplate
+category:ine
+creator:jakub rozalski
+gauntlets
+greaves
+holding
+holding sword
+holding weapon
+knight
+medium:traditional 2d
+outdoors
+pauldrons
+rating:safe
+shoulder armor
+solo
+standing
+star (sky)
+subreddit:imaginarywerewolves
+subreddit:immonsters
+sword
+title:"wrong place, wrong god," by jakub rozalski from artstation
+title:wrong place, wrong god
+uploader:nikephoros_ii_phokas
+weapon

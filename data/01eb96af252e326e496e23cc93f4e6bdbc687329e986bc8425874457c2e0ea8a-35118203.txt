@@ -1,6 +1,8 @@
+1girl
 2020
 artist:sandara
 category:ine
+cave
 clothed
 clothing
 clothing:tagme
@@ -9,20 +11,28 @@ day
 detailed background
 detailed_background
 forest
+from behind
 grass
+holding
+holding weapon
 hydra
 loli
 lolicon
 lolita
 medium:detailed background
 meta:2020
+monster
+outdoors
 outside
 plant
 rating:safe
+rock
+scenery
 species:human
 species:hydra
 species:mammal
 species:primate
+standing
 subreddit:imaginaryleviathans
 subreddit:immonsters
 title:hydra 2
@@ -30,4 +40,5 @@ title:hydra 2 by sandara
 tree
 uploader:steampunkjester
 water
+weapon
 year:2020

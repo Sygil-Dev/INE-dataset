@@ -1,0 +1,24 @@
+beach
+boat
+cloud
+cloudy sky
+horizon
+military vehicle
+mountain
+ocean
+outdoors
+planet
+rating:safe
+river
+ship
+sky
+snow
+subreddit:imaginarywinterscapes
+subreddit:imlandscapes
+title:new environment practise, by vikktor
+turret
+uploader:miciy5
+warship
+water
+watercraft
+waves

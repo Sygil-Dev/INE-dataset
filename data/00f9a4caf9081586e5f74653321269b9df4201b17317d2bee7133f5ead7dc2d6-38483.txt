@@ -1,0 +1,28 @@
+bandages
+blue sky
+bush
+category:ine
+cloud
+day
+forest
+grass
+hat
+lake
+landscape
+mountain
+nature
+outdoors
+rating:safe
+river
+road
+sky
+solo
+subreddit:imaginarypets
+subreddit:imaginaryrobotics
+subreddit:immeta
+subreddit:imtechnology
+title:beach visit by varguy
+tree
+uploader:hvitserkr
+uploader:myrandall
+water

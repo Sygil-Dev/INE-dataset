@@ -6,12 +6,14 @@ armor
 armwear
 arrow
 arrow (projectile)
+artist name
 booru:sankaku channel
 boots
 bow (weapon)
 bracer
 breasts
 brown hair
+bush
 category:ine
 chainmail
 character:aela the huntress
@@ -47,10 +49,13 @@ fur trim
 garrison cap
 gender:female
 gloves
+grass
 green eyes
 highres
 jewelry
+jungle
 leather
+looking at viewer
 medium breasts
 medium:deviantart username
 medium:digital 2d
@@ -91,11 +96,13 @@ signature
 solo
 solo female
 spaulders
+standing
 subreddit:imaginarytamriel
 subreddit:imfandoms
 title:aela the huntress - mirco cabbia
 title:aela the huntress - skyrim
 title:aela the huntress - skyrim by mirco cabbia
+tree
 uploader:killashard
 uploader:lol33ta
 watermark

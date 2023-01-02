@@ -1,7 +1,9 @@
+1boy
 2018
 acrylic
 ambiguous gender
 ambiguous_gender
+animal
 artist:kenket
 black body
 black fur
@@ -19,6 +21,7 @@ copyright:nintendo
 copyright:pokémon
 creator:kenket
 deviantart username
+face
 facial tuft
 facial_tuft
 feline
@@ -31,7 +34,9 @@ gender:ambiguous
 headshot portrait
 litten
 littenfanart
+looking at viewer
 looking to the side
+male focus
 medium:red background
 medium:simple background
 medium:traditional media
@@ -90,6 +95,7 @@ species:monster
 species:pokémon
 species:pokémon (species)
 species:pokémon_(species)
+spiked hair
 studio:nintendo
 subreddit:imaginarygaming
 subreddit:imaginarykanto

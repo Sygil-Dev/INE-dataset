@@ -1,20 +1,39 @@
 bag
 blep
+blurry
+blurry background
+blurry foreground
+bush
 claws
 conditional dnp
 creator:blitzdrachin
 creator:conditional dnp
 creator:sifyro
+dappled sunlight
+day
+depth of field
 eyes closed
 fangs
 feral
 forest
+grass
 happy
 horn
+jungle
+leaf
 meta:2022
+motion blur
+nature
+no humans
+open mouth
+outdoors
+palm leaf
+palm tree
 plant
+pokemon (creature)
 rating:safe
 series:wings of fire
+sharp teeth
 source:furaffinity.net
 species:dragon
 stretching
@@ -25,5 +44,6 @@ title:a stretch and a blep! art by me
 tongue
 tongue out
 tree
+tree shade
 uploader:sifyro
 wings

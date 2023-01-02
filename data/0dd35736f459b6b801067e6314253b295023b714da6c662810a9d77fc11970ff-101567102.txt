@@ -1,0 +1,34 @@
+battle
+breathing fire
+bridge
+burning
+campfire
+candle
+cloud
+embers
+explosion
+fire
+firing
+flame
+flaming sword
+flaming weapon
+molten rock
+mountain
+no humans
+ocean
+rating:safe
+river
+scenery
+ship
+smoke
+subreddit:imaginarybattlefields
+sunset
+title:the grand company by sam keiser
+torch
+twilight
+uploader:lol33ta
+volcano
+war
+water
+watercraft
+weapon

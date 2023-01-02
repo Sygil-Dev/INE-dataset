@@ -1,0 +1,28 @@
+architecture
+boat
+bridge
+building
+category:ine
+city
+cloud
+cloudy sky
+fantasy
+horizon
+landscape
+mountain
+no humans
+ocean
+outdoors
+rating:safe
+river
+scenery
+shore
+sky
+subreddit:imaginaryvessels
+subreddit:imtechnology
+sunset
+title:rakdos flagship by akos szabo
+tower
+uploader:drunkindragon
+water
+watercraft
