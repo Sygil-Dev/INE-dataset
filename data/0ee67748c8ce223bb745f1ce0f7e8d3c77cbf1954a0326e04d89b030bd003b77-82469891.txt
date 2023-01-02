@@ -1,0 +1,23 @@
+beach
+black border
+cloud
+day
+desert
+footprints
+gun
+letterboxed
+mountain
+mountainous horizon
+outdoors
+rating:safe
+rifle
+rock
+scenery
+sky
+snow
+standing
+subreddit:imaginaryderelicts
+subreddit:imtechnology
+title:express delivery by christoph stryczek
+uploader:blood-n-cheese
+weapon

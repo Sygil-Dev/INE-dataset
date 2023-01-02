@@ -1,0 +1,27 @@
+artist name
+book
+bookshelf
+box
+chair
+couch
+flower
+flower pot
+indoors
+lamp
+leaf
+no humans
+pillow
+plant
+potted plant
+rating:safe
+rug
+scenery
+shelf
+subreddit:imaginaryinteriors
+table
+title:#2020春季场景网络班# 的室内建筑作业 by star academy
+tree
+uploader:myrandall
+watermark
+web address
+window
