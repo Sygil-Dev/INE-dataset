@@ -1,0 +1,22 @@
+blue sky
+bridge
+building
+car
+city
+day
+ground vehicle
+house
+motor vehicle
+no humans
+outdoors
+power lines
+rating:safe
+real world location
+road
+scenery
+sky
+street
+subreddit:imaginarycolorscapes
+subreddit:immeta
+title:hi friends i want to show you this illustration i made of the city of bogota
+uploader:mauroperezdraws

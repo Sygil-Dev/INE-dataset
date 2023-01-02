@@ -63,6 +63,8 @@ instagram
 iris
 kukri
 legs
+letterboxed
+long hair
 longsword
 mage
 magic
@@ -75,13 +77,16 @@ model
 movie
 movieart
 moviedesign
+multiple girls
 of
 outfit
 painting
 particle
+pillarboxed
 portrait
 potion
 potions
+rating:safe
 render
 saber
 scenedesign

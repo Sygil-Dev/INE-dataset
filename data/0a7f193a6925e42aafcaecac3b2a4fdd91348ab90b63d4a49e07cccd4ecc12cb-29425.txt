@@ -1,24 +1,47 @@
 2018
+aircraft
+airplane
+animal
 artist:sandara
 bat
+battle
+bird
 bone
+breathing fire
+burning
+campfire
 category:ine
+cloud
 creator:sandara
+crow
+dusk
+embers
+explosion
 feral
 fire
+flame
+flaming sword
+flaming weapon
+flock
 flying
 group
 halloween
+holding sword
+holding weapon
 hooves
 medium:digital media
 meta:2018
 meta:digital media (artwork)
 meta:digital_media_(artwork)
+molten rock
+open mouth
 rating:safe
 riding
+seagull
 skeletal horse
 skeleton
 skull
+sky
 species:bat
 species:chiropteran
 species:equid
@@ -32,8 +55,13 @@ species:undead
 standing
 subreddit:imaginaryundead
 subreddit:immonsters
+sunset
+sword
 title:halloween
 title:halloween by sandara tang
+torch
+twilight
 undead horse
 uploader:net-diver
+weapon
 year:2018

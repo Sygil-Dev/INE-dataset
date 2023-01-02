@@ -1,3 +1,4 @@
+1girl
 2014
 anthro
 anthrofied
@@ -37,11 +38,13 @@ headwear
 helmet
 horn
 horns
+long hair
 male
 melee weapon
 meta:2014
 mountain
 outside
+polearm
 purple hair
 quizzicalkisses
 rating:questionable
@@ -54,6 +57,7 @@ series:my little pony friendship is magic
 sharp teeth
 sitting
 skull
+sky
 species:avian
 species:bird
 species:corvid
@@ -71,6 +75,7 @@ standing
 studio:hasbro
 subreddit:imaginaryequestria
 subreddit:imfandoms
+sunset
 sword
 teeth
 title:'beefspike, reaper of souls' by reuben liew (quizzicalkisses)
