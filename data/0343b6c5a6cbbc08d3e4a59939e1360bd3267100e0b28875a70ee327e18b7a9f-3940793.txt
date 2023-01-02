@@ -1,4 +1,5 @@
 ambiguous_gender
+artist name
 artist:cryptid-creations
 beverage
 black eyes
@@ -23,6 +24,7 @@ meme:humor
 meta:paid reward
 meta:patreon reward
 meta:white background
+no humans
 popcorn
 pun
 rating:safe
@@ -40,6 +42,7 @@ species:food creature
 species:food_creature
 species:mammal
 straw
+striped
 subreddit:imaginaryfood
 subreddit:immeta
 title:daily paint 1287. pupcorn
@@ -47,5 +50,8 @@ title:pupcorn by piper thibodeau
 uploader:myrandall
 visual pun
 visual_pun
+watermark
+web address
+white background
 white_background
 yiff id:457132

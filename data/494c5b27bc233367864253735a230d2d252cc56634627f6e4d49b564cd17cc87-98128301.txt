@@ -2,9 +2,12 @@
 ::<
 ::d
 ^ ^
+animal
 animal on head
 animal on shoulder
 arms up
+backpack
+bag
 banana
 bandaid
 bandaid on cheek
@@ -20,8 +23,13 @@ bush
 cape
 cart
 catholic
+character:froggy nun (diva)
+character:leaf nun (diva)
+character:sheep nun (diva)
+character:star nun (diva)
 chicken
 closed eyes
+creator:diva (hyxpk)
 creator:hyxpk
 creator:sheep nun (diva)
 crow
@@ -41,22 +49,29 @@ habit
 highres
 leaf nun (diva)
 little nuns (diva)
+meta:commentary
+meta:english commentary
+meta:highres
 mouse
 multiple girls
 nun
 on head
+open mouth
 orange cape
 ostrich
 outdoors
 owl
 pumpkin
 pumpkin hat
+rating:general
 riding
+series:little nuns (diva)
 smile
 star nun (diva)
 star ornament
 subreddit:imaginarywtf
 subreddit:imnsfw
+tag
 title:she became the pumpking. by diva
 tree
 uploader:vecttor

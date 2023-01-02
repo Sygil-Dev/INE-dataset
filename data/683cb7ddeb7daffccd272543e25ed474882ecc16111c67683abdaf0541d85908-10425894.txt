@@ -13,7 +13,9 @@ carrying
 character:ciri
 character:cirilla fiona elen riannon
 character:geralt of rivia
+ciri
 cirilla
+cirithewitcher
 clothing:armor
 clothing:boots
 clothing:footwear
@@ -62,6 +64,7 @@ subreddit:imfandoms
 sword
 sword on back
 thewitcher
+thewitcher3wildhunt
 title:father
 title:father, by wlop
 tree

@@ -1,4 +1,6 @@
+1girl
 art
+artist name
 backlighting
 backlit
 booru:e621
@@ -15,6 +17,7 @@ meta:lighting
 meta:official art
 monster
 monster girl (genre)
+outdoors
 outside
 particles
 profile
@@ -29,6 +32,8 @@ series:magic: the gathering
 series:official art
 series:wizards of the coast
 side view
+silhouette
+sky
 solo
 species:centaur
 species:equid
@@ -46,11 +51,15 @@ studio:hasbro
 studio:wizards of the coast
 subreddit:imaginarycentaurs
 subreddit:imraces
+sunset
 sword
 tag source:e621
 title:lagonna-band trailblazer by james zapata
+twitter username
 uploader:lol33ta
 uploader:tamander
 water
+watermark
 wave
 weapon
+web address

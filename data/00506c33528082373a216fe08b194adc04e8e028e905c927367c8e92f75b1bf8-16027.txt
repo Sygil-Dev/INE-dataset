@@ -9,11 +9,15 @@ bodily fluids
 bracelet
 braid
 category:ine
+chain
+closed eyes
 creator:alena ymhin
 crown braid
+cuffs
 dark skin
 freckles
 french kiss
+full moon
 gender:female
 gender:male
 hetero
@@ -25,6 +29,8 @@ jewelry
 kiss
 leaning
 leaning forward
+letterboxed
+long hair
 medium:high resolution
 medium:letterboxed
 medium:realistic
@@ -32,17 +38,23 @@ meta:commission
 military
 military jacket
 military uniform
+moon
+moonlight
+night
 nose
 pale skin
+pillarboxed
 rating:safe
 realistic
 series:original
+shackles
 shirt
 sidelocks
 sitting
 space
 subreddit:imaginarylovers
 subreddit:imcharacters
+sun
 tears
 tied hair
 title:commission by alena ymhin

@@ -1,0 +1,31 @@
+architecture
+bridge
+building
+category:ine
+city
+city lights
+cityscape
+east asian architecture
+ferris wheel
+night
+no humans
+outdoors
+pagoda
+rating:safe
+real world location
+river
+road
+rooftop
+scenery
+sky
+skyline
+skyscraper
+street
+subreddit:imaginaryarchitecture
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+title:skyscraper by evgeny kazantsev
+tokyo (city)
+tower
+uploader:malign-god
+website:reddit

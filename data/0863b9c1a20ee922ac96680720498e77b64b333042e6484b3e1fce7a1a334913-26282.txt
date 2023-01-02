@@ -1,0 +1,22 @@
+category:ine
+character name
+gradient
+gradient background
+halftone
+halftone background
+holding gun
+mecha
+no humans
+polka dot
+polka dot background
+rating:safe
+robot
+science fiction
+standing
+subreddit:imaginarymechs
+subreddit:imaginaryrobotics
+subreddit:imtechnology
+title:tac-s exosuit by pierre raveneau
+uploader:5tr4tr3x
+weapon
+website:reddit

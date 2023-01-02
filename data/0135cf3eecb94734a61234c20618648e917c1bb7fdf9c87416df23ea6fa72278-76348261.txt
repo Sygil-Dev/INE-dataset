@@ -1,0 +1,62 @@
+alcohol
+basket
+beer
+bottle
+bowl
+bread
+burger
+butter
+cake
+cheese
+coffee
+cooking
+cup
+curry
+curry rice
+dish
+drink
+drinking glass
+egg
+english text
+food
+food focus
+fork
+fried egg
+frying pan
+glass
+hat
+knife
+lettuce
+meat
+menu
+mug
+omurice
+onion
+pancake
+pasta
+pizza
+plate
+pot
+rating:safe
+restaurant
+rice
+salad
+sandwich
+soup
+spaghetti
+spoon
+steak
+subreddit:imaginaryfood
+subreddit:immeta
+table
+tea
+title:[oc] a vekllei breakfast, by me
+title:a vekllei breakfast, by me
+toast
+tomato
+tongs
+tray
+uploader:melonkony
+wine
+wine bottle
+wine glass

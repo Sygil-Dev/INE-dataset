@@ -1,0 +1,22 @@
+cannon
+category:ine
+creator:lem0n-head
+glowing
+gun
+holding weapon
+machinery
+mecha
+no humans
+rating:safe
+realistic
+robot
+science fiction
+solo
+subreddit:imaginaryweaponry
+subreddit:imtechnology
+title:gunner mecha
+title:gunner mecha by lem0n-head
+title:gunner mecha by stas (~lem0n-head on deviantart)
+uploader:lol33ta
+uploader:sacredserenity
+weapon

@@ -1,10 +1,12 @@
 4 eyes
 ambiguous gender
+bare tree
 booru:e621
 category:ine
 creator:sandara
 detailed background
 feral
+forest
 forked tongue
 furry
 gaping
@@ -12,17 +14,22 @@ gaping mouth
 gender:ambiguous
 glowing
 glowing eyes
+grass
+green eyes
+jungle
 medium:detailed background
 membrane (anatomy)
 membranous wings
 meta:1:1
 multi eye
 nature
+no humans
 open mouth
 outside
 plant
 rating:safe
 scenery
+sharp teeth
 slime
 slimy
 solo
@@ -34,11 +41,13 @@ species:scalie
 subreddit:imaginarydragons
 subreddit:immonsters
 swamp
+teeth
 title:young marsh drake
 title:young marsh drake by sandara tang
 tongue
 tongue out
 tree
 uploader:panzer-kunst
+vines
 wings
 wood

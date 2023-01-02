@@ -1,8 +1,15 @@
+afloat
 arms up
+artist name
 bird
 booru:safebooru
 category:ine
+character:lapras
 character:mudkip
+character:piplup
+character:popplio
+character:sobble
+character:totodile
 creator:finni chang
 creature
 gen 1 pokemon
@@ -10,18 +17,23 @@ gen 2 pokemon
 gen 3 pokemon
 gen 4 pokemon
 gen 5 pokemon
+happy
 medium:watermark
 medium:web address
 no humans
 one eye closed
 open mouth
+outdoors
+partially submerged
 penguin
 pokemon (creature)
 rating:safe
+ripples
 series:pokemon
 series:pokémon
 signature
 smile
+soaking feet
 species:avian
 species:monster
 species:mudkip
@@ -31,13 +43,17 @@ species:piplup
 species:pokémon
 species:squirtle
 species:totodile
+splashing
 studio:nintendo
 subreddit:imaginarykanto
 subreddit:imfandoms
 swimming
 title:the water starters by missy pena
+tongue
 uploader:lol33ta
+wading
 water
 watermark
 web address
+wet
 wink

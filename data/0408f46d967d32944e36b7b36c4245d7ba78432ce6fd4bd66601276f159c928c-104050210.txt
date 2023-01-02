@@ -1,0 +1,19 @@
+armor
+full armor
+gauntlets
+grey background
+helmet
+holding
+holding sword
+holding weapon
+planted
+planted sword
+rating:safe
+shoulder armor
+solo
+standing
+subreddit:imaginaryarmor
+sword
+title:knight by david zhdanov
+uploader:yannirotten
+weapon

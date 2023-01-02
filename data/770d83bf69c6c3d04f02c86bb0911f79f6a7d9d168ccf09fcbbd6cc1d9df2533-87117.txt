@@ -1,0 +1,21 @@
+background
+category:ine
+creator:yacrical
+digital
+digitalart
+digitalpainting
+fanart
+fantasy
+games
+mag
+scifi
+subreddit:imaginarywizards
+subreddit:imcharacters
+title:mag
+title:mag by 'yacrical'
+uploader:myrandall
+videogames
+wallpaper
+warframe
+warframefanart
+warframemag

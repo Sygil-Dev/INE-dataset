@@ -1,0 +1,36 @@
+architecture
+bridge
+building
+castle
+category:ine
+chimney
+city
+city lights
+cityscape
+cloud
+day
+east asian architecture
+fantasy
+gate
+house
+mountain
+no humans
+outdoors
+pagoda
+rating:safe
+river
+scenery
+shrine
+sky
+skyline
+skyscraper
+stairs
+subreddit:imaginarytemples
+subreddit:imarchitecture
+title:temple in ping, mandala by leif heanzo
+tower
+town
+tree
+uploader:tellanas
+water
+waterfall

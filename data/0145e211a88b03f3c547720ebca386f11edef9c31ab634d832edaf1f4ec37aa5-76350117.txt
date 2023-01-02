@@ -1,0 +1,33 @@
+ball
+balloon
+beach
+beachball
+blue sky
+cloud
+cloudy sky
+couch
+day
+horizon
+lamp
+leaf
+lens flare
+mountain
+no humans
+ocean
+orange (fruit)
+outdoors
+palm tree
+plant
+potted plant
+rating:safe
+scenery
+sky
+subreddit:imaginaryinteriors
+subreddit:imarchitecture
+sun
+sunflower
+sunlight
+title:afterglow by veronika akulich
+tree
+uploader:lol33ta
+window

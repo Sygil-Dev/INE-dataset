@@ -1,0 +1,26 @@
+assault rifle
+category:ine
+creator:evan lee
+exoskeleton
+genre:science fiction
+gun
+holding gun
+machine gun
+mech
+mecha
+medium:digital 2d
+military
+rating:safe
+realistic
+rifle
+science fiction
+scifi
+scope
+subreddit:imaginaryfuturewar
+subreddit:imtechnology
+title:exoskeleton by evan lee
+title:exoskeleton design demonstration(4.8hours) _ evan lee online class
+tree
+uniform
+uploader:lol33ta
+weapon

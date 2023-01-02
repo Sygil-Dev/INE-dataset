@@ -6,11 +6,14 @@ cheese grater
 closed eyes
 creator:centurii-chan (artist)
 creator:centuriic
+creator:centuriichan
 depth of field
 eyes closed
 food
 holding
 holding food
+kemono.party service:patreon
+kemono.party user id:15840480
 meatball
 medium breasts
 medium hair
@@ -19,16 +22,20 @@ medium:depth of field
 medium:high resolution
 medium:very high resolution
 meta:absurdres
+metadata:absurdres
+metadata:highres
 multiple girls
 muscular
 muscular female
 open mouth
 pasta
+patreon id:15840480
 plate
 rating:questionable
 rating:sensitive
 revealing clothes
 series:original
+site:gelbooru
 site:twitter
 skirt
 smirk
@@ -36,6 +43,7 @@ subreddit:imaginaryfood
 subreddit:immeta
 surprised
 tareme
+title:gladiators at a restaurant
 title:she likes to show off by centurii-chan
 underboob
 uploader:ultartx

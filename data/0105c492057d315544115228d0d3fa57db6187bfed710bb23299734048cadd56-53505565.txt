@@ -1,18 +1,36 @@
 artwork
+black border
 blackandwhite
+border
 conceptart
 creator:damjan gjorgievski
 demoness
+dragon
 drawing
 female
 fineart
+grey border
+greyscale
+hatching (texture)
+letterboxed
+monochrome
+monster
+mountain
+no humans
+outside border
 pencildrawing
+photo (medium)
+pillarboxed
+rating:safe
+red border
 saccubus
 sentinel
+spikes
 subreddit:imaginarymonstergirls
 subreddit:immonsters
 title:yartha widow
 title:yartha widow by damjan gjorgievski
+traditional media
 traditionalart
 traditionaldrawing
 uploader:myrandall

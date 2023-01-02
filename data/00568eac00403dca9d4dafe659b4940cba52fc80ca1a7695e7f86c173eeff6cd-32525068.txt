@@ -7,11 +7,15 @@ creature
 furry
 game
 game development
+greyscale
 hst
 indie
+letterboxed
 lizard
 medium:digital 2d
+monochrome
 monster
+rating:safe
 scp
 scp 682
 scp foundation

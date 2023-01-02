@@ -1,0 +1,36 @@
+architecture
+bridge
+building
+car
+castle
+chain-link fence
+city
+city lights
+cityscape
+clock tower
+east asian architecture
+fence
+halftone
+house
+library
+monochrome
+no humans
+pagoda
+rating:safe
+real world location
+rooftop
+scenery
+sky
+skyline
+skyscraper
+street
+subreddit:imaginaryarchitecture
+subreddit:imaginarymindscapes
+subreddit:imlandscapes
+title:old town, digital, by me, 2021
+title:this is one of my works, hope you like it!
+tokyo (city)
+tower
+town
+traditional media
+uploader:elena_cherish

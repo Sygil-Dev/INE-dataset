@@ -1,0 +1,23 @@
+bird
+brick wall
+building
+bush
+category:ine
+city
+day
+forest
+grass
+nature
+no humans
+outdoors
+path
+rating:safe
+river
+road
+scenery
+subreddit:imaginaryruins
+subreddit:imarchitecture
+title:warming her wings by michael whelan
+tree
+uploader:[deleted]
+uploader:faeryknight

@@ -1,0 +1,28 @@
+beach
+boat
+cloud
+cloudy sky
+footprints
+hat
+horizon
+island
+landscape
+mountain
+mountainous horizon
+ocean
+outdoors
+rating:safe
+sand
+scenery
+shore
+sky
+subreddit:imaginaryseascapes
+subreddit:imlandscapes
+sunrise
+sunset
+title:towards the sun, soft pastel, 40x30cm, by me, 2022
+twilight
+uploader:annadawsonart
+water
+watercraft
+waves

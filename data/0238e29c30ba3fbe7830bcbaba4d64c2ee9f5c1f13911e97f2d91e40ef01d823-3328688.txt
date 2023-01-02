@@ -1,9 +1,14 @@
+2girls
 2015
 alicorn
+angel wings
+animal ears
 blonde hair
 bonniecorn
 bonniezacherle
 booru:e621
+breasts
+brown hair
 category:ine
 character:bonnie zacherle
 character:lauren faust
@@ -14,6 +19,7 @@ creator:heilos
 cutie mark
 detailed background
 duo
+eye contact
 eyewear
 fausticorn
 feathered wings
@@ -23,20 +29,28 @@ feral
 forest
 gender:female
 glasses
+grass
 green eyes
 hair
 horn
 horns
 jewelry
 laurenfaust
+long hair
 medium:detailed background
 meta:2015
 mlpfim
+multiple girls
 mylittlepony
 mylittleponyfriendshipismagic
+nature
 necklace
+nude
+open mouth
+outdoors
 outside
 plant
+rating:questionable
 rating:safe
 red hair
 series:friendship is magic
@@ -52,7 +66,10 @@ subreddit:imfandoms
 tag source:e621
 title:"talk of generations" by heilos/john freeman
 title:talk of generations
+tongue
+tongue out
 tree
 uploader:crystallord
 wings
 year:2015
+yuri

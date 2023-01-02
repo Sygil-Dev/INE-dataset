@@ -1,0 +1,38 @@
+architecture
+artist name
+blue sky
+bridge
+building
+bush
+castle
+city
+cloud
+cloudy sky
+copyright name
+day
+fantasy
+horizon
+lake
+landscape
+mountain
+mountainous horizon
+nature
+no humans
+ocean
+outdoors
+rating:safe
+river
+scenery
+sky
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+sunset
+title:wizard tower by artist ferdinand ladera
+tower
+tree
+twilight
+uploader:anon_ymou5
+water
+waterfall
+watermark
+web address

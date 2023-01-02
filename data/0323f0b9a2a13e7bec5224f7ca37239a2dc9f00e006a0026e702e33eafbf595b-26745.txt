@@ -1,22 +1,28 @@
 ambiguous gender
 ambiguous_gender
 art
+artist name
 artist:tsaoshin
 backseat
 booru:e621
 category:ine
+closed eyes
 copyright:nintendo
 copyright:pokémon
 creator:tsaoshin
+cup
 cute
+dated
 digitalart
 drawing
 ericproctor
 fanart
+full body
 funny
 gen 1 pokemon
 gender:ambiguous
 gottadrawemall
+happy
 joshworlds
 livestream
 medium:1:1 aspect ratio
@@ -25,16 +31,20 @@ meta:1:1
 meta:2017
 meta:digital media (artwork)
 meta:digital_media_(artwork)
+no humans
 photoshop
 pokedex
 pokemon
+pokemon (creature)
 pool:15535
 rating:safe
 series:nintendo
 series:pokemon
 series:pokémon
 show
+signature
 sketch
+smile
 snorlax
 solo
 species:mammal

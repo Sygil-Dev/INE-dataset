@@ -1,6 +1,8 @@
+1boy
 3 toes
 5 fingers
 ambiguous gender
+animal
 armor
 beige skin
 black eyes
@@ -33,9 +35,11 @@ gender:ambiguous
 gender:male
 group
 guro
+indian style
 looking at another
 lying
 male
+male focus
 medium:simple background
 medium:yellow background
 meta:crossover
@@ -83,6 +87,7 @@ subreddit:imaginarymarvel
 subreddit:imfandoms
 tan body
 tan skin
+tatami
 title:pokémon x avengers: electric by feriowind
 toes
 toony
@@ -96,3 +101,5 @@ yellow background
 yellow body
 yellow fur
 yellow sclera
+yellow sky
+yellow theme

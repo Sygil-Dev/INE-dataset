@@ -1,0 +1,24 @@
+arch
+architecture
+artist name
+bridge
+building
+castle
+city
+cityscape
+cloud
+day
+east asian architecture
+fantasy
+gate
+lantern
+outdoors
+pagoda
+rating:safe
+scenery
+sky
+skyscraper
+subreddit:imaginaryvillages
+title:village by frej agelii
+tower
+uploader:ethereeal

@@ -1,5 +1,7 @@
 ambiguous gender
 ambiguous_gender
+animal
+animal focus
 artist:silverfox5213
 black body
 black eyes
@@ -7,8 +9,10 @@ black fur
 black_body
 black_eyes
 black_fur
+cat
 creator:silverfox5213
 daww
+dog
 feral
 fur
 gills
@@ -16,8 +20,12 @@ grey body
 grey fur
 grey_body
 grey_fur
+lion
+looking at viewer
 meta:url
+no humans
 rating:safe
+realistic
 simple background
 simple_background
 solo
@@ -39,7 +47,9 @@ title:shark cat by silverfox5213
 uploader:lol33ta
 white background
 white body
+white cat
 white fur
 white_background
 white_body
 white_fur
+wolf

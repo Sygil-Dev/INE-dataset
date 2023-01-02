@@ -1,4 +1,7 @@
+1girl
+1other
 aenami
+bare tree
 beast
 blood
 bodily fluids
@@ -9,12 +12,19 @@ environment
 fog
 forest
 horror
+long hair
 medium:digital 2d
 nature
 night
+outdoors
+rating:safe
+scenery
 snow
+snowing
+standing
 subreddit:imaginarybeasts
 title:forest & beast
 title:forest &amp; beast by alena aenami
+tree
 uploader:l-ya
 wood

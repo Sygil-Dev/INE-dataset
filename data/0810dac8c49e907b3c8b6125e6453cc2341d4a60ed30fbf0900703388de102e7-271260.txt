@@ -1,15 +1,28 @@
+animal
+artist name
+blurry
 category:ine
 creator:ainur salimova
+fangs
+lake
 medium:digital 2d
 monster
+no humans
+ocean
+open mouth
 panoptes
+rating:safe
+realistic
+sharp teeth
 species:canine
 species:canis
 species:mammal
 species:mythical
 species:wolf
+splashing
 subreddit:imaginarywerewolves
 subreddit:immonsters
+teeth
 title:"venerated werewolf," by ainur salimova from artstation.com
 title:venerated werewolf
 title:venerated werewolf by ainur salimova
@@ -17,4 +30,6 @@ title:venerated werewolf by floya mios
 uploader:faeryknight
 uploader:nikephoros_ii_phokas
 uploader:valar_m0rghul1s
+water
+waves
 werewolf
