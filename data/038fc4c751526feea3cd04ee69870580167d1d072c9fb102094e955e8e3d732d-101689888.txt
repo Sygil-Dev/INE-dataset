@@ -1,0 +1,23 @@
+building
+city
+city lights
+cityscape
+fire
+forest
+lantern
+night
+no humans
+outdoors
+power lines
+rating:safe
+reflection
+road
+scenery
+sky
+skyscraper
+street
+subreddit:imaginarycityscapes
+sunset
+title:"flying shades", lightpure (me), 3d and photoshop, 2022
+tree
+uploader:lightpurestudio

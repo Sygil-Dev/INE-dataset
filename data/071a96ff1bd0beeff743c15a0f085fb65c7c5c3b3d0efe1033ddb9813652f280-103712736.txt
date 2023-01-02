@@ -1,0 +1,25 @@
+armor
+artist name
+beach
+cave
+dated
+horizon
+ice
+lake
+mountain
+ocean
+rating:safe
+river
+rock
+signature
+snow
+solo
+subreddit:imaginaryrobotics
+sword
+title:pilgrim's eye by sean andrew murray
+twitter username
+uploader:lol33ta
+water
+waterfall
+waves
+weapon

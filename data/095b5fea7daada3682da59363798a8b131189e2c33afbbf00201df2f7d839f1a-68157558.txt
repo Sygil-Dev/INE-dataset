@@ -1,4 +1,5 @@
 alien
+armor
 auction
 bald
 bare midriff
@@ -20,10 +21,12 @@ feline
 feline ears
 hand cuffs
 handcuffs
+hat
 headband
 headwear
 holding weapon
 holding whip
+hood
 large ears
 led through crowd
 lightwhip
@@ -43,6 +46,7 @@ outdoors
 prisoner
 ralph lomotan
 rating:questionable
+rating:safe
 restraints
 road
 series:clone wars

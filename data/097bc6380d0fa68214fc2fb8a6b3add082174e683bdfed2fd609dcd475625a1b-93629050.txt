@@ -1,0 +1,23 @@
+architecture
+bridge
+building
+bush
+city
+cloud
+cloudy sky
+forest
+grass
+nature
+outdoors
+overgrown
+plant
+rating:safe
+river
+scenery
+sky
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+title:artstaion wild west challenge by artist nastya ermakova
+tree
+uploader:anon_ymou5
+water

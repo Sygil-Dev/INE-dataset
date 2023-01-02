@@ -5,15 +5,18 @@ areola slip
 areolae
 arm up
 armpits
+basketball
 beach
 beach towel
 bikini
+black swimsuit
 blue eyes
 booru:danbooru
 booru:rule34.xxx
 booru:sankaku channel
 breasts
 category:ine
+character:manjuu (azur lane)
 cleavage
 commission
 creator:cutesexyrobutts
@@ -24,9 +27,12 @@ dark-skinned female
 female
 gender:female
 guro
+halloween
 hentai-foundry
+jack-o'-lantern
 large breasts
 light smile
+lips
 long hair
 looking at viewer
 lotion
@@ -60,8 +66,10 @@ one arm up
 original
 paid reward
 parted lips
+patreon username
 ponytail
 pov
+pumpkin
 rating:contains female nudity
 rating:explicit
 rating:mature
@@ -73,6 +81,7 @@ sexy pose
 shadow
 sideboob
 signature
+silver hair
 site:patreon
 site:yiff.party
 skin
@@ -98,4 +107,6 @@ title:fit beach babe by cutesexyrobutts
 toned
 towel
 uploader:bleeding_choker
+watermark
+web address
 white hair

@@ -1,0 +1,20 @@
+book
+book stack
+bookmark
+bookshelf
+fantasy
+full moon
+globe
+hat
+holding book
+hood
+library
+moon
+open book
+quill
+rating:safe
+reading
+subreddit:imaginarylibraries
+title:candlekeep mysteries by clint cearley
+uploader:mediadavid
+witch hat

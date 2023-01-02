@@ -1,0 +1,31 @@
+blue sky
+building
+category:ine
+cloud
+cloudy sky
+condensation trail
+day
+desert
+hill
+horizon
+landscape
+mountain
+mountainous horizon
+no humans
+ocean
+outdoors
+rating:safe
+ruins
+scenery
+signature
+sky
+smoke
+subreddit:imaginarymonuments
+subreddit:imarchitecture
+sun
+sunrise
+sunset
+title:karn's bastion by piotr dura
+tower
+uploader:[deleted]
+uploader:faeryknight

@@ -1,0 +1,22 @@
+arch
+architecture
+bridge
+building
+city
+clock
+clock tower
+east asian architecture
+greyscale
+ground vehicle
+letterboxed
+monochrome
+motor vehicle
+rating:safe
+scenery
+stairs
+statue
+subreddit:imaginarysliceoflife
+title:galactic highway concept art by bruce zick
+tower
+traditional media
+uploader:yannirotten

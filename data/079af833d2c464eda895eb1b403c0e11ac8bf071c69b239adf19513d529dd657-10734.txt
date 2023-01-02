@@ -1,11 +1,27 @@
+1girl
+apple
+artist name
+breasts
 category:ine
+company name
+copyright name
 creator:hoàng lập (solan)
+crown
+dated
 egyptian goddess
+fruit
+gem
 genre:fantasy
 goddess
 hathor
+jewelry
 medium:digital 2d
 mythology
+necklace
+orb
+rating:safe
+sitting
+staff
 subreddit:imaginaryfashion
 subreddit:imaginaryimmortals
 subreddit:imaginarymythology
@@ -19,3 +35,5 @@ title:hathor by hoàng lập (solan)
 title:hathor by hoàng lập (solan) (xpost /r/inegentlemanboners)
 uploader:lol33ta
 uploader:malign-god
+watermark
+web address

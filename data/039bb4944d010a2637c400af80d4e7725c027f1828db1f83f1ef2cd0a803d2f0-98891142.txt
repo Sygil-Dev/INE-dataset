@@ -1,0 +1,20 @@
+cloud
+cloudy sky
+day
+fantasy
+forest
+lake
+landscape
+mountain
+nature
+outdoors
+rating:safe
+river
+scenery
+sky
+subreddit:imaginarymonuments
+title:the remains of the past by anato finnstark
+tree
+uploader:myrandall
+water
+waterfall

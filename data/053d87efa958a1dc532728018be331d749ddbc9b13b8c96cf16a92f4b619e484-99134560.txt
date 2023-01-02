@@ -1,0 +1,19 @@
+cloud
+cloudy sky
+day
+grass
+landscape
+mountain
+mountainous horizon
+no humans
+outdoors
+rating:safe
+river
+rock
+scenery
+sky
+subreddit:imaginarymonuments
+title:monuments by nate rudichuk
+tree
+uploader:blood-n-cheese
+water

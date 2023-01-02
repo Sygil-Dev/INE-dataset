@@ -1,0 +1,25 @@
+armor
+cape
+full armor
+full body
+gauntlets
+greaves
+helmet
+holding
+holding sword
+holding weapon
+male focus
+rating:safe
+shoulder armor
+simple background
+solo
+standing
+subreddit:imaginaryarmor
+subreddit:imaginaryknights
+subreddit:imcharacters
+subreddit:imtechnology
+sword
+title:knight by cheolseung ok
+uploader:ajcarrington
+weapon
+white background

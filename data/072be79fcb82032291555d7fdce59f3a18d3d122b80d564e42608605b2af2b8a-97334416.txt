@@ -1,0 +1,20 @@
+cave
+cliff
+cloud
+desert
+facing away
+landscape
+mountain
+mountainous horizon
+outdoors
+rating:safe
+rock
+scenery
+sky
+snow
+star (sky)
+subreddit:imaginarywastelands
+subreddit:imlandscapes
+title:dune paperback cover by john schoenherr
+uploader:yannirotten
+water

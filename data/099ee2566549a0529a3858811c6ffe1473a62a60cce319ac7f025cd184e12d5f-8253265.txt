@@ -1,20 +1,42 @@
 1other
+acorn
 ambiguous gender
 anato finnstark
 anatofinnstark
 art
+autumn
+autumn leaves
 background
+battle
 beats
 bloodborne
 bloodbornefanart
 blue
 bones
 boss
+breathing fire
 bridge
+burning
+burnt clothes
+campfire
+candle
 canine
 cape
 castle
 category:ine
+character:aki minoriko
+character:aki shizuha
+character:charizard
+character:charmander
+character:cyndaquil
+character:endeavor (boku no hero academia)
+character:fujiwara no mokou
+character:godzilla
+character:inubashiri momiji
+character:squirtle
+character:torchic
+cloud
+cooking
 creator:anato finnstark
 creator:anatofinnstark
 crow
@@ -30,40 +52,75 @@ digitaldrawing
 digitalpainting
 door
 dragon
+dragonfly
+dusk
+embers
+evening
+explosion
+falling leaves
 fantasy
+fiery hair
+fiery wings
 figure
 finnstark
+fire
 firekeeper
+fireplace
+flame
+flaming sword
+flaming weapon
 forest
 fungi
 fungus
 giant
+ginkgo leaf
 glowing
+goldfish
+gradient sky
 grand
+grill
 guerrier
 highres
+holding leaf
+ice
 knight
 ladymaria
 ladymariaoftheastralclocktowe
 ladywoman
 landscape
+leaf
+leaf background
+leaf hair ornament
+leaf on head
 light
 lone
 luminescence
+maple leaf
 maria
 meta:highres
+molten rock
+mountain
+mountainous horizon
 namco
+nature
 night
+no humans
+orange (fruit)
+orange sky
+orange theme
 outdoors
 painting
+phoenix
 pink
 planet
 problem
+pyrokinesis
 rating:general
 rating:safe
 rating:sensitive
 raven
 red cape
+red sky
 ruins
 samurai
 scenery
@@ -71,19 +128,32 @@ series:original
 shower
 silhouette
 skull
+sky
+smoke
 solo
 souls
 space
+sparks
 spartan
+starter pokemon trio
 strange
 subreddit:imaginaryworlds
 subreddit:imlandscapes
+sun
+sunset
+sweet potato
 sword
+sword of hisou
+tail-tip fire
 title:the king's journey : forgotten garden
 title:the king's journey: forgotten garden, by anato finnstark
+torch
 tree
+twilight
 uploader:drunkindragon
+volcano
 warrior
+waterfall
 weapon
 weird
 wolf

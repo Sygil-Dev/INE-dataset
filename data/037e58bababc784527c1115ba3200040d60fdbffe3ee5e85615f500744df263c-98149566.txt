@@ -1,6 +1,10 @@
+1boy
+1girl
 2girls
 angel
+angel and devil
 angel wings
+asymmetrical wings
 bandaged hand
 bandages
 bandaid
@@ -12,10 +16,14 @@ bed sheet
 brown hair
 cardiogram
 closed eyes
+couple
 creator:nashiko (nanaju ko)
 day
+detached wings
+dove
 dress
 feathered wings
+feathers
 feet
 feet out of frame
 floating
@@ -26,12 +34,14 @@ green eyes
 grey shirt
 halo
 hands on another's face
+hetero
 highres
 hospital
 hospital bed
 imminent kiss
 indoors
 intravenous drip
+kiss
 long hair
 long sleeves
 looking at another
@@ -41,18 +51,24 @@ meta:absurdres
 meta:commentary
 meta:highres
 multiple girls
+multiple wings
 nashiko (nanaju ko)
 on back
 on bed
 orange hair
 parted lips
+pegasus
 pillow
+plant
 rating:general
+rating:safe
 series:original
 shirt
 short sleeves
+single wing
 smile
 soles
+spread wings
 subreddit:imaginaryangels
 subreddit:imraces
 sunlight
@@ -64,7 +80,10 @@ uploader:vecttor
 vase
 wavy hair
 white dress
+white feathers
+white wings
 wide sleeves
+window
 wings
 yellow flower
 yuri

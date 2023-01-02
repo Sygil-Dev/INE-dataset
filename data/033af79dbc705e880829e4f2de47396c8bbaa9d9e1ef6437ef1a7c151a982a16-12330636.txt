@@ -2,7 +2,10 @@ anthro
 anthropomorphism
 architecture
 armor
+bird
+black wings
 booru:e621
+brick wall
 brown body
 brown feathers
 category:ine
@@ -12,17 +15,22 @@ clothing
 clothing:armor
 clothing:tagme
 creator:james ryman
+crow
+dragon
 dutch angle
+eagle
 feathers
 fully clothed
 gem
 group
 guard
+hat
 holding object
 holding sword
 holding weapon
 melee weapon
 meta:official art
+owl
 rating:safe
 scale armor
 scale mail

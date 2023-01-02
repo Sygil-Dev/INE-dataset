@@ -1,0 +1,28 @@
+architecture
+bridge
+building
+bush
+city
+day
+fantasy
+fence
+garden
+gate
+grass
+house
+nature
+no humans
+outdoors
+overgrown
+path
+plant
+rating:safe
+river
+road
+ruins
+scenery
+subreddit:imaginaryruins
+title:an old house by jaecheol park (paperblue)
+tower
+tree
+uploader:myrandall

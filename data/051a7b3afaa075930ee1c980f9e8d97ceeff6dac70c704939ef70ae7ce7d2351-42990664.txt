@@ -1,0 +1,23 @@
+battle
+cannon
+category:ine
+city
+damaged
+explosion
+fire
+ground vehicle
+mecha
+military
+military vehicle
+motor vehicle
+no humans
+rain
+rating:safe
+realistic
+science fiction
+subreddit:imaginarymechs
+subreddit:imtechnology
+tank
+title:rampage, simon klinz
+tower
+uploader:superbreality2

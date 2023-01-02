@@ -1,10 +1,13 @@
 claws
+cloud
 creator:sandara
 day
 detailed background
 duo
 female
+feral
 flying
+gesture
 grass
 group
 horn
@@ -23,8 +26,10 @@ species:human
 species:mammal
 species:scalie
 species:western dragon
+standing
 subreddit:imaginaryskyscapes
 subreddit:imlandscapes
 title:clouds by sandara
 uploader:lol33ta
+waving
 wings

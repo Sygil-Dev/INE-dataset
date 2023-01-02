@@ -1,7 +1,11 @@
 1 female
+1girl
+adjusting hair
 areolae
 arms up
+artist name
 breasts
+breasts apart
 breasts outside
 brown eyes
 brown hair
@@ -12,6 +16,7 @@ clothing:hair pin
 clothing:shirt
 creator:dandon fuga
 ear piercing
+earrings
 erect nipples
 eyebrows
 eyelashes
@@ -20,10 +25,17 @@ eyes
 facial piercing
 female
 female only
+freckles
 gender:female
+grey background
 guro
 hair bun
+hair pulled back
 hairpin
+hood
+hoodie
+jewelry
+lips
 looking at viewer
 makeup
 maria
@@ -38,11 +50,16 @@ meta:original character
 meta:tagme
 mole
 mole on breast
+mole on neck
 mole under eye
 month:7
+mouth hold
+nipple piercing
 nipples
 no bra
+nose
 official release:yes
+open clothes
 open shirt
 perky breasts
 pierced
@@ -53,6 +70,7 @@ piercings
 pov
 puffy areolae
 rating:explicit
+rating:questionable
 red
 seductive look
 series:original
@@ -69,4 +87,5 @@ title:grumpy maria by dandon fuga
 topless
 tying hair
 uploader:incredibel
+upper body
 year:2016

@@ -1,0 +1,36 @@
+blue sky
+bridge
+building
+bush
+castle
+city
+city lights
+cityscape
+cliff
+cloud
+cloudy sky
+day
+forest
+horizon
+lake
+landscape
+mountain
+mountainous horizon
+nature
+no humans
+outdoors
+rating:safe
+river
+scenery
+sky
+skyline
+skyscraper
+subreddit:imaginarywaterfalls
+subreddit:imnature
+sunset
+title:journey to the lost city by alayna danner
+tower
+tree
+uploader:dragunmancer
+water
+waterfall

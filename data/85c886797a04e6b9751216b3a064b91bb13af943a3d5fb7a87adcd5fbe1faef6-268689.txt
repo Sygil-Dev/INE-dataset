@@ -42,6 +42,7 @@ sideboob
 sky
 solo
 species:mammal
+subreddit:imaginarydieselpunk
 subreddit:imaginaryfuturism
 subreddit:imaginaryvehicles
 subreddit:imtechnology

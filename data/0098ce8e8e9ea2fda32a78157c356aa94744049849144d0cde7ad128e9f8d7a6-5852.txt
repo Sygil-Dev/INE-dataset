@@ -6,12 +6,17 @@ axe
 bangs
 battle
 black hair
+blurry
+blurry foreground
 booru:danbooru-safebooru
 breastplate
+breasts
 category:ine
 character:avatar (ff14)
 character:roegadyn
+colored skin
 creator:qt0ri
+depth of field
 dual wielding
 dutch angle
 english
@@ -29,6 +34,8 @@ holding
 holding gun
 holding object
 holding weapon
+horns
+medium breasts
 medium:16:10 aspect ratio
 medium:commission
 medium:high resolution
@@ -37,6 +44,7 @@ meta:commentary
 meta:commission
 meta:english commentary
 meta:highres
+moon
 open mouth
 outstretched arm
 pale skin
@@ -56,6 +64,7 @@ signature
 silhouette
 site:danbooru
 site:gelbooru
+solo
 solo focus
 species:roegadyn
 studio:square enix

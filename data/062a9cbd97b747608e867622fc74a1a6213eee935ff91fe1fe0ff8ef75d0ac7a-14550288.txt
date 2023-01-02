@@ -1,26 +1,42 @@
 1 female
 1girl
+ar-15
 assault rifle
+bullpup
 category:ine
 creator:kasagarasu
 creator:mihato senba
 cyberpunk
 cyborg
 explosive
+finger on trigger
 firearm
 full body
+gas mask
 gender:female
 genre:cyberpunk
 genre:science fiction
 grenade
+grenade launcher
+grey background
 grey hair
 gun
+h&k ump
 hair over one eye
+handgun
+headphones
+headset
+heckler & koch
 holding
 holding gun
 holding object
 holding weapon
+holster
+holstered weapon
+jacket
+knee pads
 knife
+m4 carbine
 machine gun
 magazine (weapon)
 mecha
@@ -31,20 +47,30 @@ mechanical legs
 medium:high resolution
 medium:simple background
 meta:commentary
+orange eyes
+p90
+pistol
 prosthesis
 rating:mature
 rating:s
 rating:safe
 rifle
+robot
+science fiction
+scope
 series:original
 short hair
 simple background
 single mechanical arm
+sniper rifle
 solo
+submachine gun
 subreddit:imaginarycybernetics
 subreddit:imtechnology
+suppressor
 title:luna by k454
 trigger discipline
 uploader:scott_paladin
+watch
 weapon
 yellow eyes

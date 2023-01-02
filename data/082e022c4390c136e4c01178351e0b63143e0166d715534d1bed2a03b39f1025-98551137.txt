@@ -1,0 +1,43 @@
+architecture
+bridge
+building
+castle
+category:ine
+chain-link fence
+chimney
+city
+city lights
+cityscape
+clock tower
+cloud
+cloudy sky
+east asian architecture
+ferris wheel
+house
+lamppost
+milky way
+night
+night sky
+no humans
+outdoors
+pagoda
+rating:safe
+reflection
+river
+road
+rooftop
+scenery
+shooting star
+sky
+skyline
+skyscraper
+star (sky)
+starry sky
+street
+subreddit:imaginarybestof
+title:[/r/imaginarycityscapes] sci-fi city by mike luard
+tokyo (city)
+tower
+town
+twilight
+uploader:lol33ta

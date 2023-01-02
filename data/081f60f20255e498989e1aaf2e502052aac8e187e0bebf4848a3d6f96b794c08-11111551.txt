@@ -1,10 +1,15 @@
 1 female
+1girl
 ::d
+angel
+angel wings
 art
 bangs
 beads
 blonde hair
+blue rose
 blush
+bouquet
 bow
 brick
 character:juni (sometimes)
@@ -13,10 +18,12 @@ clothing:earrings
 creator:nashi juni
 dress
 earrings
+feathered wings
 flower
 from side
 gender:female
 hair bow
+halo
 head tilt
 jewelry
 juni (sometimes)
@@ -26,30 +33,43 @@ meta:official art
 mini wings
 open mouth
 orange eyes
+orange flower
 outdoors
 outside
 parted bangs
 parted lips
 petals
+pink flower
+pink rose
 pov
 puffy short sleeves
 puffy sleeves
+purple rose
 rating:mature
 rating:safe
+red bow
 red flower
 red rose
 rose
+rose petals
 series:sometimes she's the light
 short hair
 short sleeves
+single wing
 sitting
 smile
 solo
 sometimes she's the light
 subreddit:imaginaryangels
 subreddit:imraces
+thorns
 title:heavenly moments by naschi
+tulip
 uploader:lol33ta
 wavy hair
 white dress
+white rose
+white wings
 wings
+yellow flower
+yellow rose

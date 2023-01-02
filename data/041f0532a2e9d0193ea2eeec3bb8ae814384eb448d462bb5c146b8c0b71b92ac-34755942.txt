@@ -1,11 +1,18 @@
+1girl
+blue skin
+breasts
 category:ine
 character:cortana
 creator:marsminer
+full body
 gender:female
 halo
+hand on hip
 hi res
 medium:high resolution
 not furry
+rating:safe
+robot joints
 series:halo
 series:halo (series)
 series:mario bros
@@ -16,6 +23,7 @@ series:xbox game studios
 solo
 species:humanoid
 species:shyguy
+standing
 studio:microsoft
 studio:nintendo
 subreddit:imaginaryhalo

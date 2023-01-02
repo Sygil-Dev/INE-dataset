@@ -1,0 +1,24 @@
+battle
+cannon
+caterpillar tracks
+desert
+explosion
+ground vehicle
+gun
+machine gun
+mecha
+military
+military vehicle
+motor vehicle
+rating:safe
+realistic
+science fiction
+signature
+subreddit:imaginarytechnology
+tank
+title:high octane rampage by tomi väisänen
+turret
+uniform
+uploader:one_giant_nostril
+vehicle focus
+weapon

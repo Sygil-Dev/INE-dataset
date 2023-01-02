@@ -1,5 +1,9 @@
 1 female
 1 male
+1boy
+1girl
+breasts
+brown hair
 category:ine
 character:bob (meago)
 character:emily (meago)
@@ -11,15 +15,33 @@ face
 gender:female
 gender:male
 hetero
+hood
+hoodie
 hug
 imminent kiss
+jacket
+kiss
+lens flare
+medium breasts
+night
 rain
 rating:safe
 series:original
+shooting star
+short hair
+sideboob
+signature
+sleeveless
 smile
+sparkle
 subreddit:imaginarylovers
 subreddit:imcharacters
+sun
 tagme
 title:in the rain
 title:in the rain, by meago
 uploader:dawnpaladin
+wet
+wet clothes
+wet hair
+white hair

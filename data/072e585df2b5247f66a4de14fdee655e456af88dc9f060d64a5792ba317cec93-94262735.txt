@@ -1,0 +1,29 @@
+architecture
+blue sky
+bridge
+building
+bush
+castle
+city
+cityscape
+cloud
+day
+east asian architecture
+fantasy
+gate
+house
+mountain
+nature
+no humans
+outdoors
+rating:safe
+ruins
+scenery
+sky
+skyscraper
+subreddit:imaginarycastles
+subreddit:imarchitecture
+title:"tomar - knights templar castle" by eric elwell
+tower
+tree
+uploader:yannirotten

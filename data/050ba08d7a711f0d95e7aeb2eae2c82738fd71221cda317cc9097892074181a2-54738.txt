@@ -1,0 +1,38 @@
+architecture
+bench
+blue sky
+building
+bush
+category:ine
+cloud
+cloudy sky
+day
+east asian architecture
+fence
+foliage
+forest
+garden
+grass
+house
+mountain
+nature
+no humans
+outdoors
+palm tree
+park
+path
+plant
+rating:safe
+road
+scenery
+shrine
+sky
+stone lantern
+subreddit:imaginarydwellings
+subreddit:imarchitecture
+title:house in daegu by tara spruit
+torii
+tree
+tree shade
+uploader:[deleted]
+uploader:owntheknight

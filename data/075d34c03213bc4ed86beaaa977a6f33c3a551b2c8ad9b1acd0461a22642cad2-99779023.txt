@@ -1,0 +1,25 @@
+armor
+belt
+black border
+border
+breastplate
+full armor
+gauntlets
+helmet
+holding
+holding sword
+holding weapon
+letterboxed
+male focus
+pauldrons
+rating:safe
+red background
+red border
+shoulder armor
+solo
+standing
+subreddit:imaginaryknights
+sword
+title:fallen knight by menaslg
+uploader:tabulaerrata
+weapon

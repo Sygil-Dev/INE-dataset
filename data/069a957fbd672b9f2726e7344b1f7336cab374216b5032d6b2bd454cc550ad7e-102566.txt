@@ -1,0 +1,30 @@
+architecture
+bridge
+building
+burning
+candle
+category:ine
+city
+city lights
+cityscape
+cloud
+destruction
+fire
+flame
+military
+rating:safe
+red sky
+ruins
+scenery
+sky
+skyscraper
+smoke
+subreddit:imaginarymonuments
+subreddit:imaginarywastelands
+subreddit:imarchitecture
+subreddit:imlandscapes
+sunset
+title:singularity: statue by marc simonetti
+tower
+uploader:[deleted]
+uploader:faeryknight

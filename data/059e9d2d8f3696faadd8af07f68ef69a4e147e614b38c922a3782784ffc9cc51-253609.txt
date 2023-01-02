@@ -1,0 +1,22 @@
+cannon
+category:ine
+desert
+dust
+ground vehicle
+gun
+mecha
+military
+military vehicle
+motor vehicle
+multiple boys
+rating:safe
+realistic
+science fiction
+subreddit:imaginaryaviation
+subreddit:imaginaryvehicles
+subreddit:imtechnology
+title:gunship by alex ichim
+uploader:adverserius
+uploader:barson2408
+vehicle focus
+weapon
