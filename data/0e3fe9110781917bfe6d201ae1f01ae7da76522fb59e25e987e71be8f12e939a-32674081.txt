@@ -1,0 +1,30 @@
+building
+castle
+category:ine
+city
+cityscape
+cloud
+cloudy sky
+evening
+fire
+military
+military vehicle
+mountain
+ocean
+outdoors
+rating:safe
+ruins
+scenery
+ship
+sky
+smoke
+subreddit:imaginarymonuments
+subreddit:imarchitecture
+sun
+sunlight
+sunset
+title:eagle temple ruins by tiago sousa
+tower
+twilight
+uploader:barson2408
+watercraft
