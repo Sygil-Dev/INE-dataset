@@ -1,3 +1,4 @@
+1boy
 1girl
 booru:sankaku
 brown eyes
@@ -12,13 +13,19 @@ gibson
 girl
 gloves
 lips
+male focus
 medium:artist name
+purple eyes
 rating:s
+rating:safe
 ringlets
+solo
+star (sky)
 subreddit:imaginaryfashion
 subreddit:immeta
 title:gibson girl
 title:gibson girl by réjean dubois
 updo
 uploader:lol33ta
+upper body
 window

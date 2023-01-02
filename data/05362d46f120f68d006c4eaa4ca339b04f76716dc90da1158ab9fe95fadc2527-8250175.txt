@@ -1,4 +1,8 @@
+1girl
+bare tree
+beads
 blue eyes
+branch
 building
 category:ine
 cats
@@ -8,15 +12,25 @@ clothing:necklace
 house
 jakub rebelka
 jewelry
+lantern
+leaf
+long hair
+long sleeves
+makeup
 mantle
 nature
 painting
+plant
 plants
+rating:safe
+solo
 staff
 subreddit:imaginarycolorscapes
 subreddit:immeta
 title:wood witch by jakub rebelka
 title:y by jakub rebelka
+tree
 uploader:lol33ta
 uploader:oliovandola
 white hair
+wide sleeves

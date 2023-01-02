@@ -1,0 +1,23 @@
+architecture
+armour
+book
+bookshelf
+building
+category:ine
+city
+cityscape
+design
+furio-tedeschi-deathmaskturquoise
+images and maps
+library
+npc design and other assets
+rating:safe
+scenery
+skyscraper
+subreddit:imaginaryartifacts
+subreddit:immeta
+title:death mask by furio tedeschi
+transparent background
+uploader:myrandall
+watermark
+web address

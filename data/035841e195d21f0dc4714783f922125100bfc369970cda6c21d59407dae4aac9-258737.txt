@@ -1,21 +1,46 @@
 3d environment
 architecture
+argyle
+argyle background
+argyle legwear
+board game
 cafe
 category:ine
+chair
+checkered
+checkered background
+checkered flag
+checkered floor
+checkered kimono
+checkered legwear
+chess piece
 coffee shop
 contemporary
 creator:michael manfredi
 environment art
 environments
 game art
+indoors
+kitchen
 medium:traditional 3d
+mirror
 modern
 new york city
 nyc
+perspective
+rating:safe
+soccer ball
 subreddit:imaginaryinteriors
 subreddit:imarchitecture
+table
+telstar
+tile floor
+tile wall
+tiles
 title:coffee shop
 title:coffee shop by michael manfredi
 unreal engine
 uploader:mj709
+vanishing point
 website:reddit
+window shade

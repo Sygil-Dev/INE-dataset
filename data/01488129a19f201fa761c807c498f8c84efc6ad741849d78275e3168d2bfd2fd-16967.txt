@@ -1,0 +1,23 @@
+armor
+breastplate
+cape
+category:ine
+faulds
+full armor
+full body
+fur trim
+gauntlets
+greaves
+helmet
+holding
+holding sword
+holding weapon
+rating:safe
+solo
+standing
+subreddit:imaginaryknights
+subreddit:imcharacters
+sword
+title:knight by daniel ljunggren
+uploader:tamander
+weapon

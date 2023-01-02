@@ -1,0 +1,24 @@
+arch
+architecture
+bookshelf
+brick wall
+bridge
+building
+category:ine
+city
+cityscape
+door
+library
+no humans
+plant
+potted plant
+railing
+rating:safe
+scenery
+stairs
+subreddit:imaginarylibraries
+subreddit:imarchitecture
+title:baroque library by sofia da silva
+tower
+uploader:mediadavid
+window

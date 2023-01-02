@@ -1,0 +1,29 @@
+aircraft
+airplane
+battle
+cloud
+cloudy sky
+condensation trail
+helicopter
+horizon
+lens flare
+light rays
+military
+military vehicle
+mountain
+ocean
+rating:safe
+realistic
+ship
+sky
+smoke
+subreddit:imaginaryfuturewar
+subreddit:imaginaryweaponry
+subreddit:imtechnology
+sun
+sunbeam
+sunlight
+sunset
+title:star atlas ballistic turrets by sören meding
+uploader:yannirotten
+watercraft

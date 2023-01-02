@@ -1,4 +1,5 @@
 1 female
+1girl
 animal
 animal ears
 artist name
@@ -21,7 +22,9 @@ gender:female
 green eyes
 head down
 hikimayu
+holding
 in profile
+kimono
 long hair
 long sleeves
 medium:artist name
@@ -33,6 +36,7 @@ rating:safe
 ribbon
 series:original
 side view
+signature
 sky
 smile
 solo

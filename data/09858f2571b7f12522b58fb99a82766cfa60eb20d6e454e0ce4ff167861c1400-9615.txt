@@ -1,0 +1,22 @@
+architecture
+bridge
+building
+category:ine
+city
+city lights
+cityscape
+creator:nivanh chanthara
+east asian architecture
+library
+medium:digital 2d
+rating:safe
+road
+scenery
+signature
+skyscraper
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+title:babiru 63 by nivanh chanthara
+title:babiru_63
+tower
+uploader:adverserius

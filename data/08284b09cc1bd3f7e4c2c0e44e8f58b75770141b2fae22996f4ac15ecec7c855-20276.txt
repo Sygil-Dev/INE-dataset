@@ -1,5 +1,7 @@
 1 female
 1girl
+aqua background
+ass
 asymmetrical legwear
 black legwear
 blue eyes
@@ -9,6 +11,7 @@ booru:gelbooru
 booru:safebooru
 booru:sankaku
 category:ine
+chalkboard
 clothing
 clothing:black legwear
 clothing:hood
@@ -16,6 +19,7 @@ clothing:hoodie
 clothing:legwear
 clothing:shorts
 clothing:thigh-highs
+colored skin
 creator:koyoriin
 creator:koyorin
 creator:こよりん
@@ -28,7 +32,11 @@ female solo
 gender:female
 genre:cyberpunk
 genre:science fiction
+gradient
+gradient background
+grass
 green background
+green theme
 guro
 hood
 hood down
@@ -49,6 +57,7 @@ open mouth
 pointed ears
 pointy ears
 pov
+rainbow background
 rating:explicit
 rating:mature
 rating:q
@@ -57,9 +66,12 @@ rating:s
 rating:safe
 series:original
 sharp teeth
+shoes
 shorts
 single thigh-high
 single thighhigh
+sleeves past fingers
+sleeves past wrists
 solo
 stading
 standing

@@ -1,5 +1,7 @@
 1 female
+1girl
 angel
+angel wings
 armor
 armored boots
 art
@@ -16,6 +18,7 @@ clothing:armored boots
 clothing:boots
 clothing:footwear
 clothing:gloves
+copyright name
 creator:james ryman
 creator:jamesryman
 dagger
@@ -24,7 +27,10 @@ feathers
 footwear
 gender:female
 gloves
+glowing
+halo
 james ryman
+long hair
 magic
 medium:watermark
 medium:web address
@@ -47,4 +53,5 @@ uploader:myrandall
 watermark
 weapon
 web address
+white wings
 wings

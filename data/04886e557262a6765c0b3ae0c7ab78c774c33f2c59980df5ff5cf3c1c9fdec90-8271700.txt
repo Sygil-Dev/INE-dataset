@@ -1,0 +1,21 @@
+architecture
+bridge
+building
+castle
+category:ine
+city
+cityscape
+cloud
+mountain
+no humans
+outdoors
+rating:safe
+scenery
+sky
+subreddit:imaginarytemples
+subreddit:imarchitecture
+sunset
+title:temple by the river by daniele solimene
+tower
+tree
+uploader:nitemyria

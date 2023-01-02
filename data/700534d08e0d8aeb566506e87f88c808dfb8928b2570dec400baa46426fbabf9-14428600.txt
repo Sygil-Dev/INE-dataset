@@ -1,0 +1,55 @@
+1 female
+1 male
+1boy
+1girl
+artist:gemi
+bag
+black dress
+black pants
+blue flower
+blue sky
+clothing:dress
+clothing:hat
+clothing:headwear
+clothing:legwear
+clothing:pants
+clothing:shirt
+clothing:short sleeves
+clothing:shoulder bag
+clothing:white shirt
+cloud
+clouds
+cloudy sky
+copyright:original
+creator:gemi
+day
+dress
+flower
+gender:female
+gender:male
+ground vehicle
+hat
+meta:commentary request
+outdoors
+outside
+pants
+power lines
+railroad tracks
+rating:general
+rating:mature
+rating:safe
+rating:sensitive
+real person
+series:original
+shirt
+short sleeves
+shoulder bag
+sky
+standing
+subreddit:imaginarysliceoflife
+title:on aboard (gemi333) (げみ) [original]
+train
+train station
+uploader:takuu202
+vehicle
+white shirt

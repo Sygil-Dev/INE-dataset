@@ -1,6 +1,8 @@
 2018
 ambiguous gender
 ambiguous_gender
+animal
+animal focus
 anthropomorphism
 artist:cryptid-creations
 black eyes
@@ -19,6 +21,7 @@ derp_eyes
 eating
 feathers
 food
+full body
 fur
 gender:ambiguous
 gender:male
@@ -30,6 +33,7 @@ medium:simple background
 medium:white background
 meme:humor
 meta:2018
+no humans
 overweight
 plant
 pun

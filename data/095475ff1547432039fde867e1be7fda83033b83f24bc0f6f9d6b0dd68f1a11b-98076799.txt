@@ -1,4 +1,5 @@
 1girl
+armor
 bug
 butterfly
 cape
@@ -11,6 +12,7 @@ english commentary
 floating hair
 fur trim
 fur-trimmed cape
+gauntlets
 grey dress
 helmet
 highres
@@ -25,10 +27,12 @@ mechanical arms
 meta:commentary
 meta:english commentary
 meta:highres
+petals
 pink lips
 prosthesis
 prosthetic arm
 rating:general
+rating:safe
 red butterfly
 red cape
 red hair
@@ -37,6 +41,7 @@ scar
 series:elden ring
 single mechanical arm
 solo
+standing
 subreddit:imaginarydarksouls
 sword
 thedurianart

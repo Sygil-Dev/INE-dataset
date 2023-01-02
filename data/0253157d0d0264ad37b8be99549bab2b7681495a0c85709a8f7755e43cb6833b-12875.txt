@@ -9,21 +9,27 @@ category:ine
 claws
 creator:kenket
 feral
+full body
 furry
 gen 1 pokemon
 gen 1 pokémon
 gender:ambiguous
 illustration
+leaf
 medium:traditional media
 meta:2018
 meta:traditional media (artwork)
+no humans
 notched ear
 onionturtle
+outdoors
 plant
 poekmon
+pokemon (creature)
 pokemonart
 pokemonfanart
 rating:safe
+realistic
 series:nintendo
 series:pokémon
 solo

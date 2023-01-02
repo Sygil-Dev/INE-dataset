@@ -12,13 +12,19 @@ black hair
 black legwear
 black thighhighs
 blood
+blood on clothes
+blood on face
+blood on hands
 blood on weapon
+blood splatter
+blood stain
 bloody weapon
 booru:danbooru
 booru:gelbooru
 boots
 breasts
 character:yor briar
+cleavage
 creator:artgerm
 creator:stanley lau
 dagger
@@ -41,6 +47,7 @@ high heels
 holding
 holding dagger
 holding weapon
+injury
 jewelry
 knife
 ladle
@@ -49,6 +56,7 @@ latex
 light smile
 light-skinned female
 lips
+long hair
 looking at viewer
 medium:high resolution
 meta:commentary
@@ -58,6 +66,7 @@ nail polish
 parted lips
 pot
 rating:questionable
+rating:safe
 rating:sensitive
 red eyes
 red nails

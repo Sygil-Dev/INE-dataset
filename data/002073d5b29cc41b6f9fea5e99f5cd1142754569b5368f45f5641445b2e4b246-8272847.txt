@@ -6,6 +6,8 @@ alternative costume
 alternative hair color
 asymmetrical hair
 basket
+bat
+black nails
 book
 booru:danbooru
 booru:danbooru-safebooru
@@ -15,6 +17,7 @@ booru:sankaku channel
 breasts
 brown eyes
 candle
+candy
 category:ine
 character:handler (monster hunter world)
 cleavage
@@ -36,13 +39,19 @@ female
 fingernails
 food
 gender:female
+ghost
 gothic lolita
 grey hair
 hair tie
 halloween
+halloween bucket
+halloween costume
 handler (monster hunter world)
+happy halloween
 hat
 hat tip
+holding basket
+holding book
 jack-o'-lantern
 jack-o'-lantern earrings
 jewelry
@@ -64,6 +73,8 @@ pixiv work:71448774
 point of view
 ponytail
 pov
+pumpkin
+pumpkin hair ornament
 purple lips
 purple lipstick
 purple nails
@@ -77,17 +88,26 @@ series:monster hunter: world
 sharp fingernails
 short hair
 side ponytail
+silk
 silver hair
+skull
 smile
 solo
+spider web
 studio:capcom
 subreddit:imaginarywitches
 subreddit:imcharacters
 tied hair
 title:halloween hub lass
 title:halloween hub lass by zoma phamoz
+tombstone
 top hat
+trick or treat
+twintails
 uploader:net-diver
+white hair
 wide sleeves
+witch
+witch hat
 wristband
 yellow eyes

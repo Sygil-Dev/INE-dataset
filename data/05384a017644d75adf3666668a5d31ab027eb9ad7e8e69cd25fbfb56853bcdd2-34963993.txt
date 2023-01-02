@@ -1,7 +1,12 @@
+1girl
 black hair
+blurry
+blurry background
+boots
 braid (braids)
 brown eyes
 category:ine
+closed mouth
 creator:majo
 creator:yeonjun park
 fanny pack
@@ -9,20 +14,25 @@ full body
 fur
 fur collar
 fur trim
+fur-trimmed boots
 girl
 hat
 highres
 knee boots
 long hair
+long sleeves
 looking at viewer
 medium:digital 2d
 mittens
+outdoors
 parted lips
+rating:safe
 realistic
 series:original
 single
 site:anime-pictures.net
 snow
+solo
 standing
 subreddit:imaginarynatives
 subreddit:imcharacters
@@ -32,4 +42,6 @@ title:inuit_girl_doodle by yeonjun park
 traditional clothes
 twin braids
 uploader:sr_myers
+water
+wide sleeves
 winter

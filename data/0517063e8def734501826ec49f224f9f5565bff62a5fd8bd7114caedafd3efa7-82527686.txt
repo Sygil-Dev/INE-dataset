@@ -1,0 +1,22 @@
+blue sky
+building
+city
+cloud
+day
+grass
+leaf
+mountain
+no humans
+outdoors
+overgrown
+palm tree
+plant
+rating:safe
+scenery
+sky
+subreddit:imaginarymonuments
+subreddit:imarchitecture
+title:the ancient jungle temple watches
+tree
+uploader:snowpixelapp
+vines

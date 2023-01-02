@@ -1,0 +1,56 @@
+arch
+architecture
+balcony
+bookshelf
+brick
+brick wall
+bridge
+building
+castle
+category:ine
+chain-link fence
+chimney
+city
+city lights
+cityscape
+clock
+clock tower
+cloud
+crowd
+east asian architecture
+fantasy
+fence
+ferris wheel
+fountain
+gate
+house
+lamppost
+library
+no humans
+outdoors
+pagoda
+pavement
+post-apocalypse
+railing
+rating:safe
+real world location
+river
+road
+rooftop
+scenery
+sky
+skyline
+skyscraper
+smoke
+stadium
+stairs
+street
+subreddit:imaginarycityscapes
+subreddit:imlandscapes
+title:untiled by teikoku shônen(imperial boy)
+tokyo (city)
+tower
+town
+uploader:kuaiban
+voile
+windmill

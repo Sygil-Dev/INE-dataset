@@ -1,0 +1,31 @@
+animal
+bamboo
+bare tree
+bird
+branch
+cactus
+day
+forest
+grass
+hat
+ivy
+jungle
+leaf
+mushroom
+nature
+outdoors
+palm tree
+plant
+potted plant
+pouch
+rating:safe
+solo
+subreddit:imaginaryanimals
+subreddit:imnature
+sword
+title:a dispute over a boron cardgame by artist piotr sokołowski
+tombstone
+tree
+uploader:anon_ymou5
+vines
+weapon

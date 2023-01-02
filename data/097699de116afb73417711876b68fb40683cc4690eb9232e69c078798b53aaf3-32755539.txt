@@ -10,7 +10,11 @@ booru:sankaku
 booru:sankaku channel
 brown hair
 category:ine
+character:blue oak
 character:gen 1 pokemon
+character:hilbert (pokemon)
+character:lucas (pokemon)
+character:nate (pokemon)
 character:pikachu
 character:pokemon character
 character:pokemon species
@@ -18,6 +22,9 @@ character:pokemon trainer
 character:poliwhirl
 character:protagonist (pokemon)
 character:red (pokemon)
+character:rosa (pokemon)
+character:rotom
+character:rotom phone
 character:spearow
 clothing:baseball cap
 clothing:footwear
@@ -39,21 +46,29 @@ full body
 gen 1 pokemon
 gen 1 pokémon
 gender:male
+grey cardigan
 hat
 headwear
 hiking
+holding
+holding poke ball
+holding pokemon
+jacket
 legwear
 male
+male focus
 medium:digital 2d
 medium:high resolution
 medium:image
 medium:no audio
 medium:video
 meta:highres
+mountain
 outdoors
 outside
 pants
 poke ball
+poke ball (basic)
 pokemon (creature)
 pokemon trainer
 poké ball
@@ -64,6 +79,7 @@ rating:safe
 rating:sensitive
 red footwear
 red headwear
+riding pokemon
 rock
 scenery
 series:creatures (company)
@@ -79,13 +95,16 @@ shirt
 shoes
 short hair
 short sleeves
+shoulder bag
 silhouette
 sky
+snow
 species:monster
 species:pikachu
 species:pokémon
 species:poliwhirl
 species:spearow
+standing
 studio:creatures (company)
 studio:creatures inc.
 studio:game freak
@@ -99,4 +118,5 @@ title:mt. ember by astero
 uploader:myrandall
 uploader:vecttor
 walking
+water
 wristband

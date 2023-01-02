@@ -2,6 +2,12 @@
 1girl
 android 18
 art
+bandaged arm
+bandaged hand
+bandaged leg
+bandages
+bandaid
+bandaid on face
 belt
 belt buckle
 black legwear
@@ -9,8 +15,10 @@ black shirt
 blonde
 blonde hair
 blood
+blood on clothes
 blood on face
 blue eyes
+blue sky
 bodily fluids
 booru:danbooru
 booru:rule34.xxx
@@ -18,12 +26,16 @@ booru:sankaku channel
 bra
 breast ripple
 breasts
+broken armor
+bruise
 buckle
+burnt clothes
 buttons
 category:ine
 character:android 18
 character:victor "cyborg" stone
 cleavage
+clenched hand
 clenched hands
 closed mouth
 clothing:belt
@@ -43,6 +55,7 @@ clothing:torn clothes
 clothing:underwear
 cloud
 clouds
+cloudy sky
 commentary
 cowboy shot
 creator:mirco cabbia
@@ -50,10 +63,14 @@ creator:mirco cabbia (sciamano240)
 creator:sciamano240
 cuts
 cyborg
+damaged
 day
 denim
 denim jacket
 denim skirt
+dirty
+dirty clothes
+dirty face
 dragonball z
 earrings
 face
@@ -113,6 +130,8 @@ rating:safe
 realistic
 revision
 ripped
+sarashi
+scratches
 series:dragon ball
 series:dragon ball z
 series:dragonball z
@@ -126,8 +145,10 @@ sky
 solo
 solo female
 species:cyborg
+standing
 subreddit:imaginaryanime
 subreddit:imfandoms
+tearing clothes
 text
 tight
 tights
@@ -136,12 +157,23 @@ title:android 18 - dbz (2v)
 title:android 18 by mirco cabbia
 toned
 torn
+torn bodysuit
 torn clothes
+torn dress
+torn gloves
+torn jacket
+torn jeans
 torn legwear
+torn leotard
+torn panties
 torn pants
 torn pantyhose
 torn shirt
+torn shorts
+torn skirt
+torn sleeves
 underwear
 uploader:myrandall
 watermark
 web address
+zombie

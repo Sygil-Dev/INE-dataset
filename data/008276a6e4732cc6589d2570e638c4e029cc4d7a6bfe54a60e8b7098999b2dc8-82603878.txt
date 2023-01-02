@@ -1,0 +1,27 @@
+arch
+architecture
+brick wall
+bridge
+building
+city
+cityscape
+east asian architecture
+gate
+graphite (medium)
+greyscale
+house
+library
+monochrome
+no humans
+rating:safe
+ruins
+scenery
+skyscraper
+stairs
+subreddit:imaginarycastles
+subreddit:imarchitecture
+title:giovani piranesi. part of "imaginary prisons" series. 18th century
+town
+traditional media
+tree
+uploader:francescovisconti

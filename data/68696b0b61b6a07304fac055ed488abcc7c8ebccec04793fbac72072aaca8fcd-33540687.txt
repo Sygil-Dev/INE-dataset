@@ -5,6 +5,7 @@ absurd res
 artist:keltaan
 black hair
 black_hair
+blue
 blue body
 blue eyes
 blue scales
@@ -21,25 +22,35 @@ closed eyes
 creator:keltaan
 creek
 day
+detailed
 detailed background
 detailed_background
 digital media (artwork)
+dragoness
+dragons
 duo
 eyes closed
 eyes_closed
 female
 feral
 fingers
+flowers
 forest
+fullbody
 furry
 gender:female
 grass
+green
 hair
 hi res
 horn
 horns
+hugs
+jungle
 keltaan
 letterbox
+light
+love
 medium:absurd resolution
 medium:detailed background
 medium:digital media
@@ -55,10 +66,17 @@ meta:digital media (artwork)
 meta:digital_media_(artwork)
 meta:hi res
 meta:hi_res
+mushrooms
+nature
 outside
 plant
+plants
+rating:general
 rating:safe
+river
+ryken
 scales
+sedyana
 sibling
 siblings
 sister
@@ -71,6 +89,8 @@ species:mythical
 species:scalie
 species:western dragon
 species:western_dragon
+stones
+stream
 subreddit:imaginarydragons
 subreddit:immonsters
 title:wing-sisters

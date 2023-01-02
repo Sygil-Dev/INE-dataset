@@ -1,0 +1,22 @@
+cannon
+category:ine
+caterpillar tracks
+ground vehicle
+machinery
+mecha
+military
+military vehicle
+motor vehicle
+no humans
+radio antenna
+rating:safe
+realistic
+science fiction
+subreddit:imaginaryweaponry
+subreddit:imtechnology
+tank
+tank focus
+title:mars 2000 rts game medium vehicle ''bucket" by apteryx queenii
+turret
+uploader:mars_2000
+vehicle focus

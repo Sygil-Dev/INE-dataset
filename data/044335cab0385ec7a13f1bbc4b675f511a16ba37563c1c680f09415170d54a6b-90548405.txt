@@ -1,15 +1,25 @@
+^^^
+animal ears
 blue hair
+blurry
+blurry background
+blurry foreground
 character:sifyro
 conditional dnp
 creator:blitzdrachin
 creator:conditional dnp
 creator:sifyro
+depth of field
 dragon
 feathers
+flying sweatdrops
 fur
+furry
 hair
 horn
+horns
 kemono
+open mouth
 pink eyes
 pink hair
 rating:safe
@@ -18,6 +28,8 @@ sifyro
 species:dragon
 subreddit:imaginarydragons
 subreddit:immonsters
+surprised
+tail
 title:the cutest kemono , for @_ryokowo
 uploader:sifyro
 white body

@@ -1,0 +1,38 @@
+bridge
+building
+bush
+castle
+category:ine
+city
+cliff
+cloud
+cloudy sky
+day
+fantasy
+forest
+grass
+lake
+landscape
+light rays
+mountain
+mountainous horizon
+nature
+no humans
+outdoors
+rating:safe
+river
+scenery
+sky
+subreddit:imaginarymiddleearth
+subreddit:imaginarywaterfalls
+subreddit:imfandoms
+subreddit:imnature
+sunbeam
+sunlight
+title:rivendell by philip straub
+tower
+tree
+uploader:drunkindragon
+uploader:lol33ta
+water
+waterfall

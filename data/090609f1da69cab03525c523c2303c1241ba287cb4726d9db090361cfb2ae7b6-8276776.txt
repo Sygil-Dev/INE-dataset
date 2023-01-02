@@ -1,4 +1,5 @@
 anthropomorphism
+artist name
 beady eyes
 black eyes
 bodypart:black eyes
@@ -11,6 +12,7 @@ creator:cryptid-creations
 cutlery
 food
 food creature
+food focus
 fruit
 gender:ambiguous
 gender:male
@@ -23,6 +25,7 @@ male:1
 medium:simple background
 meme:humor
 meta:white background
+no humans
 pawpads
 plant
 pun
@@ -33,6 +36,7 @@ solo
 species:food creature
 species:mammal
 species:ursid
+strawberry
 subreddit:imaginaryfood
 subreddit:immeta
 tablecloth
@@ -42,3 +46,5 @@ tools
 uploader:myrandall
 ursid
 visual pun
+watermark
+white background

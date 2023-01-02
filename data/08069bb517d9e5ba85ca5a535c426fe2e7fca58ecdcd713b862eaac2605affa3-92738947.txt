@@ -1,5 +1,8 @@
+architecture
 blue sky
+bridge
 building
+city
 city lights
 cityscape
 creator:sinsin08051
@@ -11,7 +14,9 @@ meta:highres
 no humans
 people
 rating:general
+rating:safe
 rooftop
+scenery
 series:original
 sidewalk
 sinsin08051

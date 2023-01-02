@@ -7,12 +7,14 @@ bangs
 bare arms
 bare legs
 bare shoulders
+beach
 beachqueen mary jane watson by dandonfuga
 bikini
 blue bikini bottom
 blue sky
 blurry
 blurry background
+blurry foreground
 body freckles
 booru:gelbooru
 booru:sankaku
@@ -55,6 +57,7 @@ groin
 hair over shoulder
 high resolution
 hip focus
+horizon
 jewelry
 large breasts
 leaning
@@ -76,8 +79,10 @@ meta:artist name
 meta:uncensored
 mismatched bikini
 mj on the beach (dandonfuga) [spider-man]
+mole
 navel
 necklace
+ocean
 outdoors
 outside
 partially submerged
@@ -91,7 +96,9 @@ rating:mature
 rating:q
 rating:questionable
 rating:safe
+realistic
 recording
+red bikini
 red bikini top
 red hair
 red lipstick
@@ -100,6 +107,7 @@ series:spider-man
 series:spider-man (series)
 shiny
 shiny skin
+ship
 side-tie bikini
 sky
 smile
@@ -110,6 +118,7 @@ species:spider
 spider web print
 spider-man (cosplay)
 spider-man (series)
+splashing
 standing
 stomach
 strap gap
@@ -125,4 +134,5 @@ toned
 uploader:journey_951
 viewfinder
 water
+watercraft
 wet

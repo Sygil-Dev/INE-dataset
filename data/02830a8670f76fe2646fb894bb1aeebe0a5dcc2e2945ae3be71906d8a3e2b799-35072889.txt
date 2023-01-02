@@ -1,13 +1,23 @@
+airship
 atmosphere
+bird
 category:ine
 christmas
+cloud
 clouds
 cold
 creator:bram sels
+day
+fantasy
+floating island
 medium:digital 2d
+mountain
 palace
 persian
 pines
+planet
+rating:safe
+scenery
 sky
 snow
 subreddit:imaginarytowers
@@ -15,6 +25,7 @@ subreddit:imarchitecture
 sunbathing
 title:lifestyles of the rich and the famous
 title:lifestyles of the rich and the famous, by bram sels
+tower
 trees
 uploader:[deleted]
 uploader:faeryknight

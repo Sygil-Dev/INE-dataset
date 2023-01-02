@@ -1,0 +1,26 @@
+armor
+battle
+breathing fire
+burning
+category:ine
+dragon
+embers
+feathered wings
+fire
+flame
+flaming sword
+flaming weapon
+holding
+holding weapon
+molten rock
+monster
+rating:safe
+subreddit:imaginaryangels
+subreddit:imaginarybattlefields
+subreddit:imlandscapes
+subreddit:imraces
+sword
+title:l'aube by artem demura
+uploader:myrandall
+weapon
+wings

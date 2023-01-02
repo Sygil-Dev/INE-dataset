@@ -1,5 +1,6 @@
 1girl
 arm support
+bag
 bangs
 barefoot
 belt
@@ -26,6 +27,7 @@ female
 formal
 fringe
 full body
+full moon
 girl
 highres
 holding
@@ -43,6 +45,7 @@ medium:high resolution
 meta:commentary
 meta:highres
 meta:symbol-only commentary
+moon
 necktie
 notched lapels
 pant suit

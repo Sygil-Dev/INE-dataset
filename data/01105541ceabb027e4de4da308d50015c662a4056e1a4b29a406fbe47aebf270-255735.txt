@@ -1,34 +1,46 @@
 amazing
+armor
+battle
 booru:e621
+breathing fire
 category:ine
 clothed
 clothing
 clothing:hat
 clothing:headwear
 cloud
+coat
 cowboy
 cowboy hat
 creator:kekai kotaki
 detailed
 detailed background
+explosion
 feral
 field
+fire
 firearm
 front view
 gender:male
+grass
 group
 gun
 hat
 headgear
 headwear
+holding
+holding gun
+holding weapon
 male
 medium:detailed background
 meta:detailed
 not furry
+outdoors
 outside
 ranged weapon
 rating:safe
 riding
+rifle
 sky
 species:annelid
 species:equid
@@ -41,6 +53,7 @@ species:worm
 straddling
 subreddit:imaginarycowboys
 subreddit:imcharacters
+sword
 title:stampede by kekai kotaki
 uploader:lol33ta
 weapon

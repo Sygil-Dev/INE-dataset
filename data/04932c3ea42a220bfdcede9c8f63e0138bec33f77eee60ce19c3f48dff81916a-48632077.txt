@@ -1,8 +1,12 @@
+1girl
 apple
 artist:sandara
+beach
 blue horn
 blue_horn
 category:ine
+cloud
+cloudy sky
 copyright:asian_mythology
 copyright:chinese_mythology
 copyright:east_asian_mythology
@@ -20,6 +24,7 @@ grass
 horn
 horns
 incense
+long hair
 mammal
 medium:detailed background
 medium:digital media
@@ -29,10 +34,12 @@ meta:digital_media_(artwork)
 meta:hi_res
 moss
 mountain
+ocean
 outside
 plant
 rating:safe
 scales
+scenery
 series:asian mythology
 series:chinese mythology
 series:east asian mythology
@@ -47,9 +54,11 @@ species:mythical
 species:unicorn
 subreddit:imaginarymythology
 subreddit:imcharacters
+sunset
 title:offerings by sandara tang
 unicorn
 uploader:lol33ta
+water
 white body
 white fur
 white_body
