@@ -1,0 +1,35 @@
+architecture
+bridge
+building
+bush
+castle
+city
+cityscape
+cloud
+day
+east asian architecture
+fence
+forest
+garden
+gate
+grass
+house
+nature
+no humans
+outdoors
+overgrown
+pagoda
+path
+plant
+rating:safe
+river
+road
+scenery
+sky
+skyscraper
+subreddit:imaginarycastles
+subreddit:imaginaryportals
+title:counsel of elders by artist jon carraher
+tower
+tree
+uploader:anon_ymou5
