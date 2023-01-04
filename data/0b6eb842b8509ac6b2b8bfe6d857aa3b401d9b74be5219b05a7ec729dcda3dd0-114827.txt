@@ -1,4 +1,5 @@
 alternate costume
+angelaziegler
 blue eyes
 booru:sankaku channel
 category:ine
@@ -19,8 +20,12 @@ long hair
 medium:artist name
 medium:high resolution
 medium:text
+mercy
+mercyoverwatch
 meta:artist name
 moon
+overwatch
+overwatchblizzard
 piercing
 purple hair
 rating:safe

@@ -11,6 +11,7 @@ black horns
 bodysuit
 booru:danbooru
 booru:gelbooru
+booru:safebooru
 booru:tbib
 breastplate
 brown hair
@@ -30,6 +31,7 @@ day of wrath (infinitypilot)
 demon
 demon girl
 demon horns
+doom (2016)
 doom (series)
 doom eternal
 elite guard (doom)
@@ -42,6 +44,7 @@ glowing armor
 glowing eye
 glowing eyes
 glowing hair
+highres
 holding
 holding sword
 holding weapon
@@ -61,6 +64,7 @@ rating:general
 red armor
 red eyes
 red hair
+redhead
 ruby taylor (day of wrath)
 sbigbro
 science fiction

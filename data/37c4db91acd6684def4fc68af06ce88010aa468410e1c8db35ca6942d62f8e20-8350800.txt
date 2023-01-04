@@ -7,6 +7,10 @@ booru:safebooru
 booru:sankaku
 booru:sankaku channel
 booru:tbib
+brigitte
+brigitte_overwatch
+brigittefanart
+brigitteoverwatch
 category:ine
 character:brigitte (overwatch)
 character:brigitte lindholm
@@ -25,6 +29,7 @@ genre:science fiction
 hair pulled back
 hair tie
 illustration
+liangxing
 light particles
 looking at viewer
 medium:2d art

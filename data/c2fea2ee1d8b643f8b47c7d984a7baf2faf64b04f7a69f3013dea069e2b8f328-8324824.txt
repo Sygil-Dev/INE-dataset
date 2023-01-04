@@ -67,6 +67,7 @@ holding object
 holding weapon
 illustration
 jewelry
+liangxing
 lips
 lipstick
 looking at viewer
@@ -99,6 +100,7 @@ outdoors
 outside
 over shoulder
 overwatch
+overwatchblizzard
 pixiv work:72201664
 point of view
 pov

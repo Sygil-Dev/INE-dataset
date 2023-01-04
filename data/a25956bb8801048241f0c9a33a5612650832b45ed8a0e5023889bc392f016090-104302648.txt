@@ -3,6 +3,7 @@ candle
 embers
 fire
 flame
+gender:female
 holding
 holding sword
 holding weapon

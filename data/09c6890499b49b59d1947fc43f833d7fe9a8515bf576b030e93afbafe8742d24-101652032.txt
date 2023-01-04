@@ -26,6 +26,7 @@ helmet
 leaning forward
 logo
 long hair
+meta:commentary
 meta:english commentary
 motion blur
 motor vehicle

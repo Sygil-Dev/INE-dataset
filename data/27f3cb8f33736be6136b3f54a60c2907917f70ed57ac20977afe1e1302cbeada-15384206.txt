@@ -1,5 +1,6 @@
 1 female
 animal print
+anime style
 black hair
 blue bow
 blue neckwear
@@ -14,6 +15,7 @@ checkered
 checkered skirt
 closed mouth
 creator:radittz
+deviantart
 flower
 frilled sleeves
 frills
@@ -21,6 +23,7 @@ gender:female
 girl
 hand net
 holding
+holding net
 long hair
 looking away
 magicalgirl
@@ -30,6 +33,7 @@ medium:watermark
 meta:commentary
 meta:highres
 monarch butterfly
+net
 puffy short sleeves
 puffy sleeves
 radittz
@@ -53,4 +57,5 @@ uploader:lol33ta
 vertical stripes
 vertical-striped legwear
 very long hair
+watermark
 white shirt

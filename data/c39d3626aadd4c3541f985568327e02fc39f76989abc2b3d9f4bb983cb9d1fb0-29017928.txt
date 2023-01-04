@@ -11,6 +11,7 @@ impractical armor
 medium:digital 2d
 revealing armor
 sketch
+subreddit:imaginaryazeroth
 subreddit:imaginarymonstergirls
 subreddit:impracticalarmour
 swimsuit

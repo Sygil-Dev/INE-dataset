@@ -15,6 +15,7 @@ subreddit:imaginaryanimals
 subreddit:imaginarybestof
 subreddit:imaginaryforests
 subreddit:imaginarytrees
+subreddit:imaginarywildlands
 subreddit:immeta
 subreddit:imnature
 title:'forest guardians' by matthew dobrich

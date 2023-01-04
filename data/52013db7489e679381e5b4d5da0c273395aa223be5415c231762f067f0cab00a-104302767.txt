@@ -11,6 +11,8 @@ from behind
 green hair
 gun
 long hair
+number 36
+number 38
 rating:safe
 simple background
 solo

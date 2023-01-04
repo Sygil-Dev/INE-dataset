@@ -23,6 +23,7 @@ rating:safe
 river
 scenery
 shared umbrella
+subreddit:imaginaryelementals
 subreddit:imaginaryforests
 subreddit:imaginaryweather
 subreddit:imaginarywildlands

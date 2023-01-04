@@ -2,7 +2,13 @@ archer
 archery
 armor
 artstation
+blizzard
+blizzardentertainment
+blizzardwarcraft
 blue skin
+book
+book_cover
+bookcover
 booru:sankaku channel
 bow
 bow (weapon)
@@ -12,13 +18,19 @@ character:sylvanas windrunner
 character:sylvanas windrunner, the banshee queen
 clothing:armor
 clothing:hood
+commission
+commissionsopen
+cover
 creator:eddy shinjuku
 creator:eddy-shinjuku
 drawing
 ears
 eddy shinjuku
+eddy_shinjuku
 elf
+elffemale
 elves
+fanart
 feathers
 female
 gender:female
@@ -33,6 +45,7 @@ medium:2560x1440 wallpaper
 medium:high resolution
 medium:wallpaper
 midriff
+nightelf
 pointy ears
 rating:safe
 robe
@@ -44,8 +57,24 @@ species:undead
 studio:blizzard entertainment
 subreddit:imaginarygaming
 subreddit:imfandoms
+sylvanasfanart
+sylvanaswindrunner
+sylvanasworldofwarcraft
+sylvannas
 title:sylvanas windrunner - eddy shinjuku
 title:sylvanas windrunner - warcraft wallpaper art
 uploader:shinjukudistrict
+videogamefanart
+videogames
+wallpaper
+wallpaper1920x1080
+wallpaper2560x1440
+wallpapergirl
+warcraft
+warcraftfanart
+warcraftnightelf
 weapon
 wind
+windrunner
+world_of_warcraft
+worldofwarcraft

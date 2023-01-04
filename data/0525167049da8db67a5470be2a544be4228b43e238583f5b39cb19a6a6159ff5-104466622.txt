@@ -1,0 +1,23 @@
+aircraft
+beach
+cloud
+desert
+ground vehicle
+gun
+helicopter
+machine gun
+military
+military vehicle
+motor vehicle
+mountain
+multiple boys
+ocean
+rating:safe
+realistic
+rifle
+subreddit:imaginaryvehicles
+sunset
+title:command &amp; conquer (west studio)
+traditional media
+uploader:east_professional385
+weapon

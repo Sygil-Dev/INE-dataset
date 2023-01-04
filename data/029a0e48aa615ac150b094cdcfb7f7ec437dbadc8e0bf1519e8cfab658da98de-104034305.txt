@@ -17,6 +17,7 @@ fireworks
 flower field
 flowers
 from behind
+full moon
 galaxy
 gradient sky
 horizon
@@ -53,6 +54,7 @@ sunrise
 sunset
 tanabata
 tanzaku
+telescope
 title:we're under the same sky by katrina yu
 tree
 twilight

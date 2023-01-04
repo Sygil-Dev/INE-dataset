@@ -4,6 +4,7 @@ alternate costume
 alternative costume
 armor
 art
+avatar
 bikini
 bikini armor
 blonde
@@ -27,9 +28,11 @@ creator:mirco cabbia
 creator:mirco cabbia (sciamano240)
 creator:sciamano240
 elementalist lux
+elementalistlux
 eyeliner
 fan art
 fanart from deviantart
+fanartdigital
 female
 female focus
 female only
@@ -42,8 +45,11 @@ hair between eyes
 large breasts
 league of legends
 league_of_legends
+leagueoflegends
+light
 light elementalist lux
 lips
+lol
 looking away
 looking up
 lux
@@ -58,9 +64,11 @@ meta:commentary
 meta:photoshop (medium)
 meta:potential duplicate
 mirco cabbia
+mircocabbia
 multicolored hair
 nose
 pink hair
+portrait
 rating:general
 rating:s
 rating:safe
@@ -86,3 +94,4 @@ title:elementalist lux light - lol (gift)
 twitter
 uploader:torvusil
 upper body
+videogame

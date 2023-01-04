@@ -2,6 +2,8 @@
 2people
 artist name
 bare tree
+beach
+bird
 bones
 cloud
 cloudy sky
@@ -9,11 +11,14 @@ day
 giant skull
 horizon
 ice
+lake
 landscape
 mountain
 mountainous horizon
+ocean
 outdoors
 rating:safe
+river
 rock
 scenery
 sky
@@ -27,4 +32,7 @@ subreddit:imaginarymindscapes
 title:northern attractions
 tree
 uploader:remorphed
+water
+waterfall
+waves
 winter

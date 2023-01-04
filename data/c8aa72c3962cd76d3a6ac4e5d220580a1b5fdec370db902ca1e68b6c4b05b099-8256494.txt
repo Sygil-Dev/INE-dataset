@@ -1,4 +1,5 @@
 2017
+alicorn
 amazing background
 amazing_background
 artist:discordthege
@@ -6,6 +7,7 @@ blue hair
 blue_hair
 booru:e621
 category:ine
+celestia
 character:princess celestia
 character:princess celestia (mlp)
 character:princess_celestia_(mlp)
@@ -23,6 +25,8 @@ feathered_wings
 feathers
 female
 feral
+fim
+fuji
 gender:female
 genre:fantasy
 green hair
@@ -30,6 +34,7 @@ green_hair
 hair
 horn
 horns
+japan
 medium:16:9 aspect ratio
 medium:amazing background
 medium:detailed background
@@ -39,10 +44,13 @@ meta:2017
 meta:hi res
 meta:hi_res
 meta:widescreen
+mlp
 pink eyes
 pink_eyes
+pony
 purple hair
 purple_hair
+rain
 rating:safe
 series:friendship is magic
 series:hasbro
@@ -50,6 +58,7 @@ series:my little pony
 series:my little pony friendship is magic
 series:my little pony: friendship is magic
 smile
+sofa
 solo
 species:equid
 species:equine
@@ -62,6 +71,7 @@ subreddit:imfandoms
 title:"friday sunset" by borax (discordthege)
 title:friday sunset
 uploader:torvusil
+weekend
 white body
 white feathers
 white_body

@@ -1,18 +1,27 @@
+armor
 art
 character design
 concept art
 creator:johnson ting
 digital painting
+gun
+helmet
 johnson ting
 johnsonting
+logo
 medieval
 medium:concept art
 medium:digital 2d
+meta:english text
+metal armor
 roller jousting
+roller skates
 sci fi fantasy
+sniper rifle
 subreddit:imaginaryarmor
 subreddit:imaginaryfuturism
 subreddit:imaginarywarriors
+text
 title:roller jousting
 title:roller jousting by johnson ting
 title:roller jousting by johnson ting.
