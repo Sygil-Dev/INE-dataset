@@ -1,79 +1,79 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist name
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bug
-burger
-butterfly
-category:ine
-cheese
-closed mouth
-creator:cryptid-creations
-creator:piper thibodeau
-dairy products
-dairy_products
-english
-english text
-engrish
-engrish text
-flying
-food
-fruit
-hamburger
-humor
-language:english
-lettuce
-medium:artist name
-medium:english text
-medium:simple background
-medium:text
-medium:watermark
-medium:web address
-medium:white background
-meta:2018
-meta:english_text
-no humans
-olive
-olive (food)
-olive_(fruit)
-onion
-patreon username
-plant
-pun
-ranguage
-rating:mature
-rating:safe
-salad
-series:original
-simple background
-simple_background
-smile
-solo
-species:arthropod
-species:butterfly
-species:food creature
-species:food_creature
-species:insect
-species:lepidopteran
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily paint 1892# hambugger-fly
-title:hambugger-fly by piper thibodeau
-toon
-toothpick
-uploader:myrandall
-vegetable
-visual pun
-visual_pun
-watermark
-web address
-white background
-white_background
-wings
-year:2018
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist name,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bug,
+burger,
+butterfly,
+category:ine,
+cheese,
+closed mouth,
+creator:cryptid-creations,
+creator:piper thibodeau,
+dairy products,
+dairy_products,
+english,
+english text,
+engrish,
+engrish text,
+flying,
+food,
+fruit,
+hamburger,
+humor,
+language:english,
+lettuce,
+medium:artist name,
+medium:english text,
+medium:simple background,
+medium:text,
+medium:watermark,
+medium:web address,
+medium:white background,
+meta:2018,
+meta:english_text,
+no humans,
+olive,
+olive (food),
+olive_(fruit),
+onion,
+patreon username,
+plant,
+pun,
+ranguage,
+rating:mature,
+rating:safe,
+salad,
+series:original,
+simple background,
+simple_background,
+smile,
+solo,
+species:arthropod,
+species:butterfly,
+species:food creature,
+species:food_creature,
+species:insect,
+species:lepidopteran,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily paint 1892# hambugger-fly,
+title:hambugger-fly by piper thibodeau,
+toon,
+toothpick,
+uploader:myrandall,
+vegetable,
+visual pun,
+visual_pun,
+watermark,
+web address,
+white background,
+white_background,
+wings,
+year:2018,

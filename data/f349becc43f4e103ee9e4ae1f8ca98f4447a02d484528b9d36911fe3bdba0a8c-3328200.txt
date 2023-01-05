@@ -1,106 +1,106 @@
-4:3
-2015
-<3
-absurd res
-accessory
-amber eyes
-annoyed
-blonde hair
-booru:e621
-category:ine
-character:apple bloom
-character:apple bloom (mlp)
-character:apple jewel (mlp)
-character:applejack
-character:applejack (mlp)
-character:big macintosh
-character:big macintosh (mlp)
-character:orchard blossom (mlp)
-clothed
-clothing
-clothing:dress
-clothing:hair bow
-creator:thediscorded
-crossdressing
-dress
-equine
-eyelashes
-female
-feminine male
-feral
-freckles
-fur
-gender:female
-gender:male
-genre:fantasy
-girly
-green eyes
-group
-hair
-hair accessory
-hair bow
-hair ornament
-hair ribbon
-heart symbol
-hi res
-hooves
-horse
-lipstick
-long hair
-makeup
-male
-mammal
-medium:4:3 aspect ratio
-medium:absurd resolution
-medium:high resolution
-meta:4:3
-meta:2015
-meta:absurd res
-meta:hi res
-meta:tagme
-one eye closed
-open mouth
-orange body
-orange eyes
-orange fur
-plant
-pony
-rating:http://orig02.deviantart.net/f682/f/2015/281/8/f/fancy_apples_by_thediscorded-d9ccueg.png
-rating:http://thediscorded.deviantart.com/
-rating:safe
-red body
-red fur
-red hair
-ribbon
-ribbons
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sibling
-siblings
-sitting
-smile
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-stage
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-thediscorded
-title:"fancy apples" by thediscorded
-title:fancy apples
-tree
-uploader:torvusil
-wig
-wink
-year:2015
-yellow body
-yellow fur
+4:3,
+2015,
+<3,
+absurd res,
+accessory,
+amber eyes,
+annoyed,
+blonde hair,
+booru:e621,
+category:ine,
+character:apple bloom,
+character:apple bloom (mlp),
+character:apple jewel (mlp),
+character:applejack,
+character:applejack (mlp),
+character:big macintosh,
+character:big macintosh (mlp),
+character:orchard blossom (mlp),
+clothed,
+clothing,
+clothing:dress,
+clothing:hair bow,
+creator:thediscorded,
+crossdressing,
+dress,
+equine,
+eyelashes,
+female,
+feminine male,
+feral,
+freckles,
+fur,
+gender:female,
+gender:male,
+genre:fantasy,
+girly,
+green eyes,
+group,
+hair,
+hair accessory,
+hair bow,
+hair ornament,
+hair ribbon,
+heart symbol,
+hi res,
+hooves,
+horse,
+lipstick,
+long hair,
+makeup,
+male,
+mammal,
+medium:4:3 aspect ratio,
+medium:absurd resolution,
+medium:high resolution,
+meta:4:3,
+meta:2015,
+meta:absurd res,
+meta:hi res,
+meta:tagme,
+one eye closed,
+open mouth,
+orange body,
+orange eyes,
+orange fur,
+plant,
+pony,
+rating:http://orig02.deviantart.net/f682/f/2015/281/8/f/fancy_apples_by_thediscorded-d9ccueg.png,
+rating:http://thediscorded.deviantart.com/,
+rating:safe,
+red body,
+red fur,
+red hair,
+ribbon,
+ribbons,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sibling,
+siblings,
+sitting,
+smile,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+stage,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+thediscorded,
+title:"fancy apples" by thediscorded,
+title:fancy apples,
+tree,
+uploader:torvusil,
+wig,
+wink,
+year:2015,
+yellow body,
+yellow fur,

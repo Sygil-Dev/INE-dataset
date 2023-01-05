@@ -1,67 +1,67 @@
-2012
-absurd res
-booru:e621
-category:ine
-character:rarity
-character:rarity (mlp)
-character:sweetie belle
-character:sweetie belle (mlp)
-closed eyes
-clothing
-clothing:tagme
-cothing
-creator:docwario
-cub
-duo
-eyes closed
-female
-feral
-fur
-gender:female
-genre:fantasy
-hair
-headgear
-hi res
-horn
-horns
-horse
-jewelry
-mammal
-medium:absurd resolution
-medium:high resolution
-meta:9:14
-meta:2012
-meta:absurd res
-meta:hi res
-multicolored hair
-purple eyes
-purple hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sibling
-siblings
-sister
-sisters
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:shining belles
-title:shining belles by jake lion
-two tone hair
-unicorn
-uploader:lol33ta
-white body
-white fur
-year:2012
-young
+2012,
+absurd res,
+booru:e621,
+category:ine,
+character:rarity,
+character:rarity (mlp),
+character:sweetie belle,
+character:sweetie belle (mlp),
+closed eyes,
+clothing,
+clothing:tagme,
+cothing,
+creator:docwario,
+cub,
+duo,
+eyes closed,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+headgear,
+hi res,
+horn,
+horns,
+horse,
+jewelry,
+mammal,
+medium:absurd resolution,
+medium:high resolution,
+meta:9:14,
+meta:2012,
+meta:absurd res,
+meta:hi res,
+multicolored hair,
+purple eyes,
+purple hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sibling,
+siblings,
+sister,
+sisters,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:shining belles,
+title:shining belles by jake lion,
+two tone hair,
+unicorn,
+uploader:lol33ta,
+white body,
+white fur,
+year:2012,
+young,

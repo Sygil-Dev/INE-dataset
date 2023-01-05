@@ -1,69 +1,69 @@
-ambiguous gender
-amphibian
-aquarium
-avian
-axolotl
-aztec
-bedding
-bird
-blanket
-booru:e621
-category:ine
-clothing
-clothing:footwear
-clothing:necklace
-creator:saiyagina
-external gills
-feathers
-feline
-female
-feral
-fish tank
-footwear
-gender:ambiguous
-gender:female
-gesture
-gills
-hair
-human
-jaguar
-jewelry
-light
-long hair
-mammal
-necklace
-ocelot
-pet
-pointing
-pyramid
-rating:safe
-salamander
-sandals
-smile
-species:amphibian
-species:avian
-species:axolotl
-species:bird
-species:felid
-species:feline
-species:human
-species:jaguar
-species:leopardus
-species:mammal
-species:mole salamander
-species:ocelot
-species:pantherine
-species:primate
-species:quetzal
-species:salamander
-species:salamander (amphibian)
-species:trogonid
-subreddit:imaginaryhistory
-subreddit:immeta
-sunbeam
-sunlight
-tablet
-title:cihuamiztontli by gina chacón
-tunic
-uploader:[deleted]
-vivarium
+ambiguous gender,
+amphibian,
+aquarium,
+avian,
+axolotl,
+aztec,
+bedding,
+bird,
+blanket,
+booru:e621,
+category:ine,
+clothing,
+clothing:footwear,
+clothing:necklace,
+creator:saiyagina,
+external gills,
+feathers,
+feline,
+female,
+feral,
+fish tank,
+footwear,
+gender:ambiguous,
+gender:female,
+gesture,
+gills,
+hair,
+human,
+jaguar,
+jewelry,
+light,
+long hair,
+mammal,
+necklace,
+ocelot,
+pet,
+pointing,
+pyramid,
+rating:safe,
+salamander,
+sandals,
+smile,
+species:amphibian,
+species:avian,
+species:axolotl,
+species:bird,
+species:felid,
+species:feline,
+species:human,
+species:jaguar,
+species:leopardus,
+species:mammal,
+species:mole salamander,
+species:ocelot,
+species:pantherine,
+species:primate,
+species:quetzal,
+species:salamander,
+species:salamander (amphibian),
+species:trogonid,
+subreddit:imaginaryhistory,
+subreddit:immeta,
+sunbeam,
+sunlight,
+tablet,
+title:cihuamiztontli by gina chacón,
+tunic,
+uploader:[deleted],
+vivarium,

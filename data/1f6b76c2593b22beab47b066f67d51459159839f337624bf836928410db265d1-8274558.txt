@@ -1,21 +1,21 @@
-#loc
-#shield
-#witch
-beast
-category:ine
-character
-creator:justice wong
-evolution
-gender:female
-illustration
-legend of the cryptids
-magic
-medium:digital 2d
-mynet
-subreddit:imaginarywitches
-subreddit:imcharacters
-title:the witch and the legendary shield - adv
-title:the witch and the legendary shield - adv by justice wong
-uploader:drunkindragon
-weapon
-weapon:spear
+#loc,
+#shield,
+#witch,
+beast,
+category:ine,
+character,
+creator:justice wong,
+evolution,
+gender:female,
+illustration,
+legend of the cryptids,
+magic,
+medium:digital 2d,
+mynet,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+title:the witch and the legendary shield - adv,
+title:the witch and the legendary shield - adv by justice wong,
+uploader:drunkindragon,
+weapon,
+weapon:spear,

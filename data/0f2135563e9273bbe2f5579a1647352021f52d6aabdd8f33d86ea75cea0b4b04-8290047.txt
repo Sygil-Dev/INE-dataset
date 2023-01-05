@@ -1,59 +1,59 @@
-1 female
-1 male
-asymmetrical hair
-black nails
-category:ine
-character:bob (overwatch)
-character:elizabeth caledonia "calamity" ashe
-character:omnic
-clothing:headwear
-clothing:legwear
-colored nails
-cowboy hat
-creator:quirkilicious
-creator:quirkilicious (artist)
-day
-eyeshadow
-facial hair
-firearm
-gender:female
-gender:male
-genre:science fiction
-gun
-hat
-holding
-holding gun
-holding object
-holding weapon
-improvised weapon
-jacket
-leather
-leather jacket
-lever action
-lips
-makeup
-mini hat
-mole above mouth
-multiple males
-mustache
-nail polish
-pants
-poncho
-rating:safe
-red eyes
-rifle
-road sign
-series:overwatch
-sign
-single pauldron
-sky
-species:robot
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-tattoo
-title:b.o.b! do somethin'!
-title:b.o.b! do somethin'! by drake tsui
-uploader:net-diver
-weapon
-white hair
+1 female,
+1 male,
+asymmetrical hair,
+black nails,
+category:ine,
+character:bob (overwatch),
+character:elizabeth caledonia "calamity" ashe,
+character:omnic,
+clothing:headwear,
+clothing:legwear,
+colored nails,
+cowboy hat,
+creator:quirkilicious,
+creator:quirkilicious (artist),
+day,
+eyeshadow,
+facial hair,
+firearm,
+gender:female,
+gender:male,
+genre:science fiction,
+gun,
+hat,
+holding,
+holding gun,
+holding object,
+holding weapon,
+improvised weapon,
+jacket,
+leather,
+leather jacket,
+lever action,
+lips,
+makeup,
+mini hat,
+mole above mouth,
+multiple males,
+mustache,
+nail polish,
+pants,
+poncho,
+rating:safe,
+red eyes,
+rifle,
+road sign,
+series:overwatch,
+sign,
+single pauldron,
+sky,
+species:robot,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+tattoo,
+title:b.o.b! do somethin'!,
+title:b.o.b! do somethin'! by drake tsui,
+uploader:net-diver,
+weapon,
+white hair,

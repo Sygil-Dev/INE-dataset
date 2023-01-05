@@ -1,22 +1,22 @@
-brainstorm
-category:ine
-creator:klaus wittmann
-destiny
-devision
-firearm
-ghost
-halo
-medium:digital 2d
-redesign
-rifle
-series:starcraft
-sniper
-spec-ops
-studio:blizzard entertainment
-subreddit:imaginaryarmor
-subreddit:imtechnology
-title:ghost reporting
-title:starcraft's ghost redesigned by klaus wittmann
-unit
-uploader:myrandall
-weapon
+brainstorm,
+category:ine,
+creator:klaus wittmann,
+destiny,
+devision,
+firearm,
+ghost,
+halo,
+medium:digital 2d,
+redesign,
+rifle,
+series:starcraft,
+sniper,
+spec-ops,
+studio:blizzard entertainment,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+title:ghost reporting,
+title:starcraft's ghost redesigned by klaus wittmann,
+unit,
+uploader:myrandall,
+weapon,

@@ -1,64 +1,64 @@
-booru:e621
-category:ine
-character:twilight sparkle
-character:twilight sparkle (mlp)
-classical unicorn
-cliff
-cloud
-cloudy
-creator:viwrastupr
-curved horn
-cutie mark
-detailed background
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-hair
-hooves
-horn
-horns
-leonine tail
-mare
-medium:detailed background
-medium:high resolution
-meta:hi res
-mountain
-outside
-purple body
-purple eyes
-purple feathers
-purple fur
-purple hair
-rating:safe
-rock
-safe
-scenery
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sitting
-sky
-smile
-solo
-species:alicorn
-species:equid
-species:equine
-species:mammal
-species:pony
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sun
-title:twilight - light study by viwrastupr
-title:twilight- light study
-twilight sparkle (alicorn)
-uploader:coelacanth0794
-viwrastupr
-wings
+booru:e621,
+category:ine,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+classical unicorn,
+cliff,
+cloud,
+cloudy,
+creator:viwrastupr,
+curved horn,
+cutie mark,
+detailed background,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hooves,
+horn,
+horns,
+leonine tail,
+mare,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+mountain,
+outside,
+purple body,
+purple eyes,
+purple feathers,
+purple fur,
+purple hair,
+rating:safe,
+rock,
+safe,
+scenery,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sitting,
+sky,
+smile,
+solo,
+species:alicorn,
+species:equid,
+species:equine,
+species:mammal,
+species:pony,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sun,
+title:twilight - light study by viwrastupr,
+title:twilight- light study,
+twilight sparkle (alicorn),
+uploader:coelacanth0794,
+viwrastupr,
+wings,

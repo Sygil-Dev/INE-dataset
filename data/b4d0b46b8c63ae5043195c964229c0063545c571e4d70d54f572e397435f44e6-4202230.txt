@@ -1,33 +1,33 @@
-1 female
-1girl
-booru:gelbooru
-booru:tbib
-category:ine
-character:lena "tracer" oxton
-character:lena "tracer" oxton (overwatch)
-character:tracer (overwatch)
-creator:kuroi-tsuki
-creator:quirkilicious
-creator:quirkilicious (kuroi-tsuki)
-female
-gender:female
-genre:science fiction
-kuroi-tsuki
-meta:potential duplicate
-meta:tagme
-overwatch
-rating:mature
-rating:questionable
-series:overwatch
-site:art abyss
-solo
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:wait for it...
-title:wait for it... by drake tsui
-tracer
-tracer_(overwatch)
-uploader:myrandall
-video games
-weapon
+1 female,
+1girl,
+booru:gelbooru,
+booru:tbib,
+category:ine,
+character:lena "tracer" oxton,
+character:lena "tracer" oxton (overwatch),
+character:tracer (overwatch),
+creator:kuroi-tsuki,
+creator:quirkilicious,
+creator:quirkilicious (kuroi-tsuki),
+female,
+gender:female,
+genre:science fiction,
+kuroi-tsuki,
+meta:potential duplicate,
+meta:tagme,
+overwatch,
+rating:mature,
+rating:questionable,
+series:overwatch,
+site:art abyss,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:wait for it...,
+title:wait for it... by drake tsui,
+tracer,
+tracer_(overwatch),
+uploader:myrandall,
+video games,
+weapon,

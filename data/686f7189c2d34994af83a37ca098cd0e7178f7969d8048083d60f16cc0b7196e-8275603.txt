@@ -1,21 +1,21 @@
-army
-category:ine
-creator:sam carr
-goblin
-legend
-magic
-medieval
-medium:digital 2d
-pagan
-prophecy sketchbook
-sacrifice
-subreddit:imaginarydemons
-subreddit:imaginaryhellscapes
-subreddit:imlandscapes
-subreddit:immonsters
-title:sacrifice
-title:sacrifice by sam carr
-uploader:faeryknight
-uploader:lol33ta
-website:reddit
-witch
+army,
+category:ine,
+creator:sam carr,
+goblin,
+legend,
+magic,
+medieval,
+medium:digital 2d,
+pagan,
+prophecy sketchbook,
+sacrifice,
+subreddit:imaginarydemons,
+subreddit:imaginaryhellscapes,
+subreddit:imlandscapes,
+subreddit:immonsters,
+title:sacrifice,
+title:sacrifice by sam carr,
+uploader:faeryknight,
+uploader:lol33ta,
+website:reddit,
+witch,

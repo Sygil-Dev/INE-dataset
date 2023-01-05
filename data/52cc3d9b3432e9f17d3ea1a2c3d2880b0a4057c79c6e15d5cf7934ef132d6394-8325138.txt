@@ -1,43 +1,43 @@
-6+ males
-aircraft
-airplane
-androgynous
-arms up
-bag
-boots
-building
-category:ine
-clock
-clock tower
-clothing:footwear
-creator:darekzabrocki
-creator:daroz
-destruction
-fire
-footwear
-gender:male
-headwear
-helmet
-holding
-military
-military uniform
-multiple males
-outdoors
-outside
-parachute
-paratrooper
-rating:safe
-series:original
-signature
-sky
-smoke
-subreddit:imaginaryhistory
-subreddit:immeta
-title:airborne
-title:airborne by darek zabrocki
-tower
-uniform
-uploader:karmicviolence
-vehicle
-war
-world war ii
+6+ males,
+aircraft,
+airplane,
+androgynous,
+arms up,
+bag,
+boots,
+building,
+category:ine,
+clock,
+clock tower,
+clothing:footwear,
+creator:darekzabrocki,
+creator:daroz,
+destruction,
+fire,
+footwear,
+gender:male,
+headwear,
+helmet,
+holding,
+military,
+military uniform,
+multiple males,
+outdoors,
+outside,
+parachute,
+paratrooper,
+rating:safe,
+series:original,
+signature,
+sky,
+smoke,
+subreddit:imaginaryhistory,
+subreddit:immeta,
+title:airborne,
+title:airborne by darek zabrocki,
+tower,
+uniform,
+uploader:karmicviolence,
+vehicle,
+war,
+world war ii,

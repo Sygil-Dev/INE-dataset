@@ -1,55 +1,55 @@
-1 female
-1girl
-armor
-backlighting
-booru:danbooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-booru:tbib
-brigitte (overwatch)
-category:ine
-character:brigitte (overwatch)
-character:brigitte lindholm
-clothing:armor
-clothing:hair clip
-clothing:hair ornament
-clothing:hair tie
-commentary
-creator:nesskain
-flail
-forehead
-full armor
-gender:female
-genre:science fiction
-hair ornament
-highres
-holding
-holding object
-holding weapon
-long hair
-making of
-making-of available
-medium:high resolution
-meta:commentary
-meta:highres
-meta:making of
-meta:making-of available
-nesskain
-ponytail
-rating:mature
-rating:s
-rating:safe
-series:overwatch
-shield
-sidelocks
-solo
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-tied hair
-title:brigitte by 'nesskain'
-title:overwatch - brigitte
-uploader:myrandall
-weapon
-website:reddit
+1 female,
+1girl,
+armor,
+backlighting,
+booru:danbooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+booru:tbib,
+brigitte (overwatch),
+category:ine,
+character:brigitte (overwatch),
+character:brigitte lindholm,
+clothing:armor,
+clothing:hair clip,
+clothing:hair ornament,
+clothing:hair tie,
+commentary,
+creator:nesskain,
+flail,
+forehead,
+full armor,
+gender:female,
+genre:science fiction,
+hair ornament,
+highres,
+holding,
+holding object,
+holding weapon,
+long hair,
+making of,
+making-of available,
+medium:high resolution,
+meta:commentary,
+meta:highres,
+meta:making of,
+meta:making-of available,
+nesskain,
+ponytail,
+rating:mature,
+rating:s,
+rating:safe,
+series:overwatch,
+shield,
+sidelocks,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+tied hair,
+title:brigitte by 'nesskain',
+title:overwatch - brigitte,
+uploader:myrandall,
+weapon,
+website:reddit,

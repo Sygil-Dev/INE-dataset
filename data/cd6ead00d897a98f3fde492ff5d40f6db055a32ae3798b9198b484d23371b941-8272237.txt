@@ -1,66 +1,66 @@
-1 female
-1girl
-akagi shun
-apron
-bangs
-belt
-black background
-blue kimono
-category:ine
-clothing:apron
-clothing:earrings
-creator:akagi shun
-creator:teatime0
-creator:紅木春
-earrings
-eyebrows
-eyebrows visible through hair
-flask
-gender:female
-graphite (medium)
-head scarf
-headdress
-holding
-japanese clothes
-jewelry
-kimono
-long hair
-long sleeves
-looking away
-medium:black background
-medium:graphite
-medium:simple background
-medium:traditional media
-meta:commentary request
-meta:traditional media
-original character
-parted lips
-pink eyes
-pouch
-purple hair
-rating:mature
-rating:safe
-round-bottom flask
-scarf
-series:original
-signature
-smoke
-solo
-standing
-subreddit:imaginarywitches
-subreddit:imcharacters
-test tube
-title:a witch who creates stars by 'camellia'
-title:星を創る魔女
-traditional media
-uploader:myrandall
-upper body
-vial
-waist apron
-wide sleeves
-オリジナル
-オリジナル7500users入り
-オリジナル10000users入り
-フラスコ
-和装
-魔女
+1 female,
+1girl,
+akagi shun,
+apron,
+bangs,
+belt,
+black background,
+blue kimono,
+category:ine,
+clothing:apron,
+clothing:earrings,
+creator:akagi shun,
+creator:teatime0,
+creator:紅木春,
+earrings,
+eyebrows,
+eyebrows visible through hair,
+flask,
+gender:female,
+graphite (medium),
+head scarf,
+headdress,
+holding,
+japanese clothes,
+jewelry,
+kimono,
+long hair,
+long sleeves,
+looking away,
+medium:black background,
+medium:graphite,
+medium:simple background,
+medium:traditional media,
+meta:commentary request,
+meta:traditional media,
+original character,
+parted lips,
+pink eyes,
+pouch,
+purple hair,
+rating:mature,
+rating:safe,
+round-bottom flask,
+scarf,
+series:original,
+signature,
+smoke,
+solo,
+standing,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+test tube,
+title:a witch who creates stars by 'camellia',
+title:星を創る魔女,
+traditional media,
+uploader:myrandall,
+upper body,
+vial,
+waist apron,
+wide sleeves,
+オリジナル,
+オリジナル7500users入り,
+オリジナル10000users入り,
+フラスコ,
+和装,
+魔女,

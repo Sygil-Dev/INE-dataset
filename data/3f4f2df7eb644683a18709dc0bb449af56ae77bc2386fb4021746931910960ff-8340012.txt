@@ -1,45 +1,45 @@
-2 males
-animal
-animal ears
-category:ine
-character:winston (overwatch)
-character:wrecking ball (overwatch)
-closed eyes
-creator:nakanoart
-cyber
-duo
-ears
-eating
-fangs
-food
-gender:male
-genre:science fiction
-hammondthehamster
-hamster
-heart
-mecha
-medium:artist name
-medium:brown background
-medium:fanart from deviantart
-medium:simple background
-medium:text
-multiple boys
-multiple males
-no humans
-open mouth
-overwatch
-overwatchblizzard
-overwatchfanart
-peanut butter
-rating:safe
-series:overwatch
-species:gorilla
-species:mammal
-species:primate
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-teeth
-title:hammond's peanut butter by nana nakano
-title:overwatch - hammond's peanut butter
-uploader:myrandall
+2 males,
+animal,
+animal ears,
+category:ine,
+character:winston (overwatch),
+character:wrecking ball (overwatch),
+closed eyes,
+creator:nakanoart,
+cyber,
+duo,
+ears,
+eating,
+fangs,
+food,
+gender:male,
+genre:science fiction,
+hammondthehamster,
+hamster,
+heart,
+mecha,
+medium:artist name,
+medium:brown background,
+medium:fanart from deviantart,
+medium:simple background,
+medium:text,
+multiple boys,
+multiple males,
+no humans,
+open mouth,
+overwatch,
+overwatchblizzard,
+overwatchfanart,
+peanut butter,
+rating:safe,
+series:overwatch,
+species:gorilla,
+species:mammal,
+species:primate,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+teeth,
+title:hammond's peanut butter by nana nakano,
+title:overwatch - hammond's peanut butter,
+uploader:myrandall,

@@ -1,45 +1,45 @@
-1 female
-2016
-bare shoulders
-black hair
-cape
-category:ine
-character:san
-clothing:necklace
-creator:a70172219
-creator:balagao
-dated
-facepaint
-fangs
-gender:female
-jewelry
-jewelry removed
-medium:absurd resolution
-medium:high resolution
-meta:absurdres
-meta:highres
-necklace
-necklace removed
-polearm
-rating:mature
-rating:safe
-riding
-series:mononoke hime
-series:studio ghibli
-short hair
-signature
-skirt
-solo
-spear
-species:canine
-species:canis
-species:mammal
-species:wolf
-studio:studio ghibli
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:girl
-title:girl (princess mononoke?) by hung yan wu
-uploader:silencelibrarian
-weapon
-year:2016
+1 female,
+2016,
+bare shoulders,
+black hair,
+cape,
+category:ine,
+character:san,
+clothing:necklace,
+creator:a70172219,
+creator:balagao,
+dated,
+facepaint,
+fangs,
+gender:female,
+jewelry,
+jewelry removed,
+medium:absurd resolution,
+medium:high resolution,
+meta:absurdres,
+meta:highres,
+necklace,
+necklace removed,
+polearm,
+rating:mature,
+rating:safe,
+riding,
+series:mononoke hime,
+series:studio ghibli,
+short hair,
+signature,
+skirt,
+solo,
+spear,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+studio:studio ghibli,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:girl,
+title:girl (princess mononoke?) by hung yan wu,
+uploader:silencelibrarian,
+weapon,
+year:2016,

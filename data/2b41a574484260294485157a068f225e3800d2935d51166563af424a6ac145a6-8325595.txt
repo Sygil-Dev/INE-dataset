@@ -1,132 +1,132 @@
-antlers
-artist:sandara
-aslan
-beard
-booru:e621
-category:ine
-character:aslan
-character:gandalf
-character:gandalf the grey
-character:gandalf_the_grey
-character:smaug
-clothing
-clothing:hat
-clothing:headwear
-copyright:chronicles_of_narnia
-copyright:j._r._r._tolkien
-copyright:middle-earth_(tolkien)
-copyright:spiderwick_chronicles
-copyright:the_hobbit
-creator:sandara
-ears
-facial hair
-facial_hair
-fangs
-faries
-female
-feral
-fur
-furry
-gandalf
-gender:female
-gender:male
-goblin
-green body
-green hair
-green skin
-green_body
-green_hair
-green_skin
-group
-hair
-hat
-headgear
-headwear
-horn
-horns
-humanoid pointy ears
-humanoid_pointy_ears
-leaf
-long beard
-long hair
-long_beard
-long_hair
-magic user
-magic_user
-male
-medium:simple background
-medium:white background
-melee weapon
-melee_weapon
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-monster
-pipe
-pointy ears
-polearm
-rating:safe
-red body
-red scales
-red_body
-red_scales
-roaring
-scales
-series:chronicles of narnia
-series:j. r. r. tolkien
-series:middle-earth (tolkien)
-series:spiderwick chronicles
-series:the chronicles of narnia
-series:the hobbit
-series:the lord of the rings
-sharp teeth
-sharp_teeth
-simple background
-simple_background
-sky
-smaug
-smoke
-smoking
-spear
-species:arthropod
-species:butterfly
-species:dragon
-species:fairy
-species:felid
-species:feline
-species:goblin
-species:human
-species:humanoid
-species:insect
-species:lepidopteran
-species:lion
-species:mammal
-species:mythical
-species:pantherine
-species:primate
-species:scalie
-star
-starry sky
-starry_sky
-stars
-subreddit:imaginaryfaeries
-subreddit:imraces
-teeth
-textured background
-textured_background
-title:the fantasy makers cover art
-title:the fantasy makers cover art by sandara tang
-uploader:myrandall
-weapon
-white background
-white hair
-white_background
-white_hair
-wings
-wizard hat
-wizard_hat
-yellow body
-yellow fur
-yellow_body
-yellow_fur
+antlers,
+artist:sandara,
+aslan,
+beard,
+booru:e621,
+category:ine,
+character:aslan,
+character:gandalf,
+character:gandalf the grey,
+character:gandalf_the_grey,
+character:smaug,
+clothing,
+clothing:hat,
+clothing:headwear,
+copyright:chronicles_of_narnia,
+copyright:j._r._r._tolkien,
+copyright:middle-earth_(tolkien),
+copyright:spiderwick_chronicles,
+copyright:the_hobbit,
+creator:sandara,
+ears,
+facial hair,
+facial_hair,
+fangs,
+faries,
+female,
+feral,
+fur,
+furry,
+gandalf,
+gender:female,
+gender:male,
+goblin,
+green body,
+green hair,
+green skin,
+green_body,
+green_hair,
+green_skin,
+group,
+hair,
+hat,
+headgear,
+headwear,
+horn,
+horns,
+humanoid pointy ears,
+humanoid_pointy_ears,
+leaf,
+long beard,
+long hair,
+long_beard,
+long_hair,
+magic user,
+magic_user,
+male,
+medium:simple background,
+medium:white background,
+melee weapon,
+melee_weapon,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+monster,
+pipe,
+pointy ears,
+polearm,
+rating:safe,
+red body,
+red scales,
+red_body,
+red_scales,
+roaring,
+scales,
+series:chronicles of narnia,
+series:j. r. r. tolkien,
+series:middle-earth (tolkien),
+series:spiderwick chronicles,
+series:the chronicles of narnia,
+series:the hobbit,
+series:the lord of the rings,
+sharp teeth,
+sharp_teeth,
+simple background,
+simple_background,
+sky,
+smaug,
+smoke,
+smoking,
+spear,
+species:arthropod,
+species:butterfly,
+species:dragon,
+species:fairy,
+species:felid,
+species:feline,
+species:goblin,
+species:human,
+species:humanoid,
+species:insect,
+species:lepidopteran,
+species:lion,
+species:mammal,
+species:mythical,
+species:pantherine,
+species:primate,
+species:scalie,
+star,
+starry sky,
+starry_sky,
+stars,
+subreddit:imaginaryfaeries,
+subreddit:imraces,
+teeth,
+textured background,
+textured_background,
+title:the fantasy makers cover art,
+title:the fantasy makers cover art by sandara tang,
+uploader:myrandall,
+weapon,
+white background,
+white hair,
+white_background,
+white_hair,
+wings,
+wizard hat,
+wizard_hat,
+yellow body,
+yellow fur,
+yellow_body,
+yellow_fur,

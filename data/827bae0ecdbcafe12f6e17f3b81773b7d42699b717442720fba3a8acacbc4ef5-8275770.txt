@@ -1,65 +1,65 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-black eyes
-category:ine
-chopsticks
-copyright:asian_mythology
-copyright:east_asian_mythology
-copyright:japanese_mythology
-copyright:mythology
-creator:cryptid-creations
-creator:piperdraws
-egg
-fangs
-feral
-filename:dp1745_s
-food
-forked tongue
-furry
-gender:ambiguous
-humor
-medium:patreon reward
-meta:2017
-meta:english text
-meta:paid reward
-meta:patreon reward
-meta:url
-napkin
-pun
-rating:safe
-rice
-sauce
-series:asian mythology
-series:east asian mythology
-series:japanese mythology
-series:mythology
-simple background
-site:patreon
-site:yiff.party
-solo
-species:food creature
-species:food_creature
-species:reptile
-species:scalie
-species:snake
-species:tsuchinoko
-species:yōkai
-string beans
-subreddit:imaginaryfood
-subreddit:immeta
-sushi
-teeth
-text
-title:1$ patreon pack - daily painting 1745# sushinoko - bento
-title:5-10$ patreon pack - daily painting 1745# sushinoko - bento
-title:daily painting 1745# sushinoko - bento
-title:sushinoko - bento by piper thibodeau
-tongue
-tongue out
-uploader:myrandall
-visual pun
-white background
-white body
-yiff id:457132
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+black eyes,
+category:ine,
+chopsticks,
+copyright:asian_mythology,
+copyright:east_asian_mythology,
+copyright:japanese_mythology,
+copyright:mythology,
+creator:cryptid-creations,
+creator:piperdraws,
+egg,
+fangs,
+feral,
+filename:dp1745_s,
+food,
+forked tongue,
+furry,
+gender:ambiguous,
+humor,
+medium:patreon reward,
+meta:2017,
+meta:english text,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+napkin,
+pun,
+rating:safe,
+rice,
+sauce,
+series:asian mythology,
+series:east asian mythology,
+series:japanese mythology,
+series:mythology,
+simple background,
+site:patreon,
+site:yiff.party,
+solo,
+species:food creature,
+species:food_creature,
+species:reptile,
+species:scalie,
+species:snake,
+species:tsuchinoko,
+species:yōkai,
+string beans,
+subreddit:imaginaryfood,
+subreddit:immeta,
+sushi,
+teeth,
+text,
+title:1$ patreon pack - daily painting 1745# sushinoko - bento,
+title:5-10$ patreon pack - daily painting 1745# sushinoko - bento,
+title:daily painting 1745# sushinoko - bento,
+title:sushinoko - bento by piper thibodeau,
+tongue,
+tongue out,
+uploader:myrandall,
+visual pun,
+white background,
+white body,
+yiff id:457132,

@@ -1,59 +1,59 @@
-absurd res
-booru:e621
-bowing
-canterlot
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-character:princess luna
-character:princess luna (mlp)
-cloudsdale
-contrast
-creator:viwrastupr
-crystal empire
-duality
-duo
-feathered wings
-feathers
-female
-feral
-full-length portrait
-gender:female
-genre:fantasy
-hi res
-horn
-horns
-juxtaposition
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-meta:absurd res
-meta:digital media (artwork)
-meta:full-length portrait
-meta:hi res
-meta:portrait
-meta:url
-ponyville
-portrait
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-side view
-sparkles
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-symmetry
-tag source:e621
-text
-title:'welcome to equestria' by viwrastupr
-title:welcome to equestria
-uploader:schnitzellover
-wings
+absurd res,
+booru:e621,
+bowing,
+canterlot,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+character:princess luna,
+character:princess luna (mlp),
+cloudsdale,
+contrast,
+creator:viwrastupr,
+crystal empire,
+duality,
+duo,
+feathered wings,
+feathers,
+female,
+feral,
+full-length portrait,
+gender:female,
+genre:fantasy,
+hi res,
+horn,
+horns,
+juxtaposition,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+meta:absurd res,
+meta:digital media (artwork),
+meta:full-length portrait,
+meta:hi res,
+meta:portrait,
+meta:url,
+ponyville,
+portrait,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+side view,
+sparkles,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+symmetry,
+tag source:e621,
+text,
+title:'welcome to equestria' by viwrastupr,
+title:welcome to equestria,
+uploader:schnitzellover,
+wings,

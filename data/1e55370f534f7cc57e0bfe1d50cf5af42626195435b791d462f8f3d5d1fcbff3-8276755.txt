@@ -1,42 +1,42 @@
-alarmed
-brown body
-brown feathers
-cannibalism
-category:ine
-creator:cryptid-creations
-dessert
-doughnut
-duo
-eating
-feathered wings
-feathers
-feral
-food
-gender:ambiguous
-humor
-medium:simple background
-meme:humor
-meta:english text
-meta:white background
-pun
-rating:safe
-shocked
-shocked expression
-shocked face
-simple background
-species:avian
-species:bird
-species:columbid
-species:dodo
-species:food creature
-sprinkles
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily paint 1521. dodonut
-title:dodonut by piper thibodeau
-uploader:myrandall
-visual pun
-website:reddit
-wings
-yellow eyes
+alarmed,
+brown body,
+brown feathers,
+cannibalism,
+category:ine,
+creator:cryptid-creations,
+dessert,
+doughnut,
+duo,
+eating,
+feathered wings,
+feathers,
+feral,
+food,
+gender:ambiguous,
+humor,
+medium:simple background,
+meme:humor,
+meta:english text,
+meta:white background,
+pun,
+rating:safe,
+shocked,
+shocked expression,
+shocked face,
+simple background,
+species:avian,
+species:bird,
+species:columbid,
+species:dodo,
+species:food creature,
+sprinkles,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily paint 1521. dodonut,
+title:dodonut by piper thibodeau,
+uploader:myrandall,
+visual pun,
+website:reddit,
+wings,
+yellow eyes,

@@ -1,46 +1,46 @@
-2015
-book
-booru:e621
-category:ine
-character:moondancer
-character:moondancer (mlp)
-clothing
-clothing:eyewear
-clothing:sweater
-creator:frank-seven
-creator:frankier77
-eyewear
-female
-gender:female
-genre:fantasy
-glasses
-horn
-horns
-levitation
-magic
-meta:2015
-meta:portrait
-mlp
-moondancer
-portrait
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sweater
-tag source:e621
-title:"moondancer" by frank-seven
-title:[my little pony] moondancer
-topwear
-uploader:crystallord
-year:2015
+2015,
+book,
+booru:e621,
+category:ine,
+character:moondancer,
+character:moondancer (mlp),
+clothing,
+clothing:eyewear,
+clothing:sweater,
+creator:frank-seven,
+creator:frankier77,
+eyewear,
+female,
+gender:female,
+genre:fantasy,
+glasses,
+horn,
+horns,
+levitation,
+magic,
+meta:2015,
+meta:portrait,
+mlp,
+moondancer,
+portrait,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sweater,
+tag source:e621,
+title:"moondancer" by frank-seven,
+title:[my little pony] moondancer,
+topwear,
+uploader:crystallord,
+year:2015,

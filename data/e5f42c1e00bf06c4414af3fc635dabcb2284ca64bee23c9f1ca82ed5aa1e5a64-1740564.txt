@@ -1,86 +1,86 @@
-2015
-amazing background
-blue eyes
-blue sky
-booru:e621
-boulder
-category:ine
-character:princess luna
-character:princess luna (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-cliff
-creator:tsitra360
-creator:viwrastupr
-creek
-cutie mark
-detailed background
-duo
-fantasy
-feathered wings
-feathers
-female
-feral
-field
-fur
-gender:female
-genre:fantasy
-grass
-hair
-hi res
-horn
-horns
-lake
-magic
-medium:amazing background
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2015
-meta:digital media (artwork)
-meta:hi res
-mlp
-moon
-mountain
-multicolored hair
-mylittlepony
-nature
-open wings
-outcrop
-outside
-plant
-princessluna
-purple body
-purple fur
-purple hair
-rating:safe
-rock
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-spread wings
-star
-stone
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"lunar serenity" by tsitra360 and viwrastupr
-title:lunar serenity
-tsitra360
-twilightsparkle
-two tone hair
-uploader:torvusil
-viw
-viwrastupr
-water
-waterfall
-wings
-year:2015
+2015,
+amazing background,
+blue eyes,
+blue sky,
+booru:e621,
+boulder,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+cliff,
+creator:tsitra360,
+creator:viwrastupr,
+creek,
+cutie mark,
+detailed background,
+duo,
+fantasy,
+feathered wings,
+feathers,
+female,
+feral,
+field,
+fur,
+gender:female,
+genre:fantasy,
+grass,
+hair,
+hi res,
+horn,
+horns,
+lake,
+magic,
+medium:amazing background,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2015,
+meta:digital media (artwork),
+meta:hi res,
+mlp,
+moon,
+mountain,
+multicolored hair,
+mylittlepony,
+nature,
+open wings,
+outcrop,
+outside,
+plant,
+princessluna,
+purple body,
+purple fur,
+purple hair,
+rating:safe,
+rock,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+spread wings,
+star,
+stone,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"lunar serenity" by tsitra360 and viwrastupr,
+title:lunar serenity,
+tsitra360,
+twilightsparkle,
+two tone hair,
+uploader:torvusil,
+viw,
+viwrastupr,
+water,
+waterfall,
+wings,
+year:2015,

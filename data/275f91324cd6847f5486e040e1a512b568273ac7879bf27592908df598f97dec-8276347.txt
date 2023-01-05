@@ -1,43 +1,43 @@
-2017
-action:closing eyes
-action:open mouth
-ambiguous_gender
-antennae (anatomy)
-antennae_(anatomy)
-artist:cryptid-creations
-basket
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-category:ine
-creator:cryptid-creations
-eyes closed
-eyes_closed
-feral
-food
-furniture
-gender:ambiguous
-group
-humor
-meme:humor
-meta:2017
-open mouth
-open_mouth
-pun
-rating:safe
-salsa (food)
-salsa_(food)
-species:arthropod
-species:food creature
-species:food_creature
-species:insect
-subreddit:imaginaryfood
-subreddit:immeta
-table
-title:breadstick bug by piper thibodeau
-title:daily paint 1621. breadstick bug
-uploader:myrandall
-visual pun
-visual_pun
+2017,
+action:closing eyes,
+action:open mouth,
+ambiguous_gender,
+antennae (anatomy),
+antennae_(anatomy),
+artist:cryptid-creations,
+basket,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+category:ine,
+creator:cryptid-creations,
+eyes closed,
+eyes_closed,
+feral,
+food,
+furniture,
+gender:ambiguous,
+group,
+humor,
+meme:humor,
+meta:2017,
+open mouth,
+open_mouth,
+pun,
+rating:safe,
+salsa (food),
+salsa_(food),
+species:arthropod,
+species:food creature,
+species:food_creature,
+species:insect,
+subreddit:imaginaryfood,
+subreddit:immeta,
+table,
+title:breadstick bug by piper thibodeau,
+title:daily paint 1621. breadstick bug,
+uploader:myrandall,
+visual pun,
+visual_pun,

@@ -1,51 +1,51 @@
-ambiguous gender
-booru:e621
-category:ine
-character:discord
-character:discord (mlp)
-character:fluttershy
-character:fluttershy (mlp)
-character:rainbow dash
-character:rainbow dash (mlp)
-character:shining armor
-character:shining armor (mlp)
-creator:fruitbloodmilkshake
-cutie mark
-day
-detailed background
-equine
-feral
-fire
-fruitbloodmilkshake
-gender:ambiguous
-genre:fantasy
-group
-hair
-hi res
-hooves
-mammal
-medium:detailed background
-medium:high resolution
-meta:hi res
-multicolored hair
-outside
-pegasus
-rainbow hair
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:'mach 3 uppercut' by fruitbloodmilkshake
-title:mach 3 uppercut
-uploader:schnitzellover
-wings
+ambiguous gender,
+booru:e621,
+category:ine,
+character:discord,
+character:discord (mlp),
+character:fluttershy,
+character:fluttershy (mlp),
+character:rainbow dash,
+character:rainbow dash (mlp),
+character:shining armor,
+character:shining armor (mlp),
+creator:fruitbloodmilkshake,
+cutie mark,
+day,
+detailed background,
+equine,
+feral,
+fire,
+fruitbloodmilkshake,
+gender:ambiguous,
+genre:fantasy,
+group,
+hair,
+hi res,
+hooves,
+mammal,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+multicolored hair,
+outside,
+pegasus,
+rainbow hair,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:'mach 3 uppercut' by fruitbloodmilkshake,
+title:mach 3 uppercut,
+uploader:schnitzellover,
+wings,

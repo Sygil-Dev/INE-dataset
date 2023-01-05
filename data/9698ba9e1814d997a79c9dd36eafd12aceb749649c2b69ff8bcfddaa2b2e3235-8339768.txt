@@ -1,59 +1,59 @@
-2 females
-2girls
-ana amari
-bodysuit
-booru:sankaku channel
-bottomwear
-category:ine
-character:amélie "widowmaker" lacroix
-character:amélie "widowmaker" lacroix (née guillard)
-character:amélie "widowmaker" lacroix (overwatch)
-character:ana (overwatch)
-character:ana amari
-character:ana amari (overwatch)
-character:captain amari
-character:widowmaker
-character:widowmaker (overwatch)
-clothing:bodysuit
-clothing:bottomwear
-clothing:hair tie
-clothing:hat
-clothing:headwear
-clothing:topwear
-creator:mirco cabbia
-creator:mirco cabbia (sciamano240)
-creator:sciamano240
-dark skin
-female
-firearm
-gender:female
-genre:science fiction
-gun
-hair tie
-hat
-headwear
-long hair
-medium:4:3 aspect ratio
-medium:digital 2d
-medium:monochrome
-military hat
-multiple females
-multiple girls
-overwatch
-ponytail
-rating:safe
-rifle
-series:overwatch
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-tattoo
-teaching
-tied hair
-title:ana and amelie - overwatch (commission)
-title:ana and amélie - overwatch (commission)
-title:ana and amélie by mirco cabbia
-topwear
-uploader:myrandall
-weapon
-widowmaker
+2 females,
+2girls,
+ana amari,
+bodysuit,
+booru:sankaku channel,
+bottomwear,
+category:ine,
+character:amélie "widowmaker" lacroix,
+character:amélie "widowmaker" lacroix (née guillard),
+character:amélie "widowmaker" lacroix (overwatch),
+character:ana (overwatch),
+character:ana amari,
+character:ana amari (overwatch),
+character:captain amari,
+character:widowmaker,
+character:widowmaker (overwatch),
+clothing:bodysuit,
+clothing:bottomwear,
+clothing:hair tie,
+clothing:hat,
+clothing:headwear,
+clothing:topwear,
+creator:mirco cabbia,
+creator:mirco cabbia (sciamano240),
+creator:sciamano240,
+dark skin,
+female,
+firearm,
+gender:female,
+genre:science fiction,
+gun,
+hair tie,
+hat,
+headwear,
+long hair,
+medium:4:3 aspect ratio,
+medium:digital 2d,
+medium:monochrome,
+military hat,
+multiple females,
+multiple girls,
+overwatch,
+ponytail,
+rating:safe,
+rifle,
+series:overwatch,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+tattoo,
+teaching,
+tied hair,
+title:ana and amelie - overwatch (commission),
+title:ana and amélie - overwatch (commission),
+title:ana and amélie by mirco cabbia,
+topwear,
+uploader:myrandall,
+weapon,
+widowmaker,

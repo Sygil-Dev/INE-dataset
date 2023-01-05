@@ -1,93 +1,93 @@
-1 female
-1girl
-alternate costume
-alternative costume
-aqua nails
-armpits
-artist name
-bare shoulders
-black hair
-booru:danbooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-breasts
-category:ine
-character:figure skater symmetra
-character:satya "symmetra" vaswani
-character:symmetra (overwatch)
-clothing:earrings
-clothing:gloves
-clothing:green skirt
-clothing:hair tie
-clothing:jewelry
-clothing:skirt
-clothing:thigh-highs
-clothing:white gloves
-clothing:white legwear
-commentary
-copyright:overwatch
-creator:fiship
-creator:matilda fiship
-creator:matilda vin
-creator:matilda-fiship
-creator:matilda_fiship
-creator:matilda_vin
-dark skin
-dark skinned female
-earrings
-female
-female focus
-female only
-figure skating
-fiship
-gender:female
-genre:science fiction
-gloves
-green skirt
-hair bun
-hair tie
-jewelry
-looking away
-medium breasts
-medium:absurd resolution
-medium:artist name
-medium:focus on female character
-medium:high resolution
-medium:very high resolution
-meta:absurdres
-meta:artist name
-meta:commentary
-meta:highres
-meta:tag audit (no figure skates)
-monster girl
-monster girls
-monstergirl
-monstergirls
-nail polish
-no headgear
-outstretched arm
-parted lips
-rating:mature
-rating:s
-rating:safe
-series:overwatch
-short hair
-single glove
-skirt
-solo
-solo female
-sparkle
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-tattoo
-thigh-highs
-thighhighs
-tied hair
-title:symmetra by matilda fiship
-uploader:myrandall
-wand
-white gloves
-white legwear
-yellow eyes
+1 female,
+1girl,
+alternate costume,
+alternative costume,
+aqua nails,
+armpits,
+artist name,
+bare shoulders,
+black hair,
+booru:danbooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+breasts,
+category:ine,
+character:figure skater symmetra,
+character:satya "symmetra" vaswani,
+character:symmetra (overwatch),
+clothing:earrings,
+clothing:gloves,
+clothing:green skirt,
+clothing:hair tie,
+clothing:jewelry,
+clothing:skirt,
+clothing:thigh-highs,
+clothing:white gloves,
+clothing:white legwear,
+commentary,
+copyright:overwatch,
+creator:fiship,
+creator:matilda fiship,
+creator:matilda vin,
+creator:matilda-fiship,
+creator:matilda_fiship,
+creator:matilda_vin,
+dark skin,
+dark skinned female,
+earrings,
+female,
+female focus,
+female only,
+figure skating,
+fiship,
+gender:female,
+genre:science fiction,
+gloves,
+green skirt,
+hair bun,
+hair tie,
+jewelry,
+looking away,
+medium breasts,
+medium:absurd resolution,
+medium:artist name,
+medium:focus on female character,
+medium:high resolution,
+medium:very high resolution,
+meta:absurdres,
+meta:artist name,
+meta:commentary,
+meta:highres,
+meta:tag audit (no figure skates),
+monster girl,
+monster girls,
+monstergirl,
+monstergirls,
+nail polish,
+no headgear,
+outstretched arm,
+parted lips,
+rating:mature,
+rating:s,
+rating:safe,
+series:overwatch,
+short hair,
+single glove,
+skirt,
+solo,
+solo female,
+sparkle,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+tattoo,
+thigh-highs,
+thighhighs,
+tied hair,
+title:symmetra by matilda fiship,
+uploader:myrandall,
+wand,
+white gloves,
+white legwear,
+yellow eyes,

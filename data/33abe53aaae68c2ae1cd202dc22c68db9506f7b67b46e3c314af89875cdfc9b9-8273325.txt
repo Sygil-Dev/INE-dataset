@@ -1,22 +1,22 @@
-bowl
-carrot
-category:ine
-creator:aax52630
-food
-meat
-no humans
-onion
-plate
-potato
-rating:safe
-rice
-salad
-series:original
-soup
-spinach
-steak
-subreddit:imaginaryfood
-subreddit:immeta
-title:steak plate by itaya yurie
-uploader:_chrysoberyl_
-vegetable
+bowl,
+carrot,
+category:ine,
+creator:aax52630,
+food,
+meat,
+no humans,
+onion,
+plate,
+potato,
+rating:safe,
+rice,
+salad,
+series:original,
+soup,
+spinach,
+steak,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:steak plate by itaya yurie,
+uploader:_chrysoberyl_,
+vegetable,

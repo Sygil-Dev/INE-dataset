@@ -1,55 +1,55 @@
-2017
-ambiguous_gender
-artist:cryptid-creations
-bag
-banana
-black eyes
-black_eyes
-blueberry (fruit)
-blueberry_(fruit)
-bodypart:black eyes
-category:ine
-character:blueberry (disambiguation)
-clothing:bag
-creator:cryptid-creations
-eating
-feral
-food
-fruit
-gender:ambiguous
-gender:male
-grain
-humor
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:2017
-meta:english text
-meta:english_text
-meta:white background
-oatmeal
-plant
-pun
-rating:safe
-simple background
-simple_background
-solo
-species:bovid
-species:caprine
-species:food creature
-species:food_creature
-species:goat
-species:mammal
-strawberry
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily paint 1628. goatmeal
-title:goatmeal by piper thibodeau
-uploader:myrandall
-visual pun
-visual puun
-visual_pun
-white_background
-year:2017
+2017,
+ambiguous_gender,
+artist:cryptid-creations,
+bag,
+banana,
+black eyes,
+black_eyes,
+blueberry (fruit),
+blueberry_(fruit),
+bodypart:black eyes,
+category:ine,
+character:blueberry (disambiguation),
+clothing:bag,
+creator:cryptid-creations,
+eating,
+feral,
+food,
+fruit,
+gender:ambiguous,
+gender:male,
+grain,
+humor,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2017,
+meta:english text,
+meta:english_text,
+meta:white background,
+oatmeal,
+plant,
+pun,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:bovid,
+species:caprine,
+species:food creature,
+species:food_creature,
+species:goat,
+species:mammal,
+strawberry,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily paint 1628. goatmeal,
+title:goatmeal by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual puun,
+visual_pun,
+white_background,
+year:2017,

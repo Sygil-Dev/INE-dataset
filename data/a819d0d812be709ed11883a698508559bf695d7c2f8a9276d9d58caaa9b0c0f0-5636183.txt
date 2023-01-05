@@ -1,59 +1,59 @@
-2016
-ambiguous_gender
-apple
-apple cider
-apple_cider
-arthropod webbing
-arthropod_webbing
-artist:cryptid-creations
-beverage
-black eyes
-black_eyes
-bodypart:black eyes
-category:ine
-character:cinnamon
-cinnamon
-cinnamon (disambiguation)
-cinnamon_(disambiguation)
-clothing:scarf
-cloud
-creator:cryptid-creations
-food
-food creature
-fruit
-gender:ambiguous
-gender:male
-humor
-male:1
-meme:humor
-meta:2016
-meta:english text
-meta:english_text
-pitcher
-plant
-pun
-rating:safe
-sky
-solo
-species:arachnid
-species:arthropod
-species:elemental creature
-species:elemental_creature
-species:flora fauna
-species:flora_fauna
-species:food creature
-species:food_creature
-species:living fruit
-species:living_fruit
-species:spider
-spider web
-spider_web
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:cider web by piper thibodeau
-title:day 1412. cider web
-uploader:myrandall
-visual pun
-visual_pun
-web
+2016,
+ambiguous_gender,
+apple,
+apple cider,
+apple_cider,
+arthropod webbing,
+arthropod_webbing,
+artist:cryptid-creations,
+beverage,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+category:ine,
+character:cinnamon,
+cinnamon,
+cinnamon (disambiguation),
+cinnamon_(disambiguation),
+clothing:scarf,
+cloud,
+creator:cryptid-creations,
+food,
+food creature,
+fruit,
+gender:ambiguous,
+gender:male,
+humor,
+male:1,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:english_text,
+pitcher,
+plant,
+pun,
+rating:safe,
+sky,
+solo,
+species:arachnid,
+species:arthropod,
+species:elemental creature,
+species:elemental_creature,
+species:flora fauna,
+species:flora_fauna,
+species:food creature,
+species:food_creature,
+species:living fruit,
+species:living_fruit,
+species:spider,
+spider web,
+spider_web,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:cider web by piper thibodeau,
+title:day 1412. cider web,
+uploader:myrandall,
+visual pun,
+visual_pun,
+web,

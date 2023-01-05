@@ -1,44 +1,44 @@
-ambiguous gender
-black eyes
-bodypart:black eyes
-cake
-category:ine
-cherry
-creator:cryptid-creations
-cutlery
-dessert
-eating
-food
-fork
-fruit
-fur
-gender:ambiguous
-gender:female
-gender:male
-horn
-horns
-humor
-kitchen utensils
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:2017
-plant
-pun
-rating:safe
-red body
-red fur
-simple background
-solo
-spade tail
-species:demon
-subreddit:imaginaryfood
-subreddit:immeta
-tail
-title:daily paint 1558. devil's foodcake
-title:devil's foodcake by piper thibodeau
-tools
-uploader:myrandall
-website:e621
-white background
+ambiguous gender,
+black eyes,
+bodypart:black eyes,
+cake,
+category:ine,
+cherry,
+creator:cryptid-creations,
+cutlery,
+dessert,
+eating,
+food,
+fork,
+fruit,
+fur,
+gender:ambiguous,
+gender:female,
+gender:male,
+horn,
+horns,
+humor,
+kitchen utensils,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2017,
+plant,
+pun,
+rating:safe,
+red body,
+red fur,
+simple background,
+solo,
+spade tail,
+species:demon,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tail,
+title:daily paint 1558. devil's foodcake,
+title:devil's foodcake by piper thibodeau,
+tools,
+uploader:myrandall,
+website:e621,
+white background,

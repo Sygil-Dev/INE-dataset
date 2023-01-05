@@ -1,66 +1,66 @@
-1 female
-1girl
-aiming at viewer
-alternate costume
-alternative costume
-arm cannon
-asp pharah
-bangs
-black hair
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-brown eyes
-category:ine
-character:asp pharah
-character:fareeha "pharah" amari
-character:pharah (overwatch)
-clenched hands
-clothing:bottomwear
-clothing:loincloth
-commentary
-creator:dreamer whit
-creator:whitney lanier
-dark skin
-dark skinned female
-dreamer whit
-egyptian
-english commentary
-eye of horus
-eyebrows
-eyeshadow
-facial tattoo
-female
-flying
-gender:female
-genre:science fiction
-grin
-loincloth
-makeup
-mechanical wings
-medium hair
-medium:absurd resolution
-medium:high resolution
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-meta:photoshop (medium)
-power armor
-power suit
-rating:mature
-rating:safe
-series:overwatch
-smile
-solo
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-tattoo
-thick eyebrows
-title:pharah by dreamerwhit
-uploader:loser100000
-weapon
-wings
+1 female,
+1girl,
+aiming at viewer,
+alternate costume,
+alternative costume,
+arm cannon,
+asp pharah,
+bangs,
+black hair,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+brown eyes,
+category:ine,
+character:asp pharah,
+character:fareeha "pharah" amari,
+character:pharah (overwatch),
+clenched hands,
+clothing:bottomwear,
+clothing:loincloth,
+commentary,
+creator:dreamer whit,
+creator:whitney lanier,
+dark skin,
+dark skinned female,
+dreamer whit,
+egyptian,
+english commentary,
+eye of horus,
+eyebrows,
+eyeshadow,
+facial tattoo,
+female,
+flying,
+gender:female,
+genre:science fiction,
+grin,
+loincloth,
+makeup,
+mechanical wings,
+medium hair,
+medium:absurd resolution,
+medium:high resolution,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:photoshop (medium),
+power armor,
+power suit,
+rating:mature,
+rating:safe,
+series:overwatch,
+smile,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+tattoo,
+thick eyebrows,
+title:pharah by dreamerwhit,
+uploader:loser100000,
+weapon,
+wings,

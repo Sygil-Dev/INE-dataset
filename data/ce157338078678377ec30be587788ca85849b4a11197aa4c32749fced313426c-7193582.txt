@@ -1,25 +1,25 @@
-art
-atmopshere
-category:ine
-concept
-concept art
-creator:jakub rozalski
-digitalpainting
-dog
-illustration
-mechs
-medium:concept art
-medium:digital 2d
-mountain
-painting
-poland
-species:canine
-species:dog
-species:mammal
-storytelling
-subreddit:imaginaryhistory
-subreddit:immeta
-title:1920 - soup is waiting
-title:1920 - soup is waiting by jakub rozalski (xpost /r/scifirealism)
-uploader:lol33ta
-website:reddit
+art,
+atmopshere,
+category:ine,
+concept,
+concept art,
+creator:jakub rozalski,
+digitalpainting,
+dog,
+illustration,
+mechs,
+medium:concept art,
+medium:digital 2d,
+mountain,
+painting,
+poland,
+species:canine,
+species:dog,
+species:mammal,
+storytelling,
+subreddit:imaginaryhistory,
+subreddit:immeta,
+title:1920 - soup is waiting,
+title:1920 - soup is waiting by jakub rozalski (xpost /r/scifirealism),
+uploader:lol33ta,
+website:reddit,

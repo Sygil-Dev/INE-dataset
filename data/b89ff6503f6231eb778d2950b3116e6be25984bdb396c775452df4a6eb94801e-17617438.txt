@@ -1,76 +1,76 @@
-2019
-absurd res
-ambiguous gender
-ambiguous_gender
-artist:plaguedogs123
-category:ine
-character:spyro
-claws
-copyright:activision
-copyright:spyro_the_dragon
-creator:plaguedogs123
-dawn_of_the_dragon
-digital media (artwork)
-dotd
-dragon
-element
-fantasy
-feral
-fire
-flames
-furry
-gender:ambiguous
-gender:male
-hi res
-horn
-horns
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-open mouth
-open_mouth
-rating:safe
-scales
-series
-series:activision
-series:spyro the dragon
-simple background
-simple bf
-simple_background
-solo
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-spines
-spyro
-spyro_the_dragon
-studio:activision
-subreddit:imaginarydragons
-subreddit:imaginarygaming
-subreddit:imfandoms
-subreddit:immonsters
-teeth
-the_legend_of_spyro
-the_legend_of_spyro_dawn_of_the_dragon
-title:"fire" by plaguedogs123
-title:fire
-tlos
-tongue
-uploader:torvusil
-video games
-video_games
-wings
-year:2019
+2019,
+absurd res,
+ambiguous gender,
+ambiguous_gender,
+artist:plaguedogs123,
+category:ine,
+character:spyro,
+claws,
+copyright:activision,
+copyright:spyro_the_dragon,
+creator:plaguedogs123,
+dawn_of_the_dragon,
+digital media (artwork),
+dotd,
+dragon,
+element,
+fantasy,
+feral,
+fire,
+flames,
+furry,
+gender:ambiguous,
+gender:male,
+hi res,
+horn,
+horns,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+open mouth,
+open_mouth,
+rating:safe,
+scales,
+series,
+series:activision,
+series:spyro the dragon,
+simple background,
+simple bf,
+simple_background,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+spines,
+spyro,
+spyro_the_dragon,
+studio:activision,
+subreddit:imaginarydragons,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+subreddit:immonsters,
+teeth,
+the_legend_of_spyro,
+the_legend_of_spyro_dawn_of_the_dragon,
+title:"fire" by plaguedogs123,
+title:fire,
+tlos,
+tongue,
+uploader:torvusil,
+video games,
+video_games,
+wings,
+year:2019,

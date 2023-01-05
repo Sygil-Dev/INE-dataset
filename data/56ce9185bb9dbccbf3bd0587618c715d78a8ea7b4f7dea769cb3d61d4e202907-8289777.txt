@@ -1,32 +1,32 @@
-1 female
-1girl
-armor
-armored dress
-brown hair
-cape
-category:ine
-character:jeanne d'arc
-creator:asuka111
-creator:patipat asavasena
-cross
-feathers
-gender:female
-hand on own chest
-medium:real life
-meta:commentary request
-rating:mature
-rating:safe
-rating:sensitive
-red eyes
-series:level-5
-series:real life
-short hair
-solo
-studio:level-5
-subreddit:imaginaryhistory
-subreddit:immeta
-sword
-title:jeanne d'arc
-title:jeanne d'arc by patipat asavasena
-uploader:lol33ta
-weapon
+1 female,
+1girl,
+armor,
+armored dress,
+brown hair,
+cape,
+category:ine,
+character:jeanne d'arc,
+creator:asuka111,
+creator:patipat asavasena,
+cross,
+feathers,
+gender:female,
+hand on own chest,
+medium:real life,
+meta:commentary request,
+rating:mature,
+rating:safe,
+rating:sensitive,
+red eyes,
+series:level-5,
+series:real life,
+short hair,
+solo,
+studio:level-5,
+subreddit:imaginaryhistory,
+subreddit:immeta,
+sword,
+title:jeanne d'arc,
+title:jeanne d'arc by patipat asavasena,
+uploader:lol33ta,
+weapon,

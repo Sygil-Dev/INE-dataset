@@ -1,50 +1,50 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-cake
-category:ine
-creator:cryptid-creations
-cutlery
-dessert
-feral
-food
-fork
-fruit
-humor
-kitchen utensils
-kitchen_utensils
-menu
-meta:2017
-meta:english text
-meta:english_text
-napkin
-open mouth
-open_mouth
-plant
-plate
-pun
-raspberry
-rating:safe
-smile
-solo
-species:animate inanimate
-species:animate_inanimate
-species:batoid
-species:fish
-species:manta ray
-species:manta_ray
-species:marine
-spoon
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily painting 1717# manta tray
-title:manta tray by piper thibodeau
-tools
-uploader:myrandall
-visual pun
-visual_pun
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+cake,
+category:ine,
+creator:cryptid-creations,
+cutlery,
+dessert,
+feral,
+food,
+fork,
+fruit,
+humor,
+kitchen utensils,
+kitchen_utensils,
+menu,
+meta:2017,
+meta:english text,
+meta:english_text,
+napkin,
+open mouth,
+open_mouth,
+plant,
+plate,
+pun,
+raspberry,
+rating:safe,
+smile,
+solo,
+species:animate inanimate,
+species:animate_inanimate,
+species:batoid,
+species:fish,
+species:manta ray,
+species:manta_ray,
+species:marine,
+spoon,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily painting 1717# manta tray,
+title:manta tray by piper thibodeau,
+tools,
+uploader:myrandall,
+visual pun,
+visual_pun,

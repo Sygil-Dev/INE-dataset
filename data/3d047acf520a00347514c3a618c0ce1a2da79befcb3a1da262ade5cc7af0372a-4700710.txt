@@ -1,64 +1,64 @@
-2016
-action:open mouth
-ambiguous_gender
-artist:cryptid-creations
-bag
-black eyes
-black_eyes
-bodypart:black eyes
-bread
-category:ine
-clothing:bag
-creator:cryptid-creations
-creator:piperdraws
-feral
-filename:dp1348_s
-food
-gender:ambiguous
-humor
-jar
-jelly
-jelly (food)
-jelly_(food)
-knife
-medium:patreon reward
-medium:simple background
-meme:humor
-meta:2016
-meta:english text
-meta:english_text
-meta:paid reward
-meta:patreon reward
-meta:white background
-open mouth
-open_mouth
-peanut butter
-peanut_butter
-plate
-pun
-rating:safe
-sandwich
-sandwich (food)
-sandwich_(food)
-simple background
-simple_background
-site:patreon
-site:yiff.party
-solo
-species:cnidarian
-species:food creature
-species:food_creature
-species:jellyfish
-species:marine
-species:medusozoan
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily 1348. peanut-butter & jellyfish
-title:daily 1348. peanut-butter and jellyfish
-title:peanut-butter and jellyfish by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-white_background
-yiff id:457132
+2016,
+action:open mouth,
+ambiguous_gender,
+artist:cryptid-creations,
+bag,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+bread,
+category:ine,
+clothing:bag,
+creator:cryptid-creations,
+creator:piperdraws,
+feral,
+filename:dp1348_s,
+food,
+gender:ambiguous,
+humor,
+jar,
+jelly,
+jelly (food),
+jelly_(food),
+knife,
+medium:patreon reward,
+medium:simple background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:english_text,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+open mouth,
+open_mouth,
+peanut butter,
+peanut_butter,
+plate,
+pun,
+rating:safe,
+sandwich,
+sandwich (food),
+sandwich_(food),
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+solo,
+species:cnidarian,
+species:food creature,
+species:food_creature,
+species:jellyfish,
+species:marine,
+species:medusozoan,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily 1348. peanut-butter & jellyfish,
+title:daily 1348. peanut-butter and jellyfish,
+title:peanut-butter and jellyfish by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white_background,
+yiff id:457132,

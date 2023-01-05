@@ -1,61 +1,61 @@
-2016
-action:closing eyes
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-blueberry (fruit)
-blueberry_(fruit)
-bodypart:black eyes
-category:ine
-cooling rack
-cooling_rack
-creator:cryptid-creations
-danish
-eyes closed
-eyes_closed
-feral
-food
-fruit
-gender:ambiguous
-group
-humor
-jelly
-jelly (food)
-jelly_(food)
-medium:simple background
-meme:humor
-meta:2016
-meta:english text
-meta:english_text
-meta:white background
-plant
-pun
-rating:safe
-simple background
-simple_background
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:domestic_dog
-species:food creature
-species:food_creature
-species:great dane
-species:great_dane
-species:mammal
-species:mastiff
-species:molosser
-strawberry
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:day 1384. great danish
-title:great danish by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-website:reddit
-white_background
+2016,
+action:closing eyes,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+blueberry (fruit),
+blueberry_(fruit),
+bodypart:black eyes,
+category:ine,
+cooling rack,
+cooling_rack,
+creator:cryptid-creations,
+danish,
+eyes closed,
+eyes_closed,
+feral,
+food,
+fruit,
+gender:ambiguous,
+group,
+humor,
+jelly,
+jelly (food),
+jelly_(food),
+medium:simple background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:english_text,
+meta:white background,
+plant,
+pun,
+rating:safe,
+simple background,
+simple_background,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:domestic_dog,
+species:food creature,
+species:food_creature,
+species:great dane,
+species:great_dane,
+species:mammal,
+species:mastiff,
+species:molosser,
+strawberry,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:day 1384. great danish,
+title:great danish by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+website:reddit,
+white_background,

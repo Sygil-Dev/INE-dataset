@@ -1,50 +1,50 @@
-ambiguous gender
-black eyes
-blackberry (fruit)
-bodypart:black eyes
-brown body
-brown feathers
-brown fur
-cake
-category:ine
-creator:cryptid-creations
-cutlery
-dessert
-eating
-feathered wings
-feathers
-food
-fork
-fruit
-fur
-gender:ambiguous
-gender:male
-halo
-humor
-kitchen utensils
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:2017
-meta:url
-plant
-pun
-rating:safe
-simple background
-solo
-species:angel
-strawberry
-subreddit:imaginaryfood
-subreddit:immeta
-tan body
-tan feathers
-tan fur
-text
-title:angel foodcake by piper thibodeau
-title:daily paint 1559. angel foodcake
-tools
-uploader:myrandall
-website:e621
-white background
-wings
+ambiguous gender,
+black eyes,
+blackberry (fruit),
+bodypart:black eyes,
+brown body,
+brown feathers,
+brown fur,
+cake,
+category:ine,
+creator:cryptid-creations,
+cutlery,
+dessert,
+eating,
+feathered wings,
+feathers,
+food,
+fork,
+fruit,
+fur,
+gender:ambiguous,
+gender:male,
+halo,
+humor,
+kitchen utensils,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2017,
+meta:url,
+plant,
+pun,
+rating:safe,
+simple background,
+solo,
+species:angel,
+strawberry,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tan body,
+tan feathers,
+tan fur,
+text,
+title:angel foodcake by piper thibodeau,
+title:daily paint 1559. angel foodcake,
+tools,
+uploader:myrandall,
+website:e621,
+white background,
+wings,

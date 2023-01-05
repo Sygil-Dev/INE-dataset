@@ -1,76 +1,76 @@
-ambiguous_gender
-artist name
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-bodypart:loli body type
-carrot
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-cub
-egg
-feral
-filename:dp1268_s
-food
-fruit
-gender:ambiguous
-gender:female
-grass
-group
-humor
-leaf
-mandarin orange
-medium:patreon reward
-medium:simple background
-medium:white background
-meta:paid reward
-meta:patreon reward
-meta:white background
-no humans
-orange (fruit)
-orange slice
-orange_(fruit)
-palm tree
-plant
-potted plant
-pumpkin
-pun
-rating:safe
-rock
-simple background
-simple_background
-site:patreon
-site:yiff.party
-species:anatid
-species:anseriform
-species:avian
-species:bird
-species:duck
-species:duckling
-species:elemental creature
-species:elemental_creature
-species:flora fauna
-species:flora_fauna
-species:food creature
-species:food_creature
-species:living fruit
-species:living_fruit
-subreddit:imaginaryfood
-subreddit:immeta
-title:daily paint #1268. duck a l'orange
-title:duck a l'orange by piper thibodeau
-tomato
-tree
-uploader:myrandall
-vegetable
-visual pun
-visual_pun
-watermark
-white background
-white_background
-yiff id:457132
-young
+ambiguous_gender,
+artist name,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+bodypart:loli body type,
+carrot,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+cub,
+egg,
+feral,
+filename:dp1268_s,
+food,
+fruit,
+gender:ambiguous,
+gender:female,
+grass,
+group,
+humor,
+leaf,
+mandarin orange,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+no humans,
+orange (fruit),
+orange slice,
+orange_(fruit),
+palm tree,
+plant,
+potted plant,
+pumpkin,
+pun,
+rating:safe,
+rock,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+species:anatid,
+species:anseriform,
+species:avian,
+species:bird,
+species:duck,
+species:duckling,
+species:elemental creature,
+species:elemental_creature,
+species:flora fauna,
+species:flora_fauna,
+species:food creature,
+species:food_creature,
+species:living fruit,
+species:living_fruit,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:daily paint #1268. duck a l'orange,
+title:duck a l'orange by piper thibodeau,
+tomato,
+tree,
+uploader:myrandall,
+vegetable,
+visual pun,
+visual_pun,
+watermark,
+white background,
+white_background,
+yiff id:457132,
+young,

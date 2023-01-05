@@ -1,52 +1,52 @@
-action:closing eyes
-action:open mouth
-ambiguous gender
-brown eyes
-category:ine
-claws
-closed eyes
-creator:cryptid-creations
-eyes closed
-feral
-food
-furry
-gender:ambiguous
-grey body
-grey scales
-group
-humor
-icing
-machine
-medium:simple background
-medium:white background
-meme:humor
-meta:english text
-meta:url
-open mouth
-pink body
-pink scales
-pun
-rating:safe
-red body
-red scales
-scales
-series:pop-tarts
-series:poptart
-shell
-simple background
-species:food creature
-species:hybrid
-species:reptile
-species:scalie
-species:tortoise
-species:turtle
-sprinkles
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily 2044. pop tartles
-title:pop tartles by piper thibodeau
-toaster
-turtle shell
-uploader:myrandall
-white background
+action:closing eyes,
+action:open mouth,
+ambiguous gender,
+brown eyes,
+category:ine,
+claws,
+closed eyes,
+creator:cryptid-creations,
+eyes closed,
+feral,
+food,
+furry,
+gender:ambiguous,
+grey body,
+grey scales,
+group,
+humor,
+icing,
+machine,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:english text,
+meta:url,
+open mouth,
+pink body,
+pink scales,
+pun,
+rating:safe,
+red body,
+red scales,
+scales,
+series:pop-tarts,
+series:poptart,
+shell,
+simple background,
+species:food creature,
+species:hybrid,
+species:reptile,
+species:scalie,
+species:tortoise,
+species:turtle,
+sprinkles,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily 2044. pop tartles,
+title:pop tartles by piper thibodeau,
+toaster,
+turtle shell,
+uploader:myrandall,
+white background,

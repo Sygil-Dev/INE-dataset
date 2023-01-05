@@ -1,57 +1,57 @@
-2016
-action:closing eyes
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-bodypart:black eyes
-category:ine
-creator:cryptid-creations
-cutlery
-eating
-eyes closed
-eyes_closed
-feral
-food
-fork
-furniture
-gender:ambiguous
-group
-humor
-kitchen utensils
-kitchen_utensils
-meme:humor
-meta:2016
-meta:english text
-meta:english_text
-napkin
-pasta
-plate
-pun
-rating:safe
-real person
-spaghetti
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:domestic_dog
-species:food creature
-species:food_creature
-species:mammal
-species:molosser
-species:pug
-species:small molosser
-species:small_molosser
-species:toy dog
-species:toy_dog
-subreddit:imaginaryfood
-subreddit:immeta
-table
-text
-title:day 1387. pugetti
-title:pugetti by piper thibodeau
-tools
-uploader:myrandall
-visual pun
-visual_pun
+2016,
+action:closing eyes,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+category:ine,
+creator:cryptid-creations,
+cutlery,
+eating,
+eyes closed,
+eyes_closed,
+feral,
+food,
+fork,
+furniture,
+gender:ambiguous,
+group,
+humor,
+kitchen utensils,
+kitchen_utensils,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:english_text,
+napkin,
+pasta,
+plate,
+pun,
+rating:safe,
+real person,
+spaghetti,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:domestic_dog,
+species:food creature,
+species:food_creature,
+species:mammal,
+species:molosser,
+species:pug,
+species:small molosser,
+species:small_molosser,
+species:toy dog,
+species:toy_dog,
+subreddit:imaginaryfood,
+subreddit:immeta,
+table,
+text,
+title:day 1387. pugetti,
+title:pugetti by piper thibodeau,
+tools,
+uploader:myrandall,
+visual pun,
+visual_pun,

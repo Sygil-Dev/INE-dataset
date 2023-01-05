@@ -1,69 +1,69 @@
-2016
-action:closing eyes
-action:open mouth
-action:sitting
-action:smile
-action:standing upright
-avocado
-black eyes
-bodypart:black eyes
-brown body
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-dot eyes
-eyes closed
-face::3
-feral
-filename:dp1205_s
-food
-fruit
-gender:ambiguous
-group
-happy
-humor
-leaf
-medium:patreon reward
-medium:simple background
-medium:watermark
-medium:white background
-meme:humor
-meta:2016
-meta:paid reward
-meta:patreon reward
-meta:url
-meta:watermark
-meta:white background
-open mouth
-open smile
-plant
-pun
-quadruped
-rating:safe
-simple background
-site:patreon
-site:yiff.party
-sitting
-sleeping
-smile
-species:cat
-species:domestic cat
-species:elemental creature
-species:felid
-species:feline
-species:felis
-species:flora fauna
-species:food creature
-species:living fruit
-species:mammal
-standing
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:'avacato' by piper thibodeau
-title:daily paint #1205. avacato
-uploader:myrandall
-url
-visual pun
-watermark
-website:reddit
+2016,
+action:closing eyes,
+action:open mouth,
+action:sitting,
+action:smile,
+action:standing upright,
+avocado,
+black eyes,
+bodypart:black eyes,
+brown body,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+dot eyes,
+eyes closed,
+face::3,
+feral,
+filename:dp1205_s,
+food,
+fruit,
+gender:ambiguous,
+group,
+happy,
+humor,
+leaf,
+medium:patreon reward,
+medium:simple background,
+medium:watermark,
+medium:white background,
+meme:humor,
+meta:2016,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+meta:watermark,
+meta:white background,
+open mouth,
+open smile,
+plant,
+pun,
+quadruped,
+rating:safe,
+simple background,
+site:patreon,
+site:yiff.party,
+sitting,
+sleeping,
+smile,
+species:cat,
+species:domestic cat,
+species:elemental creature,
+species:felid,
+species:feline,
+species:felis,
+species:flora fauna,
+species:food creature,
+species:living fruit,
+species:mammal,
+standing,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:'avacato' by piper thibodeau,
+title:daily paint #1205. avacato,
+uploader:myrandall,
+url,
+visual pun,
+watermark,
+website:reddit,

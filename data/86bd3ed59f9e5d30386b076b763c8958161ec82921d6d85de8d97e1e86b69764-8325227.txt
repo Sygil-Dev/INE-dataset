@@ -1,143 +1,143 @@
-1 female
-1girl
-alcohol
-alternate costume
-alternate hair length
-alternate hairstyle
-alternate_hair_length
-alternate_hairstyle
-alternative costume
-alternative hair length
-alternative hairstyle
-artist name
-artist_name
-beverage
-black hair
-blizzard entertainment
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-bracelet
-breasts
-category:ine
-center opening
-character:amélie "widowmaker" lacroix
-character:amélie "widowmaker" lacroix (née guillard)
-character:widowmaker
-character:widowmaker (overwatch)
-clavicle
-cleavage
-closed mouth
-closed_mouth
-clothing:bracelet
-clothing:dress
-clothing:earrings
-clothing:hair tie
-clothing:jewelry
-clothing:necklace
-collarbone
-colored skin
-colored_skin
-commentary
-cowboy shot
-cowboy_shot
-creator::mirco cabbia (sciamano240)
-creator:mirco cabbia (sciamano240)
-creator:sciamano240
-cup
-dress
-drink
-drinking glass
-drinking_glass
-english commentary
-eyeshadow
-fanart from deviantart
-female
-formal
-gender:female
-genre:science fiction
-glass (cup)
-golden eyes
-gradient
-gradient background
-gradient_background
-hair tie
-high resolution
-holding
-holding cup
-holding drink
-holding object
-holding_cup
-hoop earrings
-hoop_earrings
-jewelry
-large breasts
-large_breasts
-lips
-long hair
-looking to the side
-looking_to_the_side
-makeup
-medium:artist name
-medium:cowboy shot
-medium:fanart from deviantart
-medium:gradient background
-medium:high resolution
-medium:image
-medium:no audio
-medium:realistic
-medium:signature
-medium:simple background
-medium:video
-meta:artist name
-meta:commentary
-meta:english commentary
-meta:photoshop (medium)
-meta:signature
-mirco cabbia
-nail polish
-necklace
-nose
-overwatch
-piercing
-ponytail
-purple dress
-purple skin
-purple_dress
-purple_skin
-rating:questionable
-rating:s
-rating:safe
-red lips
-red_lips
-sciamano240
-series:blizzard entertainment
-series:overwatch
-short hair
-short ponytail
-short_hair
-short_ponytail
-signature
-site:deviantart
-site:rule34
-smile
-solo
-spider web
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-tattoo
-tied hair
-title:widowmaker - ow
-title:widowmaker - ow by mirco cabbia
-twitter
-uploader:sw4ahl
-widowmaker
-widowmaker (overwatch)
-wine
-wine glass
-wine_glass
-yellow eyes
-yellow_eyes
+1 female,
+1girl,
+alcohol,
+alternate costume,
+alternate hair length,
+alternate hairstyle,
+alternate_hair_length,
+alternate_hairstyle,
+alternative costume,
+alternative hair length,
+alternative hairstyle,
+artist name,
+artist_name,
+beverage,
+black hair,
+blizzard entertainment,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+bracelet,
+breasts,
+category:ine,
+center opening,
+character:amélie "widowmaker" lacroix,
+character:amélie "widowmaker" lacroix (née guillard),
+character:widowmaker,
+character:widowmaker (overwatch),
+clavicle,
+cleavage,
+closed mouth,
+closed_mouth,
+clothing:bracelet,
+clothing:dress,
+clothing:earrings,
+clothing:hair tie,
+clothing:jewelry,
+clothing:necklace,
+collarbone,
+colored skin,
+colored_skin,
+commentary,
+cowboy shot,
+cowboy_shot,
+creator::mirco cabbia (sciamano240),
+creator:mirco cabbia (sciamano240),
+creator:sciamano240,
+cup,
+dress,
+drink,
+drinking glass,
+drinking_glass,
+english commentary,
+eyeshadow,
+fanart from deviantart,
+female,
+formal,
+gender:female,
+genre:science fiction,
+glass (cup),
+golden eyes,
+gradient,
+gradient background,
+gradient_background,
+hair tie,
+high resolution,
+holding,
+holding cup,
+holding drink,
+holding object,
+holding_cup,
+hoop earrings,
+hoop_earrings,
+jewelry,
+large breasts,
+large_breasts,
+lips,
+long hair,
+looking to the side,
+looking_to_the_side,
+makeup,
+medium:artist name,
+medium:cowboy shot,
+medium:fanart from deviantart,
+medium:gradient background,
+medium:high resolution,
+medium:image,
+medium:no audio,
+medium:realistic,
+medium:signature,
+medium:simple background,
+medium:video,
+meta:artist name,
+meta:commentary,
+meta:english commentary,
+meta:photoshop (medium),
+meta:signature,
+mirco cabbia,
+nail polish,
+necklace,
+nose,
+overwatch,
+piercing,
+ponytail,
+purple dress,
+purple skin,
+purple_dress,
+purple_skin,
+rating:questionable,
+rating:s,
+rating:safe,
+red lips,
+red_lips,
+sciamano240,
+series:blizzard entertainment,
+series:overwatch,
+short hair,
+short ponytail,
+short_hair,
+short_ponytail,
+signature,
+site:deviantart,
+site:rule34,
+smile,
+solo,
+spider web,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+tattoo,
+tied hair,
+title:widowmaker - ow,
+title:widowmaker - ow by mirco cabbia,
+twitter,
+uploader:sw4ahl,
+widowmaker,
+widowmaker (overwatch),
+wine,
+wine glass,
+wine_glass,
+yellow eyes,
+yellow_eyes,

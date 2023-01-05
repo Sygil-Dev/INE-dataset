@@ -1,75 +1,75 @@
-2015
-afro
-anthro
-anthropomorphism
-antlers
-artist
-bat wings
-beard
-blue body
-blue feathers
-booru:e621
-brush
-canvas
-category:ine
-character:bob ross
-character:discord
-character:discord (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-clothed
-clothing
-cosplay
-creating art
-creator:assasinmonkey
-crossover
-crossover cosplay
-easel
-facial hair
-feathered wings
-feathers
-female
-gender:female
-gender:male
-genre:fantasy
-horn
-horns
-humor
-male
-male:1
-medium:4:3 aspect ratio
-medium:simple background
-membrane (anatomy)
-membranous wings
-meme:humor
-meta:4:3
-meta:2015
-mismatched wings
-paint
-paintbrush
-painting
-parody
-rating:safe
-red eyes
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-simple background
-solo
-species:chimera
-species:draconequus
-species:equid
-species:equine
-species:hybrid
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"paint a happy little pony" by myron c. p.
-title:paint a happy little pony
-uploader:mysalmonhasfeets
-website:e621
-wings
-year:2015
+2015,
+afro,
+anthro,
+anthropomorphism,
+antlers,
+artist,
+bat wings,
+beard,
+blue body,
+blue feathers,
+booru:e621,
+brush,
+canvas,
+category:ine,
+character:bob ross,
+character:discord,
+character:discord (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+clothed,
+clothing,
+cosplay,
+creating art,
+creator:assasinmonkey,
+crossover,
+crossover cosplay,
+easel,
+facial hair,
+feathered wings,
+feathers,
+female,
+gender:female,
+gender:male,
+genre:fantasy,
+horn,
+horns,
+humor,
+male,
+male:1,
+medium:4:3 aspect ratio,
+medium:simple background,
+membrane (anatomy),
+membranous wings,
+meme:humor,
+meta:4:3,
+meta:2015,
+mismatched wings,
+paint,
+paintbrush,
+painting,
+parody,
+rating:safe,
+red eyes,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+simple background,
+solo,
+species:chimera,
+species:draconequus,
+species:equid,
+species:equine,
+species:hybrid,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"paint a happy little pony" by myron c. p.,
+title:paint a happy little pony,
+uploader:mysalmonhasfeets,
+website:e621,
+wings,
+year:2015,

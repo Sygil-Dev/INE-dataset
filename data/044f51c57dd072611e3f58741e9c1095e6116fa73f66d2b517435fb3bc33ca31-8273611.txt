@@ -1,36 +1,36 @@
-1other
-armor
-capelet
-category:ine
-creator:diegoandfriends
-creator:poulet-7
-creator:rossdraws ✦
-doctor doom
-gauntlets
-holding
-holding sword
-holding weapon
-i guess
-ice
-leaopard
-male focus
-outdoors
-panthers
-rating:safe
-ross tran
-signature
-snow
-snowy
-soldier
-solo
-standing
-subreddit:imaginaryarmor
-subreddit:imaginarypets
-subreddit:imaginarywarriors
-subreddit:imtechnology
-sword
-title:dawn
-title:dawn by ross tran
-uploader:killerbunnyfamily
-uploader:spoon_artillery
-weapon
+1other,
+armor,
+capelet,
+category:ine,
+creator:diegoandfriends,
+creator:poulet-7,
+creator:rossdraws ✦,
+doctor doom,
+gauntlets,
+holding,
+holding sword,
+holding weapon,
+i guess,
+ice,
+leaopard,
+male focus,
+outdoors,
+panthers,
+rating:safe,
+ross tran,
+signature,
+snow,
+snowy,
+soldier,
+solo,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imaginarypets,
+subreddit:imaginarywarriors,
+subreddit:imtechnology,
+sword,
+title:dawn,
+title:dawn by ross tran,
+uploader:killerbunnyfamily,
+uploader:spoon_artillery,
+weapon,

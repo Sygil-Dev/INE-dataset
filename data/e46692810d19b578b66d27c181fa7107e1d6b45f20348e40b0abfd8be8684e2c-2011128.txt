@@ -1,62 +1,62 @@
-2015
-ass
-blue body
-blue feathers
-blue fur
-booru:e621
-butt
-category:ine
-character:rainbow dash
-character:rainbow dash (mlp)
-cloud
-creator:antiander
-creator:antiander-art
-cutie mark
-feathered wings
-feathers
-female
-feral
-flying
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-hooves
-looking at viewer
-medium:high resolution
-meta:2015
-meta:hi res
-multicolor hair
-multicolor tail
-multicolored hair
-multicolored tail
-outside
-point of view
-pov
-rainbow fur
-rainbow hair
-rainbow tail
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-smile
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tail
-title:"beyond the sky_(commision)" by andersen (antiander-art)
-title:beyond the sky_(commision)
-uploader:torvusil
-wings
-year:2015
+2015,
+ass,
+blue body,
+blue feathers,
+blue fur,
+booru:e621,
+butt,
+category:ine,
+character:rainbow dash,
+character:rainbow dash (mlp),
+cloud,
+creator:antiander,
+creator:antiander-art,
+cutie mark,
+feathered wings,
+feathers,
+female,
+feral,
+flying,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+hooves,
+looking at viewer,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+multicolor hair,
+multicolor tail,
+multicolored hair,
+multicolored tail,
+outside,
+point of view,
+pov,
+rainbow fur,
+rainbow hair,
+rainbow tail,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+smile,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tail,
+title:"beyond the sky_(commision)" by andersen (antiander-art),
+title:beyond the sky_(commision),
+uploader:torvusil,
+wings,
+year:2015,

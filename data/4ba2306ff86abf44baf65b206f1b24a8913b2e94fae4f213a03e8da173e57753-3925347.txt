@@ -1,106 +1,106 @@
-1 female
-1girl
-armor
-armwear
-artist:jana schirmer
-artstation_sample
-blonde hair
-blue eyes
-blue sky
-bodysuit
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-booru:tbib
-bottomwear
-breastplate
-breasts
-category:ine
-character:angela "mercy" ziegler
-character:angela "mercy" ziegler (overwatch)
-character:angela ziegler
-character:dr. angela "mercy" ziegler
-character:elbow gloves
-character:mercy (overwatch)
-cherry blossom
-clothing:bodysuit
-clothing:bottomwear
-clothing:gloves
-clothing:topwear
-clothing:white outfit
-copyright:overwatch
-creator:jana schirmer
-day
-digital drawing (artwork)
-elbow gloves
-fan art
-female
-female only
-gender:female
-genre:science fiction
-girls:1
-gloves
-halo
-high ponytail
-high resolution
-high_ponytail
-highres
-image sample
-image_sample
-jana_schirmer
-letterboxed
-lips
-long hair
-long sleeves
-looking ahead
-looking away
-looking up
-looking_away
-mechanical halo
-mechanical wings
-mechanical_halo
-mechanical_wings
-medium breasts
-medium:2d art
-medium:digital 2d
-medium:digital media
-medium:high resolution
-medium:image
-medium:letterboxed
-medium:no audio
-medium:realistic
-medium:video
-medium_breasts
-mercy
-mercy (overwatch)
-mercy_(overwatch)
-meta:artstation sample
-meta:highres
-meta:image sample
-overwatch
-petals
-ponytail
-rating:mature
-rating:safe
-realistic
-rose
-rose petals
-series:overwatch
-sexy
-short hair
-sky
-solo
-spread wings
-spread_wings
-staff
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-tied hair
-title:mercy
-title:mercy by jana schirmer
-topwear
-uploader:incredibel
-wings
-yellow wings
-yellow_wings
+1 female,
+1girl,
+armor,
+armwear,
+artist:jana schirmer,
+artstation_sample,
+blonde hair,
+blue eyes,
+blue sky,
+bodysuit,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+booru:tbib,
+bottomwear,
+breastplate,
+breasts,
+category:ine,
+character:angela "mercy" ziegler,
+character:angela "mercy" ziegler (overwatch),
+character:angela ziegler,
+character:dr. angela "mercy" ziegler,
+character:elbow gloves,
+character:mercy (overwatch),
+cherry blossom,
+clothing:bodysuit,
+clothing:bottomwear,
+clothing:gloves,
+clothing:topwear,
+clothing:white outfit,
+copyright:overwatch,
+creator:jana schirmer,
+day,
+digital drawing (artwork),
+elbow gloves,
+fan art,
+female,
+female only,
+gender:female,
+genre:science fiction,
+girls:1,
+gloves,
+halo,
+high ponytail,
+high resolution,
+high_ponytail,
+highres,
+image sample,
+image_sample,
+jana_schirmer,
+letterboxed,
+lips,
+long hair,
+long sleeves,
+looking ahead,
+looking away,
+looking up,
+looking_away,
+mechanical halo,
+mechanical wings,
+mechanical_halo,
+mechanical_wings,
+medium breasts,
+medium:2d art,
+medium:digital 2d,
+medium:digital media,
+medium:high resolution,
+medium:image,
+medium:letterboxed,
+medium:no audio,
+medium:realistic,
+medium:video,
+medium_breasts,
+mercy,
+mercy (overwatch),
+mercy_(overwatch),
+meta:artstation sample,
+meta:highres,
+meta:image sample,
+overwatch,
+petals,
+ponytail,
+rating:mature,
+rating:safe,
+realistic,
+rose,
+rose petals,
+series:overwatch,
+sexy,
+short hair,
+sky,
+solo,
+spread wings,
+spread_wings,
+staff,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+tied hair,
+title:mercy,
+title:mercy by jana schirmer,
+topwear,
+uploader:incredibel,
+wings,
+yellow wings,
+yellow_wings,

@@ -1,60 +1,60 @@
-anthro
-anthropomorphism
-big eyes
-biped
-black eyes
-black nose
-blue hair
-booru:e621
-category:ine
-character:sonic the hedgehog
-clothing
-clothing:footwear
-creator:cryptid-creations
-eating
-fast food
-food
-footwear
-fur
-gender:male
-hair
-happy
-holding food
-holding object
-looking down
-male
-medium:digital media
-medium:simple background
-medium:watermark
-medium:white background
-meta:2017
-meta:digital media (artwork)
-meta:url
-meta:watermark
-onion rings
-onion rings (food)
-open mouth
-rating:safe
-series:sega
-series:sonic the hedgehog
-series:sonic the hedgehog (series)
-shoes
-simple background
-sitting
-solo
-species:canid
-species:canine
-species:eulipotyphlan
-species:hedgehog
-species:mammal
-subreddit:imaginaryfood
-subreddit:immeta
-text
-throwing
-title:daily painting 1685# sonic the hedgehog
-title:sonic the hedgehog by piper thibodeau
-uploader:myrandall
-video games
-watermark
-white background
-year:2017
+anthro,
+anthropomorphism,
+big eyes,
+biped,
+black eyes,
+black nose,
+blue hair,
+booru:e621,
+category:ine,
+character:sonic the hedgehog,
+clothing,
+clothing:footwear,
+creator:cryptid-creations,
+eating,
+fast food,
+food,
+footwear,
+fur,
+gender:male,
+hair,
+happy,
+holding food,
+holding object,
+looking down,
+male,
+medium:digital media,
+medium:simple background,
+medium:watermark,
+medium:white background,
+meta:2017,
+meta:digital media (artwork),
+meta:url,
+meta:watermark,
+onion rings,
+onion rings (food),
+open mouth,
+rating:safe,
+series:sega,
+series:sonic the hedgehog,
+series:sonic the hedgehog (series),
+shoes,
+simple background,
+sitting,
+solo,
+species:canid,
+species:canine,
+species:eulipotyphlan,
+species:hedgehog,
+species:mammal,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+throwing,
+title:daily painting 1685# sonic the hedgehog,
+title:sonic the hedgehog by piper thibodeau,
+uploader:myrandall,
+video games,
+watermark,
+white background,
+year:2017,

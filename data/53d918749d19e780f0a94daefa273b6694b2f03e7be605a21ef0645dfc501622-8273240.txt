@@ -1,38 +1,38 @@
-banana
-blueberry
-blueberry tart
-category:ine
-creator:sachiko (stellarsi)
-creator:stellarsi
-custard
-dessert
-drawr
-fig
-food
-food focus
-fruit
-fruit tart
-gelatin
-grapes
-medium:high resolution
-medium:simple background
-meta:commentary request
-meta:highres
-no humans
-oekaki
-orange
-orange (fruit)
-peach
-pie
-rating:safe
-realistic
-series:drawr
-series:original
-simple background
-still life
-strawberry
-subreddit:imaginaryfood
-subreddit:immeta
-tart (food)
-title:fruits by sachiko
-uploader:[deleted]
+banana,
+blueberry,
+blueberry tart,
+category:ine,
+creator:sachiko (stellarsi),
+creator:stellarsi,
+custard,
+dessert,
+drawr,
+fig,
+food,
+food focus,
+fruit,
+fruit tart,
+gelatin,
+grapes,
+medium:high resolution,
+medium:simple background,
+meta:commentary request,
+meta:highres,
+no humans,
+oekaki,
+orange,
+orange (fruit),
+peach,
+pie,
+rating:safe,
+realistic,
+series:drawr,
+series:original,
+simple background,
+still life,
+strawberry,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tart (food),
+title:fruits by sachiko,
+uploader:[deleted],

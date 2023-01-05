@@ -1,47 +1,47 @@
-artist cg
-booru:sankaku
-booru:sankaku channel
-category:ine
-cg art
-creator:liang xing
-creator:liang xing - 星星梁
-creator:liang-xing
-creator:小天狼星
-creator:星星梁
-genre:science fiction
-guro
-high resolution
-liang xing
-medium:artist cg
-medium:cg art
-medium:high resolution
-medium:patreon reward
-meta:nsfw
-meta:paid reward
-meta:patreon reward
-meta:pixiv-import
-meta:tagme
-overwatch
-pixiv work:54194197
-rating:e
-rating:explicit
-series:overwatch
-series:studio ghibli
-series:tonari no totoro
-site:patreon
-site:yiff.party
-studio:blizzard entertainment
-studio:studio ghibli
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:totoro
-title:totoro by liang xing
-title:underwater relics
-title:となりのトトロ
-totoro
-uploader:fireflycities
-ジブリ
-ジブリ100users入り
-ジブリ500users入り
-トトロ
-龍貓
+artist cg,
+booru:sankaku,
+booru:sankaku channel,
+category:ine,
+cg art,
+creator:liang xing,
+creator:liang xing - 星星梁,
+creator:liang-xing,
+creator:小天狼星,
+creator:星星梁,
+genre:science fiction,
+guro,
+high resolution,
+liang xing,
+medium:artist cg,
+medium:cg art,
+medium:high resolution,
+medium:patreon reward,
+meta:nsfw,
+meta:paid reward,
+meta:patreon reward,
+meta:pixiv-import,
+meta:tagme,
+overwatch,
+pixiv work:54194197,
+rating:e,
+rating:explicit,
+series:overwatch,
+series:studio ghibli,
+series:tonari no totoro,
+site:patreon,
+site:yiff.party,
+studio:blizzard entertainment,
+studio:studio ghibli,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:totoro,
+title:totoro by liang xing,
+title:underwater relics,
+title:となりのトトロ,
+totoro,
+uploader:fireflycities,
+ジブリ,
+ジブリ100users入り,
+ジブリ500users入り,
+トトロ,
+龍貓,

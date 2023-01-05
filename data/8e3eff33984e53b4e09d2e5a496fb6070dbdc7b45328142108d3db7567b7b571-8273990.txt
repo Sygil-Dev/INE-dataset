@@ -1,27 +1,27 @@
-1920
-art
-asian
-atmosphere
-category:ine
-concept
-concept art
-creator:jakub rozalski
-digitalpainting
-game art
-illustration
-japanese
-mech
-mechs
-medium:concept art
-medium:digital 2d
-mood
-painting
-samurai
-scythe
-shogunate
-subreddit:imaginaryhistory
-subreddit:immeta
-title:1920 - shogunate
-title:1920 - shogunate by jakub rozalski
-uploader:ethan_kahn
-website:reddit
+1920,
+art,
+asian,
+atmosphere,
+category:ine,
+concept,
+concept art,
+creator:jakub rozalski,
+digitalpainting,
+game art,
+illustration,
+japanese,
+mech,
+mechs,
+medium:concept art,
+medium:digital 2d,
+mood,
+painting,
+samurai,
+scythe,
+shogunate,
+subreddit:imaginaryhistory,
+subreddit:immeta,
+title:1920 - shogunate,
+title:1920 - shogunate by jakub rozalski,
+uploader:ethan_kahn,
+website:reddit,

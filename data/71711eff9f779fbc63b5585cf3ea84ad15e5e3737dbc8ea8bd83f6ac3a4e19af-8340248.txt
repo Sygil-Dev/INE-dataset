@@ -1,41 +1,41 @@
-2019
-abstract background
-abstract_background
-anthro
-anthropomorphism
-artist:themefinland
-black body
-black_body
-bottomwear
-category:ine
-clothing
-clothing:bottomwear
-clothing:loincloth
-creator:themefinland
-digital media (artwork)
-glowing
-loincloth
-medium:abstract background
-medium:digital media
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-muscular
-muscular anthro
-muscular_anthro
-open mouth
-open_mouth
-pink eyes
-pink_eyes
-rating:safe
-solo
-species:monster
-standing
-subreddit:imaginaryhorrors
-subreddit:immonsters
-teeth
-tentacles
-title:"nether armor" by themefinland
-title:nether armor
-uploader:torvusil
-year:2019
+2019,
+abstract background,
+abstract_background,
+anthro,
+anthropomorphism,
+artist:themefinland,
+black body,
+black_body,
+bottomwear,
+category:ine,
+clothing,
+clothing:bottomwear,
+clothing:loincloth,
+creator:themefinland,
+digital media (artwork),
+glowing,
+loincloth,
+medium:abstract background,
+medium:digital media,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+muscular,
+muscular anthro,
+muscular_anthro,
+open mouth,
+open_mouth,
+pink eyes,
+pink_eyes,
+rating:safe,
+solo,
+species:monster,
+standing,
+subreddit:imaginaryhorrors,
+subreddit:immonsters,
+teeth,
+tentacles,
+title:"nether armor" by themefinland,
+title:nether armor,
+uploader:torvusil,
+year:2019,

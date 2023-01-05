@@ -1,57 +1,57 @@
-2016
-action:closing eyes
-black eyes
-bodypart:black eyes
-bodypart:grey fur
-category:ine
-closed eyes
-cloud
-creator:cryptid-creations
-creator:piperdraws
-dot eyes
-eating
-eyes closed
-feral
-filename:dp1370_s
-food
-fur
-gender:ambiguous
-grass
-grazing
-grey body
-grey fur
-group
-humor
-medium:patreon reward
-medium:simple background
-meme:humor
-meta:2016
-meta:english text
-meta:paid reward
-meta:patreon reward
-meta:url
-meta:white background
-outside
-plant
-pun
-rating:safe
-simple background
-site:patreon
-site:yiff.party
-sky
-species:bovid
-species:caprine
-species:domestic sheep
-species:food creature
-species:mammal
-species:sheep
-subreddit:imaginaryfood
-subreddit:immeta
-sushi
-text
-title:day 1370. susheep
-title:susheep by piper thibodeau
-uploader:myrandall
-visual pun
-year:2016
-yiff id:457132
+2016,
+action:closing eyes,
+black eyes,
+bodypart:black eyes,
+bodypart:grey fur,
+category:ine,
+closed eyes,
+cloud,
+creator:cryptid-creations,
+creator:piperdraws,
+dot eyes,
+eating,
+eyes closed,
+feral,
+filename:dp1370_s,
+food,
+fur,
+gender:ambiguous,
+grass,
+grazing,
+grey body,
+grey fur,
+group,
+humor,
+medium:patreon reward,
+medium:simple background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+meta:white background,
+outside,
+plant,
+pun,
+rating:safe,
+simple background,
+site:patreon,
+site:yiff.party,
+sky,
+species:bovid,
+species:caprine,
+species:domestic sheep,
+species:food creature,
+species:mammal,
+species:sheep,
+subreddit:imaginaryfood,
+subreddit:immeta,
+sushi,
+text,
+title:day 1370. susheep,
+title:susheep by piper thibodeau,
+uploader:myrandall,
+visual pun,
+year:2016,
+yiff id:457132,

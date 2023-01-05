@@ -1,38 +1,38 @@
-2016
-action:open mouth
-beady eyes
-black eyes
-bodypart:black eyes
-bubble
-category:ine
-creator:cryptid-creations
-feral
-food
-gender:ambiguous
-group
-humor
-medium:simple background
-meme:humor
-meta:2016
-meta:english text
-meta:white background
-muffin
-open mouth
-pun
-rating:safe
-simple background
-species:fish
-species:food creature
-species:marine
-species:pufferfish
-species:tetraodontiform
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily paint 1451. muf-fins
-title:muf-fins by piper thibodeau
-underwater
-uploader:myrandall
-visual pun
-water
-website:reddit
+2016,
+action:open mouth,
+beady eyes,
+black eyes,
+bodypart:black eyes,
+bubble,
+category:ine,
+creator:cryptid-creations,
+feral,
+food,
+gender:ambiguous,
+group,
+humor,
+medium:simple background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:white background,
+muffin,
+open mouth,
+pun,
+rating:safe,
+simple background,
+species:fish,
+species:food creature,
+species:marine,
+species:pufferfish,
+species:tetraodontiform,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily paint 1451. muf-fins,
+title:muf-fins by piper thibodeau,
+underwater,
+uploader:myrandall,
+visual pun,
+water,
+website:reddit,

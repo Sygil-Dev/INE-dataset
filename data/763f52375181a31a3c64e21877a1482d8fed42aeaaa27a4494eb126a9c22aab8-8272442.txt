@@ -1,56 +1,56 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-category:ine
-container
-cookie
-cookie tin
-cookie_tin
-creator:cryptid-creations
-fangs
-feral
-food
-furry
-gender:ambiguous
-humor
-language:english
-medium:english text
-medium:text
-meta:2018
-meta:english text
-meta:english_text
-meta:url
-open mouth
-open_mouth
-orange body
-orange scales
-orange_body
-orange_scales
-pun
-rating:safe
-scales
-solo
-species:reptile
-species:scalie
-species:snake
-subreddit:imaginaryfood
-subreddit:immeta
-teeth
-text
-title:tin of hisscuits by piper thibodeau
-tongue
-tongue out
-tongue_out
-uploader:myrandall
-visual pun
-visual_pun
-wafer
-year:2018
-yellow body
-yellow scales
-yellow_body
-yellow_scales
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+category:ine,
+container,
+cookie,
+cookie tin,
+cookie_tin,
+creator:cryptid-creations,
+fangs,
+feral,
+food,
+furry,
+gender:ambiguous,
+humor,
+language:english,
+medium:english text,
+medium:text,
+meta:2018,
+meta:english text,
+meta:english_text,
+meta:url,
+open mouth,
+open_mouth,
+orange body,
+orange scales,
+orange_body,
+orange_scales,
+pun,
+rating:safe,
+scales,
+solo,
+species:reptile,
+species:scalie,
+species:snake,
+subreddit:imaginaryfood,
+subreddit:immeta,
+teeth,
+text,
+title:tin of hisscuits by piper thibodeau,
+tongue,
+tongue out,
+tongue_out,
+uploader:myrandall,
+visual pun,
+visual_pun,
+wafer,
+year:2018,
+yellow body,
+yellow scales,
+yellow_body,
+yellow_scales,

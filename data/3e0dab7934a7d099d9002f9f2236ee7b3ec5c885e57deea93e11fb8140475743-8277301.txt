@@ -1,53 +1,53 @@
-1 female
-1girl
-absurdly long hair
-artist:meago
-bare arms
-bare shoulders
-blonde hair
-brown eyes
-category:ine
-chopsticks
-clothing:dress
-copyright:original
-creator:meago
-dress
-egg
-food
-food themed clothes
-food-themed clothes
-fried egg
-full body
-gender:female
-hair bun
-hair ornament
-hair stick
-hairclip
-kamaboko
-long hair
-medium:simple background
-medium:sketch
-medium:white background
-meta:sketch
-narutomaki
-noodles
-personification
-ramen
-rating:safe
-series:original
-simple background
-sketch
-slippers
-smile
-solo
-strapless
-strapless dress
-subreddit:imaginaryfood
-subreddit:immeta
-themed object
-title:ramen fullbody
-title:ramen fullbody by magda (meago)
-uploader:[deleted]
-very long hair
-wavy hair
-white background
+1 female,
+1girl,
+absurdly long hair,
+artist:meago,
+bare arms,
+bare shoulders,
+blonde hair,
+brown eyes,
+category:ine,
+chopsticks,
+clothing:dress,
+copyright:original,
+creator:meago,
+dress,
+egg,
+food,
+food themed clothes,
+food-themed clothes,
+fried egg,
+full body,
+gender:female,
+hair bun,
+hair ornament,
+hair stick,
+hairclip,
+kamaboko,
+long hair,
+medium:simple background,
+medium:sketch,
+medium:white background,
+meta:sketch,
+narutomaki,
+noodles,
+personification,
+ramen,
+rating:safe,
+series:original,
+simple background,
+sketch,
+slippers,
+smile,
+solo,
+strapless,
+strapless dress,
+subreddit:imaginaryfood,
+subreddit:immeta,
+themed object,
+title:ramen fullbody,
+title:ramen fullbody by magda (meago),
+uploader:[deleted],
+very long hair,
+wavy hair,
+white background,

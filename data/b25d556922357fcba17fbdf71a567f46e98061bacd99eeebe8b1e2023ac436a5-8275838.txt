@@ -1,61 +1,61 @@
-1 female
-1girl
-armor
-artist:guweiz
-black hair
-booru:sankaku channel
-category:ine
-clavicle
-closed mouth
-clothing:armor
-cloud
-clouds
-cloudy sky
-collarbone
-copyright:original
-creator:guweiz
-female
-gender:female
-grey eyes
-grey sky
-guro
-headwear
-helmet
-highres
-japanese armor
-japanese clothes
-kabuto
-kabuto (helmet)
-kimono
-kusazuri
-long hair
-looking afar
-low twintails
-medium:absurd resolution
-medium:high resolution
-medium:very high resolution
-menpoo
-meta:absurdres
-meta:commentary
-meta:explicit content
-meta:highres
-meta:md5 mismatch
-outdoors
-outside
-rain
-rating:mature
-rating:safe
-rating:sensitive
-samurai
-samurai armor
-series:original
-sky
-solo
-subreddit:imaginaryarmor
-subreddit:imtechnology
-tied hair
-title:helmet by z.w. gu
-twintails
-uploader:myrandall
-upper body
-wafuku
+1 female,
+1girl,
+armor,
+artist:guweiz,
+black hair,
+booru:sankaku channel,
+category:ine,
+clavicle,
+closed mouth,
+clothing:armor,
+cloud,
+clouds,
+cloudy sky,
+collarbone,
+copyright:original,
+creator:guweiz,
+female,
+gender:female,
+grey eyes,
+grey sky,
+guro,
+headwear,
+helmet,
+highres,
+japanese armor,
+japanese clothes,
+kabuto,
+kabuto (helmet),
+kimono,
+kusazuri,
+long hair,
+looking afar,
+low twintails,
+medium:absurd resolution,
+medium:high resolution,
+medium:very high resolution,
+menpoo,
+meta:absurdres,
+meta:commentary,
+meta:explicit content,
+meta:highres,
+meta:md5 mismatch,
+outdoors,
+outside,
+rain,
+rating:mature,
+rating:safe,
+rating:sensitive,
+samurai,
+samurai armor,
+series:original,
+sky,
+solo,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+tied hair,
+title:helmet by z.w. gu,
+twintails,
+uploader:myrandall,
+upper body,
+wafuku,

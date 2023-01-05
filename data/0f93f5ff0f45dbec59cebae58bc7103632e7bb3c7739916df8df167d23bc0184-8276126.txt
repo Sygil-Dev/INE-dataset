@@ -1,61 +1,61 @@
-2017
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-candy
-category:ine
-cherry
-chocolate
-creator:cryptid-creations
-cupcake
-dessert
-feral
-food
-food creature
-fruit
-gender:male
-humor
-living candy
-male:1
-marine
-medium:simple background
-medium:white background
-meme:humor
-meta:2017
-meta:url
-meta:white background
-octopus
-plant
-pun
-rating:safe
-simple background
-simple_background
-solo
-species:cephalopod
-species:coleoid
-species:food creature
-species:food_creature
-species:living candy
-species:living_candy
-species:marine
-species:mollusc
-species:mollusk
-species:octopodiform
-species:octopus
-sprinkles
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:choctopus by piper thibodeau
-title:daily painting 1682# choctopus
-uploader:myrandall
-visual pun
-visual_pun
-wafer
-white_background
-year:2017
+2017,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+candy,
+category:ine,
+cherry,
+chocolate,
+creator:cryptid-creations,
+cupcake,
+dessert,
+feral,
+food,
+food creature,
+fruit,
+gender:male,
+humor,
+living candy,
+male:1,
+marine,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2017,
+meta:url,
+meta:white background,
+octopus,
+plant,
+pun,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:cephalopod,
+species:coleoid,
+species:food creature,
+species:food_creature,
+species:living candy,
+species:living_candy,
+species:marine,
+species:mollusc,
+species:mollusk,
+species:octopodiform,
+species:octopus,
+sprinkles,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:choctopus by piper thibodeau,
+title:daily painting 1682# choctopus,
+uploader:myrandall,
+visual pun,
+visual_pun,
+wafer,
+white_background,
+year:2017,

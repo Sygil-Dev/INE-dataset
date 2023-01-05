@@ -1,64 +1,64 @@
-action:open mouth
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-branch
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-filename:dp1146_s
-food
-fruit
-gender:ambiguous
-gender:male
-humor
-leaf
-male:1
-medium:patreon reward
-medium:simple background
-medium:white background
-meme:humor
-meta:paid reward
-meta:patreon reward
-meta:url
-meta:white background
-open mouth
-open_mouth
-orange (fruit)
-orange_(fruit)
-plant
-pun
-rating:safe
-simple background
-simple_background
-site:patreon
-site:yiff.party
-solo
-species:ape
-species:elemental creature
-species:elemental_creature
-species:flora fauna
-species:flora_fauna
-species:food creature
-species:food_creature
-species:haplorhine
-species:living fruit
-species:living_fruit
-species:mammal
-species:orangutan
-species:primate
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:'orangeutan' by piper thibodeau
-title:daily paint #1146. orangeutan
-uploader:myrandall
-visual pun
-visual_pun
-website:reddit
-white_background
-wood
+action:open mouth,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+branch,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+filename:dp1146_s,
+food,
+fruit,
+gender:ambiguous,
+gender:male,
+humor,
+leaf,
+male:1,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+meta:white background,
+open mouth,
+open_mouth,
+orange (fruit),
+orange_(fruit),
+plant,
+pun,
+rating:safe,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+solo,
+species:ape,
+species:elemental creature,
+species:elemental_creature,
+species:flora fauna,
+species:flora_fauna,
+species:food creature,
+species:food_creature,
+species:haplorhine,
+species:living fruit,
+species:living_fruit,
+species:mammal,
+species:orangutan,
+species:primate,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:'orangeutan' by piper thibodeau,
+title:daily paint #1146. orangeutan,
+uploader:myrandall,
+visual pun,
+visual_pun,
+website:reddit,
+white_background,
+wood,

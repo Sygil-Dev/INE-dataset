@@ -1,42 +1,42 @@
-2017
-ambiguous gender
-ambiguous_gender
-apple
-artist:cryptid-creations
-candy
-caramel
-caramel (disambiguation)
-caramel (food)
-caramel_(disambiguation)
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-dessert
-feral
-filename:dp1785_s
-food
-fruit
-medium:patreon reward
-meta:2017
-meta:paid reward
-meta:patreon reward
-meta:url
-plant
-rating:safe
-site:patreon
-site:yiff.party
-solo
-species:camel
-species:camelid
-species:mammal
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:1$ patreon pack - daily paint 1785# camelmel apples
-title:5$ patreon pack - daily paint 1785# camelmel apples
-title:camelmel apples by piper thibodeau
-title:daily paint 1785# camelmel apples
-uploader:myrandall
-url
-year:2017
-yiff id:457132
+2017,
+ambiguous gender,
+ambiguous_gender,
+apple,
+artist:cryptid-creations,
+candy,
+caramel,
+caramel (disambiguation),
+caramel (food),
+caramel_(disambiguation),
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+dessert,
+feral,
+filename:dp1785_s,
+food,
+fruit,
+medium:patreon reward,
+meta:2017,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+plant,
+rating:safe,
+site:patreon,
+site:yiff.party,
+solo,
+species:camel,
+species:camelid,
+species:mammal,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:1$ patreon pack - daily paint 1785# camelmel apples,
+title:5$ patreon pack - daily paint 1785# camelmel apples,
+title:camelmel apples by piper thibodeau,
+title:daily paint 1785# camelmel apples,
+uploader:myrandall,
+url,
+year:2017,
+yiff id:457132,

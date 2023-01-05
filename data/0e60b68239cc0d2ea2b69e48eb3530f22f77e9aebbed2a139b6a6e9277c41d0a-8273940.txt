@@ -1,25 +1,25 @@
-arch
-architecture
-bridge
-building
-c4d
-category:ine
-clock
-clock tower
-cloud
-creator:rudolf herczog
-fantasy
-herczog
-medium:traditional 3d
-rating:safe
-rudolf
-scenery
-sky
-subreddit:imaginarytemples
-subreddit:imarchitecture
-title:valhalla
-title:valhalla - rudolf herczog
-tower
-uploader:[deleted]
-uploader:serious_tea
-valhalla
+arch,
+architecture,
+bridge,
+building,
+c4d,
+category:ine,
+clock,
+clock tower,
+cloud,
+creator:rudolf herczog,
+fantasy,
+herczog,
+medium:traditional 3d,
+rating:safe,
+rudolf,
+scenery,
+sky,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+title:valhalla,
+title:valhalla - rudolf herczog,
+tower,
+uploader:[deleted],
+uploader:serious_tea,
+valhalla,

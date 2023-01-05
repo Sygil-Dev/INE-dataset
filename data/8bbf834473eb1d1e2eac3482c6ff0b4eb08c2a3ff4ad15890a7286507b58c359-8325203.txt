@@ -1,66 +1,66 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-black body
-black eyes
-black scales
-black_body
-black_eyes
-black_scales
-bone
-bottomwear
-braces
-category:ine
-character:tooth fairy
-character:tooth_fairy
-claws
-clothing
-clothing:hat
-clothing:headwear
-clothing:tagme
-creator:cryptid-creations
-dancewear
-dot eyes
-dot_eyes
-fangs
-feral
-furry
-gender:ambiguous
-green body
-green scales
-green_body
-green_scales
-hat
-headgear
-headwear
-lepidopteran wings
-lepidopteran_wings
-medium:simple background
-medium:text
-medium:white background
-meta:url
-rating:safe
-scales
-simple background
-simple_background
-skirt
-solo
-species:dinosaur
-species:extinct
-species:reptile
-species:scalie
-species:theropod
-species:tyrannosaurid
-species:tyrannosaurus
-species:tyrannosaurus rex
-species:tyrannosaurus_rex
-subreddit:imaginaryfaeries
-subreddit:imraces
-teeth
-text
-title:daily painting #910 dinosaur tooth fairy by piper thibodeau
-tutu
-uploader:hvitserkr
-white background
-white_background
-wings
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+black body,
+black eyes,
+black scales,
+black_body,
+black_eyes,
+black_scales,
+bone,
+bottomwear,
+braces,
+category:ine,
+character:tooth fairy,
+character:tooth_fairy,
+claws,
+clothing,
+clothing:hat,
+clothing:headwear,
+clothing:tagme,
+creator:cryptid-creations,
+dancewear,
+dot eyes,
+dot_eyes,
+fangs,
+feral,
+furry,
+gender:ambiguous,
+green body,
+green scales,
+green_body,
+green_scales,
+hat,
+headgear,
+headwear,
+lepidopteran wings,
+lepidopteran_wings,
+medium:simple background,
+medium:text,
+medium:white background,
+meta:url,
+rating:safe,
+scales,
+simple background,
+simple_background,
+skirt,
+solo,
+species:dinosaur,
+species:extinct,
+species:reptile,
+species:scalie,
+species:theropod,
+species:tyrannosaurid,
+species:tyrannosaurus,
+species:tyrannosaurus rex,
+species:tyrannosaurus_rex,
+subreddit:imaginaryfaeries,
+subreddit:imraces,
+teeth,
+text,
+title:daily painting #910 dinosaur tooth fairy by piper thibodeau,
+tutu,
+uploader:hvitserkr,
+white background,
+white_background,
+wings,

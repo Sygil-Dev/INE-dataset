@@ -1,58 +1,58 @@
-ambiguous_gender
-artist:cryptid-creations
-bib
-big ears
-big_ears
-black body
-black eyes
-black fur
-black_body
-black_eyes
-black_fur
-bodypart:black eyes
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-cloud
-cranberry (food)
-cranberry_(food)
-creator:cryptid-creations
-feral
-food
-fruit
-fur
-gender:ambiguous
-gender:male
-ham
-humor
-male:1
-meat
-meme:humor
-meta:url
-pawpads
-pineapple
-plant
-pork
-pun
-rating:safe
-sky
-solo
-species:canid
-species:canine
-species:fennec
-species:fox
-species:mammal
-subreddit:imaginaryfood
-subreddit:immeta
-tan body
-tan fur
-tan_body
-tan_fur
-text
-title:daily paint 1547. fennecky eater
-title:fennecky eater by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
+ambiguous_gender,
+artist:cryptid-creations,
+bib,
+big ears,
+big_ears,
+black body,
+black eyes,
+black fur,
+black_body,
+black_eyes,
+black_fur,
+bodypart:black eyes,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+cloud,
+cranberry (food),
+cranberry_(food),
+creator:cryptid-creations,
+feral,
+food,
+fruit,
+fur,
+gender:ambiguous,
+gender:male,
+ham,
+humor,
+male:1,
+meat,
+meme:humor,
+meta:url,
+pawpads,
+pineapple,
+plant,
+pork,
+pun,
+rating:safe,
+sky,
+solo,
+species:canid,
+species:canine,
+species:fennec,
+species:fox,
+species:mammal,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tan body,
+tan fur,
+tan_body,
+tan_fur,
+text,
+title:daily paint 1547. fennecky eater,
+title:fennecky eater by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,

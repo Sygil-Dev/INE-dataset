@@ -1,64 +1,64 @@
-action:closing eyes
-artist:cryptid-creations
-blue body
-blue feathers
-blue_body
-blue_feathers
-bowl
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-eyes closed
-eyes_closed
-feathered wings
-feathered_wings
-feathers
-feral
-filename:dp1202_s
-food
-gender:male
-humor
-leaf
-male
-male:1
-medium:patreon reward
-medium:simple background
-medium:white background
-meme:humor
-meta:paid reward
-meta:patreon reward
-meta:signature
-meta:white background
-pea (food)
-pea_(food)
-peas
-plant
-pun
-rating:safe
-signature
-simple background
-simple_background
-site:patreon
-site:yiff.party
-solo
-species:avian
-species:bird
-species:food creature
-species:food_creature
-species:galliform
-species:peafowl
-species:phasianid
-subreddit:imaginaryfood
-subreddit:immeta
-title:'pea-cock' by piper thibodeau
-title:daily paint #1202. pea-cock
-uploader:myrandall
-vegetable
-visual pun
-visual_pun
-white body
-white feathers
-white_background
-white_body
-white_feathers
-wings
+action:closing eyes,
+artist:cryptid-creations,
+blue body,
+blue feathers,
+blue_body,
+blue_feathers,
+bowl,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+eyes closed,
+eyes_closed,
+feathered wings,
+feathered_wings,
+feathers,
+feral,
+filename:dp1202_s,
+food,
+gender:male,
+humor,
+leaf,
+male,
+male:1,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:paid reward,
+meta:patreon reward,
+meta:signature,
+meta:white background,
+pea (food),
+pea_(food),
+peas,
+plant,
+pun,
+rating:safe,
+signature,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+solo,
+species:avian,
+species:bird,
+species:food creature,
+species:food_creature,
+species:galliform,
+species:peafowl,
+species:phasianid,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:'pea-cock' by piper thibodeau,
+title:daily paint #1202. pea-cock,
+uploader:myrandall,
+vegetable,
+visual pun,
+visual_pun,
+white body,
+white feathers,
+white_background,
+white_body,
+white_feathers,
+wings,

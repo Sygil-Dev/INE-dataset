@@ -1,63 +1,63 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-brown eyes
-brown_eyes
-category:ine
-cheese
-creator:cryptid-creations
-creator:piperdraws
-crocodylid
-dairy products
-dairy_products
-english text
-feral
-filename:dp1886_s
-food
-food creature
-fruit
-furry
-gender:ambiguous
-language:english
-medium:english text
-medium:patreon reward
-medium:simple background
-medium:text
-medium:white background
-melted cheese
-melted_cheese
-meta:2018
-meta:english text
-meta:english_text
-number
-plant
-rating:safe
-simple background
-simple_background
-site:patreon
-site:yiff.party
-smile
-solo
-species:crocodile
-species:crocodilian
-species:crocodylid
-species:food creature
-species:food_creature
-species:reptile
-species:scalie
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:1$ patreon pack - daily paint 1886# crocquette
-title:5$ patreon pack - daily paint 1886# crocquette
-title:crocquette by piper thibodeau
-title:daily paint 1886# crocquette
-tomato
-uploader:myrandall
-visial pun
-visial_pun
-white background
-white_background
-year:2018
-yiff id:457132
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+brown eyes,
+brown_eyes,
+category:ine,
+cheese,
+creator:cryptid-creations,
+creator:piperdraws,
+crocodylid,
+dairy products,
+dairy_products,
+english text,
+feral,
+filename:dp1886_s,
+food,
+food creature,
+fruit,
+furry,
+gender:ambiguous,
+language:english,
+medium:english text,
+medium:patreon reward,
+medium:simple background,
+medium:text,
+medium:white background,
+melted cheese,
+melted_cheese,
+meta:2018,
+meta:english text,
+meta:english_text,
+number,
+plant,
+rating:safe,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+smile,
+solo,
+species:crocodile,
+species:crocodilian,
+species:crocodylid,
+species:food creature,
+species:food_creature,
+species:reptile,
+species:scalie,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:1$ patreon pack - daily paint 1886# crocquette,
+title:5$ patreon pack - daily paint 1886# crocquette,
+title:crocquette by piper thibodeau,
+title:daily paint 1886# crocquette,
+tomato,
+uploader:myrandall,
+visial pun,
+visial_pun,
+white background,
+white_background,
+year:2018,
+yiff id:457132,

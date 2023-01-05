@@ -1,66 +1,66 @@
-2015
-blue eyes
-booru:e621
-category:ine
-character:daydream shimmer (eg)
-character:midnight sparkle (eg)
-character:sunset shimmer
-character:sunset shimmer (eg)
-character:twilight sparkle
-character:twilight sparkle (eg)
-character:twilight sparkle (mlp)
-clothing
-creator:big-mac-115
-creator:dennybutt
-creator:dennyvixen
-creator:dvixie
-cutie mark
-feathered wings
-feathers
-female
-flying
-fur
-gender:female
-genre:fantasy
-glowing
-glowing eyes
-group
-hair
-hi res
-horn
-horns
-magic
-mask
-medium:high resolution
-meta:2015
-meta:hi res
-multicolored hair
-purple body
-purple fur
-purple hair
-rating:safe
-red hair
-series:equestria girls
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony equestria girls
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sparkles
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:non-human animal
-species:unicorn
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"battle of friendship" by claire revell (dennybutt)
-title:battle of friendship
-two tone hair
-uploader:torvusil
-wings
-year:2015
+2015,
+blue eyes,
+booru:e621,
+category:ine,
+character:daydream shimmer (eg),
+character:midnight sparkle (eg),
+character:sunset shimmer,
+character:sunset shimmer (eg),
+character:twilight sparkle,
+character:twilight sparkle (eg),
+character:twilight sparkle (mlp),
+clothing,
+creator:big-mac-115,
+creator:dennybutt,
+creator:dennyvixen,
+creator:dvixie,
+cutie mark,
+feathered wings,
+feathers,
+female,
+flying,
+fur,
+gender:female,
+genre:fantasy,
+glowing,
+glowing eyes,
+group,
+hair,
+hi res,
+horn,
+horns,
+magic,
+mask,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+multicolored hair,
+purple body,
+purple fur,
+purple hair,
+rating:safe,
+red hair,
+series:equestria girls,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony equestria girls,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sparkles,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:non-human animal,
+species:unicorn,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"battle of friendship" by claire revell (dennybutt),
+title:battle of friendship,
+two tone hair,
+uploader:torvusil,
+wings,
+year:2015,

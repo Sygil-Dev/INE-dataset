@@ -1,24 +1,24 @@
-beast
-building
-category:ine
-cloud
-creator:j-c
-creator:zilven
-fantasia
-heaven
-mountain
-palace
-sky
-source:furaffinity.net
-starry
-subreddit:imaginarytemples
-subreddit:imarchitecture
-sun
-temple
-the
-title:the starry wolves - wosilica
-title:the starry wolves ii - wosilca
-title:the starry wolves ii by jellesin copper
-uploader:fireflycities
-wolves
-wosilca
+beast,
+building,
+category:ine,
+cloud,
+creator:j-c,
+creator:zilven,
+fantasia,
+heaven,
+mountain,
+palace,
+sky,
+source:furaffinity.net,
+starry,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+sun,
+temple,
+the,
+title:the starry wolves - wosilica,
+title:the starry wolves ii - wosilca,
+title:the starry wolves ii by jellesin copper,
+uploader:fireflycities,
+wolves,
+wosilca,

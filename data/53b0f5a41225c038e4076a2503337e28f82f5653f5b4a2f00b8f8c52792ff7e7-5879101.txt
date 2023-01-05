@@ -1,129 +1,129 @@
-1 female
-1 male
-1boy
-1girl
-aiming at viewer
-aiming_at_viewer
-alternate costume
-alternate_costume
-alternative costume
-armwear
-artist:lochris
-bangle
-blonde hair
-blue eyes
-book
-bracelet
-breasts:cleavage
-brooch
-broom
-broom riding
-broom_riding
-brown gloves
-brown legwear
-brown_gloves
-brown_legwear
-candle
-capelet
-category:ine
-character:angela "mercy" ziegler
-character:angela "mercy" ziegler (overwatch)
-character:dr. angela "mercy" ziegler
-character:gabriel "reaper" reyes
-character:gabriel reyes
-character:mercy (overwatch)
-character:pumpkin reaper
-character:pumpkin reaper (overwatch)
-character:reaper (overwatch)
-character:witch mercy
-character:witch mercy (overwatch)
-cleavage
-clothing:bracelet
-clothing:brown legwear
-clothing:earrings
-clothing:gloves
-clothing:headwear
-clothing:jewelry
-clothing:legwear
-clothing:thigh-highs
-commentary
-copyright:overwatch
-creator:lochris
-dress
-dual wielding
-dual_wielding
-earrings
-elbow gloves
-eyes visible through hair
-eyes_visible_through_hair
-female
-firearm
-gauntlets
-gender:female
-gender:male
-genre:science fiction
-gloves
-gun
-halloween
-halloween costume
-halloween_costume
-hat
-headwear
-holding
-holding gun
-holding object
-holding weapon
-holding_gun
-holding_weapon
-hug
-jewelry
-lochris
-looking at viewer
-mechanical wings
-mechanical_wings
-medium breasts
-medium:image
-medium:video
-medium_breasts
-mercy
-mercy_(overwatch)
-meta:commentary
-night
-official alternate costume
-parted lips
-parted_lips
-point of view
-pov
-pumpkin reaper
-pumpkin_reaper
-rating:mature
-rating:safe
-reaper_(overwatch)
-series:overwatch
-short hair
-short sleeves
-short_sleeves
-shotgun
-sidesaddle
-sitting
-sky
-smile
-strap
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-thigh-highs
-thighhighs
-title:mercy witch with reaper (overwatch 2016 halloween)
-title:mercy witch with reaper (overwatch 2016 halloween) by lo chris
-trench coat
-trench_coat
-uploader:sw4ahl
-weapon
-website:reddit
-wings
-witch
-witch hat
-witch mercy
-witch_hat
-witch_mercy
+1 female,
+1 male,
+1boy,
+1girl,
+aiming at viewer,
+aiming_at_viewer,
+alternate costume,
+alternate_costume,
+alternative costume,
+armwear,
+artist:lochris,
+bangle,
+blonde hair,
+blue eyes,
+book,
+bracelet,
+breasts:cleavage,
+brooch,
+broom,
+broom riding,
+broom_riding,
+brown gloves,
+brown legwear,
+brown_gloves,
+brown_legwear,
+candle,
+capelet,
+category:ine,
+character:angela "mercy" ziegler,
+character:angela "mercy" ziegler (overwatch),
+character:dr. angela "mercy" ziegler,
+character:gabriel "reaper" reyes,
+character:gabriel reyes,
+character:mercy (overwatch),
+character:pumpkin reaper,
+character:pumpkin reaper (overwatch),
+character:reaper (overwatch),
+character:witch mercy,
+character:witch mercy (overwatch),
+cleavage,
+clothing:bracelet,
+clothing:brown legwear,
+clothing:earrings,
+clothing:gloves,
+clothing:headwear,
+clothing:jewelry,
+clothing:legwear,
+clothing:thigh-highs,
+commentary,
+copyright:overwatch,
+creator:lochris,
+dress,
+dual wielding,
+dual_wielding,
+earrings,
+elbow gloves,
+eyes visible through hair,
+eyes_visible_through_hair,
+female,
+firearm,
+gauntlets,
+gender:female,
+gender:male,
+genre:science fiction,
+gloves,
+gun,
+halloween,
+halloween costume,
+halloween_costume,
+hat,
+headwear,
+holding,
+holding gun,
+holding object,
+holding weapon,
+holding_gun,
+holding_weapon,
+hug,
+jewelry,
+lochris,
+looking at viewer,
+mechanical wings,
+mechanical_wings,
+medium breasts,
+medium:image,
+medium:video,
+medium_breasts,
+mercy,
+mercy_(overwatch),
+meta:commentary,
+night,
+official alternate costume,
+parted lips,
+parted_lips,
+point of view,
+pov,
+pumpkin reaper,
+pumpkin_reaper,
+rating:mature,
+rating:safe,
+reaper_(overwatch),
+series:overwatch,
+short hair,
+short sleeves,
+short_sleeves,
+shotgun,
+sidesaddle,
+sitting,
+sky,
+smile,
+strap,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+thigh-highs,
+thighhighs,
+title:mercy witch with reaper (overwatch 2016 halloween),
+title:mercy witch with reaper (overwatch 2016 halloween) by lo chris,
+trench coat,
+trench_coat,
+uploader:sw4ahl,
+weapon,
+website:reddit,
+wings,
+witch,
+witch hat,
+witch mercy,
+witch_hat,
+witch_mercy,

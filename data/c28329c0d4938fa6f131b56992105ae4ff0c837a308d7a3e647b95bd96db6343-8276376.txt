@@ -1,24 +1,24 @@
-anime
-axsens
-beautiful
-cartoon
-category:ine
-character:hana "d.va" song
-creator:axsens
-cute
-game
-gender:female
-genre:fantasy
-kdaahri
-kdadva
-kdapopstars
-pin-up
-series:league of legends
-series:overwatch
-site:patreon
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:k/da d.va . v2
-title:k/da d.va . v2 by axsens
-uploader:sw4ahl
+anime,
+axsens,
+beautiful,
+cartoon,
+category:ine,
+character:hana "d.va" song,
+creator:axsens,
+cute,
+game,
+gender:female,
+genre:fantasy,
+kdaahri,
+kdadva,
+kdapopstars,
+pin-up,
+series:league of legends,
+series:overwatch,
+site:patreon,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:k/da d.va . v2,
+title:k/da d.va . v2 by axsens,
+uploader:sw4ahl,

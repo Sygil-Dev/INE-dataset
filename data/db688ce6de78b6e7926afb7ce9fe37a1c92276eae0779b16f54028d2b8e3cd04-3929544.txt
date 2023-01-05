@@ -1,58 +1,58 @@
-action:closing eyes
-action:smile
-ambiguous_gender
-artist:cryptid-creations
-category:ine
-closed eyes
-creator:cryptid-creations
-creator:piperdraws
-custard (food)
-custard_(food)
-dessert
-eyes closed
-eyes_closed
-feral
-filename:dp1273_s
-food
-fruit
-gender:ambiguous
-gender:male
-humor
-leaf
-male:1
-medium:patreon reward
-medium:simple background
-meme:humor
-meta:2016
-meta:paid reward
-meta:patreon reward
-meta:url
-meta:white background
-plant
-plate
-pudding
-pun
-rating:safe
-simple background
-simple_background
-site:patreon
-site:yiff.party
-smile
-solo
-species:camel
-species:camelid
-species:dromedary
-species:food creature
-species:food_creature
-species:mammal
-strawberry
-subreddit:imaginaryfood
-subreddit:immeta
-syrup
-text
-title:camamel custard by piper thibodeau
-title:daily paint #1273. camamel custard
-uploader:myrandall
-visual pun
-visual_pun
-white_background
+action:closing eyes,
+action:smile,
+ambiguous_gender,
+artist:cryptid-creations,
+category:ine,
+closed eyes,
+creator:cryptid-creations,
+creator:piperdraws,
+custard (food),
+custard_(food),
+dessert,
+eyes closed,
+eyes_closed,
+feral,
+filename:dp1273_s,
+food,
+fruit,
+gender:ambiguous,
+gender:male,
+humor,
+leaf,
+male:1,
+medium:patreon reward,
+medium:simple background,
+meme:humor,
+meta:2016,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+meta:white background,
+plant,
+plate,
+pudding,
+pun,
+rating:safe,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+smile,
+solo,
+species:camel,
+species:camelid,
+species:dromedary,
+species:food creature,
+species:food_creature,
+species:mammal,
+strawberry,
+subreddit:imaginaryfood,
+subreddit:immeta,
+syrup,
+text,
+title:camamel custard by piper thibodeau,
+title:daily paint #1273. camamel custard,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white_background,

@@ -1,35 +1,35 @@
-ambiguous gender
-beady eyes
-black eyes
-brown body
-category:ine
-cookie
-cookie tin
-creator:cryptid-creations
-eyes closed
-food
-green body
-grin
-group
-meta:2016
-meta:digital media (artwork)
-meta:english text
-meta:shaded
-open mouth
-pun
-rating:safe
-simple background
-smile
-species:animate inanimate
-species:food creature
-subreddit:imaginaryfood
-subreddit:immeta
-tan body
-text
-title:biscute by piper thibodeau
-title:day 1374. biscute
-traumatized
-uploader:myrandall
-visual pun
-website:reddit
-white background
+ambiguous gender,
+beady eyes,
+black eyes,
+brown body,
+category:ine,
+cookie,
+cookie tin,
+creator:cryptid-creations,
+eyes closed,
+food,
+green body,
+grin,
+group,
+meta:2016,
+meta:digital media (artwork),
+meta:english text,
+meta:shaded,
+open mouth,
+pun,
+rating:safe,
+simple background,
+smile,
+species:animate inanimate,
+species:food creature,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tan body,
+text,
+title:biscute by piper thibodeau,
+title:day 1374. biscute,
+traumatized,
+uploader:myrandall,
+visual pun,
+website:reddit,
+white background,

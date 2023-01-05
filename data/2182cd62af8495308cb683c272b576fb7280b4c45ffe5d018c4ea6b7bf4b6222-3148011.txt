@@ -1,96 +1,96 @@
-2014
-apple
-blonde hair
-blue body
-blue eyes
-blue feathers
-blue fur
-booru:e621
-category:ine
-character:applejack
-character:applejack (mlp)
-character:fluttershy
-character:fluttershy (mlp)
-character:pinkie pie
-character:pinkie pie (mlp)
-character:rainbow dash
-character:rainbow dash (mlp)
-character:rarity
-character:rarity (mlp)
-character:tirek (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-clothing
-clothing:hat
-clothing:headwear
-cowboy hat
-creator:adlynh
-creator:yulyeen
-cutie mark
-feathered wings
-feathers
-female
-food
-fruit
-fur
-gender:female
-gender:male
-genre:fantasy
-glowing
-group
-hair
-hat
-headgear
-headwear
-horn
-horns
-magic
-male
-meta:2014
-monster
-multi-colored hair
-multicolored hair
-muscles
-muscular
-pink hair
-plant
-purple body
-purple eyes
-purple fur
-purple hair
-rainbow fur
-rainbow hair
-rating:safe
-red hair
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sparkles
-species:centaur
-species:earth pony
-species:equid
-species:equid taur
-species:equine
-species:equine taur
-species:horse
-species:human
-species:mammal
-species:mammal taur
-species:mythical
-species:pony
-species:primate
-species:taur
-species:unicorn
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:'taste da rainbow' by adlynh
-title:taste da rainbow
-two tone hair
-uploader:schnitzellover
-white hair
-wings
-year:2014
+2014,
+apple,
+blonde hair,
+blue body,
+blue eyes,
+blue feathers,
+blue fur,
+booru:e621,
+category:ine,
+character:applejack,
+character:applejack (mlp),
+character:fluttershy,
+character:fluttershy (mlp),
+character:pinkie pie,
+character:pinkie pie (mlp),
+character:rainbow dash,
+character:rainbow dash (mlp),
+character:rarity,
+character:rarity (mlp),
+character:tirek (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+clothing,
+clothing:hat,
+clothing:headwear,
+cowboy hat,
+creator:adlynh,
+creator:yulyeen,
+cutie mark,
+feathered wings,
+feathers,
+female,
+food,
+fruit,
+fur,
+gender:female,
+gender:male,
+genre:fantasy,
+glowing,
+group,
+hair,
+hat,
+headgear,
+headwear,
+horn,
+horns,
+magic,
+male,
+meta:2014,
+monster,
+multi-colored hair,
+multicolored hair,
+muscles,
+muscular,
+pink hair,
+plant,
+purple body,
+purple eyes,
+purple fur,
+purple hair,
+rainbow fur,
+rainbow hair,
+rating:safe,
+red hair,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sparkles,
+species:centaur,
+species:earth pony,
+species:equid,
+species:equid taur,
+species:equine,
+species:equine taur,
+species:horse,
+species:human,
+species:mammal,
+species:mammal taur,
+species:mythical,
+species:pony,
+species:primate,
+species:taur,
+species:unicorn,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:'taste da rainbow' by adlynh,
+title:taste da rainbow,
+two tone hair,
+uploader:schnitzellover,
+white hair,
+wings,
+year:2014,

@@ -1,74 +1,74 @@
-16:10
-2015
-aqueduct
-artist:photonoko
-blonde hair
-blonde_hair
-booru:e621
-building
-category:ine
-character:derpy hooves
-character:derpy hooves (mlp)
-character:derpy_hooves_(mlp)
-city
-cloudsdale
-copyright:friendship is magic
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:my_little_pony
-creator:photonoko
-creator:rain-gear
-cutie mark
-cutie_mark
-feathered wings
-feathered_wings
-feathers
-female
-gender:female
-genre:fantasy
-hair
-hi res
-looking at viewer
-looking_at_viewer
-medium:16:10 aspect ratio
-medium:high resolution
-meta:16:10
-meta:2015
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:digital_media_(artwork)
-meta:digital_painting_(artwork)
-meta:hi res
-meta:hi_res
-meta:widescreen
-outside
-point of view
-pov
-rating:safe
-scrunchy face
-scrunchy_face
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:non-human animal
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:light falls
-title:light falls by rain-gear (the clouded one)
-uploader:missgoldendragon
-water
-waterfall
-widescreen
-wings
-year:2015
+16:10,
+2015,
+aqueduct,
+artist:photonoko,
+blonde hair,
+blonde_hair,
+booru:e621,
+building,
+category:ine,
+character:derpy hooves,
+character:derpy hooves (mlp),
+character:derpy_hooves_(mlp),
+city,
+cloudsdale,
+copyright:friendship is magic,
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:photonoko,
+creator:rain-gear,
+cutie mark,
+cutie_mark,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+looking at viewer,
+looking_at_viewer,
+medium:16:10 aspect ratio,
+medium:high resolution,
+meta:16:10,
+meta:2015,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:digital_media_(artwork),
+meta:digital_painting_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+outside,
+point of view,
+pov,
+rating:safe,
+scrunchy face,
+scrunchy_face,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:non-human animal,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:light falls,
+title:light falls by rain-gear (the clouded one),
+uploader:missgoldendragon,
+water,
+waterfall,
+widescreen,
+wings,
+year:2015,

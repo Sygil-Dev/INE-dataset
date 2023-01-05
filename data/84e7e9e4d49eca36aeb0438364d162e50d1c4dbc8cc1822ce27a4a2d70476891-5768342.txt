@@ -1,60 +1,60 @@
-2016
-action:open mouth
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-blueberry (fruit)
-blueberry_(fruit)
-bodypart:black eyes
-bowl
-category:ine
-creator:chibidragons
-creator:cryptid-creations
-fangs
-food
-fruit
-furry
-gender:ambiguous
-gender:male
-humor
-lemon
-lime
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:2016
-meta:english text
-meta:english_text
-meta:white background
-open mouth
-open_mouth
-plant
-pun
-raspberry
-rating:safe
-simple background
-simple_background
-solo
-species:arthropod
-species:dipteran
-species:dragon
-species:fly
-species:food creature
-species:hybrid
-species:insect
-species:mythical
-species:scalie
-strawberry
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:day 1423. dragon fruitfly
-title:dragon fruitfly by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-website:reddit
-white_background
-year:2016
+2016,
+action:open mouth,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+blueberry (fruit),
+blueberry_(fruit),
+bodypart:black eyes,
+bowl,
+category:ine,
+creator:chibidragons,
+creator:cryptid-creations,
+fangs,
+food,
+fruit,
+furry,
+gender:ambiguous,
+gender:male,
+humor,
+lemon,
+lime,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:english_text,
+meta:white background,
+open mouth,
+open_mouth,
+plant,
+pun,
+raspberry,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:arthropod,
+species:dipteran,
+species:dragon,
+species:fly,
+species:food creature,
+species:hybrid,
+species:insect,
+species:mythical,
+species:scalie,
+strawberry,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:day 1423. dragon fruitfly,
+title:dragon fruitfly by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+website:reddit,
+white_background,
+year:2016,

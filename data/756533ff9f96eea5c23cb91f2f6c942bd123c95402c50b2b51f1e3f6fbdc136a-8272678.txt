@@ -1,55 +1,55 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-category:ine
-cheese
-creator:cryptid-creations
-dairy products
-dairy_products
-eating
-feral
-food
-fruit
-gender:ambiguous
-humor
-medium:simple background
-medium:white background
-melted cheese
-melted_cheese
-meta:url
-olive
-olive (disambiguation)
-olive (fruit)
-olive_(fruit)
-pepper (food)
-pepper (fruit)
-pepper_(fruit)
-pepperoni
-pizza
-plant
-pun
-rating:safe
-simple background
-simple_background
-solo
-species:canid
-species:canine
-species:canis
-species:dog
-species:domestic dog
-species:domestic_dog
-species:food creature
-species:food_creature
-species:mammal
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:pupperoni by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-white background
-white_background
-young
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+category:ine,
+cheese,
+creator:cryptid-creations,
+dairy products,
+dairy_products,
+eating,
+feral,
+food,
+fruit,
+gender:ambiguous,
+humor,
+medium:simple background,
+medium:white background,
+melted cheese,
+melted_cheese,
+meta:url,
+olive,
+olive (disambiguation),
+olive (fruit),
+olive_(fruit),
+pepper (food),
+pepper (fruit),
+pepper_(fruit),
+pepperoni,
+pizza,
+plant,
+pun,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:dog,
+species:domestic dog,
+species:domestic_dog,
+species:food creature,
+species:food_creature,
+species:mammal,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:pupperoni by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white background,
+white_background,
+young,

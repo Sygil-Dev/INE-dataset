@@ -1,49 +1,49 @@
-anthro
-anthropomorphism
-armor
-art
-biceps
-booru:e621
-category:ine
-clothed
-clothing
-clothing:armor
-clothing:tagme
-creator:mark zug
-front view
-frown
-gender:male
-holding object
-holding weapon
-horn
-horns
-mace
-male
-melee weapon
-meta:official art
-meta:signature
-muscular
-muscular anthro
-muscular male
-outside
-plant
-rating:safe
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-signature
-solo
-species:mammal
-species:rhinoceros
-species:rhinocerotoid
-standing
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryarmor
-subreddit:imtechnology
-title:rhox by mark zug
-topless
-tree
-uploader:lol33ta
-weapon
+anthro,
+anthropomorphism,
+armor,
+art,
+biceps,
+booru:e621,
+category:ine,
+clothed,
+clothing,
+clothing:armor,
+clothing:tagme,
+creator:mark zug,
+front view,
+frown,
+gender:male,
+holding object,
+holding weapon,
+horn,
+horns,
+mace,
+male,
+melee weapon,
+meta:official art,
+meta:signature,
+muscular,
+muscular anthro,
+muscular male,
+outside,
+plant,
+rating:safe,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+signature,
+solo,
+species:mammal,
+species:rhinoceros,
+species:rhinocerotoid,
+standing,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+title:rhox by mark zug,
+topless,
+tree,
+uploader:lol33ta,
+weapon,

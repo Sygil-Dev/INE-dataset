@@ -1,64 +1,64 @@
-ambiguous_gender
-artist name
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-category:ine
-cherry
-creator:cryptid-creations
-creator:piperdraws
-dairy products
-dairy_products
-dessert
-feral
-food
-food creature
-food focus
-fruit
-furry
-gender:ambiguous
-gender:male
-humor
-leaf
-male:1
-medium:patreon reward
-medium:simple background
-medium:white background
-meme:humor
-meta:paid reward
-meta:patreon reward
-meta:white background
-no humans
-pie
-plant
-pun
-python
-rating:safe
-simple background
-simple_background
-site:patreon
-site:yiff.party
-solo
-species:food creature
-species:food_creature
-species:python
-species:reptile
-species:scalie
-species:snake
-subreddit:imaginaryfood
-subreddit:immeta
-title:'piethon' by piper thibodeau
-title:daily paint #1197. piethon
-uploader:myrandall
-visual pun
-visual_pun
-watermark
-web address
-website:reddit
-whipped cream
-whipped_cream
-white background
-white_background
+ambiguous_gender,
+artist name,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+category:ine,
+cherry,
+creator:cryptid-creations,
+creator:piperdraws,
+dairy products,
+dairy_products,
+dessert,
+feral,
+food,
+food creature,
+food focus,
+fruit,
+furry,
+gender:ambiguous,
+gender:male,
+humor,
+leaf,
+male:1,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+no humans,
+pie,
+plant,
+pun,
+python,
+rating:safe,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+solo,
+species:food creature,
+species:food_creature,
+species:python,
+species:reptile,
+species:scalie,
+species:snake,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:'piethon' by piper thibodeau,
+title:daily paint #1197. piethon,
+uploader:myrandall,
+visual pun,
+visual_pun,
+watermark,
+web address,
+website:reddit,
+whipped cream,
+whipped_cream,
+white background,
+white_background,

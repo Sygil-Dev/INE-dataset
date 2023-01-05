@@ -1,42 +1,42 @@
-animal
-armor
-breastplate
-brigittelindholm
-brigitteoverwatch
-brown eyes
-brown hair
-category:ine
-character:brigitte lindholm
-creator:digiflohw
-elbow pads
-freckles
-gender:female
-genre:science fiction
-hair ornament
-holding
-long hair
-looking at viewer
-overwatchblizzard
-parted lips
-payot
-playoverwatch
-ponytail
-pov
-series:overwatch
-shoulder pads
-signed
-single
-site:anime-pictures.net
-sky
-smile
-standing
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-sun
-tall image
-tied hair
-title:brigitte (overwatch)
-title:brigitte (overwatch) by karn kirk ratanasin
-uploader:sw4ahl
-year:2018
+animal,
+armor,
+breastplate,
+brigittelindholm,
+brigitteoverwatch,
+brown eyes,
+brown hair,
+category:ine,
+character:brigitte lindholm,
+creator:digiflohw,
+elbow pads,
+freckles,
+gender:female,
+genre:science fiction,
+hair ornament,
+holding,
+long hair,
+looking at viewer,
+overwatchblizzard,
+parted lips,
+payot,
+playoverwatch,
+ponytail,
+pov,
+series:overwatch,
+shoulder pads,
+signed,
+single,
+site:anime-pictures.net,
+sky,
+smile,
+standing,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+sun,
+tall image,
+tied hair,
+title:brigitte (overwatch),
+title:brigitte (overwatch) by karn kirk ratanasin,
+uploader:sw4ahl,
+year:2018,

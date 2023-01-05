@@ -1,55 +1,55 @@
-2015
-beverage
-blue body
-blue eyes
-blue feathers
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-clothing
-clothing:hair tie
-clothing:hoodie
-coffee
-creator:rariedash
-crown
-cup
-feathered wings
-feathers
-female
-feral
-food
-frown
-gender:female
-genre:fantasy
-hair
-hi res
-hoodie
-horn
-horns
-magic
-medium:high resolution
-meta:2015
-meta:hi res
-ponytail
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tied hair
-title:"dawn guard - princess luna" by kai kieschnick (rariedash)
-title:dawn guard - princess luna
-topwear
-uploader:torvusil
-vrown
-wings
-year:2015
+2015,
+beverage,
+blue body,
+blue eyes,
+blue feathers,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+clothing,
+clothing:hair tie,
+clothing:hoodie,
+coffee,
+creator:rariedash,
+crown,
+cup,
+feathered wings,
+feathers,
+female,
+feral,
+food,
+frown,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+hoodie,
+horn,
+horns,
+magic,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+ponytail,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tied hair,
+title:"dawn guard - princess luna" by kai kieschnick (rariedash),
+title:dawn guard - princess luna,
+topwear,
+uploader:torvusil,
+vrown,
+wings,
+year:2015,

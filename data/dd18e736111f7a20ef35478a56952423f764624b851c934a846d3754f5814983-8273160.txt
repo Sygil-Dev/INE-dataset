@@ -1,51 +1,51 @@
-black eyes
-board:/v/
-bodypart:black eyes
-bowl
-brown body
-brown fur
-category:ine
-chopsticks
-creator:cryptid-creations
-feral
-food
-fur
-gen 1 pokemon
-gender:male
-humor
-male
-male:1
-mat
-medium:simple background
-medium:white background
-meme:humor
-meta:english text
-meta:url
-pun
-rating:safe
-red body
-red fur
-series:nintendo
-series:pokémon
-simple background
-site:4chan.org
-solo
-species:mammal
-species:monster
-species:pikachu
-species:pokemon
-species:pokémon
-species:pokémon (species)
-studio:nintendo
-subreddit:imaginaryfood
-subreddit:immeta
-sushi
-text
-title:daily paint 1998# poke bowl
-title:poke bowl by piper thibodeau
-uploader:myrandall
-website:chan style imageboards
-website:e621
-white background
-yellow body
-yellow fur
+black eyes,
+board:/v/,
+bodypart:black eyes,
+bowl,
+brown body,
+brown fur,
+category:ine,
+chopsticks,
+creator:cryptid-creations,
+feral,
+food,
+fur,
+gen 1 pokemon,
+gender:male,
+humor,
+male,
+male:1,
+mat,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:english text,
+meta:url,
+pun,
+rating:safe,
+red body,
+red fur,
+series:nintendo,
+series:pokémon,
+simple background,
+site:4chan.org,
+solo,
+species:mammal,
+species:monster,
+species:pikachu,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+studio:nintendo,
+subreddit:imaginaryfood,
+subreddit:immeta,
+sushi,
+text,
+title:daily paint 1998# poke bowl,
+title:poke bowl by piper thibodeau,
+uploader:myrandall,
+website:chan style imageboards,
+website:e621,
+white background,
+yellow body,
+yellow fur,

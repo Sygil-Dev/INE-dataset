@@ -1,57 +1,57 @@
-absurd res
-blueberry (fruit)
-booru:e621
-butter
-category:ine
-character:twilight sparkle
-character:twilight sparkle (mlp)
-closed eyes
-creator:otakuap
-cute
-dairy products
-eyes closed
-female
-feral
-food
-fruit
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-horn
-horns
-in food
-medium:absurd resolution
-medium:high resolution
-meta:absurd res
-meta:hi res
-micro
-multicolored hair
-on food
-pancake
-plant
-purple body
-purple fur
-purple hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sleeping
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryfood
-subreddit:immeta
-tag source:e621
-title:pancake bed
-title:pancake bed by 'otakuap'
-two tone hair
-uploader:myrandall
+absurd res,
+blueberry (fruit),
+booru:e621,
+butter,
+category:ine,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+closed eyes,
+creator:otakuap,
+cute,
+dairy products,
+eyes closed,
+female,
+feral,
+food,
+fruit,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+horn,
+horns,
+in food,
+medium:absurd resolution,
+medium:high resolution,
+meta:absurd res,
+meta:hi res,
+micro,
+multicolored hair,
+on food,
+pancake,
+plant,
+purple body,
+purple fur,
+purple hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sleeping,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tag source:e621,
+title:pancake bed,
+title:pancake bed by 'otakuap',
+two tone hair,
+uploader:myrandall,

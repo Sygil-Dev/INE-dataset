@@ -1,134 +1,134 @@
-1 female
-1girl
-2016
-artist name
-artist:dao trong le
-artstation_sample
-asymmetrical hair
-belt
-black gloves
-black hair
-black pants
-black_pants
-bodysuit
-booru:danbooru
-booru:gelbooru
-booru:safebooru
-booru:tbib
-bottomwear
-breasts
-brown eyes
-brown hair
-category:ine
-character:olivia "sombra" colomar
-character:olivia colomar
-character:sombra (overwatch)
-claws
-closed mouth
-closed_mouth
-clothing:bottomwear
-clothing:earrings
-clothing:gloves
-clothing:legwear
-clothing:topwear
-coat
-copyright:overwatch
-creator:dao trong le
-dao trong le
-dao_trong_le
-dark skin
-dated
-digital drawing (artwork)
-duplicate
-earrings
-eyeliner
-eyeshadow
-fan art
-female
-fingerless gloves
-fingernails
-gender:female
-genre:science fiction
-gloves
-hand up
-hand_up
-high collar
-high_collar
-hologram
-image sample
-image_sample
-jewelry
-knee pads
-knee_pads
-lipstick
-long fingernails
-long hair
-long_fingernails
-looking at viewer
-makeup
-mascara
-matching hair/eyes
-matching_hair/eyes
-medium:2d art
-medium:2016
-medium:artist name
-medium:dated
-medium:digital media
-medium:high resolution
-meta:artist name
-meta:artstation sample
-meta:highres
-meta:image sample
-meta:signature
-mole
-mole under eye
-mole_under_eye
-multicolored hair
-multicolored_hair
-nail polish
-nail_polish
-nose
-overwatch
-pants
-pov
-purple coat
-purple hair
-purple lips
-purple lipstick
-purple nails
-purple_coat
-purple_lips
-purple_lipstick
-purple_nails
-rating:mature
-rating:safe
-series:overwatch
-sexy
-short hair
-signature
-sitting
-smile
-solo
-sombra
-sombra (overwatch)
-sombra_(overwatch)
-stud earrings
-stud_earrings
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-sweater
-title:sombra by dao le trong
-topwear
-torn clothes
-torn coat
-torn pants
-torn_coat
-torn_pants
-trench coat
-trench_coat
-turtleneck
-undercut
-uploader:myrandall
-website:reddit
-year:2016
+1 female,
+1girl,
+2016,
+artist name,
+artist:dao trong le,
+artstation_sample,
+asymmetrical hair,
+belt,
+black gloves,
+black hair,
+black pants,
+black_pants,
+bodysuit,
+booru:danbooru,
+booru:gelbooru,
+booru:safebooru,
+booru:tbib,
+bottomwear,
+breasts,
+brown eyes,
+brown hair,
+category:ine,
+character:olivia "sombra" colomar,
+character:olivia colomar,
+character:sombra (overwatch),
+claws,
+closed mouth,
+closed_mouth,
+clothing:bottomwear,
+clothing:earrings,
+clothing:gloves,
+clothing:legwear,
+clothing:topwear,
+coat,
+copyright:overwatch,
+creator:dao trong le,
+dao trong le,
+dao_trong_le,
+dark skin,
+dated,
+digital drawing (artwork),
+duplicate,
+earrings,
+eyeliner,
+eyeshadow,
+fan art,
+female,
+fingerless gloves,
+fingernails,
+gender:female,
+genre:science fiction,
+gloves,
+hand up,
+hand_up,
+high collar,
+high_collar,
+hologram,
+image sample,
+image_sample,
+jewelry,
+knee pads,
+knee_pads,
+lipstick,
+long fingernails,
+long hair,
+long_fingernails,
+looking at viewer,
+makeup,
+mascara,
+matching hair/eyes,
+matching_hair/eyes,
+medium:2d art,
+medium:2016,
+medium:artist name,
+medium:dated,
+medium:digital media,
+medium:high resolution,
+meta:artist name,
+meta:artstation sample,
+meta:highres,
+meta:image sample,
+meta:signature,
+mole,
+mole under eye,
+mole_under_eye,
+multicolored hair,
+multicolored_hair,
+nail polish,
+nail_polish,
+nose,
+overwatch,
+pants,
+pov,
+purple coat,
+purple hair,
+purple lips,
+purple lipstick,
+purple nails,
+purple_coat,
+purple_lips,
+purple_lipstick,
+purple_nails,
+rating:mature,
+rating:safe,
+series:overwatch,
+sexy,
+short hair,
+signature,
+sitting,
+smile,
+solo,
+sombra,
+sombra (overwatch),
+sombra_(overwatch),
+stud earrings,
+stud_earrings,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+sweater,
+title:sombra by dao le trong,
+topwear,
+torn clothes,
+torn coat,
+torn pants,
+torn_coat,
+torn_pants,
+trench coat,
+trench_coat,
+turtleneck,
+undercut,
+uploader:myrandall,
+website:reddit,
+year:2016,

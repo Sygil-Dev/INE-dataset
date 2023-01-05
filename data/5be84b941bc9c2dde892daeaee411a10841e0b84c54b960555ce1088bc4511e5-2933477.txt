@@ -1,53 +1,53 @@
-blue body
-blue feathers
-booru:e621
-category:ine
-character:nightmare moon
-character:nightmare moon (mlp)
-creator:cbsorgeartworks
-creator:psychohazard
-creator:tumorhead
-crystal
-cutie mark
-feathered wings
-feathers
-female
-feral
-gender:female
-genre:fantasy
-glowing
-glowing eyes
-horn
-horns
-mane
-meta:signature
-milky way
-mlp
-moon
-nightmare
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-shooting star
-signature
-solo
-source:furaffinity.net
-space
-spacescape
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:winged unicorn
-starscape
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"nightmare moon" by carly b sorge
-title:nightmare moon
-unicorn
-uploader:crystallord
-wings
+blue body,
+blue feathers,
+booru:e621,
+category:ine,
+character:nightmare moon,
+character:nightmare moon (mlp),
+creator:cbsorgeartworks,
+creator:psychohazard,
+creator:tumorhead,
+crystal,
+cutie mark,
+feathered wings,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+glowing,
+glowing eyes,
+horn,
+horns,
+mane,
+meta:signature,
+milky way,
+mlp,
+moon,
+nightmare,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+shooting star,
+signature,
+solo,
+source:furaffinity.net,
+space,
+spacescape,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:winged unicorn,
+starscape,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"nightmare moon" by carly b sorge,
+title:nightmare moon,
+unicorn,
+uploader:crystallord,
+wings,

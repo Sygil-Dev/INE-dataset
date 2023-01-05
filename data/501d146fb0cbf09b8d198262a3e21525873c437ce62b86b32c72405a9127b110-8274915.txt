@@ -1,60 +1,60 @@
-1 female
-1 male
-1boy
-1girl
-batou
-beer can
-beer_can
-bowl
-breasts
-can
-casual
-category:ine
-character:batou
-character:kusanagi motoko
-chopsticks
-cleavage
-closed eyes
-clothing:jacket
-creator:batou
-creator:hellstern
-cyberpunk
-cyborg
-eating
-eyes closed
-female
-food
-gender:female
-gender:male
-genre:science fiction
-hellstern
-holding
-holding chopsticks
-jacket
-jiaozi
-kusanagi_motoko
-male
-meat
-medium:16:9 aspect ratio
-medium:high resolution
-medium:realistic
-meta:commentary
-meta:english commentary
-meta:highres
-noodles
-ramen
-rating:mature
-rating:s
-rating:safe
-realistic
-robotic parts
-science fiction
-science_fiction
-series:ghost in the shell
-sitting
-smile
-subreddit:imaginaryfood
-subreddit:immeta
-title:all i need. ghost in the shell fanart by elena bespalova
-uploader:chalkchick0
-website:reddit
+1 female,
+1 male,
+1boy,
+1girl,
+batou,
+beer can,
+beer_can,
+bowl,
+breasts,
+can,
+casual,
+category:ine,
+character:batou,
+character:kusanagi motoko,
+chopsticks,
+cleavage,
+closed eyes,
+clothing:jacket,
+creator:batou,
+creator:hellstern,
+cyberpunk,
+cyborg,
+eating,
+eyes closed,
+female,
+food,
+gender:female,
+gender:male,
+genre:science fiction,
+hellstern,
+holding,
+holding chopsticks,
+jacket,
+jiaozi,
+kusanagi_motoko,
+male,
+meat,
+medium:16:9 aspect ratio,
+medium:high resolution,
+medium:realistic,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+noodles,
+ramen,
+rating:mature,
+rating:s,
+rating:safe,
+realistic,
+robotic parts,
+science fiction,
+science_fiction,
+series:ghost in the shell,
+sitting,
+smile,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:all i need. ghost in the shell fanart by elena bespalova,
+uploader:chalkchick0,
+website:reddit,

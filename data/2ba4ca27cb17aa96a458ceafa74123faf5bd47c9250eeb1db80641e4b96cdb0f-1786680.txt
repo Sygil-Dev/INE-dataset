@@ -1,49 +1,49 @@
-2015
-absurd res
-blue eyes
-booru:e621
-category:ine
-character:rarity
-character:rarity (mlp)
-city
-clothing
-creator:warfost
-detailed background
-female
-feral
-gender:female
-genre:fantasy
-hair
-hi res
-horn
-horns
-long hair
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:2015
-meta:absurd res
-meta:hi res
-purple hair
-rating:safe
-safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"rarity detective" by arthur (warfost)
-title:rarity detective
-uploader:torvusil
-year:2015
+2015,
+absurd res,
+blue eyes,
+booru:e621,
+category:ine,
+character:rarity,
+character:rarity (mlp),
+city,
+clothing,
+creator:warfost,
+detailed background,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+horn,
+horns,
+long hair,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:2015,
+meta:absurd res,
+meta:hi res,
+purple hair,
+rating:safe,
+safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"rarity detective" by arthur (warfost),
+title:rarity detective,
+uploader:torvusil,
+year:2015,

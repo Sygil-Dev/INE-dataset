@@ -1,64 +1,64 @@
-1 female
-alternate costume
-armpit peek
-bare shoulders
-blonde hair
-blue eyes
-blurry
-booru:sankaku channel
-breasts
-category:ine
-character:dr. angela "mercy" ziegler
-character:pink mercy
-cleavage
-clothing:detached sleeves
-clothing:hair ribbon
-clothing:pink dress
-creator:alqmia
-creator:anastasiya volkova
-detached collar
-detached sleeves
-dress
-forest
-gender:female
-genre:science fiction
-hair ornament
-hair ribbon
-halterneck
-holding object
-holding staff
-long hair
-mechanical halo
-mechanical wings
-medium:artist name
-medium:artist signature
-medium:depth of field
-medium:deviantart username
-medium:high resolution
-medium:realistic
-medium:vk username
-medium:watermark
-medium:web address
-meta:artist name
-nature
-outdoors
-outside
-painted fingernails
-pink dress
-pink fingernails
-pink ribbon
-rating:safe
-ribbon
-series:overwatch
-solo
-staff
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-tied hair
-title:overwatch - mercy fanart
-title:overwatch - mercy fanart by anastasiya volkova
-tree
-twintails
-uploader:sw4ahl
-wings
+1 female,
+alternate costume,
+armpit peek,
+bare shoulders,
+blonde hair,
+blue eyes,
+blurry,
+booru:sankaku channel,
+breasts,
+category:ine,
+character:dr. angela "mercy" ziegler,
+character:pink mercy,
+cleavage,
+clothing:detached sleeves,
+clothing:hair ribbon,
+clothing:pink dress,
+creator:alqmia,
+creator:anastasiya volkova,
+detached collar,
+detached sleeves,
+dress,
+forest,
+gender:female,
+genre:science fiction,
+hair ornament,
+hair ribbon,
+halterneck,
+holding object,
+holding staff,
+long hair,
+mechanical halo,
+mechanical wings,
+medium:artist name,
+medium:artist signature,
+medium:depth of field,
+medium:deviantart username,
+medium:high resolution,
+medium:realistic,
+medium:vk username,
+medium:watermark,
+medium:web address,
+meta:artist name,
+nature,
+outdoors,
+outside,
+painted fingernails,
+pink dress,
+pink fingernails,
+pink ribbon,
+rating:safe,
+ribbon,
+series:overwatch,
+solo,
+staff,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+tied hair,
+title:overwatch - mercy fanart,
+title:overwatch - mercy fanart by anastasiya volkova,
+tree,
+twintails,
+uploader:sw4ahl,
+wings,

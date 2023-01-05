@@ -1,60 +1,60 @@
-action:closing eyes
-action:smile
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-blueberry (fruit)
-blueberry_(fruit)
-bodypart:black eyes
-category:ine
-closed eyes
-creator:cryptid-creations
-creator:piperdraws
-duo
-eyes closed
-eyes_closed
-feral
-filename:dp1163_s
-food
-fruit
-gender:ambiguous
-humor
-jar
-jelly
-jelly (food)
-jelly_(food)
-medium:patreon reward
-medium:simple background
-medium:white background
-meme:humor
-meta:paid reward
-meta:patreon reward
-meta:white background
-plant
-pun
-rating:safe
-simple background
-simple_background
-site:patreon
-site:yiff.party
-smile
-species:cnidarian
-species:food creature
-species:food_creature
-species:jellyfish
-species:marine
-species:medusozoan
-strawberry
-subreddit:imaginaryfood
-subreddit:immeta
-tentacles
-title:'jelly-fish' by piper thibodeau
-title:daily paint #1163. jelly-fish
-uploader:myrandall
-visual pun
-visual_pun
-website:reddit
-white_background
+action:closing eyes,
+action:smile,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+blueberry (fruit),
+blueberry_(fruit),
+bodypart:black eyes,
+category:ine,
+closed eyes,
+creator:cryptid-creations,
+creator:piperdraws,
+duo,
+eyes closed,
+eyes_closed,
+feral,
+filename:dp1163_s,
+food,
+fruit,
+gender:ambiguous,
+humor,
+jar,
+jelly,
+jelly (food),
+jelly_(food),
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+plant,
+pun,
+rating:safe,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+smile,
+species:cnidarian,
+species:food creature,
+species:food_creature,
+species:jellyfish,
+species:marine,
+species:medusozoan,
+strawberry,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tentacles,
+title:'jelly-fish' by piper thibodeau,
+title:daily paint #1163. jelly-fish,
+uploader:myrandall,
+visual pun,
+visual_pun,
+website:reddit,
+white_background,

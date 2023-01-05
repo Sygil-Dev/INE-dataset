@@ -1,81 +1,81 @@
-action:head tilted at an angle
-action:sitting
-action:standing upright
-ambiguous gender
-black eyes
-bodypart:black eyes
-booru:e621
-category:ine
-closed mouth
-cloud
-creator:cryptid creations
-creator:cryptid-creations
-creator:piperdraws
-creature
-face::<
-family
-feral
-field
-filename:dp1221_s
-food
-fruit
-full body
-gender:ambiguous
-gender:female
-grass
-grizzly bear
-group
-humor
-leaf
-loli body type
-looking at viewer
-male:0
-medium:patreon reward
-medium:simple background
-medium:watermark
-medium:web address
-medium:white background
-meme:humor
-meta:commentary
-meta:paid reward
-meta:patreon reward
-meta:white background
-mountain
-no humans
-outdoors
-outside
-pear
-plant
-pov
-pun
-rating:mature
-rating:safe
-series:original
-simple background
-site:patreon
-site:yiff.party
-sitting
-sitting on animal
-sky
-species:bear
-species:elemental creature
-species:flora fauna
-species:food creature
-species:grizzly bear
-species:hybrid
-species:living fruit
-species:mammal
-species:pear bear
-species:ursid
-species:ursine
-standing
-subreddit:imaginaryfood
-subreddit:immeta
-title:'grizzly pears' by piper thibodeau
-title:daily paint #1221. grizzly pears
-uploader:myrandall
-watermark
-web address
-website:e621
-website:reddit
-young
+action:head tilted at an angle,
+action:sitting,
+action:standing upright,
+ambiguous gender,
+black eyes,
+bodypart:black eyes,
+booru:e621,
+category:ine,
+closed mouth,
+cloud,
+creator:cryptid creations,
+creator:cryptid-creations,
+creator:piperdraws,
+creature,
+face::<,
+family,
+feral,
+field,
+filename:dp1221_s,
+food,
+fruit,
+full body,
+gender:ambiguous,
+gender:female,
+grass,
+grizzly bear,
+group,
+humor,
+leaf,
+loli body type,
+looking at viewer,
+male:0,
+medium:patreon reward,
+medium:simple background,
+medium:watermark,
+medium:web address,
+medium:white background,
+meme:humor,
+meta:commentary,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+mountain,
+no humans,
+outdoors,
+outside,
+pear,
+plant,
+pov,
+pun,
+rating:mature,
+rating:safe,
+series:original,
+simple background,
+site:patreon,
+site:yiff.party,
+sitting,
+sitting on animal,
+sky,
+species:bear,
+species:elemental creature,
+species:flora fauna,
+species:food creature,
+species:grizzly bear,
+species:hybrid,
+species:living fruit,
+species:mammal,
+species:pear bear,
+species:ursid,
+species:ursine,
+standing,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:'grizzly pears' by piper thibodeau,
+title:daily paint #1221. grizzly pears,
+uploader:myrandall,
+watermark,
+web address,
+website:e621,
+website:reddit,
+young,

@@ -1,66 +1,66 @@
-5
-16:9
-2015
-blue eyes
-blue eyeshadow
-booru:e621
-category:ine
-character:rarity
-character:rarity (mlp)
-clothing
-clothing:eyewear
-clothing:hat
-clothing:headwear
-creator:huussii
-eyeshadow
-eyewear
-fabulous
-fashion
-female
-flower
-gender:female
-genre:fantasy
-glasses
-hair
-hat
-headgear
-headwear
-hi res
-horn
-horns
-makeup
-medium:16:9 aspect ratio
-medium:high resolution
-medium:wallpaper
-meta:16:9
-meta:2015
-meta:hi res
-meta:wallpaper
-meta:widescreen
-mlp
-pencil
-pencil (object)
-plant
-pony
-purple hair
-rarity
-rating:safe
-season
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:splash of fashion
-title:splash of fashion by huussii on deviantart
-uploader:sandtalon
-wallpaper
-year:2015
+5,
+16:9,
+2015,
+blue eyes,
+blue eyeshadow,
+booru:e621,
+category:ine,
+character:rarity,
+character:rarity (mlp),
+clothing,
+clothing:eyewear,
+clothing:hat,
+clothing:headwear,
+creator:huussii,
+eyeshadow,
+eyewear,
+fabulous,
+fashion,
+female,
+flower,
+gender:female,
+genre:fantasy,
+glasses,
+hair,
+hat,
+headgear,
+headwear,
+hi res,
+horn,
+horns,
+makeup,
+medium:16:9 aspect ratio,
+medium:high resolution,
+medium:wallpaper,
+meta:16:9,
+meta:2015,
+meta:hi res,
+meta:wallpaper,
+meta:widescreen,
+mlp,
+pencil,
+pencil (object),
+plant,
+pony,
+purple hair,
+rarity,
+rating:safe,
+season,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:splash of fashion,
+title:splash of fashion by huussii on deviantart,
+uploader:sandtalon,
+wallpaper,
+year:2015,

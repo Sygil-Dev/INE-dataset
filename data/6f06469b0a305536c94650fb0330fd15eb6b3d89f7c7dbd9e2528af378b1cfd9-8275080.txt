@@ -1,44 +1,44 @@
-1 female
-1girl
-alternate costume
-atlantic mercy
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-category:ine
-character:2019 atlantic all-stars mercy
-character:atlantic mercy
-character:dr. angela "mercy" ziegler
-character:mercy (overwatch)
-clothing:earrings
-clothing:jewelry
-clothing:necklace
-creator:lirain
-crown hair ornament
-earrings
-gender:female
-genre:science fiction
-hair ornament
-jewelry
-lirain
-lirain (artist)
-medium:image
-medium:no audio
-medium:video
-meta:md5 mismatch
-necklace
-piercing
-purple hair
-rating:mature
-rating:safe
-series:overwatch
-series:overwatch league
-solo
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:atlantic mercy by lirain art
-uploader:lol33ta
-wings
+1 female,
+1girl,
+alternate costume,
+atlantic mercy,
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+category:ine,
+character:2019 atlantic all-stars mercy,
+character:atlantic mercy,
+character:dr. angela "mercy" ziegler,
+character:mercy (overwatch),
+clothing:earrings,
+clothing:jewelry,
+clothing:necklace,
+creator:lirain,
+crown hair ornament,
+earrings,
+gender:female,
+genre:science fiction,
+hair ornament,
+jewelry,
+lirain,
+lirain (artist),
+medium:image,
+medium:no audio,
+medium:video,
+meta:md5 mismatch,
+necklace,
+piercing,
+purple hair,
+rating:mature,
+rating:safe,
+series:overwatch,
+series:overwatch league,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:atlantic mercy by lirain art,
+uploader:lol33ta,
+wings,

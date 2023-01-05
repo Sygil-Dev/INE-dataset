@@ -1,36 +1,36 @@
-animal
-bent knees
-bodysuit
-booru:sankaku channel
-brown hair
-category:ine
-character:gem
-character:winston (overwatch)
-character:wrecking ball (overwatch)
-creator:nesskain
-crystal
-eyewear
-fangs
-gender:male
-glasses
-gorilla
-hamster
-medium:character name
-medium:high resolution
-medium:long image
-medium:text
-medium:very high resolution
-medium:wide image
-open mouth
-rating:safe
-series:overwatch
-site:deviantart
-sitting
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-teeth
-title:wrecking ball origin story 1
-title:wrecking ball origin story 1 by 'nesskain'
-tools
-uploader:myrandall
+animal,
+bent knees,
+bodysuit,
+booru:sankaku channel,
+brown hair,
+category:ine,
+character:gem,
+character:winston (overwatch),
+character:wrecking ball (overwatch),
+creator:nesskain,
+crystal,
+eyewear,
+fangs,
+gender:male,
+glasses,
+gorilla,
+hamster,
+medium:character name,
+medium:high resolution,
+medium:long image,
+medium:text,
+medium:very high resolution,
+medium:wide image,
+open mouth,
+rating:safe,
+series:overwatch,
+site:deviantart,
+sitting,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+teeth,
+title:wrecking ball origin story 1,
+title:wrecking ball origin story 1 by 'nesskain',
+tools,
+uploader:myrandall,

@@ -1,50 +1,50 @@
-anthropomorphism
-artist name
-beady eyes
-black eyes
-bodypart:black eyes
-bottle
-bread
-butter knife
-category:ine
-claws
-creator:cryptid-creations
-cutlery
-food
-food creature
-food focus
-fruit
-gender:ambiguous
-gender:male
-humor
-jelly
-kitchen knife
-kitchen utensils
-knife
-male:1
-medium:simple background
-meme:humor
-meta:white background
-no humans
-pawpads
-plant
-pun
-raspberry
-rating:safe
-simple background
-solo
-species:food creature
-species:mammal
-species:ursid
-strawberry
-subreddit:imaginaryfood
-subreddit:immeta
-tablecloth
-title:daily paint 1516. raspbeary jam
-title:raspbeary jam by piper thibodeau
-tools
-uploader:myrandall
-ursid
-visual pun
-watermark
-white background
+anthropomorphism,
+artist name,
+beady eyes,
+black eyes,
+bodypart:black eyes,
+bottle,
+bread,
+butter knife,
+category:ine,
+claws,
+creator:cryptid-creations,
+cutlery,
+food,
+food creature,
+food focus,
+fruit,
+gender:ambiguous,
+gender:male,
+humor,
+jelly,
+kitchen knife,
+kitchen utensils,
+knife,
+male:1,
+medium:simple background,
+meme:humor,
+meta:white background,
+no humans,
+pawpads,
+plant,
+pun,
+raspberry,
+rating:safe,
+simple background,
+solo,
+species:food creature,
+species:mammal,
+species:ursid,
+strawberry,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tablecloth,
+title:daily paint 1516. raspbeary jam,
+title:raspbeary jam by piper thibodeau,
+tools,
+uploader:myrandall,
+ursid,
+visual pun,
+watermark,
+white background,

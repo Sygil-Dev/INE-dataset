@@ -1,22 +1,22 @@
-breastcancerresearchfoundation
-category:ine
-character:dr. angela "mercy" ziegler
-characters
-creator:ethan brentson
-digital 2d
-fanart
-fantasy
-game
-illustration
-magic
-medium:digital 2d
-overwatch
-overwatch mercy
-pink mercy
-series:overwatch
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:pink mercy
-title:pink mercy- fanart
-uploader:thecrazedeb
+breastcancerresearchfoundation,
+category:ine,
+character:dr. angela "mercy" ziegler,
+characters,
+creator:ethan brentson,
+digital 2d,
+fanart,
+fantasy,
+game,
+illustration,
+magic,
+medium:digital 2d,
+overwatch,
+overwatch mercy,
+pink mercy,
+series:overwatch,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:pink mercy,
+title:pink mercy- fanart,
+uploader:thecrazedeb,

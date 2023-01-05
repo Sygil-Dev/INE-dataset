@@ -1,81 +1,81 @@
-1 female
-1girl
-90s
-1990s (style)
-animal
-animemanga
-blood
-bloody clothes
-blurry
-bodily fluids
-booru:sankaku channel
-brown eyes
-brown hair
-bust
-category:ine
-character:moro (mononoke hime)
-character:san
-character:san (mononoke hime)
-character:san (princess mononoke)
-closed mouth
-clothing:earrings
-clothing:necklace
-creator:guweiz
-duo
-earrings
-exposed shoulders
-facepaint
-facial mark
-fanart
-female
-forehead mark
-fur
-fur trim
-gender:female
-ilya kuvshinov (style)
-injury
-jewelry
-language:english
-looking at viewer
-medium:anaglyph
-medium:artist name
-medium:blurry background
-medium:english
-medium:english text
-medium:fanart from deviantart
-medium:text
-meta:artist name
-meta:commentary request
-meta:photoshop (medium)
-necklace
-piercing
-princessmononoke
-rating:mature
-rating:safe
-rating:sensitive
-red eyes
-retro artstyle
-scratches
-series:mononoke hime
-series:princess mononoke
-series:studio ghibli
-serious
-short hair
-site:deviantart
-sleeveless
-species:canine
-species:canis
-species:human
-species:mammal
-species:primate
-species:wolf
-studio:studio ghibli
-studioghibli
-subreddit:imaginaryanime
-subreddit:imfandoms
-tattoo
-text
-title:"mononoke" by 炜炜/guweiz
-title:mononoke
-uploader:mysalmonhasfeets
-wolf
+1 female,
+1girl,
+90s,
+1990s (style),
+animal,
+animemanga,
+blood,
+bloody clothes,
+blurry,
+bodily fluids,
+booru:sankaku channel,
+brown eyes,
+brown hair,
+bust,
+category:ine,
+character:moro (mononoke hime),
+character:san,
+character:san (mononoke hime),
+character:san (princess mononoke),
+closed mouth,
+clothing:earrings,
+clothing:necklace,
+creator:guweiz,
+duo,
+earrings,
+exposed shoulders,
+facepaint,
+facial mark,
+fanart,
+female,
+forehead mark,
+fur,
+fur trim,
+gender:female,
+ilya kuvshinov (style),
+injury,
+jewelry,
+language:english,
+looking at viewer,
+medium:anaglyph,
+medium:artist name,
+medium:blurry background,
+medium:english,
+medium:english text,
+medium:fanart from deviantart,
+medium:text,
+meta:artist name,
+meta:commentary request,
+meta:photoshop (medium),
+necklace,
+piercing,
+princessmononoke,
+rating:mature,
+rating:safe,
+rating:sensitive,
+red eyes,
+retro artstyle,
+scratches,
+series:mononoke hime,
+series:princess mononoke,
+series:studio ghibli,
+serious,
+short hair,
+site:deviantart,
+sleeveless,
+species:canine,
+species:canis,
+species:human,
+species:mammal,
+species:primate,
+species:wolf,
+studio:studio ghibli,
+studioghibli,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+tattoo,
+text,
+title:"mononoke" by 炜炜/guweiz,
+title:mononoke,
+uploader:mysalmonhasfeets,
+wolf,

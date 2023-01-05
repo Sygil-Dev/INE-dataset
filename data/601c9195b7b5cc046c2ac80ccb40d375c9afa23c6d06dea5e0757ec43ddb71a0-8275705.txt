@@ -1,75 +1,75 @@
-2017
-ambiguous_gender
-artist:cryptid-creations
-artist:hybris
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-blep
-bodypart:black eyes
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-creator:cryptid-creations
-creator:hybris
-creator:piperdraws
-feral
-food
-fur
-gender:ambiguous
-gender:male
-humor
-male:1
-medium:patreon reward
-medium:simple background
-medium:white background
-meme:humor
-meta:2017
-meta:paid reward
-meta:patreon reward
-meta:white background
-pun
-rating:safe
-simple background
-simple_background
-site:patreon
-site:yiff.party
-solo
-species:canid
-species:canine
-species:canis
-species:dog
-species:domestic dog
-species:domestic_dog
-species:food creature
-species:food_creature
-species:herding dog
-species:herding_dog
-species:hybrid
-species:mammal
-species:pastoral dog
-species:pastoral_dog
-species:welsh corgi
-species:welsh_corgi
-subreddit:imaginaryfood
-subreddit:immeta
-taco
-title:1$ patreon pack - daily paint 1769# tacorigi
-title:5-10$ patreon pack - daily paint 1769# tacorigi
-title:daily paint 1769# tacorigi
-title:tacorigi by piper thibodeau
-tongue
-tongue out
-tongue_out
-uploader:myrandall
-visual pun
-visual_pun
-white body
-white fur
-white_background
-white_body
-white_fur
-year:2017
+2017,
+ambiguous_gender,
+artist:cryptid-creations,
+artist:hybris,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+blep,
+bodypart:black eyes,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+creator:cryptid-creations,
+creator:hybris,
+creator:piperdraws,
+feral,
+food,
+fur,
+gender:ambiguous,
+gender:male,
+humor,
+male:1,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2017,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+pun,
+rating:safe,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:dog,
+species:domestic dog,
+species:domestic_dog,
+species:food creature,
+species:food_creature,
+species:herding dog,
+species:herding_dog,
+species:hybrid,
+species:mammal,
+species:pastoral dog,
+species:pastoral_dog,
+species:welsh corgi,
+species:welsh_corgi,
+subreddit:imaginaryfood,
+subreddit:immeta,
+taco,
+title:1$ patreon pack - daily paint 1769# tacorigi,
+title:5-10$ patreon pack - daily paint 1769# tacorigi,
+title:daily paint 1769# tacorigi,
+title:tacorigi by piper thibodeau,
+tongue,
+tongue out,
+tongue_out,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white body,
+white fur,
+white_background,
+white_body,
+white_fur,
+year:2017,

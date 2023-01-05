@@ -1,34 +1,34 @@
-art
-artist
-artwork
-category:ine
-crazy_dragon
-crazydragonrpg
-creator:kyuyong eom
-design
-digitalart
-dragon
-drow
-gameart
-gamedesign
-gametitle
-illustration
-illustrator
-medium:digital 2d
-mgame
-mobilgame
-sketch
-subreddit:imaginaryarmor
-subreddit:imtechnology
-title:crazy dragon by kyuyong eom
-uploader:lol33ta
-게임아트
-게임아트웍
-그림
-디자인
-모바일게임
-엠게임
-원화
-일러스트
-일러스트레이션
-크레이지드래곤
+art,
+artist,
+artwork,
+category:ine,
+crazy_dragon,
+crazydragonrpg,
+creator:kyuyong eom,
+design,
+digitalart,
+dragon,
+drow,
+gameart,
+gamedesign,
+gametitle,
+illustration,
+illustrator,
+medium:digital 2d,
+mgame,
+mobilgame,
+sketch,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+title:crazy dragon by kyuyong eom,
+uploader:lol33ta,
+게임아트,
+게임아트웍,
+그림,
+디자인,
+모바일게임,
+엠게임,
+원화,
+일러스트,
+일러스트레이션,
+크레이지드래곤,

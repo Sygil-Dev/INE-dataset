@@ -1,73 +1,73 @@
-2016
-action:closing eyes
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-brown fur
-brown_body
-brown_fur
-burrito
-butt
-category:ine
-character:bean
-creator:cryptid-creations
-creator:piperdraws
-eyes closed
-eyes_closed
-filename:dp1328_s
-food
-fur
-gender:ambiguous
-grey fur
-grey_body
-grey_fur
-group
-humor
-lettuce
-medium:patreon reward
-medium:simple background
-meme:humor
-meta:2016
-meta:english_text
-meta:paid reward
-meta:patreon reward
-meta:url
-meta:white background
-orange fur
-orange_body
-orange_fur
-pawpads
-plant
-pun
-rating:safe
-simple background
-simple_background
-site:patreon
-site:yiff.party
-sleeping
-species:cat
-species:domestic cat
-species:domestic_cat
-species:felid
-species:feline
-species:felis
-species:mammal
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily 1328. purrito
-title:purrito by piper thibodeau
-uploader:myrandall
-vegetable
-visual pun
-visual_pun
-whiskers
-white fur
-white_background
-white_body
-white_fur
-yiff id:457132
+2016,
+action:closing eyes,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+brown fur,
+brown_body,
+brown_fur,
+burrito,
+butt,
+category:ine,
+character:bean,
+creator:cryptid-creations,
+creator:piperdraws,
+eyes closed,
+eyes_closed,
+filename:dp1328_s,
+food,
+fur,
+gender:ambiguous,
+grey fur,
+grey_body,
+grey_fur,
+group,
+humor,
+lettuce,
+medium:patreon reward,
+medium:simple background,
+meme:humor,
+meta:2016,
+meta:english_text,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+meta:white background,
+orange fur,
+orange_body,
+orange_fur,
+pawpads,
+plant,
+pun,
+rating:safe,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+sleeping,
+species:cat,
+species:domestic cat,
+species:domestic_cat,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily 1328. purrito,
+title:purrito by piper thibodeau,
+uploader:myrandall,
+vegetable,
+visual pun,
+visual_pun,
+whiskers,
+white fur,
+white_background,
+white_body,
+white_fur,
+yiff id:457132,

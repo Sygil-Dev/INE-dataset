@@ -1,50 +1,50 @@
-ambiguous gender
-bacon
-black eyes
-bodypart:black eyes
-bodypart:white eyes
-category:ine
-cloak
-clothing
-cookware
-creator:cryptid-creations
-creator:piperdraws
-cutlery
-egg
-english text
-filename:dp1803_s
-food
-fork
-frying pan
-gender:ambiguous
-group
-humor
-kitchen utensils
-language:english
-meat
-medium:english text
-medium:patreon reward
-medium:text
-meme:humor
-meta:english text
-meta:paid reward
-meta:patreon reward
-not furry
-pun
-rating:safe
-scared
-site:patreon
-site:yiff.party
-stove
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:1$ patreon pack - daily paint 1803# terror-fried
-title:5$ patreon pack - daily paint 1803# terror-fried
-title:daily paint 1803# terror-fried
-title:terror-fried by piper thibodeau
-tools
-uploader:myrandall
-website:e621
-white eyes
-yiff id:457132
+ambiguous gender,
+bacon,
+black eyes,
+bodypart:black eyes,
+bodypart:white eyes,
+category:ine,
+cloak,
+clothing,
+cookware,
+creator:cryptid-creations,
+creator:piperdraws,
+cutlery,
+egg,
+english text,
+filename:dp1803_s,
+food,
+fork,
+frying pan,
+gender:ambiguous,
+group,
+humor,
+kitchen utensils,
+language:english,
+meat,
+medium:english text,
+medium:patreon reward,
+medium:text,
+meme:humor,
+meta:english text,
+meta:paid reward,
+meta:patreon reward,
+not furry,
+pun,
+rating:safe,
+scared,
+site:patreon,
+site:yiff.party,
+stove,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:1$ patreon pack - daily paint 1803# terror-fried,
+title:5$ patreon pack - daily paint 1803# terror-fried,
+title:daily paint 1803# terror-fried,
+title:terror-fried by piper thibodeau,
+tools,
+uploader:myrandall,
+website:e621,
+white eyes,
+yiff id:457132,

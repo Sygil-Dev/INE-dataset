@@ -1,71 +1,71 @@
-2016
-ambiguous_gender
-artist:cryptid-creations
-bagel
-black body
-black eyes
-black fur
-black_body
-black_eyes
-black_fur
-bodypart:black eyes
-bread
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-feral
-filename:dp1363_s
-food
-fur
-gender:ambiguous
-group
-humor
-medium:patreon reward
-medium:simple background
-meme:humor
-meta:2016
-meta:english text
-meta:english_text
-meta:paid reward
-meta:patreon reward
-meta:url
-meta:white background
-orange body
-orange fur
-orange_body
-orange_fur
-pun
-rating:safe
-simple background
-simple_background
-site:patreon
-site:yiff.party
-species:felid
-species:feline
-species:food creature
-species:food_creature
-species:mammal
-species:pantherine
-species:tiger
-subreddit:imaginaryfood
-subreddit:immeta
-tan body
-tan fur
-tan_body
-tan_fur
-text
-title:bagel tigers by piper thibodeau
-title:daily 1363. bagel tigers
-uploader:myrandall
-visual pun
-visual_pun
-white_background
-yellow body
-yellow fur
-yellow_body
-yellow_fur
-yiff id:457132
+2016,
+ambiguous_gender,
+artist:cryptid-creations,
+bagel,
+black body,
+black eyes,
+black fur,
+black_body,
+black_eyes,
+black_fur,
+bodypart:black eyes,
+bread,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+feral,
+filename:dp1363_s,
+food,
+fur,
+gender:ambiguous,
+group,
+humor,
+medium:patreon reward,
+medium:simple background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:english_text,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+meta:white background,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+pun,
+rating:safe,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+species:felid,
+species:feline,
+species:food creature,
+species:food_creature,
+species:mammal,
+species:pantherine,
+species:tiger,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tan body,
+tan fur,
+tan_body,
+tan_fur,
+text,
+title:bagel tigers by piper thibodeau,
+title:daily 1363. bagel tigers,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white_background,
+yellow body,
+yellow fur,
+yellow_body,
+yellow_fur,
+yiff id:457132,

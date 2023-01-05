@@ -1,106 +1,106 @@
-::d
-::p
-action:closing eyes
-action:open mouth
-action:sitting
-action:smile
-ambiguous_gender
-animal
-artist:cryptid-creations
-breath
-broccoli
-category:ine
-closed eyes
-collie (dog)
-creator:cryptid creations
-creator:cryptid-creations
-creator:piperdraws
-dog
-face::d
-face::p
-fangs
-feral
-field
-filename:dp1234_s
-food
-full body
-fusion
-gender:ambiguous
-gender:female
-grass
-group
-humor
-loli body type
-male:0
-medium:patreon reward
-medium:simple background
-medium:watermark
-medium:web address
-medium:white background
-meme:humor
-meta:commentary
-meta:english commentary
-meta:paid reward
-meta:patreon reward
-meta:white background
-mother and child
-namesake
-no humans
-open mouth
-open_mouth
-panting
-peeking
-plant
-pun
-puppy
-rating:mature
-rating:safe
-series:original
-simple background
-simple_background
-site:patreon
-site:yiff.party
-sitting
-size difference
-size_difference
-smile
-species:canid
-species:canine
-species:canis
-species:collie
-species:dog
-species:domestic dog
-species:domestic_dog
-species:elemental creature
-species:elemental_creature
-species:flora fauna
-species:flora_fauna
-species:food creature
-species:food_creature
-species:herding dog
-species:herding_dog
-species:living vegetable
-species:living_vegetable
-species:mammal
-species:pastoral dog
-species:pastoral_dog
-species:puppy
-species:sheepdog
-subreddit:imaginaryfood
-subreddit:immeta
-teeth
-title:'broccollie' by piper thibodeau
-title:daily paint #1234. broccollie
-tongue
-tongue out
-tongue_out
-toon
-uploader:myrandall
-vegetable
-visual pun
-visual_pun
-walking
-watermark
-web address
-white_background
-young
+::d,
+::p,
+action:closing eyes,
+action:open mouth,
+action:sitting,
+action:smile,
+ambiguous_gender,
+animal,
+artist:cryptid-creations,
+breath,
+broccoli,
+category:ine,
+closed eyes,
+collie (dog),
+creator:cryptid creations,
+creator:cryptid-creations,
+creator:piperdraws,
+dog,
+face::d,
+face::p,
+fangs,
+feral,
+field,
+filename:dp1234_s,
+food,
+full body,
+fusion,
+gender:ambiguous,
+gender:female,
+grass,
+group,
+humor,
+loli body type,
+male:0,
+medium:patreon reward,
+medium:simple background,
+medium:watermark,
+medium:web address,
+medium:white background,
+meme:humor,
+meta:commentary,
+meta:english commentary,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+mother and child,
+namesake,
+no humans,
+open mouth,
+open_mouth,
+panting,
+peeking,
+plant,
+pun,
+puppy,
+rating:mature,
+rating:safe,
+series:original,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+sitting,
+size difference,
+size_difference,
+smile,
+species:canid,
+species:canine,
+species:canis,
+species:collie,
+species:dog,
+species:domestic dog,
+species:domestic_dog,
+species:elemental creature,
+species:elemental_creature,
+species:flora fauna,
+species:flora_fauna,
+species:food creature,
+species:food_creature,
+species:herding dog,
+species:herding_dog,
+species:living vegetable,
+species:living_vegetable,
+species:mammal,
+species:pastoral dog,
+species:pastoral_dog,
+species:puppy,
+species:sheepdog,
+subreddit:imaginaryfood,
+subreddit:immeta,
+teeth,
+title:'broccollie' by piper thibodeau,
+title:daily paint #1234. broccollie,
+tongue,
+tongue out,
+tongue_out,
+toon,
+uploader:myrandall,
+vegetable,
+visual pun,
+visual_pun,
+walking,
+watermark,
+web address,
+white_background,
+young,

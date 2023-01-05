@@ -1,69 +1,69 @@
-2017
-action:licking
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-dairy products
-dairy_products
-dessert
-feral
-filename:dp1795_s
-food
-gender:ambiguous
-gender:male
-humor
-licking
-licking lips
-licking own lips
-licking_lips
-licking_own_lips
-male:1
-medium:patreon reward
-medium:simple background
-meme:humor
-meta:2017
-meta:paid reward
-meta:patreon reward
-meta:white background
-pie
-plate
-pun
-rating:safe
-self lick
-self_lick
-simple background
-simple_background
-site:patreon
-site:yiff.party
-solo
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:domestic_dog
-species:food creature
-species:food_creature
-species:mammal
-subreddit:imaginaryfood
-subreddit:immeta
-title:1$ patreon pack - daily paint 1795# pupkin pie
-title:5$ patreon pack - daily paint 1795# pupkin pie
-title:daily paint 1795# pupkin pie
-title:pupkin pie by piper thibodeau
-tongue
-tongue out
-tongue_out
-uploader:myrandall
-visual pun
-visual_pun
-whipped cream
-whipped_cream
-white_background
-year:2017
+2017,
+action:licking,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+dairy products,
+dairy_products,
+dessert,
+feral,
+filename:dp1795_s,
+food,
+gender:ambiguous,
+gender:male,
+humor,
+licking,
+licking lips,
+licking own lips,
+licking_lips,
+licking_own_lips,
+male:1,
+medium:patreon reward,
+medium:simple background,
+meme:humor,
+meta:2017,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+pie,
+plate,
+pun,
+rating:safe,
+self lick,
+self_lick,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:domestic_dog,
+species:food creature,
+species:food_creature,
+species:mammal,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:1$ patreon pack - daily paint 1795# pupkin pie,
+title:5$ patreon pack - daily paint 1795# pupkin pie,
+title:daily paint 1795# pupkin pie,
+title:pupkin pie by piper thibodeau,
+tongue,
+tongue out,
+tongue_out,
+uploader:myrandall,
+visual pun,
+visual_pun,
+whipped cream,
+whipped_cream,
+white_background,
+year:2017,

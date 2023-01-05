@@ -1,59 +1,59 @@
-2015
-ambiguous gender
-artwork:digital media
-banner
-booru:e621
-bridge
-butterfly wings
-candle
-category:ine
-cloud
-creator:yakovlev-vad
-detailed background
-feral
-fire
-flower
-forest
-gender:ambiguous
-grass
-high resolution
-insect wings
-landscape
-leaf
-leaves
-lepidopteran wings
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:3:4
-meta:2015
-meta:digital media (artwork)
-meta:hi res
-mountain
-nature
-outside
-plant
-rating:safe
-rock
-ruins
-scenery
-sky
-solo
-species:ambient arthropod
-species:ambient butterfly
-species:ambient insect
-species:arthropod
-species:butterfly
-species:insect
-species:lepidopteran
-subreddit:imaginarytemples
-subreddit:imarchitecture
-title:shard of civilization
-title:shard of civilization by yakovlev vadim
-tree
-uploader:karmaneutrino
-water
-waterfall
-wings
-year:2015
-zero pictured
+2015,
+ambiguous gender,
+artwork:digital media,
+banner,
+booru:e621,
+bridge,
+butterfly wings,
+candle,
+category:ine,
+cloud,
+creator:yakovlev-vad,
+detailed background,
+feral,
+fire,
+flower,
+forest,
+gender:ambiguous,
+grass,
+high resolution,
+insect wings,
+landscape,
+leaf,
+leaves,
+lepidopteran wings,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:3:4,
+meta:2015,
+meta:digital media (artwork),
+meta:hi res,
+mountain,
+nature,
+outside,
+plant,
+rating:safe,
+rock,
+ruins,
+scenery,
+sky,
+solo,
+species:ambient arthropod,
+species:ambient butterfly,
+species:ambient insect,
+species:arthropod,
+species:butterfly,
+species:insect,
+species:lepidopteran,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+title:shard of civilization,
+title:shard of civilization by yakovlev vadim,
+tree,
+uploader:karmaneutrino,
+water,
+waterfall,
+wings,
+year:2015,
+zero pictured,

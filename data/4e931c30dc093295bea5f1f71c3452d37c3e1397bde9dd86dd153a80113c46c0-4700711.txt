@@ -1,50 +1,50 @@
-2016
-action:open mouth
-action:smile
-beady eyes
-black eyes
-bodypart:black eyes
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-dessert
-fangs
-feral
-filename:dp1346_s
-flying
-food
-gender:ambiguous
-group
-humor
-ice cream
-medium:patreon reward
-medium:simple background
-medium:white background
-membrane (anatomy)
-membranous wings
-meme:humor
-meta:2016
-meta:english text
-meta:paid reward
-meta:patreon reward
-meta:white background
-open mouth
-pun
-rating:safe
-simple background
-site:patreon
-site:yiff.party
-smile
-sorbet
-species:chiropteran
-species:food creature
-species:mammal
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily 1346. sorbat
-title:sorbat by piper thibodeau
-uploader:myrandall
-visual pun
-wings
-year:2016
+2016,
+action:open mouth,
+action:smile,
+beady eyes,
+black eyes,
+bodypart:black eyes,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+dessert,
+fangs,
+feral,
+filename:dp1346_s,
+flying,
+food,
+gender:ambiguous,
+group,
+humor,
+ice cream,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+membrane (anatomy),
+membranous wings,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+open mouth,
+pun,
+rating:safe,
+simple background,
+site:patreon,
+site:yiff.party,
+smile,
+sorbet,
+species:chiropteran,
+species:food creature,
+species:mammal,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily 1346. sorbat,
+title:sorbat by piper thibodeau,
+uploader:myrandall,
+visual pun,
+wings,
+year:2016,

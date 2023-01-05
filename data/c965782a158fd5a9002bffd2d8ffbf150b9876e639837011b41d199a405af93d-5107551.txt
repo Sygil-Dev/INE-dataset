@@ -1,65 +1,65 @@
-2016
-ambiguous_gender
-artist:cryptid-creations
-bacon
-blueberry (fruit)
-blueberry_(fruit)
-bodypart:brown eyes
-brown eyes
-brown_eyes
-category:ine
-cookware
-creator:cryptid-creations
-creator:piperdraws
-feral
-filename:dp1355_s
-food
-fruit
-frying pan
-frying_pan
-gender:ambiguous
-gender:male
-horn
-humor
-kitchen utensils
-kitchen_utensils
-male:1
-meat
-medium:patreon reward
-medium:simple background
-medium:white background
-meme:humor
-meta:2016
-meta:english text
-meta:english_text
-meta:paid reward
-meta:patreon reward
-meta:white background
-pan
-pancake
-plant
-pun
-rating:safe
-simple background
-simple_background
-site:patreon
-site:yiff.party
-solo
-species:food creature
-species:food_creature
-species:jackalope
-species:lagomorph
-species:mammal
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily 1355. flap-jackalope
-title:flap-jackalope by piper thibodeau
-tools
-uploader:myrandall
-visual pun
-visual_pun
-website:reddit
-white_background
-year:2016
-yiff id:457132
+2016,
+ambiguous_gender,
+artist:cryptid-creations,
+bacon,
+blueberry (fruit),
+blueberry_(fruit),
+bodypart:brown eyes,
+brown eyes,
+brown_eyes,
+category:ine,
+cookware,
+creator:cryptid-creations,
+creator:piperdraws,
+feral,
+filename:dp1355_s,
+food,
+fruit,
+frying pan,
+frying_pan,
+gender:ambiguous,
+gender:male,
+horn,
+humor,
+kitchen utensils,
+kitchen_utensils,
+male:1,
+meat,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:english_text,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+pan,
+pancake,
+plant,
+pun,
+rating:safe,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+solo,
+species:food creature,
+species:food_creature,
+species:jackalope,
+species:lagomorph,
+species:mammal,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily 1355. flap-jackalope,
+title:flap-jackalope by piper thibodeau,
+tools,
+uploader:myrandall,
+visual pun,
+visual_pun,
+website:reddit,
+white_background,
+year:2016,
+yiff id:457132,

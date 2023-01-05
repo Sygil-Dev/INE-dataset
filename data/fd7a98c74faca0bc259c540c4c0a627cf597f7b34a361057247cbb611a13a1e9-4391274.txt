@@ -1,41 +1,41 @@
-1 female
-1 male
-1boy
-1girl
-aqua hair
-booru:yande.re
-brown hair
-category:ine
-character:eureka
-character:nirvash
-character:nirvash typezero
-character:renton thurston
-creator:k-bose
-gender:female
-gender:male
-green hair
-hair ornament
-hairclip
-hand holding
-hetero
-high resolution
-highres
-mecha
-medium:high resolution
-medium:wallpaper
-meta:highres
-meta:wallpaper
-purple eyes
-raglan sleeves
-rating:safe
-realistic
-series:eureka seven
-series:eureka seven (series)
-short hair
-smile
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:eureka seven by nozomu ikeuchi
-uploader:[deleted]
-violet eyes
-wallpaper
+1 female,
+1 male,
+1boy,
+1girl,
+aqua hair,
+booru:yande.re,
+brown hair,
+category:ine,
+character:eureka,
+character:nirvash,
+character:nirvash typezero,
+character:renton thurston,
+creator:k-bose,
+gender:female,
+gender:male,
+green hair,
+hair ornament,
+hairclip,
+hand holding,
+hetero,
+high resolution,
+highres,
+mecha,
+medium:high resolution,
+medium:wallpaper,
+meta:highres,
+meta:wallpaper,
+purple eyes,
+raglan sleeves,
+rating:safe,
+realistic,
+series:eureka seven,
+series:eureka seven (series),
+short hair,
+smile,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:eureka seven by nozomu ikeuchi,
+uploader:[deleted],
+violet eyes,
+wallpaper,

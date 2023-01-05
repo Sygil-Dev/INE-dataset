@@ -1,28 +1,28 @@
-alicorn amulet
-category:ine
-character:twilight sparkle
-creator:docwario
-docwario
-gender:female
-genre:fantasy
-headwear
-helmet
-magic
-mare
-rating:safe
-safe
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:alicorn
-species:equine
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:nightmare sparkle
-title:nightmare sparkle by jake lion
-twilight sparkle (alicorn)
-tyrant sparkle
-uploader:lol33ta
+alicorn amulet,
+category:ine,
+character:twilight sparkle,
+creator:docwario,
+docwario,
+gender:female,
+genre:fantasy,
+headwear,
+helmet,
+magic,
+mare,
+rating:safe,
+safe,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:alicorn,
+species:equine,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:nightmare sparkle,
+title:nightmare sparkle by jake lion,
+twilight sparkle (alicorn),
+tyrant sparkle,
+uploader:lol33ta,

@@ -1,24 +1,24 @@
-booru:sankaku
-booru:sankaku channel
-category:ine
-character:storm (character)
-creator:robert porter
-dark skin
-female
-full body
-glowing
-glowing eyes
-long hair
-marvel
-medium:digital 2d
-medium:high resolution
-rating:s
-rating:safe
-series:x-men
-studio:marvel
-subreddit:imaginarymutants
-subreddit:imfandoms
-title:90's x-men storm by rob porter
-uploader:lol33ta
-white hair
-x-men
+booru:sankaku,
+booru:sankaku channel,
+category:ine,
+character:storm (character),
+creator:robert porter,
+dark skin,
+female,
+full body,
+glowing,
+glowing eyes,
+long hair,
+marvel,
+medium:digital 2d,
+medium:high resolution,
+rating:s,
+rating:safe,
+series:x-men,
+studio:marvel,
+subreddit:imaginarymutants,
+subreddit:imfandoms,
+title:90's x-men storm by rob porter,
+uploader:lol33ta,
+white hair,
+x-men,

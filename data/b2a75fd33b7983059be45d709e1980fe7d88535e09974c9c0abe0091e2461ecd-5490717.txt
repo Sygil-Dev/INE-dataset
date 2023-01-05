@@ -1,33 +1,33 @@
-2016
-ambiguous gender
-black eyes
-bowl
-category:ine
-cheese
-cookie
-creator:cryptid-creations
-cutting board
-dairy products
-dough
-feral
-food
-medium:simple background
-open mouth
-pun
-rating:safe
-scared
-simple background
-solo
-species:avian
-species:bird
-species:columbid
-species:dodo
-species:food creature
-subreddit:imaginaryfood
-subreddit:immeta
-swiss cheese
-title:day 1392. dough-dough bird
-title:dough-dough bird by piper thibodeau
-uploader:myrandall
-visual pun
-white background
+2016,
+ambiguous gender,
+black eyes,
+bowl,
+category:ine,
+cheese,
+cookie,
+creator:cryptid-creations,
+cutting board,
+dairy products,
+dough,
+feral,
+food,
+medium:simple background,
+open mouth,
+pun,
+rating:safe,
+scared,
+simple background,
+solo,
+species:avian,
+species:bird,
+species:columbid,
+species:dodo,
+species:food creature,
+subreddit:imaginaryfood,
+subreddit:immeta,
+swiss cheese,
+title:day 1392. dough-dough bird,
+title:dough-dough bird by piper thibodeau,
+uploader:myrandall,
+visual pun,
+white background,

@@ -1,36 +1,36 @@
-1 female
-1girls
-album:401816 test 2 salutlemonde, salutlemonde
-alternate costume
-blonde hair
-blue eyes
-cape
-category:ine
-character:dr. angela "mercy" ziegler
-character:mercy
-character:witch mercy
-corset
-creator:lolliedrop
-digital drawing (artwork)
-female
-female only
-gender:female
-genre:science fiction
-hat
-holding hat
-medium:2d art
-medium:digital media
-mercy
-rating:safe
-series:overwatch
-solo
-source:luscious.net
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-thighhighs
-title:"mercy witch" by lolliedrop
-title:mercy witch - overwatch
-uploader:torvusil
-website:reddit
-wings
+1 female,
+1girls,
+album:401816 test 2 salutlemonde, salutlemonde,
+alternate costume,
+blonde hair,
+blue eyes,
+cape,
+category:ine,
+character:dr. angela "mercy" ziegler,
+character:mercy,
+character:witch mercy,
+corset,
+creator:lolliedrop,
+digital drawing (artwork),
+female,
+female only,
+gender:female,
+genre:science fiction,
+hat,
+holding hat,
+medium:2d art,
+medium:digital media,
+mercy,
+rating:safe,
+series:overwatch,
+solo,
+source:luscious.net,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+thighhighs,
+title:"mercy witch" by lolliedrop,
+title:mercy witch - overwatch,
+uploader:torvusil,
+website:reddit,
+wings,

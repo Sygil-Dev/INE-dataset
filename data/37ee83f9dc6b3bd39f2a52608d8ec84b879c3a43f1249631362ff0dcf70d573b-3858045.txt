@@ -1,51 +1,51 @@
-1 female
-1girl
-alternate costume
-alternate hair color
-category:ine
-cglas
-character:sona (league of legends)
-character:sona buvelle
-character:sona buvelle, maven of the strings
-character:sweetheart sona
-cherry blossoms
-clothing:dress
-clothing:gloves
-clothing:hair ornament
-clothing:hair tie
-clothing:red dress
-clothing:white gloves
-creator:cglas
-dress
-gender:female
-hair ornament
-hair:pink hair
-headband
-heart
-instrument
-lipstick
-long hair
-looking to the side
-looking_to_the_side
-makeup
-meta:commentary request
-meta:photoshop (medium)
-petals
-pink hair
-rating:general
-rating:mature
-rating:safe
-rating:sensitive
-red dress
-series:league of legends
-solo
-sona_buvelle
-standing
-subreddit:imaginarymusic
-subreddit:immeta
-tied hair
-title:sweetheart sona
-title:sweetheart sona by ng yong hui
-twintails
-uploader:[deleted]
-very long hair
+1 female,
+1girl,
+alternate costume,
+alternate hair color,
+category:ine,
+cglas,
+character:sona (league of legends),
+character:sona buvelle,
+character:sona buvelle, maven of the strings,
+character:sweetheart sona,
+cherry blossoms,
+clothing:dress,
+clothing:gloves,
+clothing:hair ornament,
+clothing:hair tie,
+clothing:red dress,
+clothing:white gloves,
+creator:cglas,
+dress,
+gender:female,
+hair ornament,
+hair:pink hair,
+headband,
+heart,
+instrument,
+lipstick,
+long hair,
+looking to the side,
+looking_to_the_side,
+makeup,
+meta:commentary request,
+meta:photoshop (medium),
+petals,
+pink hair,
+rating:general,
+rating:mature,
+rating:safe,
+rating:sensitive,
+red dress,
+series:league of legends,
+solo,
+sona_buvelle,
+standing,
+subreddit:imaginarymusic,
+subreddit:immeta,
+tied hair,
+title:sweetheart sona,
+title:sweetheart sona by ng yong hui,
+twintails,
+uploader:[deleted],
+very long hair,

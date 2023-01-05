@@ -1,35 +1,35 @@
-art
-artwork
-category:ine
-concepart
-coverart
-creator:kyuyong eom
-design
-digitalart
-draw
-drowing
-elartist
-elartist@naver.com
-eom kyu yong
-fantasy art
-galaxysaga
-game art
-gameart
-gameartwork
-gameconcep
-illustration
-kyu yong eom
-medium:sketch
-mobilgame
-ocean&amp;empire
-painting
-sketch
-subreddit:imaginaryarmor
-subreddit:imtechnology
-title:vengeance by kyuyong eom
-uploader:lol33ta
-게임원화
-아트웍
-일러스트
-일러스트레이션
-타이틀
+art,
+artwork,
+category:ine,
+concepart,
+coverart,
+creator:kyuyong eom,
+design,
+digitalart,
+draw,
+drowing,
+elartist,
+elartist@naver.com,
+eom kyu yong,
+fantasy art,
+galaxysaga,
+game art,
+gameart,
+gameartwork,
+gameconcep,
+illustration,
+kyu yong eom,
+medium:sketch,
+mobilgame,
+ocean&amp;empire,
+painting,
+sketch,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+title:vengeance by kyuyong eom,
+uploader:lol33ta,
+게임원화,
+아트웍,
+일러스트,
+일러스트레이션,
+타이틀,

@@ -1,21 +1,21 @@
-1 female
-booru:sankaku channel
-breasts
-category:ine
-character:brigitte lindholm
-cleavage
-freckles
-gender:female
-genre:science fiction
-goggles
-medium:high resolution
-medium:very high resolution
-portrait
-rating:safe
-red hair
-series:overwatch
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:brigitte lindholm by jeongseok lee
-uploader:lol33ta
+1 female,
+booru:sankaku channel,
+breasts,
+category:ine,
+character:brigitte lindholm,
+cleavage,
+freckles,
+gender:female,
+genre:science fiction,
+goggles,
+medium:high resolution,
+medium:very high resolution,
+portrait,
+rating:safe,
+red hair,
+series:overwatch,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:brigitte lindholm by jeongseok lee,
+uploader:lol33ta,

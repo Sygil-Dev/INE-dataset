@@ -1,55 +1,55 @@
-beady eyes
-black eyes
-blep
-bodypart:black eyes
-box
-canid
-canis
-category:ine
-creator:cryptid-creations
-cryptid-creations
-cub
-domestic dog
-english text
-food
-food creature
-frosting
-gender:ambiguous
-gender:female
-gender:male
-humor
-language:english
-loli body type
-male:1
-mammal
-medium:english text
-medium:simple background
-medium:text
-medium:white background
-meme:humor
-meta:white background
-pastry
-pop-tarts
-pun
-rating:safe
-series:pop-tarts
-simple background
-solo
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:food creature
-species:mammal
-subreddit:imaginaryfood
-subreddit:immeta
-tailwag
-text
-title:daily paint 1525. puptart
-title:puptart by piper thibodeau
-tongue
-tongue out
-uploader:myrandall
-visual pun
-website:reddit
-young
+beady eyes,
+black eyes,
+blep,
+bodypart:black eyes,
+box,
+canid,
+canis,
+category:ine,
+creator:cryptid-creations,
+cryptid-creations,
+cub,
+domestic dog,
+english text,
+food,
+food creature,
+frosting,
+gender:ambiguous,
+gender:female,
+gender:male,
+humor,
+language:english,
+loli body type,
+male:1,
+mammal,
+medium:english text,
+medium:simple background,
+medium:text,
+medium:white background,
+meme:humor,
+meta:white background,
+pastry,
+pop-tarts,
+pun,
+rating:safe,
+series:pop-tarts,
+simple background,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:food creature,
+species:mammal,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tailwag,
+text,
+title:daily paint 1525. puptart,
+title:puptart by piper thibodeau,
+tongue,
+tongue out,
+uploader:myrandall,
+visual pun,
+website:reddit,
+young,

@@ -1,28 +1,28 @@
-alcohol
-artist:aguro
-beer
-bowl
-category:ine
-chopstick rest
-chopsticks
-copyright:original
-creator:aguro
-egg
-food
-meat
-meta:bad id
-meta:bad pixiv id
-mushroom
-nabe
-no humans
-rating:safe
-series:original
-spring onion
-steam
-subreddit:imaginaryfood
-subreddit:immeta
-sukiyaki
-title:sukiyaki by ishiyama
-tofu
-uploader:_chrysoberyl_
-vegetable
+alcohol,
+artist:aguro,
+beer,
+bowl,
+category:ine,
+chopstick rest,
+chopsticks,
+copyright:original,
+creator:aguro,
+egg,
+food,
+meat,
+meta:bad id,
+meta:bad pixiv id,
+mushroom,
+nabe,
+no humans,
+rating:safe,
+series:original,
+spring onion,
+steam,
+subreddit:imaginaryfood,
+subreddit:immeta,
+sukiyaki,
+title:sukiyaki by ishiyama,
+tofu,
+uploader:_chrysoberyl_,
+vegetable,

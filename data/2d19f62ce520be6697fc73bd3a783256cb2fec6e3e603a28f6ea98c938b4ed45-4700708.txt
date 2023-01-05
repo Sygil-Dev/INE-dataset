@@ -1,58 +1,58 @@
-2016
-action:smile
-beady eyes
-black eyes
-bodypart:black eyes
-category:ine
-cloud
-creator:cryptid-creations
-creator:piperdraws
-feral
-filename:dp1350_s
-food
-furry
-gender:ambiguous
-gender:male
-grass
-hot dog
-humor
-male:1
-medium:patreon reward
-medium:simple background
-medium:white background
-meme:humor
-meta:2016
-meta:english text
-meta:paid reward
-meta:patreon reward
-meta:white background
-mustard
-outside
-plant
-pun
-rating:safe
-simple background
-site:patreon
-site:yiff.party
-sky
-smile
-solo
-species:brachiosaurid
-species:brachiosaurus
-species:dinosaur
-species:extinct
-species:food creature
-species:reptile
-species:sauropod
-species:scalie
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:bratiosaurus by piper thibodeau
-title:daily 1350. bratiosaurus
-tree
-uploader:myrandall
-visual pun
-website:reddit
-year:2016
-yiff id:457132
+2016,
+action:smile,
+beady eyes,
+black eyes,
+bodypart:black eyes,
+category:ine,
+cloud,
+creator:cryptid-creations,
+creator:piperdraws,
+feral,
+filename:dp1350_s,
+food,
+furry,
+gender:ambiguous,
+gender:male,
+grass,
+hot dog,
+humor,
+male:1,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+mustard,
+outside,
+plant,
+pun,
+rating:safe,
+simple background,
+site:patreon,
+site:yiff.party,
+sky,
+smile,
+solo,
+species:brachiosaurid,
+species:brachiosaurus,
+species:dinosaur,
+species:extinct,
+species:food creature,
+species:reptile,
+species:sauropod,
+species:scalie,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:bratiosaurus by piper thibodeau,
+title:daily 1350. bratiosaurus,
+tree,
+uploader:myrandall,
+visual pun,
+website:reddit,
+year:2016,
+yiff id:457132,

@@ -1,64 +1,64 @@
-1 female
-1girl
-armpits
-armwear
-bird
-bodysuit
-booru:sankaku channel
-brown hair
-category:ine
-character:dark phoenix
-character:hi no tori (character)
-character:jean grey
-character:jean grey-summers
-character:phoenix (marvel)
-character:phoenix (x-men)
-clothing
-clothing:bottomwear
-clothing:thigh-highs
-clothing:topwear
-creator:artgerm
-creator:stanley lau
-destruction
-elbow gloves
-female
-fiery wings
-fire
-flying
-gender:female
-gloves
-green bodysuit
-green eyes
-leotard
-long hair
-medium:realistic
-mutant
-open mouth
-orange hair
-phoenix
-phoenix force
-rating:safe
-realistic
-red hair
-sash
-series:marvel
-series:marvel vs. capcom
-series:marvel vs. capcom 3
-series:x-men
-serious
-solo
-species:avian
-studio:marvel
-studio:marvel comics
-subreddit:imaginarymutants
-subreddit:imfandoms
-superhero
-superheroine
-thigh-highs
-thighhighs
-title:jean grey phoenix
-title:jean grey phoenix by stanley lau
-unitard
-uploader:incredibel
-wavy hair
-wings
+1 female,
+1girl,
+armpits,
+armwear,
+bird,
+bodysuit,
+booru:sankaku channel,
+brown hair,
+category:ine,
+character:dark phoenix,
+character:hi no tori (character),
+character:jean grey,
+character:jean grey-summers,
+character:phoenix (marvel),
+character:phoenix (x-men),
+clothing,
+clothing:bottomwear,
+clothing:thigh-highs,
+clothing:topwear,
+creator:artgerm,
+creator:stanley lau,
+destruction,
+elbow gloves,
+female,
+fiery wings,
+fire,
+flying,
+gender:female,
+gloves,
+green bodysuit,
+green eyes,
+leotard,
+long hair,
+medium:realistic,
+mutant,
+open mouth,
+orange hair,
+phoenix,
+phoenix force,
+rating:safe,
+realistic,
+red hair,
+sash,
+series:marvel,
+series:marvel vs. capcom,
+series:marvel vs. capcom 3,
+series:x-men,
+serious,
+solo,
+species:avian,
+studio:marvel,
+studio:marvel comics,
+subreddit:imaginarymutants,
+subreddit:imfandoms,
+superhero,
+superheroine,
+thigh-highs,
+thighhighs,
+title:jean grey phoenix,
+title:jean grey phoenix by stanley lau,
+unitard,
+uploader:incredibel,
+wavy hair,
+wings,

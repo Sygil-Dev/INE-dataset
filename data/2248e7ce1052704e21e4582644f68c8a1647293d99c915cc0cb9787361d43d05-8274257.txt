@@ -1,50 +1,50 @@
-2018
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-blep
-bodypart:black eyes
-category:ine
-creator:cryptid-creations
-dessert
-doughnut
-feral
-food
-frosting
-gender:ambiguous
-gender:male
-grass
-humor
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:2018
-meta:white background
-plant
-pun
-rating:safe
-rock
-simple background
-simple_background
-solo
-species:amphibian
-species:food creature
-species:food_creature
-species:newt
-species:salamander (amphibian)
-species:salamander_(amphibian)
-sprinkles
-subreddit:imaginaryfood
-subreddit:immeta
-title:daily paint 1920# doughnewt
-title:doughnewt by piper thibodeau
-tongue
-tongue out
-tongue_out
-uploader:myrandall
-visual pun
-visual_pun
-white_background
-year:2018
+2018,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+blep,
+bodypart:black eyes,
+category:ine,
+creator:cryptid-creations,
+dessert,
+doughnut,
+feral,
+food,
+frosting,
+gender:ambiguous,
+gender:male,
+grass,
+humor,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2018,
+meta:white background,
+plant,
+pun,
+rating:safe,
+rock,
+simple background,
+simple_background,
+solo,
+species:amphibian,
+species:food creature,
+species:food_creature,
+species:newt,
+species:salamander (amphibian),
+species:salamander_(amphibian),
+sprinkles,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:daily paint 1920# doughnewt,
+title:doughnewt by piper thibodeau,
+tongue,
+tongue out,
+tongue_out,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white_background,
+year:2018,

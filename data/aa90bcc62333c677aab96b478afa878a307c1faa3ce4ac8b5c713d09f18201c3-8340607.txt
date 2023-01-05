@@ -1,83 +1,83 @@
-1 female
-1girl
-2 males
-2boys
-alcohol
-armor
-beard
-beer
-beer mug
-beverage
-blonde hair
-booru:danbooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-booru:tbib
-brigitte
-brigitte (overwatch)
-brigittelindholm
-brigitteoverwatch
-brown hair
-category:ine
-character:brigitte (overwatch)
-character:brigitte lindholm
-character:reinhardt (overwatch)
-character:reinhardt wilhelm (overwatch)
-character:torbjorn (overwatch)
-character:torbjörn lindholm
-character:torbjörn lindholm (overwatch)
-chibi
-clothing:armor
-creator:nakanoart
-creator:nana nakano
-creator:nana_nakano
-crying
-cup
-drink
-english
-english text
-eyepatch
-eyewear
-facial hair
-gender:female
-gender:male
-genre:science fiction
-grey hair
-holding
-holding cup
-language:english
-looking at viewer
-medium:1:1 aspect ratio
-medium:english
-medium:english text
-medium:simple background
-medium:speech bubble
-medium:text
-meta:commentary
-meta:english commentary
-meta:photoshop (medium)
-mug
-multiple boys
-multiple males
-mustache
-nana nakano
-one eye closed
-open mouth
-overwatch
-point of view
-pov
-rating:mature
-rating:safe
-series:overwatch
-simple background
-smile
-speech bubble
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-text
-title:drinks with brigitte by nana nakano
-title:overwatch - drinks with brigitte
-uploader:myrandall
-upper body
+1 female,
+1girl,
+2 males,
+2boys,
+alcohol,
+armor,
+beard,
+beer,
+beer mug,
+beverage,
+blonde hair,
+booru:danbooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+booru:tbib,
+brigitte,
+brigitte (overwatch),
+brigittelindholm,
+brigitteoverwatch,
+brown hair,
+category:ine,
+character:brigitte (overwatch),
+character:brigitte lindholm,
+character:reinhardt (overwatch),
+character:reinhardt wilhelm (overwatch),
+character:torbjorn (overwatch),
+character:torbjörn lindholm,
+character:torbjörn lindholm (overwatch),
+chibi,
+clothing:armor,
+creator:nakanoart,
+creator:nana nakano,
+creator:nana_nakano,
+crying,
+cup,
+drink,
+english,
+english text,
+eyepatch,
+eyewear,
+facial hair,
+gender:female,
+gender:male,
+genre:science fiction,
+grey hair,
+holding,
+holding cup,
+language:english,
+looking at viewer,
+medium:1:1 aspect ratio,
+medium:english,
+medium:english text,
+medium:simple background,
+medium:speech bubble,
+medium:text,
+meta:commentary,
+meta:english commentary,
+meta:photoshop (medium),
+mug,
+multiple boys,
+multiple males,
+mustache,
+nana nakano,
+one eye closed,
+open mouth,
+overwatch,
+point of view,
+pov,
+rating:mature,
+rating:safe,
+series:overwatch,
+simple background,
+smile,
+speech bubble,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+text,
+title:drinks with brigitte by nana nakano,
+title:overwatch - drinks with brigitte,
+uploader:myrandall,
+upper body,

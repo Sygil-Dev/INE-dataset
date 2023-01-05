@@ -1,20 +1,20 @@
-1girl
-category:ine
-dragon
-greyscale
-halftone
-halftone background
-long hair
-monochrome
-monster
-nude
-rating:safe
-scales
-sharp teeth
-subreddit:imaginarywitches
-subreddit:imcharacters
-teeth
-title:hexenritt by ikosodio
-uploader:gabbikat
-very long hair
-wavy hair
+1girl,
+category:ine,
+dragon,
+greyscale,
+halftone,
+halftone background,
+long hair,
+monochrome,
+monster,
+nude,
+rating:safe,
+scales,
+sharp teeth,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+teeth,
+title:hexenritt by ikosodio,
+uploader:gabbikat,
+very long hair,
+wavy hair,

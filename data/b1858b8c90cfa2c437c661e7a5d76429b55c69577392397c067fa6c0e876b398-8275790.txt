@@ -1,41 +1,41 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-blackberry (fruit)
-blackberry_(fruit)
-bread
-category:ine
-creator:cryptid-creations
-feral
-food
-fruit
-humor
-jam
-jar
-jelly (food)
-jelly_(food)
-leaf
-licking
-meta:2017
-plant
-plate
-pun
-rating:safe
-solo
-species:food creature
-species:food_creature
-species:mammal
-species:ursid
-string
-subreddit:imaginaryfood
-subreddit:immeta
-title:blackbeary jam by piper thibodeau
-title:daily painting 1738# blackbeary jam
-tongue
-tongue out
-tongue_out
-uploader:myrandall
-visual pun
-visual_pun
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+blackberry (fruit),
+blackberry_(fruit),
+bread,
+category:ine,
+creator:cryptid-creations,
+feral,
+food,
+fruit,
+humor,
+jam,
+jar,
+jelly (food),
+jelly_(food),
+leaf,
+licking,
+meta:2017,
+plant,
+plate,
+pun,
+rating:safe,
+solo,
+species:food creature,
+species:food_creature,
+species:mammal,
+species:ursid,
+string,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:blackbeary jam by piper thibodeau,
+title:daily painting 1738# blackbeary jam,
+tongue,
+tongue out,
+tongue_out,
+uploader:myrandall,
+visual pun,
+visual_pun,

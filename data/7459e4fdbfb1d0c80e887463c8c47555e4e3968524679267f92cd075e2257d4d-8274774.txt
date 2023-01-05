@@ -1,73 +1,73 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-bowl
-canid
-canine
-canis
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-dessert
-domestic dog
-english text
-eyes closed
-eyes_closed
-feral
-filename:dp1875_s
-food
-food creature
-fruit
-ice cream
-ice_cream
-language:english
-mammal
-medium:patreon reward
-medium:simple background
-medium:text
-meta:2018
-meta:english text
-meta:english_text
-meta:paid reward
-meta:patreon reward
-meta:pillarbox
-meta:signature
-number
-open mouth
-open smile
-open_mouth
-open_smile
-pillarbox
-plant
-raspberry
-rating:safe
-signature
-simple background
-simple_background
-site:patreon
-site:yiff.party
-smile
-solo
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:domestic_dog
-species:food creature
-species:food_creature
-species:mammal
-species:ursid
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:1$ patreon pack - daily paint 1875# sobeart
-title:5$ patreon pack - daily paint 1875# sobeart
-title:daily paint 1875# sobeart
-title:sobeart by piper thibodeau
-uploader:myrandall
-ursid
-website:reddit
-white background
-white_background
-yiff id:457132
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+bowl,
+canid,
+canine,
+canis,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+dessert,
+domestic dog,
+english text,
+eyes closed,
+eyes_closed,
+feral,
+filename:dp1875_s,
+food,
+food creature,
+fruit,
+ice cream,
+ice_cream,
+language:english,
+mammal,
+medium:patreon reward,
+medium:simple background,
+medium:text,
+meta:2018,
+meta:english text,
+meta:english_text,
+meta:paid reward,
+meta:patreon reward,
+meta:pillarbox,
+meta:signature,
+number,
+open mouth,
+open smile,
+open_mouth,
+open_smile,
+pillarbox,
+plant,
+raspberry,
+rating:safe,
+signature,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+smile,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:domestic_dog,
+species:food creature,
+species:food_creature,
+species:mammal,
+species:ursid,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:1$ patreon pack - daily paint 1875# sobeart,
+title:5$ patreon pack - daily paint 1875# sobeart,
+title:daily paint 1875# sobeart,
+title:sobeart by piper thibodeau,
+uploader:myrandall,
+ursid,
+website:reddit,
+white background,
+white_background,
+yiff id:457132,

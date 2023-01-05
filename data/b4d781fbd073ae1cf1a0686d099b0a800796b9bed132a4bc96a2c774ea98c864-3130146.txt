@@ -1,54 +1,54 @@
-2012
-booru:e621
-category:ine
-cave
-character:twilight sparkle
-character:twilight sparkle (mlp)
-cool colors
-creator:huussii
-cutie mark
-female
-feral
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-horn
-horns
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:2012
-meta:cool colors
-meta:hi res
-meta:purple theme
-meta:widescreen
-multi-colored hair
-multicolored hair
-purple body
-purple eyes
-purple fur
-purple hair
-purple theme
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"imprisoned" by huussii (teemu husso)
-title:imprisoned
-two tone hair
-uploader:torvusil
-wallpaper
-year:2012
+2012,
+booru:e621,
+category:ine,
+cave,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+cool colors,
+creator:huussii,
+cutie mark,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+horn,
+horns,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:2012,
+meta:cool colors,
+meta:hi res,
+meta:purple theme,
+meta:widescreen,
+multi-colored hair,
+multicolored hair,
+purple body,
+purple eyes,
+purple fur,
+purple hair,
+purple theme,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"imprisoned" by huussii (teemu husso),
+title:imprisoned,
+two tone hair,
+uploader:torvusil,
+wallpaper,
+year:2012,

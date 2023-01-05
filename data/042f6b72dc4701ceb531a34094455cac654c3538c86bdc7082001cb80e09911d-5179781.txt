@@ -1,60 +1,60 @@
-absurd res
-blue body
-blue eyes
-blue feathers
-booru:e621
-calamity (event)
-category:ine
-character:princess luna
-character:princess luna (mlp)
-cosmic hair
-creator:flamevulture17
-cutie mark
-detailed background
-ethereal hair
-feathered wings
-feathers
-female
-feral
-gender:female
-genre:fantasy
-grass
-high resolution
-hooves
-horn
-horns
-medium:16:9 aspect ratio
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:16:9
-meta:absurd res
-meta:hi res
-meta:widescreen
-moon
-night
-outside
-plant
-pseudo hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-standing
-star
-starry sky
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:debris
-title:debris by flamevulture17 (brandon)
-uploader:missgoldendragon
-wings
+absurd res,
+blue body,
+blue eyes,
+blue feathers,
+booru:e621,
+calamity (event),
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+cosmic hair,
+creator:flamevulture17,
+cutie mark,
+detailed background,
+ethereal hair,
+feathered wings,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+grass,
+high resolution,
+hooves,
+horn,
+horns,
+medium:16:9 aspect ratio,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:16:9,
+meta:absurd res,
+meta:hi res,
+meta:widescreen,
+moon,
+night,
+outside,
+plant,
+pseudo hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+standing,
+star,
+starry sky,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:debris,
+title:debris by flamevulture17 (brandon),
+uploader:missgoldendragon,
+wings,
