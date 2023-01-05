@@ -1,30 +1,30 @@
-category:ine
-creator:kahito slydeft
-creator:kahito_slydeft
-furry
-illustration
-medium:digital 2d
-mythbook2
-mythology
-nhggr
-nidhogg
-norse
-norse mythology
-níðhöggr
-ratatosk
-ratatoskr
-serpent
-source:furaffinity.net
-species:dragon
-species:mammal
-species:mythical
-species:reptile
-species:rodent
-species:scalie
-species:snake
-species:squirrel
-subreddit:imaginarymythology
-subreddit:imcharacters
-title:nidhogg
-title:nidhogg by kahito slydeft
-uploader:hvitserkr
+category:ine,
+creator:kahito slydeft,
+creator:kahito_slydeft,
+furry,
+illustration,
+medium:digital 2d,
+mythbook2,
+mythology,
+nhggr,
+nidhogg,
+norse,
+norse mythology,
+níðhöggr,
+ratatosk,
+ratatoskr,
+serpent,
+source:furaffinity.net,
+species:dragon,
+species:mammal,
+species:mythical,
+species:reptile,
+species:rodent,
+species:scalie,
+species:snake,
+species:squirrel,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+title:nidhogg,
+title:nidhogg by kahito slydeft,
+uploader:hvitserkr,

@@ -1,42 +1,42 @@
-2017
-booru:e621
-breasts
-brown body
-brown feathers
-category:ine
-creator:vasylina
-day
-detailed background
-digital media (artwork)
-feathered wings
-feathers
-female
-gender:female
-hair
-medium:detailed background
-medium:digital media
-meta:2017
-meta:digital media (artwork)
-monster
-non-mammal breasts
-outside
-purple hair
-rating:questionable
-rating:safe
-red eyes
-series:european mythology
-series:greek mythology
-series:mythology
-sky
-solo
-species:avian
-species:harpy
-species:mythological avian
-subreddit:imaginarymythology
-subreddit:imcharacters
-title:slavic mythology - sirin by vasilyna holod
-title:slavic mythology. sirin
-uploader:king_of_the_kobolds
-winged arms
-wings
-year:2017
+2017,
+booru:e621,
+breasts,
+brown body,
+brown feathers,
+category:ine,
+creator:vasylina,
+day,
+detailed background,
+digital media (artwork),
+feathered wings,
+feathers,
+female,
+gender:female,
+hair,
+medium:detailed background,
+medium:digital media,
+meta:2017,
+meta:digital media (artwork),
+monster,
+non-mammal breasts,
+outside,
+purple hair,
+rating:questionable,
+rating:safe,
+red eyes,
+series:european mythology,
+series:greek mythology,
+series:mythology,
+sky,
+solo,
+species:avian,
+species:harpy,
+species:mythological avian,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+title:slavic mythology - sirin by vasilyna holod,
+title:slavic mythology. sirin,
+uploader:king_of_the_kobolds,
+winged arms,
+wings,
+year:2017,

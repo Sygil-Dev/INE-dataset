@@ -1,69 +1,69 @@
-16:9
-2015
-booru:e621
-category:ine
-changeling
-character:spike
-character:spike (mlp)
-character:starlight glimmer
-character:starlight glimmer (mlp)
-character:tirek (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-cloudsdale
-creator:huussii
-equine
-feathered wings
-feathers
-female
-fight
-flying
-furniture
-furry
-gender:female
-genre:fantasy
-glowing
-group
-hi res
-horn
-horns
-machine
-magic
-mammal
-map
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:2015
-meta:hi res
-meta:widescreen
-moon
-rating:safe
-scroll
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:arthropod
-species:changeling
-species:dragon
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:scalie
-species:unicorn
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-table
-tag source:e621
-title:lost by huussii (teemu husso)
-title:lost in time, lost in space
-unicorn
-uploader:sparroew
-winged unicorn
-wings
-year:2015
+16:9,
+2015,
+booru:e621,
+category:ine,
+changeling,
+character:spike,
+character:spike (mlp),
+character:starlight glimmer,
+character:starlight glimmer (mlp),
+character:tirek (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+cloudsdale,
+creator:huussii,
+equine,
+feathered wings,
+feathers,
+female,
+fight,
+flying,
+furniture,
+furry,
+gender:female,
+genre:fantasy,
+glowing,
+group,
+hi res,
+horn,
+horns,
+machine,
+magic,
+mammal,
+map,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:2015,
+meta:hi res,
+meta:widescreen,
+moon,
+rating:safe,
+scroll,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:arthropod,
+species:changeling,
+species:dragon,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:scalie,
+species:unicorn,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+table,
+tag source:e621,
+title:lost by huussii (teemu husso),
+title:lost in time, lost in space,
+unicorn,
+uploader:sparroew,
+winged unicorn,
+wings,
+year:2015,

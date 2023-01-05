@@ -1,59 +1,59 @@
-2016
-black hair
-booru:e621
-bow (stringed instrument)
-bowed string instrument
-category:ine
-cello
-character:octavia (mlp)
-character:octavia melody
-creator:paintedhoofprints
-creator:tuyla
-cutie mark
-earmuffs
-eyeshadow
-female
-feral
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-looking at viewer
-makeup
-medium:high resolution
-medium:simple background
-meta:4:5
-meta:2016
-meta:hi res
-musical instrument
-mylittlepony
-octavia
-paintedhoofprints
-pianoguys
-pony
-pov
-rating:safe
-scarf
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-simple background
-solo
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-string instrument
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:octavia's winter
-title:octavia's winter by aimee bramer (paintedhoofprints)
-uploader:coelacanth0794
-winter
-year:2016
+2016,
+black hair,
+booru:e621,
+bow (stringed instrument),
+bowed string instrument,
+category:ine,
+cello,
+character:octavia (mlp),
+character:octavia melody,
+creator:paintedhoofprints,
+creator:tuyla,
+cutie mark,
+earmuffs,
+eyeshadow,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+looking at viewer,
+makeup,
+medium:high resolution,
+medium:simple background,
+meta:4:5,
+meta:2016,
+meta:hi res,
+musical instrument,
+mylittlepony,
+octavia,
+paintedhoofprints,
+pianoguys,
+pony,
+pov,
+rating:safe,
+scarf,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+simple background,
+solo,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+string instrument,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:octavia's winter,
+title:octavia's winter by aimee bramer (paintedhoofprints),
+uploader:coelacanth0794,
+winter,
+year:2016,

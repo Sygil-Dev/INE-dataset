@@ -1,58 +1,58 @@
-1 female
-1girl
-art
-blue eyes
-breasts
-category:ine
-center opening
-cleavage
-clothing:dress
-clothing:gloves
-clothing:hair ornament
-copyright name
-copyright:legend of the cryptids
-creator:k dash
-curly hair
-dated
-dress
-faceless
-faceless male
-fangs
-feathered wings
-feathers
-gender:female
-gender:male
-gloves
-glowing
-glowing eyes
-hair ornament
-headwear
-helmet
-horns
-long hair
-medium:copyright name
-medium:dated
-medium:digital 2d
-medium:high resolution
-meta:highres
-meta:official art
-monster
-open mouth
-orange hair
-polearm
-rating:mature
-rating:safe
-series:legend of the cryptids
-solo
-solo focus
-sparkle
-spear
-subreddit:imaginaryangels
-subreddit:imraces
-title:summoner
-title:summoner by k dash
-uploader:lol33ta
-weapon
-weapon:spear
-wings
-yellow eyes
+1 female,
+1girl,
+art,
+blue eyes,
+breasts,
+category:ine,
+center opening,
+cleavage,
+clothing:dress,
+clothing:gloves,
+clothing:hair ornament,
+copyright name,
+copyright:legend of the cryptids,
+creator:k dash,
+curly hair,
+dated,
+dress,
+faceless,
+faceless male,
+fangs,
+feathered wings,
+feathers,
+gender:female,
+gender:male,
+gloves,
+glowing,
+glowing eyes,
+hair ornament,
+headwear,
+helmet,
+horns,
+long hair,
+medium:copyright name,
+medium:dated,
+medium:digital 2d,
+medium:high resolution,
+meta:highres,
+meta:official art,
+monster,
+open mouth,
+orange hair,
+polearm,
+rating:mature,
+rating:safe,
+series:legend of the cryptids,
+solo,
+solo focus,
+sparkle,
+spear,
+subreddit:imaginaryangels,
+subreddit:imraces,
+title:summoner,
+title:summoner by k dash,
+uploader:lol33ta,
+weapon,
+weapon:spear,
+wings,
+yellow eyes,

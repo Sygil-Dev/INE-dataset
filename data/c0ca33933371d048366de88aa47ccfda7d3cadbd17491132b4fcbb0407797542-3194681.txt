@@ -1,77 +1,77 @@
-2015
-absurd res
-amber eyes
-blue body
-blue feathers
-booru:e621
-category:ine
-character:fan character
-character:lightning dust
-character:lightning dust (mlp)
-clothing
-clothing:eyewear
-creator:nemo2d
-eyewear
-fanfiction
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-goggles
-green body
-green feathers
-green fur
-group
-hair
-hi res
-high resolution
-illustration
-lightning
-lightningdust
-medium:absurd resolution
-medium:high resolution
-meta:2015
-meta:absurd res
-meta:hi res
-meta:original character
-mlp
-mlpfim
-multicolored hair
-mylittlepony
-original character
-outside
-overcast
-rainbow hair
-raining
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:non-human animal
-species:pegasus
-species:pterippus
-storm
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:'through the storm' by nemo (nemo2d)
-title:through the storm
-tornado
-two tone hair
-uniform
-uploader:schnitzellover
-water
-white body
-white feathers
-wings
-year:2015
-yellow eyes
+2015,
+absurd res,
+amber eyes,
+blue body,
+blue feathers,
+booru:e621,
+category:ine,
+character:fan character,
+character:lightning dust,
+character:lightning dust (mlp),
+clothing,
+clothing:eyewear,
+creator:nemo2d,
+eyewear,
+fanfiction,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+goggles,
+green body,
+green feathers,
+green fur,
+group,
+hair,
+hi res,
+high resolution,
+illustration,
+lightning,
+lightningdust,
+medium:absurd resolution,
+medium:high resolution,
+meta:2015,
+meta:absurd res,
+meta:hi res,
+meta:original character,
+mlp,
+mlpfim,
+multicolored hair,
+mylittlepony,
+original character,
+outside,
+overcast,
+rainbow hair,
+raining,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:non-human animal,
+species:pegasus,
+species:pterippus,
+storm,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:'through the storm' by nemo (nemo2d),
+title:through the storm,
+tornado,
+two tone hair,
+uniform,
+uploader:schnitzellover,
+water,
+white body,
+white feathers,
+wings,
+year:2015,
+yellow eyes,

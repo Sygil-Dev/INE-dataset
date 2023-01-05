@@ -1,52 +1,52 @@
-animal
-back
-backlight
-black hair
-blue
-booru:sankaku channel
-category:ine
-creator:wenqing yan
-creator:yuumei
-duo
-female
-fish
-flowing hair
-full body
-gender:female
-gender:male
-glowing
-hand holding
-holding hands
-language:english
-legwear
-long hair
-love
-low ponytail
-male
-medium:2:1 aspect ratio
-medium:artist name
-medium:english text
-medium:text
-medium:web address
-meta:artist name
-ocean
-outdoors
-outside
-pants
-ponytail
-rating:safe
-scenery
-sea
-series:original
-short hair
-standing
-subreddit:imaginaryseascapes
-subreddit:imlandscapes
-text
-tied hair
-title:with you
-title:with you by yuumei (wenqing yan)
-underwater
-uploader:eunra
-water
-wind
+animal,
+back,
+backlight,
+black hair,
+blue,
+booru:sankaku channel,
+category:ine,
+creator:wenqing yan,
+creator:yuumei,
+duo,
+female,
+fish,
+flowing hair,
+full body,
+gender:female,
+gender:male,
+glowing,
+hand holding,
+holding hands,
+language:english,
+legwear,
+long hair,
+love,
+low ponytail,
+male,
+medium:2:1 aspect ratio,
+medium:artist name,
+medium:english text,
+medium:text,
+medium:web address,
+meta:artist name,
+ocean,
+outdoors,
+outside,
+pants,
+ponytail,
+rating:safe,
+scenery,
+sea,
+series:original,
+short hair,
+standing,
+subreddit:imaginaryseascapes,
+subreddit:imlandscapes,
+text,
+tied hair,
+title:with you,
+title:with you by yuumei (wenqing yan),
+underwater,
+uploader:eunra,
+water,
+wind,

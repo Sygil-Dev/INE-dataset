@@ -1,29 +1,29 @@
-angel
-archangel
-arena
-arum
-asian
-beautiful
-category:ine
-creator:phu thieu
-dragon
-girl
-japanese
-japanese clothes
-kimono
-lunar new year
-magic
-medium:digital 2d
-moba
-monster
-neon
-sephera
-story
-subreddit:imaginaryangels
-subreddit:imraces
-tencent
-title:arena of valor artwork by phu thieu
-title:my artwork for arena of valor
-uploader:myrandall
-valor
-violet
+angel,
+archangel,
+arena,
+arum,
+asian,
+beautiful,
+category:ine,
+creator:phu thieu,
+dragon,
+girl,
+japanese,
+japanese clothes,
+kimono,
+lunar new year,
+magic,
+medium:digital 2d,
+moba,
+monster,
+neon,
+sephera,
+story,
+subreddit:imaginaryangels,
+subreddit:imraces,
+tencent,
+title:arena of valor artwork by phu thieu,
+title:my artwork for arena of valor,
+uploader:myrandall,
+valor,
+violet,

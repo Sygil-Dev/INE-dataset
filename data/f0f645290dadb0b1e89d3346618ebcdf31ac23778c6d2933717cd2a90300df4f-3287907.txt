@@ -1,70 +1,70 @@
-2015
-anthro
-anthrofied
-anthropomorphism
-artist:audrarius
-booru:e621
-category:ine
-character:spike
-character:spike (mlp)
-character:spike_(mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-character:twilight_sparkle_(mlp)
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:my_little_pony
-creator:audrarius
-digital media (artwork)
-duo
-fangs
-female
-fire
-fur
-furry
-gender:female
-gender:male
-genre:fantasy
-hair
-hi res
-horn
-horns
-male
-medium:digital media
-medium:high resolution
-meta:2015
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-multicolored hair
-multicolored_hair
-purple body
-purple fur
-purple hair
-purple_body
-purple_fur
-purple_hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:dragon
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:scalie
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:team
-title:team by malus (audrarius)
-two tone hair
-two_tone_hair
-uploader:pandas795
-year:2015
+2015,
+anthro,
+anthrofied,
+anthropomorphism,
+artist:audrarius,
+booru:e621,
+category:ine,
+character:spike,
+character:spike (mlp),
+character:spike_(mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+character:twilight_sparkle_(mlp),
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:audrarius,
+digital media (artwork),
+duo,
+fangs,
+female,
+fire,
+fur,
+furry,
+gender:female,
+gender:male,
+genre:fantasy,
+hair,
+hi res,
+horn,
+horns,
+male,
+medium:digital media,
+medium:high resolution,
+meta:2015,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+multicolored hair,
+multicolored_hair,
+purple body,
+purple fur,
+purple hair,
+purple_body,
+purple_fur,
+purple_hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:dragon,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:scalie,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:team,
+title:team by malus (audrarius),
+two tone hair,
+two_tone_hair,
+uploader:pandas795,
+year:2015,

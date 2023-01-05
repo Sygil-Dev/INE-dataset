@@ -1,54 +1,54 @@
-00s
-1 female
-bangs
-blue eyes
-category:ine
-character:tokiha mai
-clothing:orange shirt
-clothing:pleated skirt
-clothing:scarf
-clothing:school uniform
-clothing:shirt
-clothing:skirt
-clothing:sleeveless outfit
-clothing:uniform
-cowboy shot
-creator:jason peng
-creator:jxbp
-fire
-fuuka academy uniform
-gender:female
-lips
-looking at viewer
-mai
-maihime
-maiotome
-maitokiha
-medium:watermark
-medium:web address
-orange (color)
-orange hair
-orange shirt
-orange theme
-pleated skirt
-pov
-rating:mature
-rating:safe
-red scarf
-scarf
-school uniform
-series:kodomo no koe mai hime club
-series:my-otome
-shirt
-short hair
-skirt
-sleeveless
-solo
-standing
-subreddit:imaginaryanime
-subreddit:imfandoms
-swept bangs
-title:tokiha mai
-title:tokiha mai by jason peng
-uniform
-uploader:prototerminal
+00s,
+1 female,
+bangs,
+blue eyes,
+category:ine,
+character:tokiha mai,
+clothing:orange shirt,
+clothing:pleated skirt,
+clothing:scarf,
+clothing:school uniform,
+clothing:shirt,
+clothing:skirt,
+clothing:sleeveless outfit,
+clothing:uniform,
+cowboy shot,
+creator:jason peng,
+creator:jxbp,
+fire,
+fuuka academy uniform,
+gender:female,
+lips,
+looking at viewer,
+mai,
+maihime,
+maiotome,
+maitokiha,
+medium:watermark,
+medium:web address,
+orange (color),
+orange hair,
+orange shirt,
+orange theme,
+pleated skirt,
+pov,
+rating:mature,
+rating:safe,
+red scarf,
+scarf,
+school uniform,
+series:kodomo no koe mai hime club,
+series:my-otome,
+shirt,
+short hair,
+skirt,
+sleeveless,
+solo,
+standing,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+swept bangs,
+title:tokiha mai,
+title:tokiha mai by jason peng,
+uniform,
+uploader:prototerminal,

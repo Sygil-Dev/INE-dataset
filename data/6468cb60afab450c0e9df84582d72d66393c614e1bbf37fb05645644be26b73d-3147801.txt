@@ -1,54 +1,54 @@
-2012
-black body
-black fur
-blue hair
-booru:e621
-category:ine
-character:drone (mlp)
-character:princess celestia
-character:princess celestia (mlp)
-character:queen chrysalis
-character:queen chrysalis (mlp)
-chrysalis
-cocoon
-creator:crowbartk-hullo
-creator:mistercrowbar
-crown
-duo
-fangs
-female
-feral
-fur
-gender:female
-genre:fantasy
-goo (disambiguation)
-green eyes
-hair
-horn
-horns
-insect wings
-meta:2012
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-species:arthropod
-species:changeling
-species:equid
-species:equine
-species:goo
-species:horse
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"chrysalis" by m henry (mistercrowbar)
-title:chrysalis
-uploader:crystallord
-wings
-year:2012
+2012,
+black body,
+black fur,
+blue hair,
+booru:e621,
+category:ine,
+character:drone (mlp),
+character:princess celestia,
+character:princess celestia (mlp),
+character:queen chrysalis,
+character:queen chrysalis (mlp),
+chrysalis,
+cocoon,
+creator:crowbartk-hullo,
+creator:mistercrowbar,
+crown,
+duo,
+fangs,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+goo (disambiguation),
+green eyes,
+hair,
+horn,
+horns,
+insect wings,
+meta:2012,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+species:arthropod,
+species:changeling,
+species:equid,
+species:equine,
+species:goo,
+species:horse,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"chrysalis" by m henry (mistercrowbar),
+title:chrysalis,
+uploader:crystallord,
+wings,
+year:2012,

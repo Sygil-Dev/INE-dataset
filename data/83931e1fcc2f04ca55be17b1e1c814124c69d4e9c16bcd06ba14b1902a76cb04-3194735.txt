@@ -1,93 +1,93 @@
-16:10
-2016
-alicorn
-armor
-armour
-artist:photonoko
-blue body
-blue feathers
-blue hair
-blue_body
-blue_feathers
-blue_hair
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-character:princess_luna_(mlp)
-clothing:armor
-copyright:friendship is magic
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:my_little_pony
-creator:photonoko
-creator:rain-gear
-cutie mark
-cutie_mark
-feathered wings
-feathered_wings
-feathers
-female
-feral
-flying
-gender:female
-genre:fantasy
-glow
-glowing
-hair
-hi res
-high resolution
-horn
-horns
-long hair
-long_hair
-mare
-medium:16:10 aspect ratio
-medium:high resolution
-medium:wallpaper
-meta:16:10
-meta:2016
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:digital_media_(artwork)
-meta:digital_painting_(artwork)
-meta:hi res
-meta:hi_res
-meta:wallpaper
-meta:widescreen
-mlpmylittlepony
-moon
-moonlight
-night
-outside
-pony
-princess luna
-princessluna
-rain-gear
-rating:safe
-safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:alicorn
-species:equid
-species:equine
-species:mammal
-species:non-human animal
-species:pony
-species:winged unicorn
-species:winged_unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:vapour trails
-title:vapour trails by rain-gear
-uploader:kekerino
-wallpaper
-warrior luna
-wings
-year:2016
+16:10,
+2016,
+alicorn,
+armor,
+armour,
+artist:photonoko,
+blue body,
+blue feathers,
+blue hair,
+blue_body,
+blue_feathers,
+blue_hair,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+character:princess_luna_(mlp),
+clothing:armor,
+copyright:friendship is magic,
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:photonoko,
+creator:rain-gear,
+cutie mark,
+cutie_mark,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+feral,
+flying,
+gender:female,
+genre:fantasy,
+glow,
+glowing,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+long hair,
+long_hair,
+mare,
+medium:16:10 aspect ratio,
+medium:high resolution,
+medium:wallpaper,
+meta:16:10,
+meta:2016,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:digital_media_(artwork),
+meta:digital_painting_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:wallpaper,
+meta:widescreen,
+mlpmylittlepony,
+moon,
+moonlight,
+night,
+outside,
+pony,
+princess luna,
+princessluna,
+rain-gear,
+rating:safe,
+safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:alicorn,
+species:equid,
+species:equine,
+species:mammal,
+species:non-human animal,
+species:pony,
+species:winged unicorn,
+species:winged_unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:vapour trails,
+title:vapour trails by rain-gear,
+uploader:kekerino,
+wallpaper,
+warrior luna,
+wings,
+year:2016,

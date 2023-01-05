@@ -1,22 +1,22 @@
-batman
-blank
-category:ine
-character:selina "catwoman" kyle
-commission
-cover
-creator:elias chatzoudis
-dc
-gotham
-joker
-leather
-original
-philadelphia
-philly
-pinup
-sirens
-snow
-subreddit:imaginarygotham
-subreddit:imfandoms
-title:catwoman by elias chatzoudis
-uploader:lol33ta
-winter
+batman,
+blank,
+category:ine,
+character:selina "catwoman" kyle,
+commission,
+cover,
+creator:elias chatzoudis,
+dc,
+gotham,
+joker,
+leather,
+original,
+philadelphia,
+philly,
+pinup,
+sirens,
+snow,
+subreddit:imaginarygotham,
+subreddit:imfandoms,
+title:catwoman by elias chatzoudis,
+uploader:lol33ta,
+winter,

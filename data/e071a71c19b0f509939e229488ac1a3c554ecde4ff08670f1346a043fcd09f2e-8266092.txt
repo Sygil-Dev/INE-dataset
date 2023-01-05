@@ -1,50 +1,50 @@
-16:9
-2018
-ambiguous gender
-ambiguous_gender
-artist:ryky
-category:ine
-character:totoro
-copyright:ghibli
-copyright:my_neighbor_totoro
-creator:ryky
-day
-detailed background
-detailed_background
-digital media (artwork)
-duo
-feral
-forest
-gender:ambiguous
-hi res
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:16:9
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:widescreen
-outside
-plant
-rating:safe
-series:ghibli
-series:my neighbor totoro
-series:studio ghibli
-series:tonari no totoro
-species:lagomorph
-species:leporid
-species:mammal
-species:rabbit
-studio:studio ghibli
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:totoro
-title:totoro by benjamin cehelsky
-totoro
-tree
-uploader:myrandall
-year:2018
+16:9,
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:ryky,
+category:ine,
+character:totoro,
+copyright:ghibli,
+copyright:my_neighbor_totoro,
+creator:ryky,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+duo,
+feral,
+forest,
+gender:ambiguous,
+hi res,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:16:9,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+outside,
+plant,
+rating:safe,
+series:ghibli,
+series:my neighbor totoro,
+series:studio ghibli,
+series:tonari no totoro,
+species:lagomorph,
+species:leporid,
+species:mammal,
+species:rabbit,
+studio:studio ghibli,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:totoro,
+title:totoro by benjamin cehelsky,
+totoro,
+tree,
+uploader:myrandall,
+year:2018,

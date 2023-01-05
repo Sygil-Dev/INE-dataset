@@ -1,120 +1,120 @@
-2015
-alcohol
-anthro
-anthropomorphism
-artwork:digital media
-bar
-beer
-beverage
-biceps
-big head
-big muscles
-blue eyes
-bodily fluids
-booru:e621
-bottomwear
-category:ine
-chain
-clenched teeth
-closed eyes
-clothed
-clothing
-clothing:gloves
-clothing:headwear
-clothing:legwear
-creator:kim jonghun
-cup
-detailed
-detailed background
-digital media (artwork)
-eye scar
-eyes closed
-facial scar
-female
-fist
-food
-front view
-fur
-furry
-gender:female
-gender:male
-gills
-gloves
-grey body
-grey fur
-grey hair
-grey skin
-group
-guardian
-hair
-hand on leg
-handwear
-hat
-headgear
-headwear
-holding glass
-holding object
-horn
-horns
-huge muscles
-indoors
-inside
-interspecies
-larger male
-light
-long hair
-looking at viewer
-male
-medium:detailed background
-medium:digital media
-meta:2015
-meta:detailed
-meta:digital media (artwork)
-multi eye
-multiple eyes
-muscles
-muscular
-one eye closed
-open mouth
-pants
-pink nose
-pov
-raised tail
-rating:safe
-saliva
-scar
-scene
-sharp teeth
-shirt
-sitting
-size difference
-smaller female
-source:e621
-species:felid
-species:feline
-species:fish
-species:human
-species:lizard
-species:mammal
-species:marine
-species:monster
-species:pantherine
-species:primate
-species:reptile
-species:scalie
-species:shark
-species:tiger
-species:unknown species
-spikes
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-tag source:e621
-tail
-teeth
-title:in the pub by kim junghun
-topwear
-torn clothes
-torn clothing
-uploader:lol33ta
-whiskers
-year:2015
+2015,
+alcohol,
+anthro,
+anthropomorphism,
+artwork:digital media,
+bar,
+beer,
+beverage,
+biceps,
+big head,
+big muscles,
+blue eyes,
+bodily fluids,
+booru:e621,
+bottomwear,
+category:ine,
+chain,
+clenched teeth,
+closed eyes,
+clothed,
+clothing,
+clothing:gloves,
+clothing:headwear,
+clothing:legwear,
+creator:kim jonghun,
+cup,
+detailed,
+detailed background,
+digital media (artwork),
+eye scar,
+eyes closed,
+facial scar,
+female,
+fist,
+food,
+front view,
+fur,
+furry,
+gender:female,
+gender:male,
+gills,
+gloves,
+grey body,
+grey fur,
+grey hair,
+grey skin,
+group,
+guardian,
+hair,
+hand on leg,
+handwear,
+hat,
+headgear,
+headwear,
+holding glass,
+holding object,
+horn,
+horns,
+huge muscles,
+indoors,
+inside,
+interspecies,
+larger male,
+light,
+long hair,
+looking at viewer,
+male,
+medium:detailed background,
+medium:digital media,
+meta:2015,
+meta:detailed,
+meta:digital media (artwork),
+multi eye,
+multiple eyes,
+muscles,
+muscular,
+one eye closed,
+open mouth,
+pants,
+pink nose,
+pov,
+raised tail,
+rating:safe,
+saliva,
+scar,
+scene,
+sharp teeth,
+shirt,
+sitting,
+size difference,
+smaller female,
+source:e621,
+species:felid,
+species:feline,
+species:fish,
+species:human,
+species:lizard,
+species:mammal,
+species:marine,
+species:monster,
+species:pantherine,
+species:primate,
+species:reptile,
+species:scalie,
+species:shark,
+species:tiger,
+species:unknown species,
+spikes,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+tag source:e621,
+tail,
+teeth,
+title:in the pub by kim junghun,
+topwear,
+torn clothes,
+torn clothing,
+uploader:lol33ta,
+whiskers,
+year:2015,

@@ -1,24 +1,24 @@
-architecture
-bridge
-building
-castle
-category:ine
-city
-cloud
-cloudy sky
-day
-mountain
-outdoors
-rating:safe
-ruins
-scenery
-sky
-subreddit:imaginarytemples
-subreddit:imarchitecture
-title:hidden temple by dominik zdenković
-tower
-tree
-uploader:[deleted]
-uploader:faeryknight
-water
-waterfall
+architecture,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cloud,
+cloudy sky,
+day,
+mountain,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+title:hidden temple by dominik zdenković,
+tower,
+tree,
+uploader:[deleted],
+uploader:faeryknight,
+water,
+waterfall,

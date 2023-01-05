@@ -1,46 +1,46 @@
-1girl
-blonde
-blonde hair
-blue eyes
-booru:sankaku channel
-boots
-category:ine
-character:sailor moon
-character:sailor moon (character)
-character:tsukino usagi
-clothing:earrings
-clothing:footwear
-clothing:gloves
-clothing:hair tie
-clothing:necklace
-creator:nopeys
-double bun
-earrings
-fanart from deviantart
-female
-footwear
-gender:female
-gloves
-jewelry
-long hair
-magical girl
-medium:fanart from deviantart
-necklace
-nopeys
-piercing
-rating:safe
-sailor moon (character)
-sailor moon (series)
-sailor senshi
-sailor senshi uniform
-series:bishoujo senshi sailor moon
-series:sailor moon (series)
-shoes
-solo
-subreddit:imaginaryanime
-subreddit:imfandoms
-tied hair
-title:sailermoon revised by (nopeys)
-tsukino usagi
-twintails
-uploader:loser100000
+1girl,
+blonde,
+blonde hair,
+blue eyes,
+booru:sankaku channel,
+boots,
+category:ine,
+character:sailor moon,
+character:sailor moon (character),
+character:tsukino usagi,
+clothing:earrings,
+clothing:footwear,
+clothing:gloves,
+clothing:hair tie,
+clothing:necklace,
+creator:nopeys,
+double bun,
+earrings,
+fanart from deviantart,
+female,
+footwear,
+gender:female,
+gloves,
+jewelry,
+long hair,
+magical girl,
+medium:fanart from deviantart,
+necklace,
+nopeys,
+piercing,
+rating:safe,
+sailor moon (character),
+sailor moon (series),
+sailor senshi,
+sailor senshi uniform,
+series:bishoujo senshi sailor moon,
+series:sailor moon (series),
+shoes,
+solo,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+tied hair,
+title:sailermoon revised by (nopeys),
+tsukino usagi,
+twintails,
+uploader:loser100000,

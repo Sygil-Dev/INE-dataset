@@ -1,82 +1,82 @@
-1 female
-1girl
-anime girls
-arm up
-arms up
-bangs
-black bodysuit
-black_bodysuit
-blame!
-blame!100users入り
-blunt bangs
-bodysuit
-breasts
-cape
-category:ine
-character:cibo
-chitu hefeng zhong
-cibo
-closed mouth
-clothing
-clothing:bodysuit
-clothing:bottomwear
-clothing:cape
-clothing:topwear
-cowboy shot
-creator:2437473600
-creator:chitu hefeng zhong
-creator:chituhefeng
-creator:赤兔和风中
-cyberpunk
-cyborg
-danbooru
-expressionless
-eyebrows
-eyebrows visible through hair
-fan art
-female
-gender:female
-glowing
-grey background
-high resolution
-joints
-long hair
-looking at viewer
-mechanical arms
-medium breasts
-medium:grey background
-medium:high resolution
-medium:simple background
-meta:commentary
-meta:highres
-meta:pixiv-import
-no pupils
-no_pupils
-one arm up
-pale skin
-pov
-prosthesis
-rating:mature
-rating:safe
-rating:sensitive
-ribbed bodysuit
-robot joints
-robot_joints
-series:blame!
-shiny
-shiny hair
-silver hair
-simple background
-single mechanical arm
-solo
-standing
-subreddit:imaginarycyberpunk
-subreddit:imtechnology
-title:シボ
-title:シボ by chitu hefeng zhong
-uploader:zwegria707
-waist cape
-waist_cape
-white eyes
-シボ
-弐瓶勉
+1 female,
+1girl,
+anime girls,
+arm up,
+arms up,
+bangs,
+black bodysuit,
+black_bodysuit,
+blame!,
+blame!100users入り,
+blunt bangs,
+bodysuit,
+breasts,
+cape,
+category:ine,
+character:cibo,
+chitu hefeng zhong,
+cibo,
+closed mouth,
+clothing,
+clothing:bodysuit,
+clothing:bottomwear,
+clothing:cape,
+clothing:topwear,
+cowboy shot,
+creator:2437473600,
+creator:chitu hefeng zhong,
+creator:chituhefeng,
+creator:赤兔和风中,
+cyberpunk,
+cyborg,
+danbooru,
+expressionless,
+eyebrows,
+eyebrows visible through hair,
+fan art,
+female,
+gender:female,
+glowing,
+grey background,
+high resolution,
+joints,
+long hair,
+looking at viewer,
+mechanical arms,
+medium breasts,
+medium:grey background,
+medium:high resolution,
+medium:simple background,
+meta:commentary,
+meta:highres,
+meta:pixiv-import,
+no pupils,
+no_pupils,
+one arm up,
+pale skin,
+pov,
+prosthesis,
+rating:mature,
+rating:safe,
+rating:sensitive,
+ribbed bodysuit,
+robot joints,
+robot_joints,
+series:blame!,
+shiny,
+shiny hair,
+silver hair,
+simple background,
+single mechanical arm,
+solo,
+standing,
+subreddit:imaginarycyberpunk,
+subreddit:imtechnology,
+title:シボ,
+title:シボ by chitu hefeng zhong,
+uploader:zwegria707,
+waist cape,
+waist_cape,
+white eyes,
+シボ,
+弐瓶勉,

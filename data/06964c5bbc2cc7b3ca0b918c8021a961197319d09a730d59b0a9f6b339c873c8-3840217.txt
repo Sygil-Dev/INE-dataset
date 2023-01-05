@@ -1,63 +1,63 @@
-2016
-absurd res
-bedding
-blanket
-blue eyes
-blue feathers
-blue fur
-booru:e621
-building
-campfire
-castle
-category:ine
-character:fluttershy
-character:rainbow dash
-creator:empalu
-detailed background
-duo
-feathered wings
-feathers
-feral
-fire
-fur
-gender:female
-genre:fantasy
-hair
-high resolution
-landscape
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-moon
-multicolored hair
-nature
-night
-outside
-picnic
-pink hair
-plant
-rainbow hair
-rating:safe
-red eyes
-river
-series:my little pony
-series:my little pony friendship is magic
-sky
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-star
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:'campfire' by alexandr (empalu)
-title:campfire
-tree
-uploader:schnitzellover
-wings
-year:2016
-yellow feathers
-yellow fur
+2016,
+absurd res,
+bedding,
+blanket,
+blue eyes,
+blue feathers,
+blue fur,
+booru:e621,
+building,
+campfire,
+castle,
+category:ine,
+character:fluttershy,
+character:rainbow dash,
+creator:empalu,
+detailed background,
+duo,
+feathered wings,
+feathers,
+feral,
+fire,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+high resolution,
+landscape,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+moon,
+multicolored hair,
+nature,
+night,
+outside,
+picnic,
+pink hair,
+plant,
+rainbow hair,
+rating:safe,
+red eyes,
+river,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+star,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:'campfire' by alexandr (empalu),
+title:campfire,
+tree,
+uploader:schnitzellover,
+wings,
+year:2016,
+yellow feathers,
+yellow fur,

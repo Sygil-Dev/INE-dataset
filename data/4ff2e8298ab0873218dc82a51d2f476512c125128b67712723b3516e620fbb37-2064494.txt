@@ -1,41 +1,41 @@
-2015
-booru:e621
-category:ine
-character:coloratura (mlp)
-creator:huussii
-cutie mark
-female
-gender:female
-genre:fantasy
-glowing
-grand piano
-hi res
-keyboard instrument
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:2015
-meta:hi res
-musical instrument
-piano
-playing music
-playing piano
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"stay true to yourself" by teemu husso (huussii)
-title:stay true to yourself
-uploader:torvusil
-year:2015
+2015,
+booru:e621,
+category:ine,
+character:coloratura (mlp),
+creator:huussii,
+cutie mark,
+female,
+gender:female,
+genre:fantasy,
+glowing,
+grand piano,
+hi res,
+keyboard instrument,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:2015,
+meta:hi res,
+musical instrument,
+piano,
+playing music,
+playing piano,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"stay true to yourself" by teemu husso (huussii),
+title:stay true to yourself,
+uploader:torvusil,
+year:2015,

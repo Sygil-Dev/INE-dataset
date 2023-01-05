@@ -1,45 +1,45 @@
-2015
-applejack
-apron
-barrel
-booru:e621
-category:ine
-character:applejack
-character:applejack (mlp)
-clothing
-clothing:apron
-creator:assasinmonkey
-earthpony
-female
-freckles
-gender:female
-genre:fantasy
-green eyes
-hair net
-hi res
-medium:high resolution
-meta:2015
-meta:hi res
-mlpfim
-mylittleponyfriendshipismagic
-rating:safe
-season5
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:the cause for apples
-title:the cause for apples by myron c.p(assasinmonkey)
-uploader:pandas795
-year:2015
+2015,
+applejack,
+apron,
+barrel,
+booru:e621,
+category:ine,
+character:applejack,
+character:applejack (mlp),
+clothing,
+clothing:apron,
+creator:assasinmonkey,
+earthpony,
+female,
+freckles,
+gender:female,
+genre:fantasy,
+green eyes,
+hair net,
+hi res,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+mlpfim,
+mylittleponyfriendshipismagic,
+rating:safe,
+season5,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:the cause for apples,
+title:the cause for apples by myron c.p(assasinmonkey),
+uploader:pandas795,
+year:2015,

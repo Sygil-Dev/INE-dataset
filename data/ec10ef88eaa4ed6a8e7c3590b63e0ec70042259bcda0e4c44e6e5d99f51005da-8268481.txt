@@ -1,71 +1,71 @@
-anthropomorphism
-artist:cryptid-creations
-big tail
-big_eyes
-big_tail
-binary code
-binary_code
-black body
-black eyes
-black fur
-black_body
-black_eyes
-black_fur
-bodypart:big eyes
-bodypart:black eyes
-bottomless
-category:ine
-clothed
-clothing
-clothing:hoodie
-clothing:striped pattern
-computer
-creator:cryptid-creations
-cryptid-creations
-dark theme
-frown
-fur
-genre:cyberpunk
-genre:science fiction
-head tuft
-head_tuft
-humor
-laptop
-medium:digital media
-medium:text
-meme:humor
-mephitid
-meta:dark theme
-meta:dark_theme
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:url
-pawpads
-paws
-pink nose
-pink_nose
-pun
-rating:safe
-shadow
-species:mammal
-species:mephitid
-species:skunk
-species:striped skunk
-species:striped_skunk
-striped skunk
-striped tail
-striped_tail
-stripes
-subreddit:imaginarycyberpunk
-subreddit:imtechnology
-tail
-title:cyberskunk by piper thibodeau
-topwear
-tuft
-uploader:myrandall
-visual pun
-visual_pun
-white body
-white fur
-white_body
-white_fur
+anthropomorphism,
+artist:cryptid-creations,
+big tail,
+big_eyes,
+big_tail,
+binary code,
+binary_code,
+black body,
+black eyes,
+black fur,
+black_body,
+black_eyes,
+black_fur,
+bodypart:big eyes,
+bodypart:black eyes,
+bottomless,
+category:ine,
+clothed,
+clothing,
+clothing:hoodie,
+clothing:striped pattern,
+computer,
+creator:cryptid-creations,
+cryptid-creations,
+dark theme,
+frown,
+fur,
+genre:cyberpunk,
+genre:science fiction,
+head tuft,
+head_tuft,
+humor,
+laptop,
+medium:digital media,
+medium:text,
+meme:humor,
+mephitid,
+meta:dark theme,
+meta:dark_theme,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:url,
+pawpads,
+paws,
+pink nose,
+pink_nose,
+pun,
+rating:safe,
+shadow,
+species:mammal,
+species:mephitid,
+species:skunk,
+species:striped skunk,
+species:striped_skunk,
+striped skunk,
+striped tail,
+striped_tail,
+stripes,
+subreddit:imaginarycyberpunk,
+subreddit:imtechnology,
+tail,
+title:cyberskunk by piper thibodeau,
+topwear,
+tuft,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white body,
+white fur,
+white_body,
+white_fur,

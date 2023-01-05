@@ -1,23 +1,23 @@
-battle
-beverage
-category:ine
-creator:zeen chin
-dragon
-drink
-furry
-holding sword
-illustration
-japan
-medium:digital 2d
-roman
-rome
-samurai
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-title:last drink
-title:last drink by zeen chin
-uploader:lol33ta
-war
+battle,
+beverage,
+category:ine,
+creator:zeen chin,
+dragon,
+drink,
+furry,
+holding sword,
+illustration,
+japan,
+medium:digital 2d,
+roman,
+rome,
+samurai,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+title:last drink,
+title:last drink by zeen chin,
+uploader:lol33ta,
+war,

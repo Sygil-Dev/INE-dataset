@@ -1,44 +1,44 @@
-2015
-bodily fluids
-booru:e621
-category:ine
-character:coloratura (mlp)
-creator:assasinmonkey
-crying
-cutie mark
-female
-gender:female
-genre:fantasy
-glowing
-grand piano
-hi res
-keyboard instrument
-medium:high resolution
-meta:2015
-meta:hi res
-musical instrument
-piano
-playing music
-playing piano
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-sparkles
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-tears
-title:the magic inside
-title:the magic inside by myron c.p (assasinmonkey)
-uploader:pandas795
-year:2015
+2015,
+bodily fluids,
+booru:e621,
+category:ine,
+character:coloratura (mlp),
+creator:assasinmonkey,
+crying,
+cutie mark,
+female,
+gender:female,
+genre:fantasy,
+glowing,
+grand piano,
+hi res,
+keyboard instrument,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+musical instrument,
+piano,
+playing music,
+playing piano,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+sparkles,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+tears,
+title:the magic inside,
+title:the magic inside by myron c.p (assasinmonkey),
+uploader:pandas795,
+year:2015,

@@ -1,48 +1,48 @@
-booru:e621
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-closed eyes
-creator:nadnerbd
-cutie mark
-day
-eyes closed
-feathered wings
-feathers
-female
-feral
-flying
-gender:female
-genre:fantasy
-hair
-hooves
-horn
-horns
-long hair
-medium:high resolution
-meta:hi res
-multicolored hair
-open mouth
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sky
-smile
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-teeth
-title:'air' by nadnerbd
-title:air
-uploader:schnitzellover
-white body
-white feathers
-winged unicorn
-wings
+booru:e621,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+closed eyes,
+creator:nadnerbd,
+cutie mark,
+day,
+eyes closed,
+feathered wings,
+feathers,
+female,
+feral,
+flying,
+gender:female,
+genre:fantasy,
+hair,
+hooves,
+horn,
+horns,
+long hair,
+medium:high resolution,
+meta:hi res,
+multicolored hair,
+open mouth,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+smile,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+teeth,
+title:'air' by nadnerbd,
+title:air,
+uploader:schnitzellover,
+white body,
+white feathers,
+winged unicorn,
+wings,

@@ -1,62 +1,62 @@
-2016
-abstract background
-booru:e621
-bra1neater
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-clothing:necklace
-creator:bra1neater
-crown
-cutie mark
-epic
-feathered wings
-feathers
-female
-feral
-fire
-fluffy
-flying
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-horn
-horns
-jewelry
-large wings
-long hair
-magic
-medium:high resolution
-meta:2016
-meta:hi res
-multicolored hair
-necklace
-purple eyes
-rating:safe
-running
-safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-spread wings
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:'the essense of the day' by vadim poleschuk (bra1neater)
-title:the essense of the day
-unshorn fetlocks
-uploader:schnitzellover
-white body
-white feathers
-white fur
-wings
-year:2016
+2016,
+abstract background,
+booru:e621,
+bra1neater,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+clothing:necklace,
+creator:bra1neater,
+crown,
+cutie mark,
+epic,
+feathered wings,
+feathers,
+female,
+feral,
+fire,
+fluffy,
+flying,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+jewelry,
+large wings,
+long hair,
+magic,
+medium:high resolution,
+meta:2016,
+meta:hi res,
+multicolored hair,
+necklace,
+purple eyes,
+rating:safe,
+running,
+safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+spread wings,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:'the essense of the day' by vadim poleschuk (bra1neater),
+title:the essense of the day,
+unshorn fetlocks,
+uploader:schnitzellover,
+white body,
+white feathers,
+white fur,
+wings,
+year:2016,

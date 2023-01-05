@@ -1,49 +1,49 @@
-2015
-alpha channel
-blue eyes
-booru:e621
-category:ine
-character:pinkamena (mlp)
-character:pinkamena diane pie
-character:pinkie pie
-character:pinkie pie (mlp)
-chromatic aberration
-color porn
-creator:koveliana
-female
-femle
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-koveliana
-long hair
-medium:high resolution
-meta:2015
-meta:alpha channel
-meta:hi res
-meta:portrait
-pink hair
-portrait
-rating:safe
-safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-straight hair
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:pinkamena diane pie
-title:pinkamena diane pie by koveliana (nelly lee)
-uploader:missgoldendragon
-year:2015
+2015,
+alpha channel,
+blue eyes,
+booru:e621,
+category:ine,
+character:pinkamena (mlp),
+character:pinkamena diane pie,
+character:pinkie pie,
+character:pinkie pie (mlp),
+chromatic aberration,
+color porn,
+creator:koveliana,
+female,
+femle,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+koveliana,
+long hair,
+medium:high resolution,
+meta:2015,
+meta:alpha channel,
+meta:hi res,
+meta:portrait,
+pink hair,
+portrait,
+rating:safe,
+safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+straight hair,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:pinkamena diane pie,
+title:pinkamena diane pie by koveliana (nelly lee),
+uploader:missgoldendragon,
+year:2015,

@@ -1,31 +1,31 @@
-booru:sankaku channel
-brown eyes
-category:ine
-character:nami (one piece)
-coin
-creator:aueysupaluk
-gold (metal)
-in water
-jewelry
-long hair
-lying
-medium:fanart from deviantart
-medium:high resolution
-medium:large filesize
-medium:very high resolution
-money
-on back
-orange hair
-series:one piece
-series:one piece film gold
-series:one piece: two years later
-subreddit:imaginaryanime
-subreddit:imfandoms
-tattoo
-title:"one piece film gold (nami)" by supaluk chomngam (aueysupaluk)
-title:one piece film gold (nami)
-treasure
-treasure chest
-uploader:torvusil
-water
-wet
+booru:sankaku channel,
+brown eyes,
+category:ine,
+character:nami (one piece),
+coin,
+creator:aueysupaluk,
+gold (metal),
+in water,
+jewelry,
+long hair,
+lying,
+medium:fanart from deviantart,
+medium:high resolution,
+medium:large filesize,
+medium:very high resolution,
+money,
+on back,
+orange hair,
+series:one piece,
+series:one piece film gold,
+series:one piece: two years later,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+tattoo,
+title:"one piece film gold (nami)" by supaluk chomngam (aueysupaluk),
+title:one piece film gold (nami),
+treasure,
+treasure chest,
+uploader:torvusil,
+water,
+wet,

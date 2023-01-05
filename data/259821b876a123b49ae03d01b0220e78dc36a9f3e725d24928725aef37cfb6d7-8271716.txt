@@ -1,44 +1,44 @@
-1 female
-1girl
-angel
-blonde
-blonde hair
-blue eyes
-bodysuit
-booru:sankaku channel
-category:ine
-character:angel
-character:angela "mercy" ziegler
-character:dr. angela "mercy" ziegler
-character:mercy (overwatch)
-christmas
-clothing:bodysuit
-clothing:bottomwear
-clothing:gloves
-clothing:topwear
-creator:fiship
-creator:matilda fiship
-creator:matilda vin
-creator:matilda_vin
-female
-female focus
-female only
-gender:female
-genre:science fiction
-gloves
-long hair
-medium:high resolution
-rating:safe
-series:overwatch
-series:snow
-smile
-snow
-solo
-solo female
-studio:blizzard entertainment
-subreddit:imaginaryangels
-subreddit:imraces
-tenshi
-title:mercy christmas skin by matilda fiship
-uploader:myrandall
-wings
+1 female,
+1girl,
+angel,
+blonde,
+blonde hair,
+blue eyes,
+bodysuit,
+booru:sankaku channel,
+category:ine,
+character:angel,
+character:angela "mercy" ziegler,
+character:dr. angela "mercy" ziegler,
+character:mercy (overwatch),
+christmas,
+clothing:bodysuit,
+clothing:bottomwear,
+clothing:gloves,
+clothing:topwear,
+creator:fiship,
+creator:matilda fiship,
+creator:matilda vin,
+creator:matilda_vin,
+female,
+female focus,
+female only,
+gender:female,
+genre:science fiction,
+gloves,
+long hair,
+medium:high resolution,
+rating:safe,
+series:overwatch,
+series:snow,
+smile,
+snow,
+solo,
+solo female,
+studio:blizzard entertainment,
+subreddit:imaginaryangels,
+subreddit:imraces,
+tenshi,
+title:mercy christmas skin by matilda fiship,
+uploader:myrandall,
+wings,

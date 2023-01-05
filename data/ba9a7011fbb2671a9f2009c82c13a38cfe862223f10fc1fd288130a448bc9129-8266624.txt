@@ -1,23 +1,23 @@
-batman
-category:ine
-character:dr. harleen frances "harley quinn" quinzel
-creator:sarah christina
-dc comics
-fan art
-halloween
-harley quinn
-magic
-medium:digital 2d
-pinup
-sarah christina
-subreddit:imaginarygotham
-subreddit:imaginarywitches
-subreddit:imcharacters
-subreddit:imfandoms
-suicide squad
-title:"witchy harley quinn" by sarah christina
-title:witchy harley quinn by sarah christina
-uploader:lol33ta
-uploader:torvusil
-witch
-witchy
+batman,
+category:ine,
+character:dr. harleen frances "harley quinn" quinzel,
+creator:sarah christina,
+dc comics,
+fan art,
+halloween,
+harley quinn,
+magic,
+medium:digital 2d,
+pinup,
+sarah christina,
+subreddit:imaginarygotham,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+subreddit:imfandoms,
+suicide squad,
+title:"witchy harley quinn" by sarah christina,
+title:witchy harley quinn by sarah christina,
+uploader:lol33ta,
+uploader:torvusil,
+witch,
+witchy,

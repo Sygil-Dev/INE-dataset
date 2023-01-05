@@ -1,20 +1,20 @@
-02
-3d
-3dprint
-anime
-artgerm
-category:ine
-character
-creator:wandah kurniawan
-darling in the franxx
-evangelion
-fanart
-medium:digital 3d
-statue
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:"zero two" by wandah kurniawan
-title:zero two
-uploader:torvusil
-waifus
-zero two
+02,
+3d,
+3dprint,
+anime,
+artgerm,
+category:ine,
+character,
+creator:wandah kurniawan,
+darling in the franxx,
+evangelion,
+fanart,
+medium:digital 3d,
+statue,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:"zero two" by wandah kurniawan,
+title:zero two,
+uploader:torvusil,
+waifus,
+zero two,

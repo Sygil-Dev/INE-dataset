@@ -1,28 +1,28 @@
-architecture
-bare tree
-blue sky
-building
-bush
-category:ine
-cloud
-cloudy sky
-creator:danielgerhard
-day
-fence
-forest
-grass
-house
-mountain
-nature
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-title:south river tavern
-title:south river tavern by daniel gerhard
-tower
-tree
-uploader:sacredserenity
+architecture,
+bare tree,
+blue sky,
+building,
+bush,
+category:ine,
+cloud,
+cloudy sky,
+creator:danielgerhard,
+day,
+fence,
+forest,
+grass,
+house,
+mountain,
+nature,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+title:south river tavern,
+title:south river tavern by daniel gerhard,
+tower,
+tree,
+uploader:sacredserenity,

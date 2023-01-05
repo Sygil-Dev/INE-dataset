@@ -1,90 +1,90 @@
-alternate form
-basket
-blonde hair
-blue eyes
-blush
-booru:e621
-breasts
-brown body
-brown fur
-category:ine
-character:applejack
-character:applejack (mlp)
-character:rarity
-character:rarity (mlp)
-character:spike
-character:spike (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-closed eyes
-container
-creator:mechagen
-day
-detailed background
-equid taur
-equine taur
-eyelashes
-eyes closed
-feathered wings
-feathers
-female
-feral
-fur
-furry
-gender:female
-gender:male
-genre:fantasy
-grass
-green eyes
-group
-hair
-hi res
-high resolution
-hooves
-horn
-horns
-kiss
-kissing
-male
-mechagen
-medium:detailed background
-medium:high resolution
-meta:hi res
-monster
-orange body
-orange fur
-outside
-plant
-purple body
-purple fur
-purple hair
-rating:questionable
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sky
-smile
-species:centaur
-species:dragon
-species:equid
-species:equid taur
-species:equine
-species:equine taur
-species:humanoid taur
-species:mammal
-species:mammal taur
-species:mythical
-species:scalie
-species:taur
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-taur
-title:'feelings' by mechagen/alex
-title:feelings
-uploader:myrandall
-white body
-white fur
-wings
+alternate form,
+basket,
+blonde hair,
+blue eyes,
+blush,
+booru:e621,
+breasts,
+brown body,
+brown fur,
+category:ine,
+character:applejack,
+character:applejack (mlp),
+character:rarity,
+character:rarity (mlp),
+character:spike,
+character:spike (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+closed eyes,
+container,
+creator:mechagen,
+day,
+detailed background,
+equid taur,
+equine taur,
+eyelashes,
+eyes closed,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+furry,
+gender:female,
+gender:male,
+genre:fantasy,
+grass,
+green eyes,
+group,
+hair,
+hi res,
+high resolution,
+hooves,
+horn,
+horns,
+kiss,
+kissing,
+male,
+mechagen,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+monster,
+orange body,
+orange fur,
+outside,
+plant,
+purple body,
+purple fur,
+purple hair,
+rating:questionable,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+smile,
+species:centaur,
+species:dragon,
+species:equid,
+species:equid taur,
+species:equine,
+species:equine taur,
+species:humanoid taur,
+species:mammal,
+species:mammal taur,
+species:mythical,
+species:scalie,
+species:taur,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+taur,
+title:'feelings' by mechagen/alex,
+title:feelings,
+uploader:myrandall,
+white body,
+white fur,
+wings,

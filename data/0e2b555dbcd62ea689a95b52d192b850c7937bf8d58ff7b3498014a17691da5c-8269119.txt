@@ -1,62 +1,62 @@
-action:smile
-ambiguous_gender
-animal
-artist:cryptid-creations
-black eyes
-black_eyes
-blurry
-bodypart:black eyes
-category:ine
-closed mouth
-creator:cryptid creations
-creator:cryptid-creations
-depth of field
-feral
-furry
-gender:ambiguous
-gender:male
-grass
-green body
-green scales
-green_body
-green_scales
-ground vehicle
-humor
-looking up
-male:0
-male:1
-medium:watermark
-medium:web address
-meme:humor
-military
-military vehicle
-motor vehicle
-nature
-no humans
-ocean
-outdoors
-outside
-plant
-pun
-rain
-raining
-rating:safe
-ripples
-rock
-scales
-series:original
-smile
-solo
-species:reptile
-species:scalie
-species:turtle
-subreddit:imaginaryweather
-subreddit:imnature
-tank
-title:daily paint 1549. shellter
-title:shellter by piper thibodeau
-turtle shell
-uploader:myrandall
-visual pun
-visual_pun
-water
+action:smile,
+ambiguous_gender,
+animal,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+blurry,
+bodypart:black eyes,
+category:ine,
+closed mouth,
+creator:cryptid creations,
+creator:cryptid-creations,
+depth of field,
+feral,
+furry,
+gender:ambiguous,
+gender:male,
+grass,
+green body,
+green scales,
+green_body,
+green_scales,
+ground vehicle,
+humor,
+looking up,
+male:0,
+male:1,
+medium:watermark,
+medium:web address,
+meme:humor,
+military,
+military vehicle,
+motor vehicle,
+nature,
+no humans,
+ocean,
+outdoors,
+outside,
+plant,
+pun,
+rain,
+raining,
+rating:safe,
+ripples,
+rock,
+scales,
+series:original,
+smile,
+solo,
+species:reptile,
+species:scalie,
+species:turtle,
+subreddit:imaginaryweather,
+subreddit:imnature,
+tank,
+title:daily paint 1549. shellter,
+title:shellter by piper thibodeau,
+turtle shell,
+uploader:myrandall,
+visual pun,
+visual_pun,
+water,

@@ -1,30 +1,30 @@
-aesthetic
-anime
-category:ine
-cowboy bebop
-cowboy_bebop
-cowboybebop
-cowboybebopfaye
-creator:jessica luna
-fanart
-faye valentine
-fayevalentine
-japan
-medium:digital 2d
-retro
-retro anime
-series:cowboy bebop
-shibuya
-studio:sunrise (company)
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:faye valentine
-title:faye valentine by jessica luna
-uploader:lol33ta
-vaporwave
-vintage
-vintage anime
-カウボーイビバップ
-フェイヴァレンタイン
-フェイ・ヴァレンタイン
-渋谷区
+aesthetic,
+anime,
+category:ine,
+cowboy bebop,
+cowboy_bebop,
+cowboybebop,
+cowboybebopfaye,
+creator:jessica luna,
+fanart,
+faye valentine,
+fayevalentine,
+japan,
+medium:digital 2d,
+retro,
+retro anime,
+series:cowboy bebop,
+shibuya,
+studio:sunrise (company),
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:faye valentine,
+title:faye valentine by jessica luna,
+uploader:lol33ta,
+vaporwave,
+vintage,
+vintage anime,
+カウボーイビバップ,
+フェイヴァレンタイン,
+フェイ・ヴァレンタイン,
+渋谷区,

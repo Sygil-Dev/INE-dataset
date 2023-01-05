@@ -1,22 +1,22 @@
-art:classical fine art
-category:ine
-cloud
-creator:albert bierstadt
-fine art
-landscape
-medium:image
-medium:traditional media
-mountain
-outdoors
-outside
-rating:safe
-subreddit:imaginaryweather
-subreddit:imnature
-subreddit:museum
-tagme:character
-title:a storm in the rocky mountains, mt. rosalie
-title:a storm in the rocky mountains, mt. rosalie by albert bierstadt. oil on canvas, 1866.
-title:albert bierstadt - a storm in the rocky mountains - mount rosalie (1866)
-uploader:kapitankurt
-uploader:plainchant
-year:1866
+art:classical fine art,
+category:ine,
+cloud,
+creator:albert bierstadt,
+fine art,
+landscape,
+medium:image,
+medium:traditional media,
+mountain,
+outdoors,
+outside,
+rating:safe,
+subreddit:imaginaryweather,
+subreddit:imnature,
+subreddit:museum,
+tagme:character,
+title:a storm in the rocky mountains, mt. rosalie,
+title:a storm in the rocky mountains, mt. rosalie by albert bierstadt. oil on canvas, 1866.,
+title:albert bierstadt - a storm in the rocky mountains - mount rosalie (1866),
+uploader:kapitankurt,
+uploader:plainchant,
+year:1866,

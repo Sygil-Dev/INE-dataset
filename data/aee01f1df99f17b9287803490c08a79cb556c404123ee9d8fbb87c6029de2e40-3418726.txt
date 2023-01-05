@@ -1,71 +1,71 @@
-2016
-alternate timeline
-artist:audrarius
-audrarius
-badass
-booru:e621
-braid
-braided hair
-braided tail
-braided_hair
-category:ine
-character:fluttershy
-character:fluttershy (mlp)
-character:fluttershy_(mlp)
-chrysalis resistance timeline
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:audrarius
-feathered wings
-feathered_wings
-feathers
-female
-feral
-flutterbadass
-gender:female
-genre:fantasy
-glare
-hair
-mare
-mask
-melee weapon
-melee_weapon
-meta:2016
-pegasus
-pink hair
-pink_hair
-polearm
-pony
-rating:safe
-safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-spear
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-the cutie re-mark
-title:"tribalshy" by audrarius/malus
-title:tribalshy
-tribalshy
-uploader:crystallord
-weapon
-weapon:polearm
-weapon:spear
-wings
-year:2016
-yellow body
-yellow feathers
-yellow_body
-yellow_feathers
+2016,
+alternate timeline,
+artist:audrarius,
+audrarius,
+badass,
+booru:e621,
+braid,
+braided hair,
+braided tail,
+braided_hair,
+category:ine,
+character:fluttershy,
+character:fluttershy (mlp),
+character:fluttershy_(mlp),
+chrysalis resistance timeline,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:audrarius,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+feral,
+flutterbadass,
+gender:female,
+genre:fantasy,
+glare,
+hair,
+mare,
+mask,
+melee weapon,
+melee_weapon,
+meta:2016,
+pegasus,
+pink hair,
+pink_hair,
+polearm,
+pony,
+rating:safe,
+safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+spear,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+the cutie re-mark,
+title:"tribalshy" by audrarius/malus,
+title:tribalshy,
+tribalshy,
+uploader:crystallord,
+weapon,
+weapon:polearm,
+weapon:spear,
+wings,
+year:2016,
+yellow body,
+yellow feathers,
+yellow_body,
+yellow_feathers,

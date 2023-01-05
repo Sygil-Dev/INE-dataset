@@ -1,68 +1,68 @@
-2015
-blue hair
-booru:e621
-cape
-category:ine
-character:trixie (mlp)
-character:trixie lulamoon
-clothing
-clothing:hat
-clothing:headwear
-creator:viwrastupr
-detailed background
-female
-feral
-forest
-gender:female
-genre:fantasy
-hair
-hat
-headgear
-headwear
-hi res
-horn
-horns
-leaves
-levitation
-magic
-mare
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2015
-meta:digital media (artwork)
-meta:hi res
-outside
-plant
-purple eyes
-rating:safe
-safe
-scenery
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-snow
-snowfall
-snowing
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:'trixie stops by the woods on a snowy evening.' by viwrastupr
-title:trixie stops by the woods on a snowy evening.
-tree
-uploader:schnitzellover
-viwrastupr
-white hair
-winter
-wizard hat
-year:2015
+2015,
+blue hair,
+booru:e621,
+cape,
+category:ine,
+character:trixie (mlp),
+character:trixie lulamoon,
+clothing,
+clothing:hat,
+clothing:headwear,
+creator:viwrastupr,
+detailed background,
+female,
+feral,
+forest,
+gender:female,
+genre:fantasy,
+hair,
+hat,
+headgear,
+headwear,
+hi res,
+horn,
+horns,
+leaves,
+levitation,
+magic,
+mare,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2015,
+meta:digital media (artwork),
+meta:hi res,
+outside,
+plant,
+purple eyes,
+rating:safe,
+safe,
+scenery,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+snow,
+snowfall,
+snowing,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:'trixie stops by the woods on a snowy evening.' by viwrastupr,
+title:trixie stops by the woods on a snowy evening.,
+tree,
+uploader:schnitzellover,
+viwrastupr,
+white hair,
+winter,
+wizard hat,
+year:2015,

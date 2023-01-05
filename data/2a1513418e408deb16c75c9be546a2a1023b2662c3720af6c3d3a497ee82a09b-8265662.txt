@@ -1,94 +1,94 @@
-16:10
-2016
-beach
-bite
-blonde hair
-box
-category:ine
-character:derpy hooves
-character:derpy hooves (mlp)
-cloud
-container
-creator:da-exile
-cute
-cutie mark
-derpyhooves
-detailed background
-eating
-envelope
-eyelashes
-feathered wings
-feathers
-female
-feral
-flower
-food
-gender:female
-genre:fantasy
-grass
-grey body
-grey feathers
-guro
-hair
-hi res
-holding food
-holding object
-hooves
-island
-leaning
-leaning back
-mailbag
-medium:16:10 aspect ratio
-medium:detailed background
-medium:high resolution
-medium:wallpaper
-meta:16:10
-meta:2016
-meta:detailed
-meta:hi res
-meta:wallpaper
-meta:widescreen
-muffin
-mylittleponyfriendshipismagic
-nude
-package
-plant
-pony
-portrait
-puffed cheeks
-rating:explicit
-rating:mature
-rating:safe
-rock
-sand
-satchel
-scenery
-sea
-seashell
-seaside
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-shell
-sitting
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:'no-rush delivery' by andrey (da-exile)
-title:no-rush delivery
-underhoof
-uploader:schnitzellover
-wallpaper
-water
-wings
-year:2016
-yellow eyes
+16:10,
+2016,
+beach,
+bite,
+blonde hair,
+box,
+category:ine,
+character:derpy hooves,
+character:derpy hooves (mlp),
+cloud,
+container,
+creator:da-exile,
+cute,
+cutie mark,
+derpyhooves,
+detailed background,
+eating,
+envelope,
+eyelashes,
+feathered wings,
+feathers,
+female,
+feral,
+flower,
+food,
+gender:female,
+genre:fantasy,
+grass,
+grey body,
+grey feathers,
+guro,
+hair,
+hi res,
+holding food,
+holding object,
+hooves,
+island,
+leaning,
+leaning back,
+mailbag,
+medium:16:10 aspect ratio,
+medium:detailed background,
+medium:high resolution,
+medium:wallpaper,
+meta:16:10,
+meta:2016,
+meta:detailed,
+meta:hi res,
+meta:wallpaper,
+meta:widescreen,
+muffin,
+mylittleponyfriendshipismagic,
+nude,
+package,
+plant,
+pony,
+portrait,
+puffed cheeks,
+rating:explicit,
+rating:mature,
+rating:safe,
+rock,
+sand,
+satchel,
+scenery,
+sea,
+seashell,
+seaside,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+shell,
+sitting,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:'no-rush delivery' by andrey (da-exile),
+title:no-rush delivery,
+underhoof,
+uploader:schnitzellover,
+wallpaper,
+water,
+wings,
+year:2016,
+yellow eyes,

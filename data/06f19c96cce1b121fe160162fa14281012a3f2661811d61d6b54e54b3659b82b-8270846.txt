@@ -1,25 +1,25 @@
-category:ine
-creator:magdalena radziej
-day
-india
-indoors
-jungle
-leaf
-letterboxed
-light rays
-medium:digital 2d
-palm
-pillar
-plant
-potted plant
-rating:safe
-scenery
-statue
-subreddit:imaginarytemples
-subreddit:imarchitecture
-sunset
-temple
-title:temple
-title:temple by magdalena radziej
-uploader:e-leventy
-vines
+category:ine,
+creator:magdalena radziej,
+day,
+india,
+indoors,
+jungle,
+leaf,
+letterboxed,
+light rays,
+medium:digital 2d,
+palm,
+pillar,
+plant,
+potted plant,
+rating:safe,
+scenery,
+statue,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+sunset,
+temple,
+title:temple,
+title:temple by magdalena radziej,
+uploader:e-leventy,
+vines,

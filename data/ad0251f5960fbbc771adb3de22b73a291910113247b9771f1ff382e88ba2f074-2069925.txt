@@ -1,64 +1,64 @@
-2015
-blue body
-blue eyes
-blue feathers
-booru:e621
-category:ine
-character:angel (mlp)
-character:fluttershy
-character:fluttershy (mlp)
-creator:big-mac-115
-creator:dennybutt
-creator:dennyvixen
-creator:dvixie
-cute
-detailed background
-eyebrows
-eyelashes
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-gender:male
-genre:fantasy
-group
-grumpy
-hair
-looking aside
-looking down
-male
-medium:detailed background
-meta:2015
-pink hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:avian
-species:bird
-species:equid
-species:equine
-species:lagomorph
-species:leporid
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-species:rabbit
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"fluttershy's new friend" by claire revell (dennybutt)
-title:fluttershy's new friend
-uploader:crystallord
-white body
-white fur
-wings
-year:2015
-yellow body
-yellow feathers
+2015,
+blue body,
+blue eyes,
+blue feathers,
+booru:e621,
+category:ine,
+character:angel (mlp),
+character:fluttershy,
+character:fluttershy (mlp),
+creator:big-mac-115,
+creator:dennybutt,
+creator:dennyvixen,
+creator:dvixie,
+cute,
+detailed background,
+eyebrows,
+eyelashes,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+gender:male,
+genre:fantasy,
+group,
+grumpy,
+hair,
+looking aside,
+looking down,
+male,
+medium:detailed background,
+meta:2015,
+pink hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:avian,
+species:bird,
+species:equid,
+species:equine,
+species:lagomorph,
+species:leporid,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+species:rabbit,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"fluttershy's new friend" by claire revell (dennybutt),
+title:fluttershy's new friend,
+uploader:crystallord,
+white body,
+white fur,
+wings,
+year:2015,
+yellow body,
+yellow feathers,

@@ -1,24 +1,24 @@
-artwork
-booru:wallhaven.cc
-category:ine
-clouds
-exoplanet
-fantasy art
-ice
-iceberg
-landscape
-medium:digital media
-nasa
-nature
-planet
-render
-sea
-snow
-snowflakes
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-sunset
-title:trappist-1f credits nasa/jpl-caltech
-trappist-1f
-uploader:te_lanus
-winter
+artwork,
+booru:wallhaven.cc,
+category:ine,
+clouds,
+exoplanet,
+fantasy art,
+ice,
+iceberg,
+landscape,
+medium:digital media,
+nasa,
+nature,
+planet,
+render,
+sea,
+snow,
+snowflakes,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+sunset,
+title:trappist-1f credits nasa/jpl-caltech,
+trappist-1f,
+uploader:te_lanus,
+winter,

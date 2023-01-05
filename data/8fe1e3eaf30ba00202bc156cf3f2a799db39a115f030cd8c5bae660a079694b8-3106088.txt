@@ -1,48 +1,48 @@
-ass
-blue body
-blue feathers
-blue fur
-booru:e621
-butt
-category:ine
-character:rainbow dash
-character:rainbow dash (mlp)
-creator:caramelbrulee
-cutie mark
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-hair
-medium:1:1 aspect ratio
-meta:1:1
-multicolored hair
-multicolored tail
-rainbow fur
-rainbow hair
-rainbow tail
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-tail
-title:"sky high" by rudi (caramelbrulee)
-title:sky high
-uploader:crystallord
-wings
+ass,
+blue body,
+blue feathers,
+blue fur,
+booru:e621,
+butt,
+category:ine,
+character:rainbow dash,
+character:rainbow dash (mlp),
+creator:caramelbrulee,
+cutie mark,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+medium:1:1 aspect ratio,
+meta:1:1,
+multicolored hair,
+multicolored tail,
+rainbow fur,
+rainbow hair,
+rainbow tail,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+tail,
+title:"sky high" by rudi (caramelbrulee),
+title:sky high,
+uploader:crystallord,
+wings,

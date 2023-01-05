@@ -1,53 +1,53 @@
-1girl
-architecture
-booru:e621
-bottomwear
-bridge
-building
-category:ine
-chinese
-city
-clothing
-clothing:legwear
-clothing:pants
-cloud
-creator:sandara
-destruction
-detailed background
-dragon
-escape
-furry
-glowing
-glowing eyes
-medium:detailed background
-oriental
-pants
-rating:safe
-running
-scenery
-series:asian mythology
-series:east asian mythology
-series:mythology
-sharp teeth
-sky
-species:aquatic dragon
-species:dragon
-species:eastern dragon
-species:elemental
-species:elemental creature
-species:human
-species:mammal
-species:marine
-species:mythical
-species:scalie
-species:water creature
-species:water elemental
-subreddit:imaginaryweather
-subreddit:imnature
-teeth
-temple
-title:flood
-title:flood by sandara tang
-uploader:fireflycities
-water
-wave
+1girl,
+architecture,
+booru:e621,
+bottomwear,
+bridge,
+building,
+category:ine,
+chinese,
+city,
+clothing,
+clothing:legwear,
+clothing:pants,
+cloud,
+creator:sandara,
+destruction,
+detailed background,
+dragon,
+escape,
+furry,
+glowing,
+glowing eyes,
+medium:detailed background,
+oriental,
+pants,
+rating:safe,
+running,
+scenery,
+series:asian mythology,
+series:east asian mythology,
+series:mythology,
+sharp teeth,
+sky,
+species:aquatic dragon,
+species:dragon,
+species:eastern dragon,
+species:elemental,
+species:elemental creature,
+species:human,
+species:mammal,
+species:marine,
+species:mythical,
+species:scalie,
+species:water creature,
+species:water elemental,
+subreddit:imaginaryweather,
+subreddit:imnature,
+teeth,
+temple,
+title:flood,
+title:flood by sandara tang,
+uploader:fireflycities,
+water,
+wave,

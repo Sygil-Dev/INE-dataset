@@ -1,19 +1,19 @@
-angel
-artwork
-blue eyes
-category:ine
-clothing:armor
-fantasy armor
-fantasy art
-fantasy weapon
-gender:female
-mace
-red hair
-skull
-subreddit:imaginaryangels
-subreddit:imraces
-title:harbinger nike by anna christenson
-uploader:lol33ta
-warrior
-weapon
-wings
+angel,
+artwork,
+blue eyes,
+category:ine,
+clothing:armor,
+fantasy armor,
+fantasy art,
+fantasy weapon,
+gender:female,
+mace,
+red hair,
+skull,
+subreddit:imaginaryangels,
+subreddit:imraces,
+title:harbinger nike by anna christenson,
+uploader:lol33ta,
+warrior,
+weapon,
+wings,

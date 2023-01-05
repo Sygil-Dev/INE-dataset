@@ -1,71 +1,71 @@
-2016
-blue eyes
-booru:e621
-bridge
-category:ine
-character:pinkie pie
-character:pinkie pie (mlp)
-character:rarity
-character:rarity (mlp)
-city
-cloud
-creator:huussii
-detailed background
-duo
-female
-feral
-fur
-gender:female
-genre:fantasy
-grass
-hair
-hi res
-high resolution
-horn
-horns
-landscape
-manehattan
-medium:16:9 aspect ratio
-medium:detailed background
-medium:high resolution
-outside
-pink fur
-pink hair
-plant
-purple hair
-rating:safe
-river
-sculpture
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-smile
-species:anatid
-species:anseriform
-species:avian
-species:bird
-species:duck
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-statue
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"last train home" by teemu husso (huussii)
-title:last train home
-train
-uploader:torvusil
-vehicle
-water
-white fur
-year:2016
+2016,
+blue eyes,
+booru:e621,
+bridge,
+category:ine,
+character:pinkie pie,
+character:pinkie pie (mlp),
+character:rarity,
+character:rarity (mlp),
+city,
+cloud,
+creator:huussii,
+detailed background,
+duo,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+grass,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+landscape,
+manehattan,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:high resolution,
+outside,
+pink fur,
+pink hair,
+plant,
+purple hair,
+rating:safe,
+river,
+sculpture,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+smile,
+species:anatid,
+species:anseriform,
+species:avian,
+species:bird,
+species:duck,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+statue,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"last train home" by teemu husso (huussii),
+title:last train home,
+train,
+uploader:torvusil,
+vehicle,
+water,
+white fur,
+year:2016,

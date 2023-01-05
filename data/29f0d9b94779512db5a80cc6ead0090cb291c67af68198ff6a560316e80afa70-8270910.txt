@@ -1,35 +1,35 @@
-armor
-booru:sankaku channel
-booru:yande.re
-category:ine
-cleavage
-clothing:armor
-clothing:footwear
-clothing:panties
-clothing:thigh-highs
-clothing:underwear
-creator:cherrylich
-creator:daeho cha
-creator:태섭 신
-daeho cha
-era of angels
-footwear
-heels
-high heels
-medium:digital 2d
-medium:high resolution
-panties
-pantsu
-rating:safe
-series:era of angels
-shoes
-subreddit:imaginaryangels
-subreddit:imraces
-thigh-highs
-thighhighs
-title:era of angels
-title:era of angels by 태섭 신
-underwear
-uploader:lol33ta
-weapon
-wings
+armor,
+booru:sankaku channel,
+booru:yande.re,
+category:ine,
+cleavage,
+clothing:armor,
+clothing:footwear,
+clothing:panties,
+clothing:thigh-highs,
+clothing:underwear,
+creator:cherrylich,
+creator:daeho cha,
+creator:태섭 신,
+daeho cha,
+era of angels,
+footwear,
+heels,
+high heels,
+medium:digital 2d,
+medium:high resolution,
+panties,
+pantsu,
+rating:safe,
+series:era of angels,
+shoes,
+subreddit:imaginaryangels,
+subreddit:imraces,
+thigh-highs,
+thighhighs,
+title:era of angels,
+title:era of angels by 태섭 신,
+underwear,
+uploader:lol33ta,
+weapon,
+wings,

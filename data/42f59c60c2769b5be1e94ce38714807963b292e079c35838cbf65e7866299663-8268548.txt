@@ -1,18 +1,18 @@
-angel
-category:ine
-clouds
-creator:anuschka wolfe
-dynamic
-justice
-medium:digital 2d
-painting
-red hair
-scales
-subreddit:imaginaryangels
-subreddit:imraces
-sunset
-title:justice
-title:justice, anuschka wolfe
-uploader:catsoft
-wings
-worms eye view
+angel,
+category:ine,
+clouds,
+creator:anuschka wolfe,
+dynamic,
+justice,
+medium:digital 2d,
+painting,
+red hair,
+scales,
+subreddit:imaginaryangels,
+subreddit:imraces,
+sunset,
+title:justice,
+title:justice, anuschka wolfe,
+uploader:catsoft,
+wings,
+worms eye view,

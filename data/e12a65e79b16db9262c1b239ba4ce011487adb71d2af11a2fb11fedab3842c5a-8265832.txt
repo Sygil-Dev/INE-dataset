@@ -1,18 +1,18 @@
-category:ine
-creator:casper hansen
-digital
-fan art
-fanart
-itachi
-male
-medium:digital 2d
-naruto
-painting
-raven
-red
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:itachi
-title:itachi by casper hansen
-uchiha
-uploader:net-diver
+category:ine,
+creator:casper hansen,
+digital,
+fan art,
+fanart,
+itachi,
+male,
+medium:digital 2d,
+naruto,
+painting,
+raven,
+red,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:itachi,
+title:itachi by casper hansen,
+uchiha,
+uploader:net-diver,

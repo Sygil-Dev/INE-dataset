@@ -1,24 +1,24 @@
-1girl
-building
-category:ine
-city
-city lights
-cloud
-cloudy sky
-light rays
-long hair
-mountain
-outdoors
-rating:safe
-river
-ruins
-scenery
-sky
-subreddit:imaginarytemples
-subreddit:imarchitecture
-sunbeam
-title:citadel by morgan yon
-tree
-uploader:nitemyria
-very long hair
-water
+1girl,
+building,
+category:ine,
+city,
+city lights,
+cloud,
+cloudy sky,
+light rays,
+long hair,
+mountain,
+outdoors,
+rating:safe,
+river,
+ruins,
+scenery,
+sky,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+sunbeam,
+title:citadel by morgan yon,
+tree,
+uploader:nitemyria,
+very long hair,
+water,

@@ -1,25 +1,25 @@
-armor
-artanis
-cannibalus
-category:ine
-character:oc
-character:oc only
-character:oc:ruhig fortepiano
-creator:cannibalus
-crystal
-moon
-oc
-oc only
-oc:ruhig fortepiano
-rating:safe
-ruhigfortepiano
-safe
-series:starcraft
-solo
-species:protoss
-studio:blizzard entertainment
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"ruhig-artanis" by vitaliy (cannibalus)
-title:ruhig-artanis
-uploader:torvusil
+armor,
+artanis,
+cannibalus,
+category:ine,
+character:oc,
+character:oc only,
+character:oc:ruhig fortepiano,
+creator:cannibalus,
+crystal,
+moon,
+oc,
+oc only,
+oc:ruhig fortepiano,
+rating:safe,
+ruhigfortepiano,
+safe,
+series:starcraft,
+solo,
+species:protoss,
+studio:blizzard entertainment,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"ruhig-artanis" by vitaliy (cannibalus),
+title:ruhig-artanis,
+uploader:torvusil,

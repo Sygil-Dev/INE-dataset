@@ -1,64 +1,64 @@
-1 male
-1boy
-blonde
-blonde hair
-blue eyes
-blue jacket
-booru:danbooru
-booru:gelbooru
-booru:sankaku channel
-booru:tbib
-capsule corp
-category:ine
-character:future trunks
-character:super saiyan
-character:trunks (dragon ball)
-character:trunks (future) (dragon ball)
-character:trunks brief
-character:trunks briefs
-clothing:jacket
-creator:sakimichan
-dragonball z
-foreshortening
-future trunks
-gender:male
-hair:blonde
-jacket
-male
-male focus
-male only
-medium:2d art
-medium:focus on male character
-medium:patreon reward
-medium:realistic
-medium:watermark
-medium:web address
-meta:paid reward
-meta:patreon reward
-rating:mature
-rating:safe
-realistic
-series:dragon ball
-series:dragon ball z
-short hair
-site:deviant art
-site:patreon
-site:yiff.party
-solo
-species:saiyan
-spiked hair
-spiky hair
-subreddit:imaginaryanime
-subreddit:imfandoms
-super saiyan
-super saiyan 1
-sword
-title:[dragon ball z] [trunks] super saiyan by yue wang (sakimichan)
-title:super saiyan
-title:trunks super saiyan (term 12 reward)
-trunks (dragon ball)
-trunks (future) (dragon ball)
-uploader:obsignate
-watermark
-weapon
-web address
+1 male,
+1boy,
+blonde,
+blonde hair,
+blue eyes,
+blue jacket,
+booru:danbooru,
+booru:gelbooru,
+booru:sankaku channel,
+booru:tbib,
+capsule corp,
+category:ine,
+character:future trunks,
+character:super saiyan,
+character:trunks (dragon ball),
+character:trunks (future) (dragon ball),
+character:trunks brief,
+character:trunks briefs,
+clothing:jacket,
+creator:sakimichan,
+dragonball z,
+foreshortening,
+future trunks,
+gender:male,
+hair:blonde,
+jacket,
+male,
+male focus,
+male only,
+medium:2d art,
+medium:focus on male character,
+medium:patreon reward,
+medium:realistic,
+medium:watermark,
+medium:web address,
+meta:paid reward,
+meta:patreon reward,
+rating:mature,
+rating:safe,
+realistic,
+series:dragon ball,
+series:dragon ball z,
+short hair,
+site:deviant art,
+site:patreon,
+site:yiff.party,
+solo,
+species:saiyan,
+spiked hair,
+spiky hair,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+super saiyan,
+super saiyan 1,
+sword,
+title:[dragon ball z] [trunks] super saiyan by yue wang (sakimichan),
+title:super saiyan,
+title:trunks super saiyan (term 12 reward),
+trunks (dragon ball),
+trunks (future) (dragon ball),
+uploader:obsignate,
+watermark,
+weapon,
+web address,

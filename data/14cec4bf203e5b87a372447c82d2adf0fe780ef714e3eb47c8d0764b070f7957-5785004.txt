@@ -1,69 +1,69 @@
-16:9
-amazing background
-amazing_background
-artist:photonoko
-blue body
-blue feathers
-blue fur
-blue_body
-blue_feathers
-blue_fur
-booru:e621
-category:ine
-cave
-character:fan character
-character:fan_character
-copyright:hasbro
-copyright:my_little_pony
-creator:photonoko
-creator:rain-gear
-detailed background
-detailed_background
-feathered wings
-feathered_wings
-feathers
-female
-feral
-fur
-gender:female
-guro
-hi res
-hooves
-medium:16:9 aspect ratio
-medium:amazing background
-medium:detailed background
-medium:high resolution
-meta:16:9
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:digital_media_(artwork)
-meta:digital_painting_(artwork)
-meta:hi res
-meta:hi_res
-meta:nsfw
-meta:original character
-meta:widescreen
-nude
-original character
-rating:explicit
-rating:mature
-rating:safe
-series:hasbro
-series:my little pony
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:non-human animal
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"the somber crusader" by the clouded one (rain-gear)
-title:the somber crusader
-uploader:torvusil
-wings
-yellow eyes
-yellow_eyes
+16:9,
+amazing background,
+amazing_background,
+artist:photonoko,
+blue body,
+blue feathers,
+blue fur,
+blue_body,
+blue_feathers,
+blue_fur,
+booru:e621,
+category:ine,
+cave,
+character:fan character,
+character:fan_character,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:photonoko,
+creator:rain-gear,
+detailed background,
+detailed_background,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+guro,
+hi res,
+hooves,
+medium:16:9 aspect ratio,
+medium:amazing background,
+medium:detailed background,
+medium:high resolution,
+meta:16:9,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:digital_media_(artwork),
+meta:digital_painting_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:nsfw,
+meta:original character,
+meta:widescreen,
+nude,
+original character,
+rating:explicit,
+rating:mature,
+rating:safe,
+series:hasbro,
+series:my little pony,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:non-human animal,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"the somber crusader" by the clouded one (rain-gear),
+title:the somber crusader,
+uploader:torvusil,
+wings,
+yellow eyes,
+yellow_eyes,

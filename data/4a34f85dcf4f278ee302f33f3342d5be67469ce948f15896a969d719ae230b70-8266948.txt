@@ -1,22 +1,22 @@
-acrylic
-batman
-blank cover
-category:ine
-character:dr. harleen frances "harley quinn" quinzel
-copic
-creator:elias chatzoudis
-dc
-faber castell
-gotham city
-markers
-medium:traditional paint
-original art
-pencils
-poison ivy
-sirens
-subreddit:imaginarygotham
-subreddit:imfandoms
-title:harley quinn by elias chatzoudis
-traditional
-uploader:lol33ta
-villain
+acrylic,
+batman,
+blank cover,
+category:ine,
+character:dr. harleen frances "harley quinn" quinzel,
+copic,
+creator:elias chatzoudis,
+dc,
+faber castell,
+gotham city,
+markers,
+medium:traditional paint,
+original art,
+pencils,
+poison ivy,
+sirens,
+subreddit:imaginarygotham,
+subreddit:imfandoms,
+title:harley quinn by elias chatzoudis,
+traditional,
+uploader:lol33ta,
+villain,

@@ -1,23 +1,23 @@
-1other
-architecture
-bird
-building
-category:ine
-city
-cloud
-cloudy sky
-fire
-outdoors
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginaryvillages
-subreddit:imarchitecture
-sunset
-title:borough by kamil sroka
-tower
-twilight
-uploader:[deleted]
-uploader:owntheknight
-weapon
+1other,
+architecture,
+bird,
+building,
+category:ine,
+city,
+cloud,
+cloudy sky,
+fire,
+outdoors,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginaryvillages,
+subreddit:imarchitecture,
+sunset,
+title:borough by kamil sroka,
+tower,
+twilight,
+uploader:[deleted],
+uploader:owntheknight,
+weapon,

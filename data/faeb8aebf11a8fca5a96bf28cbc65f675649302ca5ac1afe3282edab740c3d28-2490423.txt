@@ -1,78 +1,78 @@
-2016
-abstract background
-absurd res
-bigwings
-blue body
-blue eyes
-blue feathers
-blue fur
-blue hair
-bluestar
-booru:e621
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-character:princess luna
-character:princess luna (mlp)
-clothing:necklace
-cosmos
-creator:bra1neater
-crown
-cutie mark
-detailed background
-duo
-feathered wings
-feathers
-female
-feral
-fire
-flying
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-horn
-horns
-jewelry
-long hair
-magic
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:2016
-meta:absurd res
-meta:hi res
-meta:long image
-mlpmylittlepony
-multicolored hair
-nebula
-necklace
-princesscelestia
-princessluna
-purple eyes
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solarflare
-space
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-star
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:equilibrium
-title:equilibrium by bra1neater
-uploader:kippermydog
-white body
-white fur
-wide image
-wings
-year:2016
+2016,
+abstract background,
+absurd res,
+bigwings,
+blue body,
+blue eyes,
+blue feathers,
+blue fur,
+blue hair,
+bluestar,
+booru:e621,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+character:princess luna,
+character:princess luna (mlp),
+clothing:necklace,
+cosmos,
+creator:bra1neater,
+crown,
+cutie mark,
+detailed background,
+duo,
+feathered wings,
+feathers,
+female,
+feral,
+fire,
+flying,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+jewelry,
+long hair,
+magic,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:2016,
+meta:absurd res,
+meta:hi res,
+meta:long image,
+mlpmylittlepony,
+multicolored hair,
+nebula,
+necklace,
+princesscelestia,
+princessluna,
+purple eyes,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solarflare,
+space,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+star,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:equilibrium,
+title:equilibrium by bra1neater,
+uploader:kippermydog,
+white body,
+white fur,
+wide image,
+wings,
+year:2016,

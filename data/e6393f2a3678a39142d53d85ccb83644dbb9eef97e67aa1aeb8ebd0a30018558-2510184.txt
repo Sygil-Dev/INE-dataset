@@ -1,60 +1,60 @@
-2015
-abstract background
-blue body
-blue eyes
-blue fur
-blue hair
-blush
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-clothing:jewelry
-clothing:necklace
-creator:mrs1989
-crown
-dessert
-eating
-female
-feral
-food
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-horn
-horns
-ice cream
-jewelry
-looking at viewer
-medium:abstract background
-medium:high resolution
-meta:2015
-meta:hi res
-mrs1989
-necklace
-open mouth
-pov
-rating:questionable
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"busted" by pu_reun_ha_neul (mrs1989)
-title:busted
-uploader:torvusil
-wings
-year:2015
+2015,
+abstract background,
+blue body,
+blue eyes,
+blue fur,
+blue hair,
+blush,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+clothing:jewelry,
+clothing:necklace,
+creator:mrs1989,
+crown,
+dessert,
+eating,
+female,
+feral,
+food,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+ice cream,
+jewelry,
+looking at viewer,
+medium:abstract background,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+mrs1989,
+necklace,
+open mouth,
+pov,
+rating:questionable,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"busted" by pu_reun_ha_neul (mrs1989),
+title:busted,
+uploader:torvusil,
+wings,
+year:2015,

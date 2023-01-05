@@ -1,40 +1,40 @@
-animal
-booru:sankaku channel
-bubble
-category:ine
-creator:wenqing yan
-creator:yuumei
-female
-fish
-forest
-gender:female
-kelp
-language:english
-medium:artist name
-medium:english text
-medium:text
-medium:web address
-mermaid
-meta:artist name
-monster girl
-ocean
-outdoors
-outside
-rating:safe
-scenery
-sea
-series:original
-short hair
-silhouette
-solo
-species:merfolk
-species:mythical
-subreddit:imaginaryseascapes
-subreddit:imlandscapes
-text
-title:forest of the sea
-title:forest of the sea, by wenquing yan, on deviant art
-underwater
-uploader:sylvyrfyre
-water
-water bubbles
+animal,
+booru:sankaku channel,
+bubble,
+category:ine,
+creator:wenqing yan,
+creator:yuumei,
+female,
+fish,
+forest,
+gender:female,
+kelp,
+language:english,
+medium:artist name,
+medium:english text,
+medium:text,
+medium:web address,
+mermaid,
+meta:artist name,
+monster girl,
+ocean,
+outdoors,
+outside,
+rating:safe,
+scenery,
+sea,
+series:original,
+short hair,
+silhouette,
+solo,
+species:merfolk,
+species:mythical,
+subreddit:imaginaryseascapes,
+subreddit:imlandscapes,
+text,
+title:forest of the sea,
+title:forest of the sea, by wenquing yan, on deviant art,
+underwater,
+uploader:sylvyrfyre,
+water,
+water bubbles,

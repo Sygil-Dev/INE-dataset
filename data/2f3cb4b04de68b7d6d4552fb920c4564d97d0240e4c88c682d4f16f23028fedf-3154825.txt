@@ -1,53 +1,53 @@
-2015
-booru:e621
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-creator:viwrastupr
-cutie mark
-feathered wings
-feathers
-female
-feral
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-horn
-horns
-looking at viewer
-medium:digital media
-medium:high resolution
-meta:2015
-meta:digital media (artwork)
-meta:hi res
-night
-point of view
-pov
-purple eyes
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"wet mane celestia - dec 29th" by viwrastupr
-title:wet mane celestia - dec 29th
-uploader:torvusil
-water
-wet
-wet hair
-white body
-white feathers
-wings
-year:2015
+2015,
+booru:e621,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+creator:viwrastupr,
+cutie mark,
+feathered wings,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+looking at viewer,
+medium:digital media,
+medium:high resolution,
+meta:2015,
+meta:digital media (artwork),
+meta:hi res,
+night,
+point of view,
+pov,
+purple eyes,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"wet mane celestia - dec 29th" by viwrastupr,
+title:wet mane celestia - dec 29th,
+uploader:torvusil,
+water,
+wet,
+wet hair,
+white body,
+white feathers,
+wings,
+year:2015,

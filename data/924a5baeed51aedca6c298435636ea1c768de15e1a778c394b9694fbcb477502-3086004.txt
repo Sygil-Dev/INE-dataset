@@ -1,63 +1,63 @@
-amazing
-booru:e621
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-clothing:necklace
-cloud
-cloudscape
-creator:esuka
-crown
-cutie mark
-feathered wings
-feathers
-female
-feral
-gender:female
-genre:fantasy
-gold
-gold (metal)
-hair
-hi res
-horn
-horns
-jewelry
-light
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:hi res
-meta:widescreen
-multi-colored hair
-multicolored hair
-necklace
-outside
-princess
-rating:safe
-royalty
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sky
-solo
-sparkle
-sparkles
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sun
-sunbeam
-sunbeams
-sunlight
-tag source:e621
-title:"longest day" by esuka
-title:longest day
-uploader:cerebis279
-white body
-white feathers
-wings
+amazing,
+booru:e621,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+clothing:necklace,
+cloud,
+cloudscape,
+creator:esuka,
+crown,
+cutie mark,
+feathered wings,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+gold,
+gold (metal),
+hair,
+hi res,
+horn,
+horns,
+jewelry,
+light,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:hi res,
+meta:widescreen,
+multi-colored hair,
+multicolored hair,
+necklace,
+outside,
+princess,
+rating:safe,
+royalty,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+solo,
+sparkle,
+sparkles,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sun,
+sunbeam,
+sunbeams,
+sunlight,
+tag source:e621,
+title:"longest day" by esuka,
+title:longest day,
+uploader:cerebis279,
+white body,
+white feathers,
+wings,

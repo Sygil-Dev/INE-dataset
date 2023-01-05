@@ -1,28 +1,28 @@
-category:ine
-cathedral
-church
-city
-concept art
-creator:khairizal anwar
-dead
-environment
-environment art
-environment concept art
-european
-horse
-horses
-keyframe
-knights
-medieval
-medium:digital 2d
-middle ages
-old town
-spears
-storytelling
-subreddit:imaginaryvillages
-subreddit:imarchitecture
-title:war torn
-title:war torn by khairizal anwar
-town
-uploader:mackhai21
-weapons
+category:ine,
+cathedral,
+church,
+city,
+concept art,
+creator:khairizal anwar,
+dead,
+environment,
+environment art,
+environment concept art,
+european,
+horse,
+horses,
+keyframe,
+knights,
+medieval,
+medium:digital 2d,
+middle ages,
+old town,
+spears,
+storytelling,
+subreddit:imaginaryvillages,
+subreddit:imarchitecture,
+title:war torn,
+title:war torn by khairizal anwar,
+town,
+uploader:mackhai21,
+weapons,

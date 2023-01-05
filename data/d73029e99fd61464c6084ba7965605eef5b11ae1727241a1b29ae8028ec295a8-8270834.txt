@@ -1,52 +1,52 @@
-abs
-absurd res
-aquatic
-blue body
-blue scales
-blue skin
-booru:e621
-category:ine
-creator:pacelic
-ear piercing
-facial piercing
-furry
-gender:male
-guro
-hair
-hi res
-horn
-horns
-jewelry
-lightning
-male
-medium:absurd resolution
-medium:high resolution
-membrane (anatomy)
-membranous wings
-meta:absurd res
-meta:hi res
-muscles
-muscular
-muscular male
-nude
-open mouth
-pecs
-piercing
-rating:explicit
-rating:mature
-rating:safe
-scales
-solo
-species:dragon
-species:marine
-species:mythical
-species:reptile
-species:scalie
-subreddit:imaginaryweather
-subreddit:imnature
-title:wild thunder
-title:wild thunder by pacelic
-uploader:chalkchick0
-water
-wings
-yellow eyes
+abs,
+absurd res,
+aquatic,
+blue body,
+blue scales,
+blue skin,
+booru:e621,
+category:ine,
+creator:pacelic,
+ear piercing,
+facial piercing,
+furry,
+gender:male,
+guro,
+hair,
+hi res,
+horn,
+horns,
+jewelry,
+lightning,
+male,
+medium:absurd resolution,
+medium:high resolution,
+membrane (anatomy),
+membranous wings,
+meta:absurd res,
+meta:hi res,
+muscles,
+muscular,
+muscular male,
+nude,
+open mouth,
+pecs,
+piercing,
+rating:explicit,
+rating:mature,
+rating:safe,
+scales,
+solo,
+species:dragon,
+species:marine,
+species:mythical,
+species:reptile,
+species:scalie,
+subreddit:imaginaryweather,
+subreddit:imnature,
+title:wild thunder,
+title:wild thunder by pacelic,
+uploader:chalkchick0,
+water,
+wings,
+yellow eyes,

@@ -1,40 +1,40 @@
-2015
-absurd res
-bodily fluids
-booru:e621
-bottle
-category:ine
-character:pinkie pie
-character:pinkie pie (mlp)
-creator:jowybean
-female
-gender:female
-genre:fantasy
-hi res
-medium:absurd resolution
-medium:high resolution
-meta:2015
-meta:absurd res
-meta:hi res
-pacifier
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sweat
-tag source:e621
-title:"bottle it up :fim title cards series" by joshua whitehouse (jowybean)
-title:bottle it up :fim title cards series
-uploader:crystallord
-year:2015
+2015,
+absurd res,
+bodily fluids,
+booru:e621,
+bottle,
+category:ine,
+character:pinkie pie,
+character:pinkie pie (mlp),
+creator:jowybean,
+female,
+gender:female,
+genre:fantasy,
+hi res,
+medium:absurd resolution,
+medium:high resolution,
+meta:2015,
+meta:absurd res,
+meta:hi res,
+pacifier,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sweat,
+tag source:e621,
+title:"bottle it up :fim title cards series" by joshua whitehouse (jowybean),
+title:bottle it up :fim title cards series,
+uploader:crystallord,
+year:2015,

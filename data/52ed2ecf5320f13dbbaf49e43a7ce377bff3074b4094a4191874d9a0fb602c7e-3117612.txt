@@ -1,109 +1,109 @@
-bench
-blue eyes
-booru:e621
-bridge
-building
-category:ine
-character:bonbon
-character:bonbon (mlp)
-character:lyra heartstrings
-character:lyra heartstrings (mlp)
-character:opalescence (mlp)
-character:pinkie pie
-character:pinkie pie (mlp)
-character:rarity
-character:rarity (mlp)
-character:sweetie belle
-character:sweetie belle (mlp)
-clothed
-clothing
-creator:devinian
-cute
-detailed background
-duo focus
-evergreen tree
-eye contact
-female
-feral
-flying
-forest
-fur
-gender:female
-genre:fantasy
-gift
-glowing
-green eyes
-group
-hair
-hi res
-horn
-horns
-house
-ice
-ice skating
-lamp
-levitation
-light
-looking at another
-magic
-mane
-medium:detailed background
-medium:high resolution
-meta:hi res
-moon
-moonlight
-mountain
-night
-outside
-pine tree
-plant
-ponyville
-purple hair
-rating:safe
-ribbons
-river
-rock
-scarf
-series:doctor who
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sibling
-siblings
-sister
-sisters
-sky
-sled
-smile
-snow
-snowing
-snowscape
-species:ambient bird
-species:avian
-species:bird
-species:cardinal (bird)
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:northern cardinal
-species:oscine
-species:passerine
-species:pony
-species:unicorn
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-tardis
-title:"simple generous gifts" by devinian/evilscrooge
-title:simple generous gifts
-tree
-uploader:crystallord
-white body
-white fur
-winter
+bench,
+blue eyes,
+booru:e621,
+bridge,
+building,
+category:ine,
+character:bonbon,
+character:bonbon (mlp),
+character:lyra heartstrings,
+character:lyra heartstrings (mlp),
+character:opalescence (mlp),
+character:pinkie pie,
+character:pinkie pie (mlp),
+character:rarity,
+character:rarity (mlp),
+character:sweetie belle,
+character:sweetie belle (mlp),
+clothed,
+clothing,
+creator:devinian,
+cute,
+detailed background,
+duo focus,
+evergreen tree,
+eye contact,
+female,
+feral,
+flying,
+forest,
+fur,
+gender:female,
+genre:fantasy,
+gift,
+glowing,
+green eyes,
+group,
+hair,
+hi res,
+horn,
+horns,
+house,
+ice,
+ice skating,
+lamp,
+levitation,
+light,
+looking at another,
+magic,
+mane,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+moon,
+moonlight,
+mountain,
+night,
+outside,
+pine tree,
+plant,
+ponyville,
+purple hair,
+rating:safe,
+ribbons,
+river,
+rock,
+scarf,
+series:doctor who,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sibling,
+siblings,
+sister,
+sisters,
+sky,
+sled,
+smile,
+snow,
+snowing,
+snowscape,
+species:ambient bird,
+species:avian,
+species:bird,
+species:cardinal (bird),
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:northern cardinal,
+species:oscine,
+species:passerine,
+species:pony,
+species:unicorn,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+tardis,
+title:"simple generous gifts" by devinian/evilscrooge,
+title:simple generous gifts,
+tree,
+uploader:crystallord,
+white body,
+white fur,
+winter,

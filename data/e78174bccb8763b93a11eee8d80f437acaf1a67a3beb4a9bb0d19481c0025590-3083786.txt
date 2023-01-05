@@ -1,62 +1,62 @@
-2013
-blue hair
-booru:e621
-building
-category:ine
-character:oc
-character:oc only
-clothing
-clothing:hat
-clothing:headwear
-creator:madhotaru
-cutie mark
-dark
-female
-fence
-feral
-flag
-gender:female
-grass
-hair
-hat
-headgear
-headwear
-house
-lantern
-light
-madhotaru
-meta:3:2
-meta:2013
-mouth hold
-necktie
-night
-oc
-oc only
-outside
-plant
-railroad
-rating:safe
-safe
-series:hasbro
-series:my little pony
-sitting
-sky
-solo
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-star
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-suit
-title:outside of time
-title:outside of time by madhotaru (real name unknown)
-train tracks
-tree
-uniform
-uploader:sandtalon
-year:2013
+2013,
+blue hair,
+booru:e621,
+building,
+category:ine,
+character:oc,
+character:oc only,
+clothing,
+clothing:hat,
+clothing:headwear,
+creator:madhotaru,
+cutie mark,
+dark,
+female,
+fence,
+feral,
+flag,
+gender:female,
+grass,
+hair,
+hat,
+headgear,
+headwear,
+house,
+lantern,
+light,
+madhotaru,
+meta:3:2,
+meta:2013,
+mouth hold,
+necktie,
+night,
+oc,
+oc only,
+outside,
+plant,
+railroad,
+rating:safe,
+safe,
+series:hasbro,
+series:my little pony,
+sitting,
+sky,
+solo,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+star,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+suit,
+title:outside of time,
+title:outside of time by madhotaru (real name unknown),
+train tracks,
+tree,
+uniform,
+uploader:sandtalon,
+year:2013,

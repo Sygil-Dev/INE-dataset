@@ -1,73 +1,73 @@
-16:10
-2012
-blue body
-blue feathers
-blue fur
-booru:e621
-category:ine
-character:rainbow dash
-character:rainbow dash (mlp)
-cloud
-cloudscape
-creator:bluedrg
-creator:bluedrg19
-cutie mark
-detailed background
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-grin
-hair
-looking at viewer
-looking back
-medium:16:10 aspect ratio
-medium:detailed background
-medium:wallpaper
-meta:16:10
-meta:2012
-meta:wallpaper
-meta:widescreen
-multi-colored hair
-multicolored hair
-multicolored tail
-outside
-pov
-purple eyes
-rainbow
-rainbow arch
-rainbow fur
-rainbow hair
-rainbow tail
-rating:safe
-sculpture
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-smile
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-statue
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-tail
-title:"rd" by bluedrg
-title:rd
-uploader:crystallord
-wallpaper
-widescreen
-wings
-year:2012
+16:10,
+2012,
+blue body,
+blue feathers,
+blue fur,
+booru:e621,
+category:ine,
+character:rainbow dash,
+character:rainbow dash (mlp),
+cloud,
+cloudscape,
+creator:bluedrg,
+creator:bluedrg19,
+cutie mark,
+detailed background,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+grin,
+hair,
+looking at viewer,
+looking back,
+medium:16:10 aspect ratio,
+medium:detailed background,
+medium:wallpaper,
+meta:16:10,
+meta:2012,
+meta:wallpaper,
+meta:widescreen,
+multi-colored hair,
+multicolored hair,
+multicolored tail,
+outside,
+pov,
+purple eyes,
+rainbow,
+rainbow arch,
+rainbow fur,
+rainbow hair,
+rainbow tail,
+rating:safe,
+sculpture,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+smile,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+statue,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+tail,
+title:"rd" by bluedrg,
+title:rd,
+uploader:crystallord,
+wallpaper,
+widescreen,
+wings,
+year:2012,

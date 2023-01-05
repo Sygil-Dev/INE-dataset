@@ -1,58 +1,58 @@
-1 female
-1girl
-artist:tenobe
-bangs
-bracelet
-category:ine
-character:circe (fate/grand order)
-circe (fate/grand order)
-closed mouth
-clothing:bracelet
-clothing:footwear
-clothing:necklace
-clothing:skirt
-cloud
-copyright:fate/grand order
-creator:tenobe
-creator:yosi135
-ears
-feathered wings
-feathers
-feet out of frame
-fingernails
-footwear
-gender:female
-green eyes
-hair:pink hair
-hairband
-holding
-holding object
-holding staff
-jewelry
-legband
-medium:high resolution
-meta:copyright request
-meta:highres
-necklace
-no bra
-pink hair
-pleated skirt
-pointy ears
-rating:mature
-rating:safe
-sandals
-series:fate
-series:fate (series)
-series:fate/grand order
-skirt
-smile
-solo
-staff
-subreddit:imaginarywitches
-subreddit:imcharacters
-title:circe by tenobe (てのべ)
-uploader:zwegria707
-vest
-white skirt
-white vest
-wings
+1 female,
+1girl,
+artist:tenobe,
+bangs,
+bracelet,
+category:ine,
+character:circe (fate/grand order),
+circe (fate/grand order),
+closed mouth,
+clothing:bracelet,
+clothing:footwear,
+clothing:necklace,
+clothing:skirt,
+cloud,
+copyright:fate/grand order,
+creator:tenobe,
+creator:yosi135,
+ears,
+feathered wings,
+feathers,
+feet out of frame,
+fingernails,
+footwear,
+gender:female,
+green eyes,
+hair:pink hair,
+hairband,
+holding,
+holding object,
+holding staff,
+jewelry,
+legband,
+medium:high resolution,
+meta:copyright request,
+meta:highres,
+necklace,
+no bra,
+pink hair,
+pleated skirt,
+pointy ears,
+rating:mature,
+rating:safe,
+sandals,
+series:fate,
+series:fate (series),
+series:fate/grand order,
+skirt,
+smile,
+solo,
+staff,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+title:circe by tenobe (てのべ),
+uploader:zwegria707,
+vest,
+white skirt,
+white vest,
+wings,

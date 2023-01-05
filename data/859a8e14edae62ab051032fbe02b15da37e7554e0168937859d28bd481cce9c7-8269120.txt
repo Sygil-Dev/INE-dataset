@@ -1,89 +1,89 @@
-1 female
-1girl
-3 males
-3boys
-aqua hair
-art
-bike shorts
-black gloves
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-bracelet
-category:ine
-character:mikane (gang road joker)
-check copyright
-clothing:black gloves
-clothing:bracelet
-clothing:collar
-clothing:fingerless gloves
-clothing:gloves
-clothing:hood
-clothing:legwear
-clothing:shorts
-collar
-colored nails
-company name
-computer
-creator:dong-wook shin
-cup
-dj
-dong-wook shin
-drinking glass
-fingerless gloves
-gender:female
-gender:male
-glint
-gloves
-hand up
-hands
-headphones
-headphones removed
-holding
-holding headphones
-hood
-hood down
-indoors
-jewelry
-laptop
-logo
-looking at viewer
-male:3
-medium:absurd resolution
-medium:company name
-medium:high resolution
-medium:very high resolution
-meta:absurdres
-meta:check copyright
-meta:copyright request
-meta:highres
-meta:official art
-midriff
-mikane (gang road joker)
-multiple boys
-multiple males
-nail polish
-nightclub
-out of frame
-parted lips
-pink nails
-pov
-rating:mature
-rating:safe
-series:gang road joker
-short hair
-shorts
-shot glass
-solo focus
-spats
-spiked collar
-spikes
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-tattoo
-title:mikane by dong-wook shin
-uploader:lol33ta
-zipper
+1 female,
+1girl,
+3 males,
+3boys,
+aqua hair,
+art,
+bike shorts,
+black gloves,
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+bracelet,
+category:ine,
+character:mikane (gang road joker),
+check copyright,
+clothing:black gloves,
+clothing:bracelet,
+clothing:collar,
+clothing:fingerless gloves,
+clothing:gloves,
+clothing:hood,
+clothing:legwear,
+clothing:shorts,
+collar,
+colored nails,
+company name,
+computer,
+creator:dong-wook shin,
+cup,
+dj,
+dong-wook shin,
+drinking glass,
+fingerless gloves,
+gender:female,
+gender:male,
+glint,
+gloves,
+hand up,
+hands,
+headphones,
+headphones removed,
+holding,
+holding headphones,
+hood,
+hood down,
+indoors,
+jewelry,
+laptop,
+logo,
+looking at viewer,
+male:3,
+medium:absurd resolution,
+medium:company name,
+medium:high resolution,
+medium:very high resolution,
+meta:absurdres,
+meta:check copyright,
+meta:copyright request,
+meta:highres,
+meta:official art,
+midriff,
+mikane (gang road joker),
+multiple boys,
+multiple males,
+nail polish,
+nightclub,
+out of frame,
+parted lips,
+pink nails,
+pov,
+rating:mature,
+rating:safe,
+series:gang road joker,
+short hair,
+shorts,
+shot glass,
+solo focus,
+spats,
+spiked collar,
+spikes,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+tattoo,
+title:mikane by dong-wook shin,
+uploader:lol33ta,
+zipper,

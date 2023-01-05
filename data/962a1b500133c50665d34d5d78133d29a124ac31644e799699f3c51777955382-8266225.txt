@@ -1,21 +1,21 @@
-architecture
-category:ine
-city
-cloud
-creator:someya mai
-creator:zennmai siki
-day
-east asian architecture
-no humans
-outdoors
-outside
-pagoda
-petals
-rating:mature
-rating:safe
-scenery
-series:original
-stairs
-subreddit:imaginaryarchitecture
-title:朱天都市 by zennmai siki
-uploader:[deleted]
+architecture,
+category:ine,
+city,
+cloud,
+creator:someya mai,
+creator:zennmai siki,
+day,
+east asian architecture,
+no humans,
+outdoors,
+outside,
+pagoda,
+petals,
+rating:mature,
+rating:safe,
+scenery,
+series:original,
+stairs,
+subreddit:imaginaryarchitecture,
+title:朱天都市 by zennmai siki,
+uploader:[deleted],

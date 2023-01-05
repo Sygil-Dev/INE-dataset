@@ -1,35 +1,35 @@
-bird
-bridge
-building
-castle
-category:ine
-city
-cloud
-cloudy sky
-dusk
-evening
-forest
-gradient sky
-lake
-mountain
-nature
-no humans
-orange sky
-outdoors
-rating:safe
-red sky
-river
-scenery
-sky
-subreddit:imaginarytemples
-subreddit:imaginarywaterfalls
-subreddit:imarchitecture
-subreddit:imnature
-sunset
-title:temple of kraan by christopher balaskas
-tower
-tree
-twilight
-uploader:drunkindragon
-uploader:myrandall
-water
+bird,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cloud,
+cloudy sky,
+dusk,
+evening,
+forest,
+gradient sky,
+lake,
+mountain,
+nature,
+no humans,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+river,
+scenery,
+sky,
+subreddit:imaginarytemples,
+subreddit:imaginarywaterfalls,
+subreddit:imarchitecture,
+subreddit:imnature,
+sunset,
+title:temple of kraan by christopher balaskas,
+tower,
+tree,
+twilight,
+uploader:drunkindragon,
+uploader:myrandall,
+water,

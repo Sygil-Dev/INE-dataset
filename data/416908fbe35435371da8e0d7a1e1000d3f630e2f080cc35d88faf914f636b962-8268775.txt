@@ -1,29 +1,29 @@
-binary code
-black body
-black feathers
-booru:e621
-category:ine
-character:binary
-creator:jademere
-creator:jademerien
-feathered wings
-feathers
-gender:male
-male
-medium:digital media
-medium:simple background
-meta:2017
-meta:digital media (artwork)
-rating:safe
-simple background
-sitting
-solo
-species:angel
-species:humanoid
-species:winged humanoid
-subreddit:imaginaryangels
-subreddit:imraces
-title:binary angel, by jade mere
-uploader:belledame-sans-serif
-wings
-year:2017
+binary code,
+black body,
+black feathers,
+booru:e621,
+category:ine,
+character:binary,
+creator:jademere,
+creator:jademerien,
+feathered wings,
+feathers,
+gender:male,
+male,
+medium:digital media,
+medium:simple background,
+meta:2017,
+meta:digital media (artwork),
+rating:safe,
+simple background,
+sitting,
+solo,
+species:angel,
+species:humanoid,
+species:winged humanoid,
+subreddit:imaginaryangels,
+subreddit:imraces,
+title:binary angel, by jade mere,
+uploader:belledame-sans-serif,
+wings,
+year:2017,

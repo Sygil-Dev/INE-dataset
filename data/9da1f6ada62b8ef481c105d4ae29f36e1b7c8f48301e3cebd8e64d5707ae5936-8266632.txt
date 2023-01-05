@@ -1,28 +1,28 @@
-abandoned
-blood
-bodily fluids
-building
-category:ine
-creator:joakim ericsson
-death
-farm
-field
-horror
-house
-killer
-knife
-medium:digital 2d
-mid west
-movie
-murder
-night
-omen
-psycho
-scary
-serial killer
-subreddit:imaginarycarnage
-subreddit:imnsfw
-title:'cold blood' by joakim ericsson
-title:cold blood
-united states of america
-uploader:m1dn1ght5un
+abandoned,
+blood,
+bodily fluids,
+building,
+category:ine,
+creator:joakim ericsson,
+death,
+farm,
+field,
+horror,
+house,
+killer,
+knife,
+medium:digital 2d,
+mid west,
+movie,
+murder,
+night,
+omen,
+psycho,
+scary,
+serial killer,
+subreddit:imaginarycarnage,
+subreddit:imnsfw,
+title:'cold blood' by joakim ericsson,
+title:cold blood,
+united states of america,
+uploader:m1dn1ght5un,

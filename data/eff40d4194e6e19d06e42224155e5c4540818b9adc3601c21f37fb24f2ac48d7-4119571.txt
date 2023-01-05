@@ -1,84 +1,84 @@
-3 females
-3girls
-annie berton
-architecture
-autumn leaves
-balcony
-bird
-blonde
-blonde hair
-book
-bookshelf
-booru:sankaku
-booru:sankaku channel
-brown hair
-cafe
-category:ine
-character:annie belton
-character:annie berton
-character:sylvie bonheur
-character:tori (matsuda (matsukichi))
-character:yvette martin
-clock
-couch
-creator:cafe
-creator:matsuda (artist)
-creator:matsuda (matsukichi)
-female
-gender:female
-graphite (medium)
-guro
-high resolution
-highres
-lamp
-lantern
-leaf
-matsukitchi
-medium:graphite
-medium:graphite (medium)
-medium:high resolution
-medium:mixed media
-medium:traditional media
-meta:explicit content
-meta:graphite (medium)
-meta:highres
-meta:photoshop (medium)
-meta:traditional media
-mixed media
-multiple females
-multiple girls
-nature
-open book
-original 1000 users bookmark
-outdoors
-outside
-pixivフェスタ
-pixivフェスタvol.4
-plant
-potted plant
-railing
-rating:explicit
-rating:s
-rating:safe
-reading
-ref
-scenery
-series:original
-series:pixiv festa
-species:avian
-stairs
-subreddit:imaginarylibraries
-subreddit:imarchitecture
-sunbeam
-sunlight
-title:library cafe by matsukitchi
-tori (matsuda (matsukichi))
-traditional media
-tree
-uploader:mediadavid
-waitress
-もえぎ色
-カフェ
-コーヒー
-ブックカフェ
-図書館
+3 females,
+3girls,
+annie berton,
+architecture,
+autumn leaves,
+balcony,
+bird,
+blonde,
+blonde hair,
+book,
+bookshelf,
+booru:sankaku,
+booru:sankaku channel,
+brown hair,
+cafe,
+category:ine,
+character:annie belton,
+character:annie berton,
+character:sylvie bonheur,
+character:tori (matsuda (matsukichi)),
+character:yvette martin,
+clock,
+couch,
+creator:cafe,
+creator:matsuda (artist),
+creator:matsuda (matsukichi),
+female,
+gender:female,
+graphite (medium),
+guro,
+high resolution,
+highres,
+lamp,
+lantern,
+leaf,
+matsukitchi,
+medium:graphite,
+medium:graphite (medium),
+medium:high resolution,
+medium:mixed media,
+medium:traditional media,
+meta:explicit content,
+meta:graphite (medium),
+meta:highres,
+meta:photoshop (medium),
+meta:traditional media,
+mixed media,
+multiple females,
+multiple girls,
+nature,
+open book,
+original 1000 users bookmark,
+outdoors,
+outside,
+pixivフェスタ,
+pixivフェスタvol.4,
+plant,
+potted plant,
+railing,
+rating:explicit,
+rating:s,
+rating:safe,
+reading,
+ref,
+scenery,
+series:original,
+series:pixiv festa,
+species:avian,
+stairs,
+subreddit:imaginarylibraries,
+subreddit:imarchitecture,
+sunbeam,
+sunlight,
+title:library cafe by matsukitchi,
+tori (matsuda (matsukichi)),
+traditional media,
+tree,
+uploader:mediadavid,
+waitress,
+もえぎ色,
+カフェ,
+コーヒー,
+ブックカフェ,
+図書館,

@@ -1,69 +1,69 @@
-2014
-action:open mouth
-angry
-beak
-blue body
-blue fur
-bodypart:hair
-bodypart:purple eyes
-bodypart:rainbow hair
-bodypart:teeth
-bodypart:wings
-bodypart:yellow eyes
-category:ine
-character:gilda
-character:rainbow dash
-character:rainbow dash (mlp)
-cloud
-creator:tsitra360
-duo
-emotion:anger
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-hair
-happy
-hi res
-lightning
-medium:high resolution
-meta:2014
-meta:hi res
-meta:tagme
-monster
-multi-colored hair
-multicolored hair
-open mouth
-purple eyes
-rainbow hair
-rating:safe
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-series:mythology
-species:avian
-species:equid
-species:equine
-species:gryphon
-species:hybrid
-species:mammal
-species:mythical
-species:mythological avian
-species:pegasus
-species:pterippus
-storm
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-teeth
-title:"you changed" by tsitra360
-title:you changed
-uploader:crystallord
-website:e621
-wings
-year:2014
-yellow eyes
+2014,
+action:open mouth,
+angry,
+beak,
+blue body,
+blue fur,
+bodypart:hair,
+bodypart:purple eyes,
+bodypart:rainbow hair,
+bodypart:teeth,
+bodypart:wings,
+bodypart:yellow eyes,
+category:ine,
+character:gilda,
+character:rainbow dash,
+character:rainbow dash (mlp),
+cloud,
+creator:tsitra360,
+duo,
+emotion:anger,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+happy,
+hi res,
+lightning,
+medium:high resolution,
+meta:2014,
+meta:hi res,
+meta:tagme,
+monster,
+multi-colored hair,
+multicolored hair,
+open mouth,
+purple eyes,
+rainbow hair,
+rating:safe,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+series:mythology,
+species:avian,
+species:equid,
+species:equine,
+species:gryphon,
+species:hybrid,
+species:mammal,
+species:mythical,
+species:mythological avian,
+species:pegasus,
+species:pterippus,
+storm,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+teeth,
+title:"you changed" by tsitra360,
+title:you changed,
+uploader:crystallord,
+website:e621,
+wings,
+year:2014,
+yellow eyes,

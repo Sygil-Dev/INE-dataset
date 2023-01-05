@@ -1,122 +1,122 @@
-16:10
-2016
-ambient figure
-ambient_figure
-artist:photonoko
-background pony
-blue body
-blue feathers
-blue fur
-blue hair
-blue_body
-blue_feathers
-blue_fur
-blue_hair
-booru:e621
-burning
-burning building
-burning_building
-category:ine
-character:princess luna
-character:princess luna (mlp)
-character:princess_luna_(mlp)
-character:tantabus
-clothing:necklace
-cloud
-copyright:friendship is magic
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:photonoko
-creator:rain-gear
-crescent moon
-crescent_moon
-crown
-cutie mark
-cutie_mark
-debris
-digital media (artwork)
-do princesses dream of magic sheep
-duo
-epic
-feathered wings
-feathered_wings
-feathers
-female
-feral
-fire
-fissure
-flag
-fur
-gender:female
-genre:fantasy
-glowing
-glowing horn
-hair
-hi res
-high resolution
-horn
-horns
-jewelry
-long hair
-long_hair
-looking at viewer
-looking back
-looking_at_viewer
-looking_back
-magic
-mare
-medium:16:10 aspect ratio
-medium:digital media
-medium:high resolution
-medium:wallpaper
-meta:16:10
-meta:2016
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:wallpaper
-meta:widescreen
-metal as fuck
-moon
-necklace
-night
-nightmare
-outside
-painting
-point of view
-ponyville
-pov
-raised hoof
-rating:safe
-ruins
-scenery
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-smoke
-species:alicorn
-species:equid
-species:equine
-species:mammal
-species:non-human animal
-species:pony
-species:winged unicorn
-species:winged_unicorn
-spell
-spread wings
-spread_wings
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-surreal
-tag source:e621
-title:"cover me!" by rain-gear
-title:cover me!
-uploader:torvusil
-wallpaper
-wings
-year:2016
+16:10,
+2016,
+ambient figure,
+ambient_figure,
+artist:photonoko,
+background pony,
+blue body,
+blue feathers,
+blue fur,
+blue hair,
+blue_body,
+blue_feathers,
+blue_fur,
+blue_hair,
+booru:e621,
+burning,
+burning building,
+burning_building,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+character:princess_luna_(mlp),
+character:tantabus,
+clothing:necklace,
+cloud,
+copyright:friendship is magic,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:photonoko,
+creator:rain-gear,
+crescent moon,
+crescent_moon,
+crown,
+cutie mark,
+cutie_mark,
+debris,
+digital media (artwork),
+do princesses dream of magic sheep,
+duo,
+epic,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+feral,
+fire,
+fissure,
+flag,
+fur,
+gender:female,
+genre:fantasy,
+glowing,
+glowing horn,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+jewelry,
+long hair,
+long_hair,
+looking at viewer,
+looking back,
+looking_at_viewer,
+looking_back,
+magic,
+mare,
+medium:16:10 aspect ratio,
+medium:digital media,
+medium:high resolution,
+medium:wallpaper,
+meta:16:10,
+meta:2016,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:wallpaper,
+meta:widescreen,
+metal as fuck,
+moon,
+necklace,
+night,
+nightmare,
+outside,
+painting,
+point of view,
+ponyville,
+pov,
+raised hoof,
+rating:safe,
+ruins,
+scenery,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+smoke,
+species:alicorn,
+species:equid,
+species:equine,
+species:mammal,
+species:non-human animal,
+species:pony,
+species:winged unicorn,
+species:winged_unicorn,
+spell,
+spread wings,
+spread_wings,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+surreal,
+tag source:e621,
+title:"cover me!" by rain-gear,
+title:cover me!,
+uploader:torvusil,
+wallpaper,
+wings,
+year:2016,

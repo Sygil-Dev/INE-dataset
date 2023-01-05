@@ -1,42 +1,42 @@
-2015
-blue eyes
-booru:e621
-category:ine
-character:rarity
-character:rarity (mlp)
-clothed
-clothing
-creator:pedrohander
-female
-feral
-gender:female
-genre:fantasy
-hair
-hi res
-horn
-horns
-medium:4:3 aspect ratio
-medium:high resolution
-meta:4:3
-meta:2015
-meta:hi res
-purple eyes
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-smile
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"drift" by pedro hander (pedrohander)
-title:drift
-uploader:crystallord
-year:2015
+2015,
+blue eyes,
+booru:e621,
+category:ine,
+character:rarity,
+character:rarity (mlp),
+clothed,
+clothing,
+creator:pedrohander,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+horn,
+horns,
+medium:4:3 aspect ratio,
+medium:high resolution,
+meta:4:3,
+meta:2015,
+meta:hi res,
+purple eyes,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+smile,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"drift" by pedro hander (pedrohander),
+title:drift,
+uploader:crystallord,
+year:2015,

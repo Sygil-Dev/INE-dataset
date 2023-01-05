@@ -1,47 +1,47 @@
-2015
-blue body
-blue feathers
-booru:e621
-category:ine
-character:rainbow dash
-character:rainbow dash (mlp)
-creator:viwrastupr
-detailed background
-feathered wings
-feathers
-female
-feral
-flying
-gender:female
-genre:fantasy
-hi res
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2015
-meta:digital media (artwork)
-meta:hi res
-rainbow
-rating:safe
-remake
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-sonic rainboom
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:'rainboom redo' by viwrastupr
-title:rainboom redo - dec 9th.
-uploader:schnitzellover
-wings
-year:2015
+2015,
+blue body,
+blue feathers,
+booru:e621,
+category:ine,
+character:rainbow dash,
+character:rainbow dash (mlp),
+creator:viwrastupr,
+detailed background,
+feathered wings,
+feathers,
+female,
+feral,
+flying,
+gender:female,
+genre:fantasy,
+hi res,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2015,
+meta:digital media (artwork),
+meta:hi res,
+rainbow,
+rating:safe,
+remake,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+sonic rainboom,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:'rainboom redo' by viwrastupr,
+title:rainboom redo - dec 9th.,
+uploader:schnitzellover,
+wings,
+year:2015,

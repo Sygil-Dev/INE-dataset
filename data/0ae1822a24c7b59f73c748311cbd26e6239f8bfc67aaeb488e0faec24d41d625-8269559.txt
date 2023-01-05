@@ -1,27 +1,27 @@
-angel
-blades
-category:ine
-clothing:armor
-creator:태섭 신
-drawing
-dust
-feathers
-floating
-headwear
-helmet
-medium:digital 2d
-smoke
-spell
-subreddit:imaginaryangels
-subreddit:imaginarybestof
-subreddit:immeta
-subreddit:imraces
-sword
-title:[/r/imaginaryangels] angel era by 태섭 신
-title:天使纪元
-title:天使纪元 by 태섭 신
-uploader:lol33ta
-warrior
-weapon
-wind
-wings
+angel,
+blades,
+category:ine,
+clothing:armor,
+creator:태섭 신,
+drawing,
+dust,
+feathers,
+floating,
+headwear,
+helmet,
+medium:digital 2d,
+smoke,
+spell,
+subreddit:imaginaryangels,
+subreddit:imaginarybestof,
+subreddit:immeta,
+subreddit:imraces,
+sword,
+title:[/r/imaginaryangels] angel era by 태섭 신,
+title:天使纪元,
+title:天使纪元 by 태섭 신,
+uploader:lol33ta,
+warrior,
+weapon,
+wind,
+wings,

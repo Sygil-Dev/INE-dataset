@@ -1,59 +1,59 @@
-1girl
-alien
-alien race
-belt
-black hair
-blue skin
-category:ine
-character
-character portrait
-colored skin
-creator:matheus leiras xavier
-creator:matheus lx
-cyberpunk
-d20
-dnd
-drawing
-drone
-dungeon master
-dungeons and dragons
-exocortex
-full body
-future
-futuristic
-game master
-genre:fantasy
-glowing
-guardians of the galaxy
-gun
-holding gun
-hood
-illustration
-lashunta
-mantis
-mechanic
-medium:digital 2d
-paizo
-pathfinder
-pathfinder rpg
-pen and paper
-pen and paper rpg
-purple skin
-rating:safe
-rpg
-science fiction
-scifi
-solo
-starfinder
-starfinder rpg
-striped
-studio:marvel
-subreddit:imaginarycyberpunk
-subreddit:imtechnology
-tabletop
-tabletop rpg
-title:lashunta mechanic - starfinder rpg character portrait commission
-title:starfinder alien mechanic
-trpg
-uploader:matnightmare
-weapon
+1girl,
+alien,
+alien race,
+belt,
+black hair,
+blue skin,
+category:ine,
+character,
+character portrait,
+colored skin,
+creator:matheus leiras xavier,
+creator:matheus lx,
+cyberpunk,
+d20,
+dnd,
+drawing,
+drone,
+dungeon master,
+dungeons and dragons,
+exocortex,
+full body,
+future,
+futuristic,
+game master,
+genre:fantasy,
+glowing,
+guardians of the galaxy,
+gun,
+holding gun,
+hood,
+illustration,
+lashunta,
+mantis,
+mechanic,
+medium:digital 2d,
+paizo,
+pathfinder,
+pathfinder rpg,
+pen and paper,
+pen and paper rpg,
+purple skin,
+rating:safe,
+rpg,
+science fiction,
+scifi,
+solo,
+starfinder,
+starfinder rpg,
+striped,
+studio:marvel,
+subreddit:imaginarycyberpunk,
+subreddit:imtechnology,
+tabletop,
+tabletop rpg,
+title:lashunta mechanic - starfinder rpg character portrait commission,
+title:starfinder alien mechanic,
+trpg,
+uploader:matnightmare,
+weapon,

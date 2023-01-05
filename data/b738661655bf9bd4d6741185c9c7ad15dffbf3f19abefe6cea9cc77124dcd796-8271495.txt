@@ -1,19 +1,19 @@
-category:ine
-creator:cristi balanescu
-demon
-fantasy
-fire
-illustration
-medium:digital 2d
-necromancer
-rpg
-schythe
-shaman
-sorceress
-spell
-subreddit:imaginarywitches
-subreddit:imcharacters
-title:the witch
-title:the witch by cristi balanescu
-uploader:net-diver
-witch
+category:ine,
+creator:cristi balanescu,
+demon,
+fantasy,
+fire,
+illustration,
+medium:digital 2d,
+necromancer,
+rpg,
+schythe,
+shaman,
+sorceress,
+spell,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+title:the witch,
+title:the witch by cristi balanescu,
+uploader:net-diver,
+witch,

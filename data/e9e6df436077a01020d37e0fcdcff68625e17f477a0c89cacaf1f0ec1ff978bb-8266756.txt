@@ -1,22 +1,22 @@
-booru:wallhaven.cc
-category:ine
-church
-clouds
-fantasy art
-hills
-landscape
-medium:digital media
-mountains
-nature
-night
-plants
-rock
-sergey zabelin
-snowy peak
-stars
-subreddit:imaginarymountains
-subreddit:imnature
-title:valley night by sergey zabelin
-uploader:somepostman
-valley
-villages
+booru:wallhaven.cc,
+category:ine,
+church,
+clouds,
+fantasy art,
+hills,
+landscape,
+medium:digital media,
+mountains,
+nature,
+night,
+plants,
+rock,
+sergey zabelin,
+snowy peak,
+stars,
+subreddit:imaginarymountains,
+subreddit:imnature,
+title:valley night by sergey zabelin,
+uploader:somepostman,
+valley,
+villages,

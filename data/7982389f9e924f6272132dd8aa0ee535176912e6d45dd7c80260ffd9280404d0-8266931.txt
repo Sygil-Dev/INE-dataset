@@ -1,22 +1,22 @@
-acrylic
-batman
-blank cover
-category:ine
-character:dr. pamela lillian "poison ivy" isley
-copic
-creator:elias chatzoudis
-dc
-faber castell
-gotham city
-harley quinn
-markers
-medium:traditional paint
-original art
-pencils
-sirens
-subreddit:imaginarygotham
-subreddit:imfandoms
-title:poison ivy by elias chatzoudis
-traditional
-uploader:lol33ta
-villain
+acrylic,
+batman,
+blank cover,
+category:ine,
+character:dr. pamela lillian "poison ivy" isley,
+copic,
+creator:elias chatzoudis,
+dc,
+faber castell,
+gotham city,
+harley quinn,
+markers,
+medium:traditional paint,
+original art,
+pencils,
+sirens,
+subreddit:imaginarygotham,
+subreddit:imfandoms,
+title:poison ivy by elias chatzoudis,
+traditional,
+uploader:lol33ta,
+villain,

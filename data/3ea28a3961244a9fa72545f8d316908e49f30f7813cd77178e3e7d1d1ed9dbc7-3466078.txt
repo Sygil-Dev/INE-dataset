@@ -1,147 +1,147 @@
-2016
-absurd res
-amazing background
-armchair
-armillary sphere
-art nouveau
-astrolabe
-black eyes
-blue body
-book
-bookcase
-bookshelf
-booru:e621
-brown body
-category:ine
-chair
-character:marble
-character:owlowiscious
-character:owlowiscious (mlp)
-character:princess twilight
-character:spike
-character:spike (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-character:twilight velvet
-character:twilight's father
-clock
-clothing
-clothing:footwear
-clothing:necklace
-column
-creator:devinian
-crown
-crystal
-curtains
-detailed background
-elaborate
-fangs
-feathered wings
-feathers
-female
-feral
-flying
-footstool
-footwear
-fur
-furniture
-furry
-gender:female
-gender:male
-genre:fantasy
-globe
-glowing
-glowing horn
-green eyes
-group
-hair
-hi res
-high resolution
-horn
-horns
-horseshoe
-indoors
-inkwell
-inside
-interior
-jewelry
-lamp
-levitation
-library
-loose feather
-magic
-magic circle
-magic user
-male
-marble
-medium:absurd resolution
-medium:amazing background
-medium:detailed background
-medium:high resolution
-meta:2016
-meta:absurd res
-meta:hi res
-moulding
-multicolored hair
-necklace
-painting
-pen
-pillar
-pink hair
-purple body
-purple eyes
-purple feathers
-purple fur
-purple hair
-purple scales
-quill
-rating:safe
-rock
-royalty
-scales
-scenery
-scroll
-sculpture
-series:friendship is magic
-series:hasbro
-series:mlp:generation 4
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-shoes
-slit pupils
-species:alicorn
-species:avian
-species:bird
-species:dragon
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:owl
-species:pony
-species:scalie
-species:unicorn
-species:winged unicorn
-spread wings
-stair
-stairs
-statue
-stone
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-table
-tag source:e621
-telekinesis
-three color hair
-title:the walls of knowledge
-title:the walls of knowledge by devinian on deviantart
-uploader:potluckpony
-white body
-window
-wings
-writing
-writing (disambiguation)
-writing text
-year:2016
+2016,
+absurd res,
+amazing background,
+armchair,
+armillary sphere,
+art nouveau,
+astrolabe,
+black eyes,
+blue body,
+book,
+bookcase,
+bookshelf,
+booru:e621,
+brown body,
+category:ine,
+chair,
+character:marble,
+character:owlowiscious,
+character:owlowiscious (mlp),
+character:princess twilight,
+character:spike,
+character:spike (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+character:twilight velvet,
+character:twilight's father,
+clock,
+clothing,
+clothing:footwear,
+clothing:necklace,
+column,
+creator:devinian,
+crown,
+crystal,
+curtains,
+detailed background,
+elaborate,
+fangs,
+feathered wings,
+feathers,
+female,
+feral,
+flying,
+footstool,
+footwear,
+fur,
+furniture,
+furry,
+gender:female,
+gender:male,
+genre:fantasy,
+globe,
+glowing,
+glowing horn,
+green eyes,
+group,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+horseshoe,
+indoors,
+inkwell,
+inside,
+interior,
+jewelry,
+lamp,
+levitation,
+library,
+loose feather,
+magic,
+magic circle,
+magic user,
+male,
+marble,
+medium:absurd resolution,
+medium:amazing background,
+medium:detailed background,
+medium:high resolution,
+meta:2016,
+meta:absurd res,
+meta:hi res,
+moulding,
+multicolored hair,
+necklace,
+painting,
+pen,
+pillar,
+pink hair,
+purple body,
+purple eyes,
+purple feathers,
+purple fur,
+purple hair,
+purple scales,
+quill,
+rating:safe,
+rock,
+royalty,
+scales,
+scenery,
+scroll,
+sculpture,
+series:friendship is magic,
+series:hasbro,
+series:mlp:generation 4,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+shoes,
+slit pupils,
+species:alicorn,
+species:avian,
+species:bird,
+species:dragon,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:owl,
+species:pony,
+species:scalie,
+species:unicorn,
+species:winged unicorn,
+spread wings,
+stair,
+stairs,
+statue,
+stone,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+table,
+tag source:e621,
+telekinesis,
+three color hair,
+title:the walls of knowledge,
+title:the walls of knowledge by devinian on deviantart,
+uploader:potluckpony,
+white body,
+window,
+wings,
+writing,
+writing (disambiguation),
+writing text,
+year:2016,

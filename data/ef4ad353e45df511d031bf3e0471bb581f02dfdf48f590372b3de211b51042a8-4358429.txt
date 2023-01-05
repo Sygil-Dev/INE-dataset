@@ -1,40 +1,40 @@
-2015
-aurora borealis
-booru:e621
-category:ine
-character:trixie (mlp)
-character:trixie lulamoon
-creator:plainoasis
-detailed background
-female
-feral
-gender:female
-genre:fantasy
-ground vehicle
-horn
-horns
-medium:detailed background
-medium:high resolution
-meta:2015
-meta:hi res
-night
-ponyville
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-star
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"homecoming" by zhu jiang-nan (plainoasis)
-title:homecoming
-uploader:torvusil
-vehicle
-wagon
-year:2015
+2015,
+aurora borealis,
+booru:e621,
+category:ine,
+character:trixie (mlp),
+character:trixie lulamoon,
+creator:plainoasis,
+detailed background,
+female,
+feral,
+gender:female,
+genre:fantasy,
+ground vehicle,
+horn,
+horns,
+medium:detailed background,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+night,
+ponyville,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+star,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"homecoming" by zhu jiang-nan (plainoasis),
+title:homecoming,
+uploader:torvusil,
+vehicle,
+wagon,
+year:2015,

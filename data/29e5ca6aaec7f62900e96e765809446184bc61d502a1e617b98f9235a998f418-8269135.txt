@@ -1,30 +1,30 @@
-assasinmonkey
-category:ine
-character:oc
-character:princess celestia
-creator:assasinmonkey
-duo
-female
-first contact war
-forest
-gender:female
-genre:fantasy
-mare
-medium:wallpaper
-oc
-rating:safe
-safe
-series:my little pony
-series:my little pony friendship is magic
-species:alicorn
-species:earth pony
-species:equine
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"exchange for sunlight" by myron c.p. (assasinmonkey)
-title:exchange for sunlight
-uploader:torvusil
-wallpaper
+assasinmonkey,
+category:ine,
+character:oc,
+character:princess celestia,
+creator:assasinmonkey,
+duo,
+female,
+first contact war,
+forest,
+gender:female,
+genre:fantasy,
+mare,
+medium:wallpaper,
+oc,
+rating:safe,
+safe,
+series:my little pony,
+series:my little pony friendship is magic,
+species:alicorn,
+species:earth pony,
+species:equine,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"exchange for sunlight" by myron c.p. (assasinmonkey),
+title:exchange for sunlight,
+uploader:torvusil,
+wallpaper,

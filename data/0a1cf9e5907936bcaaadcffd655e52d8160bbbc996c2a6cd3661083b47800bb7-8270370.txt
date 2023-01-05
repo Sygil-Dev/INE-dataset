@@ -1,31 +1,31 @@
-black hair
-book
-bookshelf
-brown hair
-category:ine
-chair
-comic
-english text
-holding
-holding book
-holding paper
-library
-menu
-money
-multiple girls
-newspaper
-office
-open book
-paper
-quill
-rating:safe
-reading
-short hair
-sitting
-smile
-speech bubble
-subreddit:imaginarylibraries
-subreddit:imarchitecture
-title:bookwyrms - webcomic by lorena garcia
-uploader:mediadavid
-wavy hair
+black hair,
+book,
+bookshelf,
+brown hair,
+category:ine,
+chair,
+comic,
+english text,
+holding,
+holding book,
+holding paper,
+library,
+menu,
+money,
+multiple girls,
+newspaper,
+office,
+open book,
+paper,
+quill,
+rating:safe,
+reading,
+short hair,
+sitting,
+smile,
+speech bubble,
+subreddit:imaginarylibraries,
+subreddit:imarchitecture,
+title:bookwyrms - webcomic by lorena garcia,
+uploader:mediadavid,
+wavy hair,

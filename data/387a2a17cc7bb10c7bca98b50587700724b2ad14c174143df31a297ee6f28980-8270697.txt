@@ -1,49 +1,49 @@
-armor
-art
-artwork
-blonde hair
-braid
-category:ine
-concepart
-coverart
-creator:kyuyong eom
-design
-digitalart
-draw
-drawing
-drowing
-fantasy art
-galaxysaga
-game art
-gameart
-gameartwork
-gameconcep
-gender:female
-glowing
-holding sword
-illustration
-kyuyong eom
-long hair
-looking away
-magic
-medium:digital 2d
-mobilgame
-necromancers
-ocean&amp;empire
-painting
-plants
-sketch
-solo female
-subreddit:imaginaryangels
-subreddit:imraces
-sword
-title:the sunset of darkness by kyuyong eom
-uploader:lol33ta
-weapon
-wind
-wings
-게임원화
-아트웍
-일러스트
-일러스트레이션
-타이틀
+armor,
+art,
+artwork,
+blonde hair,
+braid,
+category:ine,
+concepart,
+coverart,
+creator:kyuyong eom,
+design,
+digitalart,
+draw,
+drawing,
+drowing,
+fantasy art,
+galaxysaga,
+game art,
+gameart,
+gameartwork,
+gameconcep,
+gender:female,
+glowing,
+holding sword,
+illustration,
+kyuyong eom,
+long hair,
+looking away,
+magic,
+medium:digital 2d,
+mobilgame,
+necromancers,
+ocean&amp;empire,
+painting,
+plants,
+sketch,
+solo female,
+subreddit:imaginaryangels,
+subreddit:imraces,
+sword,
+title:the sunset of darkness by kyuyong eom,
+uploader:lol33ta,
+weapon,
+wind,
+wings,
+게임원화,
+아트웍,
+일러스트,
+일러스트레이션,
+타이틀,

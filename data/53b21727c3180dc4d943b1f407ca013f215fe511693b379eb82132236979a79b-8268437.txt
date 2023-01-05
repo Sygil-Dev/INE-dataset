@@ -1,32 +1,32 @@
-armor
-blade
-boots
-cape
-category:ine
-cloak
-clothing:footwear
-clouds
-cloudy
-creator:cecilia g.f.
-day
-fog
-footwear
-jewelry
-knight
-man
-medium:digital 2d
-mist
-necklace
-night
-sad
-soldier
-sorcerer
-subreddit:imaginarynobles
-subreddit:imcharacters
-sword
-title:'the day of night' by cecilia g.f.
-title:the day of night
-uploader:blackeremy
-warrior
-weapon
-wizard
+armor,
+blade,
+boots,
+cape,
+category:ine,
+cloak,
+clothing:footwear,
+clouds,
+cloudy,
+creator:cecilia g.f.,
+day,
+fog,
+footwear,
+jewelry,
+knight,
+man,
+medium:digital 2d,
+mist,
+necklace,
+night,
+sad,
+soldier,
+sorcerer,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+sword,
+title:'the day of night' by cecilia g.f.,
+title:the day of night,
+uploader:blackeremy,
+warrior,
+weapon,
+wizard,

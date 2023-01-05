@@ -1,73 +1,73 @@
-2013
-abstract background
-alicorn
-ambiguous gender
-androgynous
-anthro
-armor
-black body
-black feathers
-blue body
-booru:e621
-category:ine
-character:dark persona
-character:nightmare moon
-character:nightmare moon (mlp)
-character:princess luna
-clothing:armor
-creator:ziom05
-crescent moon
-cutie mark
-empty eyes
-equid
-equine
-feathered wings
-feathers
-female
-gender:ambiguous
-gender:ambiguous gender
-gender:female
-genre:fantasy
-glowing
-glowing eyes
-headgear
-headwear
-helmet
-hi res
-horn
-horns
-mammal
-medium:2013
-medium:abstract background
-medium:high resolution
-medium:simple background
-meta:2013
-meta:hi res
-meta:useless tags
-mlp
-moon
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-simple background
-solo
-species:equid
-species:equine
-species:mammal
-species:non-human animal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sun
-tag source:e621
-title:'nightmare moon' by damian ziomek (ziom05)
-title:nightmare moon
-uploader:schnitzellover
-white eyes
-wings
-year:2013
-ziom05
+2013,
+abstract background,
+alicorn,
+ambiguous gender,
+androgynous,
+anthro,
+armor,
+black body,
+black feathers,
+blue body,
+booru:e621,
+category:ine,
+character:dark persona,
+character:nightmare moon,
+character:nightmare moon (mlp),
+character:princess luna,
+clothing:armor,
+creator:ziom05,
+crescent moon,
+cutie mark,
+empty eyes,
+equid,
+equine,
+feathered wings,
+feathers,
+female,
+gender:ambiguous,
+gender:ambiguous gender,
+gender:female,
+genre:fantasy,
+glowing,
+glowing eyes,
+headgear,
+headwear,
+helmet,
+hi res,
+horn,
+horns,
+mammal,
+medium:2013,
+medium:abstract background,
+medium:high resolution,
+medium:simple background,
+meta:2013,
+meta:hi res,
+meta:useless tags,
+mlp,
+moon,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+simple background,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:non-human animal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sun,
+tag source:e621,
+title:'nightmare moon' by damian ziomek (ziom05),
+title:nightmare moon,
+uploader:schnitzellover,
+white eyes,
+wings,
+year:2013,
+ziom05,

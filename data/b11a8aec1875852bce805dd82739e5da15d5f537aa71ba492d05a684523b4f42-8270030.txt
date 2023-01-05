@@ -1,120 +1,120 @@
-1 female
-1:1 aspect ratio
-1girl
-alternate costume
-alternate hairstyle
-alternative costume
-alternative hairstyle
-backlighting
-bird
-blizzard
-blizzard entertainment
-blonde
-blonde hair
-blurry
-booru:danbooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku
-booru:sankaku channel
-booru:tbib
-category:ine
-character:dr. angela "mercy" ziegler
-character:mercy (overwatch)
-character:pink mercy
-closed eyes
-clothing
-clothing:detached sleeves
-clothing:dress
-clothing:hair ornament
-clothing:hair ribbon
-clothing:hair tie
-clothing:pink dress
-clothing:pink legwear
-clothing:ribbon
-clothing:skirt
-clothing:thigh-highs
-creator:liang xing - 星星梁
-creator:liang-xing
-depth of field
-detached sleeves
-dove
-dress
-english
-english text
-eyes closed
-fanart from deviantart
-feathers
-female
-female only
-gender:female
-genre:science fiction
-hair ornament
-hair ribbon
-hair tie
-hands together
-illustration
-language:english
-legwear
-mechanical wings
-medium:1:1 aspect ratio
-medium:backlighting
-medium:depth of field
-medium:english
-medium:english language
-medium:english text
-medium:fanart from deviantart
-medium:image
-medium:no audio
-medium:patreon reward
-medium:text
-medium:video
-mercy (overwatch)
-meta:commentary
-meta:english commentary
-meta:english text
-meta:paid reward
-meta:patreon reward
-meta:photoshop (medium)
-meta:pixiv-import
-midair
-nail polish
-official alternate costume
-open mouth
-overwatch
-own hands together
-parted lips
-pink dress
-pink legwear
-pink mercy
-pink ribbon
-pixiv work:69098742
-praying
-rating:mature
-rating:s
-rating:safe
-ribbon
-series:deviantart
-series:overwatch
-site:deviantart
-site:patreon
-site:yiff.party
-skirt
-solo
-species:avian
-species:bird
-studio:blizzard entertainment
-subreddit:imaginaryangels
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-subreddit:imraces
-text
-thigh-highs
-thighhighs
-tied hair
-title:mercy
-title:mercy by liang xing
-title:pray
-twintails
-uploader:myrandall
-wings
+1 female,
+1:1 aspect ratio,
+1girl,
+alternate costume,
+alternate hairstyle,
+alternative costume,
+alternative hairstyle,
+backlighting,
+bird,
+blizzard,
+blizzard entertainment,
+blonde,
+blonde hair,
+blurry,
+booru:danbooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku,
+booru:sankaku channel,
+booru:tbib,
+category:ine,
+character:dr. angela "mercy" ziegler,
+character:mercy (overwatch),
+character:pink mercy,
+closed eyes,
+clothing,
+clothing:detached sleeves,
+clothing:dress,
+clothing:hair ornament,
+clothing:hair ribbon,
+clothing:hair tie,
+clothing:pink dress,
+clothing:pink legwear,
+clothing:ribbon,
+clothing:skirt,
+clothing:thigh-highs,
+creator:liang xing - 星星梁,
+creator:liang-xing,
+depth of field,
+detached sleeves,
+dove,
+dress,
+english,
+english text,
+eyes closed,
+fanart from deviantart,
+feathers,
+female,
+female only,
+gender:female,
+genre:science fiction,
+hair ornament,
+hair ribbon,
+hair tie,
+hands together,
+illustration,
+language:english,
+legwear,
+mechanical wings,
+medium:1:1 aspect ratio,
+medium:backlighting,
+medium:depth of field,
+medium:english,
+medium:english language,
+medium:english text,
+medium:fanart from deviantart,
+medium:image,
+medium:no audio,
+medium:patreon reward,
+medium:text,
+medium:video,
+mercy (overwatch),
+meta:commentary,
+meta:english commentary,
+meta:english text,
+meta:paid reward,
+meta:patreon reward,
+meta:photoshop (medium),
+meta:pixiv-import,
+midair,
+nail polish,
+official alternate costume,
+open mouth,
+overwatch,
+own hands together,
+parted lips,
+pink dress,
+pink legwear,
+pink mercy,
+pink ribbon,
+pixiv work:69098742,
+praying,
+rating:mature,
+rating:s,
+rating:safe,
+ribbon,
+series:deviantart,
+series:overwatch,
+site:deviantart,
+site:patreon,
+site:yiff.party,
+skirt,
+solo,
+species:avian,
+species:bird,
+studio:blizzard entertainment,
+subreddit:imaginaryangels,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+subreddit:imraces,
+text,
+thigh-highs,
+thighhighs,
+tied hair,
+title:mercy,
+title:mercy by liang xing,
+title:pray,
+twintails,
+uploader:myrandall,
+wings,

@@ -1,26 +1,26 @@
-1 male
-black hair
-blood
-bodily fluids
-category:ine
-character:kenshirou
-creator:mar11co
-creator:marco ferraccioni
-energy
-gender:male
-male focus
-manly
-medium:high resolution
-meta:highres
-muscle
-rating:safe
-realistic
-scar
-series:hokuto no ken
-shirtless
-solo
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:you are already dead by marco ferraccioni
-title:you are already dead.
-uploader:lol33ta
+1 male,
+black hair,
+blood,
+bodily fluids,
+category:ine,
+character:kenshirou,
+creator:mar11co,
+creator:marco ferraccioni,
+energy,
+gender:male,
+male focus,
+manly,
+medium:high resolution,
+meta:highres,
+muscle,
+rating:safe,
+realistic,
+scar,
+series:hokuto no ken,
+shirtless,
+solo,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:you are already dead by marco ferraccioni,
+title:you are already dead.,
+uploader:lol33ta,

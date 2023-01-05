@@ -1,63 +1,63 @@
-2016
-blue eyes
-booru:e621
-category:ine
-character:powder
-character:zecora
-character:zecora (mlp)
-chase
-creator:huussii
-detailed background
-escape
-everfree forest
-female
-feral
-forest
-gender:female
-genre:fantasy
-gold (metal)
-gourd
-group
-hi res
-high resolution
-huussii
-magic potion
-medium:16:9 aspect ratio
-medium:detailed background
-medium:high resolution
-meta:16:9
-meta:2016
-meta:digital media (artwork)
-meta:hi res
-meta:widescreen
-nature
-neck ring
-neck rings
-outside
-piercing
-plant
-powder
-rating:safe
-running
-safe
-scenery
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-species:equid
-species:equine
-species:mammal
-species:timberwolf (mlp)
-species:zebra
-striped
-stripes
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-timber wolf
-title:'heart of the wild' by teemo husso
-title:heart of the wild
-tree
-uploader:myrandall
-year:2016
+2016,
+blue eyes,
+booru:e621,
+category:ine,
+character:powder,
+character:zecora,
+character:zecora (mlp),
+chase,
+creator:huussii,
+detailed background,
+escape,
+everfree forest,
+female,
+feral,
+forest,
+gender:female,
+genre:fantasy,
+gold (metal),
+gourd,
+group,
+hi res,
+high resolution,
+huussii,
+magic potion,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:high resolution,
+meta:16:9,
+meta:2016,
+meta:digital media (artwork),
+meta:hi res,
+meta:widescreen,
+nature,
+neck ring,
+neck rings,
+outside,
+piercing,
+plant,
+powder,
+rating:safe,
+running,
+safe,
+scenery,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+species:equid,
+species:equine,
+species:mammal,
+species:timberwolf (mlp),
+species:zebra,
+striped,
+stripes,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+timber wolf,
+title:'heart of the wild' by teemo husso,
+title:heart of the wild,
+tree,
+uploader:myrandall,
+year:2016,

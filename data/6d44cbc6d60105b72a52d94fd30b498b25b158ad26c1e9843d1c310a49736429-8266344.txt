@@ -1,52 +1,52 @@
-4 fingers
-5 toes
-anthro
-anthropomorphism
-biped
-booru:e621
-category:ine
-cliff
-clothed
-clothing
-clothing:uniform
-creator:themefinland
-day
-detailed background
-feet
-fingers
-furry
-gender:male
-grass
-green body
-green scales
-hi res
-male
-medium:detailed background
-medium:high resolution
-melee weapon
-meta:hi res
-outside
-plant
-rating:safe
-scales
-series:bethesda softworks
-series:the elder scrolls
-sitting
-sky
-solo
-species:argonian
-species:lizard
-species:non-human animal
-species:reptile
-species:scalie
-subreddit:imaginarytamriel
-subreddit:imfandoms
-sword
-title:lakost (commission)
-title:lakost [by me]
-toes
-tree
-uniform
-uploader:themefinland
-video games
-weapon
+4 fingers,
+5 toes,
+anthro,
+anthropomorphism,
+biped,
+booru:e621,
+category:ine,
+cliff,
+clothed,
+clothing,
+clothing:uniform,
+creator:themefinland,
+day,
+detailed background,
+feet,
+fingers,
+furry,
+gender:male,
+grass,
+green body,
+green scales,
+hi res,
+male,
+medium:detailed background,
+medium:high resolution,
+melee weapon,
+meta:hi res,
+outside,
+plant,
+rating:safe,
+scales,
+series:bethesda softworks,
+series:the elder scrolls,
+sitting,
+sky,
+solo,
+species:argonian,
+species:lizard,
+species:non-human animal,
+species:reptile,
+species:scalie,
+subreddit:imaginarytamriel,
+subreddit:imfandoms,
+sword,
+title:lakost (commission),
+title:lakost [by me],
+toes,
+tree,
+uniform,
+uploader:themefinland,
+video games,
+weapon,

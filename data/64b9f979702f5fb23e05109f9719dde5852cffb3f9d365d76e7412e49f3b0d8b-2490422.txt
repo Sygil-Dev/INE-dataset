@@ -1,52 +1,52 @@
-2016
-blush
-booru:e621
-category:ine
-character:trixie (mlp)
-character:trixie lulamoon
-creator:mrs1989
-cup
-curtains
-female
-feral
-furniture
-gender:female
-genre:fantasy
-glass
-hair
-hi res
-high resolution
-horn
-horns
-indoors
-inside
-looking at viewer
-medium:high resolution
-meta:2016
-meta:hi res
-meta:portrait
-multicolored hair
-portrait
-pov
-purple eyes
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-smile
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"cute." by pu reun ha neul (mrs1989)
-title:cute.
-two tone hair
-uploader:crystallord
-window
-year:2016
+2016,
+blush,
+booru:e621,
+category:ine,
+character:trixie (mlp),
+character:trixie lulamoon,
+creator:mrs1989,
+cup,
+curtains,
+female,
+feral,
+furniture,
+gender:female,
+genre:fantasy,
+glass,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+indoors,
+inside,
+looking at viewer,
+medium:high resolution,
+meta:2016,
+meta:hi res,
+meta:portrait,
+multicolored hair,
+portrait,
+pov,
+purple eyes,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+smile,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"cute." by pu reun ha neul (mrs1989),
+title:cute.,
+two tone hair,
+uploader:crystallord,
+window,
+year:2016,

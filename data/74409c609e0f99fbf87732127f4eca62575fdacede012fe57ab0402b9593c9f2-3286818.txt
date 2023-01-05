@@ -1,117 +1,117 @@
-2015
-<3
-alicorn
-applejack
-blonde hair
-blue body
-blue eyes
-blue feathers
-blue fur
-booru:e621
-category:ine
-character:applejack
-character:applejack (mlp)
-character:fluttershy
-character:fluttershy (mlp)
-character:lauren faust
-character:lauren faust (character)
-character:pinkie pie
-character:pinkie pie (mlp)
-character:princess celestia
-character:princess celestia (mlp)
-character:rainbow dash
-character:rainbow dash (mlp)
-character:rarity
-character:rarity (mlp)
-character:spike
-character:spike (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-clothing
-clothing:hat
-clothing:headwear
-cowboy hat
-creator:big-mac-115
-creator:tsitra360
-feathered wings
-feathers
-female
-feral
-fluttershy
-flying
-fuasticorn
-fur
-furry
-gender:female
-gender:male
-genre:fantasy
-glowing
-glowing horn
-green eyes
-group
-hair
-hat
-headgear
-headwear
-heart symbol
-horn
-horns
-laurenfaust
-levitation
-loose feather
-magic
-magic user
-male
-meta:2015
-meta:signature
-multicolored hair
-mylittleponyfriendshipismagic
-paper
-pinkiepie
-purple body
-purple fur
-purple hair
-quill
-rainbow
-rainbow fur
-rainbowdash
-rarity
-rating:safe
-red hair
-scales
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-signature
-sparkle
-sparkles
-species:dragon
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-species:scalie
-species:unicorn
-species:winged unicorn
-spike
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:'fausticorn' by tsitra360
-title:fausticorn
-tsitra360
-twilightsparkle
-two tone hair
-uploader:schnitzellover
-white body
-white feathers
-white fur
-wings
-year:2015
+2015,
+<3,
+alicorn,
+applejack,
+blonde hair,
+blue body,
+blue eyes,
+blue feathers,
+blue fur,
+booru:e621,
+category:ine,
+character:applejack,
+character:applejack (mlp),
+character:fluttershy,
+character:fluttershy (mlp),
+character:lauren faust,
+character:lauren faust (character),
+character:pinkie pie,
+character:pinkie pie (mlp),
+character:princess celestia,
+character:princess celestia (mlp),
+character:rainbow dash,
+character:rainbow dash (mlp),
+character:rarity,
+character:rarity (mlp),
+character:spike,
+character:spike (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+clothing,
+clothing:hat,
+clothing:headwear,
+cowboy hat,
+creator:big-mac-115,
+creator:tsitra360,
+feathered wings,
+feathers,
+female,
+feral,
+fluttershy,
+flying,
+fuasticorn,
+fur,
+furry,
+gender:female,
+gender:male,
+genre:fantasy,
+glowing,
+glowing horn,
+green eyes,
+group,
+hair,
+hat,
+headgear,
+headwear,
+heart symbol,
+horn,
+horns,
+laurenfaust,
+levitation,
+loose feather,
+magic,
+magic user,
+male,
+meta:2015,
+meta:signature,
+multicolored hair,
+mylittleponyfriendshipismagic,
+paper,
+pinkiepie,
+purple body,
+purple fur,
+purple hair,
+quill,
+rainbow,
+rainbow fur,
+rainbowdash,
+rarity,
+rating:safe,
+red hair,
+scales,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+signature,
+sparkle,
+sparkles,
+species:dragon,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:scalie,
+species:unicorn,
+species:winged unicorn,
+spike,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:'fausticorn' by tsitra360,
+title:fausticorn,
+tsitra360,
+twilightsparkle,
+two tone hair,
+uploader:schnitzellover,
+white body,
+white feathers,
+white fur,
+wings,
+year:2015,

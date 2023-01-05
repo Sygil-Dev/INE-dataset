@@ -1,81 +1,81 @@
-1 male
-1boy
-air conditioner
-artist name
-artist:romain jouandeau
-booru:gelbooru
-building
-cable
-category:ine
-character:ein (cowboy bebop)
-character:spike spiegel
-character:swordfish ii
-cigarette
-cigarette box
-city
-cityscape
-copyright:cowboy bebop
-crate
-creator:romain jouandeau
-dark
-dog
-full body
-gender:male
-genre:science fiction
-high resolution
-lantern
-lens flare
-letterboxed
-male focus
-medium:3d rendering
-medium:artist name
-medium:digital media
-medium:focus on male character
-medium:high resolution
-medium:letterboxed
-meta:3d
-meta:artist name
-meta:artstation sample
-meta:commentary
-meta:english commentary
-meta:highres
-meta:image sample
-neon lights
-night
-outdoors
-outside
-plant
-potted plant
-power lines
-rating:mature
-rating:safe
-romain jouandeau
-satellite dish
-scenery
-science fiction
-series:cowboy bebop
-sign
-skyscraper
-smoking
-solo focus
-space craft
-species:canine
-species:dog
-species:mammal
-species:welsh corgi
-stairs
-studio:sunrise (company)
-subreddit:imaginaryanime
-subreddit:imaginarycityscapes
-subreddit:imaginarystarships
-subreddit:imfandoms
-subreddit:imlandscapes
-subreddit:imtechnology
-title:cowboy bebop fanart by romain jouandeau
-trash
-trash bag
-uploader:hvitserkr
-uploader:xeelee1123
-vending machine
-walking
-welsh corgi
+1 male,
+1boy,
+air conditioner,
+artist name,
+artist:romain jouandeau,
+booru:gelbooru,
+building,
+cable,
+category:ine,
+character:ein (cowboy bebop),
+character:spike spiegel,
+character:swordfish ii,
+cigarette,
+cigarette box,
+city,
+cityscape,
+copyright:cowboy bebop,
+crate,
+creator:romain jouandeau,
+dark,
+dog,
+full body,
+gender:male,
+genre:science fiction,
+high resolution,
+lantern,
+lens flare,
+letterboxed,
+male focus,
+medium:3d rendering,
+medium:artist name,
+medium:digital media,
+medium:focus on male character,
+medium:high resolution,
+medium:letterboxed,
+meta:3d,
+meta:artist name,
+meta:artstation sample,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:image sample,
+neon lights,
+night,
+outdoors,
+outside,
+plant,
+potted plant,
+power lines,
+rating:mature,
+rating:safe,
+romain jouandeau,
+satellite dish,
+scenery,
+science fiction,
+series:cowboy bebop,
+sign,
+skyscraper,
+smoking,
+solo focus,
+space craft,
+species:canine,
+species:dog,
+species:mammal,
+species:welsh corgi,
+stairs,
+studio:sunrise (company),
+subreddit:imaginaryanime,
+subreddit:imaginarycityscapes,
+subreddit:imaginarystarships,
+subreddit:imfandoms,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+title:cowboy bebop fanart by romain jouandeau,
+trash,
+trash bag,
+uploader:hvitserkr,
+uploader:xeelee1123,
+vending machine,
+walking,
+welsh corgi,

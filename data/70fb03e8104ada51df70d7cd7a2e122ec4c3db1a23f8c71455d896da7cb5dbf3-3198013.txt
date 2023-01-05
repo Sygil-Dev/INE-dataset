@@ -1,45 +1,45 @@
-2016
-abstract background
-booru:e621
-category:ine
-character:queen chrysalis
-character:queen chrysalis (mlp)
-creator:assasinmonkey
-crown
-fangs
-female
-feral
-gender:female
-genre:fantasy
-green eyes
-green hair
-hair
-horn
-horns
-looking at viewer
-medium:1:1 aspect ratio
-medium:abstract background
-meta:1:1
-meta:2016
-meta:portrait
-point of view
-portrait
-pov
-rating:safe
-realistic
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:arthropod
-species:changeling
-species:non-human animal
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"change from the chrysalis" by myron c.p. (assasinmonkey)
-title:change from the chrysalis
-uploader:torvusil
-year:2016
+2016,
+abstract background,
+booru:e621,
+category:ine,
+character:queen chrysalis,
+character:queen chrysalis (mlp),
+creator:assasinmonkey,
+crown,
+fangs,
+female,
+feral,
+gender:female,
+genre:fantasy,
+green eyes,
+green hair,
+hair,
+horn,
+horns,
+looking at viewer,
+medium:1:1 aspect ratio,
+medium:abstract background,
+meta:1:1,
+meta:2016,
+meta:portrait,
+point of view,
+portrait,
+pov,
+rating:safe,
+realistic,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:arthropod,
+species:changeling,
+species:non-human animal,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"change from the chrysalis" by myron c.p. (assasinmonkey),
+title:change from the chrysalis,
+uploader:torvusil,
+year:2016,

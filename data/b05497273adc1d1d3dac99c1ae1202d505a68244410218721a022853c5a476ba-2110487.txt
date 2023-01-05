@@ -1,52 +1,52 @@
-2015
-booru:e621
-category:ine
-changeling
-character:princess cadance
-character:princess cadance (mlp)
-character:queen chrysalis
-character:queen chrysalis (mlp)
-creator:harwick
-creator:harwicks-art
-crown
-duo
-equine
-feathered wings
-feathers
-female
-feral
-fight
-fire
-gender:female
-genre:fantasy
-hi res
-horn
-horns
-mammal
-medium:high resolution
-meta:2015
-meta:hi res
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:arthropod
-species:changeling
-species:equid
-species:equine
-species:mammal
-species:non-human animal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"tougher than diamonds and stronger than steel" by harwick
-title:tougher than diamonds and stronger than steel
-tongue
-uploader:crystallord
-winged unicorn
-wings
-year:2015
+2015,
+booru:e621,
+category:ine,
+changeling,
+character:princess cadance,
+character:princess cadance (mlp),
+character:queen chrysalis,
+character:queen chrysalis (mlp),
+creator:harwick,
+creator:harwicks-art,
+crown,
+duo,
+equine,
+feathered wings,
+feathers,
+female,
+feral,
+fight,
+fire,
+gender:female,
+genre:fantasy,
+hi res,
+horn,
+horns,
+mammal,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:arthropod,
+species:changeling,
+species:equid,
+species:equine,
+species:mammal,
+species:non-human animal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"tougher than diamonds and stronger than steel" by harwick,
+title:tougher than diamonds and stronger than steel,
+tongue,
+uploader:crystallord,
+winged unicorn,
+wings,
+year:2015,

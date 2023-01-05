@@ -1,50 +1,50 @@
-2015
-blue body
-blue eyes
-blue feathers
-blue fur
-blue hair
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-creator:bra1neater
-crown
-cutie mark
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-horn
-horns
-medium:high resolution
-meta:2015
-meta:hi res
-meta:url
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-star
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-text
-title:'the essense of the night' by vadim poleschuk (bra1neater)
-title:the essense of the night
-uploader:schnitzellover
-wings
-year:2015
+2015,
+blue body,
+blue eyes,
+blue feathers,
+blue fur,
+blue hair,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+creator:bra1neater,
+crown,
+cutie mark,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+meta:url,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+star,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+text,
+title:'the essense of the night' by vadim poleschuk (bra1neater),
+title:the essense of the night,
+uploader:schnitzellover,
+wings,
+year:2015,
