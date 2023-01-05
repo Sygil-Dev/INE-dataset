@@ -1,68 +1,68 @@
-1other
-2 females
-2girls
-3boys
-4 males
-4boys
-androgynous
-category:ine
-character:alphys
-character:flowey (undertale)
-character:frisk (undertale)
-character:mettaton
-character:mettaton ex
-character:mettaton-ex
-character:sans
-character:undyne
-clothing:eyewear
-clothing:glasses
-clothing:legwear
-clothing:shorts
-clothing:tank top
-commentary
-creator:james ghio
-cyborg
-eyewear
-female
-food
-gender:female
-gender:male
-glasses
-glowing
-glowing eye
-grin
-hair over one eye
-heart
-large breasts
-meatball
-medium breasts
-meta:commentary
-meta:english commentary
-meta:photoshop (medium)
-monster girl
-multiple boys
-multiple females
-multiple girls
-multiple males
-muscle
-muscular
-muscular female
-pasta
-rating:mature
-rating:safe
-rating:sensitive
-realistic
-round eyewear
-round glasses
-series:undertale
-shorts
-skull
-smile
-spaghetti
-spaghetti and meatballs
-subreddit:imaginarygaming
-subreddit:imfandoms
-tank top
-title:undertale by jimbobox
-toned
-uploader:myrandall
+1other,
+2 females,
+2girls,
+3boys,
+4 males,
+4boys,
+androgynous,
+category:ine,
+character:alphys,
+character:flowey (undertale),
+character:frisk (undertale),
+character:mettaton,
+character:mettaton ex,
+character:mettaton-ex,
+character:sans,
+character:undyne,
+clothing:eyewear,
+clothing:glasses,
+clothing:legwear,
+clothing:shorts,
+clothing:tank top,
+commentary,
+creator:james ghio,
+cyborg,
+eyewear,
+female,
+food,
+gender:female,
+gender:male,
+glasses,
+glowing,
+glowing eye,
+grin,
+hair over one eye,
+heart,
+large breasts,
+meatball,
+medium breasts,
+meta:commentary,
+meta:english commentary,
+meta:photoshop (medium),
+monster girl,
+multiple boys,
+multiple females,
+multiple girls,
+multiple males,
+muscle,
+muscular,
+muscular female,
+pasta,
+rating:mature,
+rating:safe,
+rating:sensitive,
+realistic,
+round eyewear,
+round glasses,
+series:undertale,
+shorts,
+skull,
+smile,
+spaghetti,
+spaghetti and meatballs,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+tank top,
+title:undertale by jimbobox,
+toned,
+uploader:myrandall,

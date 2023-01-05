@@ -1,21 +1,21 @@
-asteroid
-building
-category:ine
-destiny
-destiny 2
-digital
-futuristic
-genre:science fiction
-purple
-spaceship
-subreddit:imaginarystarscapes
-subreddit:imaginarystarships
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-title:"the tangled shore" by sung choi
-title:the tangled shore by sung choi
-tower
-uploader:johncarterofares
-uploader:pyro_azer
-uploader:wiildman8
-video games
+asteroid,
+building,
+category:ine,
+destiny,
+destiny 2,
+digital,
+futuristic,
+genre:science fiction,
+purple,
+spaceship,
+subreddit:imaginarystarscapes,
+subreddit:imaginarystarships,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+title:"the tangled shore" by sung choi,
+title:the tangled shore by sung choi,
+tower,
+uploader:johncarterofares,
+uploader:pyro_azer,
+uploader:wiildman8,
+video games,

@@ -1,77 +1,77 @@
-abzan
-ambiguous gender
-armor
-backlighting
-backlit
-booru:e621
-building
-category:ine
-claws
-clothing:armor
-clothing:hair tie
-cloud
-cloudscape
-cloudy sky
-creator:dan scott
-day
-dragon
-dusk
-evening
-female
-feral
-fire
-flying
-furry
-gender:ambiguous
-gender:ambiguous gender
-gender:female
-gradient sky
-group
-hair
-light
-low-angle view
-membrane (anatomy)
-membranous wings
-meta:lighting
-meta:signature
-mountain
-mountainous horizon
-orange sky
-outdoors
-outside
-plant
-ponytail
-rating:safe
-red sky
-scarf
-scenery
-signature
-size difference
-sky
-species:ainok
-species:canid
-species:canine
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-spread wings
-subreddit:badassdragons
-subreddit:imaginarydragons
-subreddit:immonsters
-sun
-sunrise
-sunset
-tag source:e621
-tied hair
-title:arashin sovereign by dan scott
-tower
-tree
-twilight
-uploader:faeryknight
-uploader:tiezep
-water
-wings
-yellow sky
+abzan,
+ambiguous gender,
+armor,
+backlighting,
+backlit,
+booru:e621,
+building,
+category:ine,
+claws,
+clothing:armor,
+clothing:hair tie,
+cloud,
+cloudscape,
+cloudy sky,
+creator:dan scott,
+day,
+dragon,
+dusk,
+evening,
+female,
+feral,
+fire,
+flying,
+furry,
+gender:ambiguous,
+gender:ambiguous gender,
+gender:female,
+gradient sky,
+group,
+hair,
+light,
+low-angle view,
+membrane (anatomy),
+membranous wings,
+meta:lighting,
+meta:signature,
+mountain,
+mountainous horizon,
+orange sky,
+outdoors,
+outside,
+plant,
+ponytail,
+rating:safe,
+red sky,
+scarf,
+scenery,
+signature,
+size difference,
+sky,
+species:ainok,
+species:canid,
+species:canine,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+spread wings,
+subreddit:badassdragons,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sun,
+sunrise,
+sunset,
+tag source:e621,
+tied hair,
+title:arashin sovereign by dan scott,
+tower,
+tree,
+twilight,
+uploader:faeryknight,
+uploader:tiezep,
+water,
+wings,
+yellow sky,

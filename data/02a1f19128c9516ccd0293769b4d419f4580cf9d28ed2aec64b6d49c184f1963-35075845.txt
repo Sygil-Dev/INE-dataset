@@ -1,28 +1,28 @@
-bare tree
-branch
-category:ine
-cloud
-cloudy sky
-evening
-fantasy
-gradient sky
-mountain
-mountainous horizon
-no humans
-orange sky
-outdoors
-rating:safe
-scenery
-signature
-sky
-subreddit:imaginarymindscapes
-subreddit:imaginarytowers
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-sunset
-title:sunset by denis godyna
-tree
-twilight
-uploader:crowe410
-uploader:johncarterofares
-uploader:myrandall
+bare tree,
+branch,
+category:ine,
+cloud,
+cloudy sky,
+evening,
+fantasy,
+gradient sky,
+mountain,
+mountainous horizon,
+no humans,
+orange sky,
+outdoors,
+rating:safe,
+scenery,
+signature,
+sky,
+subreddit:imaginarymindscapes,
+subreddit:imaginarytowers,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+sunset,
+title:sunset by denis godyna,
+tree,
+twilight,
+uploader:crowe410,
+uploader:johncarterofares,
+uploader:myrandall,

@@ -1,24 +1,24 @@
-2girls
-barefoot
-black hair
-building
-category:ine
-city
-cityscape
-cyberpunk
-jacket
-long hair
-multiple girls
-night
-outdoors
-pants
-rating:safe
-scenery
-skyscraper
-standing
-subreddit:imaginaryaetherpunk
-subreddit:imaginarypets
-subreddit:immeta
-title:parallel by ture ekroos
-uploader:chalkchick0
-uploader:lol33ta
+2girls,
+barefoot,
+black hair,
+building,
+category:ine,
+city,
+cityscape,
+cyberpunk,
+jacket,
+long hair,
+multiple girls,
+night,
+outdoors,
+pants,
+rating:safe,
+scenery,
+skyscraper,
+standing,
+subreddit:imaginaryaetherpunk,
+subreddit:imaginarypets,
+subreddit:immeta,
+title:parallel by ture ekroos,
+uploader:chalkchick0,
+uploader:lol33ta,

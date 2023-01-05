@@ -1,57 +1,57 @@
-anime
-background
-booru:sankaku
-booru:wallhaven.cc
-category:ine
-cloud
-clouds
-cloudy sky
-creator:banishment
-creator:user_gzah5248
-digital
-field
-genre:fantasy
-grass
-landscape
-medium:4k uhd
-medium:16:9 aspect ratio
-medium:3840x2160 wallpaper
-medium:absurd resolution
-medium:high resolution
-medium:very high resolution
-medium:wallpaper
-meta:absurdres
-meta:commentary request
-meta:highres
-meta:original character
-no humans
-outdoors
-outside
-rating:mature
-rating:s
-rating:safe
-ruins
-scenery
-series:original
-sky
-subreddit:imaginaryruins
-subreddit:imarchitecture
-summer
-sun
-sunlight
-sunset
-swing
-title:abandoned [original name たのしいじかんはもうおわり] by banishment
-title:たのしいじかんはもうおわり
-transmission tower
-uploader:zewen_senpai
-イラスト
-オリジナル
-オリジナル100users入り
-ファンタジー
-ブランコ
-夏
-夕焼け
-空
-背景
-風景
+anime,
+background,
+booru:sankaku,
+booru:wallhaven.cc,
+category:ine,
+cloud,
+clouds,
+cloudy sky,
+creator:banishment,
+creator:user_gzah5248,
+digital,
+field,
+genre:fantasy,
+grass,
+landscape,
+medium:4k uhd,
+medium:16:9 aspect ratio,
+medium:3840x2160 wallpaper,
+medium:absurd resolution,
+medium:high resolution,
+medium:very high resolution,
+medium:wallpaper,
+meta:absurdres,
+meta:commentary request,
+meta:highres,
+meta:original character,
+no humans,
+outdoors,
+outside,
+rating:mature,
+rating:s,
+rating:safe,
+ruins,
+scenery,
+series:original,
+sky,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+summer,
+sun,
+sunlight,
+sunset,
+swing,
+title:abandoned [original name たのしいじかんはもうおわり] by banishment,
+title:たのしいじかんはもうおわり,
+transmission tower,
+uploader:zewen_senpai,
+イラスト,
+オリジナル,
+オリジナル100users入り,
+ファンタジー,
+ブランコ,
+夏,
+夕焼け,
+空,
+背景,
+風景,

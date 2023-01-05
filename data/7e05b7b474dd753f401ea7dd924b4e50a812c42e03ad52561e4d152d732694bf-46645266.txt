@@ -1,66 +1,66 @@
-ambiguous gender
-bitty
-bracelet
-category:ine
-character:zozia
-clothed
-clothing
-creator:aphoticrhapsody
-creator:halybs
-detailed background
-dragon
-dragoness
-drinking
-duo
-feral
-filename:1591214289.halybs_aphoticrhapsody_kopia
-fin
-fin piercing
-food
-furgonomics
-furry-specific piercing
-gender:female
-horn
-horn ring
-human
-indoors
-inside
-itty
-jewelry
-larger ambiguous
-larger feral
-male
-open mouth
-piercing
-rating:general
-rating:safe
-sauna
-sharp teeth
-size difference
-smaller human
-smaller male
-smile
-source:furaffinity.net
-spa
-species:aquatic dragon
-species:dragon
-species:human
-species:mammal
-species:marine
-species:primate
-species:unspecified / any
-subreddit:imaginarydragons
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-swimming pool
-teeth
-tiny
-title:[c] sauna
-title:once in a lifetime
-title:sauna (by @nedejedzie / halybs)
-title:sauna by @nedejedzie / halybs
-topless
-uploader:delta352448
-uploader:myrandall
-yellow eyes
-zozia
+ambiguous gender,
+bitty,
+bracelet,
+category:ine,
+character:zozia,
+clothed,
+clothing,
+creator:aphoticrhapsody,
+creator:halybs,
+detailed background,
+dragon,
+dragoness,
+drinking,
+duo,
+feral,
+filename:1591214289.halybs_aphoticrhapsody_kopia,
+fin,
+fin piercing,
+food,
+furgonomics,
+furry-specific piercing,
+gender:female,
+horn,
+horn ring,
+human,
+indoors,
+inside,
+itty,
+jewelry,
+larger ambiguous,
+larger feral,
+male,
+open mouth,
+piercing,
+rating:general,
+rating:safe,
+sauna,
+sharp teeth,
+size difference,
+smaller human,
+smaller male,
+smile,
+source:furaffinity.net,
+spa,
+species:aquatic dragon,
+species:dragon,
+species:human,
+species:mammal,
+species:marine,
+species:primate,
+species:unspecified / any,
+subreddit:imaginarydragons,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+swimming pool,
+teeth,
+tiny,
+title:[c] sauna,
+title:once in a lifetime,
+title:sauna (by @nedejedzie / halybs),
+title:sauna by @nedejedzie / halybs,
+topless,
+uploader:delta352448,
+uploader:myrandall,
+yellow eyes,
+zozia,

@@ -1,49 +1,49 @@
-alpha channel
-ambiguous gender
-ambiguous_gender
-anthropomorphism
-artist:blitzdrachin
-artist:conditional_dnp
-category:ine
-character:deathroast
-conditional dnp
-conditional_dnp
-copyright:dreamworks
-copyright:how_to_train_your_dragon
-creator:blitzdrachin
-creator:conditional dnp
-creator:sifyro
-feral
-filename:angerrrrr.png
-filename:smug_crazy.png
-furry
-invalid tag
-medium:1:1 aspect ratio
-medium:low resolution
-meta:1:1
-meta:alpha channel
-meta:alpha_channel
-meta:low res
-meta:low_res
-patreon id:127384
-rating:safe
-reaction image
-reaction_image
-series:dreamworks
-series:how to train your dragon
-smile
-smug
-solo
-species:dragon
-species:mythical
-species:night fury
-species:night_fury
-species:scalie
-species:western dragon
-species:western_dragon
-studio:dreamworks
-subreddit:imaginarydragons
-subreddit:immonsters
-title:emote batch i
-title:smug derg- by me
-uploader:sifyro
+alpha channel,
+ambiguous gender,
+ambiguous_gender,
+anthropomorphism,
+artist:blitzdrachin,
+artist:conditional_dnp,
+category:ine,
+character:deathroast,
+conditional dnp,
+conditional_dnp,
+copyright:dreamworks,
+copyright:how_to_train_your_dragon,
+creator:blitzdrachin,
+creator:conditional dnp,
+creator:sifyro,
+feral,
+filename:angerrrrr.png,
+filename:smug_crazy.png,
+furry,
+invalid tag,
+medium:1:1 aspect ratio,
+medium:low resolution,
+meta:1:1,
+meta:alpha channel,
+meta:alpha_channel,
+meta:low res,
+meta:low_res,
+patreon id:127384,
+rating:safe,
+reaction image,
+reaction_image,
+series:dreamworks,
+series:how to train your dragon,
+smile,
+smug,
+solo,
+species:dragon,
+species:mythical,
+species:night fury,
+species:night_fury,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+studio:dreamworks,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:emote batch i,
+title:smug derg- by me,
+uploader:sifyro,

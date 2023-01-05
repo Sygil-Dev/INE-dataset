@@ -1,80 +1,80 @@
-1 female
-1boy
-1girl
-animal
-animal on shoulder
-artist name
-autumn
-autumn leaves
-bald
-beard
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-cat
-cat on shoulder
-cat symbol
-category:ine
-closed mouth
-commentary
-creator:xi zhang
-curtains
-day
-english commentary
-english text
-eyewear
-facial hair
-falling leaves
-fish
-flannel
-gender:female
-gender:male
-glasses
-grey hair
-holding
-holding cat
-indoors
-jar
-kitten
-language:english
-leaf
-male focus
-medium:absurd resolution
-medium:artist name
-medium:english text
-medium:high resolution
-medium:text
-medium:watermark
-medium:web address
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-mountainous horizon
-old
-old man
-orange cat
-overalls
-photo (object)
-rating:mature
-rating:safe
-round eyewear
-series:original
-solo
-species:cat
-species:feline
-species:mammal
-squinting
-subreddit:imaginaryautumnscapes
-subreddit:imaginarypets
-subreddit:immeta
-sunlight
-text
-title:ginger by xi zhang
-tree
-uploader:lol33ta
-watermark
-web address
-window
-xi zhang
+1 female,
+1boy,
+1girl,
+animal,
+animal on shoulder,
+artist name,
+autumn,
+autumn leaves,
+bald,
+beard,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+cat,
+cat on shoulder,
+cat symbol,
+category:ine,
+closed mouth,
+commentary,
+creator:xi zhang,
+curtains,
+day,
+english commentary,
+english text,
+eyewear,
+facial hair,
+falling leaves,
+fish,
+flannel,
+gender:female,
+gender:male,
+glasses,
+grey hair,
+holding,
+holding cat,
+indoors,
+jar,
+kitten,
+language:english,
+leaf,
+male focus,
+medium:absurd resolution,
+medium:artist name,
+medium:english text,
+medium:high resolution,
+medium:text,
+medium:watermark,
+medium:web address,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+mountainous horizon,
+old,
+old man,
+orange cat,
+overalls,
+photo (object),
+rating:mature,
+rating:safe,
+round eyewear,
+series:original,
+solo,
+species:cat,
+species:feline,
+species:mammal,
+squinting,
+subreddit:imaginaryautumnscapes,
+subreddit:imaginarypets,
+subreddit:immeta,
+sunlight,
+text,
+title:ginger by xi zhang,
+tree,
+uploader:lol33ta,
+watermark,
+web address,
+window,
+xi zhang,

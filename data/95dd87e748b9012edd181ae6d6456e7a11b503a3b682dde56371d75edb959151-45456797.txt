@@ -1,49 +1,49 @@
-alternate form
-category:ine
-character:dialga
-character:giratina
-character:palkia
-classic
-claws
-commentary
-commission
-creator:shadeofshinon
-fire
-floating
-furry
-gen 4 pokémon
-horns
-medium:dated
-medium:high resolution
-meta:commentary
-meta:commission
-meta:english commentary
-meta:tagme
-meta:translation request
-meta:watermark
-mythical pokemon
-nihonga
-no humans
-rating:safe
-red eyes
-series:pokemon
-series:pokémon
-smoke
-species:dialga
-species:dragon
-species:giratina
-species:legendary pokémon
-species:mythical
-species:palkia
-species:pokémon
-species:scalie
-studio:nintendo
-style request
-subreddit:imaginarykanto
-subreddit:imfandoms
-thunder
-title:creation trio by shadeofshinon
-uploader:lol33ta
-water
-waves
-wings
+alternate form,
+category:ine,
+character:dialga,
+character:giratina,
+character:palkia,
+classic,
+claws,
+commentary,
+commission,
+creator:shadeofshinon,
+fire,
+floating,
+furry,
+gen 4 pokémon,
+horns,
+medium:dated,
+medium:high resolution,
+meta:commentary,
+meta:commission,
+meta:english commentary,
+meta:tagme,
+meta:translation request,
+meta:watermark,
+mythical pokemon,
+nihonga,
+no humans,
+rating:safe,
+red eyes,
+series:pokemon,
+series:pokémon,
+smoke,
+species:dialga,
+species:dragon,
+species:giratina,
+species:legendary pokémon,
+species:mythical,
+species:palkia,
+species:pokémon,
+species:scalie,
+studio:nintendo,
+style request,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+thunder,
+title:creation trio by shadeofshinon,
+uploader:lol33ta,
+water,
+waves,
+wings,

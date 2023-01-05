@@ -1,36 +1,36 @@
-ambiguous gender
-ambiguous_gender
-artist:foxlett
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:foxlett
-daww
-feral
-filename:leafeon_by_foxlett-dbc4cqo
-flower
-gender:ambiguous
-grass
-medium:video game
-one eye closed
-one_eye_closed
-plant
-rating:safe
-series:nintendo
-series:pokémon
-solo
-species:eeveelution
-species:leafeon
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:leafeon
-title:leafeon by foxlett
-uploader:lol33ta
-video games
-video_games
+ambiguous gender,
+ambiguous_gender,
+artist:foxlett,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:foxlett,
+daww,
+feral,
+filename:leafeon_by_foxlett-dbc4cqo,
+flower,
+gender:ambiguous,
+grass,
+medium:video game,
+one eye closed,
+one_eye_closed,
+plant,
+rating:safe,
+series:nintendo,
+series:pokémon,
+solo,
+species:eeveelution,
+species:leafeon,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:leafeon,
+title:leafeon by foxlett,
+uploader:lol33ta,
+video games,
+video_games,

@@ -1,49 +1,49 @@
-1 female
-1girl
-bad id
-blue eyes
-boots
-breasts
-category:ine
-character:vulpes inculta
-clothing:boots
-clothing:fingerless gloves
-clothing:footwear
-clothing:gloves
-creator:wai (chaos)
-creator:y (chos)
-fallout
-fallout_new_vegas
-fingerless gloves
-footwear
-gender bender
-gender:female
-genderswap
-genderswap (mtf)
-gloves
-goggles
-hand on hip
-medium:simple background
-meta:bad id
-meta:bad pixiv id
-no bra
-rating:mature
-rating:s
-rating:safe
-series:fallout
-series:fallout (series)
-series:fallout new vegas
-series:fallout: new vegas
-simple background
-small breasts
-solo
-subreddit:imaginaryfallout
-subreddit:imfandoms
-title:fem vulpes inculta by wai (chaos)
-transformation
-uploader:sequence_string
-vulpes_inculta
-wai 43617202
-wai_43617202
-wai_(chaos)
-wolf mask
+1 female,
+1girl,
+bad id,
+blue eyes,
+boots,
+breasts,
+category:ine,
+character:vulpes inculta,
+clothing:boots,
+clothing:fingerless gloves,
+clothing:footwear,
+clothing:gloves,
+creator:wai (chaos),
+creator:y (chos),
+fallout,
+fallout_new_vegas,
+fingerless gloves,
+footwear,
+gender bender,
+gender:female,
+genderswap,
+genderswap (mtf),
+gloves,
+goggles,
+hand on hip,
+medium:simple background,
+meta:bad id,
+meta:bad pixiv id,
+no bra,
+rating:mature,
+rating:s,
+rating:safe,
+series:fallout,
+series:fallout (series),
+series:fallout new vegas,
+series:fallout: new vegas,
+simple background,
+small breasts,
+solo,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+title:fem vulpes inculta by wai (chaos),
+transformation,
+uploader:sequence_string,
+vulpes_inculta,
+wai 43617202,
+wai_43617202,
+wai_(chaos),
+wolf mask,

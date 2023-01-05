@@ -1,62 +1,62 @@
-::d
-^_^
-blush
-booru:safebooru
-bucket
-category:ine
-character:banette
-character:larvitar
-character:starly
-closed eyes
-creator:wataametulip
-eeveelution
-gen 1 pokemon
-gen 2 pokemon
-gen 3 pokemon
-gen 4 pokemon
-gen 5 pokemon
-holding
-no humans
-open mouth
-paint can
-painting
-painting (object)
-pokemon (creature)
-rating:mature
-rating:safe
-series:pokémon
-smile
-species:absol
-species:axew
-species:banette
-species:doduo
-species:drifblim
-species:drifloon
-species:eeveelution
-species:girafarig
-species:glaceon
-species:hoppip
-species:karrablast
-species:larvitar
-species:leafeon
-species:ledian
-species:meowth
-species:mienfoo
-species:misdreavus
-species:monster
-species:pokémon
-species:sandshrew
-species:skiploom
-species:smeargle
-species:snorlax
-species:stantler
-species:sudowoodo
-species:swadloon
-species:typhlosion
-species:wigglytuff
-species:wingull
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:えかきの愛の示しかた by わたあめ
-uploader:pkmnart
+::d,
+^_^,
+blush,
+booru:safebooru,
+bucket,
+category:ine,
+character:banette,
+character:larvitar,
+character:starly,
+closed eyes,
+creator:wataametulip,
+eeveelution,
+gen 1 pokemon,
+gen 2 pokemon,
+gen 3 pokemon,
+gen 4 pokemon,
+gen 5 pokemon,
+holding,
+no humans,
+open mouth,
+paint can,
+painting,
+painting (object),
+pokemon (creature),
+rating:mature,
+rating:safe,
+series:pokémon,
+smile,
+species:absol,
+species:axew,
+species:banette,
+species:doduo,
+species:drifblim,
+species:drifloon,
+species:eeveelution,
+species:girafarig,
+species:glaceon,
+species:hoppip,
+species:karrablast,
+species:larvitar,
+species:leafeon,
+species:ledian,
+species:meowth,
+species:mienfoo,
+species:misdreavus,
+species:monster,
+species:pokémon,
+species:sandshrew,
+species:skiploom,
+species:smeargle,
+species:snorlax,
+species:stantler,
+species:sudowoodo,
+species:swadloon,
+species:typhlosion,
+species:wigglytuff,
+species:wingull,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:えかきの愛の示しかた by わたあめ,
+uploader:pkmnart,

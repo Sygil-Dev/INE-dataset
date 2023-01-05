@@ -1,28 +1,28 @@
-category:ine
-character:goggles
-character:leaf
-character:lena "tracer" oxton
-character:summer tracer
-character:tracer (overwatch)
-creator:logan cure
-creator:user_pma9428
-medium:absurd resolution
-medium:character name
-medium:high resolution
-medium:large filesize
-medium:paid reward
-medium:text
-medium:very high resolution
-medium:video game
-meta:artist name
-meta:nsfw
-meta:paid reward
-meta:patreon reward
-meta:patreon username
-series:overwatch
-studio:blizzard entertainment
-studio:nature
-subreddit:imaginaryboners
-subreddit:imnsfw
-title:summer tracer by logan cure
-uploader:er0tama
+category:ine,
+character:goggles,
+character:leaf,
+character:lena "tracer" oxton,
+character:summer tracer,
+character:tracer (overwatch),
+creator:logan cure,
+creator:user_pma9428,
+medium:absurd resolution,
+medium:character name,
+medium:high resolution,
+medium:large filesize,
+medium:paid reward,
+medium:text,
+medium:very high resolution,
+medium:video game,
+meta:artist name,
+meta:nsfw,
+meta:paid reward,
+meta:patreon reward,
+meta:patreon username,
+series:overwatch,
+studio:blizzard entertainment,
+studio:nature,
+subreddit:imaginaryboners,
+subreddit:imnsfw,
+title:summer tracer by logan cure,
+uploader:er0tama,

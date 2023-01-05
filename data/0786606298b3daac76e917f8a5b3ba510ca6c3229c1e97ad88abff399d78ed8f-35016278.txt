@@ -1,22 +1,22 @@
-1other
-category:ine
-cloud
-cloudy sky
-grass
-gun
-holding
-holding gun
-holding weapon
-lightning
-outdoors
-rating:safe
-ruins
-scenery
-sky
-standing
-subreddit:imaginaryruins
-subreddit:imarchitecture
-title:03/30 by kamila szutenberg
-tree
-uploader:wiildman8
-weapon
+1other,
+category:ine,
+cloud,
+cloudy sky,
+grass,
+gun,
+holding,
+holding gun,
+holding weapon,
+lightning,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+standing,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+title:03/30 by kamila szutenberg,
+tree,
+uploader:wiildman8,
+weapon,

@@ -1,22 +1,22 @@
-art
-bike
-category:concept art
-category:ine
-concept
-creator:sergio seabra
-cyberpunk
-design
-futuristic
-hardsurface
-hoverbike
-medium:digital 2d
-noai
-prop
-sci-fi
-subreddit:conceptart
-subreddit:immeta
-title:nazgul_hoverbike
-title:nazgul_hoverbike, sergio seabra
-transportation
-uploader:sseabra
-vehicle
+art,
+bike,
+category:concept art,
+category:ine,
+concept,
+creator:sergio seabra,
+cyberpunk,
+design,
+futuristic,
+hardsurface,
+hoverbike,
+medium:digital 2d,
+noai,
+prop,
+sci-fi,
+subreddit:conceptart,
+subreddit:immeta,
+title:nazgul_hoverbike,
+title:nazgul_hoverbike, sergio seabra,
+transportation,
+uploader:sseabra,
+vehicle,

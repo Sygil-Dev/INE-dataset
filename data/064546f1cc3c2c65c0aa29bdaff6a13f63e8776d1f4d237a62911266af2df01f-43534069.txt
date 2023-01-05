@@ -1,38 +1,38 @@
-1girl
-animal
-animal on shoulder
-artist name
-bare shoulders
-bird
-blue butterfly
-blue eyes
-braid
-bug
-butterfly
-butterfly wings
-cat
-category:ine
-creator:june jenssen
-dove
-dress
-fairy
-glowing butterfly
-hand on hip
-jewelry
-long hair
-looking at animal
-medium:digital 2d
-owl
-pointy ears
-rating:safe
-signature
-smile
-staff
-subreddit:imaginarypets
-subreddit:immeta
-title:lily and ryllix
-title:lily and ryllix by june jenssen
-uploader:n0laloth
-white butterfly
-wings
-yellow butterfly
+1girl,
+animal,
+animal on shoulder,
+artist name,
+bare shoulders,
+bird,
+blue butterfly,
+blue eyes,
+braid,
+bug,
+butterfly,
+butterfly wings,
+cat,
+category:ine,
+creator:june jenssen,
+dove,
+dress,
+fairy,
+glowing butterfly,
+hand on hip,
+jewelry,
+long hair,
+looking at animal,
+medium:digital 2d,
+owl,
+pointy ears,
+rating:safe,
+signature,
+smile,
+staff,
+subreddit:imaginarypets,
+subreddit:immeta,
+title:lily and ryllix,
+title:lily and ryllix by june jenssen,
+uploader:n0laloth,
+white butterfly,
+wings,
+yellow butterfly,

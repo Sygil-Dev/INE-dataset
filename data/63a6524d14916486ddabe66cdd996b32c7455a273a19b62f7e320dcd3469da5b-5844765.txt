@@ -1,75 +1,75 @@
-1 male
-1boy
-absurdres
-androgynous
-aqua eyes
-bangs
-braid
-category:ine
-chrysanthemum
-closed mouth
-clothing:earrings
-clothing:hair ornament
-clothing:japanese clothes
-clothing:kimono
-cowboy shot
-creator:kazari tayu
-creator:tayuya1130
-creator:風李たゆ
-earrings
-emerald
-emerald (gemstone)
-floral background
-floral print
-flower
-from side
-gender:male
-gradient
-gradient background
-grey background
-hair ornament
-hakama
-japanese clothes
-jewelry
-katana
-kimono
-knot
-long hair
-long sleeves
-male focus
-medium:absurd resolution
-medium:gradient background
-medium:grey background
-medium:high resolution
-medium:simple background
-meta:absurdres
-meta:highres
-profile
-rating:mature
-rating:safe
-sapphire (gemstone)
-sapphire (stone)
-series:original
-silver hair
-single braid
-solo
-subreddit:imaginaryfashion
-subreddit:imaginaryninjas
-subreddit:imcharacters
-subreddit:immeta
-sword
-title:samurai by 風李たゆ
-title:どうせ斬られるなら
-uploader:mad-reader
-weapon
-wide sleeves
-イケメン
-オリジナル
-オリジナル50000users入り
-三つ編み
-和風
-日本刀
-武器男子
-男の子
-着物
-耳飾り
+1 male,
+1boy,
+absurdres,
+androgynous,
+aqua eyes,
+bangs,
+braid,
+category:ine,
+chrysanthemum,
+closed mouth,
+clothing:earrings,
+clothing:hair ornament,
+clothing:japanese clothes,
+clothing:kimono,
+cowboy shot,
+creator:kazari tayu,
+creator:tayuya1130,
+creator:風李たゆ,
+earrings,
+emerald,
+emerald (gemstone),
+floral background,
+floral print,
+flower,
+from side,
+gender:male,
+gradient,
+gradient background,
+grey background,
+hair ornament,
+hakama,
+japanese clothes,
+jewelry,
+katana,
+kimono,
+knot,
+long hair,
+long sleeves,
+male focus,
+medium:absurd resolution,
+medium:gradient background,
+medium:grey background,
+medium:high resolution,
+medium:simple background,
+meta:absurdres,
+meta:highres,
+profile,
+rating:mature,
+rating:safe,
+sapphire (gemstone),
+sapphire (stone),
+series:original,
+silver hair,
+single braid,
+solo,
+subreddit:imaginaryfashion,
+subreddit:imaginaryninjas,
+subreddit:imcharacters,
+subreddit:immeta,
+sword,
+title:samurai by 風李たゆ,
+title:どうせ斬られるなら,
+uploader:mad-reader,
+weapon,
+wide sleeves,
+イケメン,
+オリジナル,
+オリジナル50000users入り,
+三つ編み,
+和風,
+日本刀,
+武器男子,
+男の子,
+着物,
+耳飾り,

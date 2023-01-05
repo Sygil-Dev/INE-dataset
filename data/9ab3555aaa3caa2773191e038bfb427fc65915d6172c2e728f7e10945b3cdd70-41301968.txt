@@ -1,36 +1,36 @@
-blue body
-blue eyes
-blue fur
-category:ine
-creator:xartofering
-eating
-feral
-fur
-kitchen
-looking at viewer
-makeup
-male
-mascara
-mascara tears
-messy
-meta:4:3
-meta:hi res
-quadruped
-rating:safe
-series:asian mythology
-series:east asian mythology
-series:mythology
-sink
-species:dragon
-species:eastern dragon
-spill
-stove
-subreddit:imaginarydragons
-subreddit:imaginaryfood
-subreddit:immeta
-subreddit:immonsters
-title:open window
-title:open window by xartofering
-uploader:mtlgrems
-uploader:myrandall
-white body
+blue body,
+blue eyes,
+blue fur,
+category:ine,
+creator:xartofering,
+eating,
+feral,
+fur,
+kitchen,
+looking at viewer,
+makeup,
+male,
+mascara,
+mascara tears,
+messy,
+meta:4:3,
+meta:hi res,
+quadruped,
+rating:safe,
+series:asian mythology,
+series:east asian mythology,
+series:mythology,
+sink,
+species:dragon,
+species:eastern dragon,
+spill,
+stove,
+subreddit:imaginarydragons,
+subreddit:imaginaryfood,
+subreddit:immeta,
+subreddit:immonsters,
+title:open window,
+title:open window by xartofering,
+uploader:mtlgrems,
+uploader:myrandall,
+white body,

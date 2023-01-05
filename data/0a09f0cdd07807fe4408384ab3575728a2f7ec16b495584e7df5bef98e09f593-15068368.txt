@@ -1,61 +1,61 @@
-3 fingers
-2018
-ambiguous gender
-blue sky
-booru:e621
-category:ine
-claws
-cliff
-closed eyes
-cloud
-cloudy sky
-creator:kenket
-day
-desert
-eating
-eyes closed
-fangs
-fingers
-fire
-gen 2 pokemon
-gender:ambiguous
-horizon
-medium:traditional media
-meta:1:1
-meta:2018
-meta:traditional media (artwork)
-mountain
-mountainous horizon
-no humans
-ocean
-open mouth
-outdoors
-pokemon (creature)
-rating:safe
-rock
-scenery
-series:nintendo
-series:pokémon
-sky
-solo
-source type:game
-source:furaffinity.net
-species:monster
-species:pokémon
-species:pokémon (species)
-species:tyranitar
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:imaginaryfood
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immeta
-title:tyranitar
-title:tyranitar by kenket
-title:tyranitar by tess garman (kenket)
-tongue
-uploader:lol33ta
-uploader:myrandall
-video games
-water
-year:2018
+3 fingers,
+2018,
+ambiguous gender,
+blue sky,
+booru:e621,
+category:ine,
+claws,
+cliff,
+closed eyes,
+cloud,
+cloudy sky,
+creator:kenket,
+day,
+desert,
+eating,
+eyes closed,
+fangs,
+fingers,
+fire,
+gen 2 pokemon,
+gender:ambiguous,
+horizon,
+medium:traditional media,
+meta:1:1,
+meta:2018,
+meta:traditional media (artwork),
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+open mouth,
+outdoors,
+pokemon (creature),
+rating:safe,
+rock,
+scenery,
+series:nintendo,
+series:pokémon,
+sky,
+solo,
+source type:game,
+source:furaffinity.net,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:tyranitar,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:imaginaryfood,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immeta,
+title:tyranitar,
+title:tyranitar by kenket,
+title:tyranitar by tess garman (kenket),
+tongue,
+uploader:lol33ta,
+uploader:myrandall,
+video games,
+water,
+year:2018,

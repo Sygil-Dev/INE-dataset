@@ -1,26 +1,26 @@
-beach
-category:ine
-cloud
-giant
-lake
-landscape
-lightning
-mountain
-muscular
-nature
-no humans
-ocean
-outdoors
-planet
-rating:safe
-realistic
-river
-scenery
-sky
-storm
-subreddit:imaginarygiants
-subreddit:imraces
-title:colossus of sardia by greg staples
-uploader:[deleted]
-uploader:faeryknight
-water
+beach,
+category:ine,
+cloud,
+giant,
+lake,
+landscape,
+lightning,
+mountain,
+muscular,
+nature,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+realistic,
+river,
+scenery,
+sky,
+storm,
+subreddit:imaginarygiants,
+subreddit:imraces,
+title:colossus of sardia by greg staples,
+uploader:[deleted],
+uploader:faeryknight,
+water,

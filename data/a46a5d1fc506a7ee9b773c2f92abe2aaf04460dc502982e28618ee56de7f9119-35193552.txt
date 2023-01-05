@@ -1,43 +1,43 @@
-3d model
-3dsmax
-ac unit
-baked
-baking
-bars
-base
-category:ine
-creator:dan nguyen
-door
-doors
-fanart
-fanmodel
-garage
-green
-hakuru15
-halo wars
-halo wars 2
-inspiration
-ladder
-low poly
-medium:digital 3d
-metal
-military
-minibase
-modeling
-portfolio
-practical
-reference
-roof
-science
-sketchfab
-solar panels
-subreddit:imaginaryhalo
-subreddit:imfandoms
-substance painter
-technology
-texture
-title:made my own unsc mini base variant from halo wars 2
-title:unsc mini base variant
-transport
-unsc
-uploader:hakuru15
+3d model,
+3dsmax,
+ac unit,
+baked,
+baking,
+bars,
+base,
+category:ine,
+creator:dan nguyen,
+door,
+doors,
+fanart,
+fanmodel,
+garage,
+green,
+hakuru15,
+halo wars,
+halo wars 2,
+inspiration,
+ladder,
+low poly,
+medium:digital 3d,
+metal,
+military,
+minibase,
+modeling,
+portfolio,
+practical,
+reference,
+roof,
+science,
+sketchfab,
+solar panels,
+subreddit:imaginaryhalo,
+subreddit:imfandoms,
+substance painter,
+technology,
+texture,
+title:made my own unsc mini base variant from halo wars 2,
+title:unsc mini base variant,
+transport,
+unsc,
+uploader:hakuru15,

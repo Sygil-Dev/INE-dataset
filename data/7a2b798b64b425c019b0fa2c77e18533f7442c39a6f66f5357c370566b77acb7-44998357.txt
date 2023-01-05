@@ -1,46 +1,46 @@
-alternate appearance
-bent knees
-building
-camping
-category:ine
-character:hop (pokemon)
-character:polteageist
-character:raboot
-character:victor (pokemon)
-character:yamper
-character:yuuri (pokemon)
-cloud
-cooking
-creator:pixiv id 2490919
-curry
-dark skin
-eating
-face::p
-flower
-food
-galar form
-gen 8 pokemon
-gender:female
-gender:male
-medium:high resolution
-nature
-outside
-petals
-rating:safe
-series:pokemon sword & shield
-series:pokémon
-sitting
-sky
-smile
-species:grookey
-species:inteleon
-species:pokémon
-species:wooloo
-species:zigzagoon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:let's go camping! by kikuyosy
-tongue
-trio
-uploader:hornyheracross
+alternate appearance,
+bent knees,
+building,
+camping,
+category:ine,
+character:hop (pokemon),
+character:polteageist,
+character:raboot,
+character:victor (pokemon),
+character:yamper,
+character:yuuri (pokemon),
+cloud,
+cooking,
+creator:pixiv id 2490919,
+curry,
+dark skin,
+eating,
+face::p,
+flower,
+food,
+galar form,
+gen 8 pokemon,
+gender:female,
+gender:male,
+medium:high resolution,
+nature,
+outside,
+petals,
+rating:safe,
+series:pokemon sword & shield,
+series:pokémon,
+sitting,
+sky,
+smile,
+species:grookey,
+species:inteleon,
+species:pokémon,
+species:wooloo,
+species:zigzagoon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:let's go camping! by kikuyosy,
+tongue,
+trio,
+uploader:hornyheracross,

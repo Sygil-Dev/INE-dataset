@@ -1,20 +1,20 @@
-artwork
-building
-castle
-category:ine
-digital
-fantasy art
-ghosts
-illustration
-julian bauer
-subreddit:imaginarybestof
-subreddit:imaginarycastles
-subreddit:imaginaryundead
-subreddit:imarchitecture
-subreddit:immonsters
-title:[/r/imaginarycastles] undead castle by julian bauer
-title:undead castle by julian bauer
-title:undead castle. julian bauer.
-uploader:barson2408
-uploader:imwaaal
-uploader:lol33ta
+artwork,
+building,
+castle,
+category:ine,
+digital,
+fantasy art,
+ghosts,
+illustration,
+julian bauer,
+subreddit:imaginarybestof,
+subreddit:imaginarycastles,
+subreddit:imaginaryundead,
+subreddit:imarchitecture,
+subreddit:immonsters,
+title:[/r/imaginarycastles] undead castle by julian bauer,
+title:undead castle by julian bauer,
+title:undead castle. julian bauer.,
+uploader:barson2408,
+uploader:imwaaal,
+uploader:lol33ta,

@@ -1,37 +1,37 @@
-1girl
-book
-book stack
-bookshelf
-brown hair
-building
-category:ine
-fantasy
-floating
-floating book
-floating object
-grimoire
-holding book
-ladder
-lantern
-library
-lightning
-magic
-magic circle
-night
-open book
-pagoda
-rating:safe
-reading
-scenery
-signature
-subreddit:imaginarybooks
-subreddit:imaginaryelementals
-subreddit:imaginarylibraries
-subreddit:imaginaryscholars
-subreddit:imcharacters
-subreddit:immonsters
-title:tome anima by johannes voss
-uploader:errantsadvocate
-uploader:lol33ta
-uploader:myrandall
-water
+1girl,
+book,
+book stack,
+bookshelf,
+brown hair,
+building,
+category:ine,
+fantasy,
+floating,
+floating book,
+floating object,
+grimoire,
+holding book,
+ladder,
+lantern,
+library,
+lightning,
+magic,
+magic circle,
+night,
+open book,
+pagoda,
+rating:safe,
+reading,
+scenery,
+signature,
+subreddit:imaginarybooks,
+subreddit:imaginaryelementals,
+subreddit:imaginarylibraries,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+subreddit:immonsters,
+title:tome anima by johannes voss,
+uploader:errantsadvocate,
+uploader:lol33ta,
+uploader:myrandall,
+water,

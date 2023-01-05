@@ -1,29 +1,29 @@
-bed
-black footwear
-black hair
-black legwear
-book
-brown hair
-category:ine
-chair
-glasses
-high heels
-holding
-lamp
-long hair
-looking at another
-looking away
-lying
-on stomach
-pantyhose
-series:original
-short hair
-sitting
-stairs
-standing
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-table
-teeth
-title:crowded house [hebitsukai]
-uploader:static90153
+bed,
+black footwear,
+black hair,
+black legwear,
+book,
+brown hair,
+category:ine,
+chair,
+glasses,
+high heels,
+holding,
+lamp,
+long hair,
+looking at another,
+looking away,
+lying,
+on stomach,
+pantyhose,
+series:original,
+short hair,
+sitting,
+stairs,
+standing,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+table,
+teeth,
+title:crowded house [hebitsukai],
+uploader:static90153,

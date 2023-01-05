@@ -1,21 +1,21 @@
-1girl
-artist name
-black hair
-category:ine
-choker
-crossed arms
-full body
-gradient
-gradient background
-grey background
-long hair
-rating:safe
-signature
-skirt
-solo
-standing
-subreddit:imaginaryhumans
-subreddit:imraces
-title:pouty girl by charles ellison
-uploader:saallee
-white footwear
+1girl,
+artist name,
+black hair,
+category:ine,
+choker,
+crossed arms,
+full body,
+gradient,
+gradient background,
+grey background,
+long hair,
+rating:safe,
+signature,
+skirt,
+solo,
+standing,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:pouty girl by charles ellison,
+uploader:saallee,
+white footwear,

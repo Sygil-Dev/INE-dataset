@@ -1,21 +1,21 @@
-1girl
-category:ine
-full moon
-glowing
-glowing eyes
-letterboxed
-moon
-moonlight
-night
-pillarboxed
-rating:safe
-skeleton
-subreddit:imaginaryundead
-subreddit:imaginarywarriors
-subreddit:imcharacters
-title:ghost guardian by helena nikulina
-title:ghost guardian, by helena nikulina
-tree
-uploader:imwaaal
-uploader:miciy5
-weapon
+1girl,
+category:ine,
+full moon,
+glowing,
+glowing eyes,
+letterboxed,
+moon,
+moonlight,
+night,
+pillarboxed,
+rating:safe,
+skeleton,
+subreddit:imaginaryundead,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+title:ghost guardian by helena nikulina,
+title:ghost guardian, by helena nikulina,
+tree,
+uploader:imwaaal,
+uploader:miciy5,
+weapon,

@@ -1,22 +1,22 @@
-birds for scale
-calm
-category:ine
-creator:calder moore
-future
-hills
-kitbash3d
-landscape
-medium:digital 2d
-mountain
-oil painting
-painterly
-scifi
-sketch
-station
-subreddit:imaginarywildlands
-subreddit:imlandscapes
-sunset
-title:sunset station
-trees
-uploader:refriedspinach
-valley
+birds for scale,
+calm,
+category:ine,
+creator:calder moore,
+future,
+hills,
+kitbash3d,
+landscape,
+medium:digital 2d,
+mountain,
+oil painting,
+painterly,
+scifi,
+sketch,
+station,
+subreddit:imaginarywildlands,
+subreddit:imlandscapes,
+sunset,
+title:sunset station,
+trees,
+uploader:refriedspinach,
+valley,

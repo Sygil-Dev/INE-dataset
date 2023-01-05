@@ -1,28 +1,28 @@
-2d
-art
-cable
-category:ine
-creator:maciej kuciara
-cybernetics
-cyberpunk
-gender:female
-genre:cyberpunk
-genre:science fiction
-ink
-machine
-maciejkuciara
-manga
-medium:digital 2d
-medium:digital media
-medium:manga
-medium:monochrome
-oldschool
-print
-scifi
-subreddit:cyberbooty
-subreddit:imaginarycybernetics
-subreddit:imaginarycyberpunk
-subreddit:imtechnology
-title:respite
-title:respite by maciej kuciara
-uploader:lol33ta
+2d,
+art,
+cable,
+category:ine,
+creator:maciej kuciara,
+cybernetics,
+cyberpunk,
+gender:female,
+genre:cyberpunk,
+genre:science fiction,
+ink,
+machine,
+maciejkuciara,
+manga,
+medium:digital 2d,
+medium:digital media,
+medium:manga,
+medium:monochrome,
+oldschool,
+print,
+scifi,
+subreddit:cyberbooty,
+subreddit:imaginarycybernetics,
+subreddit:imaginarycyberpunk,
+subreddit:imtechnology,
+title:respite,
+title:respite by maciej kuciara,
+uploader:lol33ta,

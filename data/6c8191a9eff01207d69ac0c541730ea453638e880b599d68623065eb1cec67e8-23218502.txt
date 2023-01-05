@@ -1,27 +1,27 @@
-1 female
-bed
-bed sheet
-category:ine
-city
-cityscape
-facing away
-female
-female focus
-female only
-gender:female
-language:japanese
-long hair
-lying
-lying on bed
-medium:artist signature
-medium:japanese text
-medium:signature
-medium:wallpaper
-rating:safe
-solo
-solo female
-subreddit:imaginaryfuturism
-subreddit:imtechnology
-text
-title:a cozy cyberpunk apartment, by tony skeor
-uploader:trontuga
+1 female,
+bed,
+bed sheet,
+category:ine,
+city,
+cityscape,
+facing away,
+female,
+female focus,
+female only,
+gender:female,
+language:japanese,
+long hair,
+lying,
+lying on bed,
+medium:artist signature,
+medium:japanese text,
+medium:signature,
+medium:wallpaper,
+rating:safe,
+solo,
+solo female,
+subreddit:imaginaryfuturism,
+subreddit:imtechnology,
+text,
+title:a cozy cyberpunk apartment, by tony skeor,
+uploader:trontuga,

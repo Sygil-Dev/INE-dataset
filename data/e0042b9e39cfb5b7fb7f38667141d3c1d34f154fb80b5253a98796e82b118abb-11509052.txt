@@ -1,120 +1,120 @@
-ambiguous gender
-bat
-beak
-bird
-black body
-black feathers
-book
-bookshelf
-booru:e621
-bottle
-bug
-category:ine
-cauldron
-character:delphox
-character:ditto
-character:duskull
-character:gengar
-character:hoothoot
-character:misdreavus
-character:murkrow
-character:noibat
-character:spinarak
-character:spiritomb
-chelicerae
-creator:bluekomadori
-creator:sora23163
-creator:コマドリ
-crow
-eyeball
-feathered wings
-feathers
-feral
-flying
-food
-fox
-fruit
-fur
-furniture
-gen 1 pokemon
-gen 2 pokemon
-gen 3 pokemon
-gen 4 pokemon
-gen 6 pokemon
-gender:ambiguous
-glowing
-group
-halloween
-horn
-horns
-indoors
-inner ear fluff
-inside
-jackknife chelicerae
-magic
-medium:high resolution
-medium:watermark
-medium:web address
-membrane (anatomy)
-membranous wings
-meta:hi res
-meta:highres
-no humans
-open mouth
-owl
-pixiv artist id:2124558
-pixiv illust id:46856527
-plant
-pokemon 1000 users bookmark
-pokemon (creature)
-pumpkin
-rating:safe
-red eyes
-series:nintendo
-series:pokemon
-series:pokémon
-smile
-species:arachnid
-species:arthropod
-species:avian
-species:bat
-species:bird
-species:canid
-species:canine
-species:chiropteran
-species:delphox
-species:ditto
-species:ditto (pokémon)
-species:duskull
-species:fox
-species:gengar
-species:hoothoot
-species:insect
-species:mammal
-species:misdreavus
-species:monster
-species:murkrow
-species:noibat
-species:owl
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:spider
-species:spinarak
-species:spiritomb
-spider
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:witch fox by bluekomadori
-title:マフォクシー
-tongue
-tuft
-uploader:pkmnart
-video games
-watermark
-web address
-wings
-yellow eyes
-ゴーストタイプ
-ポケットモンスター
+ambiguous gender,
+bat,
+beak,
+bird,
+black body,
+black feathers,
+book,
+bookshelf,
+booru:e621,
+bottle,
+bug,
+category:ine,
+cauldron,
+character:delphox,
+character:ditto,
+character:duskull,
+character:gengar,
+character:hoothoot,
+character:misdreavus,
+character:murkrow,
+character:noibat,
+character:spinarak,
+character:spiritomb,
+chelicerae,
+creator:bluekomadori,
+creator:sora23163,
+creator:コマドリ,
+crow,
+eyeball,
+feathered wings,
+feathers,
+feral,
+flying,
+food,
+fox,
+fruit,
+fur,
+furniture,
+gen 1 pokemon,
+gen 2 pokemon,
+gen 3 pokemon,
+gen 4 pokemon,
+gen 6 pokemon,
+gender:ambiguous,
+glowing,
+group,
+halloween,
+horn,
+horns,
+indoors,
+inner ear fluff,
+inside,
+jackknife chelicerae,
+magic,
+medium:high resolution,
+medium:watermark,
+medium:web address,
+membrane (anatomy),
+membranous wings,
+meta:hi res,
+meta:highres,
+no humans,
+open mouth,
+owl,
+pixiv artist id:2124558,
+pixiv illust id:46856527,
+plant,
+pokemon 1000 users bookmark,
+pokemon (creature),
+pumpkin,
+rating:safe,
+red eyes,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+smile,
+species:arachnid,
+species:arthropod,
+species:avian,
+species:bat,
+species:bird,
+species:canid,
+species:canine,
+species:chiropteran,
+species:delphox,
+species:ditto,
+species:ditto (pokémon),
+species:duskull,
+species:fox,
+species:gengar,
+species:hoothoot,
+species:insect,
+species:mammal,
+species:misdreavus,
+species:monster,
+species:murkrow,
+species:noibat,
+species:owl,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:spider,
+species:spinarak,
+species:spiritomb,
+spider,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:witch fox by bluekomadori,
+title:マフォクシー,
+tongue,
+tuft,
+uploader:pkmnart,
+video games,
+watermark,
+web address,
+wings,
+yellow eyes,
+ゴーストタイプ,
+ポケットモンスター,

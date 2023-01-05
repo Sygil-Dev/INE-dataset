@@ -1,27 +1,27 @@
-1girl
-1koma
-2boys
-black hair
-book
-category:ine
-character:fujimaru ritsuka (female)
-comic
-couch
-english text
-multiple boys
-nihonga
-orange hair
-painting (medium)
-photo (medium)
-rating:safe
-short hair
-sitting
-speech bubble
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-talking
-thought bubble
-title:[oc] book ginny and the convo of sass
-traditional media
-uploader:achatyla
-watercolor (medium)
+1girl,
+1koma,
+2boys,
+black hair,
+book,
+category:ine,
+character:fujimaru ritsuka (female),
+comic,
+couch,
+english text,
+multiple boys,
+nihonga,
+orange hair,
+painting (medium),
+photo (medium),
+rating:safe,
+short hair,
+sitting,
+speech bubble,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+talking,
+thought bubble,
+title:[oc] book ginny and the convo of sass,
+traditional media,
+uploader:achatyla,
+watercolor (medium),

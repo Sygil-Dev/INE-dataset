@@ -1,24 +1,24 @@
-blue sky
-category:ine
-cloud
-cloudy sky
-day
-field
-flower
-grass
-horizon
-mountain
-nature
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarybehemoths
-subreddit:immonsters
-sunflower
-sunset
-title:atmospheric lurker by tc ayliffe (me)
-tree
-uploader:quantum_apple
-water
+blue sky,
+category:ine,
+cloud,
+cloudy sky,
+day,
+field,
+flower,
+grass,
+horizon,
+mountain,
+nature,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+sunflower,
+sunset,
+title:atmospheric lurker by tc ayliffe (me),
+tree,
+uploader:quantum_apple,
+water,

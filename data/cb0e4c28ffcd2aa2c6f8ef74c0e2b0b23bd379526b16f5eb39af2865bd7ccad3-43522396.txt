@@ -1,42 +1,42 @@
-armor
-boardgame
-card art
-category:ine
-character
-clothing:armor
-commission
-concept art
-conceptart
-creator:martin de diego
-creature
-digitalart
-drawing
-fantasy
-freelance
-game art
-genre:fantasy
-goblin
-illustration
-lord of the rings
-lordoftherings
-lotr
-medium:detailed background
-medium:digital 2d
-mohawk
-painting
-rating:safe
-shield
-subreddit:imaginarygoblins
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imraces
-sword
-tcg
-title:goblin
-title:goblin by martin de diego
-token
-tolkien
-uploader:lol33ta
-uploader:myrandall
-warrior
-weapon
+armor,
+boardgame,
+card art,
+category:ine,
+character,
+clothing:armor,
+commission,
+concept art,
+conceptart,
+creator:martin de diego,
+creature,
+digitalart,
+drawing,
+fantasy,
+freelance,
+game art,
+genre:fantasy,
+goblin,
+illustration,
+lord of the rings,
+lordoftherings,
+lotr,
+medium:detailed background,
+medium:digital 2d,
+mohawk,
+painting,
+rating:safe,
+shield,
+subreddit:imaginarygoblins,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imraces,
+sword,
+tcg,
+title:goblin,
+title:goblin by martin de diego,
+token,
+tolkien,
+uploader:lol33ta,
+uploader:myrandall,
+warrior,
+weapon,

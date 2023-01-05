@@ -1,31 +1,31 @@
-1girl
-artist name
-category:ine
-claws
-creator:demizu posuka
-dragon
-dress
-fantasy
-gender:female
-glowing
-glowing eyes
-monster
-ocean
-rating:safe
-sail
-series:original
-sharp teeth
-ship
-slit pupils
-standing
-subreddit:imaginarybeasts
-subreddit:imaginarybehemoths
-subreddit:immonsters
-teeth
-title:dragon by demizuposuka
-uploader:vecttor
-water
-watercraft
-wet
-wings
-yellow eyes
+1girl,
+artist name,
+category:ine,
+claws,
+creator:demizu posuka,
+dragon,
+dress,
+fantasy,
+gender:female,
+glowing,
+glowing eyes,
+monster,
+ocean,
+rating:safe,
+sail,
+series:original,
+sharp teeth,
+ship,
+slit pupils,
+standing,
+subreddit:imaginarybeasts,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+teeth,
+title:dragon by demizuposuka,
+uploader:vecttor,
+water,
+watercraft,
+wet,
+wings,
+yellow eyes,

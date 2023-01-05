@@ -1,48 +1,48 @@
-beach
-boat
-bridge
-category:ine
-cloud
-cloudy sky
-dock
-earth (planet)
-evening
-gradient sky
-horizon
-island
-lake
-lighthouse
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-pier
-planet
-pool
-rating:safe
-red sky
-reflection
-rising sun
-river
-sand
-scenery
-seagull
-ship
-shore
-signature
-sky
-subreddit:imaginarybestof
-subreddit:immeta
-sun
-sunburst
-sunrise
-sunset
-title:[/r/imaginaryseascapes] calm seas by elias stern
-twilight
-uploader:lol33ta
-warship
-water
-watercraft
-waves
+beach,
+boat,
+bridge,
+category:ine,
+cloud,
+cloudy sky,
+dock,
+earth (planet),
+evening,
+gradient sky,
+horizon,
+island,
+lake,
+lighthouse,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+pier,
+planet,
+pool,
+rating:safe,
+red sky,
+reflection,
+rising sun,
+river,
+sand,
+scenery,
+seagull,
+ship,
+shore,
+signature,
+sky,
+subreddit:imaginarybestof,
+subreddit:immeta,
+sun,
+sunburst,
+sunrise,
+sunset,
+title:[/r/imaginaryseascapes] calm seas by elias stern,
+twilight,
+uploader:lol33ta,
+warship,
+water,
+watercraft,
+waves,

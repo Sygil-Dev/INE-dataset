@@ -1,104 +1,104 @@
-1 male
-1boy
-3 females
-3girls
-arm support
-ball
-bangle
-basket
-beach
-beach umbrella
-beachball
-bikini
-black hair
-blonde
-blonde hair
-bolo tie
-bow
-bracelet
-breasts
-brown hair
-buster sword
-category:ine
-character:aerith gainsborough
-character:cloud strife
-character:jessie rasberry
-character:tifa lockhart
-cleavage
-clothing
-costa del sol
-creator:zarory
-danbooru
-deviantart
-drill hair
-female
-female focus
-flower
-gender:female
-gender:male
-hair bow
-hair ornament
-jessie rasberry
-jewelry
-language:english
-leaf
-lily (flower)
-long hair
-male
-male swimwear
-medium:2d art
-medium:english
-medium:english text
-medium:high resolution
-medium:realistic
-medium:text
-medium:watermark
-meta:commentary
-meta:english commentary
-meta:highres
-midriff
-multiple females
-multiple girls
-navel
-ocean
-outdoors
-outside
-palm tree
-planted
-planted sword
-planted weapon
-rating:q
-rating:questionable
-rating:safe
-sand
-sarong
-semi-realism
-series:final fantasy
-series:final fantasy vii
-series:final fantasy vii remake
-shirtless
-short hair
-sitting
-smile
-spiky hair
-standing
-stomach
-studio:square enix
-subreddit:imaginaryboners
-subreddit:imnsfw
-swim trunks
-swimming trunks
-swimsuit
-swimwear
-sword
-thighs
-title:summer aerith by zarory
-topless male
-towel
-tree
-twin drills
-umbrella
-uploader:myrandall
-volleyball
-water
-weapon
+1 male,
+1boy,
+3 females,
+3girls,
+arm support,
+ball,
+bangle,
+basket,
+beach,
+beach umbrella,
+beachball,
+bikini,
+black hair,
+blonde,
+blonde hair,
+bolo tie,
+bow,
+bracelet,
+breasts,
+brown hair,
+buster sword,
+category:ine,
+character:aerith gainsborough,
+character:cloud strife,
+character:jessie rasberry,
+character:tifa lockhart,
+cleavage,
+clothing,
+costa del sol,
+creator:zarory,
+danbooru,
+deviantart,
+drill hair,
+female,
+female focus,
+flower,
+gender:female,
+gender:male,
+hair bow,
+hair ornament,
+jessie rasberry,
+jewelry,
+language:english,
+leaf,
+lily (flower),
+long hair,
+male,
+male swimwear,
+medium:2d art,
+medium:english,
+medium:english text,
+medium:high resolution,
+medium:realistic,
+medium:text,
+medium:watermark,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+midriff,
+multiple females,
+multiple girls,
+navel,
+ocean,
+outdoors,
+outside,
+palm tree,
+planted,
+planted sword,
+planted weapon,
+rating:q,
+rating:questionable,
+rating:safe,
+sand,
+sarong,
+semi-realism,
+series:final fantasy,
+series:final fantasy vii,
+series:final fantasy vii remake,
+shirtless,
+short hair,
+sitting,
+smile,
+spiky hair,
+standing,
+stomach,
+studio:square enix,
+subreddit:imaginaryboners,
+subreddit:imnsfw,
+swim trunks,
+swimming trunks,
+swimsuit,
+swimwear,
+sword,
+thighs,
+title:summer aerith by zarory,
+topless male,
+towel,
+tree,
+twin drills,
+umbrella,
+uploader:myrandall,
+volleyball,
+water,
+weapon,

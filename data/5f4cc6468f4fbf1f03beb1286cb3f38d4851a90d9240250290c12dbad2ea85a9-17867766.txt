@@ -1,98 +1,98 @@
-3 toes
-3_toes
-4 fingers
-4_fingers
-2018
-alpha channel
-artist:neonspaceartist
-barefoot
-belly scales
-belly_scales
-blue body
-blue scales
-blue_body
-blue_scales
-category:ine
-character:garo (garoshadowscale)
-character:garo_(garoshadowscale)
-character:shadow the hedgehog
-chibi
-claws
-closed eyes
-creator:neonspaceartist
-cute
-detailed background
-detailed_background
-digital media (artwork)
-eyes closed
-eyes_closed
-feet
-feral
-fingers
-front view
-front_view
-furry
-garo (garoshadowscale)
-gender:male
-giga
-guro
-hindpaw
-horn
-horns
-long neck
-long_neck
-macro
-male
-meditation
-medium:detailed background
-medium:digital media
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:nsfw
-meta:shaded
-moon
-neonspaceartist
-nude
-paws
-planet
-quadruped
-rating:explicit
-rating:mature
-rating:safe
-scales
-series:sonic the hedgehog
-shaded
-shadow
-sitting
-snout
-solo
-space
-spacescape
-species:dragon
-species:mythical
-species:reptile
-species:scalie
-species:western dragon
-species:western_dragon
-streamer
-stripe
-striped
-stripes
-subreddit:imaginarydragons
-subreddit:immonsters
-teal scales
-teal_scales
-title:garoshadowscale tranquility [by neonspaceartist]
-toe claws
-toe_claws
-toes
-toony
-uploader:garoshadowscale
-wings
-year:2018
-youtuber
+3 toes,
+3_toes,
+4 fingers,
+4_fingers,
+2018,
+alpha channel,
+artist:neonspaceartist,
+barefoot,
+belly scales,
+belly_scales,
+blue body,
+blue scales,
+blue_body,
+blue_scales,
+category:ine,
+character:garo (garoshadowscale),
+character:garo_(garoshadowscale),
+character:shadow the hedgehog,
+chibi,
+claws,
+closed eyes,
+creator:neonspaceartist,
+cute,
+detailed background,
+detailed_background,
+digital media (artwork),
+eyes closed,
+eyes_closed,
+feet,
+feral,
+fingers,
+front view,
+front_view,
+furry,
+garo (garoshadowscale),
+gender:male,
+giga,
+guro,
+hindpaw,
+horn,
+horns,
+long neck,
+long_neck,
+macro,
+male,
+meditation,
+medium:detailed background,
+medium:digital media,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:nsfw,
+meta:shaded,
+moon,
+neonspaceartist,
+nude,
+paws,
+planet,
+quadruped,
+rating:explicit,
+rating:mature,
+rating:safe,
+scales,
+series:sonic the hedgehog,
+shaded,
+shadow,
+sitting,
+snout,
+solo,
+space,
+spacescape,
+species:dragon,
+species:mythical,
+species:reptile,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+streamer,
+stripe,
+striped,
+stripes,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+teal scales,
+teal_scales,
+title:garoshadowscale tranquility [by neonspaceartist],
+toe claws,
+toe_claws,
+toes,
+toony,
+uploader:garoshadowscale,
+wings,
+year:2018,
+youtuber,

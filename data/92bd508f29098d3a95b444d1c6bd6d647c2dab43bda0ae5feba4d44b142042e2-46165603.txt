@@ -1,53 +1,53 @@
-ambiguous gender
-ambiguous_gender
-artist:panzerdancer
-black body
-black fur
-black_body
-black_fur
-category:ine
-character:xil (panzerdancer)
-character:xil_(panzerdancer)
-creator:panzerdancer
-creepy
-dark
-extra eyes
-feral
-forest
-fur
-gender:ambiguous
-looking at viewer
-looking_at_viewer
-lore:female (lore)
-lore:female_(lore)
-macro
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-multi eye
-multi mouth
-multi_eye
-multi_mouth
-night
-nightmare fuel
-nightmare_fuel
-plant
-rating:safe
-smile
-solo
-species:canid
-species:canine
-species:canis
-species:eldritch horror
-species:eldritch_horror
-species:mammal
-species:wolf
-star
-subreddit:imaginaryhorrors
-subreddit:immonsters
-title:the onyx forest, by me
-tree
-uploader:epictauk
-white eyes
-white_eyes
+ambiguous gender,
+ambiguous_gender,
+artist:panzerdancer,
+black body,
+black fur,
+black_body,
+black_fur,
+category:ine,
+character:xil (panzerdancer),
+character:xil_(panzerdancer),
+creator:panzerdancer,
+creepy,
+dark,
+extra eyes,
+feral,
+forest,
+fur,
+gender:ambiguous,
+looking at viewer,
+looking_at_viewer,
+lore:female (lore),
+lore:female_(lore),
+macro,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+multi eye,
+multi mouth,
+multi_eye,
+multi_mouth,
+night,
+nightmare fuel,
+nightmare_fuel,
+plant,
+rating:safe,
+smile,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:eldritch horror,
+species:eldritch_horror,
+species:mammal,
+species:wolf,
+star,
+subreddit:imaginaryhorrors,
+subreddit:immonsters,
+title:the onyx forest, by me,
+tree,
+uploader:epictauk,
+white eyes,
+white_eyes,

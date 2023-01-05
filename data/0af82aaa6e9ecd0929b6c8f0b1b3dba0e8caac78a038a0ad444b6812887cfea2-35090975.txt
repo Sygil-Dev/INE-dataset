@@ -1,41 +1,41 @@
-1girl
-astronaut
-aurora
-bow
-category:ine
-city lights
-cloud
-constellation
-crescent moon
-earth (planet)
-fireflies
-full moon
-galaxy
-halftone
-light particles
-milky way
-moon
-moonlight
-night
-night sky
-painting (medium)
-planet
-rating:safe
-shooting star
-sky
-snowing
-space
-space helmet
-star (sky)
-star (symbol)
-starry sky
-starry sky print
-subreddit:imaginaryaww
-subreddit:immeta
-tanabata
-tanzaku
-telescope
-title:adoption by little oil, 2015
-uploader:slow-moving-sloth
-watercolor (medium)
-window
+1girl,
+astronaut,
+aurora,
+bow,
+category:ine,
+city lights,
+cloud,
+constellation,
+crescent moon,
+earth (planet),
+fireflies,
+full moon,
+galaxy,
+halftone,
+light particles,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+painting (medium),
+planet,
+rating:safe,
+shooting star,
+sky,
+snowing,
+space,
+space helmet,
+star (sky),
+star (symbol),
+starry sky,
+starry sky print,
+subreddit:imaginaryaww,
+subreddit:immeta,
+tanabata,
+tanzaku,
+telescope,
+title:adoption by little oil, 2015,
+uploader:slow-moving-sloth,
+watercolor (medium),
+window,

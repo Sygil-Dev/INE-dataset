@@ -1,122 +1,122 @@
-1 male
-1boy
-asteroid ill
-backpack
-bag
-baseball cap
-blue pants
-booru:danbooru
-booru:sankaku
-booru:sankaku channel
-brown hair
-category:ine
-character:blue oak
-character:gen 1 pokemon
-character:hilbert (pokemon)
-character:lucas (pokemon)
-character:nate (pokemon)
-character:pikachu
-character:pokemon character
-character:pokemon species
-character:pokemon trainer
-character:poliwhirl
-character:protagonist (pokemon)
-character:red (pokemon)
-character:rosa (pokemon)
-character:rotom
-character:rotom phone
-character:spearow
-clothing:baseball cap
-clothing:footwear
-clothing:hat
-clothing:headwear
-clothing:legwear
-clothing:pants
-clothing:shirt
-clothing:shoes
-clothing:short sleeves
-cloud
-cloudy sky
-creator:astero .
-creator:asteroid ill
-creator:asuteroid
-day
-footwear
-full body
-gen 1 pokemon
-gen 1 pokémon
-gender:male
-grey cardigan
-hat
-headwear
-hiking
-holding
-holding poke ball
-holding pokemon
-jacket
-legwear
-male
-male focus
-medium:digital 2d
-medium:high resolution
-medium:image
-medium:no audio
-medium:video
-meta:highres
-mountain
-outdoors
-outside
-pants
-poke ball
-poke ball (basic)
-pokemon (creature)
-pokemon trainer
-poké ball
-protagonist (pokemon)
-rating:mature
-rating:s
-rating:safe
-rating:sensitive
-red footwear
-red headwear
-riding pokemon
-rock
-scenery
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon red green blue & yellow
-series:pokemon rgby
-series:pokémon
-series:pokémon red green blue & yellow
-shirt
-shoes
-short hair
-short sleeves
-shoulder bag
-silhouette
-sky
-snow
-species:monster
-species:pikachu
-species:pokémon
-species:poliwhirl
-species:spearow
-standing
-studio:creatures (company)
-studio:creatures inc.
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imaginarypets
-subreddit:imfandoms
-subreddit:immeta
-title:mt. ember
-title:mt. ember by astero
-uploader:myrandall
-uploader:vecttor
-walking
-water
-wristband
+1 male,
+1boy,
+asteroid ill,
+backpack,
+bag,
+baseball cap,
+blue pants,
+booru:danbooru,
+booru:sankaku,
+booru:sankaku channel,
+brown hair,
+category:ine,
+character:blue oak,
+character:gen 1 pokemon,
+character:hilbert (pokemon),
+character:lucas (pokemon),
+character:nate (pokemon),
+character:pikachu,
+character:pokemon character,
+character:pokemon species,
+character:pokemon trainer,
+character:poliwhirl,
+character:protagonist (pokemon),
+character:red (pokemon),
+character:rosa (pokemon),
+character:rotom,
+character:rotom phone,
+character:spearow,
+clothing:baseball cap,
+clothing:footwear,
+clothing:hat,
+clothing:headwear,
+clothing:legwear,
+clothing:pants,
+clothing:shirt,
+clothing:shoes,
+clothing:short sleeves,
+cloud,
+cloudy sky,
+creator:astero .,
+creator:asteroid ill,
+creator:asuteroid,
+day,
+footwear,
+full body,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:male,
+grey cardigan,
+hat,
+headwear,
+hiking,
+holding,
+holding poke ball,
+holding pokemon,
+jacket,
+legwear,
+male,
+male focus,
+medium:digital 2d,
+medium:high resolution,
+medium:image,
+medium:no audio,
+medium:video,
+meta:highres,
+mountain,
+outdoors,
+outside,
+pants,
+poke ball,
+poke ball (basic),
+pokemon (creature),
+pokemon trainer,
+poké ball,
+protagonist (pokemon),
+rating:mature,
+rating:s,
+rating:safe,
+rating:sensitive,
+red footwear,
+red headwear,
+riding pokemon,
+rock,
+scenery,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon red green blue & yellow,
+series:pokemon rgby,
+series:pokémon,
+series:pokémon red green blue & yellow,
+shirt,
+shoes,
+short hair,
+short sleeves,
+shoulder bag,
+silhouette,
+sky,
+snow,
+species:monster,
+species:pikachu,
+species:pokémon,
+species:poliwhirl,
+species:spearow,
+standing,
+studio:creatures (company),
+studio:creatures inc.,
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imaginarypets,
+subreddit:imfandoms,
+subreddit:immeta,
+title:mt. ember,
+title:mt. ember by astero,
+uploader:myrandall,
+uploader:vecttor,
+walking,
+water,
+wristband,

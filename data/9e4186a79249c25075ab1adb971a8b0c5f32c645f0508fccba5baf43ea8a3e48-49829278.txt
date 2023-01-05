@@ -1,23 +1,23 @@
-1 male
-anthropomorphism
-category:ine
-creator:therafa
-furry
-gender:male
-genre:fantasy
-male only
-medium:detailed background
-rating:safe
-red scales
-scales
-solo
-solo male
-species:lizardfolk
-species:scalie
-subreddit:imaginarydragons
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:immonsters
-title:shielded dragon leader
-title:shielded dragon leader by therafa
-uploader:myrandall
+1 male,
+anthropomorphism,
+category:ine,
+creator:therafa,
+furry,
+gender:male,
+genre:fantasy,
+male only,
+medium:detailed background,
+rating:safe,
+red scales,
+scales,
+solo,
+solo male,
+species:lizardfolk,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:immonsters,
+title:shielded dragon leader,
+title:shielded dragon leader by therafa,
+uploader:myrandall,

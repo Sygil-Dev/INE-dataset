@@ -1,61 +1,61 @@
-2d
-ambiguous gender
-ambiguous_gender
-artist:sabtastic
-beak
-category:ine
-clothing
-clothing:tagme
-creator:sabtastic
-cub
-duo
-feral
-filename:ddsm4g4-28b97f4e-24bb-48e5-a4af-9fc2315210-b50b7
-firearm
-fur
-gender:ambiguous
-gun
-hat
-headgear
-headwear
-holster
-meta:2d
-meta:tagme
-outside
-ranged weapon
-ranged_weapon
-rating:safe
-rope
-sheriff star
-sheriff_star
-sky
-species:anatid
-species:anseriform
-species:avian
-species:bird
-species:canid
-species:canine
-species:canis
-species:dog
-species:domestic dog
-species:domestic_dog
-species:duck
-species:herding dog
-species:herding_dog
-species:mammal
-species:pastoral dog
-species:pastoral_dog
-species:welsh corgi
-species:welsh_corgi
-subreddit:imaginaryaww
-subreddit:imaginarycowboys
-subreddit:imcharacters
-subreddit:immeta
-title:"sheriff and deputy" by sabtastic
-uploader:torvusil
-weapon
-white body
-white fur
-white_body
-white_fur
-young
+2d,
+ambiguous gender,
+ambiguous_gender,
+artist:sabtastic,
+beak,
+category:ine,
+clothing,
+clothing:tagme,
+creator:sabtastic,
+cub,
+duo,
+feral,
+filename:ddsm4g4-28b97f4e-24bb-48e5-a4af-9fc2315210-b50b7,
+firearm,
+fur,
+gender:ambiguous,
+gun,
+hat,
+headgear,
+headwear,
+holster,
+meta:2d,
+meta:tagme,
+outside,
+ranged weapon,
+ranged_weapon,
+rating:safe,
+rope,
+sheriff star,
+sheriff_star,
+sky,
+species:anatid,
+species:anseriform,
+species:avian,
+species:bird,
+species:canid,
+species:canine,
+species:canis,
+species:dog,
+species:domestic dog,
+species:domestic_dog,
+species:duck,
+species:herding dog,
+species:herding_dog,
+species:mammal,
+species:pastoral dog,
+species:pastoral_dog,
+species:welsh corgi,
+species:welsh_corgi,
+subreddit:imaginaryaww,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+subreddit:immeta,
+title:"sheriff and deputy" by sabtastic,
+uploader:torvusil,
+weapon,
+white body,
+white fur,
+white_body,
+white_fur,
+young,

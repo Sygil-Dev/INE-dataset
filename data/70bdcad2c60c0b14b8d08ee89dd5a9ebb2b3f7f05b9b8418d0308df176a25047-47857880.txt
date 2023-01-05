@@ -1,121 +1,121 @@
-3 fingers
-3_fingers
-abstract background
-action pose
-action_pose
-ambiguous gender
-ambiguous_gender
-angry
-anthro
-anthropomorphism
-artist:kuroi_susumu
-blue body
-blue_body
-booru:e621
-category:ine
-character:lucario
-chest spike
-chest_spike
-clenched hands
-clenched teeth
-clenched_teeth
-cloud
-copyright:nintendo
-copyright:pokémon
-creator:kuroi susumu
-detailed_background
-dirt
-featureless crotch
-featureless_crotch
-fingers
-fist
-front view
-front_view
-fur
-furry
-gen 4 pokemon
-gen 4 pokémon
-gender:ambiguous
-landscape
-legs apart
-light
-lighting
-looking at viewer
-medium:abstract background
-medium:detailed background
-medium:high resolution
-meta:2020
-meta:commentary request
-meta:detailed
-meta:digital_media_(artwork)
-meta:digital_painting_(artwork)
-meta:hi_res
-meta:highres
-meta:portrait
-meta:three-quarter_portrait
-motion blur
-motion lines
-motion_blur
-motion_lines
-mountain
-neck tuft
-neck_tuft
-no humans
-outside
-particles
-point of view
-pokemon (creature)
-pose
-punch
-punching
-punching at viewer
-pupils
-rating:safe
-rating:sensitive
-red eyes
-red_eyes
-rock
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokémon
-sky
-slit pupils
-slit_pupils
-small waist
-small_waist
-solar corona (optics)
-solar_corona_(optics)
-solo
-species:canid
-species:canine
-species:lucario
-species:mammal
-species:pokémon
-species:pokémon_(species)
-spikes
-spikes_(anatomy)
-spiral
-standing
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-sunset
-tan body
-tan fur
-tan_body
-tan_fur
-teeth
-title:lucario by 黒井ススム
-tuft
-uploader:disappointingreality
-valley
-video games
-video_games
-violence
-wide stance
-wide_stance
-wind
+3 fingers,
+3_fingers,
+abstract background,
+action pose,
+action_pose,
+ambiguous gender,
+ambiguous_gender,
+angry,
+anthro,
+anthropomorphism,
+artist:kuroi_susumu,
+blue body,
+blue_body,
+booru:e621,
+category:ine,
+character:lucario,
+chest spike,
+chest_spike,
+clenched hands,
+clenched teeth,
+clenched_teeth,
+cloud,
+copyright:nintendo,
+copyright:pokémon,
+creator:kuroi susumu,
+detailed_background,
+dirt,
+featureless crotch,
+featureless_crotch,
+fingers,
+fist,
+front view,
+front_view,
+fur,
+furry,
+gen 4 pokemon,
+gen 4 pokémon,
+gender:ambiguous,
+landscape,
+legs apart,
+light,
+lighting,
+looking at viewer,
+medium:abstract background,
+medium:detailed background,
+medium:high resolution,
+meta:2020,
+meta:commentary request,
+meta:detailed,
+meta:digital_media_(artwork),
+meta:digital_painting_(artwork),
+meta:hi_res,
+meta:highres,
+meta:portrait,
+meta:three-quarter_portrait,
+motion blur,
+motion lines,
+motion_blur,
+motion_lines,
+mountain,
+neck tuft,
+neck_tuft,
+no humans,
+outside,
+particles,
+point of view,
+pokemon (creature),
+pose,
+punch,
+punching,
+punching at viewer,
+pupils,
+rating:safe,
+rating:sensitive,
+red eyes,
+red_eyes,
+rock,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+sky,
+slit pupils,
+slit_pupils,
+small waist,
+small_waist,
+solar corona (optics),
+solar_corona_(optics),
+solo,
+species:canid,
+species:canine,
+species:lucario,
+species:mammal,
+species:pokémon,
+species:pokémon_(species),
+spikes,
+spikes_(anatomy),
+spiral,
+standing,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sunset,
+tan body,
+tan fur,
+tan_body,
+tan_fur,
+teeth,
+title:lucario by 黒井ススム,
+tuft,
+uploader:disappointingreality,
+valley,
+video games,
+video_games,
+violence,
+wide stance,
+wide_stance,
+wind,

@@ -1,21 +1,21 @@
-category:ine
-cinematic
-creator:klaus wittmann
-film
-firearm
-future
-gender:female
-genre:cyberpunk
-medium:digital 2d
-monster
-movie
-noir
-rifle
-species:undead
-species:vampire
-subreddit:imaginarywarriors
-subreddit:imcharacters
-title:ankh
-title:ankh by klaus wittmann
-uploader:n0laloth
-weapon
+category:ine,
+cinematic,
+creator:klaus wittmann,
+film,
+firearm,
+future,
+gender:female,
+genre:cyberpunk,
+medium:digital 2d,
+monster,
+movie,
+noir,
+rifle,
+species:undead,
+species:vampire,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+title:ankh,
+title:ankh by klaus wittmann,
+uploader:n0laloth,
+weapon,

@@ -1,111 +1,111 @@
-2019
-ambiguous gender
-ambiguous_gender
-armor
-artist name
-artist:x-celebril-x
-astronaut
-aurora
-campfire
-cape
-category:ine
-city lights
-clothed
-clothing
-clothing:armor
-cloud
-constellation
-copyright:blizzard_entertainment
-copyright:warcraft
-creator:x-celebril-x
-crescent moon
-desert
-digital media (artwork)
-earth (planet)
-female
-feral
-fireflies
-fireworks
-flying
-full moon
-galaxy
-gender:ambiguous
-gender:female
-glowing
-hi res
-holding object
-holding weapon
-holding_object
-holding_weapon
-light particles
-medium:digital media
-medium:high resolution
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:url
-milky way
-moon
-moonlight
-night
-night sky
-outside
-planet
-purple sky
-rating:safe
-red moon
-reindeer
-series:blizzard entertainment
-series:warcraft
-shooting star
-signature
-sky
-skyline
-snow
-snowing
-solo
-space
-space craft
-space helmet
-spacesuit
-species:avian
-species:bird
-species:elf
-species:felid
-species:feline
-species:humanoid
-species:leopard
-species:mammal
-species:night elf
-species:night_elf
-species:owl
-species:pantherine
-standing
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-studio:blizzard entertainment
-subreddit:imaginaryanimals
-subreddit:imaginaryarchers
-subreddit:imaginaryazeroth
-subreddit:imaginarybeasts
-subreddit:imaginaryelves
-subreddit:imcharacters
-subreddit:imfandoms
-subreddit:immonsters
-subreddit:imnature
-subreddit:imraces
-tanabata
-tanzaku
-telescope
-text
-title:'a night of sorrow' by x-celebril-x
-uploader:jg379
-video games
-video_games
-weapon
-year:2019
+2019,
+ambiguous gender,
+ambiguous_gender,
+armor,
+artist name,
+artist:x-celebril-x,
+astronaut,
+aurora,
+campfire,
+cape,
+category:ine,
+city lights,
+clothed,
+clothing,
+clothing:armor,
+cloud,
+constellation,
+copyright:blizzard_entertainment,
+copyright:warcraft,
+creator:x-celebril-x,
+crescent moon,
+desert,
+digital media (artwork),
+earth (planet),
+female,
+feral,
+fireflies,
+fireworks,
+flying,
+full moon,
+galaxy,
+gender:ambiguous,
+gender:female,
+glowing,
+hi res,
+holding object,
+holding weapon,
+holding_object,
+holding_weapon,
+light particles,
+medium:digital media,
+medium:high resolution,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:url,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+outside,
+planet,
+purple sky,
+rating:safe,
+red moon,
+reindeer,
+series:blizzard entertainment,
+series:warcraft,
+shooting star,
+signature,
+sky,
+skyline,
+snow,
+snowing,
+solo,
+space,
+space craft,
+space helmet,
+spacesuit,
+species:avian,
+species:bird,
+species:elf,
+species:felid,
+species:feline,
+species:humanoid,
+species:leopard,
+species:mammal,
+species:night elf,
+species:night_elf,
+species:owl,
+species:pantherine,
+standing,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+studio:blizzard entertainment,
+subreddit:imaginaryanimals,
+subreddit:imaginaryarchers,
+subreddit:imaginaryazeroth,
+subreddit:imaginarybeasts,
+subreddit:imaginaryelves,
+subreddit:imcharacters,
+subreddit:imfandoms,
+subreddit:immonsters,
+subreddit:imnature,
+subreddit:imraces,
+tanabata,
+tanzaku,
+telescope,
+text,
+title:'a night of sorrow' by x-celebril-x,
+uploader:jg379,
+video games,
+video_games,
+weapon,
+year:2019,

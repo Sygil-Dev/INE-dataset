@@ -1,46 +1,46 @@
-adventure
-arcs
-brush
-clouds
-color
-colour
-composition
-creator:stas yurev
-desert
-environment painting
-environments
-fantasy
-film
-game
-gateway
-heat
-horns
-idea
-landscape
-light
-medieval
-medium:digital 2d
-messenger
-mountains
-personal
-photobash
-photoshop
-plain
-rocks
-sands
-sharp
-sky
-steppe
-storm
-story
-subreddit:imaginarywildlands
-subreddit:imlandscapes
-textures
-title:arcs
-title:arcs art by stas yurev
-traveler
-uploader:racconccity
-wanderer
-waste
-wayfarer
-wilds
+adventure,
+arcs,
+brush,
+clouds,
+color,
+colour,
+composition,
+creator:stas yurev,
+desert,
+environment painting,
+environments,
+fantasy,
+film,
+game,
+gateway,
+heat,
+horns,
+idea,
+landscape,
+light,
+medieval,
+medium:digital 2d,
+messenger,
+mountains,
+personal,
+photobash,
+photoshop,
+plain,
+rocks,
+sands,
+sharp,
+sky,
+steppe,
+storm,
+story,
+subreddit:imaginarywildlands,
+subreddit:imlandscapes,
+textures,
+title:arcs,
+title:arcs art by stas yurev,
+traveler,
+uploader:racconccity,
+wanderer,
+waste,
+wayfarer,
+wilds,

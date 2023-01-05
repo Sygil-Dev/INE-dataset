@@ -1,49 +1,49 @@
-4 toes
-4_toes
-alectorfencer
-ambiguous gender
-ambiguous_gender
-artist:alectorfencer
-category:ine
-claws
-creator:alectorfencer
-creature
-creaturedesign
-day
-desert
-detailed background
-detailed_background
-dust
-feet
-feral
-filename:1593504441.alectorfencer_kurrukh_bg
-gender:ambiguous
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-monster
-myre
-open mouth
-open_mouth
-outside
-rating:general
-rating:safe
-sky
-solo
-source:furaffinity.net
-species:unknown species
-species:unknown_species
-species:unspecified / any
-subreddit:imaginarybeasts
-subreddit:immonsters
-teeth
-title:myre 2 - kurrukh
-title:myre 2 - kurrukh by alectorfencer
-toes
-uploader:myrandall
-yria
+4 toes,
+4_toes,
+alectorfencer,
+ambiguous gender,
+ambiguous_gender,
+artist:alectorfencer,
+category:ine,
+claws,
+creator:alectorfencer,
+creature,
+creaturedesign,
+day,
+desert,
+detailed background,
+detailed_background,
+dust,
+feet,
+feral,
+filename:1593504441.alectorfencer_kurrukh_bg,
+gender:ambiguous,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+monster,
+myre,
+open mouth,
+open_mouth,
+outside,
+rating:general,
+rating:safe,
+sky,
+solo,
+source:furaffinity.net,
+species:unknown species,
+species:unknown_species,
+species:unspecified / any,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+teeth,
+title:myre 2 - kurrukh,
+title:myre 2 - kurrukh by alectorfencer,
+toes,
+uploader:myrandall,
+yria,

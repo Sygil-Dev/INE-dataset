@@ -1,74 +1,74 @@
-3d
-afloat
-boat
-booru:danbooru
-booru:sankaku
-booru:yande.re
-bridge
-building
-category:ine
-cloud
-clouds
-collaboration
-condensation trail
-creator:arsenixc
-creator:vvcephei
-day
-dock
-flag
-floating
-grass
-ground vehicle
-hdr
-icephei
-innertube
-lake
-landscape
-light rays
-medium:3d rendering
-medium:16:9 aspect ratio
-medium:cg art
-medium:collaboration
-medium:digital media
-medium:game cg
-medium:official art
-medium:wallpaper
-meta:collaboration
-meta:potential duplicate
-no humans
-nobody
-original 500 users bookmark
-pier
-pixiv artist id:202175
-pixiv illust id:2073218
-pixiv work:2073218
-rating:s
-rating:safe
-reeds
-rowboat
-scenery
-scenic
-series:erogame project
-series:everlasting summer
-series:original
-series:ru-chans
-series:russian memes
-sky
-subreddit:imaginaryarchitecture
-summer_camp
-sunbeam
-sunlight
-title:"boat bow" by arsenixc
-title:船駅
-train
-uploader:mecheye
-vehicle
-vvc
-water
-watercraft
-オリジナル500users入り
-ボート
-入道雲
-景色
-風景
-風景1000users入り
+3d,
+afloat,
+boat,
+booru:danbooru,
+booru:sankaku,
+booru:yande.re,
+bridge,
+building,
+category:ine,
+cloud,
+clouds,
+collaboration,
+condensation trail,
+creator:arsenixc,
+creator:vvcephei,
+day,
+dock,
+flag,
+floating,
+grass,
+ground vehicle,
+hdr,
+icephei,
+innertube,
+lake,
+landscape,
+light rays,
+medium:3d rendering,
+medium:16:9 aspect ratio,
+medium:cg art,
+medium:collaboration,
+medium:digital media,
+medium:game cg,
+medium:official art,
+medium:wallpaper,
+meta:collaboration,
+meta:potential duplicate,
+no humans,
+nobody,
+original 500 users bookmark,
+pier,
+pixiv artist id:202175,
+pixiv illust id:2073218,
+pixiv work:2073218,
+rating:s,
+rating:safe,
+reeds,
+rowboat,
+scenery,
+scenic,
+series:erogame project,
+series:everlasting summer,
+series:original,
+series:ru-chans,
+series:russian memes,
+sky,
+subreddit:imaginaryarchitecture,
+summer_camp,
+sunbeam,
+sunlight,
+title:"boat bow" by arsenixc,
+title:船駅,
+train,
+uploader:mecheye,
+vehicle,
+vvc,
+water,
+watercraft,
+オリジナル500users入り,
+ボート,
+入道雲,
+景色,
+風景,
+風景1000users入り,

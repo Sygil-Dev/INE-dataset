@@ -1,25 +1,25 @@
-beach
-boat
-category:ine
-cloud
-cloudy sky
-flag
-horizon
-military vehicle
-ocean
-outdoors
-rating:safe
-rising sun
-ship
-shore
-sky
-subreddit:imaginarywarships
-subreddit:imtechnology
-sunburst
-title:illustration of argentine battleship moreno by oscar parkes, 1912
-turret
-uploader:tsquare43
-warship
-water
-watercraft
-waves
+beach,
+boat,
+category:ine,
+cloud,
+cloudy sky,
+flag,
+horizon,
+military vehicle,
+ocean,
+outdoors,
+rating:safe,
+rising sun,
+ship,
+shore,
+sky,
+subreddit:imaginarywarships,
+subreddit:imtechnology,
+sunburst,
+title:illustration of argentine battleship moreno by oscar parkes, 1912,
+turret,
+uploader:tsquare43,
+warship,
+water,
+watercraft,
+waves,

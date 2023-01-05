@@ -1,26 +1,26 @@
-architecture
-blue sky
-bridge
-building
-castle
-category:ine
-city
-cloud
-cloudy sky
-day
-east asian architecture
-house
-mountain
-no humans
-outdoors
-rating:safe
-ruins
-scenery
-sky
-subreddit:imaginaryturtleworlds
-subreddit:immeta
-title:not-so-imaginary turtle house
-tower
-tree
-uploader:pmurhneftafl
-water
+architecture,
+blue sky,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cloud,
+cloudy sky,
+day,
+east asian architecture,
+house,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+subreddit:imaginaryturtleworlds,
+subreddit:immeta,
+title:not-so-imaginary turtle house,
+tower,
+tree,
+uploader:pmurhneftafl,
+water,

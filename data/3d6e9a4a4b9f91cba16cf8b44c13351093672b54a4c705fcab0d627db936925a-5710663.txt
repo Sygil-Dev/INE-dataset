@@ -1,40 +1,40 @@
-ambiguous gender
-booru:e621
-booru:furry
-category:ine
-creator:nganlamsong
-feral
-gender:ambiguous
-mega evolution
-mega lucario
-meta:alpha channel
-nganlamsong
-ralts
-rating:safe
-riolu
-sculpture
-series:nintendo
-series:pokemon
-series:pokémon
-species:canid
-species:canine
-species:diglett
-species:lucario
-species:mammal
-species:mega evolution
-species:mega lucario
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:ralts
-species:riolu
-species:torchic
-statue
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:the best of his life by nganlamsong
-torchic
-uploader:pkmnart
-video games
+ambiguous gender,
+booru:e621,
+booru:furry,
+category:ine,
+creator:nganlamsong,
+feral,
+gender:ambiguous,
+mega evolution,
+mega lucario,
+meta:alpha channel,
+nganlamsong,
+ralts,
+rating:safe,
+riolu,
+sculpture,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+species:canid,
+species:canine,
+species:diglett,
+species:lucario,
+species:mammal,
+species:mega evolution,
+species:mega lucario,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:ralts,
+species:riolu,
+species:torchic,
+statue,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:the best of his life by nganlamsong,
+torchic,
+uploader:pkmnart,
+video games,

@@ -1,26 +1,26 @@
-aircraft
-bird
-building
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-fire
-flock
-flying
-helicopter
-horizon
-mountain
-outdoors
-rating:safe
-ruins
-scenery
-seagull
-sky
-skyscraper
-subreddit:imaginarybehemoths
-subreddit:immonsters
-sunset
-title:giant vs witch by du1l
-uploader:thestormsystem99
+aircraft,
+bird,
+building,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+fire,
+flock,
+flying,
+helicopter,
+horizon,
+mountain,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+seagull,
+sky,
+skyscraper,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+sunset,
+title:giant vs witch by du1l,
+uploader:thestormsystem99,

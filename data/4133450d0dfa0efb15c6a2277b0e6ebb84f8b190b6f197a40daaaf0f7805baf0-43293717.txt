@@ -1,30 +1,30 @@
-blizzard
-category:ine
-creator:joseph weston
-genre:fantasy
-legend of runeterra
-medium:digital 2d
-monster
-runeterra
-series:league of legends
-series:warcraft
-series:world of warcraft
-species:canine
-species:canis
-species:elf
-species:mammal
-species:mythical
-species:night elf
-species:orc
-species:werewolf
-species:wolf
-species:worgen
-studio:blizzard entertainment
-studio:riot games
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-the alliance
-the horde
-title:ruthy the dreamer - wow commission
-title:ruthy the dreamer by joseph weston
-uploader:lol33ta
+blizzard,
+category:ine,
+creator:joseph weston,
+genre:fantasy,
+legend of runeterra,
+medium:digital 2d,
+monster,
+runeterra,
+series:league of legends,
+series:warcraft,
+series:world of warcraft,
+species:canine,
+species:canis,
+species:elf,
+species:mammal,
+species:mythical,
+species:night elf,
+species:orc,
+species:werewolf,
+species:wolf,
+species:worgen,
+studio:blizzard entertainment,
+studio:riot games,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+the alliance,
+the horde,
+title:ruthy the dreamer - wow commission,
+title:ruthy the dreamer by joseph weston,
+uploader:lol33ta,

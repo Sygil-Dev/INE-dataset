@@ -1,146 +1,146 @@
-alley
-arm up
-artist name
-artist:bluekomadori
-baseball bat
-baseball_bat
-bat (object)
-bat_(object)
-being watched
-being_watched
-black eyes
-blue body
-blue skin
-blue_body
-blue_skin
-booru:e621
-booru:safebooru
-brick wall
-category:ine
-character:crobat
-character:croconaw
-character:elgyem
-character:gen 1 pokemon
-character:hoppip
-character:koffing
-character:pancham
-character:scrafty
-character:shuckle
-character:squirtle
-character:trubbish
-clothing:eyewear
-copyright:nintendo
-copyright:pokémon
-creator:bluekomadori
-creator:sora23163
-creator:コマドリ
-crossed arms
-english
-english text
-eyewear
-fangs
-feral
-flying
-food
-frown
-furry
-gang
-garbage
-gen 1 pokemon
-gen 1 pokémon
-gen 2 pokemon
-gen 5 pokemon
-gen 6 pokemon
-gender:ambiguous
-glowing
-graffiti
-group
-high resolution
-holding
-imminent pain
-language:english
-legs apart
-looking at another
-looking_at_another
-medium:artist name
-medium:english text
-medium:high resolution
-medium:text
-medium:video game
-medium:watermark
-medium:web address
-meta:2015
-meta:english_text
-meta:hi_res
-meta:highres
-meta:url
-night
-no humans
-open mouth
-pixiv artist id:2124558
-pixiv illust id:48349400
-pokemon (creature)
-poster
-poster (object)
-profile
-pudding
-puddle
-raised arm
-raised_arm
-rating:mature
-rating:safe
-red eyes
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokémon
-sitting
-smoke
-species:alien
-species:animate inanimate
-species:animate_inanimate
-species:chiropteran
-species:crobat
-species:crocodilian
-species:croconaw
-species:elgyem
-species:hoppip
-species:koffing
-species:mammal
-species:monster
-species:pancham
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:reptile
-species:scalie
-species:scrafty
-species:squirtle
-species:trubbish
-species:ursid
-species:waddling head
-species:waddling_head
-standing
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-sunglasses
-text
-title:little alien by bluekomadori
-title:リグレー
-tongue
-tongue out
-trash
-trash bag
-trash can
-uploader:pkmnart
-video games
-video_games
-wall
-watermark
-web address
-wings
-ドガース
-ポケットモンスター
-ヤブクロン
-リグレー
+alley,
+arm up,
+artist name,
+artist:bluekomadori,
+baseball bat,
+baseball_bat,
+bat (object),
+bat_(object),
+being watched,
+being_watched,
+black eyes,
+blue body,
+blue skin,
+blue_body,
+blue_skin,
+booru:e621,
+booru:safebooru,
+brick wall,
+category:ine,
+character:crobat,
+character:croconaw,
+character:elgyem,
+character:gen 1 pokemon,
+character:hoppip,
+character:koffing,
+character:pancham,
+character:scrafty,
+character:shuckle,
+character:squirtle,
+character:trubbish,
+clothing:eyewear,
+copyright:nintendo,
+copyright:pokémon,
+creator:bluekomadori,
+creator:sora23163,
+creator:コマドリ,
+crossed arms,
+english,
+english text,
+eyewear,
+fangs,
+feral,
+flying,
+food,
+frown,
+furry,
+gang,
+garbage,
+gen 1 pokemon,
+gen 1 pokémon,
+gen 2 pokemon,
+gen 5 pokemon,
+gen 6 pokemon,
+gender:ambiguous,
+glowing,
+graffiti,
+group,
+high resolution,
+holding,
+imminent pain,
+language:english,
+legs apart,
+looking at another,
+looking_at_another,
+medium:artist name,
+medium:english text,
+medium:high resolution,
+medium:text,
+medium:video game,
+medium:watermark,
+medium:web address,
+meta:2015,
+meta:english_text,
+meta:hi_res,
+meta:highres,
+meta:url,
+night,
+no humans,
+open mouth,
+pixiv artist id:2124558,
+pixiv illust id:48349400,
+pokemon (creature),
+poster,
+poster (object),
+profile,
+pudding,
+puddle,
+raised arm,
+raised_arm,
+rating:mature,
+rating:safe,
+red eyes,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokémon,
+sitting,
+smoke,
+species:alien,
+species:animate inanimate,
+species:animate_inanimate,
+species:chiropteran,
+species:crobat,
+species:crocodilian,
+species:croconaw,
+species:elgyem,
+species:hoppip,
+species:koffing,
+species:mammal,
+species:monster,
+species:pancham,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:reptile,
+species:scalie,
+species:scrafty,
+species:squirtle,
+species:trubbish,
+species:ursid,
+species:waddling head,
+species:waddling_head,
+standing,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sunglasses,
+text,
+title:little alien by bluekomadori,
+title:リグレー,
+tongue,
+tongue out,
+trash,
+trash bag,
+trash can,
+uploader:pkmnart,
+video games,
+video_games,
+wall,
+watermark,
+web address,
+wings,
+ドガース,
+ポケットモンスター,
+ヤブクロン,
+リグレー,

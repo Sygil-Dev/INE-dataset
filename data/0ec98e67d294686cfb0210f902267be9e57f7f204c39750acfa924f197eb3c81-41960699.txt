@@ -1,22 +1,22 @@
-architecture
-bird
-blue sky
-castle
-category:ine
-cloud
-cloudy sky
-day
-fantasy
-mountain
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarytowers
-subreddit:imarchitecture
-sunlight
-title:ivory tower by jason chan
-tower
-uploader:[deleted]
-uploader:faeryknight
+architecture,
+bird,
+blue sky,
+castle,
+category:ine,
+cloud,
+cloudy sky,
+day,
+fantasy,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarytowers,
+subreddit:imarchitecture,
+sunlight,
+title:ivory tower by jason chan,
+tower,
+uploader:[deleted],
+uploader:faeryknight,

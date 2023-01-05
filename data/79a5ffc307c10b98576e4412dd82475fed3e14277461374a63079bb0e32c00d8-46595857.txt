@@ -1,55 +1,55 @@
-2d
-aleksa stajsic
-anime
-astajsic
-avengers
-badguy
-cardart
-category:ine
-characterart
-characterconcept
-characterdesign
-color
-comicart
-comicbook
-conceptart
-coverart
-creator:aleksa stajsic
-design
-detail
-digitalart
-digitalpainting
-drawing
-fanart
-fantasyartwork
-gameart
-gold
-hero
-illustration
-illustrator
-madtitan
-marvel
-marvelcomics
-marvelfanart
-medium:digital 2d
-metal
-novisad
-painting
-photoshop
-photoshop2d
-purple
-render
-sparth
-subreddit:imaginarycolorscapes
-subreddit:imaginaryimmortals
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:immeta
-subreddit:imraces
-superhero
-thanos
-titan
-title:thanos - fanart
-title:thanos - fanart, aleksa stajsic
-uploader:al3ks4
-villian
+2d,
+aleksa stajsic,
+anime,
+astajsic,
+avengers,
+badguy,
+cardart,
+category:ine,
+characterart,
+characterconcept,
+characterdesign,
+color,
+comicart,
+comicbook,
+conceptart,
+coverart,
+creator:aleksa stajsic,
+design,
+detail,
+digitalart,
+digitalpainting,
+drawing,
+fanart,
+fantasyartwork,
+gameart,
+gold,
+hero,
+illustration,
+illustrator,
+madtitan,
+marvel,
+marvelcomics,
+marvelfanart,
+medium:digital 2d,
+metal,
+novisad,
+painting,
+photoshop,
+photoshop2d,
+purple,
+render,
+sparth,
+subreddit:imaginarycolorscapes,
+subreddit:imaginaryimmortals,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:immeta,
+subreddit:imraces,
+superhero,
+thanos,
+titan,
+title:thanos - fanart,
+title:thanos - fanart, aleksa stajsic,
+uploader:al3ks4,
+villian,

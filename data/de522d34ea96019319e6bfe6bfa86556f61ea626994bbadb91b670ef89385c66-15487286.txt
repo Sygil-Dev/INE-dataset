@@ -1,63 +1,63 @@
-1 male
-1boy
-80s
-black hair
-boots
-character:kaneda shoutarou
-city
-cityscape
-clothing:boots
-clothing:footwear
-clothing:gloves
-clothing:jacket
-clothing:legwear
-clothing:pants
-company name
-creator:yonaz
-cyberpunk
-dirty
-footwear
-gender:male
-genre:cyberpunk
-genre:science fiction
-gloves
-goggles
-goggles around neck
-ground vehicle
-jacket
-kaneda shoutarou's bike
-looking away
-male focus
-medium:focus on male character
-meta:1980s (style)
-meta:commentary request
-meta:photoshop (medium)
-motor vehicle
-motorcycle
-oldschool
-pants
-rating:mature
-rating:safe
-rating:sensitive
-realistic
-retro artstyle
-ruins
-scenery
-science fiction
-series:akira
-series:bmw
-series:canon (company)
-series:citizen (company)
-series:shoei
-short hair
-solo
-sport bike
-standing
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:akira by jonas jakobsson
-uploader:myrandall
-urban
-vehicle
-wasteland
-wide shot
+1 male,
+1boy,
+80s,
+black hair,
+boots,
+character:kaneda shoutarou,
+city,
+cityscape,
+clothing:boots,
+clothing:footwear,
+clothing:gloves,
+clothing:jacket,
+clothing:legwear,
+clothing:pants,
+company name,
+creator:yonaz,
+cyberpunk,
+dirty,
+footwear,
+gender:male,
+genre:cyberpunk,
+genre:science fiction,
+gloves,
+goggles,
+goggles around neck,
+ground vehicle,
+jacket,
+kaneda shoutarou's bike,
+looking away,
+male focus,
+medium:focus on male character,
+meta:1980s (style),
+meta:commentary request,
+meta:photoshop (medium),
+motor vehicle,
+motorcycle,
+oldschool,
+pants,
+rating:mature,
+rating:safe,
+rating:sensitive,
+realistic,
+retro artstyle,
+ruins,
+scenery,
+science fiction,
+series:akira,
+series:bmw,
+series:canon (company),
+series:citizen (company),
+series:shoei,
+short hair,
+solo,
+sport bike,
+standing,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:akira by jonas jakobsson,
+uploader:myrandall,
+urban,
+vehicle,
+wasteland,
+wide shot,

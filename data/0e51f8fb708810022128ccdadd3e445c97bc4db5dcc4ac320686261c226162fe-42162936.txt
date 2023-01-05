@@ -1,29 +1,29 @@
-assault rifle
-belt
-boots
-category:ine
-gloves
-gradient
-gradient background
-gun
-handgun
-helmet
-holding
-holding gun
-holding weapon
-holstered weapon
-hood
-military uniform
-pouch
-rating:safe
-rifle
-shotgun
-shotgun shell
-solo
-standing
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:imperial guard by fabrizio carminati
-uniform
-uploader:sw4ahl
-weapon
+assault rifle,
+belt,
+boots,
+category:ine,
+gloves,
+gradient,
+gradient background,
+gun,
+handgun,
+helmet,
+holding,
+holding gun,
+holding weapon,
+holstered weapon,
+hood,
+military uniform,
+pouch,
+rating:safe,
+rifle,
+shotgun,
+shotgun shell,
+solo,
+standing,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:imperial guard by fabrizio carminati,
+uniform,
+uploader:sw4ahl,
+weapon,

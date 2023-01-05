@@ -1,82 +1,82 @@
-4 claws
-4 toes
-4_claws
-4_toes
-ambiguous gender
-ambiguous_gender
-artist:blitzdrachin
-artist:conditional_dnp
-black body
-black fur
-black_body
-black_fur
-blitzdrachin
-blue eyes
-blue theme
-blue_eyes
-canid
-category:ine
-cave
-claws
-conditional dnp
-conditional_dnp
-creator:blitzdrachin
-creator:conditional dnp
-creator:sifyro
-crystal
-detailed background
-detailed_background
-dragon
-fangs
-feet
-feral
-fluffy
-fox
-fur
-furry
-gender:ambiguous
-horn
-horns
-hybrid
-invalid tag
-kitsune
-mammal
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:widescreen
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:16:9
-meta:2020
-meta:blue theme
-meta:blue_theme
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:widescreen
-open mouth
-open_mouth
-rating:safe
-sfw
-solo
-species:canid
-species:canine
-species:dragon
-species:fox
-species:hybrid
-species:mammal
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-teeth
-title:character design for yrukavi
-title:kitsune derg
-toes
-tongue
-uploader:sifyro
-whiskers
-wings
-year:2020
+4 claws,
+4 toes,
+4_claws,
+4_toes,
+ambiguous gender,
+ambiguous_gender,
+artist:blitzdrachin,
+artist:conditional_dnp,
+black body,
+black fur,
+black_body,
+black_fur,
+blitzdrachin,
+blue eyes,
+blue theme,
+blue_eyes,
+canid,
+category:ine,
+cave,
+claws,
+conditional dnp,
+conditional_dnp,
+creator:blitzdrachin,
+creator:conditional dnp,
+creator:sifyro,
+crystal,
+detailed background,
+detailed_background,
+dragon,
+fangs,
+feet,
+feral,
+fluffy,
+fox,
+fur,
+furry,
+gender:ambiguous,
+horn,
+horns,
+hybrid,
+invalid tag,
+kitsune,
+mammal,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:widescreen,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:16:9,
+meta:2020,
+meta:blue theme,
+meta:blue_theme,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:widescreen,
+open mouth,
+open_mouth,
+rating:safe,
+sfw,
+solo,
+species:canid,
+species:canine,
+species:dragon,
+species:fox,
+species:hybrid,
+species:mammal,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+teeth,
+title:character design for yrukavi,
+title:kitsune derg,
+toes,
+tongue,
+uploader:sifyro,
+whiskers,
+wings,
+year:2020,

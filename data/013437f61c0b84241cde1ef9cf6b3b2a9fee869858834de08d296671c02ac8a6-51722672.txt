@@ -1,25 +1,25 @@
-1girl
-armor
-artist name
-cape
-category:ine
-chain
-cloak
-dated
-gloves
-gradient
-gradient background
-greyscale
-gun
-monochrome
-rating:safe
-shoulder armor
-signature
-smoke
-smoking gun
-solo
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:i'll show you hot by del-borovic
-uploader:castass
-weapon
+1girl,
+armor,
+artist name,
+cape,
+category:ine,
+chain,
+cloak,
+dated,
+gloves,
+gradient,
+gradient background,
+greyscale,
+gun,
+monochrome,
+rating:safe,
+shoulder armor,
+signature,
+smoke,
+smoking gun,
+solo,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:i'll show you hot by del-borovic,
+uploader:castass,
+weapon,

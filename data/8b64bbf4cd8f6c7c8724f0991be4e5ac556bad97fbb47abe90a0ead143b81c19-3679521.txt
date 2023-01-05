@@ -1,68 +1,68 @@
-3d
-aircraft
-airship
-background
-bird
-blue sky
-booru:danbooru
-booru:gelbooru
-booru:sankaku
-bridge
-building
-car
-category:ine
-city
-cityscape
-cloud
-clouds
-creator:arsenixc
-day
-dove
-flying ship
-ground vehicle
-highres
-landscape
-letterboxed
-locomotive
-medium:3d
-medium:3d rendering
-medium:digital media
-medium:high resolution
-medium:letterboxed
-meta:highres
-meta:potential duplicate
-motor vehicle
-no humans
-original
-original 10000 users bookmark
-original character
-outdoors
-overpass
-pixiv artist id:202175
-pixiv illust id:27398282
-pixiv work:27398282
-rating:s
-rating:safe
-scenery
-series:original
-shade
-ship
-sky
-skyscraper
-species:avian
-species:bird
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-sunlight
-title:evening city by arsenixc
-title:町の夕方
-train
-uploader:ttensai
-vehicle
-wallpaper
-watercraft
-ここに行きたい
-ふつくしい
-列車
-飛行船
-高速道路
+3d,
+aircraft,
+airship,
+background,
+bird,
+blue sky,
+booru:danbooru,
+booru:gelbooru,
+booru:sankaku,
+bridge,
+building,
+car,
+category:ine,
+city,
+cityscape,
+cloud,
+clouds,
+creator:arsenixc,
+day,
+dove,
+flying ship,
+ground vehicle,
+highres,
+landscape,
+letterboxed,
+locomotive,
+medium:3d,
+medium:3d rendering,
+medium:digital media,
+medium:high resolution,
+medium:letterboxed,
+meta:highres,
+meta:potential duplicate,
+motor vehicle,
+no humans,
+original,
+original 10000 users bookmark,
+original character,
+outdoors,
+overpass,
+pixiv artist id:202175,
+pixiv illust id:27398282,
+pixiv work:27398282,
+rating:s,
+rating:safe,
+scenery,
+series:original,
+shade,
+ship,
+sky,
+skyscraper,
+species:avian,
+species:bird,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+sunlight,
+title:evening city by arsenixc,
+title:町の夕方,
+train,
+uploader:ttensai,
+vehicle,
+wallpaper,
+watercraft,
+ここに行きたい,
+ふつくしい,
+列車,
+飛行船,
+高速道路,

@@ -1,38 +1,38 @@
-booru:safebooru
-category:ine
-character:feraligatr
-clipstudiopaint
-creator:riza4828
-creator:tesshii (riza4828)
-creator:テッシー
-creator:テッシー(tessy)
-gen 2 pokemon
-gender:female
-lily pad
-no humans
-partially submerged
-pixiv artist id:2447058
-pixiv illust id:56313412
-pokemon 500 users bookmark
-pokemon (creature)
-rating:mature
-rating:safe
-series:pokémon
-sharp teeth
-solo
-species:feraligatr
-species:monster
-species:pokémon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-tail
-teeth
-title:feraligatr by tessy
-title:じーっ
-uploader:pkmnart
-yellow eyes
-オーダイル
-ポケモン
-ポケモン1000users入り
-水面
+booru:safebooru,
+category:ine,
+character:feraligatr,
+clipstudiopaint,
+creator:riza4828,
+creator:tesshii (riza4828),
+creator:テッシー,
+creator:テッシー(tessy),
+gen 2 pokemon,
+gender:female,
+lily pad,
+no humans,
+partially submerged,
+pixiv artist id:2447058,
+pixiv illust id:56313412,
+pokemon 500 users bookmark,
+pokemon (creature),
+rating:mature,
+rating:safe,
+series:pokémon,
+sharp teeth,
+solo,
+species:feraligatr,
+species:monster,
+species:pokémon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tail,
+teeth,
+title:feraligatr by tessy,
+title:じーっ,
+uploader:pkmnart,
+yellow eyes,
+オーダイル,
+ポケモン,
+ポケモン1000users入り,
+水面,

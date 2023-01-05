@@ -1,22 +1,22 @@
-1other
-building
-category:ine
-city
-cloud
-cloudy sky
-fog
-greyscale
-lightning
-monster
-mountain
-outdoors
-rating:safe
-ruins
-scenery
-sky
-standing
-subreddit:imaginarybehemoths
-subreddit:immonsters
-title:domain of the arachnomancer
-uploader:pigridingzombi3
-weapon
+1other,
+building,
+category:ine,
+city,
+cloud,
+cloudy sky,
+fog,
+greyscale,
+lightning,
+monster,
+mountain,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+standing,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+title:domain of the arachnomancer,
+uploader:pigridingzombi3,
+weapon,

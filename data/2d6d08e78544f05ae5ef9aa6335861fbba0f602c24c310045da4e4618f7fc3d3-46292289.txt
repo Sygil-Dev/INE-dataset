@@ -1,25 +1,25 @@
-artwork
-asteroid
-category:ine
-conceptart
-creator:murilo francisco
-digitalart
-digitalartfantasy
-digitalartwork
-explosion
-fantasyilustration
-future
-galaxy
-medium:digital 2d
-photomanipulation
-planet
-scenary
-scifi
-space
-sparks
-subreddit:imaginarystarscapes
-subreddit:imlandscapes
-title:space collison
-title:space collison, murilo francisco
-uploader:dr_mrs_them0narch
-wallpaper
+artwork,
+asteroid,
+category:ine,
+conceptart,
+creator:murilo francisco,
+digitalart,
+digitalartfantasy,
+digitalartwork,
+explosion,
+fantasyilustration,
+future,
+galaxy,
+medium:digital 2d,
+photomanipulation,
+planet,
+scenary,
+scifi,
+space,
+sparks,
+subreddit:imaginarystarscapes,
+subreddit:imlandscapes,
+title:space collison,
+title:space collison, murilo francisco,
+uploader:dr_mrs_them0narch,
+wallpaper,

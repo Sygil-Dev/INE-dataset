@@ -1,77 +1,77 @@
-1 male
-1boy
-belt
-belt buckle
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-boots
-brown footwear
-brown gloves
-brown hair
-brown hat
-brown headwear
-buckle
-category:ine
-closed mouth
-clothing:boots
-clothing:earrings
-clothing:fingerless gloves
-clothing:footwear
-clothing:gloves
-clothing:hat
-clothing:headwear
-clothing:necklace
-creator:et.m
-creator:mecheall
-drt
-earrings
-facial hair
-fingerless gloves
-footwear
-full body
-gender:male
-gloves
-hand on hip
-hat
-jewelry
-male focus
-medium hair
-medium:absurd resolution
-medium:high resolution
-medium:simple background
-medium:very high resolution
-medium:white background
-meta:absurdres
-meta:commentary
-meta:highres
-necklace
-pirate
-pirate hat
-pixiv id:1153073
-pixiv work:28341161
-pouch
-rating:mature
-rating:safe
-scabbard
-scar
-scar across eye
-series:original
-sheath
-simple background
-smile
-solo
-standing
-subreddit:imaginarypirates
-subreddit:imcharacters
-sword
-title:pirate captain by et. mecheall
-title:【drt】pirate captain reference
-uploader:c-mv
-weapon
-white background
-慾望航路
-海賊
-海贼
+1 male,
+1boy,
+belt,
+belt buckle,
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+boots,
+brown footwear,
+brown gloves,
+brown hair,
+brown hat,
+brown headwear,
+buckle,
+category:ine,
+closed mouth,
+clothing:boots,
+clothing:earrings,
+clothing:fingerless gloves,
+clothing:footwear,
+clothing:gloves,
+clothing:hat,
+clothing:headwear,
+clothing:necklace,
+creator:et.m,
+creator:mecheall,
+drt,
+earrings,
+facial hair,
+fingerless gloves,
+footwear,
+full body,
+gender:male,
+gloves,
+hand on hip,
+hat,
+jewelry,
+male focus,
+medium hair,
+medium:absurd resolution,
+medium:high resolution,
+medium:simple background,
+medium:very high resolution,
+medium:white background,
+meta:absurdres,
+meta:commentary,
+meta:highres,
+necklace,
+pirate,
+pirate hat,
+pixiv id:1153073,
+pixiv work:28341161,
+pouch,
+rating:mature,
+rating:safe,
+scabbard,
+scar,
+scar across eye,
+series:original,
+sheath,
+simple background,
+smile,
+solo,
+standing,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+sword,
+title:pirate captain by et. mecheall,
+title:【drt】pirate captain reference,
+uploader:c-mv,
+weapon,
+white background,
+慾望航路,
+海賊,
+海贼,

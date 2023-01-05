@@ -1,35 +1,35 @@
-breathing fire
-burning
-campfire
-category:ine
-chain
-cloud
-cloudy sky
-dusk
-embers
-evening
-explosion
-fire
-flame
-flaming sword
-flaming weapon
-gradient sky
-molten rock
-mountain
-orange sky
-outdoors
-planted sword
-rating:safe
-red sky
-sky
-smoke
-solo
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-sun
-sunset
-title:war, borys spalvish
-torch
-twilight
-uploader:superbreality2
-weapon
+breathing fire,
+burning,
+campfire,
+category:ine,
+chain,
+cloud,
+cloudy sky,
+dusk,
+embers,
+evening,
+explosion,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+gradient sky,
+molten rock,
+mountain,
+orange sky,
+outdoors,
+planted sword,
+rating:safe,
+red sky,
+sky,
+smoke,
+solo,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+sun,
+sunset,
+title:war, borys spalvish,
+torch,
+twilight,
+uploader:superbreality2,
+weapon,

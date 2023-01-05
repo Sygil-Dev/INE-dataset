@@ -1,44 +1,44 @@
-2020
-abrjan
-artist:katruna94
-category:ine
-character:felmyr
-creator:katruna94
-digital media (artwork)
-felmyr
-furry
-horn
-horns
-katruna94
-loli
-lolicon
-lolita
-looking at viewer
-looking_at_viewer
-lottery
-medium:digital media
-medium:simple background
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-portrait
-pov
-prize
-rating:safe
-simple background
-simple_background
-solo
-source:furaffinity.net
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:lottery prise by katruna94
-title:lottery prize
-tongue
-tongue out
-tongue_out
-uploader:katruna94
-year:2020
-year:feb 2, 2020
+2020,
+abrjan,
+artist:katruna94,
+category:ine,
+character:felmyr,
+creator:katruna94,
+digital media (artwork),
+felmyr,
+furry,
+horn,
+horns,
+katruna94,
+loli,
+lolicon,
+lolita,
+looking at viewer,
+looking_at_viewer,
+lottery,
+medium:digital media,
+medium:simple background,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+portrait,
+pov,
+prize,
+rating:safe,
+simple background,
+simple_background,
+solo,
+source:furaffinity.net,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:lottery prise by katruna94,
+title:lottery prize,
+tongue,
+tongue out,
+tongue_out,
+uploader:katruna94,
+year:2020,
+year:feb 2, 2020,

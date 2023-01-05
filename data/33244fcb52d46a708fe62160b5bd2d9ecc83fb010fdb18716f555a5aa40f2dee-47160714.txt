@@ -1,47 +1,47 @@
-5 fingers
-5 toes
-5_fingers
-5_toes
-artist:sandara
-black hair
-black_hair
-category:ine
-clothed
-clothing
-creator:sandara
-day
-detailed background
-detailed_background
-feathered wings
-feathered_wings
-feathers
-feet
-feral
-fingers
-group
-hair
-medium:detailed background
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-outside
-rating:safe
-sitting
-smile
-species:avian
-species:elf
-species:felid
-species:feline
-species:humanoid
-species:mammal
-subreddit:imaginaryweaponry
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imtechnology
-title:enchanting by sandara tang
-toes
-uploader:lol33ta
-uploader:myrandall
-wings
+5 fingers,
+5 toes,
+5_fingers,
+5_toes,
+artist:sandara,
+black hair,
+black_hair,
+category:ine,
+clothed,
+clothing,
+creator:sandara,
+day,
+detailed background,
+detailed_background,
+feathered wings,
+feathered_wings,
+feathers,
+feet,
+feral,
+fingers,
+group,
+hair,
+medium:detailed background,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+outside,
+rating:safe,
+sitting,
+smile,
+species:avian,
+species:elf,
+species:felid,
+species:feline,
+species:humanoid,
+species:mammal,
+subreddit:imaginaryweaponry,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imtechnology,
+title:enchanting by sandara tang,
+toes,
+uploader:lol33ta,
+uploader:myrandall,
+wings,

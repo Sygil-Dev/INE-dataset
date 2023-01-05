@@ -1,33 +1,33 @@
-booru:sankaku channel
-category:ine
-constellation
-creator:serafleur
-female
-hair jewelry
-hair ornament
-jewelry
-lip gloss
-lips
-lipstick
-long eyelashes
-long hair
-looking at viewer
-makeup
-medium:artist name
-medium:realistic
-medium:text
-multicolored hair
-purple eyes
-rating:safe
-red lips
-series:original
-solo
-subreddit:imaginaryimmortals
-subreddit:imraces
-subreddit:inegentlemanboners
-title:astrelle - north goddess by serafleur
-title:astrelle by serafleur
-two-tone hair
-uploader:reveriesian
-zodiac (personification)
-zodiac (symbol)
+booru:sankaku channel,
+category:ine,
+constellation,
+creator:serafleur,
+female,
+hair jewelry,
+hair ornament,
+jewelry,
+lip gloss,
+lips,
+lipstick,
+long eyelashes,
+long hair,
+looking at viewer,
+makeup,
+medium:artist name,
+medium:realistic,
+medium:text,
+multicolored hair,
+purple eyes,
+rating:safe,
+red lips,
+series:original,
+solo,
+subreddit:imaginaryimmortals,
+subreddit:imraces,
+subreddit:inegentlemanboners,
+title:astrelle - north goddess by serafleur,
+title:astrelle by serafleur,
+two-tone hair,
+uploader:reveriesian,
+zodiac (personification),
+zodiac (symbol),

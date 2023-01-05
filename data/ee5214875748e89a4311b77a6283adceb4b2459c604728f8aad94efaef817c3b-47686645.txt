@@ -1,52 +1,52 @@
-ambiguous gender
-ambiguous_gender
-anthropomorphism
-artist:blitzdrachin
-artist:conditional_dnp
-bread
-cafe
-category:ine
-character:keranas
-chibi
-clothing
-conditional dnp
-conditional_dnp
-creator:blitzdrachin
-creator:conditional dnp
-creator:sifyro
-crocodylid
-croissant
-croissants
-detailed background
-detailed_background
-dragon
-duo
-fire
-flower
-food
-furry
-hat
-headgear
-headwear
-horn
-horns
-invalid tag
-kemono
-keranas
-medium:detailed background
-plant
-rating:safe
-semi-anthro
-source:furaffinity.net
-species:crocodile
-species:crocodilian
-species:crocodylid
-species:dragon
-species:mythical
-species:reptile
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:artfight: the war isn't over, plive &gt;:c
-title:artfight: toasted croissants
-uploader:sifyro
+ambiguous gender,
+ambiguous_gender,
+anthropomorphism,
+artist:blitzdrachin,
+artist:conditional_dnp,
+bread,
+cafe,
+category:ine,
+character:keranas,
+chibi,
+clothing,
+conditional dnp,
+conditional_dnp,
+creator:blitzdrachin,
+creator:conditional dnp,
+creator:sifyro,
+crocodylid,
+croissant,
+croissants,
+detailed background,
+detailed_background,
+dragon,
+duo,
+fire,
+flower,
+food,
+furry,
+hat,
+headgear,
+headwear,
+horn,
+horns,
+invalid tag,
+kemono,
+keranas,
+medium:detailed background,
+plant,
+rating:safe,
+semi-anthro,
+source:furaffinity.net,
+species:crocodile,
+species:crocodilian,
+species:crocodylid,
+species:dragon,
+species:mythical,
+species:reptile,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:artfight: the war isn't over, plive &gt;:c,
+title:artfight: toasted croissants,
+uploader:sifyro,

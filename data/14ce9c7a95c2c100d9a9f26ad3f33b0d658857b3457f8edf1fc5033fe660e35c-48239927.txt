@@ -1,102 +1,102 @@
-accessory
-animal tail
-artist:dimitris_karakousis
-beach
-blue eyes
-blue_eyes
-booru:e621
-breasts
-category:ine
-cloud
-covered breasts
-covered_breasts
-covering
-covering self
-covering_self
-creator:dimitris karakousis
-deep navel
-deep_navel
-detailed background
-detailed_background
-ear piercing
-ear_piercing
-featureless crotch
-featureless_crotch
-female
-fin
-fish tail
-fish_tail
-flower
-flower in hair
-flower_in_hair
-flukes
-flying
-front view
-front_view
-gem
-gender:female
-hair
-hair accessory
-hair ornament
-hair_accessory
-horizon
-iridescent
-lips
-long hair
-long_hair
-looking away
-looking_away
-lying
-medium:detailed background
-meta:better_version_at_source
-meta:detailed
-meta:digital_media_(artwork)
-meta:digital_painting_(artwork)
-navel
-nude
-on side
-on_side
-open mouth
-open_mouth
-overcast
-piercing
-pink hair
-pink_hair
-plant
-rating:questionable
-red lips
-red_lips
-rock
-rocky shore
-rocky_shore
-sand
-sapphire (gem)
-sapphire_(gem)
-sea
-seashell
-seaside
-shell
-sky
-solo
-species:avian
-species:bird
-species:gull
-species:humanoid
-species:lari
-species:larid
-species:marine
-species:merfolk
-species:mythical
-split form
-split_form
-stomach
-subreddit:imaginarymerfolk
-subreddit:imraces
-sunrays
-tail
-title:siren with pink hair by dimitris karakousis
-uploader:lol33ta
-water
-wave
-wavy hair
-wavy_hair
+accessory,
+animal tail,
+artist:dimitris_karakousis,
+beach,
+blue eyes,
+blue_eyes,
+booru:e621,
+breasts,
+category:ine,
+cloud,
+covered breasts,
+covered_breasts,
+covering,
+covering self,
+covering_self,
+creator:dimitris karakousis,
+deep navel,
+deep_navel,
+detailed background,
+detailed_background,
+ear piercing,
+ear_piercing,
+featureless crotch,
+featureless_crotch,
+female,
+fin,
+fish tail,
+fish_tail,
+flower,
+flower in hair,
+flower_in_hair,
+flukes,
+flying,
+front view,
+front_view,
+gem,
+gender:female,
+hair,
+hair accessory,
+hair ornament,
+hair_accessory,
+horizon,
+iridescent,
+lips,
+long hair,
+long_hair,
+looking away,
+looking_away,
+lying,
+medium:detailed background,
+meta:better_version_at_source,
+meta:detailed,
+meta:digital_media_(artwork),
+meta:digital_painting_(artwork),
+navel,
+nude,
+on side,
+on_side,
+open mouth,
+open_mouth,
+overcast,
+piercing,
+pink hair,
+pink_hair,
+plant,
+rating:questionable,
+red lips,
+red_lips,
+rock,
+rocky shore,
+rocky_shore,
+sand,
+sapphire (gem),
+sapphire_(gem),
+sea,
+seashell,
+seaside,
+shell,
+sky,
+solo,
+species:avian,
+species:bird,
+species:gull,
+species:humanoid,
+species:lari,
+species:larid,
+species:marine,
+species:merfolk,
+species:mythical,
+split form,
+split_form,
+stomach,
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+sunrays,
+tail,
+title:siren with pink hair by dimitris karakousis,
+uploader:lol33ta,
+water,
+wave,
+wavy hair,
+wavy_hair,

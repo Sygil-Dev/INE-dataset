@@ -1,24 +1,24 @@
-armor
-blades
-category:ine
-city
-drawing
-fajareka setiawan
-genre:cyberpunk
-genre:science fiction
-headwear
-helmet
-night
-ninja
-purple
-shinobi
-shuriken
-subreddit:imaginaryassassins
-subreddit:imaginaryninjas
-subreddit:imcharacters
-title:"shinobi of wind" by fajareka setiawan
-title:shinobi of wind by fajareka setiawan
-uploader:lol33ta
-uploader:torvusil
-warrior
-weapon
+armor,
+blades,
+category:ine,
+city,
+drawing,
+fajareka setiawan,
+genre:cyberpunk,
+genre:science fiction,
+headwear,
+helmet,
+night,
+ninja,
+purple,
+shinobi,
+shuriken,
+subreddit:imaginaryassassins,
+subreddit:imaginaryninjas,
+subreddit:imcharacters,
+title:"shinobi of wind" by fajareka setiawan,
+title:shinobi of wind by fajareka setiawan,
+uploader:lol33ta,
+uploader:torvusil,
+warrior,
+weapon,

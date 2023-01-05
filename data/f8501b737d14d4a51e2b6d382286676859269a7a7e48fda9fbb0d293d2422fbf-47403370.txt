@@ -1,135 +1,135 @@
-2 horns
-2_horns
-3 toes
-3_toes
-5 fingers
-5_fingers
-anthro
-anthropomorphism
-artist:blitzdrachin
-artist:conditional_dnp
-biped
-black claws
-black_claws
-booru:the permanent booru
-category:ine
-character:keranas
-claws
-cloud
-conditional dnp
-conditional_dnp
-countershade arms
-countershade face
-countershade tail
-countershade torso
-countershade_arms
-countershade_face
-countershade_tail
-countershade_torso
-countershading
-creator:blitzdrachin
-creator:conditional dnp
-creator:sifyro
-curved horn
-curved_horn
-day
-detailed background
-detailed_background
-digitigrade
-face
-facial expression
-featureless crotch
-featureless_crotch
-feet
-field
-finger claws
-finger_claws
-fingers
-flower
-front view
-front_view
-full-length portrait
-furry
-gender:male
-grass
-green body
-green hair
-green tail
-green_body
-green_hair
-green_tail
-hair
-horn
-horns
-invalid tag
-keranas
-looking at viewer
-looking_at_viewer
-male
-medium:detailed background
-medium:digital media
-medium:text
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:full-length portrait
-meta:full-length_portrait
-meta:portrait
-meta:signature
-multicolored body
-multicolored_body
-mythical character
-no sclera
-no_sclera
-nude
-one eye obstructed
-one_eye_obstructed
-outside
-plant
-point of view
-portrait
-pose
-pupils
-rating:safe
-shadow
-sky
-slit pupils
-slit_pupils
-smile
-smirk
-snout
-solo
-species:crocodilian
-species:dragon
-species:mythical
-species:reptile
-species:scalie
-spiky hair
-spiky_hair
-standing
-standing position
-subreddit:imaginarydragons
-subreddit:immonsters
-tan horn
-tan_horn
-text
-three-quarter view
-three-quarter_view
-title:artfight: plive- by me
-toe claws
-toe_claws
-toes
-two tone body
-two tone tail
-two_tone_body
-two_tone_tail
-uploader:sifyro
-white body
-white countershading
-white tail
-white_body
-white_countershading
-white_tail
-year:2020
-yellow eyes
-yellow_eyes
+2 horns,
+2_horns,
+3 toes,
+3_toes,
+5 fingers,
+5_fingers,
+anthro,
+anthropomorphism,
+artist:blitzdrachin,
+artist:conditional_dnp,
+biped,
+black claws,
+black_claws,
+booru:the permanent booru,
+category:ine,
+character:keranas,
+claws,
+cloud,
+conditional dnp,
+conditional_dnp,
+countershade arms,
+countershade face,
+countershade tail,
+countershade torso,
+countershade_arms,
+countershade_face,
+countershade_tail,
+countershade_torso,
+countershading,
+creator:blitzdrachin,
+creator:conditional dnp,
+creator:sifyro,
+curved horn,
+curved_horn,
+day,
+detailed background,
+detailed_background,
+digitigrade,
+face,
+facial expression,
+featureless crotch,
+featureless_crotch,
+feet,
+field,
+finger claws,
+finger_claws,
+fingers,
+flower,
+front view,
+front_view,
+full-length portrait,
+furry,
+gender:male,
+grass,
+green body,
+green hair,
+green tail,
+green_body,
+green_hair,
+green_tail,
+hair,
+horn,
+horns,
+invalid tag,
+keranas,
+looking at viewer,
+looking_at_viewer,
+male,
+medium:detailed background,
+medium:digital media,
+medium:text,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:full-length portrait,
+meta:full-length_portrait,
+meta:portrait,
+meta:signature,
+multicolored body,
+multicolored_body,
+mythical character,
+no sclera,
+no_sclera,
+nude,
+one eye obstructed,
+one_eye_obstructed,
+outside,
+plant,
+point of view,
+portrait,
+pose,
+pupils,
+rating:safe,
+shadow,
+sky,
+slit pupils,
+slit_pupils,
+smile,
+smirk,
+snout,
+solo,
+species:crocodilian,
+species:dragon,
+species:mythical,
+species:reptile,
+species:scalie,
+spiky hair,
+spiky_hair,
+standing,
+standing position,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+tan horn,
+tan_horn,
+text,
+three-quarter view,
+three-quarter_view,
+title:artfight: plive- by me,
+toe claws,
+toe_claws,
+toes,
+two tone body,
+two tone tail,
+two_tone_body,
+two_tone_tail,
+uploader:sifyro,
+white body,
+white countershading,
+white tail,
+white_body,
+white_countershading,
+white_tail,
+year:2020,
+yellow eyes,
+yellow_eyes,

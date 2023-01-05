@@ -1,32 +1,32 @@
-1 female
-anime
-anime girls
-barefoot
-category:ine
-catgirl
-catperson
-character:y'shtola rhul
-creator:lucia hsiang
-drawing
-fanart
-feet
-female
-female only
-gender:female
-medium:digital 2d
-portrait display
-series:final fantasy
-series:final fantasy xiv
-solo
-solo female
-species:miqo'te
-studio:square enix
-subreddit:imaginarymonstergirls
-subreddit:imaginarypets
-subreddit:immeta
-subreddit:immonsters
-tail
-tiptoe
-title:y'shtola rhul
-title:y'shtola rhul by lucia hsiang
-uploader:n0laloth
+1 female,
+anime,
+anime girls,
+barefoot,
+category:ine,
+catgirl,
+catperson,
+character:y'shtola rhul,
+creator:lucia hsiang,
+drawing,
+fanart,
+feet,
+female,
+female only,
+gender:female,
+medium:digital 2d,
+portrait display,
+series:final fantasy,
+series:final fantasy xiv,
+solo,
+solo female,
+species:miqo'te,
+studio:square enix,
+subreddit:imaginarymonstergirls,
+subreddit:imaginarypets,
+subreddit:immeta,
+subreddit:immonsters,
+tail,
+tiptoe,
+title:y'shtola rhul,
+title:y'shtola rhul by lucia hsiang,
+uploader:n0laloth,

@@ -1,21 +1,21 @@
-black background
-category:ine
-crescent moon
-monster
-moon
-night
-night sky
-open mouth
-planet
-rating:safe
-sharp teeth
-space
-star (sky)
-starry sky
-subreddit:imaginaryanimals
-subreddit:imaginarybeasts
-subreddit:immonsters
-subreddit:imnature
-teeth
-title:'incantations' by wolfskulljack
-uploader:jg379
+black background,
+category:ine,
+crescent moon,
+monster,
+moon,
+night,
+night sky,
+open mouth,
+planet,
+rating:safe,
+sharp teeth,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryanimals,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+subreddit:imnature,
+teeth,
+title:'incantations' by wolfskulljack,
+uploader:jg379,

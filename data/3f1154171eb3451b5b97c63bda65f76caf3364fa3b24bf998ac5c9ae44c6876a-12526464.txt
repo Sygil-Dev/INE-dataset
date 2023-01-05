@@ -1,37 +1,37 @@
-1 female
-adepta sororitas
-adepta_sororitas
-artist name
-artist:lutherniel
-category:ine
-chaos_(warhammer)
-character:adepta sororitas
-character:chaos (warhammer)
-copyright:warhammer 40k
-creator:lutherniel
-demon
-demon horns
-demon wings
-demon_wings
-dual wielding
-firearm
-gender:female
-handgun
-holding
-horns
-lutherniel
-medium:artist name
-meta:commentary
-pistol
-rating:mature
-rating:safe
-series:warhammer 40,000
-series:warhammer 40k
-species:demon
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:hospitaller fighting a bloodthirster by lutherniel
-uploader:castass
-weapon
-wings
+1 female,
+adepta sororitas,
+adepta_sororitas,
+artist name,
+artist:lutherniel,
+category:ine,
+chaos_(warhammer),
+character:adepta sororitas,
+character:chaos (warhammer),
+copyright:warhammer 40k,
+creator:lutherniel,
+demon,
+demon horns,
+demon wings,
+demon_wings,
+dual wielding,
+firearm,
+gender:female,
+handgun,
+holding,
+horns,
+lutherniel,
+medium:artist name,
+meta:commentary,
+pistol,
+rating:mature,
+rating:safe,
+series:warhammer 40,000,
+series:warhammer 40k,
+species:demon,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:hospitaller fighting a bloodthirster by lutherniel,
+uploader:castass,
+weapon,
+wings,

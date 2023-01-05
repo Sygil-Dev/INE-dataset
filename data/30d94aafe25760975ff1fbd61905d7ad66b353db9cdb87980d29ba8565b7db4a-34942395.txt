@@ -1,22 +1,22 @@
-category:ine
-corviknight
-creator:aeonrin
-creator:aeonrin ▼
-creator:shintaiyo
-creator:▼aeonrin▼
-pixiv id:10337214
-pixiv work:75259203
-pokemon
-shield
-subreddit:imaginarykanto
-subreddit:imfandoms
-sword
-title:corviknight
-title:corviknight by aeonrin
-uploader:pkmnart
-アーマーガア
-ポケモン5000users入り
-ポケモン剣盾
-圧倒的ラスボス感
-美しい
-黒い鳥
+category:ine,
+corviknight,
+creator:aeonrin,
+creator:aeonrin ▼,
+creator:shintaiyo,
+creator:▼aeonrin▼,
+pixiv id:10337214,
+pixiv work:75259203,
+pokemon,
+shield,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sword,
+title:corviknight,
+title:corviknight by aeonrin,
+uploader:pkmnart,
+アーマーガア,
+ポケモン5000users入り,
+ポケモン剣盾,
+圧倒的ラスボス感,
+美しい,
+黒い鳥,

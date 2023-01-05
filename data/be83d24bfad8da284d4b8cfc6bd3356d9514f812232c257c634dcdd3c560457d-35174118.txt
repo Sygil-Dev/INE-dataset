@@ -1,76 +1,76 @@
-1 female
-1girl
-architecture
-bird
-blue dress
-booru:danbooru
-booru:danbooru-safebooru
-booru:safebooru
-bouquet
-building
-castle
-category:ine
-cathedral
-clothing:dress
-clothing:footwear
-cloud
-clouds
-cloudy sky
-creator:@aruurara
-creator:aruurara
-creator:inuki (aruurara)
-day
-dress
-fantasy
-field
-flock
-flower
-footwear
-forest
-fortress
-furry
-gender:female
-genre:fantasy
-grass
-horizon
-lake
-landscape
-long hair
-medium:high resolution
-meta:highres
-mountainous horizon
-nature
-outdoors
-outside
-pillar
-pond
-portfolioday
-procreate
-rating:safe
-ruins
-sandals
-scenery
-series:original
-shadow
-signature
-sky
-skyscraper
-solo
-species:avian
-standing
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:palace by aruurara
-town
-tree
-tweeter id:63162710
-uploader:zaorish9
-water
-wide shot
-wind
-何度でも見てほしいお気に入りを貼るタグ
-平成が終わる前に芸術クラスタフォロー祭
-平成最後に自分の代表作を貼る
-新規フォロワーさん向けに過去作を上げてみる
-春の創作クラスタフォロー祭り
-私の絵柄が好みって人にフォローされたい
+1 female,
+1girl,
+architecture,
+bird,
+blue dress,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:safebooru,
+bouquet,
+building,
+castle,
+category:ine,
+cathedral,
+clothing:dress,
+clothing:footwear,
+cloud,
+clouds,
+cloudy sky,
+creator:@aruurara,
+creator:aruurara,
+creator:inuki (aruurara),
+day,
+dress,
+fantasy,
+field,
+flock,
+flower,
+footwear,
+forest,
+fortress,
+furry,
+gender:female,
+genre:fantasy,
+grass,
+horizon,
+lake,
+landscape,
+long hair,
+medium:high resolution,
+meta:highres,
+mountainous horizon,
+nature,
+outdoors,
+outside,
+pillar,
+pond,
+portfolioday,
+procreate,
+rating:safe,
+ruins,
+sandals,
+scenery,
+series:original,
+shadow,
+signature,
+sky,
+skyscraper,
+solo,
+species:avian,
+standing,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:palace by aruurara,
+town,
+tree,
+tweeter id:63162710,
+uploader:zaorish9,
+water,
+wide shot,
+wind,
+何度でも見てほしいお気に入りを貼るタグ,
+平成が終わる前に芸術クラスタフォロー祭,
+平成最後に自分の代表作を貼る,
+新規フォロワーさん向けに過去作を上げてみる,
+春の創作クラスタフォロー祭り,
+私の絵柄が好みって人にフォローされたい,

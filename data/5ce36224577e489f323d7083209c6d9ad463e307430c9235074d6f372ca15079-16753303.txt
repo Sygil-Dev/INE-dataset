@@ -1,23 +1,23 @@
-army
-art
-category:ine
-concept
-creator:filippo ubertino
-genre:science fiction
-legs
-mech
-mecha
-medium:digital 2d
-nazist
-panzer
-props
-sci-fi
-snow
-ss
-subreddit:imaginarymechs
-subreddit:imtechnology
-tank
-title:u-kanone
-title:u-kanone by filippo ubertino
-uploader:lol33ta
-weapon
+army,
+art,
+category:ine,
+concept,
+creator:filippo ubertino,
+genre:science fiction,
+legs,
+mech,
+mecha,
+medium:digital 2d,
+nazist,
+panzer,
+props,
+sci-fi,
+snow,
+ss,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+tank,
+title:u-kanone,
+title:u-kanone by filippo ubertino,
+uploader:lol33ta,
+weapon,

@@ -1,38 +1,38 @@
-artist:sandara
-category:ine
-clothed
-clothing
-creator:sandara
-duo
-feathered wings
-feathered_wings
-feathers
-feral
-furry
-gender:male
-horn
-horns
-male
-meta:2020
-meta:digital_media_(artwork)
-meta:hi_res
-open mouth
-open_mouth
-rating:safe
-red eyes
-red_eyes
-species:dragon
-species:feathered dragon
-species:feathered_dragon
-species:horned humanoid
-species:horned_humanoid
-species:humanoid
-species:mythical
-species:scalie
-subreddit:imaginarypets
-subreddit:immeta
-teeth
-title:royals by sandara tang
-tongue
-uploader:myrandall
-wings
+artist:sandara,
+category:ine,
+clothed,
+clothing,
+creator:sandara,
+duo,
+feathered wings,
+feathered_wings,
+feathers,
+feral,
+furry,
+gender:male,
+horn,
+horns,
+male,
+meta:2020,
+meta:digital_media_(artwork),
+meta:hi_res,
+open mouth,
+open_mouth,
+rating:safe,
+red eyes,
+red_eyes,
+species:dragon,
+species:feathered dragon,
+species:feathered_dragon,
+species:horned humanoid,
+species:horned_humanoid,
+species:humanoid,
+species:mythical,
+species:scalie,
+subreddit:imaginarypets,
+subreddit:immeta,
+teeth,
+title:royals by sandara tang,
+tongue,
+uploader:myrandall,
+wings,

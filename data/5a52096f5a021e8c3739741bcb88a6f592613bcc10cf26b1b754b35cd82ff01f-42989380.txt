@@ -1,70 +1,70 @@
-1 female
-1girl
-armor
-artist:ross tran
-bangs
-blonde hair
-blue eyes
-brushing
-category:ine
-character:pikachu
-character:samus aran
-copyright:metroid
-creator:ross tran
-crossover
-eyewear
-firearm
-gen 1 pokemon
-gen 1 pokémon
-gender:female
-glasses
-gun
-guro
-lights
-long hair
-medium:simple background
-medium:sketch
-meta:crossover
-meta:md5 mismatch
-meta:watermark
-mole
-mole under mouth
-number
-on shoulder
-pokemon (creature)
-pokemon on shoulder
-ponytail
-power suit
-rating:explicit
-rating:safe
-rating:sensitive
-ross tran
-series:creatures (company)
-series:game freak
-series:metroid
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokémon
-series:super smash bros.
-series:super smash bros. ultimate
-simple background
-sketch
-smile
-species:monster
-species:pikachu
-species:pokemon
-species:pokémon
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imfandoms
-super smash bros. ultimate
-tied hair
-title:25% by rossdraws
-uploader:myrandall
-upper body
-varia suit
-watermark
-weapon
+1 female,
+1girl,
+armor,
+artist:ross tran,
+bangs,
+blonde hair,
+blue eyes,
+brushing,
+category:ine,
+character:pikachu,
+character:samus aran,
+copyright:metroid,
+creator:ross tran,
+crossover,
+eyewear,
+firearm,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:female,
+glasses,
+gun,
+guro,
+lights,
+long hair,
+medium:simple background,
+medium:sketch,
+meta:crossover,
+meta:md5 mismatch,
+meta:watermark,
+mole,
+mole under mouth,
+number,
+on shoulder,
+pokemon (creature),
+pokemon on shoulder,
+ponytail,
+power suit,
+rating:explicit,
+rating:safe,
+rating:sensitive,
+ross tran,
+series:creatures (company),
+series:game freak,
+series:metroid,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokémon,
+series:super smash bros.,
+series:super smash bros. ultimate,
+simple background,
+sketch,
+smile,
+species:monster,
+species:pikachu,
+species:pokemon,
+species:pokémon,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+super smash bros. ultimate,
+tied hair,
+title:25% by rossdraws,
+uploader:myrandall,
+upper body,
+varia suit,
+watermark,
+weapon,

@@ -1,28 +1,28 @@
-armour
-artwork
-category:ine
-cleavage
-clothing:bra
-clothing:underwear
-ears
-elven
-gender:female
-green eyes
-hoods
-long hair
-looking at viewer
-medium:digital media
-pointy ears
-portrait display
-pov
-red hair
-stomach
-subreddit:imaginarywarriors
-subreddit:imaginaryweaponry
-subreddit:imcharacters
-subreddit:imtechnology
-sword
-title:sword by kongjian bo
-underwear
-uploader:spirtomb1831
-weapon
+armour,
+artwork,
+category:ine,
+cleavage,
+clothing:bra,
+clothing:underwear,
+ears,
+elven,
+gender:female,
+green eyes,
+hoods,
+long hair,
+looking at viewer,
+medium:digital media,
+pointy ears,
+portrait display,
+pov,
+red hair,
+stomach,
+subreddit:imaginarywarriors,
+subreddit:imaginaryweaponry,
+subreddit:imcharacters,
+subreddit:imtechnology,
+sword,
+title:sword by kongjian bo,
+underwear,
+uploader:spirtomb1831,
+weapon,

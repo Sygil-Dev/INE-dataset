@@ -1,47 +1,47 @@
-absurd res
-anterior nasal aperture
-anterior_nasal_aperture
-artist:vincent_van_gogh
-black background
-black_background
-bone
-cigarette
-creator:vincent van gogh
-hi res
-medium:absurd resolution
-medium:black background
-medium:high resolution
-medium:simple background
-medium:traditional media
-meta:absurd res
-meta:absurd_res
-meta:hi res
-meta:hi_res
-meta:oil painting (artwork)
-meta:oil_painting_(artwork)
-meta:painting (artwork)
-meta:painting_(artwork)
-meta:traditional media (artwork)
-meta:traditional_media_(artwork)
-not furry
-not_furry
-oil painting (artwork)
-painting (artwork)
-post-impressionism
-proper art
-rating:safe
-simple background
-simple_background
-skeleton
-skull
-smoking
-solo
-species:animated skeleton
-species:animated_skeleton
-species:humanoid
-species:undead
-subreddit:imaginarystash
-subreddit:imnsfw
-title:skull of a skeleton with burning cigarette, by vincent van gogh
-traditional media (artwork)
-uploader:faeryknight
+absurd res,
+anterior nasal aperture,
+anterior_nasal_aperture,
+artist:vincent_van_gogh,
+black background,
+black_background,
+bone,
+cigarette,
+creator:vincent van gogh,
+hi res,
+medium:absurd resolution,
+medium:black background,
+medium:high resolution,
+medium:simple background,
+medium:traditional media,
+meta:absurd res,
+meta:absurd_res,
+meta:hi res,
+meta:hi_res,
+meta:oil painting (artwork),
+meta:oil_painting_(artwork),
+meta:painting (artwork),
+meta:painting_(artwork),
+meta:traditional media (artwork),
+meta:traditional_media_(artwork),
+not furry,
+not_furry,
+oil painting (artwork),
+painting (artwork),
+post-impressionism,
+proper art,
+rating:safe,
+simple background,
+simple_background,
+skeleton,
+skull,
+smoking,
+solo,
+species:animated skeleton,
+species:animated_skeleton,
+species:humanoid,
+species:undead,
+subreddit:imaginarystash,
+subreddit:imnsfw,
+title:skull of a skeleton with burning cigarette, by vincent van gogh,
+traditional media (artwork),
+uploader:faeryknight,

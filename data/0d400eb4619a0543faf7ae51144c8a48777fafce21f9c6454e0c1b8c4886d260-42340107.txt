@@ -1,23 +1,23 @@
-1boy
-boat
-category:ine
-caustics
-earth (planet)
-lightning
-monster
-ocean
-planet
-rating:safe
-river
-ship
-splashing
-subreddit:imaginarywtf
-subreddit:imnsfw
-teeth
-title:sir david attenborough fighting cthulhu
-uploader:jimmytheothercat
-warship
-water
-watercraft
-waves
-weapon
+1boy,
+boat,
+category:ine,
+caustics,
+earth (planet),
+lightning,
+monster,
+ocean,
+planet,
+rating:safe,
+river,
+ship,
+splashing,
+subreddit:imaginarywtf,
+subreddit:imnsfw,
+teeth,
+title:sir david attenborough fighting cthulhu,
+uploader:jimmytheothercat,
+warship,
+water,
+watercraft,
+waves,
+weapon,

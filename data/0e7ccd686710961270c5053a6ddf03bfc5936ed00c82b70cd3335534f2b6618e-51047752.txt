@@ -1,35 +1,35 @@
-1girl
-aurora
-book
-category:ine
-chimney
-city lights
-constellation
-crescent moon
-earth (planet)
-galaxy
-ladder
-letterboxed
-light particles
-milky way
-moon
-night
-night sky
-pillarboxed
-planet
-rating:safe
-shooting star
-sky
-snowing
-solo
-space
-star (sky)
-star (symbol)
-starry sky
-starry sky print
-subreddit:imaginarylibraries
-subreddit:imarchitecture
-tanabata
-telescope
-title:the secret library that open from 11:59 am to noon. from armed &amp; delirious/dementia (1997)
-uploader:alexluis
+1girl,
+aurora,
+book,
+category:ine,
+chimney,
+city lights,
+constellation,
+crescent moon,
+earth (planet),
+galaxy,
+ladder,
+letterboxed,
+light particles,
+milky way,
+moon,
+night,
+night sky,
+pillarboxed,
+planet,
+rating:safe,
+shooting star,
+sky,
+snowing,
+solo,
+space,
+star (sky),
+star (symbol),
+starry sky,
+starry sky print,
+subreddit:imaginarylibraries,
+subreddit:imarchitecture,
+tanabata,
+telescope,
+title:the secret library that open from 11:59 am to noon. from armed &amp; delirious/dementia (1997),
+uploader:alexluis,

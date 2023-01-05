@@ -1,23 +1,23 @@
-album cover
-category:ine
-character profile
-credits
-credits page
-english text
-engrish text
-no humans
-pixiv id
-poster (medium)
-profanity
-ranguage
-rating:safe
-romaji text
-solo
-stats
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:126b cyndaquil by christopher j foster
-tumblr username
-twitter username
-uploader:comics0026
-web address
+album cover,
+category:ine,
+character profile,
+credits,
+credits page,
+english text,
+engrish text,
+no humans,
+pixiv id,
+poster (medium),
+profanity,
+ranguage,
+rating:safe,
+romaji text,
+solo,
+stats,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:126b cyndaquil by christopher j foster,
+tumblr username,
+twitter username,
+uploader:comics0026,
+web address,

@@ -1,22 +1,22 @@
-art
-axe
-category:ine
-cave
-clothing:armor
-drawing
-dwarf
-medium:concept art
-men
-painting
-stairs
-subreddit:imaginarybattlefields
-subreddit:imaginarymiddleearth
-subreddit:imlandscapes
-sword
-the hobbit
-title:"battle for moria: dain vs azog" by justin gerard
-title:"battle for moria: dain vs. azog" by justin gerard
-uploader:flubzrevenge
-uploader:i_burn_cereal
-war
-weapon
+art,
+axe,
+category:ine,
+cave,
+clothing:armor,
+drawing,
+dwarf,
+medium:concept art,
+men,
+painting,
+stairs,
+subreddit:imaginarybattlefields,
+subreddit:imaginarymiddleearth,
+subreddit:imlandscapes,
+sword,
+the hobbit,
+title:"battle for moria: dain vs azog" by justin gerard,
+title:"battle for moria: dain vs. azog" by justin gerard,
+uploader:flubzrevenge,
+uploader:i_burn_cereal,
+war,
+weapon,

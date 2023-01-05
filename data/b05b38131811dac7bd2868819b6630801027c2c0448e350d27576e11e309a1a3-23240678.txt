@@ -1,86 +1,86 @@
-3dcg
-akihabara (tokyo)
-art
-art:landscape
-artist name
-background
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku
-car
-category:ine
-city
-commentary
-copyright name
-creator:arsenixc
-creator:vvcephei
-crosswalk
-escalator
-ground vehicle
-lamppost
-landscape
-lmrnr
-love money rock'n'roll
-medium:3d rendering
-medium:16:9 aspect ratio
-medium:artist name
-medium:cg art
-medium:collaboration
-medium:copyright name
-medium:digital media
-medium:game cg
-medium:high resolution
-medium:official art
-medium:wallpaper
-medium:watermark
-meta:artist name
-meta:collaboration
-meta:commentary
-meta:game cg
-meta:highres
-meta:official art
-meta:wallpaper
-motor vehicle
-motorcycle
-night
-no humans
-original
-outdoors
-outside
-page:1
-pixiv artist id:202175
-pixiv illust id:73161516
-pixiv work:73161516
-rating:mature
-rating:s
-rating:safe
-real world location
-road
-scenery
-series:love money rock'n'roll
-series:original
-shop
-sidewalk
-sign
-storefront
-street
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-television
-title:akihabara south exit
-title:akihabara south exit night by arsenixc
-tokyo (city)
-uploader:ttensai
-vehicle
-watermark
-オリジナル
-サトームセン
-夜
-東京都
-秋葉原
-背景
-通り
-風景
-風景5000users入り
+3dcg,
+akihabara (tokyo),
+art,
+art:landscape,
+artist name,
+background,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku,
+car,
+category:ine,
+city,
+commentary,
+copyright name,
+creator:arsenixc,
+creator:vvcephei,
+crosswalk,
+escalator,
+ground vehicle,
+lamppost,
+landscape,
+lmrnr,
+love money rock'n'roll,
+medium:3d rendering,
+medium:16:9 aspect ratio,
+medium:artist name,
+medium:cg art,
+medium:collaboration,
+medium:copyright name,
+medium:digital media,
+medium:game cg,
+medium:high resolution,
+medium:official art,
+medium:wallpaper,
+medium:watermark,
+meta:artist name,
+meta:collaboration,
+meta:commentary,
+meta:game cg,
+meta:highres,
+meta:official art,
+meta:wallpaper,
+motor vehicle,
+motorcycle,
+night,
+no humans,
+original,
+outdoors,
+outside,
+page:1,
+pixiv artist id:202175,
+pixiv illust id:73161516,
+pixiv work:73161516,
+rating:mature,
+rating:s,
+rating:safe,
+real world location,
+road,
+scenery,
+series:love money rock'n'roll,
+series:original,
+shop,
+sidewalk,
+sign,
+storefront,
+street,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+television,
+title:akihabara south exit,
+title:akihabara south exit night by arsenixc,
+tokyo (city),
+uploader:ttensai,
+vehicle,
+watermark,
+オリジナル,
+サトームセン,
+夜,
+東京都,
+秋葉原,
+背景,
+通り,
+風景,
+風景5000users入り,

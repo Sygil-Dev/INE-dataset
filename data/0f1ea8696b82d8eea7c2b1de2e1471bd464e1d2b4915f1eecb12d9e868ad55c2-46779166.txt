@@ -1,95 +1,95 @@
-<3
-ambiguous gender
-ambiguous_gender
-artist:foxlett
-booru:e621
-brown body
-brown eyes
-brown fur
-brown markings
-brown_body
-brown_eyes
-brown_fur
-brown_markings
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:foxlett
-cute fangs
-cute_fangs
-daww
-dipstick ears
-dipstick_ears
-fangs
-feral
-food
-fur
-gen 2 pokemon
-hot dog
-hot_dog
-in food
-in_food
-ketchup
-looking at viewer
-markings
-meta:2020
-meta:full-length portrait
-meta:full-length_portrait
-meta:multiple images
-meta:portrait
-meta:signature
-meta:watermark
-multicolored body
-multicolored ears
-multicolored fur
-multicolored_body
-multicolored_ears
-multicolored_fur
-multiple_images
-mustard
-noodles
-on food
-on_food
-one eye closed
-one_eye_closed
-open mouth
-open_mouth
-pawpads
-rating:safe
-series:nintendo
-series:pokémon
-simple background
-simple_background
-sleeping
-smile
-solo
-sound effects
-sound_effects
-species:furret
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-star
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"furret" by foxlett
-title:furret
-title:furret by foxlett
-two tone body
-two tone fur
-two_tone_body
-two_tone_fur
-uploader:lol33ta
-uploader:torvusil
-video games
-video_games
-whisker markings
-whisker_markings
-white background
-white_background
-wink
-winking at viewer
-winking_at_viewer
-zzz
+<3,
+ambiguous gender,
+ambiguous_gender,
+artist:foxlett,
+booru:e621,
+brown body,
+brown eyes,
+brown fur,
+brown markings,
+brown_body,
+brown_eyes,
+brown_fur,
+brown_markings,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:foxlett,
+cute fangs,
+cute_fangs,
+daww,
+dipstick ears,
+dipstick_ears,
+fangs,
+feral,
+food,
+fur,
+gen 2 pokemon,
+hot dog,
+hot_dog,
+in food,
+in_food,
+ketchup,
+looking at viewer,
+markings,
+meta:2020,
+meta:full-length portrait,
+meta:full-length_portrait,
+meta:multiple images,
+meta:portrait,
+meta:signature,
+meta:watermark,
+multicolored body,
+multicolored ears,
+multicolored fur,
+multicolored_body,
+multicolored_ears,
+multicolored_fur,
+multiple_images,
+mustard,
+noodles,
+on food,
+on_food,
+one eye closed,
+one_eye_closed,
+open mouth,
+open_mouth,
+pawpads,
+rating:safe,
+series:nintendo,
+series:pokémon,
+simple background,
+simple_background,
+sleeping,
+smile,
+solo,
+sound effects,
+sound_effects,
+species:furret,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+star,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"furret" by foxlett,
+title:furret,
+title:furret by foxlett,
+two tone body,
+two tone fur,
+two_tone_body,
+two_tone_fur,
+uploader:lol33ta,
+uploader:torvusil,
+video games,
+video_games,
+whisker markings,
+whisker_markings,
+white background,
+white_background,
+wink,
+winking at viewer,
+winking_at_viewer,
+zzz,

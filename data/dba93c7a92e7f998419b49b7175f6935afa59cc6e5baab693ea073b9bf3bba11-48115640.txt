@@ -1,82 +1,82 @@
-2020
-artist:caraid
-avian
-beak
-bird
-black beak
-black body
-black feathers
-black_beak
-black_body
-black_feathers
-booru:e621
-brown body
-brown feathers
-brown tail feathers
-brown_body
-brown_feathers
-brown_tail_feathers
-caraid
-category:ine
-countershade torso
-countershade wings
-countershade_torso
-countershade_wings
-countershading
-creator:caraid
-digital
-digital media (artwork)
-feathered wings
-feathered_wings
-feathers
-feral
-flying
-gender:male
-hi res
-illustration
-male
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-multicolored body
-multicolored feathers
-multicolored_body
-multicolored_feathers
-oscine
-painting
-passerine
-rating:safe
-realistic
-solo
-source:furaffinity.net
-sparrow
-species:avian
-species:bird
-species:house sparrow
-species:house_sparrow
-species:oscine
-species:passer
-species:passerid
-species:passerine
-species:sparrow
-species:true sparrow
-species:true_sparrow
-spread wings
-spread_wings
-study
-subreddit:imaginaryanimals
-subreddit:imnature
-tail feathers
-tail_feathers
-title:sparrow
-title:sparrow by lhuneart
-uploader:myrandall
-white body
-white countershading
-white feathers
-white_body
-white_countershading
-white_feathers
-wings
+2020,
+artist:caraid,
+avian,
+beak,
+bird,
+black beak,
+black body,
+black feathers,
+black_beak,
+black_body,
+black_feathers,
+booru:e621,
+brown body,
+brown feathers,
+brown tail feathers,
+brown_body,
+brown_feathers,
+brown_tail_feathers,
+caraid,
+category:ine,
+countershade torso,
+countershade wings,
+countershade_torso,
+countershade_wings,
+countershading,
+creator:caraid,
+digital,
+digital media (artwork),
+feathered wings,
+feathered_wings,
+feathers,
+feral,
+flying,
+gender:male,
+hi res,
+illustration,
+male,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+multicolored body,
+multicolored feathers,
+multicolored_body,
+multicolored_feathers,
+oscine,
+painting,
+passerine,
+rating:safe,
+realistic,
+solo,
+source:furaffinity.net,
+sparrow,
+species:avian,
+species:bird,
+species:house sparrow,
+species:house_sparrow,
+species:oscine,
+species:passer,
+species:passerid,
+species:passerine,
+species:sparrow,
+species:true sparrow,
+species:true_sparrow,
+spread wings,
+spread_wings,
+study,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+tail feathers,
+tail_feathers,
+title:sparrow,
+title:sparrow by lhuneart,
+uploader:myrandall,
+white body,
+white countershading,
+white feathers,
+white_body,
+white_countershading,
+white_feathers,
+wings,

@@ -1,55 +1,55 @@
-2020
-ambiguous gender
-ambiguous_gender
-aquatic
-artist:plaguedogs123
-blue eyes
-blue_eyes
-category:ine
-character:aquarius (zodiac)
-character:aquarius_(zodiac)
-copyright:western_zodiac
-cosmic background
-cosmic_background
-creator:plaguedogs123
-digital media (artwork)
-dragon
-fantasy
-feral
-furry
-galaxy
-gender:ambiguous
-hi res
-loli
-lolicon
-lolita
-medium:digital media
-medium:high resolution
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-outer_space
-pisces
-pool:21344
-rating:safe
-series:western zodiac
-serpent
-solar_system
-solo
-space
-species:dragon
-species:mythical
-species:scalie
-stars
-subreddit:imaginarydragons
-subreddit:immonsters
-title:"zodiac dragons - aquarius" by stephanie (plaguedogs123)
-title:zodiac dragons - aquarius
-uploader:torvusil
-water
-year:2020
-zodiac
-zodiac_dragons
-zodiacs
+2020,
+ambiguous gender,
+ambiguous_gender,
+aquatic,
+artist:plaguedogs123,
+blue eyes,
+blue_eyes,
+category:ine,
+character:aquarius (zodiac),
+character:aquarius_(zodiac),
+copyright:western_zodiac,
+cosmic background,
+cosmic_background,
+creator:plaguedogs123,
+digital media (artwork),
+dragon,
+fantasy,
+feral,
+furry,
+galaxy,
+gender:ambiguous,
+hi res,
+loli,
+lolicon,
+lolita,
+medium:digital media,
+medium:high resolution,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+outer_space,
+pisces,
+pool:21344,
+rating:safe,
+series:western zodiac,
+serpent,
+solar_system,
+solo,
+space,
+species:dragon,
+species:mythical,
+species:scalie,
+stars,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:"zodiac dragons - aquarius" by stephanie (plaguedogs123),
+title:zodiac dragons - aquarius,
+uploader:torvusil,
+water,
+year:2020,
+zodiac,
+zodiac_dragons,
+zodiacs,

@@ -1,25 +1,25 @@
-1boy
-beard
-category:ine
-facial hair
-flag background
-gun
-handgun
-hat
-holding gun
-male focus
-manly
-military
-military uniform
-mustache
-peaked cap
-rating:safe
-rifle
-rising sun
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-sunburst
-title:high noon by matt demino.
-uniform
-uploader:turbologic
-weapon
+1boy,
+beard,
+category:ine,
+facial hair,
+flag background,
+gun,
+handgun,
+hat,
+holding gun,
+male focus,
+manly,
+military,
+military uniform,
+mustache,
+peaked cap,
+rating:safe,
+rifle,
+rising sun,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+sunburst,
+title:high noon by matt demino.,
+uniform,
+uploader:turbologic,
+weapon,

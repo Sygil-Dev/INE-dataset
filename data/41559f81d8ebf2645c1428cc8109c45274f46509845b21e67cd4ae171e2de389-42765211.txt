@@ -1,65 +1,65 @@
-::3
-<3
-ambiguous gender
-ambiguous_gender
-artist:foxlett
-beady eyes
-blep
-blue eyes
-blue_eyes
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:foxlett
-cute eyes
-daww
-feral
-food
-fruit
-fur
-gen 2 pokemon
-gender:ambiguous
-heart symbol
-leaf
-markings
-medium:simple background
-medium:video game
-medium:white background
-meta:1:1
-meta:signature
-peach (fruit)
-peach_(fruit)
-pink body
-pink fur
-pink markings
-pink_body
-pink_fur
-pink_markings
-plant
-rating:safe
-series:nintendo
-series:pokémon
-simple background
-simple_background
-sitting
-solo
-species:furret
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:shiny pokémon
-species:shiny_pokémon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:shiny furret
-title:shiny furret by foxlett
-tongue
-tongue out
-tongue_out
-uploader:lol33ta
-video games
-video_games
-white background
-white_background
+::3,
+<3,
+ambiguous gender,
+ambiguous_gender,
+artist:foxlett,
+beady eyes,
+blep,
+blue eyes,
+blue_eyes,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:foxlett,
+cute eyes,
+daww,
+feral,
+food,
+fruit,
+fur,
+gen 2 pokemon,
+gender:ambiguous,
+heart symbol,
+leaf,
+markings,
+medium:simple background,
+medium:video game,
+medium:white background,
+meta:1:1,
+meta:signature,
+peach (fruit),
+peach_(fruit),
+pink body,
+pink fur,
+pink markings,
+pink_body,
+pink_fur,
+pink_markings,
+plant,
+rating:safe,
+series:nintendo,
+series:pokémon,
+simple background,
+simple_background,
+sitting,
+solo,
+species:furret,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:shiny pokémon,
+species:shiny_pokémon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:shiny furret,
+title:shiny furret by foxlett,
+tongue,
+tongue out,
+tongue_out,
+uploader:lol33ta,
+video games,
+video_games,
+white background,
+white_background,

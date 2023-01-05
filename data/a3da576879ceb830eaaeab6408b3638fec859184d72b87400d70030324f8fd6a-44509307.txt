@@ -1,24 +1,24 @@
-black hair
-blush
-braid
-category:ine
-choker
-creator:wlop
-crown
-drawing
-dress
-eyeshadow
-hair ornament
-jewelry
-lipstick
-long hair
-looking at viewer
-makeup
-subreddit:imaginaryfashion
-subreddit:imaginarynobles
-subreddit:imcharacters
-subreddit:immeta
-subreddit:inegentlemanboners
-title:ceremonial4 by wl op
-uploader:anabelarake
-uploader:leavebritneyalone22
+black hair,
+blush,
+braid,
+category:ine,
+choker,
+creator:wlop,
+crown,
+drawing,
+dress,
+eyeshadow,
+hair ornament,
+jewelry,
+lipstick,
+long hair,
+looking at viewer,
+makeup,
+subreddit:imaginaryfashion,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+subreddit:immeta,
+subreddit:inegentlemanboners,
+title:ceremonial4 by wl op,
+uploader:anabelarake,
+uploader:leavebritneyalone22,

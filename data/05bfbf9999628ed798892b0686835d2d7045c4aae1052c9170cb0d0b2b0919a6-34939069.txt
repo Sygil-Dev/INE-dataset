@@ -1,39 +1,39 @@
-battle
-breathing fire
-burning
-category:ine
-character:godzilla
-city
-claws
-cloud
-explosion
-fangs
-fire
-flame
-full moon
-glowing
-kaijuu
-lightning
-molten rock
-monster
-moon
-night
-no humans
-open mouth
-orange sky
-planet
-rating:safe
-red sky
-scales
-sharp teeth
-sky
-spikes
-subreddit:imaginarydragons
-subreddit:immonsters
-sun
-sunset
-teeth
-title:predator dragon by raymond swanland
-uploader:[deleted]
-uploader:faeryknight
-volcano
+battle,
+breathing fire,
+burning,
+category:ine,
+character:godzilla,
+city,
+claws,
+cloud,
+explosion,
+fangs,
+fire,
+flame,
+full moon,
+glowing,
+kaijuu,
+lightning,
+molten rock,
+monster,
+moon,
+night,
+no humans,
+open mouth,
+orange sky,
+planet,
+rating:safe,
+red sky,
+scales,
+sharp teeth,
+sky,
+spikes,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sun,
+sunset,
+teeth,
+title:predator dragon by raymond swanland,
+uploader:[deleted],
+uploader:faeryknight,
+volcano,

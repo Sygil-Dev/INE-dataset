@@ -1,23 +1,23 @@
-category:ine
-comic
-comic artist
-comic book art
-comic book artist
-comics
-cover art
-cover artist
-creator:david nakayama
-david nakayama
-drawing
-lettering
-marvel
-marvel comics
-medium:digital 2d
-spiderman
-subreddit:imaginarymarvel
-subreddit:imfandoms
-superhero
-superheroes
-title:how to read comics the marvel way no.3 by david nakayama
-uploader:lol33ta
-word balloon
+category:ine,
+comic,
+comic artist,
+comic book art,
+comic book artist,
+comics,
+cover art,
+cover artist,
+creator:david nakayama,
+david nakayama,
+drawing,
+lettering,
+marvel,
+marvel comics,
+medium:digital 2d,
+spiderman,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+superhero,
+superheroes,
+title:how to read comics the marvel way no.3 by david nakayama,
+uploader:lol33ta,
+word balloon,

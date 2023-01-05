@@ -1,66 +1,66 @@
-1 female
-1girl
-3others
-armor
-back bow
-boobplate
-booru:sankaku channel
-bow
-breastplate
-category:ine
-character:noelle (genshin impact)
-character:ruin guard
-character:ruin guard (genshin impact)
-character:ruin hunter
-character:ruin hunter (genshin impact)
-combat maid
-creator:shingetsu (396184777)
-dark sky
-dress
-embers
-epic
-fantasy
-female
-fire
-floating
-flower
-from behind
-gauntlets
-gender:female
-genre:fantasy
-glowing
-glowing eye
-golem
-greatsword
-hair flower
-hair ornament
-huge weapon
-looking up
-machine
-magic
-maid
-maid headdress
-mecha
-meta:commentary request
-multiple others
-outdoors
-outside
-rating:general
-rating:safe
-red flower
-red rose
-rose
-series:genshin impact
-short hair
-shoulder armor
-silver hair
-smoke
-standing
-subreddit:imaginarybehemoths
-subreddit:immonsters
-sword
-title:ruin guards by (新月)
-tree
-uploader:oinez
-weapon
-weapon on back
+1 female,
+1girl,
+3others,
+armor,
+back bow,
+boobplate,
+booru:sankaku channel,
+bow,
+breastplate,
+category:ine,
+character:noelle (genshin impact),
+character:ruin guard,
+character:ruin guard (genshin impact),
+character:ruin hunter,
+character:ruin hunter (genshin impact),
+combat maid,
+creator:shingetsu (396184777),
+dark sky,
+dress,
+embers,
+epic,
+fantasy,
+female,
+fire,
+floating,
+flower,
+from behind,
+gauntlets,
+gender:female,
+genre:fantasy,
+glowing,
+glowing eye,
+golem,
+greatsword,
+hair flower,
+hair ornament,
+huge weapon,
+looking up,
+machine,
+magic,
+maid,
+maid headdress,
+mecha,
+meta:commentary request,
+multiple others,
+outdoors,
+outside,
+rating:general,
+rating:safe,
+red flower,
+red rose,
+rose,
+series:genshin impact,
+short hair,
+shoulder armor,
+silver hair,
+smoke,
+standing,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+sword,
+title:ruin guards by (新月),
+tree,
+uploader:oinez,
+weapon,
+weapon on back,

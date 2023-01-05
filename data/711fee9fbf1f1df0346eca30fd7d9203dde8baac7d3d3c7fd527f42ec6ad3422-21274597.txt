@@ -1,60 +1,60 @@
-bandana
-bodily fluids
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:konachan.com
-booru:safebooru
-category:ine
-character:cyndaquil
-character:pikachu
-creator:hideko (l33l3b)
-creator:imperialtopaz
-creator:ひでこ
-creator:ひでこ１日目 東l32b
-fire
-gen 1 pokemon
-gen 2 pokemon
-medium:high resolution
-meta:commentary request
-meta:highres
-no humans
-nobody
-pixiv artist id:126852
-pixiv illust id:72319879
-pokemon 1000 users bookmark
-pokemon (creature)
-rating:mature
-rating:safe
-red bandana
-series:creatures (company)
-series:fushigi no dungeon
-series:game freak
-series:pokemon
-series:pokemon (game)
-series:pokemon fushigi no dungeon
-series:pokémon
-smoke
-snow
-species:cyndaquil
-species:monster
-species:pikachu
-species:pokémon
-standing
-steam
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-sweat
-sweatdrop
-title:last adventure by hideko
-title:キミと最後の冒険を
-uploader:pkmnart
-ヒノアラシ
-ピカチュウ
-ポケダン
-ポケモン
-ポケモン1000users入り
-赤の救助隊
+bandana,
+bodily fluids,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:konachan.com,
+booru:safebooru,
+category:ine,
+character:cyndaquil,
+character:pikachu,
+creator:hideko (l33l3b),
+creator:imperialtopaz,
+creator:ひでこ,
+creator:ひでこ１日目 東l32b,
+fire,
+gen 1 pokemon,
+gen 2 pokemon,
+medium:high resolution,
+meta:commentary request,
+meta:highres,
+no humans,
+nobody,
+pixiv artist id:126852,
+pixiv illust id:72319879,
+pokemon 1000 users bookmark,
+pokemon (creature),
+rating:mature,
+rating:safe,
+red bandana,
+series:creatures (company),
+series:fushigi no dungeon,
+series:game freak,
+series:pokemon,
+series:pokemon (game),
+series:pokemon fushigi no dungeon,
+series:pokémon,
+smoke,
+snow,
+species:cyndaquil,
+species:monster,
+species:pikachu,
+species:pokémon,
+standing,
+steam,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sweat,
+sweatdrop,
+title:last adventure by hideko,
+title:キミと最後の冒険を,
+uploader:pkmnart,
+ヒノアラシ,
+ピカチュウ,
+ポケダン,
+ポケモン,
+ポケモン1000users入り,
+赤の救助隊,

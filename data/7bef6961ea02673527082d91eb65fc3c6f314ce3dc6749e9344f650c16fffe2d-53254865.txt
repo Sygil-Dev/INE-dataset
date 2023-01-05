@@ -1,128 +1,128 @@
-4 toes
-4_toes
-5 fingers
-5_fingers
-artist:sandara
-blue clothing
-blue_clothing
-bowl
-breasts
-brown body
-brown claws
-brown fur
-brown hair
-brown_body
-brown_claws
-brown_fur
-brown_hair
-claws
-clothing
-container
-countershade torso
-countershade_torso
-countershading
-creator:sandara
-curtains
-curtains open
-curtains_open
-day
-detailed background
-detailed_background
-dipstick ears
-dipstick tail
-dipstick_ears
-dipstick_tail
-eyes closed
-eyes_closed
-feet
-female
-finger claws
-finger_claws
-fingers
-floor
-fur
-hair
-holding hair
-holding_hair
-indoors
-inner ear fluff
-inner_ear_fluff
-inside
-markings
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:signature
-monotone hair
-monotone_hair
-multicolored body
-multicolored ears
-multicolored fur
-multicolored tail
-multicolored_body
-multicolored_ears
-multicolored_fur
-multicolored_tail
-orange body
-orange fur
-orange_body
-orange_fur
-paws
-pillow
-pink inner ear
-pink_inner_ear
-quadruped
-rating:safe
-scroll
-sitting
-solo
-species:felid
-species:felid taur
-species:felid_taur
-species:feline
-species:humanoid taur
-species:humanoid_taur
-species:lion
-species:lion taur
-species:lion_taur
-species:mammal
-species:mammal taur
-species:mammal_taur
-species:pantherine
-species:pantherine taur
-species:pantherine_taur
-species:taur
-species:urmahlullu
-subreddit:imaginarycentaurs
-subreddit:imaginaryhybrids
-subreddit:immonsters
-subreddit:imraces
-tail
-tail markings
-tail tuft
-tail_tuft
-tile
-tile floor
-tile_floor
-title:morning by sandara tang
-toe claws
-toe_claws
-toes
-touching hair
-touching_hair
-tuft
-tying hair
-tying_hair
-uploader:lol33ta
-uploader:myrandall
-white body
-white countershading
-white fur
-white inner ear fluff
-white_body
-white_countershading
-white_fur
-white_inner_ear_fluff
-window
+4 toes,
+4_toes,
+5 fingers,
+5_fingers,
+artist:sandara,
+blue clothing,
+blue_clothing,
+bowl,
+breasts,
+brown body,
+brown claws,
+brown fur,
+brown hair,
+brown_body,
+brown_claws,
+brown_fur,
+brown_hair,
+claws,
+clothing,
+container,
+countershade torso,
+countershade_torso,
+countershading,
+creator:sandara,
+curtains,
+curtains open,
+curtains_open,
+day,
+detailed background,
+detailed_background,
+dipstick ears,
+dipstick tail,
+dipstick_ears,
+dipstick_tail,
+eyes closed,
+eyes_closed,
+feet,
+female,
+finger claws,
+finger_claws,
+fingers,
+floor,
+fur,
+hair,
+holding hair,
+holding_hair,
+indoors,
+inner ear fluff,
+inner_ear_fluff,
+inside,
+markings,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:signature,
+monotone hair,
+monotone_hair,
+multicolored body,
+multicolored ears,
+multicolored fur,
+multicolored tail,
+multicolored_body,
+multicolored_ears,
+multicolored_fur,
+multicolored_tail,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+paws,
+pillow,
+pink inner ear,
+pink_inner_ear,
+quadruped,
+rating:safe,
+scroll,
+sitting,
+solo,
+species:felid,
+species:felid taur,
+species:felid_taur,
+species:feline,
+species:humanoid taur,
+species:humanoid_taur,
+species:lion,
+species:lion taur,
+species:lion_taur,
+species:mammal,
+species:mammal taur,
+species:mammal_taur,
+species:pantherine,
+species:pantherine taur,
+species:pantherine_taur,
+species:taur,
+species:urmahlullu,
+subreddit:imaginarycentaurs,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+subreddit:imraces,
+tail,
+tail markings,
+tail tuft,
+tail_tuft,
+tile,
+tile floor,
+tile_floor,
+title:morning by sandara tang,
+toe claws,
+toe_claws,
+toes,
+touching hair,
+touching_hair,
+tuft,
+tying hair,
+tying_hair,
+uploader:lol33ta,
+uploader:myrandall,
+white body,
+white countershading,
+white fur,
+white inner ear fluff,
+white_body,
+white_countershading,
+white_fur,
+white_inner_ear_fluff,
+window,

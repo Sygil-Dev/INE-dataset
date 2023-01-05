@@ -1,45 +1,45 @@
-armor
-armordesign
-astajsic
-category:concept art
-category:ine
-characterdesign
-conceptart
-creator:aleksa stajsic
-environment
-fantasy
-genre:fantasy
-greek
-hercules
-knight
-landscape
-lion
-medium:digital 2d
-mythology
-series:hercules
-species:feline
-species:lion
-species:mammal
-subreddit:conceptart
-subreddit:imaginaryarmor
-subreddit:imaginarybeasts
-subreddit:imaginaryhumans
-subreddit:imaginaryimmortals
-subreddit:imaginaryknights
-subreddit:imaginarymythology
-subreddit:imaginarynobles
-subreddit:imaginarysoldiers
-subreddit:imaginarywarriors
-subreddit:imaginaryweaponry
-subreddit:imcharacters
-subreddit:immeta
-subreddit:immonsters
-subreddit:impracticalarmour
-subreddit:imraces
-subreddit:imtechnology
-title:6th labor of hercules
-title:6th labor of hercules, aleksa stajsic
-uploader:al3ks4
-warrior
-weapondesign
-website:reddit
+armor,
+armordesign,
+astajsic,
+category:concept art,
+category:ine,
+characterdesign,
+conceptart,
+creator:aleksa stajsic,
+environment,
+fantasy,
+genre:fantasy,
+greek,
+hercules,
+knight,
+landscape,
+lion,
+medium:digital 2d,
+mythology,
+series:hercules,
+species:feline,
+species:lion,
+species:mammal,
+subreddit:conceptart,
+subreddit:imaginaryarmor,
+subreddit:imaginarybeasts,
+subreddit:imaginaryhumans,
+subreddit:imaginaryimmortals,
+subreddit:imaginaryknights,
+subreddit:imaginarymythology,
+subreddit:imaginarynobles,
+subreddit:imaginarysoldiers,
+subreddit:imaginarywarriors,
+subreddit:imaginaryweaponry,
+subreddit:imcharacters,
+subreddit:immeta,
+subreddit:immonsters,
+subreddit:impracticalarmour,
+subreddit:imraces,
+subreddit:imtechnology,
+title:6th labor of hercules,
+title:6th labor of hercules, aleksa stajsic,
+uploader:al3ks4,
+warrior,
+weapondesign,
+website:reddit,

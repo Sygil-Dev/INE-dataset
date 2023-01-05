@@ -1,26 +1,26 @@
-1boy
-armor
-arrow (projectile)
-blonde hair
-category:ine
-cloud
-copyright name
-embers
-fire
-flaming sword
-flaming weapon
-holding
-holding weapon
-long hair
-male focus
-rating:safe
-sky
-solo
-subreddit:imaginaryarchers
-subreddit:imcharacters
-sword
-title:lian - hua lu
-title:lian, hua lu
-uploader:miciy5
-uploader:trollingkevi
-weapon
+1boy,
+armor,
+arrow (projectile),
+blonde hair,
+category:ine,
+cloud,
+copyright name,
+embers,
+fire,
+flaming sword,
+flaming weapon,
+holding,
+holding weapon,
+long hair,
+male focus,
+rating:safe,
+sky,
+solo,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+sword,
+title:lian - hua lu,
+title:lian, hua lu,
+uploader:miciy5,
+uploader:trollingkevi,
+weapon,

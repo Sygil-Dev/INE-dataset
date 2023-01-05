@@ -1,28 +1,28 @@
-arega
-breathing
-bust
-category:ine
-cell
-creator:glowingspirit
-feral
-fire
-furry
-genre:fantasy
-head
-ian
-icon
-meta:commission
-mist
-painting
-shaded
-shading
-source:furaffinity.net
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:ian arega by glowingspirit
-title:ian arega icon
-uploader:jarrad960
-year:2020
+arega,
+breathing,
+bust,
+category:ine,
+cell,
+creator:glowingspirit,
+feral,
+fire,
+furry,
+genre:fantasy,
+head,
+ian,
+icon,
+meta:commission,
+mist,
+painting,
+shaded,
+shading,
+source:furaffinity.net,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:ian arega by glowingspirit,
+title:ian arega icon,
+uploader:jarrad960,
+year:2020,

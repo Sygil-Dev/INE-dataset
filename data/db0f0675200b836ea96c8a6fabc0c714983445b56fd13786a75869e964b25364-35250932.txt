@@ -1,43 +1,43 @@
-1 female
-1girl
-android
-anime
-barcode
-black hair
-cable
-category:ine
-creator:red ace
-creator:tan di
-creator:tandi
-cyberpunk
-cyborg
-gender:female
-genre:cyberpunk
-genre:science fiction
-headgear
-joints
-looking back
-medium:digital 2d
-medium:high resolution
-meta:commentary request
-meta:highres
-meta:muted color
-muted color
-rating:safe
-rating:sensitive
-robot joints
-science fiction
-series:original
-short hair
-species:android
-species:robot
-standing
-subdermal port
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-tan di
-tandi
-title:cyborg girl07
-title:cyborg girl 07 by tan di
-uploader:saallee
-wires
+1 female,
+1girl,
+android,
+anime,
+barcode,
+black hair,
+cable,
+category:ine,
+creator:red ace,
+creator:tan di,
+creator:tandi,
+cyberpunk,
+cyborg,
+gender:female,
+genre:cyberpunk,
+genre:science fiction,
+headgear,
+joints,
+looking back,
+medium:digital 2d,
+medium:high resolution,
+meta:commentary request,
+meta:highres,
+meta:muted color,
+muted color,
+rating:safe,
+rating:sensitive,
+robot joints,
+science fiction,
+series:original,
+short hair,
+species:android,
+species:robot,
+standing,
+subdermal port,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+tan di,
+tandi,
+title:cyborg girl07,
+title:cyborg girl 07 by tan di,
+uploader:saallee,
+wires,

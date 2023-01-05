@@ -1,59 +1,59 @@
-1 female
-1girl
-blue eyes
-blue gloves
-booru:danbooru
-booru:danbooru-safebooru
-booru:safebooru
-booru:sankaku channel
-category:ine
-character:aleksandra "zarya" zaryanova
-character:zarya (overwatch)
-clothing:gloves
-clothing:shirt
-clothing:sleeveless outfit
-commission
-creator:geirahod
-eyelashes
-female
-firearm
-geirahod
-gender:female
-genre:science fiction
-gloves
-gun
-hair:pink hair
-holding
-holding gun
-holding object
-holding weapon
-huge weapon
-lips
-medium breasts
-medium:high resolution
-medium:realistic
-meta:commission
-meta:highres
-muscle
-muscles
-muscular
-muscular female
-nose
-particle projector cannon
-pink hair
-rating:safe
-realistic
-scar
-scar across eye
-series:overwatch
-shirt
-short hair
-sleeveless
-solo
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:zarya by natalie herrera
-uploader:lol33ta
-very short hair
-weapon
+1 female,
+1girl,
+blue eyes,
+blue gloves,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:safebooru,
+booru:sankaku channel,
+category:ine,
+character:aleksandra "zarya" zaryanova,
+character:zarya (overwatch),
+clothing:gloves,
+clothing:shirt,
+clothing:sleeveless outfit,
+commission,
+creator:geirahod,
+eyelashes,
+female,
+firearm,
+geirahod,
+gender:female,
+genre:science fiction,
+gloves,
+gun,
+hair:pink hair,
+holding,
+holding gun,
+holding object,
+holding weapon,
+huge weapon,
+lips,
+medium breasts,
+medium:high resolution,
+medium:realistic,
+meta:commission,
+meta:highres,
+muscle,
+muscles,
+muscular,
+muscular female,
+nose,
+particle projector cannon,
+pink hair,
+rating:safe,
+realistic,
+scar,
+scar across eye,
+series:overwatch,
+shirt,
+short hair,
+sleeveless,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:zarya by natalie herrera,
+uploader:lol33ta,
+very short hair,
+weapon,

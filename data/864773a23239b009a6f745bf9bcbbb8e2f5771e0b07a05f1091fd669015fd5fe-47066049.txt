@@ -1,21 +1,21 @@
-2d
-boat
-category:ine
-concept
-conceptart
-creator:ismail inceoglu
-environment
-mech
-medium:digital 2d
-orangecircle
-robot
-scenery
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-swamp
-title:old friend
-title:old friend by ismail inceoglu
-traveler
-uploader:suzzerain
-vehicle
-watercraft
+2d,
+boat,
+category:ine,
+concept,
+conceptart,
+creator:ismail inceoglu,
+environment,
+mech,
+medium:digital 2d,
+orangecircle,
+robot,
+scenery,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+swamp,
+title:old friend,
+title:old friend by ismail inceoglu,
+traveler,
+uploader:suzzerain,
+vehicle,
+watercraft,

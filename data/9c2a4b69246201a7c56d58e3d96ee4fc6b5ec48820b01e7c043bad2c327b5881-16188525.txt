@@ -1,25 +1,25 @@
-babies
-baby
-brother
-category:ine
-couple
-creator:whitemantis
-dragonfolk
-family
-father
-gender:male
-horns
-love
-lovers
-married
-mother
-parents
-sister
-source:furaffinity.net
-subreddit:imaginarylovers
-subreddit:imcharacters
-timeless
-title:timeless: jago and adri'a by whitemantisart
-title:timeless: jago and adría
-twins
-uploader:lol33ta
+babies,
+baby,
+brother,
+category:ine,
+couple,
+creator:whitemantis,
+dragonfolk,
+family,
+father,
+gender:male,
+horns,
+love,
+lovers,
+married,
+mother,
+parents,
+sister,
+source:furaffinity.net,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+timeless,
+title:timeless: jago and adri'a by whitemantisart,
+title:timeless: jago and adría,
+twins,
+uploader:lol33ta,

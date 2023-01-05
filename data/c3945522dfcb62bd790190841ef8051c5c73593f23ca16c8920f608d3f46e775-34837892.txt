@@ -1,66 +1,66 @@
-birds
-blue
-boat
-boreas
-boris
-brs
-category:concept art
-category:ine
-childrenbook
-cinematic
-cinematography
-creator:boris stanisic
-cyber
-cyberpunk
-design
-environment
-fiction
-god
-illustration
-illustrator
-inspired
-landscape
-medieval
-medium:digital 2d
-movie
-movieart
-moviedesign
-nature
-of
-painting
-punk
-purple
-robertson
-rocks
-rocky
-scenedesign
-science
-scifi
-scott
-ship
-spaceship
-speeder
-stanisic
-star
-starwars
-subreddit:conceptart
-subreddit:imaginarycolorscapes
-subreddit:imaginarystarships
-subreddit:imaginaryvehicles
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-subreddit:immeta
-subreddit:imtechnology
-terrain
-title:futuristic viking environment scene // digital painting done by boris stanisic boreas
-title:scifi viking environment
-title:scifi viking environment // digital illustration done by an artist boris stanisic boreas
-title:scifi viking environment sketch // concept art done by boris stanisic boreas
-title:scifi viking vehicle design // scene design by an artist boris stanisic boreas
-title:viking spaceship concept art // digital sketch done by artist boris stanisic boreas
-uploader:brsbeats
-vehicle
-viking
-vikings
-war
-wars
+birds,
+blue,
+boat,
+boreas,
+boris,
+brs,
+category:concept art,
+category:ine,
+childrenbook,
+cinematic,
+cinematography,
+creator:boris stanisic,
+cyber,
+cyberpunk,
+design,
+environment,
+fiction,
+god,
+illustration,
+illustrator,
+inspired,
+landscape,
+medieval,
+medium:digital 2d,
+movie,
+movieart,
+moviedesign,
+nature,
+of,
+painting,
+punk,
+purple,
+robertson,
+rocks,
+rocky,
+scenedesign,
+science,
+scifi,
+scott,
+ship,
+spaceship,
+speeder,
+stanisic,
+star,
+starwars,
+subreddit:conceptart,
+subreddit:imaginarycolorscapes,
+subreddit:imaginarystarships,
+subreddit:imaginaryvehicles,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+subreddit:immeta,
+subreddit:imtechnology,
+terrain,
+title:futuristic viking environment scene // digital painting done by boris stanisic boreas,
+title:scifi viking environment,
+title:scifi viking environment // digital illustration done by an artist boris stanisic boreas,
+title:scifi viking environment sketch // concept art done by boris stanisic boreas,
+title:scifi viking vehicle design // scene design by an artist boris stanisic boreas,
+title:viking spaceship concept art // digital sketch done by artist boris stanisic boreas,
+uploader:brsbeats,
+vehicle,
+viking,
+vikings,
+war,
+wars,

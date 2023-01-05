@@ -1,50 +1,50 @@
-amazing
-ambiguous gender
-androgynous
-anthro
-art
-booru:e621
-category:ine
-character:hellkite igniter
-cloud
-cloudscape
-creator:jason chan
-dragon
-feral
-fire
-flying
-furry
-gender:ambiguous
-glowing
-medium:2011
-medium:official art
-meta:2011
-meta:extreme content
-meta:official art
-open mouth
-outdoors
-outside
-rating:questionable
-rating:safe
-scalie
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-sky
-smoke
-solo
-sparks
-species:dragon
-species:mythical
-species:scalie
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-three-quarter view
-title:hellkite igniter by jason chan
-uploader:blood-n-cheese
-uploader:faeryknight
-year:2011
+amazing,
+ambiguous gender,
+androgynous,
+anthro,
+art,
+booru:e621,
+category:ine,
+character:hellkite igniter,
+cloud,
+cloudscape,
+creator:jason chan,
+dragon,
+feral,
+fire,
+flying,
+furry,
+gender:ambiguous,
+glowing,
+medium:2011,
+medium:official art,
+meta:2011,
+meta:extreme content,
+meta:official art,
+open mouth,
+outdoors,
+outside,
+rating:questionable,
+rating:safe,
+scalie,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+sky,
+smoke,
+solo,
+sparks,
+species:dragon,
+species:mythical,
+species:scalie,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+three-quarter view,
+title:hellkite igniter by jason chan,
+uploader:blood-n-cheese,
+uploader:faeryknight,
+year:2011,

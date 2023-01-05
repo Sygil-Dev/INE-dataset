@@ -1,73 +1,73 @@
-1 female
-1girl
-armlet
-artist:casondra logan
-book
-book stack
-bracelet
-braid
-casondra logan
-category:ine
-character doll
-character:fat cat (ff14)
-character:lalafell
-character:nanamo ul namo
-closed mouth
-clothing:bracelet
-clothing:earrings
-clothing:headwear
-colored skin
-copyright:final fantasy
-copyright:final fantasy xiv
-creator:casondra logan
-dodo (bird)
-double bun
-earrings
-ears
-english commentary
-facial mark
-facing viewer
-footwear
-gender:female
-hat
-indoors
-jewelry
-lalafell
-lamp
-library
-medium:high resolution
-meta:commentary
-meta:commission
-meta:english commentary
-meta:highres
-multicolored skin
-open book
-painting (object)
-pillar
-plant
-pointy ears
-portrait (object)
-potted plant
-purple eyes
-rating:mature
-rating:s
-rating:safe
-red hair
-sandals
-series:final fantasy
-series:final fantasy xiv
-sitting
-smile
-solo
-species:lalafell
-studio:square enix
-subreddit:imaginarylibraries
-subreddit:imarchitecture
-thumb ring
-title:the library by casondra logan
-twin braids
-two-tone skin
-uploader:lol33ta
-wariza
-window
-witch hat
+1 female,
+1girl,
+armlet,
+artist:casondra logan,
+book,
+book stack,
+bracelet,
+braid,
+casondra logan,
+category:ine,
+character doll,
+character:fat cat (ff14),
+character:lalafell,
+character:nanamo ul namo,
+closed mouth,
+clothing:bracelet,
+clothing:earrings,
+clothing:headwear,
+colored skin,
+copyright:final fantasy,
+copyright:final fantasy xiv,
+creator:casondra logan,
+dodo (bird),
+double bun,
+earrings,
+ears,
+english commentary,
+facial mark,
+facing viewer,
+footwear,
+gender:female,
+hat,
+indoors,
+jewelry,
+lalafell,
+lamp,
+library,
+medium:high resolution,
+meta:commentary,
+meta:commission,
+meta:english commentary,
+meta:highres,
+multicolored skin,
+open book,
+painting (object),
+pillar,
+plant,
+pointy ears,
+portrait (object),
+potted plant,
+purple eyes,
+rating:mature,
+rating:s,
+rating:safe,
+red hair,
+sandals,
+series:final fantasy,
+series:final fantasy xiv,
+sitting,
+smile,
+solo,
+species:lalafell,
+studio:square enix,
+subreddit:imaginarylibraries,
+subreddit:imarchitecture,
+thumb ring,
+title:the library by casondra logan,
+twin braids,
+two-tone skin,
+uploader:lol33ta,
+wariza,
+window,
+witch hat,

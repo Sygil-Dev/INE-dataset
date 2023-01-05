@@ -1,64 +1,64 @@
-5 toes
-5_toes
-artist:lurelin
-barefoot
-bottomwear
-category:ine
-character:billy mardess
-character:billy_mardess
-character:rachis
-claws
-closed eyes
-clothed
-clothing
-clothing:bottomwear
-clothing:footwear
-clothing:hoodie
-clothing:legwear
-clothing:shoes
-clothing:shorts
-clothing:tagme
-clothing:topwear
-creator:lurelin
-digitigrade
-dreadlocks
-duo
-eyes closed
-eyes_closed
-feet
-footwear
-fully clothed
-fully_clothed
-gender:male
-hoodie
-industrial
-male
-medium:high resolution
-meta:hi_res
-rating:safe
-shoes
-shorts
-sitting
-size difference
-size_difference
-smaller human
-smaller male
-smaller_human
-smaller_male
-species:alien
-species:human
-species:mammal
-species:primate
-subreddit:imaginarycyberpunk
-subreddit:imaginaryfeels
-subreddit:immeta
-subreddit:imtechnology
-title:lightest touch by lurelin
-toe claws
-toe_claws
-toes
-topless
-topwear
-touching face
-touching_face
-uploader:myrandall
+5 toes,
+5_toes,
+artist:lurelin,
+barefoot,
+bottomwear,
+category:ine,
+character:billy mardess,
+character:billy_mardess,
+character:rachis,
+claws,
+closed eyes,
+clothed,
+clothing,
+clothing:bottomwear,
+clothing:footwear,
+clothing:hoodie,
+clothing:legwear,
+clothing:shoes,
+clothing:shorts,
+clothing:tagme,
+clothing:topwear,
+creator:lurelin,
+digitigrade,
+dreadlocks,
+duo,
+eyes closed,
+eyes_closed,
+feet,
+footwear,
+fully clothed,
+fully_clothed,
+gender:male,
+hoodie,
+industrial,
+male,
+medium:high resolution,
+meta:hi_res,
+rating:safe,
+shoes,
+shorts,
+sitting,
+size difference,
+size_difference,
+smaller human,
+smaller male,
+smaller_human,
+smaller_male,
+species:alien,
+species:human,
+species:mammal,
+species:primate,
+subreddit:imaginarycyberpunk,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+subreddit:imtechnology,
+title:lightest touch by lurelin,
+toe claws,
+toe_claws,
+toes,
+topless,
+topwear,
+touching face,
+touching_face,
+uploader:myrandall,

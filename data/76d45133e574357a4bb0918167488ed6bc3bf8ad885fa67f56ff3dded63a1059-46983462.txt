@@ -1,19 +1,19 @@
-category:ine
-creator:candra
-female
-horror
-series:warhammer
-series:warhammer 40,000
-series:warhammer age of sigmar
-solo female
-species:daemonette (warhammer)
-subreddit:erotichorrorart
-subreddit:imaginaryboners
-subreddit:imaginarydemons
-subreddit:imaginarymonstergirls
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-subreddit:immonsters
-subreddit:imnsfw
-title:'daemonette of slaanesh' by candra
-uploader:jg379
+category:ine,
+creator:candra,
+female,
+horror,
+series:warhammer,
+series:warhammer 40,000,
+series:warhammer age of sigmar,
+solo female,
+species:daemonette (warhammer),
+subreddit:erotichorrorart,
+subreddit:imaginaryboners,
+subreddit:imaginarydemons,
+subreddit:imaginarymonstergirls,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+subreddit:immonsters,
+subreddit:imnsfw,
+title:'daemonette of slaanesh' by candra,
+uploader:jg379,

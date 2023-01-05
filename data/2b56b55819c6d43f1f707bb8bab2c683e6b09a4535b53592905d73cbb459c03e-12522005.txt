@@ -1,67 +1,67 @@
-1 female
-1girl
-artist:dishwasher1910
-black hair
-bodysuit
-booru:sankaku
-booru:sankaku channel
-bottomwear
-category:ine
-character:ruby rose
-character:spartan (halo)
-closed eyes
-clothing:bodysuit
-clothing:bottomwear
-clothing:topwear
-company connection
-copyright:halo (game)
-copyright:red vs blue
-copyright:rwby
-creator:dishwasher1910
-dishwasher1910
-eyes closed
-female
-gender:female
-halo_(game)
-highres
-medium:company connection
-medium:high resolution
-medium:simple background
-medium:watermark
-medium:web address
-medium:white background
-meta:artstation sample
-meta:bad link
-meta:commentary
-meta:english commentary
-meta:highres
-meta:image sample
-meta:watermark
-multicolored hair
-rating:general
-rating:s
-rating:safe
-red hair
-redhead
-removing helmet
-removing_helmet
-ruby_rose
-series:halo
-series:halo (game)
-series:halo (series)
-series:red vs blue
-series:roosterteeth
-series:rwby
-short hair
-solo
-spartan (halo)
-spartan_(halo)
-subreddit:imaginaryhalo
-subreddit:imfandoms
-title:freelancer
-title:freelancer by bach do
-topwear
-uploader:bleeding_choker
-watermark
-web address
-white background
+1 female,
+1girl,
+artist:dishwasher1910,
+black hair,
+bodysuit,
+booru:sankaku,
+booru:sankaku channel,
+bottomwear,
+category:ine,
+character:ruby rose,
+character:spartan (halo),
+closed eyes,
+clothing:bodysuit,
+clothing:bottomwear,
+clothing:topwear,
+company connection,
+copyright:halo (game),
+copyright:red vs blue,
+copyright:rwby,
+creator:dishwasher1910,
+dishwasher1910,
+eyes closed,
+female,
+gender:female,
+halo_(game),
+highres,
+medium:company connection,
+medium:high resolution,
+medium:simple background,
+medium:watermark,
+medium:web address,
+medium:white background,
+meta:artstation sample,
+meta:bad link,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:image sample,
+meta:watermark,
+multicolored hair,
+rating:general,
+rating:s,
+rating:safe,
+red hair,
+redhead,
+removing helmet,
+removing_helmet,
+ruby_rose,
+series:halo,
+series:halo (game),
+series:halo (series),
+series:red vs blue,
+series:roosterteeth,
+series:rwby,
+short hair,
+solo,
+spartan (halo),
+spartan_(halo),
+subreddit:imaginaryhalo,
+subreddit:imfandoms,
+title:freelancer,
+title:freelancer by bach do,
+topwear,
+uploader:bleeding_choker,
+watermark,
+web address,
+white background,

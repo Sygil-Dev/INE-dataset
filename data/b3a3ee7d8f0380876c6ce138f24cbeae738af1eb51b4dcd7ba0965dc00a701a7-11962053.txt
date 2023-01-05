@@ -1,50 +1,50 @@
-art
-battle
-booru:e621
-breath powers
-category:ine
-creator:mark winters
-dragon
-elemental manipulation
-feathered dragon
-feathered wings
-feathers
-feral
-fight
-freezing
-furry
-group
-horn
-horns
-human
-ice
-ice breathing
-ice manipulation
-jumping
-kick
-long neck
-mammal
-mark winters
-meta:official art
-open mouth
-quadruped
-rating:safe
-series:freezing
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-species:dragon
-species:feathered dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-title:monastery siege by mark winters
-uploader:faeryknight
-wings
+art,
+battle,
+booru:e621,
+breath powers,
+category:ine,
+creator:mark winters,
+dragon,
+elemental manipulation,
+feathered dragon,
+feathered wings,
+feathers,
+feral,
+fight,
+freezing,
+furry,
+group,
+horn,
+horns,
+human,
+ice,
+ice breathing,
+ice manipulation,
+jumping,
+kick,
+long neck,
+mammal,
+mark winters,
+meta:official art,
+open mouth,
+quadruped,
+rating:safe,
+series:freezing,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+species:dragon,
+species:feathered dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:monastery siege by mark winters,
+uploader:faeryknight,
+wings,

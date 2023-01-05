@@ -1,21 +1,21 @@
-ashes
-category:ine
-creator:cecilia g.f.
-crow
-daenerys
-dany
-emilia clarke
-game of thrones
-got
-iron throne
-kingslanding
-medium:digital 2d
-queen
-raven
-song of ice and fire
-subreddit:imaginarywesteros
-subreddit:imfandoms
-throne
-title:queen of ashes
-title:queen of ashes by cecilia g.f.
-uploader:net-diver
+ashes,
+category:ine,
+creator:cecilia g.f.,
+crow,
+daenerys,
+dany,
+emilia clarke,
+game of thrones,
+got,
+iron throne,
+kingslanding,
+medium:digital 2d,
+queen,
+raven,
+song of ice and fire,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+throne,
+title:queen of ashes,
+title:queen of ashes by cecilia g.f.,
+uploader:net-diver,

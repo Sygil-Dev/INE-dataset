@@ -1,58 +1,58 @@
-alternate color
-alternative color
-amazing
-ambiguous gender
-androgynous
-anthro
-blue eyes
-booru:e621
-canid
-canine
-category:ine
-character:chespin
-character:fennekin
-character:froakie
-character:pokemon species
-character:unown x
-character:unown y
-creator:tzc
-eye creature
-feral
-gen 2 pokemon
-gender:ambiguous
-mammal
-medium:5:4 aspect ratio
-medium:video game
-meta:5:4
-meta:extreme content
-rating:safe
-red eyes
-series:nintendo
-series:pokemon
-series:pokémon
-size difference
-species:canid
-species:canine
-species:chespin
-species:eye creature
-species:fennec
-species:fennekin
-species:fox
-species:froakie
-species:mammal
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:unown
-species:unown (pokémon)
-species:unown x
-species:unown y
-starter trio
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:battle! pokemon xy boss unown (by tzc)
-unown (pokémon)
-uploader:smooshie
-video games
+alternate color,
+alternative color,
+amazing,
+ambiguous gender,
+androgynous,
+anthro,
+blue eyes,
+booru:e621,
+canid,
+canine,
+category:ine,
+character:chespin,
+character:fennekin,
+character:froakie,
+character:pokemon species,
+character:unown x,
+character:unown y,
+creator:tzc,
+eye creature,
+feral,
+gen 2 pokemon,
+gender:ambiguous,
+mammal,
+medium:5:4 aspect ratio,
+medium:video game,
+meta:5:4,
+meta:extreme content,
+rating:safe,
+red eyes,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+size difference,
+species:canid,
+species:canine,
+species:chespin,
+species:eye creature,
+species:fennec,
+species:fennekin,
+species:fox,
+species:froakie,
+species:mammal,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:unown,
+species:unown (pokémon),
+species:unown x,
+species:unown y,
+starter trio,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:battle! pokemon xy boss unown (by tzc),
+unown (pokémon),
+uploader:smooshie,
+video games,

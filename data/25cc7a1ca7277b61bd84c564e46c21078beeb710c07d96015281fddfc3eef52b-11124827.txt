@@ -1,23 +1,23 @@
-1 male
-aura
-blonde hair
-blue eyes
-bust
-category:ine
-character:guile
-creator:james ghio
-dog tags
-gender:male
-male focus
-muscle
-rating:mature
-rating:safe
-series:street fighter
-solo
-studio:capcom
-subreddit:imaginarygaming
-subreddit:imfandoms
-tank top
-title:guile by jimbobox
-uploader:myrandall
-upper body
+1 male,
+aura,
+blonde hair,
+blue eyes,
+bust,
+category:ine,
+character:guile,
+creator:james ghio,
+dog tags,
+gender:male,
+male focus,
+muscle,
+rating:mature,
+rating:safe,
+series:street fighter,
+solo,
+studio:capcom,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+tank top,
+title:guile by jimbobox,
+uploader:myrandall,
+upper body,

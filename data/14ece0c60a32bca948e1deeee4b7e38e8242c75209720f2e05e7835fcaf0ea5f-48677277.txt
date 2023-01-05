@@ -1,67 +1,67 @@
-2boys
-3girls
-animal
-avatar (series)
-bird
-booru:lolibooru
-booru:lolibooru.moe
-booru:sankaku channel
-brown hair
-brown skin
-brown_hair
-brown_skin
-character:hakoda
-character:katara
-character:sokka
-creator:devin elle kurtz
-creator:devin_elle_kurtz
-dark skin
-dark skinned male
-dark-skinned male
-dark_skinned_male
-daughter
-devin elle kurtz
-feeding
-female
-gender:female
-gender:male
-hakoda
-highres
-male
-medium:high resolution
-meta:highres
-meta:photoshop (medium)
-meta:photoshop_(medium)
-mother
-mother and daughter
-mother_and_daughter
-multiple boys
-multiple females
-multiple girls
-multiple males
-multiple_boys
-multiple_girls
-ocean
-penguin
-polearm
-rating:general
-rating:safe
-seed
-series:avatar (series)
-series:avatar the last airbender
-series:avatar: the last airbender
-series:avatar:_the_last_airbender
-series:avatar_(series)
-smile
-spear
-studio:nickelodeon
-studio:seed
-subreddit:imaginarynatives
-subreddit:imcharacters
-sun
-sunset
-title:katara's childhood by tamberella
-uploader:myrandall
-water
-weapon
-younger
+2boys,
+3girls,
+animal,
+avatar (series),
+bird,
+booru:lolibooru,
+booru:lolibooru.moe,
+booru:sankaku channel,
+brown hair,
+brown skin,
+brown_hair,
+brown_skin,
+character:hakoda,
+character:katara,
+character:sokka,
+creator:devin elle kurtz,
+creator:devin_elle_kurtz,
+dark skin,
+dark skinned male,
+dark-skinned male,
+dark_skinned_male,
+daughter,
+devin elle kurtz,
+feeding,
+female,
+gender:female,
+gender:male,
+hakoda,
+highres,
+male,
+medium:high resolution,
+meta:highres,
+meta:photoshop (medium),
+meta:photoshop_(medium),
+mother,
+mother and daughter,
+mother_and_daughter,
+multiple boys,
+multiple females,
+multiple girls,
+multiple males,
+multiple_boys,
+multiple_girls,
+ocean,
+penguin,
+polearm,
+rating:general,
+rating:safe,
+seed,
+series:avatar (series),
+series:avatar the last airbender,
+series:avatar: the last airbender,
+series:avatar:_the_last_airbender,
+series:avatar_(series),
+smile,
+spear,
+studio:nickelodeon,
+studio:seed,
+subreddit:imaginarynatives,
+subreddit:imcharacters,
+sun,
+sunset,
+title:katara's childhood by tamberella,
+uploader:myrandall,
+water,
+weapon,
+younger,

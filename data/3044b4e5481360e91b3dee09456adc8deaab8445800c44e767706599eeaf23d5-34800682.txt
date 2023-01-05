@@ -1,51 +1,51 @@
-ball
-bodily fluids
-brown body
-brown fur
-category:ine
-cloud
-collar
-collar only
-creator:april prime
-cub
-detailed background
-feral
-forked tongue
-fur
-living tail
-meta:hi res
-multi head
-nude
-open mouth
-outside
-rating:safe
-red collar
-red eyes
-saliva
-series:european mythology
-series:greek mythology
-series:mythology
-sitting
-sky
-snake tail
-solo
-species:canid
-species:cerberus
-species:mammal
-species:reptile
-species:scalie
-species:snake
-subreddit:imaginaryaww
-subreddit:imaginarymythology
-subreddit:imcharacters
-subreddit:immeta
-tennis ball
-title:cerberus puppy by april prime
-tongue
-tongue out
-unusual anatomy
-unusual tail
-uploader:lol33ta
-uploader:myrandall
-yawn
-young
+ball,
+bodily fluids,
+brown body,
+brown fur,
+category:ine,
+cloud,
+collar,
+collar only,
+creator:april prime,
+cub,
+detailed background,
+feral,
+forked tongue,
+fur,
+living tail,
+meta:hi res,
+multi head,
+nude,
+open mouth,
+outside,
+rating:safe,
+red collar,
+red eyes,
+saliva,
+series:european mythology,
+series:greek mythology,
+series:mythology,
+sitting,
+sky,
+snake tail,
+solo,
+species:canid,
+species:cerberus,
+species:mammal,
+species:reptile,
+species:scalie,
+species:snake,
+subreddit:imaginaryaww,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+subreddit:immeta,
+tennis ball,
+title:cerberus puppy by april prime,
+tongue,
+tongue out,
+unusual anatomy,
+unusual tail,
+uploader:lol33ta,
+uploader:myrandall,
+yawn,
+young,

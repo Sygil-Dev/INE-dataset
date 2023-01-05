@@ -1,88 +1,88 @@
-antennae (anatomy)
-antennae_(anatomy)
-anthro
-anthropomorphism
-artist:tsaoshin
-beach
-booru:e621
-butterfly net
-butterfly_net
-category:ine
-character:flick (animal crossing)
-character:flick_(animal_crossing)
-choker
-clothed
-clothing
-copyright:animal_crossing
-copyright:nintendo
-creator:tsaoshin
-duo
-footwear
-furry
-gender:male
-goth
-half-closed eyes
-half-closed_eyes
-hand in pocket
-hand_in_pocket
-holding object
-holding_object
-horn
-horns
-jewelry
-leather
-male
-medium:video game
-meta:1:1
-meta:2020
-meta:full-length portrait
-meta:full-length_portrait
-meta:portrait
-meta:signature
-narrowed eyes
-narrowed_eyes
-necklace
-outside
-piercing
-pockets
-punk
-purple eyes
-purple stripes
-purple_eyes
-purple_stripes
-rating:safe
-red body
-red scales
-red_body
-red_scales
-rock
-scales
-seaside
-series:animal crossing
-series:nintendo
-shoes
-smile
-solo focus
-solo_focus
-species:agrias butterfly
-species:agrias_butterfly
-species:arthropod
-species:butterfly
-species:chameleon
-species:insect
-species:lepidopteran
-species:lizard
-species:reptile
-species:scalie
-standing
-striped
-stripes
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imfandoms
-title:flick by eric proctor (tsaoshin)
-uploader:myrandall
-video games
-video_games
-yellow horn
-yellow_horn
+antennae (anatomy),
+antennae_(anatomy),
+anthro,
+anthropomorphism,
+artist:tsaoshin,
+beach,
+booru:e621,
+butterfly net,
+butterfly_net,
+category:ine,
+character:flick (animal crossing),
+character:flick_(animal_crossing),
+choker,
+clothed,
+clothing,
+copyright:animal_crossing,
+copyright:nintendo,
+creator:tsaoshin,
+duo,
+footwear,
+furry,
+gender:male,
+goth,
+half-closed eyes,
+half-closed_eyes,
+hand in pocket,
+hand_in_pocket,
+holding object,
+holding_object,
+horn,
+horns,
+jewelry,
+leather,
+male,
+medium:video game,
+meta:1:1,
+meta:2020,
+meta:full-length portrait,
+meta:full-length_portrait,
+meta:portrait,
+meta:signature,
+narrowed eyes,
+narrowed_eyes,
+necklace,
+outside,
+piercing,
+pockets,
+punk,
+purple eyes,
+purple stripes,
+purple_eyes,
+purple_stripes,
+rating:safe,
+red body,
+red scales,
+red_body,
+red_scales,
+rock,
+scales,
+seaside,
+series:animal crossing,
+series:nintendo,
+shoes,
+smile,
+solo focus,
+solo_focus,
+species:agrias butterfly,
+species:agrias_butterfly,
+species:arthropod,
+species:butterfly,
+species:chameleon,
+species:insect,
+species:lepidopteran,
+species:lizard,
+species:reptile,
+species:scalie,
+standing,
+striped,
+stripes,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+title:flick by eric proctor (tsaoshin),
+uploader:myrandall,
+video games,
+video_games,
+yellow horn,
+yellow_horn,

@@ -1,73 +1,73 @@
-ambiguous_gender
-antlers
-artist:sandara
-biped
-brown hair
-brown_hair
-category:ine
-closed eyes
-creator:sandara
-day
-detailed_background
-digitigrade
-duo focus
-duo_focus
-eyes closed
-eyes_closed
-female
-feral
-forest
-furry
-gender:ambiguous
-gender:female
-grass
-green body
-green_body
-group
-hair
-horn
-horns
-medium:detailed background
-meta:2020
-meta:digital_media_(artwork)
-meta:hi_res
-meta:shaded
-outside
-plant
-plantigrade
-quadruped
-rating:safe
-short hair
-short_hair
-smile
-species:ambient arthropod
-species:ambient butterfly
-species:ambient insect
-species:ambient_arthropod
-species:ambient_butterfly
-species:ambient_insect
-species:arthropod
-species:butterfly
-species:dragon
-species:elemental creature
-species:elemental_creature
-species:flora fauna
-species:flora_fauna
-species:human
-species:insect
-species:leaf dragon
-species:leaf_dragon
-species:lepidopteran
-species:mammal
-species:mythical
-species:primate
-species:scalie
-subreddit:imaginarydragons
-subreddit:imaginaryelementals
-subreddit:immonsters
-tan body
-tan_body
-title:let's go! by sandara tang
-tree
-uploader:lol33ta
-uploader:myrandall
+ambiguous_gender,
+antlers,
+artist:sandara,
+biped,
+brown hair,
+brown_hair,
+category:ine,
+closed eyes,
+creator:sandara,
+day,
+detailed_background,
+digitigrade,
+duo focus,
+duo_focus,
+eyes closed,
+eyes_closed,
+female,
+feral,
+forest,
+furry,
+gender:ambiguous,
+gender:female,
+grass,
+green body,
+green_body,
+group,
+hair,
+horn,
+horns,
+medium:detailed background,
+meta:2020,
+meta:digital_media_(artwork),
+meta:hi_res,
+meta:shaded,
+outside,
+plant,
+plantigrade,
+quadruped,
+rating:safe,
+short hair,
+short_hair,
+smile,
+species:ambient arthropod,
+species:ambient butterfly,
+species:ambient insect,
+species:ambient_arthropod,
+species:ambient_butterfly,
+species:ambient_insect,
+species:arthropod,
+species:butterfly,
+species:dragon,
+species:elemental creature,
+species:elemental_creature,
+species:flora fauna,
+species:flora_fauna,
+species:human,
+species:insect,
+species:leaf dragon,
+species:leaf_dragon,
+species:lepidopteran,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+tan body,
+tan_body,
+title:let's go! by sandara tang,
+tree,
+uploader:lol33ta,
+uploader:myrandall,

@@ -1,94 +1,94 @@
-art
-art:landscape
-artist name
-artist:arsenixc
-bar
-beautiful
-boat
-booru:sankaku
-bottle
-bridge
-category:ine
-city
-city lights
-cityscape
-cloud
-cloudy sky
-copyright name
-copyright:love money rock'n'roll
-copyright:original
-creator:arsenixc
-creator:izakaya
-creator:vvcephei
-dark
-dusk
-hill
-izakaya
-lamppost
-landscape
-lantern
-lmrnr
-medium:16:9 aspect ratio
-medium:1920x1080 wallpaper
-medium:artist name
-medium:cg art
-medium:collaboration
-medium:company name
-medium:copyright name
-medium:game cg
-medium:high resolution
-medium:official art
-medium:wallpaper
-medium:watermark
-meta:collaboration
-meta:commentary
-meta:commentary request
-meta:game cg
-meta:highres
-meta:official art
-meta:official wallpaper
-meta:wallpaper
-night
-no humans
-original
-original 3000 users bookmark
-original character
-outdoors
-outside
-paper lantern
-pixiv artist id:202175
-pixiv illust id:69071764
-pixiv work:69071764
-rating:mature
-rating:s
-rating:safe
-river
-road
-sake bottle
-scenery
-series:love money rock'n'roll
-series:original
-sign
-sky
-stool
-street
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-table
-title:riverside night
-title:riverside night by arsenixc
-title:海岸通り夜
-uploader:ttensai
-vehicle
-water
-watercraft
-watermark
-ふつくしい
-オリジナル
-オリジナル5000users入り
-夜
-空間の旅人
-通り
-風景
-風景3000users入り
-風景5000users入り
+art,
+art:landscape,
+artist name,
+artist:arsenixc,
+bar,
+beautiful,
+boat,
+booru:sankaku,
+bottle,
+bridge,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+copyright name,
+copyright:love money rock'n'roll,
+copyright:original,
+creator:arsenixc,
+creator:izakaya,
+creator:vvcephei,
+dark,
+dusk,
+hill,
+izakaya,
+lamppost,
+landscape,
+lantern,
+lmrnr,
+medium:16:9 aspect ratio,
+medium:1920x1080 wallpaper,
+medium:artist name,
+medium:cg art,
+medium:collaboration,
+medium:company name,
+medium:copyright name,
+medium:game cg,
+medium:high resolution,
+medium:official art,
+medium:wallpaper,
+medium:watermark,
+meta:collaboration,
+meta:commentary,
+meta:commentary request,
+meta:game cg,
+meta:highres,
+meta:official art,
+meta:official wallpaper,
+meta:wallpaper,
+night,
+no humans,
+original,
+original 3000 users bookmark,
+original character,
+outdoors,
+outside,
+paper lantern,
+pixiv artist id:202175,
+pixiv illust id:69071764,
+pixiv work:69071764,
+rating:mature,
+rating:s,
+rating:safe,
+river,
+road,
+sake bottle,
+scenery,
+series:love money rock'n'roll,
+series:original,
+sign,
+sky,
+stool,
+street,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+table,
+title:riverside night,
+title:riverside night by arsenixc,
+title:海岸通り夜,
+uploader:ttensai,
+vehicle,
+water,
+watercraft,
+watermark,
+ふつくしい,
+オリジナル,
+オリジナル5000users入り,
+夜,
+空間の旅人,
+通り,
+風景,
+風景3000users入り,
+風景5000users入り,

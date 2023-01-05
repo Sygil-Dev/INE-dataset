@@ -1,70 +1,70 @@
-artist:pippi (pixiv 1922055)
-bell
-bell collar
-blue sky
-capelet
-category:ine
-christmas
-christmas ornaments
-clothed pokemon
-collar
-creator:p3i2
-creator:pippi (pixiv 1922055)
-creator:ぴっぴ＠春コミ東2ム11a
-dutch angle
-fur
-fur trim
-gen 1 pokemon
-gen 2 pokemon
-gen 3 pokemon
-gen 4 pokemon
-gen 5 pokemon
-gen 6 pokemon
-gift
-meta:character request
-meta:commentary
-night
-night sky
-no humans
-outdoors
-outside
-pixiv artist id:1922055
-pixiv illust id:54237131
-pokemon 500 users bookmark
-rating:mature
-rating:safe
-road
-series:pokemon
-series:pokémon
-sky
-species:altaria
-species:delibird
-species:diglett
-species:dugtrio
-species:ferrothorn
-species:fletchinder
-species:fletchling
-species:joltik
-species:jumpluff
-species:leavanny
-species:monster
-species:pikachu
-species:piplup
-species:pokemon
-species:pokémon
-species:rotom
-species:sewaddle
-species:sliggoo
-species:stantler
-species:talonflame
-star (sky)
-starry sky
-stars
-street
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:merry christmas by ぴっぴ
-title:メリークリスマス
-uploader:pkmnart
-なにこれ素敵
+artist:pippi (pixiv 1922055),
+bell,
+bell collar,
+blue sky,
+capelet,
+category:ine,
+christmas,
+christmas ornaments,
+clothed pokemon,
+collar,
+creator:p3i2,
+creator:pippi (pixiv 1922055),
+creator:ぴっぴ＠春コミ東2ム11a,
+dutch angle,
+fur,
+fur trim,
+gen 1 pokemon,
+gen 2 pokemon,
+gen 3 pokemon,
+gen 4 pokemon,
+gen 5 pokemon,
+gen 6 pokemon,
+gift,
+meta:character request,
+meta:commentary,
+night,
+night sky,
+no humans,
+outdoors,
+outside,
+pixiv artist id:1922055,
+pixiv illust id:54237131,
+pokemon 500 users bookmark,
+rating:mature,
+rating:safe,
+road,
+series:pokemon,
+series:pokémon,
+sky,
+species:altaria,
+species:delibird,
+species:diglett,
+species:dugtrio,
+species:ferrothorn,
+species:fletchinder,
+species:fletchling,
+species:joltik,
+species:jumpluff,
+species:leavanny,
+species:monster,
+species:pikachu,
+species:piplup,
+species:pokemon,
+species:pokémon,
+species:rotom,
+species:sewaddle,
+species:sliggoo,
+species:stantler,
+species:talonflame,
+star (sky),
+starry sky,
+stars,
+street,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:merry christmas by ぴっぴ,
+title:メリークリスマス,
+uploader:pkmnart,
+なにこれ素敵,

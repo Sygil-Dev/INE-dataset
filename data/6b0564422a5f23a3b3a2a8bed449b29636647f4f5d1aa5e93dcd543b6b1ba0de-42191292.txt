@@ -1,25 +1,25 @@
-blue clothing
-bright
-brown hair
-category:ine
-drawing
-face paint
-fantasy art
-floating
-frontal view
-gender:female
-glowing
-glowing eyes
-horns
-jeremy chong
-long hair
-magician
-series:final fantasy
-series:final fantasy vi
-skimpy clothes
-spell
-studio:square enix
-subreddit:imaginaryimmortals
-subreddit:imraces
-title:goddess by jeremy chong
-uploader:lol33ta
+blue clothing,
+bright,
+brown hair,
+category:ine,
+drawing,
+face paint,
+fantasy art,
+floating,
+frontal view,
+gender:female,
+glowing,
+glowing eyes,
+horns,
+jeremy chong,
+long hair,
+magician,
+series:final fantasy,
+series:final fantasy vi,
+skimpy clothes,
+spell,
+studio:square enix,
+subreddit:imaginaryimmortals,
+subreddit:imraces,
+title:goddess by jeremy chong,
+uploader:lol33ta,

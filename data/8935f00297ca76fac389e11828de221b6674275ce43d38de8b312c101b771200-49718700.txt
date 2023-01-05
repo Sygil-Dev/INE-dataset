@@ -1,52 +1,52 @@
-3 fingers
-3_fingers
-ambiguous gender
-ambiguous_gender
-artist:taran_fiddler
-black body
-black_body
-booru:e621
-category:ine
-claws
-copyright:asian mythology
-copyright:asian_mythology
-copyright:east asian mythology
-copyright:east_asian_mythology
-copyright:mythology
-creator:@tfiddlerart
-creator:taran fiddler
-creaturedesign
-duo
-feral
-fingers
-fur
-furry
-gender:ambiguous
-hand holding
-hand_holding
-meta:4:3
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-rating:safe
-series:asian mythology
-series:east asian mythology
-series:mythology
-smaugust
-species:dragon
-species:eastern dragon
-species:eastern_dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:imaginaryportals
-subreddit:immonsters
-subreddit:imtechnology
-title:duo by taran fiddler
-uploader:dolorous-diva
-uploader:lol33ta
-whiskers
-white body
-white_body
+3 fingers,
+3_fingers,
+ambiguous gender,
+ambiguous_gender,
+artist:taran_fiddler,
+black body,
+black_body,
+booru:e621,
+category:ine,
+claws,
+copyright:asian mythology,
+copyright:asian_mythology,
+copyright:east asian mythology,
+copyright:east_asian_mythology,
+copyright:mythology,
+creator:@tfiddlerart,
+creator:taran fiddler,
+creaturedesign,
+duo,
+feral,
+fingers,
+fur,
+furry,
+gender:ambiguous,
+hand holding,
+hand_holding,
+meta:4:3,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+rating:safe,
+series:asian mythology,
+series:east asian mythology,
+series:mythology,
+smaugust,
+species:dragon,
+species:eastern dragon,
+species:eastern_dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:imaginaryportals,
+subreddit:immonsters,
+subreddit:imtechnology,
+title:duo by taran fiddler,
+uploader:dolorous-diva,
+uploader:lol33ta,
+whiskers,
+white body,
+white_body,

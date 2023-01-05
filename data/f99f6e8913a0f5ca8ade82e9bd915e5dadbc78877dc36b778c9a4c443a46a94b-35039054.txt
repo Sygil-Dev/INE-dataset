@@ -1,24 +1,24 @@
-bazookas
-bikes
-category:ine
-drawing
-fighting
-genre:steampunk
-ground vehicle
-motor vehicle
-motorcycle
-pink
-pink hair
-skull
-space shuttle
-subreddit:imaginaryadrenaline
-subreddit:imaginaryvehicles
-subreddit:immeta
-subreddit:imtechnology
-title:death race by wenfei ye
-uploader:merigemini
-uploader:myrandall
-vehicle
-wasteland
-weapon
-wenfei ye
+bazookas,
+bikes,
+category:ine,
+drawing,
+fighting,
+genre:steampunk,
+ground vehicle,
+motor vehicle,
+motorcycle,
+pink,
+pink hair,
+skull,
+space shuttle,
+subreddit:imaginaryadrenaline,
+subreddit:imaginaryvehicles,
+subreddit:immeta,
+subreddit:imtechnology,
+title:death race by wenfei ye,
+uploader:merigemini,
+uploader:myrandall,
+vehicle,
+wasteland,
+weapon,
+wenfei ye,

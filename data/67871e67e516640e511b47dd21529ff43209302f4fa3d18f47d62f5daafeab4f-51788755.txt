@@ -1,62 +1,62 @@
-air bubble
-ambiguous gender
-ambiguous_gender
-artist:tamberella
-booru:e621
-bubble
-character:lugia
-character:mantine
-copyright:nintendo
-copyright:pokémon
-creator:devin elle kurtz
-creator:tamberella
-day
-detailed background
-detailed_background
-fangs
-feral
-fins
-gen 2 pokemon
-glowing
-glowing eyes
-group
-legendary pokemon
-light rays
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:highres
-no humans
-outside
-pokemon (creature)
-rating:general
-rating:safe
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokémon
-species:legendary pokémon
-species:legendary_pokémon
-species:lugia
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imaginaryleviathans
-subreddit:imfandoms
-subreddit:immonsters
-sunlight
-swimsuit
-swimwear
-tail
-title:daily life of lugia 2 by tamberella
-underwater
-uploader:myrandall
-video games
-video_games
-water
-wings
+air bubble,
+ambiguous gender,
+ambiguous_gender,
+artist:tamberella,
+booru:e621,
+bubble,
+character:lugia,
+character:mantine,
+copyright:nintendo,
+copyright:pokémon,
+creator:devin elle kurtz,
+creator:tamberella,
+day,
+detailed background,
+detailed_background,
+fangs,
+feral,
+fins,
+gen 2 pokemon,
+glowing,
+glowing eyes,
+group,
+legendary pokemon,
+light rays,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:highres,
+no humans,
+outside,
+pokemon (creature),
+rating:general,
+rating:safe,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+species:legendary pokémon,
+species:legendary_pokémon,
+species:lugia,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imaginaryleviathans,
+subreddit:imfandoms,
+subreddit:immonsters,
+sunlight,
+swimsuit,
+swimwear,
+tail,
+title:daily life of lugia 2 by tamberella,
+underwater,
+uploader:myrandall,
+video games,
+video_games,
+water,
+wings,

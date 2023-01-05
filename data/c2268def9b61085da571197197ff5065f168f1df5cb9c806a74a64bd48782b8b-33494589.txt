@@ -1,73 +1,73 @@
-1 female
-1girl
-asteroid ill
-booru:danbooru
-booru:sankaku
-booru:sankaku channel
-branch
-brown hair
-category:ine
-character:croconaw
-character:female protagonist (pokemon go)
-character:gen 2 pokemon
-character:gen 4 pokemon
-character:giratina
-character:giratina (altered)
-character:legendary pokemon
-character:pokemon character
-character:pokemon species
-character:protagonist (pokemon)
-clothing:gloves
-clothing:hair tie
-clothing:hat
-clothing:headwear
-creator:asteroid ill
-creator:asuteroid
-electricity
-female
-gen 2 pokemon
-gen 2 pokémon
-gen 4 pokemon
-gen 4 pokémon
-gender:female
-gloves
-hat
-headwear
-legendary pokemon
-long hair
-medium:high resolution
-meta:commentary
-meta:highres
-night
-pokemon (creature)
-ponytail
-rating:general
-rating:mature
-rating:s
-rating:safe
-red eyes
-scenery
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon go
-series:pokémon
-series:pokémon go
-species:croconaw
-species:giratina
-species:legendary pokémon
-species:monster
-species:pokémon
-studio:creatures (company)
-studio:creatures inc.
-studio:game freak
-studio:nintendo
-subreddit:imaginarybehemoths
-subreddit:immonsters
-tied hair
-title:giratina by astero
-tree
-tree branch
-uploader:vecttor
+1 female,
+1girl,
+asteroid ill,
+booru:danbooru,
+booru:sankaku,
+booru:sankaku channel,
+branch,
+brown hair,
+category:ine,
+character:croconaw,
+character:female protagonist (pokemon go),
+character:gen 2 pokemon,
+character:gen 4 pokemon,
+character:giratina,
+character:giratina (altered),
+character:legendary pokemon,
+character:pokemon character,
+character:pokemon species,
+character:protagonist (pokemon),
+clothing:gloves,
+clothing:hair tie,
+clothing:hat,
+clothing:headwear,
+creator:asteroid ill,
+creator:asuteroid,
+electricity,
+female,
+gen 2 pokemon,
+gen 2 pokémon,
+gen 4 pokemon,
+gen 4 pokémon,
+gender:female,
+gloves,
+hat,
+headwear,
+legendary pokemon,
+long hair,
+medium:high resolution,
+meta:commentary,
+meta:highres,
+night,
+pokemon (creature),
+ponytail,
+rating:general,
+rating:mature,
+rating:s,
+rating:safe,
+red eyes,
+scenery,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon go,
+series:pokémon,
+series:pokémon go,
+species:croconaw,
+species:giratina,
+species:legendary pokémon,
+species:monster,
+species:pokémon,
+studio:creatures (company),
+studio:creatures inc.,
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+tied hair,
+title:giratina by astero,
+tree,
+tree branch,
+uploader:vecttor,

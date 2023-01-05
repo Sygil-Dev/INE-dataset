@@ -1,53 +1,53 @@
-5_fingers
-artist:magda_proski
-black eyes
-black_body
-black_eyes
-black_fur
-bone
-brown hair
-brown_hair
-carrying
-character:fran bow dagenhart
-character:fran_bow_dagenhart
-character:mr. midnight
-character:mr._midnight
-character:remor
-child
-colored sclera
-copyright:fran_bow
-creator:magda proski
-drugs
-female
-fingers
-fur
-gender:female
-gender:male
-green eyes
-green_eyes
-group
-hair
-kid
-male
-meta:signature
-pills
-rating:safe
-series:fran bow
-skull
-species:bovid
-species:caprine
-species:domestic_cat
-species:felid
-species:feline
-species:felis
-species:goat
-species:human
-species:mammal
-species:primate
-subreddit:imaginaryhorrors
-title:fran bow by magda proski
-uploader:ultartx
-vein
-yellow sclera
-yellow_sclera
-young
+5_fingers,
+artist:magda_proski,
+black eyes,
+black_body,
+black_eyes,
+black_fur,
+bone,
+brown hair,
+brown_hair,
+carrying,
+character:fran bow dagenhart,
+character:fran_bow_dagenhart,
+character:mr. midnight,
+character:mr._midnight,
+character:remor,
+child,
+colored sclera,
+copyright:fran_bow,
+creator:magda proski,
+drugs,
+female,
+fingers,
+fur,
+gender:female,
+gender:male,
+green eyes,
+green_eyes,
+group,
+hair,
+kid,
+male,
+meta:signature,
+pills,
+rating:safe,
+series:fran bow,
+skull,
+species:bovid,
+species:caprine,
+species:domestic_cat,
+species:felid,
+species:feline,
+species:felis,
+species:goat,
+species:human,
+species:mammal,
+species:primate,
+subreddit:imaginaryhorrors,
+title:fran bow by magda proski,
+uploader:ultartx,
+vein,
+yellow sclera,
+yellow_sclera,
+young,

@@ -1,31 +1,31 @@
-1boy
-armor
-battle
-blue fire
-breathing fire
-burning
-campfire
-category:ine
-embers
-explosion
-fire
-flame
-flaming sword
-flaming weapon
-helmet
-holding
-horns
-lightning
-molten rock
-monster
-rating:safe
-smoke
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-sword
-teeth
-title:feanor vs gothmog, lord of balrogs by bob greyvenstein
-torch
-uploader:[deleted]
-uploader:faeryknight
-weapon
+1boy,
+armor,
+battle,
+blue fire,
+breathing fire,
+burning,
+campfire,
+category:ine,
+embers,
+explosion,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+helmet,
+holding,
+horns,
+lightning,
+molten rock,
+monster,
+rating:safe,
+smoke,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+sword,
+teeth,
+title:feanor vs gothmog, lord of balrogs by bob greyvenstein,
+torch,
+uploader:[deleted],
+uploader:faeryknight,
+weapon,

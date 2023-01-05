@@ -1,32 +1,32 @@
-alternate form
-artist name
-booru:safebooru
-category:ine
-creator:sido (slipknot)
-gen 4 pokemon
-medium:absurd resolution
-medium:artist name
-medium:high resolution
-medium:simple background
-medium:white background
-meta:absurdres
-meta:commentary request
-meta:highres
-no humans
-pokemon (creature)
-rating:safe
-series:pokemon
-series:pokémon
-simple background
-solo
-species:giratina
-species:legendary pokémon
-species:monster
-species:pokemon
-species:pokémon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:giratina by sido tamashii
-uploader:ayalim
-white background
+alternate form,
+artist name,
+booru:safebooru,
+category:ine,
+creator:sido (slipknot),
+gen 4 pokemon,
+medium:absurd resolution,
+medium:artist name,
+medium:high resolution,
+medium:simple background,
+medium:white background,
+meta:absurdres,
+meta:commentary request,
+meta:highres,
+no humans,
+pokemon (creature),
+rating:safe,
+series:pokemon,
+series:pokémon,
+simple background,
+solo,
+species:giratina,
+species:legendary pokémon,
+species:monster,
+species:pokemon,
+species:pokémon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:giratina by sido tamashii,
+uploader:ayalim,
+white background,

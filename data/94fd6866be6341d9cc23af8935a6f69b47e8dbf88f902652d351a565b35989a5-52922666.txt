@@ -1,44 +1,44 @@
-4 fingers
-4 toes
-4_fingers
-4_toes
-ambiguous gender
-ambiguous_gender
-anthro
-artist:sandara
-category:ine
-claws
-clothed
-clothing
-creator:sandara
-fingers
-green eyes
-green_eyes
-group
-meta:2020
-meta:digital_media_(artwork)
-meta:hi_res
-open mouth
-open_mouth
-rating:safe
-species:cat
-species:domestic cat
-species:domestic_cat
-species:felid
-species:feline
-species:felis
-species:mammal
-species:mouse
-species:murid
-species:murine
-species:rodent
-subreddit:imaginarywitches
-subreddit:imaginarywizards
-subreddit:imcharacters
-teeth
-title:pumpkin spell by sandara tang
-toes
-tongue
-uploader:lol33ta
-uploader:myrandall
-wizard
+4 fingers,
+4 toes,
+4_fingers,
+4_toes,
+ambiguous gender,
+ambiguous_gender,
+anthro,
+artist:sandara,
+category:ine,
+claws,
+clothed,
+clothing,
+creator:sandara,
+fingers,
+green eyes,
+green_eyes,
+group,
+meta:2020,
+meta:digital_media_(artwork),
+meta:hi_res,
+open mouth,
+open_mouth,
+rating:safe,
+species:cat,
+species:domestic cat,
+species:domestic_cat,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+species:mouse,
+species:murid,
+species:murine,
+species:rodent,
+subreddit:imaginarywitches,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+teeth,
+title:pumpkin spell by sandara tang,
+toes,
+tongue,
+uploader:lol33ta,
+uploader:myrandall,
+wizard,

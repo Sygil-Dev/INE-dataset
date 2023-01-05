@@ -1,24 +1,24 @@
-animal
-boots
-brown hair
-category:ine
-day
-desert
-hat
-horse
-mountain
-multiple boys
-outdoors
-rating:safe
-scenery
-sky
-standing
-subreddit:imaginarydwellings
-subreddit:imaginaryvillages
-subreddit:imarchitecture
-title:akaran village by alexandru negoiță
-title:huts by alexandru negoi
-tree
-uploader:lol33ta
-uploader:the_optimus_rhyme
-weapon
+animal,
+boots,
+brown hair,
+category:ine,
+day,
+desert,
+hat,
+horse,
+mountain,
+multiple boys,
+outdoors,
+rating:safe,
+scenery,
+sky,
+standing,
+subreddit:imaginarydwellings,
+subreddit:imaginaryvillages,
+subreddit:imarchitecture,
+title:akaran village by alexandru negoiță,
+title:huts by alexandru negoi,
+tree,
+uploader:lol33ta,
+uploader:the_optimus_rhyme,
+weapon,

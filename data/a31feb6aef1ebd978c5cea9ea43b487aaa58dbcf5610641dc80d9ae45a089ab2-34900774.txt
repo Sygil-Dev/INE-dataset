@@ -1,23 +1,23 @@
-android
-category:ine
-creator:nradiowave
-cyborg
-gender:female
-girl
-pixiv id:33554709
-pixiv work:76929573
-robot
-robotgirl
-source:pixiv
-species:android
-species:robot
-subreddit:imaginarycybernetics
-subreddit:imaginarypets
-subreddit:immeta
-subreddit:imtechnology
-title:play with dog
-title:play with dog (nradiowave)
-title:with robot dog
-uploader:errantgirl
-メカバレ
-メカ少女
+android,
+category:ine,
+creator:nradiowave,
+cyborg,
+gender:female,
+girl,
+pixiv id:33554709,
+pixiv work:76929573,
+robot,
+robotgirl,
+source:pixiv,
+species:android,
+species:robot,
+subreddit:imaginarycybernetics,
+subreddit:imaginarypets,
+subreddit:immeta,
+subreddit:imtechnology,
+title:play with dog,
+title:play with dog (nradiowave),
+title:with robot dog,
+uploader:errantgirl,
+メカバレ,
+メカ少女,

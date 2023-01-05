@@ -1,56 +1,56 @@
-anthro
-arena
-armor
-audience
-blue eyes
-cape
-character:background character
-circlet
-clothed
-clothing
-creator:taran fiddler
-duo
-fight
-fur
-gauntlets
-gladiator
-gloves
-glowing
-glowing eyes
-group
-hair
-handwear
-holding object
-holding sword
-holding weapon
-larger male
-light
-long hair
-male
-male/male
-melee weapon
-meta:2017
-meta:absurd res
-meta:digital media (artwork)
-meta:hi res
-muscular
-muscular male
-outside
-pecs
-rating:safe
-scar
-size difference
-spaulder
-species:felid
-species:human
-species:lion
-species:mammal
-species:pantherine
-subreddit:imaginarywarriors
-subreddit:imcharacters
-sunlight
-sword
-title:in the colosseum [by taran fiddler]
-uploader:skooma-boi
-warrior
-weapon
+anthro,
+arena,
+armor,
+audience,
+blue eyes,
+cape,
+character:background character,
+circlet,
+clothed,
+clothing,
+creator:taran fiddler,
+duo,
+fight,
+fur,
+gauntlets,
+gladiator,
+gloves,
+glowing,
+glowing eyes,
+group,
+hair,
+handwear,
+holding object,
+holding sword,
+holding weapon,
+larger male,
+light,
+long hair,
+male,
+male/male,
+melee weapon,
+meta:2017,
+meta:absurd res,
+meta:digital media (artwork),
+meta:hi res,
+muscular,
+muscular male,
+outside,
+pecs,
+rating:safe,
+scar,
+size difference,
+spaulder,
+species:felid,
+species:human,
+species:lion,
+species:mammal,
+species:pantherine,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+sunlight,
+sword,
+title:in the colosseum [by taran fiddler],
+uploader:skooma-boi,
+warrior,
+weapon,

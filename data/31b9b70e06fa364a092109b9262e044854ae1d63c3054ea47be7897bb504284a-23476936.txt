@@ -1,87 +1,87 @@
-2 females
-2girls
-art
-bag
-beanie
-black hair
-blonde hair
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-category:ine
-character:lillie (pokemon)
-character:lunala
-character:mizuki (pokemon)
-character:pokemon character
-character:protagonist (pokemon)
-character:selene (pokemon)
-clothing:hair tie
-clothing:hat
-clothing:headwear
-clothing:legwear
-clothing:shirt
-clothing:short sleeves
-clothing:shorts
-clothing:skirt
-clothing:white shirt
-creator:flyaspring4
-creatures (company)
-crescent moon
-from behind
-gen 7 pokemon
-gender:female
-green eyes
-green shorts
-handbag
-hat
-legendary pokemon
-medium:high resolution
-meta:commentary
-meta:commentary request
-meta:highres
-moon
-multiple females
-multiple girls
-night
-night sky
-outdoors
-outside
-pokemon (creature)
-ponytail
-rating:mature
-rating:safe
-rating:sensitive
-red hat
-red headwear
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon sm
-series:pokémon
-series:pokémon sun & moon
-shirt
-short hair
-short sleeves
-shorts
-skirt
-sky
-species:lunala
-species:monster
-species:pokémon
-stairs
-standing
-star (sky)
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-tied hair
-title:at the altar by ふりゃ
-uploader:pkmnart
-white shirt
-white skirt
-z-ring
+2 females,
+2girls,
+art,
+bag,
+beanie,
+black hair,
+blonde hair,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+category:ine,
+character:lillie (pokemon),
+character:lunala,
+character:mizuki (pokemon),
+character:pokemon character,
+character:protagonist (pokemon),
+character:selene (pokemon),
+clothing:hair tie,
+clothing:hat,
+clothing:headwear,
+clothing:legwear,
+clothing:shirt,
+clothing:short sleeves,
+clothing:shorts,
+clothing:skirt,
+clothing:white shirt,
+creator:flyaspring4,
+creatures (company),
+crescent moon,
+from behind,
+gen 7 pokemon,
+gender:female,
+green eyes,
+green shorts,
+handbag,
+hat,
+legendary pokemon,
+medium:high resolution,
+meta:commentary,
+meta:commentary request,
+meta:highres,
+moon,
+multiple females,
+multiple girls,
+night,
+night sky,
+outdoors,
+outside,
+pokemon (creature),
+ponytail,
+rating:mature,
+rating:safe,
+rating:sensitive,
+red hat,
+red headwear,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon sm,
+series:pokémon,
+series:pokémon sun & moon,
+shirt,
+short hair,
+short sleeves,
+shorts,
+skirt,
+sky,
+species:lunala,
+species:monster,
+species:pokémon,
+stairs,
+standing,
+star (sky),
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tied hair,
+title:at the altar by ふりゃ,
+uploader:pkmnart,
+white shirt,
+white skirt,
+z-ring,

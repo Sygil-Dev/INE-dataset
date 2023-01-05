@@ -1,43 +1,43 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-cloud
-creator:cryptid-creations
-day
-duo
-feral
-flower
-fur
-gender:ambiguous
-grass
-horn
-horns
-looking away
-looking_away
-medium:text
-meta:url
-mountain
-outside
-plant
-rating:safe
-rock
-sky
-species:living mountain
-species:living_mountain
-species:mammal
-species:mouse
-species:murid
-species:murine
-species:rodent
-subreddit:imaginarybehemoths
-subreddit:immonsters
-text
-title:walking mountain by cryptid-creations
-uploader:steampunkjester
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+cloud,
+creator:cryptid-creations,
+day,
+duo,
+feral,
+flower,
+fur,
+gender:ambiguous,
+grass,
+horn,
+horns,
+looking away,
+looking_away,
+medium:text,
+meta:url,
+mountain,
+outside,
+plant,
+rating:safe,
+rock,
+sky,
+species:living mountain,
+species:living_mountain,
+species:mammal,
+species:mouse,
+species:murid,
+species:murine,
+species:rodent,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+text,
+title:walking mountain by cryptid-creations,
+uploader:steampunkjester,

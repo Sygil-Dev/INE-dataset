@@ -1,41 +1,41 @@
-alternative costume
-armor
-blonde hair
-booru:sankaku channel
-boots
-category:ine
-character:mercy (overwatch)
-character:pharah (overwatch)
-female
-fingerless gloves
-fur
-fur trim
-gloves
-green eyes
-jewelry
-long hair
-mechanical wings
-medium:artist name
-medium:fanart from deviantart
-medium:high resolution
-medium:text
-medium:very high resolution
-novayin
-ponytail
-rating:safe
-robotic
-series:overwatch
-shoes
-sky
-solo
-staff
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-teeth
-thighhighs
-tiara
-tied hair
-title:dragoon mercy -novayin
-uploader:novayin
-weapon
-wings
+alternative costume,
+armor,
+blonde hair,
+booru:sankaku channel,
+boots,
+category:ine,
+character:mercy (overwatch),
+character:pharah (overwatch),
+female,
+fingerless gloves,
+fur,
+fur trim,
+gloves,
+green eyes,
+jewelry,
+long hair,
+mechanical wings,
+medium:artist name,
+medium:fanart from deviantart,
+medium:high resolution,
+medium:text,
+medium:very high resolution,
+novayin,
+ponytail,
+rating:safe,
+robotic,
+series:overwatch,
+shoes,
+sky,
+solo,
+staff,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+teeth,
+thighhighs,
+tiara,
+tied hair,
+title:dragoon mercy -novayin,
+uploader:novayin,
+weapon,
+wings,

@@ -1,34 +1,34 @@
-1boy
-arm tattoo
-back tattoo
-barcode
-barcode tattoo
-blood
-body markings
-body writing
-bodypaint
-breast tattoo
-category:ine
-chest tattoo
-command spell
-earrings
-facial tattoo
-full-body tattoo
-heart tattoo
-jewelry
-leg tattoo
-male focus
-neck tattoo
-number tattoo
-pubic tattoo
-rating:safe
-red eyes
-shoulder tattoo
-solo
-stomach tattoo
-subreddit:imaginarytamriel
-subreddit:imfandoms
-tattoo
-title:nys alamvu, dunmer-vampire, painted by me.
-uploader:faepaintings
-white hair
+1boy,
+arm tattoo,
+back tattoo,
+barcode,
+barcode tattoo,
+blood,
+body markings,
+body writing,
+bodypaint,
+breast tattoo,
+category:ine,
+chest tattoo,
+command spell,
+earrings,
+facial tattoo,
+full-body tattoo,
+heart tattoo,
+jewelry,
+leg tattoo,
+male focus,
+neck tattoo,
+number tattoo,
+pubic tattoo,
+rating:safe,
+red eyes,
+shoulder tattoo,
+solo,
+stomach tattoo,
+subreddit:imaginarytamriel,
+subreddit:imfandoms,
+tattoo,
+title:nys alamvu, dunmer-vampire, painted by me.,
+uploader:faepaintings,
+white hair,

@@ -1,30 +1,30 @@
-anthro
-anthropomorphism
-army
-artist:domehead
-category:ine
-character:crew
-creator:domehead
-dome
-gender:male
-logistics
-maintenance
-male
-meta:hi res
-meta:hi_res
-military
-rating:safe
-service
-species:alien
-species:behemoth (disambiguation)
-species:extraterrestrial
-species:progenitor
-subreddit:imaginaryaliens
-subreddit:imraces
-tank
-technician
-teshkava
-title:maintenance and logistics by slashfreezen
-tolesian
-uploader:usaf2222
-vehicle
+anthro,
+anthropomorphism,
+army,
+artist:domehead,
+category:ine,
+character:crew,
+creator:domehead,
+dome,
+gender:male,
+logistics,
+maintenance,
+male,
+meta:hi res,
+meta:hi_res,
+military,
+rating:safe,
+service,
+species:alien,
+species:behemoth (disambiguation),
+species:extraterrestrial,
+species:progenitor,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+tank,
+technician,
+teshkava,
+title:maintenance and logistics by slashfreezen,
+tolesian,
+uploader:usaf2222,
+vehicle,

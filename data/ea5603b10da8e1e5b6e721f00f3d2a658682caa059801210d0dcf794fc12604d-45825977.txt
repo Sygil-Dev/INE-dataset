@@ -1,23 +1,23 @@
-5 fingers
-5_fingers
-artist:assasinmonkey
-category:ine
-creator:assasinmonkey
-fin
-fingers
-meta:5:4
-meta:2020
-meta:hi_res
-meta:monochrome
-meta:traditional_media_(artwork)
-navel
-rating:safe
-source:e621
-species:marine
-species:merfolk
-species:mythical
-stomach
-subreddit:imaginarymerfolk
-subreddit:imraces
-title:three sisters by assasinmonkey
-uploader:myrandall
+5 fingers,
+5_fingers,
+artist:assasinmonkey,
+category:ine,
+creator:assasinmonkey,
+fin,
+fingers,
+meta:5:4,
+meta:2020,
+meta:hi_res,
+meta:monochrome,
+meta:traditional_media_(artwork),
+navel,
+rating:safe,
+source:e621,
+species:marine,
+species:merfolk,
+species:mythical,
+stomach,
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+title:three sisters by assasinmonkey,
+uploader:myrandall,

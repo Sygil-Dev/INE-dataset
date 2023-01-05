@@ -1,38 +1,38 @@
-black body
-black skin
-booru:e621
-building
-category:ine
-cloud
-creator:daniel ljunggren
-detailed background
-dutch angle
-feral
-flying
-group
-levitating
-medium:detailed background
-meta:official art
-multi eye
-nude
-open mouth
-outside
-overcast
-rating:safe
-sea
-seascape
-series:hasbro
-series:magic: the gathering
-series:official art
-sky
-species:eel
-species:fish
-species:marine
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryleviathans
-subreddit:immonsters
-title:sky-eel school by daniel ljunggren
-tower
-uploader:faeryknight
-water
+black body,
+black skin,
+booru:e621,
+building,
+category:ine,
+cloud,
+creator:daniel ljunggren,
+detailed background,
+dutch angle,
+feral,
+flying,
+group,
+levitating,
+medium:detailed background,
+meta:official art,
+multi eye,
+nude,
+open mouth,
+outside,
+overcast,
+rating:safe,
+sea,
+seascape,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+sky,
+species:eel,
+species:fish,
+species:marine,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+title:sky-eel school by daniel ljunggren,
+tower,
+uploader:faeryknight,
+water,

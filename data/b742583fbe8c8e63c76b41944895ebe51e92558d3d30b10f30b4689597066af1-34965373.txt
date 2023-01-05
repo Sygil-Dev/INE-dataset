@@ -1,21 +1,21 @@
-brown hair
-category:ine
-clothing
-clothing:dress
-clothing:gloves
-crown
-eldar zakirov
-gender:female
-long hair
-medium:digital media
-men
-painting
-species:canine
-species:fox
-species:mammal
-subreddit:imaginarypets
-subreddit:immeta
-tie
-title:reginald and maria by eldar zakirov
-uploader:lol33ta
-window
+brown hair,
+category:ine,
+clothing,
+clothing:dress,
+clothing:gloves,
+crown,
+eldar zakirov,
+gender:female,
+long hair,
+medium:digital media,
+men,
+painting,
+species:canine,
+species:fox,
+species:mammal,
+subreddit:imaginarypets,
+subreddit:immeta,
+tie,
+title:reginald and maria by eldar zakirov,
+uploader:lol33ta,
+window,

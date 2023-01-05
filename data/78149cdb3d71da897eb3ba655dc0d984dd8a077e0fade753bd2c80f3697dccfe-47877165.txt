@@ -1,25 +1,25 @@
-category:ine
-comic
-comic artist
-comic book art
-comic book artist
-comics
-cover artist
-creator:david nakayama
-cyclops
-david nakayama
-drawing
-emma frost
-jean grey
-kiss
-marvel
-marvel comics
-marvel girl
-subreddit:imaginarymarvel
-subreddit:imfandoms
-superhero
-superheroes
-title:x-men no.11 by david nakayama
-uploader:lol33ta
-white queen
-xmen
+category:ine,
+comic,
+comic artist,
+comic book art,
+comic book artist,
+comics,
+cover artist,
+creator:david nakayama,
+cyclops,
+david nakayama,
+drawing,
+emma frost,
+jean grey,
+kiss,
+marvel,
+marvel comics,
+marvel girl,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+superhero,
+superheroes,
+title:x-men no.11 by david nakayama,
+uploader:lol33ta,
+white queen,
+xmen,

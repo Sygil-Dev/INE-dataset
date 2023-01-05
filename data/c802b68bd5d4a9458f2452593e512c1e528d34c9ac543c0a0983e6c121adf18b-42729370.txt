@@ -1,31 +1,31 @@
-booru:sankaku channel
-category:ine
-constellation
-creator:serafleur
-crown
-dark colors
-dark skin
-dark-skinned white-haired
-diadem
-female
-headwear
-jewelry
-long hair
-looking at viewer
-looking back
-medium:dark background
-medium:realistic
-medium:simple background
-nude
-rating:safe
-semi-realism
-series:original
-solo
-subreddit:imaginaryimmortals
-subreddit:imraces
-tiara
-title:ceres by serafleur
-topless (female)
-uploader:reveriesian
-wavy hair
-white hair
+booru:sankaku channel,
+category:ine,
+constellation,
+creator:serafleur,
+crown,
+dark colors,
+dark skin,
+dark-skinned white-haired,
+diadem,
+female,
+headwear,
+jewelry,
+long hair,
+looking at viewer,
+looking back,
+medium:dark background,
+medium:realistic,
+medium:simple background,
+nude,
+rating:safe,
+semi-realism,
+series:original,
+solo,
+subreddit:imaginaryimmortals,
+subreddit:imraces,
+tiara,
+title:ceres by serafleur,
+topless (female),
+uploader:reveriesian,
+wavy hair,
+white hair,

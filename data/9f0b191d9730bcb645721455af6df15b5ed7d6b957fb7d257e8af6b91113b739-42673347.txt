@@ -1,55 +1,55 @@
-ambiguous gender
-ambiguous_gender
-artist:tamberella
-blue body
-blue_body
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:tamberella
-day
-feral
-gen 2 pokemon
-gender:ambiguous
-group
-medium:digital media
-medium:video game
-meta:2:3
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-ocean floor
-ocean_floor
-outside
-partially submerged
-partially_submerged
-rating:safe
-series:nintendo
-series:pokémon
-species:baby pokémon
-species:baby_pokémon
-species:fish
-species:mantine
-species:mantyke
-species:marine
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:remoraid
-studio:nintendo
-subreddit:imaginaryanimals
-subreddit:imaginarykanto
-subreddit:imaginaryseascapes
-subreddit:imfandoms
-subreddit:imlandscapes
-subreddit:imnature
-title:mantykes by tamberella
-uploader:myrandall
-video games
-video_games
-water
-year:2020
+ambiguous gender,
+ambiguous_gender,
+artist:tamberella,
+blue body,
+blue_body,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:tamberella,
+day,
+feral,
+gen 2 pokemon,
+gender:ambiguous,
+group,
+medium:digital media,
+medium:video game,
+meta:2:3,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+ocean floor,
+ocean_floor,
+outside,
+partially submerged,
+partially_submerged,
+rating:safe,
+series:nintendo,
+series:pokémon,
+species:baby pokémon,
+species:baby_pokémon,
+species:fish,
+species:mantine,
+species:mantyke,
+species:marine,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:remoraid,
+studio:nintendo,
+subreddit:imaginaryanimals,
+subreddit:imaginarykanto,
+subreddit:imaginaryseascapes,
+subreddit:imfandoms,
+subreddit:imlandscapes,
+subreddit:imnature,
+title:mantykes by tamberella,
+uploader:myrandall,
+video games,
+video_games,
+water,
+year:2020,

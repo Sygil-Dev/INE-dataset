@@ -1,39 +1,39 @@
-armor
-artist name
-battle
-category:ine
-character:balrog (lord of the rings)
-crown
-demon
-english commentary
-extra arms
-fire
-from behind
-full armor
-giant
-giant monster
-holding
-holding sword
-holding weapon
-legendarium
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-monster
-morgoth
-rating:safe
-series:the lord of the rings
-snow
-subreddit:imaginaryhorrors
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-subreddit:immonsters
-sword
-the lord of the rings
-title:dark lore of lotr - into the storm by sebastian rodriguez
-tsrodriguez
-ungoliant
-uploader:jg379
-weapon
-whip
+armor,
+artist name,
+battle,
+category:ine,
+character:balrog (lord of the rings),
+crown,
+demon,
+english commentary,
+extra arms,
+fire,
+from behind,
+full armor,
+giant,
+giant monster,
+holding,
+holding sword,
+holding weapon,
+legendarium,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+monster,
+morgoth,
+rating:safe,
+series:the lord of the rings,
+snow,
+subreddit:imaginaryhorrors,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+subreddit:immonsters,
+sword,
+the lord of the rings,
+title:dark lore of lotr - into the storm by sebastian rodriguez,
+tsrodriguez,
+ungoliant,
+uploader:jg379,
+weapon,
+whip,

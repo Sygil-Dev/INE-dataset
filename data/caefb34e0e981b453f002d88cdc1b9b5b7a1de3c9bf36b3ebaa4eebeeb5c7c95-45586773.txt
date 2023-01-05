@@ -1,61 +1,61 @@
-archmage
-art
-artist
-blizzard
-blizzardentertainment
-blizzardfanart
-booru:sankaku channel
-breasts
-category:ine
-character:jaina proudmoore
-cleavage
-clothing:bikini
-creator:prywinko
-creator:prywinkoart
-cute
-daughterofthesea
-dress
-ecchi
-female
-gender:female
-genre:fantasy
-jaina
-jainaproudmoore
-lady
-ladyjainaproudmoore
-lance
-leaderofthekirintor
-long hair
-lordadmiral
-medium:3:2 aspect ratio
-medium:artist name
-medium:fanart from deviantart
-medium:high resolution
-medium:text
-meta:artist name
-miss
-page:3
-polearm
-proudmoore
-prywinko
-rating:safe
-ruleroftheramore
-series:warcraft
-series:world of warcraft
-sexy
-site:deviantart
-solo
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imfandoms
-swimsuit
-swimwear
-title:jaina proudmoore
-title:jaina proudmoore bikini
-title:jaina proudmoore by prywinko
-uploader:myrandall
-wallpaper1920x1280
-weapon
-wow
+archmage,
+art,
+artist,
+blizzard,
+blizzardentertainment,
+blizzardfanart,
+booru:sankaku channel,
+breasts,
+category:ine,
+character:jaina proudmoore,
+cleavage,
+clothing:bikini,
+creator:prywinko,
+creator:prywinkoart,
+cute,
+daughterofthesea,
+dress,
+ecchi,
+female,
+gender:female,
+genre:fantasy,
+jaina,
+jainaproudmoore,
+lady,
+ladyjainaproudmoore,
+lance,
+leaderofthekirintor,
+long hair,
+lordadmiral,
+medium:3:2 aspect ratio,
+medium:artist name,
+medium:fanart from deviantart,
+medium:high resolution,
+medium:text,
+meta:artist name,
+miss,
+page:3,
+polearm,
+proudmoore,
+prywinko,
+rating:safe,
+ruleroftheramore,
+series:warcraft,
+series:world of warcraft,
+sexy,
+site:deviantart,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imfandoms,
+swimsuit,
+swimwear,
+title:jaina proudmoore,
+title:jaina proudmoore bikini,
+title:jaina proudmoore by prywinko,
+uploader:myrandall,
+wallpaper1920x1280,
+weapon,
+wow,

@@ -1,24 +1,24 @@
-3d
-animation
-apocalyptic
-art
-battery
-category:ine
-concept
-creator:kurt stadther
-electric
-fiction
-mechanism
-medium:digital 3d
-pistol
-post
-revolver
-sci-fi
-science
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-tesla
-title:rotary revolver
-title:rotary revolver, kstadt
-uploader:wabiisabii
-weapons
+3d,
+animation,
+apocalyptic,
+art,
+battery,
+category:ine,
+concept,
+creator:kurt stadther,
+electric,
+fiction,
+mechanism,
+medium:digital 3d,
+pistol,
+post,
+revolver,
+sci-fi,
+science,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+tesla,
+title:rotary revolver,
+title:rotary revolver, kstadt,
+uploader:wabiisabii,
+weapons,

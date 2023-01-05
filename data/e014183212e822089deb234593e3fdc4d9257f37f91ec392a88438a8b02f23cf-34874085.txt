@@ -1,62 +1,62 @@
-ambiguous gender
-ambiguous_gender
-artist:zummeng
-bayleef
-booru:e621
-category:ine
-chikorita
-copyright:nintendo
-copyright:pokémon
-creator:viktria
-creator:zummeng
-evolution
-fanart
-feral
-filename:chikorita evolutions.png
-filename:chikorita_evolutions.png
-flower (anatomy)
-flower_(anatomy)
-game
-gen 2 pokemon
-gen 2 pokémon
-gender:ambiguous
-group
-medium:digital media
-medium:high resolution
-meganium
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-nintendo
-patreon id:994694
-pokemon
-rating:safe
-red eyes
-red_eyes
-series:nintendo
-series:pokémon
-sketch
-smile
-source:furaffinity.net
-species:bayleef
-species:chikorita
-species:meganium
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-standing
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"chikorita evolutions" by viktória majzik (zummeng)
-title:chikorita evolutions
-uploader:torvusil
-video games
-video_games
-year:2019
-yellow eyes
-yellow_eyes
+ambiguous gender,
+ambiguous_gender,
+artist:zummeng,
+bayleef,
+booru:e621,
+category:ine,
+chikorita,
+copyright:nintendo,
+copyright:pokémon,
+creator:viktria,
+creator:zummeng,
+evolution,
+fanart,
+feral,
+filename:chikorita evolutions.png,
+filename:chikorita_evolutions.png,
+flower (anatomy),
+flower_(anatomy),
+game,
+gen 2 pokemon,
+gen 2 pokémon,
+gender:ambiguous,
+group,
+medium:digital media,
+medium:high resolution,
+meganium,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+nintendo,
+patreon id:994694,
+pokemon,
+rating:safe,
+red eyes,
+red_eyes,
+series:nintendo,
+series:pokémon,
+sketch,
+smile,
+source:furaffinity.net,
+species:bayleef,
+species:chikorita,
+species:meganium,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+standing,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"chikorita evolutions" by viktória majzik (zummeng),
+title:chikorita evolutions,
+uploader:torvusil,
+video games,
+video_games,
+year:2019,
+yellow eyes,
+yellow_eyes,

@@ -1,77 +1,77 @@
-1girl
-above clouds
-aerial fireworks
-astronaut
-aurora
-balcony
-building
-category:ine
-chimney
-city
-city lights
-cityscape
-clock tower
-cloud
-cloudy sky
-constellation
-crescent moon
-desert
-dusk
-dust
-earth (planet)
-fireflies
-fireworks
-full moon
-galaxy
-gradient sky
-hill
-horizon
-house
-light particles
-lighthouse
-milky way
-moon
-moonlight
-mountain
-mountainous horizon
-night
-night sky
-orange sky
-planet
-purple sky
-rating:safe
-red moon
-reindeer
-rocket
-scenery
-shooting star
-skirt
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-space
-space craft
-space helmet
-spacesuit
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-sun
-sunrise
-sunset
-tanabata
-tanzaku
-telescope
-title:follow the stingrays by karmen loh
-tower
-twilight
-ufo
-uploader:lol33ta
-window
+1girl,
+above clouds,
+aerial fireworks,
+astronaut,
+aurora,
+balcony,
+building,
+category:ine,
+chimney,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+cloudy sky,
+constellation,
+crescent moon,
+desert,
+dusk,
+dust,
+earth (planet),
+fireflies,
+fireworks,
+full moon,
+galaxy,
+gradient sky,
+hill,
+horizon,
+house,
+light particles,
+lighthouse,
+milky way,
+moon,
+moonlight,
+mountain,
+mountainous horizon,
+night,
+night sky,
+orange sky,
+planet,
+purple sky,
+rating:safe,
+red moon,
+reindeer,
+rocket,
+scenery,
+shooting star,
+skirt,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+space,
+space craft,
+space helmet,
+spacesuit,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+sun,
+sunrise,
+sunset,
+tanabata,
+tanzaku,
+telescope,
+title:follow the stingrays by karmen loh,
+tower,
+twilight,
+ufo,
+uploader:lol33ta,
+window,

@@ -1,58 +1,58 @@
-1 male
-1boy
-artist:tami
-barbed wire
-bird
-booru:yande.re
-category:ine
-chain-link fence
-closed eyes
-copyright:original
-creator:nekoneto
-creator:tami
-creator:たみ。
-eyes closed
-fence
-filename:1423497223838.png
-folder:lamo
-folder:pics
-from above
-gender:male
-green
-green theme
-highres
-ladder
-landscape
-lying
-male focus
-medium:high resolution
-meta:highres
-on back
-overgrown
-pipes
-pixiv
-plant
-potted plant
-rating:safe
-ruins
-rust
-scenery
-series:original
-solo
-species:avian
-stairs
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:abandoned green plant by たみ。
-title:新緑廃工場
-uploader:kedamono1st
-ここに行きたい
-オリジナル
-オリジナル30000users入り
-クリック推奨
-メイキング希望
-俯瞰
-待ってました!
-神々しい美しさ
-立体都市
-風景10000users入り
+1 male,
+1boy,
+artist:tami,
+barbed wire,
+bird,
+booru:yande.re,
+category:ine,
+chain-link fence,
+closed eyes,
+copyright:original,
+creator:nekoneto,
+creator:tami,
+creator:たみ。,
+eyes closed,
+fence,
+filename:1423497223838.png,
+folder:lamo,
+folder:pics,
+from above,
+gender:male,
+green,
+green theme,
+highres,
+ladder,
+landscape,
+lying,
+male focus,
+medium:high resolution,
+meta:highres,
+on back,
+overgrown,
+pipes,
+pixiv,
+plant,
+potted plant,
+rating:safe,
+ruins,
+rust,
+scenery,
+series:original,
+solo,
+species:avian,
+stairs,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:abandoned green plant by たみ。,
+title:新緑廃工場,
+uploader:kedamono1st,
+ここに行きたい,
+オリジナル,
+オリジナル30000users入り,
+クリック推奨,
+メイキング希望,
+俯瞰,
+待ってました!,
+神々しい美しさ,
+立体都市,
+風景10000users入り,

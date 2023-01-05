@@ -1,41 +1,41 @@
-2d
-aesop
-animal
-bare tree
-bird
-branch
-concept
-creator:ismail inceoglu
-environment
-fable
-facing away
-forest
-from behind
-holding
-holding weapon
-illustration
-kid
-lake
-medium:digital 2d
-nature
-night
-outdoors
-rating:safe
-scenery
-sky
-snow
-species:canine
-species:canis
-species:dog
-species:mammal
-species:wolf
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-sword
-tales
-title:the boy who cried wolf
-title:the boy who cried wolf by ismail inceoglu
-tree
-uploader:baba_jaga_ii
-water
-weapon
+2d,
+aesop,
+animal,
+bare tree,
+bird,
+branch,
+concept,
+creator:ismail inceoglu,
+environment,
+fable,
+facing away,
+forest,
+from behind,
+holding,
+holding weapon,
+illustration,
+kid,
+lake,
+medium:digital 2d,
+nature,
+night,
+outdoors,
+rating:safe,
+scenery,
+sky,
+snow,
+species:canine,
+species:canis,
+species:dog,
+species:mammal,
+species:wolf,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+sword,
+tales,
+title:the boy who cried wolf,
+title:the boy who cried wolf by ismail inceoglu,
+tree,
+uploader:baba_jaga_ii,
+water,
+weapon,

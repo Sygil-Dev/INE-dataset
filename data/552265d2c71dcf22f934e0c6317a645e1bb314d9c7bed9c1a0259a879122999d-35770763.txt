@@ -1,50 +1,50 @@
-artist:katruna94
-azure dragon
-azure_dragon
-category:ine
-copyright:heroes
-creator:katruna94
-fan (disambiguation)
-fan_(disambiguation)
-feral
-furry
-game (disambiguation)
-game_(disambiguation)
-heroes might and magic 3
-heroes_might_and_magic_3
-homm
-homm3
-looking at viewer
-looking_at_viewer
-magic
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-medium:simple background
-meta:2020
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-might
-point of view
-pov
-rating:safe
-scale
-scale (disambiguation)
-series:heroes
-simple background
-simple_background
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:lottery prise by katruna94
-tongue
-tongue out
-tongue_out
-uploader:katruna94
-year:2020
+artist:katruna94,
+azure dragon,
+azure_dragon,
+category:ine,
+copyright:heroes,
+creator:katruna94,
+fan (disambiguation),
+fan_(disambiguation),
+feral,
+furry,
+game (disambiguation),
+game_(disambiguation),
+heroes might and magic 3,
+heroes_might_and_magic_3,
+homm,
+homm3,
+looking at viewer,
+looking_at_viewer,
+magic,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+medium:simple background,
+meta:2020,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+might,
+point of view,
+pov,
+rating:safe,
+scale,
+scale (disambiguation),
+series:heroes,
+simple background,
+simple_background,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:lottery prise by katruna94,
+tongue,
+tongue out,
+tongue_out,
+uploader:katruna94,
+year:2020,

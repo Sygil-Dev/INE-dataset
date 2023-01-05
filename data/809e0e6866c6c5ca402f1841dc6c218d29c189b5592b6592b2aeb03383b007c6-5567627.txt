@@ -1,51 +1,51 @@
-1 female
-1 male
-1boy
-1girl
-booru:danbooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-booru:tbib
-category:ine
-character:genji (overwatch)
-character:genji shimada
-character:shimada genji
-character:victor "cyborg" stone
-clothing:scarf
-commentary
-creator:james ghio
-cyborg
-dutch angle
-fighting stance
-fighting_stance
-gender:female
-gender:male
-genji_(overwatch)
-genre:science fiction
-headwear
-helmet
-hydrus invalid tag:"character: genji shimada (overwatch)"
-james_ghio
-katana
-male focus
-medium:focus on male character
-meta:commentary
-meta:english commentary
-ninja
-one knee
-one_knee
-rating:mature
-rating:safe
-scarf
-series:overwatch
-shuriken
-solo
-studio:blizzard entertainment
-subreddit:imaginarygaming
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-sword
-title:genji by jimbobox
-uploader:myrandall
-weapon
+1 female,
+1 male,
+1boy,
+1girl,
+booru:danbooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+booru:tbib,
+category:ine,
+character:genji (overwatch),
+character:genji shimada,
+character:shimada genji,
+character:victor "cyborg" stone,
+clothing:scarf,
+commentary,
+creator:james ghio,
+cyborg,
+dutch angle,
+fighting stance,
+fighting_stance,
+gender:female,
+gender:male,
+genji_(overwatch),
+genre:science fiction,
+headwear,
+helmet,
+hydrus invalid tag:"character: genji shimada (overwatch)",
+james_ghio,
+katana,
+male focus,
+medium:focus on male character,
+meta:commentary,
+meta:english commentary,
+ninja,
+one knee,
+one_knee,
+rating:mature,
+rating:safe,
+scarf,
+series:overwatch,
+shuriken,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginarygaming,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+sword,
+title:genji by jimbobox,
+uploader:myrandall,
+weapon,

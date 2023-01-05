@@ -1,27 +1,27 @@
-black hair
-booru:sankaku channel
-category:ine
-character:wonder woman
-creator:raikoart
-female
-long hair
-medium:artist name
-medium:fanart from deviantart
-medium:realistic
-medium:text
-rating:safe
-series:dc comics
-series:wonder woman
-shield
-solo
-studio:dc comics
-subreddit:imaginarywarriors
-subreddit:imcharacters
-sword
-title:wonder woman
-title:wonder woman by sean tay (raikoart)
-uploader:net-diver
-weapon
-woman
-wonder
-wonderwoman
+black hair,
+booru:sankaku channel,
+category:ine,
+character:wonder woman,
+creator:raikoart,
+female,
+long hair,
+medium:artist name,
+medium:fanart from deviantart,
+medium:realistic,
+medium:text,
+rating:safe,
+series:dc comics,
+series:wonder woman,
+shield,
+solo,
+studio:dc comics,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+sword,
+title:wonder woman,
+title:wonder woman by sean tay (raikoart),
+uploader:net-diver,
+weapon,
+woman,
+wonder,
+wonderwoman,

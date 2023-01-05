@@ -1,45 +1,45 @@
-ambiguous gender
-armor
-booru:e621
-category:ine
-character:ojutai
-claws
-clothing:armor
-cloud
-cloudscape
-creator:zack stella
-falling
-feathered wings
-feathers
-flying
-furry
-gender:ambiguous
-group
-low-angle view
-meta:signature
-mountain
-outside
-rating:safe
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-signature
-size difference
-sky
-soldier
-solo focus
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-spread wings
-standing
-subreddit:imaginarydragons
-subreddit:immonsters
-title:whisk away by zack stella
-uploader:faeryknight
-warrior
-wings
+ambiguous gender,
+armor,
+booru:e621,
+category:ine,
+character:ojutai,
+claws,
+clothing:armor,
+cloud,
+cloudscape,
+creator:zack stella,
+falling,
+feathered wings,
+feathers,
+flying,
+furry,
+gender:ambiguous,
+group,
+low-angle view,
+meta:signature,
+mountain,
+outside,
+rating:safe,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+signature,
+size difference,
+sky,
+soldier,
+solo focus,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+spread wings,
+standing,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:whisk away by zack stella,
+uploader:faeryknight,
+warrior,
+wings,

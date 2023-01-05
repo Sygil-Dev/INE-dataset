@@ -1,26 +1,26 @@
-category:ine
-clouds
-cobalt
-creator:red-izak
-firds
-furry
-intersppieces
-kobalt
-phoenux
-smonia
-source:furaffinity.net
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-star
-subreddit:imaginarydragons
-subreddit:immonsters
-sunrise
-sunset
-title:under the watchful eye
-title:under the watchful eye (by @redizak)
-uploader:delta352448
-uther
+category:ine,
+clouds,
+cobalt,
+creator:red-izak,
+firds,
+furry,
+intersppieces,
+kobalt,
+phoenux,
+smonia,
+source:furaffinity.net,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+star,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sunrise,
+sunset,
+title:under the watchful eye,
+title:under the watchful eye (by @redizak),
+uploader:delta352448,
+uther,

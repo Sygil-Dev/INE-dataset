@@ -1,23 +1,23 @@
-category:ine
-comic
-comic artist
-comic book
-comic book artist
-comics
-cover artist
-creator:david nakayama
-david nakayama
-illyana rasputin
-magik
-marvel
-marvel comics
-medium:digital 2d
-new mutants
-strange academy
-subreddit:imaginarymarvel
-subreddit:imfandoms
-superhero
-superheroes
-title:magik, strange academy 04 by david nakayama
-uploader:lol33ta
-xmen
+category:ine,
+comic,
+comic artist,
+comic book,
+comic book artist,
+comics,
+cover artist,
+creator:david nakayama,
+david nakayama,
+illyana rasputin,
+magik,
+marvel,
+marvel comics,
+medium:digital 2d,
+new mutants,
+strange academy,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+superhero,
+superheroes,
+title:magik, strange academy 04 by david nakayama,
+uploader:lol33ta,
+xmen,

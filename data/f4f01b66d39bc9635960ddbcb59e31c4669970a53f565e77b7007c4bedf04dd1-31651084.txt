@@ -1,41 +1,41 @@
-2019
-ambiguous gender
-ambiguous_gender
-artist:gugu-troll
-category:ine
-creator:gugu-troll
-day
-detailed background
-detailed_background
-digital media (artwork)
-furry
-gender:ambiguous
-horn
-horns
-medium:detailed background
-medium:digital media
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:digital_media_(artwork)
-outside
-rating:safe
-scales
-sky
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-subreddit:imaginarydragons
-subreddit:immonsters
-title:'gilthias, the golden dragon' by marina kleyman, aka gugu-troll
-uploader:jg379
-wings
-year:2019
-yellow body
-yellow scales
-yellow_body
-yellow_scales
+2019,
+ambiguous gender,
+ambiguous_gender,
+artist:gugu-troll,
+category:ine,
+creator:gugu-troll,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+furry,
+gender:ambiguous,
+horn,
+horns,
+medium:detailed background,
+medium:digital media,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:digital_media_(artwork),
+outside,
+rating:safe,
+scales,
+sky,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:'gilthias, the golden dragon' by marina kleyman, aka gugu-troll,
+uploader:jg379,
+wings,
+year:2019,
+yellow body,
+yellow scales,
+yellow_body,
+yellow_scales,

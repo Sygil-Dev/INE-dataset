@@ -1,39 +1,39 @@
-brown eyes
-category:ine
-creator:shadeofshinon
-fiery hair
-fiery tail
-fire
-flaming hair
-full body
-gen 1 pokemon
-gender:female
-horns
-looking at viewer
-medium:transparent background
-meta:commentary
-meta:transparent background
-no humans
-pov
-rating:mature
-rating:safe
-realistic
-series:pokemon (game)
-series:pokémon
-series:pokémon red green blue & yellow
-signature
-solo
-species:equine
-species:mammal
-species:monster
-species:mythical
-species:pokémon
-species:rapidash
-species:unicorn
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-tail
-title:rapidash used flare blitz! by shadeofshinon
-uploader:lol33ta
-year:2016
+brown eyes,
+category:ine,
+creator:shadeofshinon,
+fiery hair,
+fiery tail,
+fire,
+flaming hair,
+full body,
+gen 1 pokemon,
+gender:female,
+horns,
+looking at viewer,
+medium:transparent background,
+meta:commentary,
+meta:transparent background,
+no humans,
+pov,
+rating:mature,
+rating:safe,
+realistic,
+series:pokemon (game),
+series:pokémon,
+series:pokémon red green blue & yellow,
+signature,
+solo,
+species:equine,
+species:mammal,
+species:monster,
+species:mythical,
+species:pokémon,
+species:rapidash,
+species:unicorn,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tail,
+title:rapidash used flare blitz! by shadeofshinon,
+uploader:lol33ta,
+year:2016,

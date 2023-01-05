@@ -1,28 +1,28 @@
-category:ine
-character:shihouin yoruichi
-creator:banned artist
-creator:zumi
-creator:zumi (zumidraws)
-dark skin
-dark-skinned female
-female
-gender:female
-medium:2d art
-medium:artist name
-medium:dated
-medium:signature
-meta:artist name
-meta:commentary
-meta:english commentary
-meta:safe
-meta:signature
-series:bleach
-subreddit:artistic_hentai
-subreddit:bleach_hentai
-subreddit:ecchi
-subreddit:imaginaryboners
-subreddit:imnsfw
-tan lines
-title:yoruichi shihouin (zumi)
-uploader:alimas055
-uploader:mastga
+category:ine,
+character:shihouin yoruichi,
+creator:banned artist,
+creator:zumi,
+creator:zumi (zumidraws),
+dark skin,
+dark-skinned female,
+female,
+gender:female,
+medium:2d art,
+medium:artist name,
+medium:dated,
+medium:signature,
+meta:artist name,
+meta:commentary,
+meta:english commentary,
+meta:safe,
+meta:signature,
+series:bleach,
+subreddit:artistic_hentai,
+subreddit:bleach_hentai,
+subreddit:ecchi,
+subreddit:imaginaryboners,
+subreddit:imnsfw,
+tan lines,
+title:yoruichi shihouin (zumi),
+uploader:alimas055,
+uploader:mastga,

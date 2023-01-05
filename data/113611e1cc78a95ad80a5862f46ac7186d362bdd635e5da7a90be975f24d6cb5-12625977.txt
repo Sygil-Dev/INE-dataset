@@ -1,50 +1,50 @@
-all
-ambiguous gender
-booru:e621
-category:ine
-chinese
-creator:alradeck
-creator:firefeathers
-days
-fallout
-feral
-fish
-for
-furry
-gender:ambiguous
-hope
-horn
-horns
-i
-ish
-like
-lily pad
-lilypads
-lolololololf
-medium:digital media
-medium:high resolution
-meta:digital media (artwork)
-meta:hi res
-my
-noodly
-partially submerged
-rating:safe
-reference
-site:tumblr
-solo
-source:furaffinity.net
-species:dragon
-species:hybrid
-species:lizard
-species:mythical
-species:reptile
-species:scalie
-species:snake
-subreddit:imaginaryleviathans
-subreddit:immonsters
-thing
-title:banner snakes rule by alradeck on deviantart
-title:banner sneks rule
-u
-uploader:124y5t3q4
-water
+all,
+ambiguous gender,
+booru:e621,
+category:ine,
+chinese,
+creator:alradeck,
+creator:firefeathers,
+days,
+fallout,
+feral,
+fish,
+for,
+furry,
+gender:ambiguous,
+hope,
+horn,
+horns,
+i,
+ish,
+like,
+lily pad,
+lilypads,
+lolololololf,
+medium:digital media,
+medium:high resolution,
+meta:digital media (artwork),
+meta:hi res,
+my,
+noodly,
+partially submerged,
+rating:safe,
+reference,
+site:tumblr,
+solo,
+source:furaffinity.net,
+species:dragon,
+species:hybrid,
+species:lizard,
+species:mythical,
+species:reptile,
+species:scalie,
+species:snake,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+thing,
+title:banner snakes rule by alradeck on deviantart,
+title:banner sneks rule,
+u,
+uploader:124y5t3q4,
+water,

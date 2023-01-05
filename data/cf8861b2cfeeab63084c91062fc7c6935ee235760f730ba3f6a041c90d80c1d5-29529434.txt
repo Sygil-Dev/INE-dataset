@@ -1,60 +1,60 @@
-1 female
-1girl
-alternate costume
-alternate headwear
-alternative headwear
-anubis pharah
-backlighting
-black hair
-blue sky
-booru:danbooru
-booru:danbooru-safebooru
-booru:safebooru
-brown eyes
-category:ine
-character:anubis pharah
-character:fareeha "pharah" amari
-character:pharah (overwatch)
-commission
-creator:geirahod
-dark skin
-eye of horus
-facial tattoo
-firearm
-geirahod
-gender:female
-genre:science fiction
-gun
-headwear
-helmet
-holding
-holding gun
-holding object
-holding weapon
-lens flare
-lips
-mechanical wings
-medium:high resolution
-medium:realistic
-medium:signature
-meta:commission
-meta:highres
-meta:signature
-nose
-power armor
-rating:safe
-realistic
-rocket launcher
-series:overwatch
-signature
-sky
-solo
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-sun
-tattoo
-title:pharah anubis by natalie herrera
-uploader:lol33ta
-weapon
-wings
+1 female,
+1girl,
+alternate costume,
+alternate headwear,
+alternative headwear,
+anubis pharah,
+backlighting,
+black hair,
+blue sky,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:safebooru,
+brown eyes,
+category:ine,
+character:anubis pharah,
+character:fareeha "pharah" amari,
+character:pharah (overwatch),
+commission,
+creator:geirahod,
+dark skin,
+eye of horus,
+facial tattoo,
+firearm,
+geirahod,
+gender:female,
+genre:science fiction,
+gun,
+headwear,
+helmet,
+holding,
+holding gun,
+holding object,
+holding weapon,
+lens flare,
+lips,
+mechanical wings,
+medium:high resolution,
+medium:realistic,
+medium:signature,
+meta:commission,
+meta:highres,
+meta:signature,
+nose,
+power armor,
+rating:safe,
+realistic,
+rocket launcher,
+series:overwatch,
+signature,
+sky,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+sun,
+tattoo,
+title:pharah anubis by natalie herrera,
+uploader:lol33ta,
+weapon,
+wings,

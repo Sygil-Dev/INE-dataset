@@ -1,78 +1,78 @@
-ambiguous gender
-black eyes
-booru:e621
-buck teeth
-category:ine
-character:budew
-character:magikarp
-character:pancham
-character:pokemon (creature)
-creator:bluekomadori
-creator:sora23163
-creator:コマドリ
-day
-detailed background
-feral
-fish
-forest
-gen 1 pokemon
-gender:ambiguous
-gender:female
-grass
-group
-landscape
-leaf
-medium:detailed background
-medium:high resolution
-meta:hi res
-nature
-no humans
-open mouth
-outdoors
-outside
-pipe
-pixiv artist id:2124558
-pixiv illust id:49803479
-plant
-pokemon 1000 users bookmark
-pokemon (creature)
-rating:safe
-river
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokémon
-smile
-snout
-species:bear
-species:budew
-species:chespin
-species:elemental creature
-species:fish
-species:flora fauna
-species:magikarp
-species:mammal
-species:marine
-species:monster
-species:pancham
-species:panda
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:ursid
-species:ursine
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-tail
-title:untitled by bluekomadori
-title:ヤンチャム & ハリマロン
-tree
-underwater
-uploader:pkmnart
-video games
-water
-ここに行きたい
-なにこれかわいい
-なにこれ素敵
-ポケットモンスター
+ambiguous gender,
+black eyes,
+booru:e621,
+buck teeth,
+category:ine,
+character:budew,
+character:magikarp,
+character:pancham,
+character:pokemon (creature),
+creator:bluekomadori,
+creator:sora23163,
+creator:コマドリ,
+day,
+detailed background,
+feral,
+fish,
+forest,
+gen 1 pokemon,
+gender:ambiguous,
+gender:female,
+grass,
+group,
+landscape,
+leaf,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+nature,
+no humans,
+open mouth,
+outdoors,
+outside,
+pipe,
+pixiv artist id:2124558,
+pixiv illust id:49803479,
+plant,
+pokemon 1000 users bookmark,
+pokemon (creature),
+rating:safe,
+river,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokémon,
+smile,
+snout,
+species:bear,
+species:budew,
+species:chespin,
+species:elemental creature,
+species:fish,
+species:flora fauna,
+species:magikarp,
+species:mammal,
+species:marine,
+species:monster,
+species:pancham,
+species:panda,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:ursid,
+species:ursine,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tail,
+title:untitled by bluekomadori,
+title:ヤンチャム & ハリマロン,
+tree,
+underwater,
+uploader:pkmnart,
+video games,
+water,
+ここに行きたい,
+なにこれかわいい,
+なにこれ素敵,
+ポケットモンスター,

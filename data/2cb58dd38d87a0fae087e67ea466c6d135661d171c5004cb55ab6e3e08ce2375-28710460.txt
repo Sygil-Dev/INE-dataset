@@ -1,27 +1,27 @@
-1boy
-abs
-bakugou
-booru:sankaku
-character:bakugou katsuki
-creator:sakimi chan
-creator:sakimichan
-gelbooru
-kpop
-male
-male focus
-medium:2d art
-medium:digital 2d
-muscle
-patreon summary
-rating:s
-rating:safe
-series:boku no hero academia
-series:my hero academia
-short hair
-solo
-subreddit:imaginarygayboners
-subreddit:imnsfw
-title:kpop bakugo
-title:kpop bakugo by sakimi chan
-title:term 86 jpg/psd/video summary
-uploader:net-diver
+1boy,
+abs,
+bakugou,
+booru:sankaku,
+character:bakugou katsuki,
+creator:sakimi chan,
+creator:sakimichan,
+gelbooru,
+kpop,
+male,
+male focus,
+medium:2d art,
+medium:digital 2d,
+muscle,
+patreon summary,
+rating:s,
+rating:safe,
+series:boku no hero academia,
+series:my hero academia,
+short hair,
+solo,
+subreddit:imaginarygayboners,
+subreddit:imnsfw,
+title:kpop bakugo,
+title:kpop bakugo by sakimi chan,
+title:term 86 jpg/psd/video summary,
+uploader:net-diver,

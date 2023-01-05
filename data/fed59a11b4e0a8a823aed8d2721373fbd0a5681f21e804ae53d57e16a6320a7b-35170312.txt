@@ -1,42 +1,42 @@
-40k
-category:ine
-character
-characterart
-colour
-complemantary
-creator:luke martins
-creature
-desert
-dust
-environment
-fantasy
-fasta
-fungus
-maps
-medium:digital 2d
-medium:digital 3d
-moon
-orc
-ork
-orkhead
-palette
-pbr
-personalproject
-scifi
-sculpt
-spore
-stars
-stylised
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-substance
-sun
-technique
-teeth
-texture
-theory
-title:(oc) ork head (end of the waagh) uni project
-title:ork: end of the waagh
-uploader:lukemartinsart
-warhammer
-yellow
+40k,
+category:ine,
+character,
+characterart,
+colour,
+complemantary,
+creator:luke martins,
+creature,
+desert,
+dust,
+environment,
+fantasy,
+fasta,
+fungus,
+maps,
+medium:digital 2d,
+medium:digital 3d,
+moon,
+orc,
+ork,
+orkhead,
+palette,
+pbr,
+personalproject,
+scifi,
+sculpt,
+spore,
+stars,
+stylised,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+substance,
+sun,
+technique,
+teeth,
+texture,
+theory,
+title:(oc) ork head (end of the waagh) uni project,
+title:ork: end of the waagh,
+uploader:lukemartinsart,
+warhammer,
+yellow,

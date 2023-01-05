@@ -1,26 +1,26 @@
-1girl
-animal
-artist name
-bridge
-building
-car
-cat
-category:ine
-city
-cloud
-dated
-day
-dress
-grass
-ground vehicle
-motor vehicle
-outdoors
-rating:safe
-scenery
-signature
-sky
-subreddit:imaginaryanimals
-subreddit:imnature
-title:very good trip by mr xerty
-uploader:shadyrick
-white dress
+1girl,
+animal,
+artist name,
+bridge,
+building,
+car,
+cat,
+category:ine,
+city,
+cloud,
+dated,
+day,
+dress,
+grass,
+ground vehicle,
+motor vehicle,
+outdoors,
+rating:safe,
+scenery,
+signature,
+sky,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:very good trip by mr xerty,
+uploader:shadyrick,
+white dress,

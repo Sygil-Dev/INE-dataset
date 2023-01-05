@@ -1,25 +1,25 @@
-5d
-artist:sandara
-category:ine
-creator:sandara
-duo
-feral
-furry
-gender:male
-hair
-male
-medium:digital media
-meta:2020
-meta:digital_media_(artwork)
-meta:hi_res
-rating:safe
-species:dragon
-species:elf
-species:humanoid
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:monarchs by sandara tang
-uploader:lol33ta
-year:2020
+5d,
+artist:sandara,
+category:ine,
+creator:sandara,
+duo,
+feral,
+furry,
+gender:male,
+hair,
+male,
+medium:digital media,
+meta:2020,
+meta:digital_media_(artwork),
+meta:hi_res,
+rating:safe,
+species:dragon,
+species:elf,
+species:humanoid,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:monarchs by sandara tang,
+uploader:lol33ta,
+year:2020,

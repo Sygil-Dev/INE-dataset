@@ -1,55 +1,55 @@
-ambiguous_gender
-artist:foxlett
-black eyes
-black_eyes
-blush
-category:ine
-claws
-copyright:nintendo
-copyright:pokémon
-creator:foxlett
-furry
-gen 1 pokémon
-gender:ambiguous
-horn
-horns
-lying
-medium:video game
-meta:signature
-orange body
-orange_body
-rating:safe
-series:pokémon
-sleeping
-smile
-solo
-sound effects
-sound_effects
-species:dragon
-species:dragonite
-species:mythical
-species:pokémon
-species:pokémon_(species)
-species:scalie
-standing
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:imaginarydragons
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immeta
-subreddit:immonsters
-title:baby dragonite by foxlett
-title:dragonite
-title:dragonite by foxlett
-toe claws
-toe_claws
-tongue
-tongue out
-tongue_out
-uploader:lol33ta
-uploader:mtlgrems
-uploader:myrandall
-video games
-video_games
-zzz
+ambiguous_gender,
+artist:foxlett,
+black eyes,
+black_eyes,
+blush,
+category:ine,
+claws,
+copyright:nintendo,
+copyright:pokémon,
+creator:foxlett,
+furry,
+gen 1 pokémon,
+gender:ambiguous,
+horn,
+horns,
+lying,
+medium:video game,
+meta:signature,
+orange body,
+orange_body,
+rating:safe,
+series:pokémon,
+sleeping,
+smile,
+solo,
+sound effects,
+sound_effects,
+species:dragon,
+species:dragonite,
+species:mythical,
+species:pokémon,
+species:pokémon_(species),
+species:scalie,
+standing,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:imaginarydragons,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immeta,
+subreddit:immonsters,
+title:baby dragonite by foxlett,
+title:dragonite,
+title:dragonite by foxlett,
+toe claws,
+toe_claws,
+tongue,
+tongue out,
+tongue_out,
+uploader:lol33ta,
+uploader:mtlgrems,
+uploader:myrandall,
+video games,
+video_games,
+zzz,

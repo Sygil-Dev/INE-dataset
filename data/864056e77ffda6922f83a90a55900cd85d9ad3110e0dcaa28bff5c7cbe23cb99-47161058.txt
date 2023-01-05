@@ -1,49 +1,49 @@
-2girls
-5boys
-aqua hair
-arm support
-artist name
-auqa hair
-background
-black hair
-blurry
-brown hair
-building
-category:ine
-creator:noba
-creator:pokopem
-creator:のば
-crossed arms
-crossedarms
-depth of field
-eyewear on head
-gun
-hat
-helmet
-indoors
-looking to the side
-multiple boys
-multiple girls
-rating:general
-rifle
-robot
-scenery
-science fiction
-series:original
-sf
-short hair
-skirt
-sleeveless
-species:robot
-storefront
-subreddit:imaginarymerchants
-subreddit:immeta
-sunglasses
-teapot
-title:pawnshop
-title:pawnshop by のば
-trash can
-uploader:sr_myers
-walking
-weapon
-weapon on back
+2girls,
+5boys,
+aqua hair,
+arm support,
+artist name,
+auqa hair,
+background,
+black hair,
+blurry,
+brown hair,
+building,
+category:ine,
+creator:noba,
+creator:pokopem,
+creator:のば,
+crossed arms,
+crossedarms,
+depth of field,
+eyewear on head,
+gun,
+hat,
+helmet,
+indoors,
+looking to the side,
+multiple boys,
+multiple girls,
+rating:general,
+rifle,
+robot,
+scenery,
+science fiction,
+series:original,
+sf,
+short hair,
+skirt,
+sleeveless,
+species:robot,
+storefront,
+subreddit:imaginarymerchants,
+subreddit:immeta,
+sunglasses,
+teapot,
+title:pawnshop,
+title:pawnshop by のば,
+trash can,
+uploader:sr_myers,
+walking,
+weapon,
+weapon on back,

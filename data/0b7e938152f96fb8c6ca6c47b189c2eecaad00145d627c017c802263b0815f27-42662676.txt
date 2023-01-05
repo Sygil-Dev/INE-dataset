@@ -1,37 +1,37 @@
-aurora
-category:ine
-city lights
-clock
-clock tower
-cloud
-constellation
-earth (planet)
-galaxy
-gears
-light particles
-magic circle
-milky way
-moon
-night
-night sky
-no humans
-planet
-rating:safe
-realistic
-roman numeral
-scenery
-science fiction
-shooting star
-sky
-space
-space craft
-star (sky)
-starry background
-starry sky
-starry sky print
-subreddit:imaginaryfuturism
-subreddit:imtechnology
-telescope
-title:big station by julian calle
-tower
-uploader:lol33ta
+aurora,
+category:ine,
+city lights,
+clock,
+clock tower,
+cloud,
+constellation,
+earth (planet),
+galaxy,
+gears,
+light particles,
+magic circle,
+milky way,
+moon,
+night,
+night sky,
+no humans,
+planet,
+rating:safe,
+realistic,
+roman numeral,
+scenery,
+science fiction,
+shooting star,
+sky,
+space,
+space craft,
+star (sky),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginaryfuturism,
+subreddit:imtechnology,
+telescope,
+title:big station by julian calle,
+tower,
+uploader:lol33ta,

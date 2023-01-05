@@ -1,43 +1,43 @@
-battle
-breathing fire
-burning
-campfire
-category:ine
-cloud
-destruction
-dusk
-embers
-evening
-explosion
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-glowing
-gradient sky
-laser
-mecha
-molten rock
-muzzle flash
-orange background
-orange sky
-pyrokinesis
-rating:safe
-red sky
-science fiction
-sparks
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-sun
-sunrise
-sunset
-title:zarathustra by ev shipard
-torch
-twilight
-uploader:carcosian_symposium
-volcano
-weapon
+battle,
+breathing fire,
+burning,
+campfire,
+category:ine,
+cloud,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+glowing,
+gradient sky,
+laser,
+mecha,
+molten rock,
+muzzle flash,
+orange background,
+orange sky,
+pyrokinesis,
+rating:safe,
+red sky,
+science fiction,
+sparks,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+sun,
+sunrise,
+sunset,
+title:zarathustra by ev shipard,
+torch,
+twilight,
+uploader:carcosian_symposium,
+volcano,
+weapon,

@@ -1,39 +1,39 @@
-1 female
-1girl
-blue sky
-building
-category:ine
-city
-cityscape
-clothing:headwear
-cloud
-creator:nagi itsuki
-fantasy
-gender:female
-genre:fantasy
-hat
-medium:high resolution
-meta:commentary request
-meta:highres
-outdoors
-outside
-rating:mature
-rating:safe
-scenery
-series:original
-sky
-solo
-staff
-stairs
-standing
-star (sky)
-starry sky
-stars
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-sunset
-title:夕焼けに沈む街 - the city that sets in the sunset by fuyumikan
-tower
-uploader:sr_myers
-witch
-witch hat
+1 female,
+1girl,
+blue sky,
+building,
+category:ine,
+city,
+cityscape,
+clothing:headwear,
+cloud,
+creator:nagi itsuki,
+fantasy,
+gender:female,
+genre:fantasy,
+hat,
+medium:high resolution,
+meta:commentary request,
+meta:highres,
+outdoors,
+outside,
+rating:mature,
+rating:safe,
+scenery,
+series:original,
+sky,
+solo,
+staff,
+stairs,
+standing,
+star (sky),
+starry sky,
+stars,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+sunset,
+title:夕焼けに沈む街 - the city that sets in the sunset by fuyumikan,
+tower,
+uploader:sr_myers,
+witch,
+witch hat,

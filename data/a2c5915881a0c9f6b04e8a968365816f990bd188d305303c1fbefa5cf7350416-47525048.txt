@@ -1,21 +1,21 @@
-black
-category:ine
-clouds
-filename:1595166042.morghus_1594129386_mirsathia_ifyourefreefa
-frills
-green
-mirsathia
-morghus
-mountains
-rating:general
-scales
-scenery
-species:mythical
-species:wyvern
-subreddit:imaginarydragons
-subreddit:immonsters
-title:if you're free
-title:if you're free... by mirsathia
-uploader:squishybloo
-white
-wings
+black,
+category:ine,
+clouds,
+filename:1595166042.morghus_1594129386_mirsathia_ifyourefreefa,
+frills,
+green,
+mirsathia,
+morghus,
+mountains,
+rating:general,
+scales,
+scenery,
+species:mythical,
+species:wyvern,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:if you're free,
+title:if you're free... by mirsathia,
+uploader:squishybloo,
+white,
+wings,

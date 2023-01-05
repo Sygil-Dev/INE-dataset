@@ -1,63 +1,63 @@
-ambiguous gender
-animal art
-autumn
-bird's-eye view
-black lips
-brown body
-brown eyes
-brown fur
-category:ine
-creator:johanna tarkela
-creator:johis
-depth of field
-detailed background
-duo
-fall
-fallen leaves
-falling leaves
-feral
-floating
-fur
-high-angle view
-lake
-lips
-looking at viewer
-medium:digital 3d
-meta:2018
-meta:digital media (artwork)
-meta:hi res
-multicolored body
-multicolored fur
-nude
-open mouth
-otter
-otters
-partially submerged
-photorealism
-quadruped
-rating:safe
-realistic
-river
-smile
-species:ambient arthropod
-species:ambient insect
-species:arthropod
-species:insect
-species:lutrine
-species:mammal
-species:mustelid
-species:pond skater
-subreddit:imaginaryaww
-subreddit:immeta
-swimming
-teeth
-title:colour splash
-title:colour splash by johanna tarkela
-tongue
-two tone body
-two tone fur
-uploader:wyndcaller
-water
-whiskers
-white body
-white fur
+ambiguous gender,
+animal art,
+autumn,
+bird's-eye view,
+black lips,
+brown body,
+brown eyes,
+brown fur,
+category:ine,
+creator:johanna tarkela,
+creator:johis,
+depth of field,
+detailed background,
+duo,
+fall,
+fallen leaves,
+falling leaves,
+feral,
+floating,
+fur,
+high-angle view,
+lake,
+lips,
+looking at viewer,
+medium:digital 3d,
+meta:2018,
+meta:digital media (artwork),
+meta:hi res,
+multicolored body,
+multicolored fur,
+nude,
+open mouth,
+otter,
+otters,
+partially submerged,
+photorealism,
+quadruped,
+rating:safe,
+realistic,
+river,
+smile,
+species:ambient arthropod,
+species:ambient insect,
+species:arthropod,
+species:insect,
+species:lutrine,
+species:mammal,
+species:mustelid,
+species:pond skater,
+subreddit:imaginaryaww,
+subreddit:immeta,
+swimming,
+teeth,
+title:colour splash,
+title:colour splash by johanna tarkela,
+tongue,
+two tone body,
+two tone fur,
+uploader:wyndcaller,
+water,
+whiskers,
+white body,
+white fur,

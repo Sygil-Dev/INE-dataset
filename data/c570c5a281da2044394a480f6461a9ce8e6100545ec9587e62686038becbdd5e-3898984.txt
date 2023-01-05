@@ -1,57 +1,57 @@
-10s
-architecture
-art:landscape
-artist:k kanehira
-building
-category:ine
-city
-cloud
-copyright:original
-creator:k kanehira
-creator:k,kanehira
-creator:psm021
-dated
-emotion:joy
-filename:35833015.jpg
-floating city
-folder:pics
-genre:fantasy
-kooribata
-laundry pole
-male:0
-medium:artist name
-medium:high resolution
-meta:highres
-meta:sfw
-original 10000 users bookmark
-original character
-pixiv
-pixiv work:35833015
-pot
-rating:safe
-scenery
-series:original
-sky
-stairs
-stall
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:floating ruin (original name 浮遊遺跡を眺めながら) by k,kanehira
-title:浮遊遺跡を眺めながら
-tree
-umbrella
-uploader:zewen_senpai
-window
-year:2013
-ここに行きたい
-そこに生活がある
-オリジナル
-オリジナル10000users入り
-オリジナル50000users入り
-クリック推奨
-ファンタジー
-空中都市
-街
-風景
-風景10000users入り
-風景50000users入り
+10s,
+architecture,
+art:landscape,
+artist:k kanehira,
+building,
+category:ine,
+city,
+cloud,
+copyright:original,
+creator:k kanehira,
+creator:k,kanehira,
+creator:psm021,
+dated,
+emotion:joy,
+filename:35833015.jpg,
+floating city,
+folder:pics,
+genre:fantasy,
+kooribata,
+laundry pole,
+male:0,
+medium:artist name,
+medium:high resolution,
+meta:highres,
+meta:sfw,
+original 10000 users bookmark,
+original character,
+pixiv,
+pixiv work:35833015,
+pot,
+rating:safe,
+scenery,
+series:original,
+sky,
+stairs,
+stall,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:floating ruin (original name 浮遊遺跡を眺めながら) by k,kanehira,
+title:浮遊遺跡を眺めながら,
+tree,
+umbrella,
+uploader:zewen_senpai,
+window,
+year:2013,
+ここに行きたい,
+そこに生活がある,
+オリジナル,
+オリジナル10000users入り,
+オリジナル50000users入り,
+クリック推奨,
+ファンタジー,
+空中都市,
+街,
+風景,
+風景10000users入り,
+風景50000users入り,

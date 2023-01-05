@@ -1,47 +1,47 @@
-anthro
-anthropomorphism
-artist:sandara
-black body
-black fur
-black_body
-black_fur
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-closed eyes
-clothed
-clothing
-creator:sandara
-eyes_closed
-fur
-gender:male
-grey body
-grey fur
-grey_body
-grey_fur
-group
-male
-meta:2020
-meta:digital_media_(artwork)
-meta:hi_res
-paws
-rating:safe
-species:capybara
-species:caviid
-species:lagomorph
-species:leporid
-species:mammal
-species:mouse
-species:murid
-species:murine
-species:mustela
-species:mustelid
-species:musteline
-species:rabbit
-species:rodent
-subreddit:imaginaryaww
-subreddit:immeta
-title:animal character sketches by sandara tang
-uploader:lol33ta
+anthro,
+anthropomorphism,
+artist:sandara,
+black body,
+black fur,
+black_body,
+black_fur,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+closed eyes,
+clothed,
+clothing,
+creator:sandara,
+eyes_closed,
+fur,
+gender:male,
+grey body,
+grey fur,
+grey_body,
+grey_fur,
+group,
+male,
+meta:2020,
+meta:digital_media_(artwork),
+meta:hi_res,
+paws,
+rating:safe,
+species:capybara,
+species:caviid,
+species:lagomorph,
+species:leporid,
+species:mammal,
+species:mouse,
+species:murid,
+species:murine,
+species:mustela,
+species:mustelid,
+species:musteline,
+species:rabbit,
+species:rodent,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:animal character sketches by sandara tang,
+uploader:lol33ta,

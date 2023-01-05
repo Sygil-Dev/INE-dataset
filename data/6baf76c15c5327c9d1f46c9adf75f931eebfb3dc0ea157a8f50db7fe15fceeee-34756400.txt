@@ -1,22 +1,22 @@
-asian
-category:ine
-character design
-cigarettes
-clothing:gloves
-clothing:jacket
-creator:z.w. gu
-gender:female
-glowing
-grass
-guweiz
-japanese
-lights
-medium:digital 2d
-medium:digital media
-rain
-subreddit:imaginarywitches
-subreddit:imcharacters
-title:docks 2
-title:docks 2 by z.w. gu
-uploader:n0laloth
-wet
+asian,
+category:ine,
+character design,
+cigarettes,
+clothing:gloves,
+clothing:jacket,
+creator:z.w. gu,
+gender:female,
+glowing,
+grass,
+guweiz,
+japanese,
+lights,
+medium:digital 2d,
+medium:digital media,
+rain,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+title:docks 2,
+title:docks 2 by z.w. gu,
+uploader:n0laloth,
+wet,

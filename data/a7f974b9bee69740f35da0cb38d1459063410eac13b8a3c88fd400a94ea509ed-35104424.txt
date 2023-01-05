@@ -1,136 +1,136 @@
-1 female
-1girl
-afternoon
-animal
-armor
-armwear
-art
-backlighting
-bangs
-bird (birds)
-black gloves
-blonde
-blonde hair
-blue eyes
-booru:gelbooru
-booru:konachan.com
-booru:sankaku channel
-bow
-cape
-capelet
-category:ine
-character:jean
-character:jean (genshin impact)
-character:jean gunnhildr
-character:jean gunnhildr (genshin impact)
-cleavage
-cleavage cutout
-closed mouth
-clothing:cape
-clothing:legwear
-cloud
-cloud (clouds)
-clouds
-coattails
-creator:raikoart
-creator:sean "raiko" tay
-creator:ライコ
-dandelion
-elbow gloves
-favonius sword (genshin impact)
-female
-floating hair
-flower
-formal
-fringe
-game
-gauntlets
-gender:female
-genshin impact
-genshin_impact
-girl
-gloves
-glowing
-glowing object
-glowing weapon
-grass
-guro
-hair between eyes
-hair bow
-hair ornament
-hair ribbon
-hair tie
-high collar
-holding
-holding object
-holding sword
-holding weapon
-jacket
-jean
-jean (genshin impact)
-jean gunnhildr
-knight
-leaf
-legwear
-lips
-long hair
-looking afar
-looking away
-medium breasts
-medium:1600x900 wallpaper
-medium:backlighting
-medium:digital 2d
-medium:official art
-medium:realistic
-medium:wallpaper
-meta:commission
-meta:official art
-meta:revision
-mihoyo
-outdoors
-outside
-pants
-payot
-plant (plants)
-ponytail
-popped collar
-profile
-rating:general
-rating:questionable
-rating:safe
-realistic
-ribbon
-series:genshin impact
-sheath
-side view
-sidelocks
-single
-site:anime-pictures.net
-skin tight
-skintight
-sky
-solo
-species:avian
-species:bird
-standing
-subreddit:imaginarywarriors
-subreddit:imcharacters
-suit
-sunbeam
-sunlight
-sunset
-sword
-tied hair
-title:jean (genshin impact)
-title:jean the dandelion knight
-title:jean the dandelion knight by sean "raiko" tay
-tree
-tree (trees)
-unsheathing
-uploader:myrandall
-vision (genshin impact)
-weapon
-wide image
-wind
-work_illustration
-仕事絵
+1 female,
+1girl,
+afternoon,
+animal,
+armor,
+armwear,
+art,
+backlighting,
+bangs,
+bird (birds),
+black gloves,
+blonde,
+blonde hair,
+blue eyes,
+booru:gelbooru,
+booru:konachan.com,
+booru:sankaku channel,
+bow,
+cape,
+capelet,
+category:ine,
+character:jean,
+character:jean (genshin impact),
+character:jean gunnhildr,
+character:jean gunnhildr (genshin impact),
+cleavage,
+cleavage cutout,
+closed mouth,
+clothing:cape,
+clothing:legwear,
+cloud,
+cloud (clouds),
+clouds,
+coattails,
+creator:raikoart,
+creator:sean "raiko" tay,
+creator:ライコ,
+dandelion,
+elbow gloves,
+favonius sword (genshin impact),
+female,
+floating hair,
+flower,
+formal,
+fringe,
+game,
+gauntlets,
+gender:female,
+genshin impact,
+genshin_impact,
+girl,
+gloves,
+glowing,
+glowing object,
+glowing weapon,
+grass,
+guro,
+hair between eyes,
+hair bow,
+hair ornament,
+hair ribbon,
+hair tie,
+high collar,
+holding,
+holding object,
+holding sword,
+holding weapon,
+jacket,
+jean,
+jean (genshin impact),
+jean gunnhildr,
+knight,
+leaf,
+legwear,
+lips,
+long hair,
+looking afar,
+looking away,
+medium breasts,
+medium:1600x900 wallpaper,
+medium:backlighting,
+medium:digital 2d,
+medium:official art,
+medium:realistic,
+medium:wallpaper,
+meta:commission,
+meta:official art,
+meta:revision,
+mihoyo,
+outdoors,
+outside,
+pants,
+payot,
+plant (plants),
+ponytail,
+popped collar,
+profile,
+rating:general,
+rating:questionable,
+rating:safe,
+realistic,
+ribbon,
+series:genshin impact,
+sheath,
+side view,
+sidelocks,
+single,
+site:anime-pictures.net,
+skin tight,
+skintight,
+sky,
+solo,
+species:avian,
+species:bird,
+standing,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+suit,
+sunbeam,
+sunlight,
+sunset,
+sword,
+tied hair,
+title:jean (genshin impact),
+title:jean the dandelion knight,
+title:jean the dandelion knight by sean "raiko" tay,
+tree,
+tree (trees),
+unsheathing,
+uploader:myrandall,
+vision (genshin impact),
+weapon,
+wide image,
+wind,
+work_illustration,
+仕事絵,

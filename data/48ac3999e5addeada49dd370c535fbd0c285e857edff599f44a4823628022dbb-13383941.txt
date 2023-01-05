@@ -1,47 +1,47 @@
-2 females
-artist:tida kietsungden
-black hair
-category:ine
-character:eboshi
-character:okkotonushi
-character:san
-character:shishigami (mononoke hime)
-clothing:earrings
-clothing:necklace
-copyright:mononoke hime
-creator:tida kietsungden
-dirt
-earrings
-facepaint
-facial mark
-fur
-gender:female
-genre:fantasy
-jewelry
-long hair
-medium:artist name
-medium:watermark
-medium:web address
-meta:commentary
-meta:english commentary
-multiple females
-multiple girls
-necklace
-rating:safe
-series:mononoke hime
-series:studio ghibli
-species:canine
-species:canis
-species:cervine
-species:deer
-species:mammal
-species:wolf
-studio:studio ghibli
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:princess mononoke by tida k.
-tooth necklace
-tribal
-uploader:myrandall
-water
-watermark
+2 females,
+artist:tida kietsungden,
+black hair,
+category:ine,
+character:eboshi,
+character:okkotonushi,
+character:san,
+character:shishigami (mononoke hime),
+clothing:earrings,
+clothing:necklace,
+copyright:mononoke hime,
+creator:tida kietsungden,
+dirt,
+earrings,
+facepaint,
+facial mark,
+fur,
+gender:female,
+genre:fantasy,
+jewelry,
+long hair,
+medium:artist name,
+medium:watermark,
+medium:web address,
+meta:commentary,
+meta:english commentary,
+multiple females,
+multiple girls,
+necklace,
+rating:safe,
+series:mononoke hime,
+series:studio ghibli,
+species:canine,
+species:canis,
+species:cervine,
+species:deer,
+species:mammal,
+species:wolf,
+studio:studio ghibli,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:princess mononoke by tida k.,
+tooth necklace,
+tribal,
+uploader:myrandall,
+water,
+watermark,

@@ -1,57 +1,57 @@
-2014
-amazing
-ambiguous gender
-blue body
-blue skin
-booru:e621
-bubble
-bubbles
-category:ine
-colored sclera
-cool colors
-creator:kenket
-feathered wings
-feathers
-feral
-furry
-gen 1 pokemon
-gender:ambiguous
-head wings
-horn
-horns
-kelp
-looking up
-medium:traditional media
-meta:2014
-meta:cool colors
-meta:painting (artwork)
-meta:traditional media (artwork)
-painting (artwork)
-pokemon
-purple sclera
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-solo
-source:furaffinity.net
-species:dragon
-species:dragonair
-species:marine
-species:monster
-species:mythical
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:scalie
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:dragonair
-title:dragonair by kenket
-underwater
-uploader:lol33ta
-video games
-water
-wings
-year:2014
+2014,
+amazing,
+ambiguous gender,
+blue body,
+blue skin,
+booru:e621,
+bubble,
+bubbles,
+category:ine,
+colored sclera,
+cool colors,
+creator:kenket,
+feathered wings,
+feathers,
+feral,
+furry,
+gen 1 pokemon,
+gender:ambiguous,
+head wings,
+horn,
+horns,
+kelp,
+looking up,
+medium:traditional media,
+meta:2014,
+meta:cool colors,
+meta:painting (artwork),
+meta:traditional media (artwork),
+painting (artwork),
+pokemon,
+purple sclera,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+solo,
+source:furaffinity.net,
+species:dragon,
+species:dragonair,
+species:marine,
+species:monster,
+species:mythical,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:scalie,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:dragonair,
+title:dragonair by kenket,
+underwater,
+uploader:lol33ta,
+video games,
+water,
+wings,
+year:2014,

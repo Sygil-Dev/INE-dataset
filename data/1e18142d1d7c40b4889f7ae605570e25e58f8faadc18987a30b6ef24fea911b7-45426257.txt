@@ -1,65 +1,65 @@
-alectorfencer
-ambiguous gender
-ambiguous_gender
-anthro
-anthropomorphism
-artist:alectorfencer
-brown body
-brown fur
-brown_body
-brown_fur
-butterfly
-category:ine
-clothed
-clothing
-comic
-creator:alectorfencer
-day
-desert
-detailed background
-detailed_background
-digitalart
-fantasycreature
-feral
-filename:1589227816.alectorfencer_caravan_myre2
-fur
-gender:ambiguous
-gender:male
-graphicnovel
-group
-horn
-horns
-male
-medium:detailed background
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-mount
-myre
-myre2
-outside
-rating:general
-rating:safe
-scales
-sky
-smile
-source:furaffinity.net
-species:bovid
-species:canid
-species:canine
-species:canis
-species:caprine
-species:domestic dog
-species:domestic_dog
-species:goat
-species:mammal
-species:unspecified / any
-species:wolf
-subreddit:imaginaryaww
-subreddit:immeta
-title:myre 2 - wonder
-title:myre 2 - wonder by alectorfencer
-uploader:myrandall
-yria
+alectorfencer,
+ambiguous gender,
+ambiguous_gender,
+anthro,
+anthropomorphism,
+artist:alectorfencer,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+butterfly,
+category:ine,
+clothed,
+clothing,
+comic,
+creator:alectorfencer,
+day,
+desert,
+detailed background,
+detailed_background,
+digitalart,
+fantasycreature,
+feral,
+filename:1589227816.alectorfencer_caravan_myre2,
+fur,
+gender:ambiguous,
+gender:male,
+graphicnovel,
+group,
+horn,
+horns,
+male,
+medium:detailed background,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+mount,
+myre,
+myre2,
+outside,
+rating:general,
+rating:safe,
+scales,
+sky,
+smile,
+source:furaffinity.net,
+species:bovid,
+species:canid,
+species:canine,
+species:canis,
+species:caprine,
+species:domestic dog,
+species:domestic_dog,
+species:goat,
+species:mammal,
+species:unspecified / any,
+species:wolf,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:myre 2 - wonder,
+title:myre 2 - wonder by alectorfencer,
+uploader:myrandall,
+yria,

@@ -1,115 +1,115 @@
-1 female
-1girl
-alternate appearance
-backpack
-bag
-beret
-boat
-booru:yande.re
-boots
-brown eyes
-brown hair
-building
-cardigan
-category:ine
-cellphone
-character:gen 3 pokemon
-character:gen 4 pokemon
-character:gen 8 pokemon
-character:gloria (pokemon)
-character:pokemon character
-character:pokemon species
-character:protagonist (pokemon)
-character:rookidee
-character:rotom
-character:rotom phone
-character:scorbunny
-character:wingull
-character:yamper
-character:yuri (pokemon)
-character:yuuri (pokemon)
-clothing:boots
-clothing:cardigan
-clothing:footwear
-clothing:shoulder bag
-clothing:skirt
-cloud
-creator:swav
-creator:swav-coco
-day
-dock
-female
-flock
-footwear
-gen 3 pokemon
-gen 4 pokemon
-gen 8 pokemon
-gen 8 pokémon
-gender:female
-harbor
-hat
-landscape
-looking afar
-medium:high resolution
-meta:commentary request
-meta:highres
-multiple others
-ocean
-outdoors
-outside
-phone
-pier
-pokemon 1000 users bookmark
-pokemon 5000 users bookmark
-pokemon (creature)
-rating:mature
-rating:questionable
-rating:safe
-rotom phone
-sailboat
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon sword & shield
-series:pokemon sword and shield
-series:pokemon swsh
-series:pokémon
-series:pokémon sword and shield
-short hair
-shoulder bag
-skirt
-sky
-species:monster
-species:pokémon
-species:rotom
-species:scorbunny
-species:wingull
-spire
-stadium
-starter pokemon
-studio:creatures (company)
-studio:creatures inc.
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-tam o' shanter
-title:bc
-title:hulbury city by swav
-uploader:apparitions_
-vehicle
-water
-watercraft
-wide shot
-ここに行きたい
-キャモメ
-バウタウン
-ヒバニー
-ポケットモンスター
-ポケモン
-ポケモン5000users入り
-ポケモン剣盾
-ユウリ(トレーナー)
-風景
+1 female,
+1girl,
+alternate appearance,
+backpack,
+bag,
+beret,
+boat,
+booru:yande.re,
+boots,
+brown eyes,
+brown hair,
+building,
+cardigan,
+category:ine,
+cellphone,
+character:gen 3 pokemon,
+character:gen 4 pokemon,
+character:gen 8 pokemon,
+character:gloria (pokemon),
+character:pokemon character,
+character:pokemon species,
+character:protagonist (pokemon),
+character:rookidee,
+character:rotom,
+character:rotom phone,
+character:scorbunny,
+character:wingull,
+character:yamper,
+character:yuri (pokemon),
+character:yuuri (pokemon),
+clothing:boots,
+clothing:cardigan,
+clothing:footwear,
+clothing:shoulder bag,
+clothing:skirt,
+cloud,
+creator:swav,
+creator:swav-coco,
+day,
+dock,
+female,
+flock,
+footwear,
+gen 3 pokemon,
+gen 4 pokemon,
+gen 8 pokemon,
+gen 8 pokémon,
+gender:female,
+harbor,
+hat,
+landscape,
+looking afar,
+medium:high resolution,
+meta:commentary request,
+meta:highres,
+multiple others,
+ocean,
+outdoors,
+outside,
+phone,
+pier,
+pokemon 1000 users bookmark,
+pokemon 5000 users bookmark,
+pokemon (creature),
+rating:mature,
+rating:questionable,
+rating:safe,
+rotom phone,
+sailboat,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon sword & shield,
+series:pokemon sword and shield,
+series:pokemon swsh,
+series:pokémon,
+series:pokémon sword and shield,
+short hair,
+shoulder bag,
+skirt,
+sky,
+species:monster,
+species:pokémon,
+species:rotom,
+species:scorbunny,
+species:wingull,
+spire,
+stadium,
+starter pokemon,
+studio:creatures (company),
+studio:creatures inc.,
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tam o' shanter,
+title:bc,
+title:hulbury city by swav,
+uploader:apparitions_,
+vehicle,
+water,
+watercraft,
+wide shot,
+ここに行きたい,
+キャモメ,
+バウタウン,
+ヒバニー,
+ポケットモンスター,
+ポケモン,
+ポケモン5000users入り,
+ポケモン剣盾,
+ユウリ(トレーナー),
+風景,

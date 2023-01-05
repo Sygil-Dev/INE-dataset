@@ -1,35 +1,35 @@
-category:ine
-city
-cloud
-cloudy sky
-crescent moon
-fantasy
-full moon
-glowing
-horizon
-lightning
-moon
-moonlight
-mountain
-night
-night sky
-no humans
-outdoors
-planet
-purple sky
-rating:safe
-red moon
-red sky
-scenery
-shooting star
-signature
-sky
-star (sky)
-starry sky
-subreddit:imaginarymonuments
-subreddit:imarchitecture
-sun
-sunset
-title:hedron by caelan stokkermans
-tower
-uploader:sr_myers
+category:ine,
+city,
+cloud,
+cloudy sky,
+crescent moon,
+fantasy,
+full moon,
+glowing,
+horizon,
+lightning,
+moon,
+moonlight,
+mountain,
+night,
+night sky,
+no humans,
+outdoors,
+planet,
+purple sky,
+rating:safe,
+red moon,
+red sky,
+scenery,
+shooting star,
+signature,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginarymonuments,
+subreddit:imarchitecture,
+sun,
+sunset,
+title:hedron by caelan stokkermans,
+tower,
+uploader:sr_myers,

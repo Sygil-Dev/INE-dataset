@@ -1,46 +1,46 @@
-2 tone skin
-alpha channel
-ambiguous gender
-bioluminescence
-bioluminiscence
-black eyes
-blue body
-blue skin
-booru:e621
-category:ine
-creator:shadeofshinon
-fin
-full body
-gen 2 pokemon
-gender:ambiguous
-glowing
-medium:simple background
-medium:transparent background
-medium:white background
-meta:1:1
-meta:alpha channel
-meta:commentary
-no humans
-rating:mature
-rating:safe
-realistic
-series:nintendo
-series:pokémon
-series:pokémon gold silver & crystal
-signature
-simple background
-solo
-species:fish
-species:lanturn
-species:marine
-species:monster
-species:pokémon
-species:pokémon (species)
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:lanturn used confuse ray! by shadeofshinon
-transparent background
-uploader:lol33ta
-video games
-year:2017
+2 tone skin,
+alpha channel,
+ambiguous gender,
+bioluminescence,
+bioluminiscence,
+black eyes,
+blue body,
+blue skin,
+booru:e621,
+category:ine,
+creator:shadeofshinon,
+fin,
+full body,
+gen 2 pokemon,
+gender:ambiguous,
+glowing,
+medium:simple background,
+medium:transparent background,
+medium:white background,
+meta:1:1,
+meta:alpha channel,
+meta:commentary,
+no humans,
+rating:mature,
+rating:safe,
+realistic,
+series:nintendo,
+series:pokémon,
+series:pokémon gold silver & crystal,
+signature,
+simple background,
+solo,
+species:fish,
+species:lanturn,
+species:marine,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:lanturn used confuse ray! by shadeofshinon,
+transparent background,
+uploader:lol33ta,
+video games,
+year:2017,

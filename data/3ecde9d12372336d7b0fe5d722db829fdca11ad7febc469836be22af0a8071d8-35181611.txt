@@ -1,34 +1,34 @@
-3d
-3dsmax
-baked
-baking
-carrier
-category:ine
-creator:dan nguyen
-emmessive
-green
-halo
-lights
-low poly
-lowpoly
-medium:digital 3d
-military
-missiles
-model
-original
-subreddit:imaginaryhalo
-subreddit:imfandoms
-substance painter
-tank
-textured
-textures
-texturing
-title:made my own trooper carrier tank inspired from halo wars
-title:trooper carrier tank
-transport
-transportation
-trooper
-unsc
-uploader:hakuru15
-vehicle
-weapons
+3d,
+3dsmax,
+baked,
+baking,
+carrier,
+category:ine,
+creator:dan nguyen,
+emmessive,
+green,
+halo,
+lights,
+low poly,
+lowpoly,
+medium:digital 3d,
+military,
+missiles,
+model,
+original,
+subreddit:imaginaryhalo,
+subreddit:imfandoms,
+substance painter,
+tank,
+textured,
+textures,
+texturing,
+title:made my own trooper carrier tank inspired from halo wars,
+title:trooper carrier tank,
+transport,
+transportation,
+trooper,
+unsc,
+uploader:hakuru15,
+vehicle,
+weapons,

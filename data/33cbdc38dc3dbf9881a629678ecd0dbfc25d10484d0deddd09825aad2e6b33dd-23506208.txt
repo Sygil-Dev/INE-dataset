@@ -1,132 +1,132 @@
-1 female
-1girl
-ambiguous_gender
-artist:flyaspring4
-backlighting
-bioluminescence
-biped
-blue
-blue body
-blue glow
-blue theme
-blue_body
-blue_glow
-booru:danbooru
-booru:danbooru-safebooru
-booru:e621
-booru:gelbooru
-booru:safebooru
-bottomwear
-bubble
-category:ine
-cave
-character:haruka (pokemon)
-character:haruka (pokémon)
-character:kyogre
-character:manectric
-character:may (pokemon)
-character:may (pokémon)
-character:may_(pokémon)
-character:pokemon character
-character:primal kyogre
-character:protagonist (pokemon)
-clothed
-clothing
-clothing:hair ribbon
-clothing:legwear
-clothing:ribbon
-clothing:shorts
-clothing:tank top
-contrast
-copyright:nintendo
-copyright:pokémon
-creator:flyaspring4
-creatures (company)
-crystal
-dark
-detailed_background
-facing each other
-facing_each_other
-fanny pack
-female
-feral
-floating
-footwear
-fully clothed
-fully_clothed
-gen 3 pokemon
-gender:ambiguous
-gender:female
-glowing
-group
-hair ribbon
-indoors
-inside
-legendary pokemon
-light
-lighting
-looking at another
-looking_at_another
-medium:detailed background
-medium:high resolution
-medium:video game
-meta:4:3
-meta:hi_res
-meta:highres
-meta:shaded
-poke ball
-pokemon (creature)
-poké ball
-quadruped
-raining
-rating:mature
-rating:safe
-ribbon
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon oras
-series:pokémon
-series:pokémon omega ruby & alpha sapphire
-shadow
-shirt
-shoes
-short hair
-shorts
-shorts under shorts
-signature
-silhouette
-size difference
-size_difference
-species:human
-species:kyogre
-species:legendary pokémon
-species:mammal
-species:manectric
-species:monster
-species:pokémon
-species:pokémon_(species)
-species:primal kyogre
-species:primal reversion
-species:primal_kyogre
-species:primal_reversion
-species:primate
-standing
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-tank top
-tank_top
-title:primal kyogre by ふりゃ
-topwear
-uploader:pkmnart
-video games
-video_games
-yellow body
-yellow glow
-yellow_body
-yellow_glow
+1 female,
+1girl,
+ambiguous_gender,
+artist:flyaspring4,
+backlighting,
+bioluminescence,
+biped,
+blue,
+blue body,
+blue glow,
+blue theme,
+blue_body,
+blue_glow,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:e621,
+booru:gelbooru,
+booru:safebooru,
+bottomwear,
+bubble,
+category:ine,
+cave,
+character:haruka (pokemon),
+character:haruka (pokémon),
+character:kyogre,
+character:manectric,
+character:may (pokemon),
+character:may (pokémon),
+character:may_(pokémon),
+character:pokemon character,
+character:primal kyogre,
+character:protagonist (pokemon),
+clothed,
+clothing,
+clothing:hair ribbon,
+clothing:legwear,
+clothing:ribbon,
+clothing:shorts,
+clothing:tank top,
+contrast,
+copyright:nintendo,
+copyright:pokémon,
+creator:flyaspring4,
+creatures (company),
+crystal,
+dark,
+detailed_background,
+facing each other,
+facing_each_other,
+fanny pack,
+female,
+feral,
+floating,
+footwear,
+fully clothed,
+fully_clothed,
+gen 3 pokemon,
+gender:ambiguous,
+gender:female,
+glowing,
+group,
+hair ribbon,
+indoors,
+inside,
+legendary pokemon,
+light,
+lighting,
+looking at another,
+looking_at_another,
+medium:detailed background,
+medium:high resolution,
+medium:video game,
+meta:4:3,
+meta:hi_res,
+meta:highres,
+meta:shaded,
+poke ball,
+pokemon (creature),
+poké ball,
+quadruped,
+raining,
+rating:mature,
+rating:safe,
+ribbon,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon oras,
+series:pokémon,
+series:pokémon omega ruby & alpha sapphire,
+shadow,
+shirt,
+shoes,
+short hair,
+shorts,
+shorts under shorts,
+signature,
+silhouette,
+size difference,
+size_difference,
+species:human,
+species:kyogre,
+species:legendary pokémon,
+species:mammal,
+species:manectric,
+species:monster,
+species:pokémon,
+species:pokémon_(species),
+species:primal kyogre,
+species:primal reversion,
+species:primal_kyogre,
+species:primal_reversion,
+species:primate,
+standing,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tank top,
+tank_top,
+title:primal kyogre by ふりゃ,
+topwear,
+uploader:pkmnart,
+video games,
+video_games,
+yellow body,
+yellow glow,
+yellow_body,
+yellow_glow,

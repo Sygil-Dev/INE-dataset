@@ -1,86 +1,86 @@
-3 fingers
-ambiguous gender
-ambiguous_gender
-angry
-artist:tessy
-black sclera
-booru:e621
-category:ine
-character:gen 3 pokemon
-chinese dragon
-claws
-colored sclera
-copyright:nintendo
-copyright:pokémon
-creator:riza4828
-creator:tesshii (riza4828)
-creator:tessy
-creator:テッシー
-creator:テッシー(tessy)
-dragon tail
-earth
-fangs
-feral
-flying
-furry
-gender:ambiguous
-gender:female
-green body
-green dragon
-green scales
-green_body
-horns
-markings
-medium:high resolution
-meta:2019
-meta:hi res
-meta:hi_res
-no humans
-open mouth
-open_mouth
-pixiv illust id:75525301
-planet
-rating:safe
-red markings
-series:asian mythology
-series:east asian mythology
-series:mythology
-series:nintendo
-series:pokémon
-series:pokémon ruby sapphire & emerald
-sky
-solo
-space
-species:dragon
-species:eastern dragon
-species:legendary pokémon
-species:legendary_pokémon
-species:monster
-species:mythical
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:rayquaza
-species:scalie
-star
-star (sky)
-studio:creatures inc.
-studio:game freak
-studio:nintendo
-studio:starry sky
-subreddit:imaginarykanto
-subreddit:imfandoms
-tail
-title:rayquaza by tessy
-title:レックウザ
-tongue
-uploader:mattonyx
-video games
-video_games
-yellow eyes
-yellow markings
-yellow_eyes
-ドラゴンタイプ
-ポケモン
-ポケモン1000users入り
-レックウザ
+3 fingers,
+ambiguous gender,
+ambiguous_gender,
+angry,
+artist:tessy,
+black sclera,
+booru:e621,
+category:ine,
+character:gen 3 pokemon,
+chinese dragon,
+claws,
+colored sclera,
+copyright:nintendo,
+copyright:pokémon,
+creator:riza4828,
+creator:tesshii (riza4828),
+creator:tessy,
+creator:テッシー,
+creator:テッシー(tessy),
+dragon tail,
+earth,
+fangs,
+feral,
+flying,
+furry,
+gender:ambiguous,
+gender:female,
+green body,
+green dragon,
+green scales,
+green_body,
+horns,
+markings,
+medium:high resolution,
+meta:2019,
+meta:hi res,
+meta:hi_res,
+no humans,
+open mouth,
+open_mouth,
+pixiv illust id:75525301,
+planet,
+rating:safe,
+red markings,
+series:asian mythology,
+series:east asian mythology,
+series:mythology,
+series:nintendo,
+series:pokémon,
+series:pokémon ruby sapphire & emerald,
+sky,
+solo,
+space,
+species:dragon,
+species:eastern dragon,
+species:legendary pokémon,
+species:legendary_pokémon,
+species:monster,
+species:mythical,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:rayquaza,
+species:scalie,
+star,
+star (sky),
+studio:creatures inc.,
+studio:game freak,
+studio:nintendo,
+studio:starry sky,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tail,
+title:rayquaza by tessy,
+title:レックウザ,
+tongue,
+uploader:mattonyx,
+video games,
+video_games,
+yellow eyes,
+yellow markings,
+yellow_eyes,
+ドラゴンタイプ,
+ポケモン,
+ポケモン1000users入り,
+レックウザ,

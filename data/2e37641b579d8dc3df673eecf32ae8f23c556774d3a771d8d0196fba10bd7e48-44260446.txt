@@ -1,42 +1,42 @@
-1 female
-bangs
-book
-book stack
-bookshelf
-brown skirt
-category:ine
-creator:denki
-garrison cap
-gender:female
-green eyes
-green hair
-grey jacket
-headphones
-hood
-hood down
-hooded jacket
-indoors
-inside
-jacket
-lamp
-long sleeves
-looking away
-meta:commentary request
-open clothes
-open jacket
-parted lips
-pleated skirt
-rating:safe
-series:original
-shirt
-skirt
-sleeves folded up
-solo
-standing
-subreddit:imaginarylibraries
-subreddit:imarchitecture
-title:bookstore by 電鬼
-uploader:vecttor
-watch
-white shirt
-wristwatch
+1 female,
+bangs,
+book,
+book stack,
+bookshelf,
+brown skirt,
+category:ine,
+creator:denki,
+garrison cap,
+gender:female,
+green eyes,
+green hair,
+grey jacket,
+headphones,
+hood,
+hood down,
+hooded jacket,
+indoors,
+inside,
+jacket,
+lamp,
+long sleeves,
+looking away,
+meta:commentary request,
+open clothes,
+open jacket,
+parted lips,
+pleated skirt,
+rating:safe,
+series:original,
+shirt,
+skirt,
+sleeves folded up,
+solo,
+standing,
+subreddit:imaginarylibraries,
+subreddit:imarchitecture,
+title:bookstore by 電鬼,
+uploader:vecttor,
+watch,
+white shirt,
+wristwatch,

@@ -1,29 +1,29 @@
-1girl
-black footwear
-black hair
-cat tail
-category:ine
-demon girl
-demon horns
-demon tail
-ear piercing
-earrings
-full body
-hand on own face
-head rest
-horns
-jewelry
-piercing
-rating:safe
-realistic
-sitting
-solo
-subreddit:imaginaryassassins
-subreddit:imaginarybestof
-subreddit:imcharacters
-tail
-title:[/r/imaginaryassassins] tiefling by wren hunter
-title:tiefling - wren hunter
-uploader:killashard
-uploader:lol33ta
-yellow eyes
+1girl,
+black footwear,
+black hair,
+cat tail,
+category:ine,
+demon girl,
+demon horns,
+demon tail,
+ear piercing,
+earrings,
+full body,
+hand on own face,
+head rest,
+horns,
+jewelry,
+piercing,
+rating:safe,
+realistic,
+sitting,
+solo,
+subreddit:imaginaryassassins,
+subreddit:imaginarybestof,
+subreddit:imcharacters,
+tail,
+title:[/r/imaginaryassassins] tiefling by wren hunter,
+title:tiefling - wren hunter,
+uploader:killashard,
+uploader:lol33ta,
+yellow eyes,

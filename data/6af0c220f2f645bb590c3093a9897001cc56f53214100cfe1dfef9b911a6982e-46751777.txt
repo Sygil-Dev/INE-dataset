@@ -1,84 +1,84 @@
-1boy
-armor
-arrow (projectile)
-arrow in arm
-arrow in armor
-arrow in body
-arrow in leg
-banner
-battle
-battlefield
-blood
-blood on clothes
-blood splatter
-bloody clothes
-bodies
-booru:sankaku
-broken armor
-category:ine
-clothing
-cloud
-cloudy sky
-creator:shadman
-death
-dual wielding
-epic
-field of blades
-flag
-glowing
-glowing eyes
-headwear
-helm
-helmet
-holding
-holding sword
-holding weapon
-japanese armor
-kabuto
-kabuto (helmet)
-katana
-kote
-kusazuri
-lightning
-looking at viewer
-male
-mask
-medium:high resolution
-medium:pov
-meta:commentary
-meta:highres
-mouth mask
-multicolored
-multicolored sky
-partially submerged
-planted
-planted sword
-planted weapon
-pointing sword
-pointing weapon
-pov
-rain
-rating:s
-rating:safe
-ripples
-samurai
-samurai armor
-sashimono
-series:original
-shikoro
-shoulder armor
-sky
-sode
-standing
-subreddit:imaginarycarnage
-subreddit:imnsfw
-sword
-thunder
-title:die for honor by shadbase
-torn clothes
-torn flag
-uploader:mentlegentlemen098
-wading
-war
-weapon
-yellow eyes
+1boy,
+armor,
+arrow (projectile),
+arrow in arm,
+arrow in armor,
+arrow in body,
+arrow in leg,
+banner,
+battle,
+battlefield,
+blood,
+blood on clothes,
+blood splatter,
+bloody clothes,
+bodies,
+booru:sankaku,
+broken armor,
+category:ine,
+clothing,
+cloud,
+cloudy sky,
+creator:shadman,
+death,
+dual wielding,
+epic,
+field of blades,
+flag,
+glowing,
+glowing eyes,
+headwear,
+helm,
+helmet,
+holding,
+holding sword,
+holding weapon,
+japanese armor,
+kabuto,
+kabuto (helmet),
+katana,
+kote,
+kusazuri,
+lightning,
+looking at viewer,
+male,
+mask,
+medium:high resolution,
+medium:pov,
+meta:commentary,
+meta:highres,
+mouth mask,
+multicolored,
+multicolored sky,
+partially submerged,
+planted,
+planted sword,
+planted weapon,
+pointing sword,
+pointing weapon,
+pov,
+rain,
+rating:s,
+rating:safe,
+ripples,
+samurai,
+samurai armor,
+sashimono,
+series:original,
+shikoro,
+shoulder armor,
+sky,
+sode,
+standing,
+subreddit:imaginarycarnage,
+subreddit:imnsfw,
+sword,
+thunder,
+title:die for honor by shadbase,
+torn clothes,
+torn flag,
+uploader:mentlegentlemen098,
+wading,
+war,
+weapon,
+yellow eyes,

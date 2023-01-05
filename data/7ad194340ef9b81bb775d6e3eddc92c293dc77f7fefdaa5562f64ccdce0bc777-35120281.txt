@@ -1,55 +1,55 @@
-2020
-animal
-animals
-artist:pechschwinge
-category:ine
-creator:pechschwinge
-dasschwarzeauge
-detailed background
-detailed_background
-digital media (artwork)
-elephantid
-feral
-gender:male
-glowing
-glowing eyes
-glowing_eyes
-grey hair
-grey_hair
-hair
-hi res
-loli
-lolicon
-lolita
-male
-mammoth
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-night
-outside
-pechschwinge
-proboscidean
-rating:safe
-snow
-solo
-species:elephantid
-species:extinct
-species:mammal
-species:mammoth
-species:proboscidean
-subreddit:imaginaryanimals
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-subreddit:imnature
-thedarkeye
-title:naturu gon
-title:naturu gon by nadine schäkel
-uploader:net-diver
-winter
-year:2020
+2020,
+animal,
+animals,
+artist:pechschwinge,
+category:ine,
+creator:pechschwinge,
+dasschwarzeauge,
+detailed background,
+detailed_background,
+digital media (artwork),
+elephantid,
+feral,
+gender:male,
+glowing,
+glowing eyes,
+glowing_eyes,
+grey hair,
+grey_hair,
+hair,
+hi res,
+loli,
+lolicon,
+lolita,
+male,
+mammoth,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+night,
+outside,
+pechschwinge,
+proboscidean,
+rating:safe,
+snow,
+solo,
+species:elephantid,
+species:extinct,
+species:mammal,
+species:mammoth,
+species:proboscidean,
+subreddit:imaginaryanimals,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+subreddit:imnature,
+thedarkeye,
+title:naturu gon,
+title:naturu gon by nadine schäkel,
+uploader:net-diver,
+winter,
+year:2020,

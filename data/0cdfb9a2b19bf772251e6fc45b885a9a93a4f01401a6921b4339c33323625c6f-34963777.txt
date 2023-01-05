@@ -1,26 +1,26 @@
-blue sky
-book
-category:ine
-cloud
-day
-floating
-floating book
-floating object
-hat
-holding book
-magic
-night
-night sky
-no humans
-open book
-outdoors
-rating:safe
-reading
-sky
-star (sky)
-starry sky
-subreddit:imaginarybooks
-subreddit:immeta
-title:books by tim kaminski
-uploader:myrandall
-witch hat
+blue sky,
+book,
+category:ine,
+cloud,
+day,
+floating,
+floating book,
+floating object,
+hat,
+holding book,
+magic,
+night,
+night sky,
+no humans,
+open book,
+outdoors,
+rating:safe,
+reading,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginarybooks,
+subreddit:immeta,
+title:books by tim kaminski,
+uploader:myrandall,
+witch hat,

@@ -1,29 +1,29 @@
-4girls
-barefoot
-black hair
-braid
-category:ine
-closed eyes
-dark skin
-dark-skinned female
-dress
-hair bun
-hair ornament
-hairlocs
-holding instrument
-instrument
-jewelry
-long hair
-multiple girls
-music
-necklace
-plant
-playing instrument
-rating:safe
-smile
-standing
-subreddit:imaginaryfashion
-subreddit:immeta
-tanabata
-title:southeast asia by caleb
-uploader:jetamors
+4girls,
+barefoot,
+black hair,
+braid,
+category:ine,
+closed eyes,
+dark skin,
+dark-skinned female,
+dress,
+hair bun,
+hair ornament,
+hairlocs,
+holding instrument,
+instrument,
+jewelry,
+long hair,
+multiple girls,
+music,
+necklace,
+plant,
+playing instrument,
+rating:safe,
+smile,
+standing,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+tanabata,
+title:southeast asia by caleb,
+uploader:jetamors,

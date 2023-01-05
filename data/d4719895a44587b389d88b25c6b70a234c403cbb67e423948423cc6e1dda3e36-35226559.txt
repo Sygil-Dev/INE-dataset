@@ -1,30 +1,30 @@
-animated
-animation
-bioluminiscence
-category:ine
-crate
-creator:mariano moya barroso
-creepy
-eldritch
-flashlight
-glow
-hide
-hiding
-horror
-human
-kid
-limbs
-lovecraft
-male
-medium:digital 3d
-monster
-nightmare
-office
-pipe
-shelving
-subreddit:imaginaryhorrors
-subreddit:immonsters
-tentacle
-terror
-title:involuntary evolution 3
-uploader:kote09
+animated,
+animation,
+bioluminiscence,
+category:ine,
+crate,
+creator:mariano moya barroso,
+creepy,
+eldritch,
+flashlight,
+glow,
+hide,
+hiding,
+horror,
+human,
+kid,
+limbs,
+lovecraft,
+male,
+medium:digital 3d,
+monster,
+nightmare,
+office,
+pipe,
+shelving,
+subreddit:imaginaryhorrors,
+subreddit:immonsters,
+tentacle,
+terror,
+title:involuntary evolution 3,
+uploader:kote09,

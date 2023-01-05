@@ -1,58 +1,58 @@
-amber eyes
-amber_eyes
-artist:sandara
-being watched
-being_watched
-building
-category:ine
-city
-claws
-clothed
-clothing
-clothing:tagme
-cloud
-creator:sandara
-day
-detailed_background
-duo
-duo focus
-duo_focus
-female
-feral
-furry
-group
-horn
-horns
-looking at another
-looking_at_another
-male
-medium:detailed background
-medium:digital media
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:digital_media_(artwork)
-meta:signature
-outside
-rating:safe
-scales
-signature
-sky
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-species:western dragon
-species:western_dragon
-spines
-subreddit:imaginarydragons
-subreddit:immonsters
-title:homecoming
-title:homecoming by sandara tang
-uploader:myrandall
-wings
-year:2019
+amber eyes,
+amber_eyes,
+artist:sandara,
+being watched,
+being_watched,
+building,
+category:ine,
+city,
+claws,
+clothed,
+clothing,
+clothing:tagme,
+cloud,
+creator:sandara,
+day,
+detailed_background,
+duo,
+duo focus,
+duo_focus,
+female,
+feral,
+furry,
+group,
+horn,
+horns,
+looking at another,
+looking_at_another,
+male,
+medium:detailed background,
+medium:digital media,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:digital_media_(artwork),
+meta:signature,
+outside,
+rating:safe,
+scales,
+signature,
+sky,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+spines,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:homecoming,
+title:homecoming by sandara tang,
+uploader:myrandall,
+wings,
+year:2019,

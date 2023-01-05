@@ -1,26 +1,26 @@
-badass
-badasscharacter
-cardgameart
-category:ine
-characterdesign
-characterillustration
-characterportrait
-commander
-creator:gega datunashvili
-digitalart
-digitalillustration
-digitalpainting
-fantasyart
-fantasycharacter
-fantasyillustration
-knight
-medium:digital 2d
-portraitpainting
-subreddit:imaginaryknights
-subreddit:imcharacters
-tabletopgame
-tabletopgameart
-title:"king" mustav
-title:"king" mustav art by gega datunashvili
-uploader:racconccity
-warlord
+badass,
+badasscharacter,
+cardgameart,
+category:ine,
+characterdesign,
+characterillustration,
+characterportrait,
+commander,
+creator:gega datunashvili,
+digitalart,
+digitalillustration,
+digitalpainting,
+fantasyart,
+fantasycharacter,
+fantasyillustration,
+knight,
+medium:digital 2d,
+portraitpainting,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+tabletopgame,
+tabletopgameart,
+title:"king" mustav,
+title:"king" mustav art by gega datunashvili,
+uploader:racconccity,
+warlord,

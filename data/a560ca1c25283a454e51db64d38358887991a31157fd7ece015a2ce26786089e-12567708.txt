@@ -1,91 +1,91 @@
-1 female
-1girl
-alternate hairstyle
-aqua eyes
-aqua hair
-arm tattoo
-arm_tattoo
-armband
-artist:johnson ting
-bandage
-bandaid
-bandaid on face
-bandaid_on_face
-boots
-brown gloves
-category:ine
-character:bulma brief
-choker
-cigarette
-clothing:boots
-clothing:choker
-clothing:footwear
-clothing:gloves
-clothing:hair clip
-clothing:hair ornament
-clothing:legwear
-clothing:shirt
-clothing:shorts
-clothing:t-shirt
-commentary
-copyright:dragon ball (classic)
-creator:johnson ting
-dragon ball (object)
-dragon_ball
-dragon_ball_(object)
-firearm
-footwear
-full body
-futuristic
-gender:female
-gloves
-goggles
-goggles around neck
-goggles_around_neck
-ground vehicle
-ground_vehicle
-hair down
-hair ornament
-hair_down
-handgun
-holster
-johnson_ting
-knee boots
-leg tattoo
-leg_tattoo
-legwear
-lips
-looking at viewer
-medium:digital media
-medium:high resolution
-meta:commentary
-meta:english commentary
-meta:highres
-motor vehicle
-motor_vehicle
-motorcycle
-multicolored hair
-nose
-on motorcycle
-pistol
-pov
-rating:mature
-rating:safe
-series:dragon ball
-series:dragon ball (classic)
-shirt
-short shorts
-shorts
-smoking
-solo
-streaked hair
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-t-shirt
-tattoo
-thigh holster
-thigh_holster
-title:bulma by johnson ting
-uploader:merigemini
-vehicle
-weapon
+1 female,
+1girl,
+alternate hairstyle,
+aqua eyes,
+aqua hair,
+arm tattoo,
+arm_tattoo,
+armband,
+artist:johnson ting,
+bandage,
+bandaid,
+bandaid on face,
+bandaid_on_face,
+boots,
+brown gloves,
+category:ine,
+character:bulma brief,
+choker,
+cigarette,
+clothing:boots,
+clothing:choker,
+clothing:footwear,
+clothing:gloves,
+clothing:hair clip,
+clothing:hair ornament,
+clothing:legwear,
+clothing:shirt,
+clothing:shorts,
+clothing:t-shirt,
+commentary,
+copyright:dragon ball (classic),
+creator:johnson ting,
+dragon ball (object),
+dragon_ball,
+dragon_ball_(object),
+firearm,
+footwear,
+full body,
+futuristic,
+gender:female,
+gloves,
+goggles,
+goggles around neck,
+goggles_around_neck,
+ground vehicle,
+ground_vehicle,
+hair down,
+hair ornament,
+hair_down,
+handgun,
+holster,
+johnson_ting,
+knee boots,
+leg tattoo,
+leg_tattoo,
+legwear,
+lips,
+looking at viewer,
+medium:digital media,
+medium:high resolution,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+motor vehicle,
+motor_vehicle,
+motorcycle,
+multicolored hair,
+nose,
+on motorcycle,
+pistol,
+pov,
+rating:mature,
+rating:safe,
+series:dragon ball,
+series:dragon ball (classic),
+shirt,
+short shorts,
+shorts,
+smoking,
+solo,
+streaked hair,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+t-shirt,
+tattoo,
+thigh holster,
+thigh_holster,
+title:bulma by johnson ting,
+uploader:merigemini,
+vehicle,
+weapon,

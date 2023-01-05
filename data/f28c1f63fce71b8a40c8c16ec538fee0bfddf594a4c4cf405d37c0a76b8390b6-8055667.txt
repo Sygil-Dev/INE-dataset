@@ -1,64 +1,64 @@
-3 fingers
-ambiguous gender
-anthropomorphism
-bakawasima
-booru:e621
-category:ine
-claws
-creator:bakawasima
-creator:p3i2
-creator:pippi (pixiv 1922055)
-creator:ぴっぴ＠春コミ東2ム11a
-detailed background
-feral
-fingers
-forest
-furry
-gender:ambiguous
-grass
-leaf
-light
-medium:detailed background
-mega evolution
-meta:2016
-meta:digital media (artwork)
-meta:digital painting (artwork)
-nature
-outside
-page:3
-pixiv artist id:1922055
-pixiv id:1922055
-pixiv illust id:55156177
-pixiv illustration:55156177
-plant
-pokemon 5000 users bookmark
-rating:safe
-reptile
-scalie
-series:nintendo
-series:pokemon
-series:pokémon
-solo
-species:mega evolution
-species:mega sceptile
-species:monster
-species:pokemon
-species:pokémon (species)
-species:reptile
-species:scalie
-species:sceptile
-standing
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-sunlight
-title:untitled by ぴっぴ
-title:ポケモンまとめ3
-tree
-uploader:pkmnart
-video games
-yellow eyes
-ここに行きたい
-なにこれ素敵
-ふつくしい
-ハイセンス
+3 fingers,
+ambiguous gender,
+anthropomorphism,
+bakawasima,
+booru:e621,
+category:ine,
+claws,
+creator:bakawasima,
+creator:p3i2,
+creator:pippi (pixiv 1922055),
+creator:ぴっぴ＠春コミ東2ム11a,
+detailed background,
+feral,
+fingers,
+forest,
+furry,
+gender:ambiguous,
+grass,
+leaf,
+light,
+medium:detailed background,
+mega evolution,
+meta:2016,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+nature,
+outside,
+page:3,
+pixiv artist id:1922055,
+pixiv id:1922055,
+pixiv illust id:55156177,
+pixiv illustration:55156177,
+plant,
+pokemon 5000 users bookmark,
+rating:safe,
+reptile,
+scalie,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+solo,
+species:mega evolution,
+species:mega sceptile,
+species:monster,
+species:pokemon,
+species:pokémon (species),
+species:reptile,
+species:scalie,
+species:sceptile,
+standing,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sunlight,
+title:untitled by ぴっぴ,
+title:ポケモンまとめ3,
+tree,
+uploader:pkmnart,
+video games,
+yellow eyes,
+ここに行きたい,
+なにこれ素敵,
+ふつくしい,
+ハイセンス,

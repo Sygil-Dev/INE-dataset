@@ -1,35 +1,35 @@
-artist:bjpentecost
-bjp
-category:ine
-creator:bjpentecost
-creator:silverone
-creature
-critter
-cute
-day
-detailed background
-detailed_background
-duo
-forest
-fur
-gog
-grass
-medium:detailed background
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-outside
-plant
-rating:safe
-source:furaffinity.net
-species:fish
-species:lutrine
-species:mammal
-species:marine
-species:mustelid
-subreddit:imaginaryanimals
-subreddit:imnature
-title:horned river gog
-title:horned river gog by b. j. pentecost
-tree
-uploader:myrandall
+artist:bjpentecost,
+bjp,
+category:ine,
+creator:bjpentecost,
+creator:silverone,
+creature,
+critter,
+cute,
+day,
+detailed background,
+detailed_background,
+duo,
+forest,
+fur,
+gog,
+grass,
+medium:detailed background,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+outside,
+plant,
+rating:safe,
+source:furaffinity.net,
+species:fish,
+species:lutrine,
+species:mammal,
+species:marine,
+species:mustelid,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:horned river gog,
+title:horned river gog by b. j. pentecost,
+tree,
+uploader:myrandall,

@@ -1,26 +1,26 @@
-3d
-3d art
-antenna
-artwork
-awesome
-camp
-category:ine
-cool
-creator:dan nguyen
-cube
-door
-fanart
-garage
-halo
-halo wars 2
-low poly
-medium:digital 3d
-mini base
-subreddit:imaginaryhalo
-subreddit:imfandoms
-title:a wip mini base i'm making inspired from halo wars 2
-title:mini base wip
-uploader:hakuru15
-visualize
-wip
-work in progress
+3d,
+3d art,
+antenna,
+artwork,
+awesome,
+camp,
+category:ine,
+cool,
+creator:dan nguyen,
+cube,
+door,
+fanart,
+garage,
+halo,
+halo wars 2,
+low poly,
+medium:digital 3d,
+mini base,
+subreddit:imaginaryhalo,
+subreddit:imfandoms,
+title:a wip mini base i'm making inspired from halo wars 2,
+title:mini base wip,
+uploader:hakuru15,
+visualize,
+wip,
+work in progress,

@@ -1,25 +1,25 @@
-1boy
-armor
-beard
-black eyes
-black hair
-category:ine
-earrings
-facial hair
-grey background
-jewelry
-looking at viewer
-male focus
-manly
-mustache
-pauldrons
-rating:safe
-realistic
-shoulder armor
-signature
-simple background
-solo
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:recent portrait i’ve finished for someone online. iron warrior.
-uploader:liamhammondart
+1boy,
+armor,
+beard,
+black eyes,
+black hair,
+category:ine,
+earrings,
+facial hair,
+grey background,
+jewelry,
+looking at viewer,
+male focus,
+manly,
+mustache,
+pauldrons,
+rating:safe,
+realistic,
+shoulder armor,
+signature,
+simple background,
+solo,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:recent portrait i’ve finished for someone online. iron warrior.,
+uploader:liamhammondart,

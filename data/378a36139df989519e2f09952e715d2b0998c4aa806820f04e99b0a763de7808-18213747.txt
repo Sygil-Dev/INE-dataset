@@ -1,28 +1,28 @@
-armor
-bikini
-bikini armor
-bodysuit
-category:ine
-clothing:bottomwear
-clothing:topwear
-creator:ren wei pan
-cyborg
-design
-gender:female
-impractical armor
-knight
-medium:digital 2d
-plugsuit
-revealing armor
-sexy
-subreddit:imaginaryweaponry
-subreddit:impracticalarmour
-subreddit:imtechnology
-swimsuit
-swimwear
-sword
-title:"berserk"
-title:"berserk" (heavy shield exo with hf blade.) by ren wei pan
-title:this armour infuriates me: "berserk" by ren wei pan
-uploader:ceally
-weapon
+armor,
+bikini,
+bikini armor,
+bodysuit,
+category:ine,
+clothing:bottomwear,
+clothing:topwear,
+creator:ren wei pan,
+cyborg,
+design,
+gender:female,
+impractical armor,
+knight,
+medium:digital 2d,
+plugsuit,
+revealing armor,
+sexy,
+subreddit:imaginaryweaponry,
+subreddit:impracticalarmour,
+subreddit:imtechnology,
+swimsuit,
+swimwear,
+sword,
+title:"berserk",
+title:"berserk" (heavy shield exo with hf blade.) by ren wei pan,
+title:this armour infuriates me: "berserk" by ren wei pan,
+uploader:ceally,
+weapon,

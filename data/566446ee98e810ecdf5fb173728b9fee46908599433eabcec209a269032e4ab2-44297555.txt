@@ -1,23 +1,23 @@
-category:ine
-comic
-comic artist
-comic book art
-comic book artist
-comics
-cover art
-cover artist
-creator:david nakayama
-david nakayama
-medium:digital 2d
-metal
-phoenix
-polaris
-rachel grey
-subreddit:imaginarymutants
-subreddit:imfandoms
-superhero
-superheroes
-title:x-factor #2 dark variant ft. rachel grey and polaris by david nakayama
-uploader:faeryknight
-xfactor
-xmen
+category:ine,
+comic,
+comic artist,
+comic book art,
+comic book artist,
+comics,
+cover art,
+cover artist,
+creator:david nakayama,
+david nakayama,
+medium:digital 2d,
+metal,
+phoenix,
+polaris,
+rachel grey,
+subreddit:imaginarymutants,
+subreddit:imfandoms,
+superhero,
+superheroes,
+title:x-factor #2 dark variant ft. rachel grey and polaris by david nakayama,
+uploader:faeryknight,
+xfactor,
+xmen,

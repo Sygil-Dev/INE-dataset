@@ -1,51 +1,51 @@
-ambiguous gender
-ambiguous_gender
-artist:bjpentecost
-calf
-canid
-car
-category:ine
-creator:bjpentecost
-cub
-day
-detailed background
-detailed_background
-dog
-foal
-forest
-gender:ambiguous
-grass
-ground vehicle
-group
-horn
-horns
-medium:detailed background
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-motor vehicle
-outside
-plant
-rating:safe
-source:furaffinity.net
-species:canid
-species:canine
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:puppy
-species:unicorn
-subreddit:imaginarymindscapes
-subreddit:imaginarymythology
-subreddit:imcharacters
-subreddit:imlandscapes
-title:unicorn crossing
-title:unicorn crossing by bobbie jean pentecost
-tree
-uploader:myrandall
-vehicle
-wolf
-young
+ambiguous gender,
+ambiguous_gender,
+artist:bjpentecost,
+calf,
+canid,
+car,
+category:ine,
+creator:bjpentecost,
+cub,
+day,
+detailed background,
+detailed_background,
+dog,
+foal,
+forest,
+gender:ambiguous,
+grass,
+ground vehicle,
+group,
+horn,
+horns,
+medium:detailed background,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+motor vehicle,
+outside,
+plant,
+rating:safe,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:puppy,
+species:unicorn,
+subreddit:imaginarymindscapes,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+title:unicorn crossing,
+title:unicorn crossing by bobbie jean pentecost,
+tree,
+uploader:myrandall,
+vehicle,
+wolf,
+young,

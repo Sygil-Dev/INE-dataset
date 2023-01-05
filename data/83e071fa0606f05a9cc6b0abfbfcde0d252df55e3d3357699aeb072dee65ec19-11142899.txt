@@ -1,72 +1,72 @@
-ambiguous gender
-androgynous
-anthro
-booru:e621
-category:ine
-character:gen 2 pokemon
-character:gen 4 pokemon
-character:luxray
-character:marill
-character:pokemon species
-character:shinx
-closed eyes
-cloud
-creator:kori7hatsumine
-cub
-cute
-daww
-eyes closed
-felid
-feral
-gen 2 pokemon
-gender:ambiguous
-grass
-group
-happy
-light
-looking back
-looking down
-mammal
-medium:2014
-medium:high resolution
-medium:video game
-meta:2014
-meta:contentious content
-meta:extreme content
-meta:hi res
-meta:useless tags
-open mouth
-outdoors
-outside
-pawpads
-paws
-plant
-pokemon (species)
-rating:questionable
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-shadow
-sky
-species:felid
-species:feline
-species:luxray
-species:mammal
-species:marill
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:shinx
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:quiet walk with my children by koriarredondo
-tree
-uploader:pkmnart
-video games
-water
-year:2014
-yellow eyes
-young
+ambiguous gender,
+androgynous,
+anthro,
+booru:e621,
+category:ine,
+character:gen 2 pokemon,
+character:gen 4 pokemon,
+character:luxray,
+character:marill,
+character:pokemon species,
+character:shinx,
+closed eyes,
+cloud,
+creator:kori7hatsumine,
+cub,
+cute,
+daww,
+eyes closed,
+felid,
+feral,
+gen 2 pokemon,
+gender:ambiguous,
+grass,
+group,
+happy,
+light,
+looking back,
+looking down,
+mammal,
+medium:2014,
+medium:high resolution,
+medium:video game,
+meta:2014,
+meta:contentious content,
+meta:extreme content,
+meta:hi res,
+meta:useless tags,
+open mouth,
+outdoors,
+outside,
+pawpads,
+paws,
+plant,
+pokemon (species),
+rating:questionable,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+shadow,
+sky,
+species:felid,
+species:feline,
+species:luxray,
+species:mammal,
+species:marill,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:shinx,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:quiet walk with my children by koriarredondo,
+tree,
+uploader:pkmnart,
+video games,
+water,
+year:2014,
+yellow eyes,
+young,

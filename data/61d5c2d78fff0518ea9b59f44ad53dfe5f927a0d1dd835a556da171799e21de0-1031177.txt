@@ -1,52 +1,52 @@
-1 female
-1girl
-belt
-black hair
-bodysuit
-bolter
-booru:sankaku
-cape
-cartridge
-category:ine
-chain
-chains
-character:inquisition
-character:inquisitor
-clothing:bottomwear
-clothing:gloves
-clothing:necklace
-clothing:topwear
-coat
-creator:cross (guncross)
-creator:deadxcross
-creator:drawfag
-cross_(guncross)
-deadxcross
-epaulettes
-fap
-firearm
-gender:female
-gloves
-gun
-imperium
-inquisition
-inquisitor
-insignia
-jewelry
-long coat
-long hair
-necklace
-power sword
-rating:s
-rating:safe
-series:warhammer 40,000
-series:warhammer 40k
-serious
-solo
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-sword
-title:inquisitor isolde moranz by deadxcross
-uploader:castass
-weapon
+1 female,
+1girl,
+belt,
+black hair,
+bodysuit,
+bolter,
+booru:sankaku,
+cape,
+cartridge,
+category:ine,
+chain,
+chains,
+character:inquisition,
+character:inquisitor,
+clothing:bottomwear,
+clothing:gloves,
+clothing:necklace,
+clothing:topwear,
+coat,
+creator:cross (guncross),
+creator:deadxcross,
+creator:drawfag,
+cross_(guncross),
+deadxcross,
+epaulettes,
+fap,
+firearm,
+gender:female,
+gloves,
+gun,
+imperium,
+inquisition,
+inquisitor,
+insignia,
+jewelry,
+long coat,
+long hair,
+necklace,
+power sword,
+rating:s,
+rating:safe,
+series:warhammer 40,000,
+series:warhammer 40k,
+serious,
+solo,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+sword,
+title:inquisitor isolde moranz by deadxcross,
+uploader:castass,
+weapon,

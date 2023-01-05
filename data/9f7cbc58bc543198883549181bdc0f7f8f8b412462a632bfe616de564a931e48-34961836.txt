@@ -1,105 +1,105 @@
-anthro
-anthropomorphism
-artist:ruffu
-black background
-black nose
-black_background
-black_nose
-booru:e621
-box
-canid
-category:ine
-character:judy hopps
-character:judy_hopps
-character:nick wilde
-character:nick_wilde
-christmas
-christmas clothing
-christmas headwear
-christmas_clothing
-christmas_headwear
-clothed
-clothing
-clothing:gloves
-clothing:hat
-clothing:headwear
-clothing:scarf
-clothing:tagme
-container
-copyright:christmas
-copyright:disney
-copyright:zootopia
-costume
-creator:ruffu
-dipstick ears
-dipstick_ears
-duo
-ear grab
-ear_grab
-fully clothed
-fully_clothed
-fur
-garrison cap
-gender:male
-gloves
-grabbing ears
-green eyes
-green_eyes
-grey body
-grey fur
-grey_body
-grey_fur
-grin
-hand on ears
-handwear
-hat
-headgear
-headwear
-holidays
-language:english
-leporid
-looking at viewer
-looking_at_viewer
-medium:black background
-medium:english text
-medium:simple background
-medium:text
-meta:2019
-meta:english text
-meta:english_text
-multicolored ears
-multicolored_ears
-orange body
-orange fur
-orange_body
-orange_fur
-pov
-rating:safe
-red fox
-santa costume
-santa hat
-santa_costume
-santa_hat
-scarf
-series:christmas
-series:disney
-series:zootopia
-simple background
-simple_background
-smile
-species:canid
-species:canine
-species:fox
-species:lagomorph
-species:leporid
-species:mammal
-species:rabbit
-species:red fox
-species:red_fox
-studio:disney
-subreddit:imaginarydisney
-subreddit:imfandoms
-text
-title:nick and judy christmas by ruffu
-uploader:myrandall
-year:2019
+anthro,
+anthropomorphism,
+artist:ruffu,
+black background,
+black nose,
+black_background,
+black_nose,
+booru:e621,
+box,
+canid,
+category:ine,
+character:judy hopps,
+character:judy_hopps,
+character:nick wilde,
+character:nick_wilde,
+christmas,
+christmas clothing,
+christmas headwear,
+christmas_clothing,
+christmas_headwear,
+clothed,
+clothing,
+clothing:gloves,
+clothing:hat,
+clothing:headwear,
+clothing:scarf,
+clothing:tagme,
+container,
+copyright:christmas,
+copyright:disney,
+copyright:zootopia,
+costume,
+creator:ruffu,
+dipstick ears,
+dipstick_ears,
+duo,
+ear grab,
+ear_grab,
+fully clothed,
+fully_clothed,
+fur,
+garrison cap,
+gender:male,
+gloves,
+grabbing ears,
+green eyes,
+green_eyes,
+grey body,
+grey fur,
+grey_body,
+grey_fur,
+grin,
+hand on ears,
+handwear,
+hat,
+headgear,
+headwear,
+holidays,
+language:english,
+leporid,
+looking at viewer,
+looking_at_viewer,
+medium:black background,
+medium:english text,
+medium:simple background,
+medium:text,
+meta:2019,
+meta:english text,
+meta:english_text,
+multicolored ears,
+multicolored_ears,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+pov,
+rating:safe,
+red fox,
+santa costume,
+santa hat,
+santa_costume,
+santa_hat,
+scarf,
+series:christmas,
+series:disney,
+series:zootopia,
+simple background,
+simple_background,
+smile,
+species:canid,
+species:canine,
+species:fox,
+species:lagomorph,
+species:leporid,
+species:mammal,
+species:rabbit,
+species:red fox,
+species:red_fox,
+studio:disney,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+text,
+title:nick and judy christmas by ruffu,
+uploader:myrandall,
+year:2019,

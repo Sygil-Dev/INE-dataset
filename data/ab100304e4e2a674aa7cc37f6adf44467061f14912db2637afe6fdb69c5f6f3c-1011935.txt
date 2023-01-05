@@ -1,33 +1,33 @@
-artist:tsukuba masahiro
-asteroid
-background
-blue
-category:ine
-click recommended
-copyright:original
-creator:artist request
-creator:masaro
-creator:tsukuba masahiro
-creator:マサリロ
-light
-medium:high resolution
-meta:revision
-no humans
-pixiv artist id:52472
-pixiv illust id:6495492
-planet
-rating:mature
-rating:safe
-scenery
-series:blue drop
-series:original
-sf
-space
-space craft
-subreddit:imaginarystarships
-subreddit:imtechnology
-title:"asteroid ship &amp; blue jupiter" by masario (マサリロ)
-title:アステロイドシップと蒼い星
-uploader:mecheye
-宇宙船
-荘厳
+artist:tsukuba masahiro,
+asteroid,
+background,
+blue,
+category:ine,
+click recommended,
+copyright:original,
+creator:artist request,
+creator:masaro,
+creator:tsukuba masahiro,
+creator:マサリロ,
+light,
+medium:high resolution,
+meta:revision,
+no humans,
+pixiv artist id:52472,
+pixiv illust id:6495492,
+planet,
+rating:mature,
+rating:safe,
+scenery,
+series:blue drop,
+series:original,
+sf,
+space,
+space craft,
+subreddit:imaginarystarships,
+subreddit:imtechnology,
+title:"asteroid ship &amp; blue jupiter" by masario (マサリロ),
+title:アステロイドシップと蒼い星,
+uploader:mecheye,
+宇宙船,
+荘厳,

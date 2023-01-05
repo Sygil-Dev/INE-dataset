@@ -1,23 +1,23 @@
-1girl
-armor
-black background
-blonde hair
-cape
-category:ine
-holding sword
-jewelry
-lips
-long hair
-looking at viewer
-purple eyes
-rating:safe
-realistic
-simple background
-solo
-subreddit:imaginarywesteros
-subreddit:imfandoms
-sword
-title:visenya targaryen by bellabergolts.
-uploader:diorsundress
-upper body
-weapon
+1girl,
+armor,
+black background,
+blonde hair,
+cape,
+category:ine,
+holding sword,
+jewelry,
+lips,
+long hair,
+looking at viewer,
+purple eyes,
+rating:safe,
+realistic,
+simple background,
+solo,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+sword,
+title:visenya targaryen by bellabergolts.,
+uploader:diorsundress,
+upper body,
+weapon,

@@ -1,45 +1,45 @@
-ambiguous gender
-artist:shadeofshinon
-booru:e621
-category:ine
-character name
-creator:shadeofshinon
-full body
-gen 4 pokemon
-gender:ambiguous
-gradient background
-medium:1:1 aspect ratio
-medium:gradient background
-medium:grey background
-medium:simple background
-medium:watermark
-medium:web address
-meta:1:1
-meta:2017
-no humans
-rating:mature
-rating:safe
-realistic
-series:nintendo
-series:pokemon
-series:pokémon
-series:pokémon diamond pearl & platinum
-simple background
-solo
-species:mammal
-species:mamoswine
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:porcine
-species:proboscidean
-species:suina
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:pokemon reimagined: mamoswine by shadeofshinon
-tusks
-uploader:lol33ta
-video games
-year:2017
+ambiguous gender,
+artist:shadeofshinon,
+booru:e621,
+category:ine,
+character name,
+creator:shadeofshinon,
+full body,
+gen 4 pokemon,
+gender:ambiguous,
+gradient background,
+medium:1:1 aspect ratio,
+medium:gradient background,
+medium:grey background,
+medium:simple background,
+medium:watermark,
+medium:web address,
+meta:1:1,
+meta:2017,
+no humans,
+rating:mature,
+rating:safe,
+realistic,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+series:pokémon diamond pearl & platinum,
+simple background,
+solo,
+species:mammal,
+species:mamoswine,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:porcine,
+species:proboscidean,
+species:suina,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:pokemon reimagined: mamoswine by shadeofshinon,
+tusks,
+uploader:lol33ta,
+video games,
+year:2017,

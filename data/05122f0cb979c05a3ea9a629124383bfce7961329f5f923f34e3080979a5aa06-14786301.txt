@@ -1,57 +1,57 @@
-1 female
-1girl
-angel
-angel wings
-armor
-armored boots
-art
-blue eyes
-booru:danbooru
-booru:gelbooru
-boots
-breasts
-category:ine
-character:angel
-cleavage
-clothing:armor
-clothing:armored boots
-clothing:boots
-clothing:footwear
-clothing:gloves
-copyright name
-creator:james ryman
-creator:jamesryman
-dagger
-feathered wings
-feathers
-footwear
-gender:female
-gloves
-glowing
-halo
-james ryman
-long hair
-magic
-medium:watermark
-medium:web address
-melee weapon
-meta:official art
-rating:mature
-rating:safe
-series:legend of the cryptids
-skull
-solo
-species:angel
-subreddit:imaginaryangels
-subreddit:imaginaryarmor
-subreddit:imraces
-subreddit:imtechnology
-tiara
-title:iruzaeru fallen angel - normal
-title:iruzaeru fallen angel by james ryman
-uploader:myrandall
-watermark
-weapon
-web address
-white wings
-wings
+1 female,
+1girl,
+angel,
+angel wings,
+armor,
+armored boots,
+art,
+blue eyes,
+booru:danbooru,
+booru:gelbooru,
+boots,
+breasts,
+category:ine,
+character:angel,
+cleavage,
+clothing:armor,
+clothing:armored boots,
+clothing:boots,
+clothing:footwear,
+clothing:gloves,
+copyright name,
+creator:james ryman,
+creator:jamesryman,
+dagger,
+feathered wings,
+feathers,
+footwear,
+gender:female,
+gloves,
+glowing,
+halo,
+james ryman,
+long hair,
+magic,
+medium:watermark,
+medium:web address,
+melee weapon,
+meta:official art,
+rating:mature,
+rating:safe,
+series:legend of the cryptids,
+skull,
+solo,
+species:angel,
+subreddit:imaginaryangels,
+subreddit:imaginaryarmor,
+subreddit:imraces,
+subreddit:imtechnology,
+tiara,
+title:iruzaeru fallen angel - normal,
+title:iruzaeru fallen angel by james ryman,
+uploader:myrandall,
+watermark,
+weapon,
+web address,
+white wings,
+wings,

@@ -1,31 +1,31 @@
-booru:sankaku channel
-category:ine
-centaur
-character:ghost
-character:hecarim
-character:hecarim (league of legends)
-creator:raikoart
-creator:ライコ
-fire
-gender:male
-ghost
-hecarim
-high_noon
-league
-legends
-male
-medium:official art
-meta:official art
-monster
-of
-rating:safe
-scythe
-series:league of legends
-species:centaur
-subreddit:imaginarycentaurs
-subreddit:imraces
-title:high noon hecarim
-title:high noon hecarim by sean "raiko" tay
-uploader:myrandall
-work_illustration
-仕事
+booru:sankaku channel,
+category:ine,
+centaur,
+character:ghost,
+character:hecarim,
+character:hecarim (league of legends),
+creator:raikoart,
+creator:ライコ,
+fire,
+gender:male,
+ghost,
+hecarim,
+high_noon,
+league,
+legends,
+male,
+medium:official art,
+meta:official art,
+monster,
+of,
+rating:safe,
+scythe,
+series:league of legends,
+species:centaur,
+subreddit:imaginarycentaurs,
+subreddit:imraces,
+title:high noon hecarim,
+title:high noon hecarim by sean "raiko" tay,
+uploader:myrandall,
+work_illustration,
+仕事,

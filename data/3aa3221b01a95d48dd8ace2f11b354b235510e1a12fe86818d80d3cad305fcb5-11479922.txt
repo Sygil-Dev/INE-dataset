@@ -1,74 +1,74 @@
-4 toes
-ambiguous gender
-anthro
-anthropomorphism
-art
-barefoot
-black nose
-booru:e621
-caraid
-category:ine
-claws
-clothed
-clothing
-clothing:hoodie
-clouds
-creator:caraid
-creator:lhuneart
-creator:vagabond
-day
-desert
-detailed background
-dragon
-duo
-dust
-feet
-feral
-fur
-furry
-gender:ambiguous
-gender:male
-genre:fantasy
-green
-green body
-green scales
-grey body
-grey fur
-hands behind head
-hoodie
-hot
-hunter
-landscape
-leaning
-leaning back
-male
-medium:detailed background
-membrane (anatomy)
-membranous wings
-outside
-rating:safe
-scales
-sitting
-sky
-smile
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:dragon
-species:mammal
-species:mythical
-species:scalie
-species:western dragon
-species:wolf
-standing
-subreddit:imaginarydragons
-subreddit:immonsters
-sun
-title:bask
-title:bask by ilse gort (lhuneart)
-toes
-topwear
-uploader:myrandall
-wings
-yellow eyes
+4 toes,
+ambiguous gender,
+anthro,
+anthropomorphism,
+art,
+barefoot,
+black nose,
+booru:e621,
+caraid,
+category:ine,
+claws,
+clothed,
+clothing,
+clothing:hoodie,
+clouds,
+creator:caraid,
+creator:lhuneart,
+creator:vagabond,
+day,
+desert,
+detailed background,
+dragon,
+duo,
+dust,
+feet,
+feral,
+fur,
+furry,
+gender:ambiguous,
+gender:male,
+genre:fantasy,
+green,
+green body,
+green scales,
+grey body,
+grey fur,
+hands behind head,
+hoodie,
+hot,
+hunter,
+landscape,
+leaning,
+leaning back,
+male,
+medium:detailed background,
+membrane (anatomy),
+membranous wings,
+outside,
+rating:safe,
+scales,
+sitting,
+sky,
+smile,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:dragon,
+species:mammal,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:wolf,
+standing,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sun,
+title:bask,
+title:bask by ilse gort (lhuneart),
+toes,
+topwear,
+uploader:myrandall,
+wings,
+yellow eyes,

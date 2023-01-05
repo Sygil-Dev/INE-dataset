@@ -1,58 +1,58 @@
-artist:tamberella
-blue body
-blue_body
-booru:e621
-category:ine
-caustics
-copyright:nintendo
-copyright:pokémon
-creator:tamberella
-damaged
-day
-detailed_background
-flying
-gen 1 pokémon
-medium:detailed background
-medium:digital media
-medium:video game
-meta:2:3
-meta:2020
-meta:digital_media_(artwork)
-meta:shaded
-outside
-rating:safe
-red body
-red eyes
-red_body
-red_eyes
-series:pokémon
-series:sonic the hedgehog
-shaded
-shadow
-species:arceus
-species:baby pokémon
-species:baby_pokémon
-species:finneon
-species:latias
-species:latios
-species:legendary pokémon
-species:legendary_pokémon
-species:luvdisc
-species:mantyke
-species:monster
-species:pokémon
-species:pokémon_(species)
-species:staryu
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imaginaryruins
-subreddit:imarchitecture
-subreddit:imfandoms
-swimming
-title:ancient pokemon ruins by devin elle kurtz (tamberella)
-uploader:myrandall
-video_games
-water
-white body
-white_body
-year:2020
+artist:tamberella,
+blue body,
+blue_body,
+booru:e621,
+category:ine,
+caustics,
+copyright:nintendo,
+copyright:pokémon,
+creator:tamberella,
+damaged,
+day,
+detailed_background,
+flying,
+gen 1 pokémon,
+medium:detailed background,
+medium:digital media,
+medium:video game,
+meta:2:3,
+meta:2020,
+meta:digital_media_(artwork),
+meta:shaded,
+outside,
+rating:safe,
+red body,
+red eyes,
+red_body,
+red_eyes,
+series:pokémon,
+series:sonic the hedgehog,
+shaded,
+shadow,
+species:arceus,
+species:baby pokémon,
+species:baby_pokémon,
+species:finneon,
+species:latias,
+species:latios,
+species:legendary pokémon,
+species:legendary_pokémon,
+species:luvdisc,
+species:mantyke,
+species:monster,
+species:pokémon,
+species:pokémon_(species),
+species:staryu,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+subreddit:imfandoms,
+swimming,
+title:ancient pokemon ruins by devin elle kurtz (tamberella),
+uploader:myrandall,
+video_games,
+water,
+white body,
+white_body,
+year:2020,

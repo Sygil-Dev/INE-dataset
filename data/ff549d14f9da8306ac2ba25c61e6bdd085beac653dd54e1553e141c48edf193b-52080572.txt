@@ -1,63 +1,63 @@
-1boy
-alucard
-bat
-bats
-blonde
-blonde hair
-booru:sankaku
-brown eyes
-building
-castle
-castlevania
-category:ine
-chain
-chains
-character:adrian fahrenheit tepes
-character:alucard (castlevania)
-commentary
-creator:cutesexyrobutts
-creator:robutts
-cross
-cutesexyrobutts
-dhampir
-games
-gender:male
-hair intakes
-half-human
-half-undead
-highres
-konami
-long hair
-male
-male focus
-medium:artist name
-medium:fanart from deviantart
-medium:high resolution
-medium:text
-meta:commentary
-meta:highres
-mixed species
-monster boy
-moon
-night
-of
-rating:contains male nudity
-rating:e
-rating:explicit
-rating:general
-rating:safe
-rating:sensitive
-series:castlevania
-series:castlevania: symphony of the night
-solo
-sotn
-subreddit:imaginarygaming
-subreddit:imfandoms
-symphony
-the
-title:alucard (castlevania symphony of the night)
-title:alucard (symphony of the night)
-title:alucard by cutesexyrobutts
-undead
-uploader:protoshujin
-vampire
+1boy,
+alucard,
+bat,
+bats,
+blonde,
+blonde hair,
+booru:sankaku,
+brown eyes,
+building,
+castle,
+castlevania,
+category:ine,
+chain,
+chains,
+character:adrian fahrenheit tepes,
+character:alucard (castlevania),
+commentary,
+creator:cutesexyrobutts,
+creator:robutts,
+cross,
+cutesexyrobutts,
+dhampir,
+games,
+gender:male,
+hair intakes,
+half-human,
+half-undead,
+highres,
+konami,
+long hair,
+male,
+male focus,
+medium:artist name,
+medium:fanart from deviantart,
+medium:high resolution,
+medium:text,
+meta:commentary,
+meta:highres,
+mixed species,
+monster boy,
+moon,
+night,
+of,
+rating:contains male nudity,
+rating:e,
+rating:explicit,
+rating:general,
+rating:safe,
+rating:sensitive,
+series:castlevania,
+series:castlevania: symphony of the night,
+solo,
+sotn,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+symphony,
+the,
+title:alucard (castlevania symphony of the night),
+title:alucard (symphony of the night),
+title:alucard by cutesexyrobutts,
+undead,
+uploader:protoshujin,
+vampire,

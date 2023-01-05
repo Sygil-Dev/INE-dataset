@@ -1,23 +1,23 @@
-armor
-battle
-breathing fire
-category:ine
-dragon
-fire
-long hair
-magic
-monster
-multiple boys
-multiple girls
-open mouth
-rating:safe
-subreddit:imaginarybattlefields
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imlandscapes
-sword
-title:gatewatch overrun by ryan alexander lee
-uploader:lol33ta
-uploader:myrandall
-weapon
-wizard
+armor,
+battle,
+breathing fire,
+category:ine,
+dragon,
+fire,
+long hair,
+magic,
+monster,
+multiple boys,
+multiple girls,
+open mouth,
+rating:safe,
+subreddit:imaginarybattlefields,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+sword,
+title:gatewatch overrun by ryan alexander lee,
+uploader:lol33ta,
+uploader:myrandall,
+weapon,
+wizard,

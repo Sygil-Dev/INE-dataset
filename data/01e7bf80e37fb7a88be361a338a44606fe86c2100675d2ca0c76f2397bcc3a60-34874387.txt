@@ -1,36 +1,36 @@
-bird
-blue sky
-castle
-category:ine
-cliff
-cloud
-cloudy sky
-day
-fantasy
-fog
-horizon
-lake
-landscape
-light rays
-mountain
-mountainous horizon
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-snow
-subreddit:imaginarymonuments
-subreddit:imarchitecture
-sun
-sunbeam
-sunlight
-sunrise
-sunset
-title:spartan statue by quentin mabille
-tower
-tree
-uploader:aarancor22
-water
-waterfall
+bird,
+blue sky,
+castle,
+category:ine,
+cliff,
+cloud,
+cloudy sky,
+day,
+fantasy,
+fog,
+horizon,
+lake,
+landscape,
+light rays,
+mountain,
+mountainous horizon,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+snow,
+subreddit:imaginarymonuments,
+subreddit:imarchitecture,
+sun,
+sunbeam,
+sunlight,
+sunrise,
+sunset,
+title:spartan statue by quentin mabille,
+tower,
+tree,
+uploader:aarancor22,
+water,
+waterfall,

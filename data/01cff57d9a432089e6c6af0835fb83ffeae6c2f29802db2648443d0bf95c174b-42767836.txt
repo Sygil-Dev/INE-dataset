@@ -1,35 +1,35 @@
-1boy
-beard
-belt
-bowl
-burger
-cake
-candle
-category:ine
-chef hat
-cooking
-facial hair
-food
-fork
-fruit
-frying pan
-gloves
-hat
-male focus
-meat
-pasta
-plate
-pot
-rating:safe
-salad
-solo
-soup
-spaghetti
-steak
-subreddit:imaginaryfood
-subreddit:immeta
-title:monster chef by (gabyt) gabriele sousa
-tomato
-tray
-uploader:sr_myers
-white hair
+1boy,
+beard,
+belt,
+bowl,
+burger,
+cake,
+candle,
+category:ine,
+chef hat,
+cooking,
+facial hair,
+food,
+fork,
+fruit,
+frying pan,
+gloves,
+hat,
+male focus,
+meat,
+pasta,
+plate,
+pot,
+rating:safe,
+salad,
+solo,
+soup,
+spaghetti,
+steak,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:monster chef by (gabyt) gabriele sousa,
+tomato,
+tray,
+uploader:sr_myers,
+white hair,

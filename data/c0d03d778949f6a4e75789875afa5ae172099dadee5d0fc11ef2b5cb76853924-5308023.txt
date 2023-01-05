@@ -1,71 +1,71 @@
-1 female
-1girl
-anaglyph
-animal tail
-anthro
-anthropomorphism
-anthropomorphization
-blue hair
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-booru:tbib
-character:pokemon species
-character:vaporeon
-creator:sakimichan
-eeveelution
-female
-filename:vaporeon
-fish tail
-gen 1 pokemon
-gen 1 pokémon
-gender:female
-hair:blue
-head fins
-long hair
-medium:2d art
-medium:anaglyph
-medium:patreon reward
-medium:realistic
-medium:watermark
-meta:pixiv-import
-meta:tagme
-open mouth
-personification
-pokemon
-pokemon (game)
-pokemon go
-pokemon species
-rating:mature
-rating:safe
-rating:sensitive
-realistic
-sakimichan
-scales
-series:pokemon
-series:pokemon (game)
-series:pokemon go
-series:pokémon
-series:pokémon go
-site:deviant art
-site:patreon
-site:yiff.party
-species:eeveelution
-species:monster
-species:pokémon
-species:vaporeon
-studio:nintendo
-subreddit:imaginarymerfolk
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-subreddit:imraces
-tagme
-tail
-title:vaporeon (term 40)
-title:vaporeon go
-title:vaporeon go by sakimi chan
-uploader:lol33ta
-uploader:myrandall
-vaporeon
-water
-watermark
+1 female,
+1girl,
+anaglyph,
+animal tail,
+anthro,
+anthropomorphism,
+anthropomorphization,
+blue hair,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+booru:tbib,
+character:pokemon species,
+character:vaporeon,
+creator:sakimichan,
+eeveelution,
+female,
+filename:vaporeon,
+fish tail,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:female,
+hair:blue,
+head fins,
+long hair,
+medium:2d art,
+medium:anaglyph,
+medium:patreon reward,
+medium:realistic,
+medium:watermark,
+meta:pixiv-import,
+meta:tagme,
+open mouth,
+personification,
+pokemon,
+pokemon (game),
+pokemon go,
+pokemon species,
+rating:mature,
+rating:safe,
+rating:sensitive,
+realistic,
+sakimichan,
+scales,
+series:pokemon,
+series:pokemon (game),
+series:pokemon go,
+series:pokémon,
+series:pokémon go,
+site:deviant art,
+site:patreon,
+site:yiff.party,
+species:eeveelution,
+species:monster,
+species:pokémon,
+species:vaporeon,
+studio:nintendo,
+subreddit:imaginarymerfolk,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+subreddit:imraces,
+tagme,
+tail,
+title:vaporeon (term 40),
+title:vaporeon go,
+title:vaporeon go by sakimi chan,
+uploader:lol33ta,
+uploader:myrandall,
+vaporeon,
+water,
+watermark,

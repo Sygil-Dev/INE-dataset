@@ -1,44 +1,44 @@
-anthropomorphism
-artist:blitzdrachin
-artist:conditional_dnp
-category:ine
-character:sifyro
-claws
-closed eyes
-conditional dnp
-conditional_dnp
-creator:blitzdrachin
-creator:conditional dnp
-creator:sifyro
-dragon
-eyes closed
-eyes_closed
-filename:gffffffffff.png
-filename:gffffffffff_1.png
-furry
-horn
-horns
-invalid tag
-medium:high resolution
-medium:red background
-medium:simple background
-meta:hi res
-meta:hi_res
-patreon id:127384
-rating:safe
-red background
-red_background
-sifyro
-simple background
-simple_background
-solo
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:july folder
-title:poison
-title:too much bs
-uploader:sifyro
-wings
+anthropomorphism,
+artist:blitzdrachin,
+artist:conditional_dnp,
+category:ine,
+character:sifyro,
+claws,
+closed eyes,
+conditional dnp,
+conditional_dnp,
+creator:blitzdrachin,
+creator:conditional dnp,
+creator:sifyro,
+dragon,
+eyes closed,
+eyes_closed,
+filename:gffffffffff.png,
+filename:gffffffffff_1.png,
+furry,
+horn,
+horns,
+invalid tag,
+medium:high resolution,
+medium:red background,
+medium:simple background,
+meta:hi res,
+meta:hi_res,
+patreon id:127384,
+rating:safe,
+red background,
+red_background,
+sifyro,
+simple background,
+simple_background,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:july folder,
+title:poison,
+title:too much bs,
+uploader:sifyro,
+wings,

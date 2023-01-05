@@ -1,30 +1,30 @@
-blue eyes
-booru:sankaku channel
-category:ine
-character:echo (overwatch)
-creator:im drunk on tea
-cyber
-facial mark
-female
-forehead mark
-gender:female
-mechanical arm
-mechanical leg
-mechanical wings
-medium:artist name
-medium:fanart from deviantart
-medium:text
-medium:web address
-meta:artist name
-prosthesis
-rating:safe
-robotic
-series:overwatch
-site:deviantart
-solo
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:my take on echo
-uploader:imdrunkontea
-wings
+blue eyes,
+booru:sankaku channel,
+category:ine,
+character:echo (overwatch),
+creator:im drunk on tea,
+cyber,
+facial mark,
+female,
+forehead mark,
+gender:female,
+mechanical arm,
+mechanical leg,
+mechanical wings,
+medium:artist name,
+medium:fanart from deviantart,
+medium:text,
+medium:web address,
+meta:artist name,
+prosthesis,
+rating:safe,
+robotic,
+series:overwatch,
+site:deviantart,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:my take on echo,
+uploader:imdrunkontea,
+wings,

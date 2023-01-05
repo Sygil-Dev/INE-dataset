@@ -1,24 +1,24 @@
-category:ine
-caterpillar tracks
-cloud
-evening
-explosion
-fire
-ground vehicle
-military
-military vehicle
-motor vehicle
-mountain
-orange sky
-rating:safe
-realistic
-sky
-subreddit:imaginaryvehicles
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-sunset
-tank
-title:military vehicle "tiger" by stepan gilev
-twilight
-uploader:lol33ta
-uploader:myrandall
+category:ine,
+caterpillar tracks,
+cloud,
+evening,
+explosion,
+fire,
+ground vehicle,
+military,
+military vehicle,
+motor vehicle,
+mountain,
+orange sky,
+rating:safe,
+realistic,
+sky,
+subreddit:imaginaryvehicles,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+sunset,
+tank,
+title:military vehicle "tiger" by stepan gilev,
+twilight,
+uploader:lol33ta,
+uploader:myrandall,

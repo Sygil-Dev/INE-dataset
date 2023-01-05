@@ -1,23 +1,23 @@
-category:ine
-concept art
-creator:madeline boni x madnoliet
-creator:mady madnoliet
-desert
-enviro
-game art
-illustration
-luna
-medium:digital 2d
-moon valley
-photoshop
-rpg
-sci-fi
-sci-fi art
-space
-space art
-subreddit:imaginarystarscapes
-subreddit:imlandscapes
-the expanse
-title:luna_the expanse rpg
-title:luna_the expanse rpg, mady madnoliet
-uploader:dr_mrs_them0narch
+category:ine,
+concept art,
+creator:madeline boni x madnoliet,
+creator:mady madnoliet,
+desert,
+enviro,
+game art,
+illustration,
+luna,
+medium:digital 2d,
+moon valley,
+photoshop,
+rpg,
+sci-fi,
+sci-fi art,
+space,
+space art,
+subreddit:imaginarystarscapes,
+subreddit:imlandscapes,
+the expanse,
+title:luna_the expanse rpg,
+title:luna_the expanse rpg, mady madnoliet,
+uploader:dr_mrs_them0narch,

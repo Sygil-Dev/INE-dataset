@@ -1,54 +1,54 @@
-ambiguous gender
-ambiguous_gender
-armor
-artist:viktor_titov
-backpack
-bullet
-category:ine
-clothed
-clothing
-clothing:armor
-clothing:tagme
-creator:viktor titov
-feral
-firearm
-fully clothed
-fully_clothed
-fur
-gender:ambiguous
-gun
-headgear
-headwear
-helmet
-machine gun
-machine_gun
-medium:digital media
-medium:greyscale
-medium:monochrome
-meta:2015
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:greyscale
-meta:monochrome
-open mouth
-open_mouth
-pkm
-ranged weapon
-ranged_weapon
-rating:safe
-solo
-species:cricetid
-species:hamster
-species:mammal
-species:rodent
-standing
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-teeth
-title:an unstoppable hamster with a machine gun by viktor titov
-title:an unstoppable hamster with a machine gun! by viktor titov
-tongue
-uploader:lol33ta
-uploader:myrandall
-weapon
-year:2015
+ambiguous gender,
+ambiguous_gender,
+armor,
+artist:viktor_titov,
+backpack,
+bullet,
+category:ine,
+clothed,
+clothing,
+clothing:armor,
+clothing:tagme,
+creator:viktor titov,
+feral,
+firearm,
+fully clothed,
+fully_clothed,
+fur,
+gender:ambiguous,
+gun,
+headgear,
+headwear,
+helmet,
+machine gun,
+machine_gun,
+medium:digital media,
+medium:greyscale,
+medium:monochrome,
+meta:2015,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:greyscale,
+meta:monochrome,
+open mouth,
+open_mouth,
+pkm,
+ranged weapon,
+ranged_weapon,
+rating:safe,
+solo,
+species:cricetid,
+species:hamster,
+species:mammal,
+species:rodent,
+standing,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+teeth,
+title:an unstoppable hamster with a machine gun by viktor titov,
+title:an unstoppable hamster with a machine gun! by viktor titov,
+tongue,
+uploader:lol33ta,
+uploader:myrandall,
+weapon,
+year:2015,

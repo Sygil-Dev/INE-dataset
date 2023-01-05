@@ -1,66 +1,66 @@
-1girl
-apple
-artist:sandara
-beach
-blue horn
-blue_horn
-category:ine
-cloud
-cloudy sky
-copyright:asian_mythology
-copyright:chinese_mythology
-copyright:east_asian_mythology
-copyright:mythology
-creator:sandara
-day
-detailed_background
-duo
-female
-feral
-food
-fruit
-fur
-grass
-horn
-horns
-incense
-long hair
-mammal
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2020
-meta:digital_media_(artwork)
-meta:hi_res
-moss
-mountain
-ocean
-outside
-plant
-rating:safe
-scales
-scenery
-series:asian mythology
-series:chinese mythology
-series:east asian mythology
-series:mythology
-sky
-species:equid
-species:equine
-species:human
-species:kirin
-species:mammal
-species:mythical
-species:unicorn
-subreddit:imaginarymythology
-subreddit:imcharacters
-sunset
-title:offerings by sandara tang
-unicorn
-uploader:lol33ta
-water
-white body
-white fur
-white_body
-white_fur
-year:2020
+1girl,
+apple,
+artist:sandara,
+beach,
+blue horn,
+blue_horn,
+category:ine,
+cloud,
+cloudy sky,
+copyright:asian_mythology,
+copyright:chinese_mythology,
+copyright:east_asian_mythology,
+copyright:mythology,
+creator:sandara,
+day,
+detailed_background,
+duo,
+female,
+feral,
+food,
+fruit,
+fur,
+grass,
+horn,
+horns,
+incense,
+long hair,
+mammal,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2020,
+meta:digital_media_(artwork),
+meta:hi_res,
+moss,
+mountain,
+ocean,
+outside,
+plant,
+rating:safe,
+scales,
+scenery,
+series:asian mythology,
+series:chinese mythology,
+series:east asian mythology,
+series:mythology,
+sky,
+species:equid,
+species:equine,
+species:human,
+species:kirin,
+species:mammal,
+species:mythical,
+species:unicorn,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+sunset,
+title:offerings by sandara tang,
+unicorn,
+uploader:lol33ta,
+water,
+white body,
+white fur,
+white_body,
+white_fur,
+year:2020,

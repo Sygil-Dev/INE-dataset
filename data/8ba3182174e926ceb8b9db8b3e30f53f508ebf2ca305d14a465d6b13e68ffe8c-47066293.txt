@@ -1,46 +1,46 @@
-3 males
-5 females
-backpack
-bag
-black hair
-brown hair
-car
-category:ine
-chain-link fence
-child
-creator:lanbook
-eyewear
-fence
-gen 1 pokémon
-gender:female
-gender:male
-glasses
-ground vehicle
-hat
-legwear
-motion blur
-motor vehicle
-multiple females
-multiple males
-open mouth
-ponytail
-railing
-rating:safe
-round eyewear
-series:pokémon
-short hair
-shorts
-species:pikachu
-species:pokémon
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-tied hair
-title:lost property by 欄外
-twintails
-uploader:apparitions_
-vehicle
-walking
-young
+3 males,
+5 females,
+backpack,
+bag,
+black hair,
+brown hair,
+car,
+category:ine,
+chain-link fence,
+child,
+creator:lanbook,
+eyewear,
+fence,
+gen 1 pokémon,
+gender:female,
+gender:male,
+glasses,
+ground vehicle,
+hat,
+legwear,
+motion blur,
+motor vehicle,
+multiple females,
+multiple males,
+open mouth,
+ponytail,
+railing,
+rating:safe,
+round eyewear,
+series:pokémon,
+short hair,
+shorts,
+species:pikachu,
+species:pokémon,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tied hair,
+title:lost property by 欄外,
+twintails,
+uploader:apparitions_,
+vehicle,
+walking,
+young,

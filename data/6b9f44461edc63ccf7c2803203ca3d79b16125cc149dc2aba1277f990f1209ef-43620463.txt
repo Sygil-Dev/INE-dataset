@@ -1,38 +1,38 @@
-artist:katruna94
-category:ine
-creator:katruna94
-feral
-fire
-furry
-gender:male
-horn
-horns
-insignium
-looking at viewer
-looking_at_viewer
-male
-medium:simple background
-meta:absurd_res
-meta:digital_drawing_(artwork)
-meta:digital_media_(artwork)
-meta:hi_res
-open mouth
-open_mouth
-pov
-rating:safe
-red body
-red dragon
-red_body
-simple background
-simple_background
-solo
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:"heart of fire" by katruna94
-tongue
-uploader:katruna94
-volcano
-wings
+artist:katruna94,
+category:ine,
+creator:katruna94,
+feral,
+fire,
+furry,
+gender:male,
+horn,
+horns,
+insignium,
+looking at viewer,
+looking_at_viewer,
+male,
+medium:simple background,
+meta:absurd_res,
+meta:digital_drawing_(artwork),
+meta:digital_media_(artwork),
+meta:hi_res,
+open mouth,
+open_mouth,
+pov,
+rating:safe,
+red body,
+red dragon,
+red_body,
+simple background,
+simple_background,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:"heart of fire" by katruna94,
+tongue,
+uploader:katruna94,
+volcano,
+wings,

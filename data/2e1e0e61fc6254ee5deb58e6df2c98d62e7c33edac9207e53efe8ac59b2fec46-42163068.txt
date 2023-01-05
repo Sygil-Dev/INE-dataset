@@ -1,67 +1,67 @@
-anthro
-anthropomorphism
-artist:uno_yuuji
-category:ine
-copyright:nintendo
-copyright:pokémon
-copyright:pokémon_mystery_dungeon
-creator:uno yuuji
-feral
-first person view
-first_person_view
-fur
-furry
-gen 1 pokemon
-gen 1 pokémon
-gen 2 pokemon
-green body
-green_body
-group
-medium:high resolution
-medium:text
-medium:video game
-meta:16:9
-meta:2020
-meta:hi res
-meta:hi_res
-meta:url
-meta:widescreen
-orange body
-orange_body
-outside
-plant
-point of view
-rating:safe
-series:nintendo
-series:pokémon
-series:pokémon mystery dungeon
-snow
-species:alakazam
-species:canid
-species:canine
-species:charizard
-species:dragon
-species:eevee
-species:mammal
-species:monster
-species:mythical
-species:pikachu
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:scalie
-species:tyranitar
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-text
-title:untitled by uno - [pmd: rescue team spoiler]
-tree
-uploader:pkmnart
-video games
-video_games
-year:2020
-yellow body
-yellow fur
-yellow_body
-yellow_fur
+anthro,
+anthropomorphism,
+artist:uno_yuuji,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+copyright:pokémon_mystery_dungeon,
+creator:uno yuuji,
+feral,
+first person view,
+first_person_view,
+fur,
+furry,
+gen 1 pokemon,
+gen 1 pokémon,
+gen 2 pokemon,
+green body,
+green_body,
+group,
+medium:high resolution,
+medium:text,
+medium:video game,
+meta:16:9,
+meta:2020,
+meta:hi res,
+meta:hi_res,
+meta:url,
+meta:widescreen,
+orange body,
+orange_body,
+outside,
+plant,
+point of view,
+rating:safe,
+series:nintendo,
+series:pokémon,
+series:pokémon mystery dungeon,
+snow,
+species:alakazam,
+species:canid,
+species:canine,
+species:charizard,
+species:dragon,
+species:eevee,
+species:mammal,
+species:monster,
+species:mythical,
+species:pikachu,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:scalie,
+species:tyranitar,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+text,
+title:untitled by uno - [pmd: rescue team spoiler],
+tree,
+uploader:pkmnart,
+video games,
+video_games,
+year:2020,
+yellow body,
+yellow fur,
+yellow_body,
+yellow_fur,

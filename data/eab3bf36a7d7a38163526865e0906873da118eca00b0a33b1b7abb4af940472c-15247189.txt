@@ -1,37 +1,37 @@
-1 female
-1girl
-artist:ling xiang
-black hair
-category:ine
-character:inari
-copyright:original
-creator:ling xiang
-creator:torii
-facing away
-from behind
-gender:female
-inari
-japanese clothes
-kimono
-medium:digital 2d
-medium:high resolution
-meta:highres
-outdoors
-outside
-pagoda
-rating:mature
-rating:safe
-scenery
-series:original
-shrine
-snow
-snowing
-solo
-stairs
-statue
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-title:snow
-title:snow by ling xiang
-torii
-uploader:baba_jaga_ii
+1 female,
+1girl,
+artist:ling xiang,
+black hair,
+category:ine,
+character:inari,
+copyright:original,
+creator:ling xiang,
+creator:torii,
+facing away,
+from behind,
+gender:female,
+inari,
+japanese clothes,
+kimono,
+medium:digital 2d,
+medium:high resolution,
+meta:highres,
+outdoors,
+outside,
+pagoda,
+rating:mature,
+rating:safe,
+scenery,
+series:original,
+shrine,
+snow,
+snowing,
+solo,
+stairs,
+statue,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+title:snow,
+title:snow by ling xiang,
+torii,
+uploader:baba_jaga_ii,

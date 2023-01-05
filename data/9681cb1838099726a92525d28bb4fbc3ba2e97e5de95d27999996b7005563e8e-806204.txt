@@ -1,51 +1,51 @@
-art
-booru:danbooru
-building
-category:ine
-city
-cityscape
-clock
-clock tower
-cloud
-crane
-crane (machine)
-creator:artist request
-creator:k kanehira
-creator:k,kanehira
-creator:kanehira
-creator:psm021
-day
-highres
-house
-landscape
-medium:concept art
-medium:high resolution
-megastructure
-meta:highres
-meta:potential duplicate
-meta:sfw
-no humans
-original character
-outdoors
-pixiv work:4422806
-pool:scenery porn
-rating:safe
-ref
-scenery
-series:original
-sky
-source:pixiv
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:clockwork (og name 時計塔と千の柱の街) by k,kanehira
-title:時計塔と千の柱の街
-tower
-uploader:zewen_senpai
-zero pictured
-オリジナル30000users入り
-幻想風景
-建造物
-立体都市
-荘厳
-街
-風景10000users入り
+art,
+booru:danbooru,
+building,
+category:ine,
+city,
+cityscape,
+clock,
+clock tower,
+cloud,
+crane,
+crane (machine),
+creator:artist request,
+creator:k kanehira,
+creator:k,kanehira,
+creator:kanehira,
+creator:psm021,
+day,
+highres,
+house,
+landscape,
+medium:concept art,
+medium:high resolution,
+megastructure,
+meta:highres,
+meta:potential duplicate,
+meta:sfw,
+no humans,
+original character,
+outdoors,
+pixiv work:4422806,
+pool:scenery porn,
+rating:safe,
+ref,
+scenery,
+series:original,
+sky,
+source:pixiv,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:clockwork (og name 時計塔と千の柱の街) by k,kanehira,
+title:時計塔と千の柱の街,
+tower,
+uploader:zewen_senpai,
+zero pictured,
+オリジナル30000users入り,
+幻想風景,
+建造物,
+立体都市,
+荘厳,
+街,
+風景10000users入り,

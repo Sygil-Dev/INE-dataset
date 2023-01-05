@@ -1,32 +1,32 @@
-bird
-black bird
-bone
-booru:sankaku
-booru:sankaku channel
-category:ine
-character:skeleton
-creator:chris chan
-creator:crow
-creator:gyxycn
-crow
-dress
-female
-gender:female
-headdress
-long hair
-medium:low quality
-rating:s
-rating:safe
-series:original
-silver eyes
-skeleton
-solo
-species:avian
-species:bird
-studio:black bird
-subreddit:imaginaryimmortals
-subreddit:imraces
-title:'tree of the undead' by chris chan, aka gyxycn
-uploader:jg379
-white dress
-white hair
+bird,
+black bird,
+bone,
+booru:sankaku,
+booru:sankaku channel,
+category:ine,
+character:skeleton,
+creator:chris chan,
+creator:crow,
+creator:gyxycn,
+crow,
+dress,
+female,
+gender:female,
+headdress,
+long hair,
+medium:low quality,
+rating:s,
+rating:safe,
+series:original,
+silver eyes,
+skeleton,
+solo,
+species:avian,
+species:bird,
+studio:black bird,
+subreddit:imaginaryimmortals,
+subreddit:imraces,
+title:'tree of the undead' by chris chan, aka gyxycn,
+uploader:jg379,
+white dress,
+white hair,

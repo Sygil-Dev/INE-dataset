@@ -1,29 +1,29 @@
-animal ears
-axe
-birdcage
-bow
-cage
-category:ine
-creator:sasumata jirou
-ears
-fish
-flower
-fur
-fur trim
-hood
-hood up
-multicolored hair
-plant
-red eyes
-scenery
-series:original
-silver hair
-skull
-smile
-snow
-streaked hair
-subreddit:imaginaryvillages
-subreddit:imarchitecture
-title:雪うさぎの集落 by j_sasum
-uploader:kaingadev
-weapon
+animal ears,
+axe,
+birdcage,
+bow,
+cage,
+category:ine,
+creator:sasumata jirou,
+ears,
+fish,
+flower,
+fur,
+fur trim,
+hood,
+hood up,
+multicolored hair,
+plant,
+red eyes,
+scenery,
+series:original,
+silver hair,
+skull,
+smile,
+snow,
+streaked hair,
+subreddit:imaginaryvillages,
+subreddit:imarchitecture,
+title:雪うさぎの集落 by j_sasum,
+uploader:kaingadev,
+weapon,

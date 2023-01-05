@@ -1,34 +1,34 @@
-antennae
-bug
-category:ine
-creator:shadeofshinon
-creature
-flying
-full body
-gen 3 pokemon
-looking at viewer
-medium:transparent background
-medium:watermark
-medium:web address
-meta:commentary
-meta:english commentary
-moth
-no humans
-pov
-powder
-rating:safe
-realistic
-series:pokémon
-silver wind (pokemon)
-solo
-species:arthropod
-species:dustox
-species:insect
-species:monster
-species:pokémon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:dustox used silver wind! by shadeofshinon
-uploader:lol33ta
-yellow eyes
+antennae,
+bug,
+category:ine,
+creator:shadeofshinon,
+creature,
+flying,
+full body,
+gen 3 pokemon,
+looking at viewer,
+medium:transparent background,
+medium:watermark,
+medium:web address,
+meta:commentary,
+meta:english commentary,
+moth,
+no humans,
+pov,
+powder,
+rating:safe,
+realistic,
+series:pokémon,
+silver wind (pokemon),
+solo,
+species:arthropod,
+species:dustox,
+species:insect,
+species:monster,
+species:pokémon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:dustox used silver wind! by shadeofshinon,
+uploader:lol33ta,
+yellow eyes,

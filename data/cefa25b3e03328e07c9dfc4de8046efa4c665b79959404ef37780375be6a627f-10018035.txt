@@ -1,29 +1,29 @@
-10s
-category:ine
-character:ancient forest dragon (shingeki no bahamut)
-character:bahamut (shingeki no bahamut)
-cloud
-cloudy sky
-dragon
-fangs
-furry
-horns
-medium:high resolution
-meta:artist request
-meta:highres
-no humans
-open mouth
-rating:safe
-series:shingeki no bahamut
-series:shingeki no bahamut: genesis
-sky
-solo
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:ancient forest dragon
-tree
-uploader:_samishii_
-wings
+10s,
+category:ine,
+character:ancient forest dragon (shingeki no bahamut),
+character:bahamut (shingeki no bahamut),
+cloud,
+cloudy sky,
+dragon,
+fangs,
+furry,
+horns,
+medium:high resolution,
+meta:artist request,
+meta:highres,
+no humans,
+open mouth,
+rating:safe,
+series:shingeki no bahamut,
+series:shingeki no bahamut: genesis,
+sky,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:ancient forest dragon,
+tree,
+uploader:_samishii_,
+wings,

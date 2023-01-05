@@ -1,50 +1,50 @@
-::3
-blue sky
-blurry
-blurry background
-booru:danbooru
-category:ine
-character:bulbasaur
-claws
-cloud
-creator:yukifuri tsuyu
-day
-dew drop
-face::3
-fangs
-full body
-gen 1 pokemon
-happy
-leaf
-lily pad
-looking up
-medium:blurry background
-medium:high resolution
-meta:highres
-no humans
-open mouth
-outdoors
-outside
-plant
-pokemon (creature)
-rating:mature
-rating:safe
-red eyes
-series:pokemon
-series:pokémon
-sitting
-sky
-smile
-solo
-species:bulbasaur
-species:monster
-species:pokémon
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:untitled by つゆ
-uploader:pkmnart
-water
-water drop
+::3,
+blue sky,
+blurry,
+blurry background,
+booru:danbooru,
+category:ine,
+character:bulbasaur,
+claws,
+cloud,
+creator:yukifuri tsuyu,
+day,
+dew drop,
+face::3,
+fangs,
+full body,
+gen 1 pokemon,
+happy,
+leaf,
+lily pad,
+looking up,
+medium:blurry background,
+medium:high resolution,
+meta:highres,
+no humans,
+open mouth,
+outdoors,
+outside,
+plant,
+pokemon (creature),
+rating:mature,
+rating:safe,
+red eyes,
+series:pokemon,
+series:pokémon,
+sitting,
+sky,
+smile,
+solo,
+species:bulbasaur,
+species:monster,
+species:pokémon,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:untitled by つゆ,
+uploader:pkmnart,
+water,
+water drop,

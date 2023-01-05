@@ -1,27 +1,27 @@
-1boy
-armor
-black border
-border
-category:ine
-character:samus aran
-explosion
-fire
-flame
-glowing
-glowing eyes
-helmet
-letterboxed
-mecha
-pillarboxed
-power armor
-rating:safe
-realistic
-science fiction
-signature
-solo
-subreddit:imaginaryhalo
-subreddit:imfandoms
-title:emile by jadeitor
-uploader:[deleted]
-uploader:bleeding_choker
-varia suit
+1boy,
+armor,
+black border,
+border,
+category:ine,
+character:samus aran,
+explosion,
+fire,
+flame,
+glowing,
+glowing eyes,
+helmet,
+letterboxed,
+mecha,
+pillarboxed,
+power armor,
+rating:safe,
+realistic,
+science fiction,
+signature,
+solo,
+subreddit:imaginaryhalo,
+subreddit:imfandoms,
+title:emile by jadeitor,
+uploader:[deleted],
+uploader:bleeding_choker,
+varia suit,

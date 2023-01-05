@@ -1,50 +1,50 @@
-artist:shemiilayla
-blue eyes
-blue_eyes
-category:ine
-clothed
-clothing
-clothing:tagme
-copyright:asian_mythology
-copyright:east_asian_mythology
-copyright:mythology
-creator:shemiilayla
-day
-detailed_background
-duo
-female
-feral
-furry
-gender:female
-grass
-horn
-horns
-medium:detailed background
-medium:high resolution
-meta:2019
-meta:hi_res
-outside
-rating:safe
-scales
-series:asian mythology
-series:east asian mythology
-series:mythology
-sky
-species:dragon
-species:eastern dragon
-species:eastern_dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-standing
-subreddit:imaginarydragons
-subreddit:immonsters
-title:"take me with you" by me
-uploader:shemii
-white body
-white scales
-white_body
-white_scales
-year:2019
+artist:shemiilayla,
+blue eyes,
+blue_eyes,
+category:ine,
+clothed,
+clothing,
+clothing:tagme,
+copyright:asian_mythology,
+copyright:east_asian_mythology,
+copyright:mythology,
+creator:shemiilayla,
+day,
+detailed_background,
+duo,
+female,
+feral,
+furry,
+gender:female,
+grass,
+horn,
+horns,
+medium:detailed background,
+medium:high resolution,
+meta:2019,
+meta:hi_res,
+outside,
+rating:safe,
+scales,
+series:asian mythology,
+series:east asian mythology,
+series:mythology,
+sky,
+species:dragon,
+species:eastern dragon,
+species:eastern_dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+standing,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:"take me with you" by me,
+uploader:shemii,
+white body,
+white scales,
+white_body,
+white_scales,
+year:2019,
