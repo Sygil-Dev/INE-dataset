@@ -1,40 +1,40 @@
-1 female
-1girl
-bag
-booru:sankaku
-booru:sankaku channel
-bracelet
-brown hair
-category:ine
-character:sally (nbc)
-creator:fdasuarez
-dress
-female
-full moon
-gender:female
-handbag
-jewelry
-leaf
-lips
-long hair
-looking at viewer
-moon
-pale skin
-point of view
-pov
-rating:s
-rating:safe
-red hair
-red lips
-series:the nightmare before christmas
-species:undead
-species:zombie
-standing
-stitches
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-title:sally by fernanda suarez
-undead
-uploader:n0laloth
-zombie
-zombie girl
+1 female,
+1girl,
+bag,
+booru:sankaku,
+booru:sankaku channel,
+bracelet,
+brown hair,
+category:ine,
+character:sally (nbc),
+creator:fdasuarez,
+dress,
+female,
+full moon,
+gender:female,
+handbag,
+jewelry,
+leaf,
+lips,
+long hair,
+looking at viewer,
+moon,
+pale skin,
+point of view,
+pov,
+rating:s,
+rating:safe,
+red hair,
+red lips,
+series:the nightmare before christmas,
+species:undead,
+species:zombie,
+standing,
+stitches,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+title:sally by fernanda suarez,
+undead,
+uploader:n0laloth,
+zombie,
+zombie girl,

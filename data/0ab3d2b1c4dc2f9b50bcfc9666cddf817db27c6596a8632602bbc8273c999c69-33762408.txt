@@ -1,25 +1,25 @@
-category:ine
-cloud
-constellation
-crescent moon
-earth (planet)
-full moon
-galaxy
-logo
-milky way
-moon
-night
-night sky
-planet
-rating:safe
-shooting star
-sky
-space
-space craft
-star (sky)
-star (symbol)
-starry sky
-subreddit:imaginaryportals
-subreddit:imtechnology
-title:"shortcut kyba system" acrylic on canvas 1x3 feet
-uploader:kozscabble
+category:ine,
+cloud,
+constellation,
+crescent moon,
+earth (planet),
+full moon,
+galaxy,
+logo,
+milky way,
+moon,
+night,
+night sky,
+planet,
+rating:safe,
+shooting star,
+sky,
+space,
+space craft,
+star (sky),
+star (symbol),
+starry sky,
+subreddit:imaginaryportals,
+subreddit:imtechnology,
+title:"shortcut kyba system" acrylic on canvas 1x3 feet,
+uploader:kozscabble,

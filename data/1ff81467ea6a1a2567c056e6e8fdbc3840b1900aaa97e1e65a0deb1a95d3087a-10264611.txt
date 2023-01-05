@@ -1,29 +1,29 @@
-1 female
-braid
-category:ine
-character:daenerys targaryen
-creator:twomix
-face
-gender:female
-lips
-long hair
-looking at viewer
-looking back
-medium:absurd resolution
-medium:high resolution
-meta:absurdres
-meta:highres
-meta:md5 mismatch
-pov
-purple eyes
-rating:mature
-rating:safe
-series:a song of ice and fire
-series:game of thrones
-solo
-subreddit:imaginarywesteros
-subreddit:imfandoms
-title:daenerys by twomix
-twomix
-uploader:bring_the_dawn
-white hair
+1 female,
+braid,
+category:ine,
+character:daenerys targaryen,
+creator:twomix,
+face,
+gender:female,
+lips,
+long hair,
+looking at viewer,
+looking back,
+medium:absurd resolution,
+medium:high resolution,
+meta:absurdres,
+meta:highres,
+meta:md5 mismatch,
+pov,
+purple eyes,
+rating:mature,
+rating:safe,
+series:a song of ice and fire,
+series:game of thrones,
+solo,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+title:daenerys by twomix,
+twomix,
+uploader:bring_the_dawn,
+white hair,

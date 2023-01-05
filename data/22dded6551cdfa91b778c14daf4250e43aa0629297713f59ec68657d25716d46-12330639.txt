@@ -1,43 +1,43 @@
-booru:e621
-breath powers
-category:ine
-creator:david gaillet
-elemental manipulation
-feathered wings
-feathers
-feral
-flying
-frozen
-furry
-gender:female
-group
-horn
-horns
-ice
-ice breathing
-ice manipulation
-long neck
-long tail
-long-tail
-meta:official art
-open mouth
-perspective
-quadruped
-rating:safe
-series:hasbro
-series:magic: the gathering
-series:official art
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-tail
-title:icefall regent by david gaillet
-uploader:drunkindragon
-wings
+booru:e621,
+breath powers,
+category:ine,
+creator:david gaillet,
+elemental manipulation,
+feathered wings,
+feathers,
+feral,
+flying,
+frozen,
+furry,
+gender:female,
+group,
+horn,
+horns,
+ice,
+ice breathing,
+ice manipulation,
+long neck,
+long tail,
+long-tail,
+meta:official art,
+open mouth,
+perspective,
+quadruped,
+rating:safe,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+tail,
+title:icefall regent by david gaillet,
+uploader:drunkindragon,
+wings,

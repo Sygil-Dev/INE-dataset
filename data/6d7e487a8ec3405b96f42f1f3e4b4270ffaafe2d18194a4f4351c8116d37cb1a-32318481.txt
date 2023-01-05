@@ -1,54 +1,54 @@
-2019
-absurd res
-artist:wolf250
-category:ine
-claws
-creator:wolf250
-day
-detailed background
-detailed_background
-digital media (artwork)
-flying
-furry
-hi res
-horn
-horns
-lightning
-medium:absurd resolution
-medium:detailed background
-medium:digital media
-medium:high resolution
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:absurd_res
-meta:digital_media_(artwork)
-meta:english_text
-meta:hi_res
-meta:url
-open mouth
-open_mouth
-orange eyes
-orange_eyes
-outside
-rating:safe
-scales
-sky
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-spines
-subreddit:imaginarydragons
-subreddit:immonsters
-teeth
-text
-title:"dauntless" by wolf250
-title:dauntless.
-tongue
-uploader:torvusil
-wings
-year:2019
+2019,
+absurd res,
+artist:wolf250,
+category:ine,
+claws,
+creator:wolf250,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+flying,
+furry,
+hi res,
+horn,
+horns,
+lightning,
+medium:absurd resolution,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:absurd_res,
+meta:digital_media_(artwork),
+meta:english_text,
+meta:hi_res,
+meta:url,
+open mouth,
+open_mouth,
+orange eyes,
+orange_eyes,
+outside,
+rating:safe,
+scales,
+sky,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+spines,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+teeth,
+text,
+title:"dauntless" by wolf250,
+title:dauntless.,
+tongue,
+uploader:torvusil,
+wings,
+year:2019,

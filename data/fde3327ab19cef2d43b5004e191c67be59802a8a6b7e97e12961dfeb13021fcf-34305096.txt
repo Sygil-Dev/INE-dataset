@@ -1,36 +1,36 @@
-1 female
-aloija
-booru:sankaku channel
-category:ine
-character:paladin
-clothing:armor
-colored sclera
-female
-female focus
-female only
-gender:female
-horns
-lipstick
-long hair
-magic
-makeup
-medium:high resolution
-monster girl
-purple lipstick
-rating:safe
-runes
-series:warcraft
-series:world of warcraft
-solo
-solo female
-species:draenei
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imaginarymonstergirls
-subreddit:imfandoms
-subreddit:immonsters
-title:sitra by aloija
-uploader:lol33ta
-white hair
-yellow eyes
-yellow sclera
+1 female,
+aloija,
+booru:sankaku channel,
+category:ine,
+character:paladin,
+clothing:armor,
+colored sclera,
+female,
+female focus,
+female only,
+gender:female,
+horns,
+lipstick,
+long hair,
+magic,
+makeup,
+medium:high resolution,
+monster girl,
+purple lipstick,
+rating:safe,
+runes,
+series:warcraft,
+series:world of warcraft,
+solo,
+solo female,
+species:draenei,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imaginarymonstergirls,
+subreddit:imfandoms,
+subreddit:immonsters,
+title:sitra by aloija,
+uploader:lol33ta,
+white hair,
+yellow eyes,
+yellow sclera,

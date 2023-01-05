@@ -1,26 +1,26 @@
-alpha flight
-aurora
-box art
-category:ine
-comic
-comic artist
-comic book art
-comic book artist
-comics
-creator:david nakayama
-david nakayama
-guardian
-hasbro
-marvel
-marvel legends
-medium:digital 2d
-northstar
-puck
-shaman
-snowbird
-subreddit:imaginarymarvel
-subreddit:imfandoms
-title:alpha flight by david nakayama
-toy
-toys
-uploader:lol33ta
+alpha flight,
+aurora,
+box art,
+category:ine,
+comic,
+comic artist,
+comic book art,
+comic book artist,
+comics,
+creator:david nakayama,
+david nakayama,
+guardian,
+hasbro,
+marvel,
+marvel legends,
+medium:digital 2d,
+northstar,
+puck,
+shaman,
+snowbird,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+title:alpha flight by david nakayama,
+toy,
+toys,
+uploader:lol33ta,

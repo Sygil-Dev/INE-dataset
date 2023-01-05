@@ -1,21 +1,21 @@
-1girl
-building
-category:ine
-fake screenshot
-heads-up display
-health bar
-long hair
-neon trim
-outdoors
-rating:safe
-ruins
-scenery
-science fiction
-solo
-standing
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:city lights by lorenz hideyoshi ruwwe
-uploader:o-shi
-user interface
-very long hair
+1girl,
+building,
+category:ine,
+fake screenshot,
+heads-up display,
+health bar,
+long hair,
+neon trim,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+science fiction,
+solo,
+standing,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:city lights by lorenz hideyoshi ruwwe,
+uploader:o-shi,
+user interface,
+very long hair,

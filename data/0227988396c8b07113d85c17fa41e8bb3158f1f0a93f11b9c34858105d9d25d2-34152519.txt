@@ -1,49 +1,49 @@
-2 females
-2girls
-artist name
-artstation
-autumn
-autumn leaves
-blue eyes
-booru:sankaku channel
-braid
-category:ine
-chalseu
-character:anna (frozen)
-character:anna of arendelle
-character:elsa (frozen)
-character:elsa of arendelle
-duo
-embers
-falling leaves
-family
-female
-freckles
-gender:female
-green eyes
-hair over shoulder
-leaf
-leaves in wind
-lips
-long hair
-makeup
-medium:4:3 aspect ratio
-medium:high resolution
-multiple females
-multiple girls
-petals
-rating:safe
-series:frozen
-series:frozen (disney)
-series:frozen ii (disney)
-siblings
-single braid
-sisters
-studio:disney
-subreddit:imaginarydisney
-subreddit:imfandoms
-tied hair
-title:frozen by charles deroo
-twin braids
-uploader:lol33ta
-wind
+2 females,
+2girls,
+artist name,
+artstation,
+autumn,
+autumn leaves,
+blue eyes,
+booru:sankaku channel,
+braid,
+category:ine,
+chalseu,
+character:anna (frozen),
+character:anna of arendelle,
+character:elsa (frozen),
+character:elsa of arendelle,
+duo,
+embers,
+falling leaves,
+family,
+female,
+freckles,
+gender:female,
+green eyes,
+hair over shoulder,
+leaf,
+leaves in wind,
+lips,
+long hair,
+makeup,
+medium:4:3 aspect ratio,
+medium:high resolution,
+multiple females,
+multiple girls,
+petals,
+rating:safe,
+series:frozen,
+series:frozen (disney),
+series:frozen ii (disney),
+siblings,
+single braid,
+sisters,
+studio:disney,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+tied hair,
+title:frozen by charles deroo,
+twin braids,
+uploader:lol33ta,
+wind,

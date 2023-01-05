@@ -1,23 +1,23 @@
-artist name
-category:ine
-claws
-cloud
-cloudy sky
-dragon
-dragon wings
-fangs
-horns
-monster
-no humans
-open mouth
-rating:safe
-sharp teeth
-sky
-spikes
-subreddit:imaginarydragons
-subreddit:immonsters
-tail
-teeth
-title:blue dragon by leo batic
-uploader:lol33ta
-wings
+artist name,
+category:ine,
+claws,
+cloud,
+cloudy sky,
+dragon,
+dragon wings,
+fangs,
+horns,
+monster,
+no humans,
+open mouth,
+rating:safe,
+sharp teeth,
+sky,
+spikes,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+tail,
+teeth,
+title:blue dragon by leo batic,
+uploader:lol33ta,
+wings,

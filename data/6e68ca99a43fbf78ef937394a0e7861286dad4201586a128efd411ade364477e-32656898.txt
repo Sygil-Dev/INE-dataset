@@ -1,63 +1,63 @@
-2019
-artist:chromamancer
-autumn
-avian
-bird
-category:ine
-claws
-creator:chromamancer
-creator:support me with shinies!
-day
-detailed background
-detailed_background
-digital media (artwork)
-dragon
-fall
-feral
-forest
-furry
-group
-hi res
-horn
-male
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:absurd_res
-meta:digital_media_(artwork)
-meta:hi_res
-meta:red_theme
-nature
-outdoors
-outside
-quadruped
-rating:safe
-red scales
-red theme
-red_body
-red_scales
-scales
-scalie
-size_difference
-sky
-smile
-solo
-source:furaffinity.net
-species:avian
-species:bird
-species:dragon
-species:mythical
-species:scalie
-species:western_dragon
-spines
-subreddit:imaginarydragons
-subreddit:immonsters
-title:autumnus
-title:autumnus by chromamancer
-tree
-uploader:vikingzx
-western dragon
-wings
-year:2019
+2019,
+artist:chromamancer,
+autumn,
+avian,
+bird,
+category:ine,
+claws,
+creator:chromamancer,
+creator:support me with shinies!,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+dragon,
+fall,
+feral,
+forest,
+furry,
+group,
+hi res,
+horn,
+male,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:absurd_res,
+meta:digital_media_(artwork),
+meta:hi_res,
+meta:red_theme,
+nature,
+outdoors,
+outside,
+quadruped,
+rating:safe,
+red scales,
+red theme,
+red_body,
+red_scales,
+scales,
+scalie,
+size_difference,
+sky,
+smile,
+solo,
+source:furaffinity.net,
+species:avian,
+species:bird,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western_dragon,
+spines,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:autumnus,
+title:autumnus by chromamancer,
+tree,
+uploader:vikingzx,
+western dragon,
+wings,
+year:2019,

@@ -1,28 +1,28 @@
-beak
-booru:e621
-category:ine
-creator:scott murphy
-feral
-flying
-group
-landscape
-macro
-meta:official art
-multi wing
-rating:safe
-river
-series:hasbro
-series:magic: the gathering
-series:official art
-signature
-solo focus
-species:avian
-species:bird
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryanimals
-subreddit:imnature
-title:aetherstorm roc by scott murphy
-tree
-uploader:faeryknight
-wings
+beak,
+booru:e621,
+category:ine,
+creator:scott murphy,
+feral,
+flying,
+group,
+landscape,
+macro,
+meta:official art,
+multi wing,
+rating:safe,
+river,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+signature,
+solo focus,
+species:avian,
+species:bird,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:aetherstorm roc by scott murphy,
+tree,
+uploader:faeryknight,
+wings,

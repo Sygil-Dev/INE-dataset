@@ -1,37 +1,37 @@
-backlighting
-backlit
-beak
-booru:e621
-category:ine
-creator:titus lunter
-dutch angle
-feathered wings
-feathers
-feral
-flying
-landing
-landscape
-light
-lighting
-looking down
-meta:official art
-rating:safe
-restricted palette
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-solo
-species:avian
-species:bird
-species:owl
-spread wings
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryanimals
-subreddit:imnature
-talons
-title:ringwarden owl by titus lunter
-uploader:faeryknight
-website:reddit
-wings
+backlighting,
+backlit,
+beak,
+booru:e621,
+category:ine,
+creator:titus lunter,
+dutch angle,
+feathered wings,
+feathers,
+feral,
+flying,
+landing,
+landscape,
+light,
+lighting,
+looking down,
+meta:official art,
+rating:safe,
+restricted palette,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+solo,
+species:avian,
+species:bird,
+species:owl,
+spread wings,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+talons,
+title:ringwarden owl by titus lunter,
+uploader:faeryknight,
+website:reddit,
+wings,

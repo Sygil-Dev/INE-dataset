@@ -1,24 +1,24 @@
-1boy
-artist name
-beard
-cape
-category:ine
-dated
-facial hair
-hat
-holding
-jewelry
-male focus
-mustache
-necklace
-old
-old man
-rating:safe
-realistic
-signature
-solo
-subreddit:imaginaryhumans
-subreddit:imraces
-title:native by omar samy
-uploader:dontaskmeplease333
-weapon
+1boy,
+artist name,
+beard,
+cape,
+category:ine,
+dated,
+facial hair,
+hat,
+holding,
+jewelry,
+male focus,
+mustache,
+necklace,
+old,
+old man,
+rating:safe,
+realistic,
+signature,
+solo,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:native by omar samy,
+uploader:dontaskmeplease333,
+weapon,

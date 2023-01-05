@@ -1,69 +1,69 @@
-artist:sandara
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:sandara
-day
-detailed background
-detailed_background
-feral
-forest
-fur
-gen 8 pokemon
-grass
-green eyes
-green mane
-green_eyes
-green_mane
-group
-hair
-hooves
-horn
-horns
-leaf
-mane
-medium:detailed background
-meta:shaded
-moss
-multicolored mane
-multicolored_mane
-orange mane
-orange_mane
-outside
-plant
-purple mane
-purple_mane
-rating:safe
-river
-series:nintendo
-series:pokémon
-shaded
-solo focus
-solo_focus
-species:equid
-species:equine
-species:galarian ponyta
-species:galarian_ponyta
-species:mammal
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:regional form (pokémon)
-species:regional variant
-species:regional_form_(pokémon)
-standing
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:galarian ponyta
-title:galarian ponyta by sandara tang
-tree
-uploader:lol33ta
-video games
-video_games
-white body
-white fur
-white_body
-white_fur
+artist:sandara,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:sandara,
+day,
+detailed background,
+detailed_background,
+feral,
+forest,
+fur,
+gen 8 pokemon,
+grass,
+green eyes,
+green mane,
+green_eyes,
+green_mane,
+group,
+hair,
+hooves,
+horn,
+horns,
+leaf,
+mane,
+medium:detailed background,
+meta:shaded,
+moss,
+multicolored mane,
+multicolored_mane,
+orange mane,
+orange_mane,
+outside,
+plant,
+purple mane,
+purple_mane,
+rating:safe,
+river,
+series:nintendo,
+series:pokémon,
+shaded,
+solo focus,
+solo_focus,
+species:equid,
+species:equine,
+species:galarian ponyta,
+species:galarian_ponyta,
+species:mammal,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:regional form (pokémon),
+species:regional variant,
+species:regional_form_(pokémon),
+standing,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:galarian ponyta,
+title:galarian ponyta by sandara tang,
+tree,
+uploader:lol33ta,
+video games,
+video_games,
+white body,
+white fur,
+white_body,
+white_fur,

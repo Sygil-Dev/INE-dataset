@@ -1,66 +1,66 @@
-adam paquette
-all fours
-ambiguous gender
-booru:e621
-canine
-category:ine
-cloud
-creator:adam paquette
-detailed
-detailed background
-digital media (artwork)
-fangs
-fog
-forest
-fur
-gender:ambiguous
-glowing
-glowing eyes
-grey body
-grey fur
-group
-hi res
-high resolution
-howl
-landscape
-magic the gathering
-mammal
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:official art
-monster
-moon
-night
-official art
-open mouth
-outside
-rating:safe
-river
-running
-semi-anthro
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-sharp teeth
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarywerewolves
-subreddit:immonsters
-teeth
-title:waxing moon by adam paquette
-tree
-uploader:faeryknight
-were
-werewolf
+adam paquette,
+all fours,
+ambiguous gender,
+booru:e621,
+canine,
+category:ine,
+cloud,
+creator:adam paquette,
+detailed,
+detailed background,
+digital media (artwork),
+fangs,
+fog,
+forest,
+fur,
+gender:ambiguous,
+glowing,
+glowing eyes,
+grey body,
+grey fur,
+group,
+hi res,
+high resolution,
+howl,
+landscape,
+magic the gathering,
+mammal,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:official art,
+monster,
+moon,
+night,
+official art,
+open mouth,
+outside,
+rating:safe,
+river,
+running,
+semi-anthro,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+sharp teeth,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+teeth,
+title:waxing moon by adam paquette,
+tree,
+uploader:faeryknight,
+were,
+werewolf,

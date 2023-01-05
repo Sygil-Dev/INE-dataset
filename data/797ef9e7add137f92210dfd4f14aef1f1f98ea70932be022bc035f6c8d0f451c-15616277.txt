@@ -1,30 +1,30 @@
-category:ine
-claws
-cloud
-copyright:original
-creator:pixiv258105
-dark
-fangs
-fire
-furry
-gender:female
-genre:fantasy
-glowing
-glowing eyes
-horns
-meta:artist request
-no humans
-rating:safe
-series:original
-sky
-solo
-species:dragon
-species:mythical
-species:scalie
-spikes
-subreddit:imaginarydragons
-subreddit:immonsters
-tail
-title:fire drake by sansyu
-uploader:faeryknight
-wings
+category:ine,
+claws,
+cloud,
+copyright:original,
+creator:pixiv258105,
+dark,
+fangs,
+fire,
+furry,
+gender:female,
+genre:fantasy,
+glowing,
+glowing eyes,
+horns,
+meta:artist request,
+no humans,
+rating:safe,
+series:original,
+sky,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+spikes,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+tail,
+title:fire drake by sansyu,
+uploader:faeryknight,
+wings,

@@ -1,31 +1,31 @@
-1girl
-abomination
-armor
-blood
-blood on face
-blood on weapon
-boots
-border
-category:ine
-corpse
-creator:keith thompson
-eldritch abomination
-gas mask
-gun
-guro
-hooves
-horror
-horse skull
-injury
-monster
-pitchfork
-rating:safe
-rifle
-scythe
-spine
-subreddit:imaginarybehemoths
-subreddit:immonsters
-title:pripyat beast by keith thompson
-undead
-uploader:goreclawtherender
-weapon
+1girl,
+abomination,
+armor,
+blood,
+blood on face,
+blood on weapon,
+boots,
+border,
+category:ine,
+corpse,
+creator:keith thompson,
+eldritch abomination,
+gas mask,
+gun,
+guro,
+hooves,
+horror,
+horse skull,
+injury,
+monster,
+pitchfork,
+rating:safe,
+rifle,
+scythe,
+spine,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+title:pripyat beast by keith thompson,
+undead,
+uploader:goreclawtherender,
+weapon,

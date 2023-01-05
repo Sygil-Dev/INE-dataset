@@ -1,31 +1,31 @@
-action
-aiming
-battle
-burning
-campfire
-casing ejection
-category:ine
-explosion
-fire
-firing
-flame
-gun
-handgun
-helmet
-laser
-military
-military uniform
-multiple boys
-muzzle flash
-rating:safe
-rifle
-shell casing
-smoke
-sparks
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-title:stalker, igor solovyev
-torch
-uniform
-uploader:superbreality2
-weapon
+action,
+aiming,
+battle,
+burning,
+campfire,
+casing ejection,
+category:ine,
+explosion,
+fire,
+firing,
+flame,
+gun,
+handgun,
+helmet,
+laser,
+military,
+military uniform,
+multiple boys,
+muzzle flash,
+rating:safe,
+rifle,
+shell casing,
+smoke,
+sparks,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+title:stalker, igor solovyev,
+torch,
+uniform,
+uploader:superbreality2,
+weapon,

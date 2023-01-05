@@ -1,49 +1,49 @@
-ambiguous gender
-booru:e621
-building
-category:ine
-city
-cityscape
-claws
-cloud
-creator:john severin brassell
-feral
-flying
-furry
-gender:ambiguous
-gender:male
-group
-horn
-horns
-male
-membrane (anatomy)
-membranous wings
-meta:3:2
-meta:official art
-outside
-perspective
-rating:safe
-sculpture
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-sky
-solo focus
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-species:wyvern
-spines
-statue
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-title:wind drake by john severin brassel
-uploader:faeryknight
-wings
+ambiguous gender,
+booru:e621,
+building,
+category:ine,
+city,
+cityscape,
+claws,
+cloud,
+creator:john severin brassell,
+feral,
+flying,
+furry,
+gender:ambiguous,
+gender:male,
+group,
+horn,
+horns,
+male,
+membrane (anatomy),
+membranous wings,
+meta:3:2,
+meta:official art,
+outside,
+perspective,
+rating:safe,
+sculpture,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+sky,
+solo focus,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+species:wyvern,
+spines,
+statue,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:wind drake by john severin brassel,
+uploader:faeryknight,
+wings,

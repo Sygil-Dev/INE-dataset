@@ -1,26 +1,26 @@
-bat wings
-blurry
-blurry background
-blurry foreground
-category:ine
-claws
-cloud
-demon wings
-depth of field
-dragon
-dragon horns
-dragon wings
-flying
-horns
-monster
-no humans
-rating:safe
-scales
-sharp teeth
-subreddit:imaginarydragons
-subreddit:immonsters
-tail
-teeth
-title:vaishali and nayan are miniature paper cut artists from india.
-uploader:captainrelyk
-wings
+bat wings,
+blurry,
+blurry background,
+blurry foreground,
+category:ine,
+claws,
+cloud,
+demon wings,
+depth of field,
+dragon,
+dragon horns,
+dragon wings,
+flying,
+horns,
+monster,
+no humans,
+rating:safe,
+scales,
+sharp teeth,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+tail,
+teeth,
+title:vaishali and nayan are miniature paper cut artists from india.,
+uploader:captainrelyk,
+wings,

@@ -1,29 +1,29 @@
-1boy
-barefoot
-black hair
-blood
-blood on clothes
-blood on face
-blood on hands
-blood on weapon
-blood splatter
-category:ine
-cloud
-cuts
-dirty
-hakama
-hakama skirt
-injury
-japanese armor
-japanese clothes
-male focus
-rating:safe
-sky
-sode
-solo
-string of fate
-subreddit:imaginaryhumans
-subreddit:imraces
-title:mtg planeswalker-guo by yue moon
-uploader:leavebritneyalone22
-weapon
+1boy,
+barefoot,
+black hair,
+blood,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on weapon,
+blood splatter,
+category:ine,
+cloud,
+cuts,
+dirty,
+hakama,
+hakama skirt,
+injury,
+japanese armor,
+japanese clothes,
+male focus,
+rating:safe,
+sky,
+sode,
+solo,
+string of fate,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:mtg planeswalker-guo by yue moon,
+uploader:leavebritneyalone22,
+weapon,

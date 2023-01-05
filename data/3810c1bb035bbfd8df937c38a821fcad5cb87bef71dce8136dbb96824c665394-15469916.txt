@@ -1,34 +1,34 @@
-1 male
-armor
-art
-category:ine
-character:blood knight
-creator:matt cavotta
-fire
-gender:male
-genre:fantasy
-headwear
-helmet
-male focus
-medium:high resolution
-meta:highres
-meta:official art
-open mouth
-rating:safe
-riding
-series:magic: the gathering
-solo
-species:equine
-species:horse
-species:mammal
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarybestof
-subreddit:imaginaryknights
-subreddit:imcharacters
-subreddit:immeta
-teeth
-title:[/r/imaginarycarnage] blood knight by matt cavotta
-title:blood knight by matt cavotta
-uploader:faeryknight
-uploader:lol33ta
+1 male,
+armor,
+art,
+category:ine,
+character:blood knight,
+creator:matt cavotta,
+fire,
+gender:male,
+genre:fantasy,
+headwear,
+helmet,
+male focus,
+medium:high resolution,
+meta:highres,
+meta:official art,
+open mouth,
+rating:safe,
+riding,
+series:magic: the gathering,
+solo,
+species:equine,
+species:horse,
+species:mammal,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarybestof,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+subreddit:immeta,
+teeth,
+title:[/r/imaginarycarnage] blood knight by matt cavotta,
+title:blood knight by matt cavotta,
+uploader:faeryknight,
+uploader:lol33ta,

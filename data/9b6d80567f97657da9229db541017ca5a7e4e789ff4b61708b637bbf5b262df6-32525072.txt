@@ -1,31 +1,31 @@
-art
-category:concept art
-category:ine
-concept art
-creator:leonardo silva carvalho
-creature
-furry
-game
-game development
-hst
-indie
-lizard
-medium:digital 2d
-monster
-scp
-scp 682
-scp foundation
-species:lizard
-species:reptile
-species:scalie
-studios
-subreddit:conceptart
-subreddit:imaginarybeasts
-subreddit:imaginarybehemoths
-subreddit:imaginaryhorrors
-subreddit:immeta
-subreddit:immonsters
-title:scp - 682 (full body concept-art)
-title:scp - 682 (full-body concepts for "scp: fragmented minds")
-title:scp - 682 (full-body concepts for "scp: fragmented minds") [oc]
-uploader:shademeadows
+art,
+category:concept art,
+category:ine,
+concept art,
+creator:leonardo silva carvalho,
+creature,
+furry,
+game,
+game development,
+hst,
+indie,
+lizard,
+medium:digital 2d,
+monster,
+scp,
+scp 682,
+scp foundation,
+species:lizard,
+species:reptile,
+species:scalie,
+studios,
+subreddit:conceptart,
+subreddit:imaginarybeasts,
+subreddit:imaginarybehemoths,
+subreddit:imaginaryhorrors,
+subreddit:immeta,
+subreddit:immonsters,
+title:scp - 682 (full body concept-art),
+title:scp - 682 (full-body concepts for "scp: fragmented minds"),
+title:scp - 682 (full-body concepts for "scp: fragmented minds") [oc],
+uploader:shademeadows,

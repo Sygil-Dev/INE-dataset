@@ -1,31 +1,31 @@
-1girl
-autumn
-autumn leaves
-boots
-bracelet
-brown hair
-campfire
-category:ine
-chinese clothes
-dusk
-evening
-hair bun
-hair ornament
-hair stick
-jewelry
-leaf
-official alternate costume
-orange sky
-outdoors
-pelvic curtain
-rating:safe
-sitting
-solo
-subreddit:imaginarypets
-subreddit:immeta
-sunset
-title:the bridge by dahlia khodur
-tree
-twilight
-uploader:myrandall
-web address
+1girl,
+autumn,
+autumn leaves,
+boots,
+bracelet,
+brown hair,
+campfire,
+category:ine,
+chinese clothes,
+dusk,
+evening,
+hair bun,
+hair ornament,
+hair stick,
+jewelry,
+leaf,
+official alternate costume,
+orange sky,
+outdoors,
+pelvic curtain,
+rating:safe,
+sitting,
+solo,
+subreddit:imaginarypets,
+subreddit:immeta,
+sunset,
+title:the bridge by dahlia khodur,
+tree,
+twilight,
+uploader:myrandall,
+web address,

@@ -1,34 +1,34 @@
-2019
-booru:e621
-category:ine
-creator:turnipberry
-day
-duo
-eyes closed
-feral
-forest
-grass
-hooves
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-open mouth
-outside
-rating:safe
-series:pokémon
-smile
-species:equid
-species:mammal
-species:unknown pokémon
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immeta
-teeth
-title:"glimwood tangle" by turnipberry
-tongue
-tree
-uploader:torvusil
-video games
+2019,
+booru:e621,
+category:ine,
+creator:turnipberry,
+day,
+duo,
+eyes closed,
+feral,
+forest,
+grass,
+hooves,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+open mouth,
+outside,
+rating:safe,
+series:pokémon,
+smile,
+species:equid,
+species:mammal,
+species:unknown pokémon,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immeta,
+teeth,
+title:"glimwood tangle" by turnipberry,
+tongue,
+tree,
+uploader:torvusil,
+video games,

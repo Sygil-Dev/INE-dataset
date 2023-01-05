@@ -1,21 +1,21 @@
-category:ine
-fire
-furry
-giant
-medium:digital media
-species:dragon
-species:mythical
-species:scalie
-stefan koidl
-subreddit:imaginaryadrenaline
-subreddit:imaginarybehemoths
-subreddit:imaginarydragons
-subreddit:immeta
-subreddit:immonsters
-title:dragon slayer by stefan koidl
-title:wyvern slayer - stefan koidl
-title:wyvern slayer by stefan koidl
-uploader:blood-n-cheese
-uploader:mtlgrems
-uploader:o-shi
-warrior
+category:ine,
+fire,
+furry,
+giant,
+medium:digital media,
+species:dragon,
+species:mythical,
+species:scalie,
+stefan koidl,
+subreddit:imaginaryadrenaline,
+subreddit:imaginarybehemoths,
+subreddit:imaginarydragons,
+subreddit:immeta,
+subreddit:immonsters,
+title:dragon slayer by stefan koidl,
+title:wyvern slayer - stefan koidl,
+title:wyvern slayer by stefan koidl,
+uploader:blood-n-cheese,
+uploader:mtlgrems,
+uploader:o-shi,
+warrior,

@@ -1,24 +1,24 @@
-artist name
-assault rifle
-battle
-category:ine
-ground vehicle
-gun
-mecha
-military
-military vehicle
-motor vehicle
-rating:safe
-realistic
-rifle
-sand
-science fiction
-signature
-smoke
-subreddit:imaginaryaliens
-subreddit:imraces
-title:meeting by ahaas
-uploader:wiildman8
-water
-weapon
-website:reddit
+artist name,
+assault rifle,
+battle,
+category:ine,
+ground vehicle,
+gun,
+mecha,
+military,
+military vehicle,
+motor vehicle,
+rating:safe,
+realistic,
+rifle,
+sand,
+science fiction,
+signature,
+smoke,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+title:meeting by ahaas,
+uploader:wiildman8,
+water,
+weapon,
+website:reddit,

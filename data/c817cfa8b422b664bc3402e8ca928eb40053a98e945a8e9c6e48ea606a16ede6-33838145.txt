@@ -1,43 +1,43 @@
-animal
-arrow (arrows)
-back to back
-belt
-bird (birds)
-black hair
-blonde hair
-bow (weapon)
-boy
-brown eyes
-cape
-category:ine
-creator:majo
-depth of field
-elf
-field
-fingerless gloves
-girl
-gloves
-highres
-long hair
-looking away
-pants
-parted lips
-pointy ears
-quiver
-series:original
-site:anime-pictures.net
-sitting
-sky
-standing
-subreddit:imaginaryarchers
-subreddit:imaginaryelves
-subreddit:imcharacters
-subreddit:imraces
-tall image
-title:elf archers by majo yeonjun
-title:elf archers by yeonjun park
-uploader:blood-n-cheese
-uploader:faeryknight
-uploader:myrandall
-weapon
-wind
+animal,
+arrow (arrows),
+back to back,
+belt,
+bird (birds),
+black hair,
+blonde hair,
+bow (weapon),
+boy,
+brown eyes,
+cape,
+category:ine,
+creator:majo,
+depth of field,
+elf,
+field,
+fingerless gloves,
+girl,
+gloves,
+highres,
+long hair,
+looking away,
+pants,
+parted lips,
+pointy ears,
+quiver,
+series:original,
+site:anime-pictures.net,
+sitting,
+sky,
+standing,
+subreddit:imaginaryarchers,
+subreddit:imaginaryelves,
+subreddit:imcharacters,
+subreddit:imraces,
+tall image,
+title:elf archers by majo yeonjun,
+title:elf archers by yeonjun park,
+uploader:blood-n-cheese,
+uploader:faeryknight,
+uploader:myrandall,
+weapon,
+wind,

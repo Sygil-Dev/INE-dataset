@@ -1,90 +1,90 @@
-1 male
-1boy
-aquila (symbol)
-armor
-artist name
-bat wings
-beard
-bird
-blade
-booru:gelbooru
-boots
-brown hair
-cape
-category:ine
-character:aquila
-character:emperor of mankind
-character:the emperor
-claws
-clothing:footwear
-clothing:gloves
-creator:genzoman
-eagle
-epic
-facial hair
-fire
-fire sword
-flame
-flaming sword
-flaming weapon
-footwear
-gauntlets
-gem
-gender:male
-genre:science fiction
-gloves
-gold
-gold armor
-gothic
-greaves
-halo
-imperium
-king
-knee pads
-laurel crown
-laurels
-long hair
-magic circle
-male focus
-male only
-manly
-mecha
-medium:artist name
-medium:focus on male character
-meta:commentary
-meta:english commentary
-meta:revision
-ornate
-pauldrons
-pelt
-power armor
-power suit
-rating:mature
-rating:safe
-realistic
-revision
-scowl
-series:warhammer 40,000
-series:warhammer 40k
-solo
-solo male
-species:avian
-species:bird
-stairs
-standing
-studio:games workshop
-subreddit:imaginaryarmor
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-subreddit:imtechnology
-sun
-sword
-the emperor
-title:emperor of mankind by genzoman
-title:god emperor of mankind (by genzoman)
-title:warhammer - emperor of mankind
-uploader:_imperial_marine_
-uploader:austria9000
-weapon
-wings
-wreath
+1 male,
+1boy,
+aquila (symbol),
+armor,
+artist name,
+bat wings,
+beard,
+bird,
+blade,
+booru:gelbooru,
+boots,
+brown hair,
+cape,
+category:ine,
+character:aquila,
+character:emperor of mankind,
+character:the emperor,
+claws,
+clothing:footwear,
+clothing:gloves,
+creator:genzoman,
+eagle,
+epic,
+facial hair,
+fire,
+fire sword,
+flame,
+flaming sword,
+flaming weapon,
+footwear,
+gauntlets,
+gem,
+gender:male,
+genre:science fiction,
+gloves,
+gold,
+gold armor,
+gothic,
+greaves,
+halo,
+imperium,
+king,
+knee pads,
+laurel crown,
+laurels,
+long hair,
+magic circle,
+male focus,
+male only,
+manly,
+mecha,
+medium:artist name,
+medium:focus on male character,
+meta:commentary,
+meta:english commentary,
+meta:revision,
+ornate,
+pauldrons,
+pelt,
+power armor,
+power suit,
+rating:mature,
+rating:safe,
+realistic,
+revision,
+scowl,
+series:warhammer 40,000,
+series:warhammer 40k,
+solo,
+solo male,
+species:avian,
+species:bird,
+stairs,
+standing,
+studio:games workshop,
+subreddit:imaginaryarmor,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+subreddit:imtechnology,
+sun,
+sword,
+the emperor,
+title:emperor of mankind by genzoman,
+title:god emperor of mankind (by genzoman),
+title:warhammer - emperor of mankind,
+uploader:_imperial_marine_,
+uploader:austria9000,
+weapon,
+wings,
+wreath,

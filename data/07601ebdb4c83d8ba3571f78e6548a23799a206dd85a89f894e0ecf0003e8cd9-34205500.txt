@@ -1,21 +1,21 @@
-category:ine
-cloud
-cloudy sky
-facing away
-from behind
-holding
-holding weapon
-long hair
-outdoors
-rating:safe
-scenery
-sky
-smoke
-standing
-subreddit:imaginaryportals
-subreddit:imtechnology
-title:the gate by moe balinger
-uploader:i_burn_cereal
-very long hair
-weapon
-website:reddit
+category:ine,
+cloud,
+cloudy sky,
+facing away,
+from behind,
+holding,
+holding weapon,
+long hair,
+outdoors,
+rating:safe,
+scenery,
+sky,
+smoke,
+standing,
+subreddit:imaginaryportals,
+subreddit:imtechnology,
+title:the gate by moe balinger,
+uploader:i_burn_cereal,
+very long hair,
+weapon,
+website:reddit,

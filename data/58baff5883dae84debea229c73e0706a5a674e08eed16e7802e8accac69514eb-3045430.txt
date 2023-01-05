@@ -1,62 +1,62 @@
-2011
-armor
-art
-basket hilt
-belt
-blonde hair
-booru:e621
-boots
-bracers
-breasts
-brown body
-brown feathers
-cape
-category:ine
-cloak
-clothed
-clothing
-clothing:armor
-clothing:belt
-clothing:cape
-clothing:footwear
-clothing:tagme
-cloud
-cloudscape
-creator:igor kieryluk
-creator:igorkieryluk
-feathered wings
-feathers
-female
-footwear
-gender:female
-hair
-melee weapon
-meta:2011
-meta:official art
-outside
-pauldron
-rapier
-rating:safe
-scabbard
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-short hair
-sky
-solo
-species:angel
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryangels
-subreddit:imraces
-sun
-sword
-tag source:e621
-title:angel
-title:voice of the provinces by igor kieryluk
-uploader:faeryknight
-weapon
-wings
-year:2011
+2011,
+armor,
+art,
+basket hilt,
+belt,
+blonde hair,
+booru:e621,
+boots,
+bracers,
+breasts,
+brown body,
+brown feathers,
+cape,
+category:ine,
+cloak,
+clothed,
+clothing,
+clothing:armor,
+clothing:belt,
+clothing:cape,
+clothing:footwear,
+clothing:tagme,
+cloud,
+cloudscape,
+creator:igor kieryluk,
+creator:igorkieryluk,
+feathered wings,
+feathers,
+female,
+footwear,
+gender:female,
+hair,
+melee weapon,
+meta:2011,
+meta:official art,
+outside,
+pauldron,
+rapier,
+rating:safe,
+scabbard,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+short hair,
+sky,
+solo,
+species:angel,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryangels,
+subreddit:imraces,
+sun,
+sword,
+tag source:e621,
+title:angel,
+title:voice of the provinces by igor kieryluk,
+uploader:faeryknight,
+weapon,
+wings,
+year:2011,

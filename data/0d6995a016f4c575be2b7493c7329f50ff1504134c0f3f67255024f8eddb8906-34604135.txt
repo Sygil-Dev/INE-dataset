@@ -1,21 +1,21 @@
-1girl
-barefoot
-blue hair
-blue skin
-breasts
-category:ine
-colored sclera
-colored skin
-full body
-grey skin
-head fins
-horns
-midriff
-navel
-rating:safe
-solo
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-title:victory at scarlet monastery. by goddasaurus (me)
-uploader:goddasaurus
-weapon
+1girl,
+barefoot,
+blue hair,
+blue skin,
+breasts,
+category:ine,
+colored sclera,
+colored skin,
+full body,
+grey skin,
+head fins,
+horns,
+midriff,
+navel,
+rating:safe,
+solo,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+title:victory at scarlet monastery. by goddasaurus (me),
+uploader:goddasaurus,
+weapon,

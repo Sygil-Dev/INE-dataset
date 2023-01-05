@@ -1,62 +1,62 @@
-6 heads
-art
-back spikes
-bioluminescence
-blood
-bodily fluids
-booru:e621
-caprine
-category:ine
-chris rahn
-corpse
-creator:chris rahn
-crest
-death
-eating
-furry
-glowing
-gore
-hard vore
-head crest
-hydra
-ibex
-landscape
-long neck
-looking at viewer
-looking away
-medium:official art
-meta:official art
-meta:signature
-multi head
-multiple heads
-pov
-rating:questionable
-real person
-scalie
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-signature
-solo
-species:bovid
-species:caprine
-species:goat
-species:hydra
-species:ibex
-species:mammal
-species:monster
-species:reptile
-species:scalie
-spikes
-spikes (anatomy)
-spines
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarybeasts
-subreddit:immonsters
-title:bristling hydra by chris rahn
-uploader:faeryknight
-vore
-website:reddit
+6 heads,
+art,
+back spikes,
+bioluminescence,
+blood,
+bodily fluids,
+booru:e621,
+caprine,
+category:ine,
+chris rahn,
+corpse,
+creator:chris rahn,
+crest,
+death,
+eating,
+furry,
+glowing,
+gore,
+hard vore,
+head crest,
+hydra,
+ibex,
+landscape,
+long neck,
+looking at viewer,
+looking away,
+medium:official art,
+meta:official art,
+meta:signature,
+multi head,
+multiple heads,
+pov,
+rating:questionable,
+real person,
+scalie,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+signature,
+solo,
+species:bovid,
+species:caprine,
+species:goat,
+species:hydra,
+species:ibex,
+species:mammal,
+species:monster,
+species:reptile,
+species:scalie,
+spikes,
+spikes (anatomy),
+spines,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+title:bristling hydra by chris rahn,
+uploader:faeryknight,
+vore,
+website:reddit,

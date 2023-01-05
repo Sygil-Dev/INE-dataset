@@ -1,50 +1,50 @@
-1 female
-1girl
-ak-74
-android
-artificial legs
-assault rifle
-black eyes
-black hair
-category:ine
-clothing:hair tie
-clothing:school uniform
-clothing:sweater
-clothing:uniform
-creator:dreadtie
-cyborg
-firearm
-gender:female
-gun
-kalashnikov rifle
-medium:high resolution
-meta:bad id
-meta:bad pixiv id
-meta:highres
-original 100 users bookmark
-original character
-peace symbol
-ponytail
-prosthesis
-prosthetic arm
-prosthetic leg
-rating:safe
-rating:sensitive
-rifle
-school uniform
-series:original
-signature
-solo
-species:android
-species:robot
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-sweater
-sweater vest
-tied hair
-title:limb augmentation armed jk by dreadtie
-uniform
-uploader:scott_paladin
-v
-weapon
-ニットベスト制服
+1 female,
+1girl,
+ak-74,
+android,
+artificial legs,
+assault rifle,
+black eyes,
+black hair,
+category:ine,
+clothing:hair tie,
+clothing:school uniform,
+clothing:sweater,
+clothing:uniform,
+creator:dreadtie,
+cyborg,
+firearm,
+gender:female,
+gun,
+kalashnikov rifle,
+medium:high resolution,
+meta:bad id,
+meta:bad pixiv id,
+meta:highres,
+original 100 users bookmark,
+original character,
+peace symbol,
+ponytail,
+prosthesis,
+prosthetic arm,
+prosthetic leg,
+rating:safe,
+rating:sensitive,
+rifle,
+school uniform,
+series:original,
+signature,
+solo,
+species:android,
+species:robot,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+sweater,
+sweater vest,
+tied hair,
+title:limb augmentation armed jk by dreadtie,
+uniform,
+uploader:scott_paladin,
+v,
+weapon,
+ニットベスト制服,

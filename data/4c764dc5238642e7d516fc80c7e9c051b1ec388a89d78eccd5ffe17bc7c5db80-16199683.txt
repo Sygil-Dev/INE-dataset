@@ -1,27 +1,27 @@
-1 female
-1girl
-ahoge
-capelet
-category:ine
-clothing:dress
-colorful
-creator:sakimori (hououbds)
-dress
-dutch angle
-fantasy
-flower
-gender:female
-genre:fantasy
-light particles
-meta:commentary
-rating:mature
-rating:safe
-series:original
-short hair
-silhouette
-solo
-subreddit:imaginarycolorscapes
-subreddit:immeta
-title:'the place where the heart returns' by 防人/@sakimori_st30
-tulip
-uploader:_eltanin_
+1 female,
+1girl,
+ahoge,
+capelet,
+category:ine,
+clothing:dress,
+colorful,
+creator:sakimori (hououbds),
+dress,
+dutch angle,
+fantasy,
+flower,
+gender:female,
+genre:fantasy,
+light particles,
+meta:commentary,
+rating:mature,
+rating:safe,
+series:original,
+short hair,
+silhouette,
+solo,
+subreddit:imaginarycolorscapes,
+subreddit:immeta,
+title:'the place where the heart returns' by 防人/@sakimori_st30,
+tulip,
+uploader:_eltanin_,

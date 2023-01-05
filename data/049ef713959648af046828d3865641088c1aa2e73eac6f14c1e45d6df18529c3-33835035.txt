@@ -1,29 +1,29 @@
-blonde hair
-building
-burning
-candle
-category:ine
-chain
-city
-city lights
-cityscape
-destruction
-embers
-explosion
-fire
-fireplace
-flame
-letterboxed
-long hair
-molten rock
-multiple boys
-rating:safe
-scenery
-skyscraper
-street
-subreddit:imaginaryimmortals
-subreddit:imraces
-sunset
-title:judge by vladimir manyukhin
-torch
-uploader:wiildman8
+blonde hair,
+building,
+burning,
+candle,
+category:ine,
+chain,
+city,
+city lights,
+cityscape,
+destruction,
+embers,
+explosion,
+fire,
+fireplace,
+flame,
+letterboxed,
+long hair,
+molten rock,
+multiple boys,
+rating:safe,
+scenery,
+skyscraper,
+street,
+subreddit:imaginaryimmortals,
+subreddit:imraces,
+sunset,
+title:judge by vladimir manyukhin,
+torch,
+uploader:wiildman8,

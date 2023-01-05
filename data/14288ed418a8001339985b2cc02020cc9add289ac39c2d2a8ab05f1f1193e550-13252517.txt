@@ -1,42 +1,42 @@
-3d
-artist:yamataka (blenderkame)
-booru:danbooru
-booru:gelbooru
-booru:sankaku channel
-cable
-category:ine
-character:charles babbage (fate)
-character:charles babbage (fate/grand order)
-club
-club (weapon)
-copyright:fate/grand order
-creator:yamataka (blenderkame)
-exhaust pipe
-glowing
-glowing eye
-medium:3d rendering
-medium:16:9 aspect ratio
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-medium:very high resolution
-meta:3d
-meta:absurdres
-meta:commentary request
-meta:highres
-no humans
-open hand
-rating:mature
-rating:safe
-rating:sensitive
-robot
-series:fate
-series:fate (series)
-series:fate/grand order
-species:robot
-steam
-subreddit:imaginarymechs
-subreddit:imtechnology
-title:charles babbage [3d model] by blenderkame
-uploader:zwegria707
-weapon
+3d,
+artist:yamataka (blenderkame),
+booru:danbooru,
+booru:gelbooru,
+booru:sankaku channel,
+cable,
+category:ine,
+character:charles babbage (fate),
+character:charles babbage (fate/grand order),
+club,
+club (weapon),
+copyright:fate/grand order,
+creator:yamataka (blenderkame),
+exhaust pipe,
+glowing,
+glowing eye,
+medium:3d rendering,
+medium:16:9 aspect ratio,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+medium:very high resolution,
+meta:3d,
+meta:absurdres,
+meta:commentary request,
+meta:highres,
+no humans,
+open hand,
+rating:mature,
+rating:safe,
+rating:sensitive,
+robot,
+series:fate,
+series:fate (series),
+series:fate/grand order,
+species:robot,
+steam,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+title:charles babbage [3d model] by blenderkame,
+uploader:zwegria707,
+weapon,

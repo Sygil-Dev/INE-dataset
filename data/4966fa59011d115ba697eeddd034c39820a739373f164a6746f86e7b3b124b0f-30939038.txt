@@ -1,52 +1,52 @@
-2019
-artist:vanillaghosties
-booru:e621
-category:ine
-character:coloratura (mlp)
-character:coloratura_(mlp)
-class:mammal
-clothed
-clothed feral
-clothed_feral
-clothing
-coloratura (mlp)
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:vanillaghosties
-cutie mark
-cutie_mark
-equid
-female
-feral
-gender:female
-genre:fantasy
-hi res
-looking at viewer
-looking_at_viewer
-medium:high resolution
-meta:2019
-meta:hi res
-meta:hi_res
-pov
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-smile
-solo
-species:earth pony
-species:earth_pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"spectacle" by vanillaghosties
-title:spectacle [atg ix d2]
-uploader:torvusil
-vanillaghosties
-year:2019
+2019,
+artist:vanillaghosties,
+booru:e621,
+category:ine,
+character:coloratura (mlp),
+character:coloratura_(mlp),
+class:mammal,
+clothed,
+clothed feral,
+clothed_feral,
+clothing,
+coloratura (mlp),
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:vanillaghosties,
+cutie mark,
+cutie_mark,
+equid,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hi res,
+looking at viewer,
+looking_at_viewer,
+medium:high resolution,
+meta:2019,
+meta:hi res,
+meta:hi_res,
+pov,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+smile,
+solo,
+species:earth pony,
+species:earth_pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"spectacle" by vanillaghosties,
+title:spectacle [atg ix d2],
+uploader:torvusil,
+vanillaghosties,
+year:2019,

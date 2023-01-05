@@ -1,24 +1,24 @@
-5
-category:ine
-character:shantae
-creator:bloodfart
-digital drawing (artwork)
-games
-gender:female
-guro
-halo
-kelly
-medium:2d art
-medium:digital media
-nude
-rating:contains female nudity
-rating:explicit
-rating:mature
-rating:nudity
-series:shantae
-spartan
-subreddit:imaginaryhalo
-subreddit:imfandoms
-title:kelly's reflection by bloodfart
-uploader:bleeding_choker
-website:reddit
+5,
+category:ine,
+character:shantae,
+creator:bloodfart,
+digital drawing (artwork),
+games,
+gender:female,
+guro,
+halo,
+kelly,
+medium:2d art,
+medium:digital media,
+nude,
+rating:contains female nudity,
+rating:explicit,
+rating:mature,
+rating:nudity,
+series:shantae,
+spartan,
+subreddit:imaginaryhalo,
+subreddit:imfandoms,
+title:kelly's reflection by bloodfart,
+uploader:bleeding_choker,
+website:reddit,

@@ -1,29 +1,29 @@
-bird
-category:ine
-city
-cloud
-cloudy sky
-dusk
-evening
-gradient sky
-horizon
-mountain
-mountainous horizon
-nature
-no humans
-ocean
-orange sky
-outdoors
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginarycanyons
-subreddit:imnature
-sun
-sunset
-title:majesty by mariusz lewandowski
-twilight
-uploader:[deleted]
-uploader:faeryknight
-water
+bird,
+category:ine,
+city,
+cloud,
+cloudy sky,
+dusk,
+evening,
+gradient sky,
+horizon,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginarycanyons,
+subreddit:imnature,
+sun,
+sunset,
+title:majesty by mariusz lewandowski,
+twilight,
+uploader:[deleted],
+uploader:faeryknight,
+water,

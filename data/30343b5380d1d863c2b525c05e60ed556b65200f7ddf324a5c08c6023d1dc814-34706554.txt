@@ -1,109 +1,109 @@
-1 female
-1 male
-1boy
-1girl
-1other
-animal
-artist name
-black gloves
-black legwear
-black pantyhose
-blonde
-blonde hair
-booru:danbooru
-booru:sankaku
-booru:sankaku channel
-boots
-braid
-brown boots
-brown footwear
-brown gloves
-cape
-category:ine
-character:epona
-character:link
-character:link (breath of the wild)
-character:princess zelda
-character:zelda (breath of the wild)
-clothing:boots
-clothing:cape
-clothing:fingerless gloves
-clothing:footwear
-clothing:gloves
-clothing:hair clip
-clothing:hair ornament
-clothing:hair tie
-clothing:hood
-creator:wlop
-crown braid
-duo
-ears
-elf
-fairy
-female
-fingerless gloves
-footwear
-gender:female
-gender:male
-genre:fantasy
-gloves
-green eyes
-hair ornament
-hairclip
-highres
-hood
-hooded cape
-horse
-hylian
-light particles
-lips
-loli face
-long sleeves
-looking at another
-male
-medium hair
-medium:artist name
-medium:high resolution
-meta:artist name
-meta:commentary
-meta:english commentary
-meta:highres
-outdoors
-pantyhose
-pointed ears
-pointy ears
-rating:general
-rating:mature
-rating:s
-rating:safe
-rating:sensitive
-realistic
-riding
-saddle
-series:breath of the wild
-series:nintendo
-series:nintendo ead
-series:the legend of zelda
-series:the legend of zelda: breath of the wild
-series:the legend of zelda: breath of the wild 2
-series:the legend of zelda: tears of the kingdom
-short hair
-short sleeves
-site:kemono.party
-site:patreon
-sky
-species:equine
-species:fairy
-species:horse
-species:mammal
-species:mythical
-studio:nintendo
-subreddit:imaginarylovers
-subreddit:imcharacters
-sword
-tied hair
-title:journey
-title:journey by wang ling
-uploader:myrandall
-weapon
-weapon on back
+1 female,
+1 male,
+1boy,
+1girl,
+1other,
+animal,
+artist name,
+black gloves,
+black legwear,
+black pantyhose,
+blonde,
+blonde hair,
+booru:danbooru,
+booru:sankaku,
+booru:sankaku channel,
+boots,
+braid,
+brown boots,
+brown footwear,
+brown gloves,
+cape,
+category:ine,
+character:epona,
+character:link,
+character:link (breath of the wild),
+character:princess zelda,
+character:zelda (breath of the wild),
+clothing:boots,
+clothing:cape,
+clothing:fingerless gloves,
+clothing:footwear,
+clothing:gloves,
+clothing:hair clip,
+clothing:hair ornament,
+clothing:hair tie,
+clothing:hood,
+creator:wlop,
+crown braid,
+duo,
+ears,
+elf,
+fairy,
+female,
+fingerless gloves,
+footwear,
+gender:female,
+gender:male,
+genre:fantasy,
+gloves,
+green eyes,
+hair ornament,
+hairclip,
+highres,
+hood,
+hooded cape,
+horse,
+hylian,
+light particles,
+lips,
+loli face,
+long sleeves,
+looking at another,
+male,
+medium hair,
+medium:artist name,
+medium:high resolution,
+meta:artist name,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+outdoors,
+pantyhose,
+pointed ears,
+pointy ears,
+rating:general,
+rating:mature,
+rating:s,
+rating:safe,
+rating:sensitive,
+realistic,
+riding,
+saddle,
+series:breath of the wild,
+series:nintendo,
+series:nintendo ead,
+series:the legend of zelda,
+series:the legend of zelda: breath of the wild,
+series:the legend of zelda: breath of the wild 2,
+series:the legend of zelda: tears of the kingdom,
+short hair,
+short sleeves,
+site:kemono.party,
+site:patreon,
+sky,
+species:equine,
+species:fairy,
+species:horse,
+species:mammal,
+species:mythical,
+studio:nintendo,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+sword,
+tied hair,
+title:journey,
+title:journey by wang ling,
+uploader:myrandall,
+weapon,
+weapon on back,

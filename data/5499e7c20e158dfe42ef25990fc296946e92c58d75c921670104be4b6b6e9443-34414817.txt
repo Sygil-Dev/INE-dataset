@@ -1,35 +1,35 @@
-alternate history
-army
-category:concept art
-category:ine
-character
-creator:ajay agrawal
-cyberpunk
-dieselpunk
-environment design
-exterior
-game art
-game design
-history
-illustration
-industrial design
-keyframe
-mech
-mech design
-mecha
-medium:digital 2d
-nazi
-prop design
-soldiers
-subreddit:conceptart
-subreddit:imaginaryfuturewar
-subreddit:imaginarymechs
-subreddit:immeta
-subreddit:imtechnology
-titanfall
-title:check out some wwii mechs!
-title:execution
-title:execution by ajay agrawal
-uploader:agrawaaj
-uploader:lol33ta
-world war 2
+alternate history,
+army,
+category:concept art,
+category:ine,
+character,
+creator:ajay agrawal,
+cyberpunk,
+dieselpunk,
+environment design,
+exterior,
+game art,
+game design,
+history,
+illustration,
+industrial design,
+keyframe,
+mech,
+mech design,
+mecha,
+medium:digital 2d,
+nazi,
+prop design,
+soldiers,
+subreddit:conceptart,
+subreddit:imaginaryfuturewar,
+subreddit:imaginarymechs,
+subreddit:immeta,
+subreddit:imtechnology,
+titanfall,
+title:check out some wwii mechs!,
+title:execution,
+title:execution by ajay agrawal,
+uploader:agrawaaj,
+uploader:lol33ta,
+world war 2,

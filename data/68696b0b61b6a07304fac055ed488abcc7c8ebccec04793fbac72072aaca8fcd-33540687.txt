@@ -1,103 +1,103 @@
-5 fingers
-5_fingers
-2019
-absurd res
-artist:keltaan
-black hair
-black_hair
-blue
-blue body
-blue eyes
-blue scales
-blue_body
-blue_eyes
-blue_scales
-brown hair
-brown_hair
-category:ine
-character:ryken
-character:sedyana
-claws
-closed eyes
-creator:keltaan
-creek
-day
-detailed
-detailed background
-detailed_background
-digital media (artwork)
-dragoness
-dragons
-duo
-eyes closed
-eyes_closed
-female
-feral
-fingers
-flowers
-forest
-fullbody
-furry
-gender:female
-grass
-green
-hair
-hi res
-horn
-horns
-hugs
-jungle
-keltaan
-letterbox
-light
-love
-medium:absurd resolution
-medium:detailed background
-medium:digital media
-medium:high resolution
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-mushrooms
-nature
-outside
-plant
-plants
-rating:general
-rating:safe
-river
-ryken
-scales
-sedyana
-sibling
-siblings
-sister
-sisters
-sitting
-smile
-source:furaffinity.net
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-stones
-stream
-subreddit:imaginarydragons
-subreddit:immonsters
-title:wing-sisters
-title:winged sisters by keltaan
-title:winged sisters.
-tree
-uploader:vikingzx
-water
-wings
-year:2019
+5 fingers,
+5_fingers,
+2019,
+absurd res,
+artist:keltaan,
+black hair,
+black_hair,
+blue,
+blue body,
+blue eyes,
+blue scales,
+blue_body,
+blue_eyes,
+blue_scales,
+brown hair,
+brown_hair,
+category:ine,
+character:ryken,
+character:sedyana,
+claws,
+closed eyes,
+creator:keltaan,
+creek,
+day,
+detailed,
+detailed background,
+detailed_background,
+digital media (artwork),
+dragoness,
+dragons,
+duo,
+eyes closed,
+eyes_closed,
+female,
+feral,
+fingers,
+flowers,
+forest,
+fullbody,
+furry,
+gender:female,
+grass,
+green,
+hair,
+hi res,
+horn,
+horns,
+hugs,
+jungle,
+keltaan,
+letterbox,
+light,
+love,
+medium:absurd resolution,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+mushrooms,
+nature,
+outside,
+plant,
+plants,
+rating:general,
+rating:safe,
+river,
+ryken,
+scales,
+sedyana,
+sibling,
+siblings,
+sister,
+sisters,
+sitting,
+smile,
+source:furaffinity.net,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+stones,
+stream,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:wing-sisters,
+title:winged sisters by keltaan,
+title:winged sisters.,
+tree,
+uploader:vikingzx,
+water,
+wings,
+year:2019,

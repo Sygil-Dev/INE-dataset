@@ -1,47 +1,47 @@
-1 female
-1girl
-bare legs
-black cloak
-black fingernails
-black high heels
-black nails
-booru:sankaku
-category:ine
-character:sorcerer
-chest armor
-cloak
-clothing:earrings
-clothing:footwear
-colored nails
-creator:bangku an
-earrings
-female
-footwear
-gender:female
-headwear
-heels
-helmet
-high heels
-holding
-holding object
-holding staff
-hoop earrings
-jewelry
-legs
-long hair
-looking down
-medium:high resolution
-medium:very high resolution
-nail polish
-rating:s
-rating:safe
-red hair
-series:original
-shoes
-sorceress
-staff
-subreddit:imaginarywitches
-subreddit:imcharacters
-title:black rose by bangku an
-uploader:wise_planeswalker
-veins
+1 female,
+1girl,
+bare legs,
+black cloak,
+black fingernails,
+black high heels,
+black nails,
+booru:sankaku,
+category:ine,
+character:sorcerer,
+chest armor,
+cloak,
+clothing:earrings,
+clothing:footwear,
+colored nails,
+creator:bangku an,
+earrings,
+female,
+footwear,
+gender:female,
+headwear,
+heels,
+helmet,
+high heels,
+holding,
+holding object,
+holding staff,
+hoop earrings,
+jewelry,
+legs,
+long hair,
+looking down,
+medium:high resolution,
+medium:very high resolution,
+nail polish,
+rating:s,
+rating:safe,
+red hair,
+series:original,
+shoes,
+sorceress,
+staff,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+title:black rose by bangku an,
+uploader:wise_planeswalker,
+veins,

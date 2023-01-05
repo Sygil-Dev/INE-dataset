@@ -1,61 +1,61 @@
-1 female
-1girl
-blonde hair
-blue eyes
-blush
-book
-booru:danbooru
-bow
-breasts
-category:ine
-character:mercedes von martritz
-closed mouth
-clothing:hair bow
-clothing:hair ribbon
-clothing:hair tie
-clothing:ribbon
-clothing:white neckwear
-cravat
-creator:chinchongcha
-eyebrows
-eyebrows visible through hair
-eyes visible through hair
-garreg mach monastery uniform
-gender:female
-glint
-hair bow
-hair ribbon
-holding
-holding book
-holding object
-long hair
-long sleeves
-looking at viewer
-low ponytail
-medium breasts
-medium:high resolution
-medium:simple background
-medium:white background
-meta:highres
-meta:tagme
-ponytail
-pov
-rating:safe
-ribbon
-series:fire emblem
-series:fire emblem: three houses
-shawl
-signature
-simple background
-sleeves past wrists
-sparkle
-striped
-striped bow
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imfandoms
-tied hair
-title:"mercedes" by chinchongcha
-uploader:torvusil
-white background
-white neckwear
+1 female,
+1girl,
+blonde hair,
+blue eyes,
+blush,
+book,
+booru:danbooru,
+bow,
+breasts,
+category:ine,
+character:mercedes von martritz,
+closed mouth,
+clothing:hair bow,
+clothing:hair ribbon,
+clothing:hair tie,
+clothing:ribbon,
+clothing:white neckwear,
+cravat,
+creator:chinchongcha,
+eyebrows,
+eyebrows visible through hair,
+eyes visible through hair,
+garreg mach monastery uniform,
+gender:female,
+glint,
+hair bow,
+hair ribbon,
+holding,
+holding book,
+holding object,
+long hair,
+long sleeves,
+looking at viewer,
+low ponytail,
+medium breasts,
+medium:high resolution,
+medium:simple background,
+medium:white background,
+meta:highres,
+meta:tagme,
+ponytail,
+pov,
+rating:safe,
+ribbon,
+series:fire emblem,
+series:fire emblem: three houses,
+shawl,
+signature,
+simple background,
+sleeves past wrists,
+sparkle,
+striped,
+striped bow,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+tied hair,
+title:"mercedes" by chinchongcha,
+uploader:torvusil,
+white background,
+white neckwear,

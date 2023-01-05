@@ -1,21 +1,21 @@
-cannon
-category:ine
-cloud
-firing
-ground vehicle
-gun
-mecha
-military
-military vehicle
-motor vehicle
-no humans
-rating:safe
-science fiction
-smoke
-star (symbol)
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:grif-28 by mixsan
-uploader:castass
-vehicle focus
-weapon
+cannon,
+category:ine,
+cloud,
+firing,
+ground vehicle,
+gun,
+mecha,
+military,
+military vehicle,
+motor vehicle,
+no humans,
+rating:safe,
+science fiction,
+smoke,
+star (symbol),
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:grif-28 by mixsan,
+uploader:castass,
+vehicle focus,
+weapon,

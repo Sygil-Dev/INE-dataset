@@ -1,74 +1,74 @@
-arch
-armor
-army
-bat wings
-batwings
-black body
-black scales
-blue eyes
-bodily fluids
-booru:e621
-bridge
-category:ine
-creator:mark zug
-drooling
-fangs
-feral
-furry
-glaive
-group
-headgear
-headwear
-helmet
-holding object
-holding sword
-holding weapon
-looking away
-lying
-melee weapon
-membrane (anatomy)
-membranous wings
-meta:official art
-on front
-open mouth
-polearm
-quadruped
-rating:safe
-rock
-saliva
-scales
-scimitar
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-sharp teeth
-size difference
-snarling
-soldier
-solo focus
-spear
-species:dragon
-species:mythical
-species:scalie
-species:undead
-species:zombie
-stone
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-sword
-teeth
-title:necromaster dragon by mark zug
-undead army
-uploader:drunkindragon
-warrior
-water
-waterfall
-weapon
-wing claws
-wingclaws
-wings
-yellow body
-yellow scales
+arch,
+armor,
+army,
+bat wings,
+batwings,
+black body,
+black scales,
+blue eyes,
+bodily fluids,
+booru:e621,
+bridge,
+category:ine,
+creator:mark zug,
+drooling,
+fangs,
+feral,
+furry,
+glaive,
+group,
+headgear,
+headwear,
+helmet,
+holding object,
+holding sword,
+holding weapon,
+looking away,
+lying,
+melee weapon,
+membrane (anatomy),
+membranous wings,
+meta:official art,
+on front,
+open mouth,
+polearm,
+quadruped,
+rating:safe,
+rock,
+saliva,
+scales,
+scimitar,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+sharp teeth,
+size difference,
+snarling,
+soldier,
+solo focus,
+spear,
+species:dragon,
+species:mythical,
+species:scalie,
+species:undead,
+species:zombie,
+stone,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sword,
+teeth,
+title:necromaster dragon by mark zug,
+undead army,
+uploader:drunkindragon,
+warrior,
+water,
+waterfall,
+weapon,
+wing claws,
+wingclaws,
+wings,
+yellow body,
+yellow scales,

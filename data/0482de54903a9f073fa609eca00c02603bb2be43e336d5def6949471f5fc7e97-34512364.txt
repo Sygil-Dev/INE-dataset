@@ -1,27 +1,27 @@
-architecture
-boat
-bridge
-building
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-horizon
-no humans
-ocean
-outdoors
-rating:safe
-river
-scenery
-ship
-sky
-subreddit:imaginarymechs
-subreddit:imtechnology
-sunset
-title:defender mecha , eryk szczygieł
-tower
-uploader:superbreality2
-water
-watercraft
-weapon
+architecture,
+boat,
+bridge,
+building,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+horizon,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+river,
+scenery,
+ship,
+sky,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+sunset,
+title:defender mecha , eryk szczygieł,
+tower,
+uploader:superbreality2,
+water,
+watercraft,
+weapon,

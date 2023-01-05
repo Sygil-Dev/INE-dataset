@@ -1,27 +1,27 @@
-art
-bushido
-category:ine
-character
-clan
-creator:mario wibisono
-furry
-game
-gender:female
-irezumi
-japan
-l5r
-mario_wibisono
-medium:digital 2d
-monk
-raynkazuya
-samurai
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginaryboners
-subreddit:imnsfw
-tattoo
-title:togashi korimi
-title:togashi korimi by mario wibisono
-uploader:barson2408
-woman
+art,
+bushido,
+category:ine,
+character,
+clan,
+creator:mario wibisono,
+furry,
+game,
+gender:female,
+irezumi,
+japan,
+l5r,
+mario_wibisono,
+medium:digital 2d,
+monk,
+raynkazuya,
+samurai,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginaryboners,
+subreddit:imnsfw,
+tattoo,
+title:togashi korimi,
+title:togashi korimi by mario wibisono,
+uploader:barson2408,
+woman,

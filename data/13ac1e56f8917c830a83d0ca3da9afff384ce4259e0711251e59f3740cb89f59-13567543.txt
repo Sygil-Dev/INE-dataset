@@ -1,73 +1,73 @@
-1 female
-1girl
-anime girls
-armor
-artist name
-artist:nessi
-asymmetrical clothes
-bikini
-bikini armor
-blue eyes
-braid
-breastplate
-category:ine
-clothing:armor
-clothing:legwear
-clothing:pants
-clothing:sweater
-clothing:turtleneck sweater
-copyright:original
-creator:nessi
-creator:nessi +
-crossed ankles
-dagger
-drawing
-ears
-fantasy
-full body
-gauntlets
-gender:female
-genre:fantasy
-impractical armor
-lips
-long hair
-looking at viewer
-medium:absurd resolution
-medium:artist name
-medium:high resolution
-melee weapon
-meta:absurdres
-meta:highres
-mismatched sleeves
-nessi
-nose
-original characters
-pants
-parted lips
-pauldrons
-pointy ears
-portrait display
-pov
-rating:mature
-rating:safe
-revealing armor
-series:original
-side braid
-slender waist
-small breasts
-solo
-solo female
-species:elf
-standing
-subreddit:imaginaryelves
-subreddit:impracticalarmour
-subreddit:imraces
-sweater
-swimsuit
-thigh gap
-title:untitled, by nessi+ (real name unknown) on artstation
-turtleneck
-uploader:deluded_fruitcake
-weapon
-white hair
-white pants
+1 female,
+1girl,
+anime girls,
+armor,
+artist name,
+artist:nessi,
+asymmetrical clothes,
+bikini,
+bikini armor,
+blue eyes,
+braid,
+breastplate,
+category:ine,
+clothing:armor,
+clothing:legwear,
+clothing:pants,
+clothing:sweater,
+clothing:turtleneck sweater,
+copyright:original,
+creator:nessi,
+creator:nessi +,
+crossed ankles,
+dagger,
+drawing,
+ears,
+fantasy,
+full body,
+gauntlets,
+gender:female,
+genre:fantasy,
+impractical armor,
+lips,
+long hair,
+looking at viewer,
+medium:absurd resolution,
+medium:artist name,
+medium:high resolution,
+melee weapon,
+meta:absurdres,
+meta:highres,
+mismatched sleeves,
+nessi,
+nose,
+original characters,
+pants,
+parted lips,
+pauldrons,
+pointy ears,
+portrait display,
+pov,
+rating:mature,
+rating:safe,
+revealing armor,
+series:original,
+side braid,
+slender waist,
+small breasts,
+solo,
+solo female,
+species:elf,
+standing,
+subreddit:imaginaryelves,
+subreddit:impracticalarmour,
+subreddit:imraces,
+sweater,
+swimsuit,
+thigh gap,
+title:untitled, by nessi+ (real name unknown) on artstation,
+turtleneck,
+uploader:deluded_fruitcake,
+weapon,
+white hair,
+white pants,

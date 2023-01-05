@@ -1,36 +1,36 @@
-2d
-80
-art
-black
-car
-category:ine
-color
-concept
-creator:filippo ubertino
-cyberpunk
-design
-engine
-extreme
-fast
-ferrari
-fiction
-future
-genre:science fiction
-ground vehicle
-hks
-medium:digital 2d
-motor vehicle
-paint
-science
-scifi
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-testarossa
-title:testarossa
-title:testarossa by filippo ubertino
-toyo
-tuning
-turbo
-uploader:alex_stm
-vehicle
-yellow
+2d,
+80,
+art,
+black,
+car,
+category:ine,
+color,
+concept,
+creator:filippo ubertino,
+cyberpunk,
+design,
+engine,
+extreme,
+fast,
+ferrari,
+fiction,
+future,
+genre:science fiction,
+ground vehicle,
+hks,
+medium:digital 2d,
+motor vehicle,
+paint,
+science,
+scifi,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+testarossa,
+title:testarossa,
+title:testarossa by filippo ubertino,
+toyo,
+tuning,
+turbo,
+uploader:alex_stm,
+vehicle,
+yellow,

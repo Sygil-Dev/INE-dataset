@@ -1,59 +1,59 @@
-ambiguous gender
-armor
-bird
-blue body
-blue fur
-blue sky
-booru:e621
-building
-category:ine
-city
-cityscape
-clothing:armor
-cloud
-cloudy sky
-creator:wesley burt
-day
-dutch angle
-feathered wings
-feathers
-feral
-fur
-furgonomics
-gem
-gender:ambiguous
-landscape
-meta:official art
-mountain
-outdoors
-quadruped
-rating:safe
-rock
-scenery
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:mythology
-series:official art
-side view
-sky
-solo
-species:felid
-species:feline
-species:mammal
-species:mythical
-species:mythological sphinx
-species:sphinx
-standing
-step pose
-stone
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryhybrids
-subreddit:immonsters
-tail
-tail tuft
-title:jelenn sphinx by wesley burt
-tuft
-uploader:faeryknight
-wings
+ambiguous gender,
+armor,
+bird,
+blue body,
+blue fur,
+blue sky,
+booru:e621,
+building,
+category:ine,
+city,
+cityscape,
+clothing:armor,
+cloud,
+cloudy sky,
+creator:wesley burt,
+day,
+dutch angle,
+feathered wings,
+feathers,
+feral,
+fur,
+furgonomics,
+gem,
+gender:ambiguous,
+landscape,
+meta:official art,
+mountain,
+outdoors,
+quadruped,
+rating:safe,
+rock,
+scenery,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:mythology,
+series:official art,
+side view,
+sky,
+solo,
+species:felid,
+species:feline,
+species:mammal,
+species:mythical,
+species:mythological sphinx,
+species:sphinx,
+standing,
+step pose,
+stone,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+tail,
+tail tuft,
+title:jelenn sphinx by wesley burt,
+tuft,
+uploader:faeryknight,
+wings,

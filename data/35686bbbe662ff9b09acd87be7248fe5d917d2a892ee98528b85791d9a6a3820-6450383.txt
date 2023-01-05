@@ -1,69 +1,69 @@
-1 female
-80s
-animal
-artist:aoi zero
-bag
-black cat
-black hair
-bow
-broom
-cat
-category:ine
-character:jiji (majo no takkyuubin)
-character:kiki
-clothing:dress
-clothing:hair bow
-clothing:necklace
-clothing:ribbon
-clothing:sweater
-clothing:turtleneck sweater
-copyright:majo no takkyuubin
-copyright:studio ghibli
-creator:aoi
-creator:aoi zero
-creator:aoi_zero
-dress
-full body
-gender:female
-goggles
-goggles on head
-ground vehicle
-hair bow
-hairband
-jewelry
-long sleeves
-looking away
-looking back
-medium:simple background
-medium:white background
-motor vehicle
-motorcycle
-necklace
-oldschool
-pendant
-pixiv profile:62627
-pixiv work:23975650
-purple dress
-rating:safe
-ribbon
-riding
-series:majo no takkyuubin
-series:studio ghibli
-short hair
-simple background
-solo
-species:cat
-species:feline
-species:mammal
-straddling
-studio:studio ghibli
-subreddit:imaginarywitches
-subreddit:imcharacters
-sweater
-title:kiki's sports cub c110
-title:sports cub c110
-turtleneck
-uploader:kedamono1st
-vehicle
-white background
-younger
+1 female,
+80s,
+animal,
+artist:aoi zero,
+bag,
+black cat,
+black hair,
+bow,
+broom,
+cat,
+category:ine,
+character:jiji (majo no takkyuubin),
+character:kiki,
+clothing:dress,
+clothing:hair bow,
+clothing:necklace,
+clothing:ribbon,
+clothing:sweater,
+clothing:turtleneck sweater,
+copyright:majo no takkyuubin,
+copyright:studio ghibli,
+creator:aoi,
+creator:aoi zero,
+creator:aoi_zero,
+dress,
+full body,
+gender:female,
+goggles,
+goggles on head,
+ground vehicle,
+hair bow,
+hairband,
+jewelry,
+long sleeves,
+looking away,
+looking back,
+medium:simple background,
+medium:white background,
+motor vehicle,
+motorcycle,
+necklace,
+oldschool,
+pendant,
+pixiv profile:62627,
+pixiv work:23975650,
+purple dress,
+rating:safe,
+ribbon,
+riding,
+series:majo no takkyuubin,
+series:studio ghibli,
+short hair,
+simple background,
+solo,
+species:cat,
+species:feline,
+species:mammal,
+straddling,
+studio:studio ghibli,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+sweater,
+title:kiki's sports cub c110,
+title:sports cub c110,
+turtleneck,
+uploader:kedamono1st,
+vehicle,
+white background,
+younger,

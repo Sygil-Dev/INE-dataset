@@ -1,21 +1,21 @@
-1girl
-black hair
-category:ine
-dress
-earrings
-fur collar
-fur trim
-jewelry
-lips
-looking at viewer
-mole
-mole under eye
-rating:safe
-realistic
-short hair
-solo
-subreddit:imaginarynobles
-subreddit:imcharacters
-title:portrait by bella bergolts
-uploader:bellabergolts
-upper body
+1girl,
+black hair,
+category:ine,
+dress,
+earrings,
+fur collar,
+fur trim,
+jewelry,
+lips,
+looking at viewer,
+mole,
+mole under eye,
+rating:safe,
+realistic,
+short hair,
+solo,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+title:portrait by bella bergolts,
+uploader:bellabergolts,
+upper body,

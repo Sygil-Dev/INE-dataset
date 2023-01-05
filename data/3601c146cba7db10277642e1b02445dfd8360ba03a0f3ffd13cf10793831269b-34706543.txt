@@ -1,37 +1,37 @@
-4 toes
-4_toes
-ambiguous gender
-ambiguous_gender
-artist:tamberella
-category:ine
-creator:tamberella
-feet
-feral
-fungus
-fur
-gender:ambiguous
-medium:simple background
-medium:traditional media
-medium:white background
-meta:2019
-meta:monochrome
-meta:traditional media (artwork)
-meta:traditional_media_(artwork)
-mushroom
-pool:18473
-rating:safe
-simple background
-simple_background
-solo
-species:cougar
-species:felid
-species:feline
-species:mammal
-subreddit:imaginaryelementals
-subreddit:immonsters
-title:the curiosity by devin elle kurtz (tamberella)
-toes
-uploader:myrandall
-white background
-white_background
-year:2019
+4 toes,
+4_toes,
+ambiguous gender,
+ambiguous_gender,
+artist:tamberella,
+category:ine,
+creator:tamberella,
+feet,
+feral,
+fungus,
+fur,
+gender:ambiguous,
+medium:simple background,
+medium:traditional media,
+medium:white background,
+meta:2019,
+meta:monochrome,
+meta:traditional media (artwork),
+meta:traditional_media_(artwork),
+mushroom,
+pool:18473,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:cougar,
+species:felid,
+species:feline,
+species:mammal,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+title:the curiosity by devin elle kurtz (tamberella),
+toes,
+uploader:myrandall,
+white background,
+white_background,
+year:2019,

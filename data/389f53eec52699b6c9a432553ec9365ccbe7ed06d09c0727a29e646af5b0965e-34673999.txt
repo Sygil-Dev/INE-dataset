@@ -1,34 +1,34 @@
-1 female
-alternate hair color
-body armor
-booru:danbooru
-booru:gelbooru
-cake
-category:ine
-character:eldar
-character:farseer
-character:macha (warhammer)
-creator:lutherniel
-ears
-eating
-facial mark
-food
-fork
-gender:female
-happy
-medium:artist name
-medium:high resolution
-meta:artist name
-pink hair
-plate
-pointy ears
-rating:safe
-series:warhammer 40,000
-series:warhammer 40k
-solo
-species:elf
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:commission - macha with pink hair eating cake by lutherniel
-uploader:levthered
+1 female,
+alternate hair color,
+body armor,
+booru:danbooru,
+booru:gelbooru,
+cake,
+category:ine,
+character:eldar,
+character:farseer,
+character:macha (warhammer),
+creator:lutherniel,
+ears,
+eating,
+facial mark,
+food,
+fork,
+gender:female,
+happy,
+medium:artist name,
+medium:high resolution,
+meta:artist name,
+pink hair,
+plate,
+pointy ears,
+rating:safe,
+series:warhammer 40,000,
+series:warhammer 40k,
+solo,
+species:elf,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:commission - macha with pink hair eating cake by lutherniel,
+uploader:levthered,

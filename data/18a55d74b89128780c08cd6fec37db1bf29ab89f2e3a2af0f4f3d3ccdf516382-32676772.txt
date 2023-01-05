@@ -1,21 +1,21 @@
-bag
-bikes
-category:ine
-character design
-clothing:hair tie
-gender:female
-headwear
-helmet
-leather jackets
-medium:digital media
-paper
-ponytail
-smoke
-subreddit:imaginarycyberpunk
-subreddit:imtechnology
-tied hair
-title:imp by tomek pietrzyk
-uploader:n0laloth
-uzi
-weapon
-wind
+bag,
+bikes,
+category:ine,
+character design,
+clothing:hair tie,
+gender:female,
+headwear,
+helmet,
+leather jackets,
+medium:digital media,
+paper,
+ponytail,
+smoke,
+subreddit:imaginarycyberpunk,
+subreddit:imtechnology,
+tied hair,
+title:imp by tomek pietrzyk,
+uploader:n0laloth,
+uzi,
+weapon,
+wind,

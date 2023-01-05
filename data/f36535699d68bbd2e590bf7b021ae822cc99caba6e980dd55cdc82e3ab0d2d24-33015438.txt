@@ -1,46 +1,46 @@
-2019
-artist:x-celebril-x
-brown body
-brown scales
-brown_body
-brown_scales
-category:ine
-creator:x-celebril-x
-day
-detailed background
-detailed_background
-digital media (artwork)
-furry
-gold scales
-gold_scales
-green eyes
-green_eyes
-horn
-horns
-medium:detailed background
-medium:digital media
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:url
-outside
-rating:safe
-scales
-sky
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-spines
-subreddit:imaginarydragons
-subreddit:immonsters
-text
-title:"sun dragon" by eva celebril
-uploader:nikephoros_ii_phokas
-wings
-year:2019
+2019,
+artist:x-celebril-x,
+brown body,
+brown scales,
+brown_body,
+brown_scales,
+category:ine,
+creator:x-celebril-x,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+furry,
+gold scales,
+gold_scales,
+green eyes,
+green_eyes,
+horn,
+horns,
+medium:detailed background,
+medium:digital media,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:url,
+outside,
+rating:safe,
+scales,
+sky,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+spines,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+text,
+title:"sun dragon" by eva celebril,
+uploader:nikephoros_ii_phokas,
+wings,
+year:2019,

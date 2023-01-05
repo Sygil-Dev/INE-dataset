@@ -1,28 +1,28 @@
-autumn
-autumn leaves
-bare tree
-battle
-breathing fire
-category:ine
-day
-explosion
-fangs
-fire
-forest
-monster
-nature
-no humans
-open mouth
-outdoors
-rating:safe
-realistic
-sharp teeth
-sky
-spikes
-subreddit:imaginarybeasts
-subreddit:immonsters
-teeth
-title:rampaging baloths by eric deschamps
-tree
-uploader:[deleted]
-uploader:faeryknight
+autumn,
+autumn leaves,
+bare tree,
+battle,
+breathing fire,
+category:ine,
+day,
+explosion,
+fangs,
+fire,
+forest,
+monster,
+nature,
+no humans,
+open mouth,
+outdoors,
+rating:safe,
+realistic,
+sharp teeth,
+sky,
+spikes,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+teeth,
+title:rampaging baloths by eric deschamps,
+tree,
+uploader:[deleted],
+uploader:faeryknight,

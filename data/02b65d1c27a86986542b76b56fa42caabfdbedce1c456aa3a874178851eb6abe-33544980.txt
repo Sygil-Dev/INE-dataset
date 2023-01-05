@@ -1,24 +1,24 @@
-6+boys
-armor
-axe
-candle
-cape
-category:ine
-embers
-fire
-hat
-helmet
-holding
-holding sword
-holding weapon
-multiple boys
-polearm
-rating:safe
-standing
-subreddit:imaginarymonuments
-subreddit:imarchitecture
-sword
-title:mayan temple01 by likun wang
-torch
-uploader:barson2408
-weapon
+6+boys,
+armor,
+axe,
+candle,
+cape,
+category:ine,
+embers,
+fire,
+hat,
+helmet,
+holding,
+holding sword,
+holding weapon,
+multiple boys,
+polearm,
+rating:safe,
+standing,
+subreddit:imaginarymonuments,
+subreddit:imarchitecture,
+sword,
+title:mayan temple01 by likun wang,
+torch,
+uploader:barson2408,
+weapon,

@@ -1,41 +1,41 @@
-animal focus
-bird
-bird focus
-blue sky
-category:ine
-character:sirfetch'd
-closed eyes
-cloud
-cloudy sky
-creator:eric proctor
-creature
-eyebrows
-eyes closed
-flying
-full body
-gen 8 pokemon
-grass
-holding
-holding object
-holding sword
-holding weapon
-rating:safe
-series:pokémon
-shield
-sky
-smirk
-solo
-species:pokémon
-standing
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-sword
-title:"sirfetch'd" by eric proctor (tsaoshin)
-title:sirfetch'd by eric proctor (tsaoshin)
-uploader:myrandall
-uploader:torvusil
-weapon
+animal focus,
+bird,
+bird focus,
+blue sky,
+category:ine,
+character:sirfetch'd,
+closed eyes,
+cloud,
+cloudy sky,
+creator:eric proctor,
+creature,
+eyebrows,
+eyes closed,
+flying,
+full body,
+gen 8 pokemon,
+grass,
+holding,
+holding object,
+holding sword,
+holding weapon,
+rating:safe,
+series:pokémon,
+shield,
+sky,
+smirk,
+solo,
+species:pokémon,
+standing,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sword,
+title:"sirfetch'd" by eric proctor (tsaoshin),
+title:sirfetch'd by eric proctor (tsaoshin),
+uploader:myrandall,
+uploader:torvusil,
+weapon,

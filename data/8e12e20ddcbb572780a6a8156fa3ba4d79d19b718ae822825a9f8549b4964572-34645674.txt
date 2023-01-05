@@ -1,20 +1,20 @@
-art
-category:ine
-conceptart
-creator:panjoool ®
-digitalart
-enviromment
-landscape
-mattepainting
-medium:digital 2d
-scenery
-subreddit:imaginaryarchitecture
-subreddit:imaginarycastles
-subreddit:imaginaryvessels
-subreddit:imtechnology
-title:navio do castelo
-title:navio do castelo by panji andrian
-title:navio do castelo by panjoool
-uploader:dancing_cthulhu
-uploader:dr_mrs_them0narch
-uploader:myrandall
+art,
+category:ine,
+conceptart,
+creator:panjoool ®,
+digitalart,
+enviromment,
+landscape,
+mattepainting,
+medium:digital 2d,
+scenery,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarycastles,
+subreddit:imaginaryvessels,
+subreddit:imtechnology,
+title:navio do castelo,
+title:navio do castelo by panji andrian,
+title:navio do castelo by panjoool,
+uploader:dancing_cthulhu,
+uploader:dr_mrs_them0narch,
+uploader:myrandall,

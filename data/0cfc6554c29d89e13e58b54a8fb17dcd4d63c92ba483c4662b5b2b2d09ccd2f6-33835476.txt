@@ -1,24 +1,24 @@
-1boy
-black eyes
-black hair
-category:ine
-facial hair
-grey background
-looking at viewer
-male focus
-manly
-military
-military uniform
-nose
-portrait
-rating:safe
-realistic
-series:warhammer
-signature
-simple background
-solo
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:thought i would share another portrait i’ve done. was for someone online so based the image on him. :)
-uniform
-uploader:liamhammondart
+1boy,
+black eyes,
+black hair,
+category:ine,
+facial hair,
+grey background,
+looking at viewer,
+male focus,
+manly,
+military,
+military uniform,
+nose,
+portrait,
+rating:safe,
+realistic,
+series:warhammer,
+signature,
+simple background,
+solo,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:thought i would share another portrait i’ve done. was for someone online so based the image on him. :),
+uniform,
+uploader:liamhammondart,

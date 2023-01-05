@@ -1,53 +1,53 @@
-1 male
-armor
-boots
-breastplate
-category:ine
-character:charles babbage (fate/grand order)
-clothing:footwear
-creator:kei-suwabe
-creator:ksuwabe
-creator:ケースワベ【k-suwabe】
-facing viewer
-fate/go1000users入り
-faulds
-footwear
-full armor
-full body
-gauntlets
-gender:male
-greaves
-hand on hilt
-headwear
-helmet
-male focus
-medium:simple background
-medium:white background
-meta:commentary request
-pauldrons
-pixiv work:66474736
-rating:mature
-rating:safe
-series:fate
-series:fate (series)
-series:fate/grand order
-sitting
-solo
-spikes
-subreddit:imaginarymechs
-subreddit:imtechnology
-throne
-title:charles babbage [£æ£æ£æ££æ£š£æ£æ£æ¢£ææ£š] by k-suwabe
-title:charles babbage [蒸気王チャールズ・バベッジ] by k-suwabe
-title:蒸気王チャールズ・バベッジ
-twitter username
-uploader:strawstrut
-uploader:zwegria707
-weapon
-チャールズ・バベッジ(fate)
-勝てない
-勝てる気がしない
-蒸せる
-蒸気王
-蒸魔王
-誕生日にカルデア退去させられた人
+1 male,
+armor,
+boots,
+breastplate,
+category:ine,
+character:charles babbage (fate/grand order),
+clothing:footwear,
+creator:kei-suwabe,
+creator:ksuwabe,
+creator:ケースワベ【k-suwabe】,
+facing viewer,
+fate/go1000users入り,
+faulds,
+footwear,
+full armor,
+full body,
+gauntlets,
+gender:male,
+greaves,
+hand on hilt,
+headwear,
+helmet,
+male focus,
+medium:simple background,
+medium:white background,
+meta:commentary request,
+pauldrons,
+pixiv work:66474736,
+rating:mature,
+rating:safe,
+series:fate,
+series:fate (series),
+series:fate/grand order,
+sitting,
+solo,
+spikes,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+throne,
+title:charles babbage [£æ£æ£æ££æ£š£æ£æ£æ¢£ææ£š] by k-suwabe,
+title:charles babbage [蒸気王チャールズ・バベッジ] by k-suwabe,
+title:蒸気王チャールズ・バベッジ,
+twitter username,
+uploader:strawstrut,
+uploader:zwegria707,
+weapon,
+チャールズ・バベッジ(fate),
+勝てない,
+勝てる気がしない,
+蒸せる,
+蒸気王,
+蒸魔王,
+誕生日にカルデア退去させられた人,

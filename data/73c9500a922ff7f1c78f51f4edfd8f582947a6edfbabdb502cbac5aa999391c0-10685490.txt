@@ -1,44 +1,44 @@
-2008
-amazing
-ambiguous gender
-armor
-booru:e621
-category:ine
-character:master chief
-character:spartan
-character:spartan (halo)
-clothing:armor
-creator:martin houlden
-creator:unknown artist
-drone
-duo
-eyeless
-firearm
-gender:ambiguous
-gender:male
-gun
-male
-meta:2008
-not furry
-ranged weapon
-rating:safe
-series:alien
-series:alien (franchise)
-series:halo
-series:halo (series)
-series:microsoft
-series:xbox game studios
-smg
-spartan
-species:alien
-species:xenomorph
-studio:microsoft
-submachine gun
-subreddit:imaginaryhalo
-subreddit:imfandoms
-title:master chief vs xenomorph by martin houlden
-uploader:bleeding_choker
-video games
-visor
-weapon
-year:2008
+2008,
+amazing,
+ambiguous gender,
+armor,
+booru:e621,
+category:ine,
+character:master chief,
+character:spartan,
+character:spartan (halo),
+clothing:armor,
+creator:martin houlden,
+creator:unknown artist,
+drone,
+duo,
+eyeless,
+firearm,
+gender:ambiguous,
+gender:male,
+gun,
+male,
+meta:2008,
+not furry,
+ranged weapon,
+rating:safe,
+series:alien,
+series:alien (franchise),
+series:halo,
+series:halo (series),
+series:microsoft,
+series:xbox game studios,
+smg,
+spartan,
+species:alien,
+species:xenomorph,
+studio:microsoft,
+submachine gun,
+subreddit:imaginaryhalo,
+subreddit:imfandoms,
+title:master chief vs xenomorph by martin houlden,
+uploader:bleeding_choker,
+video games,
+visor,
+weapon,
+year:2008,

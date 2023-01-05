@@ -1,24 +1,24 @@
-astronomy
-category:ine
-chaotica
-cosmos
-creator:daniel schmelling
-digital
-digitalart
-fractalart
-fractals
-galaxies
-medium:digital 2d
-nebula
-nebulae
-scifi
-scifiart
-space
-spaceart
-spacetravel
-stars
-subreddit:imaginarystarscapes
-subreddit:imlandscapes
-title:coral nebula
-title:coral nebula by daniel schmelling
-uploader:dr_mrs_them0narch
+astronomy,
+category:ine,
+chaotica,
+cosmos,
+creator:daniel schmelling,
+digital,
+digitalart,
+fractalart,
+fractals,
+galaxies,
+medium:digital 2d,
+nebula,
+nebulae,
+scifi,
+scifiart,
+space,
+spaceart,
+spacetravel,
+stars,
+subreddit:imaginarystarscapes,
+subreddit:imlandscapes,
+title:coral nebula,
+title:coral nebula by daniel schmelling,
+uploader:dr_mrs_them0narch,

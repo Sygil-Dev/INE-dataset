@@ -1,48 +1,48 @@
-ambiguous gender
-armor
-banner
-booru:e621
-category:ine
-character:dromoka
-clothing:armor
-creator:winona nelson
-female
-flag
-front view
-furry
-gender:ambiguous
-gender:female
-gender:male
-gift
-group
-kneeling
-membrane (anatomy)
-membranous wings
-meta:14:9
-meta:official art
-rating:safe
-rear view
-scale
-scale (disambiguation)
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-size difference
-solo focus
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-spread wings
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-title:dromoka's gift by winona nelson
-uploader:faeryknight
-website:reddit
-wings
-worship
+ambiguous gender,
+armor,
+banner,
+booru:e621,
+category:ine,
+character:dromoka,
+clothing:armor,
+creator:winona nelson,
+female,
+flag,
+front view,
+furry,
+gender:ambiguous,
+gender:female,
+gender:male,
+gift,
+group,
+kneeling,
+membrane (anatomy),
+membranous wings,
+meta:14:9,
+meta:official art,
+rating:safe,
+rear view,
+scale,
+scale (disambiguation),
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+size difference,
+solo focus,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+spread wings,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:dromoka's gift by winona nelson,
+uploader:faeryknight,
+website:reddit,
+wings,
+worship,
