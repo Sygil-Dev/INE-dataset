@@ -1,27 +1,27 @@
-apple
-balloon
-beach
-boat
-cloud
-cloudy sky
-earth (planet)
-food
-fruit
-full moon
-horizon
-moon
-mountain
-ocean
-outdoors
-planet
-rating:safe
-sand
-scenery
-shore
-sky
-subreddit:wholesomefantasyart
-sun
-title:flight of the penguins by isynia-artessa
-uploader:rajahbeaubeau
-water
-waves
+apple,
+balloon,
+beach,
+boat,
+cloud,
+cloudy sky,
+earth (planet),
+food,
+fruit,
+full moon,
+horizon,
+moon,
+mountain,
+ocean,
+outdoors,
+planet,
+rating:safe,
+sand,
+scenery,
+shore,
+sky,
+subreddit:wholesomefantasyart,
+sun,
+title:flight of the penguins by isynia-artessa,
+uploader:rajahbeaubeau,
+water,
+waves,

@@ -1,20 +1,20 @@
-cloud
-day
-graphite (medium)
-happy
-indoors
-no humans
-open mouth
-poke ball
-pokemon (creature)
-rating:safe
-sitting
-sky
-smile
-subreddit:imaginarykanto
-subreddit:imaginarysliceoflife
-title:munchlax massage by me
-traditional media
-tree
-uploader:justfreyarts
-window
+cloud,
+day,
+graphite (medium),
+happy,
+indoors,
+no humans,
+open mouth,
+poke ball,
+pokemon (creature),
+rating:safe,
+sitting,
+sky,
+smile,
+subreddit:imaginarykanto,
+subreddit:imaginarysliceoflife,
+title:munchlax massage by me,
+traditional media,
+tree,
+uploader:justfreyarts,
+window,

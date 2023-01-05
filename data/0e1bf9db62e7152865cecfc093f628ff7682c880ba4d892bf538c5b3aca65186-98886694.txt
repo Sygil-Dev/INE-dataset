@@ -1,36 +1,36 @@
-aurora
-bare tree
-branch
-chain-link fence
-city lights
-crescent moon
-fence
-fireflies
-fireworks
-forest
-full moon
-galaxy
-halloween
-house
-milky way
-moon
-moonlight
-nature
-night
-night sky
-no humans
-outdoors
-rating:safe
-scenery
-shooting star
-sky
-snow
-snowing
-star (sky)
-starry sky
-subreddit:imaginarypathways
-tanabata
-title:path to dream, by marion marino
-tree
-uploader:miciy5
-winter
+aurora,
+bare tree,
+branch,
+chain-link fence,
+city lights,
+crescent moon,
+fence,
+fireflies,
+fireworks,
+forest,
+full moon,
+galaxy,
+halloween,
+house,
+milky way,
+moon,
+moonlight,
+nature,
+night,
+night sky,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+shooting star,
+sky,
+snow,
+snowing,
+star (sky),
+starry sky,
+subreddit:imaginarypathways,
+tanabata,
+title:path to dream, by marion marino,
+tree,
+uploader:miciy5,
+winter,

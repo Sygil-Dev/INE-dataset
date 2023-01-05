@@ -1,25 +1,25 @@
-1boy
-artist name
-bare tree
-building
-chain-link fence
-city
-earrings
-fence
-forest
-jacket
-jewelry
-male focus
-nature
-necklace
-outdoors
-photo background
-rating:safe
-skyscraper
-snow
-solo
-subreddit:characterart
-title:scars by usfr larynsson
-tree
-uploader:lol33ta
-upper body
+1boy,
+artist name,
+bare tree,
+building,
+chain-link fence,
+city,
+earrings,
+fence,
+forest,
+jacket,
+jewelry,
+male focus,
+nature,
+necklace,
+outdoors,
+photo background,
+rating:safe,
+skyscraper,
+snow,
+solo,
+subreddit:characterart,
+title:scars by usfr larynsson,
+tree,
+uploader:lol33ta,
+upper body,

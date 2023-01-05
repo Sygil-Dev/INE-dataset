@@ -1,22 +1,22 @@
-architecture
-bridge
-building
-chain-link fence
-city
-city lights
-cityscape
-fence
-ferris wheel
-no humans
-outdoors
-rating:safe
-real world location
-rooftop
-scenery
-skyscraper
-subreddit:imaginaryarchitecture
-title:megapolis by denis godyna
-tokyo (city)
-tower
-tree
-uploader:lol33ta
+architecture,
+bridge,
+building,
+chain-link fence,
+city,
+city lights,
+cityscape,
+fence,
+ferris wheel,
+no humans,
+outdoors,
+rating:safe,
+real world location,
+rooftop,
+scenery,
+skyscraper,
+subreddit:imaginaryarchitecture,
+title:megapolis by denis godyna,
+tokyo (city),
+tower,
+tree,
+uploader:lol33ta,

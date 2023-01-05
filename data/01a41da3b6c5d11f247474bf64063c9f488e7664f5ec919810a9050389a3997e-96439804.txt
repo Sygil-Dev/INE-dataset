@@ -1,24 +1,24 @@
-beach
-boat
-bridge
-city
-cloud
-day
-horizon
-no humans
-ocean
-outdoors
-planet
-rating:safe
-river
-sand
-scenery
-ship
-shore
-sky
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-title:science fiction plus cover art, december 1953, by frank r. paul
-uploader:yannirotten
-water
-watercraft
+beach,
+boat,
+bridge,
+city,
+cloud,
+day,
+horizon,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+river,
+sand,
+scenery,
+ship,
+shore,
+sky,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+title:science fiction plus cover art, december 1953, by frank r. paul,
+uploader:yannirotten,
+water,
+watercraft,

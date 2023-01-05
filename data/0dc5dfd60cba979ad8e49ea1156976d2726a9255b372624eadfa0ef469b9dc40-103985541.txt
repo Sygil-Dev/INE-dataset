@@ -1,23 +1,23 @@
-1boy
-colored skin
-hood
-male focus
-old
-old man
-outstretched hand
-pointy ears
-rating:safe
-reaching out
-robe
-simple background
-skull
-solo
-subreddit:imaginarygoblins
-title:chaos spawn goblin by will o'brien
-torn
-torn cape
-torn clothes
-torn dress
-torn pants
-uploader:myrandall
-white background
+1boy,
+colored skin,
+hood,
+male focus,
+old,
+old man,
+outstretched hand,
+pointy ears,
+rating:safe,
+reaching out,
+robe,
+simple background,
+skull,
+solo,
+subreddit:imaginarygoblins,
+title:chaos spawn goblin by will o'brien,
+torn,
+torn cape,
+torn clothes,
+torn dress,
+torn pants,
+uploader:myrandall,
+white background,

@@ -1,22 +1,22 @@
-1girl
-artwork
-bridge
-building
-city
-city lights
-cityscape
-cyber city
-evening
-fire
-futuristic
-long hair
-outdoors
-rating:safe
-scenery
-sky
-skyscraper
-subreddit:imaginarycityscapes
-sunset
-title:supercloud by mike winklemann (beeple)
-tower
-uploader:crowe410
+1girl,
+artwork,
+bridge,
+building,
+city,
+city lights,
+cityscape,
+cyber city,
+evening,
+fire,
+futuristic,
+long hair,
+outdoors,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarycityscapes,
+sunset,
+title:supercloud by mike winklemann (beeple),
+tower,
+uploader:crowe410,

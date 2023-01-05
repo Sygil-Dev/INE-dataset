@@ -1,42 +1,42 @@
-1boy
-battle
-breathing fire
-burning
-campfire
-candle
-cannon
-cooking
-damaged
-destruction
-embers
-explosion
-fiery hair
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-gun
-military
-military vehicle
-molten rock
-muzzle flash
-orange sky
-pyrokinesis
-rating:safe
-realistic
-smoke
-sparks
-splashing
-subreddit:imaginarysoldiers
-sunset
-tank
-title:sgt. rock special #2 cover art (dc comics, 1994) by dan brereton
-torch
-twilight
-uniform
-uploader:yannirotten
-volcano
-war
-weapon
+1boy,
+battle,
+breathing fire,
+burning,
+campfire,
+candle,
+cannon,
+cooking,
+damaged,
+destruction,
+embers,
+explosion,
+fiery hair,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+gun,
+military,
+military vehicle,
+molten rock,
+muzzle flash,
+orange sky,
+pyrokinesis,
+rating:safe,
+realistic,
+smoke,
+sparks,
+splashing,
+subreddit:imaginarysoldiers,
+sunset,
+tank,
+title:sgt. rock special #2 cover art (dc comics, 1994) by dan brereton,
+torch,
+twilight,
+uniform,
+uploader:yannirotten,
+volcano,
+war,
+weapon,

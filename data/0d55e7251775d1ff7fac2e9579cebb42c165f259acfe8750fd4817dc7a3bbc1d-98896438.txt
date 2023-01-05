@@ -1,34 +1,34 @@
-bare tree
-beach
-blue sky
-branch
-bush
-cloud
-cloudy sky
-day
-forest
-grass
-hill
-horizon
-house
-lake
-landscape
-mountain
-mountainous horizon
-nature
-no humans
-outdoors
-palm tree
-path
-rating:safe
-river
-road
-scenery
-sky
-subreddit:imaginaryvolcanoes
-title:volcano by oliver ryan
-tree
-tree shade
-uploader:chalkchick0
-water
-waterfall
+bare tree,
+beach,
+blue sky,
+branch,
+bush,
+cloud,
+cloudy sky,
+day,
+forest,
+grass,
+hill,
+horizon,
+house,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+outdoors,
+palm tree,
+path,
+rating:safe,
+river,
+road,
+scenery,
+sky,
+subreddit:imaginaryvolcanoes,
+title:volcano by oliver ryan,
+tree,
+tree shade,
+uploader:chalkchick0,
+water,
+waterfall,

@@ -1,20 +1,20 @@
-1girl
-acoustic guitar
-electric guitar
-guitar
-holding instrument
-instrument
-long hair
-lute (instrument)
-music
-painting (medium)
-playing instrument
-plectrum
-rating:safe
-realistic
-subreddit:imaginarywitcher
-teeth
-title:jaskier from the witcher, by shyguyz
-traditional media
-uploader:[deleted]
-violin
+1girl,
+acoustic guitar,
+electric guitar,
+guitar,
+holding instrument,
+instrument,
+long hair,
+lute (instrument),
+music,
+painting (medium),
+playing instrument,
+plectrum,
+rating:safe,
+realistic,
+subreddit:imaginarywitcher,
+teeth,
+title:jaskier from the witcher, by shyguyz,
+traditional media,
+uploader:[deleted],
+violin,

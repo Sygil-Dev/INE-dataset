@@ -1,47 +1,47 @@
-1girl
-animal
-bangs
-blonde hair
-blue dress
-blurry
-braid
-bridal gauntlets
-character:link
-character:princess zelda
-circlet
-closed eyes
-creator:alzi xiaomi
-crown braid
-day
-depth of field
-dress
-eyes closed
-from side
-gender:female
-grass
-horse
-jewelry
-lens flare
-long hair
-long sleeves
-meta:absurdres
-meta:highres
-outdoors
-parted lips
-petting
-pointy ears
-profile
-rating:safe
-series:nintendo
-series:the legend of zelda
-series:the legend of zelda: breath of the wild
-smile
-solo
-straight hair
-subreddit:imaginaryelves
-sunlight
-title:对话 by alzi米(alzzzimi)
-twitter
-uploader:musaibwadkar
-upper body
-very long hair
+1girl,
+animal,
+bangs,
+blonde hair,
+blue dress,
+blurry,
+braid,
+bridal gauntlets,
+character:link,
+character:princess zelda,
+circlet,
+closed eyes,
+creator:alzi xiaomi,
+crown braid,
+day,
+depth of field,
+dress,
+eyes closed,
+from side,
+gender:female,
+grass,
+horse,
+jewelry,
+lens flare,
+long hair,
+long sleeves,
+meta:absurdres,
+meta:highres,
+outdoors,
+parted lips,
+petting,
+pointy ears,
+profile,
+rating:safe,
+series:nintendo,
+series:the legend of zelda,
+series:the legend of zelda: breath of the wild,
+smile,
+solo,
+straight hair,
+subreddit:imaginaryelves,
+sunlight,
+title:对话 by alzi米(alzzzimi),
+twitter,
+uploader:musaibwadkar,
+upper body,
+very long hair,

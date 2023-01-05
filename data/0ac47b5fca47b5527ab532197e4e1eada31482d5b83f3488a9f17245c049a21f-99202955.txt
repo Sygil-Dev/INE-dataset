@@ -1,41 +1,41 @@
-2girls
-asymmetrical hair
-black gloves
-bodysuit
-brown eyes
-character:sombra (overwatch)
-coat
-cowboy shot
-dark skin
-dark-skinned female
-earrings
-energy ball
-gloves
-glowing
-gun
-high collar
-holding
-holographic interface
-jewelry
-lipstick
-long hair
-makeup
-mascara
-mole
-mole under eye
-multicolored hair
-multiple girls
-nose
-parted lips
-purple eyes
-purple hair
-purple lips
-rating:safe
-solo
-stud earrings
-subreddit:imaginaryoverwatch
-title:talon by miguel blanco
-trench coat
-two-tone hair
-undercut
-uploader:lol33ta
+2girls,
+asymmetrical hair,
+black gloves,
+bodysuit,
+brown eyes,
+character:sombra (overwatch),
+coat,
+cowboy shot,
+dark skin,
+dark-skinned female,
+earrings,
+energy ball,
+gloves,
+glowing,
+gun,
+high collar,
+holding,
+holographic interface,
+jewelry,
+lipstick,
+long hair,
+makeup,
+mascara,
+mole,
+mole under eye,
+multicolored hair,
+multiple girls,
+nose,
+parted lips,
+purple eyes,
+purple hair,
+purple lips,
+rating:safe,
+solo,
+stud earrings,
+subreddit:imaginaryoverwatch,
+title:talon by miguel blanco,
+trench coat,
+two-tone hair,
+undercut,
+uploader:lol33ta,

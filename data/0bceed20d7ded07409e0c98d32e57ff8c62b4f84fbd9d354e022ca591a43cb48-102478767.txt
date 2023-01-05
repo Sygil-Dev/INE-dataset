@@ -1,19 +1,19 @@
-artist name
-autumn
-bear
-bow
-food
-heart
-honey
-no humans
-orange (fruit)
-orange background
-orange slice
-pancake
-rating:safe
-rice
-spatula
-subreddit:imaginaryaww
-title:street food by harsh taggar
-tree
-uploader:lol33ta
+artist name,
+autumn,
+bear,
+bow,
+food,
+heart,
+honey,
+no humans,
+orange (fruit),
+orange background,
+orange slice,
+pancake,
+rating:safe,
+rice,
+spatula,
+subreddit:imaginaryaww,
+title:street food by harsh taggar,
+tree,
+uploader:lol33ta,

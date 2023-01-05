@@ -1,20 +1,20 @@
-barefoot
-black hair
-blonde hair
-blood
-blood on clothes
-blood on face
-blood on hands
-blood stain
-border
-building
-corpse
-death
-dress
-guro
-injury
-pool of blood
-rating:safe
-subreddit:imaginaryunicorns
-title:stardust #3, page 46 (1998) by charles vess
-uploader:yannirotten
+barefoot,
+black hair,
+blonde hair,
+blood,
+blood on clothes,
+blood on face,
+blood on hands,
+blood stain,
+border,
+building,
+corpse,
+death,
+dress,
+guro,
+injury,
+pool of blood,
+rating:safe,
+subreddit:imaginaryunicorns,
+title:stardust #3, page 46 (1998) by charles vess,
+uploader:yannirotten,

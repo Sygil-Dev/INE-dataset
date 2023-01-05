@@ -1,29 +1,29 @@
-architecture
-bird
-bridge
-building
-castle
-city
-city lights
-cityscape
-clock tower
-cloud
-cloudy sky
-east asian architecture
-letterboxed
-outdoors
-pagoda
-rating:safe
-river
-rooftop
-ruins
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginaryarchitecture
-sunset
-title:nova city by artist christopher gonzalez
-tower
-town
-uploader:anon_ymou5
+architecture,
+bird,
+bridge,
+building,
+castle,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+cloudy sky,
+east asian architecture,
+letterboxed,
+outdoors,
+pagoda,
+rating:safe,
+river,
+rooftop,
+ruins,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginaryarchitecture,
+sunset,
+title:nova city by artist christopher gonzalez,
+tower,
+town,
+uploader:anon_ymou5,

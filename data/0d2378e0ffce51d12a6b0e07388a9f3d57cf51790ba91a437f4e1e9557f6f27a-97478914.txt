@@ -1,40 +1,40 @@
-autumn leaves
-bamboo
-bare tree
-black hair
-branch
-cherry blossoms
-falling leaves
-falling petals
-flower
-forest
-gender:male
-grass
-in tree
-japanese clothes
-leaf
-leaves in wind
-long hair
-multiple boys
-nature
-outdoors
-petals
-plant
-potted plant
-rating:safe
-sitting
-sitting in tree
-spider lily
-spring (season)
-subreddit:imaginarywizards
-subreddit:imcharacters
-sword
-tanabata
-title:adept shadebender by lejia chan
-tree
-under tree
-uploader:lol33ta
-very long hair
-weapon
-white hair
-wisteria
+autumn leaves,
+bamboo,
+bare tree,
+black hair,
+branch,
+cherry blossoms,
+falling leaves,
+falling petals,
+flower,
+forest,
+gender:male,
+grass,
+in tree,
+japanese clothes,
+leaf,
+leaves in wind,
+long hair,
+multiple boys,
+nature,
+outdoors,
+petals,
+plant,
+potted plant,
+rating:safe,
+sitting,
+sitting in tree,
+spider lily,
+spring (season),
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+sword,
+tanabata,
+title:adept shadebender by lejia chan,
+tree,
+under tree,
+uploader:lol33ta,
+very long hair,
+weapon,
+white hair,
+wisteria,

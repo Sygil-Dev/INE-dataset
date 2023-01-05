@@ -1,22 +1,22 @@
-autumn
-autumn leaves
-breathing fire
-burning
-campfire
-character:charizard
-character:charmander
-fire
-flame
-grass
-molten rock
-no humans
-plant
-rating:safe
-subreddit:birdsforscale
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-title:"branching out," me, oil on canvas, 2022.
-title:branching out, me, oil on canvas, 2022
-tree
-uploader:stevenbeercockart
-volcano
+autumn,
+autumn leaves,
+breathing fire,
+burning,
+campfire,
+character:charizard,
+character:charmander,
+fire,
+flame,
+grass,
+molten rock,
+no humans,
+plant,
+rating:safe,
+subreddit:birdsforscale,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+title:"branching out," me, oil on canvas, 2022.,
+title:branching out, me, oil on canvas, 2022,
+tree,
+uploader:stevenbeercockart,
+volcano,

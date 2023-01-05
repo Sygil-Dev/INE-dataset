@@ -1,38 +1,38 @@
-ambiguous gender
-brown body
-brown fur
-creator:sandara
-digitigrade
-feral
-fur
-green body
-green fur
-group
-meta:2022
-meta:digital media (artwork)
-paws
-plant
-quadruped
-rating:safe
-shell
-simple background
-species:arthropod
-species:canid
-species:canine
-species:cricket
-species:elemental creature
-species:flora fauna
-species:fox
-species:gastropod
-species:hybrid
-species:insect
-species:mammal
-species:mollusk
-species:orthopterid
-species:snail
-standing
-subreddit:imaginaryaww
-subreddit:immeta
-title:flowerfoxes by sandara
-uploader:lol33ta
-white background
+ambiguous gender,
+brown body,
+brown fur,
+creator:sandara,
+digitigrade,
+feral,
+fur,
+green body,
+green fur,
+group,
+meta:2022,
+meta:digital media (artwork),
+paws,
+plant,
+quadruped,
+rating:safe,
+shell,
+simple background,
+species:arthropod,
+species:canid,
+species:canine,
+species:cricket,
+species:elemental creature,
+species:flora fauna,
+species:fox,
+species:gastropod,
+species:hybrid,
+species:insect,
+species:mammal,
+species:mollusk,
+species:orthopterid,
+species:snail,
+standing,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:flowerfoxes by sandara,
+uploader:lol33ta,
+white background,

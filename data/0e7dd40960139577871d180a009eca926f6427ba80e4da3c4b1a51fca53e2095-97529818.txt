@@ -1,26 +1,26 @@
-branch
-bridge
-building
-city
-cityscape
-fantasy
-forest
-nature
-no humans
-outdoors
-overgrown
-palm tree
-plant
-rating:safe
-scenery
-sky
-skyscraper
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:daily 067 by sebastian luca
-tower
-tree
-uploader:dancing_cthulhu
-vines
-water
-waterfall
+branch,
+bridge,
+building,
+city,
+cityscape,
+fantasy,
+forest,
+nature,
+no humans,
+outdoors,
+overgrown,
+palm tree,
+plant,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:daily 067 by sebastian luca,
+tower,
+tree,
+uploader:dancing_cthulhu,
+vines,
+water,
+waterfall,

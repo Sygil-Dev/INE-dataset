@@ -1,21 +1,21 @@
-cliff
-cloud
-cloudy sky
-horizon
-lake
-landscape
-mountain
-mountainous horizon
-nature
-ocean
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarydeserts
-title:the brazen serpent by tomas honz
-tree
-uploader:chalkchick0
-water
-waterfall
+cliff,
+cloud,
+cloudy sky,
+horizon,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+ocean,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarydeserts,
+title:the brazen serpent by tomas honz,
+tree,
+uploader:chalkchick0,
+water,
+waterfall,

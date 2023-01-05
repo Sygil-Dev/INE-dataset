@@ -1,19 +1,19 @@
-bird
-cloud
-cloudy sky
-facing away
-horizon
-mountain
-outdoors
-rating:safe
-scenery
-sky
-standing
-subreddit:imaginaryportals
-sun
-sunlight
-sunset
-title:guard of the last gate, by omer tunc
-uploader:sylvyrfyre
-water
-weapon
+bird,
+cloud,
+cloudy sky,
+facing away,
+horizon,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+standing,
+subreddit:imaginaryportals,
+sun,
+sunlight,
+sunset,
+title:guard of the last gate, by omer tunc,
+uploader:sylvyrfyre,
+water,
+weapon,

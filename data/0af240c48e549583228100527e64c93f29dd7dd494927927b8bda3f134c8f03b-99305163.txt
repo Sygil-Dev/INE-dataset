@@ -1,19 +1,19 @@
-blue sky
-building
-castle
-cloud
-cloudy sky
-day
-mountain
-mountainous horizon
-no humans
-outdoors
-rating:safe
-scenery
-signature
-sky
-subreddit:imaginaryfallout
-title:raptor graveyard by nemo2d
-tower
-tree
-uploader:i_burn_cereal
+blue sky,
+building,
+castle,
+cloud,
+cloudy sky,
+day,
+mountain,
+mountainous horizon,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+signature,
+sky,
+subreddit:imaginaryfallout,
+title:raptor graveyard by nemo2d,
+tower,
+tree,
+uploader:i_burn_cereal,

@@ -1,24 +1,24 @@
-aurora
-beard
-constellation
-facial hair
-galaxy
-green eyes
-milky way
-night
-night sky
-no humans
-old
-old man
-planet
-rating:safe
-realistic
-shooting star
-sky
-space
-star (sky)
-starry sky
-subreddit:imaginaryaliens
-subreddit:imaginaryaww
-title:wookiee santa by paul bateman
-uploader:yannirotten
+aurora,
+beard,
+constellation,
+facial hair,
+galaxy,
+green eyes,
+milky way,
+night,
+night sky,
+no humans,
+old,
+old man,
+planet,
+rating:safe,
+realistic,
+shooting star,
+sky,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryaliens,
+subreddit:imaginaryaww,
+title:wookiee santa by paul bateman,
+uploader:yannirotten,

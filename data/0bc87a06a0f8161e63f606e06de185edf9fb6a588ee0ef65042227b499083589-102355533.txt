@@ -1,21 +1,21 @@
-1girl
-air bubble
-animal
-bubble
-bug
-butterfly
-coral
-fish
-forest
-goldfish
-nature
-nude
-painting (medium)
-rating:safe
-seaweed
-signature
-subreddit:imaginarysliceoflife
-title:full solar eclipse under the sea (master of old sketch by me)
-traditional media
-underwater
-uploader:affectionateview1094
+1girl,
+air bubble,
+animal,
+bubble,
+bug,
+butterfly,
+coral,
+fish,
+forest,
+goldfish,
+nature,
+nude,
+painting (medium),
+rating:safe,
+seaweed,
+signature,
+subreddit:imaginarysliceoflife,
+title:full solar eclipse under the sea (master of old sketch by me),
+traditional media,
+underwater,
+uploader:affectionateview1094,

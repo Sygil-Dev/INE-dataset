@@ -1,25 +1,25 @@
-battle
-breathing fire
-burning
-claws
-creator:antonio j. manzanedo
-darkfantasy
-dragon
-fantasy
-fire
-flame
-glowing
-medium:digital 2d
-molten rock
-monster
-open mouth
-rating:safe
-reddragon
-sharp teeth
-spikes
-subreddit:badassdragons
-teeth
-title:dragon rider
-title:dragon rider, by antonio j. manzanedo
-uploader:nikephoros_ii_phokas
-wings
+battle,
+breathing fire,
+burning,
+claws,
+creator:antonio j. manzanedo,
+darkfantasy,
+dragon,
+fantasy,
+fire,
+flame,
+glowing,
+medium:digital 2d,
+molten rock,
+monster,
+open mouth,
+rating:safe,
+reddragon,
+sharp teeth,
+spikes,
+subreddit:badassdragons,
+teeth,
+title:dragon rider,
+title:dragon rider, by antonio j. manzanedo,
+uploader:nikephoros_ii_phokas,
+wings,

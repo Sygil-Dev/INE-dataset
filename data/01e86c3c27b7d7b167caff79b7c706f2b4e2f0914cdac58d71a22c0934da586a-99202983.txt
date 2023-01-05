@@ -1,19 +1,19 @@
-armor
-chain
-chained
-cloud
-cuffs
-flail
-hat
-holding weapon
-mountain
-multiple girls
-polearm
-rating:safe
-sky
-snow
-subreddit:imaginarydragons
-sword
-title:巨龙来袭 - the dragon is coming by mumu mei
-uploader:sr_myers
-weapon
+armor,
+chain,
+chained,
+cloud,
+cuffs,
+flail,
+hat,
+holding weapon,
+mountain,
+multiple girls,
+polearm,
+rating:safe,
+sky,
+snow,
+subreddit:imaginarydragons,
+sword,
+title:巨龙来袭 - the dragon is coming by mumu mei,
+uploader:sr_myers,
+weapon,

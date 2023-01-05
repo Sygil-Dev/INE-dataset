@@ -1,46 +1,46 @@
-architecture
-bench
-black border
-blue sky
-building
-bush
-cloud
-cloudy sky
-day
-foliage
-forest
-garden
-grass
-house
-hydrangea
-lake
-landscape
-letterboxed
-moss
-mountain
-nature
-no humans
-outdoors
-overgrown
-park
-path
-plant
-power lines
-rating:safe
-river
-road
-ruins
-scenery
-shrine
-sky
-street
-subreddit:imaginarypathways
-subreddit:imlandscapes
-sunlight
-title:forest bridge by cycle circle
-torii
-tree
-tree shade
-uploader:lol33ta
-utility pole
-veranda
+architecture,
+bench,
+black border,
+blue sky,
+building,
+bush,
+cloud,
+cloudy sky,
+day,
+foliage,
+forest,
+garden,
+grass,
+house,
+hydrangea,
+lake,
+landscape,
+letterboxed,
+moss,
+mountain,
+nature,
+no humans,
+outdoors,
+overgrown,
+park,
+path,
+plant,
+power lines,
+rating:safe,
+river,
+road,
+ruins,
+scenery,
+shrine,
+sky,
+street,
+subreddit:imaginarypathways,
+subreddit:imlandscapes,
+sunlight,
+title:forest bridge by cycle circle,
+torii,
+tree,
+tree shade,
+uploader:lol33ta,
+utility pole,
+veranda,

@@ -1,19 +1,19 @@
-barefoot
-black hair
-japanese clothes
-kimono
-long hair
-multiple girls
-rating:safe
-sliding doors
-subreddit:imaginaryhorrors
-subreddit:imaginarymonstergirls
-subreddit:reasonablefantasy
-title:legend of the five rings - writ of the wilds, victor garcia
-title:legend of the five rings: writ of the wilds art by victor garcia
-title:writ of the wilds by victor garcia
-uploader:lol33ta
-uploader:luckywight
-uploader:miciy5
-watermark
-window
+barefoot,
+black hair,
+japanese clothes,
+kimono,
+long hair,
+multiple girls,
+rating:safe,
+sliding doors,
+subreddit:imaginaryhorrors,
+subreddit:imaginarymonstergirls,
+subreddit:reasonablefantasy,
+title:legend of the five rings - writ of the wilds, victor garcia,
+title:legend of the five rings: writ of the wilds art by victor garcia,
+title:writ of the wilds by victor garcia,
+uploader:lol33ta,
+uploader:luckywight,
+uploader:miciy5,
+watermark,
+window,

@@ -1,24 +1,24 @@
-1girl
-bird
-bridge
-building
-city
-city lights
-cityscape
-cloud
-copyright name
-fake screenshot
-letterboxed
-long hair
-outdoors
-rating:safe
-river
-scenery
-sky
-skyscraper
-subreddit:imaginarylandscapes
-title:the mines
-tower
-uploader:fabjabvfx
-very long hair
-water
+1girl,
+bird,
+bridge,
+building,
+city,
+city lights,
+cityscape,
+cloud,
+copyright name,
+fake screenshot,
+letterboxed,
+long hair,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarylandscapes,
+title:the mines,
+tower,
+uploader:fabjabvfx,
+very long hair,
+water,

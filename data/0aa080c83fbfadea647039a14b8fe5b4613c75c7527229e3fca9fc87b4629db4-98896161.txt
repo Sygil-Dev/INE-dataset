@@ -1,34 +1,34 @@
-beach
-blue sky
-boat
-cloud
-cloudy sky
-day
-earth (planet)
-footprints
-hat
-horizon
-island
-landscape
-lighthouse
-mountain
-mountainous horizon
-multiple girls
-ocean
-outdoors
-pier
-planet
-rating:safe
-sand
-scenery
-seagull
-shore
-sky
-standing on liquid
-subreddit:imaginaryglaciers
-title:how it looking?
-uploader:arthurbroun
-walking on liquid
-water
-watercraft
-waves
+beach,
+blue sky,
+boat,
+cloud,
+cloudy sky,
+day,
+earth (planet),
+footprints,
+hat,
+horizon,
+island,
+landscape,
+lighthouse,
+mountain,
+mountainous horizon,
+multiple girls,
+ocean,
+outdoors,
+pier,
+planet,
+rating:safe,
+sand,
+scenery,
+seagull,
+shore,
+sky,
+standing on liquid,
+subreddit:imaginaryglaciers,
+title:how it looking?,
+uploader:arthurbroun,
+walking on liquid,
+water,
+watercraft,
+waves,

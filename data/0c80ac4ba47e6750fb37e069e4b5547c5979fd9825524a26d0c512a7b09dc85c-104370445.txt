@@ -1,23 +1,23 @@
-aurora
-fireflies
-grass
-light particles
-milky way
-night
-night sky
-no humans
-open mouth
-outdoors
-pokemon (creature)
-rating:safe
-shooting star
-sky
-snow
-snowing
-space
-star (sky)
-starry sky
-subreddit:imaginaryanimals
-title:lunch with momma (art by me)
-tree
-uploader:mangomeowie
+aurora,
+fireflies,
+grass,
+light particles,
+milky way,
+night,
+night sky,
+no humans,
+open mouth,
+outdoors,
+pokemon (creature),
+rating:safe,
+shooting star,
+sky,
+snow,
+snowing,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryanimals,
+title:lunch with momma (art by me),
+tree,
+uploader:mangomeowie,

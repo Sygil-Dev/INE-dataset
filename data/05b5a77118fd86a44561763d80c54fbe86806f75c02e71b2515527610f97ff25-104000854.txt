@@ -1,51 +1,51 @@
-6+boys
-aircraft
-battle
-breathing fire
-burning
-campfire
-cannon
-cloud
-cloudy sky
-damaged
-debris
-desert
-dirty
-dusk
-embers
-energy gun
-evening
-explosion
-fire
-firing
-flame
-flaming weapon
-gradient sky
-ground vehicle
-gun
-helicopter
-mecha
-molten rock
-motor vehicle
-muzzle flash
-orange sky
-rating:safe
-realistic
-red sky
-rifle
-rocket launcher
-ruins
-science fiction
-smoke
-soldier
-sparks
-subreddit:imaginarysoldiers
-sun
-sunrise
-sunset
-title:warhammer 40k 30th anniversary by igor sid
-torch
-twilight
-uploader:natezomby
-war
-weapon
+6+boys,
+aircraft,
+battle,
+breathing fire,
+burning,
+campfire,
+cannon,
+cloud,
+cloudy sky,
+damaged,
+debris,
+desert,
+dirty,
+dusk,
+embers,
+energy gun,
+evening,
+explosion,
+fire,
+firing,
+flame,
+flaming weapon,
+gradient sky,
+ground vehicle,
+gun,
+helicopter,
+mecha,
+molten rock,
+motor vehicle,
+muzzle flash,
+orange sky,
+rating:safe,
+realistic,
+red sky,
+rifle,
+rocket launcher,
+ruins,
+science fiction,
+smoke,
+soldier,
+sparks,
+subreddit:imaginarysoldiers,
+sun,
+sunrise,
+sunset,
+title:warhammer 40k 30th anniversary by igor sid,
+torch,
+twilight,
+uploader:natezomby,
+war,
+weapon,

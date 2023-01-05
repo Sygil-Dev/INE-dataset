@@ -1,21 +1,21 @@
-1boy
-3d
-earth (planet)
-fireworks
-night
-palm tree
-photo (medium)
-planet
-rating:safe
-sky
-smile
-solo
-space
-star (sky)
-starry sky
-subreddit:imaginarylandscapes
-sunglasses
-title:frontier - original vs giclee print on canvas
-tree
-uploader:raysbyryan
-water
+1boy,
+3d,
+earth (planet),
+fireworks,
+night,
+palm tree,
+photo (medium),
+planet,
+rating:safe,
+sky,
+smile,
+solo,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarylandscapes,
+sunglasses,
+title:frontier - original vs giclee print on canvas,
+tree,
+uploader:raysbyryan,
+water,

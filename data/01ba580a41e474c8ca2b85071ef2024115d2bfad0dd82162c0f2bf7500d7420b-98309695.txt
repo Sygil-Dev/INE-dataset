@@ -1,25 +1,25 @@
-1other
-beach
-boat
-bridge
-cloud
-cloudy sky
-horizon
-lake
-mountain
-ocean
-outdoors
-rating:safe
-river
-scenery
-shore
-sky
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-sunset
-title:mtg island art by peter mohrbacher
-tower
-uploader:yeeslander
-water
-watercraft
-waves
+1other,
+beach,
+boat,
+bridge,
+cloud,
+cloudy sky,
+horizon,
+lake,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+river,
+scenery,
+shore,
+sky,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+sunset,
+title:mtg island art by peter mohrbacher,
+tower,
+uploader:yeeslander,
+water,
+watercraft,
+waves,

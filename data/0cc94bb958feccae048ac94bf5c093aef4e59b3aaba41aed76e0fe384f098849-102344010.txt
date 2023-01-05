@@ -1,22 +1,22 @@
-1girl
-2boys
-beard
-black hair
-blonde hair
-blurry
-blurry background
-cape
-depth of field
-earrings
-facial hair
-jewelry
-letterboxed
-long hair
-makeup
-male focus
-multiple boys
-mustache
-rating:safe
-subreddit:imaginarywesteros
-title:rogar &amp; rhaena by chillyravenart
-uploader:firstandlasttoday
+1girl,
+2boys,
+beard,
+black hair,
+blonde hair,
+blurry,
+blurry background,
+cape,
+depth of field,
+earrings,
+facial hair,
+jewelry,
+letterboxed,
+long hair,
+makeup,
+male focus,
+multiple boys,
+mustache,
+rating:safe,
+subreddit:imaginarywesteros,
+title:rogar &amp; rhaena by chillyravenart,
+uploader:firstandlasttoday,

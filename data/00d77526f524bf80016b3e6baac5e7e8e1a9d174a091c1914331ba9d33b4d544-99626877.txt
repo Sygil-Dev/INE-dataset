@@ -1,35 +1,35 @@
-battle
-breathing fire
-burning
-character:godzilla
-city
-creator:ertacaltinoz
-dusk
-embers
-evening
-explosion
-fangs
-fire
-flame
-horns
-houseofthedragon
-kaijuu
-molten rock
-monster
-multiple tails
-no humans
-open mouth
-orange sky
-rating:safe
-red sky
-scales
-sharp teeth
-spikes
-subreddit:imaginarywesteros
-sunset
-teeth
-title:"aegon the dragon" by ertaç altınöz
-title:aegon the dragon
-twilight
-uploader:ertacaltinoz
-volcano
+battle,
+breathing fire,
+burning,
+character:godzilla,
+city,
+creator:ertacaltinoz,
+dusk,
+embers,
+evening,
+explosion,
+fangs,
+fire,
+flame,
+horns,
+houseofthedragon,
+kaijuu,
+molten rock,
+monster,
+multiple tails,
+no humans,
+open mouth,
+orange sky,
+rating:safe,
+red sky,
+scales,
+sharp teeth,
+spikes,
+subreddit:imaginarywesteros,
+sunset,
+teeth,
+title:"aegon the dragon" by ertaç altınöz,
+title:aegon the dragon,
+twilight,
+uploader:ertacaltinoz,
+volcano,

@@ -1,57 +1,57 @@
-1girl
-6+boys
-anniversary
-arm tattoo
-beard
-beer mug
-bracelet
-breathing fire
-burger
-character:blanka
-character:chun-li
-character:dhalsim
-character:edmond honda
-character:guile
-character:ken masters
-character:ryu (street fighter)
-character:zangief
-chest hair
-creator:mita chisato
-cup
-dougi
-drinking glass
-eating
-facial hair
-fire
-flat top
-food
-headband
-ice cream
-jewelry
-jukebox
-meta:highres
-meta:official art
-meta:second-party source
-mug
-multiple boys
-muscular
-muscular male
-open mouth
-rating:sensitive
-series:capcom
-series:street fighter
-series:street fighter ii (series)
-sitting
-smile
-spiked bracelet
-spikes
-subreddit:imaginarygaming
-subreddit:imfandoms
-sundae
-table
-tank top
-tattoo
-thick eyebrows
-title:dinner by chisato mita
-topless male
-uploader:iwasreallyshocked
+1girl,
+6+boys,
+anniversary,
+arm tattoo,
+beard,
+beer mug,
+bracelet,
+breathing fire,
+burger,
+character:blanka,
+character:chun-li,
+character:dhalsim,
+character:edmond honda,
+character:guile,
+character:ken masters,
+character:ryu (street fighter),
+character:zangief,
+chest hair,
+creator:mita chisato,
+cup,
+dougi,
+drinking glass,
+eating,
+facial hair,
+fire,
+flat top,
+food,
+headband,
+ice cream,
+jewelry,
+jukebox,
+meta:highres,
+meta:official art,
+meta:second-party source,
+mug,
+multiple boys,
+muscular,
+muscular male,
+open mouth,
+rating:sensitive,
+series:capcom,
+series:street fighter,
+series:street fighter ii (series),
+sitting,
+smile,
+spiked bracelet,
+spikes,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+sundae,
+table,
+tank top,
+tattoo,
+thick eyebrows,
+title:dinner by chisato mita,
+topless male,
+uploader:iwasreallyshocked,

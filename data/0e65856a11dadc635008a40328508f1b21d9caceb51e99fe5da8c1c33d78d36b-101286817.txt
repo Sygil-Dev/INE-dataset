@@ -1,40 +1,40 @@
-1boy
-armor
-battle
-breathing fire
-burning
-cape
-diffraction spikes
-embers
-energy sword
-explosion
-fire
-firing
-flame
-flaming sword
-flaming weapon
-glowing
-glowing sword
-glowing weapon
-helmet
-holding
-laser
-lens flare
-lightsaber
-molten rock
-muzzle flash
-orange sky
-rating:safe
-realistic
-science fiction
-signature
-solo
-sparks
-subreddit:imaginaryjedi
-sun
-sunrise
-sunset
-sword
-title:sith warrior by sara forlenza
-uploader:i_burn_cereal
-weapon
+1boy,
+armor,
+battle,
+breathing fire,
+burning,
+cape,
+diffraction spikes,
+embers,
+energy sword,
+explosion,
+fire,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+glowing,
+glowing sword,
+glowing weapon,
+helmet,
+holding,
+laser,
+lens flare,
+lightsaber,
+molten rock,
+muzzle flash,
+orange sky,
+rating:safe,
+realistic,
+science fiction,
+signature,
+solo,
+sparks,
+subreddit:imaginaryjedi,
+sun,
+sunrise,
+sunset,
+sword,
+title:sith warrior by sara forlenza,
+uploader:i_burn_cereal,
+weapon,

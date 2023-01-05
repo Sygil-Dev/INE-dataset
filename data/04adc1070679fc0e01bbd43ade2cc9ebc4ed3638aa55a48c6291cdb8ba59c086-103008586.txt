@@ -1,25 +1,25 @@
-barefoot
-beard
-blue eyes
-colored pencil (medium)
-facial hair
-fine art parody
-graphite (medium)
-guitar
-instrument
-marker (medium)
-music
-nihonga
-painting (medium)
-photo (medium)
-playing instrument
-rating:safe
-sitting
-solo
-subreddit:imaginarywesteros
-title:the knight king ,done with acrylic paint
-traditional media
-unconventional media
-uploader:travischapmanart
-watercolor (medium)
-watercolor pencil (medium)
+barefoot,
+beard,
+blue eyes,
+colored pencil (medium),
+facial hair,
+fine art parody,
+graphite (medium),
+guitar,
+instrument,
+marker (medium),
+music,
+nihonga,
+painting (medium),
+photo (medium),
+playing instrument,
+rating:safe,
+sitting,
+solo,
+subreddit:imaginarywesteros,
+title:the knight king ,done with acrylic paint,
+traditional media,
+unconventional media,
+uploader:travischapmanart,
+watercolor (medium),
+watercolor pencil (medium),

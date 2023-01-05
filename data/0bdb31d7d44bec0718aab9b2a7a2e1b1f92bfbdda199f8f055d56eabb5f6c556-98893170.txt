@@ -1,18 +1,18 @@
-1girl
-armor
-artist name
-cloud
-cloudy sky
-gun
-holding
-holding weapon
-mountain
-rating:safe
-rifle
-sky
-subreddit:imaginaryhybrids
-subreddit:imaginarywarriors
-sword
-title:"stalkyr"--"after" by manthos lappas
-uploader:killerbunnyfamily
-weapon
+1girl,
+armor,
+artist name,
+cloud,
+cloudy sky,
+gun,
+holding,
+holding weapon,
+mountain,
+rating:safe,
+rifle,
+sky,
+subreddit:imaginaryhybrids,
+subreddit:imaginarywarriors,
+sword,
+title:"stalkyr"--"after" by manthos lappas,
+uploader:killerbunnyfamily,
+weapon,

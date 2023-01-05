@@ -1,41 +1,41 @@
-apple
-artist name
-banana
-berry
-berry (pokemon)
-blueberry
-carrot
-cherry
-eggplant
-food
-food focus
-food print
-fruit
-fruit on head
-gradient
-gradient background
-grapes
-holding food
-holding fruit
-leaf
-lettuce
-melon
-no humans
-open mouth
-orange (fruit)
-rating:safe
-red apple
-red flower
-red rose
-salad
-solo
-strawberry
-strawberry print
-subreddit:imaginaryaww
-title:salavendor by piper thibodeau
-tomato
-uploader:lol33ta
-vegetable
-watermark
-watermelon
-web address
+apple,
+artist name,
+banana,
+berry,
+berry (pokemon),
+blueberry,
+carrot,
+cherry,
+eggplant,
+food,
+food focus,
+food print,
+fruit,
+fruit on head,
+gradient,
+gradient background,
+grapes,
+holding food,
+holding fruit,
+leaf,
+lettuce,
+melon,
+no humans,
+open mouth,
+orange (fruit),
+rating:safe,
+red apple,
+red flower,
+red rose,
+salad,
+solo,
+strawberry,
+strawberry print,
+subreddit:imaginaryaww,
+title:salavendor by piper thibodeau,
+tomato,
+uploader:lol33ta,
+vegetable,
+watermark,
+watermelon,
+web address,

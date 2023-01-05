@@ -1,51 +1,51 @@
-armor
-artist name
-autumn
-bamboo
-bamboo forest
-bare tree
-branch
-breathing fire
-burning
-campfire
-castle
-dated
-fire
-flame
-flaming sword
-flaming weapon
-forest
-full moon
-gauntlets
-glowing
-glowing eyes
-grass
-graveyard
-holding
-holding weapon
-japanese armor
-leaf
-moon
-mountain
-nature
-night
-night sky
-outdoors
-pine tree
-planted
-planted sword
-rating:safe
-shoulder armor
-signature
-sky
-solo
-subreddit:imaginarybehemoths
-subreddit:imaginaryvampires
-sword
-title:vampire coast by bayard wu
-tombstone
-torch
-tree
-uploader:myrandall
-uploader:o-shi
-weapon
+armor,
+artist name,
+autumn,
+bamboo,
+bamboo forest,
+bare tree,
+branch,
+breathing fire,
+burning,
+campfire,
+castle,
+dated,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+forest,
+full moon,
+gauntlets,
+glowing,
+glowing eyes,
+grass,
+graveyard,
+holding,
+holding weapon,
+japanese armor,
+leaf,
+moon,
+mountain,
+nature,
+night,
+night sky,
+outdoors,
+pine tree,
+planted,
+planted sword,
+rating:safe,
+shoulder armor,
+signature,
+sky,
+solo,
+subreddit:imaginarybehemoths,
+subreddit:imaginaryvampires,
+sword,
+title:vampire coast by bayard wu,
+tombstone,
+torch,
+tree,
+uploader:myrandall,
+uploader:o-shi,
+weapon,

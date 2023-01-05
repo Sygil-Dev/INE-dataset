@@ -1,23 +1,23 @@
-1girl
-black background
-closed eyes
-eyelashes
-feather trim
-feathers
-fur
-fur cape
-fur collar
-fur trim
-fur-trimmed jacket
-fur-trimmed sleeves
-greyscale
-jewelry
-lips
-monochrome
-rating:safe
-solo
-spot color
-subreddit:reasonablefantasy
-title:aesthyr by michael hayes
-uploader:ultartx
-upper body
+1girl,
+black background,
+closed eyes,
+eyelashes,
+feather trim,
+feathers,
+fur,
+fur cape,
+fur collar,
+fur trim,
+fur-trimmed jacket,
+fur-trimmed sleeves,
+greyscale,
+jewelry,
+lips,
+monochrome,
+rating:safe,
+solo,
+spot color,
+subreddit:reasonablefantasy,
+title:aesthyr by michael hayes,
+uploader:ultartx,
+upper body,

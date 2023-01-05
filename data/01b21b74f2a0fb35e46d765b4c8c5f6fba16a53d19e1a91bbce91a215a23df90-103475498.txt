@@ -1,33 +1,33 @@
-1girl
-astronaut
-aurora
-city lights
-constellation
-crescent moon
-earth (planet)
-fireworks
-galaxy
-light particles
-milky way
-moon
-night
-night sky
-planet
-rating:safe
-shooting star
-sky
-solo
-space
-space helmet
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:celestialbodies
-subreddit:imaginaryimmortals
-tanabata
-tanzaku
-title:empress of creation by jenni pasanen
-uploader:lol33ta
-uploader:rajahbeaubeau
+1girl,
+astronaut,
+aurora,
+city lights,
+constellation,
+crescent moon,
+earth (planet),
+fireworks,
+galaxy,
+light particles,
+milky way,
+moon,
+night,
+night sky,
+planet,
+rating:safe,
+shooting star,
+sky,
+solo,
+space,
+space helmet,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:celestialbodies,
+subreddit:imaginaryimmortals,
+tanabata,
+tanzaku,
+title:empress of creation by jenni pasanen,
+uploader:lol33ta,
+uploader:rajahbeaubeau,

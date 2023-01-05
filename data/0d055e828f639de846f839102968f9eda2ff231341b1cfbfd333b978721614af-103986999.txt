@@ -1,34 +1,34 @@
-breathing fire
-burning
-campfire
-character:bowser
-character:mario
-character:samus aran
-cloud
-cloudy sky
-dusk
-embers
-energy gun
-evening
-explosion
-fire
-firing
-flame
-lightning
-molten rock
-night
-night sky
-rating:safe
-ray gun
-shooting star
-sky
-smoke
-space
-star (sky)
-starry sky
-subreddit:imaginarygoblins
-sunset
-title:rocket boots by alfred khamidullin
-twilight
-uploader:hvitserkr
-weapon
+breathing fire,
+burning,
+campfire,
+character:bowser,
+character:mario,
+character:samus aran,
+cloud,
+cloudy sky,
+dusk,
+embers,
+energy gun,
+evening,
+explosion,
+fire,
+firing,
+flame,
+lightning,
+molten rock,
+night,
+night sky,
+rating:safe,
+ray gun,
+shooting star,
+sky,
+smoke,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarygoblins,
+sunset,
+title:rocket boots by alfred khamidullin,
+twilight,
+uploader:hvitserkr,
+weapon,

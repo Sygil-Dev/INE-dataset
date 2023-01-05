@@ -1,19 +1,19 @@
-bush
-day
-forest
-grass
-mountain
-nature
-no humans
-outdoors
-rating:safe
-river
-scenery
-subreddit:imaginarycanyons
-subreddit:imaginarycaves
-sunlight
-title:abandoned cenote by ducos guillaume
-tree
-uploader:myrandall
-water
-waterfall
+bush,
+day,
+forest,
+grass,
+mountain,
+nature,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+subreddit:imaginarycanyons,
+subreddit:imaginarycaves,
+sunlight,
+title:abandoned cenote by ducos guillaume,
+tree,
+uploader:myrandall,
+water,
+waterfall,

@@ -1,23 +1,23 @@
-2boys
-belt
-boots
-building
-character:hunter (bloodborne)
-coat
-gloves
-greyscale
-gun
-hat
-holding weapon
-mask
-monochrome
-multiple boys
-outdoors
-pants
-plant
-rating:safe
-standing
-subreddit:imaginaryhumans
-title:accountants by davood moghaddami
-uploader:rajahbeaubeau
-weapon
+2boys,
+belt,
+boots,
+building,
+character:hunter (bloodborne),
+coat,
+gloves,
+greyscale,
+gun,
+hat,
+holding weapon,
+mask,
+monochrome,
+multiple boys,
+outdoors,
+pants,
+plant,
+rating:safe,
+standing,
+subreddit:imaginaryhumans,
+title:accountants by davood moghaddami,
+uploader:rajahbeaubeau,
+weapon,

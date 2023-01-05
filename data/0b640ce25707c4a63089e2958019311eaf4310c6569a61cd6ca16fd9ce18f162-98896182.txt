@@ -1,22 +1,22 @@
-blue butterfly
-bug
-butterfly
-day
-flower
-garden
-grass
-indoors
-japanese clothes
-open door
-rating:safe
-scenery
-shouji
-sitting
-sliding doors
-subreddit:imaginarygardens
-tatami
-title:observation diary by nurikabenuri
-uploader:dragunmancer
-veranda
-white butterfly
-wind chime
+blue butterfly,
+bug,
+butterfly,
+day,
+flower,
+garden,
+grass,
+indoors,
+japanese clothes,
+open door,
+rating:safe,
+scenery,
+shouji,
+sitting,
+sliding doors,
+subreddit:imaginarygardens,
+tatami,
+title:observation diary by nurikabenuri,
+uploader:dragunmancer,
+veranda,
+white butterfly,
+wind chime,

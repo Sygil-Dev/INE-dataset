@@ -1,44 +1,44 @@
-autumn
-bare tree
-branch
-bush
-chain-link fence
-cherry blossoms
-fence
-floral background
-fog
-foliage
-forest
-gradient sky
-graveyard
-hanami
-honeycomb (pattern)
-in tree
-leaf background
-moon
-nature
-night
-no humans
-open mouth
-outdoors
-park
-petals
-picnic
-plant
-plum blossoms
-purple sky
-rating:safe
-red sky
-sitting in tree
-snowflake background
-solo
-spring (season)
-stone lantern
-subreddit:adorabledragons
-title:fiatrekx the swampstalker dragon! sculpted by me
-tombstone
-tree
-tree shade
-uploader:dragonsofethereal
-winter
-wisteria
+autumn,
+bare tree,
+branch,
+bush,
+chain-link fence,
+cherry blossoms,
+fence,
+floral background,
+fog,
+foliage,
+forest,
+gradient sky,
+graveyard,
+hanami,
+honeycomb (pattern),
+in tree,
+leaf background,
+moon,
+nature,
+night,
+no humans,
+open mouth,
+outdoors,
+park,
+petals,
+picnic,
+plant,
+plum blossoms,
+purple sky,
+rating:safe,
+red sky,
+sitting in tree,
+snowflake background,
+solo,
+spring (season),
+stone lantern,
+subreddit:adorabledragons,
+title:fiatrekx the swampstalker dragon! sculpted by me,
+tombstone,
+tree,
+tree shade,
+uploader:dragonsofethereal,
+winter,
+wisteria,

@@ -1,37 +1,37 @@
-aircraft
-alien
-building
-city
-city lights
-cityscape
-earth (planet)
-energy gun
-explosion
-firing
-galaxy
-gun
-helicopter
-laser
-lens flare
-lights
-night
-night sky
-planet
-rating:safe
-realistic
-rifle
-science fiction
-shooting star
-skyscraper
-space
-space craft
-sparkle
-sparks
-star (sky)
-starry sky
-subreddit:imaginarycyberpunk
-sun
-title:the exodus of genesys: the 3rd age cover art by
-tower
-uploader:myrandall
-weapon
+aircraft,
+alien,
+building,
+city,
+city lights,
+cityscape,
+earth (planet),
+energy gun,
+explosion,
+firing,
+galaxy,
+gun,
+helicopter,
+laser,
+lens flare,
+lights,
+night,
+night sky,
+planet,
+rating:safe,
+realistic,
+rifle,
+science fiction,
+shooting star,
+skyscraper,
+space,
+space craft,
+sparkle,
+sparks,
+star (sky),
+starry sky,
+subreddit:imaginarycyberpunk,
+sun,
+title:the exodus of genesys: the 3rd age cover art by,
+tower,
+uploader:myrandall,
+weapon,

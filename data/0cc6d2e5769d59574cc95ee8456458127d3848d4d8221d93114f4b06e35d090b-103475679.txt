@@ -1,30 +1,30 @@
-armor
-aurora
-cape
-dragon
-glowing
-glowing eyes
-holding
-holding sword
-holding weapon
-light particles
-milky way
-moon
-night
-night sky
-planet
-rating:safe
-realistic
-sharp teeth
-snow
-snowing
-space
-star (sky)
-starry sky
-subreddit:imaginarydragons
-subreddit:imaginaryknights
-sword
-teeth
-title:dark knights of steel #10 variant by jorge molina
-uploader:disappointingreality
-weapon
+armor,
+aurora,
+cape,
+dragon,
+glowing,
+glowing eyes,
+holding,
+holding sword,
+holding weapon,
+light particles,
+milky way,
+moon,
+night,
+night sky,
+planet,
+rating:safe,
+realistic,
+sharp teeth,
+snow,
+snowing,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarydragons,
+subreddit:imaginaryknights,
+sword,
+teeth,
+title:dark knights of steel #10 variant by jorge molina,
+uploader:disappointingreality,
+weapon,

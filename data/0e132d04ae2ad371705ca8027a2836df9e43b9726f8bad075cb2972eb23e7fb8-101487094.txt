@@ -1,22 +1,22 @@
-6+boys
-1980s (style)
-aircraft
-assault rifle
-battle
-firing
-gun
-helicopter
-mecha
-military
-multiple boys
-rating:safe
-realistic
-rifle
-science fiction
-soldier
-subreddit:imaginarybattlefields
-title:simian simulacrum by randy vargas
-uploader:lol33ta
-watermark
-weapon
-web address
+6+boys,
+1980s (style),
+aircraft,
+assault rifle,
+battle,
+firing,
+gun,
+helicopter,
+mecha,
+military,
+multiple boys,
+rating:safe,
+realistic,
+rifle,
+science fiction,
+soldier,
+subreddit:imaginarybattlefields,
+title:simian simulacrum by randy vargas,
+uploader:lol33ta,
+watermark,
+weapon,
+web address,

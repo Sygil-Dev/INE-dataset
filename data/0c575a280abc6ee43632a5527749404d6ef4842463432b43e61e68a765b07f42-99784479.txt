@@ -1,21 +1,21 @@
-coral
-fire
-fireworks
-glowing
-leaf
-night
-night sky
-no humans
-open mouth
-palm tree
-plant
-rating:safe
-sharp teeth
-sky
-star (sky)
-subreddit:imaginarybeasts
-subreddit:imaginarydragons
-teeth
-title:a reef dragon, illustrated by me, alex flis
-tree
-uploader:alexflis
+coral,
+fire,
+fireworks,
+glowing,
+leaf,
+night,
+night sky,
+no humans,
+open mouth,
+palm tree,
+plant,
+rating:safe,
+sharp teeth,
+sky,
+star (sky),
+subreddit:imaginarybeasts,
+subreddit:imaginarydragons,
+teeth,
+title:a reef dragon, illustrated by me, alex flis,
+tree,
+uploader:alexflis,

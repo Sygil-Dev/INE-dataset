@@ -1,21 +1,21 @@
-book
-book stack
-bookmark
-bookshelf
-holding
-holding book
-indoors
-ladder
-library
-map
-menu
-open book
-open mouth
-paper
-plant
-quill
-rating:safe
-reading
-subreddit:imaginarylibraries
-title:travel oregon - yeti &amp; squatch in the winter wonderland of oregon, by artur sadlos
-uploader:myrandall
+book,
+book stack,
+bookmark,
+bookshelf,
+holding,
+holding book,
+indoors,
+ladder,
+library,
+map,
+menu,
+open book,
+open mouth,
+paper,
+plant,
+quill,
+rating:safe,
+reading,
+subreddit:imaginarylibraries,
+title:travel oregon - yeti &amp; squatch in the winter wonderland of oregon, by artur sadlos,
+uploader:myrandall,

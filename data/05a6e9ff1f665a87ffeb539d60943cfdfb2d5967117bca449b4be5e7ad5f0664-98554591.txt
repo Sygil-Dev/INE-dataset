@@ -1,38 +1,38 @@
-beach
-blue sky
-blue theme
-bush
-cloud
-cloudy sky
-condensation trail
-day
-forest
-hill
-horizon
-house
-island
-lake
-landscape
-mountain
-mountainous horizon
-nature
-no humans
-ocean
-outdoors
-palm tree
-path
-rating:safe
-river
-road
-sand
-scenery
-shore
-sky
-subreddit:imaginaryskyscapes
-sunrise
-sunset
-title:silence by evgeny dvoretckiy
-tree
-uploader:lol33ta
-water
-waves
+beach,
+blue sky,
+blue theme,
+bush,
+cloud,
+cloudy sky,
+condensation trail,
+day,
+forest,
+hill,
+horizon,
+house,
+island,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+ocean,
+outdoors,
+palm tree,
+path,
+rating:safe,
+river,
+road,
+sand,
+scenery,
+shore,
+sky,
+subreddit:imaginaryskyscapes,
+sunrise,
+sunset,
+title:silence by evgeny dvoretckiy,
+tree,
+uploader:lol33ta,
+water,
+waves,

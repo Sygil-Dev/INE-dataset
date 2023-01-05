@@ -1,27 +1,27 @@
-1boy
-1girl
-age difference
-beard
-braid
-breasts
-brown background
-closed eyes
-facial hair
-glasses
-grin
-long hair
-mustache
-pants
-rating:safe
-red hair
-scar
-shirt
-shorts
-single braid
-smile
-socks
-subreddit:imaginaryfallout
-subreddit:imfandoms
-title:bothering charon is her favorite activity (art by me)
-twin braids
-uploader:mothman_is_cornflake
+1boy,
+1girl,
+age difference,
+beard,
+braid,
+breasts,
+brown background,
+closed eyes,
+facial hair,
+glasses,
+grin,
+long hair,
+mustache,
+pants,
+rating:safe,
+red hair,
+scar,
+shirt,
+shorts,
+single braid,
+smile,
+socks,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+title:bothering charon is her favorite activity (art by me),
+twin braids,
+uploader:mothman_is_cornflake,

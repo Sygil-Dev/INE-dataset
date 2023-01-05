@@ -1,28 +1,28 @@
-autumn
-autumn leaves
-blue sky
-character:aki shizuha
-cloud
-cloudy sky
-day
-falling leaves
-fire
-forest
-gradient sky
-horizon
-leaf
-maple leaf
-mountain
-mountainous horizon
-nature
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryautumnscapes
-subreddit:imaginarycolorscapes
-sunset
-title:october blues by rainbowsarah
-tree
-uploader:chalkchick0
+autumn,
+autumn leaves,
+blue sky,
+character:aki shizuha,
+cloud,
+cloudy sky,
+day,
+falling leaves,
+fire,
+forest,
+gradient sky,
+horizon,
+leaf,
+maple leaf,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryautumnscapes,
+subreddit:imaginarycolorscapes,
+sunset,
+title:october blues by rainbowsarah,
+tree,
+uploader:chalkchick0,

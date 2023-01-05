@@ -1,38 +1,38 @@
-autumn
-battle
-breathing fire
-burning
-campfire
-city
-city lights
-cloud
-cloudy sky
-destruction
-dusk
-embers
-evening
-explosion
-fire
-firing
-flame
-flaming sword
-flaming weapon
-helicopter
-horizon
-molten rock
-orange sky
-rating:safe
-red sky
-scenery
-sky
-smoke
-sparks
-subreddit:imaginarybattlefields
-sun
-sunset
-title:battlefield by greg rutkowski
-torch
-twilight
-uploader:imwaaal
-volcano
-war
+autumn,
+battle,
+breathing fire,
+burning,
+campfire,
+city,
+city lights,
+cloud,
+cloudy sky,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+fire,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+helicopter,
+horizon,
+molten rock,
+orange sky,
+rating:safe,
+red sky,
+scenery,
+sky,
+smoke,
+sparks,
+subreddit:imaginarybattlefields,
+sun,
+sunset,
+title:battlefield by greg rutkowski,
+torch,
+twilight,
+uploader:imwaaal,
+volcano,
+war,

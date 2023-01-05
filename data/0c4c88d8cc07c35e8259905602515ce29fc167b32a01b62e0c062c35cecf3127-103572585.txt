@@ -1,24 +1,24 @@
-blue sky
-cloud
-cloudy sky
-condensation trail
-day
-field
-flower
-grass
-hill
-horizon
-no humans
-outdoors
-petals
-pink flower
-rating:safe
-scenery
-sky
-sparkle
-subreddit:imaginarylandscapes
-subreddit:imaginarymindscapes
-subreddit:imaginaryskyscapes
-title:you and i
-uploader:xitsendy
-wind
+blue sky,
+cloud,
+cloudy sky,
+condensation trail,
+day,
+field,
+flower,
+grass,
+hill,
+horizon,
+no humans,
+outdoors,
+petals,
+pink flower,
+rating:safe,
+scenery,
+sky,
+sparkle,
+subreddit:imaginarylandscapes,
+subreddit:imaginarymindscapes,
+subreddit:imaginaryskyscapes,
+title:you and i,
+uploader:xitsendy,
+wind,

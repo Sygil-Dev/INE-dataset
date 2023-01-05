@@ -1,49 +1,49 @@
-aurora
-building
-chimney
-city
-city lights
-cityscape
-cloud
-constellation
-crescent moon
-dusk
-earth (planet)
-fireflies
-fireworks
-galaxy
-gradient sky
-house
-light particles
-milky way
-moon
-mountain
-night
-night sky
-no humans
-outdoors
-planet
-purple sky
-rating:safe
-scenery
-shooting star
-sky
-skyline
-skyscraper
-snowing
-space
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginaryfuturism
-sunset
-tanabata
-tanzaku
-telescope
-title:treason: the descendants war book 2 by elias stern
-tower
-twilight
-ufo
-uploader:lol33ta
+aurora,
+building,
+chimney,
+city,
+city lights,
+cityscape,
+cloud,
+constellation,
+crescent moon,
+dusk,
+earth (planet),
+fireflies,
+fireworks,
+galaxy,
+gradient sky,
+house,
+light particles,
+milky way,
+moon,
+mountain,
+night,
+night sky,
+no humans,
+outdoors,
+planet,
+purple sky,
+rating:safe,
+scenery,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snowing,
+space,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginaryfuturism,
+sunset,
+tanabata,
+tanzaku,
+telescope,
+title:treason: the descendants war book 2 by elias stern,
+tower,
+twilight,
+ufo,
+uploader:lol33ta,

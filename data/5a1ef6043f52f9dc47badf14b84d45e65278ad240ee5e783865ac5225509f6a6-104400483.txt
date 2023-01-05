@@ -1,22 +1,22 @@
-6+boys
-beard
-black hair
-character:jinx (league of legends)
-facial hair
-fire
-glowing
-gun
-hat
-hood
-jewelry
-magic
-mask
-multiple boys
-multiple girls
-mustache
-rating:safe
-red hair
-subreddit:imaginaryruneterra
-title:arcane poster part.2 jinx &amp; vi by mist xg.
-uploader:turbologic
-weapon
+6+boys,
+beard,
+black hair,
+character:jinx (league of legends),
+facial hair,
+fire,
+glowing,
+gun,
+hat,
+hood,
+jewelry,
+magic,
+mask,
+multiple boys,
+multiple girls,
+mustache,
+rating:safe,
+red hair,
+subreddit:imaginaryruneterra,
+title:arcane poster part.2 jinx &amp; vi by mist xg.,
+uploader:turbologic,
+weapon,

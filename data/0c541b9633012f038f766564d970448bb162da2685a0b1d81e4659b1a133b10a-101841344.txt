@@ -1,17 +1,17 @@
-1girl
-artist name
-bracelet
-brown hair
-closed eyes
-fish
-jewelry
-mermaid
-monster girl
-nude
-on stomach
-rating:safe
-solo
-subreddit:imaginarymerfolk
-title:untitled mermaid, by rob rey
-underwater
-uploader:belledame-sans-serif
+1girl,
+artist name,
+bracelet,
+brown hair,
+closed eyes,
+fish,
+jewelry,
+mermaid,
+monster girl,
+nude,
+on stomach,
+rating:safe,
+solo,
+subreddit:imaginarymerfolk,
+title:untitled mermaid, by rob rey,
+underwater,
+uploader:belledame-sans-serif,

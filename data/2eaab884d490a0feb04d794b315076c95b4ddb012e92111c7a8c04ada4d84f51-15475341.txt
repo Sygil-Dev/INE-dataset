@@ -1,60 +1,60 @@
-1410
-armor
-art
-artist:jakub różalski
-bird
-concept
-concept art
-copyright:original
-creator:jakub rozalski
-cross
-crucifix
-dark fantasy
-eagle
-fantasy
-field
-full armor
-gender:male
-genre:fantasy
-giant
-grunwald
-headwear
-helmet
-historical event
-horned helmet
-illustration
-knight
-knights
-medieval
-medium:absurd resolution
-medium:concept art
-medium:digital 2d
-medium:high resolution
-meta:absurdres
-meta:artstation sample
-meta:commentary
-meta:english commentary
-meta:highres
-meta:image sample
-middleages
-multiple males
-painting
-pike
-poland
-polish
-polish text
-rating:safe
-scabbard
-series:original
-sheath
-shield
-species:avian
-subreddit:imaginarygiants
-surreal
-sword
-teutonic knights
-teutonicorder
-title:1410
-title:1410 by jakub rozalski
-uploader:spoon_artillery
-weapon
+1410,
+armor,
+art,
+artist:jakub różalski,
+bird,
+concept,
+concept art,
+copyright:original,
+creator:jakub rozalski,
+cross,
+crucifix,
+dark fantasy,
+eagle,
+fantasy,
+field,
+full armor,
+gender:male,
+genre:fantasy,
+giant,
+grunwald,
+headwear,
+helmet,
+historical event,
+horned helmet,
+illustration,
+knight,
+knights,
+medieval,
+medium:absurd resolution,
+medium:concept art,
+medium:digital 2d,
+medium:high resolution,
+meta:absurdres,
+meta:artstation sample,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:image sample,
+middleages,
+multiple males,
+painting,
+pike,
+poland,
+polish,
+polish text,
+rating:safe,
+scabbard,
+series:original,
+sheath,
+shield,
+species:avian,
+subreddit:imaginarygiants,
+surreal,
+sword,
+teutonic knights,
+teutonicorder,
+title:1410,
+title:1410 by jakub rozalski,
+uploader:spoon_artillery,
+weapon,

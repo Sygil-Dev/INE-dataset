@@ -1,19 +1,19 @@
-beard
-cold
-facial hair
-footprints
-grey background
-rating:safe
-snot
-snow
-snowflakes
-snowing
-snowman
-subreddit:imaginarywitcher
-teeth
-title:art by action kazimer
-uploader:ultartx
-weapon
-white hair
-winter
-yellow eyes
+beard,
+cold,
+facial hair,
+footprints,
+grey background,
+rating:safe,
+snot,
+snow,
+snowflakes,
+snowing,
+snowman,
+subreddit:imaginarywitcher,
+teeth,
+title:art by action kazimer,
+uploader:ultartx,
+weapon,
+white hair,
+winter,
+yellow eyes,

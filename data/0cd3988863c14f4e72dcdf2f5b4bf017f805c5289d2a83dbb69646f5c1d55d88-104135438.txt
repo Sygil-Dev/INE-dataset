@@ -1,27 +1,27 @@
-1boy
-animal ears
-belt
-claws
-fangs
-full body
-furry
-furry male
-goggles
-gradient
-gradient background
-hat
-male focus
-open mouth
-raccoon ears
-raccoon tail
-rating:safe
-sharp teeth
-solo
-standing
-subreddit:imaginaryanimals
-subreddit:imaginarycharacters
-sunglasses
-tail
-teeth
-title:raccoon by artur mello lattaro
-uploader:yannirotten
+1boy,
+animal ears,
+belt,
+claws,
+fangs,
+full body,
+furry,
+furry male,
+goggles,
+gradient,
+gradient background,
+hat,
+male focus,
+open mouth,
+raccoon ears,
+raccoon tail,
+rating:safe,
+sharp teeth,
+solo,
+standing,
+subreddit:imaginaryanimals,
+subreddit:imaginarycharacters,
+sunglasses,
+tail,
+teeth,
+title:raccoon by artur mello lattaro,
+uploader:yannirotten,

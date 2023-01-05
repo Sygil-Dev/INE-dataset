@@ -1,35 +1,35 @@
-1girl
-bamboo
-black hair
-book
-bookmark
-branch
-cactus
-flower pot
-hand on own cheek
-hand on own face
-head rest
-holding book
-indoors
-ivy
-leaf
-lily (flower)
-menu
-open book
-palm tree
-pencil
-plant
-potted plant
-rating:safe
-reading
-shirt
-short hair
-solo
-subreddit:imaginaryfood
-tanabata
-tanzaku
-title:wanting that croissant, by @simzarts
-tree
-uploader:standyourground10
-vines
-window
+1girl,
+bamboo,
+black hair,
+book,
+bookmark,
+branch,
+cactus,
+flower pot,
+hand on own cheek,
+hand on own face,
+head rest,
+holding book,
+indoors,
+ivy,
+leaf,
+lily (flower),
+menu,
+open book,
+palm tree,
+pencil,
+plant,
+potted plant,
+rating:safe,
+reading,
+shirt,
+short hair,
+solo,
+subreddit:imaginaryfood,
+tanabata,
+tanzaku,
+title:wanting that croissant, by @simzarts,
+tree,
+uploader:standyourground10,
+vines,
+window,

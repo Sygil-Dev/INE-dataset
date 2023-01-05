@@ -1,19 +1,19 @@
-armor
-axe
-bald
-beard
-facial hair
-helmet
-holding
-holding sword
-male focus
-old
-rating:safe
-realistic
-skull
-solo
-subreddit:imaginarydwarves
-sword
-title:dwarf demon hunter by antonio j. manzanedo
-uploader:tiezep
-weapon
+armor,
+axe,
+bald,
+beard,
+facial hair,
+helmet,
+holding,
+holding sword,
+male focus,
+old,
+rating:safe,
+realistic,
+skull,
+solo,
+subreddit:imaginarydwarves,
+sword,
+title:dwarf demon hunter by antonio j. manzanedo,
+uploader:tiezep,
+weapon,

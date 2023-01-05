@@ -1,24 +1,24 @@
-1girl
-black hair
-blurry
-building
-city
-cityscape
-cloud
-cloudy sky
-jacket
-long hair
-outdoors
-rating:safe
-reflection
-scenery
-school uniform
-signature
-skirt
-sky
-skyscraper
-solo
-subreddit:imaginarycityscapes
-sunset
-title:falling by loundraw
-uploader:zewen_senpai
+1girl,
+black hair,
+blurry,
+building,
+city,
+cityscape,
+cloud,
+cloudy sky,
+jacket,
+long hair,
+outdoors,
+rating:safe,
+reflection,
+scenery,
+school uniform,
+signature,
+skirt,
+sky,
+skyscraper,
+solo,
+subreddit:imaginarycityscapes,
+sunset,
+title:falling by loundraw,
+uploader:zewen_senpai,

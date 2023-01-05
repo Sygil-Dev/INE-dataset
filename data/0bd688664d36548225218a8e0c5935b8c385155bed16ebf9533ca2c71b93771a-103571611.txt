@@ -1,19 +1,19 @@
-bush
-day
-flower
-forest
-grass
-leaf
-nature
-no humans
-outdoors
-plant
-rating:safe
-scenery
-sky
-subreddit:imaginarybehemoths
-title:bloom hulk by even amundsen
-tree
-uploader:[deleted]
-watermark
-web address
+bush,
+day,
+flower,
+forest,
+grass,
+leaf,
+nature,
+no humans,
+outdoors,
+plant,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarybehemoths,
+title:bloom hulk by even amundsen,
+tree,
+uploader:[deleted],
+watermark,
+web address,

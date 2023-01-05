@@ -1,34 +1,34 @@
-artist name
-bamboo
-beach
-blue sky
-branch
-building
-cloud
-cloudy sky
-condensation trail
-day
-grass
-horizon
-house
-lamppost
-leaf
-no humans
-ocean
-outdoors
-palm leaf
-palm tree
-plant
-potted plant
-power lines
-rating:safe
-scenery
-signature
-sky
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sunset
-title:2022/08/20 by yucong tang
-tree
-uploader:thescarlet-bitch
-utility pole
+artist name,
+bamboo,
+beach,
+blue sky,
+branch,
+building,
+cloud,
+cloudy sky,
+condensation trail,
+day,
+grass,
+horizon,
+house,
+lamppost,
+leaf,
+no humans,
+ocean,
+outdoors,
+palm leaf,
+palm tree,
+plant,
+potted plant,
+power lines,
+rating:safe,
+scenery,
+signature,
+sky,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sunset,
+title:2022/08/20 by yucong tang,
+tree,
+uploader:thescarlet-bitch,
+utility pole,

@@ -1,29 +1,29 @@
-architecture
-artist name
-bridge
-building
-castle
-city
-city lights
-cityscape
-cloud
-cloudy sky
-landscape
-moon
-mountain
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-star (sky)
-subreddit:imaginarycastles
-subreddit:imarchitecture
-sunset
-title:kidnapped princesses island by artist olga cornacchia
-tower
-tree
-uploader:anon_ymou5
-water
-waterfall
+architecture,
+artist name,
+bridge,
+building,
+castle,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+landscape,
+moon,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+star (sky),
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+sunset,
+title:kidnapped princesses island by artist olga cornacchia,
+tower,
+tree,
+uploader:anon_ymou5,
+water,
+waterfall,

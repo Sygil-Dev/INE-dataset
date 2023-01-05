@@ -1,22 +1,22 @@
-arch
-architecture
-bridge
-building
-castle
-city
-city lights
-cityscape
-cloud
-cloudy sky
-east asian architecture
-fantasy
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryarchitecture
-sunset
-title:gothic architecture - modular kit by artist mika kuwilsky
-tower
-uploader:anon_ymou5
-water
+arch,
+architecture,
+bridge,
+building,
+castle,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+east asian architecture,
+fantasy,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryarchitecture,
+sunset,
+title:gothic architecture - modular kit by artist mika kuwilsky,
+tower,
+uploader:anon_ymou5,
+water,

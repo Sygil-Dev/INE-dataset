@@ -1,44 +1,44 @@
-1girl
-aerial fireworks
-aurora
-bridge
-building
-christmas lights
-city
-city lights
-cityscape
-constellation
-earth (planet)
-ferris wheel
-fireworks
-galaxy
-giant
-light
-light particles
-long hair
-milky way
-neon lights
-night
-night sky
-planet
-rating:safe
-reflection
-rooftop
-scenery
-science fiction
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-space
-star (sky)
-starry sky
-starry sky print
-subreddit:imaginarylandscapes
-title:act of kindness by leopoldo d'angelo
-tower
-uploader:one_giant_nostril
-window
+1girl,
+aerial fireworks,
+aurora,
+bridge,
+building,
+christmas lights,
+city,
+city lights,
+cityscape,
+constellation,
+earth (planet),
+ferris wheel,
+fireworks,
+galaxy,
+giant,
+light,
+light particles,
+long hair,
+milky way,
+neon lights,
+night,
+night sky,
+planet,
+rating:safe,
+reflection,
+rooftop,
+scenery,
+science fiction,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+space,
+star (sky),
+starry sky,
+starry sky print,
+subreddit:imaginarylandscapes,
+title:act of kindness by leopoldo d'angelo,
+tower,
+uploader:one_giant_nostril,
+window,

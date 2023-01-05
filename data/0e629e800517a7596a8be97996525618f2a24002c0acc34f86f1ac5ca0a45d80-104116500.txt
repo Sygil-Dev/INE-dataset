@@ -1,31 +1,31 @@
-blue sky
-building
-bush
-city
-cloud
-cloudy sky
-day
-field
-forest
-grass
-house
-lake
-landscape
-mountain
-mountainous horizon
-nature
-no humans
-outdoors
-path
-rating:safe
-river
-road
-scenery
-sky
-subreddit:imaginarypathways
-sunset
-title:virginia farm by jereme peabody
-tower
-tree
-uploader:chalkchick0
-water
+blue sky,
+building,
+bush,
+city,
+cloud,
+cloudy sky,
+day,
+field,
+forest,
+grass,
+house,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+outdoors,
+path,
+rating:safe,
+river,
+road,
+scenery,
+sky,
+subreddit:imaginarypathways,
+sunset,
+title:virginia farm by jereme peabody,
+tower,
+tree,
+uploader:chalkchick0,
+water,

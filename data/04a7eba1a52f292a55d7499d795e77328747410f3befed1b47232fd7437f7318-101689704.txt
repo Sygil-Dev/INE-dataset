@@ -1,32 +1,32 @@
-1boy
-#armor
-#conceptart
-#costume
-#silmarillion
-#tolkien
-#weapons
-armor
-breastplate
-cape
-closed mouth
-creator:ilyas mirobdalov
-faulds
-full body
-gauntlets
-greaves
-grey background
-helmet
-male focus
-monochrome
-pauldrons
-rating:safe
-sandals
-shoulder armor
-simple background
-sketch
-solo
-standing
-subreddit:imaginarymiddleearth
-title:the silmarillion sketches
-uploader:tttrr84
-weapon
+1boy,
+#armor,
+#conceptart,
+#costume,
+#silmarillion,
+#tolkien,
+#weapons,
+armor,
+breastplate,
+cape,
+closed mouth,
+creator:ilyas mirobdalov,
+faulds,
+full body,
+gauntlets,
+greaves,
+grey background,
+helmet,
+male focus,
+monochrome,
+pauldrons,
+rating:safe,
+sandals,
+shoulder armor,
+simple background,
+sketch,
+solo,
+standing,
+subreddit:imaginarymiddleearth,
+title:the silmarillion sketches,
+uploader:tttrr84,
+weapon,

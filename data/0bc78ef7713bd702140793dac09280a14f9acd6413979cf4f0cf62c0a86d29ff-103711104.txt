@@ -1,30 +1,30 @@
-6+boys
-armor
-arrow (projectile)
-axe
-battle
-bow (weapon)
-everyone
-facial hair
-fire
-gun
-hat
-helmet
-holding sword
-holding weapon
-knife
-monster
-moon
-multiple boys
-multiple girls
-polearm
-rating:safe
-rifle
-shield
-spikes
-subreddit:imaginarygatherings
-subreddit:imaginarymonsters
-sword
-title:monster codex cover art by wayne reynolds
-uploader:killerbunnyfamily
-weapon
+6+boys,
+armor,
+arrow (projectile),
+axe,
+battle,
+bow (weapon),
+everyone,
+facial hair,
+fire,
+gun,
+hat,
+helmet,
+holding sword,
+holding weapon,
+knife,
+monster,
+moon,
+multiple boys,
+multiple girls,
+polearm,
+rating:safe,
+rifle,
+shield,
+spikes,
+subreddit:imaginarygatherings,
+subreddit:imaginarymonsters,
+sword,
+title:monster codex cover art by wayne reynolds,
+uploader:killerbunnyfamily,
+weapon,

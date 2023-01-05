@@ -1,31 +1,31 @@
-6+boys
-6+girls
-> <
-black hair
-blonde hair
-bow
-brown hair
-closed eyes
-comic
-creator:pascalcampion
-dark skin
-food
-glasses
-grey hair
-hat
-kittycatandmanlyman
-loafers
-long hair
-multiple boys
-multiple girls
-penguin
-rating:safe
-school uniform
-short hair
-skirt
-speech bubble
-subreddit:imaginarysliceoflife
-title:late night thoughts
-title:late night thoughts by pascalcampion
-twintails
-uploader:danbuter
+6+boys,
+6+girls,
+> <,
+black hair,
+blonde hair,
+bow,
+brown hair,
+closed eyes,
+comic,
+creator:pascalcampion,
+dark skin,
+food,
+glasses,
+grey hair,
+hat,
+kittycatandmanlyman,
+loafers,
+long hair,
+multiple boys,
+multiple girls,
+penguin,
+rating:safe,
+school uniform,
+short hair,
+skirt,
+speech bubble,
+subreddit:imaginarysliceoflife,
+title:late night thoughts,
+title:late night thoughts by pascalcampion,
+twintails,
+uploader:danbuter,

@@ -1,19 +1,19 @@
-armor
-black cape
-black cloak
-cape
-city
-cloak
-gloves
-holding
-holding weapon
-night
-outdoors
-rain
-rating:safe
-subreddit:imaginarygotham
-sword
-title:frank miller's dark knight by john gallagher
-uploader:incredibel
-weapon
-wet
+armor,
+black cape,
+black cloak,
+cape,
+city,
+cloak,
+gloves,
+holding,
+holding weapon,
+night,
+outdoors,
+rain,
+rating:safe,
+subreddit:imaginarygotham,
+sword,
+title:frank miller's dark knight by john gallagher,
+uploader:incredibel,
+weapon,
+wet,

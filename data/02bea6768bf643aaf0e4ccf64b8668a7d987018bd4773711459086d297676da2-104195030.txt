@@ -1,24 +1,24 @@
-1girl
-brown hair
-character:elezen
-character:elvaan
-character:lalafell
-dark elf
-elf
-green eyes
-lips
-long pointy ears
-looking at viewer
-nose
-pointy ears
-rating:safe
-realistic
-short hair
-signature
-simple background
-smile
-solo
-subreddit:imaginarytamriel
-title:wood elf by kim sokol
-uploader:lol33ta
-white background
+1girl,
+brown hair,
+character:elezen,
+character:elvaan,
+character:lalafell,
+dark elf,
+elf,
+green eyes,
+lips,
+long pointy ears,
+looking at viewer,
+nose,
+pointy ears,
+rating:safe,
+realistic,
+short hair,
+signature,
+simple background,
+smile,
+solo,
+subreddit:imaginarytamriel,
+title:wood elf by kim sokol,
+uploader:lol33ta,
+white background,

@@ -1,22 +1,22 @@
-1girl
-brown capelet
-brown footwear
-capelet
-closed mouth
-full body
-holding
-holding staff
-holding weapon
-male focus
-pouch
-rating:safe
-robe
-simple background
-smile
-solo
-staff
-standing
-subreddit:imaginarynomads
-title:nomad by varguy
-uploader:myrandall
-white background
+1girl,
+brown capelet,
+brown footwear,
+capelet,
+closed mouth,
+full body,
+holding,
+holding staff,
+holding weapon,
+male focus,
+pouch,
+rating:safe,
+robe,
+simple background,
+smile,
+solo,
+staff,
+standing,
+subreddit:imaginarynomads,
+title:nomad by varguy,
+uploader:myrandall,
+white background,

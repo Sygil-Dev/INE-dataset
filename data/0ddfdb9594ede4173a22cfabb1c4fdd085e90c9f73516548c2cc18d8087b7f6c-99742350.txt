@@ -1,28 +1,28 @@
-1boy
-artist name
-beard
-burning
-cape
-embers
-facial hair
-fire
-flame
-full body
-japanese clothes
-long hair
-long sleeves
-male focus
-molten rock
-rating:safe
-red sky
-red theme
-signature
-solo
-standing
-subreddit:imaginaryelves
-subreddit:imaginarymiddleearth
-sunset
-title:annatar, lord of gifts by uzuri art
-uploader:mylesstarks
-uploader:solidyellowbee
-wide sleeves
+1boy,
+artist name,
+beard,
+burning,
+cape,
+embers,
+facial hair,
+fire,
+flame,
+full body,
+japanese clothes,
+long hair,
+long sleeves,
+male focus,
+molten rock,
+rating:safe,
+red sky,
+red theme,
+signature,
+solo,
+standing,
+subreddit:imaginaryelves,
+subreddit:imaginarymiddleearth,
+sunset,
+title:annatar, lord of gifts by uzuri art,
+uploader:mylesstarks,
+uploader:solidyellowbee,
+wide sleeves,

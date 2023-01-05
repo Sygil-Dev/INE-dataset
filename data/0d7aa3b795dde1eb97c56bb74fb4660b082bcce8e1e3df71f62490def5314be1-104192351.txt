@@ -1,24 +1,24 @@
-1boy
-1girl
-aircraft
-bangle
-bird
-blue sky
-bracelet
-building
-cloud
-day
-jewelry
-long hair
-mountain
-necklace
-rating:safe
-realistic
-seagull
-signature
-sky
-subreddit:imaginaryfamilies
-title:taya and zik by marina kleyman
-uploader:hvitserkr
-watercraft
-wind
+1boy,
+1girl,
+aircraft,
+bangle,
+bird,
+blue sky,
+bracelet,
+building,
+cloud,
+day,
+jewelry,
+long hair,
+mountain,
+necklace,
+rating:safe,
+realistic,
+seagull,
+signature,
+sky,
+subreddit:imaginaryfamilies,
+title:taya and zik by marina kleyman,
+uploader:hvitserkr,
+watercraft,
+wind,

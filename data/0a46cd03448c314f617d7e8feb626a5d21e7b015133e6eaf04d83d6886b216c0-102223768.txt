@@ -1,22 +1,22 @@
-1girl
-animal
-animal on shoulder
-bird
-branch
-fingerless gloves
-forest
-gloves
-hat
-holding staff
-long hair
-nature
-outdoors
-owl
-rating:safe
-solo
-staff
-subreddit:imaginarywitches
-title:witch by juho huttunen
-tree
-uploader:myrandall
-witch hat
+1girl,
+animal,
+animal on shoulder,
+bird,
+branch,
+fingerless gloves,
+forest,
+gloves,
+hat,
+holding staff,
+long hair,
+nature,
+outdoors,
+owl,
+rating:safe,
+solo,
+staff,
+subreddit:imaginarywitches,
+title:witch by juho huttunen,
+tree,
+uploader:myrandall,
+witch hat,

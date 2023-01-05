@@ -1,38 +1,38 @@
-4 toes
-5 fingers
-abs
-anthro
-black lips
-black stripes
-creator:caraid
-day
-detailed background
-feet
-fingers
-fur
-lips
-male
-meta:2022
-meta:digital media (artwork)
-open mouth
-orange body
-orange fur
-outside
-rating:safe
-sky
-solo
-species:felid
-species:mammal
-species:pantherine
-species:tiger
-striped body
-striped fur
-stripes
-subreddit:imaginarypirates
-subreddit:imcharacters
-teeth
-title:jedit ojanen, mercenary by ilse gort
-toes
-tongue
-uploader:mekuron
-white eyes
+4 toes,
+5 fingers,
+abs,
+anthro,
+black lips,
+black stripes,
+creator:caraid,
+day,
+detailed background,
+feet,
+fingers,
+fur,
+lips,
+male,
+meta:2022,
+meta:digital media (artwork),
+open mouth,
+orange body,
+orange fur,
+outside,
+rating:safe,
+sky,
+solo,
+species:felid,
+species:mammal,
+species:pantherine,
+species:tiger,
+striped body,
+striped fur,
+stripes,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+teeth,
+title:jedit ojanen, mercenary by ilse gort,
+toes,
+tongue,
+uploader:mekuron,
+white eyes,

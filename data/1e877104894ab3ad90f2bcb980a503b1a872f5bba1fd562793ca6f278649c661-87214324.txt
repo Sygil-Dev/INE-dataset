@@ -1,34 +1,34 @@
-1girl
-amputee
-android
-bandaged head
-bandages
-bandages over eyes
-booru:sankaku
-cable
-creator:dino
-creator:dino (dinoartforame)
-creator:dino_art
-creator:dinoartforame
-damaged
-dino (dinoartforame)
-english commentary
-female
-glowing
-glowing eyes
-glowing mouth
-grey background
-medium:grey background
-meta:commentary
-meta:english commentary
-rating:s
-rating:safe
-rating:sensitive
-series:original
-solo
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:ai
-title:ai by dino
-uploader:prismatika_on_tumblr
-機械娘
+1girl,
+amputee,
+android,
+bandaged head,
+bandages,
+bandages over eyes,
+booru:sankaku,
+cable,
+creator:dino,
+creator:dino (dinoartforame),
+creator:dino_art,
+creator:dinoartforame,
+damaged,
+dino (dinoartforame),
+english commentary,
+female,
+glowing,
+glowing eyes,
+glowing mouth,
+grey background,
+medium:grey background,
+meta:commentary,
+meta:english commentary,
+rating:s,
+rating:safe,
+rating:sensitive,
+series:original,
+solo,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:ai,
+title:ai by dino,
+uploader:prismatika_on_tumblr,
+機械娘,

@@ -1,28 +1,28 @@
-1boy
-arrow (projectile)
-bird
-blonde hair
-bow (weapon)
-eagle
-feathers
-fur
-fur cape
-fur collar
-fur trim
-fur-trimmed sleeves
-gloves
-grass
-hat
-jewelry
-male focus
-mountain
-outdoors
-quiver
-rating:safe
-sky
-snow
-subreddit:imaginaryhumans
-title:mongolian eagle hunter by li hao
-tree
-uploader:lol33ta
-weapon
+1boy,
+arrow (projectile),
+bird,
+blonde hair,
+bow (weapon),
+eagle,
+feathers,
+fur,
+fur cape,
+fur collar,
+fur trim,
+fur-trimmed sleeves,
+gloves,
+grass,
+hat,
+jewelry,
+male focus,
+mountain,
+outdoors,
+quiver,
+rating:safe,
+sky,
+snow,
+subreddit:imaginaryhumans,
+title:mongolian eagle hunter by li hao,
+tree,
+uploader:lol33ta,
+weapon,

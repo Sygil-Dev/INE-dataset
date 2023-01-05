@@ -1,30 +1,30 @@
-autumn
-bare tree
-battle
-breathing fire
-burning
-campfire
-claws
-embers
-explosion
-fire
-flame
-flaming sword
-flaming weapon
-forest
-molten rock
-monster
-nature
-night
-no humans
-open mouth
-rating:safe
-sharp teeth
-sky
-subreddit:imaginarywerewolves
-sunset
-title:savage wolf by jake clark
-torch
-tree
-uploader:yannirotten
-volcano
+autumn,
+bare tree,
+battle,
+breathing fire,
+burning,
+campfire,
+claws,
+embers,
+explosion,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+forest,
+molten rock,
+monster,
+nature,
+night,
+no humans,
+open mouth,
+rating:safe,
+sharp teeth,
+sky,
+subreddit:imaginarywerewolves,
+sunset,
+title:savage wolf by jake clark,
+torch,
+tree,
+uploader:yannirotten,
+volcano,

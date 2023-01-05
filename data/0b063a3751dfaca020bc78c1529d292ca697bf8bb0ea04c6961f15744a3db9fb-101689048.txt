@@ -1,24 +1,24 @@
-1girl
-cape
-constellation
-crescent moon
-fur trim
-gloves
-holding sword
-holding weapon
-katana
-moon
-rating:safe
-sheath
-sky
-solo
-sparkle
-star (sky)
-star (symbol)
-starry sky
-subreddit:imaginarycharacters
-sword
-tarot
-title:[oc] my character celestia as a tarot card!
-uploader:dragonsaria
-weapon
+1girl,
+cape,
+constellation,
+crescent moon,
+fur trim,
+gloves,
+holding sword,
+holding weapon,
+katana,
+moon,
+rating:safe,
+sheath,
+sky,
+solo,
+sparkle,
+star (sky),
+star (symbol),
+starry sky,
+subreddit:imaginarycharacters,
+sword,
+tarot,
+title:[oc] my character celestia as a tarot card!,
+uploader:dragonsaria,
+weapon,

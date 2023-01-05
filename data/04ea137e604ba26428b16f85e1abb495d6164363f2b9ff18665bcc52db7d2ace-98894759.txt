@@ -1,37 +1,37 @@
-1boy
-1girl
-animal
-architecture
-bat
-bird
-blood
-blood from mouth
-blood on clothes
-blood on face
-breasts
-bridge
-building
-castle
-cleavage
-cloud
-crow
-dirty
-dusk
-evening
-feathers
-injury
-lying
-open mouth
-orange sky
-rating:safe
-red moon
-red sky
-sky
-skyscraper
-subreddit:imaginaryvampires
-sun
-sunset
-teeth
-title:vampire bite, anatolii leoshko
-twilight
-uploader:miciy5
+1boy,
+1girl,
+animal,
+architecture,
+bat,
+bird,
+blood,
+blood from mouth,
+blood on clothes,
+blood on face,
+breasts,
+bridge,
+building,
+castle,
+cleavage,
+cloud,
+crow,
+dirty,
+dusk,
+evening,
+feathers,
+injury,
+lying,
+open mouth,
+orange sky,
+rating:safe,
+red moon,
+red sky,
+sky,
+skyscraper,
+subreddit:imaginaryvampires,
+sun,
+sunset,
+teeth,
+title:vampire bite, anatolii leoshko,
+twilight,
+uploader:miciy5,

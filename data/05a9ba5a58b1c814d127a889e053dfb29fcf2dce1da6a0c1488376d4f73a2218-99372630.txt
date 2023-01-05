@@ -1,21 +1,21 @@
-architecture
-bridge
-building
-city
-city lights
-cityscape
-cyberpunk
-east asian architecture
-neon lights
-night
-outdoors
-pagoda
-rain
-rating:safe
-real world location
-scenery
-skyscraper
-subreddit:imaginarycyberpunk
-title:the blessed island by kenn yap [oc]
-tokyo (city)
-uploader:panama66
+architecture,
+bridge,
+building,
+city,
+city lights,
+cityscape,
+cyberpunk,
+east asian architecture,
+neon lights,
+night,
+outdoors,
+pagoda,
+rain,
+rating:safe,
+real world location,
+scenery,
+skyscraper,
+subreddit:imaginarycyberpunk,
+title:the blessed island by kenn yap [oc],
+tokyo (city),
+uploader:panama66,

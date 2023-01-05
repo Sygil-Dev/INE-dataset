@@ -1,38 +1,38 @@
-1boy
-blonde hair
-blue sky
-branch
-bush
-cloud
-day
-forest
-grass
-island
-jungle
-lake
-landscape
-leaf
-mountain
-mountainous horizon
-nature
-ocean
-outdoors
-palm tree
-pine tree
-plant
-pond
-rating:safe
-river
-rock
-scenery
-sky
-solo
-stream
-subreddit:imaginarydinosaurs
-title:a moment of peace... by metalratrox/josé muñoz
-tree
-uploader:chalkchick0
-wading
-water
-waterfall
-waves
+1boy,
+blonde hair,
+blue sky,
+branch,
+bush,
+cloud,
+day,
+forest,
+grass,
+island,
+jungle,
+lake,
+landscape,
+leaf,
+mountain,
+mountainous horizon,
+nature,
+ocean,
+outdoors,
+palm tree,
+pine tree,
+plant,
+pond,
+rating:safe,
+river,
+rock,
+scenery,
+sky,
+solo,
+stream,
+subreddit:imaginarydinosaurs,
+title:a moment of peace... by metalratrox/josé muñoz,
+tree,
+uploader:chalkchick0,
+wading,
+water,
+waterfall,
+waves,

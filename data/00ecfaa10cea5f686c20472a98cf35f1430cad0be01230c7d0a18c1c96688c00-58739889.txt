@@ -1,58 +1,58 @@
-autumn
-autumn leaves
-battle
-breathing fire
-burning
-burnt clothes
-campfire
-candle
-candlelight
-character:charizard
-character:charmander
-cloud
-cooking
-creator:wei wang
-destruction
-dragon wings
-dusk
-embers
-evening
-explosion
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-giant
-gradient sky
-kaijuu
-medium:digital 2d
-molten rock
-monster
-muzzle flash
-no humans
-orange sky
-orange theme
-phoenix
-pyrokinesis
-rating:safe
-red sky
-smoke
-sparks
-subreddit:imaginarybestof
-subreddit:imaginaryelementals
-sun
-sunset
-tail-tip fire
-teeth
-title:[/r/imaginaryelementals] ragnaros by wei wang
-title:ragnaros by wei wang
-title:the art of warcraft
-torch
-twilight
-uploader:lol33ta
-volcano
-wings
+autumn,
+autumn leaves,
+battle,
+breathing fire,
+burning,
+burnt clothes,
+campfire,
+candle,
+candlelight,
+character:charizard,
+character:charmander,
+cloud,
+cooking,
+creator:wei wang,
+destruction,
+dragon wings,
+dusk,
+embers,
+evening,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+giant,
+gradient sky,
+kaijuu,
+medium:digital 2d,
+molten rock,
+monster,
+muzzle flash,
+no humans,
+orange sky,
+orange theme,
+phoenix,
+pyrokinesis,
+rating:safe,
+red sky,
+smoke,
+sparks,
+subreddit:imaginarybestof,
+subreddit:imaginaryelementals,
+sun,
+sunset,
+tail-tip fire,
+teeth,
+title:[/r/imaginaryelementals] ragnaros by wei wang,
+title:ragnaros by wei wang,
+title:the art of warcraft,
+torch,
+twilight,
+uploader:lol33ta,
+volcano,
+wings,

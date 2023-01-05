@@ -1,36 +1,36 @@
-aircraft
-airship
-architecture
-beach
-blue sky
-boat
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-condensation trail
-day
-fantasy
-hat
-horizon
-long hair
-mountain
-multiple girls
-ocean
-outdoors
-rating:safe
-scenery
-seagull
-ship
-sky
-subreddit:imaginarytechnology
-sunset
-title:high-altitude shipping channel by william dylan domeyer
-tower
-twilight
-uploader:one_giant_nostril
-water
-watercraft
+aircraft,
+airship,
+architecture,
+beach,
+blue sky,
+boat,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+condensation trail,
+day,
+fantasy,
+hat,
+horizon,
+long hair,
+mountain,
+multiple girls,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+seagull,
+ship,
+sky,
+subreddit:imaginarytechnology,
+sunset,
+title:high-altitude shipping channel by william dylan domeyer,
+tower,
+twilight,
+uploader:one_giant_nostril,
+water,
+watercraft,

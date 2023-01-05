@@ -1,75 +1,75 @@
-2019
-ambiguous gender
-ambiguous_gender
-artist:kuroi-kisin
-blue body
-blue eyes
-blue scales
-blue_body
-blue_eyes
-blue_scales
-cave
-claws
-coin
-creator:izrez
-creator:kur0i
-creator:kuroi-kisin
-digital media (artwork)
-dragon
-dragoness
-feral
-filename:1566661278.kur0i_kazul_s
-frost
-fur
-furry
-gender:ambiguous
-gold
-gold (metal)
-gold coin
-gold_(metal)
-gold_coin
-hi res
-hoard
-horn
-horns
-ice
-icecave
-kuroi-kisin
-lying
-medium:digital media
-medium:high resolution
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-on front
-on_front
-rating:general
-rating:safe
-scales
-series:invalid color
-shield
-solo
-source:furaffinity.net
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-spikes
-spines
-stalactite
-subreddit:imaginarydragons
-title:comm: treasurer
-title:comm: treasurer by kuroi-kisin
-treasure
-treasure hoard
-treasure_hoard
-uploader:vikingzx
-wings
-year:2019
+2019,
+ambiguous gender,
+ambiguous_gender,
+artist:kuroi-kisin,
+blue body,
+blue eyes,
+blue scales,
+blue_body,
+blue_eyes,
+blue_scales,
+cave,
+claws,
+coin,
+creator:izrez,
+creator:kur0i,
+creator:kuroi-kisin,
+digital media (artwork),
+dragon,
+dragoness,
+feral,
+filename:1566661278.kur0i_kazul_s,
+frost,
+fur,
+furry,
+gender:ambiguous,
+gold,
+gold (metal),
+gold coin,
+gold_(metal),
+gold_coin,
+hi res,
+hoard,
+horn,
+horns,
+ice,
+icecave,
+kuroi-kisin,
+lying,
+medium:digital media,
+medium:high resolution,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+on front,
+on_front,
+rating:general,
+rating:safe,
+scales,
+series:invalid color,
+shield,
+solo,
+source:furaffinity.net,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+spikes,
+spines,
+stalactite,
+subreddit:imaginarydragons,
+title:comm: treasurer,
+title:comm: treasurer by kuroi-kisin,
+treasure,
+treasure hoard,
+treasure_hoard,
+uploader:vikingzx,
+wings,
+year:2019,

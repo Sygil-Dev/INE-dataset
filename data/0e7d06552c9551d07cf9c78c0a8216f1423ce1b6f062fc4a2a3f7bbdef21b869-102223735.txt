@@ -1,60 +1,60 @@
-1boy
-armor
-autumn
-autumn leaves
-blue fire
-breathing fire
-burning
-burnt clothes
-campfire
-candle
-candlelight
-character:charizard
-character:charmander
-character:endeavor (boku no hero academia)
-character:fujiwara no mokou
-cooking
-destruction
-dusk
-embers
-explosion
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming eye
-flaming sword
-flaming weapon
-goldfish
-gradient sky
-honey
-lightning
-magic
-male focus
-molten rock
-muzzle flash
-orange background
-orange sky
-orange theme
-phoenix
-purple fire
-pyrokinesis
-rating:safe
-red sky
-shoulder armor
-smoke
-solo
-sparks
-standing
-starter pokemon trio
-subreddit:imaginarywitches
-sun
-sunset
-tail-tip fire
-title:silverquill silencer by zezhou chen
-torch
-twilight
-uploader:disappointingreality
-volcano
+1boy,
+armor,
+autumn,
+autumn leaves,
+blue fire,
+breathing fire,
+burning,
+burnt clothes,
+campfire,
+candle,
+candlelight,
+character:charizard,
+character:charmander,
+character:endeavor (boku no hero academia),
+character:fujiwara no mokou,
+cooking,
+destruction,
+dusk,
+embers,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming eye,
+flaming sword,
+flaming weapon,
+goldfish,
+gradient sky,
+honey,
+lightning,
+magic,
+male focus,
+molten rock,
+muzzle flash,
+orange background,
+orange sky,
+orange theme,
+phoenix,
+purple fire,
+pyrokinesis,
+rating:safe,
+red sky,
+shoulder armor,
+smoke,
+solo,
+sparks,
+standing,
+starter pokemon trio,
+subreddit:imaginarywitches,
+sun,
+sunset,
+tail-tip fire,
+title:silverquill silencer by zezhou chen,
+torch,
+twilight,
+uploader:disappointingreality,
+volcano,

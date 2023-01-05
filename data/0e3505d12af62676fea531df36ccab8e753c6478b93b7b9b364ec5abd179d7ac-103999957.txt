@@ -1,24 +1,24 @@
-1boy
-armor
-beard
-blue sky
-blurry
-blurry background
-blurry foreground
-day
-depth of field
-facial hair
-male focus
-motion blur
-mustache
-old
-old man
-photo (medium)
-photo background
-rating:safe
-sky
-subreddit:imaginarywitcher
-title:geralt of rivia - the witcher iii wild hunt - stylized (desert) by julen urrutia
-tree
-uploader:knighterrannt
-weapon
+1boy,
+armor,
+beard,
+blue sky,
+blurry,
+blurry background,
+blurry foreground,
+day,
+depth of field,
+facial hair,
+male focus,
+motion blur,
+mustache,
+old,
+old man,
+photo (medium),
+photo background,
+rating:safe,
+sky,
+subreddit:imaginarywitcher,
+title:geralt of rivia - the witcher iii wild hunt - stylized (desert) by julen urrutia,
+tree,
+uploader:knighterrannt,
+weapon,

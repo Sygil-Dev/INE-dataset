@@ -1,38 +1,38 @@
-architecture
-blue flower
-bridge
-building
-bush
-castle
-cloud
-cloudy sky
-daisy
-east asian architecture
-field
-flower
-flower field
-garden
-grass
-house
-hydrangea
-lily (flower)
-mountain
-mountainous horizon
-no humans
-outdoors
-path
-pink flower
-plant
-purple flower
-rainbow
-rating:safe
-scenery
-sky
-subreddit:imaginarycastles
-sunset
-title:secret valley of zwibble, nicole lily
-tower
-tulip
-uploader:lonelyzo
-white flower
-yellow flower
+architecture,
+blue flower,
+bridge,
+building,
+bush,
+castle,
+cloud,
+cloudy sky,
+daisy,
+east asian architecture,
+field,
+flower,
+flower field,
+garden,
+grass,
+house,
+hydrangea,
+lily (flower),
+mountain,
+mountainous horizon,
+no humans,
+outdoors,
+path,
+pink flower,
+plant,
+purple flower,
+rainbow,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarycastles,
+sunset,
+title:secret valley of zwibble, nicole lily,
+tower,
+tulip,
+uploader:lonelyzo,
+white flower,
+yellow flower,

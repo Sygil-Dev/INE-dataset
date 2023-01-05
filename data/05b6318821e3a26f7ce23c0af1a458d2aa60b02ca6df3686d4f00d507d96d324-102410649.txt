@@ -1,40 +1,40 @@
-beach
-building
-city
-city lights
-cityscape
-cliff
-cloud
-cloudy sky
-dusk
-evening
-gradient sky
-grass
-horizon
-house
-lake
-landscape
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-purple sky
-rating:safe
-red sky
-river
-scenery
-shore
-sky
-subreddit:imaginarylandscapes
-sun
-sunbeam
-sunlight
-sunrise
-sunset
-title:fantasy world by vivek chaurasia
-tree
-twilight
-uploader:one_giant_nostril
-water
+beach,
+building,
+city,
+city lights,
+cityscape,
+cliff,
+cloud,
+cloudy sky,
+dusk,
+evening,
+gradient sky,
+grass,
+horizon,
+house,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+purple sky,
+rating:safe,
+red sky,
+river,
+scenery,
+shore,
+sky,
+subreddit:imaginarylandscapes,
+sun,
+sunbeam,
+sunlight,
+sunrise,
+sunset,
+title:fantasy world by vivek chaurasia,
+tree,
+twilight,
+uploader:one_giant_nostril,
+water,

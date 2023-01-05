@@ -1,22 +1,22 @@
-battle
-cloud
-earth (planet)
-explosion
-military
-military vehicle
-moon
-night
-no humans
-planet
-rating:safe
-realistic
-science fiction
-sky
-space
-space craft
-spacesuit
-star (sky)
-starry sky
-subreddit:imaginarystarscapes
-title:anomaly by vadim sadovski
-uploader:lol33ta
+battle,
+cloud,
+earth (planet),
+explosion,
+military,
+military vehicle,
+moon,
+night,
+no humans,
+planet,
+rating:safe,
+realistic,
+science fiction,
+sky,
+space,
+space craft,
+spacesuit,
+star (sky),
+starry sky,
+subreddit:imaginarystarscapes,
+title:anomaly by vadim sadovski,
+uploader:lol33ta,

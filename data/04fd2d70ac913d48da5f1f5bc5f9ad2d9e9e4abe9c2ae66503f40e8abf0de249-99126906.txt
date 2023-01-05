@@ -1,29 +1,29 @@
-architecture
-bridge
-building
-castle
-city
-city lights
-cityscape
-cloud
-cloudy sky
-creator:25kartinok
-king
-night
-night sky
-no humans
-outdoors
-rating:safe
-scenery
-sky
-skyline
-skyscraper
-star (sky)
-starry sky
-subreddit:imaginarytowers
-the_dark_tower
-thedarktower
-title:the dark tower
-title:the dark tower by andrew ferez
-tower
-uploader:myrandall
+architecture,
+bridge,
+building,
+castle,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+creator:25kartinok,
+king,
+night,
+night sky,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+skyline,
+skyscraper,
+star (sky),
+starry sky,
+subreddit:imaginarytowers,
+the_dark_tower,
+thedarktower,
+title:the dark tower,
+title:the dark tower by andrew ferez,
+tower,
+uploader:myrandall,

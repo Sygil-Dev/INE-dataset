@@ -1,79 +1,79 @@
-1 female
-1 male
-1boy
-1girl
-ass
-black hair
-booru:danbooru
-booru:safebooru
-booru:sankaku channel
-brown hair
-character:alita
-character:gally
-clothed
-clothed male
-clothed male nude female
-clothing
-clothing:eyewear
-clothing:glasses
-clothing:jacket
-creator:zejuan
-cyberpunk
-cyborg
-examination table
-eyewear
-female
-foot up
-frown
-full body
-gender:female
-gender:male
-genre:science fiction
-glasses
-guro
-hologram
-holographic interface
-indoors
-jacket
-laser
-laser beam
-light frown
-lips
-lipstick
-long hair
-long sleeves
-looking away
-lying
-makeup
-male
-mechanical arms
-mechanical legs
-mechanical parts
-medium:high resolution
-megane
-meta:commentary request
-meta:highres
-meta:tagme
-nude
-nude female
-on stomach
-orange eyes
-rating:explicit
-rating:mature
-rating:safe
-rating:sensitive
-realistic
-red eyes
-red lips
-round eyewear
-science fiction
-series:battle angel alita
-series:gunnm
-subreddit:imaginarycybernetics
-subreddit:imaginarycyberpunk
-the pose
-title:alita by xiaoting li
-uploader:barson2408
-uploader:panzer-kunst
-white hair
-zejuan
+1 female,
+1 male,
+1boy,
+1girl,
+ass,
+black hair,
+booru:danbooru,
+booru:safebooru,
+booru:sankaku channel,
+brown hair,
+character:alita,
+character:gally,
+clothed,
+clothed male,
+clothed male nude female,
+clothing,
+clothing:eyewear,
+clothing:glasses,
+clothing:jacket,
+creator:zejuan,
+cyberpunk,
+cyborg,
+examination table,
+eyewear,
+female,
+foot up,
+frown,
+full body,
+gender:female,
+gender:male,
+genre:science fiction,
+glasses,
+guro,
+hologram,
+holographic interface,
+indoors,
+jacket,
+laser,
+laser beam,
+light frown,
+lips,
+lipstick,
+long hair,
+long sleeves,
+looking away,
+lying,
+makeup,
+male,
+mechanical arms,
+mechanical legs,
+mechanical parts,
+medium:high resolution,
+megane,
+meta:commentary request,
+meta:highres,
+meta:tagme,
+nude,
+nude female,
+on stomach,
+orange eyes,
+rating:explicit,
+rating:mature,
+rating:safe,
+rating:sensitive,
+realistic,
+red eyes,
+red lips,
+round eyewear,
+science fiction,
+series:battle angel alita,
+series:gunnm,
+subreddit:imaginarycybernetics,
+subreddit:imaginarycyberpunk,
+the pose,
+title:alita by xiaoting li,
+uploader:barson2408,
+uploader:panzer-kunst,
+white hair,
+zejuan,

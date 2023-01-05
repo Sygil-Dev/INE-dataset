@@ -1,46 +1,46 @@
-architecture
-artist name
-blue sky
-brick wall
-building
-bush
-city
-cityscape
-cloud
-cloudy sky
-creator:zhowee14
-day
-door
-east asian architecture
-fence
-field
-flower
-garden
-grass
-house
-mountain
-nature
-no humans
-outdoors
-path
-pavement
-plant
-potted plant
-rating:safe
-road
-scenery
-sky
-skyscraper
-stone wall
-street
-subreddit:imaginaryspringscapes
-title:school
-title:school by paphawee zhoung
-tower
-town
-tree
-uploader:fireflycities
-wall
-watermark
-window
-wooden fence
+architecture,
+artist name,
+blue sky,
+brick wall,
+building,
+bush,
+city,
+cityscape,
+cloud,
+cloudy sky,
+creator:zhowee14,
+day,
+door,
+east asian architecture,
+fence,
+field,
+flower,
+garden,
+grass,
+house,
+mountain,
+nature,
+no humans,
+outdoors,
+path,
+pavement,
+plant,
+potted plant,
+rating:safe,
+road,
+scenery,
+sky,
+skyscraper,
+stone wall,
+street,
+subreddit:imaginaryspringscapes,
+title:school,
+title:school by paphawee zhoung,
+tower,
+town,
+tree,
+uploader:fireflycities,
+wall,
+watermark,
+window,
+wooden fence,

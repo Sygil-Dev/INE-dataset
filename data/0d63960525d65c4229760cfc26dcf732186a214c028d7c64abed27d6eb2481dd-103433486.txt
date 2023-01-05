@@ -1,43 +1,43 @@
-6+boys
-alcohol
-bald
-beer
-beer mug
-black hair
-blonde hair
-bottle
-bowl
-chopsticks
-cup
-drink
-drinking
-drinking glass
-drinking straw
-facial hair
-food
-formal
-glass
-holding
-ice cube
-lemon
-lemon slice
-long sleeves
-mug
-multiple boys
-necktie
-noodles
-plate
-ramen
-rating:safe
-restaurant
-salad
-shirt
-short hair
-signature
-sitting
-subreddit:imaginarytaverns
-suit
-table
-title:jujutsu kaisen x chainsaw man by @9bamelo
-tray
-uploader:oray
+6+boys,
+alcohol,
+bald,
+beer,
+beer mug,
+black hair,
+blonde hair,
+bottle,
+bowl,
+chopsticks,
+cup,
+drink,
+drinking,
+drinking glass,
+drinking straw,
+facial hair,
+food,
+formal,
+glass,
+holding,
+ice cube,
+lemon,
+lemon slice,
+long sleeves,
+mug,
+multiple boys,
+necktie,
+noodles,
+plate,
+ramen,
+rating:safe,
+restaurant,
+salad,
+shirt,
+short hair,
+signature,
+sitting,
+subreddit:imaginarytaverns,
+suit,
+table,
+title:jujutsu kaisen x chainsaw man by @9bamelo,
+tray,
+uploader:oray,

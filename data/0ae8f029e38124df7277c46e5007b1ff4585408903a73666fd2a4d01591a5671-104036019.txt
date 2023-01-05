@@ -1,36 +1,36 @@
-1girl
-architecture
-bird
-black border
-bridge
-building
-castle
-city
-city lights
-cityscape
-cliff
-cloud
-cloudy sky
-day
-facing away
-fake screenshot
-lake
-landscape
-letterboxed
-long hair
-mountain
-mountainous horizon
-outdoors
-rating:safe
-river
-ruins
-scenery
-sky
-skyscraper
-subreddit:imaginarycityscapes
-sunset
-title:unseen westeros artbook - authorized by george r.r. martin: sar mell by benjamin schulte
-tower
-uploader:l-ya
-water
-waterfall
+1girl,
+architecture,
+bird,
+black border,
+bridge,
+building,
+castle,
+city,
+city lights,
+cityscape,
+cliff,
+cloud,
+cloudy sky,
+day,
+facing away,
+fake screenshot,
+lake,
+landscape,
+letterboxed,
+long hair,
+mountain,
+mountainous horizon,
+outdoors,
+rating:safe,
+river,
+ruins,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarycityscapes,
+sunset,
+title:unseen westeros artbook - authorized by george r.r. martin: sar mell by benjamin schulte,
+tower,
+uploader:l-ya,
+water,
+waterfall,

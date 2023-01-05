@@ -1,36 +1,36 @@
-1girl
-artist name
-ball
-clock
-closed eyes
-constellation
-crescent moon
-crystal ball
-earth (planet)
-ferris wheel
-full moon
-galaxy
-globe
-glowing
-jellyfish
-moon
-neck ribbon
-night
-night sky
-orb
-planet
-rating:safe
-ribbon
-roman numeral
-shooting star
-short hair
-sky
-solo
-space
-space helmet
-star (sky)
-starry sky
-starry sky print
-subreddit:imaginarycolorscapes
-title:release the sky~ by @yuumei_art
-uploader:firstandlasttoday
+1girl,
+artist name,
+ball,
+clock,
+closed eyes,
+constellation,
+crescent moon,
+crystal ball,
+earth (planet),
+ferris wheel,
+full moon,
+galaxy,
+globe,
+glowing,
+jellyfish,
+moon,
+neck ribbon,
+night,
+night sky,
+orb,
+planet,
+rating:safe,
+ribbon,
+roman numeral,
+shooting star,
+short hair,
+sky,
+solo,
+space,
+space helmet,
+star (sky),
+starry sky,
+starry sky print,
+subreddit:imaginarycolorscapes,
+title:release the sky~ by @yuumei_art,
+uploader:firstandlasttoday,

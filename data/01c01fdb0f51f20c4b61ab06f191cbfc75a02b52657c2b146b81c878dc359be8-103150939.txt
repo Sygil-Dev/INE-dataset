@@ -1,22 +1,22 @@
-1girl
-armor
-black hair
-blue eyes
-book
-colored skin
-demon girl
-demon horns
-earrings
-glowing
-glowing eyes
-grey skin
-horns
-jewelry
-lips
-makeup
-open book
-rating:safe
-solo
-subreddit:imaginarymonstergirls
-title:the bearer of truth by galder
-uploader:lol33ta
+1girl,
+armor,
+black hair,
+blue eyes,
+book,
+colored skin,
+demon girl,
+demon horns,
+earrings,
+glowing,
+glowing eyes,
+grey skin,
+horns,
+jewelry,
+lips,
+makeup,
+open book,
+rating:safe,
+solo,
+subreddit:imaginarymonstergirls,
+title:the bearer of truth by galder,
+uploader:lol33ta,

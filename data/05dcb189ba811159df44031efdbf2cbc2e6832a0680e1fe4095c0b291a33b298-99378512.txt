@@ -1,19 +1,19 @@
-1boy
-artist name
-beard
-closed eyes
-facial hair
-male focus
-manly
-old
-old man
-old woman
-rating:safe
-realistic
-smile
-solo
-subreddit:imaginaryfeels
-title:baby heart by hanaa medhat
-uploader:lol33ta
-white hair
-wrinkled skin
+1boy,
+artist name,
+beard,
+closed eyes,
+facial hair,
+male focus,
+manly,
+old,
+old man,
+old woman,
+rating:safe,
+realistic,
+smile,
+solo,
+subreddit:imaginaryfeels,
+title:baby heart by hanaa medhat,
+uploader:lol33ta,
+white hair,
+wrinkled skin,

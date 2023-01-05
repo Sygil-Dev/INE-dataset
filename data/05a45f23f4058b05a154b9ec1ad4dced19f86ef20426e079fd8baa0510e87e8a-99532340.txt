@@ -1,22 +1,22 @@
-1girl
-breasts
-character:elezen
-character:elvaan
-choker
-collar
-corset
-dark elf
-elf
-grey background
-greyscale
-long hair
-long pointy ears
-monochrome
-pointy ears
-rating:safe
-signature
-solo
-spot color
-subreddit:imaginaryazeroth
-title:melwyn by nik c
-uploader:lol33ta
+1girl,
+breasts,
+character:elezen,
+character:elvaan,
+choker,
+collar,
+corset,
+dark elf,
+elf,
+grey background,
+greyscale,
+long hair,
+long pointy ears,
+monochrome,
+pointy ears,
+rating:safe,
+signature,
+solo,
+spot color,
+subreddit:imaginaryazeroth,
+title:melwyn by nik c,
+uploader:lol33ta,

@@ -1,30 +1,30 @@
-beach
-boat
-cloud
-cloudy sky
-horizon
-ice
-lake
-light rays
-mountain
-no humans
-ocean
-outdoors
-rating:safe
-reflection
-river
-scenery
-ship
-shore
-signature
-sky
-subreddit:imaginarybestof
-subreddit:imaginaryvessels
-sunlight
-title:[/r/imaginarymindscapes] ghost ship by alexander rommel
-title:ghost ship by alex rommel
-uploader:kapitankurt
-uploader:lol33ta
-water
-watercraft
-waves
+beach,
+boat,
+cloud,
+cloudy sky,
+horizon,
+ice,
+lake,
+light rays,
+mountain,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+reflection,
+river,
+scenery,
+ship,
+shore,
+signature,
+sky,
+subreddit:imaginarybestof,
+subreddit:imaginaryvessels,
+sunlight,
+title:[/r/imaginarymindscapes] ghost ship by alexander rommel,
+title:ghost ship by alex rommel,
+uploader:kapitankurt,
+uploader:lol33ta,
+water,
+watercraft,
+waves,

@@ -1,22 +1,22 @@
-bridge
-building
-city
-cloud
-cloudy sky
-kaijuu
-monster
-mountain
-no humans
-outdoors
-rating:safe
-realistic
-ruins
-sharp teeth
-sky
-subreddit:imaginaryleviathans
-sun
-sunset
-teeth
-title:the harvest, by quinn hermann
-tower
-uploader:sylvyrfyre
+bridge,
+building,
+city,
+cloud,
+cloudy sky,
+kaijuu,
+monster,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+realistic,
+ruins,
+sharp teeth,
+sky,
+subreddit:imaginaryleviathans,
+sun,
+sunset,
+teeth,
+title:the harvest, by quinn hermann,
+tower,
+uploader:sylvyrfyre,

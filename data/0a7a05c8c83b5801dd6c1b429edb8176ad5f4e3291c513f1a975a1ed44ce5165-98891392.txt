@@ -1,84 +1,84 @@
-1girl
-3boys
-1970s (style)
-1980s (style)
-aerial fireworks
-alien
-american flag
-astronaut
-aurora
-beard
-blonde hair
-campfire
-character:ultimate madoka
-city lights
-cityscape
-concert
-constellation
-crescent moon
-desert
-dust
-earth (planet)
-energy gun
-energy sword
-facial hair
-festival
-fireflies
-fireworks
-full moon
-galaxy
-globe
-guitar
-hirschgeweih antennas
-instrument
-light
-light particles
-lights
-lightsaber
-milky way
-moon
-moonlight
-multiple boys
-music
-mustache
-night
-night sky
-old
-old man
-planet
-playing instrument
-projected inset
-rating:safe
-ray gun
-reindeer
-rocket
-science fiction
-shooting star
-singing
-skirt
-sky
-skyline
-skyscraper
-snow
-snowing
-space
-space craft
-space helmet
-spacesuit
-sparkler
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarycyberpunk
-subreddit:imaginarypolice
-summer festival
-tanabata
-tanzaku
-telescope
-title:on the run cover art (1985) by alan gutierrez
-ufo
-uploader:yannirotten
-weapon
-window
+1girl,
+3boys,
+1970s (style),
+1980s (style),
+aerial fireworks,
+alien,
+american flag,
+astronaut,
+aurora,
+beard,
+blonde hair,
+campfire,
+character:ultimate madoka,
+city lights,
+cityscape,
+concert,
+constellation,
+crescent moon,
+desert,
+dust,
+earth (planet),
+energy gun,
+energy sword,
+facial hair,
+festival,
+fireflies,
+fireworks,
+full moon,
+galaxy,
+globe,
+guitar,
+hirschgeweih antennas,
+instrument,
+light,
+light particles,
+lights,
+lightsaber,
+milky way,
+moon,
+moonlight,
+multiple boys,
+music,
+mustache,
+night,
+night sky,
+old,
+old man,
+planet,
+playing instrument,
+projected inset,
+rating:safe,
+ray gun,
+reindeer,
+rocket,
+science fiction,
+shooting star,
+singing,
+skirt,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+space,
+space craft,
+space helmet,
+spacesuit,
+sparkler,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarycyberpunk,
+subreddit:imaginarypolice,
+summer festival,
+tanabata,
+tanzaku,
+telescope,
+title:on the run cover art (1985) by alan gutierrez,
+ufo,
+uploader:yannirotten,
+weapon,
+window,

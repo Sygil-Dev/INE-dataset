@@ -1,23 +1,23 @@
-1girl
-blue eyes
-bracelet
-breasts
-elf
-jacket
-jewelry
-long hair
-midriff
-navel
-night
-pointy ears
-ponytail
-purple hair
-rating:safe
-solo
-space
-star (sky)
-starry sky
-subreddit:imaginarycyberpunk
-title:laura. art_sonyach
-uploader:art_sonyach
-window
+1girl,
+blue eyes,
+bracelet,
+breasts,
+elf,
+jacket,
+jewelry,
+long hair,
+midriff,
+navel,
+night,
+pointy ears,
+ponytail,
+purple hair,
+rating:safe,
+solo,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarycyberpunk,
+title:laura. art_sonyach,
+uploader:art_sonyach,
+window,

@@ -1,26 +1,26 @@
-1girl
-artist name
-blue fire
-burning
-closed eyes
-cloud
-explosion
-fire
-flame
-hitodama
-letter
-lightning
-liquid hair
-long hair
-makeup
-nail polish
-paper
-rating:safe
-smoke
-smoking
-solo
-subreddit:imaginaryimmortals
-title:message is the bottle by marguerite sauvage
-uploader:lol33ta
-water
-waves
+1girl,
+artist name,
+blue fire,
+burning,
+closed eyes,
+cloud,
+explosion,
+fire,
+flame,
+hitodama,
+letter,
+lightning,
+liquid hair,
+long hair,
+makeup,
+nail polish,
+paper,
+rating:safe,
+smoke,
+smoking,
+solo,
+subreddit:imaginaryimmortals,
+title:message is the bottle by marguerite sauvage,
+uploader:lol33ta,
+water,
+waves,

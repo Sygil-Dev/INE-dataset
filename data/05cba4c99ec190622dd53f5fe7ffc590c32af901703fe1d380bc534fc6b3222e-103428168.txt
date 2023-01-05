@@ -1,25 +1,25 @@
-breathing fire
-building
-burning
-campfire
-city
-cityscape
-cloud
-destruction
-explosion
-fire
-flame
-gun
-lightning
-rating:safe
-rifle
-ruins
-scenery
-skyscraper
-smoke
-subreddit:imaginarywastelands
-title:scp 5000, ruslan korovkin
-torch
-uploader:miciy5
-watermark
-weapon
+breathing fire,
+building,
+burning,
+campfire,
+city,
+cityscape,
+cloud,
+destruction,
+explosion,
+fire,
+flame,
+gun,
+lightning,
+rating:safe,
+rifle,
+ruins,
+scenery,
+skyscraper,
+smoke,
+subreddit:imaginarywastelands,
+title:scp 5000, ruslan korovkin,
+torch,
+uploader:miciy5,
+watermark,
+weapon,

@@ -1,45 +1,45 @@
-burning
-city
-city lights
-cloud
-cloudy sky
-crescent moon
-earth (planet)
-embers
-evening
-fire
-flame
-galaxy
-gradient sky
-horizon
-magic
-male focus
-molten rock
-moon
-moonlight
-mountain
-mountainous horizon
-night
-night sky
-ocean
-orange sky
-outdoors
-planet
-purple sky
-rating:safe
-red moon
-red sky
-scenery
-shooting star
-sky
-solo
-space
-star (sky)
-starry sky
-subreddit:imaginaryimmortals
-sun
-sunset
-title:may by exellero
-twilight
-uploader:lol33ta
-water
+burning,
+city,
+city lights,
+cloud,
+cloudy sky,
+crescent moon,
+earth (planet),
+embers,
+evening,
+fire,
+flame,
+galaxy,
+gradient sky,
+horizon,
+magic,
+male focus,
+molten rock,
+moon,
+moonlight,
+mountain,
+mountainous horizon,
+night,
+night sky,
+ocean,
+orange sky,
+outdoors,
+planet,
+purple sky,
+rating:safe,
+red moon,
+red sky,
+scenery,
+shooting star,
+sky,
+solo,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryimmortals,
+sun,
+sunset,
+title:may by exellero,
+twilight,
+uploader:lol33ta,
+water,

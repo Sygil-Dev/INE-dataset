@@ -1,21 +1,21 @@
-1girl
-animal
-animal focus
-bird
-bird on head
-chicken
-crow
-eagle
-flock
-owl
-painting (medium)
-penguin
-rating:safe
-rooster
-sparrow
-subreddit:imaginarygnomes
-title:endpaper of gnomes, 1977, by rien poortvliet
-traditional media
-uploader:yannirotten
-watercolor (medium)
-year of the rooster
+1girl,
+animal,
+animal focus,
+bird,
+bird on head,
+chicken,
+crow,
+eagle,
+flock,
+owl,
+painting (medium),
+penguin,
+rating:safe,
+rooster,
+sparrow,
+subreddit:imaginarygnomes,
+title:endpaper of gnomes, 1977, by rien poortvliet,
+traditional media,
+uploader:yannirotten,
+watercolor (medium),
+year of the rooster,

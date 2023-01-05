@@ -1,26 +1,26 @@
-1girl
-baby duck
-duck
-facing away
-field
-forest
-grass
-hat
-moss
-mushroom
-nature
-outdoors
-plant
-rain
-rating:safe
-river
-rocks
-scenery
-smiling
-stairs
-statue
-subreddit:imaginaryweather
-title:follow the leader! by devin elle kurtz
-tree
-uploader:maleficentrespect3
-water
+1girl,
+baby duck,
+duck,
+facing away,
+field,
+forest,
+grass,
+hat,
+moss,
+mushroom,
+nature,
+outdoors,
+plant,
+rain,
+rating:safe,
+river,
+rocks,
+scenery,
+smiling,
+stairs,
+statue,
+subreddit:imaginaryweather,
+title:follow the leader! by devin elle kurtz,
+tree,
+uploader:maleficentrespect3,
+water,

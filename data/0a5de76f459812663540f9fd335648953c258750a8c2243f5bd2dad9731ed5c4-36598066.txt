@@ -1,19 +1,19 @@
-bare tree
-coat
-fantasy art
-letterboxed
-light rays
-long hair
-multiple others
-rating:safe
-ruins
-scenery
-silhouette
-standing
-subreddit:imaginaryinteriors
-swords in rock
-throne
-title:rising sun by alessandro paviolo
-tree
-uploader:kuaiban
-weapon
+bare tree,
+coat,
+fantasy art,
+letterboxed,
+light rays,
+long hair,
+multiple others,
+rating:safe,
+ruins,
+scenery,
+silhouette,
+standing,
+subreddit:imaginaryinteriors,
+swords in rock,
+throne,
+title:rising sun by alessandro paviolo,
+tree,
+uploader:kuaiban,
+weapon,

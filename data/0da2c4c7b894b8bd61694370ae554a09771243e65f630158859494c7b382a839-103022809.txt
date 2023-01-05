@@ -1,20 +1,20 @@
-1girl
-armor
-breastplate
-cape
-full armor
-full body
-gauntlets
-greaves
-helmet
-knight
-pauldrons
-rating:safe
-shoulder armor
-solo
-standing
-subreddit:imaginaryarmor
-sword
-title:roughs by brian coughlan
-uploader:ultartx
-weapon
+1girl,
+armor,
+breastplate,
+cape,
+full armor,
+full body,
+gauntlets,
+greaves,
+helmet,
+knight,
+pauldrons,
+rating:safe,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryarmor,
+sword,
+title:roughs by brian coughlan,
+uploader:ultartx,
+weapon,

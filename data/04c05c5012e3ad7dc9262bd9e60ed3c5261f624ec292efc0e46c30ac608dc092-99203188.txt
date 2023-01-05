@@ -1,18 +1,18 @@
-1girl
-armor
-blue eyes
-cape
-glowing
-holding
-holding weapon
-ice
-long hair
-rating:safe
-solo
-subreddit:imaginaryarchers
-subreddit:imaginarygaming
-sword
-title:"freljord ashe" by tony maverick
-uploader:torvusil
-water
-weapon
+1girl,
+armor,
+blue eyes,
+cape,
+glowing,
+holding,
+holding weapon,
+ice,
+long hair,
+rating:safe,
+solo,
+subreddit:imaginaryarchers,
+subreddit:imaginarygaming,
+sword,
+title:"freljord ashe" by tony maverick,
+uploader:torvusil,
+water,
+weapon,

@@ -1,85 +1,85 @@
-1970s (style)
-1980s (style)
-above clouds
-aerial fireworks
-alien
-america
-american flag
-astronaut
-aurora
-balcony
-building
-campfire
-character:ultimate madoka
-chimney
-christmas
-christmas lights
-christmas tree
-city
-city lights
-cityscape
-clock tower
-cloud
-constellation
-crescent moon
-desert
-dust
-earth (planet)
-ferris wheel
-festival
-fireflies
-fireworks
-flag background
-fountain
-full moon
-galaxy
-globe
-hirschgeweih antennas
-lamppost
-light
-light particles
-milky way
-moon
-moonlight
-night
-night sky
-onsen
-painting (medium)
-pine tree
-planet
-rainbow
-rating:safe
-red moon
-reindeer
-rocket
-roman numeral
-science fiction
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-space
-space craft
-space helmet
-spacesuit
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarystarships
-summer festival
-tanabata
-tanzaku
-tarot
-telescope
-title:meteora (cover), arseniy chebynkin
-tower
-twilight
-ufo
-uploader:miciy5
-window
-winter
+1970s (style),
+1980s (style),
+above clouds,
+aerial fireworks,
+alien,
+america,
+american flag,
+astronaut,
+aurora,
+balcony,
+building,
+campfire,
+character:ultimate madoka,
+chimney,
+christmas,
+christmas lights,
+christmas tree,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+constellation,
+crescent moon,
+desert,
+dust,
+earth (planet),
+ferris wheel,
+festival,
+fireflies,
+fireworks,
+flag background,
+fountain,
+full moon,
+galaxy,
+globe,
+hirschgeweih antennas,
+lamppost,
+light,
+light particles,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+onsen,
+painting (medium),
+pine tree,
+planet,
+rainbow,
+rating:safe,
+red moon,
+reindeer,
+rocket,
+roman numeral,
+science fiction,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+space,
+space craft,
+space helmet,
+spacesuit,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarystarships,
+summer festival,
+tanabata,
+tanzaku,
+tarot,
+telescope,
+title:meteora (cover), arseniy chebynkin,
+tower,
+twilight,
+ufo,
+uploader:miciy5,
+window,
+winter,

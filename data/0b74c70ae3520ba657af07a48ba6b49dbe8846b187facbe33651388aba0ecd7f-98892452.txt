@@ -1,28 +1,28 @@
-bare tree
-building
-burning
-city
-city lights
-cityscape
-cloud
-cloudy sky
-dusk
-evening
-fire
-mountain
-orange sky
-outdoors
-rating:safe
-red sky
-ruins
-scenery
-sky
-subreddit:imaginaryruins
-sun
-sunset
-title:03_2020 by kamila szutenberg
-tower
-tree
-twilight
-uploader:[deleted]
-weapon
+bare tree,
+building,
+burning,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+mountain,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+ruins,
+scenery,
+sky,
+subreddit:imaginaryruins,
+sun,
+sunset,
+title:03_2020 by kamila szutenberg,
+tower,
+tree,
+twilight,
+uploader:[deleted],
+weapon,

@@ -1,22 +1,22 @@
-1girl
-blue sky
-cloud
-cloudy sky
-condensation trail
-day
-horizon
-long hair
-mountain
-ocean
-outdoors
-rating:safe
-scenery
-signature
-sky
-solo
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sunset
-title:ruins by mocha
-tree
-uploader:zewen_senpai
+1girl,
+blue sky,
+cloud,
+cloudy sky,
+condensation trail,
+day,
+horizon,
+long hair,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+signature,
+sky,
+solo,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sunset,
+title:ruins by mocha,
+tree,
+uploader:zewen_senpai,

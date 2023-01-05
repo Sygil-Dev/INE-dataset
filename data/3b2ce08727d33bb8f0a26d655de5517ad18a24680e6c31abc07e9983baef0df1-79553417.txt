@@ -1,16 +1,16 @@
-alien
-blue
-car
-color
-creator:jocelin carmes
-madmen
-red
-subreddit:birdsforscale
-subreddit:imaginarybehemoths
-title:better have a fast car by jocelin carmes
-title:better have a fast car, jocelin carmes
-title:weekly sketch #2
-uploader:lol33ta
-uploader:miciy5
-vis dev
-winter
+alien,
+blue,
+car,
+color,
+creator:jocelin carmes,
+madmen,
+red,
+subreddit:birdsforscale,
+subreddit:imaginarybehemoths,
+title:better have a fast car by jocelin carmes,
+title:better have a fast car, jocelin carmes,
+title:weekly sketch #2,
+uploader:lol33ta,
+uploader:miciy5,
+vis dev,
+winter,

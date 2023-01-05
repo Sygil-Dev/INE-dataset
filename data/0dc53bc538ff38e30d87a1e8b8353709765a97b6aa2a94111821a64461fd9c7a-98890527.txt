@@ -1,28 +1,28 @@
-1boy
-apple
-armor
-bouquet
-camellia
-flower
-hibiscus
-holding flower
-leaf
-male focus
-orange flower
-pink rose
-plant
-rating:safe
-red flower
-red rose
-rose
-rose petals
-solo
-spider lily
-subreddit:imaginarymonuments
-thorns
-title:galatea by nika firsova
-tulip
-uploader:hvitserkr
-upper body
-vines
-yellow rose
+1boy,
+apple,
+armor,
+bouquet,
+camellia,
+flower,
+hibiscus,
+holding flower,
+leaf,
+male focus,
+orange flower,
+pink rose,
+plant,
+rating:safe,
+red flower,
+red rose,
+rose,
+rose petals,
+solo,
+spider lily,
+subreddit:imaginarymonuments,
+thorns,
+title:galatea by nika firsova,
+tulip,
+uploader:hvitserkr,
+upper body,
+vines,
+yellow rose,

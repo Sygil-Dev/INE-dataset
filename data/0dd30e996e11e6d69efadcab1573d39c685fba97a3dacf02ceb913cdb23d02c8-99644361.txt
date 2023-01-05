@@ -1,21 +1,21 @@
-3d
-black border
-bunny
-dog
-halftone
-halftone background
-letterboxed
-looking at viewer
-lying
-no humans
-photo (medium)
-pillarboxed
-pokemon (creature)
-polka dot
-polka dot background
-rating:safe
-smile
-subreddit:adorabledragons
-title:dragon plushie
-unconventional media
-uploader:wollfisch
+3d,
+black border,
+bunny,
+dog,
+halftone,
+halftone background,
+letterboxed,
+looking at viewer,
+lying,
+no humans,
+photo (medium),
+pillarboxed,
+pokemon (creature),
+polka dot,
+polka dot background,
+rating:safe,
+smile,
+subreddit:adorabledragons,
+title:dragon plushie,
+unconventional media,
+uploader:wollfisch,

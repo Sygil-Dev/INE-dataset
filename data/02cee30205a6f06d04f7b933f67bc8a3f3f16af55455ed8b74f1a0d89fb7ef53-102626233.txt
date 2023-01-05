@@ -1,21 +1,21 @@
-1boy
-beard
-boots
-cape
-copyright name
-facial hair
-full body
-male focus
-mustache
-rating:safe
-realistic
-sheath
-sheathed
-sitting
-solo
-subreddit:imaginarynobles
-sword
-throne
-title:cetro de dagobert, jose muñoz
-uploader:miciy5
-weapon
+1boy,
+beard,
+boots,
+cape,
+copyright name,
+facial hair,
+full body,
+male focus,
+mustache,
+rating:safe,
+realistic,
+sheath,
+sheathed,
+sitting,
+solo,
+subreddit:imaginarynobles,
+sword,
+throne,
+title:cetro de dagobert, jose muñoz,
+uploader:miciy5,
+weapon,

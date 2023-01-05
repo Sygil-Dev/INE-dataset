@@ -1,22 +1,22 @@
-1boy
-animal
-antlers
-arrow (projectile)
-bird
-bow (weapon)
-branch
-earrings
-flower
-jewelry
-long hair
-makeup
-male focus
-oversized animal
-rating:safe
-riding
-snow
-snowing
-subreddit:reasonablefantasy
-title:hvit by @yuxingart
-uploader:yourwordswontsaveyou
-wolf
+1boy,
+animal,
+antlers,
+arrow (projectile),
+bird,
+bow (weapon),
+branch,
+earrings,
+flower,
+jewelry,
+long hair,
+makeup,
+male focus,
+oversized animal,
+rating:safe,
+riding,
+snow,
+snowing,
+subreddit:reasonablefantasy,
+title:hvit by @yuxingart,
+uploader:yourwordswontsaveyou,
+wolf,

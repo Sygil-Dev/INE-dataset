@@ -1,72 +1,72 @@
-1970s (style)
-above clouds
-aerial fireworks
-alien
-american flag
-astronaut
-aurora
-campfire
-character:ultimate madoka
-christmas
-city
-city lights
-cityscape
-clock
-clock tower
-cloud
-constellation
-crescent moon
-desert
-dust
-earth (planet)
-embers
-ferris wheel
-fireflies
-fireworks
-flag background
-full moon
-galaxy
-light
-light particles
-logo
-magic circle
-male focus
-milky way
-moon
-moonlight
-night
-night sky
-planet
-rating:safe
-red moon
-reflection
-reindeer
-rocket
-roman numeral
-science fiction
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-space
-space craft
-space helmet
-spacesuit
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarystarscapes
-sun
-tanabata
-tanzaku
-telescope
-title:supernova by tobias roetsch
-tower
-ufo
-uploader:lol33ta
-window
+1970s (style),
+above clouds,
+aerial fireworks,
+alien,
+american flag,
+astronaut,
+aurora,
+campfire,
+character:ultimate madoka,
+christmas,
+city,
+city lights,
+cityscape,
+clock,
+clock tower,
+cloud,
+constellation,
+crescent moon,
+desert,
+dust,
+earth (planet),
+embers,
+ferris wheel,
+fireflies,
+fireworks,
+flag background,
+full moon,
+galaxy,
+light,
+light particles,
+logo,
+magic circle,
+male focus,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+planet,
+rating:safe,
+red moon,
+reflection,
+reindeer,
+rocket,
+roman numeral,
+science fiction,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+space,
+space craft,
+space helmet,
+spacesuit,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarystarscapes,
+sun,
+tanabata,
+tanzaku,
+telescope,
+title:supernova by tobias roetsch,
+tower,
+ufo,
+uploader:lol33ta,
+window,

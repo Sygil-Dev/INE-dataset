@@ -1,21 +1,21 @@
-1boy
-abs
-artist name
-bald
-beard
-dated
-facial hair
-full body
-jewelry
-male focus
-muscular
-necklace
-rating:safe
-signature
-solo
-standing
-subreddit:imaginarywarriors
-tattoo
-title:phoenician bounty hunter by joelchaimholtzman
-topless male
-uploader:tabulaerrata
+1boy,
+abs,
+artist name,
+bald,
+beard,
+dated,
+facial hair,
+full body,
+jewelry,
+male focus,
+muscular,
+necklace,
+rating:safe,
+signature,
+solo,
+standing,
+subreddit:imaginarywarriors,
+tattoo,
+title:phoenician bounty hunter by joelchaimholtzman,
+topless male,
+uploader:tabulaerrata,

@@ -1,26 +1,26 @@
-architecture
-bridge
-building
-bush
-day
-fantasy
-forest
-grass
-moss
-nature
-no humans
-outdoors
-overgrown
-path
-rating:safe
-river
-road
-scenery
-subreddit:imaginarypathways
-sunbeam
-sunlight
-title:숨겨진 광산 by artist kks ~
-tree
-uploader:anon_ymou5
-water
-waterfall
+architecture,
+bridge,
+building,
+bush,
+day,
+fantasy,
+forest,
+grass,
+moss,
+nature,
+no humans,
+outdoors,
+overgrown,
+path,
+rating:safe,
+river,
+road,
+scenery,
+subreddit:imaginarypathways,
+sunbeam,
+sunlight,
+title:숨겨진 광산 by artist kks ~,
+tree,
+uploader:anon_ymou5,
+water,
+waterfall,

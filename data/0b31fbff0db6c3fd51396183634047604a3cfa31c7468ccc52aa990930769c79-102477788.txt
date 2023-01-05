@@ -1,19 +1,19 @@
-1girl
-company name
-facebook username
-full body
-no humans
-open mouth
-patreon logo
-rating:safe
-solo
-subreddit:imaginarykanto
-subreddit:imaginaryweaponry
-subtitled
-sword
-title:888a - zacian by foresterdesigns
-tumblr username
-uploader:comics0026
-watermark
-weapon
-web address
+1girl,
+company name,
+facebook username,
+full body,
+no humans,
+open mouth,
+patreon logo,
+rating:safe,
+solo,
+subreddit:imaginarykanto,
+subreddit:imaginaryweaponry,
+subtitled,
+sword,
+title:888a - zacian by foresterdesigns,
+tumblr username,
+uploader:comics0026,
+watermark,
+weapon,
+web address,

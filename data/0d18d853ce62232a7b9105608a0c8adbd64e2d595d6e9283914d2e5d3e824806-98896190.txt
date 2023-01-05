@@ -1,47 +1,47 @@
-bamboo
-bamboo forest
-bush
-cloud
-dandelion
-field
-fireflies
-flower
-flower pot
-forest
-full moon
-garden
-grass
-ivy
-jungle
-leaf
-moon
-mushroom
-nature
-no humans
-on grass
-outdoors
-overgrown
-palm leaf
-palm tree
-path
-plant
-potted plant
-rating:safe
-road
-rock
-scenery
-sky
-subreddit:imaginarygardens
-sunflower
-sunset
-tanabata
-tanzaku
-title:dreamy sanctuary
-traditional media
-tree
-tree stump
-uploader:jamesmakesfilms
-vines
-wheat
-wooden fence
-yellow flower
+bamboo,
+bamboo forest,
+bush,
+cloud,
+dandelion,
+field,
+fireflies,
+flower,
+flower pot,
+forest,
+full moon,
+garden,
+grass,
+ivy,
+jungle,
+leaf,
+moon,
+mushroom,
+nature,
+no humans,
+on grass,
+outdoors,
+overgrown,
+palm leaf,
+palm tree,
+path,
+plant,
+potted plant,
+rating:safe,
+road,
+rock,
+scenery,
+sky,
+subreddit:imaginarygardens,
+sunflower,
+sunset,
+tanabata,
+tanzaku,
+title:dreamy sanctuary,
+traditional media,
+tree,
+tree stump,
+uploader:jamesmakesfilms,
+vines,
+wheat,
+wooden fence,
+yellow flower,

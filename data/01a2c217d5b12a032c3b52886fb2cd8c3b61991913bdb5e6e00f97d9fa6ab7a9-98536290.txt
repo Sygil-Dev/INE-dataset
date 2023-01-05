@@ -1,20 +1,20 @@
-axe
-bat wings
-city
-claws
-cloud
-cloudy sky
-demon wings
-dragon
-dragon wings
-monster
-no humans
-rating:safe
-sharp teeth
-sky
-subreddit:imaginarybestof
-sword
-title:[/r/imaginarydragons] hour of devastation - magic the gathering by greg rutkowski
-uploader:lol33ta
-weapon
-wings
+axe,
+bat wings,
+city,
+claws,
+cloud,
+cloudy sky,
+demon wings,
+dragon,
+dragon wings,
+monster,
+no humans,
+rating:safe,
+sharp teeth,
+sky,
+subreddit:imaginarybestof,
+sword,
+title:[/r/imaginarydragons] hour of devastation - magic the gathering by greg rutkowski,
+uploader:lol33ta,
+weapon,
+wings,

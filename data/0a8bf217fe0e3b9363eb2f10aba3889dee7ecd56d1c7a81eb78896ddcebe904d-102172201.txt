@@ -1,33 +1,33 @@
-1girl
-black hair
-black pants
-black-framed eyewear
-blue eyes
-building
-cigarette
-city
-cityscape
-cup
-cyberpunk
-earrings
-glasses
-ground vehicle
-jewelry
-library
-mouth hold
-pants
-rating:safe
-red shirt
-rooftop
-sitting
-skyline
-skyscraper
-smoke
-smoking
-solo
-street
-subreddit:imaginaryhumans
-sunglasses
-title:rainy introspection by me. [ oc ]
-town
-uploader:ash_kohari
+1girl,
+black hair,
+black pants,
+black-framed eyewear,
+blue eyes,
+building,
+cigarette,
+city,
+cityscape,
+cup,
+cyberpunk,
+earrings,
+glasses,
+ground vehicle,
+jewelry,
+library,
+mouth hold,
+pants,
+rating:safe,
+red shirt,
+rooftop,
+sitting,
+skyline,
+skyscraper,
+smoke,
+smoking,
+solo,
+street,
+subreddit:imaginaryhumans,
+sunglasses,
+title:rainy introspection by me. [ oc ],
+town,
+uploader:ash_kohari,

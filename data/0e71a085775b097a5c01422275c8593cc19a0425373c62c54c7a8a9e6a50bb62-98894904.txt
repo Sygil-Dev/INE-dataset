@@ -1,24 +1,24 @@
-1boy
-architecture
-book
-bookshelf
-building
-city
-cityscape
-east asian architecture
-facial hair
-globe
-indoors
-ladder
-library
-male focus
-rating:safe
-realistic
-sitting
-skyscraper
-solo
-stairs
-statue
-subreddit:imaginarystatues
-title:the temple of zeus by mondoworks (chris wren and kenn brown)
-uploader:yannirotten
+1boy,
+architecture,
+book,
+bookshelf,
+building,
+city,
+cityscape,
+east asian architecture,
+facial hair,
+globe,
+indoors,
+ladder,
+library,
+male focus,
+rating:safe,
+realistic,
+sitting,
+skyscraper,
+solo,
+stairs,
+statue,
+subreddit:imaginarystatues,
+title:the temple of zeus by mondoworks (chris wren and kenn brown),
+uploader:yannirotten,

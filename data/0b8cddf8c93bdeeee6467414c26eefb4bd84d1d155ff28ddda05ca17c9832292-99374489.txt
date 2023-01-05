@@ -1,21 +1,21 @@
-1boy
-breathing fire
-burning
-campfire
-embers
-explosion
-fire
-flame
-flaming sword
-flaming weapon
-holding
-male focus
-rating:safe
-smoke
-solo
-subreddit:imaginarydwarves
-sword
-title:thorlav by even amundsen
-torch
-uploader:killerbunnyfamily
-weapon
+1boy,
+breathing fire,
+burning,
+campfire,
+embers,
+explosion,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+holding,
+male focus,
+rating:safe,
+smoke,
+solo,
+subreddit:imaginarydwarves,
+sword,
+title:thorlav by even amundsen,
+torch,
+uploader:killerbunnyfamily,
+weapon,

@@ -1,20 +1,20 @@
-aircraft
-airplane
-battle
-explosion
-fire
-firing
-ground vehicle
-gun
-helicopter
-helmet
-mecha
-motor vehicle
-multiple boys
-rating:safe
-realistic
-science fiction
-subreddit:imaginarymarvel
-title:captain america: civil war by alexander lozano
-uploader:incredibel
-weapon
+aircraft,
+airplane,
+battle,
+explosion,
+fire,
+firing,
+ground vehicle,
+gun,
+helicopter,
+helmet,
+mecha,
+motor vehicle,
+multiple boys,
+rating:safe,
+realistic,
+science fiction,
+subreddit:imaginarymarvel,
+title:captain america: civil war by alexander lozano,
+uploader:incredibel,
+weapon,

@@ -1,21 +1,21 @@
-artwork
-beeple
-clothing:jacket
-clothing:legwear
-clothing:pants
-clouds
-futuristic
-genre:science fiction
-horizon
-illustration
-medium:3d rendering
-medium:digital media
-men
-sky
-standing
-subreddit:imaginarycityscapes
-subreddit:imaginaryskyscapes
-title:'second stratosphere' by beeple, aka mike winkelmann
-title:second stratosphere by beeple
-uploader:jaykirsch
-uploader:nitemyria
+artwork,
+beeple,
+clothing:jacket,
+clothing:legwear,
+clothing:pants,
+clouds,
+futuristic,
+genre:science fiction,
+horizon,
+illustration,
+medium:3d rendering,
+medium:digital media,
+men,
+sky,
+standing,
+subreddit:imaginarycityscapes,
+subreddit:imaginaryskyscapes,
+title:'second stratosphere' by beeple, aka mike winkelmann,
+title:second stratosphere by beeple,
+uploader:jaykirsch,
+uploader:nitemyria,

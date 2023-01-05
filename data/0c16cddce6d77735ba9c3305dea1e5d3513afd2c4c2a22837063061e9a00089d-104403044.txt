@@ -1,24 +1,24 @@
-animal
-animal focus
-bird
-blurry
-blurry background
-blurry foreground
-character:chocobo
-depth of field
-eagle
-feathered wings
-forest
-grass
-motion blur
-nature
-no humans
-rating:safe
-subreddit:imaginaryanimals
-title:untitled wip by mikren
-tree
-uploader:rajahbeaubeau
-weapon
-white wings
-wings
-wolf
+animal,
+animal focus,
+bird,
+blurry,
+blurry background,
+blurry foreground,
+character:chocobo,
+depth of field,
+eagle,
+feathered wings,
+forest,
+grass,
+motion blur,
+nature,
+no humans,
+rating:safe,
+subreddit:imaginaryanimals,
+title:untitled wip by mikren,
+tree,
+uploader:rajahbeaubeau,
+weapon,
+white wings,
+wings,
+wolf,

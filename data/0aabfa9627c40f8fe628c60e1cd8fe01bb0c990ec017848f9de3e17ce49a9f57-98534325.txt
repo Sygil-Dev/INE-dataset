@@ -1,21 +1,21 @@
-1girl
-1other
-arch
-architecture
-bridge
-building
-city
-cloud
-day
-outdoors
-pillar
-rating:safe
-ruins
-scenery
-sky
-subreddit:imaginaryarchitecture
-subreddit:imaginarybestof
-title:[/r/imaginaryarchitecture] old temple by julian calle
-title:old temple by julian calle
-tower
-uploader:lol33ta
+1girl,
+1other,
+arch,
+architecture,
+bridge,
+building,
+city,
+cloud,
+day,
+outdoors,
+pillar,
+rating:safe,
+ruins,
+scenery,
+sky,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarybestof,
+title:[/r/imaginaryarchitecture] old temple by julian calle,
+title:old temple by julian calle,
+tower,
+uploader:lol33ta,

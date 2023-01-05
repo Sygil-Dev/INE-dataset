@@ -1,23 +1,23 @@
-2girls
-autumn
-autumn leaves
-bag
-brick wall
-brown hair
-chain-link fence
-closed eyes
-fence
-leaf
-long hair
-multiple girls
-open mouth
-outdoors
-rating:safe
-shirt
-skirt
-smile
-subreddit:imaginarysliceoflife
-tiles
-title:fallen leaves and a playful cat, by 526 @kojiro337
-tree
-uploader:misanthropy3000
+2girls,
+autumn,
+autumn leaves,
+bag,
+brick wall,
+brown hair,
+chain-link fence,
+closed eyes,
+fence,
+leaf,
+long hair,
+multiple girls,
+open mouth,
+outdoors,
+rating:safe,
+shirt,
+skirt,
+smile,
+subreddit:imaginarysliceoflife,
+tiles,
+title:fallen leaves and a playful cat, by 526 @kojiro337,
+tree,
+uploader:misanthropy3000,

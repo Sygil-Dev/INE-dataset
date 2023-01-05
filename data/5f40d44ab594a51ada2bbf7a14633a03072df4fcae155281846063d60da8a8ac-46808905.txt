@@ -1,18 +1,18 @@
-category:ine
-creator:kyuyong eom
-kye
-medium:digital 2d
-mermaid
-red hair
-series:the little mermaid
-solo female
-species:merfolk
-species:mythical
-subreddit:imaginarybestof
-subreddit:imaginarymerfolk
-subreddit:imaginarymonstergirls
-the little mermaid
-title:[/r/imaginarymerfolk] happy imagination by kyuyong eom
-title:happy imagination by kyuyong eom
-uploader:lol33ta
-uploader:sr_myers
+category:ine,
+creator:kyuyong eom,
+kye,
+medium:digital 2d,
+mermaid,
+red hair,
+series:the little mermaid,
+solo female,
+species:merfolk,
+species:mythical,
+subreddit:imaginarybestof,
+subreddit:imaginarymerfolk,
+subreddit:imaginarymonstergirls,
+the little mermaid,
+title:[/r/imaginarymerfolk] happy imagination by kyuyong eom,
+title:happy imagination by kyuyong eom,
+uploader:lol33ta,
+uploader:sr_myers,

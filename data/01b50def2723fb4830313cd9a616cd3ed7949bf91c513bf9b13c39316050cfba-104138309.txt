@@ -1,19 +1,19 @@
-1girl
-armor
-bird
-cloud
-cloudy sky
-crow
-jewelry
-long hair
-polearm
-rating:safe
-realistic
-sky
-solo
-subreddit:imaginaryangels
-tattoo
-title:tragedy in heaven by joseph weston
-uploader:azalann
-weapon
-wings
+1girl,
+armor,
+bird,
+cloud,
+cloudy sky,
+crow,
+jewelry,
+long hair,
+polearm,
+rating:safe,
+realistic,
+sky,
+solo,
+subreddit:imaginaryangels,
+tattoo,
+title:tragedy in heaven by joseph weston,
+uploader:azalann,
+weapon,
+wings,

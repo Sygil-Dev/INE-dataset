@@ -1,44 +1,44 @@
-aurora
-city lights
-cloud
-cloudy sky
-constellation
-diffraction spikes
-earth (planet)
-embers
-evening
-explosion
-fireworks
-galaxy
-gradient sky
-horizon
-lens flare
-light particles
-male focus
-milky way
-night
-night sky
-no humans
-planet
-rating:safe
-red sky
-scenery
-shooting star
-sky
-space
-sparkle
-sparkle background
-star (sky)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarycolorscapes
-subreddit:imaginarystarscapes
-subreddit:imlandscapes
-subreddit:immeta
-sun
-sunlight
-sunset
-title:through the rays of darkness by josef bartoň
-twilight
-uploader:lol33ta
+aurora,
+city lights,
+cloud,
+cloudy sky,
+constellation,
+diffraction spikes,
+earth (planet),
+embers,
+evening,
+explosion,
+fireworks,
+galaxy,
+gradient sky,
+horizon,
+lens flare,
+light particles,
+male focus,
+milky way,
+night,
+night sky,
+no humans,
+planet,
+rating:safe,
+red sky,
+scenery,
+shooting star,
+sky,
+space,
+sparkle,
+sparkle background,
+star (sky),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarycolorscapes,
+subreddit:imaginarystarscapes,
+subreddit:imlandscapes,
+subreddit:immeta,
+sun,
+sunlight,
+sunset,
+title:through the rays of darkness by josef bartoň,
+twilight,
+uploader:lol33ta,

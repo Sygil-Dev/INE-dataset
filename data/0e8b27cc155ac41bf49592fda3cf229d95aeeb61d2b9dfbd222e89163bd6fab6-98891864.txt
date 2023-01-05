@@ -1,32 +1,32 @@
-armor
-battle
-black border
-breathing fire
-burning
-campfire
-candle
-embers
-explosion
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-gun
-letterboxed
-molten rock
-multiple boys
-muzzle flash
-orange sky
-pillarboxed
-rating:safe
-rifle
-subreddit:imaginarywarhammer
-sunset
-sword
-title:battle sister, black and white &amp; colorized by carlos moreno d
-torch
-uploader:gawkhimm
-weapon
-white hair
+armor,
+battle,
+black border,
+breathing fire,
+burning,
+campfire,
+candle,
+embers,
+explosion,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+gun,
+letterboxed,
+molten rock,
+multiple boys,
+muzzle flash,
+orange sky,
+pillarboxed,
+rating:safe,
+rifle,
+subreddit:imaginarywarhammer,
+sunset,
+sword,
+title:battle sister, black and white &amp; colorized by carlos moreno d,
+torch,
+uploader:gawkhimm,
+weapon,
+white hair,

@@ -1,25 +1,25 @@
-2boys
-3boys
-abs
-beard
-black hair
-boots
-buzz cut
-facial hair
-grey background
-helmet
-multiple boys
-muscular
-muscular male
-mustache
-pectorals
-rating:safe
-standing
-subreddit:imaginaryastronauts
-subreddit:imaginarysoldiers
-tattoo
-title:"spacy 2" by pat ventura (pxvxvx)
-toned
-uploader:tacticusthrowaway
-veins
-weapon
+2boys,
+3boys,
+abs,
+beard,
+black hair,
+boots,
+buzz cut,
+facial hair,
+grey background,
+helmet,
+multiple boys,
+muscular,
+muscular male,
+mustache,
+pectorals,
+rating:safe,
+standing,
+subreddit:imaginaryastronauts,
+subreddit:imaginarysoldiers,
+tattoo,
+title:"spacy 2" by pat ventura (pxvxvx),
+toned,
+uploader:tacticusthrowaway,
+veins,
+weapon,

@@ -1,19 +1,19 @@
-1boy
-animal
-armor
-artist name
-beard
-facial hair
-holding
-lion
-male focus
-old
-rating:safe
-realistic
-subreddit:imaginarycharacters
-subreddit:imaginarygiants
-sword
-teeth
-title:divband by soheil danesh
-uploader:killerbunnyfamily
-weapon
+1boy,
+animal,
+armor,
+artist name,
+beard,
+facial hair,
+holding,
+lion,
+male focus,
+old,
+rating:safe,
+realistic,
+subreddit:imaginarycharacters,
+subreddit:imaginarygiants,
+sword,
+teeth,
+title:divband by soheil danesh,
+uploader:killerbunnyfamily,
+weapon,

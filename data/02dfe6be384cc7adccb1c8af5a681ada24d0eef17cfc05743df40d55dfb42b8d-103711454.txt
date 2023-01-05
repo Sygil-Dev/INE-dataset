@@ -1,29 +1,29 @@
-album cover
-artist name
-assault rifle
-bush
-copyright name
-cover
-fire
-forest
-grass
-gun
-heads-up display
-jungle
-lightning
-long hair
-multiple girls
-nature
-outdoors
-overgrown
-rain
-rating:safe
-rifle
-scenery
-subreddit:imaginaryhellscapes
-title:stronghold undead by tomasz jedruszek
-tree
-uploader:lol33ta
-watermark
-weapon
-web address
+album cover,
+artist name,
+assault rifle,
+bush,
+copyright name,
+cover,
+fire,
+forest,
+grass,
+gun,
+heads-up display,
+jungle,
+lightning,
+long hair,
+multiple girls,
+nature,
+outdoors,
+overgrown,
+rain,
+rating:safe,
+rifle,
+scenery,
+subreddit:imaginaryhellscapes,
+title:stronghold undead by tomasz jedruszek,
+tree,
+uploader:lol33ta,
+watermark,
+weapon,
+web address,

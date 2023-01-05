@@ -1,19 +1,19 @@
-battle
-giant
-glowing
-gun
-holding
-holding gun
-holding sword
-holding weapon
-lightning
-mecha
-monster
-rating:safe
-sharp teeth
-shield
-subreddit:imaginarydragons
-sword
-title:ice guardian, by leo
-uploader:miciy5
-weapon
+battle,
+giant,
+glowing,
+gun,
+holding,
+holding gun,
+holding sword,
+holding weapon,
+lightning,
+mecha,
+monster,
+rating:safe,
+sharp teeth,
+shield,
+subreddit:imaginarydragons,
+sword,
+title:ice guardian, by leo,
+uploader:miciy5,
+weapon,

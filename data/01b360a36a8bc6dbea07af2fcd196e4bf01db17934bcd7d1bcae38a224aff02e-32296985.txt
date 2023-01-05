@@ -1,21 +1,21 @@
-1girl
-armor
-blonde hair
-boots
-cape
-creator:eddy-shinjuku
-elf
-green eyes
-long hair
-pointy ears
-ponytail
-rating:safe
-red cape
-rock
-solo
-subreddit:imaginaryassassins
-title:aislinn the rogue - world of warcraft commission
-title:aislinn the rogue by eddy-shinjuku
-torn cape
-uploader:lol33ta
-weapon
+1girl,
+armor,
+blonde hair,
+boots,
+cape,
+creator:eddy-shinjuku,
+elf,
+green eyes,
+long hair,
+pointy ears,
+ponytail,
+rating:safe,
+red cape,
+rock,
+solo,
+subreddit:imaginaryassassins,
+title:aislinn the rogue - world of warcraft commission,
+title:aislinn the rogue by eddy-shinjuku,
+torn cape,
+uploader:lol33ta,
+weapon,

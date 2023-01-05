@@ -1,26 +1,26 @@
-1girl
-building
-bush
-chain-link fence
-city
-city lights
-cityscape
-fence
-ferris wheel
-forest
-grass
-looking at viewer
-nature
-outdoors
-photo background
-rating:safe
-real world location
-river
-scenery
-skyscraper
-solo
-subreddit:imaginarytrees
-title:if you’re over the age of 25 and own a computer
-tokyo (city)
-tree
-uploader:playercircuit
+1girl,
+building,
+bush,
+chain-link fence,
+city,
+city lights,
+cityscape,
+fence,
+ferris wheel,
+forest,
+grass,
+looking at viewer,
+nature,
+outdoors,
+photo background,
+rating:safe,
+real world location,
+river,
+scenery,
+skyscraper,
+solo,
+subreddit:imaginarytrees,
+title:if you’re over the age of 25 and own a computer,
+tokyo (city),
+tree,
+uploader:playercircuit,

@@ -1,26 +1,26 @@
-1boy
-artist name
-beard
-bird
-dated
-facial hair
-fur trim
-lion
-male focus
-mountain
-mustache
-old
-old man
-rating:safe
-solo
-subreddit:characterart
-subreddit:imaginarymythology
-title:odin by kara malikova
-title:odin, by kara malikova
-tree
-uploader:hadrian_marlow
-uploader:ultartx
-water
-weapon
-white hair
-wrinkled skin
+1boy,
+artist name,
+beard,
+bird,
+dated,
+facial hair,
+fur trim,
+lion,
+male focus,
+mountain,
+mustache,
+old,
+old man,
+rating:safe,
+solo,
+subreddit:characterart,
+subreddit:imaginarymythology,
+title:odin by kara malikova,
+title:odin, by kara malikova,
+tree,
+uploader:hadrian_marlow,
+uploader:ultartx,
+water,
+weapon,
+white hair,
+wrinkled skin,

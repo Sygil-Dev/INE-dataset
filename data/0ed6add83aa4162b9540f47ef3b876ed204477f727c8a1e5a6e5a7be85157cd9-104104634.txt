@@ -1,23 +1,23 @@
-blue sky
-building
-car
-city
-cityscape
-cloud
-day
-ground vehicle
-house
-lamppost
-outdoors
-power lines
-rating:safe
-road
-scenery
-signature
-sky
-street
-subreddit:imaginaryvillages
-title:landscape study 2021 by artist jeremy chong
-tree
-uploader:anon_ymou5
-utility pole
+blue sky,
+building,
+car,
+city,
+cityscape,
+cloud,
+day,
+ground vehicle,
+house,
+lamppost,
+outdoors,
+power lines,
+rating:safe,
+road,
+scenery,
+signature,
+sky,
+street,
+subreddit:imaginaryvillages,
+title:landscape study 2021 by artist jeremy chong,
+tree,
+uploader:anon_ymou5,
+utility pole,

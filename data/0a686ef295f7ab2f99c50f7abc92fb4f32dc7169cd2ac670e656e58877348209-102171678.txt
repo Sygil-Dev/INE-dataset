@@ -1,21 +1,21 @@
-architecture
-bookshelf
-bridge
-building
-city
-cityscape
-east asian architecture
-fantasy
-lantern
-library
-multiple girls
-pagoda
-paper lantern
-rating:safe
-scenery
-shop
-stairs
-subreddit:imaginaryfood
-title:"长安十二时辰（the longest day in chang'an)" by polaris workshop
-torii
-uploader:pyro_azer
+architecture,
+bookshelf,
+bridge,
+building,
+city,
+cityscape,
+east asian architecture,
+fantasy,
+lantern,
+library,
+multiple girls,
+pagoda,
+paper lantern,
+rating:safe,
+scenery,
+shop,
+stairs,
+subreddit:imaginaryfood,
+title:"长安十二时辰（the longest day in chang'an)" by polaris workshop,
+torii,
+uploader:pyro_azer,

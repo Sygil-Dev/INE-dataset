@@ -1,29 +1,29 @@
-battle
-breathing fire
-burning
-campfire
-embers
-explosion
-fiery hair
-fiery wings
-fire
-firing
-flame
-flaming sword
-flaming weapon
-glowing
-holding sword
-molten rock
-monster
-no humans
-pyrokinesis
-rating:safe
-smoke
-subreddit:imaginaryelementals
-sword
-tail-tip fire
-teeth
-title:lava elemental by michael katchan
-torch
-uploader:mforce09
-weapon
+battle,
+breathing fire,
+burning,
+campfire,
+embers,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+glowing,
+holding sword,
+molten rock,
+monster,
+no humans,
+pyrokinesis,
+rating:safe,
+smoke,
+subreddit:imaginaryelementals,
+sword,
+tail-tip fire,
+teeth,
+title:lava elemental by michael katchan,
+torch,
+uploader:mforce09,
+weapon,

@@ -1,24 +1,24 @@
-bridge
-bug
-building
-city
-city lights
-cityscape
-destruction
-fire
-flying
-giant
-giantess
-house
-lightning
-monster
-outdoors
-photo background
-rating:safe
-real world location
-road
-ruins
-skyscraper
-subreddit:imaginarymonsters
-title:wittgenstein, monstersinthewild [digital] 2022
-uploader:monstersinthewild
+bridge,
+bug,
+building,
+city,
+city lights,
+cityscape,
+destruction,
+fire,
+flying,
+giant,
+giantess,
+house,
+lightning,
+monster,
+outdoors,
+photo background,
+rating:safe,
+real world location,
+road,
+ruins,
+skyscraper,
+subreddit:imaginarymonsters,
+title:wittgenstein, monstersinthewild [digital] 2022,
+uploader:monstersinthewild,

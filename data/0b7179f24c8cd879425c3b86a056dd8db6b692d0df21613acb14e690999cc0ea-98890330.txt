@@ -1,31 +1,31 @@
-1girl
-angel
-angel wings
-blue eyes
-character:mercy (overwatch)
-dress
-energy sword
-feathered wings
-full body
-glowing
-glowing weapon
-glowing wings
-gradient
-gradient background
-halo
-head wings
-holding
-holding sword
-holding weapon
-mechanical halo
-mechanical wings
-rating:safe
-solo
-standing
-subreddit:imaginaryaetherpunk
-sword
-title:angel by george redreev
-uploader:myrandall
-weapon
-white wings
-wings
+1girl,
+angel,
+angel wings,
+blue eyes,
+character:mercy (overwatch),
+dress,
+energy sword,
+feathered wings,
+full body,
+glowing,
+glowing weapon,
+glowing wings,
+gradient,
+gradient background,
+halo,
+head wings,
+holding,
+holding sword,
+holding weapon,
+mechanical halo,
+mechanical wings,
+rating:safe,
+solo,
+standing,
+subreddit:imaginaryaetherpunk,
+sword,
+title:angel by george redreev,
+uploader:myrandall,
+weapon,
+white wings,
+wings,

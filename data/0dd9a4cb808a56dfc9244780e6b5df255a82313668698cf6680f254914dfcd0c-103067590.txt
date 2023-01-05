@@ -1,20 +1,20 @@
-1girl
-armor
-artist name
-bare tree
-beard
-cape
-facial hair
-forest
-fur trim
-gauntlets
-nature
-old man
-rating:safe
-snow
-standing
-subreddit:imaginarycharacters
-title:reflection by chris knight
-tree
-uploader:one_giant_nostril
-weapon
+1girl,
+armor,
+artist name,
+bare tree,
+beard,
+cape,
+facial hair,
+forest,
+fur trim,
+gauntlets,
+nature,
+old man,
+rating:safe,
+snow,
+standing,
+subreddit:imaginarycharacters,
+title:reflection by chris knight,
+tree,
+uploader:one_giant_nostril,
+weapon,

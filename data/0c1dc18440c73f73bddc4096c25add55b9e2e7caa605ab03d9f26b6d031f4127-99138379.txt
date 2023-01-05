@@ -1,30 +1,30 @@
-1boy
-armor
-beard
-boots
-cape
-cloud
-cloudy sky
-coat
-fire
-flaming sword
-flaming weapon
-fur collar
-fur trim
-gun
-holding gun
-holding weapon
-male focus
-mountain
-outdoors
-rating:safe
-red cape
-rifle
-sheath
-sky
-solo
-subreddit:imaginarymen
-sword
-title:sarkhan, the dragonspeaker by mike "daarken" lim
-uploader:killerbunnyfamily
-weapon
+1boy,
+armor,
+beard,
+boots,
+cape,
+cloud,
+cloudy sky,
+coat,
+fire,
+flaming sword,
+flaming weapon,
+fur collar,
+fur trim,
+gun,
+holding gun,
+holding weapon,
+male focus,
+mountain,
+outdoors,
+rating:safe,
+red cape,
+rifle,
+sheath,
+sky,
+solo,
+subreddit:imaginarymen,
+sword,
+title:sarkhan, the dragonspeaker by mike "daarken" lim,
+uploader:killerbunnyfamily,
+weapon,

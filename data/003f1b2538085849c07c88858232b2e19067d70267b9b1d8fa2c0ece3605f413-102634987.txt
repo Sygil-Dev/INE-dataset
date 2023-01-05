@@ -1,26 +1,26 @@
-1girl
-alien
-black hair
-bush
-field
-fireflies
-grass
-ground vehicle
-night
-night sky
-open mouth
-outdoors
-plant
-rating:safe
-shooting star
-sky
-space
-sparkle
-sparkle background
-star (sky)
-star (symbol)
-starry sky
-subreddit:imaginaryundead
-title:gasha-dokuro by shigeru mizuki
-traditional media
-uploader:jungjungdoesntcare
+1girl,
+alien,
+black hair,
+bush,
+field,
+fireflies,
+grass,
+ground vehicle,
+night,
+night sky,
+open mouth,
+outdoors,
+plant,
+rating:safe,
+shooting star,
+sky,
+space,
+sparkle,
+sparkle background,
+star (sky),
+star (symbol),
+starry sky,
+subreddit:imaginaryundead,
+title:gasha-dokuro by shigeru mizuki,
+traditional media,
+uploader:jungjungdoesntcare,

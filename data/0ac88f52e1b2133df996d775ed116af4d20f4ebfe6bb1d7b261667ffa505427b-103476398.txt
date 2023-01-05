@@ -1,20 +1,20 @@
-brick floor
-brick wall
-dark
-hat
-letterboxed
-pillarboxed
-rating:safe
-silk
-solo
-spider web
-stone floor
-stone wall
-subreddit:imaginaryhumans
-tile floor
-tile wall
-tiles
-title:rough morning by daniel valaisis
-uploader:yannirotten
-wall
-weapon
+brick floor,
+brick wall,
+dark,
+hat,
+letterboxed,
+pillarboxed,
+rating:safe,
+silk,
+solo,
+spider web,
+stone floor,
+stone wall,
+subreddit:imaginaryhumans,
+tile floor,
+tile wall,
+tiles,
+title:rough morning by daniel valaisis,
+uploader:yannirotten,
+wall,
+weapon,

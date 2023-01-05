@@ -1,62 +1,62 @@
-1girl
-2017
-animal
-animal on arm
-bat
-beak
-bird
-bird on head
-bird on shoulder
-bird wings
-black feathers
-black hair
-black wings
-braid
-breathing fire
-brick wall
-brown wings
-burning
-cape
-chain-link fence
-chicken
-copyright name
-crow
-dated
-dove
-dragon
-eagle
-feather hair ornament
-feather trim
-feathered wings
-feathers
-fire
-flame
-flock
-harpy
-hat feather
-molten rock
-native american
-owl
-parrot
-phoenix
-pigeon
-rating:safe
-rooster
-seagull
-silk
-spider web
-spread wings
-stone floor
-subreddit:imaginarywitches
-sun
-sunset
-talons
-tile floor
-tile wall
-tiles
-title:reap, by daniela ivanova
-torch
-uploader:hadrian_marlow
-winged arms
-wings
-year of the rooster
+1girl,
+2017,
+animal,
+animal on arm,
+bat,
+beak,
+bird,
+bird on head,
+bird on shoulder,
+bird wings,
+black feathers,
+black hair,
+black wings,
+braid,
+breathing fire,
+brick wall,
+brown wings,
+burning,
+cape,
+chain-link fence,
+chicken,
+copyright name,
+crow,
+dated,
+dove,
+dragon,
+eagle,
+feather hair ornament,
+feather trim,
+feathered wings,
+feathers,
+fire,
+flame,
+flock,
+harpy,
+hat feather,
+molten rock,
+native american,
+owl,
+parrot,
+phoenix,
+pigeon,
+rating:safe,
+rooster,
+seagull,
+silk,
+spider web,
+spread wings,
+stone floor,
+subreddit:imaginarywitches,
+sun,
+sunset,
+talons,
+tile floor,
+tile wall,
+tiles,
+title:reap, by daniela ivanova,
+torch,
+uploader:hadrian_marlow,
+winged arms,
+wings,
+year of the rooster,

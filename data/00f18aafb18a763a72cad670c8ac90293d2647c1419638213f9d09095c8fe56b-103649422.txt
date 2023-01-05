@@ -1,31 +1,31 @@
-architecture
-balcony
-blue sky
-bookshelf
-building
-cat
-city
-cityscape
-cloud
-couch
-day
-east asian architecture
-garden
-house
-indoors
-no humans
-plant
-potted plant
-railing
-rating:safe
-scenery
-sky
-skyscraper
-sliding doors
-subreddit:imaginarycityscapes
-table
-tatami
-title:a languid afternoon by taehoon kang
-tree
-uploader:dancing_cthulhu
-window
+architecture,
+balcony,
+blue sky,
+bookshelf,
+building,
+cat,
+city,
+cityscape,
+cloud,
+couch,
+day,
+east asian architecture,
+garden,
+house,
+indoors,
+no humans,
+plant,
+potted plant,
+railing,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+sliding doors,
+subreddit:imaginarycityscapes,
+table,
+tatami,
+title:a languid afternoon by taehoon kang,
+tree,
+uploader:dancing_cthulhu,
+window,

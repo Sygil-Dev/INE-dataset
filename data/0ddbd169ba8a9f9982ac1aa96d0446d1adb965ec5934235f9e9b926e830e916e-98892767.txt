@@ -1,20 +1,20 @@
-cloud
-cloudy sky
-fire
-forest
-mountain
-mountainous horizon
-nature
-night
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginaryruins
-sunset
-title:forgotten crypt by andreas rocha
-tree
-uploader:[deleted]
-water
+cloud,
+cloudy sky,
+fire,
+forest,
+mountain,
+mountainous horizon,
+nature,
+night,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginaryruins,
+sunset,
+title:forgotten crypt by andreas rocha,
+tree,
+uploader:[deleted],
+water,

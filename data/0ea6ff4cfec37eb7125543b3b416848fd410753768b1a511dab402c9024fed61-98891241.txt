@@ -1,24 +1,24 @@
-1girl
-animal
-beach
-boat
-horizon
-japanese clothes
-kimono
-lake
-ocean
-rating:safe
-red kimono
-ripples
-river
-shore
-solo
-standing on liquid
-subreddit:imaginarypolice
-title:"royal canadian mounted police -- the rescue" by george william gage (1887-1957)
-uploader:yannirotten
-wading
-walking on liquid
-water
-watercraft
-waves
+1girl,
+animal,
+beach,
+boat,
+horizon,
+japanese clothes,
+kimono,
+lake,
+ocean,
+rating:safe,
+red kimono,
+ripples,
+river,
+shore,
+solo,
+standing on liquid,
+subreddit:imaginarypolice,
+title:"royal canadian mounted police -- the rescue" by george william gage (1887-1957),
+uploader:yannirotten,
+wading,
+walking on liquid,
+water,
+watercraft,
+waves,

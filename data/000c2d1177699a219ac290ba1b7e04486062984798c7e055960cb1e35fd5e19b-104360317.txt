@@ -1,43 +1,43 @@
-basketball
-bat
-broken chain
-candy
-castle
-chain
-chained
-cuffs
-flail
-ghost
-ghost costume
-glowing
-glowing eyes
-graveyard
-halloween
-halloween bucket
-halloween costume
-happy halloween
-hat
-holding vegetable
-jack-o'-lantern
-lantern
-light particles
-moon
-mummy
-night
-night sky
-no humans
-pumpkin
-pumpkin hair ornament
-pumpkin hat
-rating:safe
-shackles
-skeleton
-skull
-spikes
-star (sky)
-subreddit:imaginarywarhammer
-title:the pyre chaos spacemarine, mikhail kafidov
-tombstone
-trick or treat
-uploader:miciy5
-witch hat
+basketball,
+bat,
+broken chain,
+candy,
+castle,
+chain,
+chained,
+cuffs,
+flail,
+ghost,
+ghost costume,
+glowing,
+glowing eyes,
+graveyard,
+halloween,
+halloween bucket,
+halloween costume,
+happy halloween,
+hat,
+holding vegetable,
+jack-o'-lantern,
+lantern,
+light particles,
+moon,
+mummy,
+night,
+night sky,
+no humans,
+pumpkin,
+pumpkin hair ornament,
+pumpkin hat,
+rating:safe,
+shackles,
+skeleton,
+skull,
+spikes,
+star (sky),
+subreddit:imaginarywarhammer,
+title:the pyre chaos spacemarine, mikhail kafidov,
+tombstone,
+trick or treat,
+uploader:miciy5,
+witch hat,

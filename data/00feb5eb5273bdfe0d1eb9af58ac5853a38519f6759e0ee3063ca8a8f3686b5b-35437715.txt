@@ -1,27 +1,27 @@
-1girl
-armor
-arrow (projectile)
-blue eyes
-bow (weapon)
-card game
-cloud
-creator:hoang lap (solan)
-creator:hoàng lập (solan)
-game art
-holding
-holding weapon
-illustration
-long hair
-medium:digital 2d
-midriff
-mountain
-polearm
-rating:safe
-sky
-solo
-subreddit:imaginaryarchers
-thighhighs
-title:tutehlla
-title:tutehlla by hoàng lập (solan)
-uploader:malign-god
-weapon
+1girl,
+armor,
+arrow (projectile),
+blue eyes,
+bow (weapon),
+card game,
+cloud,
+creator:hoang lap (solan),
+creator:hoàng lập (solan),
+game art,
+holding,
+holding weapon,
+illustration,
+long hair,
+medium:digital 2d,
+midriff,
+mountain,
+polearm,
+rating:safe,
+sky,
+solo,
+subreddit:imaginaryarchers,
+thighhighs,
+title:tutehlla,
+title:tutehlla by hoàng lập (solan),
+uploader:malign-god,
+weapon,

@@ -1,26 +1,26 @@
-1girl
-action
-black hair
-blurry
-blurry foreground
-burning
-campfire
-depth of field
-embers
-explosion
-fire
-firing
-flame
-gun
-military
-military uniform
-muzzle flash
-pouch
-rating:safe
-short hair
-solo
-subreddit:imaginaryexplosions
-sunset
-title:imperial demolitionist by dao trong le
-uniform
-uploader:myrandall
+1girl,
+action,
+black hair,
+blurry,
+blurry foreground,
+burning,
+campfire,
+depth of field,
+embers,
+explosion,
+fire,
+firing,
+flame,
+gun,
+military,
+military uniform,
+muzzle flash,
+pouch,
+rating:safe,
+short hair,
+solo,
+subreddit:imaginaryexplosions,
+sunset,
+title:imperial demolitionist by dao trong le,
+uniform,
+uploader:myrandall,

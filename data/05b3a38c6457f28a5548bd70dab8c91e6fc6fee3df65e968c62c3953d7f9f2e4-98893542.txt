@@ -1,23 +1,23 @@
-building
-city
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-mountain
-no humans
-orange sky
-outdoors
-pokemon (creature)
-purple sky
-rating:safe
-scenery
-sky
-subreddit:imaginarycolorscapes
-subreddit:imaginarytemples
-sunset
-title:temple of the sun, hue teo
-twilight
-uploader:miciy5
+building,
+city,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+mountain,
+no humans,
+orange sky,
+outdoors,
+pokemon (creature),
+purple sky,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarycolorscapes,
+subreddit:imaginarytemples,
+sunset,
+title:temple of the sun, hue teo,
+twilight,
+uploader:miciy5,

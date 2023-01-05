@@ -1,53 +1,53 @@
-1girl
-argyle
-argyle background
-bathroom
-bathtub
-brick
-brick floor
-brick wall
-candle
-ceiling
-chain-link fence
-checkered
-checkered background
-checkered floor
-closed eyes
-cooking
-fence
-fire
-fireplace
-flame
-frying pan
-green headwear
-hat
-hexagon
-honeycomb (pattern)
-honeycomb background
-indoors
-kitchen
-map
-molten rock
-orange background
-orange sky
-plaid background
-pot
-rating:safe
-rooftop
-silk
-smile
-smoke
-spider web
-steam
-stone floor
-stone wall
-stove
-subreddit:imaginarysliceoflife
-sunset
-tile floor
-tile wall
-tiles
-title:"a witch's respite" by me
-torch
-uploader:jaehjlee
-wall
+1girl,
+argyle,
+argyle background,
+bathroom,
+bathtub,
+brick,
+brick floor,
+brick wall,
+candle,
+ceiling,
+chain-link fence,
+checkered,
+checkered background,
+checkered floor,
+closed eyes,
+cooking,
+fence,
+fire,
+fireplace,
+flame,
+frying pan,
+green headwear,
+hat,
+hexagon,
+honeycomb (pattern),
+honeycomb background,
+indoors,
+kitchen,
+map,
+molten rock,
+orange background,
+orange sky,
+plaid background,
+pot,
+rating:safe,
+rooftop,
+silk,
+smile,
+smoke,
+spider web,
+steam,
+stone floor,
+stone wall,
+stove,
+subreddit:imaginarysliceoflife,
+sunset,
+tile floor,
+tile wall,
+tiles,
+title:"a witch's respite" by me,
+torch,
+uploader:jaehjlee,
+wall,

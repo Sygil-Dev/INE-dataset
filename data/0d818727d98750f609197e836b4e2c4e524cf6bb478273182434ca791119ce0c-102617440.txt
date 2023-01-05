@@ -1,20 +1,20 @@
-air bubble
-artist name
-blurry
-blurry background
-blurry foreground
-bubble
-depth of field
-flower
-grass
-no humans
-open mouth
-outdoors
-plant
-rating:safe
-signature
-subreddit:adorabledragons
-sunlight
-title:the friend on a rainy day by サトユキ
-underwater
-uploader:ultartx
+air bubble,
+artist name,
+blurry,
+blurry background,
+blurry foreground,
+bubble,
+depth of field,
+flower,
+grass,
+no humans,
+open mouth,
+outdoors,
+plant,
+rating:safe,
+signature,
+subreddit:adorabledragons,
+sunlight,
+title:the friend on a rainy day by サトユキ,
+underwater,
+uploader:ultartx,

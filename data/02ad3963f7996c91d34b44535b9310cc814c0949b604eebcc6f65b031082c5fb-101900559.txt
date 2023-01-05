@@ -1,24 +1,24 @@
-architecture
-blue sky
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-mountain
-no humans
-ocean
-outdoors
-rating:safe
-scenery
-sky
-skyscraper
-subreddit:imaginarywastelands
-sunset
-title:the stronghold of red flame gang by mark li
-tower
-uploader:dancing_cthulhu
-watercraft
+architecture,
+blue sky,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+mountain,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarywastelands,
+sunset,
+title:the stronghold of red flame gang by mark li,
+tower,
+uploader:dancing_cthulhu,
+watercraft,

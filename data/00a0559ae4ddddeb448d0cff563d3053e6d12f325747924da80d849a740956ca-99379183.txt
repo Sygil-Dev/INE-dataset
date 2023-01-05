@@ -1,29 +1,29 @@
-bat
-battle
-bird
-breathing fire
-burning
-cloud
-cloudy sky
-demon wings
-dragon
-dragon wings
-embers
-explosion
-fire
-flame
-flying
-lightning
-molten rock
-mountain
-no humans
-outdoors
-rating:safe
-sky
-subreddit:badassdragons
-sunset
-title:tales of elysian by nicolas peña amisgaudi
-torch
-twilight
-uploader:lol33ta
-wings
+bat,
+battle,
+bird,
+breathing fire,
+burning,
+cloud,
+cloudy sky,
+demon wings,
+dragon,
+dragon wings,
+embers,
+explosion,
+fire,
+flame,
+flying,
+lightning,
+molten rock,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+sky,
+subreddit:badassdragons,
+sunset,
+title:tales of elysian by nicolas peña amisgaudi,
+torch,
+twilight,
+uploader:lol33ta,
+wings,

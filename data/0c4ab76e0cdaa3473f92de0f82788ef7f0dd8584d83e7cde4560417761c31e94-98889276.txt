@@ -1,39 +1,39 @@
-animal
-beach umbrella
-black umbrella
-blue umbrella
-bus stop
-cloudy sky
-grey sky
-holding
-holding umbrella
-hydrangea
-leaf
-leaf umbrella
-no humans
-oil-paper umbrella
-outdoors
-parasol
-pink umbrella
-puddle
-rain
-raincoat
-rating:safe
-red umbrella
-rubber boots
-shared umbrella
-signature
-snail
-storm
-subreddit:imaginaryaww
-subreddit:imaginaryweather
-title:the friendly elephant by suzette barbara knappe
-transparent
-transparent umbrella
-umbrella
-uploader:lol33ta
-water drop
-wet
-wet clothes
-white umbrella
-yellow raincoat
+animal,
+beach umbrella,
+black umbrella,
+blue umbrella,
+bus stop,
+cloudy sky,
+grey sky,
+holding,
+holding umbrella,
+hydrangea,
+leaf,
+leaf umbrella,
+no humans,
+oil-paper umbrella,
+outdoors,
+parasol,
+pink umbrella,
+puddle,
+rain,
+raincoat,
+rating:safe,
+red umbrella,
+rubber boots,
+shared umbrella,
+signature,
+snail,
+storm,
+subreddit:imaginaryaww,
+subreddit:imaginaryweather,
+title:the friendly elephant by suzette barbara knappe,
+transparent,
+transparent umbrella,
+umbrella,
+uploader:lol33ta,
+water drop,
+wet,
+wet clothes,
+white umbrella,
+yellow raincoat,

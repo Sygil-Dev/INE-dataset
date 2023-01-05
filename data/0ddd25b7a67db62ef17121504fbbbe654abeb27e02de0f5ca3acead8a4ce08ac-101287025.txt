@@ -1,32 +1,32 @@
-1girl
-armor
-black hair
-boots
-breastplate
-full body
-grey background
-headwear removed
-helmet
-helmet removed
-holding
-holding helmet
-holding shield
-holding sword
-holding weapon
-knight
-long hair
-pauldrons
-rating:safe
-scabbard
-sheath
-shield
-shoulder armor
-solo
-standing
-subreddit:imaginaryarmor
-subreddit:imaginaryknights
-subreddit:imaginarywarriors
-sword
-title:"221018" - sone tomoki (sonech)
-uploader:tacticusthrowaway
-weapon
+1girl,
+armor,
+black hair,
+boots,
+breastplate,
+full body,
+grey background,
+headwear removed,
+helmet,
+helmet removed,
+holding,
+holding helmet,
+holding shield,
+holding sword,
+holding weapon,
+knight,
+long hair,
+pauldrons,
+rating:safe,
+scabbard,
+sheath,
+shield,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imaginaryknights,
+subreddit:imaginarywarriors,
+sword,
+title:"221018" - sone tomoki (sonech),
+uploader:tacticusthrowaway,
+weapon,

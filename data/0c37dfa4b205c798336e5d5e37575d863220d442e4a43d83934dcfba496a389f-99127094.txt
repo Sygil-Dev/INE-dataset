@@ -1,23 +1,23 @@
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-horizon
-mountain
-mountainous horizon
-orange sky
-outdoors
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginarytowers
-sun
-sunset
-title:outrider - water collectors by thomas du crest
-tree
-twilight
-uploader:myrandall
-water
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+horizon,
+mountain,
+mountainous horizon,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginarytowers,
+sun,
+sunset,
+title:outrider - water collectors by thomas du crest,
+tree,
+twilight,
+uploader:myrandall,
+water,

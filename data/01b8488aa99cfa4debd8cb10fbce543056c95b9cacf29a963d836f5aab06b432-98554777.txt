@@ -1,27 +1,27 @@
-aircraft
-airplane
-bird
-cloud
-cloudy sky
-dusk
-evening
-flock
-gradient sky
-horizon
-mountain
-ocean
-orange sky
-outdoors
-purple sky
-rating:safe
-red sky
-scenery
-seagull
-sky
-subreddit:imaginaryskyscapes
-subreddit:imaginaryvehicles
-sunset
-title:skyships by cristian alberto vasquez
-twilight
-uploader:tabulaerrata
-watercraft
+aircraft,
+airplane,
+bird,
+cloud,
+cloudy sky,
+dusk,
+evening,
+flock,
+gradient sky,
+horizon,
+mountain,
+ocean,
+orange sky,
+outdoors,
+purple sky,
+rating:safe,
+red sky,
+scenery,
+seagull,
+sky,
+subreddit:imaginaryskyscapes,
+subreddit:imaginaryvehicles,
+sunset,
+title:skyships by cristian alberto vasquez,
+twilight,
+uploader:tabulaerrata,
+watercraft,

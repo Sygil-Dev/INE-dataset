@@ -1,46 +1,46 @@
-1girl
-antlers
-aurora
-bell
-black hair
-christmas
-christmas lights
-christmas ornaments
-christmas tree
-colored skin
-constellation
-curtains
-fireworks
-full moon
-galaxy
-gift
-glowing
-holly
-indoors
-light particles
-merry christmas
-milky way
-moon
-moonlight
-night
-night sky
-rating:safe
-reindeer
-reindeer antlers
-santa costume
-santa hat
-shooting star
-sky
-snow
-snowing
-space
-star (sky)
-star (symbol)
-starry sky
-starry sky print
-subreddit:imaginarylovers
-title:happy birthday love by samantha germaine
-uploader:lol33ta
-window
-wreath
-yuri
+1girl,
+antlers,
+aurora,
+bell,
+black hair,
+christmas,
+christmas lights,
+christmas ornaments,
+christmas tree,
+colored skin,
+constellation,
+curtains,
+fireworks,
+full moon,
+galaxy,
+gift,
+glowing,
+holly,
+indoors,
+light particles,
+merry christmas,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+rating:safe,
+reindeer,
+reindeer antlers,
+santa costume,
+santa hat,
+shooting star,
+sky,
+snow,
+snowing,
+space,
+star (sky),
+star (symbol),
+starry sky,
+starry sky print,
+subreddit:imaginarylovers,
+title:happy birthday love by samantha germaine,
+uploader:lol33ta,
+window,
+wreath,
+yuri,

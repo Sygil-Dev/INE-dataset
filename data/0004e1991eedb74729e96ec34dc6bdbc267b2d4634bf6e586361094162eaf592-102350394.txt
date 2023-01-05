@@ -1,59 +1,59 @@
-aurora
-building
-campfire
-city
-city lights
-cityscape
-cloud
-constellation
-crescent moon
-desert
-dusk
-earth (planet)
-evening
-fireworks
-full moon
-galaxy
-gradient
-gradient sky
-halftone
-light particles
-milky way
-moon
-moonlight
-mountainous horizon
-night
-night sky
-orange sky
-outdoors
-planet
-purple sky
-purple theme
-rating:safe
-red moon
-red sky
-rocket
-shooting star
-sky
-skyline
-skyscraper
-smoke
-snowing
-solo
-space
-space craft
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarycharacters
-sunset
-tanabata
-tanzaku
-telescope
-title:a gunslinger named slim (oc)
-tree
-twilight
-ufo
-uploader:acrobatic_spare3537
+aurora,
+building,
+campfire,
+city,
+city lights,
+cityscape,
+cloud,
+constellation,
+crescent moon,
+desert,
+dusk,
+earth (planet),
+evening,
+fireworks,
+full moon,
+galaxy,
+gradient,
+gradient sky,
+halftone,
+light particles,
+milky way,
+moon,
+moonlight,
+mountainous horizon,
+night,
+night sky,
+orange sky,
+outdoors,
+planet,
+purple sky,
+purple theme,
+rating:safe,
+red moon,
+red sky,
+rocket,
+shooting star,
+sky,
+skyline,
+skyscraper,
+smoke,
+snowing,
+solo,
+space,
+space craft,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarycharacters,
+sunset,
+tanabata,
+tanzaku,
+telescope,
+title:a gunslinger named slim (oc),
+tree,
+twilight,
+ufo,
+uploader:acrobatic_spare3537,

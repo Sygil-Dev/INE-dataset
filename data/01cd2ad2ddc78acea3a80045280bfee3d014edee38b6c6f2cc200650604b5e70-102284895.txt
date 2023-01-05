@@ -1,32 +1,32 @@
-1boy
-1girl
-black hair
-bleeding
-blood
-blood from eyes
-blood from mouth
-blood on clothes
-blood on face
-blood on hands
-blood on knife
-blood on weapon
-blood splatter
-blood stain
-blurry
-blurry background
-blurry foreground
-cuts
-depth of field
-injury
-jewelry
-male focus
-motion blur
-nosebleed
-rating:safe
-red eyes
-scar
-short hair
-solo
-subreddit:imaginarycharacters
-title:(color sketch) high noon
-uploader:superchargedcristina
+1boy,
+1girl,
+black hair,
+bleeding,
+blood,
+blood from eyes,
+blood from mouth,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on knife,
+blood on weapon,
+blood splatter,
+blood stain,
+blurry,
+blurry background,
+blurry foreground,
+cuts,
+depth of field,
+injury,
+jewelry,
+male focus,
+motion blur,
+nosebleed,
+rating:safe,
+red eyes,
+scar,
+short hair,
+solo,
+subreddit:imaginarycharacters,
+title:(color sketch) high noon,
+uploader:superchargedcristina,

@@ -1,18 +1,18 @@
-armor
-artist name
-gauntlets
-holding
-holding sword
-holding weapon
-pauldrons
-rating:safe
-shoulder armor
-solo
-standing
-subreddit:imaginaryarmor
-subreddit:imaginaryhorrors
-sword
-title:thane "the scourge" warrik, by me. wearing his swamp armor.
-title:thane "the scourge" warrik, original slasher design by me.
-uploader:obsid13n
-weapon
+armor,
+artist name,
+gauntlets,
+holding,
+holding sword,
+holding weapon,
+pauldrons,
+rating:safe,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imaginaryhorrors,
+sword,
+title:thane "the scourge" warrik, by me. wearing his swamp armor.,
+title:thane "the scourge" warrik, original slasher design by me.,
+uploader:obsid13n,
+weapon,

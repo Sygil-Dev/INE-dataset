@@ -1,30 +1,30 @@
-aurora
-bare tree
-bird
-city lights
-cloud
-galaxy
-milky way
-moon
-mountain
-mountainous horizon
-night
-night sky
-no humans
-outdoors
-palm tree
-pine tree
-rating:safe
-scenery
-shooting star
-sky
-snow
-snowing
-star (sky)
-starry sky
-subreddit:imaginarycastles
-tanabata
-title:winter castle by ann ann
-tree
-uploader:lol33ta
-winter
+aurora,
+bare tree,
+bird,
+city lights,
+cloud,
+galaxy,
+milky way,
+moon,
+mountain,
+mountainous horizon,
+night,
+night sky,
+no humans,
+outdoors,
+palm tree,
+pine tree,
+rating:safe,
+scenery,
+shooting star,
+sky,
+snow,
+snowing,
+star (sky),
+starry sky,
+subreddit:imaginarycastles,
+tanabata,
+title:winter castle by ann ann,
+tree,
+uploader:lol33ta,
+winter,

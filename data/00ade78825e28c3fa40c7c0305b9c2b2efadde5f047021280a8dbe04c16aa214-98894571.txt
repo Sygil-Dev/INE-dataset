@@ -1,21 +1,21 @@
-architecture
-bridge
-building
-castle
-city
-cloud
-cloudy sky
-grass
-mountain
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginaryruins
-sunset
-title:church by snow gao
-tower
-tree
-uploader:malilaks
-water
+architecture,
+bridge,
+building,
+castle,
+city,
+cloud,
+cloudy sky,
+grass,
+mountain,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginaryruins,
+sunset,
+title:church by snow gao,
+tower,
+tree,
+uploader:malilaks,
+water,

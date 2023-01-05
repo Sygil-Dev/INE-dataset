@@ -1,20 +1,20 @@
-1girl
-armor
-beard
-cape
-dagger
-gloves
-glowing
-green eyes
-green hair
-knife
-long hair
-multiple boys
-rating:safe
-skull
-subreddit:imaginaryundead
-sword
-title:necromancer by pablo fernandez
-tree
-uploader:barson2408
-weapon
+1girl,
+armor,
+beard,
+cape,
+dagger,
+gloves,
+glowing,
+green eyes,
+green hair,
+knife,
+long hair,
+multiple boys,
+rating:safe,
+skull,
+subreddit:imaginaryundead,
+sword,
+title:necromancer by pablo fernandez,
+tree,
+uploader:barson2408,
+weapon,

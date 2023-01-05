@@ -1,46 +1,46 @@
-american flag
-artist name
-astronaut
-aurora
-boots
-campfire
-cape
-constellation
-crescent moon
-desert
-earth (planet)
-fireflies
-full moon
-galaxy
-hat
-house
-lantern
-light particles
-male focus
-milky way
-moon
-moonlight
-night
-night sky
-outdoors
-planet
-rating:safe
-red moon
-reindeer
-rocket
-sack
-shooting star
-signature
-sky
-snowing
-solo
-space
-star (sky)
-star (symbol)
-starry sky
-starry sky print
-subreddit:imaginarygnomes
-telescope
-title:xmas 2021 by jarkko 'jakke' vanhalakka
-uploader:yannirotten
-witch hat
+american flag,
+artist name,
+astronaut,
+aurora,
+boots,
+campfire,
+cape,
+constellation,
+crescent moon,
+desert,
+earth (planet),
+fireflies,
+full moon,
+galaxy,
+hat,
+house,
+lantern,
+light particles,
+male focus,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+outdoors,
+planet,
+rating:safe,
+red moon,
+reindeer,
+rocket,
+sack,
+shooting star,
+signature,
+sky,
+snowing,
+solo,
+space,
+star (sky),
+star (symbol),
+starry sky,
+starry sky print,
+subreddit:imaginarygnomes,
+telescope,
+title:xmas 2021 by jarkko 'jakke' vanhalakka,
+uploader:yannirotten,
+witch hat,

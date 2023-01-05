@@ -1,23 +1,23 @@
-animal
-bird
-bug
-butterfly
-deer
-dragon
-facing away
-fantasy
-flock
-long hair
-mountain
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarydwellings
-subreddit:imaginaryseascapes
-sword
-title:azure cove by wildweasel339/lane brown
-tree
-uploader:chalkchick0
-water
-weapon
+animal,
+bird,
+bug,
+butterfly,
+deer,
+dragon,
+facing away,
+fantasy,
+flock,
+long hair,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarydwellings,
+subreddit:imaginaryseascapes,
+sword,
+title:azure cove by wildweasel339/lane brown,
+tree,
+uploader:chalkchick0,
+water,
+weapon,

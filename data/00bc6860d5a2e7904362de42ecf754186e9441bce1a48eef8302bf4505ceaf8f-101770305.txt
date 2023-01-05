@@ -1,23 +1,23 @@
-aircraft
-battle
-burning
-explosion
-fire
-firing
-gun
-helicopter
-long hair
-mecha
-military vehicle
-missile
-multiple boys
-multiple girls
-muzzle flash
-rating:safe
-realistic
-rifle
-subreddit:imaginarybattlefields
-subreddit:imaginaryjedi
-title:republic 501st battle force, alex kim
-uploader:miciy5
-weapon
+aircraft,
+battle,
+burning,
+explosion,
+fire,
+firing,
+gun,
+helicopter,
+long hair,
+mecha,
+military vehicle,
+missile,
+multiple boys,
+multiple girls,
+muzzle flash,
+rating:safe,
+realistic,
+rifle,
+subreddit:imaginarybattlefields,
+subreddit:imaginaryjedi,
+title:republic 501st battle force, alex kim,
+uploader:miciy5,
+weapon,

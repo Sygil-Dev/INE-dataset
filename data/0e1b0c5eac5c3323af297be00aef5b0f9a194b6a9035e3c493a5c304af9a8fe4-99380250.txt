@@ -1,23 +1,23 @@
-arm cannon
-breathing fire
-burning
-embers
-explosion
-fire
-firing
-flame
-glowing
-green eyes
-gun
-mecha
-rating:safe
-science fiction
-smoke
-solo
-space
-sparks
-star (sky)
-subreddit:imaginarymechs
-title:[oc] metabee is ready for robattle! (medarot fanart)
-uploader:guekoo
-weapon
+arm cannon,
+breathing fire,
+burning,
+embers,
+explosion,
+fire,
+firing,
+flame,
+glowing,
+green eyes,
+gun,
+mecha,
+rating:safe,
+science fiction,
+smoke,
+solo,
+space,
+sparks,
+star (sky),
+subreddit:imaginarymechs,
+title:[oc] metabee is ready for robattle! (medarot fanart),
+uploader:guekoo,
+weapon,

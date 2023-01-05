@@ -1,20 +1,20 @@
-1girl
-acrylic paint (medium)
-black hair
-book
-bookshelf
-curtains
-holding book
-library
-open book
-painting (medium)
-rating:safe
-reading
-sitting
-solo
-subreddit:imaginaryscholars
-title:scholarly type by akitku
-traditional media
-uploader:lol33ta
-watercolor (medium)
-window
+1girl,
+acrylic paint (medium),
+black hair,
+book,
+bookshelf,
+curtains,
+holding book,
+library,
+open book,
+painting (medium),
+rating:safe,
+reading,
+sitting,
+solo,
+subreddit:imaginaryscholars,
+title:scholarly type by akitku,
+traditional media,
+uploader:lol33ta,
+watercolor (medium),
+window,

@@ -1,46 +1,46 @@
-1girl
-armor
-blade
-card
-ccgart
-cloud
-cloudy sky
-copyright name
-creator:wisnu tan
-darkelf
-digitalart
-drawing
-dusk
-elf
-evening
-gameart
-gauntlets
-genre:fantasy
-gothic
-illustration
-loc
-long hair
-mountain
-orange sky
-outdoors
-pointy ears
-prince
-purple sky
-rating:safe
-red
-red sky
-sitting
-sky
-smoke
-solo
-subreddit:imaginaryelves
-sunset
-sword
-title:d'vert of the nosambre
-title:d'vert of the nosambre, wisnu tan
-twilight
-uploader:miciy5
-warrior
-weapon
-white hair
-wisnutan
+1girl,
+armor,
+blade,
+card,
+ccgart,
+cloud,
+cloudy sky,
+copyright name,
+creator:wisnu tan,
+darkelf,
+digitalart,
+drawing,
+dusk,
+elf,
+evening,
+gameart,
+gauntlets,
+genre:fantasy,
+gothic,
+illustration,
+loc,
+long hair,
+mountain,
+orange sky,
+outdoors,
+pointy ears,
+prince,
+purple sky,
+rating:safe,
+red,
+red sky,
+sitting,
+sky,
+smoke,
+solo,
+subreddit:imaginaryelves,
+sunset,
+sword,
+title:d'vert of the nosambre,
+title:d'vert of the nosambre, wisnu tan,
+twilight,
+uploader:miciy5,
+warrior,
+weapon,
+white hair,
+wisnutan,

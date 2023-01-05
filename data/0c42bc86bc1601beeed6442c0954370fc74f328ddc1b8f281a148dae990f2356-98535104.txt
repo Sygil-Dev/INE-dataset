@@ -1,32 +1,32 @@
-bridge
-building
-city
-city lights
-cityscape
-cloud
-fireworks
-full moon
-galaxy
-lamppost
-lens flare
-milky way
-moon
-night
-night sky
-no humans
-outdoors
-rating:safe
-reflection
-road
-scenery
-shooting star
-sky
-skyline
-skyscraper
-snowing
-star (sky)
-starry sky
-subreddit:imaginarybestof
-title:[/r/imaginarycityscapes] red sunset by alizée zucconi
-tower
-uploader:lol33ta
+bridge,
+building,
+city,
+city lights,
+cityscape,
+cloud,
+fireworks,
+full moon,
+galaxy,
+lamppost,
+lens flare,
+milky way,
+moon,
+night,
+night sky,
+no humans,
+outdoors,
+rating:safe,
+reflection,
+road,
+scenery,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snowing,
+star (sky),
+starry sky,
+subreddit:imaginarybestof,
+title:[/r/imaginarycityscapes] red sunset by alizée zucconi,
+tower,
+uploader:lol33ta,

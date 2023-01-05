@@ -1,21 +1,21 @@
-burger
-cheese
-close-up
-egg
-food
-food focus
-fried egg
-lettuce
-meat
-pizza
-plate
-rating:safe
-rice
-salad
-sandwich
-simple background
-subreddit:imaginaryfood
-title:"oodles of ham sandwich '
-tomato
-uploader:bitternessweet
-white background
+burger,
+cheese,
+close-up,
+egg,
+food,
+food focus,
+fried egg,
+lettuce,
+meat,
+pizza,
+plate,
+rating:safe,
+rice,
+salad,
+sandwich,
+simple background,
+subreddit:imaginaryfood,
+title:"oodles of ham sandwich ',
+tomato,
+uploader:bitternessweet,
+white background,

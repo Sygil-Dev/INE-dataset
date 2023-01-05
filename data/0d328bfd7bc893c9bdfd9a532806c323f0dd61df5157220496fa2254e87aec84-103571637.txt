@@ -1,19 +1,19 @@
-breathing fire
-burning
-campfire
-embers
-explosion
-fire
-flame
-giant
-hat
-molten rock
-monster
-rating:safe
-subreddit:imaginaryhybrids
-subreddit:imaginarypirates
-subreddit:imaginarywizards
-title:dragonborn sea warlock by bruno cesar
-torch
-uploader:myrandall
-weapon
+breathing fire,
+burning,
+campfire,
+embers,
+explosion,
+fire,
+flame,
+giant,
+hat,
+molten rock,
+monster,
+rating:safe,
+subreddit:imaginaryhybrids,
+subreddit:imaginarypirates,
+subreddit:imaginarywizards,
+title:dragonborn sea warlock by bruno cesar,
+torch,
+uploader:myrandall,
+weapon,

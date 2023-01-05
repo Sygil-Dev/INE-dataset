@@ -1,26 +1,26 @@
-1girl
-animal ears
-bare shoulders
-book
-breasts
-cleavage
-gender:female
-gradient
-gradient background
-greyscale
-hat
-holding
-holding book
-long hair
-monochrome
-open book
-open mouth
-pointing
-rating:safe
-reading
-signature
-solo
-subreddit:imaginarywitches
-title:witchtember drawing - "cat"
-uploader:alilsalami
-witch hat
+1girl,
+animal ears,
+bare shoulders,
+book,
+breasts,
+cleavage,
+gender:female,
+gradient,
+gradient background,
+greyscale,
+hat,
+holding,
+holding book,
+long hair,
+monochrome,
+open book,
+open mouth,
+pointing,
+rating:safe,
+reading,
+signature,
+solo,
+subreddit:imaginarywitches,
+title:witchtember drawing - "cat",
+uploader:alilsalami,
+witch hat,

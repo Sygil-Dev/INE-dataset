@@ -1,27 +1,27 @@
-beach
-category:ine
-cloud
-coat
-desert
-evening
-gun
-holding
-holding gun
-horizon
-orange sky
-outdoors
-rating:safe
-rifle
-sand
-science fiction
-signature
-sky
-solo
-subreddit:imaginarybestof
-sun
-sunset
-title:[/r/imaginarybehemoths] dune by pascal blanché
-twilight
-uploader:lol33ta
-weapon
-yellow sky
+beach,
+category:ine,
+cloud,
+coat,
+desert,
+evening,
+gun,
+holding,
+holding gun,
+horizon,
+orange sky,
+outdoors,
+rating:safe,
+rifle,
+sand,
+science fiction,
+signature,
+sky,
+solo,
+subreddit:imaginarybestof,
+sun,
+sunset,
+title:[/r/imaginarybehemoths] dune by pascal blanché,
+twilight,
+uploader:lol33ta,
+weapon,
+yellow sky,

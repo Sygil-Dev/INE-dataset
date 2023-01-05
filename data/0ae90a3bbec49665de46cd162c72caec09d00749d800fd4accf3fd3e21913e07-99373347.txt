@@ -1,31 +1,31 @@
-autumn
-bush
-cloud
-cloudy sky
-evening
-forest
-gradient sky
-grass
-horizon
-lake
-mountain
-mountainous horizon
-nature
-no humans
-orange sky
-outdoors
-path
-purple sky
-rating:safe
-red sky
-road
-scenery
-sky
-star (sky)
-subreddit:imaginarycolorscapes
-sunlight
-sunset
-title:magic hour by hideki kumamoto
-tree
-twilight
-uploader:lol33ta
+autumn,
+bush,
+cloud,
+cloudy sky,
+evening,
+forest,
+gradient sky,
+grass,
+horizon,
+lake,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+orange sky,
+outdoors,
+path,
+purple sky,
+rating:safe,
+red sky,
+road,
+scenery,
+sky,
+star (sky),
+subreddit:imaginarycolorscapes,
+sunlight,
+sunset,
+title:magic hour by hideki kumamoto,
+tree,
+twilight,
+uploader:lol33ta,

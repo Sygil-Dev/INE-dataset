@@ -1,24 +1,24 @@
-1boy
-bare tree
-boots
-branch
-forest
-gloves
-grass
-jungle
-leaf
-mushroom
-nature
-palm tree
-plant
-pointy ears
-potted plant
-rating:safe
-subreddit:imaginaryscholars
-sword
-title:sr - ork naturalist, by bruno balixa
-tree
-tree stump
-uploader:belledame-sans-serif
-vines
-weapon
+1boy,
+bare tree,
+boots,
+branch,
+forest,
+gloves,
+grass,
+jungle,
+leaf,
+mushroom,
+nature,
+palm tree,
+plant,
+pointy ears,
+potted plant,
+rating:safe,
+subreddit:imaginaryscholars,
+sword,
+title:sr - ork naturalist, by bruno balixa,
+tree,
+tree stump,
+uploader:belledame-sans-serif,
+vines,
+weapon,

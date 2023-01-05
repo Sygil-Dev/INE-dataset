@@ -1,19 +1,19 @@
-assault rifle
-day
-gun
-holding gun
-holding weapon
-long hair
-mountain
-outdoors
-rating:safe
-rock
-ruins
-scenery
-snow
-standing
-subreddit:imaginarywalls
-title:building the wall by chase stone
-uploader:[deleted]
-very long hair
-weapon
+assault rifle,
+day,
+gun,
+holding gun,
+holding weapon,
+long hair,
+mountain,
+outdoors,
+rating:safe,
+rock,
+ruins,
+scenery,
+snow,
+standing,
+subreddit:imaginarywalls,
+title:building the wall by chase stone,
+uploader:[deleted],
+very long hair,
+weapon,

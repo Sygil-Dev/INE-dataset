@@ -1,27 +1,27 @@
-armor
-battle
-breathing fire
-cape
-cloud
-dusk
-evening
-explosion
-fire
-gun
-long hair
-mountain
-multiple boys
-orange sky
-rating:safe
-red sky
-sky
-subreddit:imaginarybattlefields
-sun
-sunrise
-sunset
-sword
-title:hero's bane cover by tiziano baracchi
-torch
-twilight
-uploader:tamander
-weapon
+armor,
+battle,
+breathing fire,
+cape,
+cloud,
+dusk,
+evening,
+explosion,
+fire,
+gun,
+long hair,
+mountain,
+multiple boys,
+orange sky,
+rating:safe,
+red sky,
+sky,
+subreddit:imaginarybattlefields,
+sun,
+sunrise,
+sunset,
+sword,
+title:hero's bane cover by tiziano baracchi,
+torch,
+twilight,
+uploader:tamander,
+weapon,

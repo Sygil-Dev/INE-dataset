@@ -1,20 +1,20 @@
-backpack
-black border
-cloud
-cloudy sky
-dated
-greyscale
-letterboxed
-male focus
-phone screen
-pillarboxed
-rating:safe
-scenery
-silhouette
-sky
-smoke
-standing
-subreddit:imaginaryaliens
-title:alien introduction by alex nice
-uploader:green_smarties
-weapon
+backpack,
+black border,
+cloud,
+cloudy sky,
+dated,
+greyscale,
+letterboxed,
+male focus,
+phone screen,
+pillarboxed,
+rating:safe,
+scenery,
+silhouette,
+sky,
+smoke,
+standing,
+subreddit:imaginaryaliens,
+title:alien introduction by alex nice,
+uploader:green_smarties,
+weapon,

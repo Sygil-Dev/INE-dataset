@@ -1,23 +1,23 @@
-comic
-crescent moon
-flower
-grass
-greyscale
-lily (flower)
-monochrome
-moon
-night
-night sky
-no humans
-open mouth
-rating:safe
-sharp teeth
-sky
-sparkle
-star (sky)
-star (symbol)
-subreddit:imaginarydinosaurs
-teeth
-title:"tar pits" by kim deitch
-tree
-uploader:yannirotten
+comic,
+crescent moon,
+flower,
+grass,
+greyscale,
+lily (flower),
+monochrome,
+moon,
+night,
+night sky,
+no humans,
+open mouth,
+rating:safe,
+sharp teeth,
+sky,
+sparkle,
+star (sky),
+star (symbol),
+subreddit:imaginarydinosaurs,
+teeth,
+title:"tar pits" by kim deitch,
+tree,
+uploader:yannirotten,

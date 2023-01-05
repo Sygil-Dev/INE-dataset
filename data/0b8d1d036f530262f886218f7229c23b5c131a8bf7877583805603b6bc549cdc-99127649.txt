@@ -1,32 +1,32 @@
-architecture
-bird
-blue sky
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-fantasy
-fog
-horizon
-landscape
-mountain
-mountainous horizon
-no humans
-ocean
-outdoors
-rating:safe
-scenery
-sky
-skyline
-skyscraper
-snow
-subreddit:imaginarycastles
-title:sky castle by evgeny dvoretckiy
-tower
-uploader:lol33ta
-water
-waterfall
+architecture,
+bird,
+blue sky,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+fantasy,
+fog,
+horizon,
+landscape,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+sky,
+skyline,
+skyscraper,
+snow,
+subreddit:imaginarycastles,
+title:sky castle by evgeny dvoretckiy,
+tower,
+uploader:lol33ta,
+water,
+waterfall,

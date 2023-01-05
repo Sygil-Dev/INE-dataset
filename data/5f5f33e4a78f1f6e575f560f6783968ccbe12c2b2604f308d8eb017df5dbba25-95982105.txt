@@ -1,36 +1,36 @@
-claws
-cloud
-conditional dnp
-creator:blitzdrachin
-creator:conditional dnp
-creator:sifyro
-evening
-fangs
-feral
-fluffy
-flying
-meta:2022
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-sky
-source:furaffinity.net
-species:canid
-species:charizard
-species:eevee
-species:generation 1 pokemon
-species:mammal
-species:pokemon (species)
-species:pokémon (species)
-species:reptile
-species:scalie
-subreddit:adorabledragons
-subreddit:imaginarydragons
-subreddit:immonsters
-title:art by me
-title:bois after the sandwiches
-title:charizard and eevee after eating sum sandwiches.
-uploader:sifyro
-video games
-wings
+claws,
+cloud,
+conditional dnp,
+creator:blitzdrachin,
+creator:conditional dnp,
+creator:sifyro,
+evening,
+fangs,
+feral,
+fluffy,
+flying,
+meta:2022,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+sky,
+source:furaffinity.net,
+species:canid,
+species:charizard,
+species:eevee,
+species:generation 1 pokemon,
+species:mammal,
+species:pokemon (species),
+species:pokémon (species),
+species:reptile,
+species:scalie,
+subreddit:adorabledragons,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:art by me,
+title:bois after the sandwiches,
+title:charizard and eevee after eating sum sandwiches.,
+uploader:sifyro,
+video games,
+wings,

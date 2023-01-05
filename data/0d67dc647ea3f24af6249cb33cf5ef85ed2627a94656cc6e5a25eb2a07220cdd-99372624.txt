@@ -1,23 +1,23 @@
-1boy
-artist name
-company name
-copyright name
-dated
-electricity
-energy
-energy ball
-explosion
-fire
-glowing
-glowing weapon
-lightning
-magic
-male focus
-rating:safe
-signature
-solo
-subreddit:imaginarywizards
-title:dagi alteration by volmi games
-uploader:[deleted]
-watermark
-web address
+1boy,
+artist name,
+company name,
+copyright name,
+dated,
+electricity,
+energy,
+energy ball,
+explosion,
+fire,
+glowing,
+glowing weapon,
+lightning,
+magic,
+male focus,
+rating:safe,
+signature,
+solo,
+subreddit:imaginarywizards,
+title:dagi alteration by volmi games,
+uploader:[deleted],
+watermark,
+web address,

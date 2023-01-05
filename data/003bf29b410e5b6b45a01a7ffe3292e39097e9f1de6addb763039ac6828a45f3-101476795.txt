@@ -1,34 +1,34 @@
-1girl
-belt
-bird
-blurry
-blurry background
-blurry foreground
-branch
-brown gloves
-depth of field
-forest
-gloves
-grass
-gun
-jungle
-lake
-leaf
-nature
-outdoors
-overgrown
-palm tree
-plant
-rating:safe
-solo
-subreddit:imaginarywitcher
-subreddit:reasonablefantasy
-sword
-title:ciri by ian loginov
-tree
-uploader:invictous01
-uploader:miciy5
-wading
-water
-weapon
-white hair
+1girl,
+belt,
+bird,
+blurry,
+blurry background,
+blurry foreground,
+branch,
+brown gloves,
+depth of field,
+forest,
+gloves,
+grass,
+gun,
+jungle,
+lake,
+leaf,
+nature,
+outdoors,
+overgrown,
+palm tree,
+plant,
+rating:safe,
+solo,
+subreddit:imaginarywitcher,
+subreddit:reasonablefantasy,
+sword,
+title:ciri by ian loginov,
+tree,
+uploader:invictous01,
+uploader:miciy5,
+wading,
+water,
+weapon,
+white hair,

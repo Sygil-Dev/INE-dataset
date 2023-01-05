@@ -1,19 +1,19 @@
-1girl
-blood
-dagger
-holding sword
-holding weapon
-horns
-monster
-rating:safe
-sharp teeth
-subreddit:imaginarycarnage
-subreddit:imaginarydemons
-sword
-teeth
-title:nunslaughter-red is the color of ripping death by guang-yang
-title:red is the color of ripping death by guang-yang
-uploader:lol33ta
-uploader:tabulaerrata
-weapon
-wings
+1girl,
+blood,
+dagger,
+holding sword,
+holding weapon,
+horns,
+monster,
+rating:safe,
+sharp teeth,
+subreddit:imaginarycarnage,
+subreddit:imaginarydemons,
+sword,
+teeth,
+title:nunslaughter-red is the color of ripping death by guang-yang,
+title:red is the color of ripping death by guang-yang,
+uploader:lol33ta,
+uploader:tabulaerrata,
+weapon,
+wings,

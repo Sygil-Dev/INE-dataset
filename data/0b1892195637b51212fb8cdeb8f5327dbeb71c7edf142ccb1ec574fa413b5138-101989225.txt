@@ -1,28 +1,28 @@
-1boy
-border
-cape
-fine art parody
-flag background
-horns
-long hair
-male focus
-moon
-mountain
-nihonga
-orange sky
-rating:safe
-red border
-red moon
-red sky
-sandals
-solo
-standing
-subreddit:imaginarycharacters
-subreddit:reasonablefantasy
-sun
-sun symbol
-sword
-title:elayda, by @griffcrypto on twitter
-torii
-uploader:deluded_fruitcake
-weapon
+1boy,
+border,
+cape,
+fine art parody,
+flag background,
+horns,
+long hair,
+male focus,
+moon,
+mountain,
+nihonga,
+orange sky,
+rating:safe,
+red border,
+red moon,
+red sky,
+sandals,
+solo,
+standing,
+subreddit:imaginarycharacters,
+subreddit:reasonablefantasy,
+sun,
+sun symbol,
+sword,
+title:elayda, by @griffcrypto on twitter,
+torii,
+uploader:deluded_fruitcake,
+weapon,

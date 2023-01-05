@@ -1,42 +1,42 @@
-battle
-breathing fire
-burning
-campfire
-character:godzilla
-destruction
-electricity
-embers
-energy
-explosion
-fangs
-fire
-flame
-flaming sword
-flaming weapon
-giant
-glowing
-kaijuu
-lightning
-molten rock
-monster
-no humans
-open mouth
-orange sky
-rating:safe
-realistic
-red sky
-sharp teeth
-smoke
-sparks
-subreddit:imaginarydemons
-subreddit:imaginarymiddleearth
-sun
-sunset
-tail-tip fire
-teeth
-title:the balrog with the one ring, by riccardo gualdi
-torch
-twilight
-uploader:anarchystarfish
-uploader:the-nic
-volcano
+battle,
+breathing fire,
+burning,
+campfire,
+character:godzilla,
+destruction,
+electricity,
+embers,
+energy,
+explosion,
+fangs,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+giant,
+glowing,
+kaijuu,
+lightning,
+molten rock,
+monster,
+no humans,
+open mouth,
+orange sky,
+rating:safe,
+realistic,
+red sky,
+sharp teeth,
+smoke,
+sparks,
+subreddit:imaginarydemons,
+subreddit:imaginarymiddleearth,
+sun,
+sunset,
+tail-tip fire,
+teeth,
+title:the balrog with the one ring, by riccardo gualdi,
+torch,
+twilight,
+uploader:anarchystarfish,
+uploader:the-nic,
+volcano,

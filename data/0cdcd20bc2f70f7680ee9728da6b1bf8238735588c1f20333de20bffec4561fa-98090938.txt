@@ -1,23 +1,23 @@
-1girl
-bird
-braid
-brown eyes
-brown hair
-character:pharah (overwatch)
-cloud
-dark skin
-dark-skinned female
-feathers
-hair bun
-hairlocs
-lips
-lipstick
-makeup
-native american
-rating:safe
-solo
-subreddit:imaginarymarvel
-subreddit:imfandoms
-title:shuri by ryixi
-uploader:lol33ta
-very dark skin
+1girl,
+bird,
+braid,
+brown eyes,
+brown hair,
+character:pharah (overwatch),
+cloud,
+dark skin,
+dark-skinned female,
+feathers,
+hair bun,
+hairlocs,
+lips,
+lipstick,
+makeup,
+native american,
+rating:safe,
+solo,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+title:shuri by ryixi,
+uploader:lol33ta,
+very dark skin,

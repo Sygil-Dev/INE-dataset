@@ -1,33 +1,33 @@
-architecture
-bridge
-building
-castle
-chimney
-city
-cityscape
-clock tower
-cloud
-cloudy sky
-dusk
-evening
-fantasy
-gradient sky
-house
-mountain
-no humans
-orange sky
-outdoors
-pagoda
-rating:safe
-red sky
-rooftop
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginarybestof
-sunset
-title:[/r/imaginarycastles] winter fortress by stephen najarian
-tower
-twilight
-uploader:lol33ta
+architecture,
+bridge,
+building,
+castle,
+chimney,
+city,
+cityscape,
+clock tower,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fantasy,
+gradient sky,
+house,
+mountain,
+no humans,
+orange sky,
+outdoors,
+pagoda,
+rating:safe,
+red sky,
+rooftop,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginarybestof,
+sunset,
+title:[/r/imaginarycastles] winter fortress by stephen najarian,
+tower,
+twilight,
+uploader:lol33ta,

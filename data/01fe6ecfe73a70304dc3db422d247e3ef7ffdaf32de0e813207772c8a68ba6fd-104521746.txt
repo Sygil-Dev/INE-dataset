@@ -1,20 +1,20 @@
-1girl
-armor
-artist name
-boots
-bow (weapon)
-cloud
-grass
-holding
-long hair
-mountain
-outdoors
-rating:safe
-red hair
-sky
-solo
-subreddit:imaginarycharacters
-title:[oc] hzd fanart
-tree
-uploader:creators_hideout
-weapon
+1girl,
+armor,
+artist name,
+boots,
+bow (weapon),
+cloud,
+grass,
+holding,
+long hair,
+mountain,
+outdoors,
+rating:safe,
+red hair,
+sky,
+solo,
+subreddit:imaginarycharacters,
+title:[oc] hzd fanart,
+tree,
+uploader:creators_hideout,
+weapon,

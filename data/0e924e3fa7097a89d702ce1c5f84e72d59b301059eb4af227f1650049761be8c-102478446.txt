@@ -1,45 +1,45 @@
-aurora
-building
-chimney
-city
-city lights
-cityscape
-cloud
-constellation
-crescent moon
-earth (planet)
-fireworks
-galaxy
-house
-lamppost
-letterboxed
-light particles
-milky way
-moon
-night
-night sky
-outdoors
-planet
-rating:safe
-scenery
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-space
-space craft
-star (sky)
-starry background
-starry sky
-starry sky print
-subreddit:imaginaryworlds
-tanabata
-telescope
-title:foundation by jayison devadas
-tower
-twilight
-uploader:[deleted]
-window
-winter
+aurora,
+building,
+chimney,
+city,
+city lights,
+cityscape,
+cloud,
+constellation,
+crescent moon,
+earth (planet),
+fireworks,
+galaxy,
+house,
+lamppost,
+letterboxed,
+light particles,
+milky way,
+moon,
+night,
+night sky,
+outdoors,
+planet,
+rating:safe,
+scenery,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+space,
+space craft,
+star (sky),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginaryworlds,
+tanabata,
+telescope,
+title:foundation by jayison devadas,
+tower,
+twilight,
+uploader:[deleted],
+window,
+winter,

@@ -1,22 +1,22 @@
-beach
-bird
-blue sky
-blurry
-blurry background
-blurry foreground
-cloud
-day
-depth of field
-horizon
-no humans
-ocean
-outdoors
-photo (medium)
-rating:safe
-scenery
-seagull
-sky
-subreddit:imaginaryturtleworlds
-title:an old yugioh card that i had– island turtle
-uploader:thenewfloridaari
-water
+beach,
+bird,
+blue sky,
+blurry,
+blurry background,
+blurry foreground,
+cloud,
+day,
+depth of field,
+horizon,
+no humans,
+ocean,
+outdoors,
+photo (medium),
+rating:safe,
+scenery,
+seagull,
+sky,
+subreddit:imaginaryturtleworlds,
+title:an old yugioh card that i had– island turtle,
+uploader:thenewfloridaari,
+water,

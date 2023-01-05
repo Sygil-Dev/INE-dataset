@@ -1,28 +1,28 @@
-beach
-beard
-blonde hair
-boat
-cloud
-cloudy sky
-facial hair
-fine art parody
-hat
-horizon
-landscape
-long hair
-mountain
-multiple boys
-multiple girls
-ocean
-old
-old man
-outdoors
-rating:safe
-realistic
-scenery
-sky
-subreddit:imaginarysoldiers
-title:soldier with country women selling ribbons, near a military camp by francis wheatley
-uploader:paltry_poetaster
-water
-weapon
+beach,
+beard,
+blonde hair,
+boat,
+cloud,
+cloudy sky,
+facial hair,
+fine art parody,
+hat,
+horizon,
+landscape,
+long hair,
+mountain,
+multiple boys,
+multiple girls,
+ocean,
+old,
+old man,
+outdoors,
+rating:safe,
+realistic,
+scenery,
+sky,
+subreddit:imaginarysoldiers,
+title:soldier with country women selling ribbons, near a military camp by francis wheatley,
+uploader:paltry_poetaster,
+water,
+weapon,

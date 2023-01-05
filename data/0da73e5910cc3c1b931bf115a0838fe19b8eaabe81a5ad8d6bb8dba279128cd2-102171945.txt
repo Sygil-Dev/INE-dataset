@@ -1,26 +1,26 @@
-building
-burning
-city
-cloud
-cloudy sky
-explosion
-fire
-flame
-glowing
-magic
-moon
-no humans
-orange sky
-rating:safe
-red sky
-scenery
-silhouette
-sky
-subreddit:imaginarycolorscapes
-subreddit:imaginaryspirits
-sun
-sunset
-title:spooky avenue by kevin-mark bonein
-torch
-tree
-uploader:myrandall
+building,
+burning,
+city,
+cloud,
+cloudy sky,
+explosion,
+fire,
+flame,
+glowing,
+magic,
+moon,
+no humans,
+orange sky,
+rating:safe,
+red sky,
+scenery,
+silhouette,
+sky,
+subreddit:imaginarycolorscapes,
+subreddit:imaginaryspirits,
+sun,
+sunset,
+title:spooky avenue by kevin-mark bonein,
+torch,
+tree,
+uploader:myrandall,

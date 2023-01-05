@@ -1,23 +1,23 @@
-architecture
-bridge
-building
-castle
-city
-city lights
-cityscape
-cloud
-cloudy sky
-east asian architecture
-fantasy
-mountain
-outdoors
-pagoda
-rating:safe
-scenery
-sky
-skyscraper
-subreddit:imaginarycastles
-sunset
-title:personal project fantasy by artist y saito
-tower
-uploader:anon_ymou5
+architecture,
+bridge,
+building,
+castle,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+east asian architecture,
+fantasy,
+mountain,
+outdoors,
+pagoda,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarycastles,
+sunset,
+title:personal project fantasy by artist y saito,
+tower,
+uploader:anon_ymou5,

@@ -1,73 +1,73 @@
-1girl
-autumn
-autumn leaves
-breathing fire
-burning
-burnt clothes
-campfire
-candle
-candlelight
-candlestand
-character:charizard
-character:charmander
-character:endeavor (boku no hero academia)
-character:fujiwara no mokou
-cleavage
-cooking
-copyright name
-destruction
-dusk
-embers
-evening
-explosion
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming eye
-flaming sword
-flaming weapon
-ginkgo leaf
-gradient sky
-holding
-holding leaf
-jewelry
-long hair
-magic
-molten rock
-mountain
-muzzle flash
-orange (fruit)
-orange background
-orange nails
-orange sky
-orange theme
-phoenix
-pyrokinesis
-rating:safe
-red eyes
-red hair
-red sky
-red theme
-smoke
-solo
-sparks
-spear the gungnir
-starter pokemon trio
-subreddit:imaginaryimmortals
-sun
-sunset
-sweet potato
-sword
-sword of hisou
-tail-tip fire
-title:half-dragon warrior by arif wijaya
-torch
-twilight
-uploader:lol33ta
-volcano
-weapon
-wheat
-wings
+1girl,
+autumn,
+autumn leaves,
+breathing fire,
+burning,
+burnt clothes,
+campfire,
+candle,
+candlelight,
+candlestand,
+character:charizard,
+character:charmander,
+character:endeavor (boku no hero academia),
+character:fujiwara no mokou,
+cleavage,
+cooking,
+copyright name,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming eye,
+flaming sword,
+flaming weapon,
+ginkgo leaf,
+gradient sky,
+holding,
+holding leaf,
+jewelry,
+long hair,
+magic,
+molten rock,
+mountain,
+muzzle flash,
+orange (fruit),
+orange background,
+orange nails,
+orange sky,
+orange theme,
+phoenix,
+pyrokinesis,
+rating:safe,
+red eyes,
+red hair,
+red sky,
+red theme,
+smoke,
+solo,
+sparks,
+spear the gungnir,
+starter pokemon trio,
+subreddit:imaginaryimmortals,
+sun,
+sunset,
+sweet potato,
+sword,
+sword of hisou,
+tail-tip fire,
+title:half-dragon warrior by arif wijaya,
+torch,
+twilight,
+uploader:lol33ta,
+volcano,
+weapon,
+wheat,
+wings,

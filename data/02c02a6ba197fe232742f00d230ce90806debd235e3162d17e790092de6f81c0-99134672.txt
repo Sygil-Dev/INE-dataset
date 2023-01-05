@@ -1,19 +1,19 @@
-bridge
-chain
-cloud
-day
-fantasy
-grass
-mountain
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarytemples
-title:temple by redpeggy
-tree
-uploader:[deleted]
-water
-waterfall
+bridge,
+chain,
+cloud,
+day,
+fantasy,
+grass,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarytemples,
+title:temple by redpeggy,
+tree,
+uploader:[deleted],
+water,
+waterfall,

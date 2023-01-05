@@ -1,19 +1,19 @@
-1girl
-bird
-cloud
-cloudy sky
-day
-grass
-horizon
-long hair
-moon
-ocean
-outdoors
-rating:safe
-scenery
-sky
-solo
-subreddit:imaginaryskyscapes
-title:stroganovka by katya sukhotskaya
-uploader:[deleted]
-water
+1girl,
+bird,
+cloud,
+cloudy sky,
+day,
+grass,
+horizon,
+long hair,
+moon,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+sky,
+solo,
+subreddit:imaginaryskyscapes,
+title:stroganovka by katya sukhotskaya,
+uploader:[deleted],
+water,

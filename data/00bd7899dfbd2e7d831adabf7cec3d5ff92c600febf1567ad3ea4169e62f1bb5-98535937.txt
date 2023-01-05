@@ -1,27 +1,27 @@
-1boy
-bird
-flower
-grass
-holding
-holding sword
-holding weapon
-japanese clothes
-katana
-leaf
-lily (flower)
-male focus
-plant
-ponytail
-rating:safe
-signature
-solo
-spider lily
-subreddit:imaginaryladyboners
-subreddit:imaginaryninjas
-sword
-tattoo
-title:die for honor by valentina remenar
-uploader:lol33ta
-weapon
-white flower
-wisteria
+1boy,
+bird,
+flower,
+grass,
+holding,
+holding sword,
+holding weapon,
+japanese clothes,
+katana,
+leaf,
+lily (flower),
+male focus,
+plant,
+ponytail,
+rating:safe,
+signature,
+solo,
+spider lily,
+subreddit:imaginaryladyboners,
+subreddit:imaginaryninjas,
+sword,
+tattoo,
+title:die for honor by valentina remenar,
+uploader:lol33ta,
+weapon,
+white flower,
+wisteria,

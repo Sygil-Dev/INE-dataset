@@ -1,18 +1,18 @@
-bird
-bush
-forest
-grass
-hat
-nature
-outdoors
-plant
-rating:safe
-subreddit:imaginarybestof
-subreddit:imaginarygnomes
-title:[/r/imaginarygnomes] yvan underbrush by gary laib
-title:yvan underbrush by gary laib
-tree
-tree stump
-uploader:lol33ta
-weapon
-wings
+bird,
+bush,
+forest,
+grass,
+hat,
+nature,
+outdoors,
+plant,
+rating:safe,
+subreddit:imaginarybestof,
+subreddit:imaginarygnomes,
+title:[/r/imaginarygnomes] yvan underbrush by gary laib,
+title:yvan underbrush by gary laib,
+tree,
+tree stump,
+uploader:lol33ta,
+weapon,
+wings,

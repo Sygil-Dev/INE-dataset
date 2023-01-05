@@ -1,21 +1,21 @@
-beach
-blue sky
-bracelet
-cloud
-cloudy sky
-dark skin
-day
-desert
-earrings
-facial hair
-indian style
-jewelry
-outdoors
-rating:safe
-sand
-signature
-sitting
-sky
-subreddit:imaginarystash
-title:xiuhtecuhtli y chantico by gibran gerardo valverde flores
-uploader:chalkchick0
+beach,
+blue sky,
+bracelet,
+cloud,
+cloudy sky,
+dark skin,
+day,
+desert,
+earrings,
+facial hair,
+indian style,
+jewelry,
+outdoors,
+rating:safe,
+sand,
+signature,
+sitting,
+sky,
+subreddit:imaginarystash,
+title:xiuhtecuhtli y chantico by gibran gerardo valverde flores,
+uploader:chalkchick0,

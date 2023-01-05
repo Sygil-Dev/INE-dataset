@@ -1,28 +1,28 @@
-architecture
-beach
-blue sky
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-horizon
-mountain
-mountainous horizon
-ocean
-outdoors
-rating:safe
-river
-scenery
-sky
-snow
-snowing
-subreddit:imaginaryglaciers
-title:base of liceland by kim sunghun
-tower
-uploader:sr_myers
-water
-waterfall
+architecture,
+beach,
+blue sky,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+horizon,
+mountain,
+mountainous horizon,
+ocean,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+snow,
+snowing,
+subreddit:imaginaryglaciers,
+title:base of liceland by kim sunghun,
+tower,
+uploader:sr_myers,
+water,
+waterfall,

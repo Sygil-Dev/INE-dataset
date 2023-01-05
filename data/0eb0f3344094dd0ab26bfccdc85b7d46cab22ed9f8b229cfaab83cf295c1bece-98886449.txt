@@ -1,26 +1,26 @@
-architecture
-bare tree
-branch
-bush
-cherry blossoms
-day
-east asian architecture
-fence
-fog
-forest
-gate
-nature
-outdoors
-rating:safe
-scenery
-shrine
-snow
-snowing
-stairs
-stone lantern
-subreddit:imaginarywinterscapes
-title:冬日密林 by polo`z
-torii
-tree
-uploader:miciy5
-winter
+architecture,
+bare tree,
+branch,
+bush,
+cherry blossoms,
+day,
+east asian architecture,
+fence,
+fog,
+forest,
+gate,
+nature,
+outdoors,
+rating:safe,
+scenery,
+shrine,
+snow,
+snowing,
+stairs,
+stone lantern,
+subreddit:imaginarywinterscapes,
+title:冬日密林 by polo`z,
+torii,
+tree,
+uploader:miciy5,
+winter,

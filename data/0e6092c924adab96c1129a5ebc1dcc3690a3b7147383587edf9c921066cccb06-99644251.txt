@@ -1,30 +1,30 @@
-1boy
-assault rifle
-building
-city
-cityscape
-cloud
-cloudy sky
-fire
-full moon
-gun
-holding gun
-moon
-moonlight
-mountain
-night
-night sky
-planet
-rating:safe
-red moon
-red sky
-rifle
-sky
-star (sky)
-subreddit:imaginarylibraries
-sun
-sunset
-title:fahrenheit 451 illustration (2020) by michael whelan
-tower
-uploader:yannirotten
-weapon
+1boy,
+assault rifle,
+building,
+city,
+cityscape,
+cloud,
+cloudy sky,
+fire,
+full moon,
+gun,
+holding gun,
+moon,
+moonlight,
+mountain,
+night,
+night sky,
+planet,
+rating:safe,
+red moon,
+red sky,
+rifle,
+sky,
+star (sky),
+subreddit:imaginarylibraries,
+sun,
+sunset,
+title:fahrenheit 451 illustration (2020) by michael whelan,
+tower,
+uploader:yannirotten,
+weapon,

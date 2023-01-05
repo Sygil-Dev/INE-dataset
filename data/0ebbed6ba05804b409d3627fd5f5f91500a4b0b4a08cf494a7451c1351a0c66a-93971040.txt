@@ -1,26 +1,26 @@
-aurora
-clock
-constellation
-crescent moon
-earth (planet)
-galaxy
-milky way
-moon
-night
-night sky
-planet
-rating:safe
-roman numeral
-shooting star
-sky
-space
-star (sky)
-starry sky
-starry sky print
-subreddit:imaginaryarchitecture
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-title:perfect operational record, by futureselfbeats
-twitter username
-uploader:futureselfbeats
-window
+aurora,
+clock,
+constellation,
+crescent moon,
+earth (planet),
+galaxy,
+milky way,
+moon,
+night,
+night sky,
+planet,
+rating:safe,
+roman numeral,
+shooting star,
+sky,
+space,
+star (sky),
+starry sky,
+starry sky print,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+title:perfect operational record, by futureselfbeats,
+twitter username,
+uploader:futureselfbeats,
+window,

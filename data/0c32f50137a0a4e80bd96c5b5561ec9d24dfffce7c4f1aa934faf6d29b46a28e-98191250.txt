@@ -1,41 +1,41 @@
-autumn
-autumn leaves
-building
-burning
-city
-cityscape
-cloud
-dusk
-evening
-explosion
-fire
-flame
-forest
-full moon
-gradient sky
-molten rock
-moon
-mountain
-mountainous horizon
-nature
-no humans
-orange sky
-outdoors
-rating:safe
-red moon
-red sky
-red theme
-scenery
-sky
-skyscraper
-subreddit:imaginarycolorscapes
-subreddit:immeta
-sun
-sunburst
-sunset
-title:time neglects
-torii
-tree
-twilight
-uploader:gazsco
-volcano
+autumn,
+autumn leaves,
+building,
+burning,
+city,
+cityscape,
+cloud,
+dusk,
+evening,
+explosion,
+fire,
+flame,
+forest,
+full moon,
+gradient sky,
+molten rock,
+moon,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+orange sky,
+outdoors,
+rating:safe,
+red moon,
+red sky,
+red theme,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarycolorscapes,
+subreddit:immeta,
+sun,
+sunburst,
+sunset,
+title:time neglects,
+torii,
+tree,
+twilight,
+uploader:gazsco,
+volcano,

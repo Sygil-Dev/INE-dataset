@@ -1,28 +1,28 @@
-battle
-building
-burning
-city
-cloud
-cloudy sky
-destruction
-embers
-explosion
-fire
-flame
-horizon
-lightning
-molten rock
-no humans
-rating:safe
-red sky
-scenery
-silhouette
-sky
-smoke
-subreddit:imaginaryhorrors
-sunset
-title:ai hellscapes
-torch
-twilight
-uploader:subspaceinterferents
-volcano
+battle,
+building,
+burning,
+city,
+cloud,
+cloudy sky,
+destruction,
+embers,
+explosion,
+fire,
+flame,
+horizon,
+lightning,
+molten rock,
+no humans,
+rating:safe,
+red sky,
+scenery,
+silhouette,
+sky,
+smoke,
+subreddit:imaginaryhorrors,
+sunset,
+title:ai hellscapes,
+torch,
+twilight,
+uploader:subspaceinterferents,
+volcano,

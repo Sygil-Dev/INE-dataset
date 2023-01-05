@@ -1,32 +1,32 @@
-1girl
-battle
-burning
-damaged
-dusk
-evening
-explosion
-fire
-firing
-flame
-gun
-helicopter
-mecha
-molten rock
-motor vehicle
-multiple boys
-muzzle flash
-orange background
-orange sky
-rating:safe
-realistic
-red sky
-science fiction
-subreddit:imaginarycyberpunk
-subreddit:imaginaryfuturism
-sun
-sunset
-tank
-title:cover art for next upcoming song "heavy arms" by last starfighter
-twilight
-uploader:thelaststarfighterz
-weapon
+1girl,
+battle,
+burning,
+damaged,
+dusk,
+evening,
+explosion,
+fire,
+firing,
+flame,
+gun,
+helicopter,
+mecha,
+molten rock,
+motor vehicle,
+multiple boys,
+muzzle flash,
+orange background,
+orange sky,
+rating:safe,
+realistic,
+red sky,
+science fiction,
+subreddit:imaginarycyberpunk,
+subreddit:imaginaryfuturism,
+sun,
+sunset,
+tank,
+title:cover art for next upcoming song "heavy arms" by last starfighter,
+twilight,
+uploader:thelaststarfighterz,
+weapon,

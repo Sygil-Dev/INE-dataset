@@ -1,23 +1,23 @@
-1girl
-air bubble
-aurora
-bubble
-caustics
-city
-diving
-diving mask
-fish
-ocean
-open mouth
-rating:safe
-realistic
-shooting star
-space
-star (sky)
-starry sky
-subreddit:imaginarymerfolk
-swimming
-title:pirates of the undead seas - mermaids by filip dudek
-turtle
-underwater
-uploader:tamander
+1girl,
+air bubble,
+aurora,
+bubble,
+caustics,
+city,
+diving,
+diving mask,
+fish,
+ocean,
+open mouth,
+rating:safe,
+realistic,
+shooting star,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarymerfolk,
+swimming,
+title:pirates of the undead seas - mermaids by filip dudek,
+turtle,
+underwater,
+uploader:tamander,

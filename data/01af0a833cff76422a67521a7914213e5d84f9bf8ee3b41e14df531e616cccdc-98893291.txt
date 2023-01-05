@@ -1,33 +1,33 @@
-1boy
-armor
-artist name
-bare tree
-beard
-blood
-blood from mouth
-blood on clothes
-blood on face
-blood on hands
-blood on weapon
-blood splatter
-blood stain
-blurry
-blurry foreground
-branch
-death
-depth of field
-facial hair
-forest
-impaled
-injury
-male focus
-nosebleed
-rating:safe
-scarf
-snow
-subreddit:imaginarycarnage
-sword
-title:bear witcher by anton nazarenko
-tree
-uploader:lol33ta
-weapon
+1boy,
+armor,
+artist name,
+bare tree,
+beard,
+blood,
+blood from mouth,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on weapon,
+blood splatter,
+blood stain,
+blurry,
+blurry foreground,
+branch,
+death,
+depth of field,
+facial hair,
+forest,
+impaled,
+injury,
+male focus,
+nosebleed,
+rating:safe,
+scarf,
+snow,
+subreddit:imaginarycarnage,
+sword,
+title:bear witcher by anton nazarenko,
+tree,
+uploader:lol33ta,
+weapon,

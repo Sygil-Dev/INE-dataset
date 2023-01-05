@@ -1,21 +1,21 @@
-1girl
-armor
-black hair
-border
-gloves
-grey background
-greyscale
-hand on own chest
-holding helmet
-long hair
-monochrome
-pauldrons
-pointy ears
-rating:safe
-shoulder armor
-signature
-solo
-subreddit:imaginaryazeroth
-title:diane by nik c
-uploader:lol33ta
-upper body
+1girl,
+armor,
+black hair,
+border,
+gloves,
+grey background,
+greyscale,
+hand on own chest,
+holding helmet,
+long hair,
+monochrome,
+pauldrons,
+pointy ears,
+rating:safe,
+shoulder armor,
+signature,
+solo,
+subreddit:imaginaryazeroth,
+title:diane by nik c,
+uploader:lol33ta,
+upper body,

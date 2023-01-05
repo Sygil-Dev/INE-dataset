@@ -1,20 +1,20 @@
-2girls
-asymmetrical hair
-black hair
-character:sombra (overwatch)
-coat
-dark skin
-dark-skinned female
-earrings
-lipstick
-long hair
-looking at another
-makeup
-mole
-mole under eye
-multicolored hair
-multiple girls
-rating:safe
-subreddit:imaginaryruneterra
-title:water and oil by julian futanto
-uploader:miciy5
+2girls,
+asymmetrical hair,
+black hair,
+character:sombra (overwatch),
+coat,
+dark skin,
+dark-skinned female,
+earrings,
+lipstick,
+long hair,
+looking at another,
+makeup,
+mole,
+mole under eye,
+multicolored hair,
+multiple girls,
+rating:safe,
+subreddit:imaginaryruneterra,
+title:water and oil by julian futanto,
+uploader:miciy5,

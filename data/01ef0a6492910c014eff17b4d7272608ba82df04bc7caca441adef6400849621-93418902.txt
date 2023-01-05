@@ -1,32 +1,32 @@
-artist name
-cherry blossoms
-colored pencil (medium)
-constellation
-crescent moon
-full moon
-moon
-night
-night sky
-no humans
-painting (medium)
-pink background
-planet
-rating:safe
-red moon
-retro artstyle
-shooting star
-signature
-sky
-solo
-space
-star (sky)
-star (symbol)
-starry sky
-subreddit:imaginarybeasts
-subreddit:immonsters
-title:spirit of the galaxy by karitaart
-traditional media
-tree
-uploader:lol33ta
-watercolor (medium)
-wings
+artist name,
+cherry blossoms,
+colored pencil (medium),
+constellation,
+crescent moon,
+full moon,
+moon,
+night,
+night sky,
+no humans,
+painting (medium),
+pink background,
+planet,
+rating:safe,
+red moon,
+retro artstyle,
+shooting star,
+signature,
+sky,
+solo,
+space,
+star (sky),
+star (symbol),
+starry sky,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+title:spirit of the galaxy by karitaart,
+traditional media,
+tree,
+uploader:lol33ta,
+watercolor (medium),
+wings,

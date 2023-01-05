@@ -1,27 +1,27 @@
-architecture
-brick wall
-bridge
-building
-castle
-chain-link fence
-city
-city lights
-cityscape
-clock tower
-east asian architecture
-library
-outdoors
-pagoda
-post-apocalypse
-rating:safe
-rooftop
-ruins
-scenery
-sky
-skyline
-skyscraper
-subreddit:superstructures
-title:ecosystem recovery by artist annibale siconolfi | inward
-tokyo (city)
-tower
-uploader:anon_ymou5
+architecture,
+brick wall,
+bridge,
+building,
+castle,
+chain-link fence,
+city,
+city lights,
+cityscape,
+clock tower,
+east asian architecture,
+library,
+outdoors,
+pagoda,
+post-apocalypse,
+rating:safe,
+rooftop,
+ruins,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:superstructures,
+title:ecosystem recovery by artist annibale siconolfi | inward,
+tokyo (city),
+tower,
+uploader:anon_ymou5,

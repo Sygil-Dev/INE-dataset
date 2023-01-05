@@ -1,19 +1,19 @@
-building
-city
-cloud
-fire
-gun
-hat
-holding gun
-letterboxed
-long hair
-multiple girls
-outdoors
-rating:safe
-rifle
-scenery
-sky
-subreddit:imaginarycowboys
-title:never should've come here, leo avero
-uploader:miciy5
-weapon
+building,
+city,
+cloud,
+fire,
+gun,
+hat,
+holding gun,
+letterboxed,
+long hair,
+multiple girls,
+outdoors,
+rating:safe,
+rifle,
+scenery,
+sky,
+subreddit:imaginarycowboys,
+title:never should've come here, leo avero,
+uploader:miciy5,
+weapon,

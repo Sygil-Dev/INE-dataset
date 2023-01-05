@@ -1,23 +1,23 @@
-1girl
-brown hair
-fireworks
-flower
-gender:female
-hat
-hat flower
-holding flower
-long sleeves
-photo (medium)
-rating:safe
-shirt
-skirt
-smile
-solo
-sparkle
-straw hat
-subreddit:imaginarywitches
-sunflower
-title:sunflower witch by celesse
-traditional media
-uploader:lol33ta
-yellow flower
+1girl,
+brown hair,
+fireworks,
+flower,
+gender:female,
+hat,
+hat flower,
+holding flower,
+long sleeves,
+photo (medium),
+rating:safe,
+shirt,
+skirt,
+smile,
+solo,
+sparkle,
+straw hat,
+subreddit:imaginarywitches,
+sunflower,
+title:sunflower witch by celesse,
+traditional media,
+uploader:lol33ta,
+yellow flower,

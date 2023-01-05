@@ -1,24 +1,24 @@
-air bubble
-bird
-boat
-bubble
-caustics
-dolphin
-fish
-glowing
-ocean
-open mouth
-rating:safe
-realistic
-shark
-sharp teeth
-ship
-solo
-subreddit:imaginaryleviathans
-teeth
-title:sea dragoon
-underwater
-uploader:rastroboy
-water
-watercraft
-waves
+air bubble,
+bird,
+boat,
+bubble,
+caustics,
+dolphin,
+fish,
+glowing,
+ocean,
+open mouth,
+rating:safe,
+realistic,
+shark,
+sharp teeth,
+ship,
+solo,
+subreddit:imaginaryleviathans,
+teeth,
+title:sea dragoon,
+underwater,
+uploader:rastroboy,
+water,
+watercraft,
+waves,

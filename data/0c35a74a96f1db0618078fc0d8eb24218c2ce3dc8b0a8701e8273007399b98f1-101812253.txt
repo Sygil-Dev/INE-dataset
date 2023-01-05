@@ -1,31 +1,31 @@
-1girl
-aircraft
-architecture
-armor
-bridge
-building
-cape
-castle
-city
-city lights
-cityscape
-clock
-clock tower
-east asian architecture
-fantasy
-gauntlets
-hat
-holding
-holding weapon
-night
-outdoors
-pagoda
-rating:safe
-skyscraper
-solo
-subreddit:imaginaryfuturewar
-sword
-title:inquisitor greyfax by lie setiawan
-tower
-uploader:lol33ta
-weapon
+1girl,
+aircraft,
+architecture,
+armor,
+bridge,
+building,
+cape,
+castle,
+city,
+city lights,
+cityscape,
+clock,
+clock tower,
+east asian architecture,
+fantasy,
+gauntlets,
+hat,
+holding,
+holding weapon,
+night,
+outdoors,
+pagoda,
+rating:safe,
+skyscraper,
+solo,
+subreddit:imaginaryfuturewar,
+sword,
+title:inquisitor greyfax by lie setiawan,
+tower,
+uploader:lol33ta,
+weapon,

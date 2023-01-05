@@ -1,23 +1,23 @@
-1girl
-bandaged arm
-bandaged hand
-bandages
-blood
-brown footwear
-budget sarashi
-full body
-genderswap
-genderswap (mtf)
-grey background
-male focus
-orange hair
-rating:safe
-sarashi
-scarf
-short hair
-smile
-solo
-subreddit:imaginarycharacters
-title:nuria with her borduna, by me
-uploader:calandris
-weapon
+1girl,
+bandaged arm,
+bandaged hand,
+bandages,
+blood,
+brown footwear,
+budget sarashi,
+full body,
+genderswap,
+genderswap (mtf),
+grey background,
+male focus,
+orange hair,
+rating:safe,
+sarashi,
+scarf,
+short hair,
+smile,
+solo,
+subreddit:imaginarycharacters,
+title:nuria with her borduna, by me,
+uploader:calandris,
+weapon,

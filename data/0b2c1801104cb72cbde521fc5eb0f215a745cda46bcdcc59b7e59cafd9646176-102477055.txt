@@ -1,46 +1,46 @@
-architecture
-autumn
-autumn leaves
-bare tree
-bridge
-building
-car
-chain-link fence
-city
-city lights
-cityscape
-cloud
-cloudy sky
-dusk
-evening
-ferris wheel
-fire
-gradient sky
-house
-mountain
-no humans
-orange sky
-outdoors
-power lines
-rating:safe
-red sky
-river
-road
-ruins
-scenery
-sky
-skyline
-skyscraper
-star (sky)
-street
-subreddit:imaginarycityscapes
-subreddit:wholesomefantasyart
-sun
-sunlight
-sunset
-title:"vibrantis", lightpure (me), 3d and photoshop, 2022
-tower
-tree
-twilight
-uploader:lightpurestudio
-utility pole
+architecture,
+autumn,
+autumn leaves,
+bare tree,
+bridge,
+building,
+car,
+chain-link fence,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+dusk,
+evening,
+ferris wheel,
+fire,
+gradient sky,
+house,
+mountain,
+no humans,
+orange sky,
+outdoors,
+power lines,
+rating:safe,
+red sky,
+river,
+road,
+ruins,
+scenery,
+sky,
+skyline,
+skyscraper,
+star (sky),
+street,
+subreddit:imaginarycityscapes,
+subreddit:wholesomefantasyart,
+sun,
+sunlight,
+sunset,
+title:"vibrantis", lightpure (me), 3d and photoshop, 2022,
+tower,
+tree,
+twilight,
+uploader:lightpurestudio,
+utility pole,

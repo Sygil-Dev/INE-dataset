@@ -1,74 +1,74 @@
-1girl
-alarm clock
-bangs
-barefoot
-blonde hair
-blue shorts
-blurry
-calendar (object)
-character:iekushi chapipi
-clock
-closed eyes
-collarbone
-colored tips
-creator:tsukiiro
-cropped shirt
-cup
-day
-denim
-denim shorts
-depth of field
-drawer
-drinking glass
-drinking straw
-foot out of frame
-guitar
-hair ornament
-hairclip
-hanging plant
-holding
-holding instrument
-indoors
-instrument
-knee up
-lamp
-letterboxed
-meta:commentary
-meta:commission
-meta:english commentary
-meta:highres
-meta:skeb commission
-multicolored hair
-music
-open mouth
-paper
-picture (object)
-pink hair
-plant
-plate
-playing instrument
-potted plant
-rain
-rating:general
-round table
-scenery
-series:cyberlive
-shirt
-short hair
-short sleeves
-shorts
-singing
-sitting
-sitting in window
-smile
-solo
-subreddit:imaginarysliceoflife
-table
-title:rainy day by ﾂｷｲﾛ
-tree
-two-tone hair
-uploader:xsoulsaber
-virtual youtuber
-white shirt
-window
-x hair ornament
+1girl,
+alarm clock,
+bangs,
+barefoot,
+blonde hair,
+blue shorts,
+blurry,
+calendar (object),
+character:iekushi chapipi,
+clock,
+closed eyes,
+collarbone,
+colored tips,
+creator:tsukiiro,
+cropped shirt,
+cup,
+day,
+denim,
+denim shorts,
+depth of field,
+drawer,
+drinking glass,
+drinking straw,
+foot out of frame,
+guitar,
+hair ornament,
+hairclip,
+hanging plant,
+holding,
+holding instrument,
+indoors,
+instrument,
+knee up,
+lamp,
+letterboxed,
+meta:commentary,
+meta:commission,
+meta:english commentary,
+meta:highres,
+meta:skeb commission,
+multicolored hair,
+music,
+open mouth,
+paper,
+picture (object),
+pink hair,
+plant,
+plate,
+playing instrument,
+potted plant,
+rain,
+rating:general,
+round table,
+scenery,
+series:cyberlive,
+shirt,
+short hair,
+short sleeves,
+shorts,
+singing,
+sitting,
+sitting in window,
+smile,
+solo,
+subreddit:imaginarysliceoflife,
+table,
+title:rainy day by ﾂｷｲﾛ,
+tree,
+two-tone hair,
+uploader:xsoulsaber,
+virtual youtuber,
+white shirt,
+window,
+x hair ornament,

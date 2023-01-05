@@ -1,23 +1,23 @@
-1girl
-black gloves
-black hair
-black legwear
-blush
-dress
-fingerless gloves
-flower
-gloves
-hair flower
-hair ornament
-long hair
-rating:safe
-red eyes
-signature
-simple background
-solo
-subreddit:imaginaryfashion
-thighhighs
-title:thorns by yutaan
-uploader:lol33ta
-weapon
-white background
+1girl,
+black gloves,
+black hair,
+black legwear,
+blush,
+dress,
+fingerless gloves,
+flower,
+gloves,
+hair flower,
+hair ornament,
+long hair,
+rating:safe,
+red eyes,
+signature,
+simple background,
+solo,
+subreddit:imaginaryfashion,
+thighhighs,
+title:thorns by yutaan,
+uploader:lol33ta,
+weapon,
+white background,

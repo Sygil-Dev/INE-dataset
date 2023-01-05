@@ -1,52 +1,52 @@
-1girl
-architecture
-bridge
-building
-chain-link fence
-christmas lights
-city
-city lights
-cityscape
-crosswalk
-crowd
-east asian architecture
-ferris wheel
-fireworks
-japanese clothes
-kimono
-lantern
-lights
-neon lights
-night
-night sky
-no humans
-outdoors
-pagoda
-paper lantern
-pavement
-rating:safe
-real world location
-reflection
-river
-road
-rooftop
-scenery
-shooting star
-sidewalk
-sky
-skyline
-skyscraper
-snow
-snowing
-stadium
-star (sky)
-starry sky
-street
-subreddit:imaginarycityscapes
-title:started from the bottom by dangiuz (leopoldo d'angelo)
-tokyo (city)
-torii
-tower
-town
-uploader:lol33ta
-water
+1girl,
+architecture,
+bridge,
+building,
+chain-link fence,
+christmas lights,
+city,
+city lights,
+cityscape,
+crosswalk,
+crowd,
+east asian architecture,
+ferris wheel,
+fireworks,
+japanese clothes,
+kimono,
+lantern,
+lights,
+neon lights,
+night,
+night sky,
+no humans,
+outdoors,
+pagoda,
+paper lantern,
+pavement,
+rating:safe,
+real world location,
+reflection,
+river,
+road,
+rooftop,
+scenery,
+shooting star,
+sidewalk,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+stadium,
+star (sky),
+starry sky,
+street,
+subreddit:imaginarycityscapes,
+title:started from the bottom by dangiuz (leopoldo d'angelo),
+tokyo (city),
+torii,
+tower,
+town,
+uploader:lol33ta,
+water,

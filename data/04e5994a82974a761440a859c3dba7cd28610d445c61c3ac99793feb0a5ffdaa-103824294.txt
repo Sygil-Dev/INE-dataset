@@ -1,23 +1,23 @@
-battle
-cloud
-condensation trail
-damaged
-day
-dirty
-duel
-explosion
-flying kick
-jumping
-lens flare
-motion lines
-multiple boys
-punching
-rating:safe
-realistic
-retro artstyle
-science fiction
-sky
-subreddit:imaginarymarvel
-sun
-title:fortnite x marvel: zero war #2 by david nakayama
-uploader:lol33ta
+battle,
+cloud,
+condensation trail,
+damaged,
+day,
+dirty,
+duel,
+explosion,
+flying kick,
+jumping,
+lens flare,
+motion lines,
+multiple boys,
+punching,
+rating:safe,
+realistic,
+retro artstyle,
+science fiction,
+sky,
+subreddit:imaginarymarvel,
+sun,
+title:fortnite x marvel: zero war #2 by david nakayama,
+uploader:lol33ta,

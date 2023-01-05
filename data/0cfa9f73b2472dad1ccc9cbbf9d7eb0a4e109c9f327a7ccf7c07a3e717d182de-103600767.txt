@@ -1,23 +1,23 @@
-armor
-beard
-blood
-cape
-christmas
-christmas ornaments
-christmas tree
-facial hair
-fur trim
-helmet
-rating:safe
-red cape
-sack
-santa hat
-simple background
-solo
-subreddit:imaginaryundead
-title:merry christmas, skeleton claus by alexandre chaudret
-torn cape
-torn clothes
-uploader:yannirotten
-weapon
-white background
+armor,
+beard,
+blood,
+cape,
+christmas,
+christmas ornaments,
+christmas tree,
+facial hair,
+fur trim,
+helmet,
+rating:safe,
+red cape,
+sack,
+santa hat,
+simple background,
+solo,
+subreddit:imaginaryundead,
+title:merry christmas, skeleton claus by alexandre chaudret,
+torn cape,
+torn clothes,
+uploader:yannirotten,
+weapon,
+white background,

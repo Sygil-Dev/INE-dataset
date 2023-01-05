@@ -1,54 +1,54 @@
-architecture
-balcony
-bookshelf
-brick wall
-bridge
-building
-castle
-chain-link fence
-chimney
-city
-city lights
-cityscape
-clock tower
-cloud
-cloudy sky
-crescent moon
-east asian architecture
-fence
-ferris wheel
-fishnets
-full moon
-galaxy
-gate
-house
-lamppost
-library
-milky way
-moon
-moonlight
-night
-night sky
-no humans
-outdoors
-pagoda
-post-apocalypse
-railing
-rating:safe
-rooftop
-scenery
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-star (sky)
-starry sky
-subreddit:imaginarycityscapes
-title:fallen stars by ethemos
-tokyo (city)
-tower
-town
-uploader:lol33ta
-window
+architecture,
+balcony,
+bookshelf,
+brick wall,
+bridge,
+building,
+castle,
+chain-link fence,
+chimney,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+cloudy sky,
+crescent moon,
+east asian architecture,
+fence,
+ferris wheel,
+fishnets,
+full moon,
+galaxy,
+gate,
+house,
+lamppost,
+library,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+no humans,
+outdoors,
+pagoda,
+post-apocalypse,
+railing,
+rating:safe,
+rooftop,
+scenery,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+star (sky),
+starry sky,
+subreddit:imaginarycityscapes,
+title:fallen stars by ethemos,
+tokyo (city),
+tower,
+town,
+uploader:lol33ta,
+window,

@@ -1,23 +1,23 @@
-cloud
-crescent moon
-full moon
-moon
-orange sky
-rating:safe
-red background
-red moon
-red sky
-sky
-subreddit:imaginaryhellscapes
-subreddit:imaginaryhorrors
-subreddit:imaginarystarscapes
-subreddit:imaginarywastelands
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-subreddit:immonsters
-sun
-sunset
-title:science fiction hall of fame, vol two cover art by bruce pennington, 1972
-uploader:lol33ta
-uploader:miciy5
-uploader:yannirotten
+cloud,
+crescent moon,
+full moon,
+moon,
+orange sky,
+rating:safe,
+red background,
+red moon,
+red sky,
+sky,
+subreddit:imaginaryhellscapes,
+subreddit:imaginaryhorrors,
+subreddit:imaginarystarscapes,
+subreddit:imaginarywastelands,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+subreddit:immonsters,
+sun,
+sunset,
+title:science fiction hall of fame, vol two cover art by bruce pennington, 1972,
+uploader:lol33ta,
+uploader:miciy5,
+uploader:yannirotten,

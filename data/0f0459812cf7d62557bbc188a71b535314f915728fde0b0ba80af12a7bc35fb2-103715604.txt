@@ -1,41 +1,41 @@
-1girl
-bamboo
-bare tree
-blue hair
-branch
-brick
-brick wall
-cactus
-carrot
-elf
-flower pot
-grass
-ivy
-leaf
-lily (flower)
-lips
-lipstick
-long hair
-long sleeves
-makeup
-palm leaf
-palm tree
-plant
-pointy ears
-potted plant
-rating:safe
-seaweed
-silk
-solo
-spider web
-spring onion
-subreddit:imaginaryelves
-tanabata
-tanzaku
-thorns
-title:arela - what do you want by sonya/'fantazyme'
-tree
-tulip
-uploader:myrandall
-vegetable
-vines
+1girl,
+bamboo,
+bare tree,
+blue hair,
+branch,
+brick,
+brick wall,
+cactus,
+carrot,
+elf,
+flower pot,
+grass,
+ivy,
+leaf,
+lily (flower),
+lips,
+lipstick,
+long hair,
+long sleeves,
+makeup,
+palm leaf,
+palm tree,
+plant,
+pointy ears,
+potted plant,
+rating:safe,
+seaweed,
+silk,
+solo,
+spider web,
+spring onion,
+subreddit:imaginaryelves,
+tanabata,
+tanzaku,
+thorns,
+title:arela - what do you want by sonya/'fantazyme',
+tree,
+tulip,
+uploader:myrandall,
+vegetable,
+vines,

@@ -1,24 +1,24 @@
-beach
-border
-bridge
-building
-city
-dock
-house
-island
-no humans
-ocean
-painting (medium)
-pool
-rating:safe
-river
-scenery
-shore
-subreddit:imaginarycityscapes
-title:sky town, by alexi chabane
-tower
-traditional media
-uploader:sylvyrfyre
-water
-watercraft
-waterfall
+beach,
+border,
+bridge,
+building,
+city,
+dock,
+house,
+island,
+no humans,
+ocean,
+painting (medium),
+pool,
+rating:safe,
+river,
+scenery,
+shore,
+subreddit:imaginarycityscapes,
+title:sky town, by alexi chabane,
+tower,
+traditional media,
+uploader:sylvyrfyre,
+water,
+watercraft,
+waterfall,

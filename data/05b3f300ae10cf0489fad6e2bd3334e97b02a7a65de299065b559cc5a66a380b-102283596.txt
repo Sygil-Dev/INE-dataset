@@ -1,24 +1,24 @@
-character:kazami yuuka
-dandelion
-fireworks
-flower
-holding flower
-painting (medium)
-painting (object)
-petals
-photo (medium)
-pom pom (cheerleading)
-rating:safe
-shikishi
-sliding doors
-subreddit:imaginarycolorscapes
-summer
-sunflower
-sunflower hair ornament
-title:sunflowers bouquet, acrylic canvas, 8 x 8"
-traditional media
-unconventional media
-uploader:artpaintingdecor
-watercolor (medium)
-yellow flower
-yellow theme
+character:kazami yuuka,
+dandelion,
+fireworks,
+flower,
+holding flower,
+painting (medium),
+painting (object),
+petals,
+photo (medium),
+pom pom (cheerleading),
+rating:safe,
+shikishi,
+sliding doors,
+subreddit:imaginarycolorscapes,
+summer,
+sunflower,
+sunflower hair ornament,
+title:sunflowers bouquet, acrylic canvas, 8 x 8",
+traditional media,
+unconventional media,
+uploader:artpaintingdecor,
+watercolor (medium),
+yellow flower,
+yellow theme,

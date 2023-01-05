@@ -1,57 +1,57 @@
-1girl
-ahoge
-bangs
-black cloak
-black footwear
-black headwear
-black robe
-black skirt
-blue eyes
-blush
-bow
-braid
-breasts
-brooch
-broom
-broom riding
-character:elaina (majo no tabitabi)
-cloak
-collared shirt
-creator:kurattes
-field
-flower
-flower field
-frilled shirt
-frilled skirt
-frills
-gender:female
-hair between eyes
-hat
-hood
-hooded cloak
-hooded robe
-jewelry
-long hair
-long sleeves
-meta:absurdres
-meta:highres
-neck ribbon
-open clothes
-pleated skirt
-rating:general
-ribbon
-robe
-series:majo no tabitabi
-shirt
-sidelocks
-skirt
-small breasts
-solo
-subreddit:imaginarywitches
-title:85 by kurattes
-uploader:vecttor
-white hair
-white shirt
-witch
-witch hat
-yellow ribbon
+1girl,
+ahoge,
+bangs,
+black cloak,
+black footwear,
+black headwear,
+black robe,
+black skirt,
+blue eyes,
+blush,
+bow,
+braid,
+breasts,
+brooch,
+broom,
+broom riding,
+character:elaina (majo no tabitabi),
+cloak,
+collared shirt,
+creator:kurattes,
+field,
+flower,
+flower field,
+frilled shirt,
+frilled skirt,
+frills,
+gender:female,
+hair between eyes,
+hat,
+hood,
+hooded cloak,
+hooded robe,
+jewelry,
+long hair,
+long sleeves,
+meta:absurdres,
+meta:highres,
+neck ribbon,
+open clothes,
+pleated skirt,
+rating:general,
+ribbon,
+robe,
+series:majo no tabitabi,
+shirt,
+sidelocks,
+skirt,
+small breasts,
+solo,
+subreddit:imaginarywitches,
+title:85 by kurattes,
+uploader:vecttor,
+white hair,
+white shirt,
+witch,
+witch hat,
+yellow ribbon,

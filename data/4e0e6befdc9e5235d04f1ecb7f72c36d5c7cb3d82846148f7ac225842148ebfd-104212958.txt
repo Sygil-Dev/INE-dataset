@@ -1,23 +1,23 @@
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-horizon
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginaryleviathans
-sun
-sunset
-title:shark by vyacheslav safronov
-twilight
-uploader:blood-n-cheese
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+horizon,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginaryleviathans,
+sun,
+sunset,
+title:shark by vyacheslav safronov,
+twilight,
+uploader:blood-n-cheese,

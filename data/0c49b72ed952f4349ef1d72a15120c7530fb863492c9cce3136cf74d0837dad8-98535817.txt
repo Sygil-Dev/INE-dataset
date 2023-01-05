@@ -1,20 +1,20 @@
-6+boys
-card
-facial hair
-game console
-hat
-multiple boys
-mustache
-playing card
-rating:safe
-style parody
-subreddit:imaginarybestof
-subreddit:imaginarynewnewyork
-sword
-table
-teeth
-title:[/r/imaginarynewnewyork] adult swim crossover by dan borgonos
-title:adult swim crossover by dan borgonos
-uniform
-uploader:lol33ta
-weapon
+6+boys,
+card,
+facial hair,
+game console,
+hat,
+multiple boys,
+mustache,
+playing card,
+rating:safe,
+style parody,
+subreddit:imaginarybestof,
+subreddit:imaginarynewnewyork,
+sword,
+table,
+teeth,
+title:[/r/imaginarynewnewyork] adult swim crossover by dan borgonos,
+title:adult swim crossover by dan borgonos,
+uniform,
+uploader:lol33ta,
+weapon,

@@ -1,25 +1,25 @@
-1girl
-black hair
-brown eyes
-cable
-cellphone
-cloud
-digital media player
-headphones
-holding
-holding phone
-iphone
-looking at phone
-phone
-power lines
-rating:safe
-short hair
-signature
-sky
-smartphone
-solo
-subreddit:imaginarymeirl
-tank top
-title:apathy by evan cheng
-uploader:blood-n-cheese
-utility pole
+1girl,
+black hair,
+brown eyes,
+cable,
+cellphone,
+cloud,
+digital media player,
+headphones,
+holding,
+holding phone,
+iphone,
+looking at phone,
+phone,
+power lines,
+rating:safe,
+short hair,
+signature,
+sky,
+smartphone,
+solo,
+subreddit:imaginarymeirl,
+tank top,
+title:apathy by evan cheng,
+uploader:blood-n-cheese,
+utility pole,

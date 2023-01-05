@@ -1,37 +1,37 @@
-bird
-bush
-campfire
-cloud
-cloudy sky
-dusk
-evening
-fence
-field
-fire
-flower
-forest
-grass
-hat
-hill
-house
-landscape
-mountain
-mountainous horizon
-multiple boys
-nature
-on grass
-orange sky
-outdoors
-path
-plant
-rating:safe
-river
-road
-scenery
-sky
-subreddit:imaginarypathways
-sunset
-title:kingdom come by tomas duchek
-tree
-twilight
-uploader:lol33ta
+bird,
+bush,
+campfire,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fence,
+field,
+fire,
+flower,
+forest,
+grass,
+hat,
+hill,
+house,
+landscape,
+mountain,
+mountainous horizon,
+multiple boys,
+nature,
+on grass,
+orange sky,
+outdoors,
+path,
+plant,
+rating:safe,
+river,
+road,
+scenery,
+sky,
+subreddit:imaginarypathways,
+sunset,
+title:kingdom come by tomas duchek,
+tree,
+twilight,
+uploader:lol33ta,

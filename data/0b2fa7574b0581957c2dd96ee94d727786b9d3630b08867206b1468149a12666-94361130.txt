@@ -1,34 +1,34 @@
-autumn
-bare tree
-branch
-bush
-cherry blossoms
-day
-fence
-foliage
-forest
-grass
-house
-lake
-moon
-mountain
-nature
-night
-no humans
-outdoors
-palm tree
-park
-path
-pine tree
-plant
-rating:safe
-road
-scenery
-sky
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:the retreat by artist michael james cox
-tree
-tree shade
-tree stump
-uploader:anon_ymou5
+autumn,
+bare tree,
+branch,
+bush,
+cherry blossoms,
+day,
+fence,
+foliage,
+forest,
+grass,
+house,
+lake,
+moon,
+mountain,
+nature,
+night,
+no humans,
+outdoors,
+palm tree,
+park,
+path,
+pine tree,
+plant,
+rating:safe,
+road,
+scenery,
+sky,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:the retreat by artist michael james cox,
+tree,
+tree shade,
+tree stump,
+uploader:anon_ymou5,

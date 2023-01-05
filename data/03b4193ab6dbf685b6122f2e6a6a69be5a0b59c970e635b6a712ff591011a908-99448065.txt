@@ -1,26 +1,26 @@
-1boy
-abs
-armor
-brick wall
-crack
-full body
-green eyes
-hexagon
-holding
-honeycomb (pattern)
-honeycomb background
-jewelry
-male focus
-muscular
-rating:safe
-solo
-staff
-standing
-stone floor
-subreddit:imaginaryimmortals
-tile floor
-tile wall
-tiles
-title:pretorian by pavel kobyzev
-uploader:lol33ta
-weapon
+1boy,
+abs,
+armor,
+brick wall,
+crack,
+full body,
+green eyes,
+hexagon,
+holding,
+honeycomb (pattern),
+honeycomb background,
+jewelry,
+male focus,
+muscular,
+rating:safe,
+solo,
+staff,
+standing,
+stone floor,
+subreddit:imaginaryimmortals,
+tile floor,
+tile wall,
+tiles,
+title:pretorian by pavel kobyzev,
+uploader:lol33ta,
+weapon,

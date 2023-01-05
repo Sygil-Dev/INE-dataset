@@ -1,24 +1,24 @@
-armor
-axe
-battle
-bow (weapon)
-breathing fire
-explosion
-fire
-flaming sword
-flaming weapon
-gauntlets
-helmet
-holding
-holding sword
-holding weapon
-multiple boys
-open mouth
-polearm
-rating:safe
-shield
-subreddit:imaginarybattlefields
-sword
-title:beneath oresa by ognjen sporin
-uploader:lol33ta
-weapon
+armor,
+axe,
+battle,
+bow (weapon),
+breathing fire,
+explosion,
+fire,
+flaming sword,
+flaming weapon,
+gauntlets,
+helmet,
+holding,
+holding sword,
+holding weapon,
+multiple boys,
+open mouth,
+polearm,
+rating:safe,
+shield,
+subreddit:imaginarybattlefields,
+sword,
+title:beneath oresa by ognjen sporin,
+uploader:lol33ta,
+weapon,

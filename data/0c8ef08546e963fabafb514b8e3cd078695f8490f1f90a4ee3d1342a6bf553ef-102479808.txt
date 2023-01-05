@@ -1,27 +1,27 @@
-1boy
-armor
-blue fire
-cape
-fire
-flame
-flaming sword
-flaming weapon
-full body
-gauntlets
-glowing
-glowing eyes
-grey background
-helmet
-holding weapon
-horns
-magic
-rating:safe
-simple background
-skull
-solo
-standing
-subreddit:imaginaryundead
-sword
-title:midwives to death by igor grechanyi
-uploader:lol33ta
-weapon
+1boy,
+armor,
+blue fire,
+cape,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+full body,
+gauntlets,
+glowing,
+glowing eyes,
+grey background,
+helmet,
+holding weapon,
+horns,
+magic,
+rating:safe,
+simple background,
+skull,
+solo,
+standing,
+subreddit:imaginaryundead,
+sword,
+title:midwives to death by igor grechanyi,
+uploader:lol33ta,
+weapon,

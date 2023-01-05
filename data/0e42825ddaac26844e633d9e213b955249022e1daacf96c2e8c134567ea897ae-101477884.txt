@@ -1,49 +1,49 @@
-beach
-beach umbrella
-bird
-blue sky
-boat
-cloud
-cloudy sky
-coconut
-condensation trail
-crab
-day
-fishing
-food
-hat
-horizon
-island
-lighthouse
-mountain
-mountainous horizon
-ocean
-outdoors
-palm tree
-pokemon (creature)
-rating:safe
-rock
-sand
-sand castle
-sand sculpture
-scenery
-seagull
-seashell
-shell
-shore
-sky
-starfish
-subreddit:imaginarysummerscapes
-summer
-sun
-swimsuit
-title:summer vacation by parkseil 박세일
-tree
-tree shade
-tropical drink
-umbrella
-uploader:chalkchick0
-water
-watercraft
-watermelon
-waves
+beach,
+beach umbrella,
+bird,
+blue sky,
+boat,
+cloud,
+cloudy sky,
+coconut,
+condensation trail,
+crab,
+day,
+fishing,
+food,
+hat,
+horizon,
+island,
+lighthouse,
+mountain,
+mountainous horizon,
+ocean,
+outdoors,
+palm tree,
+pokemon (creature),
+rating:safe,
+rock,
+sand,
+sand castle,
+sand sculpture,
+scenery,
+seagull,
+seashell,
+shell,
+shore,
+sky,
+starfish,
+subreddit:imaginarysummerscapes,
+summer,
+sun,
+swimsuit,
+title:summer vacation by parkseil 박세일,
+tree,
+tree shade,
+tropical drink,
+umbrella,
+uploader:chalkchick0,
+water,
+watercraft,
+watermelon,
+waves,

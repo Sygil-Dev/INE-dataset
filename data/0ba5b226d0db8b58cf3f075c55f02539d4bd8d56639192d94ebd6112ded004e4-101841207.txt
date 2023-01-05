@@ -1,37 +1,37 @@
-1boy
-1girl
-bangs
-black hair
-blurry
-blurry background
-blurry foreground
-blush
-character:shinomiya kaguya
-closed eyes
-couple
-depth of field
-film grain
-folded ponytail
-hair ribbon
-heart
-heart background
-heart balloon
-heart censor
-heart pillow
-heart print
-hetero
-jacket
-kiss
-kissing cheek
-long sleeves
-motion blur
-rating:safe
-red ribbon
-ribbon
-school uniform
-shuuchiin academy uniform
-subreddit:imaginarylovers
-title:kaguya by bach do
-uploader:merigemini
-watermark
-yuri
+1boy,
+1girl,
+bangs,
+black hair,
+blurry,
+blurry background,
+blurry foreground,
+blush,
+character:shinomiya kaguya,
+closed eyes,
+couple,
+depth of field,
+film grain,
+folded ponytail,
+hair ribbon,
+heart,
+heart background,
+heart balloon,
+heart censor,
+heart pillow,
+heart print,
+hetero,
+jacket,
+kiss,
+kissing cheek,
+long sleeves,
+motion blur,
+rating:safe,
+red ribbon,
+ribbon,
+school uniform,
+shuuchiin academy uniform,
+subreddit:imaginarylovers,
+title:kaguya by bach do,
+uploader:merigemini,
+watermark,
+yuri,

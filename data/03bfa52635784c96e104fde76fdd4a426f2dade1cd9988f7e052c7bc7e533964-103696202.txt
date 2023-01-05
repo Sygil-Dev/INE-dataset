@@ -1,52 +1,52 @@
-1boy
-1girl
-animal on shoulder
-aurora
-blue eyes
-bunny
-character:espeon
-character:jigglypuff
-character:mew
-character:mewtwo
-character:scorbunny
-character:sylveon
-character:umbreon
-cloud
-creature
-crescent moon
-dusk
-galaxy
-gradient sky
-holding
-holding pokemon
-milky way
-moon
-night
-night sky
-on shoulder
-open mouth
-outdoors
-pants
-planet
-poke ball
-pokemon (creature)
-pokemon on shoulder
-purple sky
-rating:safe
-red moon
-red sky
-shoes
-shooting star
-sky
-smile
-space
-star (sky)
-star (symbol)
-starry background
-starry sky
-subreddit:imaginarykanto
-subreddit:imaginarypets
-sunset
-title:the gym leader starfire! by olifux art
-twilight
-uploader:lol33ta
+1boy,
+1girl,
+animal on shoulder,
+aurora,
+blue eyes,
+bunny,
+character:espeon,
+character:jigglypuff,
+character:mew,
+character:mewtwo,
+character:scorbunny,
+character:sylveon,
+character:umbreon,
+cloud,
+creature,
+crescent moon,
+dusk,
+galaxy,
+gradient sky,
+holding,
+holding pokemon,
+milky way,
+moon,
+night,
+night sky,
+on shoulder,
+open mouth,
+outdoors,
+pants,
+planet,
+poke ball,
+pokemon (creature),
+pokemon on shoulder,
+purple sky,
+rating:safe,
+red moon,
+red sky,
+shoes,
+shooting star,
+sky,
+smile,
+space,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+subreddit:imaginarykanto,
+subreddit:imaginarypets,
+sunset,
+title:the gym leader starfire! by olifux art,
+twilight,
+uploader:lol33ta,

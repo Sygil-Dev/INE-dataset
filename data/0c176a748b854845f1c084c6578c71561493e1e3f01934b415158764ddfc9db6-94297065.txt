@@ -1,45 +1,45 @@
-architecture
-bamboo
-bare tree
-beach
-blinds
-blue sky
-boat
-branch
-bridge
-building
-city
-cityscape
-cloud
-cloudy sky
-day
-east asian architecture
-grass
-horizon
-house
-island
-ivy
-leaf
-no humans
-ocean
-outdoors
-palm leaf
-palm tree
-plant
-potted plant
-rating:safe
-sand
-scenery
-sky
-skyscraper
-stairs
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-tanabata
-tanzaku
-title:coco's paradise inn by artist tuomas korpi
-tree
-tree shade
-uploader:anon_ymou5
-water
-waterfall
+architecture,
+bamboo,
+bare tree,
+beach,
+blinds,
+blue sky,
+boat,
+branch,
+bridge,
+building,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+east asian architecture,
+grass,
+horizon,
+house,
+island,
+ivy,
+leaf,
+no humans,
+ocean,
+outdoors,
+palm leaf,
+palm tree,
+plant,
+potted plant,
+rating:safe,
+sand,
+scenery,
+sky,
+skyscraper,
+stairs,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+tanabata,
+tanzaku,
+title:coco's paradise inn by artist tuomas korpi,
+tree,
+tree shade,
+uploader:anon_ymou5,
+water,
+waterfall,

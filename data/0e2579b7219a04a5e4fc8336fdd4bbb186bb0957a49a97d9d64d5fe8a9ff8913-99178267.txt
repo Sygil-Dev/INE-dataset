@@ -1,21 +1,21 @@
-1boy
-armor
-breastplate
-facial hair
-facing viewer
-full body
-grey background
-holding
-holding sword
-holding weapon
-male focus
-rating:safe
-simple background
-solo
-standing
-subreddit:imaginarywarhammer
-sword
-title:ottoman inspired imperial guard colonel, art by me
-traditional media
-uploader:thekillercpu
-weapon
+1boy,
+armor,
+breastplate,
+facial hair,
+facing viewer,
+full body,
+grey background,
+holding,
+holding sword,
+holding weapon,
+male focus,
+rating:safe,
+simple background,
+solo,
+standing,
+subreddit:imaginarywarhammer,
+sword,
+title:ottoman inspired imperial guard colonel, art by me,
+traditional media,
+uploader:thekillercpu,
+weapon,

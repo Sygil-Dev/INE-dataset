@@ -1,32 +1,32 @@
-aircraft
-airplane
-airship
-aurora
-boat
-constellation
-earth (planet)
-galaxy
-island
-milky way
-moon
-night
-night sky
-ocean
-planet
-rating:safe
-rocket
-ship
-shooting star
-sky
-space
-space craft
-star (sky)
-star (symbol)
-starry background
-starry sky
-subreddit:imaginarydisney
-title:never never land by jacob mcalister
-uploader:lol33ta
-water
-watercraft
-whale
+aircraft,
+airplane,
+airship,
+aurora,
+boat,
+constellation,
+earth (planet),
+galaxy,
+island,
+milky way,
+moon,
+night,
+night sky,
+ocean,
+planet,
+rating:safe,
+rocket,
+ship,
+shooting star,
+sky,
+space,
+space craft,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+subreddit:imaginarydisney,
+title:never never land by jacob mcalister,
+uploader:lol33ta,
+water,
+watercraft,
+whale,

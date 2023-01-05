@@ -1,44 +1,44 @@
-1girl
-against tree
-black hair
-bush
-campfire
-christmas tree
-dappled sunlight
-dark elf
-dark skin
-dark-skinned female
-day
-elf
-foliage
-forest
-fur collar
-fur trim
-grass
-jungle
-log
-moss
-nature
-on grass
-on ground
-outdoors
-park
-path
-plant
-pointy ears
-rating:safe
-river
-road
-solo
-subreddit:reasonablefantasy
-sword
-tent
-title:critical role - vex'ahlia by raquel pipa
-torn clothes
-tree
-tree shade
-tree stump
-tribal
-under tree
-uploader:affectionate_fox_288
-weapon
+1girl,
+against tree,
+black hair,
+bush,
+campfire,
+christmas tree,
+dappled sunlight,
+dark elf,
+dark skin,
+dark-skinned female,
+day,
+elf,
+foliage,
+forest,
+fur collar,
+fur trim,
+grass,
+jungle,
+log,
+moss,
+nature,
+on grass,
+on ground,
+outdoors,
+park,
+path,
+plant,
+pointy ears,
+rating:safe,
+river,
+road,
+solo,
+subreddit:reasonablefantasy,
+sword,
+tent,
+title:critical role - vex'ahlia by raquel pipa,
+torn clothes,
+tree,
+tree shade,
+tree stump,
+tribal,
+under tree,
+uploader:affectionate_fox_288,
+weapon,

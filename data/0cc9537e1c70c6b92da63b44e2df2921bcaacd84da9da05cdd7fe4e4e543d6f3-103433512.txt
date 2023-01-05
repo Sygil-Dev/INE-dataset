@@ -1,31 +1,31 @@
-1girl
-afterword
-album cover
-bangs
-blush
-character profile
-chat log
-credits
-credits page
-english text
-eyebrows visible through hair
-fake cover
-greyscale
-how to
-italian text
-looking at viewer
-on back
-open book
-open mouth
-pixiv id
-poke ball (basic)
-poster (medium)
-rating:safe
-selfie
-stats
-subreddit:imaginarykanto
-subreddit:imaginaryweaponry
-sword
-thai text
-title:143g - gigantimax snorlax by foresterdesigns
-uploader:comics0026
+1girl,
+afterword,
+album cover,
+bangs,
+blush,
+character profile,
+chat log,
+credits,
+credits page,
+english text,
+eyebrows visible through hair,
+fake cover,
+greyscale,
+how to,
+italian text,
+looking at viewer,
+on back,
+open book,
+open mouth,
+pixiv id,
+poke ball (basic),
+poster (medium),
+rating:safe,
+selfie,
+stats,
+subreddit:imaginarykanto,
+subreddit:imaginaryweaponry,
+sword,
+thai text,
+title:143g - gigantimax snorlax by foresterdesigns,
+uploader:comics0026,

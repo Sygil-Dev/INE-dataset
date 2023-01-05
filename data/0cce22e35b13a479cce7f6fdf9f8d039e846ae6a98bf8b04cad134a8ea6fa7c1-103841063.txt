@@ -1,25 +1,25 @@
-1girl
-bamboo
-barefoot
-couch
-hat
-indoors
-jewelry
-leaf
-long hair
-multiple boys
-palm tree
-plant
-potted plant
-rating:safe
-sitting
-sky
-star (sky)
-starry sky
-subreddit:imaginaryfamilies
-tanabata
-tanzaku
-title:illustration by washanapple
-tree
-uploader:unhingedcorpse
-window
+1girl,
+bamboo,
+barefoot,
+couch,
+hat,
+indoors,
+jewelry,
+leaf,
+long hair,
+multiple boys,
+palm tree,
+plant,
+potted plant,
+rating:safe,
+sitting,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginaryfamilies,
+tanabata,
+tanzaku,
+title:illustration by washanapple,
+tree,
+uploader:unhingedcorpse,
+window,

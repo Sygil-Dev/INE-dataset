@@ -1,20 +1,20 @@
-1girl
-flower
-gender:female
-green headwear
-hat
-instrument
-leaf
-long hair
-pink hair
-plant
-potted plant
-rating:safe
-red flower
-sitting
-solo
-subreddit:imaginarywitches
-title:实验1 by rc yang0525
-uploader:omegashadow
-witch
-witch hat
+1girl,
+flower,
+gender:female,
+green headwear,
+hat,
+instrument,
+leaf,
+long hair,
+pink hair,
+plant,
+potted plant,
+rating:safe,
+red flower,
+sitting,
+solo,
+subreddit:imaginarywitches,
+title:实验1 by rc yang0525,
+uploader:omegashadow,
+witch,
+witch hat,

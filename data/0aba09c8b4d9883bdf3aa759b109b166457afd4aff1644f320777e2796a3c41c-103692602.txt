@@ -1,25 +1,25 @@
-1girl
-armor
-black hair
-boots
-full body
-fur trim
-gloves
-grey background
-hat
-holding sword
-holding weapon
-long hair
-looking at viewer
-rating:safe
-red eyes
-sheath
-sheathed
-signature
-solo
-standing
-subreddit:imaginaryfashion
-sword
-title:onna-bugeisha amaterasu by zach fischer
-uploader:myrandall
-weapon
+1girl,
+armor,
+black hair,
+boots,
+full body,
+fur trim,
+gloves,
+grey background,
+hat,
+holding sword,
+holding weapon,
+long hair,
+looking at viewer,
+rating:safe,
+red eyes,
+sheath,
+sheathed,
+signature,
+solo,
+standing,
+subreddit:imaginaryfashion,
+sword,
+title:onna-bugeisha amaterasu by zach fischer,
+uploader:myrandall,
+weapon,

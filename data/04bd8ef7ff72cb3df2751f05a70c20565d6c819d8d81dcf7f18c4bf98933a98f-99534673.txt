@@ -1,48 +1,48 @@
-1girl
-antique firearm
-battle
-breasts
-breathing fire
-bullet
-bullet hole
-burning
-campfire
-candle
-casing ejection
-cowboy hat
-embers
-explosion
-fire
-fireplace
-fireworks
-firing
-flame
-flaming sword
-flaming weapon
-green eyes
-gun
-handgun
-hat
-holding gun
-long hair
-magic
-molten rock
-muzzle flash
-pistol
-pyrokinesis
-rain
-rating:safe
-revolver
-rifle
-shell casing
-ship
-smoke
-solo
-sparks
-subreddit:imaginarypirates
-sun
-sunset
-title:mary read, by george benta
-torch
-uploader:sylvyrfyre
-weapon
+1girl,
+antique firearm,
+battle,
+breasts,
+breathing fire,
+bullet,
+bullet hole,
+burning,
+campfire,
+candle,
+casing ejection,
+cowboy hat,
+embers,
+explosion,
+fire,
+fireplace,
+fireworks,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+green eyes,
+gun,
+handgun,
+hat,
+holding gun,
+long hair,
+magic,
+molten rock,
+muzzle flash,
+pistol,
+pyrokinesis,
+rain,
+rating:safe,
+revolver,
+rifle,
+shell casing,
+ship,
+smoke,
+solo,
+sparks,
+subreddit:imaginarypirates,
+sun,
+sunset,
+title:mary read, by george benta,
+torch,
+uploader:sylvyrfyre,
+weapon,

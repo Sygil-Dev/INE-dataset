@@ -1,20 +1,20 @@
-bare tree
-building
-castle
-cloud
-cloudy sky
-helmet
-house
-mountain
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryfallout
-sunset
-title:raider's rook by austin nichols
-tower
-tree
-twilight
-uploader:i_burn_cereal
-weapon
+bare tree,
+building,
+castle,
+cloud,
+cloudy sky,
+helmet,
+house,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryfallout,
+sunset,
+title:raider's rook by austin nichols,
+tower,
+tree,
+twilight,
+uploader:i_burn_cereal,
+weapon,

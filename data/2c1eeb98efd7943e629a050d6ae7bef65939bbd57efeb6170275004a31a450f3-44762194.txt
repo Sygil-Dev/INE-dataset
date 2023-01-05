@@ -1,36 +1,36 @@
-armor
-bandaged hand
-bandages
-bent knees
-blonde
-blonde hair
-blood
-bodily fluids
-bone
-booru:sankaku
-booru:sankaku channel
-character:skeleton
-closed eyes
-creator:chris chan
-creator:gyxycn
-eyes closed
-female
-fetal position
-gender:female
-in water
-long hair
-medium:high resolution
-rating:s
-rating:safe
-series:original
-skeleton
-solo
-subreddit:imaginaryelves
-subreddit:imraces
-sword
-title:joan of doom
-title:joan of doom, by chris chan (gyxycn)
-unconscious
-uploader:tabulaerrata
-water
-weapon
+armor,
+bandaged hand,
+bandages,
+bent knees,
+blonde,
+blonde hair,
+blood,
+bodily fluids,
+bone,
+booru:sankaku,
+booru:sankaku channel,
+character:skeleton,
+closed eyes,
+creator:chris chan,
+creator:gyxycn,
+eyes closed,
+female,
+fetal position,
+gender:female,
+in water,
+long hair,
+medium:high resolution,
+rating:s,
+rating:safe,
+series:original,
+skeleton,
+solo,
+subreddit:imaginaryelves,
+subreddit:imraces,
+sword,
+title:joan of doom,
+title:joan of doom, by chris chan (gyxycn),
+unconscious,
+uploader:tabulaerrata,
+water,
+weapon,

@@ -1,20 +1,20 @@
-6+boys
-aircraft
-artist name
-building
-city
-copyright name
-dated
-gun
-multiple boys
-no humans
-rating:safe
-rifle
-ship
-subreddit:imaginarytaverns
-title:pirate pub by thuan nguyen
-uploader:karmagheden
-watercraft
-watermark
-weapon
-web address
+6+boys,
+aircraft,
+artist name,
+building,
+city,
+copyright name,
+dated,
+gun,
+multiple boys,
+no humans,
+rating:safe,
+rifle,
+ship,
+subreddit:imaginarytaverns,
+title:pirate pub by thuan nguyen,
+uploader:karmagheden,
+watercraft,
+watermark,
+weapon,
+web address,

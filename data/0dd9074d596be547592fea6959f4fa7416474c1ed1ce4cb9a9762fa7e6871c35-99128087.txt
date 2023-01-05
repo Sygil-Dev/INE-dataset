@@ -1,50 +1,50 @@
-architecture
-autumn
-autumn leaves
-bare tree
-breathing fire
-bridge
-building
-burning
-campfire
-candle
-candlelight
-candlestand
-city
-city lights
-cityscape
-dusk
-east asian architecture
-embers
-evening
-explosion
-fantasy
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-lantern
-magic
-molten rock
-mountain
-night
-no humans
-orange sky
-pagoda
-paper lantern
-rating:safe
-red sky
-road
-scenery
-smoke
-subreddit:imaginaryvillages
-sunset
-title:more from new midnightcalling by elli lebedeva
-torch
-tower
-tree
-twilight
-uploader:sr_myers
-water
+architecture,
+autumn,
+autumn leaves,
+bare tree,
+breathing fire,
+bridge,
+building,
+burning,
+campfire,
+candle,
+candlelight,
+candlestand,
+city,
+city lights,
+cityscape,
+dusk,
+east asian architecture,
+embers,
+evening,
+explosion,
+fantasy,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+lantern,
+magic,
+molten rock,
+mountain,
+night,
+no humans,
+orange sky,
+pagoda,
+paper lantern,
+rating:safe,
+red sky,
+road,
+scenery,
+smoke,
+subreddit:imaginaryvillages,
+sunset,
+title:more from new midnightcalling by elli lebedeva,
+torch,
+tower,
+tree,
+twilight,
+uploader:sr_myers,
+water,

@@ -1,58 +1,58 @@
-bicycle
-building
-bush
-campfire
-category:ine
-city
-city lights
-cityscape
-cliff
-cloud
-cloudy sky
-dusk
-evening
-field
-fire
-forest
-gradient sky
-grass
-hill
-horizon
-house
-island
-lake
-landscape
-lighthouse
-mountain
-mountainous horizon
-nature
-ocean
-orange sky
-outdoors
-palm tree
-path
-power lines
-purple sky
-rating:safe
-red sky
-river
-road
-rock
-ruins
-scenery
-shore
-sky
-solo
-star (sky)
-subreddit:imaginarybestof
-sun
-sunrise
-sunset
-title:[/r/imaginarywildlands] the world she wanted by andrea koroveshi
-tree
-twilight
-uploader:lol33ta
-utility pole
-volcano
-water
-yellow sky
+bicycle,
+building,
+bush,
+campfire,
+category:ine,
+city,
+city lights,
+cityscape,
+cliff,
+cloud,
+cloudy sky,
+dusk,
+evening,
+field,
+fire,
+forest,
+gradient sky,
+grass,
+hill,
+horizon,
+house,
+island,
+lake,
+landscape,
+lighthouse,
+mountain,
+mountainous horizon,
+nature,
+ocean,
+orange sky,
+outdoors,
+palm tree,
+path,
+power lines,
+purple sky,
+rating:safe,
+red sky,
+river,
+road,
+rock,
+ruins,
+scenery,
+shore,
+sky,
+solo,
+star (sky),
+subreddit:imaginarybestof,
+sun,
+sunrise,
+sunset,
+title:[/r/imaginarywildlands] the world she wanted by andrea koroveshi,
+tree,
+twilight,
+uploader:lol33ta,
+utility pole,
+volcano,
+water,
+yellow sky,

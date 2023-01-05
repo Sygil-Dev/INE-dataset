@@ -1,22 +1,22 @@
-armor
-breastplate
-cape
-faulds
-full armor
-gauntlets
-helmet
-holding
-holding sword
-holding weapon
-knight
-pauldrons
-planted
-planted sword
-rating:safe
-shoulder armor
-standing
-subreddit:imaginarywarhammer
-sword
-title:dark angel by hammk
-uploader:unequaleddelirium_17
-weapon
+armor,
+breastplate,
+cape,
+faulds,
+full armor,
+gauntlets,
+helmet,
+holding,
+holding sword,
+holding weapon,
+knight,
+pauldrons,
+planted,
+planted sword,
+rating:safe,
+shoulder armor,
+standing,
+subreddit:imaginarywarhammer,
+sword,
+title:dark angel by hammk,
+uploader:unequaleddelirium_17,
+weapon,

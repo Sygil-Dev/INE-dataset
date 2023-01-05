@@ -1,33 +1,33 @@
-burning
-candle
-city
-cloud
-cloudy sky
-dusk
-embers
-evening
-explosion
-fire
-flame
-horizon
-molten rock
-mountain
-multiple others
-orange sky
-outdoors
-rating:safe
-red sky
-river
-ruins
-scenery
-sky
-sparks
-standing
-subreddit:imaginaryvolcanoes
-sun
-sunset
-title:volcano erupt by nutchapol thitinunthakorn
-torch
-twilight
-uploader:[deleted]
-water
+burning,
+candle,
+city,
+cloud,
+cloudy sky,
+dusk,
+embers,
+evening,
+explosion,
+fire,
+flame,
+horizon,
+molten rock,
+mountain,
+multiple others,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+river,
+ruins,
+scenery,
+sky,
+sparks,
+standing,
+subreddit:imaginaryvolcanoes,
+sun,
+sunset,
+title:volcano erupt by nutchapol thitinunthakorn,
+torch,
+twilight,
+uploader:[deleted],
+water,

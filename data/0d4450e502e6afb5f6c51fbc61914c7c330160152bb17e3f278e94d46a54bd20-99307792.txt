@@ -1,38 +1,38 @@
-battle
-breathing fire
-building
-burning
-campfire
-candle
-character:hunter (bloodborne)
-city
-cloud
-embers
-explosion
-fire
-firing
-flame
-flaming sword
-flaming weapon
-gun
-hat
-holding
-holding gun
-holding weapon
-magic
-molten rock
-multiple boys
-rating:safe
-rifle
-sky
-smoke
-sparks
-subreddit:imaginarygatherings
-sunset
-sword
-title:s**tstorm by richard wright
-torch
-tricorne
-uploader:e-leventy
-war
-weapon
+battle,
+breathing fire,
+building,
+burning,
+campfire,
+candle,
+character:hunter (bloodborne),
+city,
+cloud,
+embers,
+explosion,
+fire,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+gun,
+hat,
+holding,
+holding gun,
+holding weapon,
+magic,
+molten rock,
+multiple boys,
+rating:safe,
+rifle,
+sky,
+smoke,
+sparks,
+subreddit:imaginarygatherings,
+sunset,
+sword,
+title:s**tstorm by richard wright,
+torch,
+tricorne,
+uploader:e-leventy,
+war,
+weapon,

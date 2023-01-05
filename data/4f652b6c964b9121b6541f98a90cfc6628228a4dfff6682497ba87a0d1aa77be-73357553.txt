@@ -1,25 +1,25 @@
-avengers
-comic
-comic artist
-comic book art
-comic book artist
-comics
-cover art
-cover artist
-creator:david nakayama
-cyclops
-david nakayama
-drawing
-empyre
-krakoa
-kree
-medium:digital 2d
-professor x
-skrull
-storm
-subreddit:imaginarymarvel
-superhero
-superheroes
-title:x-men | empyre by david nakayama
-uploader:lol33ta
-xmen
+avengers,
+comic,
+comic artist,
+comic book art,
+comic book artist,
+comics,
+cover art,
+cover artist,
+creator:david nakayama,
+cyclops,
+david nakayama,
+drawing,
+empyre,
+krakoa,
+kree,
+medium:digital 2d,
+professor x,
+skrull,
+storm,
+subreddit:imaginarymarvel,
+superhero,
+superheroes,
+title:x-men | empyre by david nakayama,
+uploader:lol33ta,
+xmen,

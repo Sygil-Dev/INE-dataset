@@ -1,33 +1,33 @@
-architecture
-balcony
-bridge
-building
-castle
-chimney
-city
-city lights
-cityscape
-clock tower
-cloud
-east asian architecture
-fantasy
-house
-lamppost
-outdoors
-pagoda
-railing
-rating:safe
-river
-road
-rooftop
-scenery
-sky
-skyline
-skyscraper
-stairs
-street
-subreddit:imaginarycityscapes
-title:northern district by romel rojas
-tower
-town
-uploader:dancing_cthulhu
+architecture,
+balcony,
+bridge,
+building,
+castle,
+chimney,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+east asian architecture,
+fantasy,
+house,
+lamppost,
+outdoors,
+pagoda,
+railing,
+rating:safe,
+river,
+road,
+rooftop,
+scenery,
+sky,
+skyline,
+skyscraper,
+stairs,
+street,
+subreddit:imaginarycityscapes,
+title:northern district by romel rojas,
+tower,
+town,
+uploader:dancing_cthulhu,

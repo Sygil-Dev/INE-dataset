@@ -1,23 +1,23 @@
-blue sky
-cloud
-cloudy sky
-day
-horizon
-mountain
-no humans
-ocean
-outdoors
-rating:safe
-rock
-scenery
-sky
-subreddit:imaginarycolorscapes
-subreddit:imaginarymindscapes
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-subreddit:immeta
-sunflower
-title:a dream
-tree
-uploader:cozyeraa
-water
+blue sky,
+cloud,
+cloudy sky,
+day,
+horizon,
+mountain,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+rock,
+scenery,
+sky,
+subreddit:imaginarycolorscapes,
+subreddit:imaginarymindscapes,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+subreddit:immeta,
+sunflower,
+title:a dream,
+tree,
+uploader:cozyeraa,
+water,

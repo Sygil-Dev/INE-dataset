@@ -1,19 +1,19 @@
-brown eyes
-brown hair
-couch
-grass
-hood
-hoodie
-pants
-plant
-potted plant
-rating:safe
-red footwear
-shoes
-short hair
-sitting
-sneakers
-solo
-subreddit:imaginarybodyscapes
-title:headspace, by queenvera
-uploader:belledame-sans-serif
+brown eyes,
+brown hair,
+couch,
+grass,
+hood,
+hoodie,
+pants,
+plant,
+potted plant,
+rating:safe,
+red footwear,
+shoes,
+short hair,
+sitting,
+sneakers,
+solo,
+subreddit:imaginarybodyscapes,
+title:headspace, by queenvera,
+uploader:belledame-sans-serif,

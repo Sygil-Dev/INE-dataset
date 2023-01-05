@@ -1,44 +1,44 @@
-1girl
-astronaut
-aurora
-building
-christmas
-christmas lights
-christmas tree
-city
-city lights
-cityscape
-constellation
-crescent moon
-earth (planet)
-ferris wheel
-fireworks
-galaxy
-light particles
-long hair
-milky way
-moon
-night
-night sky
-planet
-rating:safe
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-space
-space craft
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginaryleviathans
-tanabata
-tanzaku
-telescope
-title:smoked christmas carp by me
-tower
-uploader:pkozera
+1girl,
+astronaut,
+aurora,
+building,
+christmas,
+christmas lights,
+christmas tree,
+city,
+city lights,
+cityscape,
+constellation,
+crescent moon,
+earth (planet),
+ferris wheel,
+fireworks,
+galaxy,
+light particles,
+long hair,
+milky way,
+moon,
+night,
+night sky,
+planet,
+rating:safe,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+space,
+space craft,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginaryleviathans,
+tanabata,
+tanzaku,
+telescope,
+title:smoked christmas carp by me,
+tower,
+uploader:pkozera,

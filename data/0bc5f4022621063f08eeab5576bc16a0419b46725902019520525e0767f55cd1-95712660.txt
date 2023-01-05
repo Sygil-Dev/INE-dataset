@@ -1,24 +1,24 @@
-1girl
-arrow (projectile)
-boat
-boots
-bow (weapon)
-cloud
-day
-fishing
-fishing rod
-flag
-outdoors
-power lines
-rating:safe
-realistic
-ship
-sky
-subreddit:imaginarypirates
-subreddit:imcharacters
-title:skull &amp; bones art by julian kok
-uploader:malilaks
-water
-watercraft
-watermark
-weapon
+1girl,
+arrow (projectile),
+boat,
+boots,
+bow (weapon),
+cloud,
+day,
+fishing,
+fishing rod,
+flag,
+outdoors,
+power lines,
+rating:safe,
+realistic,
+ship,
+sky,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+title:skull &amp; bones art by julian kok,
+uploader:malilaks,
+water,
+watercraft,
+watermark,
+weapon,

@@ -1,66 +1,66 @@
-antlers
-bell
-bow
-box
-cake
-candy
-candy cane
-capelet
-carrying over shoulder
-champagne flute
-chimney
-christmas
-christmas lights
-christmas ornaments
-christmas tree
-deer ears
-fake antlers
-fake facial hair
-fake mustache
-fire
-fireplace
-fur trim
-fur-trimmed capelet
-fur-trimmed dress
-fur-trimmed gloves
-fur-trimmed headwear
-fur-trimmed skirt
-gift
-gift bag
-gift box
-green ribbon
-hat
-holding gift
-holding sack
-holly
-indoors
-merry christmas
-neck bell
-ornament
-pine tree
-pom pom (clothes)
-rating:safe
-red capelet
-red dress
-red gloves
-red headwear
-reindeer
-reindeer antlers
-reindeer costume
-sack
-santa bikini
-santa boots
-santa costume
-santa dress
-santa gloves
-santa hat
-snowflake print
-snowflakes
-snowing
-snowman
-star (symbol)
-subreddit:imaginarymindscapes
-title:garden, me, digital, 2022
-uploader:neongravity88
-window
-wreath
+antlers,
+bell,
+bow,
+box,
+cake,
+candy,
+candy cane,
+capelet,
+carrying over shoulder,
+champagne flute,
+chimney,
+christmas,
+christmas lights,
+christmas ornaments,
+christmas tree,
+deer ears,
+fake antlers,
+fake facial hair,
+fake mustache,
+fire,
+fireplace,
+fur trim,
+fur-trimmed capelet,
+fur-trimmed dress,
+fur-trimmed gloves,
+fur-trimmed headwear,
+fur-trimmed skirt,
+gift,
+gift bag,
+gift box,
+green ribbon,
+hat,
+holding gift,
+holding sack,
+holly,
+indoors,
+merry christmas,
+neck bell,
+ornament,
+pine tree,
+pom pom (clothes),
+rating:safe,
+red capelet,
+red dress,
+red gloves,
+red headwear,
+reindeer,
+reindeer antlers,
+reindeer costume,
+sack,
+santa bikini,
+santa boots,
+santa costume,
+santa dress,
+santa gloves,
+santa hat,
+snowflake print,
+snowflakes,
+snowing,
+snowman,
+star (symbol),
+subreddit:imaginarymindscapes,
+title:garden, me, digital, 2022,
+uploader:neongravity88,
+window,
+wreath,

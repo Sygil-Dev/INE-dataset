@@ -1,38 +1,38 @@
-1boy
-autumn
-autumn leaves
-belt
-burning
-dusk
-embers
-evening
-explosion
-fiery hair
-fire
-flame
-flaming weapon
-gender:male
-gloves
-male focus
-military
-molten rock
-open hand
-open hands
-orange sky
-orange theme
-outstretched hand
-palms
-pyrokinesis
-rating:safe
-red sky
-sheathed
-sky
-solo
-subreddit:imaginarywizards
-sun
-sunset
-title:milten from gothic., jakub wilczek
-torch
-twilight
-uploader:miciy5
-waving
+1boy,
+autumn,
+autumn leaves,
+belt,
+burning,
+dusk,
+embers,
+evening,
+explosion,
+fiery hair,
+fire,
+flame,
+flaming weapon,
+gender:male,
+gloves,
+male focus,
+military,
+molten rock,
+open hand,
+open hands,
+orange sky,
+orange theme,
+outstretched hand,
+palms,
+pyrokinesis,
+rating:safe,
+red sky,
+sheathed,
+sky,
+solo,
+subreddit:imaginarywizards,
+sun,
+sunset,
+title:milten from gothic., jakub wilczek,
+torch,
+twilight,
+uploader:miciy5,
+waving,

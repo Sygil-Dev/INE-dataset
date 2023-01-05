@@ -1,21 +1,21 @@
-animal
-bare tree
-bird
-branch
-flock
-forest
-lake
-nature
-no humans
-ocean
-outdoors
-palm tree
-rating:safe
-scenery
-sky
-subreddit:imaginarymindscapes
-sunlight
-title:reflection, i did this artwork a couple of days ago!
-tree
-uploader:ahmedemadart
-water
+animal,
+bare tree,
+bird,
+branch,
+flock,
+forest,
+lake,
+nature,
+no humans,
+ocean,
+outdoors,
+palm tree,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarymindscapes,
+sunlight,
+title:reflection, i did this artwork a couple of days ago!,
+tree,
+uploader:ahmedemadart,
+water,

@@ -1,23 +1,23 @@
-black border
-bridge
-building
-city
-city lights
-cityscape
-cloud
-cloudy sky
-horizon
-letterboxed
-mountain
-no humans
-outdoors
-rating:safe
-ruins
-scenery
-sky
-subreddit:imaginaryderelicts
-sunset
-title:ashore by rene aigner
-tower
-uploader:[deleted]
-water
+black border,
+bridge,
+building,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+horizon,
+letterboxed,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+subreddit:imaginaryderelicts,
+sunset,
+title:ashore by rene aigner,
+tower,
+uploader:[deleted],
+water,

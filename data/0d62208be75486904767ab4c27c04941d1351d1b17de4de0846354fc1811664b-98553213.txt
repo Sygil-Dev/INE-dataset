@@ -1,32 +1,32 @@
-beach
-boat
-city
-city lights
-cloud
-cloudy sky
-horizon
-lake
-light particles
-mountain
-night
-night sky
-no humans
-ocean
-outdoors
-planet
-rating:safe
-river
-scenery
-shore
-sky
-snowing
-space
-star (sky)
-starry sky
-subreddit:imaginaryseascapes
-sunset
-title:the vast profound, soft pastel, 41x32cm, by me, 2022
-uploader:annadawsonart
-water
-watercraft
-waves
+beach,
+boat,
+city,
+city lights,
+cloud,
+cloudy sky,
+horizon,
+lake,
+light particles,
+mountain,
+night,
+night sky,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+river,
+scenery,
+shore,
+sky,
+snowing,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryseascapes,
+sunset,
+title:the vast profound, soft pastel, 41x32cm, by me, 2022,
+uploader:annadawsonart,
+water,
+watercraft,
+waves,

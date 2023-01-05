@@ -1,21 +1,21 @@
-animal
-bird
-blue sky
-blue theme
-cloud
-cloudy sky
-feathered wings
-feathers
-full moon
-moon
-mountain
-night
-night sky
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarymindscapes
-title:winged ideas, bruce rolff, digital, 2022
-uploader:brucerolffart
-wings
+animal,
+bird,
+blue sky,
+blue theme,
+cloud,
+cloudy sky,
+feathered wings,
+feathers,
+full moon,
+moon,
+mountain,
+night,
+night sky,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarymindscapes,
+title:winged ideas, bruce rolff, digital, 2022,
+uploader:brucerolffart,
+wings,

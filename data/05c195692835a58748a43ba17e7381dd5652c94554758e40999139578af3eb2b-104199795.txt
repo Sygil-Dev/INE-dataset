@@ -1,38 +1,38 @@
-arch
-architecture
-bookshelf
-brick wall
-bridge
-building
-castle
-chain-link fence
-chimney
-church
-city
-city lights
-cityscape
-clock
-clock tower
-east asian architecture
-fantasy
-ferris wheel
-fountain
-gate
-library
-no humans
-pagoda
-railing
-rating:safe
-river
-rooftop
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginaryarchitecture
-title:beautiful
-tokyo (city)
-tower
-town
-uploader:ricksanchez_
-water
+arch,
+architecture,
+bookshelf,
+brick wall,
+bridge,
+building,
+castle,
+chain-link fence,
+chimney,
+church,
+city,
+city lights,
+cityscape,
+clock,
+clock tower,
+east asian architecture,
+fantasy,
+ferris wheel,
+fountain,
+gate,
+library,
+no humans,
+pagoda,
+railing,
+rating:safe,
+river,
+rooftop,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginaryarchitecture,
+title:beautiful,
+tokyo (city),
+tower,
+town,
+uploader:ricksanchez_,
+water,

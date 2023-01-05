@@ -1,22 +1,22 @@
-bare tree
-branch
-bush
-forest
-grass
-jungle
-light rays
-mushroom
-nature
-outdoors
-overgrown
-plant
-rating:safe
-river
-scenery
-stream
-subreddit:imaginarybehemoths
-title:treetop recluse by tuan duong chu
-tree
-tree stump
-uploader:ultartx
-weapon
+bare tree,
+branch,
+bush,
+forest,
+grass,
+jungle,
+light rays,
+mushroom,
+nature,
+outdoors,
+overgrown,
+plant,
+rating:safe,
+river,
+scenery,
+stream,
+subreddit:imaginarybehemoths,
+title:treetop recluse by tuan duong chu,
+tree,
+tree stump,
+uploader:ultartx,
+weapon,

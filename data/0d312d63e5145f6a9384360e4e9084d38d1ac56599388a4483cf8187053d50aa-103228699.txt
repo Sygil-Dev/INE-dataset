@@ -1,27 +1,27 @@
-architecture
-bridge
-building
-city
-city lights
-cityscape
-clock tower
-crane (machine)
-destruction
-east asian architecture
-flying
-giant
-house
-library
-rating:safe
-road
-ruins
-science fiction
-skyline
-skyscraper
-street
-subreddit:imaginarymarvel
-title:iron man by ben wootten
-tokyo (city)
-tower
-town
-uploader:[deleted]
+architecture,
+bridge,
+building,
+city,
+city lights,
+cityscape,
+clock tower,
+crane (machine),
+destruction,
+east asian architecture,
+flying,
+giant,
+house,
+library,
+rating:safe,
+road,
+ruins,
+science fiction,
+skyline,
+skyscraper,
+street,
+subreddit:imaginarymarvel,
+title:iron man by ben wootten,
+tokyo (city),
+tower,
+town,
+uploader:[deleted],

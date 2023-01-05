@@ -1,27 +1,27 @@
-2d
-concept
-creator:ismail inceoglu
-daily
-digital
-environment
-fire
-giant
-landscape
-medium:digital 2d
-mitology
-scandinavia
-scandinavian
-scenery
-shield
-subreddit:imaginarybattlefields
-subreddit:imaginarybehemoths
-subreddit:imaginarygiants
-sword
-title:"late" by ismail inceoglu
-title:late
-title:late by ismail inceoglu
-uploader:kuaiban
-uploader:pyro_azer
-vikings
-war
-weapon
+2d,
+concept,
+creator:ismail inceoglu,
+daily,
+digital,
+environment,
+fire,
+giant,
+landscape,
+medium:digital 2d,
+mitology,
+scandinavia,
+scandinavian,
+scenery,
+shield,
+subreddit:imaginarybattlefields,
+subreddit:imaginarybehemoths,
+subreddit:imaginarygiants,
+sword,
+title:"late" by ismail inceoglu,
+title:late,
+title:late by ismail inceoglu,
+uploader:kuaiban,
+uploader:pyro_azer,
+vikings,
+war,
+weapon,

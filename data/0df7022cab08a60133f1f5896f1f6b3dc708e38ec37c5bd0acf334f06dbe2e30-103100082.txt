@@ -1,21 +1,21 @@
-1boy
-1girl
-bangs
-birdcage
-black nails
-blunt bangs
-cage
-earrings
-electric fan
-ground vehicle
-limited palette
-looking at viewer
-nail polish
-rating:safe
-roman numeral
-short hair
-sign
-smile
-subreddit:imaginarycyberpunk
-title:blackbox: prologue - cyberpunk manga cover by xenotrip
-uploader:ynotboyii
+1boy,
+1girl,
+bangs,
+birdcage,
+black nails,
+blunt bangs,
+cage,
+earrings,
+electric fan,
+ground vehicle,
+limited palette,
+looking at viewer,
+nail polish,
+rating:safe,
+roman numeral,
+short hair,
+sign,
+smile,
+subreddit:imaginarycyberpunk,
+title:blackbox: prologue - cyberpunk manga cover by xenotrip,
+uploader:ynotboyii,

@@ -1,42 +1,42 @@
-autumn
-autumn leaves
-breathing fire
-building
-campfire
-character:charizard
-character:charmander
-city
-door
-dusk
-fire
-fireplace
-fish
-flame
-goldfish
-gradient sky
-house
-jack-o'-lantern
-leaf
-maple leaf
-molten rock
-mushroom
-no humans
-orange flower
-orange sky
-orange theme
-outdoors
-plant
-potted plant
-pumpkin
-rating:safe
-red sky
-scenery
-stairs
-subreddit:imaginarytaverns
-sunset
-title:the one eyed dumpling bar by krzysztof maziarz
-torch
-tree
-twilight
-uploader:lol33ta
-window
+autumn,
+autumn leaves,
+breathing fire,
+building,
+campfire,
+character:charizard,
+character:charmander,
+city,
+door,
+dusk,
+fire,
+fireplace,
+fish,
+flame,
+goldfish,
+gradient sky,
+house,
+jack-o'-lantern,
+leaf,
+maple leaf,
+molten rock,
+mushroom,
+no humans,
+orange flower,
+orange sky,
+orange theme,
+outdoors,
+plant,
+potted plant,
+pumpkin,
+rating:safe,
+red sky,
+scenery,
+stairs,
+subreddit:imaginarytaverns,
+sunset,
+title:the one eyed dumpling bar by krzysztof maziarz,
+torch,
+tree,
+twilight,
+uploader:lol33ta,
+window,

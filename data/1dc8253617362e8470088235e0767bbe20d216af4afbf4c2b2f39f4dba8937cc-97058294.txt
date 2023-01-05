@@ -1,60 +1,60 @@
-1girl
-artificial flower
-bare shoulders
-black dress
-black footwear
-black gloves
-black hair
-blood
-booru:gelbooru
-boots
-character:yor briar
-clothing
-creator:hezi1109
-creator:sekaiarts
-dagger
-dress
-earrings
-female
-fingerless gloves
-footwear
-full body
-gloves
-gold hairband
-hairband
-hezi1109
-high heel boots
-high heels
-holding
-holding dagger
-holding weapon
-jewelry
-knife
-long hair
-medium:high resolution
-medium:traditional media
-medium:very high resolution
-meta:absurdres
-meta:highres
-night
-outdoors
-rating:questionable
-rating:sensitive
-series:spy x family
-shoes
-sidelocks
-sleeveless
-sleeveless dress
-solo
-source:twitter
-stiletto (weapon)
-strapless
-strapless dress
-subreddit:imaginaryfashion
-subreddit:immeta
-thigh boots
-thighhighs
-title:spy x family art by xianhe
-uploader:malilaks
-walking
-weapon
+1girl,
+artificial flower,
+bare shoulders,
+black dress,
+black footwear,
+black gloves,
+black hair,
+blood,
+booru:gelbooru,
+boots,
+character:yor briar,
+clothing,
+creator:hezi1109,
+creator:sekaiarts,
+dagger,
+dress,
+earrings,
+female,
+fingerless gloves,
+footwear,
+full body,
+gloves,
+gold hairband,
+hairband,
+hezi1109,
+high heel boots,
+high heels,
+holding,
+holding dagger,
+holding weapon,
+jewelry,
+knife,
+long hair,
+medium:high resolution,
+medium:traditional media,
+medium:very high resolution,
+meta:absurdres,
+meta:highres,
+night,
+outdoors,
+rating:questionable,
+rating:sensitive,
+series:spy x family,
+shoes,
+sidelocks,
+sleeveless,
+sleeveless dress,
+solo,
+source:twitter,
+stiletto (weapon),
+strapless,
+strapless dress,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+thigh boots,
+thighhighs,
+title:spy x family art by xianhe,
+uploader:malilaks,
+walking,
+weapon,

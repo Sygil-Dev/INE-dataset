@@ -1,18 +1,18 @@
-biker
-creator:bastien grivet
-davidson
-halloween
-harley
-lady
-ladybiker
-magic
-medium:digital 2d
-moon
-motorcycle
-pumpkin
-road
-subreddit:imaginarywitches
-title:autumn - fastest broomstick ever made!
-title:fastest broomstick ever made, by bastien grivet
-uploader:tabulaerrata
-witch
+biker,
+creator:bastien grivet,
+davidson,
+halloween,
+harley,
+lady,
+ladybiker,
+magic,
+medium:digital 2d,
+moon,
+motorcycle,
+pumpkin,
+road,
+subreddit:imaginarywitches,
+title:autumn - fastest broomstick ever made!,
+title:fastest broomstick ever made, by bastien grivet,
+uploader:tabulaerrata,
+witch,

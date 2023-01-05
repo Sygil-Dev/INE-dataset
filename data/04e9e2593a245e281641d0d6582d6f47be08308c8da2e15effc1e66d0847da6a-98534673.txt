@@ -1,30 +1,30 @@
-beach
-cloud
-cloudy sky
-desert
-evening
-horizon
-lake
-landscape
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-rating:safe
-river
-sand
-scenery
-shore
-signature
-sky
-subreddit:imaginarybehemoths
-sun
-sunrise
-sunset
-title:mountain god by wictoria nordgaard
-twilight
-uploader:lol33ta
-water
-waves
+beach,
+cloud,
+cloudy sky,
+desert,
+evening,
+horizon,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+river,
+sand,
+scenery,
+shore,
+signature,
+sky,
+subreddit:imaginarybehemoths,
+sun,
+sunrise,
+sunset,
+title:mountain god by wictoria nordgaard,
+twilight,
+uploader:lol33ta,
+water,
+waves,

@@ -1,32 +1,32 @@
-1girl
-animal
-architecture
-black hair
-brown hair
-cat
-creature
-dog
-east asian architecture
-fox
-holding
-holding sword
-japanese clothes
-katana
-kimono
-lantern
-looking at another
-multiple boys
-oil-paper umbrella
-open mouth
-outdoors
-paper lantern
-pink kimono
-rating:safe
-running
-short kimono
-subreddit:imaginarycityscapes
-sword
-title:spirited away by chen chen.
-umbrella
-uploader:[deleted]
-weapon
+1girl,
+animal,
+architecture,
+black hair,
+brown hair,
+cat,
+creature,
+dog,
+east asian architecture,
+fox,
+holding,
+holding sword,
+japanese clothes,
+katana,
+kimono,
+lantern,
+looking at another,
+multiple boys,
+oil-paper umbrella,
+open mouth,
+outdoors,
+paper lantern,
+pink kimono,
+rating:safe,
+running,
+short kimono,
+subreddit:imaginarycityscapes,
+sword,
+title:spirited away by chen chen.,
+umbrella,
+uploader:[deleted],
+weapon,

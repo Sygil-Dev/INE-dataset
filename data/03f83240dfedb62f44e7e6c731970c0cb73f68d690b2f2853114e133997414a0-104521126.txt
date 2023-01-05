@@ -1,23 +1,23 @@
-1boy
-beard
-coat
-facial hair
-gun
-handgun
-hat
-holding
-holding gun
-holding weapon
-male focus
-military
-military uniform
-rating:safe
-rifle
-solo
-standing
-subreddit:imaginarywarriors
-sword
-title:character design by alex tornberg
-uniform
-uploader:yannirotten
-weapon
+1boy,
+beard,
+coat,
+facial hair,
+gun,
+handgun,
+hat,
+holding,
+holding gun,
+holding weapon,
+male focus,
+military,
+military uniform,
+rating:safe,
+rifle,
+solo,
+standing,
+subreddit:imaginarywarriors,
+sword,
+title:character design by alex tornberg,
+uniform,
+uploader:yannirotten,
+weapon,

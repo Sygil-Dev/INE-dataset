@@ -1,20 +1,20 @@
-1girl
-architecture
-armor
-cape
-castle
-category:ine
-cloud
-cloudy sky
-east asian architecture
-holding
-holding weapon
-long hair
-rating:safe
-ruins
-sky
-subreddit:imaginarybestof
-sword
-title:[/r/imaginarywarriors] guild of heroes by alexandre mokhov
-uploader:lol33ta
-weapon
+1girl,
+architecture,
+armor,
+cape,
+castle,
+category:ine,
+cloud,
+cloudy sky,
+east asian architecture,
+holding,
+holding weapon,
+long hair,
+rating:safe,
+ruins,
+sky,
+subreddit:imaginarybestof,
+sword,
+title:[/r/imaginarywarriors] guild of heroes by alexandre mokhov,
+uploader:lol33ta,
+weapon,

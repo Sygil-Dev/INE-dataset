@@ -1,50 +1,50 @@
-bat wings
-breathing fire
-burning
-campfire
-character:charizard
-claws
-cloud
-cloudy sky
-demon wings
-dragon
-dragon horns
-dragon tail
-dragon wings
-dusk
-embers
-evening
-explosion
-fangs
-fiery hair
-fiery wings
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-horns
-kaijuu
-molten rock
-monster
-mountain
-no humans
-open mouth
-orange sky
-rating:safe
-red sky
-scales
-sharp teeth
-sky
-subreddit:imaginarydragons
-subreddit:immonsters
-sunset
-tail
-tail-tip fire
-teeth
-title:shivan dragon by satoru senda
-torch
-twilight
-uploader:heewmf
-volcano
-wings
+bat wings,
+breathing fire,
+burning,
+campfire,
+character:charizard,
+claws,
+cloud,
+cloudy sky,
+demon wings,
+dragon,
+dragon horns,
+dragon tail,
+dragon wings,
+dusk,
+embers,
+evening,
+explosion,
+fangs,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+horns,
+kaijuu,
+molten rock,
+monster,
+mountain,
+no humans,
+open mouth,
+orange sky,
+rating:safe,
+red sky,
+scales,
+sharp teeth,
+sky,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sunset,
+tail,
+tail-tip fire,
+teeth,
+title:shivan dragon by satoru senda,
+torch,
+twilight,
+uploader:heewmf,
+volcano,
+wings,

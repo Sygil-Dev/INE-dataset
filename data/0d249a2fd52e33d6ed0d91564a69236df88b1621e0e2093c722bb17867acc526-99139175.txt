@@ -1,55 +1,55 @@
-architecture
-balcony
-bridge
-building
-castle
-chimney
-city
-city lights
-cityscape
-clock tower
-cloud
-cloudy sky
-dusk
-evening
-fire
-fireplace
-flame
-gradient sky
-horizon
-house
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-orange theme
-outdoors
-power lines
-purple sky
-railing
-rating:safe
-red sky
-river
-rooftop
-ruins
-scarlet devil mansion
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginaryfactories
-sun
-sunrise
-sunset
-title:old industry by tomi väisänen
-tower
-town
-tree
-twilight
-uploader:[deleted]
-wall
-water
-windmill
-window
-yellow sky
+architecture,
+balcony,
+bridge,
+building,
+castle,
+chimney,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+fireplace,
+flame,
+gradient sky,
+horizon,
+house,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+orange theme,
+outdoors,
+power lines,
+purple sky,
+railing,
+rating:safe,
+red sky,
+river,
+rooftop,
+ruins,
+scarlet devil mansion,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginaryfactories,
+sun,
+sunrise,
+sunset,
+title:old industry by tomi väisänen,
+tower,
+town,
+tree,
+twilight,
+uploader:[deleted],
+wall,
+water,
+windmill,
+window,
+yellow sky,

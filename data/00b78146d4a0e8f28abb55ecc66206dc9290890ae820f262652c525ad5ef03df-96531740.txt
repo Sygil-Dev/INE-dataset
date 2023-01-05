@@ -1,23 +1,23 @@
-1girl
-2boys
-aircraft
-beard
-black hair
-facial hair
-holding
-long sleeves
-military
-multiple boys
-mustache
-open mouth
-painting (medium)
-rating:safe
-realistic
-science fiction
-space craft
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-title:terra nova #42 cover art (arthur moewig verlag, 1968) by karl stephan
-traditional media
-uploader:yannirotten
-watercolor (medium)
+1girl,
+2boys,
+aircraft,
+beard,
+black hair,
+facial hair,
+holding,
+long sleeves,
+military,
+multiple boys,
+mustache,
+open mouth,
+painting (medium),
+rating:safe,
+realistic,
+science fiction,
+space craft,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+title:terra nova #42 cover art (arthur moewig verlag, 1968) by karl stephan,
+traditional media,
+uploader:yannirotten,
+watercolor (medium),

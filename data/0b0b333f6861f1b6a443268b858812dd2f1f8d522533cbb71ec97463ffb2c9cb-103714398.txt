@@ -1,50 +1,50 @@
-autumn
-autumn leaves
-battle
-breathing fire
-burning
-burnt clothes
-campfire
-character:charizard
-character:charmander
-character:endeavor (boku no hero academia)
-character:godzilla
-destruction
-dusk
-embers
-evening
-explosion
-fangs
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-gradient sky
-molten rock
-muzzle flash
-no humans
-open mouth
-orange sky
-orange theme
-phoenix
-pyrokinesis
-rating:safe
-red sky
-scales
-sharp teeth
-solo
-sparks
-subreddit:imaginarydragons
-sun
-sunset
-tail-tip fire
-teeth
-title:ancient hellkite by jason chan
-torch
-twilight
-uploader:synntara
-volcano
+autumn,
+autumn leaves,
+battle,
+breathing fire,
+burning,
+burnt clothes,
+campfire,
+character:charizard,
+character:charmander,
+character:endeavor (boku no hero academia),
+character:godzilla,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+fangs,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+gradient sky,
+molten rock,
+muzzle flash,
+no humans,
+open mouth,
+orange sky,
+orange theme,
+phoenix,
+pyrokinesis,
+rating:safe,
+red sky,
+scales,
+sharp teeth,
+solo,
+sparks,
+subreddit:imaginarydragons,
+sun,
+sunset,
+tail-tip fire,
+teeth,
+title:ancient hellkite by jason chan,
+torch,
+twilight,
+uploader:synntara,
+volcano,

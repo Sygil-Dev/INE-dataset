@@ -1,21 +1,21 @@
-blue sky
-cloud
-cloudy sky
-day
-horizon
-leaf
-mountain
-nature
-no humans
-outdoors
-palm tree
-plant
-rating:safe
-scenery
-sky
-subreddit:imaginarylakes
-title:personnal practice summer 2022 by gabriel gomez
-tree
-uploader:chalkchick0
-vines
-water
+blue sky,
+cloud,
+cloudy sky,
+day,
+horizon,
+leaf,
+mountain,
+nature,
+no humans,
+outdoors,
+palm tree,
+plant,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarylakes,
+title:personnal practice summer 2022 by gabriel gomez,
+tree,
+uploader:chalkchick0,
+vines,
+water,

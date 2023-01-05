@@ -1,18 +1,18 @@
-1girl
-armor
-gun
-holding
-holding gun
-holding weapon
-long hair
-male focus
-rating:safe
-red eyes
-shoulder armor
-solo
-subreddit:imaginarycharacters
-subreddit:imaginarywarhammer
-title:[oc] dark eldar
-title:[oc] dark eldar warrior
-uploader:anbox1
-weapon
+1girl,
+armor,
+gun,
+holding,
+holding gun,
+holding weapon,
+long hair,
+male focus,
+rating:safe,
+red eyes,
+shoulder armor,
+solo,
+subreddit:imaginarycharacters,
+subreddit:imaginarywarhammer,
+title:[oc] dark eldar,
+title:[oc] dark eldar warrior,
+uploader:anbox1,
+weapon,

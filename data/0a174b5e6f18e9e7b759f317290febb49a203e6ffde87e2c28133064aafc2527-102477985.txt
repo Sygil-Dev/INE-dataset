@@ -1,32 +1,32 @@
-autumn
-bush
-cloud
-cloudy sky
-evening
-forest
-gradient sky
-grass
-horizon
-moon
-mountain
-nature
-night
-no humans
-orange sky
-outdoors
-power lines
-rating:safe
-red sky
-scenery
-sky
-star (sky)
-starry sky
-subreddit:imaginarycolorscapes
-sun
-sunset
-title:contrast river by josef bartoň
-torii
-tree
-twilight
-uploader:lol33ta
-water
+autumn,
+bush,
+cloud,
+cloudy sky,
+evening,
+forest,
+gradient sky,
+grass,
+horizon,
+moon,
+mountain,
+nature,
+night,
+no humans,
+orange sky,
+outdoors,
+power lines,
+rating:safe,
+red sky,
+scenery,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginarycolorscapes,
+sun,
+sunset,
+title:contrast river by josef bartoň,
+torii,
+tree,
+twilight,
+uploader:lol33ta,
+water,

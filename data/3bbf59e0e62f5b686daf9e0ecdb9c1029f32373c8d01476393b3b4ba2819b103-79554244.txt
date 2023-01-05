@@ -1,28 +1,28 @@
-animation
-apartment
-artwork
-background
-bg
-color
-color theory
-creator:nicholas kennedy
-design
-environment
-food
-fridge
-kitchen
-loft
-neon
-new york
-newyork
-ny
-oil
-painter
-painting
-prop
-setting
-subreddit:imaginarycolorscapes
-table
-title:loft and pugs
-title:loft and pugs by nicholas kennedy (r/imaginaryinteriors)
-uploader:lol33ta
+animation,
+apartment,
+artwork,
+background,
+bg,
+color,
+color theory,
+creator:nicholas kennedy,
+design,
+environment,
+food,
+fridge,
+kitchen,
+loft,
+neon,
+new york,
+newyork,
+ny,
+oil,
+painter,
+painting,
+prop,
+setting,
+subreddit:imaginarycolorscapes,
+table,
+title:loft and pugs,
+title:loft and pugs by nicholas kennedy (r/imaginaryinteriors),
+uploader:lol33ta,

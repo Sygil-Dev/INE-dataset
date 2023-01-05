@@ -1,19 +1,19 @@
-ambiguous gender
-armor
-beach
-coat
-desert
-dust
-dust cloud
-gun
-helmet
-holding
-holding weapon
-outdoors
-rating:safe
-sand
-standing
-subreddit:imaginarybehemoths
-title:desert companion by eryk szczygieł
-uploader:crowe410
-weapon
+ambiguous gender,
+armor,
+beach,
+coat,
+desert,
+dust,
+dust cloud,
+gun,
+helmet,
+holding,
+holding weapon,
+outdoors,
+rating:safe,
+sand,
+standing,
+subreddit:imaginarybehemoths,
+title:desert companion by eryk szczygieł,
+uploader:crowe410,
+weapon,

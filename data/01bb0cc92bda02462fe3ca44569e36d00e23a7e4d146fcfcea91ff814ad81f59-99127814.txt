@@ -1,40 +1,40 @@
-beach
-blue sky
-castle
-cliff
-cloud
-cloudy sky
-day
-field
-full moon
-grass
-hill
-horizon
-island
-lake
-landscape
-lens flare
-moon
-mountain
-mountainous horizon
-no humans
-ocean
-outdoors
-planet
-rating:safe
-river
-rock
-scenery
-sky
-subreddit:imaginarycastles
-sun
-sunlight
-sunrise
-sunset
-title:white peaks castle by michal kváč
-tower
-uploader:lol33ta
-water
-waterfall
-watermark
-web address
+beach,
+blue sky,
+castle,
+cliff,
+cloud,
+cloudy sky,
+day,
+field,
+full moon,
+grass,
+hill,
+horizon,
+island,
+lake,
+landscape,
+lens flare,
+moon,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+river,
+rock,
+scenery,
+sky,
+subreddit:imaginarycastles,
+sun,
+sunlight,
+sunrise,
+sunset,
+title:white peaks castle by michal kváč,
+tower,
+uploader:lol33ta,
+water,
+waterfall,
+watermark,
+web address,

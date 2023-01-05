@@ -1,19 +1,19 @@
-1girl
-bird
-building
-city
-cityscape
-cloud
-cloudy sky
-long hair
-outdoors
-rating:safe
-scenery
-skyscraper
-snow
-snowing
-solo
-subreddit:imaginaryfallout
-title:the colosseum!
-tree
-uploader:sirbalz
+1girl,
+bird,
+building,
+city,
+cityscape,
+cloud,
+cloudy sky,
+long hair,
+outdoors,
+rating:safe,
+scenery,
+skyscraper,
+snow,
+snowing,
+solo,
+subreddit:imaginaryfallout,
+title:the colosseum!,
+tree,
+uploader:sirbalz,

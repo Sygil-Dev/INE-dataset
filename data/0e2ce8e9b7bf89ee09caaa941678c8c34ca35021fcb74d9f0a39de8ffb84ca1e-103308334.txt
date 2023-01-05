@@ -1,24 +1,24 @@
-2boys
-acrylic paint (medium)
-black hair
-denim
-milky way
-multiple boys
-multiple girls
-night
-night sky
-painting (medium)
-rating:safe
-realistic
-shirt
-shooting star
-shorts
-sky
-space
-star (sky)
-starry sky
-subreddit:imaginaryhumans
-title:love cult cover art by bernard safran
-traditional media
-uploader:yannirotten
-watercolor (medium)
+2boys,
+acrylic paint (medium),
+black hair,
+denim,
+milky way,
+multiple boys,
+multiple girls,
+night,
+night sky,
+painting (medium),
+rating:safe,
+realistic,
+shirt,
+shooting star,
+shorts,
+sky,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryhumans,
+title:love cult cover art by bernard safran,
+traditional media,
+uploader:yannirotten,
+watercolor (medium),

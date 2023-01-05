@@ -1,21 +1,21 @@
-aircraft
-bridge
-building
-city
-city lights
-cityscape
-clock
-clock tower
-flying
-greyscale
-monochrome
-moon
-rating:safe
-scenery
-skyscraper
-subreddit:imaginaryaviation
-subreddit:imaginaryfuturism
-subreddit:imaginarysteampunk
-title:casablanca - everybody comes to ricks by childrens-book-art/luis filipe peres
-tower
-uploader:chalkchick0
+aircraft,
+bridge,
+building,
+city,
+city lights,
+cityscape,
+clock,
+clock tower,
+flying,
+greyscale,
+monochrome,
+moon,
+rating:safe,
+scenery,
+skyscraper,
+subreddit:imaginaryaviation,
+subreddit:imaginaryfuturism,
+subreddit:imaginarysteampunk,
+title:casablanca - everybody comes to ricks by childrens-book-art/luis filipe peres,
+tower,
+uploader:chalkchick0,

@@ -1,28 +1,28 @@
-1girl
-armor
-arrow (projectile)
-battle
-blood
-blood on clothes
-blood on weapon
-bow (weapon)
-cape
-capelet
-copyright name
-death
-gauntlets
-helmet
-holding
-holding sword
-holding weapon
-japanese armor
-jumping
-multiple boys
-ninja
-rating:safe
-riding
-subreddit:imaginarybattlefields
-sword
-title:'burn and loot' by ameeeeba
-uploader:jg379
-weapon
+1girl,
+armor,
+arrow (projectile),
+battle,
+blood,
+blood on clothes,
+blood on weapon,
+bow (weapon),
+cape,
+capelet,
+copyright name,
+death,
+gauntlets,
+helmet,
+holding,
+holding sword,
+holding weapon,
+japanese armor,
+jumping,
+multiple boys,
+ninja,
+rating:safe,
+riding,
+subreddit:imaginarybattlefields,
+sword,
+title:'burn and loot' by ameeeeba,
+uploader:jg379,
+weapon,

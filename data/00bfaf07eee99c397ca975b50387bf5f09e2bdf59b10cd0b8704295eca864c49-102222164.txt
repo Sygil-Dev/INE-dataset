@@ -1,22 +1,22 @@
-1boy
-aurora
-beard
-male focus
-mountain
-night
-night sky
-outdoors
-rating:safe
-rock
-sky
-snow
-snowing
-solo
-star (sky)
-starry sky
-subreddit:imaginarybehemoths
-sword
-title:jotun by denis kornev
-tree
-uploader:fatalmillennium
-weapon
+1boy,
+aurora,
+beard,
+male focus,
+mountain,
+night,
+night sky,
+outdoors,
+rating:safe,
+rock,
+sky,
+snow,
+snowing,
+solo,
+star (sky),
+starry sky,
+subreddit:imaginarybehemoths,
+sword,
+title:jotun by denis kornev,
+tree,
+uploader:fatalmillennium,
+weapon,

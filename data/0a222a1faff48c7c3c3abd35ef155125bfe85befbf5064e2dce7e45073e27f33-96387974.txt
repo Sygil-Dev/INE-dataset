@@ -1,22 +1,22 @@
-1girl
-boots
-brown footwear
-card (medium)
-full body
-green eyes
-green hair
-leather boots
-off shoulder
-rating:safe
-short hair
-sitting
-solo
-sparkle
-star (sky)
-starry sky
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-subreddit:popartnouveau
-title:ciri by hyanide
-uploader:lol33ta
+1girl,
+boots,
+brown footwear,
+card (medium),
+full body,
+green eyes,
+green hair,
+leather boots,
+off shoulder,
+rating:safe,
+short hair,
+sitting,
+solo,
+sparkle,
+star (sky),
+starry sky,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+subreddit:popartnouveau,
+title:ciri by hyanide,
+uploader:lol33ta,
