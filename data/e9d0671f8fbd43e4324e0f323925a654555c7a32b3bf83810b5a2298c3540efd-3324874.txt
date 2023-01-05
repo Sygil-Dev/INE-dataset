@@ -1,49 +1,49 @@
-2015
-book
-booru:e621
-canyon
-category:ine
-character:twilight sparkle
-character:twilight sparkle (mlp)
-creator:viwrastupr
-cutie mark
-detailed background
-feathered wings
-feathers
-female
-feral
-gender:female
-genre:fantasy
-hi res
-horn
-horns
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2015
-meta:digital media (artwork)
-meta:hi res
-outside
-purple body
-purple feathers
-rating:safe
-river
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"the sun's tear" by viwrastupr
-title:the sun's tear - dec 7th
-uploader:schnitzellover
-wings
-year:2015
+2015,
+book,
+booru:e621,
+canyon,
+category:ine,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+creator:viwrastupr,
+cutie mark,
+detailed background,
+feathered wings,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hi res,
+horn,
+horns,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2015,
+meta:digital media (artwork),
+meta:hi res,
+outside,
+purple body,
+purple feathers,
+rating:safe,
+river,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"the sun's tear" by viwrastupr,
+title:the sun's tear - dec 7th,
+uploader:schnitzellover,
+wings,
+year:2015,

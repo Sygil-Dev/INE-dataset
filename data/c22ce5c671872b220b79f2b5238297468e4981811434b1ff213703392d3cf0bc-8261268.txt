@@ -1,51 +1,51 @@
-2016
-antlers
-booru:e621
-category:ine
-character:thorax
-character:thorax (mlp)
-creator:assasinmonkey
-feral
-gender:male
-genre:fantasy
-hi res
-horn
-horns
-insect wings
-kemono.party
-looking at viewer
-male
-medium:high resolution
-membrane (anatomy)
-membranous wings
-meta:4:5
-meta:2016
-meta:hi res
-meta:portrait
-mlpfim
-mylittleponyfriendshipismagic
-point of view
-portrait
-pov
-purple eyes
-rating:safe
-s06e26
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:arthropod
-species:changeling
-species:non-human animal
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-thoraxthechangeling
-title:a stag of change
-title:a stag of change by myron c. p.
-towhereandbackagain
-uploader:myrandall
-wings
-year:2016
+2016,
+antlers,
+booru:e621,
+category:ine,
+character:thorax,
+character:thorax (mlp),
+creator:assasinmonkey,
+feral,
+gender:male,
+genre:fantasy,
+hi res,
+horn,
+horns,
+insect wings,
+kemono.party,
+looking at viewer,
+male,
+medium:high resolution,
+membrane (anatomy),
+membranous wings,
+meta:4:5,
+meta:2016,
+meta:hi res,
+meta:portrait,
+mlpfim,
+mylittleponyfriendshipismagic,
+point of view,
+portrait,
+pov,
+purple eyes,
+rating:safe,
+s06e26,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:arthropod,
+species:changeling,
+species:non-human animal,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+thoraxthechangeling,
+title:a stag of change,
+title:a stag of change by myron c. p.,
+towhereandbackagain,
+uploader:myrandall,
+wings,
+year:2016,

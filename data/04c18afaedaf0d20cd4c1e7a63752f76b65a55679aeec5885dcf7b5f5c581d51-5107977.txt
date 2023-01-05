@@ -1,102 +1,102 @@
-2016
-abs res
-alicorn
-angel
-angel wings
-artist name
-artist:hioshiru
-beautiful
-blurry
-blurry background
-blurry foreground
-booru:e621
-bust
-canterlot
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-character:princess_celestia_(mlp)
-chest fluff
-closed mouth
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:hioshiru
-creator:hioshiru-alter
-crown
-cute
-cutelestia
-depth of field
-detailed background
-ear fluff
-equine
-example
-eyelashes
-feather
-feathered wings
-feathers
-female
-feral
-fluffy
-fur
-furaffinity
-gender:female
-genre:fantasy
-green hair
-grin
-hair
-harpy
-hioshiru
-horn
-horns
-jewelry
-lidded eyes
-looking at viewer
-looking at you
-mammal
-mare
-medium:detailed background
-meta:2016
-multicolored hair
-necklace
-pink eyes
-point of view
-pony
-pov
-princess celestia
-rating:safe
-regalia
-safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-single wing
-smile
-smiling
-solo
-source:furaffinity.net
-sparkles
-species:alicorn
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-species:winged unicorn
-species:winged_unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"sunlight" by kate (leviru)
-title:sunlight
-tree
-uploader:crystallord
-white body
-white feathers
-white fur
-white wings
-white_feathers
-winged unicorn
-wings
-year:2016
+2016,
+abs res,
+alicorn,
+angel,
+angel wings,
+artist name,
+artist:hioshiru,
+beautiful,
+blurry,
+blurry background,
+blurry foreground,
+booru:e621,
+bust,
+canterlot,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+character:princess_celestia_(mlp),
+chest fluff,
+closed mouth,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:hioshiru,
+creator:hioshiru-alter,
+crown,
+cute,
+cutelestia,
+depth of field,
+detailed background,
+ear fluff,
+equine,
+example,
+eyelashes,
+feather,
+feathered wings,
+feathers,
+female,
+feral,
+fluffy,
+fur,
+furaffinity,
+gender:female,
+genre:fantasy,
+green hair,
+grin,
+hair,
+harpy,
+hioshiru,
+horn,
+horns,
+jewelry,
+lidded eyes,
+looking at viewer,
+looking at you,
+mammal,
+mare,
+medium:detailed background,
+meta:2016,
+multicolored hair,
+necklace,
+pink eyes,
+point of view,
+pony,
+pov,
+princess celestia,
+rating:safe,
+regalia,
+safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+single wing,
+smile,
+smiling,
+solo,
+source:furaffinity.net,
+sparkles,
+species:alicorn,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+species:winged unicorn,
+species:winged_unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"sunlight" by kate (leviru),
+title:sunlight,
+tree,
+uploader:crystallord,
+white body,
+white feathers,
+white fur,
+white wings,
+white_feathers,
+winged unicorn,
+wings,
+year:2016,

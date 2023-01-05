@@ -1,91 +1,91 @@
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black hat
-black_eyes
-bodypart:black eyes
-book
-book stack
-category:ine
-closed mouth
-clothing
-clothing:hat
-clothing:headwear
-copyright:european_mythology
-copyright:mythology
-creator:cryptid creations
-creator:cryptid-creations
-creator:piperdraws
-creature
-fangs
-full body
-furry
-gender:ambiguous
-gender:male
-hat
-headgear
-headwear
-horn
-horns
-humor
-looking at viewer
-looking_at_viewer
-male:0
-male:1
-medium:patreon reward
-medium:simple background
-medium:watermark
-medium:web address
-medium:white background
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meme:humor
-meta:commentary
-meta:paid reward
-meta:patreon reward
-meta:url
-meta:white background
-mortarboard
-no humans
-orange scales
-orange_body
-orange_scales
-pov
-pun
-rating:mature
-rating:safe
-scales
-series:original
-simple background
-simple_background
-site:patreon
-site:yiff.party
-solo
-species:dragon
-species:mythical
-species:scalie
-species:wyrm
-species:wyrm_(dragon)
-subreddit:imaginarybooks
-subreddit:immeta
-tan scales
-tan_body
-tan_scales
-tassel
-tassels
-teeth
-text
-title:daily paint #1246. book wyrm
-title:daily paint #1246. book wyrm by piper thibodeau
-tongue
-tongue out
-tongue_out
-uploader:hvitserkr
-visual pun
-visual_pun
-wavy mouth
-white_background
-wings
-wyrm
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black hat,
+black_eyes,
+bodypart:black eyes,
+book,
+book stack,
+category:ine,
+closed mouth,
+clothing,
+clothing:hat,
+clothing:headwear,
+copyright:european_mythology,
+copyright:mythology,
+creator:cryptid creations,
+creator:cryptid-creations,
+creator:piperdraws,
+creature,
+fangs,
+full body,
+furry,
+gender:ambiguous,
+gender:male,
+hat,
+headgear,
+headwear,
+horn,
+horns,
+humor,
+looking at viewer,
+looking_at_viewer,
+male:0,
+male:1,
+medium:patreon reward,
+medium:simple background,
+medium:watermark,
+medium:web address,
+medium:white background,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meme:humor,
+meta:commentary,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+meta:white background,
+mortarboard,
+no humans,
+orange scales,
+orange_body,
+orange_scales,
+pov,
+pun,
+rating:mature,
+rating:safe,
+scales,
+series:original,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+species:wyrm,
+species:wyrm_(dragon),
+subreddit:imaginarybooks,
+subreddit:immeta,
+tan scales,
+tan_body,
+tan_scales,
+tassel,
+tassels,
+teeth,
+text,
+title:daily paint #1246. book wyrm,
+title:daily paint #1246. book wyrm by piper thibodeau,
+tongue,
+tongue out,
+tongue_out,
+uploader:hvitserkr,
+visual pun,
+visual_pun,
+wavy mouth,
+white_background,
+wings,
+wyrm,

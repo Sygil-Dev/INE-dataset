@@ -1,26 +1,26 @@
-artwork
-asian
-category:ine
-cleavage
-costumes
-creator:mario wibisono
-culture
-fan art
-fantasy art
-geisha
-gender:female
-japan
-legend of the five rings
-mario wibisono
-mask
-medium:digital 2d
-medium:digital media
-painting
-samurai
-subreddit:imaginaryassassins
-subreddit:imcharacters
-title:bayushi kachiko
-title:bayushi kachiko, by mario wibisono
-uploader:sylvyrfyre
-video games
-warrior
+artwork,
+asian,
+category:ine,
+cleavage,
+costumes,
+creator:mario wibisono,
+culture,
+fan art,
+fantasy art,
+geisha,
+gender:female,
+japan,
+legend of the five rings,
+mario wibisono,
+mask,
+medium:digital 2d,
+medium:digital media,
+painting,
+samurai,
+subreddit:imaginaryassassins,
+subreddit:imcharacters,
+title:bayushi kachiko,
+title:bayushi kachiko, by mario wibisono,
+uploader:sylvyrfyre,
+video games,
+warrior,

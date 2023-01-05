@@ -1,75 +1,75 @@
-beautiful
-bioluminescence
-blue body
-blue eyes
-blue feathers
-blue fur
-blue hair
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-creator:joellethenose
-cutie mark
-detailed background
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-glow
-glowing
-glowing mane
-hair
-horn
-horns
-joellethenose
-looking down
-loose hair
-mare
-medium:16:9 aspect ratio
-medium:detailed background
-medium:high resolution
-meta:16:9
-meta:hi res
-meta:widescreen
-missing accessory
-night
-night sky
-ocean
-outdoors
-outside
-rating:safe
-safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-signature
-sky
-smiling
-solo
-species:alicorn
-species:equid
-species:equine
-species:mammal
-species:pony
-species:winged unicorn
-spread wings
-standing
-star
-starry night
-starry sky
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-surf
-title:ocean of dreams
-title:ocean of dreams by joellethenose (joelle)
-uploader:sparroew
-water
-wet mane
-wings
+beautiful,
+bioluminescence,
+blue body,
+blue eyes,
+blue feathers,
+blue fur,
+blue hair,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+creator:joellethenose,
+cutie mark,
+detailed background,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+glow,
+glowing,
+glowing mane,
+hair,
+horn,
+horns,
+joellethenose,
+looking down,
+loose hair,
+mare,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:high resolution,
+meta:16:9,
+meta:hi res,
+meta:widescreen,
+missing accessory,
+night,
+night sky,
+ocean,
+outdoors,
+outside,
+rating:safe,
+safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+signature,
+sky,
+smiling,
+solo,
+species:alicorn,
+species:equid,
+species:equine,
+species:mammal,
+species:pony,
+species:winged unicorn,
+spread wings,
+standing,
+star,
+starry night,
+starry sky,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+surf,
+title:ocean of dreams,
+title:ocean of dreams by joellethenose (joelle),
+uploader:sparroew,
+water,
+wet mane,
+wings,

@@ -1,80 +1,80 @@
-ambiguous gender
-black nose
-booru:e621
-brown body
-brown fur
-category:ine
-character:angel (mlp)
-character:gummy
-character:gummy (mlp)
-character:opalescence (mlp)
-character:owlowiscious (mlp)
-character:spike
-character:spike (mlp)
-character:tank (mlp)
-character:winona (mlp)
-closed eyes
-creator:neytirix
-crystal
-day
-detailed background
-eyes closed
-feral
-fur
-furry
-gender:ambiguous
-genre:fantasy
-grass
-green body
-green scales
-group
-lying
-medium:detailed background
-medium:high resolution
-meta:hi res
-nude
-outside
-plant
-purple body
-purple scales
-rating:safe
-ribbons
-scales
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sleeping
-species:avian
-species:bird
-species:canid
-species:canine
-species:canis
-species:cat
-species:dog
-species:domestic cat
-species:domestic dog
-species:dragon
-species:felid
-species:feline
-species:felis
-species:lagomorph
-species:leporid
-species:mammal
-species:mythical
-species:owl
-species:rabbit
-species:reptile
-species:scalie
-species:tortoise
-species:turtle
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:pet sitting (mlp fanart)
-title:pet sitting by 'neytirix'
-tongue
-uploader:myrandall
-video in description
-white body
-white fur
+ambiguous gender,
+black nose,
+booru:e621,
+brown body,
+brown fur,
+category:ine,
+character:angel (mlp),
+character:gummy,
+character:gummy (mlp),
+character:opalescence (mlp),
+character:owlowiscious (mlp),
+character:spike,
+character:spike (mlp),
+character:tank (mlp),
+character:winona (mlp),
+closed eyes,
+creator:neytirix,
+crystal,
+day,
+detailed background,
+eyes closed,
+feral,
+fur,
+furry,
+gender:ambiguous,
+genre:fantasy,
+grass,
+green body,
+green scales,
+group,
+lying,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+nude,
+outside,
+plant,
+purple body,
+purple scales,
+rating:safe,
+ribbons,
+scales,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sleeping,
+species:avian,
+species:bird,
+species:canid,
+species:canine,
+species:canis,
+species:cat,
+species:dog,
+species:domestic cat,
+species:domestic dog,
+species:dragon,
+species:felid,
+species:feline,
+species:felis,
+species:lagomorph,
+species:leporid,
+species:mammal,
+species:mythical,
+species:owl,
+species:rabbit,
+species:reptile,
+species:scalie,
+species:tortoise,
+species:turtle,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:pet sitting (mlp fanart),
+title:pet sitting by 'neytirix',
+tongue,
+uploader:myrandall,
+video in description,
+white body,
+white fur,

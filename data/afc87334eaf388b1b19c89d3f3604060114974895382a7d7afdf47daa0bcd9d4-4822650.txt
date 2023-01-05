@@ -1,57 +1,57 @@
-ambiguous form
-ambiguous_form
-artist:audrarius
-bone
-booru:e621
-category:ine
-character:twilight sparkle
-character:twilight sparkle (mlp)
-character:twilight_sparkle_(mlp)
-clothing:necklace
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:audrarius
-feathers
-female
-feral
-gender:female
-genre:fantasy
-hair
-high resolution
-horn
-horns
-jewelry
-looking at viewer
-looking_at_viewer
-medium:high resolution
-meta:hi res
-meta:hi_res
-necklace
-orange body
-orange feathers
-orange_body
-orange_feathers
-point of view
-pov
-purple eyes
-purple hair
-purple_eyes
-purple_hair
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-skull
-solo
-species:equid
-species:equine
-species:mammal
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-teeth
-title:"dragon" by malus (audrarius)
-title:dragon
-tribal
-uploader:torvusil
+ambiguous form,
+ambiguous_form,
+artist:audrarius,
+bone,
+booru:e621,
+category:ine,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+character:twilight_sparkle_(mlp),
+clothing:necklace,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:audrarius,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+high resolution,
+horn,
+horns,
+jewelry,
+looking at viewer,
+looking_at_viewer,
+medium:high resolution,
+meta:hi res,
+meta:hi_res,
+necklace,
+orange body,
+orange feathers,
+orange_body,
+orange_feathers,
+point of view,
+pov,
+purple eyes,
+purple hair,
+purple_eyes,
+purple_hair,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+skull,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+teeth,
+title:"dragon" by malus (audrarius),
+title:dragon,
+tribal,
+uploader:torvusil,

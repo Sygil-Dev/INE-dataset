@@ -1,48 +1,48 @@
-booru:e621
-category:ine
-character:twilight sparkle
-character:twilight sparkle (mlp)
-creator:neytirix
-cutie mark
-detailed background
-female
-feral
-gender:female
-genre:fantasy
-glowing
-glowing eyes
-hair
-hooves
-horn
-horns
-medium:16:9 aspect ratio
-medium:detailed background
-medium:high resolution
-meta:16:9
-meta:hi res
-meta:widescreen
-neytirix
-night
-nightmare fuel
-outside
-purple hair
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-star
-starry sky
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"twilight sparkill - necromancer (mlp)" by neytirix
-title:twilight sparkill - necromancer (mlp)
-uploader:torvusil
+booru:e621,
+category:ine,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+creator:neytirix,
+cutie mark,
+detailed background,
+female,
+feral,
+gender:female,
+genre:fantasy,
+glowing,
+glowing eyes,
+hair,
+hooves,
+horn,
+horns,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:high resolution,
+meta:16:9,
+meta:hi res,
+meta:widescreen,
+neytirix,
+night,
+nightmare fuel,
+outside,
+purple hair,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+star,
+starry sky,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"twilight sparkill - necromancer (mlp)" by neytirix,
+title:twilight sparkill - necromancer (mlp),
+uploader:torvusil,

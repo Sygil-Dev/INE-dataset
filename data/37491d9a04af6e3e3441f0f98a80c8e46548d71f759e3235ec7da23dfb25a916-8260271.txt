@@ -1,62 +1,62 @@
-2016
-ambiguous gender
-blue body
-blue eyes
-blue scales
-blue sky
-bodily fluids
-booru:e621
-category:ine
-character:fan character
-claws
-clothed
-clothing
-cloud
-creator:tsitra360
-cutie mark
-duo
-feral
-forked tongue
-furgonomics
-furry
-gender:ambiguous
-glowing
-green eyes
-hair
-hooves
-horn
-horns
-magic
-magic user
-meta:2016
-meta:signature
-open mouth
-original character
-outside
-rating:safe
-rock
-saliva
-scales
-series:hasbro
-series:my little pony
-sharp teeth
-signature
-sky
-species:dragon
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:scalie
-species:unicorn
-stone
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-teeth
-title:"on the cliffs" by tsitra360
-title:on the cliffs (commission)
-tongue
-underhoof
-uploader:torvusil
-year:2016
+2016,
+ambiguous gender,
+blue body,
+blue eyes,
+blue scales,
+blue sky,
+bodily fluids,
+booru:e621,
+category:ine,
+character:fan character,
+claws,
+clothed,
+clothing,
+cloud,
+creator:tsitra360,
+cutie mark,
+duo,
+feral,
+forked tongue,
+furgonomics,
+furry,
+gender:ambiguous,
+glowing,
+green eyes,
+hair,
+hooves,
+horn,
+horns,
+magic,
+magic user,
+meta:2016,
+meta:signature,
+open mouth,
+original character,
+outside,
+rating:safe,
+rock,
+saliva,
+scales,
+series:hasbro,
+series:my little pony,
+sharp teeth,
+signature,
+sky,
+species:dragon,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:scalie,
+species:unicorn,
+stone,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+teeth,
+title:"on the cliffs" by tsitra360,
+title:on the cliffs (commission),
+tongue,
+underhoof,
+uploader:torvusil,
+year:2016,

@@ -1,95 +1,95 @@
-2018
-animal tail
-anthro
-anthropomorphism
-artist:plagueofgripes
-barefoot
-bean bag
-bean_bag
-biped
-category:ine
-character:nen (plagueofgripes)
-character:nen_(plagueofgripes)
-christmas
-christmas clothing
-christmas headwear
-clothed
-clothing
-clothing:headwear
-clothing:tagme
-container
-copyright:christmas
-copyright:mythology
-creator:gannadene
-creator:plagueofgripes
-cup
-feathered wings
-feathered_wings
-feathers
-feet
-filename:file.1
-fire
-fireplace
-furgonomics
-furry
-gender:female
-gift
-hair
-hair over eyes
-hair_over_eyes
-hat
-headgear
-headwear
-holding object
-holding_object
-holidays
-indoors
-inside
-living tail
-living_tail
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:2018
-meta:hi res
-meta:hi_res
-meta:tagme
-meta:widescreen
-off shoulder
-off-shoulder
-off_shoulder
-plant
-rating:safe
-reclining
-santa hat
-santa_hat
-series:mythology
-snake tail
-snake_tail
-solo
-species:felid
-species:feline
-species:mammal
-species:mythical
-species:mythological sphinx
-species:mythological_sphinx
-species:reptile
-species:scalie
-species:snake
-species:sphinx
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-tail
-tail clothing
-tail warmer
-tail_clothing
-tail_warmer
-title:"nen and nan warmth" by gannadene
-title:nen and nan warmth
-title:nen and zen [+updates]
-tree
-unusual anatomy
-unusual tail
-uploader:torvusil
-wings
-year:2018
+2018,
+animal tail,
+anthro,
+anthropomorphism,
+artist:plagueofgripes,
+barefoot,
+bean bag,
+bean_bag,
+biped,
+category:ine,
+character:nen (plagueofgripes),
+character:nen_(plagueofgripes),
+christmas,
+christmas clothing,
+christmas headwear,
+clothed,
+clothing,
+clothing:headwear,
+clothing:tagme,
+container,
+copyright:christmas,
+copyright:mythology,
+creator:gannadene,
+creator:plagueofgripes,
+cup,
+feathered wings,
+feathered_wings,
+feathers,
+feet,
+filename:file.1,
+fire,
+fireplace,
+furgonomics,
+furry,
+gender:female,
+gift,
+hair,
+hair over eyes,
+hair_over_eyes,
+hat,
+headgear,
+headwear,
+holding object,
+holding_object,
+holidays,
+indoors,
+inside,
+living tail,
+living_tail,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:2018,
+meta:hi res,
+meta:hi_res,
+meta:tagme,
+meta:widescreen,
+off shoulder,
+off-shoulder,
+off_shoulder,
+plant,
+rating:safe,
+reclining,
+santa hat,
+santa_hat,
+series:mythology,
+snake tail,
+snake_tail,
+solo,
+species:felid,
+species:feline,
+species:mammal,
+species:mythical,
+species:mythological sphinx,
+species:mythological_sphinx,
+species:reptile,
+species:scalie,
+species:snake,
+species:sphinx,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+tail,
+tail clothing,
+tail warmer,
+tail_clothing,
+tail_warmer,
+title:"nen and nan warmth" by gannadene,
+title:nen and nan warmth,
+title:nen and zen [+updates],
+tree,
+unusual anatomy,
+unusual tail,
+uploader:torvusil,
+wings,
+year:2018,

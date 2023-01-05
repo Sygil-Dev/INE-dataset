@@ -1,85 +1,85 @@
-1 female
-1girl
-arm at side
-art
-belt
-belt pouch
-between breasts
-black pants
-blonde hair
-blue eyes
-boots
-bra
-bra strap
-breasts
-brown gloves
-building
-category:ine
-character:ciri
-character:cirilla fiona elen riannon
-clothing:footwear
-clothing:legwear
-cool art man goddamn
-copyright name
-corset
-creator:feihong chen
-dark
-dated
-eyeshadow
-fire
-fog
-footwear
-freckles
-gender:female
-gloves
-green eyes
-half updo
-hand up
-holding
-holding object
-holding sword
-holding weapon
-knee boots
-lantern
-leaning
-leaning forward
-lips
-long hair
-looking to the side
-makeup
-medium breasts
-medium:official art
-meta:official art
-meta:sfw
-official art
-pants
-pouch
-rating:safe
-rock
-ruins
-scabbard
-scar
-series:the witcher
-series:the witcher 3: wild hunt
-sheath
-shirt
-silhouette
-silver hair
-solo
-string
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-sword
-title:ciri by feihong chen
-torch
-tower
-unsheathed
-uploader:blood-n-cheese
-uploader:dievah
-waifu
-walking
-weapon
-white shirt
-wood
-year:2015
+1 female,
+1girl,
+arm at side,
+art,
+belt,
+belt pouch,
+between breasts,
+black pants,
+blonde hair,
+blue eyes,
+boots,
+bra,
+bra strap,
+breasts,
+brown gloves,
+building,
+category:ine,
+character:ciri,
+character:cirilla fiona elen riannon,
+clothing:footwear,
+clothing:legwear,
+cool art man goddamn,
+copyright name,
+corset,
+creator:feihong chen,
+dark,
+dated,
+eyeshadow,
+fire,
+fog,
+footwear,
+freckles,
+gender:female,
+gloves,
+green eyes,
+half updo,
+hand up,
+holding,
+holding object,
+holding sword,
+holding weapon,
+knee boots,
+lantern,
+leaning,
+leaning forward,
+lips,
+long hair,
+looking to the side,
+makeup,
+medium breasts,
+medium:official art,
+meta:official art,
+meta:sfw,
+official art,
+pants,
+pouch,
+rating:safe,
+rock,
+ruins,
+scabbard,
+scar,
+series:the witcher,
+series:the witcher 3: wild hunt,
+sheath,
+shirt,
+silhouette,
+silver hair,
+solo,
+string,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sword,
+title:ciri by feihong chen,
+torch,
+tower,
+unsheathed,
+uploader:blood-n-cheese,
+uploader:dievah,
+waifu,
+walking,
+weapon,
+white shirt,
+wood,
+year:2015,

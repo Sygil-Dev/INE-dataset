@@ -1,65 +1,65 @@
-2016
-blue hair
-booru:e621
-category:ine
-character:fluttershy
-character:fluttershy (mlp)
-character:pinkie pie
-character:pinkie pie (mlp)
-character:snails (mlp)
-closed eyes
-clothing
-creator:jowybean
-day
-eyelashes
-eyes closed
-feathered wings
-feathers
-female
-feral
-flying
-fur
-gender:female
-gender:male
-genre:fantasy
-group
-hair
-hooves
-horn
-horns
-magic
-male
-meta:2016
-open mouth
-outside
-pink body
-pink fur
-pink hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-smile
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"you ready to buck and slam" by joshua whitehouse (jowybean)
-title:you ready to buck and slam
-tongue
-uploader:crystallord
-wings
-year:2016
-yellow body
-yellow feathers
-yellow fur
+2016,
+blue hair,
+booru:e621,
+category:ine,
+character:fluttershy,
+character:fluttershy (mlp),
+character:pinkie pie,
+character:pinkie pie (mlp),
+character:snails (mlp),
+closed eyes,
+clothing,
+creator:jowybean,
+day,
+eyelashes,
+eyes closed,
+feathered wings,
+feathers,
+female,
+feral,
+flying,
+fur,
+gender:female,
+gender:male,
+genre:fantasy,
+group,
+hair,
+hooves,
+horn,
+horns,
+magic,
+male,
+meta:2016,
+open mouth,
+outside,
+pink body,
+pink fur,
+pink hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+smile,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"you ready to buck and slam" by joshua whitehouse (jowybean),
+title:you ready to buck and slam,
+tongue,
+uploader:crystallord,
+wings,
+year:2016,
+yellow body,
+yellow feathers,
+yellow fur,

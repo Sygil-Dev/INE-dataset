@@ -1,88 +1,88 @@
-ambiguous gender
-ambiguous_gender
-anthropomorphism
-artist:katie_hofgard
-black stripes
-black_stripes
-book
-category:ine
-clothing:striped pattern
-creator:katie hofgard
-creator:wolf-nymph
-day
-detailed background
-detailed_background
-feral
-fur
-furry
-gender:ambiguous
-group
-medium:detailed background
-medium:digital media
-medium:text
-meta:2014
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:english text
-meta:english_text
-orange body
-orange fur
-orange_body
-orange_fur
-outside
-rating:safe
-sky
-source:furaffinity.net
-species:anatid
-species:anseriform
-species:anserinae
-species:avian
-species:bird
-species:canid
-species:canine
-species:canis
-species:cetacean
-species:common hippopotamus
-species:common_hippopotamus
-species:crocodile
-species:crocodilian
-species:crocodylid
-species:delphinoid
-species:domestic dog
-species:domestic_dog
-species:equid
-species:equine
-species:felid
-species:feline
-species:fox
-species:giraffe
-species:giraffid
-species:haplorhine
-species:hippopotamid
-species:horse
-species:lion
-species:mammal
-species:marine
-species:monkey
-species:pantherine
-species:primate
-species:reptile
-species:scalie
-species:swan
-species:tiger
-species:toothed whale
-species:toothed_whale
-species:zebra
-striped
-striped body
-striped fur
-striped_body
-striped_fur
-stripes
-subreddit:imaginarybooks
-subreddit:immeta
-text
-title:dawn at the book of names
-title:dawn at the book of names, by katie hofgard
-uploader:belledame-sans-serif
-year:2014
+ambiguous gender,
+ambiguous_gender,
+anthropomorphism,
+artist:katie_hofgard,
+black stripes,
+black_stripes,
+book,
+category:ine,
+clothing:striped pattern,
+creator:katie hofgard,
+creator:wolf-nymph,
+day,
+detailed background,
+detailed_background,
+feral,
+fur,
+furry,
+gender:ambiguous,
+group,
+medium:detailed background,
+medium:digital media,
+medium:text,
+meta:2014,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:english text,
+meta:english_text,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+outside,
+rating:safe,
+sky,
+source:furaffinity.net,
+species:anatid,
+species:anseriform,
+species:anserinae,
+species:avian,
+species:bird,
+species:canid,
+species:canine,
+species:canis,
+species:cetacean,
+species:common hippopotamus,
+species:common_hippopotamus,
+species:crocodile,
+species:crocodilian,
+species:crocodylid,
+species:delphinoid,
+species:domestic dog,
+species:domestic_dog,
+species:equid,
+species:equine,
+species:felid,
+species:feline,
+species:fox,
+species:giraffe,
+species:giraffid,
+species:haplorhine,
+species:hippopotamid,
+species:horse,
+species:lion,
+species:mammal,
+species:marine,
+species:monkey,
+species:pantherine,
+species:primate,
+species:reptile,
+species:scalie,
+species:swan,
+species:tiger,
+species:toothed whale,
+species:toothed_whale,
+species:zebra,
+striped,
+striped body,
+striped fur,
+striped_body,
+striped_fur,
+stripes,
+subreddit:imaginarybooks,
+subreddit:immeta,
+text,
+title:dawn at the book of names,
+title:dawn at the book of names, by katie hofgard,
+uploader:belledame-sans-serif,
+year:2014,

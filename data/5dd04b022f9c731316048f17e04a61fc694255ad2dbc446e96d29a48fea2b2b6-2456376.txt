@@ -1,57 +1,57 @@
-2014
-armor
-blue eyes
-booru:e621
-category:ine
-character:rarity
-character:rarity (mlp)
-clothing:armor
-creator:asimos
-cybernetics
-detailed background
-female
-feral
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-horn
-horns
-looking at viewer
-lying
-machine
-medium:detailed background
-medium:high resolution
-meta:2014
-meta:hi res
-nature
-outside
-plant
-pov
-purple hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-smile
-solo
-species:cyborg
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"rest" by viktor burlay (asimos)
-title:rest
-tree
-uploader:crystallord
-white body
-white fur
-year:2014
+2014,
+armor,
+blue eyes,
+booru:e621,
+category:ine,
+character:rarity,
+character:rarity (mlp),
+clothing:armor,
+creator:asimos,
+cybernetics,
+detailed background,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+looking at viewer,
+lying,
+machine,
+medium:detailed background,
+medium:high resolution,
+meta:2014,
+meta:hi res,
+nature,
+outside,
+plant,
+pov,
+purple hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+smile,
+solo,
+species:cyborg,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"rest" by viktor burlay (asimos),
+title:rest,
+tree,
+uploader:crystallord,
+white body,
+white fur,
+year:2014,

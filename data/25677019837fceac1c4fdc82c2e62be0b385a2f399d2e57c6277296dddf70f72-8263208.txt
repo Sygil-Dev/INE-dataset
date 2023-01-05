@@ -1,22 +1,22 @@
-atmosphere
-bar
-category:ine
-cobblestone
-creator:bram sels
-fog
-kitbash3d
-light
-london
-medium:digital 2d
-mood
-pub
-rain
-reflection
-street
-subreddit:imaginaryweather
-subreddit:imnature
-tavern
-title:the white fox
-title:the white fox by bram sels
-uploader:lol33ta
-wet
+atmosphere,
+bar,
+category:ine,
+cobblestone,
+creator:bram sels,
+fog,
+kitbash3d,
+light,
+london,
+medium:digital 2d,
+mood,
+pub,
+rain,
+reflection,
+street,
+subreddit:imaginaryweather,
+subreddit:imnature,
+tavern,
+title:the white fox,
+title:the white fox by bram sels,
+uploader:lol33ta,
+wet,

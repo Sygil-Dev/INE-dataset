@@ -1,71 +1,71 @@
-::d
-ambiguous gender
-ambiguous_gender
-artist name
-artist:tsaoshin
-blue eyes
-booru:e621
-category:ine
-charmander
-chibi
-copyright:nintendo
-copyright:pokémon
-creator:tsaoshin
-cute
-digital
-ericproctor
-fanart
-fangs
-fire
-flame
-full body
-furry
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-gottadrawemall
-gottadrawthemall
-kanto
-looking at viewer
-looking_at_viewer
-medium:1:1 aspect ratio
-medium:digital media
-meta:1:1
-meta:2016
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-nintendo
-open mouth
-open_mouth
-painting
-photoshop
-pokemon
-pokemon (creature)
-pool:15535
-pov
-rating:safe
-series:nintendo
-series:pokémon
-signature
-smile
-solo
-species:charmander
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:reptile
-species:scalie
-starter
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imfandoms
-teeth
-title:004 - charmander
-title:"charmander" by eric proctor
-tsaoshin
-type
-uploader:torvusil
-video games
-video_games
-year:2016
+::d,
+ambiguous gender,
+ambiguous_gender,
+artist name,
+artist:tsaoshin,
+blue eyes,
+booru:e621,
+category:ine,
+charmander,
+chibi,
+copyright:nintendo,
+copyright:pokémon,
+creator:tsaoshin,
+cute,
+digital,
+ericproctor,
+fanart,
+fangs,
+fire,
+flame,
+full body,
+furry,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+gottadrawemall,
+gottadrawthemall,
+kanto,
+looking at viewer,
+looking_at_viewer,
+medium:1:1 aspect ratio,
+medium:digital media,
+meta:1:1,
+meta:2016,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+nintendo,
+open mouth,
+open_mouth,
+painting,
+photoshop,
+pokemon,
+pokemon (creature),
+pool:15535,
+pov,
+rating:safe,
+series:nintendo,
+series:pokémon,
+signature,
+smile,
+solo,
+species:charmander,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:reptile,
+species:scalie,
+starter,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+teeth,
+title:004 - charmander,
+title:"charmander" by eric proctor,
+tsaoshin,
+type,
+uploader:torvusil,
+video games,
+video_games,
+year:2016,

@@ -1,23 +1,23 @@
-1944
-art
-category:ine
-concept
-concept art
-creator:jakub rozalski
-illustration
-mech
-medium:concept art
-medium:digital 2d
-painting
-subreddit:imaginarydieselpunk
-subreddit:imaginaryhistory
-subreddit:immeta
-subreddit:imtechnology
-title:warsaw 44
-title:warsaw 44 by jakub rozalski
-title:warsaw 1944 by jakub rozalski
-uploader:ethan_kahn
-uploader:seed_eater
-war
-warsaw uprising
-wwii
+1944,
+art,
+category:ine,
+concept,
+concept art,
+creator:jakub rozalski,
+illustration,
+mech,
+medium:concept art,
+medium:digital 2d,
+painting,
+subreddit:imaginarydieselpunk,
+subreddit:imaginaryhistory,
+subreddit:immeta,
+subreddit:imtechnology,
+title:warsaw 44,
+title:warsaw 44 by jakub rozalski,
+title:warsaw 1944 by jakub rozalski,
+uploader:ethan_kahn,
+uploader:seed_eater,
+war,
+warsaw uprising,
+wwii,

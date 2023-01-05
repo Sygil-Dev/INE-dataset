@@ -1,21 +1,21 @@
-category:ine
-character:apple bloom
-character:applejack
-creator:maggwai
-derpibooru
-genre:fantasy
-maggwai
-rating:safe
-safe
-scenery
-series:my little pony
-series:my little pony friendship is magic
-silhouette
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sunset
-title:'sunset' by maggwai
-twilight (astronomy)
-uploader:schnitzellover
+category:ine,
+character:apple bloom,
+character:applejack,
+creator:maggwai,
+derpibooru,
+genre:fantasy,
+maggwai,
+rating:safe,
+safe,
+scenery,
+series:my little pony,
+series:my little pony friendship is magic,
+silhouette,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sunset,
+title:'sunset' by maggwai,
+twilight (astronomy),
+uploader:schnitzellover,

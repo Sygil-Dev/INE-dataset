@@ -1,18 +1,18 @@
-akali
-category:ine
-creator:emily metlo
-digital art
-drawing
-fanart
-illustration
-league
-league of legends
-lol
-medium:digital 2d
-medium:digital media
-reworked akali
-subreddit:imaginarygaming
-subreddit:imfandoms
-title:"akali" by emily metlo
-title:akali
-uploader:torvusil
+akali,
+category:ine,
+creator:emily metlo,
+digital art,
+drawing,
+fanart,
+illustration,
+league,
+league of legends,
+lol,
+medium:digital 2d,
+medium:digital media,
+reworked akali,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+title:"akali" by emily metlo,
+title:akali,
+uploader:torvusil,

@@ -1,57 +1,57 @@
-ambiguous gender
-armor
-attack
-beak
-blurred background
-booru:e621
-casque (anatomy)
-category:ine
-character:fan character
-closed eyes
-clothing:armor
-creator:assasinmonkey
-day
-duo
-eyes closed
-female
-feral
-gender:ambiguous
-gender:female
-head crest
-kemono.party
-medium:high resolution
-meta:hi res
-meta:original character
-monster
-open mouth
-original character
-outside
-rating:safe
-series:my little pony
-series:mythology
-soldier
-species:avian
-species:bird
-species:cassowary
-species:equid
-species:equine
-species:felid
-species:feline
-species:gryphon
-species:hybrid
-species:leopard
-species:mammal
-species:mythical
-species:mythological avian
-species:pantherine
-species:ratite
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-teeth
-title:grounds of the flightless
-title:grounds of the flightless by myron c.p.
-tongue
-uploader:myrandall
-warrior
+ambiguous gender,
+armor,
+attack,
+beak,
+blurred background,
+booru:e621,
+casque (anatomy),
+category:ine,
+character:fan character,
+closed eyes,
+clothing:armor,
+creator:assasinmonkey,
+day,
+duo,
+eyes closed,
+female,
+feral,
+gender:ambiguous,
+gender:female,
+head crest,
+kemono.party,
+medium:high resolution,
+meta:hi res,
+meta:original character,
+monster,
+open mouth,
+original character,
+outside,
+rating:safe,
+series:my little pony,
+series:mythology,
+soldier,
+species:avian,
+species:bird,
+species:cassowary,
+species:equid,
+species:equine,
+species:felid,
+species:feline,
+species:gryphon,
+species:hybrid,
+species:leopard,
+species:mammal,
+species:mythical,
+species:mythological avian,
+species:pantherine,
+species:ratite,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+teeth,
+title:grounds of the flightless,
+title:grounds of the flightless by myron c.p.,
+tongue,
+uploader:myrandall,
+warrior,

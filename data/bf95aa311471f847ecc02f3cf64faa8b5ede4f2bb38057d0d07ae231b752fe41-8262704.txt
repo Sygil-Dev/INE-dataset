@@ -1,47 +1,47 @@
-blue eyes
-booru:e621
-category:ine
-character:shining armor
-character:shining armor (mlp)
-creator:das-leben
-cutie mark
-das-leben
-feral
-fur
-gender:male
-genre:fantasy
-hair
-horn
-horns
-magic glow
-male
-mammal
-medium:absurd resolution
-medium:high resolution
-meta:3:5
-meta:2016
-meta:absurd res
-meta:hi res
-multicolored hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:portrait of shining armor
-title:portrait of shining armor by das-leben (юлия)
-unicorn
-uploader:missgoldendragon
-year:2016
+blue eyes,
+booru:e621,
+category:ine,
+character:shining armor,
+character:shining armor (mlp),
+creator:das-leben,
+cutie mark,
+das-leben,
+feral,
+fur,
+gender:male,
+genre:fantasy,
+hair,
+horn,
+horns,
+magic glow,
+male,
+mammal,
+medium:absurd resolution,
+medium:high resolution,
+meta:3:5,
+meta:2016,
+meta:absurd res,
+meta:hi res,
+multicolored hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:portrait of shining armor,
+title:portrait of shining armor by das-leben (юлия),
+unicorn,
+uploader:missgoldendragon,
+year:2016,

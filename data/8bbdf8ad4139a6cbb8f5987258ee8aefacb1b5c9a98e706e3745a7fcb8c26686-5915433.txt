@@ -1,51 +1,51 @@
-2016
-armor
-booru:e621
-category:ine
-character:shyvana
-character:shyvana, the half-dragon
-clothing:armor
-creator:zig-word
-creator:zigword
-crossover
-detailed background
-equine
-female
-feral
-gender:female
-hair
-hi res
-hooves
-horn
-horns
-leagueoflegends
-mammal
-medium:detailed background
-medium:high resolution
-meta:2016
-meta:hi res
-mylittleponyfriendshipismagic
-pony
-purple hair
-rating:safe
-series:hasbro
-series:league of legends
-series:my little pony
-series:riot games
-shyvana
-solo
-species:equid
-species:equine
-species:mammal
-standing
-studio:hasbro
-studio:riot games
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"shyvana" by zig-word
-title:shyvana
-uploader:torvusil
-video games
-year:2016
-yellow eyes
-zigword
+2016,
+armor,
+booru:e621,
+category:ine,
+character:shyvana,
+character:shyvana, the half-dragon,
+clothing:armor,
+creator:zig-word,
+creator:zigword,
+crossover,
+detailed background,
+equine,
+female,
+feral,
+gender:female,
+hair,
+hi res,
+hooves,
+horn,
+horns,
+leagueoflegends,
+mammal,
+medium:detailed background,
+medium:high resolution,
+meta:2016,
+meta:hi res,
+mylittleponyfriendshipismagic,
+pony,
+purple hair,
+rating:safe,
+series:hasbro,
+series:league of legends,
+series:my little pony,
+series:riot games,
+shyvana,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+standing,
+studio:hasbro,
+studio:riot games,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"shyvana" by zig-word,
+title:shyvana,
+uploader:torvusil,
+video games,
+year:2016,
+yellow eyes,
+zigword,

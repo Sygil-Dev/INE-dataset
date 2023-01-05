@@ -1,21 +1,21 @@
-1other
-architecture
-bridge
-building
-castle
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-east asian architecture
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-title:tavern on the docks by debora spiro
-tower
-uploader:[deleted]
-uploader:ethan_kahn
+1other,
+architecture,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+east asian architecture,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+title:tavern on the docks by debora spiro,
+tower,
+uploader:[deleted],
+uploader:ethan_kahn,

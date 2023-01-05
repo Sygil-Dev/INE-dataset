@@ -1,128 +1,128 @@
-amethyst (gem)
-amethyst necklace
-big eyes
-big hair
-big pupils
-black eyelashes
-black pupils
-blue hair
-blue mane
-booru:e621
-bust portrait
-casual nudity
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-choker
-clothing:choker
-cloud
-creator:yakovlev-vad
-crown
-detailed background
-eyebrows
-eyelashes
-fathered wings
-feathered wings
-feathers
-female
-feral
-flowing hair
-fluffy
-forest
-fur
-gem
-gender:female
-genre:fantasy
-glistening
-glistening eyes
-glistening jewelry
-gold (metal)
-gold choker
-gold crown
-gold jewelry
-gold necklace
-gold tiara
-green hair
-green mane
-hair
-half-closed eyes
-horn
-horns
-jewelry
-light
-long hair
-long mane
-makeup
-mane
-mane hair
-mascara
-medium:detailed background
-medium:high resolution
-meta:2016
-meta:bust portrait
-meta:hi res
-meta:portrait
-meta:signature
-multicolored hair
-multicolored mane
-narrowed eyes
-nature
-necklace
-nude
-outside
-pink hair
-pink mane
-plant
-portrait
-prick ears
-princess
-pupils
-purple eyes
-purple hair
-purple mane
-rating:safe
-royalty
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-shadow
-shrub
-side view
-sky
-smile
-snout
-solo
-sparkles
-species:ambient arthropod
-species:ambient butterfly
-species:ambient insect
-species:arthropod
-species:butterfly
-species:equid
-species:equine
-species:insect
-species:lepidopteran
-species:mammal
-species:monarch butterfly
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sunlight
-sunset
-tiara
-title:"last ray of the day" by yakolev vadim
-title:last ray of the day
-tree
-unicorn horn
-uploader:torvusil
-wavy hair
-wavy mane
-white body
-white feathers
-white fur
-white horn
-wings
-year:2016
+amethyst (gem),
+amethyst necklace,
+big eyes,
+big hair,
+big pupils,
+black eyelashes,
+black pupils,
+blue hair,
+blue mane,
+booru:e621,
+bust portrait,
+casual nudity,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+choker,
+clothing:choker,
+cloud,
+creator:yakovlev-vad,
+crown,
+detailed background,
+eyebrows,
+eyelashes,
+fathered wings,
+feathered wings,
+feathers,
+female,
+feral,
+flowing hair,
+fluffy,
+forest,
+fur,
+gem,
+gender:female,
+genre:fantasy,
+glistening,
+glistening eyes,
+glistening jewelry,
+gold (metal),
+gold choker,
+gold crown,
+gold jewelry,
+gold necklace,
+gold tiara,
+green hair,
+green mane,
+hair,
+half-closed eyes,
+horn,
+horns,
+jewelry,
+light,
+long hair,
+long mane,
+makeup,
+mane,
+mane hair,
+mascara,
+medium:detailed background,
+medium:high resolution,
+meta:2016,
+meta:bust portrait,
+meta:hi res,
+meta:portrait,
+meta:signature,
+multicolored hair,
+multicolored mane,
+narrowed eyes,
+nature,
+necklace,
+nude,
+outside,
+pink hair,
+pink mane,
+plant,
+portrait,
+prick ears,
+princess,
+pupils,
+purple eyes,
+purple hair,
+purple mane,
+rating:safe,
+royalty,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+shadow,
+shrub,
+side view,
+sky,
+smile,
+snout,
+solo,
+sparkles,
+species:ambient arthropod,
+species:ambient butterfly,
+species:ambient insect,
+species:arthropod,
+species:butterfly,
+species:equid,
+species:equine,
+species:insect,
+species:lepidopteran,
+species:mammal,
+species:monarch butterfly,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sunlight,
+sunset,
+tiara,
+title:"last ray of the day" by yakolev vadim,
+title:last ray of the day,
+tree,
+unicorn horn,
+uploader:torvusil,
+wavy hair,
+wavy mane,
+white body,
+white feathers,
+white fur,
+white horn,
+wings,
+year:2016,

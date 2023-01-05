@@ -1,55 +1,55 @@
-1 female
-armchair
-artist:kyoung hwan kim
-book
-book (books)
-bookshelf
-booru:sankaku channel
-brown hair
-casual
-category:ine
-chair
-copyright:original
-creator:kyoung hwan kim
-creator:tahra
-daisy
-danbooru
-eyes closed
-flower
-flower (flowers)
-forest
-fringe
-garden
-gender:female
-girl
-holding
-indoors
-lantern
-long hair
-long skirt
-nature
-open book
-outdoors
-outside
-plant (plants)
-rating:safe
-reading
-series:original
-shelf
-short sleeves
-single
-site:anime-pictures.net
-sitting
-skirt
-sky
-solo
-stack of books
-subreddit:imaginarybooks
-subreddit:immeta
-sunbeam
-sunlight
-t-shirt
-title:garden
-title:the garden by kim kyoung hwan
-tree (trees)
-uploader:lol33ta
+1 female,
+armchair,
+artist:kyoung hwan kim,
+book,
+book (books),
+bookshelf,
+booru:sankaku channel,
+brown hair,
+casual,
+category:ine,
+chair,
+copyright:original,
+creator:kyoung hwan kim,
+creator:tahra,
+daisy,
+danbooru,
+eyes closed,
+flower,
+flower (flowers),
+forest,
+fringe,
+garden,
+gender:female,
+girl,
+holding,
+indoors,
+lantern,
+long hair,
+long skirt,
+nature,
+open book,
+outdoors,
+outside,
+plant (plants),
+rating:safe,
+reading,
+series:original,
+shelf,
+short sleeves,
+single,
+site:anime-pictures.net,
+sitting,
+skirt,
+sky,
+solo,
+stack of books,
+subreddit:imaginarybooks,
+subreddit:immeta,
+sunbeam,
+sunlight,
+t-shirt,
+title:garden,
+title:the garden by kim kyoung hwan,
+tree (trees),
+uploader:lol33ta,

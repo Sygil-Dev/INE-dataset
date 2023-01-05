@@ -1,60 +1,60 @@
-2014
-absurd res
-blue body
-blue fur
-booru:e621
-category:ine
-character:trixie (mlp)
-character:trixie lulamoon
-clothing
-clothing:hat
-clothing:headwear
-creator:mrs1989
-detailed background
-female
-forest
-fur
-gender:female
-genre:fantasy
-hair
-hat
-headgear
-headwear
-hi res
-high resolution
-horn
-horns
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:2014
-meta:absurd res
-meta:hi res
-multicolored hair
-outside
-plant
-purple eyes
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-snow
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:'cold, cold winter' by pu_reun_ha_neul (mrs1989)
-title:cold, cold winter
-tree
-two tone hair
-uploader:schnitzellover
-winter
-wizard hat
-year:2014
+2014,
+absurd res,
+blue body,
+blue fur,
+booru:e621,
+category:ine,
+character:trixie (mlp),
+character:trixie lulamoon,
+clothing,
+clothing:hat,
+clothing:headwear,
+creator:mrs1989,
+detailed background,
+female,
+forest,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hat,
+headgear,
+headwear,
+hi res,
+high resolution,
+horn,
+horns,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:2014,
+meta:absurd res,
+meta:hi res,
+multicolored hair,
+outside,
+plant,
+purple eyes,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+snow,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:'cold, cold winter' by pu_reun_ha_neul (mrs1989),
+title:cold, cold winter,
+tree,
+two tone hair,
+uploader:schnitzellover,
+winter,
+wizard hat,
+year:2014,

@@ -1,26 +1,26 @@
-category:ine
-character:oc
-character:oc only
-creator:foxinshadow
-creator:zero-sum
-crepuscular rays
-derpibooru
-forest
-foxinshadow
-meta:original character
-oc
-oc only
-plushie
-raised hoof
-rating:safe
-scenery
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:the marshlands
-title:the marshlands by foxinshadow
-uploader:szaladon
+category:ine,
+character:oc,
+character:oc only,
+creator:foxinshadow,
+creator:zero-sum,
+crepuscular rays,
+derpibooru,
+forest,
+foxinshadow,
+meta:original character,
+oc,
+oc only,
+plushie,
+raised hoof,
+rating:safe,
+scenery,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:the marshlands,
+title:the marshlands by foxinshadow,
+uploader:szaladon,

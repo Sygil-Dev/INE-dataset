@@ -1,26 +1,26 @@
-book
-bryce
-category:ine
-chmilenko
-connor
-cover
-creator:billy christian
-crown
-dragonman
-furry
-king
-knight
-luke
-medium:digital 2d
-soldier
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginaryarmor
-subreddit:imaginarynobles
-subreddit:imcharacters
-subreddit:imtechnology
-title:a mark of kings: the shattered reigns #1
-title:a mark of kings: the shattered reigns #1 by billy christian
-uploader:drunkindragon
-warrior
+book,
+bryce,
+category:ine,
+chmilenko,
+connor,
+cover,
+creator:billy christian,
+crown,
+dragonman,
+furry,
+king,
+knight,
+luke,
+medium:digital 2d,
+soldier,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginaryarmor,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+subreddit:imtechnology,
+title:a mark of kings: the shattered reigns #1,
+title:a mark of kings: the shattered reigns #1 by billy christian,
+uploader:drunkindragon,
+warrior,

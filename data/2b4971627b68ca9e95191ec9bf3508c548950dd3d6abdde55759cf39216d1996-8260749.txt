@@ -1,85 +1,85 @@
-blue eyes
-blue hair
-booru:e621
-candle
-cape
-carpet
-category:ine
-character:fan character
-character:trixie (mlp)
-character:trixie lulamoon
-christmas tree
-clothing
-clothing:eyewear
-clothing:hat
-clothing:headwear
-creator:hunternif
-detailed background
-duo
-eyebrows
-eyelashes
-eyewear
-female
-frown
-garland
-gender:female
-genre:fantasy
-gift
-glasses
-hair
-hallway
-hat
-headgear
-headwear
-holidays
-horn
-horns
-ill
-indoors
-inside
-j2016
-light
-looking at viewer
-makeup
-mascara
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:absurd res
-meta:hi res
-original character
-pattern clothing
-pattern scarf
-plant
-pov
-purple eyes
-rating:safe
-ribbons
-sad
-scarf
-series:christmas
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-short hair
-smile
-snow
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-star
-striped
-striped clothing
-striped scarf
-stripes
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"to cure a cold on hearth's warming eve" by ilya (hunternif)
-title:to cure a cold on hearth's warming eve
-tree
-uploader:crystallord
-white hair
+blue eyes,
+blue hair,
+booru:e621,
+candle,
+cape,
+carpet,
+category:ine,
+character:fan character,
+character:trixie (mlp),
+character:trixie lulamoon,
+christmas tree,
+clothing,
+clothing:eyewear,
+clothing:hat,
+clothing:headwear,
+creator:hunternif,
+detailed background,
+duo,
+eyebrows,
+eyelashes,
+eyewear,
+female,
+frown,
+garland,
+gender:female,
+genre:fantasy,
+gift,
+glasses,
+hair,
+hallway,
+hat,
+headgear,
+headwear,
+holidays,
+horn,
+horns,
+ill,
+indoors,
+inside,
+j2016,
+light,
+looking at viewer,
+makeup,
+mascara,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:absurd res,
+meta:hi res,
+original character,
+pattern clothing,
+pattern scarf,
+plant,
+pov,
+purple eyes,
+rating:safe,
+ribbons,
+sad,
+scarf,
+series:christmas,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+short hair,
+smile,
+snow,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+star,
+striped,
+striped clothing,
+striped scarf,
+stripes,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"to cure a cold on hearth's warming eve" by ilya (hunternif),
+title:to cure a cold on hearth's warming eve,
+tree,
+uploader:crystallord,
+white hair,

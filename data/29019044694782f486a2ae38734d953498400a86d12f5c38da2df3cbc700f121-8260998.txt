@@ -1,59 +1,59 @@
-16:9
-2019
-animal humanoid
-artist:neytirix
-bone
-cat humanoid
-category:ine
-character:neytirix (character)
-chromatic aberration
-chromatic_aberration
-clothed
-clothing
-creator:neytirix
-digital media (artwork)
-felid
-felid humanoid
-feline
-feline humanoid
-female
-gender:female
-hi res
-humanoid
-mammal
-medium:digital media
-medium:high resolution
-medium:simple background
-meta:16:9
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:widescreen
-neytirix
-rating:safe
-simple background
-simple_background
-skull
-solo
-species:animal humanoid
-species:animal_humanoid
-species:cat humanoid
-species:cat_humanoid
-species:felid
-species:felid humanoid
-species:felid_humanoid
-species:feline
-species:feline humanoid
-species:feline_humanoid
-species:humanoid
-species:mammal
-species:mammal humanoid
-species:mammal_humanoid
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-title:woops!
-title:woops! by ? (neytirix)
-uploader:net-diver
-video in description
+16:9,
+2019,
+animal humanoid,
+artist:neytirix,
+bone,
+cat humanoid,
+category:ine,
+character:neytirix (character),
+chromatic aberration,
+chromatic_aberration,
+clothed,
+clothing,
+creator:neytirix,
+digital media (artwork),
+felid,
+felid humanoid,
+feline,
+feline humanoid,
+female,
+gender:female,
+hi res,
+humanoid,
+mammal,
+medium:digital media,
+medium:high resolution,
+medium:simple background,
+meta:16:9,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+neytirix,
+rating:safe,
+simple background,
+simple_background,
+skull,
+solo,
+species:animal humanoid,
+species:animal_humanoid,
+species:cat humanoid,
+species:cat_humanoid,
+species:felid,
+species:felid humanoid,
+species:felid_humanoid,
+species:feline,
+species:feline humanoid,
+species:feline_humanoid,
+species:humanoid,
+species:mammal,
+species:mammal humanoid,
+species:mammal_humanoid,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+title:woops!,
+title:woops! by ? (neytirix),
+uploader:net-diver,
+video in description,

@@ -1,40 +1,40 @@
-artist name
-ayya saparniyazova
-black hair
-bodysuit
-booru:sankaku channel
-cape
-category:ine
-character:rachel "raven" roth
-character:raven (dc)
-creator:ayya saparniyazova
-creator:ayyasap
-creator:ayyasap (artist)
-dc comics
-fanart from deviantart
-female
-gender:female
-hood
-hood up
-jewelry
-medium:artist name
-medium:fanart from deviantart
-medium:text
-meta:artist name
-meta:duplicate
-necklace
-potential duplicate
-rating:safe
-raven (dc comics)
-raven (dc)
-series:teen titans
-short hair
-site:deviantart
-studio:dc comics
-subreddit:imaginarydc
-subreddit:imfandoms
-text
-title:raven
-title:raven by ayya saparniyazova
-uploader:myrandall
-website:reddit
+artist name,
+ayya saparniyazova,
+black hair,
+bodysuit,
+booru:sankaku channel,
+cape,
+category:ine,
+character:rachel "raven" roth,
+character:raven (dc),
+creator:ayya saparniyazova,
+creator:ayyasap,
+creator:ayyasap (artist),
+dc comics,
+fanart from deviantart,
+female,
+gender:female,
+hood,
+hood up,
+jewelry,
+medium:artist name,
+medium:fanart from deviantart,
+medium:text,
+meta:artist name,
+meta:duplicate,
+necklace,
+potential duplicate,
+rating:safe,
+raven (dc comics),
+raven (dc),
+series:teen titans,
+short hair,
+site:deviantart,
+studio:dc comics,
+subreddit:imaginarydc,
+subreddit:imfandoms,
+text,
+title:raven,
+title:raven by ayya saparniyazova,
+uploader:myrandall,
+website:reddit,

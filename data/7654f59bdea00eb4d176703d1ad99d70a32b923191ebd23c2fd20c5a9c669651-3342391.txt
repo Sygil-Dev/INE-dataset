@@ -1,60 +1,60 @@
-2015
-absurd res
-back to back
-back-to-back
-black hair
-blue hair
-booru:e621
-bow tie
-bowed string instrument
-category:ine
-cello
-character:octavia (mlp)
-character:octavia melody
-character:vinyl scratch
-character:vinyl scratch (mlp)
-creator:santagiera
-duo
-female
-feral
-gender:female
-genre:fantasy
-hair
-hi res
-horn
-horns
-lights
-medium:absurd resolution
-medium:high resolution
-meta:2015
-meta:absurd res
-meta:hi res
-musical instrument
-purple eyes
-rating:safe
-record player
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-speaker
-speakers
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-string instrument
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"music" by liza frolova (santagiera)
-title:music
-turntable (decks)
-uploader:crystallord
-year:2015
+2015,
+absurd res,
+back to back,
+back-to-back,
+black hair,
+blue hair,
+booru:e621,
+bow tie,
+bowed string instrument,
+category:ine,
+cello,
+character:octavia (mlp),
+character:octavia melody,
+character:vinyl scratch,
+character:vinyl scratch (mlp),
+creator:santagiera,
+duo,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+horn,
+horns,
+lights,
+medium:absurd resolution,
+medium:high resolution,
+meta:2015,
+meta:absurd res,
+meta:hi res,
+musical instrument,
+purple eyes,
+rating:safe,
+record player,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+speaker,
+speakers,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+string instrument,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"music" by liza frolova (santagiera),
+title:music,
+turntable (decks),
+uploader:crystallord,
+year:2015,

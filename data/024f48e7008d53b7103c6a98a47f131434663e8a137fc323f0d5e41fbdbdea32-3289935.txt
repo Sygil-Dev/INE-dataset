@@ -1,117 +1,117 @@
-2015
-absurd res
-ambiguous gender
-ambiguous_gender
-androgynous
-anthro
-anthrofied
-anthropomorphism
-anthropomorphization
-aqua eyes
-artist:audrarius
-bone
-booru:e621
-breasts
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-character:applejack
-character:applejack (mlp)
-character:applejack_(mlp)
-character:fluttershy
-character:fluttershy (mlp)
-character:fluttershy_(mlp)
-cleavage
-clothed
-clothing
-clothing:tagme
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:my_little_pony
-creator:audrarius
-digital media (artwork)
-earth pony
-equid
-equine
-feathered wings
-feathered_wings
-feathers
-female
-fur
-gender:ambiguous
-gender:ambiguous gender
-gender:female
-genre:fantasy
-green eyes
-green_eyes
-group
-hair
-headdress
-headwear
-hi res
-horse
-mammal
-medium:2015
-medium:absurd resolution
-medium:digital media
-medium:digital media (artwork)
-medium:high resolution
-medium:very high resolution
-meta:2015
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:useless tags
-navel
-pegasus
-pink hair
-pink_hair
-pony
-rating:questionable
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sharp teeth
-sharp_teeth
-skull
-species:bear
-species:earth pony
-species:earth_pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-species:ursid
-species:ursine
-stomach
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-teal eyes
-teal_eyes
-teeth
-title:friction
-title:friction by malus/audrarius
-tribal
-uploader:myrandall
-ursid
-weapon
-wings
-year:2015
-yellow body
-yellow feathers
-yellow_body
-yellow_feathers
+2015,
+absurd res,
+ambiguous gender,
+ambiguous_gender,
+androgynous,
+anthro,
+anthrofied,
+anthropomorphism,
+anthropomorphization,
+aqua eyes,
+artist:audrarius,
+bone,
+booru:e621,
+breasts,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+character:applejack,
+character:applejack (mlp),
+character:applejack_(mlp),
+character:fluttershy,
+character:fluttershy (mlp),
+character:fluttershy_(mlp),
+cleavage,
+clothed,
+clothing,
+clothing:tagme,
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:audrarius,
+digital media (artwork),
+earth pony,
+equid,
+equine,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+fur,
+gender:ambiguous,
+gender:ambiguous gender,
+gender:female,
+genre:fantasy,
+green eyes,
+green_eyes,
+group,
+hair,
+headdress,
+headwear,
+hi res,
+horse,
+mammal,
+medium:2015,
+medium:absurd resolution,
+medium:digital media,
+medium:digital media (artwork),
+medium:high resolution,
+medium:very high resolution,
+meta:2015,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:useless tags,
+navel,
+pegasus,
+pink hair,
+pink_hair,
+pony,
+rating:questionable,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sharp teeth,
+sharp_teeth,
+skull,
+species:bear,
+species:earth pony,
+species:earth_pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:ursid,
+species:ursine,
+stomach,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+teal eyes,
+teal_eyes,
+teeth,
+title:friction,
+title:friction by malus/audrarius,
+tribal,
+uploader:myrandall,
+ursid,
+weapon,
+wings,
+year:2015,
+yellow body,
+yellow feathers,
+yellow_body,
+yellow_feathers,

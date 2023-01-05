@@ -1,62 +1,62 @@
-2019
-absurd res
-amalthea
-artist:plaguedogs123
-blue hair
-blue_hair
-category:ine
-character:amalthea_(tlu)
-copyright:the_last_unicorn
-creator:plaguedogs123
-detailed background
-detailed_background
-digital media (artwork)
-dusk
-equid
-equidae
-equine
-fantasy
-female
-feral
-gender:female
-hair
-hi res
-horn
-horns
-horse
-lady_amalthea
-last_unicorn
-mammal
-medium:absurd resolution
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2019
-meta:absurd_res
-meta:digital_media_(artwork)
-meta:hi_res
-moon
-night
-outside
-rating:safe
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-standing
-star
-starry sky
-starry_sky
-stars
-subreddit:imaginarymythology
-subreddit:imcharacters
-sunset
-the_last_unicorn
-title:"the last unicorn" by stephanie (plaguedogs123)
-title:the last unicorn
-twilight
-unicorn
-uploader:torvusil
+2019,
+absurd res,
+amalthea,
+artist:plaguedogs123,
+blue hair,
+blue_hair,
+category:ine,
+character:amalthea_(tlu),
+copyright:the_last_unicorn,
+creator:plaguedogs123,
+detailed background,
+detailed_background,
+digital media (artwork),
+dusk,
+equid,
+equidae,
+equine,
+fantasy,
+female,
+feral,
+gender:female,
+hair,
+hi res,
+horn,
+horns,
+horse,
+lady_amalthea,
+last_unicorn,
+mammal,
+medium:absurd resolution,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2019,
+meta:absurd_res,
+meta:digital_media_(artwork),
+meta:hi_res,
+moon,
+night,
+outside,
+rating:safe,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+standing,
+star,
+starry sky,
+starry_sky,
+stars,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+sunset,
+the_last_unicorn,
+title:"the last unicorn" by stephanie (plaguedogs123),
+title:the last unicorn,
+twilight,
+unicorn,
+uploader:torvusil,

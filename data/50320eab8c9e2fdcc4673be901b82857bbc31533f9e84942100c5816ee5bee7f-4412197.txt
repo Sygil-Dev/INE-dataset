@@ -1,38 +1,38 @@
-booru:e621
-category:ine
-character:trixie (mlp)
-character:trixie lulamoon
-clothing
-clothing:hat
-clothing:headwear
-creator:blackligerth
-duo
-female
-feral
-gender:female
-genre:fantasy
-hair
-hat
-headgear
-headwear
-horn
-horns
-medium:high resolution
-meta:hi res
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:the great and powerful
-title:the great and powerful by blackligerth (nopasin kao's equestrianliger)
-uploader:missgoldendragon
-wizard hat
+booru:e621,
+category:ine,
+character:trixie (mlp),
+character:trixie lulamoon,
+clothing,
+clothing:hat,
+clothing:headwear,
+creator:blackligerth,
+duo,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+hat,
+headgear,
+headwear,
+horn,
+horns,
+medium:high resolution,
+meta:hi res,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:the great and powerful,
+title:the great and powerful by blackligerth (nopasin kao's equestrianliger),
+uploader:missgoldendragon,
+wizard hat,

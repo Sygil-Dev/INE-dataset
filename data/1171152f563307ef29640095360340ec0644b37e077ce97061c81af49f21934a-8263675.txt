@@ -1,52 +1,52 @@
-4 toes
-4_toes
-ambiguous gender
-ambiguous_gender
-artist:katie_hofgard
-australian
-book
-bookmark
-canid
-canis
-category:ine
-creator:katie hofgard
-creator:katiehofgard
-creator:wolf-nymph
-daisy
-domestic dog
-feet
-feral
-gender:ambiguous
-green background
-green_background
-katie hofgard
-medium:digital media
-medium:green background
-medium:simple background
-meta:2013
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-orange eyes
-orange_eyes
-pawpads
-rating:safe
-shepher
-simple background
-simple_background
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:dog
-species:domestic dog
-species:domestic_dog
-species:mammal
-story
-subreddit:imaginarybooks
-subreddit:immeta
-title:story time
-title:story time by katie hofgard
-toes
-uploader:lol33ta
-year:2013
+4 toes,
+4_toes,
+ambiguous gender,
+ambiguous_gender,
+artist:katie_hofgard,
+australian,
+book,
+bookmark,
+canid,
+canis,
+category:ine,
+creator:katie hofgard,
+creator:katiehofgard,
+creator:wolf-nymph,
+daisy,
+domestic dog,
+feet,
+feral,
+gender:ambiguous,
+green background,
+green_background,
+katie hofgard,
+medium:digital media,
+medium:green background,
+medium:simple background,
+meta:2013,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+orange eyes,
+orange_eyes,
+pawpads,
+rating:safe,
+shepher,
+simple background,
+simple_background,
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:dog,
+species:domestic dog,
+species:domestic_dog,
+species:mammal,
+story,
+subreddit:imaginarybooks,
+subreddit:immeta,
+title:story time,
+title:story time by katie hofgard,
+toes,
+uploader:lol33ta,
+year:2013,

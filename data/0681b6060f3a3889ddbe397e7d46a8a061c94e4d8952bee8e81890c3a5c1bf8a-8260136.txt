@@ -1,26 +1,26 @@
-1girl
-air bubble
-argyle
-argyle background
-blue theme
-bubble
-cat
-category:ine
-checkered
-checkered floor
-coral
-fish
-flower
-plant
-potted plant
-rating:safe
-solo
-star (symbol)
-starfish
-subreddit:imaginarylibraries
-subreddit:imarchitecture
-title:sea of books by julia miyuli
-underwater
-uploader:[deleted]
-uploader:faeryknight
-whale
+1girl,
+air bubble,
+argyle,
+argyle background,
+blue theme,
+bubble,
+cat,
+category:ine,
+checkered,
+checkered floor,
+coral,
+fish,
+flower,
+plant,
+potted plant,
+rating:safe,
+solo,
+star (symbol),
+starfish,
+subreddit:imaginarylibraries,
+subreddit:imarchitecture,
+title:sea of books by julia miyuli,
+underwater,
+uploader:[deleted],
+uploader:faeryknight,
+whale,

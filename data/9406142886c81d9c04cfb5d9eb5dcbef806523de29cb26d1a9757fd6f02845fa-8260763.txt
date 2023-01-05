@@ -1,41 +1,41 @@
-boradraws
-boris radevski
-bounty hunter
-category:ine
-character
-character concept art
-character design
-concept art
-creator:boris radevski
-dark
-dawn
-design
-digital 2d
-dusk
-fantasy
-fantasy art
-fantasy game
-iterations
-light
-mage
-medium:digital 2d
-photoshop
-robot pencil
-slavic
-slavic fantasy
-sorceress
-subreddit:imaginarywitches
-subreddit:imcharacters
-thumbnails
-title:zora the sorceress of dusk and dawn by boris radevski
-uploader:lol33ta
-video game character design
-videogame art
-visual development
-warrior
-winter character
-witch
-work progress
-yang
-yin
-yin and yang
+boradraws,
+boris radevski,
+bounty hunter,
+category:ine,
+character,
+character concept art,
+character design,
+concept art,
+creator:boris radevski,
+dark,
+dawn,
+design,
+digital 2d,
+dusk,
+fantasy,
+fantasy art,
+fantasy game,
+iterations,
+light,
+mage,
+medium:digital 2d,
+photoshop,
+robot pencil,
+slavic,
+slavic fantasy,
+sorceress,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+thumbnails,
+title:zora the sorceress of dusk and dawn by boris radevski,
+uploader:lol33ta,
+video game character design,
+videogame art,
+visual development,
+warrior,
+winter character,
+witch,
+work progress,
+yang,
+yin,
+yin and yang,

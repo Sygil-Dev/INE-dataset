@@ -1,21 +1,21 @@
-architecture
-black border
-blue sky
-border
-building
-category:ine
-city
-cloud
-cloudy sky
-day
-letterboxed
-outdoors
-pillarboxed
-rating:safe
-scenery
-sky
-subreddit:imaginarylibraries
-subreddit:imarchitecture
-title:the great library of andum by max fieve
-tower
-uploader:mediadavid
+architecture,
+black border,
+blue sky,
+border,
+building,
+category:ine,
+city,
+cloud,
+cloudy sky,
+day,
+letterboxed,
+outdoors,
+pillarboxed,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarylibraries,
+subreddit:imarchitecture,
+title:the great library of andum by max fieve,
+tower,
+uploader:mediadavid,

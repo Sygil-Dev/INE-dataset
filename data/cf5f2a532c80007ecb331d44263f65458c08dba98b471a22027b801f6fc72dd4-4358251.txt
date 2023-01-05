@@ -1,45 +1,45 @@
-2016
-amazing background
-bag
-booru:e621
-canterlot
-category:ine
-character:fluttershy
-character:fluttershy (mlp)
-creator:jowybean
-detailed background
-feathered wings
-feathers
-female
-feral
-gender:female
-genre:fantasy
-medium:absurd resolution
-medium:amazing background
-medium:detailed background
-medium:high resolution
-meta:2016
-meta:absurd res
-meta:hi res
-mountain
-outside
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:'a kind breeze' by joshua whitehouse (jowybean)
-title:a kind breeze
-uploader:schnitzellover
-wings
-year:2016
+2016,
+amazing background,
+bag,
+booru:e621,
+canterlot,
+category:ine,
+character:fluttershy,
+character:fluttershy (mlp),
+creator:jowybean,
+detailed background,
+feathered wings,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+medium:absurd resolution,
+medium:amazing background,
+medium:detailed background,
+medium:high resolution,
+meta:2016,
+meta:absurd res,
+meta:hi res,
+mountain,
+outside,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:'a kind breeze' by joshua whitehouse (jowybean),
+title:a kind breeze,
+uploader:schnitzellover,
+wings,
+year:2016,

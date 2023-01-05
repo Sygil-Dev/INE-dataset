@@ -1,40 +1,40 @@
-1girl
-artist name
-bow
-brown gloves
-category:ine
-character:lady maria of the astral clocktower
-creator:deviantart.com/wlop/gallery/?catpath=/&offset=0
-creator:wlop
-dark background
-dual wielding
-eyelashes
-from behind
-gloves
-hair bow
-hat
-holding
-lips
-looking at viewer
-looking back
-low ponytail
-meta:commentary
-meta:highres
-patreon username
-ponytail
-rating:sensitive
-realistic
-series:bloodborne
-silver hair
-solo
-subreddit:imaginarygaming
-subreddit:imfandoms
-sword
-title:lady maria
-title:lady maria by wang ling
-tricorne
-uploader:myrandall
-upper body
-watermark
-weapon
-web address
+1girl,
+artist name,
+bow,
+brown gloves,
+category:ine,
+character:lady maria of the astral clocktower,
+creator:deviantart.com/wlop/gallery/?catpath=/&offset=0,
+creator:wlop,
+dark background,
+dual wielding,
+eyelashes,
+from behind,
+gloves,
+hair bow,
+hat,
+holding,
+lips,
+looking at viewer,
+looking back,
+low ponytail,
+meta:commentary,
+meta:highres,
+patreon username,
+ponytail,
+rating:sensitive,
+realistic,
+series:bloodborne,
+silver hair,
+solo,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+sword,
+title:lady maria,
+title:lady maria by wang ling,
+tricorne,
+uploader:myrandall,
+upper body,
+watermark,
+weapon,
+web address,

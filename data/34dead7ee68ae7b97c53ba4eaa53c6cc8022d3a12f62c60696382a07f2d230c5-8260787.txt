@@ -1,67 +1,67 @@
-anthro
-anthropomorphism
-artist:elena_roslyakova
-blurred background
-blurred_background
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-copyright:bethesda_softworks
-copyright:the_elder_scrolls
-creator:elena roslyakova
-day
-detailed fur
-ear tuft
-ear_tuft
-facial markings
-facial_markings
-fur
-furry
-gender:male
-genre:fantasy
-head markings
-head_markings
-inner ear fluff
-inner_ear_fluff
-jewelry
-light
-lighting
-male
-markings
-medium:blurry background
-meta:2018
-meta:absurd res
-meta:alternate version at source
-meta:alternate_version_at_source
-meta:detailed
-meta:hi res
-meta:hi_res
-meta:lighting
-meta:portrait
-meta:signature
-necklace
-outside
-photorealism
-plant
-rating:safe
-series:bethesda softworks
-series:the elder scrolls
-solo
-species:cat
-species:felid
-species:feline
-species:khajiit
-species:mammal
-studio:bethesda softworks
-subreddit:imaginarytamriel
-subreddit:imfandoms
-title:khajiit by elena roslyakova
-tuft
-uploader:eliya_
-uploader:lol33ta
-video games
-video_games
-whiskers
-white whiskers
+anthro,
+anthropomorphism,
+artist:elena_roslyakova,
+blurred background,
+blurred_background,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+copyright:bethesda_softworks,
+copyright:the_elder_scrolls,
+creator:elena roslyakova,
+day,
+detailed fur,
+ear tuft,
+ear_tuft,
+facial markings,
+facial_markings,
+fur,
+furry,
+gender:male,
+genre:fantasy,
+head markings,
+head_markings,
+inner ear fluff,
+inner_ear_fluff,
+jewelry,
+light,
+lighting,
+male,
+markings,
+medium:blurry background,
+meta:2018,
+meta:absurd res,
+meta:alternate version at source,
+meta:alternate_version_at_source,
+meta:detailed,
+meta:hi res,
+meta:hi_res,
+meta:lighting,
+meta:portrait,
+meta:signature,
+necklace,
+outside,
+photorealism,
+plant,
+rating:safe,
+series:bethesda softworks,
+series:the elder scrolls,
+solo,
+species:cat,
+species:felid,
+species:feline,
+species:khajiit,
+species:mammal,
+studio:bethesda softworks,
+subreddit:imaginarytamriel,
+subreddit:imfandoms,
+title:khajiit by elena roslyakova,
+tuft,
+uploader:eliya_,
+uploader:lol33ta,
+video games,
+video_games,
+whiskers,
+white whiskers,

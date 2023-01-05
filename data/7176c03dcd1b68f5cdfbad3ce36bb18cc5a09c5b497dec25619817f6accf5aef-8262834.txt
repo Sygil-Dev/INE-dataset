@@ -1,23 +1,23 @@
-bear
-category:ine
-cha4os
-character
-creator:steven shan
-digital2d
-digitalart
-digitalpainting
-elderscroll
-fantasy
-illustration
-mage
-magic
-medium:digital 2d
-noai
-skyrim
-subreddit:imaginarytamriel
-subreddit:imfandoms
-swordman
-title:surrounded
-title:surrounded [oc]
-uploader:cha4os
-warden
+bear,
+category:ine,
+cha4os,
+character,
+creator:steven shan,
+digital2d,
+digitalart,
+digitalpainting,
+elderscroll,
+fantasy,
+illustration,
+mage,
+magic,
+medium:digital 2d,
+noai,
+skyrim,
+subreddit:imaginarytamriel,
+subreddit:imfandoms,
+swordman,
+title:surrounded,
+title:surrounded [oc],
+uploader:cha4os,
+warden,

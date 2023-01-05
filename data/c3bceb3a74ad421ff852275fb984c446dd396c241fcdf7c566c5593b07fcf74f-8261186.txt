@@ -1,56 +1,56 @@
-ambiguous gender
-booru:e621
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-character:thorax (mlp)
-creator:huussii
-cutie mark
-day
-detailed background
-duo
-eyelashes
-feathered wings
-feathers
-female
-feral
-fur
-gender:ambiguous
-gender:female
-genre:fantasy
-group
-hair
-hi res
-hooves
-horn
-horns
-medium:detailed background
-medium:high resolution
-meta:2:1
-meta:hi res
-multicolored hair
-purple eyes
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sky
-species:arthropod
-species:changeling
-species:equid
-species:equine
-species:mammal
-species:non-human animal
-species:winged unicorn
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:flower of the wastelands
-title:flower of the wastelands by teemu husso (huussii)
-uploader:sparroew
-white body
-white feathers
-white fur
-wings
+ambiguous gender,
+booru:e621,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+character:thorax (mlp),
+creator:huussii,
+cutie mark,
+day,
+detailed background,
+duo,
+eyelashes,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:ambiguous,
+gender:female,
+genre:fantasy,
+group,
+hair,
+hi res,
+hooves,
+horn,
+horns,
+medium:detailed background,
+medium:high resolution,
+meta:2:1,
+meta:hi res,
+multicolored hair,
+purple eyes,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+species:arthropod,
+species:changeling,
+species:equid,
+species:equine,
+species:mammal,
+species:non-human animal,
+species:winged unicorn,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:flower of the wastelands,
+title:flower of the wastelands by teemu husso (huussii),
+uploader:sparroew,
+white body,
+white feathers,
+white fur,
+wings,

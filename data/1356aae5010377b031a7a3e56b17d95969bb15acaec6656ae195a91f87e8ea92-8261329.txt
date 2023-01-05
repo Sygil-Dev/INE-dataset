@@ -1,65 +1,65 @@
-ambiguous gender
-blood
-blue eyes
-bodily fluids
-booru:e621
-brown body
-brown feathers
-category:ine
-character:discord
-character:fluttershy
-character:fluttershy (mlp)
-claws
-creator:neytirix
-cutie mark
-day
-detailed
-detailed background
-detailed scales
-feathered wings
-feathers
-feral
-fur
-gender:ambiguous
-genre:fantasy
-grass
-green body
-green scales
-hair
-looking at viewer
-medium:detailed background
-medium:high resolution
-membrane (anatomy)
-membranous wings
-meta:detailed
-meta:hi res
-outside
-patchwork monster
-pink body
-pink fur
-pink hair
-plant
-pov
-rating:questionable
-rating:safe
-scales
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-solo
-species:draconequus
-species:patchwork creature
-species:patchwork monster
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:flutterdie - one with nature (mlp)
-title:one with nature by 'neytirix'
-uploader:myrandall
-wings
-yellow body
-yellow feathers
+ambiguous gender,
+blood,
+blue eyes,
+bodily fluids,
+booru:e621,
+brown body,
+brown feathers,
+category:ine,
+character:discord,
+character:fluttershy,
+character:fluttershy (mlp),
+claws,
+creator:neytirix,
+cutie mark,
+day,
+detailed,
+detailed background,
+detailed scales,
+feathered wings,
+feathers,
+feral,
+fur,
+gender:ambiguous,
+genre:fantasy,
+grass,
+green body,
+green scales,
+hair,
+looking at viewer,
+medium:detailed background,
+medium:high resolution,
+membrane (anatomy),
+membranous wings,
+meta:detailed,
+meta:hi res,
+outside,
+patchwork monster,
+pink body,
+pink fur,
+pink hair,
+plant,
+pov,
+rating:questionable,
+rating:safe,
+scales,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+solo,
+species:draconequus,
+species:patchwork creature,
+species:patchwork monster,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:flutterdie - one with nature (mlp),
+title:one with nature by 'neytirix',
+uploader:myrandall,
+wings,
+yellow body,
+yellow feathers,

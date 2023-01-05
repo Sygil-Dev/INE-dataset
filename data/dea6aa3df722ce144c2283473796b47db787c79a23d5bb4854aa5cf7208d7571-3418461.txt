@@ -1,70 +1,70 @@
-2016
-blue hair
-booru:e621
-building
-cape
-category:ine
-character:trixie (mlp)
-character:trixie lulamoon
-chimney
-clothing
-clothing:hat
-clothing:headwear
-creator:nemo2d
-digital media (artwork)
-digital painting (artwork)
-duo
-fire
-fog
-gender:female
-genre:fantasy
-genre:steampunk
-hair
-hat
-headgear
-headwear
-hi res
-high resolution
-horn
-horns
-house
-landscape
-machine
-medium:digital media
-medium:high resolution
-mist
-mlp
-mlpfim
-mlpmylittlepony
-mountain
-multicolored hair
-outside
-rating:safe
-rock
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-smoke
-solo
-solo focus
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:non-human animal
-species:robot
-species:unicorn
-steampunk
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:trixie doesn't trust wheels
-title:trixie doesn't trust wheels by 'nemo'
-trixie
-trixielulamoon
-two tone hair
-uploader:myrandall
-year:2016
+2016,
+blue hair,
+booru:e621,
+building,
+cape,
+category:ine,
+character:trixie (mlp),
+character:trixie lulamoon,
+chimney,
+clothing,
+clothing:hat,
+clothing:headwear,
+creator:nemo2d,
+digital media (artwork),
+digital painting (artwork),
+duo,
+fire,
+fog,
+gender:female,
+genre:fantasy,
+genre:steampunk,
+hair,
+hat,
+headgear,
+headwear,
+hi res,
+high resolution,
+horn,
+horns,
+house,
+landscape,
+machine,
+medium:digital media,
+medium:high resolution,
+mist,
+mlp,
+mlpfim,
+mlpmylittlepony,
+mountain,
+multicolored hair,
+outside,
+rating:safe,
+rock,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+smoke,
+solo,
+solo focus,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:non-human animal,
+species:robot,
+species:unicorn,
+steampunk,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:trixie doesn't trust wheels,
+title:trixie doesn't trust wheels by 'nemo',
+trixie,
+trixielulamoon,
+two tone hair,
+uploader:myrandall,
+year:2016,

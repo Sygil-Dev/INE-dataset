@@ -1,22 +1,22 @@
-artwork
-book shelf
-books
-building
-category:ine
-city
-day
-house
-jacek yerka
-library
-no humans
-outdoors
-rating:safe
-scenery
-snail
-subreddit:imaginarylibraries
-subreddit:imarchitecture
-title:library ammonite by jacek yerka
-traditional media
-trees
-uploader:duffadash
-water
+artwork,
+book shelf,
+books,
+building,
+category:ine,
+city,
+day,
+house,
+jacek yerka,
+library,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+snail,
+subreddit:imaginarylibraries,
+subreddit:imarchitecture,
+title:library ammonite by jacek yerka,
+traditional media,
+trees,
+uploader:duffadash,
+water,

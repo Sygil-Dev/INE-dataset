@@ -1,19 +1,19 @@
-artwork
-blonde hair
-category:ine
-cleavage
-clothing:corset
-ears
-elves
-fantasy art
-gender:female
-ghostblade
-looking away
-medium:digital media
-orange eyes
-pointy ears
-subreddit:imaginarynobles
-subreddit:imcharacters
-title:triumph by wang ling
-uploader:prinncessbride
-wlop
+artwork,
+blonde hair,
+category:ine,
+cleavage,
+clothing:corset,
+ears,
+elves,
+fantasy art,
+gender:female,
+ghostblade,
+looking away,
+medium:digital media,
+orange eyes,
+pointy ears,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+title:triumph by wang ling,
+uploader:prinncessbride,
+wlop,

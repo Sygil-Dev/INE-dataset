@@ -1,21 +1,21 @@
-beach
-boat
-category:ine
-clouds
-creator:goedele godfroid
-dunes
-fisherman
-medium:digital 2d
-ocean
-sand
-sea
-seagull
-ship
-subreddit:imaginaryseascapes
-subreddit:imlandscapes
-title:tribute
-title:tribute (360 panorama) by goedele godfroid
-uploader:lol33ta
-vehicle
-water
-watercraft
+beach,
+boat,
+category:ine,
+clouds,
+creator:goedele godfroid,
+dunes,
+fisherman,
+medium:digital 2d,
+ocean,
+sand,
+sea,
+seagull,
+ship,
+subreddit:imaginaryseascapes,
+subreddit:imlandscapes,
+title:tribute,
+title:tribute (360 panorama) by goedele godfroid,
+uploader:lol33ta,
+vehicle,
+water,
+watercraft,

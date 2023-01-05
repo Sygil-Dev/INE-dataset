@@ -1,55 +1,55 @@
-black hair
-black lips
-blue hair
-booru:e621
-bow tie
-category:ine
-character:octavia (mlp)
-character:octavia melody
-character:vinyl scratch
-character:vinyl scratch (mlp)
-clothing:eyewear
-creator:lulemt
-creator:obpony
-day
-duo
-eyebrows
-eyewear
-female
-feral
-fur
-gender:female
-genre:fantasy
-glasses
-hair
-horn
-horns
-lips
-looking at viewer
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:hi res
-meta:widescreen
-outside
-pov
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:vinyl scratch and octavia by julie maria t
-title:wallpaper - vinyl scratch and octavia
-tongue
-uploader:myrandall
-white body
-white fur
+black hair,
+black lips,
+blue hair,
+booru:e621,
+bow tie,
+category:ine,
+character:octavia (mlp),
+character:octavia melody,
+character:vinyl scratch,
+character:vinyl scratch (mlp),
+clothing:eyewear,
+creator:lulemt,
+creator:obpony,
+day,
+duo,
+eyebrows,
+eyewear,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+glasses,
+hair,
+horn,
+horns,
+lips,
+looking at viewer,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:hi res,
+meta:widescreen,
+outside,
+pov,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:vinyl scratch and octavia by julie maria t,
+title:wallpaper - vinyl scratch and octavia,
+tongue,
+uploader:myrandall,
+white body,
+white fur,

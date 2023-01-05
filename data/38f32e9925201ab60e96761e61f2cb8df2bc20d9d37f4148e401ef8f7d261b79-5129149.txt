@@ -1,58 +1,58 @@
-<3
-absurd res
-bodily fluids
-booru:e621
-category:ine
-character:princess cadance
-character:princess cadance (mlp)
-character:spike
-character:spike (mlp)
-character:thorax (mlp)
-creator:jowybean
-female
-feral
-furry
-gender:female
-genre:fantasy
-green eyes
-group
-happy
-heart symbol
-hi res
-hooves
-horn
-horns
-hug
-insect wings
-medium:absurd resolution
-medium:high resolution
-meta:absurd res
-meta:hi res
-open mouth
-pink eyes
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-smile
-species:arthropod
-species:changeling
-species:dragon
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:scalie
-species:unicorn
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tears
-teeth
-title:"tear down the walls" by joshua whitehouse (jowybean)
-title:tear down the walls
-uploader:torvusil
-wings
+<3,
+absurd res,
+bodily fluids,
+booru:e621,
+category:ine,
+character:princess cadance,
+character:princess cadance (mlp),
+character:spike,
+character:spike (mlp),
+character:thorax (mlp),
+creator:jowybean,
+female,
+feral,
+furry,
+gender:female,
+genre:fantasy,
+green eyes,
+group,
+happy,
+heart symbol,
+hi res,
+hooves,
+horn,
+horns,
+hug,
+insect wings,
+medium:absurd resolution,
+medium:high resolution,
+meta:absurd res,
+meta:hi res,
+open mouth,
+pink eyes,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+smile,
+species:arthropod,
+species:changeling,
+species:dragon,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:scalie,
+species:unicorn,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tears,
+teeth,
+title:"tear down the walls" by joshua whitehouse (jowybean),
+title:tear down the walls,
+uploader:torvusil,
+wings,

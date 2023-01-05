@@ -1,83 +1,83 @@
-2012
-black border
-blue eyes
-booru:e621
-border
-category:ine
-character:discord
-character:discord (mlp)
-character:fluttershy
-character:fluttershy (mlp)
-character:princess celestia
-character:princess celestia (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-claws
-closed eyes
-clothing:necklace
-cloud
-cloudscape
-creator:celestiathegreatest
-creator:mn27
-crown
-cutie mark
-eyes closed
-fangs
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-gender:male
-genre:fantasy
-group
-hair
-horn
-horns
-hug
-jewelry
-male
-meta:2012
-multi-colored hair
-multicolored hair
-necklace
-outside
-princess
-purple body
-purple fur
-purple hair
-rating:safe
-royalty
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sky
-smile
-sparkles
-species:chimera
-species:draconequus
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-species:unicorn
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-talon
-talons
-title:defeating disharmony
-title:defeating disharmony by 'mn27'
-two tone hair
-uploader:myrandall
-wings
-year:2012
-yellow body
-yellow feathers
+2012,
+black border,
+blue eyes,
+booru:e621,
+border,
+category:ine,
+character:discord,
+character:discord (mlp),
+character:fluttershy,
+character:fluttershy (mlp),
+character:princess celestia,
+character:princess celestia (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+claws,
+closed eyes,
+clothing:necklace,
+cloud,
+cloudscape,
+creator:celestiathegreatest,
+creator:mn27,
+crown,
+cutie mark,
+eyes closed,
+fangs,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+gender:male,
+genre:fantasy,
+group,
+hair,
+horn,
+horns,
+hug,
+jewelry,
+male,
+meta:2012,
+multi-colored hair,
+multicolored hair,
+necklace,
+outside,
+princess,
+purple body,
+purple fur,
+purple hair,
+rating:safe,
+royalty,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+smile,
+sparkles,
+species:chimera,
+species:draconequus,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:unicorn,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+talon,
+talons,
+title:defeating disharmony,
+title:defeating disharmony by 'mn27',
+two tone hair,
+uploader:myrandall,
+wings,
+year:2012,
+yellow body,
+yellow feathers,
