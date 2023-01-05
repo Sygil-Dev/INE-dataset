@@ -1,84 +1,84 @@
-1 female
-1girl
-category:ine
-character:ciri
-character:cirilla fiona elen riannon
-ciri
-clothing:corset
-clothing:gloves
-clothing:shirt
-corset
-creator:mirco cabbia
-creator:mirco cabbia (sciamano240)
-creator:sciamano240
-dagger
-deviantart username
-facial scar
-fan art
-female
-forest
-freckles
-garrison cap
-gender:female
-gloves
-green eyes
-grey hair
-highres
-leather
-leather gloves
-looking at viewer
-medium breasts
-medium:deviantart username
-medium:digital 2d
-medium:high resolution
-medium:patreon username
-medium:realistic
-medium:signature
-medium:watermark
-medium:web address
-melee weapon
-meta:deviantart username
-meta:highres
-meta:patreon username
-meta:photoshop (medium)
-meta:signature
-meta:watermark
-nature
-nose
-open mouth
-outdoors
-outside
-patreon username
-point of view
-pov
-rating:s
-rating:safe
-realistic
-scar
-scar on face
-series:the witcher
-series:the witcher 3
-series:the witcher 3: wild hunt
-series:the witcher (series)
-sheath
-sheathed
-shirt
-short hair
-signature
-silver hair
-snow
-snowing
-solo
-subreddit:imaginarywitcher
-subreddit:imfandoms
-sword
-the witcher 3
-title:ciri - the witcher 3
-title:ciri - the witcher 3 (patreon reward)
-title:ciri - the witcher 3 by mirco cabbia
-uploader:l-ya
-watermark
-weapon
-web address
-wild hunt
-winter
+1 female,
+1girl,
+category:ine,
+character:ciri,
+character:cirilla fiona elen riannon,
+ciri,
+clothing:corset,
+clothing:gloves,
+clothing:shirt,
+corset,
+creator:mirco cabbia,
+creator:mirco cabbia (sciamano240),
+creator:sciamano240,
+dagger,
+deviantart username,
+facial scar,
+fan art,
+female,
+forest,
+freckles,
+garrison cap,
+gender:female,
+gloves,
+green eyes,
+grey hair,
+highres,
+leather,
+leather gloves,
+looking at viewer,
+medium breasts,
+medium:deviantart username,
+medium:digital 2d,
+medium:high resolution,
+medium:patreon username,
+medium:realistic,
+medium:signature,
+medium:watermark,
+medium:web address,
+melee weapon,
+meta:deviantart username,
+meta:highres,
+meta:patreon username,
+meta:photoshop (medium),
+meta:signature,
+meta:watermark,
+nature,
+nose,
+open mouth,
+outdoors,
+outside,
+patreon username,
+point of view,
+pov,
+rating:s,
+rating:safe,
+realistic,
+scar,
+scar on face,
+series:the witcher,
+series:the witcher 3,
+series:the witcher 3: wild hunt,
+series:the witcher (series),
+sheath,
+sheathed,
+shirt,
+short hair,
+signature,
+silver hair,
+snow,
+snowing,
+solo,
+subreddit:imaginarywitcher,
+subreddit:imfandoms,
+sword,
+the witcher 3,
+title:ciri - the witcher 3,
+title:ciri - the witcher 3 (patreon reward),
+title:ciri - the witcher 3 by mirco cabbia,
+uploader:l-ya,
+watermark,
+weapon,
+web address,
+wild hunt,
+winter,

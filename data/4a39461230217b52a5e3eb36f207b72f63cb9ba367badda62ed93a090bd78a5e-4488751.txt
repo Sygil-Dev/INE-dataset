@@ -1,89 +1,89 @@
-16:10
-2016
-artist:photonoko
-booru:e621
-building
-category:ine
-character:twilight sparkle
-character:twilight sparkle (mlp)
-character:twilight_sparkle_(mlp)
-cloud
-copyright:friendship is magic
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:my_little_pony
-creator:photonoko
-creator:rain-gear
-cutie mark
-cutie_mark
-feathered wings
-feathered_wings
-feathers
-female
-feral
-flying
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-horn
-horns
-house
-landscape
-looking at viewer
-looking_at_viewer
-medium:16:10 aspect ratio
-medium:high resolution
-meta:16:10
-meta:2016
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:digital_media_(artwork)
-meta:digital_painting_(artwork)
-meta:hi res
-meta:hi_res
-meta:widescreen
-mountain
-multicolored hair
-multicolored_hair
-nature
-outside
-point of view
-pov
-purple body
-purple eyes
-purple feathers
-purple fur
-purple hair
-purple_body
-purple_eyes
-purple_feathers
-purple_fur
-purple_hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-smile
-solo
-species:equid
-species:equine
-species:mammal
-species:non-human animal
-species:winged unicorn
-species:winged_unicorn
-spread wings
-spread_wings
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:sky valley
-title:sky valley by rain-gear
-uploader:caligari87
-wings
-year:2016
+16:10,
+2016,
+artist:photonoko,
+booru:e621,
+building,
+category:ine,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+character:twilight_sparkle_(mlp),
+cloud,
+copyright:friendship is magic,
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:photonoko,
+creator:rain-gear,
+cutie mark,
+cutie_mark,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+feral,
+flying,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+house,
+landscape,
+looking at viewer,
+looking_at_viewer,
+medium:16:10 aspect ratio,
+medium:high resolution,
+meta:16:10,
+meta:2016,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:digital_media_(artwork),
+meta:digital_painting_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+mountain,
+multicolored hair,
+multicolored_hair,
+nature,
+outside,
+point of view,
+pov,
+purple body,
+purple eyes,
+purple feathers,
+purple fur,
+purple hair,
+purple_body,
+purple_eyes,
+purple_feathers,
+purple_fur,
+purple_hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+smile,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:non-human animal,
+species:winged unicorn,
+species:winged_unicorn,
+spread wings,
+spread_wings,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:sky valley,
+title:sky valley by rain-gear,
+uploader:caligari87,
+wings,
+year:2016,

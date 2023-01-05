@@ -1,23 +1,23 @@
-art
-category:ine
-concept
-concept art
-creator:jakub rozalski
-creator:licantrox
-dark fantasy
-fanart
-fantasy
-genre:fantasy
-illustration
-medium:concept art
-medium:digital 2d
-subreddit:imaginarybeasts
-subreddit:imaginarywitcher
-subreddit:imfandoms
-subreddit:immonsters
-title:"just another day at work... leshy" [by jakub rozalski]
-title:just another day at work... leshy
-title:just another day at work... leshy by jakub rozalski
-uploader:l-ya
-uploader:skooma-boi
-witcher
+art,
+category:ine,
+concept,
+concept art,
+creator:jakub rozalski,
+creator:licantrox,
+dark fantasy,
+fanart,
+fantasy,
+genre:fantasy,
+illustration,
+medium:concept art,
+medium:digital 2d,
+subreddit:imaginarybeasts,
+subreddit:imaginarywitcher,
+subreddit:imfandoms,
+subreddit:immonsters,
+title:"just another day at work... leshy" [by jakub rozalski],
+title:just another day at work... leshy,
+title:just another day at work... leshy by jakub rozalski,
+uploader:l-ya,
+uploader:skooma-boi,
+witcher,

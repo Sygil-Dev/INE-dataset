@@ -1,64 +1,64 @@
-2015
-blue body
-blue feathers
-blue hair
-booru:e621
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-character:princess luna
-character:princess luna (mlp)
-chopsticks
-creator:rublegun
-cutie mark
-cutlery
-duo
-eating
-feathered wings
-feathers
-female
-feral
-food
-fork
-gender:female
-genre:fantasy
-hair
-hi res
-horn
-horns
-kitchen utensils
-long hair
-magic
-medium:high resolution
-meta:2015
-meta:hi res
-mlpmylittlepony
-multicolored hair
-noodles
-princesscelestia
-princessluna
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sibling
-siblings
-sister
-sisters
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"you eat it wrong!" by kaajuss (rublegun)
-title:you eat it wrong!
-tools
-uploader:crystallord
-white body
-white feathers
-wings
-year:2015
+2015,
+blue body,
+blue feathers,
+blue hair,
+booru:e621,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+character:princess luna,
+character:princess luna (mlp),
+chopsticks,
+creator:rublegun,
+cutie mark,
+cutlery,
+duo,
+eating,
+feathered wings,
+feathers,
+female,
+feral,
+food,
+fork,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+horn,
+horns,
+kitchen utensils,
+long hair,
+magic,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+mlpmylittlepony,
+multicolored hair,
+noodles,
+princesscelestia,
+princessluna,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sibling,
+siblings,
+sister,
+sisters,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"you eat it wrong!" by kaajuss (rublegun),
+title:you eat it wrong!,
+tools,
+uploader:crystallord,
+white body,
+white feathers,
+wings,
+year:2015,

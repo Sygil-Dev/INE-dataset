@@ -1,46 +1,46 @@
-2015
-blue eyes
-booru:e621
-category:ine
-character:pinkie pie
-character:pinkie pie (mlp)
-creator:imalou
-cute
-ears down
-female
-feral
-food
-gender:female
-genre:fantasy
-hair
-hi res
-looking at viewer
-medium:high resolution
-meta:2015
-meta:hi res
-muffin
-pink hair
-pivoted ears
-pov
-rating:safe
-sad
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"do i really have to eat them ?" by léa dabssi (imalou)
-title:do i really have to eat them ?
-uploader:crystallord
-year:2015
+2015,
+blue eyes,
+booru:e621,
+category:ine,
+character:pinkie pie,
+character:pinkie pie (mlp),
+creator:imalou,
+cute,
+ears down,
+female,
+feral,
+food,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+looking at viewer,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+muffin,
+pink hair,
+pivoted ears,
+pov,
+rating:safe,
+sad,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"do i really have to eat them ?" by léa dabssi (imalou),
+title:do i really have to eat them ?,
+uploader:crystallord,
+year:2015,

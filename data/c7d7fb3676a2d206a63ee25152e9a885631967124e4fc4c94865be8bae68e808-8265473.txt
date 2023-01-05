@@ -1,25 +1,25 @@
-1 female
-category:ine
-character:ember (my little pony)
-creator:dzetawmdunion
-gender:female
-genre:fantasy
-gradient
-medium:gradient background
-medium:high resolution
-medium:simple background
-meta:commentary
-meta:english commentary
-meta:highres
-personification
-rating:mature
-rating:safe
-series:my little pony
-series:my little pony friendship is magic
-solo
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:dragon lord ember
-title:dragon lord ember by dzetawmdunion (larisa)
-uploader:missgoldendragon
+1 female,
+category:ine,
+character:ember (my little pony),
+creator:dzetawmdunion,
+gender:female,
+genre:fantasy,
+gradient,
+medium:gradient background,
+medium:high resolution,
+medium:simple background,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+personification,
+rating:mature,
+rating:safe,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:dragon lord ember,
+title:dragon lord ember by dzetawmdunion (larisa),
+uploader:missgoldendragon,

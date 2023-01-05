@@ -1,63 +1,63 @@
-ambiguous gender
-booru:e621
-category:ine
-character:angel (mlp)
-character:fluttershy
-character:fluttershy (mlp)
-creator:huussii
-feathered wings
-feathers
-female
-feral
-forest
-gender:ambiguous
-gender:female
-genre:fantasy
-group
-guro
-high resolution
-lying
-medium:high resolution
-meta:2:1
-meta:hi res
-nude
-plant
-rating:explicit
-rating:mature
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-size difference
-sleeping
-species:ambient bird
-species:arthropod
-species:avian
-species:bear
-species:bird
-species:blue morpho
-species:butterfly
-species:equid
-species:equine
-species:insect
-species:lagomorph
-species:lepidopteran
-species:leporid
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-species:rabbit
-species:ursid
-species:ursine
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:moments of peace and quiet
-title:moments of peace and quiet by teemu husso (huussii)
-tree
-uploader:coelacanth0794
-wings
-yellow body
-yellow feathers
+ambiguous gender,
+booru:e621,
+category:ine,
+character:angel (mlp),
+character:fluttershy,
+character:fluttershy (mlp),
+creator:huussii,
+feathered wings,
+feathers,
+female,
+feral,
+forest,
+gender:ambiguous,
+gender:female,
+genre:fantasy,
+group,
+guro,
+high resolution,
+lying,
+medium:high resolution,
+meta:2:1,
+meta:hi res,
+nude,
+plant,
+rating:explicit,
+rating:mature,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+size difference,
+sleeping,
+species:ambient bird,
+species:arthropod,
+species:avian,
+species:bear,
+species:bird,
+species:blue morpho,
+species:butterfly,
+species:equid,
+species:equine,
+species:insect,
+species:lagomorph,
+species:lepidopteran,
+species:leporid,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+species:rabbit,
+species:ursid,
+species:ursine,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:moments of peace and quiet,
+title:moments of peace and quiet by teemu husso (huussii),
+tree,
+uploader:coelacanth0794,
+wings,
+yellow body,
+yellow feathers,

@@ -1,31 +1,31 @@
-booru:tbib
-category:ine
-clothing
-dog
-doge
-fur
-gender:male
-humor
-looking at viewer
-male
-male:1
-mammal
-medium:plain background
-meme
-meme:humor
-meme:tagme
-pov
-real person
-shiba inu
-solo
-species:canine
-species:dog
-species:mammal
-species:shiba inu
-subreddit:imaginarynobles
-subreddit:imcharacters
-tan fur
-title:sir doge by david ardinaryas lojaya
-uploader:o_no_my_buttholes
-website:booru
-website:tbib
+booru:tbib,
+category:ine,
+clothing,
+dog,
+doge,
+fur,
+gender:male,
+humor,
+looking at viewer,
+male,
+male:1,
+mammal,
+medium:plain background,
+meme,
+meme:humor,
+meme:tagme,
+pov,
+real person,
+shiba inu,
+solo,
+species:canine,
+species:dog,
+species:mammal,
+species:shiba inu,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+tan fur,
+title:sir doge by david ardinaryas lojaya,
+uploader:o_no_my_buttholes,
+website:booru,
+website:tbib,

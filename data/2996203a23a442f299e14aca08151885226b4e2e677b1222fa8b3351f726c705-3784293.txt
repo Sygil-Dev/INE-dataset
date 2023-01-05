@@ -1,79 +1,79 @@
-2016
-accessory
-artwork:digital media
-booru:e621
-brown body
-brown fur
-category:ine
-character:apple bloom
-character:babs seed
-character:cutie mark crusaders
-character:cutie mark crusaders (mlp)
-character:scootaloo
-character:sweetie belle
-clothing:hair bow
-cloud
-creator:viwrastupr
-cutie mark
-detailed background
-feathered wings
-feathers
-feral
-flower
-fur
-gender:female
-genre:fantasy
-grass
-green eyes
-group
-hair
-hair bow
-hair ornament
-hair ribbon
-high resolution
-horn
-horns
-landscape
-medium:detailed background
-medium:digital media
-medium:high resolution
-mountain
-multicolored hair
-orange body
-orange fur
-outside
-pink hair
-plant
-purple hair
-rating:safe
-red hair
-ribbon
-ribbons
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-smile
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"cmc - crusaders of the lost mark" by viwrastupr
-title:cmc - crusaders of the lost mark
-two tone hair
-uploader:torvusil
-white body
-white fur
-wings
-year:2016
-yellow body
-yellow fur
+2016,
+accessory,
+artwork:digital media,
+booru:e621,
+brown body,
+brown fur,
+category:ine,
+character:apple bloom,
+character:babs seed,
+character:cutie mark crusaders,
+character:cutie mark crusaders (mlp),
+character:scootaloo,
+character:sweetie belle,
+clothing:hair bow,
+cloud,
+creator:viwrastupr,
+cutie mark,
+detailed background,
+feathered wings,
+feathers,
+feral,
+flower,
+fur,
+gender:female,
+genre:fantasy,
+grass,
+green eyes,
+group,
+hair,
+hair bow,
+hair ornament,
+hair ribbon,
+high resolution,
+horn,
+horns,
+landscape,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+mountain,
+multicolored hair,
+orange body,
+orange fur,
+outside,
+pink hair,
+plant,
+purple hair,
+rating:safe,
+red hair,
+ribbon,
+ribbons,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+smile,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"cmc - crusaders of the lost mark" by viwrastupr,
+title:cmc - crusaders of the lost mark,
+two tone hair,
+uploader:torvusil,
+white body,
+white fur,
+wings,
+year:2016,
+yellow body,
+yellow fur,

@@ -1,24 +1,24 @@
-artwork
-category:ine
-character:geralt of rivia
-firearm
-genre:cyberpunk
-genre:science fiction
-humor
-long hair
-medium:digital media
-men
-meta:crossover
-orange eyes
-portrait display
-rain
-series:cyberpunk 2077
-series:the witcher
-studio:cd projekt red
-subreddit:imaginarywitcher
-subreddit:imfandoms
-title:witcher 2077 by johnson ting
-uploader:panzer-kunst
-video games
-weapon
-white hair
+artwork,
+category:ine,
+character:geralt of rivia,
+firearm,
+genre:cyberpunk,
+genre:science fiction,
+humor,
+long hair,
+medium:digital media,
+men,
+meta:crossover,
+orange eyes,
+portrait display,
+rain,
+series:cyberpunk 2077,
+series:the witcher,
+studio:cd projekt red,
+subreddit:imaginarywitcher,
+subreddit:imfandoms,
+title:witcher 2077 by johnson ting,
+uploader:panzer-kunst,
+video games,
+weapon,
+white hair,

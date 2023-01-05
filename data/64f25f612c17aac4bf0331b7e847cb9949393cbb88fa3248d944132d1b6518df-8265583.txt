@@ -1,20 +1,20 @@
-category:ine
-creator:ala kapustka
-elf
-elves
-gwent
-homecoming
-medium:digital 2d
-onion
-soup
-subreddit:imaginaryfood
-subreddit:imaginarywitcher
-subreddit:imfandoms
-subreddit:immeta
-thronebreaker
-title:gwent - soup from onions and elves
-title:gwent - soup from onions and elves by ala kapustka
-title:soup from onions and elves by ala kapustka
-troll
-uploader:l-ya
-witcher
+category:ine,
+creator:ala kapustka,
+elf,
+elves,
+gwent,
+homecoming,
+medium:digital 2d,
+onion,
+soup,
+subreddit:imaginaryfood,
+subreddit:imaginarywitcher,
+subreddit:imfandoms,
+subreddit:immeta,
+thronebreaker,
+title:gwent - soup from onions and elves,
+title:gwent - soup from onions and elves by ala kapustka,
+title:soup from onions and elves by ala kapustka,
+troll,
+uploader:l-ya,
+witcher,

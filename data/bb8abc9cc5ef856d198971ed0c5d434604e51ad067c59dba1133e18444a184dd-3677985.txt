@@ -1,52 +1,52 @@
-2016
-absurd res
-anthro
-anthropomorphism
-blue body
-blue scales
-booru:e621
-category:ine
-character:princess ember (mlp)
-creator:starblaze25
-detailed
-detailed scales
-female
-furry
-gender:female
-genre:fantasy
-headshot portrait
-high resolution
-horn
-horns
-looking at viewer
-medium:absurd resolution
-medium:high resolution
-membrane (anatomy)
-membranous wings
-meta:2016
-meta:absurd res
-meta:detailed
-meta:headshot portrait
-meta:hi res
-meta:portrait
-orange eyes
-portrait
-pov
-rating:safe
-scales
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-smile
-solo
-species:dragon
-species:mythical
-species:scalie
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:dragon lord ember
-title:dragon lord ember by starblaze25
-uploader:chinchillax-
-wings
-year:2016
+2016,
+absurd res,
+anthro,
+anthropomorphism,
+blue body,
+blue scales,
+booru:e621,
+category:ine,
+character:princess ember (mlp),
+creator:starblaze25,
+detailed,
+detailed scales,
+female,
+furry,
+gender:female,
+genre:fantasy,
+headshot portrait,
+high resolution,
+horn,
+horns,
+looking at viewer,
+medium:absurd resolution,
+medium:high resolution,
+membrane (anatomy),
+membranous wings,
+meta:2016,
+meta:absurd res,
+meta:detailed,
+meta:headshot portrait,
+meta:hi res,
+meta:portrait,
+orange eyes,
+portrait,
+pov,
+rating:safe,
+scales,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+smile,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:dragon lord ember,
+title:dragon lord ember by starblaze25,
+uploader:chinchillax-,
+wings,
+year:2016,

@@ -1,81 +1,81 @@
-2016
-amber eyes
-amber_eyes
-artist:duskie-06
-blue body
-blue fur
-blue hair
-blue_body
-blue_fur
-blue_hair
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-character:princess_luna_(mlp)
-clothed
-clothing
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:my_little_pony
-copyright:star_wars
-creator:duskie-06
-crossover
-duskie-06
-feathered wings
-feathered_wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-genre:science fiction
-hair
-hooves
-horn
-horns
-lightsaber
-luna
-magic
-medium:absurd resolution
-medium:high resolution
-melee weapon
-melee_weapon
-meta:2016
-meta:absurd res
-meta:absurd_res
-meta:hi res
-meta:hi_res
-mylittleponyfriendshipismagic
-princess luna
-rating:safe
-red lightsaber
-red_lightsaber
-reflection
-saberstaff
-safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:star wars
-sith
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-species:winged_unicorn
-standing
-star wars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"sith luna redux" by jervis tan (duskie-06)
-title:sith luna redux
-uploader:torvusil
-wallpaper
-weapon
-wings
-year:2016
+2016,
+amber eyes,
+amber_eyes,
+artist:duskie-06,
+blue body,
+blue fur,
+blue hair,
+blue_body,
+blue_fur,
+blue_hair,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+character:princess_luna_(mlp),
+clothed,
+clothing,
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:my_little_pony,
+copyright:star_wars,
+creator:duskie-06,
+crossover,
+duskie-06,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+genre:science fiction,
+hair,
+hooves,
+horn,
+horns,
+lightsaber,
+luna,
+magic,
+medium:absurd resolution,
+medium:high resolution,
+melee weapon,
+melee_weapon,
+meta:2016,
+meta:absurd res,
+meta:absurd_res,
+meta:hi res,
+meta:hi_res,
+mylittleponyfriendshipismagic,
+princess luna,
+rating:safe,
+red lightsaber,
+red_lightsaber,
+reflection,
+saberstaff,
+safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:star wars,
+sith,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+species:winged_unicorn,
+standing,
+star wars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"sith luna redux" by jervis tan (duskie-06),
+title:sith luna redux,
+uploader:torvusil,
+wallpaper,
+weapon,
+wings,
+year:2016,

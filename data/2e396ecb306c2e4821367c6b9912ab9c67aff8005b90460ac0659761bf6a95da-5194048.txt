@@ -1,55 +1,55 @@
-barn
-blue eyes
-booru:e621
-category:ine
-character:rarity
-character:rarity (mlp)
-clothed
-clothing
-clotihng
-creator:auroriia
-day
-detailed background
-eyelashes
-female
-feral
-gender:female
-genre:fantasy
-grass
-hair
-horn
-horns
-lying
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:2:1
-meta:absurd res
-meta:hi res
-meta:signature
-outside
-plant
-purple hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-signature
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-superabsurd res
-title:"rarity" by auroriia
-title:rarity
-tree
-uploader:crystallord
-water
+barn,
+blue eyes,
+booru:e621,
+category:ine,
+character:rarity,
+character:rarity (mlp),
+clothed,
+clothing,
+clotihng,
+creator:auroriia,
+day,
+detailed background,
+eyelashes,
+female,
+feral,
+gender:female,
+genre:fantasy,
+grass,
+hair,
+horn,
+horns,
+lying,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:2:1,
+meta:absurd res,
+meta:hi res,
+meta:signature,
+outside,
+plant,
+purple hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+signature,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+superabsurd res,
+title:"rarity" by auroriia,
+title:rarity,
+tree,
+uploader:crystallord,
+water,

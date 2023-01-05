@@ -1,141 +1,141 @@
-2014
-autumn
-autumn leaves
-battle
-bomb
-booru:e621
-breathing fire
-building
-burning
-burning building
-burnt clothes
-campfire
-candle
-candlelight
-candlestand
-carrot
-category:ine
-character:bowser
-character:bulbasaur
-character:charizard
-character:charmander
-character:endeavor (boku no hero academia)
-character:fujiwara no mokou
-character:godzilla
-character:mario
-character:owlowiscious (mlp)
-character:squirtle
-character:torchic
-character:twilight sparkle
-character:twilight sparkle (mlp)
-closed eyes
-cooking
-creator:assasinmonkey
-destruction
-dusk
-embers
-evening
-explosion
-eyes closed
-feathered wings
-feathers
-female
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-flying
-frying pan
-fur
-gender:female
-gender:male
-genre:fantasy
-goldfish
-gradient sky
-grass
-grill
-hair
-hi res
-honey
-horn
-horns
-house
-jack-o'-lantern
-library
-male
-male focus
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:2014
-meta:hi res
-meta:widescreen
-molten rock
-mountain
-multi-colored hair
-multicolored hair
-muzzle flash
-open mouth
-orange (fruit)
-orange background
-orange sky
-orange theme
-outside
-paper lantern
-phoenix
-plant
-pot
-pumpkin
-purple body
-purple fur
-purple hair
-pyrokinesis
-rating:safe
-red sky
-rocket
-sausage
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-shrimp
-smoke
-solo
-sparks
-species:avian
-species:bird
-species:equid
-species:equine
-species:mammal
-species:owl
-species:winged unicorn
-starter pokemon trio
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sun
-sunset
-sweet potato
-sword of hisou
-syrup
-tag source:e621
-tail-tip fire
-teeth
-tent
-title:'end of a golden age' by myron c. p.
-title:end of a golden age
-torch
-tree
-twilight
-two tone hair
-uploader:myrandall
-volcano
-widescreen
-window
-wings
-year:2014
+2014,
+autumn,
+autumn leaves,
+battle,
+bomb,
+booru:e621,
+breathing fire,
+building,
+burning,
+burning building,
+burnt clothes,
+campfire,
+candle,
+candlelight,
+candlestand,
+carrot,
+category:ine,
+character:bowser,
+character:bulbasaur,
+character:charizard,
+character:charmander,
+character:endeavor (boku no hero academia),
+character:fujiwara no mokou,
+character:godzilla,
+character:mario,
+character:owlowiscious (mlp),
+character:squirtle,
+character:torchic,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+closed eyes,
+cooking,
+creator:assasinmonkey,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+eyes closed,
+feathered wings,
+feathers,
+female,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+flying,
+frying pan,
+fur,
+gender:female,
+gender:male,
+genre:fantasy,
+goldfish,
+gradient sky,
+grass,
+grill,
+hair,
+hi res,
+honey,
+horn,
+horns,
+house,
+jack-o'-lantern,
+library,
+male,
+male focus,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:2014,
+meta:hi res,
+meta:widescreen,
+molten rock,
+mountain,
+multi-colored hair,
+multicolored hair,
+muzzle flash,
+open mouth,
+orange (fruit),
+orange background,
+orange sky,
+orange theme,
+outside,
+paper lantern,
+phoenix,
+plant,
+pot,
+pumpkin,
+purple body,
+purple fur,
+purple hair,
+pyrokinesis,
+rating:safe,
+red sky,
+rocket,
+sausage,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+shrimp,
+smoke,
+solo,
+sparks,
+species:avian,
+species:bird,
+species:equid,
+species:equine,
+species:mammal,
+species:owl,
+species:winged unicorn,
+starter pokemon trio,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sun,
+sunset,
+sweet potato,
+sword of hisou,
+syrup,
+tag source:e621,
+tail-tip fire,
+teeth,
+tent,
+title:'end of a golden age' by myron c. p.,
+title:end of a golden age,
+torch,
+tree,
+twilight,
+two tone hair,
+uploader:myrandall,
+volcano,
+widescreen,
+window,
+wings,
+year:2014,

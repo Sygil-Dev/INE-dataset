@@ -1,87 +1,87 @@
-16:9
-2014
-architecture
-assasinmonkey
-blue body
-blue feathers
-blue fur
-booru:e621
-building
-category:ine
-character:rainbow dash
-character:rainbow dash (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-cloud
-cloud house
-column
-creator:assasinmonkey
-cutie mark
-duo
-feathered wings
-feathers
-female
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-horn
-horns
-house
-mare
-medium:16:9 aspect ratio
-medium:high resolution
-medium:wallpaper
-meta:16:9
-meta:2014
-meta:hi res
-meta:wallpaper
-meta:widescreen
-multi-colored hair
-multicolored hair
-outside
-purple body
-purple feathers
-purple hair
-rainbow
-rainbow arch
-rainbow dash's house
-rainbow fur
-rainbow hair
-rainbow waterfall
-rating:safe
-safe
-scene interpretation
-scenery
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-smile
-species:alicorn
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:'in the clouds' by myron c. p. (assasinmonkey)
-title:in the clouds
-twilight sparkle (alicorn)
-two tone hair
-uploader:schnitzellover
-wallpaper
-water
-waterfall
-widescreen
-wings
-year:2014
+16:9,
+2014,
+architecture,
+assasinmonkey,
+blue body,
+blue feathers,
+blue fur,
+booru:e621,
+building,
+category:ine,
+character:rainbow dash,
+character:rainbow dash (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+cloud,
+cloud house,
+column,
+creator:assasinmonkey,
+cutie mark,
+duo,
+feathered wings,
+feathers,
+female,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+horn,
+horns,
+house,
+mare,
+medium:16:9 aspect ratio,
+medium:high resolution,
+medium:wallpaper,
+meta:16:9,
+meta:2014,
+meta:hi res,
+meta:wallpaper,
+meta:widescreen,
+multi-colored hair,
+multicolored hair,
+outside,
+purple body,
+purple feathers,
+purple hair,
+rainbow,
+rainbow arch,
+rainbow dash's house,
+rainbow fur,
+rainbow hair,
+rainbow waterfall,
+rating:safe,
+safe,
+scene interpretation,
+scenery,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+smile,
+species:alicorn,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:'in the clouds' by myron c. p. (assasinmonkey),
+title:in the clouds,
+twilight sparkle (alicorn),
+two tone hair,
+uploader:schnitzellover,
+wallpaper,
+water,
+waterfall,
+widescreen,
+wings,
+year:2014,

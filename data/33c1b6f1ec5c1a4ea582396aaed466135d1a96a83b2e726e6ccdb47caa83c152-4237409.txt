@@ -1,67 +1,67 @@
-2016
-blue eyes
-booru:e621
-category:ine
-character:fluttershy
-character:fluttershy (mlp)
-character:pinkie pie
-character:pinkie pie (mlp)
-cloud
-creator:assasinmonkey
-cutie mark
-duo
-earthpony
-feathered wings
-feathers
-female
-feral
-fluttershy
-fur
-gender:female
-genre:fantasy
-grass
-hair
-high resolution
-kemono.party
-medium:high resolution
-meta:2:3
-meta:2016
-meta:hi res
-mlpfim
-mylittleponyfriendshipismagic
-open mouth
-outside
-pegasus
-pink body
-pink fur
-pink hair
-pinkiepie
-plant
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-smile
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:calm excitement
-title:calm excitement by myron c. p.
-uploader:myrandall
-wings
-year:2016
-yellow body
-yellow feathers
-yellow fur
+2016,
+blue eyes,
+booru:e621,
+category:ine,
+character:fluttershy,
+character:fluttershy (mlp),
+character:pinkie pie,
+character:pinkie pie (mlp),
+cloud,
+creator:assasinmonkey,
+cutie mark,
+duo,
+earthpony,
+feathered wings,
+feathers,
+female,
+feral,
+fluttershy,
+fur,
+gender:female,
+genre:fantasy,
+grass,
+hair,
+high resolution,
+kemono.party,
+medium:high resolution,
+meta:2:3,
+meta:2016,
+meta:hi res,
+mlpfim,
+mylittleponyfriendshipismagic,
+open mouth,
+outside,
+pegasus,
+pink body,
+pink fur,
+pink hair,
+pinkiepie,
+plant,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+smile,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:calm excitement,
+title:calm excitement by myron c. p.,
+uploader:myrandall,
+wings,
+year:2016,
+yellow body,
+yellow feathers,
+yellow fur,

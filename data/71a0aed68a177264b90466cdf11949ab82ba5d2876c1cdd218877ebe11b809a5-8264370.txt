@@ -1,90 +1,90 @@
-2018
-animal humanoid
-anthropomorphism
-armband
-artist:koveliana
-blonde hair
-blonde_hair
-blue eyes
-blue_eyes
-border
-bowsette meme
-bracelet
-breasts
-category:ine
-character:bowser
-character:bowsette
-cleavage
-clothed
-clothing
-clothing:bracelet
-clothing:collar
-clothing:tagme
-collar
-copyright:bowsette_meme
-copyright:mario_bros
-copyright:nintendo
-creator:koveliana
-crossgender
-crown
-ear piercing
-ear_piercing
-eyelashes
-facial piercing
-fangs
-female
-furry
-gender bender
-gender swap
-gender:female
-hair
-jewelry
-long hair
-long_hair
-medium:absurd resolution
-medium:high resolution
-medium:text
-medium:video game
-meme
-meta:2018
-meta:absurd res
-meta:absurd_res
-meta:hi res
-meta:hi_res
-meta:meme
-meta:url
-piercing
-pink border
-pink_border
-rating:safe
-series:bowsette meme
-series:mario bros
-series:nintendo
-series:super mario brothers
-solo
-species:animal humanoid
-species:animal_humanoid
-species:humanoid
-species:koopa
-species:scalie
-spiked armband
-spiked armlet
-spiked bracelet
-spiked collar
-spiked_armband
-spiked_bracelet
-spiked_collar
-spikes
-studio:nintendo
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-super crown
-super_crown
-text
-title:"bowsette" by nelly lee (koveliana)
-title:bowsette
-transformation
-uploader:torvusil
-video games
-video_games
-year:2018
+2018,
+animal humanoid,
+anthropomorphism,
+armband,
+artist:koveliana,
+blonde hair,
+blonde_hair,
+blue eyes,
+blue_eyes,
+border,
+bowsette meme,
+bracelet,
+breasts,
+category:ine,
+character:bowser,
+character:bowsette,
+cleavage,
+clothed,
+clothing,
+clothing:bracelet,
+clothing:collar,
+clothing:tagme,
+collar,
+copyright:bowsette_meme,
+copyright:mario_bros,
+copyright:nintendo,
+creator:koveliana,
+crossgender,
+crown,
+ear piercing,
+ear_piercing,
+eyelashes,
+facial piercing,
+fangs,
+female,
+furry,
+gender bender,
+gender swap,
+gender:female,
+hair,
+jewelry,
+long hair,
+long_hair,
+medium:absurd resolution,
+medium:high resolution,
+medium:text,
+medium:video game,
+meme,
+meta:2018,
+meta:absurd res,
+meta:absurd_res,
+meta:hi res,
+meta:hi_res,
+meta:meme,
+meta:url,
+piercing,
+pink border,
+pink_border,
+rating:safe,
+series:bowsette meme,
+series:mario bros,
+series:nintendo,
+series:super mario brothers,
+solo,
+species:animal humanoid,
+species:animal_humanoid,
+species:humanoid,
+species:koopa,
+species:scalie,
+spiked armband,
+spiked armlet,
+spiked bracelet,
+spiked collar,
+spiked_armband,
+spiked_bracelet,
+spiked_collar,
+spikes,
+studio:nintendo,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+super crown,
+super_crown,
+text,
+title:"bowsette" by nelly lee (koveliana),
+title:bowsette,
+transformation,
+uploader:torvusil,
+video games,
+video_games,
+year:2018,

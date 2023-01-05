@@ -1,35 +1,35 @@
-artist:conar cross
-blurry
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-category:ine
-commentary
-conar cross
-copyright:berserk
-creator:conar cross
-electricity
-english commentary
-grass
-horizon
-letterboxed
-medium:high resolution
-medium:letterboxed
-medium:signature
-meta:commentary
-meta:english commentary
-meta:highres
-no humans
-rating:mature
-rating:safe
-scenery
-series:berserk
-signature
-subreddit:imaginaryweather
-subreddit:imnature
-title:the advent by conar cross
-tornado
-tree
-uploader:e-leventy
+artist:conar cross,
+blurry,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+category:ine,
+commentary,
+conar cross,
+copyright:berserk,
+creator:conar cross,
+electricity,
+english commentary,
+grass,
+horizon,
+letterboxed,
+medium:high resolution,
+medium:letterboxed,
+medium:signature,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+no humans,
+rating:mature,
+rating:safe,
+scenery,
+series:berserk,
+signature,
+subreddit:imaginaryweather,
+subreddit:imnature,
+title:the advent by conar cross,
+tornado,
+tree,
+uploader:e-leventy,

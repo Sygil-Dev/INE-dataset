@@ -1,22 +1,22 @@
-blonde hair
-category:ine
-cdproject
-character
-character:cirilla fiona elen riannon
-creator:klaus wittmann
-gender:female
-geralt
-medium:digital 2d
-redesign
-series:the witcher
-series:the witcher 3: wild hunt
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-title:ciri redesign
-title:ciri redesign by klaus wittmann
-uploader:l-ya
-uploader:lol33ta
-wiedźmin
-wild hunt
-witcher
+blonde hair,
+category:ine,
+cdproject,
+character,
+character:cirilla fiona elen riannon,
+creator:klaus wittmann,
+gender:female,
+geralt,
+medium:digital 2d,
+redesign,
+series:the witcher,
+series:the witcher 3: wild hunt,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+title:ciri redesign,
+title:ciri redesign by klaus wittmann,
+uploader:l-ya,
+uploader:lol33ta,
+wiedźmin,
+wild hunt,
+witcher,

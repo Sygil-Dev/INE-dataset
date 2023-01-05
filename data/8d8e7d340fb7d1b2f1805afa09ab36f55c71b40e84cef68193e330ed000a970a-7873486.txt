@@ -1,65 +1,65 @@
-absurd res
-anthro
-anthropomorphism
-bomb
-bone
-booru:e621
-bullet
-category:ine
-character:bowser
-character:bullet bill
-character:dry bones
-character:hammerhead bros
-character:piranha plant
-clothing:collar
-collar
-creator:tyler champion
-creator:tylerchampion
-explosives
-fungus
-furry
-gender:male
-group
-hammer
-hi res
-high resolution
-horn
-horns
-male
-medium:absurd resolution
-medium:high resolution
-mushroom
-plant
-poster
-propaganda
-rating:safe
-red eyes
-series:mario bros
-series:nintendo
-series:super mario brothers
-sharp teeth
-shell
-skeleton
-species:animate inanimate
-species:animated skeleton
-species:bob-omb
-species:bullet bill
-species:dry bones
-species:elemental creature
-species:flora fauna
-species:hammer brothers
-species:koopa
-species:piranha plant
-species:scalie
-species:undead
-spikes
-studio:nintendo
-subreddit:imaginarypropaganda
-subreddit:immeta
-super mushroom
-teeth
-title:koopa propaganda
-title:koopa propaganda by tyler champion
-tools
-uploader:lol33ta
-video games
+absurd res,
+anthro,
+anthropomorphism,
+bomb,
+bone,
+booru:e621,
+bullet,
+category:ine,
+character:bowser,
+character:bullet bill,
+character:dry bones,
+character:hammerhead bros,
+character:piranha plant,
+clothing:collar,
+collar,
+creator:tyler champion,
+creator:tylerchampion,
+explosives,
+fungus,
+furry,
+gender:male,
+group,
+hammer,
+hi res,
+high resolution,
+horn,
+horns,
+male,
+medium:absurd resolution,
+medium:high resolution,
+mushroom,
+plant,
+poster,
+propaganda,
+rating:safe,
+red eyes,
+series:mario bros,
+series:nintendo,
+series:super mario brothers,
+sharp teeth,
+shell,
+skeleton,
+species:animate inanimate,
+species:animated skeleton,
+species:bob-omb,
+species:bullet bill,
+species:dry bones,
+species:elemental creature,
+species:flora fauna,
+species:hammer brothers,
+species:koopa,
+species:piranha plant,
+species:scalie,
+species:undead,
+spikes,
+studio:nintendo,
+subreddit:imaginarypropaganda,
+subreddit:immeta,
+super mushroom,
+teeth,
+title:koopa propaganda,
+title:koopa propaganda by tyler champion,
+tools,
+uploader:lol33ta,
+video games,

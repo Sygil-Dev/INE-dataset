@@ -1,67 +1,67 @@
-2015
-bag
-book
-booru:e621
-boots
-category:ine
-character:trixie (mlp)
-character:trixie lulamoon
-clothing
-clothing:footwear
-creator:asimos
-detailed background
-female
-feral
-footwear
-forest
-gem
-gender:female
-genre:fantasy
-grass
-hair
-hi res
-high resolution
-horn
-horns
-landscape
-looking at viewer
-medium:detailed background
-medium:high resolution
-melee weapon
-meta:2015
-meta:hi res
-mlp
-mlpfim
-mountain
-mylittleponyfriendshipismagic
-nature
-outside
-plant
-polearm
-pov
-purple eyes
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-staff
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:trixie the wandering wizard
-title:trixie the wandering wizard by viktor/'asimos'
-tree
-trixie
-uploader:myrandall
-weapon
-white hair
-wizard
-year:2015
+2015,
+bag,
+book,
+booru:e621,
+boots,
+category:ine,
+character:trixie (mlp),
+character:trixie lulamoon,
+clothing,
+clothing:footwear,
+creator:asimos,
+detailed background,
+female,
+feral,
+footwear,
+forest,
+gem,
+gender:female,
+genre:fantasy,
+grass,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+landscape,
+looking at viewer,
+medium:detailed background,
+medium:high resolution,
+melee weapon,
+meta:2015,
+meta:hi res,
+mlp,
+mlpfim,
+mountain,
+mylittleponyfriendshipismagic,
+nature,
+outside,
+plant,
+polearm,
+pov,
+purple eyes,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+staff,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:trixie the wandering wizard,
+title:trixie the wandering wizard by viktor/'asimos',
+tree,
+trixie,
+uploader:myrandall,
+weapon,
+white hair,
+wizard,
+year:2015,

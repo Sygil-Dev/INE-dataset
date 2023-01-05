@@ -1,66 +1,66 @@
-2015
-absurd res
-booru:e621
-category:ine
-character:fluttershy
-character:fluttershy (mlp)
-creator:katyand
-cutie mark
-detailed background
-feathered wings
-feathers
-female
-feral
-forest
-fur
-gender:female
-genre:fantasy
-group
-hair
-hi res
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:2015
-meta:absurd res
-meta:hi res
-nature
-outside
-pink hair
-plant
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-smile
-species:avian
-species:bird
-species:equid
-species:equine
-species:lagomorph
-species:leporid
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-species:rabbit
-species:rodent
-species:sciurid
-species:squirrel
-species:tree squirrel
-spread wings
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-teal eyes
-title:'forest friends' by katja (katyand/juniper)
-title:forest friends
-tree
-uploader:schnitzellover
-wings
-year:2015
-yellow body
-yellow feathers
-yellow fur
+2015,
+absurd res,
+booru:e621,
+category:ine,
+character:fluttershy,
+character:fluttershy (mlp),
+creator:katyand,
+cutie mark,
+detailed background,
+feathered wings,
+feathers,
+female,
+feral,
+forest,
+fur,
+gender:female,
+genre:fantasy,
+group,
+hair,
+hi res,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:2015,
+meta:absurd res,
+meta:hi res,
+nature,
+outside,
+pink hair,
+plant,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+smile,
+species:avian,
+species:bird,
+species:equid,
+species:equine,
+species:lagomorph,
+species:leporid,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+species:rabbit,
+species:rodent,
+species:sciurid,
+species:squirrel,
+species:tree squirrel,
+spread wings,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+teal eyes,
+title:'forest friends' by katja (katyand/juniper),
+title:forest friends,
+tree,
+uploader:schnitzellover,
+wings,
+year:2015,
+yellow body,
+yellow feathers,
+yellow fur,

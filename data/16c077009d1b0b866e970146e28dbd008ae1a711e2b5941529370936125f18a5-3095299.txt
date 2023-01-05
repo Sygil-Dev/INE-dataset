@@ -1,53 +1,53 @@
-2012
-accessory
-blue eyes
-booru:e621
-category:ine
-character:rarity
-character:rarity (mlp)
-creator:harwick
-creator:harwicks-art
-crystal
-cutie mark
-ear piercing
-facial piercing
-female
-feral
-gender:female
-genre:fantasy
-hair
-headband
-hi res
-horn
-horns
-looking at viewer
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:2012
-meta:hi res
-meta:widescreen
-piercing
-pov
-purple hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:crystal pony (mlp)
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"she made it work" by harwick (harwicks-art)
-title:she made it work
-uploader:crystallord
-widescreen
-year:2012
+2012,
+accessory,
+blue eyes,
+booru:e621,
+category:ine,
+character:rarity,
+character:rarity (mlp),
+creator:harwick,
+creator:harwicks-art,
+crystal,
+cutie mark,
+ear piercing,
+facial piercing,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+headband,
+hi res,
+horn,
+horns,
+looking at viewer,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:2012,
+meta:hi res,
+meta:widescreen,
+piercing,
+pov,
+purple hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:crystal pony (mlp),
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"she made it work" by harwick (harwicks-art),
+title:she made it work,
+uploader:crystallord,
+widescreen,
+year:2012,
