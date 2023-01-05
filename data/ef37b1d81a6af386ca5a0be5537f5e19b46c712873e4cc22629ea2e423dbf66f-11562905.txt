@@ -1,45 +1,45 @@
-accessory
-book
-booru:e621
-bottomwear
-category:ine
-cloak
-clothing
-clothing:dress
-clothing:footwear
-clothing:hood
-clothing:legwear
-creator:sandara
-detailed background
-dress
-female
-footwear
-group
-headband
-hood
-kemono
-lantern
-levitation
-magic
-male
-market
-medium:detailed background
-merchant
-rating:safe
-robe
-runes
-sandals
-shorts
-species:animal humanoid
-species:human
-species:humanoid
-species:mammal
-species:primate
-subreddit:imaginarymerchants
-subreddit:immeta
-title:inscription merchant
-title:inscription merchant by sandara tang
-topwear
-uploader:myrandall
-vest
-young
+accessory,
+book,
+booru:e621,
+bottomwear,
+category:ine,
+cloak,
+clothing,
+clothing:dress,
+clothing:footwear,
+clothing:hood,
+clothing:legwear,
+creator:sandara,
+detailed background,
+dress,
+female,
+footwear,
+group,
+headband,
+hood,
+kemono,
+lantern,
+levitation,
+magic,
+male,
+market,
+medium:detailed background,
+merchant,
+rating:safe,
+robe,
+runes,
+sandals,
+shorts,
+species:animal humanoid,
+species:human,
+species:humanoid,
+species:mammal,
+species:primate,
+subreddit:imaginarymerchants,
+subreddit:immeta,
+title:inscription merchant,
+title:inscription merchant by sandara tang,
+topwear,
+uploader:myrandall,
+vest,
+young,

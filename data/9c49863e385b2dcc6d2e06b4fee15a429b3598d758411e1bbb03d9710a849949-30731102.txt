@@ -1,35 +1,35 @@
-alternate costume
-blue eyes
-booru:sankaku channel
-category:ine
-character:dr. angela "mercy" ziegler
-character:mercy (overwatch)
-crown
-earrings
-gender:female
-genre:science fiction
-gloves
-jewelry
-long hair
-medium:1:1 aspect ratio
-medium:artist name
-medium:high resolution
-medium:light background
-medium:simple background
-medium:text
-medium:very high resolution
-medium:white background
-meta:artist name
-moon
-novayin
-piercing
-purple hair
-rating:safe
-series:overwatch
-site:deviantart
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:atlantic mercy -novayin
-uploader:novayin
-wings
+alternate costume,
+blue eyes,
+booru:sankaku channel,
+category:ine,
+character:dr. angela "mercy" ziegler,
+character:mercy (overwatch),
+crown,
+earrings,
+gender:female,
+genre:science fiction,
+gloves,
+jewelry,
+long hair,
+medium:1:1 aspect ratio,
+medium:artist name,
+medium:high resolution,
+medium:light background,
+medium:simple background,
+medium:text,
+medium:very high resolution,
+medium:white background,
+meta:artist name,
+moon,
+novayin,
+piercing,
+purple hair,
+rating:safe,
+series:overwatch,
+site:deviantart,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:atlantic mercy -novayin,
+uploader:novayin,
+wings,

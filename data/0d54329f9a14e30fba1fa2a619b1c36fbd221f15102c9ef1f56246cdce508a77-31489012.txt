@@ -1,24 +1,24 @@
-bridge
-building
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-mountain
-no humans
-outdoors
-rating:safe
-ruins
-scenery
-sky
-skyscraper
-subreddit:imaginaryruins
-subreddit:imarchitecture
-sunset
-title:passage to the sun by michael whelan
-tower
-tree
-uploader:[deleted]
-uploader:faeryknight
-water
+bridge,
+building,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+sunset,
+title:passage to the sun by michael whelan,
+tower,
+tree,
+uploader:[deleted],
+uploader:faeryknight,
+water,

@@ -1,23 +1,23 @@
-amelia
-art
-art_nouveau
-artnouveau
-beast
-category:ine
-creator:n00dle
-lycanthrope
-nouveau
-series:bloodborne
-source:furaffinity.net
-species:canine
-species:canis
-species:mammal
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:vicar amelia nouveau
-title:vicar amelia nouveau by n00dle
-uploader:bleeding_choker
-vicar
-vicar_amelia
-vicaramelia
+amelia,
+art,
+art_nouveau,
+artnouveau,
+beast,
+category:ine,
+creator:n00dle,
+lycanthrope,
+nouveau,
+series:bloodborne,
+source:furaffinity.net,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:vicar amelia nouveau,
+title:vicar amelia nouveau by n00dle,
+uploader:bleeding_choker,
+vicar,
+vicar_amelia,
+vicaramelia,

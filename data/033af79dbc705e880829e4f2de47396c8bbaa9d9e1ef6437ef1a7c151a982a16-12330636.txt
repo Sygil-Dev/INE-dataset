@@ -1,58 +1,58 @@
-anthro
-anthropomorphism
-architecture
-armor
-bird
-black wings
-booru:e621
-brick wall
-brown body
-brown feathers
-category:ine
-character:high sentinels of arashin
-clothed
-clothing
-clothing:armor
-clothing:tagme
-creator:james ryman
-crow
-dragon
-dutch angle
-eagle
-feathers
-fully clothed
-gem
-group
-guard
-hat
-holding object
-holding sword
-holding weapon
-melee weapon
-meta:official art
-owl
-rating:safe
-scale armor
-scale mail
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-species:accipitriform
-species:aven
-species:avian
-species:bird
-species:vulture
-standing
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryhybrids
-subreddit:immonsters
-sword
-title:high sentinels of arashin by james ryman
-uploader:faeryknight
-weapon
-white body
-white feathers
-winged arms
-wings
+anthro,
+anthropomorphism,
+architecture,
+armor,
+bird,
+black wings,
+booru:e621,
+brick wall,
+brown body,
+brown feathers,
+category:ine,
+character:high sentinels of arashin,
+clothed,
+clothing,
+clothing:armor,
+clothing:tagme,
+creator:james ryman,
+crow,
+dragon,
+dutch angle,
+eagle,
+feathers,
+fully clothed,
+gem,
+group,
+guard,
+hat,
+holding object,
+holding sword,
+holding weapon,
+melee weapon,
+meta:official art,
+owl,
+rating:safe,
+scale armor,
+scale mail,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+species:accipitriform,
+species:aven,
+species:avian,
+species:bird,
+species:vulture,
+standing,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+sword,
+title:high sentinels of arashin by james ryman,
+uploader:faeryknight,
+weapon,
+white body,
+white feathers,
+winged arms,
+wings,

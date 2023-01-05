@@ -1,35 +1,35 @@
-assault rifle
-category:ine
-creator:abiogenisis
-dated
-desert
-dusk
-evening
-gun
-holding gun
-holding weapon
-mecha
-orange background
-orange sky
-rating:safe
-realistic
-rifle
-science fiction
-signature
-subreddit:imaginaryaliens
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-subreddit:imraces
-sun
-sunset
-title:the lord and the colonel
-title:the lord and the colonel by abiogenisis
-title:the lord and the colonel by alex ries
-tree
-twilight
-uploader:[deleted]
-uploader:faeryknight
-uploader:lol33ta
-weapon
-yellow background
-yellow sky
+assault rifle,
+category:ine,
+creator:abiogenisis,
+dated,
+desert,
+dusk,
+evening,
+gun,
+holding gun,
+holding weapon,
+mecha,
+orange background,
+orange sky,
+rating:safe,
+realistic,
+rifle,
+science fiction,
+signature,
+subreddit:imaginaryaliens,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+subreddit:imraces,
+sun,
+sunset,
+title:the lord and the colonel,
+title:the lord and the colonel by abiogenisis,
+title:the lord and the colonel by alex ries,
+tree,
+twilight,
+uploader:[deleted],
+uploader:faeryknight,
+uploader:lol33ta,
+weapon,
+yellow background,
+yellow sky,

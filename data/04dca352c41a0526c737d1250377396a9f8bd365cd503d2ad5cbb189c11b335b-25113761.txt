@@ -1,70 +1,70 @@
-1 female
-1girl
-artist name
-blonde hair
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-bow
-braid
-brooch
-category:ine
-character:peachette
-character:princess peach
-clothing:dress
-clothing:earrings
-clothing:gloves
-clothing:hair tie
-clothing:puffy sleeves
-clothing:white gloves
-creator:bellhenge
-crown
-dress
-earrings
-elbow gloves
-female
-gender:female
-gloves
-heart
-jewelry
-lips
-long hair
-looking at viewer
-medium:artist name
-medium:pink background
-meta:artist name
-meta:paint.net (medium)
-new super mario bros. u deluxe
-open mouth
-parted lips
-peachette
-pink background
-pink bow
-pink dress
-pov
-puffy sleeves
-rating:safe
-red background
-red earrings
-series:mario (series)
-series:new super mario bros. u deluxe
-series:nintendo
-series:super mario brothers
-smile
-solo
-sparkle
-studio:nintendo
-subreddit:imaginarynobles
-subreddit:imcharacters
-super crown
-teeth
-tied hair
-title:peachette
-title:peachette by bellhenge
-twin braids
-twintails
-uploader:lol33ta
-upper body
-white gloves
+1 female,
+1girl,
+artist name,
+blonde hair,
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+bow,
+braid,
+brooch,
+category:ine,
+character:peachette,
+character:princess peach,
+clothing:dress,
+clothing:earrings,
+clothing:gloves,
+clothing:hair tie,
+clothing:puffy sleeves,
+clothing:white gloves,
+creator:bellhenge,
+crown,
+dress,
+earrings,
+elbow gloves,
+female,
+gender:female,
+gloves,
+heart,
+jewelry,
+lips,
+long hair,
+looking at viewer,
+medium:artist name,
+medium:pink background,
+meta:artist name,
+meta:paint.net (medium),
+new super mario bros. u deluxe,
+open mouth,
+parted lips,
+peachette,
+pink background,
+pink bow,
+pink dress,
+pov,
+puffy sleeves,
+rating:safe,
+red background,
+red earrings,
+series:mario (series),
+series:new super mario bros. u deluxe,
+series:nintendo,
+series:super mario brothers,
+smile,
+solo,
+sparkle,
+studio:nintendo,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+super crown,
+teeth,
+tied hair,
+title:peachette,
+title:peachette by bellhenge,
+twin braids,
+twintails,
+uploader:lol33ta,
+upper body,
+white gloves,

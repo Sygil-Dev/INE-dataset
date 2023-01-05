@@ -1,33 +1,33 @@
-artstation
-booru:sankaku channel
-boots
-category:ine
-character:paladin (warcraft)
-character:yrel
-clothing:armor
-clothing:armored boots
-clothing:boots
-clothing:footwear
-clothing:shoes
-footwear
-gauntlets
-gender:female
-hammer (weapon)
-horns
-kresto
-long hair
-medium:high resolution
-medium:very high resolution
-rating:safe
-series:warcraft
-series:world of warcraft
-species:draenei
-studio:blizzard entertainment
-subreddit:imaginaryarmor
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-subreddit:imtechnology
-title:inquisitor yrel by kirill stepanov
-uploader:lol33ta
-weapon
-white hair
+artstation,
+booru:sankaku channel,
+boots,
+category:ine,
+character:paladin (warcraft),
+character:yrel,
+clothing:armor,
+clothing:armored boots,
+clothing:boots,
+clothing:footwear,
+clothing:shoes,
+footwear,
+gauntlets,
+gender:female,
+hammer (weapon),
+horns,
+kresto,
+long hair,
+medium:high resolution,
+medium:very high resolution,
+rating:safe,
+series:warcraft,
+series:world of warcraft,
+species:draenei,
+studio:blizzard entertainment,
+subreddit:imaginaryarmor,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+subreddit:imtechnology,
+title:inquisitor yrel by kirill stepanov,
+uploader:lol33ta,
+weapon,
+white hair,

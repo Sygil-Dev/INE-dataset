@@ -1,73 +1,73 @@
-2015
-absurd res
-anthro
-anthropomorphism
-armor
-blue body
-blue feathers
-blue fur
-bodily fluids
-booru:e621
-bracers
-breastplate
-category:ine
-character:princess luna
-character:princess luna (mlp)
-clothing
-clothing:armor
-clothing:gloves
-creator:longinius
-creator:longinius-ii
-crying
-feathered wings
-feathers
-female
-fur
-furgonomics
-gauntlets
-gem
-gender:female
-genre:fantasy
-gloves
-greaves
-handwear
-hi res
-horn
-horns
-medium:absurd resolution
-medium:high resolution
-melee weapon
-meta:2015
-meta:absurd res
-meta:hi res
-moon
-night
-pauldron
-petals
-polearm
-rating:safe
-sapphire (gem)
-scythe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-star
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-tears
-title:"martyr's lament" by ville tanner (longinius-ii)
-title:martyr's lament
-uploader:torvusil
-weapon
-weapon:polearm
-wings
-year:2015
+2015,
+absurd res,
+anthro,
+anthropomorphism,
+armor,
+blue body,
+blue feathers,
+blue fur,
+bodily fluids,
+booru:e621,
+bracers,
+breastplate,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+clothing,
+clothing:armor,
+clothing:gloves,
+creator:longinius,
+creator:longinius-ii,
+crying,
+feathered wings,
+feathers,
+female,
+fur,
+furgonomics,
+gauntlets,
+gem,
+gender:female,
+genre:fantasy,
+gloves,
+greaves,
+handwear,
+hi res,
+horn,
+horns,
+medium:absurd resolution,
+medium:high resolution,
+melee weapon,
+meta:2015,
+meta:absurd res,
+meta:hi res,
+moon,
+night,
+pauldron,
+petals,
+polearm,
+rating:safe,
+sapphire (gem),
+scythe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+star,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+tears,
+title:"martyr's lament" by ville tanner (longinius-ii),
+title:martyr's lament,
+uploader:torvusil,
+weapon,
+weapon:polearm,
+wings,
+year:2015,

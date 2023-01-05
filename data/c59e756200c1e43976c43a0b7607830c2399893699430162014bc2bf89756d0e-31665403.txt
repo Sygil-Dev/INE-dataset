@@ -1,37 +1,37 @@
-blood
-bodily fluids
-cape
-category:ine
-clothed
-clothing
-creator:tooth wu
-duo
-face tentacles
-grey body
-grey skin
-male
-melee weapon
-meta:hi res
-rating:questionable
-series:dungeons and dragons
-series:hasbro
-series:wizards of the coast
-shoulder pads
-species:human
-species:mammal
-species:mind flayer
-struggling
-subreddit:imaginaryhorrors
-subreddit:imaginaryleviathans
-subreddit:immonsters
-sword
-tentacles
-title:mind flayer by tooth wu
-title:mindflayer by tooth wu
-topless
-uploader:flubzrevenge
-uploader:o-shi
-uploader:s1cks
-vein
-weapon
-wrist grab
+blood,
+bodily fluids,
+cape,
+category:ine,
+clothed,
+clothing,
+creator:tooth wu,
+duo,
+face tentacles,
+grey body,
+grey skin,
+male,
+melee weapon,
+meta:hi res,
+rating:questionable,
+series:dungeons and dragons,
+series:hasbro,
+series:wizards of the coast,
+shoulder pads,
+species:human,
+species:mammal,
+species:mind flayer,
+struggling,
+subreddit:imaginaryhorrors,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+sword,
+tentacles,
+title:mind flayer by tooth wu,
+title:mindflayer by tooth wu,
+topless,
+uploader:flubzrevenge,
+uploader:o-shi,
+uploader:s1cks,
+vein,
+weapon,
+wrist grab,

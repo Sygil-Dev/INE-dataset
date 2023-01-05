@@ -1,34 +1,34 @@
-ambiguous_gender
-artist:koriarredondo
-book
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:koriarredondo
-gen 1 pokemon
-gender:ambiguous
-holding object
-holding_object
-koriarredondo
-meta:signature
-open mouth
-open_mouth
-rating:safe
-series:pokémon
-signature
-species:monster
-species:pikachu
-species:pokémon
-species:pokémon_(species)
-species:shinx
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"lets do this work!" by flor arredondo
-title:lets do this work! by koriarredondo
-uploader:lol33ta
-uploader:torvusil
-video games
-video_games
+ambiguous_gender,
+artist:koriarredondo,
+book,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:koriarredondo,
+gen 1 pokemon,
+gender:ambiguous,
+holding object,
+holding_object,
+koriarredondo,
+meta:signature,
+open mouth,
+open_mouth,
+rating:safe,
+series:pokémon,
+signature,
+species:monster,
+species:pikachu,
+species:pokémon,
+species:pokémon_(species),
+species:shinx,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"lets do this work!" by flor arredondo,
+title:lets do this work! by koriarredondo,
+uploader:lol33ta,
+uploader:torvusil,
+video games,
+video_games,

@@ -1,60 +1,60 @@
-2019
-artist:sandara
-category:ine
-chest tuft
-chest_tuft
-cloud
-creator:sandara
-day
-detailed background
-detailed_background
-digital media (artwork)
-feral
-furry
-grass
-group
-horn
-horns
-mane
-medium:detailed background
-medium:digital media
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-mountain
-open mouth
-open_mouth
-orange mane
-orange_mane
-outside
-panic
-plant
-rating:safe
-sharp teeth
-sharp_teeth
-sheep
-sky
-solo focus
-solo_focus
-species:avian
-species:bird
-species:bovid
-species:caprine
-species:dragon
-species:mammal
-species:mythical
-species:scalie
-species:sheep
-species:wyvern
-spikes
-subreddit:imaginarydragons
-subreddit:immonsters
-teeth
-title:chasing sheep
-title:chasing sheep by sandara tang
-tongue
-tuft
-uploader:net-diver
-wyvern
-yellow eyes
-yellow_eyes
+2019,
+artist:sandara,
+category:ine,
+chest tuft,
+chest_tuft,
+cloud,
+creator:sandara,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+feral,
+furry,
+grass,
+group,
+horn,
+horns,
+mane,
+medium:detailed background,
+medium:digital media,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+mountain,
+open mouth,
+open_mouth,
+orange mane,
+orange_mane,
+outside,
+panic,
+plant,
+rating:safe,
+sharp teeth,
+sharp_teeth,
+sheep,
+sky,
+solo focus,
+solo_focus,
+species:avian,
+species:bird,
+species:bovid,
+species:caprine,
+species:dragon,
+species:mammal,
+species:mythical,
+species:scalie,
+species:sheep,
+species:wyvern,
+spikes,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+teeth,
+title:chasing sheep,
+title:chasing sheep by sandara tang,
+tongue,
+tuft,
+uploader:net-diver,
+wyvern,
+yellow eyes,
+yellow_eyes,

@@ -1,34 +1,34 @@
-animal
-architecture
-artwork
-bed
-bedroom
-blue
-building
-category:ine
-cats
-city
-city lights
-cityscape
-colorful
-dark
-digital
-digital painting
-drawing
-gender:female
-illustration
-landscape
-medium:digital media
-morning
-purple
-ricodz
-room
-silhouette
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-sun
-sun rays
-sunrise
-sunset
-title:inspire by ricodz.
-uploader:ethan_kahn
+animal,
+architecture,
+artwork,
+bed,
+bedroom,
+blue,
+building,
+category:ine,
+cats,
+city,
+city lights,
+cityscape,
+colorful,
+dark,
+digital,
+digital painting,
+drawing,
+gender:female,
+illustration,
+landscape,
+medium:digital media,
+morning,
+purple,
+ricodz,
+room,
+silhouette,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+sun,
+sun rays,
+sunrise,
+sunset,
+title:inspire by ricodz.,
+uploader:ethan_kahn,

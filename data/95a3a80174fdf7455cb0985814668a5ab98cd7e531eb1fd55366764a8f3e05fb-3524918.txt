@@ -1,59 +1,59 @@
-art
-booru:e621
-category:ine
-cephalopod
-cloudscape
-craig j. spearing
-creator:craig j. spearing
-digital media (artwork)
-feral
-front view
-gesture
-group
-kraken
-levitating
-macro
-mammal
-mantle (anatomy)
-mantle (mollusk)
-marine
-medium:digital media
-meta:digital media (artwork)
-meta:official art
-octopus
-partially submerged
-pointing
-rating:safe
-rear view
-sea
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-siphon (anatomy)
-size difference
-sky
-solo focus
-species:cephalopod
-species:coleoid
-species:human
-species:kraken
-species:mammal
-species:marine
-species:mollusc
-species:mollusk
-species:mythical
-species:octopodiform
-species:octopus
-species:primate
-staff
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryleviathans
-subreddit:immonsters
-tentacles
-title:octopus by craig spearing
-uploader:faeryknight
-warrior
-water
-wave
+art,
+booru:e621,
+category:ine,
+cephalopod,
+cloudscape,
+craig j. spearing,
+creator:craig j. spearing,
+digital media (artwork),
+feral,
+front view,
+gesture,
+group,
+kraken,
+levitating,
+macro,
+mammal,
+mantle (anatomy),
+mantle (mollusk),
+marine,
+medium:digital media,
+meta:digital media (artwork),
+meta:official art,
+octopus,
+partially submerged,
+pointing,
+rating:safe,
+rear view,
+sea,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+siphon (anatomy),
+size difference,
+sky,
+solo focus,
+species:cephalopod,
+species:coleoid,
+species:human,
+species:kraken,
+species:mammal,
+species:marine,
+species:mollusc,
+species:mollusk,
+species:mythical,
+species:octopodiform,
+species:octopus,
+species:primate,
+staff,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+tentacles,
+title:octopus by craig spearing,
+uploader:faeryknight,
+warrior,
+water,
+wave,

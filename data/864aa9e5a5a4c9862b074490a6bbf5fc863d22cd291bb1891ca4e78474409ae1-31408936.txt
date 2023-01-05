@@ -1,59 +1,59 @@
-1 female
-1girl
-bare shoulders
-bellhenge
-blonde hair
-blue dress
-blue eyes
-category:ine
-character:princess rosalina
-character:rosetta (mario)
-clothing:dress
-clothing:earrings
-creator:bellhenge
-crown
-dress
-earrings
-falling star
-gender:female
-hair over one eye
-high resolution
-jewelry
-lips
-long hair
-looking at viewer
-mario (series)
-md5 mismatch
-medium:high resolution
-meta:highres
-meta:md5 mismatch
-meta:paint.net (medium)
-meta:resized
-meta:resolution mismatch
-meta:source smaller
-meta:upscaled
-nose
-off shoulder
-off-shoulder
-off-shoulder dress
-pov
-rating:mature
-rating:safe
-resized
-series:crossover
-series:mario (series)
-series:nintendo
-series:super mario bros.
-series:super mario brothers
-series:super mario galaxy
-solo
-star
-star (symbol)
-starry background
-studio:nintendo
-subreddit:imaginarynobles
-subreddit:imcharacters
-title:star festival
-title:star festival by bellhenge
-uploader:lol33ta
-upscaled
+1 female,
+1girl,
+bare shoulders,
+bellhenge,
+blonde hair,
+blue dress,
+blue eyes,
+category:ine,
+character:princess rosalina,
+character:rosetta (mario),
+clothing:dress,
+clothing:earrings,
+creator:bellhenge,
+crown,
+dress,
+earrings,
+falling star,
+gender:female,
+hair over one eye,
+high resolution,
+jewelry,
+lips,
+long hair,
+looking at viewer,
+mario (series),
+md5 mismatch,
+medium:high resolution,
+meta:highres,
+meta:md5 mismatch,
+meta:paint.net (medium),
+meta:resized,
+meta:resolution mismatch,
+meta:source smaller,
+meta:upscaled,
+nose,
+off shoulder,
+off-shoulder,
+off-shoulder dress,
+pov,
+rating:mature,
+rating:safe,
+resized,
+series:crossover,
+series:mario (series),
+series:nintendo,
+series:super mario bros.,
+series:super mario brothers,
+series:super mario galaxy,
+solo,
+star,
+star (symbol),
+starry background,
+studio:nintendo,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+title:star festival,
+title:star festival by bellhenge,
+uploader:lol33ta,
+upscaled,

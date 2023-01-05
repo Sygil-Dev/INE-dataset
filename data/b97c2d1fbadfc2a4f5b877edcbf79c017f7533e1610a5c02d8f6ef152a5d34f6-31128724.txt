@@ -1,93 +1,93 @@
-2:3
-3 toes
-3_toes
-2019
-ambiguous gender
-ambiguous_gender
-artist name
-artist:tamberella
-booru:danbooru
-booru:danbooru-safebooru
-booru:e621
-booru:safebooru
-building
-category:ine
-character:lugia
-city
-cloud
-clouds
-copyright:nintendo
-copyright:pokémon
-creator:devin elle kurtz
-creator:tamberella
-devin elle kurtz
-digital media (artwork)
-dragon
-english commentary
-feet
-feral
-flying
-full body
-furry
-gen 2 pokemon
-gender:ambiguous
-gender:female
-giant
-legendary pokemon
-medium:artist name
-medium:digital media
-meta:2:3
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:english commentary
-no humans
-open mouth
-open smile
-open_mouth
-open_smile
-outdoors
-outside
-pokemon (creature)
-rating:mature
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-sharp teeth
-signature
-sky
-skyscraper
-smile
-solo
-species:dragon
-species:legendary pokémon
-species:legendary_pokémon
-species:lugia
-species:monster
-species:mythical
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:scalie
-spines
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imaginaryleviathans
-subreddit:imfandoms
-subreddit:immonsters
-tail
-teeth
-title:"titan lugia" by devin elle kurtz (tamberella)
-title:titan lugia by devin elle kurtz (tamberella)
-toes
-uploader:myrandall
-uploader:torvusil
-video games
-video_games
-white eyes
-wings
-year:2019
+2:3,
+3 toes,
+3_toes,
+2019,
+ambiguous gender,
+ambiguous_gender,
+artist name,
+artist:tamberella,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:e621,
+booru:safebooru,
+building,
+category:ine,
+character:lugia,
+city,
+cloud,
+clouds,
+copyright:nintendo,
+copyright:pokémon,
+creator:devin elle kurtz,
+creator:tamberella,
+devin elle kurtz,
+digital media (artwork),
+dragon,
+english commentary,
+feet,
+feral,
+flying,
+full body,
+furry,
+gen 2 pokemon,
+gender:ambiguous,
+gender:female,
+giant,
+legendary pokemon,
+medium:artist name,
+medium:digital media,
+meta:2:3,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:english commentary,
+no humans,
+open mouth,
+open smile,
+open_mouth,
+open_smile,
+outdoors,
+outside,
+pokemon (creature),
+rating:mature,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+sharp teeth,
+signature,
+sky,
+skyscraper,
+smile,
+solo,
+species:dragon,
+species:legendary pokémon,
+species:legendary_pokémon,
+species:lugia,
+species:monster,
+species:mythical,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:scalie,
+spines,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imaginaryleviathans,
+subreddit:imfandoms,
+subreddit:immonsters,
+tail,
+teeth,
+title:"titan lugia" by devin elle kurtz (tamberella),
+title:titan lugia by devin elle kurtz (tamberella),
+toes,
+uploader:myrandall,
+uploader:torvusil,
+video games,
+video_games,
+white eyes,
+wings,
+year:2019,

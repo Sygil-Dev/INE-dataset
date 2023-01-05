@@ -1,44 +1,44 @@
-2019
-artist:sandara
-category:ine
-creator:sandara
-day
-detailed background
-detailed_background
-duo
-furry
-horn
-horns
-medium:detailed background
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:english text
-meta:english_text
-open mouth
-open_mouth
-outside
-rating:safe
-sky
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-species:western dragon
-species:western_dragon
-subreddit:imaginarydragons
-subreddit:imaginarynobles
-subreddit:imcharacters
-subreddit:immonsters
-teeth
-text
-title:fire and glory
-title:fire and glory by sandara tang
-tongue
-uploader:net-diver
-wings
-year:2019
+2019,
+artist:sandara,
+category:ine,
+creator:sandara,
+day,
+detailed background,
+detailed_background,
+duo,
+furry,
+horn,
+horns,
+medium:detailed background,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:english text,
+meta:english_text,
+open mouth,
+open_mouth,
+outside,
+rating:safe,
+sky,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+subreddit:imaginarydragons,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+subreddit:immonsters,
+teeth,
+text,
+title:fire and glory,
+title:fire and glory by sandara tang,
+tongue,
+uploader:net-diver,
+wings,
+year:2019,

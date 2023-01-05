@@ -1,25 +1,25 @@
-2dart
-art
-castle
-category:concept art
-category:ine
-concept
-concept art
-creator:julien hauville
-dress
-environment
-epic
-fantasy
-games of thrones
-girl
-got
-illustration
-medieval
-medium:digital 2d
-princess
-subreddit:conceptart
-subreddit:immeta
-title:somewhere in a castle
-tower
-uploader:julienhauville
-woman
+2dart,
+art,
+castle,
+category:concept art,
+category:ine,
+concept,
+concept art,
+creator:julien hauville,
+dress,
+environment,
+epic,
+fantasy,
+games of thrones,
+girl,
+got,
+illustration,
+medieval,
+medium:digital 2d,
+princess,
+subreddit:conceptart,
+subreddit:immeta,
+title:somewhere in a castle,
+tower,
+uploader:julienhauville,
+woman,
