@@ -1,0 +1,21 @@
+aerosaur
+aircraft
+biomech
+biomechanical
+creator:[ alice ]
+creator:alice bruderer
+creature
+jet
+mech
+mecha
+medium:digital 2d
+monster
+post-earth
+remanenter
+seeker
+species:avian
+subreddit:imaginarytechnology
+title:shrill seekers
+title:shrill seekers by mechmonster
+uploader:one_giant_nostril
+vehicle

@@ -6,6 +6,7 @@ booru:e621
 category:ine
 character:master chief
 character:spartan
+character:spartan (halo)
 clothing:armor
 creator:martin houlden
 creator:unknown artist

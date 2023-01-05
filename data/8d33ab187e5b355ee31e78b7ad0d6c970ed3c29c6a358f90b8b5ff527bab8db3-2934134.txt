@@ -6,6 +6,7 @@ character:isaac clarke
 character:marcus fenix
 character:master chief
 character:spartan
+character:spartan (halo)
 character:thel 'vadam
 character:twilight sparkle
 character:twilight sparkle (mlp)

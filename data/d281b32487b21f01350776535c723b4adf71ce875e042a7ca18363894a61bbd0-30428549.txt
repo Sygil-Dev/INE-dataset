@@ -63,8 +63,10 @@ signature
 solo
 studio:disney
 subreddit:imaginarydisney
+subreddit:imaginarynobles
 tied hair
 title:princess jasmine by abigail diaz
 uploader:hell-girl
+uploader:lol33ta
 upper body
 very long hair

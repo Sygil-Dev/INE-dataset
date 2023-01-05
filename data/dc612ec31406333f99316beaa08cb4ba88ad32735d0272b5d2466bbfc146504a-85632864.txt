@@ -1,0 +1,37 @@
+armor
+blue eyes
+breastplate
+cape
+clothing
+creator:tooth wu
+ear piercing
+ear ring
+fur
+gauntlets
+gloves
+greaves
+handwear
+horn (musical instrument)
+male
+meta:hi res
+musical instrument
+pauldron
+piercing
+rating:safe
+ring piercing
+simple background
+solo
+species:felid
+species:lion
+species:mammal
+species:pantherine
+standing
+stone tablet
+subreddit:imaginaryarmor
+subreddit:imtechnology
+title:claws and crowns - old king utharis by tooth wu
+uploader:disappointingreality
+vambraces
+white body
+white fur
+wind instrument

@@ -2,28 +2,55 @@
 ambiguous gender
 ambiguous_gender
 artist:tamberella
+aurora
 black nose
 black_nose
+burning
 category:ine
+character:godzilla
 creator:tamberella
 digital media (artwork)
+embers
+explosion
 feral
+fire
+fireworks
 fur
+galaxy
 gender:ambiguous
+glowing
+glowing eyes
 icon
+light particles
 medium:digital media
 meta:2019
 meta:digital media (artwork)
 meta:digital_media_(artwork)
 meta:icon
+milky way
+monster
+night
+night sky
+no humans
+open mouth
+planet
 rating:safe
+sharp teeth
+shooting star
+signature
+sky
 solo
+space
 species:canid
 species:canine
 species:fox
 species:mammal
+star (sky)
+starry background
+starry sky
 subreddit:imaginaryanimals
 subreddit:imnature
+teeth
 title:sunset stars by devin elle kurtz (tamberella)
 uploader:myrandall
 year:2019

@@ -21,6 +21,7 @@ phone
 rating:safe
 series:original
 series:starbucks
+source:pixiv
 subreddit:imaginarysliceoflife
 table
 teacup

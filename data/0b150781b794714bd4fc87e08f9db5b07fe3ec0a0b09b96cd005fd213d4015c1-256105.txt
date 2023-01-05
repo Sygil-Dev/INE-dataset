@@ -1,8 +1,15 @@
 afol
+blue sky
 capital ship
 category:ine
+cloud
+cloudy sky
+condensation trail
 creator:darryl temple
+day
+flying
 ground vehicle
+horizon
 jet
 ldd
 lego
@@ -10,7 +17,10 @@ medium:digital 3d
 minifig
 moc
 motor vehicle
+mountain
+ocean
 pirate
+rating:safe
 sky
 space ship
 subreddit:imaginaryaviation
