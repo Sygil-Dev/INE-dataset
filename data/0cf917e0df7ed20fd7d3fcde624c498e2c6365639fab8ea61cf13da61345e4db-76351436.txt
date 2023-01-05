@@ -1,27 +1,27 @@
-1girl
-black footwear
-boots
-broom
-broom riding
-full body
-gradient
-gradient background
-grey background
-hat
-holding broom
-long sleeves
-pants
-plaid
-plaid pants
-rating:safe
-red hair
-shirt
-short hair
-sidesaddle
-sitting
-solo
-subreddit:imaginarywitches
-title:witch by yago de amorim
-uploader:dancing_cthulhu
-witch
-witch hat
+1girl,
+black footwear,
+boots,
+broom,
+broom riding,
+full body,
+gradient,
+gradient background,
+grey background,
+hat,
+holding broom,
+long sleeves,
+pants,
+plaid,
+plaid pants,
+rating:safe,
+red hair,
+shirt,
+short hair,
+sidesaddle,
+sitting,
+solo,
+subreddit:imaginarywitches,
+title:witch by yago de amorim,
+uploader:dancing_cthulhu,
+witch,
+witch hat,

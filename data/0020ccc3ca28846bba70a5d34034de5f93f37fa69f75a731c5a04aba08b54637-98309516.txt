@@ -1,23 +1,23 @@
-artist name
-black background
-eldritch abomination
-full moon
-letterboxed
-moon
-night
-night sky
-rating:safe
-solo
-subreddit:imaginaryhorrors
-subreddit:imaginaryimmortals
-subreddit:imaginarynecronomicon
-subreddit:immonsters
-subreddit:imraces
-teeth
-tentacles
-title:the black pharaoh
-transparent background
-twitter username
-uploader:departedart
-watermark
-web address
+artist name,
+black background,
+eldritch abomination,
+full moon,
+letterboxed,
+moon,
+night,
+night sky,
+rating:safe,
+solo,
+subreddit:imaginaryhorrors,
+subreddit:imaginaryimmortals,
+subreddit:imaginarynecronomicon,
+subreddit:immonsters,
+subreddit:imraces,
+teeth,
+tentacles,
+title:the black pharaoh,
+transparent background,
+twitter username,
+uploader:departedart,
+watermark,
+web address,

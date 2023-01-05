@@ -1,19 +1,19 @@
-1boy
-backpack
-facing away
-fantasy
-forest
-grass
-hat
-moss
-nature
-outdoors
-rating:safe
-scenery
-signature
-subreddit:imaginarypathways
-title:garden by zach cohen
-tree
-uploader:sr_myers
-water
-weapon
+1boy,
+backpack,
+facing away,
+fantasy,
+forest,
+grass,
+hat,
+moss,
+nature,
+outdoors,
+rating:safe,
+scenery,
+signature,
+subreddit:imaginarypathways,
+title:garden by zach cohen,
+tree,
+uploader:sr_myers,
+water,
+weapon,

@@ -1,21 +1,21 @@
-1other
-bat wings
-character:remilia scarlet
-demon wings
-dragon
-dragon wings
-grey background
-greyscale
-hatching (texture)
-horns
-monochrome
-monster
-no humans
-rating:safe
-sharp teeth
-subreddit:imaginarymonsters
-teeth
-title:"cute strange guy" by me
-traditional media
-uploader:oribital_lizard
-wings
+1other,
+bat wings,
+character:remilia scarlet,
+demon wings,
+dragon,
+dragon wings,
+grey background,
+greyscale,
+hatching (texture),
+horns,
+monochrome,
+monster,
+no humans,
+rating:safe,
+sharp teeth,
+subreddit:imaginarymonsters,
+teeth,
+title:"cute strange guy" by me,
+traditional media,
+uploader:oribital_lizard,
+wings,

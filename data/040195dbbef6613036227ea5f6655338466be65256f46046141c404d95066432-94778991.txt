@@ -1,26 +1,26 @@
-artist name
-beach
-cloud
-fire
-moon
-no humans
-ocean
-outdoors
-painting (medium)
-rating:safe
-sand
-signature
-sky
-star (sky)
-subreddit:imaginarycolorscapes
-subreddit:imaginarymindscapes
-subreddit:imaginaryseascapes
-subreddit:imlandscapes
-title:"currents" , acrylic, 2021
-title:"currents", acrylic, 2021, by me
-title:currents, me, acrylic, 2021
-traditional media
-uploader:remembertobreatheart
-water
-watercolor (medium)
-waves
+artist name,
+beach,
+cloud,
+fire,
+moon,
+no humans,
+ocean,
+outdoors,
+painting (medium),
+rating:safe,
+sand,
+signature,
+sky,
+star (sky),
+subreddit:imaginarycolorscapes,
+subreddit:imaginarymindscapes,
+subreddit:imaginaryseascapes,
+subreddit:imlandscapes,
+title:"currents" , acrylic, 2021,
+title:"currents", acrylic, 2021, by me,
+title:currents, me, acrylic, 2021,
+traditional media,
+uploader:remembertobreatheart,
+water,
+watercolor (medium),
+waves,

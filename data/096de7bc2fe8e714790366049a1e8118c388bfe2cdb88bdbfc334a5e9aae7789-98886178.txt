@@ -1,42 +1,42 @@
-aurora
-beach
-boat
-bridge
-city
-city lights
-cloud
-constellation
-earth (planet)
-galaxy
-horizon
-island
-lake
-landscape
-light rays
-lightning
-milky way
-moon
-night
-night sky
-no humans
-ocean
-outdoors
-planet
-rating:safe
-river
-scenery
-ship
-shooting star
-shore
-sky
-space
-space craft
-sparkle
-star (sky)
-starry sky
-subreddit:imaginarykanto
-sunbeam
-title:dragonite by joshua dunlop
-uploader:miciy5
-water
-watercraft
+aurora,
+beach,
+boat,
+bridge,
+city,
+city lights,
+cloud,
+constellation,
+earth (planet),
+galaxy,
+horizon,
+island,
+lake,
+landscape,
+light rays,
+lightning,
+milky way,
+moon,
+night,
+night sky,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+river,
+scenery,
+ship,
+shooting star,
+shore,
+sky,
+space,
+space craft,
+sparkle,
+star (sky),
+starry sky,
+subreddit:imaginarykanto,
+sunbeam,
+title:dragonite by joshua dunlop,
+uploader:miciy5,
+water,
+watercraft,

@@ -1,53 +1,53 @@
-architecture
-bamboo
-bare tree
-beach
-blue sky
-branch
-building
-bush
-castle
-city
-cityscape
-cliff
-cloud
-cloudy sky
-day
-floating island
-foliage
-forest
-grass
-horizon
-house
-island
-ivy
-jungle
-lake
-lamppost
-leaf
-mountain
-nature
-no humans
-outdoors
-overgrown
-palm leaf
-palm tree
-path
-pine tree
-plant
-potted plant
-rating:safe
-road
-scenery
-sky
-street
-subreddit:imaginarytemples
-tanabata
-tanzaku
-title:persian temple by pablo palomeque
-tower
-tree
-tree shade
-uploader:l-ya
-vines
-waterfall
+architecture,
+bamboo,
+bare tree,
+beach,
+blue sky,
+branch,
+building,
+bush,
+castle,
+city,
+cityscape,
+cliff,
+cloud,
+cloudy sky,
+day,
+floating island,
+foliage,
+forest,
+grass,
+horizon,
+house,
+island,
+ivy,
+jungle,
+lake,
+lamppost,
+leaf,
+mountain,
+nature,
+no humans,
+outdoors,
+overgrown,
+palm leaf,
+palm tree,
+path,
+pine tree,
+plant,
+potted plant,
+rating:safe,
+road,
+scenery,
+sky,
+street,
+subreddit:imaginarytemples,
+tanabata,
+tanzaku,
+title:persian temple by pablo palomeque,
+tower,
+tree,
+tree shade,
+uploader:l-ya,
+vines,
+waterfall,

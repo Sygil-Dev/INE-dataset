@@ -1,23 +1,23 @@
-1girl
-artist name
-blue eyes
-blurry
-breasts
-depth of field
-elf
-grey background
-lips
-long hair
-looking at viewer
-nose
-photorealistic
-pointy ears
-rating:safe
-realistic
-signature
-solo
-subreddit:imaginarycharacters
-subreddit:imaginaryelves
-title:refecit initiis, me, 2023, digital
-uploader:cryd123
-upper body
+1girl,
+artist name,
+blue eyes,
+blurry,
+breasts,
+depth of field,
+elf,
+grey background,
+lips,
+long hair,
+looking at viewer,
+nose,
+photorealistic,
+pointy ears,
+rating:safe,
+realistic,
+signature,
+solo,
+subreddit:imaginarycharacters,
+subreddit:imaginaryelves,
+title:refecit initiis, me, 2023, digital,
+uploader:cryd123,
+upper body,

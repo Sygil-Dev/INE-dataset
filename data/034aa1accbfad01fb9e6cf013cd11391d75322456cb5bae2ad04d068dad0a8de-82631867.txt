@@ -1,25 +1,25 @@
-architecture
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-east asian architecture
-fantasy
-mountain
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:medieval mansion by gediminas skyrius
-tower
-uploader:lol33ta
-water
-waterfall
+architecture,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+east asian architecture,
+fantasy,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:medieval mansion by gediminas skyrius,
+tower,
+uploader:lol33ta,
+water,
+waterfall,

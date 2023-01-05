@@ -1,31 +1,31 @@
-1boy
-animal
-animal ears
-artist name
-bald
-blurry
-blurry background
-cape
-character:aang
-character:momo (avatar)
-closed mouth
-creator:devin elle kurtz
-from behind
-looking at viewer
-male focus
-meta:highres
-multicolored background
-no humans
-on shoulder
-rating:safe
-realistic
-red cape
-series:avatar (series)
-signature
-solo
-subreddit:imaginarypets
-subreddit:immeta
-tail
-tattoo
-title:momo by devin elle kurtz
-uploader:musaibwadkar
+1boy,
+animal,
+animal ears,
+artist name,
+bald,
+blurry,
+blurry background,
+cape,
+character:aang,
+character:momo (avatar),
+closed mouth,
+creator:devin elle kurtz,
+from behind,
+looking at viewer,
+male focus,
+meta:highres,
+multicolored background,
+no humans,
+on shoulder,
+rating:safe,
+realistic,
+red cape,
+series:avatar (series),
+signature,
+solo,
+subreddit:imaginarypets,
+subreddit:immeta,
+tail,
+tattoo,
+title:momo by devin elle kurtz,
+uploader:musaibwadkar,

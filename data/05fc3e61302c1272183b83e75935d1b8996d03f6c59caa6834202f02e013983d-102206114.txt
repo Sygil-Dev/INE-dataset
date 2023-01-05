@@ -1,29 +1,29 @@
-1boy
-american flag
-belt
-diffraction spikes
-energy gun
-energy sword
-explosion
-facial hair
-firing
-glint
-glowing
-gun
-laser
-lens flare
-lightsaber
-male focus
-mustache
-rating:safe
-realistic
-solo
-sparkle
-sparkle background
-sparks
-star (sky)
-star (symbol)
-subreddit:imaginarymarvel
-title:caps full on by john gallagher
-uploader:incredibel
-weapon
+1boy,
+american flag,
+belt,
+diffraction spikes,
+energy gun,
+energy sword,
+explosion,
+facial hair,
+firing,
+glint,
+glowing,
+gun,
+laser,
+lens flare,
+lightsaber,
+male focus,
+mustache,
+rating:safe,
+realistic,
+solo,
+sparkle,
+sparkle background,
+sparks,
+star (sky),
+star (symbol),
+subreddit:imaginarymarvel,
+title:caps full on by john gallagher,
+uploader:incredibel,
+weapon,

@@ -1,24 +1,24 @@
-autumn leaves
-bare tree
-blue sky
-branch
-cloud
-day
-dragon
-forest
-lake
-mountain
-mountainous horizon
-nature
-outdoors
-pine tree
-rating:safe
-scenery
-sky
-snow
-snowing
-subreddit:imaginarydwellings
-title:giant birth by avant choi
-tree
-uploader:malign-god
-winter
+autumn leaves,
+bare tree,
+blue sky,
+branch,
+cloud,
+day,
+dragon,
+forest,
+lake,
+mountain,
+mountainous horizon,
+nature,
+outdoors,
+pine tree,
+rating:safe,
+scenery,
+sky,
+snow,
+snowing,
+subreddit:imaginarydwellings,
+title:giant birth by avant choi,
+tree,
+uploader:malign-god,
+winter,

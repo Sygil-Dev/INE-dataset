@@ -1,39 +1,39 @@
-1boy
-bare tree
-burning
-cloud
-dusk
-embers
-evening
-fire
-flame
-flaming weapon
-gradient sky
-holding
-holding sword
-holding weapon
-male focus
-molten rock
-orange sky
-outdoors
-planted
-planted sword
-rating:safe
-red background
-red moon
-red sky
-red theme
-sky
-solo
-subreddit:imaginaryundead
-subreddit:immonsters
-sun
-sunset
-sword
-title:shepard of the undead horde by russell jones
-torch
-tree
-twilight
-uploader:disappointingreality
-volcano
-weapon
+1boy,
+bare tree,
+burning,
+cloud,
+dusk,
+embers,
+evening,
+fire,
+flame,
+flaming weapon,
+gradient sky,
+holding,
+holding sword,
+holding weapon,
+male focus,
+molten rock,
+orange sky,
+outdoors,
+planted,
+planted sword,
+rating:safe,
+red background,
+red moon,
+red sky,
+red theme,
+sky,
+solo,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+sun,
+sunset,
+sword,
+title:shepard of the undead horde by russell jones,
+torch,
+tree,
+twilight,
+uploader:disappointingreality,
+volcano,
+weapon,

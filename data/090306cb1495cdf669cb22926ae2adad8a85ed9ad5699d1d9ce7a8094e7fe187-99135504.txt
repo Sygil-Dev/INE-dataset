@@ -1,22 +1,22 @@
-6+boys
-architecture
-bridge
-building
-chimney
-city
-cityscape
-east asian architecture
-lantern
-multiple boys
-pagoda
-rating:safe
-rifle
-scenery
-sky
-street
-subreddit:imaginarytaverns
-title:we're adding a bunch of new taverns and pubs to our game, and we've got some glorious artwork for them!
-tower
-town
-uploader:sfgsam
-weapon
+6+boys,
+architecture,
+bridge,
+building,
+chimney,
+city,
+cityscape,
+east asian architecture,
+lantern,
+multiple boys,
+pagoda,
+rating:safe,
+rifle,
+scenery,
+sky,
+street,
+subreddit:imaginarytaverns,
+title:we're adding a bunch of new taverns and pubs to our game, and we've got some glorious artwork for them!,
+tower,
+town,
+uploader:sfgsam,
+weapon,

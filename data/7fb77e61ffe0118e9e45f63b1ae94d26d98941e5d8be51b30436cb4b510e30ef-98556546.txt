@@ -1,21 +1,21 @@
-blizzard
-creator:will murai
-diablo
-etc
-gender:female
-hearthstone
-heroes of the storm
-inarius
-jailer
-jaina
-kerrigan
-overwatch
-sojourn
-starcraft
-subreddit:imaginaryazeroth
-subreddit:imaginarywitches
-title:jaina - hearthstone
-title:jaina, will murai
-uploader:miciy5
-will murai
-world of warcraft
+blizzard,
+creator:will murai,
+diablo,
+etc,
+gender:female,
+hearthstone,
+heroes of the storm,
+inarius,
+jailer,
+jaina,
+kerrigan,
+overwatch,
+sojourn,
+starcraft,
+subreddit:imaginaryazeroth,
+subreddit:imaginarywitches,
+title:jaina - hearthstone,
+title:jaina, will murai,
+uploader:miciy5,
+will murai,
+world of warcraft,

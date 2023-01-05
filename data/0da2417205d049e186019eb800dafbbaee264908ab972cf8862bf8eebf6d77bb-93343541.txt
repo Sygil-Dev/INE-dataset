@@ -1,31 +1,31 @@
-1girl
-air bubble
-animal
-aquarium
-beach
-bird
-boat
-bubble
-caustics
-dolphin
-fish
-hat
-horizon
-ocean
-pool
-rating:safe
-scenery
-standing on liquid
-subreddit:imaginarydragons
-subreddit:immonsters
-swimming
-title:"little hero" by mickaël bois
-underwater
-uploader:nikephoros_ii_phokas
-wading
-walking on liquid
-water
-watercraft
-waves
-weapon
-whale
+1girl,
+air bubble,
+animal,
+aquarium,
+beach,
+bird,
+boat,
+bubble,
+caustics,
+dolphin,
+fish,
+hat,
+horizon,
+ocean,
+pool,
+rating:safe,
+scenery,
+standing on liquid,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+swimming,
+title:"little hero" by mickaël bois,
+underwater,
+uploader:nikephoros_ii_phokas,
+wading,
+walking on liquid,
+water,
+watercraft,
+waves,
+weapon,
+whale,

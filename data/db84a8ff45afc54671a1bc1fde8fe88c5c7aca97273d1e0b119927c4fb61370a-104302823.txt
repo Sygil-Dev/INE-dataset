@@ -1,43 +1,43 @@
-architecture
-artist name
-bare tree
-border
-branch
-building
-bush
-castle
-cherry blossoms
-colored pencil (medium)
-day
-east asian architecture
-fence
-fog
-forest
-gate
-house
-lamppost
-mountain
-mountainous horizon
-nature
-no humans
-outdoors
-painting (medium)
-palm tree
-path
-pine tree
-plant
-rating:safe
-road
-scenery
-shrine
-sky
-snow
-snowing
-stone lantern
-subreddit:imaginarylandscapes
-title:a winter scene, me, watercolor, 2022
-traditional media
-tree
-uploader:annikahannah
-watercolor (medium)
-winter
+architecture,
+artist name,
+bare tree,
+border,
+branch,
+building,
+bush,
+castle,
+cherry blossoms,
+colored pencil (medium),
+day,
+east asian architecture,
+fence,
+fog,
+forest,
+gate,
+house,
+lamppost,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+outdoors,
+painting (medium),
+palm tree,
+path,
+pine tree,
+plant,
+rating:safe,
+road,
+scenery,
+shrine,
+sky,
+snow,
+snowing,
+stone lantern,
+subreddit:imaginarylandscapes,
+title:a winter scene, me, watercolor, 2022,
+traditional media,
+tree,
+uploader:annikahannah,
+watercolor (medium),
+winter,

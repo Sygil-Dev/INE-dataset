@@ -1,23 +1,23 @@
-#ero
-#flamethrower
-#gears
-#girl
-#mario_wibisono
-#post apocalypse
-#raynkazuya
-#tattoo
-armor
-bikini
-bikini armor
-clothing:armor
-creator:mario wibisono
-gender:female
-impractical armor
-medium:digital 2d
-revealing armor
-subreddit:imaginaryboners
-subreddit:impracticalarmour
-swimsuit
-title:ignis
-title:ignis by mario wibisono
-uploader:barson2408
+#ero,
+#flamethrower,
+#gears,
+#girl,
+#mario_wibisono,
+#post apocalypse,
+#raynkazuya,
+#tattoo,
+armor,
+bikini,
+bikini armor,
+clothing:armor,
+creator:mario wibisono,
+gender:female,
+impractical armor,
+medium:digital 2d,
+revealing armor,
+subreddit:imaginaryboners,
+subreddit:impracticalarmour,
+swimsuit,
+title:ignis,
+title:ignis by mario wibisono,
+uploader:barson2408,

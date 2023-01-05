@@ -1,31 +1,31 @@
-anthro
-character:mariel gullwhacker
-clothed
-clothing
-creator:sandara
-day
-detailed background
-feet
-female
-fingers
-group
-meta:2021
-meta:digital media (artwork)
-meta:hi res
-outside
-rating:safe
-series:redwall
-sky
-smile
-species:avian
-species:bird
-species:mammal
-species:mouse
-species:murid
-species:murine
-species:rodent
-subreddit:imaginaryaww
-subreddit:immeta
-title:redwall - mariel gullwhacker by sandara
-toes
-uploader:lol33ta
+anthro,
+character:mariel gullwhacker,
+clothed,
+clothing,
+creator:sandara,
+day,
+detailed background,
+feet,
+female,
+fingers,
+group,
+meta:2021,
+meta:digital media (artwork),
+meta:hi res,
+outside,
+rating:safe,
+series:redwall,
+sky,
+smile,
+species:avian,
+species:bird,
+species:mammal,
+species:mouse,
+species:murid,
+species:murine,
+species:rodent,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:redwall - mariel gullwhacker by sandara,
+toes,
+uploader:lol33ta,

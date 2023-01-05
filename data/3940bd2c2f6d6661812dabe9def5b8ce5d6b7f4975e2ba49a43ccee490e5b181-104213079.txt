@@ -1,27 +1,27 @@
-bacon & hams
-bacon and hams
-bricks
-cables
-cyberpunk
-facial hair
-garage
-gloves
-green skin
-gun
-hat
-holding wrench
-long ears
-mecha
-multiple boys
-rating:safe
-shop sign
-short ears
-species:elf
-species:orc
-steampunk
-subreddit:imaginarysteampunk
-title:bacon and hams by un lee
-uploader:lol33ta
-vest
-weapon
-wrench
+bacon & hams,
+bacon and hams,
+bricks,
+cables,
+cyberpunk,
+facial hair,
+garage,
+gloves,
+green skin,
+gun,
+hat,
+holding wrench,
+long ears,
+mecha,
+multiple boys,
+rating:safe,
+shop sign,
+short ears,
+species:elf,
+species:orc,
+steampunk,
+subreddit:imaginarysteampunk,
+title:bacon and hams by un lee,
+uploader:lol33ta,
+vest,
+weapon,
+wrench,

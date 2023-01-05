@@ -1,26 +1,26 @@
-axe
-blizz
-book illustration
-creator:aleksa stajsic
-dnd
-dungeons and dragons
-dwarf
-dwarf protector
-dwarf warrior
-fantasy
-medium:digital 2d
-stylized
-subreddit:imaginaryarmor
-subreddit:imaginaryaww
-subreddit:imaginaryknights
-subreddit:imaginarywarriors
-subreddit:imaginaryweaponry
-subreddit:imcharacters
-subreddit:immeta
-subreddit:imtechnology
-title:dwarf protector
-title:dwarf protector, aleksa stajsic
-uploader:al3ks4
-warcraft
-warrior
-wow
+axe,
+blizz,
+book illustration,
+creator:aleksa stajsic,
+dnd,
+dungeons and dragons,
+dwarf,
+dwarf protector,
+dwarf warrior,
+fantasy,
+medium:digital 2d,
+stylized,
+subreddit:imaginaryarmor,
+subreddit:imaginaryaww,
+subreddit:imaginaryknights,
+subreddit:imaginarywarriors,
+subreddit:imaginaryweaponry,
+subreddit:imcharacters,
+subreddit:immeta,
+subreddit:imtechnology,
+title:dwarf protector,
+title:dwarf protector, aleksa stajsic,
+uploader:al3ks4,
+warcraft,
+warrior,
+wow,

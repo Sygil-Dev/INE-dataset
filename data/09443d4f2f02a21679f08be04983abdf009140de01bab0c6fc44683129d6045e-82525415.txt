@@ -1,33 +1,33 @@
-architecture
-blue sky
-bridge
-building
-castle
-city
-cityscape
-clock
-clock tower
-cloud
-cloudy sky
-day
-fantasy
-gate
-house
-landscape
-mountain
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-stairs
-subreddit:imaginaryarchitecture
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:rivendell by charlotte kügler
-tower
-uploader:blood-n-cheese
-uploader:gilgameshwulfenbach
-water
-waterfall
+architecture,
+blue sky,
+bridge,
+building,
+castle,
+city,
+cityscape,
+clock,
+clock tower,
+cloud,
+cloudy sky,
+day,
+fantasy,
+gate,
+house,
+landscape,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+stairs,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:rivendell by charlotte kügler,
+tower,
+uploader:blood-n-cheese,
+uploader:gilgameshwulfenbach,
+water,
+waterfall,

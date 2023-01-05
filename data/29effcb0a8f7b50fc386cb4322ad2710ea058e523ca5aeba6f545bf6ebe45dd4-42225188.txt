@@ -1,42 +1,42 @@
-aloe vera
-aloe_vera
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-claws
-creator:cryptid-creations
-feral
-flower pot
-flower_pot
-gender:ambiguous
-humor
-language:english
-medium:english text
-medium:simple background
-medium:text
-medium:white background
-meta:english text
-meta:english_text
-meta:url
-plant
-pun
-rating:safe
-simple background
-simple_background
-solo
-species:elemental creature
-species:elemental_creature
-species:flora fauna
-species:flora_fauna
-species:mammal
-species:ursid
-subreddit:imaginaryaww
-text
-title:aloe beara cryptid-creations
-uploader:lol33ta
-visual pun
-visual_pun
-white background
-white_background
+aloe vera,
+aloe_vera,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+claws,
+creator:cryptid-creations,
+feral,
+flower pot,
+flower_pot,
+gender:ambiguous,
+humor,
+language:english,
+medium:english text,
+medium:simple background,
+medium:text,
+medium:white background,
+meta:english text,
+meta:english_text,
+meta:url,
+plant,
+pun,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:elemental creature,
+species:elemental_creature,
+species:flora fauna,
+species:flora_fauna,
+species:mammal,
+species:ursid,
+subreddit:imaginaryaww,
+text,
+title:aloe beara cryptid-creations,
+uploader:lol33ta,
+visual pun,
+visual_pun,
+white background,
+white_background,

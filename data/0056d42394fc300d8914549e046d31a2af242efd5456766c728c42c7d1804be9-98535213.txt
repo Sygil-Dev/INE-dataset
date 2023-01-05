@@ -1,24 +1,24 @@
-animal
-armor
-bare tree
-bat
-bird
-cape
-copyright name
-crow
-dragon
-gauntlets
-holding
-holding sword
-holding weapon
-mountain
-outdoors
-rating:safe
-solo
-standing
-subreddit:imaginarydragons
-sword
-title:"dragon" by erak note
-tree
-uploader:nikephoros_ii_phokas
-weapon
+animal,
+armor,
+bare tree,
+bat,
+bird,
+cape,
+copyright name,
+crow,
+dragon,
+gauntlets,
+holding,
+holding sword,
+holding weapon,
+mountain,
+outdoors,
+rating:safe,
+solo,
+standing,
+subreddit:imaginarydragons,
+sword,
+title:"dragon" by erak note,
+tree,
+uploader:nikephoros_ii_phokas,
+weapon,

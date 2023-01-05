@@ -1,28 +1,28 @@
-2d
-#mattepaintcontest
-concept
-creator:. falconi
-dark
-design
-digital
-dmp
-dragon
-dramatic
-environment
-epic
-fantasy
-illustration
-lair
-landscape
-matte
-medium:digital 2d
-mentorship
-mountain
-painting
-subreddit:imaginarywildlands
-subreddit:imlandscapes
-sunrise
-title:dragon's lair - wip
-title:dragon's lair wip art by falconi
-uploader:racconccity
-valley
+2d,
+#mattepaintcontest,
+concept,
+creator:. falconi,
+dark,
+design,
+digital,
+dmp,
+dragon,
+dramatic,
+environment,
+epic,
+fantasy,
+illustration,
+lair,
+landscape,
+matte,
+medium:digital 2d,
+mentorship,
+mountain,
+painting,
+subreddit:imaginarywildlands,
+subreddit:imlandscapes,
+sunrise,
+title:dragon's lair - wip,
+title:dragon's lair wip art by falconi,
+uploader:racconccity,
+valley,

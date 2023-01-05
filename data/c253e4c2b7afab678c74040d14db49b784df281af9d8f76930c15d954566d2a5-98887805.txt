@@ -1,36 +1,36 @@
-1boy
-1girl
-black cloak
-book
-character:blaidd the half-wolf
-character:ranni the witch
-cloak
-colored skin
-creator:genel jumalon
-extra arms
-furry
-furry male
-greatsword
-hat
-holding
-holding sword
-holding weapon
-long sleeves
-meta:commentary
-meta:english commentary
-meta:highres
-open book
-over shoulder
-rating:general
-series:elden ring
-sitting
-subreddit:imaginarydarksouls
-sword
-sword over shoulder
-title:guardian and mistress, by genel jumalon
-uploader:tabulaerrata
-watermark
-weapon
-weapon over shoulder
-witch
-witch hat
+1boy,
+1girl,
+black cloak,
+book,
+character:blaidd the half-wolf,
+character:ranni the witch,
+cloak,
+colored skin,
+creator:genel jumalon,
+extra arms,
+furry,
+furry male,
+greatsword,
+hat,
+holding,
+holding sword,
+holding weapon,
+long sleeves,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+open book,
+over shoulder,
+rating:general,
+series:elden ring,
+sitting,
+subreddit:imaginarydarksouls,
+sword,
+sword over shoulder,
+title:guardian and mistress, by genel jumalon,
+uploader:tabulaerrata,
+watermark,
+weapon,
+weapon over shoulder,
+witch,
+witch hat,

@@ -1,48 +1,48 @@
-beach
-bird
-blue sky
-boots
-bush
-cloud
-cloudy sky
-day
-field
-fisheye
-grass
-ground vehicle
-hat
-hill
-horizon
-house
-island
-lake
-landscape
-mountain
-mountainous horizon
-multiple boys
-nature
-ocean
-on grass
-outdoors
-pants
-path
-plant
-pond
-rating:safe
-river
-road
-rock
-scenery
-sky
-standing
-subreddit:ebonyimagination
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-subreddit:wholesomefantasyart
-title:the adventure begins by anna kosik
-tree
-uploader:i_burn_cereal
-uploader:lol33ta
-water
-waterfall
-windmill
+beach,
+bird,
+blue sky,
+boots,
+bush,
+cloud,
+cloudy sky,
+day,
+field,
+fisheye,
+grass,
+ground vehicle,
+hat,
+hill,
+horizon,
+house,
+island,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+multiple boys,
+nature,
+ocean,
+on grass,
+outdoors,
+pants,
+path,
+plant,
+pond,
+rating:safe,
+river,
+road,
+rock,
+scenery,
+sky,
+standing,
+subreddit:ebonyimagination,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+subreddit:wholesomefantasyart,
+title:the adventure begins by anna kosik,
+tree,
+uploader:i_burn_cereal,
+uploader:lol33ta,
+water,
+waterfall,
+windmill,

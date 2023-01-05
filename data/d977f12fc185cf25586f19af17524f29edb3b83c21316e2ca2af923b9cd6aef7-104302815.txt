@@ -1,19 +1,19 @@
-6+boys
-armor
-axe
-bow (weapon)
-helmet
-holding sword
-holding weapon
-monster
-multiple boys
-polearm
-rating:safe
-spikes
-subreddit:imaginarybattlefields
-subreddit:imaginarydragons
-sword
-teeth
-title:kingdoms &amp; warfare - cover art by gustavo pelissari
-uploader:rajahbeaubeau
-weapon
+6+boys,
+armor,
+axe,
+bow (weapon),
+helmet,
+holding sword,
+holding weapon,
+monster,
+multiple boys,
+polearm,
+rating:safe,
+spikes,
+subreddit:imaginarybattlefields,
+subreddit:imaginarydragons,
+sword,
+teeth,
+title:kingdoms &amp; warfare - cover art by gustavo pelissari,
+uploader:rajahbeaubeau,
+weapon,

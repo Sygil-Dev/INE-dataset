@@ -1,33 +1,33 @@
-battle
-breathing fire
-burning
-campfire
-character:godzilla
-cloud
-cloudy sky
-dragon
-embers
-explosion
-fire
-flame
-flaming sword
-flaming weapon
-kaijuu
-letterboxed
-molten rock
-monster
-mountain
-mountainous horizon
-orange sky
-rating:safe
-red sky
-scenery
-sky
-smoke
-subreddit:imaginaryvolcanoes
-sun
-sunset
-title:mass effect andromeda - volcanonado by shaddy safadi
-torch
-uploader:[deleted]
-volcano
+battle,
+breathing fire,
+burning,
+campfire,
+character:godzilla,
+cloud,
+cloudy sky,
+dragon,
+embers,
+explosion,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+kaijuu,
+letterboxed,
+molten rock,
+monster,
+mountain,
+mountainous horizon,
+orange sky,
+rating:safe,
+red sky,
+scenery,
+sky,
+smoke,
+subreddit:imaginaryvolcanoes,
+sun,
+sunset,
+title:mass effect andromeda - volcanonado by shaddy safadi,
+torch,
+uploader:[deleted],
+volcano,

@@ -1,26 +1,26 @@
-bridge
-bush
-cloud
-cloudy sky
-day
-fantasy
-floating island
-forest
-grass
-lake
-landscape
-moss
-mountain
-nature
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginaryportals
-sunlight
-title:portal by arix af
-tree
-uploader:i_burn_cereal
-waterfall
+bridge,
+bush,
+cloud,
+cloudy sky,
+day,
+fantasy,
+floating island,
+forest,
+grass,
+lake,
+landscape,
+moss,
+mountain,
+nature,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginaryportals,
+sunlight,
+title:portal by arix af,
+tree,
+uploader:i_burn_cereal,
+waterfall,

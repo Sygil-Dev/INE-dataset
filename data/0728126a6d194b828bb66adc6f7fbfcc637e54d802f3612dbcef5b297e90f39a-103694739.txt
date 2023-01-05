@@ -1,33 +1,33 @@
-beach
-cloud
-desert
-dusk
-evening
-gradient sky
-gun
-horizon
-mecha
-mountain
-mountainous horizon
-ocean
-orange sky
-outdoors
-rating:safe
-realistic
-rifle
-sand
-scenery
-science fiction
-shore
-signature
-sky
-subreddit:imaginarywastelands
-sun
-sunrise
-sunset
-title:junker by eddie del rio
-twilight
-uploader:lol33ta
-water
-weapon
-yellow sky
+beach,
+cloud,
+desert,
+dusk,
+evening,
+gradient sky,
+gun,
+horizon,
+mecha,
+mountain,
+mountainous horizon,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+realistic,
+rifle,
+sand,
+scenery,
+science fiction,
+shore,
+signature,
+sky,
+subreddit:imaginarywastelands,
+sun,
+sunrise,
+sunset,
+title:junker by eddie del rio,
+twilight,
+uploader:lol33ta,
+water,
+weapon,
+yellow sky,

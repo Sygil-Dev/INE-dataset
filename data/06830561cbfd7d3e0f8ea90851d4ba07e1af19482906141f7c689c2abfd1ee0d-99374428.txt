@@ -1,21 +1,21 @@
-1girl
-artist name
-colored skin
-glowing
-glowing eyes
-long hair
-night
-night sky
-pointy ears
-purple hair
-purple skin
-rating:safe
-signature
-sky
-solo
-star (sky)
-starry sky
-subreddit:imaginaryazeroth
-title:fiendras rav'sial by filigreen art
-uploader:lol33ta
-yellow eyes
+1girl,
+artist name,
+colored skin,
+glowing,
+glowing eyes,
+long hair,
+night,
+night sky,
+pointy ears,
+purple hair,
+purple skin,
+rating:safe,
+signature,
+sky,
+solo,
+star (sky),
+starry sky,
+subreddit:imaginaryazeroth,
+title:fiendras rav'sial by filigreen art,
+uploader:lol33ta,
+yellow eyes,

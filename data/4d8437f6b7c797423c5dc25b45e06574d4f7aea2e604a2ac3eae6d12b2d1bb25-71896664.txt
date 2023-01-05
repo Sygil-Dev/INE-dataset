@@ -1,44 +1,44 @@
-asteroid ill
-booru:sankaku
-character:eternatus
-character:eternatus (normal)
-character:flygon
-character:gen 3 pokemon
-character:gen 8 pokemon
-character:legendary pokemon
-character:pokemon species
-cloud
-clouds
-cloudy sky
-creator:asteroid ill
-energy
-eternatus (normal)
-from below
-gen 3 pokemon
-gen 8 pokemon
-highres
-legendary pokemon
-medium:high resolution
-medium:very high resolution
-meta:absurdres
-meta:commentary request
-meta:highres
-no humans
-outdoors
-pokemon (creature)
-rain
-rating:general
-rating:s
-rating:safe
-riding
-riding pokemon
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-sky
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:encountering eternatus by asteroid_ill
-uploader:pardusco
-viewed from below
+asteroid ill,
+booru:sankaku,
+character:eternatus,
+character:eternatus (normal),
+character:flygon,
+character:gen 3 pokemon,
+character:gen 8 pokemon,
+character:legendary pokemon,
+character:pokemon species,
+cloud,
+clouds,
+cloudy sky,
+creator:asteroid ill,
+energy,
+eternatus (normal),
+from below,
+gen 3 pokemon,
+gen 8 pokemon,
+highres,
+legendary pokemon,
+medium:high resolution,
+medium:very high resolution,
+meta:absurdres,
+meta:commentary request,
+meta:highres,
+no humans,
+outdoors,
+pokemon (creature),
+rain,
+rating:general,
+rating:s,
+rating:safe,
+riding,
+riding pokemon,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+sky,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:encountering eternatus by asteroid_ill,
+uploader:pardusco,
+viewed from below,

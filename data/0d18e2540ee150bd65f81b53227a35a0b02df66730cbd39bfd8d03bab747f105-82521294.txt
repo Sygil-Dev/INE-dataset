@@ -1,27 +1,27 @@
-1girl
-bandolier
-belt
-black hair
-breasts
-dual wielding
-finger on trigger
-gas mask
-gloves
-gun
-handgun
-holding
-holding gun
-holding weapon
-holster
-mask
-pistol
-pouch
-rating:safe
-red eyes
-shotgun
-solo
-subreddit:imaginarycowboys
-subreddit:imcharacters
-title:deadeye by me
-uploader:mewthreex
-weapon
+1girl,
+bandolier,
+belt,
+black hair,
+breasts,
+dual wielding,
+finger on trigger,
+gas mask,
+gloves,
+gun,
+handgun,
+holding,
+holding gun,
+holding weapon,
+holster,
+mask,
+pistol,
+pouch,
+rating:safe,
+red eyes,
+shotgun,
+solo,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+title:deadeye by me,
+uploader:mewthreex,
+weapon,

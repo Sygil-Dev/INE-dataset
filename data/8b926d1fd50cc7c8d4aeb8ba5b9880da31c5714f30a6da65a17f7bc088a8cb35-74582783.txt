@@ -1,29 +1,29 @@
-blurry
-character:sentret
-creator:rend
-gen 2 pokemon
-grass
-looking to the side
-meta:commentary request
-meta:highres
-no humans
-one-hour drawing challenge
-open mouth
-outdoors
-poke ball
-poke ball (basic)
-pokemon (creature)
-rating:safe
-rend
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-snow
-snowing
-solid oval eyes
-standing
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:snowy sentret by rend
-uploader:hornyheracross
+blurry,
+character:sentret,
+creator:rend,
+gen 2 pokemon,
+grass,
+looking to the side,
+meta:commentary request,
+meta:highres,
+no humans,
+one-hour drawing challenge,
+open mouth,
+outdoors,
+poke ball,
+poke ball (basic),
+pokemon (creature),
+rating:safe,
+rend,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+snow,
+snowing,
+solid oval eyes,
+standing,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:snowy sentret by rend,
+uploader:hornyheracross,

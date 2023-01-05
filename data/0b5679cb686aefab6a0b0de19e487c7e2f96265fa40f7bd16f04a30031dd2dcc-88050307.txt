@@ -1,24 +1,24 @@
-architecture
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-fantasy
-mountain
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryarchitecture
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-sunset
-title:persian city by artist pengzhen zhang
-title:persian city by pengzhen zhang
-tower
-uploader:anon_ymou5
-uploader:lol33ta
+architecture,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+fantasy,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+sunset,
+title:persian city by artist pengzhen zhang,
+title:persian city by pengzhen zhang,
+tower,
+uploader:anon_ymou5,
+uploader:lol33ta,

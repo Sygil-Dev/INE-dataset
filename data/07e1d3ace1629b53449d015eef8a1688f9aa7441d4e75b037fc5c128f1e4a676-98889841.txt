@@ -1,21 +1,21 @@
-artist name
-building
-city
-cloud
-cloudy sky
-dark
-grey sky
-grey theme
-hood
-outdoors
-overcast
-profile
-rating:safe
-realistic
-signature
-sky
-solo
-subreddit:imaginaryexplosions
-title:shooting stars by yuri shwedoff
-uploader:[deleted]
-upper body
+artist name,
+building,
+city,
+cloud,
+cloudy sky,
+dark,
+grey sky,
+grey theme,
+hood,
+outdoors,
+overcast,
+profile,
+rating:safe,
+realistic,
+signature,
+sky,
+solo,
+subreddit:imaginaryexplosions,
+title:shooting stars by yuri shwedoff,
+uploader:[deleted],
+upper body,

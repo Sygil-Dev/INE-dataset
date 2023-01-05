@@ -1,41 +1,41 @@
-bed
-building
-car
-carpet
-cloud
-creator:demizu posuka
-creator:pone
-creator:ポ～ン（出水ぽすか）
-cross section
-fisheye
-ground vehicle
-house
-indoors
-kitchen
-lamp
-maid
-meta:translation request
-motor vehicle
-plant
-rating:safe
-rating:sensitive
-road
-rooftop
-scenery
-series:original
-shelf
-stairs
-street
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-television
-title:car house by ポ～ン
-title:車の家
-tree
-uploader:karmaismyb1tch
-wheel
-window
-オリジナル3000users入り
-創作
-建築
-断面図
+bed,
+building,
+car,
+carpet,
+cloud,
+creator:demizu posuka,
+creator:pone,
+creator:ポ～ン（出水ぽすか）,
+cross section,
+fisheye,
+ground vehicle,
+house,
+indoors,
+kitchen,
+lamp,
+maid,
+meta:translation request,
+motor vehicle,
+plant,
+rating:safe,
+rating:sensitive,
+road,
+rooftop,
+scenery,
+series:original,
+shelf,
+stairs,
+street,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+television,
+title:car house by ポ～ン,
+title:車の家,
+tree,
+uploader:karmaismyb1tch,
+wheel,
+window,
+オリジナル3000users入り,
+創作,
+建築,
+断面図,

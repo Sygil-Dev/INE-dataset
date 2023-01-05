@@ -1,33 +1,33 @@
-assault rifle
-beam rifle
-blurry background
-bullpup
-gatling gun
-gun
-handgun
-heckler & koch
-helmet
-holding gun
-kalashnikov rifle
-lights
-m4 carbine
-machine gun
-machinery
-magazine (weapon)
-mecha
-military
-power armor
-rating:safe
-realistic
-rifle
-rocket launcher
-science fiction
-scope
-shotgun
-solo
-submachine gun
-subreddit:imaginaryjedi
-title:post ot alternate timeline — empire eternal stormtroopers by me
-trigger discipline
-uploader:sentinelsquadron
-weapon
+assault rifle,
+beam rifle,
+blurry background,
+bullpup,
+gatling gun,
+gun,
+handgun,
+heckler & koch,
+helmet,
+holding gun,
+kalashnikov rifle,
+lights,
+m4 carbine,
+machine gun,
+machinery,
+magazine (weapon),
+mecha,
+military,
+power armor,
+rating:safe,
+realistic,
+rifle,
+rocket launcher,
+science fiction,
+scope,
+shotgun,
+solo,
+submachine gun,
+subreddit:imaginaryjedi,
+title:post ot alternate timeline — empire eternal stormtroopers by me,
+trigger discipline,
+uploader:sentinelsquadron,
+weapon,

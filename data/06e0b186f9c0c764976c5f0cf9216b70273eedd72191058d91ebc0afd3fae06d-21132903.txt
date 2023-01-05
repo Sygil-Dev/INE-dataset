@@ -1,73 +1,73 @@
-antennae
-bee
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-bug
-butterfly
-butterfly wings
-character:beedrill
-character:butterfree
-character:caterpie
-character:kakuna
-character:metapod
-character:weedle
-colored sclera
-commentary
-creator:francis lumanog
-creature
-english commentary
-evolution
-eye contact
-fangs
-flying
-francis lumanog
-full body
-gen 1 pokemon
-gradient
-happy
-holding
-holding pokemon
-horn
-horns
-insect
-insect wings
-looking at another
-medium:simple background
-medium:white background
-meta:commentary
-meta:english commentary
-no humans
-orange eyes
-pink eyes
-pokemon (creature)
-rating:mature
-rating:safe
-series:creatures (company)
-series:game freak
-series:pokemon
-series:pokémon
-simple background
-species:arthropod
-species:beedrill
-species:butterfree
-species:caterpie
-species:insect
-species:kakuna
-species:metapod
-species:monster
-species:pokémon
-species:weedle
-stading
-standing
-standing on one leg
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:beedrill and butterfree families by francis-john
-uploader:lol33ta
-white background
-wings
+antennae,
+bee,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+bug,
+butterfly,
+butterfly wings,
+character:beedrill,
+character:butterfree,
+character:caterpie,
+character:kakuna,
+character:metapod,
+character:weedle,
+colored sclera,
+commentary,
+creator:francis lumanog,
+creature,
+english commentary,
+evolution,
+eye contact,
+fangs,
+flying,
+francis lumanog,
+full body,
+gen 1 pokemon,
+gradient,
+happy,
+holding,
+holding pokemon,
+horn,
+horns,
+insect,
+insect wings,
+looking at another,
+medium:simple background,
+medium:white background,
+meta:commentary,
+meta:english commentary,
+no humans,
+orange eyes,
+pink eyes,
+pokemon (creature),
+rating:mature,
+rating:safe,
+series:creatures (company),
+series:game freak,
+series:pokemon,
+series:pokémon,
+simple background,
+species:arthropod,
+species:beedrill,
+species:butterfree,
+species:caterpie,
+species:insect,
+species:kakuna,
+species:metapod,
+species:monster,
+species:pokémon,
+species:weedle,
+stading,
+standing,
+standing on one leg,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:beedrill and butterfree families by francis-john,
+uploader:lol33ta,
+white background,
+wings,

@@ -1,22 +1,22 @@
-1girl
-2boys
-border
-english text
-gun
-handgun
-hat
-holding gun
-letterboxed
-multiple boys
-open mouth
-orange background
-orange sky
-orange theme
-pistol
-rating:safe
-subreddit:imaginarypolice
-sunset
-title:"vfdvfxvfdg" by sinnykitt
-uniform
-uploader:yannirotten
-weapon
+1girl,
+2boys,
+border,
+english text,
+gun,
+handgun,
+hat,
+holding gun,
+letterboxed,
+multiple boys,
+open mouth,
+orange background,
+orange sky,
+orange theme,
+pistol,
+rating:safe,
+subreddit:imaginarypolice,
+sunset,
+title:"vfdvfxvfdg" by sinnykitt,
+uniform,
+uploader:yannirotten,
+weapon,

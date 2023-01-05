@@ -1,34 +1,34 @@
-1girl
-belt
-blonde hair
-blurry
-blurry background
-blurry foreground
-elf
-english text
-gloves
-green eyes
-hairband
-holding
-long hair
-open mouth
-pointy ears
-rating:safe
-shield
-solo
-subreddit:imaginaryarmor
-subreddit:imaginaryazeroth
-subreddit:imaginarybattlefields
-subreddit:imaginaryelves
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imfandoms
-subreddit:imlandscapes
-subreddit:imraces
-subreddit:imtechnology
-teeth
-title:remember teh sunwell [@letterjei]
-title:remember the sunwell [@letterjei]
-uploader:brushregret
-uploader:rabbitnexus
-weapon
+1girl,
+belt,
+blonde hair,
+blurry,
+blurry background,
+blurry foreground,
+elf,
+english text,
+gloves,
+green eyes,
+hairband,
+holding,
+long hair,
+open mouth,
+pointy ears,
+rating:safe,
+shield,
+solo,
+subreddit:imaginaryarmor,
+subreddit:imaginaryazeroth,
+subreddit:imaginarybattlefields,
+subreddit:imaginaryelves,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imfandoms,
+subreddit:imlandscapes,
+subreddit:imraces,
+subreddit:imtechnology,
+teeth,
+title:remember teh sunwell [@letterjei],
+title:remember the sunwell [@letterjei],
+uploader:brushregret,
+uploader:rabbitnexus,
+weapon,

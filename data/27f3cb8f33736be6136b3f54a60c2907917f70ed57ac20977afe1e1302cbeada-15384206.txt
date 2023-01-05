@@ -1,61 +1,61 @@
-1 female
-animal print
-anime style
-black hair
-blue bow
-blue neckwear
-blue skirt
-blush
-bow
-bowtie
-butterfly
-butterfly net
-butterfly print
-checkered
-checkered skirt
-closed mouth
-creator:radittz
-deviantart
-flower
-frilled sleeves
-frills
-gender:female
-girl
-hand net
-holding
-holding net
-long hair
-looking away
-magicalgirl
-medium:artist name
-medium:high resolution
-medium:watermark
-meta:commentary
-meta:highres
-monarch butterfly
-net
-puffy short sleeves
-puffy sleeves
-radittz
-rating:mature
-rating:safe
-red legwear
-series:original
-shirt
-short sleeves
-skirt
-smile
-solo
-striped
-striped bow
-striped legwear
-striped neckwear
-subreddit:imaginaryfashion
-title:butterfly collector dress
-title:butterfly collector dress by radittz
-uploader:lol33ta
-vertical stripes
-vertical-striped legwear
-very long hair
-watermark
-white shirt
+1 female,
+animal print,
+anime style,
+black hair,
+blue bow,
+blue neckwear,
+blue skirt,
+blush,
+bow,
+bowtie,
+butterfly,
+butterfly net,
+butterfly print,
+checkered,
+checkered skirt,
+closed mouth,
+creator:radittz,
+deviantart,
+flower,
+frilled sleeves,
+frills,
+gender:female,
+girl,
+hand net,
+holding,
+holding net,
+long hair,
+looking away,
+magicalgirl,
+medium:artist name,
+medium:high resolution,
+medium:watermark,
+meta:commentary,
+meta:highres,
+monarch butterfly,
+net,
+puffy short sleeves,
+puffy sleeves,
+radittz,
+rating:mature,
+rating:safe,
+red legwear,
+series:original,
+shirt,
+short sleeves,
+skirt,
+smile,
+solo,
+striped,
+striped bow,
+striped legwear,
+striped neckwear,
+subreddit:imaginaryfashion,
+title:butterfly collector dress,
+title:butterfly collector dress by radittz,
+uploader:lol33ta,
+vertical stripes,
+vertical-striped legwear,
+very long hair,
+watermark,
+white shirt,

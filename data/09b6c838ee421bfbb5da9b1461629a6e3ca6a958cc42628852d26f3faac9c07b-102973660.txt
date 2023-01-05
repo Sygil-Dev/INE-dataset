@@ -1,32 +1,32 @@
-beach
-blue sky
-boat
-bridge
-building
-city
-cloud
-cloudy sky
-day
-fantasy
-horizon
-island
-lake
-landscape
-mountain
-ocean
-outdoors
-rating:safe
-river
-rock
-ruins
-scenery
-shore
-sky
-subreddit:imaginaryruins
-sword
-title:ruins in the sea by xiangzhao xi
-tower
-uploader:tabulaerrata
-water
-watercraft
-waterfall
+beach,
+blue sky,
+boat,
+bridge,
+building,
+city,
+cloud,
+cloudy sky,
+day,
+fantasy,
+horizon,
+island,
+lake,
+landscape,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+river,
+rock,
+ruins,
+scenery,
+shore,
+sky,
+subreddit:imaginaryruins,
+sword,
+title:ruins in the sea by xiangzhao xi,
+tower,
+uploader:tabulaerrata,
+water,
+watercraft,
+waterfall,

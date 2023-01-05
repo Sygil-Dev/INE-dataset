@@ -1,45 +1,45 @@
-2017
-ambiguous gender
-booru:e621
-claws
-creator:jademere
-creator:jademerien
-detailed background
-digital media (artwork)
-feathered wings
-feathers
-feral
-fur
-gender:ambiguous
-hi res
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-no sclera
-paws
-purple body
-purple eyes
-purple feathers
-purple stripes
-rating:safe
-solo
-species:felid
-species:feline
-species:hybrid
-species:mammal
-species:pantherine
-species:tiger
-striped
-striped body
-striped fur
-stripes
-subreddit:imaginaryhybrids
-subreddit:immonsters
-title:jungle flower by jademerien
-uploader:lol33ta
-whiskers
-wings
-year:2017
+2017,
+ambiguous gender,
+booru:e621,
+claws,
+creator:jademere,
+creator:jademerien,
+detailed background,
+digital media (artwork),
+feathered wings,
+feathers,
+feral,
+fur,
+gender:ambiguous,
+hi res,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+no sclera,
+paws,
+purple body,
+purple eyes,
+purple feathers,
+purple stripes,
+rating:safe,
+solo,
+species:felid,
+species:feline,
+species:hybrid,
+species:mammal,
+species:pantherine,
+species:tiger,
+striped,
+striped body,
+striped fur,
+stripes,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+title:jungle flower by jademerien,
+uploader:lol33ta,
+whiskers,
+wings,
+year:2017,

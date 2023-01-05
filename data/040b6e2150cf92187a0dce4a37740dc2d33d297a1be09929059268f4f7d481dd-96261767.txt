@@ -1,24 +1,24 @@
-1girl
-blue flower
-blue rose
-book
-character:elezen
-dark elf
-dark skin
-elf
-flower
-green eyes
-hydrangea
-long hair
-plant
-pointy ears
-potted plant
-rating:safe
-solo
-subreddit:ebonyimagination
-subreddit:imaginaryelves
-subreddit:imraces
-subreddit:wholesomefantasyart
-title:vineshaper prodigy by inka schulz
-uploader:lol33ta
-uploader:mekuron
+1girl,
+blue flower,
+blue rose,
+book,
+character:elezen,
+dark elf,
+dark skin,
+elf,
+flower,
+green eyes,
+hydrangea,
+long hair,
+plant,
+pointy ears,
+potted plant,
+rating:safe,
+solo,
+subreddit:ebonyimagination,
+subreddit:imaginaryelves,
+subreddit:imraces,
+subreddit:wholesomefantasyart,
+title:vineshaper prodigy by inka schulz,
+uploader:lol33ta,
+uploader:mekuron,

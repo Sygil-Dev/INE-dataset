@@ -1,19 +1,19 @@
-aircraft
-airplane
-battle
-cloud
-cloudy sky
-condensation trail
-fighter jet
-helicopter
-jet
-military vehicle
-rating:safe
-realistic
-space craft
-subreddit:imaginaryaviation
-subreddit:imaginaryfuturewar
-sunset
-title:engage by adam burn
-uploader:chalkchick0
-watercraft
+aircraft,
+airplane,
+battle,
+cloud,
+cloudy sky,
+condensation trail,
+fighter jet,
+helicopter,
+jet,
+military vehicle,
+rating:safe,
+realistic,
+space craft,
+subreddit:imaginaryaviation,
+subreddit:imaginaryfuturewar,
+sunset,
+title:engage by adam burn,
+uploader:chalkchick0,
+watercraft,

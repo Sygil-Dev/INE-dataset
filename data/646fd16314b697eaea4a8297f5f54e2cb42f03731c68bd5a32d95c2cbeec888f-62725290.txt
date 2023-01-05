@@ -1,20 +1,20 @@
-site:reddit
-site:reddit.com
-subreddit:biganimetiddies
-subreddit:dekaihentai
-subreddit:erotichorrorart
-subreddit:femdomanime
-subreddit:heavenlyhentai
-subreddit:hen_tai
-subreddit:hentaipath
-subreddit:imaginaryboners
-subreddit:imnsfw
-subreddit:lewdanimegirls
-subreddit:monstergirl
-subreddit:monstergirls
-subreddit:red_hair_waifu
-subreddit:westernhentai
-title:big demon mommy tiddies (@poweruser_sh)
-title:big demon mommy tiddies [original] (@poweruser_sh)
-title:big horns demon [original] (@poweruser_sh)
-uploader:odbicie
+site:reddit,
+site:reddit.com,
+subreddit:biganimetiddies,
+subreddit:dekaihentai,
+subreddit:erotichorrorart,
+subreddit:femdomanime,
+subreddit:heavenlyhentai,
+subreddit:hen_tai,
+subreddit:hentaipath,
+subreddit:imaginaryboners,
+subreddit:imnsfw,
+subreddit:lewdanimegirls,
+subreddit:monstergirl,
+subreddit:monstergirls,
+subreddit:red_hair_waifu,
+subreddit:westernhentai,
+title:big demon mommy tiddies (@poweruser_sh),
+title:big demon mommy tiddies [original] (@poweruser_sh),
+title:big horns demon [original] (@poweruser_sh),
+uploader:odbicie,

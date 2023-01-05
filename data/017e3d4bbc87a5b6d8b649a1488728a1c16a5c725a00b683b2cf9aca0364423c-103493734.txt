@@ -1,26 +1,26 @@
-1boy
-arrow (projectile)
-battle
-belt
-bow (weapon)
-electricity
-energy
-gloves
-glowing
-glowing sword
-glowing weapon
-holding
-holding bow (weapon)
-holding weapon
-lightning
-magic
-male focus
-open mouth
-rating:safe
-sparkle
-sparks
-subreddit:imaginarywizards
-sword
-title:fervent denial by igor kieryluk
-uploader:[deleted]
-weapon
+1boy,
+arrow (projectile),
+battle,
+belt,
+bow (weapon),
+electricity,
+energy,
+gloves,
+glowing,
+glowing sword,
+glowing weapon,
+holding,
+holding bow (weapon),
+holding weapon,
+lightning,
+magic,
+male focus,
+open mouth,
+rating:safe,
+sparkle,
+sparks,
+subreddit:imaginarywizards,
+sword,
+title:fervent denial by igor kieryluk,
+uploader:[deleted],
+weapon,

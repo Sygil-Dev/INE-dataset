@@ -1,31 +1,31 @@
-1girl
-::d
-abs
-afterword
-album cover
-bangs
-blush
-breasts
-character profile
-chat log
-credits
-credits page
-english text
-eyebrows visible through hair
-greyscale
-how to
-lineart
-looking at viewer
-low ponytail
-monochrome
-navel
-on back
-open book
-pixiv id
-poster (medium)
-selfie
-stats
-subreddit:imaginarykanto
-subreddit:imaginaryweaponry
-title:812g - gigantimax rillaboom by foresterdesigns
-uploader:comics0026
+1girl,
+::d,
+abs,
+afterword,
+album cover,
+bangs,
+blush,
+breasts,
+character profile,
+chat log,
+credits,
+credits page,
+english text,
+eyebrows visible through hair,
+greyscale,
+how to,
+lineart,
+looking at viewer,
+low ponytail,
+monochrome,
+navel,
+on back,
+open book,
+pixiv id,
+poster (medium),
+selfie,
+stats,
+subreddit:imaginarykanto,
+subreddit:imaginaryweaponry,
+title:812g - gigantimax rillaboom by foresterdesigns,
+uploader:comics0026,

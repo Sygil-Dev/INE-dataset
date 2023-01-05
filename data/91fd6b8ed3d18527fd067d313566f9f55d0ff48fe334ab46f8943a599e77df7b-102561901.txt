@@ -1,65 +1,65 @@
-3girls
-4boys
-banchou
-baseball bat
-bento
-black jacket
-black vest
-brown hair
-character:cardboard box gundam
-character:orkz
-chest sarashi
-clenched hands
-colored skin
-creator:bento
-creator:ryuusei (mark ii)
-earrings
-fangs
-frown
-genderswap
-genderswap (mtf)
-goggles
-green eyes
-green skin
-grey hair
-grin
-ground vehicle
-hair over one eye
-jacket
-jewelry
-mask
-meta:highres
-motor vehicle
-motorcycle
-mouth mask
-multiple boys
-multiple girls
-muscular
-muscular male
-nail
-nail bat
-orc
-pointy ears
-ponytail
-rating:general
-riding
-sarashi
-school uniform
-serafuku
-series:warhammer 40k
-sharp teeth
-signature
-smile
-spiked jacket
-spikes
-squatting
-subreddit:imaginarywarhammer
-sukeban
-sunglasses
-teeth
-title:orkz 'n gobbos by cnmbwjx
-torn vest
-twitter username
-uploader:balgrog_the_warboss
-veins
-vest
+3girls,
+4boys,
+banchou,
+baseball bat,
+bento,
+black jacket,
+black vest,
+brown hair,
+character:cardboard box gundam,
+character:orkz,
+chest sarashi,
+clenched hands,
+colored skin,
+creator:bento,
+creator:ryuusei (mark ii),
+earrings,
+fangs,
+frown,
+genderswap,
+genderswap (mtf),
+goggles,
+green eyes,
+green skin,
+grey hair,
+grin,
+ground vehicle,
+hair over one eye,
+jacket,
+jewelry,
+mask,
+meta:highres,
+motor vehicle,
+motorcycle,
+mouth mask,
+multiple boys,
+multiple girls,
+muscular,
+muscular male,
+nail,
+nail bat,
+orc,
+pointy ears,
+ponytail,
+rating:general,
+riding,
+sarashi,
+school uniform,
+serafuku,
+series:warhammer 40k,
+sharp teeth,
+signature,
+smile,
+spiked jacket,
+spikes,
+squatting,
+subreddit:imaginarywarhammer,
+sukeban,
+sunglasses,
+teeth,
+title:orkz 'n gobbos by cnmbwjx,
+torn vest,
+twitter username,
+uploader:balgrog_the_warboss,
+veins,
+vest,

@@ -1,24 +1,24 @@
-1girl
-artist name
-closed eyes
-grey background
-holding
-holding sword
-holding weapon
-katana
-pointy ears
-rating:safe
-scabbard
-sheath
-short hair
-signature
-skirt
-solo
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-sword
-tattoo
-title:broken synth by mona finden
-unsheathing
-uploader:standyourground10
-weapon
+1girl,
+artist name,
+closed eyes,
+grey background,
+holding,
+holding sword,
+holding weapon,
+katana,
+pointy ears,
+rating:safe,
+scabbard,
+sheath,
+short hair,
+signature,
+skirt,
+solo,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+sword,
+tattoo,
+title:broken synth by mona finden,
+unsheathing,
+uploader:standyourground10,
+weapon,

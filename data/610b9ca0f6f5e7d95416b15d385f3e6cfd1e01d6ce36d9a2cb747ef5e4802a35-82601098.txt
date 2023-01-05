@@ -1,24 +1,24 @@
-archer
-art
-ashe
-beauty
-bow
-character
-creator:n i x e u
-digital
-drawing
-fanart
-fantasy
-girl
-illustration
-league of legends
-lol
-medium:digital 2d
-photoshop
-snow
-subreddit:imaginaryarchers
-subreddit:imcharacters
-title:a r c h e r
-title:archer by nixeu
-uploader:blood-n-cheese
-wallpaper
+archer,
+art,
+ashe,
+beauty,
+bow,
+character,
+creator:n i x e u,
+digital,
+drawing,
+fanart,
+fantasy,
+girl,
+illustration,
+league of legends,
+lol,
+medium:digital 2d,
+photoshop,
+snow,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+title:a r c h e r,
+title:archer by nixeu,
+uploader:blood-n-cheese,
+wallpaper,

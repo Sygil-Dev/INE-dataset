@@ -1,20 +1,20 @@
-1girl
-belt
-boots
-brown gloves
-dark skin
-dark-skinned female
-full body
-gloves
-green eyes
-moon
-night
-pants
-rating:safe
-scarf
-snow
-snowing
-solo
-subreddit:imaginarywitcher
-title:ciri by steven crowe
-uploader:lol33ta
+1girl,
+belt,
+boots,
+brown gloves,
+dark skin,
+dark-skinned female,
+full body,
+gloves,
+green eyes,
+moon,
+night,
+pants,
+rating:safe,
+scarf,
+snow,
+snowing,
+solo,
+subreddit:imaginarywitcher,
+title:ciri by steven crowe,
+uploader:lol33ta,

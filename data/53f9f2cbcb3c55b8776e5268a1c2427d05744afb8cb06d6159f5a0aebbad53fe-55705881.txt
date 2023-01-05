@@ -1,39 +1,39 @@
-armor
-blue eyes
-boots
-cape
-creator:k-takano
-earrings
-full body
-fur
-fur trim
-girl
-hair ornament
-holding
-horn (horns)
-leotard
-lips
-long hair
-looking at viewer
-monster
-multicolored hair
-pink hair
-polearm
-realistic
-series:original
-silver hair
-single
-site:anime-pictures.net
-spaulder (spaulders)
-standing
-subreddit:imaginarybeasts
-subreddit:imaginarywitches
-subreddit:immonsters
-tall image
-thigh boots
-thighhighs
-title:peruru by kotakan
-two-tone hair
-uploader:myrandall
-wavy hair
-weapon
+armor,
+blue eyes,
+boots,
+cape,
+creator:k-takano,
+earrings,
+full body,
+fur,
+fur trim,
+girl,
+hair ornament,
+holding,
+horn (horns),
+leotard,
+lips,
+long hair,
+looking at viewer,
+monster,
+multicolored hair,
+pink hair,
+polearm,
+realistic,
+series:original,
+silver hair,
+single,
+site:anime-pictures.net,
+spaulder (spaulders),
+standing,
+subreddit:imaginarybeasts,
+subreddit:imaginarywitches,
+subreddit:immonsters,
+tall image,
+thigh boots,
+thighhighs,
+title:peruru by kotakan,
+two-tone hair,
+uploader:myrandall,
+wavy hair,
+weapon,

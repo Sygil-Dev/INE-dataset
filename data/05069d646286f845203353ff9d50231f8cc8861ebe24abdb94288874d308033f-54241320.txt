@@ -1,22 +1,22 @@
-blonde hair
-bracelet
-hat
-jewelry
-katana
-long hair
-multiple boys
-multiple girls
-rating:safe
-subreddit:imaginarydemons
-subreddit:imaginaryimmortals
-subreddit:imaginarymythology
-subreddit:imcharacters
-subreddit:imraces
-sword
-title:asura by huang guangjian
-title:asura, by huang guangjian
-title:阿修罗 by huang guangjian
-uploader:[deleted]
-uploader:lol33ta
-uploader:tabulaerrata
-weapon
+blonde hair,
+bracelet,
+hat,
+jewelry,
+katana,
+long hair,
+multiple boys,
+multiple girls,
+rating:safe,
+subreddit:imaginarydemons,
+subreddit:imaginaryimmortals,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+subreddit:imraces,
+sword,
+title:asura by huang guangjian,
+title:asura, by huang guangjian,
+title:阿修罗 by huang guangjian,
+uploader:[deleted],
+uploader:lol33ta,
+uploader:tabulaerrata,
+weapon,

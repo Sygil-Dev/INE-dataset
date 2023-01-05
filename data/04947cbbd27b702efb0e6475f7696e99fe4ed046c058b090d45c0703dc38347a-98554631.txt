@@ -1,36 +1,36 @@
-blue sky
-bridge
-building
-city
-cityscape
-cloud
-cloudy sky
-evening
-fantasy
-field
-flower
-flower field
-gradient sky
-grass
-hill
-horizon
-house
-landscape
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-purple sky
-rating:safe
-river
-scenery
-sky
-subreddit:imaginaryskyscapes
-sunrise
-sunset
-title:winter and soldier by denis godyna
-twilight
-uploader:lol33ta
-water
+blue sky,
+bridge,
+building,
+city,
+cityscape,
+cloud,
+cloudy sky,
+evening,
+fantasy,
+field,
+flower,
+flower field,
+gradient sky,
+grass,
+hill,
+horizon,
+house,
+landscape,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+purple sky,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginaryskyscapes,
+sunrise,
+sunset,
+title:winter and soldier by denis godyna,
+twilight,
+uploader:lol33ta,
+water,

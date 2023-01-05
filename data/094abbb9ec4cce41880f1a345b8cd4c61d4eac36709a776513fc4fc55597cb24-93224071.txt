@@ -1,20 +1,20 @@
-1girl
-aircraft
-bird
-cloud
-dragonfly
-field
-grass
-monochrome
-moon
-outdoors
-plant
-power lines
-rating:safe
-subreddit:imaginaryvessels
-subreddit:imtechnology
-sun
-title:no. 6 by filippo morghen (ca. 1730-1808), from "raccolta delle cose più notabili veduta dal cavaliere wilde scull, e dal sigr: de la hire nel lor famoso viaggio dalla terra alla luna"
-traditional media
-tree
-uploader:yannirotten
+1girl,
+aircraft,
+bird,
+cloud,
+dragonfly,
+field,
+grass,
+monochrome,
+moon,
+outdoors,
+plant,
+power lines,
+rating:safe,
+subreddit:imaginaryvessels,
+subreddit:imtechnology,
+sun,
+title:no. 6 by filippo morghen (ca. 1730-1808), from "raccolta delle cose più notabili veduta dal cavaliere wilde scull, e dal sigr: de la hire nel lor famoso viaggio dalla terra alla luna",
+traditional media,
+tree,
+uploader:yannirotten,

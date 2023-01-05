@@ -1,20 +1,20 @@
-2d
-aleksa stajsic
-book illustration
-cover art
-creator:aleksa stajsic
-dragon
-fantasy
-king
-king of the sky
-medium:digital 2d
-sky
-sky king
-subreddit:imaginaryanimals
-subreddit:imaginarybeasts
-subreddit:imaginaryhybrids
-subreddit:immonsters
-subreddit:imnature
-title:king of the sky
-title:king of the sky, aleksa stajsic
-uploader:al3ks4
+2d,
+aleksa stajsic,
+book illustration,
+cover art,
+creator:aleksa stajsic,
+dragon,
+fantasy,
+king,
+king of the sky,
+medium:digital 2d,
+sky,
+sky king,
+subreddit:imaginaryanimals,
+subreddit:imaginarybeasts,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+subreddit:imnature,
+title:king of the sky,
+title:king of the sky, aleksa stajsic,
+uploader:al3ks4,

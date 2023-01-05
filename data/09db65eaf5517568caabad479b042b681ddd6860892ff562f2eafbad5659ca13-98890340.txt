@@ -1,46 +1,46 @@
-astronaut
-aurora
-campfire
-city lights
-cloud
-constellation
-crescent moon
-earth (planet)
-fireflies
-fireworks
-galaxy
-glowing
-light particles
-milky way
-moon
-moonlight
-mountain
-night
-night sky
-planet
-rating:safe
-rocket
-scenery
-science fiction
-shooting star
-sky
-snow
-snowing
-space
-space craft
-space helmet
-spacesuit
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarywaterfalls
-sunrise
-tanabata
-tanzaku
-telescope
-title:starspring by will gist
-twilight
-uploader:blood-n-cheese
-weapon
+astronaut,
+aurora,
+campfire,
+city lights,
+cloud,
+constellation,
+crescent moon,
+earth (planet),
+fireflies,
+fireworks,
+galaxy,
+glowing,
+light particles,
+milky way,
+moon,
+moonlight,
+mountain,
+night,
+night sky,
+planet,
+rating:safe,
+rocket,
+scenery,
+science fiction,
+shooting star,
+sky,
+snow,
+snowing,
+space,
+space craft,
+space helmet,
+spacesuit,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarywaterfalls,
+sunrise,
+tanabata,
+tanzaku,
+telescope,
+title:starspring by will gist,
+twilight,
+uploader:blood-n-cheese,
+weapon,

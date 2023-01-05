@@ -1,20 +1,20 @@
-1girl
-bare tree
-building
-day
-gun
-house
-jacket
-long hair
-outdoors
-rating:safe
-ruins
-scenery
-snow
-snowing
-solo
-subreddit:imaginarywinterscapes
-title:faroe islands by yohor
-tree
-uploader:baba_jaga_ii
-winter
+1girl,
+bare tree,
+building,
+day,
+gun,
+house,
+jacket,
+long hair,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+snow,
+snowing,
+solo,
+subreddit:imaginarywinterscapes,
+title:faroe islands by yohor,
+tree,
+uploader:baba_jaga_ii,
+winter,

@@ -1,54 +1,54 @@
-5 fingers
-5 toes
-abs
-abstract background
-armwear
-bone
-booru:e621
-bottomwear
-bridal gauntlets
-brown hair
-cape
-clothed
-clothing
-clothing:bottomwear
-creator:periwinkleimp
-crotch apron
-dreadlocks
-empty eyes
-feet
-female
-fingers
-front view
-gender:female
-green body
-green skin
-hair
-humanoid
-humanoid feet
-humanoid hands
-loincloth
-looking at viewer
-medium:simple background
-not furry
-plantigrade
-pov
-rating:safe
-simple background
-skimpy
-skull
-solo
-species:humanoid
-species:orc
-species:orc humanoid
-subreddit:imaginaryorcs
-subreddit:imaginarywitches
-subreddit:imraces
-tag source:e621
-texture background
-textured background
-title:female orc mage by periwinkleimp
-toes
-torn clothes
-torn clothing
-uploader:lol33ta
+5 fingers,
+5 toes,
+abs,
+abstract background,
+armwear,
+bone,
+booru:e621,
+bottomwear,
+bridal gauntlets,
+brown hair,
+cape,
+clothed,
+clothing,
+clothing:bottomwear,
+creator:periwinkleimp,
+crotch apron,
+dreadlocks,
+empty eyes,
+feet,
+female,
+fingers,
+front view,
+gender:female,
+green body,
+green skin,
+hair,
+humanoid,
+humanoid feet,
+humanoid hands,
+loincloth,
+looking at viewer,
+medium:simple background,
+not furry,
+plantigrade,
+pov,
+rating:safe,
+simple background,
+skimpy,
+skull,
+solo,
+species:humanoid,
+species:orc,
+species:orc humanoid,
+subreddit:imaginaryorcs,
+subreddit:imaginarywitches,
+subreddit:imraces,
+tag source:e621,
+texture background,
+textured background,
+title:female orc mage by periwinkleimp,
+toes,
+torn clothes,
+torn clothing,
+uploader:lol33ta,

@@ -1,27 +1,27 @@
-> <
-arm up
-blurry
-character:wobbuffet
-creator:rend
-day
-depth of field
-gen 2 pokemon
-meta:commentary request
-meta:highres
-no humans
-one-hour drawing challenge
-outdoors
-pokemon (creature)
-rating:safe
-rend
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-snow
-snowing
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:wobbuffet by rend
-uploader:hornyheracross
-wavy mouth
+> <,
+arm up,
+blurry,
+character:wobbuffet,
+creator:rend,
+day,
+depth of field,
+gen 2 pokemon,
+meta:commentary request,
+meta:highres,
+no humans,
+one-hour drawing challenge,
+outdoors,
+pokemon (creature),
+rating:safe,
+rend,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+snow,
+snowing,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:wobbuffet by rend,
+uploader:hornyheracross,
+wavy mouth,

@@ -1,29 +1,29 @@
-aircraft
-airplane
-animal
-bat
-bird
-cloud
-cloudy sky
-crow
-field
-flock
-grass
-hat
-holding
-holding gun
-holding weapon
-horizon
-mountain
-outdoors
-rating:safe
-ruins
-scenery
-seagull
-sky
-standing
-subreddit:imaginarywizards
-sunset
-title:i am the black wizards by ashley may
-uploader:zeashellz
-weapon
+aircraft,
+airplane,
+animal,
+bat,
+bird,
+cloud,
+cloudy sky,
+crow,
+field,
+flock,
+grass,
+hat,
+holding,
+holding gun,
+holding weapon,
+horizon,
+mountain,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+seagull,
+sky,
+standing,
+subreddit:imaginarywizards,
+sunset,
+title:i am the black wizards by ashley may,
+uploader:zeashellz,
+weapon,

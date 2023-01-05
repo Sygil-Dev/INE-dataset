@@ -1,21 +1,21 @@
-::3
-bird
-black eyes
-bunny
-cloud
-cloudy sky
-creature
-grass
-no humans
-outdoors
-pokemon (creature)
-purple sky
-rating:safe
-signature
-sky
-subreddit:imaginarybehemoths
-subreddit:immonsters
-sunset
-title:“inktober #16 ‘fat’” by jim bryson
-tree
-uploader:yannirotten
+::3,
+bird,
+black eyes,
+bunny,
+cloud,
+cloudy sky,
+creature,
+grass,
+no humans,
+outdoors,
+pokemon (creature),
+purple sky,
+rating:safe,
+signature,
+sky,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+sunset,
+title:“inktober #16 ‘fat’” by jim bryson,
+tree,
+uploader:yannirotten,

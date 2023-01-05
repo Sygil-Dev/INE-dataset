@@ -1,26 +1,26 @@
-1girl
-animal
-bat
-blonde hair
-creator:lane brown
-dark
-fire
-girl
-halloween
-ivy
-lantern
-leaf
-long hair
-medium:digital 2d
-pantyhose
-pouch
-rating:safe
-shoes
-sitting
-solo
-species:bat
-spooky
-subreddit:imaginarypets
-title:communion
-title:communion by lane brown
-uploader:lol33ta
+1girl,
+animal,
+bat,
+blonde hair,
+creator:lane brown,
+dark,
+fire,
+girl,
+halloween,
+ivy,
+lantern,
+leaf,
+long hair,
+medium:digital 2d,
+pantyhose,
+pouch,
+rating:safe,
+shoes,
+sitting,
+solo,
+species:bat,
+spooky,
+subreddit:imaginarypets,
+title:communion,
+title:communion by lane brown,
+uploader:lol33ta,

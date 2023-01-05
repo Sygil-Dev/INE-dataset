@@ -1,21 +1,21 @@
-1girl
-bed
-black hair
-booru:sankaku
-creator:chpsndp
-creator:qisq
-dragon
-female
-legs
-medium:3d
-medium:4:3 aspect ratio
-medium:cg art
-medium:game cg
-medium:high resolution
-rating:q
-series:nintendo switch
-subreddit:imaginarymutants
-subreddit:imfandoms
-title:let sleeping dragons lie - kitty pryde &amp; lockheed [oc]
-title:let sleeping dragons lie.
-uploader:ooqisqoo
+1girl,
+bed,
+black hair,
+booru:sankaku,
+creator:chpsndp,
+creator:qisq,
+dragon,
+female,
+legs,
+medium:3d,
+medium:4:3 aspect ratio,
+medium:cg art,
+medium:game cg,
+medium:high resolution,
+rating:q,
+series:nintendo switch,
+subreddit:imaginarymutants,
+subreddit:imfandoms,
+title:let sleeping dragons lie - kitty pryde &amp; lockheed [oc],
+title:let sleeping dragons lie.,
+uploader:ooqisqoo,

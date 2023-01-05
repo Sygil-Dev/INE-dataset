@@ -1,20 +1,20 @@
-1girl
-angel
-angel wings
-artist name
-explosion
-feathered wings
-feathers
-gold
-halo
-head wings
-large wings
-multiple wings
-rating:safe
-spread wings
-subreddit:imaginaryangels
-subreddit:imraces
-title:metallic angel by dallas williams
-uploader:suzzerain
-white wings
-wings
+1girl,
+angel,
+angel wings,
+artist name,
+explosion,
+feathered wings,
+feathers,
+gold,
+halo,
+head wings,
+large wings,
+multiple wings,
+rating:safe,
+spread wings,
+subreddit:imaginaryangels,
+subreddit:imraces,
+title:metallic angel by dallas williams,
+uploader:suzzerain,
+white wings,
+wings,

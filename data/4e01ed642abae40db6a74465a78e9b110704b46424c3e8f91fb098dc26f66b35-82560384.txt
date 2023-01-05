@@ -1,37 +1,37 @@
-2d
-2d artist
-#board &amp; card game art
-blizzard
-book illustration
-card art
-concept art
-concept artist
-creator:aleksa stajsic
-digital painting
-dnd
-drawing
-dungeons and dragons
-fantasy
-fantasyart
-heartstone
-human
-illustration
-illustrator
-leauge of legends
-magic
-magic the gathering
-medium:digital 2d
-riot
-subreddit:imaginaryanimals
-subreddit:imaginarybeasts
-subreddit:imaginaryhybrids
-subreddit:imaginarymythology
-subreddit:imcharacters
-subreddit:immonsters
-subreddit:imnature
-title:werewolf
-title:werewolf, aleksa stajsic
-uploader:al3ks4
-warcraft
-werewolf
-wow
+2d,
+2d artist,
+#board &amp; card game art,
+blizzard,
+book illustration,
+card art,
+concept art,
+concept artist,
+creator:aleksa stajsic,
+digital painting,
+dnd,
+drawing,
+dungeons and dragons,
+fantasy,
+fantasyart,
+heartstone,
+human,
+illustration,
+illustrator,
+leauge of legends,
+magic,
+magic the gathering,
+medium:digital 2d,
+riot,
+subreddit:imaginaryanimals,
+subreddit:imaginarybeasts,
+subreddit:imaginaryhybrids,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+subreddit:immonsters,
+subreddit:imnature,
+title:werewolf,
+title:werewolf, aleksa stajsic,
+uploader:al3ks4,
+warcraft,
+werewolf,
+wow,

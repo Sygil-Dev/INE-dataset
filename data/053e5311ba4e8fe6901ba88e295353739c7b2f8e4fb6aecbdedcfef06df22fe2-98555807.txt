@@ -1,24 +1,24 @@
-1boy
-brown hair
-cape
-cloud
-fire
-holding
-jewelry
-male focus
-molten rock
-polearm
-rating:safe
-red background
-red sky
-red theme
-sky
-solo
-spear
-staff
-subreddit:imaginarymen
-sunset
-title:conan the barbarian by doug beekman
-uploader:jg379
-water
-weapon
+1boy,
+brown hair,
+cape,
+cloud,
+fire,
+holding,
+jewelry,
+male focus,
+molten rock,
+polearm,
+rating:safe,
+red background,
+red sky,
+red theme,
+sky,
+solo,
+spear,
+staff,
+subreddit:imaginarymen,
+sunset,
+title:conan the barbarian by doug beekman,
+uploader:jg379,
+water,
+weapon,

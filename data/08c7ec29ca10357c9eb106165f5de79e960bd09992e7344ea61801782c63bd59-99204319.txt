@@ -1,20 +1,20 @@
-1girl
-beach
-boots
-day
-desert
-dust
-footprints
-goggles
-goggles on headwear
-gun
-hat
-ocean
-outdoors
-rating:safe
-sand
-sepia
-solo
-subreddit:imaginarycowboys
-title:study_22 by greg rutkowski
-uploader:thegypsyslayer
+1girl,
+beach,
+boots,
+day,
+desert,
+dust,
+footprints,
+goggles,
+goggles on headwear,
+gun,
+hat,
+ocean,
+outdoors,
+rating:safe,
+sand,
+sepia,
+solo,
+subreddit:imaginarycowboys,
+title:study_22 by greg rutkowski,
+uploader:thegypsyslayer,

@@ -1,40 +1,40 @@
-1girl
-architecture
-backpack
-bird
-blue sky
-bridge
-building
-bush
-castle
-city
-city lights
-cityscape
-cloud
-cloudy sky
-day
-east asian architecture
-facing away
-fantasy
-grass
-lake
-landscape
-letterboxed
-long hair
-mountain
-nature
-outdoors
-rating:safe
-river
-ruins
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginaryruins
-title:castle ruins by mikhail greuli
-tower
-tree
-uploader:dancing_cthulhu
-water
-waterfall
+1girl,
+architecture,
+backpack,
+bird,
+blue sky,
+bridge,
+building,
+bush,
+castle,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+day,
+east asian architecture,
+facing away,
+fantasy,
+grass,
+lake,
+landscape,
+letterboxed,
+long hair,
+mountain,
+nature,
+outdoors,
+rating:safe,
+river,
+ruins,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginaryruins,
+title:castle ruins by mikhail greuli,
+tower,
+tree,
+uploader:dancing_cthulhu,
+water,
+waterfall,

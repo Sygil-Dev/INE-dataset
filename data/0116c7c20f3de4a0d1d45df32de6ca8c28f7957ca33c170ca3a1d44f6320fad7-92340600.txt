@@ -1,23 +1,23 @@
-caterpillar tracks
-cloud
-emblem
-firing
-ground vehicle
-military
-military vehicle
-motor vehicle
-rating:safe
-smoke
-subreddit:imaginarybattlefields
-subreddit:imaginarydieselpunk
-subreddit:imaginarymindscapes
-subreddit:imaginarysteampunk
-subreddit:imlandscapes
-subreddit:imtechnology
-tank
-tank focus
-title:way back when on a rainy day on skaro by artist dave clarke (small brown dog)
-title:way back when on a rainy day on skaro by artist dave clarke (small brown dog). more dieselpunk than steampunk, but still very cool
-uploader:anon_ymou5
-uploader:yannirotten
-vehicle focus
+caterpillar tracks,
+cloud,
+emblem,
+firing,
+ground vehicle,
+military,
+military vehicle,
+motor vehicle,
+rating:safe,
+smoke,
+subreddit:imaginarybattlefields,
+subreddit:imaginarydieselpunk,
+subreddit:imaginarymindscapes,
+subreddit:imaginarysteampunk,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+tank,
+tank focus,
+title:way back when on a rainy day on skaro by artist dave clarke (small brown dog),
+title:way back when on a rainy day on skaro by artist dave clarke (small brown dog). more dieselpunk than steampunk, but still very cool,
+uploader:anon_ymou5,
+uploader:yannirotten,
+vehicle focus,

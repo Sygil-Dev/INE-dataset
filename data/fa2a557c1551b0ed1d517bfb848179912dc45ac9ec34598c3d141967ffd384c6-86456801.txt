@@ -1,46 +1,46 @@
-1girl
-banner
-belt
-black belt
-black gloves
-black pants
-boots
-chainsword
-character:commissar
-character:imperium of man
-character:roegadyn
-closed mouth
-coat
-creator:lutherniel
-crossover
-earrings
-flag
-fold-over boots
-gloves
-hat
-holding
-holding sword
-holding weapon
-imperium of man
-jewelry
-meta:highres
-outdoors
-pants
-peaked cap
-rating:safe
-red coat
-red headwear
-roegadyn
-series:final fantasy
-series:final fantasy xiv
-series:warhammer 40k
-signature
-solo
-standing
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-sword
-title:commission - ffxiv roe gunbreaker by lutherniel
-uploader:chaosmarine123
-weapon
-white hair
+1girl,
+banner,
+belt,
+black belt,
+black gloves,
+black pants,
+boots,
+chainsword,
+character:commissar,
+character:imperium of man,
+character:roegadyn,
+closed mouth,
+coat,
+creator:lutherniel,
+crossover,
+earrings,
+flag,
+fold-over boots,
+gloves,
+hat,
+holding,
+holding sword,
+holding weapon,
+imperium of man,
+jewelry,
+meta:highres,
+outdoors,
+pants,
+peaked cap,
+rating:safe,
+red coat,
+red headwear,
+roegadyn,
+series:final fantasy,
+series:final fantasy xiv,
+series:warhammer 40k,
+signature,
+solo,
+standing,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+sword,
+title:commission - ffxiv roe gunbreaker by lutherniel,
+uploader:chaosmarine123,
+weapon,
+white hair,

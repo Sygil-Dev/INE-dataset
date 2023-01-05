@@ -1,32 +1,32 @@
-2 males
-armor
-artist name
-cape
-character:eldar
-character:necron
-creator:lutherniel
-eldar
-gender:male
-headwear
-helmet
-lutherniel
-male focus
-medium:artist name
-medium:greyscale
-medium:monochrome
-meta:commentary
-multiple boys
-multiple males
-necron
-rating:mature
-rating:safe
-series:warhammer 40,000
-series:warhammer 40k
-sitting
-skull
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-symbol
-title:necron and eldar reminiscing (by lutherniel)
-uploader:riot-knight
+2 males,
+armor,
+artist name,
+cape,
+character:eldar,
+character:necron,
+creator:lutherniel,
+eldar,
+gender:male,
+headwear,
+helmet,
+lutherniel,
+male focus,
+medium:artist name,
+medium:greyscale,
+medium:monochrome,
+meta:commentary,
+multiple boys,
+multiple males,
+necron,
+rating:mature,
+rating:safe,
+series:warhammer 40,000,
+series:warhammer 40k,
+sitting,
+skull,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+symbol,
+title:necron and eldar reminiscing (by lutherniel),
+uploader:riot-knight,

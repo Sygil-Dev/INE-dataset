@@ -1,19 +1,19 @@
-assassin
-creator:rashed alakroka ✦
-false alarm
-hamster
-hideout
-medium:digital 2d
-reticle
-russian
-sniper
-stealth
-storyboard
-subreddit:imaginaryassassins
-subreddit:imcharacters
-title:false alarm
-title:false alarm by rashed alakroka
-torres
-uploader:lol33ta
-vss
-woman
+assassin,
+creator:rashed alakroka ✦,
+false alarm,
+hamster,
+hideout,
+medium:digital 2d,
+reticle,
+russian,
+sniper,
+stealth,
+storyboard,
+subreddit:imaginaryassassins,
+subreddit:imcharacters,
+title:false alarm,
+title:false alarm by rashed alakroka,
+torres,
+uploader:lol33ta,
+vss,
+woman,

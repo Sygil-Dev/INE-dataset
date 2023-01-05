@@ -1,43 +1,43 @@
-4boys
-boat
-creator:hayapi (sinsin08051)
-creator:sinsin08051
-death
-disembodied limb
-drum (container)
-fins
-from above
-hands
-harpoon gun
-highres
-horror (theme)
-injury
-lifebuoy
-mermaid
-merman
-meta:commentary
-meta:highres
-monster boy
-monster girl
-multiple boys
-no eyes
-no nose
-ocean
-open mouth
-overalls
-rating:questionable
-rating:sensitive
-rust
-series:original
-short hair
-sinsin08051
-submerged
-subreddit:imaginaryhorrors
-subreddit:immonsters
-teeth
-title:mermaid fishing by hayapi
-underwater
-uploader:dragunmancer
-water
-watercraft
-weapon
+4boys,
+boat,
+creator:hayapi (sinsin08051),
+creator:sinsin08051,
+death,
+disembodied limb,
+drum (container),
+fins,
+from above,
+hands,
+harpoon gun,
+highres,
+horror (theme),
+injury,
+lifebuoy,
+mermaid,
+merman,
+meta:commentary,
+meta:highres,
+monster boy,
+monster girl,
+multiple boys,
+no eyes,
+no nose,
+ocean,
+open mouth,
+overalls,
+rating:questionable,
+rating:sensitive,
+rust,
+series:original,
+short hair,
+sinsin08051,
+submerged,
+subreddit:imaginaryhorrors,
+subreddit:immonsters,
+teeth,
+title:mermaid fishing by hayapi,
+underwater,
+uploader:dragunmancer,
+water,
+watercraft,
+weapon,

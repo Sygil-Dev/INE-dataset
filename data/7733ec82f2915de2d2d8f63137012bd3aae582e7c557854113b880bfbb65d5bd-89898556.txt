@@ -1,46 +1,46 @@
-1boy
-bare shoulders
-black cat
-black hair
-blood elf (warcraft)
-cat
-character:blood elf (warcraft)
-character:grand magister rommath
-character:mage (warcraft)
-closed mouth
-creator:shauniraven
-detached sleeves
-elf
-fantasy
-full body
-glowing
-glowing eyes
-grand magister rommath
-green eyes
-hair pulled back
-hands up
-holding
-holding staff
-long eyebrows
-long hair
-long pointy ears
-looking at viewer
-mage (warcraft)
-male focus
-meta:commission
-meta:highres
-meta:second-party source
-meta:third-party source
-pointy ears
-rating:general
-sash
-series:warcraft
-series:world of warcraft
-shauniraven
-staff
-standing
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-title:rommath and brutus by shauniraven
-uploader:botiadario
-walking
+1boy,
+bare shoulders,
+black cat,
+black hair,
+blood elf (warcraft),
+cat,
+character:blood elf (warcraft),
+character:grand magister rommath,
+character:mage (warcraft),
+closed mouth,
+creator:shauniraven,
+detached sleeves,
+elf,
+fantasy,
+full body,
+glowing,
+glowing eyes,
+grand magister rommath,
+green eyes,
+hair pulled back,
+hands up,
+holding,
+holding staff,
+long eyebrows,
+long hair,
+long pointy ears,
+looking at viewer,
+mage (warcraft),
+male focus,
+meta:commission,
+meta:highres,
+meta:second-party source,
+meta:third-party source,
+pointy ears,
+rating:general,
+sash,
+series:warcraft,
+series:world of warcraft,
+shauniraven,
+staff,
+standing,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+title:rommath and brutus by shauniraven,
+uploader:botiadario,
+walking,

@@ -1,22 +1,22 @@
-1girl
-breasts
-evening
-explosion
-glowing
-gradient
-gradient background
-gradient sky
-holding
-holding weapon
-orange background
-orange sky
-ponytail
-rating:safe
-solo
-subreddit:imaginarycybernetics
-sunset
-title:设计练习 by giao an.
-uploader:turbologic
-weapon
-yellow background
-yellow sky
+1girl,
+breasts,
+evening,
+explosion,
+glowing,
+gradient,
+gradient background,
+gradient sky,
+holding,
+holding weapon,
+orange background,
+orange sky,
+ponytail,
+rating:safe,
+solo,
+subreddit:imaginarycybernetics,
+sunset,
+title:设计练习 by giao an.,
+uploader:turbologic,
+weapon,
+yellow background,
+yellow sky,

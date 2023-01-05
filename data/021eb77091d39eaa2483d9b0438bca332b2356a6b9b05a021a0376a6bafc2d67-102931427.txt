@@ -1,29 +1,29 @@
-artist name
-beach
-blue theme
-boat
-caustics
-fish
-fisheye
-horizon
-lake
-no humans
-ocean
-outdoors
-planet
-pool
-rating:safe
-river
-scenery
-shore
-signature
-sky
-subreddit:imaginarywinterscapes
-title:lighted sky, me, acrylic, 2020
-traditional media
-underwater
-uploader:acrylic_landscapes
-water
-watercraft
-waves
-whale
+artist name,
+beach,
+blue theme,
+boat,
+caustics,
+fish,
+fisheye,
+horizon,
+lake,
+no humans,
+ocean,
+outdoors,
+planet,
+pool,
+rating:safe,
+river,
+scenery,
+shore,
+signature,
+sky,
+subreddit:imaginarywinterscapes,
+title:lighted sky, me, acrylic, 2020,
+traditional media,
+underwater,
+uploader:acrylic_landscapes,
+water,
+watercraft,
+waves,
+whale,

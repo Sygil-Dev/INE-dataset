@@ -1,21 +1,21 @@
-barrel
-black hair
-candle
-chair
-fire
-holding
-hood down
-indoors
-leaf
-male focus
-plant
-pot
-potted plant
-rating:safe
-sheath
-sheathed
-subreddit:imaginarywitches
-sword
-title:ragged recluse by lie setiawan
-uploader:blood-n-cheese
-weapon
+barrel,
+black hair,
+candle,
+chair,
+fire,
+holding,
+hood down,
+indoors,
+leaf,
+male focus,
+plant,
+pot,
+potted plant,
+rating:safe,
+sheath,
+sheathed,
+subreddit:imaginarywitches,
+sword,
+title:ragged recluse by lie setiawan,
+uploader:blood-n-cheese,
+weapon,

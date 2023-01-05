@@ -1,22 +1,22 @@
-beach
-earth (planet)
-full moon
-horizon
-military vehicle
-moon
-night
-ocean
-planet
-rating:safe
-realistic
-ship
-signature
-space
-space craft
-star (sky)
-subreddit:imaginarystarships
-subreddit:imtechnology
-title:lightyear concept art by garrett taylor
-uploader:xeelee1123
-water
-watercraft
+beach,
+earth (planet),
+full moon,
+horizon,
+military vehicle,
+moon,
+night,
+ocean,
+planet,
+rating:safe,
+realistic,
+ship,
+signature,
+space,
+space craft,
+star (sky),
+subreddit:imaginarystarships,
+subreddit:imtechnology,
+title:lightyear concept art by garrett taylor,
+uploader:xeelee1123,
+water,
+watercraft,

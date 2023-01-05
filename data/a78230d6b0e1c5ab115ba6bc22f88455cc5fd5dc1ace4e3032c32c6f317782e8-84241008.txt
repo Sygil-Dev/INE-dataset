@@ -1,21 +1,21 @@
-asoiaf
-concept
-creator:riccardo moscatello
-daenerys
-daenerys targaryen
-dothraki
-gameofthrones
-got
-medium:digital 2d
-redesign
-subreddit:imaginarypets
-subreddit:imaginarywesteros
-subreddit:imfandoms
-subreddit:immeta
-targaryen
-title:princess daenerys targaryen
-title:princess daenerys targaryen by riccardo moscatello
-title:princess daenerys targaryen, riccardo moscatello
-uploader:lol33ta
-uploader:manowar0264
-uploader:radialart
+asoiaf,
+concept,
+creator:riccardo moscatello,
+daenerys,
+daenerys targaryen,
+dothraki,
+gameofthrones,
+got,
+medium:digital 2d,
+redesign,
+subreddit:imaginarypets,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+subreddit:immeta,
+targaryen,
+title:princess daenerys targaryen,
+title:princess daenerys targaryen by riccardo moscatello,
+title:princess daenerys targaryen, riccardo moscatello,
+uploader:lol33ta,
+uploader:manowar0264,
+uploader:radialart,

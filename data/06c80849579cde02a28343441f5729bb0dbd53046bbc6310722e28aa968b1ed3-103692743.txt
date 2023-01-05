@@ -1,31 +1,31 @@
-1girl
-2boys
-3boys
-beard
-blonde hair
-boots
-coat
-cross-laced footwear
-eyepatch
-facial hair
-gloves
-jacket
-lace-up boots
-multiple boys
-mustache
-old
-pants
-rating:safe
-red scarf
-scarf
-short hair
-smile
-snow
-snowing
-stubble
-subreddit:imaginaryfallout
-sunglasses
-title:fallout 76. first snow by anna marukhnich
-uploader:i_burn_cereal
-vest
-winter
+1girl,
+2boys,
+3boys,
+beard,
+blonde hair,
+boots,
+coat,
+cross-laced footwear,
+eyepatch,
+facial hair,
+gloves,
+jacket,
+lace-up boots,
+multiple boys,
+mustache,
+old,
+pants,
+rating:safe,
+red scarf,
+scarf,
+short hair,
+smile,
+snow,
+snowing,
+stubble,
+subreddit:imaginaryfallout,
+sunglasses,
+title:fallout 76. first snow by anna marukhnich,
+uploader:i_burn_cereal,
+vest,
+winter,

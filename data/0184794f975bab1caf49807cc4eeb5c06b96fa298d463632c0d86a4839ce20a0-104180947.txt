@@ -1,21 +1,21 @@
-beach
-cloud
-day
-ground vehicle
-horizon
-military
-military vehicle
-motor vehicle
-mountain
-ocean
-outdoors
-rating:safe
-sand
-scenery
-sky
-subreddit:imaginaryvehicles
-subreddit:imaginaryvessels
-title:hovercrafts by john park
-uploader:myrandall
-water
-waves
+beach,
+cloud,
+day,
+ground vehicle,
+horizon,
+military,
+military vehicle,
+motor vehicle,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+sand,
+scenery,
+sky,
+subreddit:imaginaryvehicles,
+subreddit:imaginaryvessels,
+title:hovercrafts by john park,
+uploader:myrandall,
+water,
+waves,

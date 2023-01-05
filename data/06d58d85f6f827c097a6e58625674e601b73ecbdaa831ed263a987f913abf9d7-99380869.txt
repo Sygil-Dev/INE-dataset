@@ -1,22 +1,22 @@
-aircraft
-airplane
-battle
-beach
-cloud
-fighter jet
-jet
-long hair
-military
-military vehicle
-ocean
-pilot
-rating:safe
-realistic
-ship
-subreddit:imaginarywarships
-title:war birds, 1941, by george rozen
-uploader:yannirotten
-warship
-water
-watercraft
-waves
+aircraft,
+airplane,
+battle,
+beach,
+cloud,
+fighter jet,
+jet,
+long hair,
+military,
+military vehicle,
+ocean,
+pilot,
+rating:safe,
+realistic,
+ship,
+subreddit:imaginarywarships,
+title:war birds, 1941, by george rozen,
+uploader:yannirotten,
+warship,
+water,
+watercraft,
+waves,

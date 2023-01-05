@@ -1,29 +1,29 @@
-armor
-bird
-burning
-cloud
-cloudy sky
-dusk
-embers
-evening
-fire
-flame
-flaming sword
-flaming weapon
-holding weapon
-molten rock
-mountain
-orange sky
-rating:safe
-red sky
-sky
-solo
-standing
-subreddit:imaginarypets
-sunset
-sword
-title:sky, aleks stoller
-twilight
-uploader:miciy5
-weapon
-wings
+armor,
+bird,
+burning,
+cloud,
+cloudy sky,
+dusk,
+embers,
+evening,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+holding weapon,
+molten rock,
+mountain,
+orange sky,
+rating:safe,
+red sky,
+sky,
+solo,
+standing,
+subreddit:imaginarypets,
+sunset,
+sword,
+title:sky, aleks stoller,
+twilight,
+uploader:miciy5,
+weapon,
+wings,

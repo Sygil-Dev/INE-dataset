@@ -1,38 +1,38 @@
-armor
-axe
-blood
-bodily fluids
-bone
-clothing
-creator:tooth wu
-crown
-facial scar
-gauntlets
-gloves
-greaves
-handwear
-looking at viewer
-male
-melee weapon
-meta:hi res
-rating:safe
-scar
-sharp teeth
-simple background
-skull
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-spikes
-standing
-subreddit:imaginarywarriors
-subreddit:imcharacters
-sword
-teeth
-title:hallvard' disaster of kings by tooth wu
-uploader:lol33ta
-vambraces
-weapon
+armor,
+axe,
+blood,
+bodily fluids,
+bone,
+clothing,
+creator:tooth wu,
+crown,
+facial scar,
+gauntlets,
+gloves,
+greaves,
+handwear,
+looking at viewer,
+male,
+melee weapon,
+meta:hi res,
+rating:safe,
+scar,
+sharp teeth,
+simple background,
+skull,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+spikes,
+standing,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+sword,
+teeth,
+title:hallvard' disaster of kings by tooth wu,
+uploader:lol33ta,
+vambraces,
+weapon,

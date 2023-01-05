@@ -1,45 +1,45 @@
-subreddit:imaginaryarmor
-subreddit:imaginaryfashion
-subreddit:imaginarykanto
-subreddit:imaginaryweaponry
-title:003g - gigantimax venusaur by foresterdesigns
-title:006g - gigantimax charizard by foresterdesigns
-title:009g - gigantimax blastoise by foresterdesigns
-title:012g - gigantimax butterfree by foresterdesigns
-title:025h - gigantimax pikachu by foresterdesigns
-title:052g - gigantimax meowth by foresterdesigns
-title:068g - gigantimax machamp by foresterdesigns
-title:094g - gigantimax gengar by foresterdesigns
-title:099g - gigantimax kingler by foresterdesigns
-title:131g - gigantimax lapras by foresterdesigns
-title:143g - gigantimax snorlax by foresterdesigns
-title:569g - gigantimax garbodor by foresterdesigns
-title:809g - gigantimax melmetal by foresterdesigns
-title:812g - gigantimax rillaboom by foresterdesigns
-title:815g - gigantimax cinderace by foresterdesigns
-title:818g - gigantimax inteleon by foresterdesigns
-title:823g - gigantimax corviknight by foresterdesigns
-title:826g - gigantimax orbeetle by foresterdesigns
-title:834g - gigantimax drednaw by foresterdesigns
-title:839g - gigantimax coalossal by foresterdesigns
-title:841.5g - gigantimax flapple/appletun by foresterdesigns
-title:844g - gigantimax sandaconda by foresterdesigns
-title:849g - gigantimax toxtricity by foresterdesigns
-title:851g - gigantimax centiskorch by foresterdesigns
-title:858g - gigantimax hatterene by foresterdesigns
-title:861g - gigantimax grimmsnarl by foresterdesigns
-title:869g - gigantimax alcremie by foresterdesigns
-title:879g - gigantimax copperajah by foresterdesigns
-title:884g - gigantimax duraludon by foresterdesigns
-title:888a - zacian by foresterdesigns
-title:888b - zacian by foresterdesigns
-title:889a - zamazenta by foresterdesigns
-title:889b - zamazenta by foresterdesigns
-title:890a - eternatus by foresterdesigns
-title:890b - eternatus by foresterdesigns
-title:f69 - longswords of the thunderous earth by foresterdesigns
-title:f70 - lute of the chatting tunes by foresterdesigns
-title:f71 - claws of the cold mountains by foresterdesigns
-title:f72 - katana of molten steel by foresterdesigns
-title:pokémon inspired weapons &amp; items, 133g - gigantimax eevee
-uploader:comics0026
+subreddit:imaginaryarmor,
+subreddit:imaginaryfashion,
+subreddit:imaginarykanto,
+subreddit:imaginaryweaponry,
+title:003g - gigantimax venusaur by foresterdesigns,
+title:006g - gigantimax charizard by foresterdesigns,
+title:009g - gigantimax blastoise by foresterdesigns,
+title:012g - gigantimax butterfree by foresterdesigns,
+title:025h - gigantimax pikachu by foresterdesigns,
+title:052g - gigantimax meowth by foresterdesigns,
+title:068g - gigantimax machamp by foresterdesigns,
+title:094g - gigantimax gengar by foresterdesigns,
+title:099g - gigantimax kingler by foresterdesigns,
+title:131g - gigantimax lapras by foresterdesigns,
+title:143g - gigantimax snorlax by foresterdesigns,
+title:569g - gigantimax garbodor by foresterdesigns,
+title:809g - gigantimax melmetal by foresterdesigns,
+title:812g - gigantimax rillaboom by foresterdesigns,
+title:815g - gigantimax cinderace by foresterdesigns,
+title:818g - gigantimax inteleon by foresterdesigns,
+title:823g - gigantimax corviknight by foresterdesigns,
+title:826g - gigantimax orbeetle by foresterdesigns,
+title:834g - gigantimax drednaw by foresterdesigns,
+title:839g - gigantimax coalossal by foresterdesigns,
+title:841.5g - gigantimax flapple/appletun by foresterdesigns,
+title:844g - gigantimax sandaconda by foresterdesigns,
+title:849g - gigantimax toxtricity by foresterdesigns,
+title:851g - gigantimax centiskorch by foresterdesigns,
+title:858g - gigantimax hatterene by foresterdesigns,
+title:861g - gigantimax grimmsnarl by foresterdesigns,
+title:869g - gigantimax alcremie by foresterdesigns,
+title:879g - gigantimax copperajah by foresterdesigns,
+title:884g - gigantimax duraludon by foresterdesigns,
+title:888a - zacian by foresterdesigns,
+title:888b - zacian by foresterdesigns,
+title:889a - zamazenta by foresterdesigns,
+title:889b - zamazenta by foresterdesigns,
+title:890a - eternatus by foresterdesigns,
+title:890b - eternatus by foresterdesigns,
+title:f69 - longswords of the thunderous earth by foresterdesigns,
+title:f70 - lute of the chatting tunes by foresterdesigns,
+title:f71 - claws of the cold mountains by foresterdesigns,
+title:f72 - katana of molten steel by foresterdesigns,
+title:pokémon inspired weapons &amp; items, 133g - gigantimax eevee,
+uploader:comics0026,

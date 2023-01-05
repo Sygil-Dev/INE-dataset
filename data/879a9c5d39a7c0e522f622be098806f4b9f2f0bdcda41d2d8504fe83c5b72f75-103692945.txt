@@ -1,20 +1,20 @@
-bulbasaur
-charmander
-cleffairy
-creator:starsoulart
-dratini
-eevee
-mimikyu
-oddish
-paras
-pikachu
-plush
-pokemon
-poliwag
-squirtle
-starsoulart
-subreddit:imaginarykanto
-title:take me home!
-title:take me home! by starsoulart
-togepi
-vulpix
+bulbasaur,
+charmander,
+cleffairy,
+creator:starsoulart,
+dratini,
+eevee,
+mimikyu,
+oddish,
+paras,
+pikachu,
+plush,
+pokemon,
+poliwag,
+squirtle,
+starsoulart,
+subreddit:imaginarykanto,
+title:take me home!,
+title:take me home! by starsoulart,
+togepi,
+vulpix,

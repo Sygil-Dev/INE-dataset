@@ -1,25 +1,25 @@
-2dart
-blizzard
-character design
-concept art
-concept artist
-creator:aleksa stajsic
-creature design
-creatures
-dnd
-dungeouns and dragons
-fantasy
-fantasy illustration
-heartstone
-illustration
-medium:digital 2d
-orc
-riot
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-title:troll
-title:troll, aleksa stajsic
-troll
-uploader:al3ks4
-warcraft
-wow
+2dart,
+blizzard,
+character design,
+concept art,
+concept artist,
+creator:aleksa stajsic,
+creature design,
+creatures,
+dnd,
+dungeouns and dragons,
+fantasy,
+fantasy illustration,
+heartstone,
+illustration,
+medium:digital 2d,
+orc,
+riot,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+title:troll,
+title:troll, aleksa stajsic,
+troll,
+uploader:al3ks4,
+warcraft,
+wow,

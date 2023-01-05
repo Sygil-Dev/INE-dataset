@@ -1,48 +1,48 @@
-ambiguous gender
-ambiguous_gender
-artist:maricu-mana
-blue and white
-blue body
-blue eyes
-blue skin
-blue theme
-blue_body
-blue_eyes
-blue_skin
-cloud
-creator:maricu-mana
-detailed background
-detailed_background
-feral
-furry
-gender:ambiguous
-glowing
-horn
-horns
-medium:detailed background
-medium:digital media
-medium:monochrome
-meta:2019
-meta:blue and white
-meta:blue theme
-meta:blue_and_white
-meta:blue_theme
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:monochrome
-mountain
-rating:safe
-solo
-species:reptile
-species:scalie
-species:snake
-species:unknown species
-species:unknown_species
-star
-subreddit:imaginaryleviathans
-subreddit:immonsters
-title:fountain guardian by maricu-mana
-uploader:lambentenigma
-water
-waterfall
-year:2019
+ambiguous gender,
+ambiguous_gender,
+artist:maricu-mana,
+blue and white,
+blue body,
+blue eyes,
+blue skin,
+blue theme,
+blue_body,
+blue_eyes,
+blue_skin,
+cloud,
+creator:maricu-mana,
+detailed background,
+detailed_background,
+feral,
+furry,
+gender:ambiguous,
+glowing,
+horn,
+horns,
+medium:detailed background,
+medium:digital media,
+medium:monochrome,
+meta:2019,
+meta:blue and white,
+meta:blue theme,
+meta:blue_and_white,
+meta:blue_theme,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:monochrome,
+mountain,
+rating:safe,
+solo,
+species:reptile,
+species:scalie,
+species:snake,
+species:unknown species,
+species:unknown_species,
+star,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+title:fountain guardian by maricu-mana,
+uploader:lambentenigma,
+water,
+waterfall,
+year:2019,

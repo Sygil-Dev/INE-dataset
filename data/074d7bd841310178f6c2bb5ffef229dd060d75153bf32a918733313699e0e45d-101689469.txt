@@ -1,20 +1,20 @@
-animal
-bird
-blue sky
-building
-cloud
-cloudy sky
-day
-flock
-horizon
-mountain
-ocean
-outdoors
-rating:safe
-scenery
-seagull
-sky
-subreddit:imaginarylandscapes
-title:🏰
-tower
-uploader:henrique_que
+animal,
+bird,
+blue sky,
+building,
+cloud,
+cloudy sky,
+day,
+flock,
+horizon,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+seagull,
+sky,
+subreddit:imaginarylandscapes,
+title:🏰,
+tower,
+uploader:henrique_que,

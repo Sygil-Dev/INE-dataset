@@ -1,28 +1,28 @@
-architecture
-armor
-bird
-blue sky
-bridge
-building
-cape
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-facing away
-fantasy
-helmet
-mountain
-outdoors
-rating:safe
-red cape
-scenery
-sky
-skyscraper
-subreddit:imaginarybattlefields
-title:war by jin lh
-tower
-tree
-uploader:tiezep
+architecture,
+armor,
+bird,
+blue sky,
+bridge,
+building,
+cape,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+facing away,
+fantasy,
+helmet,
+mountain,
+outdoors,
+rating:safe,
+red cape,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarybattlefields,
+title:war by jin lh,
+tower,
+tree,
+uploader:tiezep,

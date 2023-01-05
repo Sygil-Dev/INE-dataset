@@ -1,19 +1,19 @@
-alien
-astronaut
-creator:marcin basta
-e.t
-extraterrestial
-interiordesign
-lab
-laboratory
-medium:digital 2d
-retro
-sciencefiction
-scifi
-space
-station
-storytelling
-subreddit:imaginaryfuturism
-title:e.t - retro laboratory
-title:e.t - retro laboratory by marcin basta
-uploader:dancing_cthulhu
+alien,
+astronaut,
+creator:marcin basta,
+e.t,
+extraterrestial,
+interiordesign,
+lab,
+laboratory,
+medium:digital 2d,
+retro,
+sciencefiction,
+scifi,
+space,
+station,
+storytelling,
+subreddit:imaginaryfuturism,
+title:e.t - retro laboratory,
+title:e.t - retro laboratory by marcin basta,
+uploader:dancing_cthulhu,

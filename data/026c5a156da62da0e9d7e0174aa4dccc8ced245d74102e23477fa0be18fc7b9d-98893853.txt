@@ -1,23 +1,23 @@
-1girl
-building
-city
-city lights
-cityscape
-long hair
-neon trim
-outdoors
-rating:safe
-ruins
-scenery
-sky
-skyscraper
-solo
-standing
-star (sky)
-starry sky
-subreddit:imaginaryruins
-title:forager by connor sheehan
-uploader:schnac
-very long hair
-white hair
-wide shot
+1girl,
+building,
+city,
+city lights,
+cityscape,
+long hair,
+neon trim,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+skyscraper,
+solo,
+standing,
+star (sky),
+starry sky,
+subreddit:imaginaryruins,
+title:forager by connor sheehan,
+uploader:schnac,
+very long hair,
+white hair,
+wide shot,

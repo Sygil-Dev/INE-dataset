@@ -1,46 +1,46 @@
-1boy
-2boys
-armor
-beard
-black cape
-bleeding
-blood
-blood from mouth
-blood on clothes
-blood on face
-blood on hands
-blood on weapon
-blood splatter
-blood stain
-cape
-corpse
-cuts
-death
-facial hair
-fur trim
-impaled
-injury
-katana
-male focus
-multiple boys
-mustache
-nosebleed
-old
-old man
-planted
-planted sword
-pool of blood
-rating:safe
-severed head
-sheath
-smoke
-smoking
-stab
-subreddit:imaginarycarnage
-subreddit:imaginarystash
-subreddit:imnsfw
-sword
-title:the king's hand by jinwoo lee
-uploader:lol33ta
-weapon
-wrinkled skin
+1boy,
+2boys,
+armor,
+beard,
+black cape,
+bleeding,
+blood,
+blood from mouth,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on weapon,
+blood splatter,
+blood stain,
+cape,
+corpse,
+cuts,
+death,
+facial hair,
+fur trim,
+impaled,
+injury,
+katana,
+male focus,
+multiple boys,
+mustache,
+nosebleed,
+old,
+old man,
+planted,
+planted sword,
+pool of blood,
+rating:safe,
+severed head,
+sheath,
+smoke,
+smoking,
+stab,
+subreddit:imaginarycarnage,
+subreddit:imaginarystash,
+subreddit:imnsfw,
+sword,
+title:the king's hand by jinwoo lee,
+uploader:lol33ta,
+weapon,
+wrinkled skin,

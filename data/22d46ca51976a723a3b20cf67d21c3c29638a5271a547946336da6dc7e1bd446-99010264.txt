@@ -1,46 +1,46 @@
-ambiguous gender
-bag
-beady eyes
-blue eyes
-brown body
-brown fur
-candy
-chocolate
-claws
-creator:cryptid-creations
-dessert
-eating
-eyes closed
-fangs
-feral
-food
-fur
-graham cracker
-group
-humor
-lying
-marshmallow
-meta:2022
-on back
-pun
-rating:safe
-red body
-red fur
-s'more
-series:nintendo
-series:pokemon
-sleeping
-slightly chubby
-smile
-species:food creature
-species:generation 1 pokemon
-species:pikachu
-species:pokemon (species)
-species:snorlax
-subreddit:imaginarykanto
-title:smorelax by cryptid-creations
-uploader:lol33ta
-video games
-visual pun
-yellow body
-yellow fur
+ambiguous gender,
+bag,
+beady eyes,
+blue eyes,
+brown body,
+brown fur,
+candy,
+chocolate,
+claws,
+creator:cryptid-creations,
+dessert,
+eating,
+eyes closed,
+fangs,
+feral,
+food,
+fur,
+graham cracker,
+group,
+humor,
+lying,
+marshmallow,
+meta:2022,
+on back,
+pun,
+rating:safe,
+red body,
+red fur,
+s'more,
+series:nintendo,
+series:pokemon,
+sleeping,
+slightly chubby,
+smile,
+species:food creature,
+species:generation 1 pokemon,
+species:pikachu,
+species:pokemon (species),
+species:snorlax,
+subreddit:imaginarykanto,
+title:smorelax by cryptid-creations,
+uploader:lol33ta,
+video games,
+visual pun,
+yellow body,
+yellow fur,

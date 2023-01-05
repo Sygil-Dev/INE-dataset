@@ -1,55 +1,55 @@
-1girl
-1other
-3others
-architecture
-bird
-black jacket
-bridge
-building
-car
-castle
-city
-city lights
-cityscape
-clock
-clock tower
-cloud
-cloudy sky
-crane (machine)
-east asian architecture
-ferris wheel
-fire
-gate
-jacket
-lantern
-lights
-long hair
-motor vehicle
-multiple others
-neon lights
-neon trim
-night
-night sky
-outdoors
-pagoda
-rating:safe
-rooftop
-scenery
-science fiction
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-staff
-standing
-star (sky)
-starry sky
-subreddit:imaginaryarchitecture
-title:futurist city created by the a.i. dall.e 2
-tower
-twilight
-uploader:raulsestao
-very long hair
-water
+1girl,
+1other,
+3others,
+architecture,
+bird,
+black jacket,
+bridge,
+building,
+car,
+castle,
+city,
+city lights,
+cityscape,
+clock,
+clock tower,
+cloud,
+cloudy sky,
+crane (machine),
+east asian architecture,
+ferris wheel,
+fire,
+gate,
+jacket,
+lantern,
+lights,
+long hair,
+motor vehicle,
+multiple others,
+neon lights,
+neon trim,
+night,
+night sky,
+outdoors,
+pagoda,
+rating:safe,
+rooftop,
+scenery,
+science fiction,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+staff,
+standing,
+star (sky),
+starry sky,
+subreddit:imaginaryarchitecture,
+title:futurist city created by the a.i. dall.e 2,
+tower,
+twilight,
+uploader:raulsestao,
+very long hair,
+water,

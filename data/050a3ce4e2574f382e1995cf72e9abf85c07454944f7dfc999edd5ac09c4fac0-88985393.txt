@@ -1,19 +1,19 @@
-architecture
-bridge
-building
-city
-city lights
-cityscape
-cloud
-fire
-outdoors
-rating:safe
-scenery
-sky
-skyscraper
-subreddit:imaginaryfuturism
-subreddit:superstructures
-sunset
-title:big hole by artist mike winkelmann (beeple)
-tower
-uploader:anon_ymou5
+architecture,
+bridge,
+building,
+city,
+city lights,
+cityscape,
+cloud,
+fire,
+outdoors,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginaryfuturism,
+subreddit:superstructures,
+sunset,
+title:big hole by artist mike winkelmann (beeple),
+tower,
+uploader:anon_ymou5,

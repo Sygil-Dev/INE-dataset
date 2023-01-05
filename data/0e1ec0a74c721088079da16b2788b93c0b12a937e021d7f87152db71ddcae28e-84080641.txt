@@ -1,20 +1,20 @@
-1girl
-armor
-bald
-beard
-facial hair
-full armor
-gauntlets
-helmet
-holding
-holding sword
-holding weapon
-multiple boys
-rating:safe
-sketch
-subreddit:imaginarywesteros
-subreddit:imfandoms
-sword
-title:syrio in the dance of water and steel by luis borgia (kazataca)
-uploader:glittering_rapier
-weapon
+1girl,
+armor,
+bald,
+beard,
+facial hair,
+full armor,
+gauntlets,
+helmet,
+holding,
+holding sword,
+holding weapon,
+multiple boys,
+rating:safe,
+sketch,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+sword,
+title:syrio in the dance of water and steel by luis borgia (kazataca),
+uploader:glittering_rapier,
+weapon,

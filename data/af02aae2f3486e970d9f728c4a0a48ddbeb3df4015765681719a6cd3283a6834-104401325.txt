@@ -1,25 +1,25 @@
-1boy
-2girls
-alternate costume
-alternate hair color
-armpits
-bow
-character:lux (league of legends)
-choker
-elbow gloves
-fingerless gloves
-gloves
-long hair
-magical girl
-one eye closed
-outstretched arm
-pink hair
-purple eyes
-rating:safe
-reaching out
-smile
-star guardian (league of legends)
-subreddit:imaginaryruneterra
-title:"star guardian ezreal and lux" by me
-twintails
-uploader:pixelonart
+1boy,
+2girls,
+alternate costume,
+alternate hair color,
+armpits,
+bow,
+character:lux (league of legends),
+choker,
+elbow gloves,
+fingerless gloves,
+gloves,
+long hair,
+magical girl,
+one eye closed,
+outstretched arm,
+pink hair,
+purple eyes,
+rating:safe,
+reaching out,
+smile,
+star guardian (league of legends),
+subreddit:imaginaryruneterra,
+title:"star guardian ezreal and lux" by me,
+twintails,
+uploader:pixelonart,

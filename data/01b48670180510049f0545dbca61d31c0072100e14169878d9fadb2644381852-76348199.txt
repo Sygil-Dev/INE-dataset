@@ -1,43 +1,43 @@
-acorn
-anger vein
-autumn
-autumn leaves
-branch
-burning
-campfire
-character:aki shizuha
-deer
-dragonfly
-falling leaves
-fire
-forest
-ginkgo leaf
-holding leaf
-leaf
-leaf background
-leaf hair ornament
-leaf on head
-maple leaf
-molten rock
-nature
-no humans
-orange theme
-outdoors
-painting
-rating:safe
-shell
-spoken anger vein
-squirrel
-star (symbol)
-starfish
-subreddit:imaginaryautumnscapes
-subreddit:imaginarybeasts
-subreddit:imaginarygaming
-subreddit:imfandoms
-subreddit:imlandscapes
-subreddit:immonsters
-sunset
-sweet potato
-title:autumn by istrandar
-tree
-uploader:myrandall
+acorn,
+anger vein,
+autumn,
+autumn leaves,
+branch,
+burning,
+campfire,
+character:aki shizuha,
+deer,
+dragonfly,
+falling leaves,
+fire,
+forest,
+ginkgo leaf,
+holding leaf,
+leaf,
+leaf background,
+leaf hair ornament,
+leaf on head,
+maple leaf,
+molten rock,
+nature,
+no humans,
+orange theme,
+outdoors,
+painting,
+rating:safe,
+shell,
+spoken anger vein,
+squirrel,
+star (symbol),
+starfish,
+subreddit:imaginaryautumnscapes,
+subreddit:imaginarybeasts,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+subreddit:imlandscapes,
+subreddit:immonsters,
+sunset,
+sweet potato,
+title:autumn by istrandar,
+tree,
+uploader:myrandall,

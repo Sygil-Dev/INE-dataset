@@ -1,31 +1,31 @@
-6+boys
-absolutely everyone
-black hair
-blonde hair
-brown hair
-dark skin
-everyone
-flower
-food
-glasses
-hat
-jacket
-long hair
-long sleeves
-mask
-multiple boys
-multiple girls
-orange hair
-plant
-rating:safe
-short hair
-sitting
-skirt
-smile
-subreddit:imaginarysliceoflife
-table
-title:love's lost child at information booth by thornton utz
-traditional media
-uploader:yannirotten
-vest
-weapon
+6+boys,
+absolutely everyone,
+black hair,
+blonde hair,
+brown hair,
+dark skin,
+everyone,
+flower,
+food,
+glasses,
+hat,
+jacket,
+long hair,
+long sleeves,
+mask,
+multiple boys,
+multiple girls,
+orange hair,
+plant,
+rating:safe,
+short hair,
+sitting,
+skirt,
+smile,
+subreddit:imaginarysliceoflife,
+table,
+title:love's lost child at information booth by thornton utz,
+traditional media,
+uploader:yannirotten,
+vest,
+weapon,

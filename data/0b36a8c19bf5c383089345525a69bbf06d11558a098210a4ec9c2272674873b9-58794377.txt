@@ -1,22 +1,22 @@
-1boy
-burning
-campfire
-explosion
-field
-fire
-flame
-full moon
-grass
-helmet
-male focus
-moon
-orange sky
-rating:safe
-realistic
-sky
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-sun
-sunset
-title:astronaut by peter andrew jones
-uploader:xeelee1123
+1boy,
+burning,
+campfire,
+explosion,
+field,
+fire,
+flame,
+full moon,
+grass,
+helmet,
+male focus,
+moon,
+orange sky,
+rating:safe,
+realistic,
+sky,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+sun,
+sunset,
+title:astronaut by peter andrew jones,
+uploader:xeelee1123,

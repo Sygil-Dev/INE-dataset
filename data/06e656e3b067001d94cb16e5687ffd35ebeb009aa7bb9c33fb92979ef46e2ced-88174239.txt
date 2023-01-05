@@ -1,36 +1,36 @@
-architecture
-blue sky
-bridge
-building
-bush
-castle
-city
-cloud
-cloudy sky
-day
-field
-flower
-flower field
-forest
-grass
-lake
-landscape
-mountain
-mountainous horizon
-nature
-no humans
-outdoors
-path
-rating:safe
-river
-road
-scenery
-signature
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:the castle on the hill by artist mateusz michalski
-tower
-tree
-uploader:anon_ymou5
-water
+architecture,
+blue sky,
+bridge,
+building,
+bush,
+castle,
+city,
+cloud,
+cloudy sky,
+day,
+field,
+flower,
+flower field,
+forest,
+grass,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+outdoors,
+path,
+rating:safe,
+river,
+road,
+scenery,
+signature,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:the castle on the hill by artist mateusz michalski,
+tower,
+tree,
+uploader:anon_ymou5,
+water,

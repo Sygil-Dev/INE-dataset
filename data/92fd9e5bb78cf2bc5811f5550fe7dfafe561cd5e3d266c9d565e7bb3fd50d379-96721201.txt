@@ -1,64 +1,64 @@
-abstract
-archive
-army
-beautiful
-book
-book art
-card
-character
-characterdesign
-color
-colorscript
-conceptart
-cover
-coverart
-creator:dominik mayer
-creepy
-dark
-demon
-dominaria united
-dominikmayer
-eerie
-energy
-epic
-evil
-fairytale
-ghost
-graphical
-horror
-illustration
-king
-knight
-lore
-mage
-magic the gathering
-magicart
-medieval
-medium:digital 2d
-mood
-mtg
-mtgaddics
-mtgart
-mtgcommunity
-mtglive
-mythic
-painting
-phyrexia
-portal
-poster
-posterart
-promo art
-saga
-soldier
-soldiers
-story
-stylized
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-sword
-title:mtg - protect the negotiators
-title:protect the negotiators,by dominik mayer [2334x1714]
-token
-uploader:miciy5
-warrior
-weird
+abstract,
+archive,
+army,
+beautiful,
+book,
+book art,
+card,
+character,
+characterdesign,
+color,
+colorscript,
+conceptart,
+cover,
+coverart,
+creator:dominik mayer,
+creepy,
+dark,
+demon,
+dominaria united,
+dominikmayer,
+eerie,
+energy,
+epic,
+evil,
+fairytale,
+ghost,
+graphical,
+horror,
+illustration,
+king,
+knight,
+lore,
+mage,
+magic the gathering,
+magicart,
+medieval,
+medium:digital 2d,
+mood,
+mtg,
+mtgaddics,
+mtgart,
+mtgcommunity,
+mtglive,
+mythic,
+painting,
+phyrexia,
+portal,
+poster,
+posterart,
+promo art,
+saga,
+soldier,
+soldiers,
+story,
+stylized,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+sword,
+title:mtg - protect the negotiators,
+title:protect the negotiators,by dominik mayer [2334x1714],
+token,
+uploader:miciy5,
+warrior,
+weird,

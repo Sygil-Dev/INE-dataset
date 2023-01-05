@@ -1,26 +1,26 @@
-architecture
-bridge
-building
-castle
-city
-city lights
-cityscape
-cloud
-cloudy sky
-fantasy
-mountain
-outdoors
-rating:safe
-river
-scenery
-sky
-skyscraper
-snow
-snowing
-subreddit:imaginarywastelands
-title:winter city boat escape by phil saunders
-tower
-uploader:lol33ta
-water
-watercraft
-waterfall
+architecture,
+bridge,
+building,
+castle,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+fantasy,
+mountain,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+skyscraper,
+snow,
+snowing,
+subreddit:imaginarywastelands,
+title:winter city boat escape by phil saunders,
+tower,
+uploader:lol33ta,
+water,
+watercraft,
+waterfall,

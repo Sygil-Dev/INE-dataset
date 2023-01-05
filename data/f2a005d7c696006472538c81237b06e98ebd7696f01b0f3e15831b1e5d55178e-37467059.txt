@@ -1,81 +1,81 @@
-ambiguous gender
-ambiguous_gender
-artist:silverfox5213
-blep
-booru:e621
-brown body
-brown fur
-brown_body
-brown_fur
-copyright:nintendo
-copyright:pokémon
-creator:silverfox5213
-daww
-detailed
-detailed fur
-detailed_fur
-eye markings
-eye_markings
-feral
-fur
-gender:ambiguous
-gloves
-gloves (marking)
-gloves_(marking)
-green eyes
-green_eyes
-grey background
-grey_background
-leg markings
-leg_markings
-markings
-medium:grey background
-medium:simple background
-medium:text
-meta:detailed
-meta:url
-quadruped
-rating:safe
-series:nintendo
-series:pokémon
-simple background
-simple_background
-socks (marking)
-socks_(marking)
-solo
-source:furaffinity.net
-species:canid
-species:mammal
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:yamper
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-text
-title:yamper
-title:yamper by silverfox5213
-tongue
-tongue out
-tongue_out
-uploader:lol33ta
-video games
-video_games
-whiskers
-white body
-white fur
-white_body
-white_fur
-yamper
-yellow body
-yellow fur
-yellow inner ear
-yellow markings
-yellow nose
-yellow_body
-yellow_fur
-yellow_inner_ear
-yellow_markings
-yellow_nose
+ambiguous gender,
+ambiguous_gender,
+artist:silverfox5213,
+blep,
+booru:e621,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+copyright:nintendo,
+copyright:pokémon,
+creator:silverfox5213,
+daww,
+detailed,
+detailed fur,
+detailed_fur,
+eye markings,
+eye_markings,
+feral,
+fur,
+gender:ambiguous,
+gloves,
+gloves (marking),
+gloves_(marking),
+green eyes,
+green_eyes,
+grey background,
+grey_background,
+leg markings,
+leg_markings,
+markings,
+medium:grey background,
+medium:simple background,
+medium:text,
+meta:detailed,
+meta:url,
+quadruped,
+rating:safe,
+series:nintendo,
+series:pokémon,
+simple background,
+simple_background,
+socks (marking),
+socks_(marking),
+solo,
+source:furaffinity.net,
+species:canid,
+species:mammal,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:yamper,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+text,
+title:yamper,
+title:yamper by silverfox5213,
+tongue,
+tongue out,
+tongue_out,
+uploader:lol33ta,
+video games,
+video_games,
+whiskers,
+white body,
+white fur,
+white_body,
+white_fur,
+yamper,
+yellow body,
+yellow fur,
+yellow inner ear,
+yellow markings,
+yellow nose,
+yellow_body,
+yellow_fur,
+yellow_inner_ear,
+yellow_markings,
+yellow_nose,

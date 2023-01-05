@@ -1,17 +1,17 @@
-1boy
-armor
-beard
-facial hair
-male focus
-manly
-mustache
-old
-old man
-pauldrons
-rating:safe
-realistic
-shoulder armor
-solo
-subreddit:imaginarywarhammer
-title:our lord god henry cavil as an adeptus custodes
-uploader:perditagaming
+1boy,
+armor,
+beard,
+facial hair,
+male focus,
+manly,
+mustache,
+old,
+old man,
+pauldrons,
+rating:safe,
+realistic,
+shoulder armor,
+solo,
+subreddit:imaginarywarhammer,
+title:our lord god henry cavil as an adeptus custodes,
+uploader:perditagaming,

@@ -1,46 +1,46 @@
-american flag
-bleeding
-blood
-blue bodysuit
-bodysuit
-boots
-character:captain america
-corpse
-covered eyes
-entrails
-facing viewer
-full body
-gloves
-gun
-handgun
-holding
-holding gun
-holding weapon
-holster
-meta:absurdres
-meta:commentary
-meta:highres
-monster
-nagayama koharu
-organs
-rating:safe
-rating:sensitive
-red footwear
-red gloves
-series:chainsaw man
-series:marvel
-shield
-shoulder holster
-simple background
-solo
-standing
-star (symbol)
-studio:marvel
-subreddit:imaginarymarvel
-subreddit:imfandoms
-teeth
-title:captain america by tatsuki fujimoto
-uploader:musaibwadkar
-weapon
-weapon on back
-white background
+american flag,
+bleeding,
+blood,
+blue bodysuit,
+bodysuit,
+boots,
+character:captain america,
+corpse,
+covered eyes,
+entrails,
+facing viewer,
+full body,
+gloves,
+gun,
+handgun,
+holding,
+holding gun,
+holding weapon,
+holster,
+meta:absurdres,
+meta:commentary,
+meta:highres,
+monster,
+nagayama koharu,
+organs,
+rating:safe,
+rating:sensitive,
+red footwear,
+red gloves,
+series:chainsaw man,
+series:marvel,
+shield,
+shoulder holster,
+simple background,
+solo,
+standing,
+star (symbol),
+studio:marvel,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+teeth,
+title:captain america by tatsuki fujimoto,
+uploader:musaibwadkar,
+weapon,
+weapon on back,
+white background,

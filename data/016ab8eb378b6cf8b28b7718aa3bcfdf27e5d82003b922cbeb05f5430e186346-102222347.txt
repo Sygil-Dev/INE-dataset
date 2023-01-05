@@ -1,40 +1,40 @@
-1girl
-artist name
-beach
-bicycle
-blue sky
-building
-bush
-cloud
-cloudy sky
-condensation trail
-day
-field
-grass
-hat
-hill
-horizon
-house
-island
-landscape
-mountain
-mountainous horizon
-nature
-ocean
-outdoors
-path
-power lines
-rating:safe
-road
-scenery
-sky
-solo
-subreddit:imaginarylandscapes
-summer
-sun
-sunrise
-sunset
-title:cumulonimbus by jajang sopandi
-tree
-twilight
-uploader:one_giant_nostril
+1girl,
+artist name,
+beach,
+bicycle,
+blue sky,
+building,
+bush,
+cloud,
+cloudy sky,
+condensation trail,
+day,
+field,
+grass,
+hat,
+hill,
+horizon,
+house,
+island,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+ocean,
+outdoors,
+path,
+power lines,
+rating:safe,
+road,
+scenery,
+sky,
+solo,
+subreddit:imaginarylandscapes,
+summer,
+sun,
+sunrise,
+sunset,
+title:cumulonimbus by jajang sopandi,
+tree,
+twilight,
+uploader:one_giant_nostril,

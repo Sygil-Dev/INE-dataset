@@ -1,27 +1,27 @@
-bridge
-building
-car
-city
-copyright name
-day
-grass
-ground vehicle
-jungle
-letterboxed
-moss
-motor vehicle
-no humans
-outdoors
-overgrown
-plant
-post-apocalypse
-rating:safe
-river
-ruins
-scenery
-subreddit:imaginaryvillages
-title:survivalist gate - ldr - rubinkowski
-tokyo (city)
-tree
-uploader:rubinkowski
-vines
+bridge,
+building,
+car,
+city,
+copyright name,
+day,
+grass,
+ground vehicle,
+jungle,
+letterboxed,
+moss,
+motor vehicle,
+no humans,
+outdoors,
+overgrown,
+plant,
+post-apocalypse,
+rating:safe,
+river,
+ruins,
+scenery,
+subreddit:imaginaryvillages,
+title:survivalist gate - ldr - rubinkowski,
+tokyo (city),
+tree,
+uploader:rubinkowski,
+vines,

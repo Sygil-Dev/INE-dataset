@@ -1,19 +1,19 @@
-aenami
-air
-airplane
-birds
-booru:wallhaven.cc
-creator:alena aenami
-il-76
-illustration
-landscape
-medium:digital 2d
-medium:digital media
-red
-sky
-subreddit:imaginaryaviation
-sun
-sunset
-title:stay
-title:stay by alena aenami
-uploader:lol33ta
+aenami,
+air,
+airplane,
+birds,
+booru:wallhaven.cc,
+creator:alena aenami,
+il-76,
+illustration,
+landscape,
+medium:digital 2d,
+medium:digital media,
+red,
+sky,
+subreddit:imaginaryaviation,
+sun,
+sunset,
+title:stay,
+title:stay by alena aenami,
+uploader:lol33ta,

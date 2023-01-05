@@ -1,66 +1,66 @@
-autumn
-autumn leaves
-breathing fire
-burning
-burnt clothes
-campfire
-candle
-character:charizard
-character:charmander
-character:endeavor (boku no hero academia)
-character:fujiwara no mokou
-character:squirtle
-cooking
-copyright name
-destruction
-dusk
-embers
-evening
-explosion
-falling leaves
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-forest
-ginkgo leaf
-goldfish
-gradient sky
-holding leaf
-honey
-leaf
-maple leaf
-molten rock
-mountainous horizon
-muzzle flash
-nature
-no humans
-orange (fruit)
-orange background
-orange sky
-orange theme
-phoenix
-pyrokinesis
-rating:safe
-red sky
-red theme
-smoke
-solo
-sparks
-spiked hair
-starter pokemon trio
-subreddit:imaginaryleviathans
-sun
-sunset
-sweet potato
-sword of hisou
-tail-tip fire
-title:fenix by marcos villarroel (highdarktemplar)
-torch
-twilight
-uploader:myrandall
-volcano
+autumn,
+autumn leaves,
+breathing fire,
+burning,
+burnt clothes,
+campfire,
+candle,
+character:charizard,
+character:charmander,
+character:endeavor (boku no hero academia),
+character:fujiwara no mokou,
+character:squirtle,
+cooking,
+copyright name,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+falling leaves,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+forest,
+ginkgo leaf,
+goldfish,
+gradient sky,
+holding leaf,
+honey,
+leaf,
+maple leaf,
+molten rock,
+mountainous horizon,
+muzzle flash,
+nature,
+no humans,
+orange (fruit),
+orange background,
+orange sky,
+orange theme,
+phoenix,
+pyrokinesis,
+rating:safe,
+red sky,
+red theme,
+smoke,
+solo,
+sparks,
+spiked hair,
+starter pokemon trio,
+subreddit:imaginaryleviathans,
+sun,
+sunset,
+sweet potato,
+sword of hisou,
+tail-tip fire,
+title:fenix by marcos villarroel (highdarktemplar),
+torch,
+twilight,
+uploader:myrandall,
+volcano,

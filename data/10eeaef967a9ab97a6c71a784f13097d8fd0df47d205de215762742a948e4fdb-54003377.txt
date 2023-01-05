@@ -1,52 +1,52 @@
-asteroid ill
-booru:sankaku
-booru:sankaku channel
-character:budew
-character:bulbasaur
-character:charmander
-character:corphish
-character:gen 1 pokemon
-character:gen 3 pokemon
-character:gen 4 pokemon
-character:pikachu
-character:pokemon species
-character:poliwag
-character:squirtle
-creator:asteroid ill
-day
-fire
-flame
-flame-tipped tail
-gen 1 pokemon
-gen 3 pokemon
-gen 4 pokemon
-highres
-holding
-holding pokemon
-medium:high resolution
-medium:very high resolution
-meta:absurdres
-meta:commentary request
-meta:highres
-no humans
-outdoors
-outside
-paws
-pokemon (creature)
-rating:general
-rating:s
-rating:safe
-series:nintendo
-series:pokemon
-squirting
-squirting liquid
-standing
-starter pokemon trio
-studio:creatures inc.
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:introducing budew to squirtle by あすてろid
-uploader:hornyheracross
-water
+asteroid ill,
+booru:sankaku,
+booru:sankaku channel,
+character:budew,
+character:bulbasaur,
+character:charmander,
+character:corphish,
+character:gen 1 pokemon,
+character:gen 3 pokemon,
+character:gen 4 pokemon,
+character:pikachu,
+character:pokemon species,
+character:poliwag,
+character:squirtle,
+creator:asteroid ill,
+day,
+fire,
+flame,
+flame-tipped tail,
+gen 1 pokemon,
+gen 3 pokemon,
+gen 4 pokemon,
+highres,
+holding,
+holding pokemon,
+medium:high resolution,
+medium:very high resolution,
+meta:absurdres,
+meta:commentary request,
+meta:highres,
+no humans,
+outdoors,
+outside,
+paws,
+pokemon (creature),
+rating:general,
+rating:s,
+rating:safe,
+series:nintendo,
+series:pokemon,
+squirting,
+squirting liquid,
+standing,
+starter pokemon trio,
+studio:creatures inc.,
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:introducing budew to squirtle by あすてろid,
+uploader:hornyheracross,
+water,

@@ -1,34 +1,34 @@
-1girl
-assault rifle
-blurry
-blurry background
-blurry foreground
-building
-chromatic aberration
-city
-city lights
-concert
-cyberpunk
-depth of field
-focused
-glowstick
-gun
-holding gun
-holding weapon
-mask
-motion blur
-neon lights
-photo (medium)
-photo background
-pink hair
-rating:safe
-rifle
-screen
-skyscraper
-solo
-stained glass
-subreddit:cyberbooty
-subreddit:imaginarycyberpunk
-title:cyberpunk by fu chenqi
-uploader:merigemini
-weapon
+1girl,
+assault rifle,
+blurry,
+blurry background,
+blurry foreground,
+building,
+chromatic aberration,
+city,
+city lights,
+concert,
+cyberpunk,
+depth of field,
+focused,
+glowstick,
+gun,
+holding gun,
+holding weapon,
+mask,
+motion blur,
+neon lights,
+photo (medium),
+photo background,
+pink hair,
+rating:safe,
+rifle,
+screen,
+skyscraper,
+solo,
+stained glass,
+subreddit:cyberbooty,
+subreddit:imaginarycyberpunk,
+title:cyberpunk by fu chenqi,
+uploader:merigemini,
+weapon,

@@ -1,39 +1,39 @@
-above clouds
-beach
-blue sky
-bridge
-building
-castle
-city
-cityscape
-clock tower
-cloud
-cloudy sky
-condensation trail
-day
-fantasy
-horizon
-house
-landscape
-lens flare
-mountain
-mountainous horizon
-no humans
-ocean
-outdoors
-rating:safe
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-sun
-sunlight
-sunrise
-sunset
-title:art by オズワルド (oswaldo kato)
-tower
-uploader:yannirotten
-water
-watercraft
+above clouds,
+beach,
+blue sky,
+bridge,
+building,
+castle,
+city,
+cityscape,
+clock tower,
+cloud,
+cloudy sky,
+condensation trail,
+day,
+fantasy,
+horizon,
+house,
+landscape,
+lens flare,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+sun,
+sunlight,
+sunrise,
+sunset,
+title:art by オズワルド (oswaldo kato),
+tower,
+uploader:yannirotten,
+water,
+watercraft,

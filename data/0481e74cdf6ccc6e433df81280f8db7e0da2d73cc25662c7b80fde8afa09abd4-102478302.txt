@@ -1,20 +1,20 @@
-1girl
-animal
-beard
-dog
-facial hair
-marker (medium)
-millipen (medium)
-multiple boys
-old
-open mouth
-painting (medium)
-photo (medium)
-rating:safe
-realistic
-shiba inu
-subreddit:imaginaryfallout
-title:squirrel on a stick by richard falla
-traditional media
-uploader:i_burn_cereal
-watercolor (medium)
+1girl,
+animal,
+beard,
+dog,
+facial hair,
+marker (medium),
+millipen (medium),
+multiple boys,
+old,
+open mouth,
+painting (medium),
+photo (medium),
+rating:safe,
+realistic,
+shiba inu,
+subreddit:imaginaryfallout,
+title:squirrel on a stick by richard falla,
+traditional media,
+uploader:i_burn_cereal,
+watercolor (medium),

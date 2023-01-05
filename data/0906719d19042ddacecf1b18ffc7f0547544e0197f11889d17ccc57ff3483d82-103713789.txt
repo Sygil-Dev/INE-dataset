@@ -1,82 +1,82 @@
-6+boys
-aiming
-aircraft
-ak-47
-ammunition belt
-anti-materiel rifle
-ar-15
-assault rifle
-battle rifle
-beam rifle
-beretta 92
-binoculars
-body armor
-brown hair
-bulletproof vest
-bullpup
-drum magazine
-earpiece
-earth (planet)
-energy gun
-facial hair
-finger on trigger
-gatling gun
-grenade launcher
-gun
-gun to head
-h&k hk416
-h&k ump
-handgun
-headset
-heckler & koch
-helicopter
-helmet
-holding gun
-holding weapon
-holster
-holstered weapon
-kalashnikov rifle
-load bearing vest
-m4 carbine
-m16
-m1911
-machine gun
-magazine (weapon)
-military
-military uniform
-multiple boys
-p90
-pistol
-planet
-police
-police uniform
-policewoman
-rating:safe
-ray gun
-realistic
-retro artstyle
-revolver
-rifle
-rocket launcher
-science fiction
-scope
-shell casing
-shotgun
-sig sauer
-smoking gun
-sniper rifle
-soldier
-space
-space craft
-spacesuit
-star (sky)
-starry sky
-submachine gun
-subreddit:imaginaryhalo
-suppressor
-title:blue team by the-chronothaur
-trigger discipline
-uniform
-uploader:[deleted]
-walther
-weapon
+6+boys,
+aiming,
+aircraft,
+ak-47,
+ammunition belt,
+anti-materiel rifle,
+ar-15,
+assault rifle,
+battle rifle,
+beam rifle,
+beretta 92,
+binoculars,
+body armor,
+brown hair,
+bulletproof vest,
+bullpup,
+drum magazine,
+earpiece,
+earth (planet),
+energy gun,
+facial hair,
+finger on trigger,
+gatling gun,
+grenade launcher,
+gun,
+gun to head,
+h&k hk416,
+h&k ump,
+handgun,
+headset,
+heckler & koch,
+helicopter,
+helmet,
+holding gun,
+holding weapon,
+holster,
+holstered weapon,
+kalashnikov rifle,
+load bearing vest,
+m4 carbine,
+m16,
+m1911,
+machine gun,
+magazine (weapon),
+military,
+military uniform,
+multiple boys,
+p90,
+pistol,
+planet,
+police,
+police uniform,
+policewoman,
+rating:safe,
+ray gun,
+realistic,
+retro artstyle,
+revolver,
+rifle,
+rocket launcher,
+science fiction,
+scope,
+shell casing,
+shotgun,
+sig sauer,
+smoking gun,
+sniper rifle,
+soldier,
+space,
+space craft,
+spacesuit,
+star (sky),
+starry sky,
+submachine gun,
+subreddit:imaginaryhalo,
+suppressor,
+title:blue team by the-chronothaur,
+trigger discipline,
+uniform,
+uploader:[deleted],
+walther,
+weapon,

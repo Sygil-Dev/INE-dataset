@@ -1,33 +1,33 @@
-bird
-blue sky
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-fantasy
-floating island
-forest
-lake
-landscape
-mountain
-mountainous horizon
-nature
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-sunbeam
-sunset
-title:the wihte castle by artist pengzhen zhang
-tower
-tree
-uploader:anon_ymou5
-water
-waterfall
+bird,
+blue sky,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+fantasy,
+floating island,
+forest,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+sunbeam,
+sunset,
+title:the wihte castle by artist pengzhen zhang,
+tower,
+tree,
+uploader:anon_ymou5,
+water,
+waterfall,

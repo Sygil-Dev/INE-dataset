@@ -1,23 +1,23 @@
-architecture
-building
-bush
-city
-day
-east asian architecture
-forest
-grass
-house
-nature
-no humans
-outdoors
-overgrown
-path
-plant
-rating:safe
-road
-ruins
-scenery
-subreddit:imaginaryvillages
-title:farm town by virginia palomeque
-tree
-uploader:[deleted]
+architecture,
+building,
+bush,
+city,
+day,
+east asian architecture,
+forest,
+grass,
+house,
+nature,
+no humans,
+outdoors,
+overgrown,
+path,
+plant,
+rating:safe,
+road,
+ruins,
+scenery,
+subreddit:imaginaryvillages,
+title:farm town by virginia palomeque,
+tree,
+uploader:[deleted],

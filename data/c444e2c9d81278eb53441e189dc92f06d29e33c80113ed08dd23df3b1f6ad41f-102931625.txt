@@ -1,48 +1,48 @@
-1girl
-abs
-armory
-assault rifle
-bag
-blue eyes
-blue hair
-boots
-box
-cargo pants
-cyborg
-duffel bag
-elbow pads
-fingerless gloves
-gloves
-gun
-gun rack
-handgun
-holding
-holding gun
-holding weapon
-knee pads
-looking down
-meta:absurdres
-meta:highres
-multicolored hair
-muscular
-muscular female
-over shoulder
-pants
-pink hair
-prosthesis
-prosthetic arm
-rating:general
-rifle
-rusty dela cruz
-series:cyberpunk 2077
-series:cyberpunk (series)
-series:original
-shotgun
-sniper rifle
-solo
-subreddit:imaginarycyberpunk
-tank top
-title:isis by rusty dela cruz
-uploader:lol33ta
-weapon
-weapon over shoulder
+1girl,
+abs,
+armory,
+assault rifle,
+bag,
+blue eyes,
+blue hair,
+boots,
+box,
+cargo pants,
+cyborg,
+duffel bag,
+elbow pads,
+fingerless gloves,
+gloves,
+gun,
+gun rack,
+handgun,
+holding,
+holding gun,
+holding weapon,
+knee pads,
+looking down,
+meta:absurdres,
+meta:highres,
+multicolored hair,
+muscular,
+muscular female,
+over shoulder,
+pants,
+pink hair,
+prosthesis,
+prosthetic arm,
+rating:general,
+rifle,
+rusty dela cruz,
+series:cyberpunk 2077,
+series:cyberpunk (series),
+series:original,
+shotgun,
+sniper rifle,
+solo,
+subreddit:imaginarycyberpunk,
+tank top,
+title:isis by rusty dela cruz,
+uploader:lol33ta,
+weapon,
+weapon over shoulder,

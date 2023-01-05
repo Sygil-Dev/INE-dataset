@@ -1,31 +1,31 @@
-2girls
-bird
-black hair
-blonde hair
-casual
-character:qiu tong
-character:sun jing
-closed eyes
-creator:tanjiu
-creator:tanjiu9
-dress
-floating hair
-floral print
-holding hands
-jewelry
-long hair
-multiple girls
-necklace
-rating:general
-seagull
-series:sq (series)
-shirt
-short hair
-sitting
-smile
-subreddit:imaginarylovers
-subreddit:imcharacters
-tamen de gushi
-title:summer by tanjiu9
-uploader:musaibwadkar
-white shirt
+2girls,
+bird,
+black hair,
+blonde hair,
+casual,
+character:qiu tong,
+character:sun jing,
+closed eyes,
+creator:tanjiu,
+creator:tanjiu9,
+dress,
+floating hair,
+floral print,
+holding hands,
+jewelry,
+long hair,
+multiple girls,
+necklace,
+rating:general,
+seagull,
+series:sq (series),
+shirt,
+short hair,
+sitting,
+smile,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+tamen de gushi,
+title:summer by tanjiu9,
+uploader:musaibwadkar,
+white shirt,

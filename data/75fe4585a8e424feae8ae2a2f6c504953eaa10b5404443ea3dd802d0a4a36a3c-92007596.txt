@@ -1,84 +1,84 @@
-1girl
-1other
-ambiguous gender
-anthro
-barefoot
-black claws
-black hair
-blue body
-blue scales
-bracelet
-braid
-braided hair
-brown hair
-child
-claws
-closed eyes
-clothing
-countershading
-creator:mossa
-creator:mossacannibalis
-creator:wh40kbestof
-crocodilian
-dress
-duo
-elf
-embrace
-eyes closed
-fangs
-feet
-female
-from side
-furry
-hair
-highres
-hug
-humanoid pointy ears
-jewelry
-kroxigor
-lizardman (warhammer fantasy)
-long hair
-long sleeves
-meta:2019
-meta:colored
-meta:digital media (artwork)
-meta:hi res
-meta:highres
-meta:shaded
-monster
-mossacannibalis
-narrowed eyes
-necklace
-pointy ears
-rating:safe
-rating:sensitive
-scales
-scar
-series:warhammer (franchise)
-series:warhammer fantasy
-simple background
-site:e621
-size difference
-smaller female
-smaller human
-smile
-species:crocodilian
-species:elf
-species:human
-species:humanoid
-species:kroxigor
-species:lizardman
-species:lizardman (warhammer fantasy)
-species:mammal
-species:reptile
-species:scalie
-squint
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:wholesome kroxigor and elf (by @mossacannibalis)
-uploader:riot-knight
-white background
-white clothing
-white dress
-wristband
-young
+1girl,
+1other,
+ambiguous gender,
+anthro,
+barefoot,
+black claws,
+black hair,
+blue body,
+blue scales,
+bracelet,
+braid,
+braided hair,
+brown hair,
+child,
+claws,
+closed eyes,
+clothing,
+countershading,
+creator:mossa,
+creator:mossacannibalis,
+creator:wh40kbestof,
+crocodilian,
+dress,
+duo,
+elf,
+embrace,
+eyes closed,
+fangs,
+feet,
+female,
+from side,
+furry,
+hair,
+highres,
+hug,
+humanoid pointy ears,
+jewelry,
+kroxigor,
+lizardman (warhammer fantasy),
+long hair,
+long sleeves,
+meta:2019,
+meta:colored,
+meta:digital media (artwork),
+meta:hi res,
+meta:highres,
+meta:shaded,
+monster,
+mossacannibalis,
+narrowed eyes,
+necklace,
+pointy ears,
+rating:safe,
+rating:sensitive,
+scales,
+scar,
+series:warhammer (franchise),
+series:warhammer fantasy,
+simple background,
+site:e621,
+size difference,
+smaller female,
+smaller human,
+smile,
+species:crocodilian,
+species:elf,
+species:human,
+species:humanoid,
+species:kroxigor,
+species:lizardman,
+species:lizardman (warhammer fantasy),
+species:mammal,
+species:reptile,
+species:scalie,
+squint,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:wholesome kroxigor and elf (by @mossacannibalis),
+uploader:riot-knight,
+white background,
+white clothing,
+white dress,
+wristband,
+young,

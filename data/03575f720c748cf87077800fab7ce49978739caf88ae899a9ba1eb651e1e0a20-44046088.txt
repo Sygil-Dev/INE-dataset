@@ -1,37 +1,37 @@
-1girl
-arrow (projectile)
-beach
-blue sky
-boat
-bow (weapon)
-cloud
-cloudy sky
-creator:joseph weston
-day
-demon tail
-fishing
-fishing rod
-horizon
-long hair
-medium:digital 2d
-mountain
-ocean
-outdoors
-palm tree
-plant
-pointy ears
-rating:safe
-sand
-shore
-sky
-solo
-splashing
-subreddit:imaginaryazeroth
-tail
-title:world of warcraft - enarka
-title:world of warcraft - enarka by joseph weston
-uploader:malign-god
-wading
-water
-waves
-whip
+1girl,
+arrow (projectile),
+beach,
+blue sky,
+boat,
+bow (weapon),
+cloud,
+cloudy sky,
+creator:joseph weston,
+day,
+demon tail,
+fishing,
+fishing rod,
+horizon,
+long hair,
+medium:digital 2d,
+mountain,
+ocean,
+outdoors,
+palm tree,
+plant,
+pointy ears,
+rating:safe,
+sand,
+shore,
+sky,
+solo,
+splashing,
+subreddit:imaginaryazeroth,
+tail,
+title:world of warcraft - enarka,
+title:world of warcraft - enarka by joseph weston,
+uploader:malign-god,
+wading,
+water,
+waves,
+whip,

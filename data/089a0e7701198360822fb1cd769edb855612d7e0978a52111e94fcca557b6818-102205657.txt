@@ -1,32 +1,32 @@
-1girl
-bangs
-brown hair
-buttons
-cardigan
-character:gloria (pokemon)
-closed eyes
-closed mouth
-collared dress
-dress
-eyelashes
-grass
-green headwear
-grey cardigan
-hat
-holding
-hooded cardigan
-knees
-long sleeves
-outdoors
-pink dress
-plaid legwear
-pokemon (creature)
-rating:safe
-short hair
-sitting
-sleeping
-smile
-subreddit:imaginarykanto
-tam o' shanter
-title:untitled by koike
-uploader:pkmnart
+1girl,
+bangs,
+brown hair,
+buttons,
+cardigan,
+character:gloria (pokemon),
+closed eyes,
+closed mouth,
+collared dress,
+dress,
+eyelashes,
+grass,
+green headwear,
+grey cardigan,
+hat,
+holding,
+hooded cardigan,
+knees,
+long sleeves,
+outdoors,
+pink dress,
+plaid legwear,
+pokemon (creature),
+rating:safe,
+short hair,
+sitting,
+sleeping,
+smile,
+subreddit:imaginarykanto,
+tam o' shanter,
+title:untitled by koike,
+uploader:pkmnart,

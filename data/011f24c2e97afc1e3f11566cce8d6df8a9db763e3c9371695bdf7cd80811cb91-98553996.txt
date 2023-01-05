@@ -1,20 +1,20 @@
-artist name
-electricity
-fire
-forest
-glowing
-grass
-green theme
-lightning
-moon
-nature
-no humans
-planet
-rating:safe
-scenery
-subreddit:imaginarylandscapes
-subreddit:imaginarymindscapes
-subreddit:imaginarynecronomicon
-title:the lake of hali. made by me with oil on a canvas 50x40cm
-tree
-uploader:degeneart
+artist name,
+electricity,
+fire,
+forest,
+glowing,
+grass,
+green theme,
+lightning,
+moon,
+nature,
+no humans,
+planet,
+rating:safe,
+scenery,
+subreddit:imaginarylandscapes,
+subreddit:imaginarymindscapes,
+subreddit:imaginarynecronomicon,
+title:the lake of hali. made by me with oil on a canvas 50x40cm,
+tree,
+uploader:degeneart,

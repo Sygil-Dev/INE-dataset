@@ -1,63 +1,63 @@
-1boy
-234 (1234!)
-animal
-arm on knee
-bangs
-belt
-bird
-black hair
-black legwear
-black pants
-black shirt
-blue eyes
-blurry
-blurry foreground
-breath
-building
-buttons
-character:tomioka giyuu
-cloud
-clouds
-cloudy sky
-creator:234 (1234!)
-crow
-gakuran
-hair between eyes
-haori
-high collar
-holding
-holding weapon
-japanese clothes
-katana
-knee up
-lantern
-long hair
-long sleeves
-looking to the side
-male focus
-meta:absurdres
-meta:highres
-outdoors
-pants
-paper lantern
-pillar
-rating:safe
-scenery
-school uniform
-series:kimetsu no yaiba
-sheath
-shirt
-shirt tucked in
-sitting
-sky
-snow
-snowing
-solo
-subreddit:imaginaryanime
-subreddit:imfandoms
-sword
-title:giyu tomioka by 234 [demon slayer]
-tree
-uniform
-uploader:ashioksucks
-weapon
+1boy,
+234 (1234!),
+animal,
+arm on knee,
+bangs,
+belt,
+bird,
+black hair,
+black legwear,
+black pants,
+black shirt,
+blue eyes,
+blurry,
+blurry foreground,
+breath,
+building,
+buttons,
+character:tomioka giyuu,
+cloud,
+clouds,
+cloudy sky,
+creator:234 (1234!),
+crow,
+gakuran,
+hair between eyes,
+haori,
+high collar,
+holding,
+holding weapon,
+japanese clothes,
+katana,
+knee up,
+lantern,
+long hair,
+long sleeves,
+looking to the side,
+male focus,
+meta:absurdres,
+meta:highres,
+outdoors,
+pants,
+paper lantern,
+pillar,
+rating:safe,
+scenery,
+school uniform,
+series:kimetsu no yaiba,
+sheath,
+shirt,
+shirt tucked in,
+sitting,
+sky,
+snow,
+snowing,
+solo,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+sword,
+title:giyu tomioka by 234 [demon slayer],
+tree,
+uniform,
+uploader:ashioksucks,
+weapon,

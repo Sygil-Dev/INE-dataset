@@ -1,34 +1,34 @@
-bench
-blue sky
-building
-bush
-cloud
-cloudy sky
-creator:josh pierce
-day
-field
-forest
-full moon
-grass
-hill
-horizon
-house
-landscape
-moon
-mountain
-mountainous horizon
-nature
-no humans
-outdoors
-path
-rating:safe
-road
-scenery
-sky
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-sun
-title:barn by josh pierce
-title:daily renders october 2021
-tree
-uploader:lol33ta
+bench,
+blue sky,
+building,
+bush,
+cloud,
+cloudy sky,
+creator:josh pierce,
+day,
+field,
+forest,
+full moon,
+grass,
+hill,
+horizon,
+house,
+landscape,
+moon,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+outdoors,
+path,
+rating:safe,
+road,
+scenery,
+sky,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+sun,
+title:barn by josh pierce,
+title:daily renders october 2021,
+tree,
+uploader:lol33ta,

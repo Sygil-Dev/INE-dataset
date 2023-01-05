@@ -1,20 +1,20 @@
-creator:joakim ericsson
-cthulhu
-fog
-front
-genre:science fiction
-god
-horror
-leviathan
-lovecraft
-medium:digital 2d
-monster
-no mans land
-sea
-subreddit:imaginarybattlefields
-tank
-title:not so quiet on the western front
-title:not so quiet on the western front by joakim ericsson
-uploader:thegypsyslayer
-war
-ww1
+creator:joakim ericsson,
+cthulhu,
+fog,
+front,
+genre:science fiction,
+god,
+horror,
+leviathan,
+lovecraft,
+medium:digital 2d,
+monster,
+no mans land,
+sea,
+subreddit:imaginarybattlefields,
+tank,
+title:not so quiet on the western front,
+title:not so quiet on the western front by joakim ericsson,
+uploader:thegypsyslayer,
+war,
+ww1,

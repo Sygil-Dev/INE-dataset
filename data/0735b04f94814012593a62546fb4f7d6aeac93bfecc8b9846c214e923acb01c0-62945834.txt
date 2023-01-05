@@ -1,27 +1,27 @@
-1girl
-air bubble
-bleeding
-blood
-blood on clothes
-blood on face
-blood on hands
-blood on weapon
-blood splatter
-blood stain
-bubble
-corpse
-death
-defloration
-guro
-injury
-rating:safe
-severed head
-severed limb
-subreddit:imaginarybooks
-subreddit:imaginarycarnage
-subreddit:imnsfw
-title:vivisection by aaron miller
-underwater
-uploader:blood-n-cheese
-uploader:lol33ta
-weapon
+1girl,
+air bubble,
+bleeding,
+blood,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on weapon,
+blood splatter,
+blood stain,
+bubble,
+corpse,
+death,
+defloration,
+guro,
+injury,
+rating:safe,
+severed head,
+severed limb,
+subreddit:imaginarybooks,
+subreddit:imaginarycarnage,
+subreddit:imnsfw,
+title:vivisection by aaron miller,
+underwater,
+uploader:blood-n-cheese,
+uploader:lol33ta,
+weapon,

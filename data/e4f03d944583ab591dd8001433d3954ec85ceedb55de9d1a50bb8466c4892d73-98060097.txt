@@ -1,31 +1,31 @@
-1boy
-blonde hair
-blue eyes
-boots
-character:link
-cloud
-clouds
-creator:cutesexyrobutts
-cutesexyrobutts
-floating island
-gloves
-highres
-long hair
-meta:highres
-meta:tagme
-pants
-patreon username
-pointy ears
-rating:general
-ruins
-series:nintendo
-series:the legend of zelda
-shield
-shoulder pads
-solo
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sword
-title:untitled by cutesexyrobutts
-uploader:vecttor
-weapon
+1boy,
+blonde hair,
+blue eyes,
+boots,
+character:link,
+cloud,
+clouds,
+creator:cutesexyrobutts,
+cutesexyrobutts,
+floating island,
+gloves,
+highres,
+long hair,
+meta:highres,
+meta:tagme,
+pants,
+patreon username,
+pointy ears,
+rating:general,
+ruins,
+series:nintendo,
+series:the legend of zelda,
+shield,
+shoulder pads,
+solo,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sword,
+title:untitled by cutesexyrobutts,
+uploader:vecttor,
+weapon,

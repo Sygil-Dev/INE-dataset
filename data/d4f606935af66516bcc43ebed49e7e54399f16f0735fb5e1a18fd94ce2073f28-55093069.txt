@@ -1,49 +1,49 @@
-1girl
-88 (vashperado)
-astronaut
-bike shorts
-black hair
-black shorts
-broken
-character:88 (mike nesbitt)
-character:88 (vashperado)
-closed eyes
-clothes removed
-creator:vashperado
-eyes closed
-female
-floating hair
-full body
-gender:female
-headwear removed
-helmet
-helmet removed
-implied death
-long hair
-medium:16:9 aspect ratio
-medium:high resolution
-meta:commentary
-meta:english commentary
-meta:highres
-meta:mixed-language commentary
-midriff
-mixed-language commentary
-navel
-nose
-rating:safe
-screw
-series:original
-shorts
-shoulder pads
-solo
-solo female
-space
-space helmet
-spacesuit
-spats
-stomach
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-title:88 off____line
-title:88 off____line by vashperado
-uploader:myrandall
+1girl,
+88 (vashperado),
+astronaut,
+bike shorts,
+black hair,
+black shorts,
+broken,
+character:88 (mike nesbitt),
+character:88 (vashperado),
+closed eyes,
+clothes removed,
+creator:vashperado,
+eyes closed,
+female,
+floating hair,
+full body,
+gender:female,
+headwear removed,
+helmet,
+helmet removed,
+implied death,
+long hair,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:mixed-language commentary,
+midriff,
+mixed-language commentary,
+navel,
+nose,
+rating:safe,
+screw,
+series:original,
+shorts,
+shoulder pads,
+solo,
+solo female,
+space,
+space helmet,
+spacesuit,
+spats,
+stomach,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+title:88 off____line,
+title:88 off____line by vashperado,
+uploader:myrandall,

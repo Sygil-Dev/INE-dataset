@@ -1,20 +1,20 @@
-1boy
-beard
-facial hair
-greyscale
-hat
-looking at viewer
-male focus
-monochrome
-mustache
-old
-old man
-rating:safe
-realistic
-signature
-solo
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-title:charcoal drawing of gandalf , by me
-uploader:almighty_inheritor
-wrinkled skin
+1boy,
+beard,
+facial hair,
+greyscale,
+hat,
+looking at viewer,
+male focus,
+monochrome,
+mustache,
+old,
+old man,
+rating:safe,
+realistic,
+signature,
+solo,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+title:charcoal drawing of gandalf , by me,
+uploader:almighty_inheritor,
+wrinkled skin,

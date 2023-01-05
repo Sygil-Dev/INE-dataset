@@ -1,42 +1,42 @@
-1boy
-animal
-barefoot
-colored sclera
-creator:fiship
-creator:matilda fiship
-creator:matilda vin
-creator:matilda_fiship
-english text
-forked tongue
-full body
-gold
-long hair
-long toenails
-looking at viewer
-male focus
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-monster boy
-orange sclera
-rating:safe
-scales
-series:original
-sidelocks
-signature
-simple background
-snake
-snake boy
-solo
-standing
-subreddit:imaginaryhybrids
-subreddit:immonsters
-title:king cobra (@matilda_fiship)
-title:king cobra (matilda_fiship)
-toenails
-tongue
-topless male
-uploader:ice_heater
-white background
-white hair
+1boy,
+animal,
+barefoot,
+colored sclera,
+creator:fiship,
+creator:matilda fiship,
+creator:matilda vin,
+creator:matilda_fiship,
+english text,
+forked tongue,
+full body,
+gold,
+long hair,
+long toenails,
+looking at viewer,
+male focus,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+monster boy,
+orange sclera,
+rating:safe,
+scales,
+series:original,
+sidelocks,
+signature,
+simple background,
+snake,
+snake boy,
+solo,
+standing,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+title:king cobra (@matilda_fiship),
+title:king cobra (matilda_fiship),
+toenails,
+tongue,
+topless male,
+uploader:ice_heater,
+white background,
+white hair,

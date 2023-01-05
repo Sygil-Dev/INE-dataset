@@ -1,24 +1,24 @@
-blue fire
-breathing fire
-burning
-embers
-explosion
-fiery hair
-fire
-flame
-flaming sword
-flaming weapon
-glowing
-glowing eyes
-grey background
-horns
-molten rock
-no humans
-rating:safe
-smoke
-solo
-spikes
-subreddit:imaginaryruneterra
-title:celestial rhino by tooth wu
-torch
-uploader:myrandall
+blue fire,
+breathing fire,
+burning,
+embers,
+explosion,
+fiery hair,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+glowing,
+glowing eyes,
+grey background,
+horns,
+molten rock,
+no humans,
+rating:safe,
+smoke,
+solo,
+spikes,
+subreddit:imaginaryruneterra,
+title:celestial rhino by tooth wu,
+torch,
+uploader:myrandall,

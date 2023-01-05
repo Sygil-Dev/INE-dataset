@@ -1,37 +1,37 @@
-1girl
-black flower
-black rose
-blue flower
-blue rose
-bouquet
-flower
-gloves
-green flower
-green hair
-holding
-holding bouquet
-holding flower
-mole
-nose
-orange flower
-pink flower
-pink rose
-purple flower
-purple rose
-rating:safe
-red rose
-rose
-short hair
-smile
-solo
-subreddit:imaginarycharacters
-thorns
-title:rendering and color practice ✍️
-uploader:kai0704
-vase
-white flower
-white gloves
-white rose
-yellow eyes
-yellow flower
-yellow rose
+1girl,
+black flower,
+black rose,
+blue flower,
+blue rose,
+bouquet,
+flower,
+gloves,
+green flower,
+green hair,
+holding,
+holding bouquet,
+holding flower,
+mole,
+nose,
+orange flower,
+pink flower,
+pink rose,
+purple flower,
+purple rose,
+rating:safe,
+red rose,
+rose,
+short hair,
+smile,
+solo,
+subreddit:imaginarycharacters,
+thorns,
+title:rendering and color practice ✍️,
+uploader:kai0704,
+vase,
+white flower,
+white gloves,
+white rose,
+yellow eyes,
+yellow flower,
+yellow rose,

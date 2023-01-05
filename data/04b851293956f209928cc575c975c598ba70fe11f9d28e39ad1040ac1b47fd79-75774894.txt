@@ -1,25 +1,25 @@
-1girl
-backpack
-brown hair
-bush
-field
-flower
-forest
-gloves
-grass
-gun
-military
-military uniform
-nature
-outdoors
-plant
-rating:safe
-rifle
-solo
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-title:sora tol, imperial marksman (sfm by rookie425)
-tree
-uniform
-uploader:hammerhead425
-weapon
+1girl,
+backpack,
+brown hair,
+bush,
+field,
+flower,
+forest,
+gloves,
+grass,
+gun,
+military,
+military uniform,
+nature,
+outdoors,
+plant,
+rating:safe,
+rifle,
+solo,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+title:sora tol, imperial marksman (sfm by rookie425),
+tree,
+uniform,
+uploader:hammerhead425,
+weapon,

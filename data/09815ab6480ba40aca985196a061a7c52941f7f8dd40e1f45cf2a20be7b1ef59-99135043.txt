@@ -1,28 +1,28 @@
-1girl
-autumn
-autumn leaves
-bare tree
-branch
-crescent moon
-hakama
-hakama skirt
-japanese clothes
-lantern
-leaf
-long sleeves
-moon
-night
-outdoors
-pleated skirt
-rating:safe
-scenery
-skirt
-sky
-solo
-standing
-star (sky)
-subreddit:imaginarytemples
-sunset
-title:the carolers by dominic davison
-tree
-uploader:chalkchick0
+1girl,
+autumn,
+autumn leaves,
+bare tree,
+branch,
+crescent moon,
+hakama,
+hakama skirt,
+japanese clothes,
+lantern,
+leaf,
+long sleeves,
+moon,
+night,
+outdoors,
+pleated skirt,
+rating:safe,
+scenery,
+skirt,
+sky,
+solo,
+standing,
+star (sky),
+subreddit:imaginarytemples,
+sunset,
+title:the carolers by dominic davison,
+tree,
+uploader:chalkchick0,

@@ -1,34 +1,34 @@
-1boy
-2girls
-2girls_1guy
-3girls
-against tree
-arm wrap
-armband
-armlet
-black hair
-blurry
-blurry background
-boots
-braid
-dark skin
-dark-skinned female
-depth of field
-forest
-grass
-jewelry
-magic
-multiple girls
-nature
-pet
-pointy ears
-rating:safe
-signature
-sitting
-spirits
-squatting
-subreddit:imaginarypets
-title:the lesson by vicki pangestu
-tree
-tree stump
-uploader:lol33ta
+1boy,
+2girls,
+2girls_1guy,
+3girls,
+against tree,
+arm wrap,
+armband,
+armlet,
+black hair,
+blurry,
+blurry background,
+boots,
+braid,
+dark skin,
+dark-skinned female,
+depth of field,
+forest,
+grass,
+jewelry,
+magic,
+multiple girls,
+nature,
+pet,
+pointy ears,
+rating:safe,
+signature,
+sitting,
+spirits,
+squatting,
+subreddit:imaginarypets,
+title:the lesson by vicki pangestu,
+tree,
+tree stump,
+uploader:lol33ta,

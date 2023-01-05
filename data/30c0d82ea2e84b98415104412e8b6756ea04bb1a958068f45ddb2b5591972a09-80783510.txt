@@ -1,39 +1,39 @@
-1girl
-attack
-black background
-booru:sankaku
-character:harley quinn
-character:javelin
-character:starro the conqueror
-creator:ssambatea
-dress
-eye focus
-female
-female only
-female solo
-grey eyes
-holding
-holding javelin
-holding weapon
-javelin
-long hair
-medium:black background
-medium:high resolution
-meta:commentary
-meta:english commentary
-meta:highres
-meta:spoilers
-open mouth
-rating:s
-rating:safe
-red dress
-series:dc comics
-series:the suicide squad
-solo
-subreddit:imaginarydc
-subreddit:imfandoms
-title:javelin by ssambatea
-uploader:musaibwadkar
-weapon
-white hair
-wide-eyed
+1girl,
+attack,
+black background,
+booru:sankaku,
+character:harley quinn,
+character:javelin,
+character:starro the conqueror,
+creator:ssambatea,
+dress,
+eye focus,
+female,
+female only,
+female solo,
+grey eyes,
+holding,
+holding javelin,
+holding weapon,
+javelin,
+long hair,
+medium:black background,
+medium:high resolution,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:spoilers,
+open mouth,
+rating:s,
+rating:safe,
+red dress,
+series:dc comics,
+series:the suicide squad,
+solo,
+subreddit:imaginarydc,
+subreddit:imfandoms,
+title:javelin by ssambatea,
+uploader:musaibwadkar,
+weapon,
+white hair,
+wide-eyed,

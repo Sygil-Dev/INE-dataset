@@ -1,24 +1,24 @@
-bridge
-building
-city
-city lights
-cityscape
-fire
-no humans
-outdoors
-power lines
-rating:safe
-real world location
-road
-scenery
-sign
-sky
-skyscraper
-street
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-sunset
-title:the last yard最后的小院 by artist huihui chen
-tokyo (city)
-tree
-uploader:anon_ymou5
+bridge,
+building,
+city,
+city lights,
+cityscape,
+fire,
+no humans,
+outdoors,
+power lines,
+rating:safe,
+real world location,
+road,
+scenery,
+sign,
+sky,
+skyscraper,
+street,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+sunset,
+title:the last yard最后的小院 by artist huihui chen,
+tokyo (city),
+tree,
+uploader:anon_ymou5,

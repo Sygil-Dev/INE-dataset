@@ -1,20 +1,20 @@
-christmas
-creator:irenhorrors
-darkart
-fantasy
-gothic
-gothicart
-irenhorrors
-magic
-merrychristmas
-mistic
-pagan
-subreddit:imaginaryimmortals
-subreddit:imraces
-title:yule spirit
-title:yule spirit by irenhorrors
-uploader:lol33ta
-winter
-witchcraft
-yule
-yuletide
+christmas,
+creator:irenhorrors,
+darkart,
+fantasy,
+gothic,
+gothicart,
+irenhorrors,
+magic,
+merrychristmas,
+mistic,
+pagan,
+subreddit:imaginaryimmortals,
+subreddit:imraces,
+title:yule spirit,
+title:yule spirit by irenhorrors,
+uploader:lol33ta,
+winter,
+witchcraft,
+yule,
+yuletide,

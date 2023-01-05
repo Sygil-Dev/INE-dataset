@@ -1,76 +1,76 @@
-1boy
-1girl
-aerial fireworks
-astronaut
-aurora
-balcony
-campfire
-character:ultimate madoka
-city lights
-cityscape
-closed eyes
-cloud
-cloudy sky
-constellation
-crescent moon
-desert
-diffraction spikes
-dusk
-earth (planet)
-evening
-ferris wheel
-fireflies
-fireworks
-galaxy
-gradient sky
-horizon
-lamppost
-lens flare
-light particles
-lighthouse
-long hair
-milky way
-moon
-moonlight
-mountain
-mountainous horizon
-night
-night sky
-ocean
-orange sky
-outdoors
-planet
-power lines
-purple sky
-rating:safe
-school uniform
-shooting star
-shore
-sitting
-sky
-skyline
-skyscraper
-snow
-snowing
-space
-space craft
-space helmet
-sparkler
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginaryskyscapes
-subreddit:imaginarysliceoflife
-sun
-sunrise
-sunset
-tanabata
-tanzaku
-telescope
-title:the girl and the boy by まかろんｋ
-twilight
-uploader:zewen_senpai
-utility pole
-window
+1boy,
+1girl,
+aerial fireworks,
+astronaut,
+aurora,
+balcony,
+campfire,
+character:ultimate madoka,
+city lights,
+cityscape,
+closed eyes,
+cloud,
+cloudy sky,
+constellation,
+crescent moon,
+desert,
+diffraction spikes,
+dusk,
+earth (planet),
+evening,
+ferris wheel,
+fireflies,
+fireworks,
+galaxy,
+gradient sky,
+horizon,
+lamppost,
+lens flare,
+light particles,
+lighthouse,
+long hair,
+milky way,
+moon,
+moonlight,
+mountain,
+mountainous horizon,
+night,
+night sky,
+ocean,
+orange sky,
+outdoors,
+planet,
+power lines,
+purple sky,
+rating:safe,
+school uniform,
+shooting star,
+shore,
+sitting,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+space,
+space craft,
+space helmet,
+sparkler,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginaryskyscapes,
+subreddit:imaginarysliceoflife,
+sun,
+sunrise,
+sunset,
+tanabata,
+tanzaku,
+telescope,
+title:the girl and the boy by まかろんｋ,
+twilight,
+uploader:zewen_senpai,
+utility pole,
+window,

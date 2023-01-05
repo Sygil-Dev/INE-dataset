@@ -1,20 +1,20 @@
-1girl
-armor
-breasts
-cape
-gauntlets
-hat
-holding
-holding sword
-holding weapon
-pants
-petals
-rating:safe
-red hair
-short hair
-solo focus
-subreddit:imaginaryruneterra
-sword
-title:fiora laurent, by 黑 咔
-uploader:miciy5
-weapon
+1girl,
+armor,
+breasts,
+cape,
+gauntlets,
+hat,
+holding,
+holding sword,
+holding weapon,
+pants,
+petals,
+rating:safe,
+red hair,
+short hair,
+solo focus,
+subreddit:imaginaryruneterra,
+sword,
+title:fiora laurent, by 黑 咔,
+uploader:miciy5,
+weapon,

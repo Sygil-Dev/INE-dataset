@@ -1,54 +1,54 @@
-1girl
-armor
-bug
-butterfly
-cape
-character:malenia blade of miquella
-closed mouth
-covered eyes
-creator:thedurianart
-dress
-english commentary
-floating hair
-fur trim
-fur-trimmed cape
-gauntlets
-grey dress
-helmet
-highres
-holding
-holding sword
-holding weapon
-insect
-leaf
-lips
-long hair
-mechanical arms
-meta:commentary
-meta:english commentary
-meta:highres
-petals
-pink lips
-prosthesis
-prosthetic arm
-rating:general
-rating:safe
-red butterfly
-red cape
-red hair
-redhead
-scar
-series:elden ring
-single mechanical arm
-solo
-standing
-subreddit:imaginarydarksouls
-sword
-thedurianart
-title:malenia by daniel kamarudin
-torn cape
-torn clothes
-tree
-uploader:heewmf
-weapon
-winged helmet
+1girl,
+armor,
+bug,
+butterfly,
+cape,
+character:malenia blade of miquella,
+closed mouth,
+covered eyes,
+creator:thedurianart,
+dress,
+english commentary,
+floating hair,
+fur trim,
+fur-trimmed cape,
+gauntlets,
+grey dress,
+helmet,
+highres,
+holding,
+holding sword,
+holding weapon,
+insect,
+leaf,
+lips,
+long hair,
+mechanical arms,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+petals,
+pink lips,
+prosthesis,
+prosthetic arm,
+rating:general,
+rating:safe,
+red butterfly,
+red cape,
+red hair,
+redhead,
+scar,
+series:elden ring,
+single mechanical arm,
+solo,
+standing,
+subreddit:imaginarydarksouls,
+sword,
+thedurianart,
+title:malenia by daniel kamarudin,
+torn cape,
+torn clothes,
+tree,
+uploader:heewmf,
+weapon,
+winged helmet,

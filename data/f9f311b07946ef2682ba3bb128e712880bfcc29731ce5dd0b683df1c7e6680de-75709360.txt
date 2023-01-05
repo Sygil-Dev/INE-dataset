@@ -1,47 +1,47 @@
-1girl
-apron
-bangs
-bell
-black footwear
-black hair
-blue eyes
-cat
-creator:kra (yklazy)
-door
-dress
-flower
-frilled apron
-frilled dress
-frills
-ghost
-girl
-hair flower
-hair ornament
-high heels
-holding
-holding bell
-indoors
-juliet sleeves
-long hair
-long sleeves
-maid
-maid apron
-maid headdress
-multiple cats
-original
-original works
-painting (object)
-pixiv
-pixiv id 3130891
-puffy sleeves
-rating:safe
-series:original
-smile
-solo
-stairs
-subreddit:imaginaryspirits
-subreddit:immonsters
-title:untitled by kra
-uploader:goodlibrarian
-white legwear
-young girl
+1girl,
+apron,
+bangs,
+bell,
+black footwear,
+black hair,
+blue eyes,
+cat,
+creator:kra (yklazy),
+door,
+dress,
+flower,
+frilled apron,
+frilled dress,
+frills,
+ghost,
+girl,
+hair flower,
+hair ornament,
+high heels,
+holding,
+holding bell,
+indoors,
+juliet sleeves,
+long hair,
+long sleeves,
+maid,
+maid apron,
+maid headdress,
+multiple cats,
+original,
+original works,
+painting (object),
+pixiv,
+pixiv id 3130891,
+puffy sleeves,
+rating:safe,
+series:original,
+smile,
+solo,
+stairs,
+subreddit:imaginaryspirits,
+subreddit:immonsters,
+title:untitled by kra,
+uploader:goodlibrarian,
+white legwear,
+young girl,

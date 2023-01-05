@@ -1,24 +1,24 @@
-1boy
-architecture
-artist name
-bald
-beard
-east asian architecture
-facial hair
-indoors
-japanese clothes
-male focus
-mustache
-old
-old man
-rating:safe
-shouji
-sitting
-sliding doors
-solo
-subreddit:imaginarywesteros
-title:maester gormon, paolo puggioni
-uploader:miciy5
-watermark
-window
-wrinkled skin
+1boy,
+architecture,
+artist name,
+bald,
+beard,
+east asian architecture,
+facial hair,
+indoors,
+japanese clothes,
+male focus,
+mustache,
+old,
+old man,
+rating:safe,
+shouji,
+sitting,
+sliding doors,
+solo,
+subreddit:imaginarywesteros,
+title:maester gormon, paolo puggioni,
+uploader:miciy5,
+watermark,
+window,
+wrinkled skin,

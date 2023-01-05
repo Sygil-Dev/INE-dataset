@@ -1,30 +1,30 @@
-1980s (style)
-aurora
-beam rifle
-city lights
-cloud
-earth (planet)
-energy gun
-explosion
-full moon
-galaxy
-mecha
-milky way
-moon
-night
-night sky
-planet
-rating:safe
-red moon
-science fiction
-shooting star
-sky
-space
-space craft
-spacesuit
-star (sky)
-starry sky
-subreddit:imaginaryfuturewar
-title:space station sprint by elias stern
-uploader:lol33ta
-weapon
+1980s (style),
+aurora,
+beam rifle,
+city lights,
+cloud,
+earth (planet),
+energy gun,
+explosion,
+full moon,
+galaxy,
+mecha,
+milky way,
+moon,
+night,
+night sky,
+planet,
+rating:safe,
+red moon,
+science fiction,
+shooting star,
+sky,
+space,
+space craft,
+spacesuit,
+star (sky),
+starry sky,
+subreddit:imaginaryfuturewar,
+title:space station sprint by elias stern,
+uploader:lol33ta,
+weapon,

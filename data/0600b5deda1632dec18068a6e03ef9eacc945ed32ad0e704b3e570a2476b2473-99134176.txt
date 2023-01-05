@@ -1,25 +1,25 @@
-building
-bush
-door
-faux figurine
-fence
-flower
-garden
-grass
-house
-hydrangea
-no humans
-outdoors
-path
-plant
-potted plant
-purple flower
-rating:safe
-road
-scenery
-subreddit:imaginarydwellings
-sunflower
-title:cottage by alexandra semushina
-tree
-tree stump
-uploader:lol33ta
+building,
+bush,
+door,
+faux figurine,
+fence,
+flower,
+garden,
+grass,
+house,
+hydrangea,
+no humans,
+outdoors,
+path,
+plant,
+potted plant,
+purple flower,
+rating:safe,
+road,
+scenery,
+subreddit:imaginarydwellings,
+sunflower,
+title:cottage by alexandra semushina,
+tree,
+tree stump,
+uploader:lol33ta,

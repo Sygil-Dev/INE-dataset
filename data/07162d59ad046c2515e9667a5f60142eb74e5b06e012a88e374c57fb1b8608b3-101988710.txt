@@ -1,21 +1,21 @@
-bamboo
-bush
-dirty
-forest
-grass
-gun
-jungle
-mecha
-motor vehicle
-nature
-outdoors
-palm tree
-plant
-rating:safe
-retro artstyle
-science fiction
-subreddit:imaginarymechs
-title:[oc] bd-1 from star wars fallen order
-tree
-uploader:gzapata_art
-weapon
+bamboo,
+bush,
+dirty,
+forest,
+grass,
+gun,
+jungle,
+mecha,
+motor vehicle,
+nature,
+outdoors,
+palm tree,
+plant,
+rating:safe,
+retro artstyle,
+science fiction,
+subreddit:imaginarymechs,
+title:[oc] bd-1 from star wars fallen order,
+tree,
+uploader:gzapata_art,
+weapon,

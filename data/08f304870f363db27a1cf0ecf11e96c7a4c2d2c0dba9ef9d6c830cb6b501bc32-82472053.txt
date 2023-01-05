@@ -1,23 +1,23 @@
-blue sky
-boots
-cloud
-cloudy sky
-day
-flag
-holding
-mountain
-ocean
-outdoors
-rating:safe
-sky
-solo
-subreddit:imaginarygnomes
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imraces
-title:sylvester stagnome the harper rock gnome evocation wizard and his bronze pseudodragon companion and familiar, pebble. newly finished commission by r/celladoora
-title:sylvester stagnome the rock gnome boom wizard and his bronze psudodragon companion and familiar, pebble. newly finished commission by r/celladoora
-uploader:paratrooper_19d
-water
-watercraft
-wizard
+blue sky,
+boots,
+cloud,
+cloudy sky,
+day,
+flag,
+holding,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+sky,
+solo,
+subreddit:imaginarygnomes,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imraces,
+title:sylvester stagnome the harper rock gnome evocation wizard and his bronze pseudodragon companion and familiar, pebble. newly finished commission by r/celladoora,
+title:sylvester stagnome the rock gnome boom wizard and his bronze psudodragon companion and familiar, pebble. newly finished commission by r/celladoora,
+uploader:paratrooper_19d,
+water,
+watercraft,
+wizard,

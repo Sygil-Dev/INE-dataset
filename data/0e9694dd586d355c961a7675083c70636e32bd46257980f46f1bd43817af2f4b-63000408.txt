@@ -1,46 +1,46 @@
-1girl
-aurora
-bridge
-building
-city
-city lights
-cityscape
-cloud
-constellation
-crescent moon
-fireworks
-galaxy
-lamppost
-light
-light particles
-long hair
-milky way
-moon
-night
-night sky
-no humans
-outdoors
-planet
-rating:safe
-scenery
-science fiction
-shooting star
-signature
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-space
-star (sky)
-starry sky
-starry sky print
-subreddit:imaginarycityscapes
-subreddit:imaginaryfuturism
-subreddit:imlandscapes
-title:populated by sweeper3d
-tower
-twilight
-uploader:punishwildcat
-uploader:sweeper3d
+1girl,
+aurora,
+bridge,
+building,
+city,
+city lights,
+cityscape,
+cloud,
+constellation,
+crescent moon,
+fireworks,
+galaxy,
+lamppost,
+light,
+light particles,
+long hair,
+milky way,
+moon,
+night,
+night sky,
+no humans,
+outdoors,
+planet,
+rating:safe,
+scenery,
+science fiction,
+shooting star,
+signature,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+space,
+star (sky),
+starry sky,
+starry sky print,
+subreddit:imaginarycityscapes,
+subreddit:imaginaryfuturism,
+subreddit:imlandscapes,
+title:populated by sweeper3d,
+tower,
+twilight,
+uploader:punishwildcat,
+uploader:sweeper3d,

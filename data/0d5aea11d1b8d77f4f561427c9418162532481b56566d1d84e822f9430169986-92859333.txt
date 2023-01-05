@@ -1,20 +1,20 @@
-1girl
-brown pants
-dual wielding
-green eyes
-holding
-holding sword
-holding weapon
-knife
-rating:safe
-signature
-solo
-standing
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-sword
-title:ciri by elena vitkovska
-uploader:lol33ta
-weapon
-white background
+1girl,
+brown pants,
+dual wielding,
+green eyes,
+holding,
+holding sword,
+holding weapon,
+knife,
+rating:safe,
+signature,
+solo,
+standing,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sword,
+title:ciri by elena vitkovska,
+uploader:lol33ta,
+weapon,
+white background,

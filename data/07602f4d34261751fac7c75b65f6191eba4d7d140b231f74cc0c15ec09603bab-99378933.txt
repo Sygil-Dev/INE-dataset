@@ -1,32 +1,32 @@
-bird
-blue sky
-building
-campfire
-cloud
-cloudy sky
-day
-dusk
-evening
-field
-fire
-grass
-horizon
-house
-landscape
-mountain
-mountainous horizon
-nature
-no humans
-ocean
-orange sky
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarypathways
-sunset
-title:radiant valley by james maw
-twilight
-uploader:lol33ta
-water
+bird,
+blue sky,
+building,
+campfire,
+cloud,
+cloudy sky,
+day,
+dusk,
+evening,
+field,
+fire,
+grass,
+horizon,
+house,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarypathways,
+sunset,
+title:radiant valley by james maw,
+twilight,
+uploader:lol33ta,
+water,

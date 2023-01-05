@@ -1,19 +1,19 @@
-bird
-cloud
-cloudy sky
-full moon
-greyscale
-monochrome
-monster
-moon
-mountain
-night
-no humans
-outdoors
-rating:safe
-sky
-subreddit:imaginarymiddleearth
-sun
-tail
-title:alien nazgul illustration by kalmahul
-uploader:eaglesense
+bird,
+cloud,
+cloudy sky,
+full moon,
+greyscale,
+monochrome,
+monster,
+moon,
+mountain,
+night,
+no humans,
+outdoors,
+rating:safe,
+sky,
+subreddit:imaginarymiddleearth,
+sun,
+tail,
+title:alien nazgul illustration by kalmahul,
+uploader:eaglesense,

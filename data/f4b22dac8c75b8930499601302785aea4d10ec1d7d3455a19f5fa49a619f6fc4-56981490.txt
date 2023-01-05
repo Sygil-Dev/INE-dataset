@@ -1,36 +1,36 @@
-assault rifle
-astronaut
-backpack
-bag
-battle
-creator:dofresh
-dated
-energy gun
-gun
-holding
-holding gun
-holding weapon
-jupiter (planet)
-laser
-machinery
-mecha
-meta:commentary
-meta:english commentary
-meta:highres
-planet
-rating:sensitive
-rifle
-robot
-running
-science fiction
-series:original
-signature
-space
-spacecraft
-spacesuit
-subreddit:imaginaryfuturewar
-subreddit:imaginarymechs
-subreddit:imtechnology
-title:by jove, by dofresh .
-uploader:tabulaerrata
-weapon
+assault rifle,
+astronaut,
+backpack,
+bag,
+battle,
+creator:dofresh,
+dated,
+energy gun,
+gun,
+holding,
+holding gun,
+holding weapon,
+jupiter (planet),
+laser,
+machinery,
+mecha,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+planet,
+rating:sensitive,
+rifle,
+robot,
+running,
+science fiction,
+series:original,
+signature,
+space,
+spacecraft,
+spacesuit,
+subreddit:imaginaryfuturewar,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+title:by jove, by dofresh .,
+uploader:tabulaerrata,
+weapon,

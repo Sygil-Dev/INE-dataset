@@ -1,28 +1,28 @@
-architecture
-blue sky
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-fantasy
-horizon
-letterboxed
-mountain
-ocean
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarytowers
-subreddit:imarchitecture
-sunset
-title:bureau of investigation by alayna lemmer-danner
-tower
-uploader:blood-n-cheese
-water
-waterfall
+architecture,
+blue sky,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+fantasy,
+horizon,
+letterboxed,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarytowers,
+subreddit:imarchitecture,
+sunset,
+title:bureau of investigation by alayna lemmer-danner,
+tower,
+uploader:blood-n-cheese,
+water,
+waterfall,

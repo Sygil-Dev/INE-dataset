@@ -1,33 +1,33 @@
-1girl
-apron
-arm up
-braid
-brown hair
-canvas (object)
-creator:diesel2b
-creator:dizi930
-from side
-hair ornament
-hand on own head
-indoors
-long hair
-long sleeves
-meta:absurdres
-meta:commentary request
-meta:highres
-paint tube
-painting (object)
-rating:safe
-red skirt
-series:original
-shirt
-skirt
-solo
-standing
-subreddit:imaginaryfeels
-subreddit:immeta
-title:“困兽” by diesel2b
-uploader:musaibwadkar
-very long hair
-white apron
-white shirt
+1girl,
+apron,
+arm up,
+braid,
+brown hair,
+canvas (object),
+creator:diesel2b,
+creator:dizi930,
+from side,
+hair ornament,
+hand on own head,
+indoors,
+long hair,
+long sleeves,
+meta:absurdres,
+meta:commentary request,
+meta:highres,
+paint tube,
+painting (object),
+rating:safe,
+red skirt,
+series:original,
+shirt,
+skirt,
+solo,
+standing,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+title:“困兽” by diesel2b,
+uploader:musaibwadkar,
+very long hair,
+white apron,
+white shirt,

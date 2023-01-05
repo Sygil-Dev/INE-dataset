@@ -1,21 +1,21 @@
-1girl
-1other
-building
-cloud
-cloudy sky
-day
-facing away
-long hair
-mountain
-outdoors
-rating:safe
-ruins
-scenery
-snow
-standing
-subreddit:imaginarytemples
-title:frozen temple by alexander dudar
-uploader:[deleted]
-very long hair
-water
-weapon
+1girl,
+1other,
+building,
+cloud,
+cloudy sky,
+day,
+facing away,
+long hair,
+mountain,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+snow,
+standing,
+subreddit:imaginarytemples,
+title:frozen temple by alexander dudar,
+uploader:[deleted],
+very long hair,
+water,
+weapon,

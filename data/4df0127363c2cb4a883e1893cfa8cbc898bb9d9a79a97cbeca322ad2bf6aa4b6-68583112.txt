@@ -1,27 +1,27 @@
-alien
-amazing
-angel
-art
-battle
-battlestar
-colors
-concept
-creator:tavenerscholar
-dd
-digital
-explorer
-fi
-fiction
-painting
-planet
-rays
-sci
-science
-spiderverse
-subreddit:imaginarycolorscapes
-subreddit:immeta
-sunrays
-sunshine
-title:black sun horizon
-title:black sun horizon by tavenerscholar
-uploader:tavenerscholarart
+alien,
+amazing,
+angel,
+art,
+battle,
+battlestar,
+colors,
+concept,
+creator:tavenerscholar,
+dd,
+digital,
+explorer,
+fi,
+fiction,
+painting,
+planet,
+rays,
+sci,
+science,
+spiderverse,
+subreddit:imaginarycolorscapes,
+subreddit:immeta,
+sunrays,
+sunshine,
+title:black sun horizon,
+title:black sun horizon by tavenerscholar,
+uploader:tavenerscholarart,

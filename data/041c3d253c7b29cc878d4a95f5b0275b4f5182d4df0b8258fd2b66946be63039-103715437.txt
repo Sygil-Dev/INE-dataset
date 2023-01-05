@@ -1,26 +1,26 @@
-bare tree
-city lights
-cloud
-dusk
-evening
-fire
-gradient sky
-grass
-mountain
-night
-night sky
-outdoors
-rating:safe
-scenery
-shooting star
-sky
-snow
-snowing
-star (sky)
-starry sky
-subreddit:imaginaryhorrors
-sunset
-title:back at hometown [by jocelin carmes]
-tree
-twilight
-uploader:rumbling_stone
+bare tree,
+city lights,
+cloud,
+dusk,
+evening,
+fire,
+gradient sky,
+grass,
+mountain,
+night,
+night sky,
+outdoors,
+rating:safe,
+scenery,
+shooting star,
+sky,
+snow,
+snowing,
+star (sky),
+starry sky,
+subreddit:imaginaryhorrors,
+sunset,
+title:back at hometown [by jocelin carmes],
+tree,
+twilight,
+uploader:rumbling_stone,

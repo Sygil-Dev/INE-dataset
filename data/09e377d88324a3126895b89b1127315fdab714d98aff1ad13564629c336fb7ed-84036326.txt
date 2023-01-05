@@ -1,27 +1,27 @@
-building
-city
-city lights
-cloud
-constellation
-crescent moon
-earth (planet)
-fireworks
-galaxy
-moon
-night
-night sky
-no humans
-planet
-rating:safe
-reflection
-scenery
-shooting star
-sky
-skyscraper
-space
-star (sky)
-starry sky
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-title:hyper rainbow jet stream
-uploader:futureselfbeats
+building,
+city,
+city lights,
+cloud,
+constellation,
+crescent moon,
+earth (planet),
+fireworks,
+galaxy,
+moon,
+night,
+night sky,
+no humans,
+planet,
+rating:safe,
+reflection,
+scenery,
+shooting star,
+sky,
+skyscraper,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+title:hyper rainbow jet stream,
+uploader:futureselfbeats,

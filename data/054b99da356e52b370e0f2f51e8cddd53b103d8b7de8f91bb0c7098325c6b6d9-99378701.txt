@@ -1,23 +1,23 @@
-1girl
-2boys
-black hair
-blue eyes
-blurry
-brown hair
-child
-green eyes
-grin
-holding
-long hair
-looking at viewer
-multiple boys
-open mouth
-photo (medium)
-rating:safe
-shirt
-shorts
-smile
-subreddit:imaginarysliceoflife
-teeth
-title:at the aquarium by nan_daba_ba
-uploader:aries_64
+1girl,
+2boys,
+black hair,
+blue eyes,
+blurry,
+brown hair,
+child,
+green eyes,
+grin,
+holding,
+long hair,
+looking at viewer,
+multiple boys,
+open mouth,
+photo (medium),
+rating:safe,
+shirt,
+shorts,
+smile,
+subreddit:imaginarysliceoflife,
+teeth,
+title:at the aquarium by nan_daba_ba,
+uploader:aries_64,

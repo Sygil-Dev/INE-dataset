@@ -1,19 +1,19 @@
-backpack
-cover
-credits
-credits page
-english text
-fake cover
-gun
-magazine cover
-poster (medium)
-rating:safe
-realistic
-retro artstyle
-sky
-solo
-subreddit:imaginarymonuments
-sunset
-title:james blish, anywhen, arrow, 1978. cover: chris foss.
-uploader:mavmaramis
-weapon
+backpack,
+cover,
+credits,
+credits page,
+english text,
+fake cover,
+gun,
+magazine cover,
+poster (medium),
+rating:safe,
+realistic,
+retro artstyle,
+sky,
+solo,
+subreddit:imaginarymonuments,
+sunset,
+title:james blish, anywhen, arrow, 1978. cover: chris foss.,
+uploader:mavmaramis,
+weapon,

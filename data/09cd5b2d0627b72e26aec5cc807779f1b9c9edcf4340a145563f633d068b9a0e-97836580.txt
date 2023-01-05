@@ -1,21 +1,21 @@
-beach
-blue sky
-cloud
-cloudy sky
-evening
-horizon
-mountain
-mountainous horizon
-ocean
-outdoors
-rating:safe
-rock
-scenery
-sky
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sunset
-title:stuck on the beach by etienne hebinger
-twilight
-uploader:vecttor
-water
+beach,
+blue sky,
+cloud,
+cloudy sky,
+evening,
+horizon,
+mountain,
+mountainous horizon,
+ocean,
+outdoors,
+rating:safe,
+rock,
+scenery,
+sky,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sunset,
+title:stuck on the beach by etienne hebinger,
+twilight,
+uploader:vecttor,
+water,

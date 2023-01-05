@@ -1,33 +1,33 @@
-battle
-blood
-bodily fluids
-character:hyperion (project nemesis)
-character:nemesis (project nemesis)
-city
-creator:sharksden
-fight
-fighting
-fire
-giant
-giant monster
-giant robot
-glowing
-hyperion (project nemesis)
-kaijuu
-mecha
-meta:highres
-monster
-nemesis (project nemesis)
-project nemesis
-rating:sensitive
-robot
-series:project nemesis
-sharksden
-species:kaiju
-species:monster
-species:robot
-subreddit:imaginarybehemoths
-tentacle
-tentacles
-title:project hyperion by sharksden
-uploader:myrandall
+battle,
+blood,
+bodily fluids,
+character:hyperion (project nemesis),
+character:nemesis (project nemesis),
+city,
+creator:sharksden,
+fight,
+fighting,
+fire,
+giant,
+giant monster,
+giant robot,
+glowing,
+hyperion (project nemesis),
+kaijuu,
+mecha,
+meta:highres,
+monster,
+nemesis (project nemesis),
+project nemesis,
+rating:sensitive,
+robot,
+series:project nemesis,
+sharksden,
+species:kaiju,
+species:monster,
+species:robot,
+subreddit:imaginarybehemoths,
+tentacle,
+tentacles,
+title:project hyperion by sharksden,
+uploader:myrandall,

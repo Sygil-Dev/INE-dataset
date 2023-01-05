@@ -1,45 +1,45 @@
-alectorfencer
-anthro
-artist:alectorfencer
-brown hair
-brown_hair
-clothed
-clothing
-comic
-comicbook
-creator:alectorfencer
-day
-detailed background
-detailed_background
-digitalart
-dreads
-dreadsdreadlocks
-female
-fire
-girl
-hair
-indiegogo
-kickstarter
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-myre
-outside
-rating:safe
-sky
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:coyote
-species:mammal
-subreddit:imaginaryfeels
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-subreddit:immeta
-title:myre 2 - whithin and beyond
-title:myre 2 - whithin and beyond by alectorfencer
-title:myre 2 - within and beyond
-uploader:myrandall
+alectorfencer,
+anthro,
+artist:alectorfencer,
+brown hair,
+brown_hair,
+clothed,
+clothing,
+comic,
+comicbook,
+creator:alectorfencer,
+day,
+detailed background,
+detailed_background,
+digitalart,
+dreads,
+dreadsdreadlocks,
+female,
+fire,
+girl,
+hair,
+indiegogo,
+kickstarter,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+myre,
+outside,
+rating:safe,
+sky,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:coyote,
+species:mammal,
+subreddit:imaginaryfeels,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+subreddit:immeta,
+title:myre 2 - whithin and beyond,
+title:myre 2 - whithin and beyond by alectorfencer,
+title:myre 2 - within and beyond,
+uploader:myrandall,

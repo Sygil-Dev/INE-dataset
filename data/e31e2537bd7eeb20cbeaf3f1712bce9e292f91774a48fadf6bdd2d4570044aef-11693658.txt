@@ -1,46 +1,46 @@
-ambiguous gender
-antlers
-armor
-bone
-booru:e621
-clothing:armor
-creator:gentlemandeerlord
-creepy
-detailed background
-female
-fog
-forest
-gender:ambiguous
-gender:female
-glowing
-glowing eyes
-grey theme
-group
-headgear
-headwear
-helmet
-horn
-horns
-machine
-medium:detailed background
-melee weapon
-meta:grey theme
-mist
-plant
-polearm
-rating:safe
-riding
-skull
-spear
-species:cervid
-species:cervine
-species:deer
-species:human
-species:mammal
-species:robot
-subreddit:imaginaryanimals
-subreddit:imnature
-title:vasilica by deerlordhunter
-tree
-uploader:myrandall
-weapon
+ambiguous gender,
+antlers,
+armor,
+bone,
+booru:e621,
+clothing:armor,
+creator:gentlemandeerlord,
+creepy,
+detailed background,
+female,
+fog,
+forest,
+gender:ambiguous,
+gender:female,
+glowing,
+glowing eyes,
+grey theme,
+group,
+headgear,
+headwear,
+helmet,
+horn,
+horns,
+machine,
+medium:detailed background,
+melee weapon,
+meta:grey theme,
+mist,
+plant,
+polearm,
+rating:safe,
+riding,
+skull,
+spear,
+species:cervid,
+species:cervine,
+species:deer,
+species:human,
+species:mammal,
+species:robot,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:vasilica by deerlordhunter,
+tree,
+uploader:myrandall,
+weapon,

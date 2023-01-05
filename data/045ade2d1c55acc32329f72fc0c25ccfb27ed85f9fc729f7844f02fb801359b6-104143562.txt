@@ -1,24 +1,24 @@
-antlers
-bare tree
-burning
-campfire
-christmas
-christmas ornaments
-christmas tree
-explosion
-fire
-forest
-hat
-monster
-nature
-night
-outdoors
-rating:safe
-smoke
-snow
-snowing
-subreddit:imaginaryrivers
-title:riverscene by arthur haas
-tree
-uploader:chalkchick0
-winter
+antlers,
+bare tree,
+burning,
+campfire,
+christmas,
+christmas ornaments,
+christmas tree,
+explosion,
+fire,
+forest,
+hat,
+monster,
+nature,
+night,
+outdoors,
+rating:safe,
+smoke,
+snow,
+snowing,
+subreddit:imaginaryrivers,
+title:riverscene by arthur haas,
+tree,
+uploader:chalkchick0,
+winter,

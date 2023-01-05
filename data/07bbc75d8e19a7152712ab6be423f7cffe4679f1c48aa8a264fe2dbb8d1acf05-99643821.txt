@@ -1,33 +1,33 @@
-1girl
-bird
-bouquet
-building
-cloud
-cloudy sky
-dusk
-evening
-flower
-gradient sky
-mountain
-orange sky
-outdoors
-pillar
-pink flower
-pink rose
-purple flower
-rating:safe
-red flower
-red rose
-rose
-scenery
-sky
-solo
-subreddit:imaginaryderelicts
-sun
-sunset
-title:"armenia" (1990) by michael whelan
-tower
-twilight
-uploader:yannirotten
-yellow flower
-yellow rose
+1girl,
+bird,
+bouquet,
+building,
+cloud,
+cloudy sky,
+dusk,
+evening,
+flower,
+gradient sky,
+mountain,
+orange sky,
+outdoors,
+pillar,
+pink flower,
+pink rose,
+purple flower,
+rating:safe,
+red flower,
+red rose,
+rose,
+scenery,
+sky,
+solo,
+subreddit:imaginaryderelicts,
+sun,
+sunset,
+title:"armenia" (1990) by michael whelan,
+tower,
+twilight,
+uploader:yannirotten,
+yellow flower,
+yellow rose,

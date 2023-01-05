@@ -1,25 +1,25 @@
-city
-creator:sylvain sarrailh
-cyberpunk
-horizon
-japan
-landscape
-lofi girl
-medium:digital 2d
-music
-osen
-ronin
-samurai
-scifi
-skyline
-subreddit:imaginarycityscapes
-subreddit:imaginarysliceoflife
-subreddit:imlandscapes
-sunset
-synthwave
-title:meditative flow
-title:meditative flow by sylvain sarrailh
-tokyo
-umeshu lovers
-uploader:lol33ta
-water
+city,
+creator:sylvain sarrailh,
+cyberpunk,
+horizon,
+japan,
+landscape,
+lofi girl,
+medium:digital 2d,
+music,
+osen,
+ronin,
+samurai,
+scifi,
+skyline,
+subreddit:imaginarycityscapes,
+subreddit:imaginarysliceoflife,
+subreddit:imlandscapes,
+sunset,
+synthwave,
+title:meditative flow,
+title:meditative flow by sylvain sarrailh,
+tokyo,
+umeshu lovers,
+uploader:lol33ta,
+water,

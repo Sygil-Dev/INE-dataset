@@ -1,29 +1,29 @@
-1boy
-2girls
-air bubble
-bubble
-city lights
-constellation
-galaxy
-lens flare
-light particles
-long hair
-milky way
-multiple girls
-night
-night sky
-rating:safe
-school uniform
-shoes
-shooting star
-skirt
-sky
-snow
-snowing
-space
-star (sky)
-starry sky
-subreddit:imaginarylovers
-title:book cover by ilya kuvshinov
-underwater
-uploader:lol33ta
+1boy,
+2girls,
+air bubble,
+bubble,
+city lights,
+constellation,
+galaxy,
+lens flare,
+light particles,
+long hair,
+milky way,
+multiple girls,
+night,
+night sky,
+rating:safe,
+school uniform,
+shoes,
+shooting star,
+skirt,
+sky,
+snow,
+snowing,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarylovers,
+title:book cover by ilya kuvshinov,
+underwater,
+uploader:lol33ta,

@@ -1,70 +1,70 @@
-1 female
-90s
-1990s (style)
-bangs
-bead bracelet
-beads
-blonde hair
-bracelet
-character:princess serenity
-character:sailor moon
-character:tsukino "sailor moon" usagi
-character:tsukino usagi
-clothing:bracelet
-clothing:dress
-clothing:earrings
-clothing:necklace
-collarbone
-creator:charlie bowater
-creator:charlie-bowater
-crescent
-double bun
-dress
-earrings
-eyeshadow
-facial mark
-forehead mark
-gender:female
-glowing
-hair ornament
-hands
-jewelry
-lips
-long hair
-looking down
-makeup
-mascara
-medium:artist name
-meta:artist name
-necklace
-night
-night sky
-parted bangs
-pearl
-pearl (gemstone)
-pearl bracelet
-puffy short sleeves
-puffy sleeves
-rating:mature
-rating:safe
-realistic
-reflection
-sailor senshi
-series:bishoujo senshi sailor moon
-short sleeves
-signature
-sky
-solo
-sparkle
-star (sky)
-starry sky
-stars
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-tied hair
-title:sailor moon
-title:sailor moon by charlie-bowater
-twintails
-uploader:lol33ta
-very long hair
-white dress
+1 female,
+90s,
+1990s (style),
+bangs,
+bead bracelet,
+beads,
+blonde hair,
+bracelet,
+character:princess serenity,
+character:sailor moon,
+character:tsukino "sailor moon" usagi,
+character:tsukino usagi,
+clothing:bracelet,
+clothing:dress,
+clothing:earrings,
+clothing:necklace,
+collarbone,
+creator:charlie bowater,
+creator:charlie-bowater,
+crescent,
+double bun,
+dress,
+earrings,
+eyeshadow,
+facial mark,
+forehead mark,
+gender:female,
+glowing,
+hair ornament,
+hands,
+jewelry,
+lips,
+long hair,
+looking down,
+makeup,
+mascara,
+medium:artist name,
+meta:artist name,
+necklace,
+night,
+night sky,
+parted bangs,
+pearl,
+pearl (gemstone),
+pearl bracelet,
+puffy short sleeves,
+puffy sleeves,
+rating:mature,
+rating:safe,
+realistic,
+reflection,
+sailor senshi,
+series:bishoujo senshi sailor moon,
+short sleeves,
+signature,
+sky,
+solo,
+sparkle,
+star (sky),
+starry sky,
+stars,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+tied hair,
+title:sailor moon,
+title:sailor moon by charlie-bowater,
+twintails,
+uploader:lol33ta,
+very long hair,
+white dress,

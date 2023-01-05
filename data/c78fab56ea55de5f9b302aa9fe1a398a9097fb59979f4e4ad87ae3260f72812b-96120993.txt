@@ -1,19 +1,19 @@
-1girl
-bathing
-bathtub
-black hair
-bottle
-bubble
-creator:yuumei
-dog
-meta:highres
-plant
-rating:general
-sitting
-sky
-star (sky)
-starry sky
-subreddit:imaginarysliceoflife
-title:my dream bath. my dog's nightmare. art by (yuumei_art) (yuumei) [original]
-uploader:takuu202
-window
+1girl,
+bathing,
+bathtub,
+black hair,
+bottle,
+bubble,
+creator:yuumei,
+dog,
+meta:highres,
+plant,
+rating:general,
+sitting,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginarysliceoflife,
+title:my dream bath. my dog's nightmare. art by (yuumei_art) (yuumei) [original],
+uploader:takuu202,
+window,

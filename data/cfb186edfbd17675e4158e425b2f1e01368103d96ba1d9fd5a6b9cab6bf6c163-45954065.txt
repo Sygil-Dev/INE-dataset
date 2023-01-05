@@ -1,74 +1,74 @@
-accessory
-anthro
-anthropomorphism
-artist:tsaoshin
-beak
-black eyes
-black_eyes
-booru:e621
-character:celeste (animal crossing)
-character:celeste_(animal_crossing)
-copyright:animal_crossing
-copyright:nintendo
-creator:tsaoshin
-detailed background
-detailed_background
-feathers
-female
-gender:female
-hair accessory
-hair bow
-hair ornament
-hair ribbon
-hair_accessory
-hair_bow
-hair_ribbon
-holding object
-holding_object
-medium:detailed background
-medium:video game
-meta:2:3
-meta:2020
-meta:hi res
-meta:hi_res
-meta:signature
-night
-night sky
-night_sky
-open mouth
-open smile
-open_mouth
-open_smile
-photo background
-photo_background
-rating:safe
-red body
-red feathers
-red_body
-red_feathers
-ribbon
-ribbons
-scarf
-series:animal crossing
-series:nintendo
-sky
-smile
-solo
-species:avian
-species:bird
-species:owl
-standing
-star fragment
-star_fragment
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:imaginarygaming
-subreddit:imfandoms
-subreddit:immeta
-title:celeste
-title:celeste by eric proctor
-uploader:myrandall
-video games
-video_games
-yellow beak
-yellow_beak
+accessory,
+anthro,
+anthropomorphism,
+artist:tsaoshin,
+beak,
+black eyes,
+black_eyes,
+booru:e621,
+character:celeste (animal crossing),
+character:celeste_(animal_crossing),
+copyright:animal_crossing,
+copyright:nintendo,
+creator:tsaoshin,
+detailed background,
+detailed_background,
+feathers,
+female,
+gender:female,
+hair accessory,
+hair bow,
+hair ornament,
+hair ribbon,
+hair_accessory,
+hair_bow,
+hair_ribbon,
+holding object,
+holding_object,
+medium:detailed background,
+medium:video game,
+meta:2:3,
+meta:2020,
+meta:hi res,
+meta:hi_res,
+meta:signature,
+night,
+night sky,
+night_sky,
+open mouth,
+open smile,
+open_mouth,
+open_smile,
+photo background,
+photo_background,
+rating:safe,
+red body,
+red feathers,
+red_body,
+red_feathers,
+ribbon,
+ribbons,
+scarf,
+series:animal crossing,
+series:nintendo,
+sky,
+smile,
+solo,
+species:avian,
+species:bird,
+species:owl,
+standing,
+star fragment,
+star_fragment,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+subreddit:immeta,
+title:celeste,
+title:celeste by eric proctor,
+uploader:myrandall,
+video games,
+video_games,
+yellow beak,
+yellow_beak,

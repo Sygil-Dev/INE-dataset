@@ -1,27 +1,27 @@
-1girl
-architecture
-bridge
-building
-bush
-cliff
-cloud
-day
-fantasy
-forest
-grass
-house
-long hair
-moss
-nature
-outdoors
-overgrown
-rating:safe
-river
-ruins
-scenery
-subreddit:imaginaryarchitecture
-title:daily 077 by sebastian luca
-tower
-tree
-uploader:lol33ta
-waterfall
+1girl,
+architecture,
+bridge,
+building,
+bush,
+cliff,
+cloud,
+day,
+fantasy,
+forest,
+grass,
+house,
+long hair,
+moss,
+nature,
+outdoors,
+overgrown,
+rating:safe,
+river,
+ruins,
+scenery,
+subreddit:imaginaryarchitecture,
+title:daily 077 by sebastian luca,
+tower,
+tree,
+uploader:lol33ta,
+waterfall,

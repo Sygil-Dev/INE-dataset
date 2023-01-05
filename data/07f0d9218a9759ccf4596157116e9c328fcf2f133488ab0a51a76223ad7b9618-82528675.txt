@@ -1,28 +1,28 @@
-architecture
-bare tree
-building
-castle
-city
-cloud
-cloudy sky
-east asian architecture
-forest
-full moon
-moon
-moonlight
-mountain
-nature
-night
-night sky
-no humans
-outdoors
-pagoda
-rating:safe
-scenery
-sky
-subreddit:imaginaryvillages
-subreddit:imarchitecture
-title:village by artist stanton feng
-tower
-tree
-uploader:anon_ymou5
+architecture,
+bare tree,
+building,
+castle,
+city,
+cloud,
+cloudy sky,
+east asian architecture,
+forest,
+full moon,
+moon,
+moonlight,
+mountain,
+nature,
+night,
+night sky,
+no humans,
+outdoors,
+pagoda,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryvillages,
+subreddit:imarchitecture,
+title:village by artist stanton feng,
+tower,
+tree,
+uploader:anon_ymou5,

@@ -1,29 +1,29 @@
-above clouds
-aircraft
-airship
-bridge
-cloud
-clouds
-control tower
-creator:sinsin08051
-highres
-meta:commentary
-meta:highres
-no humans
-rating:general
-rocket
-runway
-scenery
-science fiction
-series:original
-sinsin08051
-sky
-subreddit:imaginaryaviation
-subreddit:imtechnology
-title:mothership by hayapi
-turbine
-uploader:dragunmancer
-vehicle focus
-vending machine
-very wide shot
-window
+above clouds,
+aircraft,
+airship,
+bridge,
+cloud,
+clouds,
+control tower,
+creator:sinsin08051,
+highres,
+meta:commentary,
+meta:highres,
+no humans,
+rating:general,
+rocket,
+runway,
+scenery,
+science fiction,
+series:original,
+sinsin08051,
+sky,
+subreddit:imaginaryaviation,
+subreddit:imtechnology,
+title:mothership by hayapi,
+turbine,
+uploader:dragunmancer,
+vehicle focus,
+vending machine,
+very wide shot,
+window,

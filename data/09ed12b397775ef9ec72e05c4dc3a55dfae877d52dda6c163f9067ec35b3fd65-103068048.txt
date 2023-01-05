@@ -1,20 +1,20 @@
-armor
-black background
-breastplate
-cape
-full armor
-full body
-gauntlets
-gold armor
-greaves
-helmet
-letterboxed
-male focus
-pauldrons
-rating:safe
-shoulder armor
-solo
-standing
-subreddit:imaginaryknights
-title:mr candle by denis zhbankov
-uploader:myrandall
+armor,
+black background,
+breastplate,
+cape,
+full armor,
+full body,
+gauntlets,
+gold armor,
+greaves,
+helmet,
+letterboxed,
+male focus,
+pauldrons,
+rating:safe,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryknights,
+title:mr candle by denis zhbankov,
+uploader:myrandall,

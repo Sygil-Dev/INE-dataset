@@ -1,21 +1,21 @@
-1girl
-ahoge
-black skirt
-character:fujimaru ritsuka (female)
-hair ornament
-hair scrunchie
-hakama
-hakama skirt
-japanese clothes
-orange hair
-rating:safe
-scrunchie
-short hair
-side ponytail
-skirt
-solo
-standing
-subreddit:imaginaryfeels
-subreddit:immeta
-title:the story of a mother, oil on canvas, kay nielsen, 1923.
-uploader:aspiringoccultist4
+1girl,
+ahoge,
+black skirt,
+character:fujimaru ritsuka (female),
+hair ornament,
+hair scrunchie,
+hakama,
+hakama skirt,
+japanese clothes,
+orange hair,
+rating:safe,
+scrunchie,
+short hair,
+side ponytail,
+skirt,
+solo,
+standing,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+title:the story of a mother, oil on canvas, kay nielsen, 1923.,
+uploader:aspiringoccultist4,

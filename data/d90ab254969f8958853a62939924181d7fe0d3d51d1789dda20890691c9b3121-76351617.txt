@@ -1,16 +1,16 @@
-creator:kim sokol
-crimson vow
-dress
-joy
-magic
-magic the gathering
-medium:digital 2d
-mtg
-petals
-subreddit:imaginarywitches
-title:mtg: voldaren bloodcaster
-title:voldaren bloodcaster by kim sokol
-uploader:lol33ta
-vampire
-wedding
-witch
+creator:kim sokol,
+crimson vow,
+dress,
+joy,
+magic,
+magic the gathering,
+medium:digital 2d,
+mtg,
+petals,
+subreddit:imaginarywitches,
+title:mtg: voldaren bloodcaster,
+title:voldaren bloodcaster by kim sokol,
+uploader:lol33ta,
+vampire,
+wedding,
+witch,

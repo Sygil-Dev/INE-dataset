@@ -1,31 +1,31 @@
-anchor
-animal collar
-ball and chain restraint
-bdsm
-bound
-broken
-broken chain
-chain
-chained
-collar
-cuffs
-flail
-full moon
-glowing
-handcuffs
-hook
-leash
-moon
-no humans
-prison clothes
-rating:safe
-shackles
-sickle
-slave
-subreddit:imaginaryartifacts
-subreddit:imaginaryweaponry
-subreddit:immeta
-subreddit:imtechnology
-swing
-title:[oc] the wailing hunger
-uploader:sirgrenchaw
+anchor,
+animal collar,
+ball and chain restraint,
+bdsm,
+bound,
+broken,
+broken chain,
+chain,
+chained,
+collar,
+cuffs,
+flail,
+full moon,
+glowing,
+handcuffs,
+hook,
+leash,
+moon,
+no humans,
+prison clothes,
+rating:safe,
+shackles,
+sickle,
+slave,
+subreddit:imaginaryartifacts,
+subreddit:imaginaryweaponry,
+subreddit:immeta,
+subreddit:imtechnology,
+swing,
+title:[oc] the wailing hunger,
+uploader:sirgrenchaw,

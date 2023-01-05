@@ -1,23 +1,23 @@
-2d
-bookcover
-concept
-cover
-creator:ismail inceoglu
-environment
-fantasy
-fantasycharacter
-fire
-lions
-magic
-magician
-medium:digital 2d
-scenery
-sofia
-spell
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sunset
-title:the covenant spell
-title:the covenant spell, by ismail inceoglu
-uploader:tabulaerrata
-wizard
+2d,
+bookcover,
+concept,
+cover,
+creator:ismail inceoglu,
+environment,
+fantasy,
+fantasycharacter,
+fire,
+lions,
+magic,
+magician,
+medium:digital 2d,
+scenery,
+sofia,
+spell,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sunset,
+title:the covenant spell,
+title:the covenant spell, by ismail inceoglu,
+uploader:tabulaerrata,
+wizard,

@@ -1,18 +1,18 @@
-blue
-boat
-creator:jocelin carmes
-exploration
-exporation
-fantasy
-medium:digital 2d
-moana
-scale
-sea
-shape
-subreddit:imaginaryseascapes
-subreddit:imlandscapes
-title:a world to explore
-title:a world to explore by jocelin carmes
-uploader:lol33ta
-water
-world
+blue,
+boat,
+creator:jocelin carmes,
+exploration,
+exporation,
+fantasy,
+medium:digital 2d,
+moana,
+scale,
+sea,
+shape,
+subreddit:imaginaryseascapes,
+subreddit:imlandscapes,
+title:a world to explore,
+title:a world to explore by jocelin carmes,
+uploader:lol33ta,
+water,
+world,

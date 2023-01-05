@@ -1,25 +1,25 @@
-6+boys
-candle
-cloak
-dark
-facing away
-fire
-gun
-helmet
-holding
-holding gun
-holding weapon
-letterboxed
-multiple boys
-rain
-rating:safe
-rifle
-scenery
-soldier
-standing
-subreddit:imaginaryinteriors
-title:waiting room by ivan laliashvili
-torch
-uploader:elumental
-water
-weapon
+6+boys,
+candle,
+cloak,
+dark,
+facing away,
+fire,
+gun,
+helmet,
+holding,
+holding gun,
+holding weapon,
+letterboxed,
+multiple boys,
+rain,
+rating:safe,
+rifle,
+scenery,
+soldier,
+standing,
+subreddit:imaginaryinteriors,
+title:waiting room by ivan laliashvili,
+torch,
+uploader:elumental,
+water,
+weapon,

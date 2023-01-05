@@ -1,25 +1,25 @@
-2boys
-armor
-battle
-cape
-field
-fighting stance
-forest
-grass
-holding
-holding sword
-holding weapon
-katana
-multiple boys
-nature
-outdoors
-rating:safe
-sheath
-shoulder armor
-standing
-subreddit:imaginaryknights
-sword
-title:knights by nazar gavriljuk
-tree
-uploader:[deleted]
-weapon
+2boys,
+armor,
+battle,
+cape,
+field,
+fighting stance,
+forest,
+grass,
+holding,
+holding sword,
+holding weapon,
+katana,
+multiple boys,
+nature,
+outdoors,
+rating:safe,
+sheath,
+shoulder armor,
+standing,
+subreddit:imaginaryknights,
+sword,
+title:knights by nazar gavriljuk,
+tree,
+uploader:[deleted],
+weapon,

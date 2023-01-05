@@ -1,21 +1,21 @@
-1boy
-bird
-blue fire
-bracelet
-brown hair
-fire
-flame
-forest
-grass
-jewelry
-magic
-male focus
-nature
-necklace
-rating:safe
-realistic
-solo
-subreddit:imaginarywitches
-title:necromancer by nicole cardiff
-tree
-uploader:lol33ta
+1boy,
+bird,
+blue fire,
+bracelet,
+brown hair,
+fire,
+flame,
+forest,
+grass,
+jewelry,
+magic,
+male focus,
+nature,
+necklace,
+rating:safe,
+realistic,
+solo,
+subreddit:imaginarywitches,
+title:necromancer by nicole cardiff,
+tree,
+uploader:lol33ta,

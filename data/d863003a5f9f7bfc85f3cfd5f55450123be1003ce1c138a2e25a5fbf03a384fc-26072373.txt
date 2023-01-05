@@ -1,70 +1,70 @@
-1 female
-1girl
-artist name
-black hair
-blue dress
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-canopy
-clothing:dress
-clothing:hair tie
-clothing:japanese clothes
-clothing:kimono
-clothing:legwear
-clothing:pants
-clothing:shirt
-clothing:tank top
-commentary
-creator:wenjun lin
-day
-dress
-ears
-english text
-frog
-gender:female
-green pants
-high ponytail
-japanese clothes
-kappa
-kimono
-language:english
-leaf
-leaf boat
-lily pad
-long hair
-looking up
-medium:artist name
-medium:english text
-medium:high resolution
-medium:text
-meta:artist name
-meta:commentary
-meta:highres
-nature
-outdoors
-outside
-pants
-pink shirt
-pink tank top
-pointy ears
-ponytail
-rating:mature
-rating:safe
-scenery
-series:original
-short kimono
-sidelocks
-sitting
-sky
-species:kappa
-species:mythical
-subreddit:imaginarywildlands
-swimming
-text
-tied hair
-title:summer dream by wenjun lin
-uploader:lol33ta
-water
-wenjun lin
+1 female,
+1girl,
+artist name,
+black hair,
+blue dress,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+canopy,
+clothing:dress,
+clothing:hair tie,
+clothing:japanese clothes,
+clothing:kimono,
+clothing:legwear,
+clothing:pants,
+clothing:shirt,
+clothing:tank top,
+commentary,
+creator:wenjun lin,
+day,
+dress,
+ears,
+english text,
+frog,
+gender:female,
+green pants,
+high ponytail,
+japanese clothes,
+kappa,
+kimono,
+language:english,
+leaf,
+leaf boat,
+lily pad,
+long hair,
+looking up,
+medium:artist name,
+medium:english text,
+medium:high resolution,
+medium:text,
+meta:artist name,
+meta:commentary,
+meta:highres,
+nature,
+outdoors,
+outside,
+pants,
+pink shirt,
+pink tank top,
+pointy ears,
+ponytail,
+rating:mature,
+rating:safe,
+scenery,
+series:original,
+short kimono,
+sidelocks,
+sitting,
+sky,
+species:kappa,
+species:mythical,
+subreddit:imaginarywildlands,
+swimming,
+text,
+tied hair,
+title:summer dream by wenjun lin,
+uploader:lol33ta,
+water,
+wenjun lin,

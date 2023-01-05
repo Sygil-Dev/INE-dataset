@@ -1,32 +1,32 @@
-aurora
-bamboo
-constellation
-crescent moon
-fireflies
-full moon
-galaxy
-grass
-green theme
-light particles
-milky way
-moon
-moonlight
-nature
-night
-night sky
-planet
-rating:safe
-scenery
-shooting star
-sky
-space
-star (sky)
-starry sky
-starry sky print
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-tanabata
-telescope
-title:gathering
-tree
-uploader:blyatusmaximus
+aurora,
+bamboo,
+constellation,
+crescent moon,
+fireflies,
+full moon,
+galaxy,
+grass,
+green theme,
+light particles,
+milky way,
+moon,
+moonlight,
+nature,
+night,
+night sky,
+planet,
+rating:safe,
+scenery,
+shooting star,
+sky,
+space,
+star (sky),
+starry sky,
+starry sky print,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+tanabata,
+telescope,
+title:gathering,
+tree,
+uploader:blyatusmaximus,

@@ -1,76 +1,76 @@
-2019
-animal genitalia
-animal_genitalia
-artist:heather_bruton
-avian
-bird
-black body
-black eyes
-black feathers
-black fur
-black_body
-black_eyes
-black_feathers
-black_fur
-booru:rule34.xxx
-cardinal (bird)
-creator:heather bruton
-duo
-equine
-feathered wings
-feathered_wings
-feathers
-feral
-fur
-gender:male
-genitalia
-genitals
-guro
-hair
-male
-mammal
-medium:simple background
-medium:white background
-meta:2019
-meta:explicit content
-meta:white background
-orange body
-orange fur
-orange_body
-orange_fur
-pegasus
-r-18
-rating:explicit
-red body
-red feathers
-red fur
-red hair
-red_body
-red_feathers
-red_fur
-red_hair
-sheath
-simple background
-simple_background
-source:furaffinity.net
-species:avian
-species:bird
-species:cardinal (bird)
-species:cardinal_(bird)
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:oscine
-species:passerine
-species:pegasus
-species:pterippus
-subreddit:imaginaryhybrids
-subreddit:immonsters
-title:cardinal pegasus
-title:cardinal pegasus by hbruton
-uploader:lol33ta
-white background
-white_background
-wings
-year:2019
+2019,
+animal genitalia,
+animal_genitalia,
+artist:heather_bruton,
+avian,
+bird,
+black body,
+black eyes,
+black feathers,
+black fur,
+black_body,
+black_eyes,
+black_feathers,
+black_fur,
+booru:rule34.xxx,
+cardinal (bird),
+creator:heather bruton,
+duo,
+equine,
+feathered wings,
+feathered_wings,
+feathers,
+feral,
+fur,
+gender:male,
+genitalia,
+genitals,
+guro,
+hair,
+male,
+mammal,
+medium:simple background,
+medium:white background,
+meta:2019,
+meta:explicit content,
+meta:white background,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+pegasus,
+r-18,
+rating:explicit,
+red body,
+red feathers,
+red fur,
+red hair,
+red_body,
+red_feathers,
+red_fur,
+red_hair,
+sheath,
+simple background,
+simple_background,
+source:furaffinity.net,
+species:avian,
+species:bird,
+species:cardinal (bird),
+species:cardinal_(bird),
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:oscine,
+species:passerine,
+species:pegasus,
+species:pterippus,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+title:cardinal pegasus,
+title:cardinal pegasus by hbruton,
+uploader:lol33ta,
+white background,
+white_background,
+wings,
+year:2019,

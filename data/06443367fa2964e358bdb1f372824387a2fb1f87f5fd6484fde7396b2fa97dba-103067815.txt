@@ -1,36 +1,36 @@
-1girl
-4boys
-6+boys
-bald
-beard
-black footwear
-black hair
-black jacket
-black pants
-black vest
-chest hair
-facial hair
-formal
-gloves
-gradient
-gradient background
-grey background
-hands in pockets
-jacket
-long sleeves
-multiple boys
-mustache
-necktie
-old
-old man
-pants
-rating:safe
-shirt
-standing
-subreddit:imaginaryfashion
-suit
-title:arasaka corporation characters concept art by lea leonowicz
-topknot
-uploader:disappointingreality
-vest
-wrinkled skin
+1girl,
+4boys,
+6+boys,
+bald,
+beard,
+black footwear,
+black hair,
+black jacket,
+black pants,
+black vest,
+chest hair,
+facial hair,
+formal,
+gloves,
+gradient,
+gradient background,
+grey background,
+hands in pockets,
+jacket,
+long sleeves,
+multiple boys,
+mustache,
+necktie,
+old,
+old man,
+pants,
+rating:safe,
+shirt,
+standing,
+subreddit:imaginaryfashion,
+suit,
+title:arasaka corporation characters concept art by lea leonowicz,
+topknot,
+uploader:disappointingreality,
+vest,
+wrinkled skin,

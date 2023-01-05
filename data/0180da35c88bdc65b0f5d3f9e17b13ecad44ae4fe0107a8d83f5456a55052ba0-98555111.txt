@@ -1,25 +1,25 @@
-2boys
-beard
-blonde hair
-braid
-dark skin
-dark-skinned female
-facial hair
-multiple boys
-multiple girls
-muscular
-muscular female
-mustache
-old
-old man
-outstretched arm
-outstretched hand
-rating:safe
-reaching
-reaching out
-sitting
-subreddit:wholesomefantasyart
-tank top
-title:brigitte origin story by steamboy
-uploader:lol33ta
-window
+2boys,
+beard,
+blonde hair,
+braid,
+dark skin,
+dark-skinned female,
+facial hair,
+multiple boys,
+multiple girls,
+muscular,
+muscular female,
+mustache,
+old,
+old man,
+outstretched arm,
+outstretched hand,
+rating:safe,
+reaching,
+reaching out,
+sitting,
+subreddit:wholesomefantasyart,
+tank top,
+title:brigitte origin story by steamboy,
+uploader:lol33ta,
+window,

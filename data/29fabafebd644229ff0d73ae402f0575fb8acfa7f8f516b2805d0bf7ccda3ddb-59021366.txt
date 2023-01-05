@@ -1,61 +1,61 @@
-ambiguous gender
-armor
-biped
-claws
-cloak
-clothed
-clothing
-creator:weronika sobczyk
-detailed background
-detailed scales
-duo
-ears back
-female
-feral
-fully clothed
-grass
-green body
-green cloak
-green eyes
-green scales
-hair
-long hair
-long neck
-melee weapon
-membrane (anatomy)
-membranous wings
-meta:21:9
-meta:absurd res
-meta:detailed
-meta:english text
-meta:hi res
-meta:shaded
-pivoted ears
-plant
-rating:safe
-reaching towards another
-red hair
-scales
-shadow
-sharp teeth
-snout
-species:dragon
-species:human
-species:mammal
-species:scalie
-species:western dragon
-species:wyvern
-spikes
-spikes (anatomy)
-standing
-subreddit:imaginarydragons
-subreddit:immonsters
-sword
-teeth
-text
-title:"the brave men do not kill dragons" by weronika sobczyk
-toe claws
-tree
-uploader:nikephoros_ii_phokas
-weapon
-wings
+ambiguous gender,
+armor,
+biped,
+claws,
+cloak,
+clothed,
+clothing,
+creator:weronika sobczyk,
+detailed background,
+detailed scales,
+duo,
+ears back,
+female,
+feral,
+fully clothed,
+grass,
+green body,
+green cloak,
+green eyes,
+green scales,
+hair,
+long hair,
+long neck,
+melee weapon,
+membrane (anatomy),
+membranous wings,
+meta:21:9,
+meta:absurd res,
+meta:detailed,
+meta:english text,
+meta:hi res,
+meta:shaded,
+pivoted ears,
+plant,
+rating:safe,
+reaching towards another,
+red hair,
+scales,
+shadow,
+sharp teeth,
+snout,
+species:dragon,
+species:human,
+species:mammal,
+species:scalie,
+species:western dragon,
+species:wyvern,
+spikes,
+spikes (anatomy),
+standing,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sword,
+teeth,
+text,
+title:"the brave men do not kill dragons" by weronika sobczyk,
+toe claws,
+tree,
+uploader:nikephoros_ii_phokas,
+weapon,
+wings,

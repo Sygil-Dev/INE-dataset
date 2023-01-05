@@ -1,27 +1,27 @@
-1boy
-armor
-artist name
-beard
-blurry
-blurry background
-blurry foreground
-cape
-depth of field
-facial hair
-long hair
-looking at viewer
-male focus
-manly
-motion blur
-mustache
-old
-old man
-rating:safe
-realistic
-solo
-standing
-subreddit:imaginarytamriel
-sword
-title:baldor ironbreaker by annahelme
-uploader:lol33ta
-weapon
+1boy,
+armor,
+artist name,
+beard,
+blurry,
+blurry background,
+blurry foreground,
+cape,
+depth of field,
+facial hair,
+long hair,
+looking at viewer,
+male focus,
+manly,
+motion blur,
+mustache,
+old,
+old man,
+rating:safe,
+realistic,
+solo,
+standing,
+subreddit:imaginarytamriel,
+sword,
+title:baldor ironbreaker by annahelme,
+uploader:lol33ta,
+weapon,

@@ -1,56 +1,56 @@
-apple
-banana
-berry
-birthday cake
-blood
-blueberry
-cake
-cake slice
-camellia
-candle
-candy apple
-character:metroid (creature)
-cherry
-cream
-crepe
-defloration
-dessert
-flower
-food
-food focus
-food print
-fork
-fruit
-grapes
-green background
-hibiscus
-holding fruit
-icing
-ladybug
-melon
-mushroom
-no humans
-orange (fruit)
-parfait
-pastry
-rating:safe
-red apple
-red flower
-red rose
-solo
-spider lily
-strawberry
-strawberry hair ornament
-strawberry panties
-strawberry print
-strawberry shortcake
-subreddit:imaginaryanimals
-subreddit:imaginarycrawlers
-subreddit:imnature
-title:lenny by samantha stahlke
-tomato
-tulip
-uploader:chalkchick0
-watermelon
-watermelon bar
-whipped cream
+apple,
+banana,
+berry,
+birthday cake,
+blood,
+blueberry,
+cake,
+cake slice,
+camellia,
+candle,
+candy apple,
+character:metroid (creature),
+cherry,
+cream,
+crepe,
+defloration,
+dessert,
+flower,
+food,
+food focus,
+food print,
+fork,
+fruit,
+grapes,
+green background,
+hibiscus,
+holding fruit,
+icing,
+ladybug,
+melon,
+mushroom,
+no humans,
+orange (fruit),
+parfait,
+pastry,
+rating:safe,
+red apple,
+red flower,
+red rose,
+solo,
+spider lily,
+strawberry,
+strawberry hair ornament,
+strawberry panties,
+strawberry print,
+strawberry shortcake,
+subreddit:imaginaryanimals,
+subreddit:imaginarycrawlers,
+subreddit:imnature,
+title:lenny by samantha stahlke,
+tomato,
+tulip,
+uploader:chalkchick0,
+watermelon,
+watermelon bar,
+whipped cream,

@@ -1,24 +1,24 @@
-2girls
-black border
-black dress
-black hair
-blonde hair
-holding
-holding sword
-holding weapon
-letterboxed
-long hair
-multiple girls
-pillarboxed
-rating:safe
-shooting star
-subreddit:imaginarycharacters
-subreddit:imaginarynobles
-subreddit:reasonablefantasy
-sword
-title:illustration by ami thompson
-title:untitled by ami thompson
-uploader:maleficentrespect3
-uploader:misanthropy3000
-very long hair
-weapon
+2girls,
+black border,
+black dress,
+black hair,
+blonde hair,
+holding,
+holding sword,
+holding weapon,
+letterboxed,
+long hair,
+multiple girls,
+pillarboxed,
+rating:safe,
+shooting star,
+subreddit:imaginarycharacters,
+subreddit:imaginarynobles,
+subreddit:reasonablefantasy,
+sword,
+title:illustration by ami thompson,
+title:untitled by ami thompson,
+uploader:maleficentrespect3,
+uploader:misanthropy3000,
+very long hair,
+weapon,

@@ -1,31 +1,31 @@
-2boys
-balding
-beard
-bioluminescence
-burn scar
-character:iroh
-character:zuko
-creator:devin elle kurtz
-facial hair
-field
-flower
-grey hair
-hair bun
-long beard
-long hair
-meta:highres
-mountainous horizon
-multiple boys
-older
-outstretched arm
-purple sky
-rating:safe
-scar
-series:avatar (series)
-series:the legend of korra
-standing
-subreddit:imaginaryfeels
-subreddit:immeta
-title:zuko finds iroh by tamberella
-uncle and nephew
-uploader:myrandall
+2boys,
+balding,
+beard,
+bioluminescence,
+burn scar,
+character:iroh,
+character:zuko,
+creator:devin elle kurtz,
+facial hair,
+field,
+flower,
+grey hair,
+hair bun,
+long beard,
+long hair,
+meta:highres,
+mountainous horizon,
+multiple boys,
+older,
+outstretched arm,
+purple sky,
+rating:safe,
+scar,
+series:avatar (series),
+series:the legend of korra,
+standing,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+title:zuko finds iroh by tamberella,
+uncle and nephew,
+uploader:myrandall,

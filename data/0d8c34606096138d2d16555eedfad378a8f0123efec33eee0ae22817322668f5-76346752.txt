@@ -1,23 +1,23 @@
-1girl
-armor
-beard
-burning
-campfire
-candle
-candlelight
-facial hair
-fire
-flame
-indoors
-multiple boys
-open mouth
-rating:safe
-subreddit:imaginarygatherings
-subreddit:imaginaryorcs
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-subreddit:imcharacters
-subreddit:imraces
-title:tavern by logan feliciano
-torch
-uploader:myrandall
+1girl,
+armor,
+beard,
+burning,
+campfire,
+candle,
+candlelight,
+facial hair,
+fire,
+flame,
+indoors,
+multiple boys,
+open mouth,
+rating:safe,
+subreddit:imaginarygatherings,
+subreddit:imaginaryorcs,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+subreddit:imcharacters,
+subreddit:imraces,
+title:tavern by logan feliciano,
+torch,
+uploader:myrandall,

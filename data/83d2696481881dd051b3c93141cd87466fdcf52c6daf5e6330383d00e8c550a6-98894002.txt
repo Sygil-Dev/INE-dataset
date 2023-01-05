@@ -1,30 +1,30 @@
-2020
-bfa
-blizzard
-blizzard student art contest
-contest
-creator:eleanor "hal" anderson
-diffuse
-digital 3d
-environment
-fanart
-fantasy
-forsaken
-game art
-handpainted
-horde
-low-poly
-medium:digital 3d
-props
-shrine
-student
-stylized
-subreddit:imaginaryruins
-subreddit:imaginarytemples
-sylvanas
-title:forgotten temple to the dark lady
-title:forgotten temple to the dark lady by eleanor "hal" anderson
-uploader:chalkchick0
-whimsical
-world of warcraft
-wow
+2020,
+bfa,
+blizzard,
+blizzard student art contest,
+contest,
+creator:eleanor "hal" anderson,
+diffuse,
+digital 3d,
+environment,
+fanart,
+fantasy,
+forsaken,
+game art,
+handpainted,
+horde,
+low-poly,
+medium:digital 3d,
+props,
+shrine,
+student,
+stylized,
+subreddit:imaginaryruins,
+subreddit:imaginarytemples,
+sylvanas,
+title:forgotten temple to the dark lady,
+title:forgotten temple to the dark lady by eleanor "hal" anderson,
+uploader:chalkchick0,
+whimsical,
+world of warcraft,
+wow,

@@ -1,51 +1,51 @@
-1boy
-architecture
-beard
-building
-campfire
-city
-cityscape
-cloud
-cloudy sky
-cooking
-dragonfly
-dusk
-evening
-fire
-giant
-gradient sky
-grass
-horizon
-house
-jewelry
-landscape
-male focus
-mountain
-mountainous horizon
-nature
-ocean
-orange sky
-outdoors
-palm tree
-purple sky
-rating:safe
-red sky
-ruins
-scenery
-sitting
-sky
-solo
-subreddit:imaginarybehemoths
-subreddit:imaginarydwellings
-subreddit:imaginarygiants
-subreddit:imarchitecture
-subreddit:immonsters
-sun
-sunrise
-sunset
-title:croatian tales of long ago - giant named upko by dario jelusic
-tree
-twilight
-uploader:lol33ta
-uploader:tabulaerrata
-volcano
+1boy,
+architecture,
+beard,
+building,
+campfire,
+city,
+cityscape,
+cloud,
+cloudy sky,
+cooking,
+dragonfly,
+dusk,
+evening,
+fire,
+giant,
+gradient sky,
+grass,
+horizon,
+house,
+jewelry,
+landscape,
+male focus,
+mountain,
+mountainous horizon,
+nature,
+ocean,
+orange sky,
+outdoors,
+palm tree,
+purple sky,
+rating:safe,
+red sky,
+ruins,
+scenery,
+sitting,
+sky,
+solo,
+subreddit:imaginarybehemoths,
+subreddit:imaginarydwellings,
+subreddit:imaginarygiants,
+subreddit:imarchitecture,
+subreddit:immonsters,
+sun,
+sunrise,
+sunset,
+title:croatian tales of long ago - giant named upko by dario jelusic,
+tree,
+twilight,
+uploader:lol33ta,
+uploader:tabulaerrata,
+volcano,

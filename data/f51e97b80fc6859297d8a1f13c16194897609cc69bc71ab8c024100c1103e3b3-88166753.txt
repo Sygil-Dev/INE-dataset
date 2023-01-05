@@ -1,27 +1,27 @@
-blue hair
-claws
-conditional dnp
-creator:blitzdrachin
-creator:conditional dnp
-creator:sifyro
-dragon
-hair
-happy
-horn
-meta:digital media (artwork)
-meta:model sheet
-model sheet
-purple eyes
-rating:safe
-scales
-smug
-solo
-species:dragon
-species:wyvern
-subreddit:imaginarydragons
-subreddit:immonsters
-title:wyvern design for @cursedswallow
-uploader:sifyro
-wyvern
-yellow body
-yellow scales
+blue hair,
+claws,
+conditional dnp,
+creator:blitzdrachin,
+creator:conditional dnp,
+creator:sifyro,
+dragon,
+hair,
+happy,
+horn,
+meta:digital media (artwork),
+meta:model sheet,
+model sheet,
+purple eyes,
+rating:safe,
+scales,
+smug,
+solo,
+species:dragon,
+species:wyvern,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:wyvern design for @cursedswallow,
+uploader:sifyro,
+wyvern,
+yellow body,
+yellow scales,

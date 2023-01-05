@@ -1,24 +1,24 @@
-assault rifle
-burning
-campfire
-dusk
-evening
-explosion
-fire
-firing
-flame
-gun
-molten rock
-multiple boys
-multiple girls
-orange sky
-orange theme
-rating:safe
-red sky
-rifle
-subreddit:imaginarywildlands
-sunset
-title:red mushroom valley, by ivan khomenko
-twilight
-uploader:sylvyrfyre
-weapon
+assault rifle,
+burning,
+campfire,
+dusk,
+evening,
+explosion,
+fire,
+firing,
+flame,
+gun,
+molten rock,
+multiple boys,
+multiple girls,
+orange sky,
+orange theme,
+rating:safe,
+red sky,
+rifle,
+subreddit:imaginarywildlands,
+sunset,
+title:red mushroom valley, by ivan khomenko,
+twilight,
+uploader:sylvyrfyre,
+weapon,

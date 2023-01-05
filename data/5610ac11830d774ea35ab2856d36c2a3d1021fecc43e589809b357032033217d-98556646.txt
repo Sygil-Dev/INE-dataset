@@ -1,27 +1,27 @@
-3d
-aircraft
-airplane
-animation
-blue angels
-cargo
-creator:foxxy
-f14
-f15
-f18
-f22
-f35
-jet
-medium:digital 3d
-mig
-mig 29
-navy
-plane
-real time
-su33
-subreddit:imaginaryaviation
-thunderbird
-title:f-5.6 lynx
-title:the f-5.6 lynx(oc, insta: @foxxys_illustrations)
-uploader:mrgatsby1984
-usaf
-vintage
+3d,
+aircraft,
+airplane,
+animation,
+blue angels,
+cargo,
+creator:foxxy,
+f14,
+f15,
+f18,
+f22,
+f35,
+jet,
+medium:digital 3d,
+mig,
+mig 29,
+navy,
+plane,
+real time,
+su33,
+subreddit:imaginaryaviation,
+thunderbird,
+title:f-5.6 lynx,
+title:the f-5.6 lynx(oc, insta: @foxxys_illustrations),
+uploader:mrgatsby1984,
+usaf,
+vintage,

@@ -1,60 +1,60 @@
-1girl
-::d
-armor
-backpack
-bag
-bob cut
-book
-booru:sankaku
-boots
-breastplate
-character:adeptus astartes
-character:lorgar
-closed mouth
-clothing
-creator:ryuusei (mark ii)
-facial mark
-female
-footwear
-gauntlets
-genderswap
-genderswap (mtf)
-genre:genderswap
-genre:genderswap (mtf)
-greaves
-hands up
-holding
-holding book
-holding object
-holding weapon
-in profile
-looking at viewer
-lorgar
-mace
-medium hair
-medium:high resolution
-medium:multiple views
-medium:signature
-meta:highres
-multiple views
-open mouth
-open-mouth smile
-palms together
-pauldron
-pauldrons
-profile
-rating:s
-rating:safe
-series:warhammer 40k
-short hair
-shoulder armor
-sideways mouth
-signature
-smile
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:lorgar aurelian by @cnmbwjx
-uploader:dawnbringeraeon
-weapon
-white hair
-yellow eyes
+1girl,
+::d,
+armor,
+backpack,
+bag,
+bob cut,
+book,
+booru:sankaku,
+boots,
+breastplate,
+character:adeptus astartes,
+character:lorgar,
+closed mouth,
+clothing,
+creator:ryuusei (mark ii),
+facial mark,
+female,
+footwear,
+gauntlets,
+genderswap,
+genderswap (mtf),
+genre:genderswap,
+genre:genderswap (mtf),
+greaves,
+hands up,
+holding,
+holding book,
+holding object,
+holding weapon,
+in profile,
+looking at viewer,
+lorgar,
+mace,
+medium hair,
+medium:high resolution,
+medium:multiple views,
+medium:signature,
+meta:highres,
+multiple views,
+open mouth,
+open-mouth smile,
+palms together,
+pauldron,
+pauldrons,
+profile,
+rating:s,
+rating:safe,
+series:warhammer 40k,
+short hair,
+shoulder armor,
+sideways mouth,
+signature,
+smile,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:lorgar aurelian by @cnmbwjx,
+uploader:dawnbringeraeon,
+weapon,
+white hair,
+yellow eyes,

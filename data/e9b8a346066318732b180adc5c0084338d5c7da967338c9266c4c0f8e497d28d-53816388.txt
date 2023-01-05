@@ -1,26 +1,26 @@
-artist:tamberella
-creator:tamberella
-day
-detailed background
-detailed_background
-feral
-fire
-group
-male
-meta:hi res
-meta:hi_res
-outside
-rating:safe
-sky
-species:elemental being
-species:elemental_being
-species:human
-species:mammal
-species:primate
-subreddit:imaginaryelementals
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-subreddit:immonsters
-sun
-title:fire fish by tamberella
-uploader:myrandall
+artist:tamberella,
+creator:tamberella,
+day,
+detailed background,
+detailed_background,
+feral,
+fire,
+group,
+male,
+meta:hi res,
+meta:hi_res,
+outside,
+rating:safe,
+sky,
+species:elemental being,
+species:elemental_being,
+species:human,
+species:mammal,
+species:primate,
+subreddit:imaginaryelementals,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+subreddit:immonsters,
+sun,
+title:fire fish by tamberella,
+uploader:myrandall,

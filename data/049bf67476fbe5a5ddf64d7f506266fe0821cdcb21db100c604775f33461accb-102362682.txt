@@ -1,18 +1,18 @@
-bird
-city
-cloud
-cloudy sky
-fantasy
-fire
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryangels
-subreddit:imaginaryhellscapes
-subreddit:imaginarymindscapes
-subreddit:imaginarymonsters
-sunset
-title:deliver my throne, by me
-uploader:no7er
-water
+bird,
+city,
+cloud,
+cloudy sky,
+fantasy,
+fire,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryangels,
+subreddit:imaginaryhellscapes,
+subreddit:imaginarymindscapes,
+subreddit:imaginarymonsters,
+sunset,
+title:deliver my throne, by me,
+uploader:no7er,
+water,

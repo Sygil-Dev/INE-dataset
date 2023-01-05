@@ -1,25 +1,25 @@
-1girl
-blonde hair
-book
-bottle
-calendar (object)
-cellphone
-clock
-computer
-drawing tablet
-food
-handheld game console
-indoors
-laptop
-paper
-pencil
-phone
-plant
-potted plant
-rating:safe
-solo
-subreddit:imaginarybooks
-subreddit:immeta
-tissue box
-title:technology by paul nikitaev
-uploader:chalkchick0
+1girl,
+blonde hair,
+book,
+bottle,
+calendar (object),
+cellphone,
+clock,
+computer,
+drawing tablet,
+food,
+handheld game console,
+indoors,
+laptop,
+paper,
+pencil,
+phone,
+plant,
+potted plant,
+rating:safe,
+solo,
+subreddit:imaginarybooks,
+subreddit:immeta,
+tissue box,
+title:technology by paul nikitaev,
+uploader:chalkchick0,

@@ -1,22 +1,22 @@
-1girl
-aqua hair
-bangs
-bow
-flower
-frills
-gloves
-hair ornament
-long hair
-looking at viewer
-pink flower
-pink rose
-purple flower
-purple rose
-rating:safe
-rose
-solo
-subreddit:popartnouveau
-title:eyes are the mirror to the soul
-uploader:anescapist
-upper body
-wavy hair
+1girl,
+aqua hair,
+bangs,
+bow,
+flower,
+frills,
+gloves,
+hair ornament,
+long hair,
+looking at viewer,
+pink flower,
+pink rose,
+purple flower,
+purple rose,
+rating:safe,
+rose,
+solo,
+subreddit:popartnouveau,
+title:eyes are the mirror to the soul,
+uploader:anescapist,
+upper body,
+wavy hair,

@@ -1,26 +1,26 @@
-creator:sandara
-day
-detailed background
-forest
-grass
-group
-meta:2021
-meta:digital media (artwork)
-outside
-plant
-rating:safe
-species:arthropod
-species:bee
-species:bovid
-species:bumble bee (species)
-species:caprine
-species:goat
-species:hymenopteran
-species:insect
-species:mammal
-subreddit:imaginaryaww
-subreddit:immeta
-title:shepherd
-title:shepherd by sandara
-tree
-uploader:lol33ta
+creator:sandara,
+day,
+detailed background,
+forest,
+grass,
+group,
+meta:2021,
+meta:digital media (artwork),
+outside,
+plant,
+rating:safe,
+species:arthropod,
+species:bee,
+species:bovid,
+species:bumble bee (species),
+species:caprine,
+species:goat,
+species:hymenopteran,
+species:insect,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:shepherd,
+title:shepherd by sandara,
+tree,
+uploader:lol33ta,

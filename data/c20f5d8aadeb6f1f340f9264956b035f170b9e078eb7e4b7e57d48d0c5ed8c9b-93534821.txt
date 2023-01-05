@@ -1,33 +1,33 @@
-beach
-child
-creator:sandara
-day
-detailed background
-duo focus
-female
-feral
-group
-meta:2022
-meta:digital media (artwork)
-outside
-plant
-rating:safe
-sand
-seaside
-shoreline
-sky
-species:ambient bird
-species:avian
-species:bird
-species:dragon
-species:elemental creature
-species:flora fauna
-species:human
-species:mammal
-subreddit:imaginarydragons
-subreddit:immonsters
-title:summer beach
-title:summer beach by sandara tang
-uploader:net-diver
-water
-young
+beach,
+child,
+creator:sandara,
+day,
+detailed background,
+duo focus,
+female,
+feral,
+group,
+meta:2022,
+meta:digital media (artwork),
+outside,
+plant,
+rating:safe,
+sand,
+seaside,
+shoreline,
+sky,
+species:ambient bird,
+species:avian,
+species:bird,
+species:dragon,
+species:elemental creature,
+species:flora fauna,
+species:human,
+species:mammal,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:summer beach,
+title:summer beach by sandara tang,
+uploader:net-diver,
+water,
+young,

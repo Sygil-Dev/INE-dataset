@@ -1,21 +1,21 @@
-armor
-bat
-blonde hair
-castle
-green eyes
-halloween
-halloween bucket
-halloween costume
-hat
-jack-o'-lantern
-multiple boys
-multiple girls
-open mouth
-pumpkin
-rating:safe
-subreddit:imaginarypirates
-subreddit:imaginaryundead
-subreddit:imcharacters
-subreddit:immonsters
-title:chalky 3 drawing by richard sashigane
-uploader:yannirotten
+armor,
+bat,
+blonde hair,
+castle,
+green eyes,
+halloween,
+halloween bucket,
+halloween costume,
+hat,
+jack-o'-lantern,
+multiple boys,
+multiple girls,
+open mouth,
+pumpkin,
+rating:safe,
+subreddit:imaginarypirates,
+subreddit:imaginaryundead,
+subreddit:imcharacters,
+subreddit:immonsters,
+title:chalky 3 drawing by richard sashigane,
+uploader:yannirotten,

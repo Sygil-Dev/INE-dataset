@@ -1,19 +1,19 @@
-1boy
-1other
-armor
-axe
-full armor
-helmet
-holding
-holding weapon
-male focus
-pauldrons
-rating:safe
-shoulder armor
-solo
-standing
-subreddit:imaginaryundead
-sword
-title:undead warrior by yuming li
-uploader:standyourground10
-weapon
+1boy,
+1other,
+armor,
+axe,
+full armor,
+helmet,
+holding,
+holding weapon,
+male focus,
+pauldrons,
+rating:safe,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryundead,
+sword,
+title:undead warrior by yuming li,
+uploader:standyourground10,
+weapon,

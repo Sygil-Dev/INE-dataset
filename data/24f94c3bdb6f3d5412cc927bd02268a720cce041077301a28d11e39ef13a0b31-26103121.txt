@@ -1,24 +1,24 @@
-arleyna
-artwork
-beautiful
-corset
-creator:ina wong (ina murwani prasetyaningrum)
-cute
-emerald
-fantasy art
-fantasy girl
-flower
-gender:female
-genre:steampunk
-green eyes
-ina wong
-medium:digital 2d
-red
-red hair
-rose
-sorceress
-subreddit:imaginaryhumans
-subreddit:inegentlemanboners
-title:"emerald and arleyna" by ina wong (ina murwani prasetyaningrum)
-uploader:torvusil
-yellow
+arleyna,
+artwork,
+beautiful,
+corset,
+creator:ina wong (ina murwani prasetyaningrum),
+cute,
+emerald,
+fantasy art,
+fantasy girl,
+flower,
+gender:female,
+genre:steampunk,
+green eyes,
+ina wong,
+medium:digital 2d,
+red,
+red hair,
+rose,
+sorceress,
+subreddit:imaginaryhumans,
+subreddit:inegentlemanboners,
+title:"emerald and arleyna" by ina wong (ina murwani prasetyaningrum),
+uploader:torvusil,
+yellow,

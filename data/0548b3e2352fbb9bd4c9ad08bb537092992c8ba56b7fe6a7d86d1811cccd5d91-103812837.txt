@@ -1,28 +1,28 @@
-1girl
-bandaged arm
-bandaged hand
-bandages
-brown eyes
-brown hair
-coat
-collarbone
-freckles
-fur collar
-fur trim
-fur-trimmed jacket
-glasses
-lips
-long hair
-looking at viewer
-mole
-mole under eye
-mole under mouth
-open mouth
-plaid
-rating:safe
-solo
-subreddit:imaginaryfallout
-sweat
-title:sole survivor by amorfista ω
-uploader:i_burn_cereal
-upper body
+1girl,
+bandaged arm,
+bandaged hand,
+bandages,
+brown eyes,
+brown hair,
+coat,
+collarbone,
+freckles,
+fur collar,
+fur trim,
+fur-trimmed jacket,
+glasses,
+lips,
+long hair,
+looking at viewer,
+mole,
+mole under eye,
+mole under mouth,
+open mouth,
+plaid,
+rating:safe,
+solo,
+subreddit:imaginaryfallout,
+sweat,
+title:sole survivor by amorfista ω,
+uploader:i_burn_cereal,
+upper body,

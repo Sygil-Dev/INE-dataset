@@ -1,48 +1,48 @@
-1girl
-bangs
-black dress
-booru:danbooru
-booru:gelbooru
-booru:tbib
-brown eyes
-character:katsuragi misato
-collared dress
-collared jacket
-creator:soraso0324
-cropped jacket
-cross
-cross necklace
-dress
-earrings
-facing viewer
-floating hair
-hand in hair
-hand on own thigh
-head tilt
-highres
-jacket
-jewelry
-lipgloss
-long hair
-long sleeves
-looking to the side
-meta:highres
-necklace
-open clothes
-open jacket
-outdoors
-parted bangs
-parted lips
-purple hair
-rating:safe
-red jacket
-series:neon genesis evangelion
-short dress
-solo
-soraso0324
-standing
-stud earrings
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:katsuragi misato by sora kim
-uploader:blood-n-cheese
+1girl,
+bangs,
+black dress,
+booru:danbooru,
+booru:gelbooru,
+booru:tbib,
+brown eyes,
+character:katsuragi misato,
+collared dress,
+collared jacket,
+creator:soraso0324,
+cropped jacket,
+cross,
+cross necklace,
+dress,
+earrings,
+facing viewer,
+floating hair,
+hand in hair,
+hand on own thigh,
+head tilt,
+highres,
+jacket,
+jewelry,
+lipgloss,
+long hair,
+long sleeves,
+looking to the side,
+meta:highres,
+necklace,
+open clothes,
+open jacket,
+outdoors,
+parted bangs,
+parted lips,
+purple hair,
+rating:safe,
+red jacket,
+series:neon genesis evangelion,
+short dress,
+solo,
+soraso0324,
+standing,
+stud earrings,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:katsuragi misato by sora kim,
+uploader:blood-n-cheese,

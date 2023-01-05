@@ -1,32 +1,32 @@
-1girl
-armor
-blood
-blood on clothes
-blood on weapon
-boots
-breastplate
-breasts
-closed umbrella
-death
-holding
-lipstick
-makeup
-midriff
-navel
-pointy ears
-rain
-rating:safe
-red hair
-solo
-standing
-subreddit:imaginaryelves
-subreddit:imaginarywarriors
-subreddit:impracticalarmour
-title:dark elf by 'haco1'
-umbrella
-uploader:lol33ta
-uploader:myrandall
-weapon
-wet
-wet clothes
-wet hair
+1girl,
+armor,
+blood,
+blood on clothes,
+blood on weapon,
+boots,
+breastplate,
+breasts,
+closed umbrella,
+death,
+holding,
+lipstick,
+makeup,
+midriff,
+navel,
+pointy ears,
+rain,
+rating:safe,
+red hair,
+solo,
+standing,
+subreddit:imaginaryelves,
+subreddit:imaginarywarriors,
+subreddit:impracticalarmour,
+title:dark elf by 'haco1',
+umbrella,
+uploader:lol33ta,
+uploader:myrandall,
+weapon,
+wet,
+wet clothes,
+wet hair,

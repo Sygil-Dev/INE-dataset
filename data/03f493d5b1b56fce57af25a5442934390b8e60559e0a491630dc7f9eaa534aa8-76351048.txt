@@ -1,21 +1,21 @@
-1girl
-architecture
-black hair
-braid
-bridge
-building
-city
-east asian architecture
-jewelry
-long hair
-outdoors
-pagoda
-rating:safe
-signature
-sky
-solo
-standing
-subreddit:imaginarywitches
-sunset
-title:diabolist by alexandr elichev
-uploader:lol33ta
+1girl,
+architecture,
+black hair,
+braid,
+bridge,
+building,
+city,
+east asian architecture,
+jewelry,
+long hair,
+outdoors,
+pagoda,
+rating:safe,
+signature,
+sky,
+solo,
+standing,
+subreddit:imaginarywitches,
+sunset,
+title:diabolist by alexandr elichev,
+uploader:lol33ta,

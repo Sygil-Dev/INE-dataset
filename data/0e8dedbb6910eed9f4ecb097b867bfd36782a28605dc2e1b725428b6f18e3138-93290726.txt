@@ -1,19 +1,19 @@
-cannon
-field
-grass
-gun
-mecha
-military
-multiple boys
-outdoors
-rating:safe
-realistic
-rifle
-robot
-science fiction
-soldier
-subreddit:imaginaryfuturism
-title:mech war by jp novark
-uniform
-uploader:ysirwolf
-weapon
+cannon,
+field,
+grass,
+gun,
+mecha,
+military,
+multiple boys,
+outdoors,
+rating:safe,
+realistic,
+rifle,
+robot,
+science fiction,
+soldier,
+subreddit:imaginaryfuturism,
+title:mech war by jp novark,
+uniform,
+uploader:ysirwolf,
+weapon,

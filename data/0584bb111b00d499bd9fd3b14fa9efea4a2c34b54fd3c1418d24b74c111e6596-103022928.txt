@@ -1,23 +1,23 @@
-aerial fireworks
-bug
-butterfly
-city lights
-colorful
-fireworks
-glowing
-night
-night sky
-no humans
-planet
-rating:safe
-scenery
-shooting star
-sky
-space
-sparkle
-star (sky)
-starry sky
-subreddit:imaginarycolorscapes
-title:purple diamond sky by larry carlson
-tree
-uploader:larry_carlson
+aerial fireworks,
+bug,
+butterfly,
+city lights,
+colorful,
+fireworks,
+glowing,
+night,
+night sky,
+no humans,
+planet,
+rating:safe,
+scenery,
+shooting star,
+sky,
+space,
+sparkle,
+star (sky),
+starry sky,
+subreddit:imaginarycolorscapes,
+title:purple diamond sky by larry carlson,
+tree,
+uploader:larry_carlson,

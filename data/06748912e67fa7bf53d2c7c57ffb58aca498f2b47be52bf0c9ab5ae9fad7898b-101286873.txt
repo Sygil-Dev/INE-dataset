@@ -1,50 +1,50 @@
-5girls
-autumn
-autumn leaves
-black hair
-breathing fire
-burning
-campfire
-candle
-cloud
-cooking
-destruction
-dusk
-embers
-evening
-explosion
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-gradient sky
-ground vehicle
-molten rock
-motor vehicle
-multiple boys
-multiple girls
-muzzle flash
-orange background
-orange sky
-orange theme
-pyrokinesis
-rating:safe
-red sky
-school uniform
-smoke
-sparks
-subreddit:imaginarymechs
-sun
-sunrise
-sunset
-title:warstrider– rebellion cover art, 1993, by dorian vallejo
-torch
-twilight
-uploader:yannirotten
-utility pole
-volcano
-yellow sky
+5girls,
+autumn,
+autumn leaves,
+black hair,
+breathing fire,
+burning,
+campfire,
+candle,
+cloud,
+cooking,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+gradient sky,
+ground vehicle,
+molten rock,
+motor vehicle,
+multiple boys,
+multiple girls,
+muzzle flash,
+orange background,
+orange sky,
+orange theme,
+pyrokinesis,
+rating:safe,
+red sky,
+school uniform,
+smoke,
+sparks,
+subreddit:imaginarymechs,
+sun,
+sunrise,
+sunset,
+title:warstrider– rebellion cover art, 1993, by dorian vallejo,
+torch,
+twilight,
+uploader:yannirotten,
+utility pole,
+volcano,
+yellow sky,

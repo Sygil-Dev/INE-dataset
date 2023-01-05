@@ -1,24 +1,24 @@
-assault rifle
-boots
-bullpup
-finger on trigger
-gloves
-gun
-handgun
-helmet
-holding gun
-holding weapon
-jacket
-mask
-pistol
-rating:safe
-realistic
-rifle
-signature
-solo
-standing
-submachine gun
-subreddit:imaginarysteampunk
-title:character concept by rostislav shekhovtsov
-uploader:chalkchick0
-weapon
+assault rifle,
+boots,
+bullpup,
+finger on trigger,
+gloves,
+gun,
+handgun,
+helmet,
+holding gun,
+holding weapon,
+jacket,
+mask,
+pistol,
+rating:safe,
+realistic,
+rifle,
+signature,
+solo,
+standing,
+submachine gun,
+subreddit:imaginarysteampunk,
+title:character concept by rostislav shekhovtsov,
+uploader:chalkchick0,
+weapon,

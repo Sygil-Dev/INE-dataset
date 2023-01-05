@@ -1,24 +1,24 @@
-bare tree
-building
-bush
-cloud
-evening
-forest
-grass
-lake
-mountain
-nature
-no humans
-outdoors
-plant
-rating:safe
-ruins
-scenery
-sky
-subreddit:imaginarytrees
-subreddit:imaginarywildlands
-subreddit:imnature
-sunset
-title:one of the astral islands by artist sergei demidov
-tree
-uploader:anon_ymou5
+bare tree,
+building,
+bush,
+cloud,
+evening,
+forest,
+grass,
+lake,
+mountain,
+nature,
+no humans,
+outdoors,
+plant,
+rating:safe,
+ruins,
+scenery,
+sky,
+subreddit:imaginarytrees,
+subreddit:imaginarywildlands,
+subreddit:imnature,
+sunset,
+title:one of the astral islands by artist sergei demidov,
+tree,
+uploader:anon_ymou5,

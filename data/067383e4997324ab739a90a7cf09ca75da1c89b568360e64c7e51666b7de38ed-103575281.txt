@@ -1,23 +1,23 @@
-6+boys
-6+girls
-black hair
-blonde hair
-boots
-brown hair
-building
-city
-facial hair
-flower
-glasses
-hat
-long hair
-multiple boys
-multiple girls
-plant
-rating:safe
-short hair
-subreddit:imaginarysoldiers
-title:the recruits by vojtěch bartoněk
-top hat
-town
-uploader:paltry_poetaster
+6+boys,
+6+girls,
+black hair,
+blonde hair,
+boots,
+brown hair,
+building,
+city,
+facial hair,
+flower,
+glasses,
+hat,
+long hair,
+multiple boys,
+multiple girls,
+plant,
+rating:safe,
+short hair,
+subreddit:imaginarysoldiers,
+title:the recruits by vojtěch bartoněk,
+top hat,
+town,
+uploader:paltry_poetaster,

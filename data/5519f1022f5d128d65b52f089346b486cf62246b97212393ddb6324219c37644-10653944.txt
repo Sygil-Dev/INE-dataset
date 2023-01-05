@@ -1,24 +1,24 @@
-alexboca
-angron
-architecture
-axe
-chainaxe
-chainsword
-chaos
-character:angron
-creator:alexboca
-dreadnought
-military watercraft
-pre-heresy
-series:warhammer 40,000
-space marines
-studio:games workshop
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-title:angron by alex boca
-uploader:lol33ta
-vehicle
-warship
-watercraft
-weapon
-world eaters
+alexboca,
+angron,
+architecture,
+axe,
+chainaxe,
+chainsword,
+chaos,
+character:angron,
+creator:alexboca,
+dreadnought,
+military watercraft,
+pre-heresy,
+series:warhammer 40,000,
+space marines,
+studio:games workshop,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+title:angron by alex boca,
+uploader:lol33ta,
+vehicle,
+warship,
+watercraft,
+weapon,
+world eaters,

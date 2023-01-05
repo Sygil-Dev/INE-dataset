@@ -1,21 +1,21 @@
-architecture
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-outdoors
-rating:safe
-red moon
-red sky
-ruins
-sky
-skyscraper
-solo
-subreddit:imaginarycharacters
-sunset
-title:cover i drew a while back
-tower
-uploader:marvelzukas
+architecture,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+outdoors,
+rating:safe,
+red moon,
+red sky,
+ruins,
+sky,
+skyscraper,
+solo,
+subreddit:imaginarycharacters,
+sunset,
+title:cover i drew a while back,
+tower,
+uploader:marvelzukas,

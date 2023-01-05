@@ -1,60 +1,60 @@
-1 female
-1girl
-bad anatomy
-balcony
-black dress
-black legwear
-blue eyes
-blue hair
-blush
-book
-bookshelf
-bow
-brown footwear
-building
-character:wikipe-tan
-clothing:black legwear
-clothing:dress
-clothing:hair ornament
-clothing:legwear
-clothing:pantyhose
-clothing:white bow
-creator:kasuga39
-creator:kasuga (kasuga39)
-creator:skylight
-dress
-female
-female:1
-gender:female
-gender:male
-hair ornament
-holding
-holding book
-holding object
-kasuga (kasuga39)
-library
-light rays
-looking at viewer
-maid
-male:1
-medium:bad anatomy
-open mouth
-pantyhose
-perspective
-poorly drawn
-pov
-rating:safe
-series:wikipedia
-short hair
-solo
-standing
-subreddit:imaginarylibraries
-sunlight
-title:wikipe-tan in a library, by kasuga
-tower
-uploader:libcub
-walking
-website:danbooru
-website:gelbooru
-website:wikipedia
-white bow
+1 female,
+1girl,
+bad anatomy,
+balcony,
+black dress,
+black legwear,
+blue eyes,
+blue hair,
+blush,
+book,
+bookshelf,
+bow,
+brown footwear,
+building,
+character:wikipe-tan,
+clothing:black legwear,
+clothing:dress,
+clothing:hair ornament,
+clothing:legwear,
+clothing:pantyhose,
+clothing:white bow,
+creator:kasuga39,
+creator:kasuga (kasuga39),
+creator:skylight,
+dress,
+female,
+female:1,
+gender:female,
+gender:male,
+hair ornament,
+holding,
+holding book,
+holding object,
+kasuga (kasuga39),
+library,
+light rays,
+looking at viewer,
+maid,
+male:1,
+medium:bad anatomy,
+open mouth,
+pantyhose,
+perspective,
+poorly drawn,
+pov,
+rating:safe,
+series:wikipedia,
+short hair,
+solo,
+standing,
+subreddit:imaginarylibraries,
+sunlight,
+title:wikipe-tan in a library, by kasuga,
+tower,
+uploader:libcub,
+walking,
+website:danbooru,
+website:gelbooru,
+website:wikipedia,
+white bow,

@@ -1,31 +1,31 @@
-1girl
-alpha signature
-artist name
-black background
-black border
-blue border
-border
-braid
-circle cut
-crown braid
-dated
-greyscale
-letterboxed
-long hair
-looking at viewer
-monochrome
-outside border
-phone screen
-pillarboxed
-pointy ears
-ponytail
-rating:safe
-smile
-solo
-subreddit:imaginarycharacters
-subtitled
-title:smiling elf girl
-transparent background
-twitter username
-uploader:jcnldesigns
-watermark
+1girl,
+alpha signature,
+artist name,
+black background,
+black border,
+blue border,
+border,
+braid,
+circle cut,
+crown braid,
+dated,
+greyscale,
+letterboxed,
+long hair,
+looking at viewer,
+monochrome,
+outside border,
+phone screen,
+pillarboxed,
+pointy ears,
+ponytail,
+rating:safe,
+smile,
+solo,
+subreddit:imaginarycharacters,
+subtitled,
+title:smiling elf girl,
+transparent background,
+twitter username,
+uploader:jcnldesigns,
+watermark,

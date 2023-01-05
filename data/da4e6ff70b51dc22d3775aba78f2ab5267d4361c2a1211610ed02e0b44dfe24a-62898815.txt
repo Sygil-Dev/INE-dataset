@@ -1,22 +1,22 @@
-butterfly
-concept art
-creator:marta nael
-elf
-faerie
-fairy
-fantasy
-marta nael
-martanael
-medium:digital 2d
-snow
-snowy
-subreddit:imaginaryfaeries
-subreddit:imraces
-tattoo
-title:white fairy
-title:white fairy by marta nael
-uploader:untilapril
-white
-wings
-winter
-woman
+butterfly,
+concept art,
+creator:marta nael,
+elf,
+faerie,
+fairy,
+fantasy,
+marta nael,
+martanael,
+medium:digital 2d,
+snow,
+snowy,
+subreddit:imaginaryfaeries,
+subreddit:imraces,
+tattoo,
+title:white fairy,
+title:white fairy by marta nael,
+uploader:untilapril,
+white,
+wings,
+winter,
+woman,

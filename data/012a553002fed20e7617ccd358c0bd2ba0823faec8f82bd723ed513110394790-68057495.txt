@@ -1,22 +1,22 @@
-bird
-building
-character:pikachu
-city
-cityscape
-colorful
-flower
-forest
-nature
-no humans
-palm tree
-pixel art
-rating:safe
-skyscraper
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-title:centro tree by larry carlson
-tower
-traditional media
-tree
-uploader:larry_carlson
-water
+bird,
+building,
+character:pikachu,
+city,
+cityscape,
+colorful,
+flower,
+forest,
+nature,
+no humans,
+palm tree,
+pixel art,
+rating:safe,
+skyscraper,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+title:centro tree by larry carlson,
+tower,
+traditional media,
+tree,
+uploader:larry_carlson,
+water,

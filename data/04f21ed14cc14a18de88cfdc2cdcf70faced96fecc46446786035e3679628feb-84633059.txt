@@ -1,24 +1,24 @@
-1boy
-armor
-beard
-embers
-explosion
-fire
-flaming sword
-flaming weapon
-glowing
-helmet
-holding
-holding sword
-holding weapon
-japanese armor
-male focus
-molten rock
-rating:safe
-samurai
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-sword
-title:reinforced ronin by kekai kotaki
-uploader:disappointingreality
-weapon
+1boy,
+armor,
+beard,
+embers,
+explosion,
+fire,
+flaming sword,
+flaming weapon,
+glowing,
+helmet,
+holding,
+holding sword,
+holding weapon,
+japanese armor,
+male focus,
+molten rock,
+rating:safe,
+samurai,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+sword,
+title:reinforced ronin by kekai kotaki,
+uploader:disappointingreality,
+weapon,

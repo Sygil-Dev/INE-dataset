@@ -1,20 +1,20 @@
-archer
-art
-artwork
-creator:dzikawa ❤
-digital
-dislyte
-drawing
-fanart
-fantasy
-female
-illustration
-medium:digital 2d
-mona
-painting
-splash
-subreddit:imaginaryarchers
-title:mona by dzikawa
-title:mona from dislyte
-uploader:lol33ta
-woman
+archer,
+art,
+artwork,
+creator:dzikawa ❤,
+digital,
+dislyte,
+drawing,
+fanart,
+fantasy,
+female,
+illustration,
+medium:digital 2d,
+mona,
+painting,
+splash,
+subreddit:imaginaryarchers,
+title:mona by dzikawa,
+title:mona from dislyte,
+uploader:lol33ta,
+woman,

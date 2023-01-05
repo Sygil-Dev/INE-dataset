@@ -1,24 +1,24 @@
-1girl
-armor
-cape
-full armor
-gauntlets
-greaves
-holding
-holding sword
-holding weapon
-knight
-pauldrons
-rating:safe
-sheath
-shoulder armor
-solo
-standing
-subreddit:imaginarycybernetics
-subreddit:imaginaryfuturewar
-subreddit:imaginaryfuturism
-subreddit:imaginaryrobotics
-sword
-title:[oc] cyborg that i drew.
-uploader:okvl_artist
-weapon
+1girl,
+armor,
+cape,
+full armor,
+gauntlets,
+greaves,
+holding,
+holding sword,
+holding weapon,
+knight,
+pauldrons,
+rating:safe,
+sheath,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginarycybernetics,
+subreddit:imaginaryfuturewar,
+subreddit:imaginaryfuturism,
+subreddit:imaginaryrobotics,
+sword,
+title:[oc] cyborg that i drew.,
+uploader:okvl_artist,
+weapon,

@@ -1,32 +1,32 @@
-3d
-armor
-axe
-belt
-black
-blender
-chainmail
-creator:daniel orji
-earrings
-fighter
-fishnets
-greyscale
-jewelry
-locs
-male focus
-man
-medium:digital 3d
-monochrome
-muscular
-noai
-pirate
-pouch
-rating:safe
-sea wolf
-solo
-subreddit:ebonyimagination
-title:tribal sea wolf, from a concept by yulia misyul
-title:tribal warrior - sea wolf
-tribal
-uploader:danielorji
-warrior
-weapon
+3d,
+armor,
+axe,
+belt,
+black,
+blender,
+chainmail,
+creator:daniel orji,
+earrings,
+fighter,
+fishnets,
+greyscale,
+jewelry,
+locs,
+male focus,
+man,
+medium:digital 3d,
+monochrome,
+muscular,
+noai,
+pirate,
+pouch,
+rating:safe,
+sea wolf,
+solo,
+subreddit:ebonyimagination,
+title:tribal sea wolf, from a concept by yulia misyul,
+title:tribal warrior - sea wolf,
+tribal,
+uploader:danielorji,
+warrior,
+weapon,

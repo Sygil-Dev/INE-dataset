@@ -1,43 +1,43 @@
-architecture
-car
-castle
-creator:sinsin08051
-day
-defensive wall
-drawbridge
-east asian architecture
-extra arms
-extra eyes
-eye print
-gate
-giant
-ground vehicle
-hand eye
-highres
-ironwork
-japanese clothes
-meta:commentary
-meta:highres
-miko
-moat
-monster
-motor vehicle
-opening door
-people
-police
-police car
-rating:general
-scenery
-series:original
-sinsin08051
-skull
-subreddit:imaginaryhorrors
-subreddit:imaginarymonsters
-subreddit:immonsters
-title:welcome by @sinsin08051
-title:welcome by hayapi
-tower
-tree
-uploader:malilaks
-uploader:s1cks
-water
+architecture,
+car,
+castle,
+creator:sinsin08051,
+day,
+defensive wall,
+drawbridge,
+east asian architecture,
+extra arms,
+extra eyes,
+eye print,
+gate,
+giant,
+ground vehicle,
+hand eye,
+highres,
+ironwork,
+japanese clothes,
+meta:commentary,
+meta:highres,
+miko,
+moat,
+monster,
+motor vehicle,
+opening door,
+people,
+police,
+police car,
+rating:general,
+scenery,
+series:original,
+sinsin08051,
+skull,
+subreddit:imaginaryhorrors,
+subreddit:imaginarymonsters,
+subreddit:immonsters,
+title:welcome by @sinsin08051,
+title:welcome by hayapi,
+tower,
+tree,
+uploader:malilaks,
+uploader:s1cks,
+water,

@@ -1,22 +1,22 @@
-1boy
-building
-city
-city lights
-dark
-facing away
-fish
-from behind
-glowing
-light
-night
-night sky
-rating:safe
-scenery
-shooting star
-sky
-solo
-star (sky)
-starry sky
-subreddit:imaginarygatherings
-title:dream war by mike winkelmann (beeple)
-uploader:elumental
+1boy,
+building,
+city,
+city lights,
+dark,
+facing away,
+fish,
+from behind,
+glowing,
+light,
+night,
+night sky,
+rating:safe,
+scenery,
+shooting star,
+sky,
+solo,
+star (sky),
+starry sky,
+subreddit:imaginarygatherings,
+title:dream war by mike winkelmann (beeple),
+uploader:elumental,

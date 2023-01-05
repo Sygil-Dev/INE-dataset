@@ -1,51 +1,51 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist:dvixie
-book
-books
-claws
-creator:dvixie
-creator:skyvixie
-deviantart
-digital media (artwork)
-dnd
-dragon
-dungeonsanddragons
-dvixie
-feral
-furry
-gender:ambiguous
-green eyes
-green_eyes
-hoard
-horn
-horns
-lying
-medium:digital media
-medium:simple background
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-rating:safe
-reading
-simple background
-simple_background
-smile
-solo
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-spines
-subreddit:imaginarydragons
-title:[commission] the dnd dragon
-title:the dnd dragon by skyvixie
-uploader:vikingzx
-wings
-year:2018
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:dvixie,
+book,
+books,
+claws,
+creator:dvixie,
+creator:skyvixie,
+deviantart,
+digital media (artwork),
+dnd,
+dragon,
+dungeonsanddragons,
+dvixie,
+feral,
+furry,
+gender:ambiguous,
+green eyes,
+green_eyes,
+hoard,
+horn,
+horns,
+lying,
+medium:digital media,
+medium:simple background,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+rating:safe,
+reading,
+simple background,
+simple_background,
+smile,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+spines,
+subreddit:imaginarydragons,
+title:[commission] the dnd dragon,
+title:the dnd dragon by skyvixie,
+uploader:vikingzx,
+wings,
+year:2018,

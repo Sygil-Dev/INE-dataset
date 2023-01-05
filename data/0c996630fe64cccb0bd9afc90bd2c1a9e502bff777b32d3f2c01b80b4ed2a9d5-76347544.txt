@@ -1,27 +1,27 @@
-1boy
-angel
-angel wings
-armor
-feathered wings
-feathers
-full armor
-gauntlets
-halo
-helmet
-holding
-holding sword
-holding weapon
-male focus
-multiple wings
-rating:safe
-single wing
-solo
-subreddit:imaginaryangels
-subreddit:imraces
-sword
-title:archangel by hex aoyama
-uploader:ajcarrington
-weapon
-white feathers
-white wings
-wings
+1boy,
+angel,
+angel wings,
+armor,
+feathered wings,
+feathers,
+full armor,
+gauntlets,
+halo,
+helmet,
+holding,
+holding sword,
+holding weapon,
+male focus,
+multiple wings,
+rating:safe,
+single wing,
+solo,
+subreddit:imaginaryangels,
+subreddit:imraces,
+sword,
+title:archangel by hex aoyama,
+uploader:ajcarrington,
+weapon,
+white feathers,
+white wings,
+wings,

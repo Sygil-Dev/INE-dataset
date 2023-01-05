@@ -1,43 +1,43 @@
-anthro
-anthropomorphism
-biped
-black nose
-booru:e621
-carving
-claws
-clothed
-clothing
-creator:conditional dnp
-creator:latex (artist)
-detailed fur
-digitigrade
-gender:male
-holding object
-inner ear fluff
-invalid tag
-looking down
-male
-medium:high resolution
-meta:detailed
-meta:hi res
-neck tuft
-outside
-pawpads
-plant
-rating:safe
-rock
-sitting
-sky
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-subreddit:imaginaryhybrids
-subreddit:imaginarywerewolves
-title:sunset serenity by ilya royz (royzilya)
-toe claws
-tuft
-uploader:killerbunnyfamily
-yellow eyes
+anthro,
+anthropomorphism,
+biped,
+black nose,
+booru:e621,
+carving,
+claws,
+clothed,
+clothing,
+creator:conditional dnp,
+creator:latex (artist),
+detailed fur,
+digitigrade,
+gender:male,
+holding object,
+inner ear fluff,
+invalid tag,
+looking down,
+male,
+medium:high resolution,
+meta:detailed,
+meta:hi res,
+neck tuft,
+outside,
+pawpads,
+plant,
+rating:safe,
+rock,
+sitting,
+sky,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+subreddit:imaginaryhybrids,
+subreddit:imaginarywerewolves,
+title:sunset serenity by ilya royz (royzilya),
+toe claws,
+tuft,
+uploader:killerbunnyfamily,
+yellow eyes,

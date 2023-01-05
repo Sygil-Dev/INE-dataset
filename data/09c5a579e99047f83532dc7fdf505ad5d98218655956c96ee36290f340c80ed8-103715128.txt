@@ -1,19 +1,19 @@
-1boy
-assault rifle
-brown hair
-english text
-green eyes
-ground vehicle
-gun
-mecha
-military
-motor vehicle
-rating:safe
-realistic
-rifle
-science fiction
-sitting
-subreddit:imaginaryhalo
-title:crashed by aauditor
-uploader:[deleted]
-weapon
+1boy,
+assault rifle,
+brown hair,
+english text,
+green eyes,
+ground vehicle,
+gun,
+mecha,
+military,
+motor vehicle,
+rating:safe,
+realistic,
+rifle,
+science fiction,
+sitting,
+subreddit:imaginaryhalo,
+title:crashed by aauditor,
+uploader:[deleted],
+weapon,

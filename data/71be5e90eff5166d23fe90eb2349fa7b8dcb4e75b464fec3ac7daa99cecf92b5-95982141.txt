@@ -1,59 +1,59 @@
-abstract
-archive
-army
-beautiful
-book
-book art
-caesar
-card
-character
-characterdesign
-color
-colorscript
-conceptart
-cover
-coverart
-creator:dominik mayer
-creepy
-dark
-demon
-dominikmayer
-eerie
-emperor
-energy
-epic
-evil
-fairytale
-ghost
-graphical
-horror
-illustration
-king
-knight
-lore
-medieval
-medium:digital 2d
-mood
-mythic
-painting
-portal
-poster
-posterart
-promo art
-roman
-saga
-soldier
-soldiers
-story
-stylized
-subreddit:imaginaryhistory
-subreddit:imaginarynobles
-subreddit:imcharacters
-subreddit:immeta
-sword
-title:fall of the emperor
-title:fall of the emperor, dominik mayer
-token
-uploader:miciy5
-warrior
-weird
+abstract,
+archive,
+army,
+beautiful,
+book,
+book art,
+caesar,
+card,
+character,
+characterdesign,
+color,
+colorscript,
+conceptart,
+cover,
+coverart,
+creator:dominik mayer,
+creepy,
+dark,
+demon,
+dominikmayer,
+eerie,
+emperor,
+energy,
+epic,
+evil,
+fairytale,
+ghost,
+graphical,
+horror,
+illustration,
+king,
+knight,
+lore,
+medieval,
+medium:digital 2d,
+mood,
+mythic,
+painting,
+portal,
+poster,
+posterart,
+promo art,
+roman,
+saga,
+soldier,
+soldiers,
+story,
+stylized,
+subreddit:imaginaryhistory,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+subreddit:immeta,
+sword,
+title:fall of the emperor,
+title:fall of the emperor, dominik mayer,
+token,
+uploader:miciy5,
+warrior,
+weird,

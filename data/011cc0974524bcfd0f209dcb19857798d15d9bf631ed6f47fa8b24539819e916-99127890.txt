@@ -1,22 +1,22 @@
-1girl
-armor
-black background
-blonde hair
-breastplate
-closed mouth
-gauntlets
-helmet removed
-letterboxed
-lips
-long hair
-looking at viewer
-pauldrons
-rating:safe
-shoulder armor
-simple background
-solo
-subreddit:reasonablefantasy
-title:gold by yujin kim
-transparent background
-uploader:tabulaerrata
-upper body
+1girl,
+armor,
+black background,
+blonde hair,
+breastplate,
+closed mouth,
+gauntlets,
+helmet removed,
+letterboxed,
+lips,
+long hair,
+looking at viewer,
+pauldrons,
+rating:safe,
+shoulder armor,
+simple background,
+solo,
+subreddit:reasonablefantasy,
+title:gold by yujin kim,
+transparent background,
+uploader:tabulaerrata,
+upper body,

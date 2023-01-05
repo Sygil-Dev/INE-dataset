@@ -1,72 +1,72 @@
-ambiguous gender
-bandanna
-bedsheet ghost
-black body
-black eyes
-black feathers
-blue body
-blue eyes
-blue feathers
-brown body
-brown eyes
-brown feathers
-bucket
-character:jason voorhees
-character:totoro
-clothing
-container
-creator:cryptid-creations
-doormat
-doorway
-eye patch
-eyewear
-feathered wings
-feathers
-flying
-green body
-green eyes
-green feathers
-group
-hat
-headgear
-headwear
-holidays
-jack-o'-lantern
-kerchief
-looking at viewer
-male
-meta:1:1
-meta:english text
-orange body
-orange feathers
-rating:safe
-series:friday the 13th
-series:ghibli
-series:halloween
-series:my neighbor totoro
-size difference
-skull and crossbones
-species:avian
-species:bird
-species:budgerigar
-species:cockatiel
-species:cockatoo
-species:loriinae
-species:parakeet
-species:parrot
-species:true parrot
-standing
-subreddit:imaginaryaww
-subreddit:immeta
-sunflower seed
-text
-title:trick or treat by piper thibodeau
-trick or treat
-uploader:artistserpent055
-white body
-white feathers
-wings
-witch hat
-yellow body
-yellow eyes
-yellow feathers
+ambiguous gender,
+bandanna,
+bedsheet ghost,
+black body,
+black eyes,
+black feathers,
+blue body,
+blue eyes,
+blue feathers,
+brown body,
+brown eyes,
+brown feathers,
+bucket,
+character:jason voorhees,
+character:totoro,
+clothing,
+container,
+creator:cryptid-creations,
+doormat,
+doorway,
+eye patch,
+eyewear,
+feathered wings,
+feathers,
+flying,
+green body,
+green eyes,
+green feathers,
+group,
+hat,
+headgear,
+headwear,
+holidays,
+jack-o'-lantern,
+kerchief,
+looking at viewer,
+male,
+meta:1:1,
+meta:english text,
+orange body,
+orange feathers,
+rating:safe,
+series:friday the 13th,
+series:ghibli,
+series:halloween,
+series:my neighbor totoro,
+size difference,
+skull and crossbones,
+species:avian,
+species:bird,
+species:budgerigar,
+species:cockatiel,
+species:cockatoo,
+species:loriinae,
+species:parakeet,
+species:parrot,
+species:true parrot,
+standing,
+subreddit:imaginaryaww,
+subreddit:immeta,
+sunflower seed,
+text,
+title:trick or treat by piper thibodeau,
+trick or treat,
+uploader:artistserpent055,
+white body,
+white feathers,
+wings,
+witch hat,
+yellow body,
+yellow eyes,
+yellow feathers,

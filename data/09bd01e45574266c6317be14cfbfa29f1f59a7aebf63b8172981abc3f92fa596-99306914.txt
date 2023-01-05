@@ -1,33 +1,33 @@
-1girl
-animal
-animal on shoulder
-artist name
-bear
-bird
-blue sky
-bunny
-cloud
-cloudy sky
-day
-deer
-dog
-duck
-flock
-flower
-fox
-goat
-leash
-mountain
-outdoors
-penguin
-polar bear
-rating:safe
-scenery
-seagull
-sky
-sparrow
-squirrel
-subreddit:imaginaryanimals
-title:a hopeful voyage by shinya okayama
-traditional media
-uploader:hvitserkr
+1girl,
+animal,
+animal on shoulder,
+artist name,
+bear,
+bird,
+blue sky,
+bunny,
+cloud,
+cloudy sky,
+day,
+deer,
+dog,
+duck,
+flock,
+flower,
+fox,
+goat,
+leash,
+mountain,
+outdoors,
+penguin,
+polar bear,
+rating:safe,
+scenery,
+seagull,
+sky,
+sparrow,
+squirrel,
+subreddit:imaginaryanimals,
+title:a hopeful voyage by shinya okayama,
+traditional media,
+uploader:hvitserkr,

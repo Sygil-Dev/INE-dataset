@@ -1,24 +1,24 @@
-2d look
-3d modeling
-car
-character
-character design
-comic art
-comic book
-creator:dimitrije leonidov
-dragsta
-heavy metal
-hum3d
-illustration
-medium:digital 2d
-moebius
-post apoclyptic
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-title:wastelander b
-uploader:trimitrius_l
-vehicle design
-vehicles
-warhammer 40k
-wasteland
-wastelander
+2d look,
+3d modeling,
+car,
+character,
+character design,
+comic art,
+comic book,
+creator:dimitrije leonidov,
+dragsta,
+heavy metal,
+hum3d,
+illustration,
+medium:digital 2d,
+moebius,
+post apoclyptic,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+title:wastelander b,
+uploader:trimitrius_l,
+vehicle design,
+vehicles,
+warhammer 40k,
+wasteland,
+wastelander,

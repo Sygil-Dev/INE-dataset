@@ -1,20 +1,20 @@
-armor
-burning
-embers
-explosion
-fire
-glowing
-glowing eyes
-helmet
-mecha
-military
-military vehicle
-no humans
-rating:safe
-robot
-science fiction
-signature
-subreddit:imaginarywarhammer
-tank
-title:"fists want a status report." - loyalist iron warriors, siege of terra
-uploader:wolfdawgartcorner
+armor,
+burning,
+embers,
+explosion,
+fire,
+glowing,
+glowing eyes,
+helmet,
+mecha,
+military,
+military vehicle,
+no humans,
+rating:safe,
+robot,
+science fiction,
+signature,
+subreddit:imaginarywarhammer,
+tank,
+title:"fists want a status report." - loyalist iron warriors, siege of terra,
+uploader:wolfdawgartcorner,

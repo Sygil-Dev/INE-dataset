@@ -1,21 +1,21 @@
-armor
-artist name
-cloud
-cloudy sky
-fake horns
-full armor
-greyscale
-helmet
-holding
-horned helmet
-horns
-pauldrons
-rating:safe
-shoulder armor
-signature
-solo
-spikes
-subreddit:imaginaryundead
-title:dishonored king by dariusz kieliszek
-uploader:lol33ta
-weapon
+armor,
+artist name,
+cloud,
+cloudy sky,
+fake horns,
+full armor,
+greyscale,
+helmet,
+holding,
+horned helmet,
+horns,
+pauldrons,
+rating:safe,
+shoulder armor,
+signature,
+solo,
+spikes,
+subreddit:imaginaryundead,
+title:dishonored king by dariusz kieliszek,
+uploader:lol33ta,
+weapon,

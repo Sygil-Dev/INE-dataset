@@ -1,20 +1,20 @@
-ahri
-cake
-contest
-creator:phu thieu
-epic
-fanart
-fighting
-league of legends
-medium:digital 2d
-poro
-riven
-subreddit:imaginarygaming
-teemo
-title:"happy birthday league of legends" by phu thieu
-title:my fanart -happy birthday league of legends
-uploader:torvusil
-vayne
-war
-yasuo
-yone
+ahri,
+cake,
+contest,
+creator:phu thieu,
+epic,
+fanart,
+fighting,
+league of legends,
+medium:digital 2d,
+poro,
+riven,
+subreddit:imaginarygaming,
+teemo,
+title:"happy birthday league of legends" by phu thieu,
+title:my fanart -happy birthday league of legends,
+uploader:torvusil,
+vayne,
+war,
+yasuo,
+yone,

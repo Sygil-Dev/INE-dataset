@@ -1,29 +1,29 @@
-1girl
-armor
-arrow (projectile)
-black hair
-bow (weapon)
-forest
-gender:female
-grass
-holding
-holding bow (weapon)
-lake
-long hair
-mountain
-nature
-outdoors
-quiver
-rating:safe
-realistic
-river
-solo
-standing
-subreddit:imaginaryarchers
-subreddit:reasonablefantasy
-title:elven huntress by valeriy vegera
-tree
-uploader:cubelith
-uploader:ultartx
-water
-weapon
+1girl,
+armor,
+arrow (projectile),
+black hair,
+bow (weapon),
+forest,
+gender:female,
+grass,
+holding,
+holding bow (weapon),
+lake,
+long hair,
+mountain,
+nature,
+outdoors,
+quiver,
+rating:safe,
+realistic,
+river,
+solo,
+standing,
+subreddit:imaginaryarchers,
+subreddit:reasonablefantasy,
+title:elven huntress by valeriy vegera,
+tree,
+uploader:cubelith,
+uploader:ultartx,
+water,
+weapon,

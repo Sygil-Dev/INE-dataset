@@ -1,20 +1,20 @@
-castle
-creator:billy christian
-dress
-female
-flying
-gothic
-halloween
-horror
-magic the gathering
-medium:digital 2d
-mtg
-subreddit:imaginarynobles
-subreddit:imaginarywitches
-subreddit:imcharacters
-title:henrika, infernal seer - mtg innistrad
-title:henrika, infernal seer by billy christian
-uploader:lol33ta
-vampire
-witch
-woman
+castle,
+creator:billy christian,
+dress,
+female,
+flying,
+gothic,
+halloween,
+horror,
+magic the gathering,
+medium:digital 2d,
+mtg,
+subreddit:imaginarynobles,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+title:henrika, infernal seer - mtg innistrad,
+title:henrika, infernal seer by billy christian,
+uploader:lol33ta,
+vampire,
+witch,
+woman,

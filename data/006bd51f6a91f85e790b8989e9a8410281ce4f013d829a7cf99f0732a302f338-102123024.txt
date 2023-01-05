@@ -1,20 +1,20 @@
-abs
-double v
-gradient
-gradient background
-grey background
-greyscale
-monochrome
-monster
-muscular
-open mouth
-rating:safe
-sharp teeth
-solo
-subreddit:imaginarymonsters
-teeth
-title:"ripped mushroom dude" by me
-traditional media
-uploader:crondisimo
-v
-veins
+abs,
+double v,
+gradient,
+gradient background,
+grey background,
+greyscale,
+monochrome,
+monster,
+muscular,
+open mouth,
+rating:safe,
+sharp teeth,
+solo,
+subreddit:imaginarymonsters,
+teeth,
+title:"ripped mushroom dude" by me,
+traditional media,
+uploader:crondisimo,
+v,
+veins,

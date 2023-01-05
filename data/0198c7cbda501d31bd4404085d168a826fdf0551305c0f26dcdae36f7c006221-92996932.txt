@@ -1,20 +1,20 @@
-1boy
-black hair
-cigarette
-copyright name
-english text
-hair slicked back
-holding
-male focus
-rating:safe
-scar
-scar on cheek
-scar on face
-simple background
-smile
-solo
-subreddit:imaginarymutants
-subreddit:imfandoms
-title:cyclops by rkun820
-uploader:i_burn_cereal
-upper body
+1boy,
+black hair,
+cigarette,
+copyright name,
+english text,
+hair slicked back,
+holding,
+male focus,
+rating:safe,
+scar,
+scar on cheek,
+scar on face,
+simple background,
+smile,
+solo,
+subreddit:imaginarymutants,
+subreddit:imfandoms,
+title:cyclops by rkun820,
+uploader:i_burn_cereal,
+upper body,

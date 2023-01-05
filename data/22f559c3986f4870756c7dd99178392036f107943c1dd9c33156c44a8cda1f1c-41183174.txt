@@ -1,52 +1,52 @@
-ambiguous gender
-ambiguous_gender
-artist:silverfox5213
-black background
-black body
-black fur
-black_background
-black_body
-black_fur
-blue eyes
-blue_eyes
-claws
-creator:silverfox5213
-daww
-feral
-fur
-gender:ambiguous
-looking at viewer
-looking_at_viewer
-medium:black background
-medium:simple background
-medium:text
-meta:url
-orange body
-orange fur
-orange_body
-orange_fur
-pov
-rating:safe
-simple background
-simple_background
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:fox
-species:mammal
-species:red fox
-species:red_fox
-subreddit:imaginaryaww
-subreddit:immeta
-text
-title:mummy fox [ych inside]
-title:mummy fox by silverfox5213
-toilet paper
-toilet_paper
-uploader:lol33ta
-whiskers
-white body
-white fur
-white_body
-white_fur
+ambiguous gender,
+ambiguous_gender,
+artist:silverfox5213,
+black background,
+black body,
+black fur,
+black_background,
+black_body,
+black_fur,
+blue eyes,
+blue_eyes,
+claws,
+creator:silverfox5213,
+daww,
+feral,
+fur,
+gender:ambiguous,
+looking at viewer,
+looking_at_viewer,
+medium:black background,
+medium:simple background,
+medium:text,
+meta:url,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+pov,
+rating:safe,
+simple background,
+simple_background,
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:fox,
+species:mammal,
+species:red fox,
+species:red_fox,
+subreddit:imaginaryaww,
+subreddit:immeta,
+text,
+title:mummy fox [ych inside],
+title:mummy fox by silverfox5213,
+toilet paper,
+toilet_paper,
+uploader:lol33ta,
+whiskers,
+white body,
+white fur,
+white_body,
+white_fur,

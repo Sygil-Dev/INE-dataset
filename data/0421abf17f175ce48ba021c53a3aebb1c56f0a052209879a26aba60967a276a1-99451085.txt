@@ -1,32 +1,32 @@
-1girl
-animal
-bare tree
-bird
-branch
-building
-bunny
-bush
-chain-link fence
-chick
-chicken
-child
-dandelion
-dog
-fence
-flower
-forest
-garden
-grass
-house
-nature
-outdoors
-path
-plant
-rating:safe
-road
-scenery
-subreddit:imaginarysliceoflife
-title:my neighbor totoro fanart i did
-tree
-twintails
-uploader:mochimunn2000
+1girl,
+animal,
+bare tree,
+bird,
+branch,
+building,
+bunny,
+bush,
+chain-link fence,
+chick,
+chicken,
+child,
+dandelion,
+dog,
+fence,
+flower,
+forest,
+garden,
+grass,
+house,
+nature,
+outdoors,
+path,
+plant,
+rating:safe,
+road,
+scenery,
+subreddit:imaginarysliceoflife,
+title:my neighbor totoro fanart i did,
+tree,
+twintails,
+uploader:mochimunn2000,

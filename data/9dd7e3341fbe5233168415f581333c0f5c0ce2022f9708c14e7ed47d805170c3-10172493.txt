@@ -1,84 +1,84 @@
-4 toes
-ambiguous gender
-anisodactyl
-arrow
-barefoot
-beak
-beige skin
-bird feet
-booru:e621
-boots
-bow (weapon)
-brown body
-brown feathers
-character:hawkeye
-claws
-clothed
-clothing
-clothing:footwear
-creator:feriowind
-crossover
-crouching
-feathered wings
-feathers
-feet
-feral
-footwear
-frown
-fully clothed
-gen 1 pokemon
-gen 2 pokemon
-gender:ambiguous
-gender:male
-group
-guro
-hair
-holding object
-holding weapon
-male
-medium:simple background
-meta:crossover
-meta:nsfw
-nude
-orange eyes
-pose
-quiver
-ranged weapon
-rating:explicit
-rating:mature
-rating:safe
-series:disney
-series:marvel
-series:nintendo
-series:pokemon
-series:pokémon
-short hair
-side view
-simple background
-size difference
-species:avian
-species:bird
-species:human
-species:mammal
-species:monster
-species:noctowl
-species:pidgeot
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:primate
-studio:disney
-studio:marvel
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-tan body
-tan feathers
-tan skin
-team pose
-title:lookout by feriowind
-toes
-uploader:lol33ta
-video games
-weapon
-wings
+4 toes,
+ambiguous gender,
+anisodactyl,
+arrow,
+barefoot,
+beak,
+beige skin,
+bird feet,
+booru:e621,
+boots,
+bow (weapon),
+brown body,
+brown feathers,
+character:hawkeye,
+claws,
+clothed,
+clothing,
+clothing:footwear,
+creator:feriowind,
+crossover,
+crouching,
+feathered wings,
+feathers,
+feet,
+feral,
+footwear,
+frown,
+fully clothed,
+gen 1 pokemon,
+gen 2 pokemon,
+gender:ambiguous,
+gender:male,
+group,
+guro,
+hair,
+holding object,
+holding weapon,
+male,
+medium:simple background,
+meta:crossover,
+meta:nsfw,
+nude,
+orange eyes,
+pose,
+quiver,
+ranged weapon,
+rating:explicit,
+rating:mature,
+rating:safe,
+series:disney,
+series:marvel,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+short hair,
+side view,
+simple background,
+size difference,
+species:avian,
+species:bird,
+species:human,
+species:mammal,
+species:monster,
+species:noctowl,
+species:pidgeot,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:primate,
+studio:disney,
+studio:marvel,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tan body,
+tan feathers,
+tan skin,
+team pose,
+title:lookout by feriowind,
+toes,
+uploader:lol33ta,
+video games,
+weapon,
+wings,

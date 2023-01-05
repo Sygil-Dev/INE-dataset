@@ -1,109 +1,109 @@
-abs
-action:looking at viewer
-action:open mouth
-action:standing upright
-angry
-anthro
-anthropomorphism
-art:portrait
-artist:unknown_artist
-biceps
-big muscles
-black nose
-bodypart:abs
-bodypart:black nose
-bodypart:glowing eyes
-bodypart:grey fur
-bodypart:muscles
-bodypart:orange eyes
-bodypart:teeth
-claws
-copyright:grimm_fairy_tales
-copyright:official_art
-emotion:anger
-fighting pose
-fighting stance
-fighting_pose
-forest
-front view
-fur
-gender:male
-glowing
-glowing eyes
-grey body
-grey fur
-grimm fairy tales
-guro
-legs
-long claws
-long_claws
-looking at viewer
-male
-male:1
-mammal
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:nsfw
-meta:official art
-meta:portrait
-meta:three-quarter portrait
-meta:three-quarter_portrait
-meta:unknown artist
-monster
-moon
-muscles
-muscular
-muscular anthro
-muscular male
-naturally censored
-naturally_censored
-night
-nude
-open mouth
-orange eyes
-outside
-pecs
-plant
-portrait
-pose
-pov
-rating:explicit
-rating:mature
-rating:safe
-series:fairy tales
-series:grimm fairy tales
-sharp claws
-sharp teeth
-solo
-source:e621
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-spread legs
-spreading
-standing
-subreddit:imaginarywerewolves
-teeth
-three-quarter portrait
-title:grimm fairy tales comics-werewolf by giuseppe di rosso
-tree
-uploader:killerbunnyfamily
-view
-website:e621
-were
-wide stance
-wide_stance
+abs,
+action:looking at viewer,
+action:open mouth,
+action:standing upright,
+angry,
+anthro,
+anthropomorphism,
+art:portrait,
+artist:unknown_artist,
+biceps,
+big muscles,
+black nose,
+bodypart:abs,
+bodypart:black nose,
+bodypart:glowing eyes,
+bodypart:grey fur,
+bodypart:muscles,
+bodypart:orange eyes,
+bodypart:teeth,
+claws,
+copyright:grimm_fairy_tales,
+copyright:official_art,
+emotion:anger,
+fighting pose,
+fighting stance,
+fighting_pose,
+forest,
+front view,
+fur,
+gender:male,
+glowing,
+glowing eyes,
+grey body,
+grey fur,
+grimm fairy tales,
+guro,
+legs,
+long claws,
+long_claws,
+looking at viewer,
+male,
+male:1,
+mammal,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:nsfw,
+meta:official art,
+meta:portrait,
+meta:three-quarter portrait,
+meta:three-quarter_portrait,
+meta:unknown artist,
+monster,
+moon,
+muscles,
+muscular,
+muscular anthro,
+muscular male,
+naturally censored,
+naturally_censored,
+night,
+nude,
+open mouth,
+orange eyes,
+outside,
+pecs,
+plant,
+portrait,
+pose,
+pov,
+rating:explicit,
+rating:mature,
+rating:safe,
+series:fairy tales,
+series:grimm fairy tales,
+sharp claws,
+sharp teeth,
+solo,
+source:e621,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+spread legs,
+spreading,
+standing,
+subreddit:imaginarywerewolves,
+teeth,
+three-quarter portrait,
+title:grimm fairy tales comics-werewolf by giuseppe di rosso,
+tree,
+uploader:killerbunnyfamily,
+view,
+website:e621,
+were,
+wide stance,
+wide_stance,

@@ -1,20 +1,20 @@
-antlers
-artist name
-christmas
-christmas ornaments
-christmas tree
-dated
-green background
-indoors
-merry christmas
-no humans
-open mouth
-plant
-rating:safe
-realistic
-reindeer
-reindeer antlers
-santa hat
-subreddit:imaginaryhybrids
-title:cherry deer by stepan gilev
-uploader:lol33ta
+antlers,
+artist name,
+christmas,
+christmas ornaments,
+christmas tree,
+dated,
+green background,
+indoors,
+merry christmas,
+no humans,
+open mouth,
+plant,
+rating:safe,
+realistic,
+reindeer,
+reindeer antlers,
+santa hat,
+subreddit:imaginaryhybrids,
+title:cherry deer by stepan gilev,
+uploader:lol33ta,

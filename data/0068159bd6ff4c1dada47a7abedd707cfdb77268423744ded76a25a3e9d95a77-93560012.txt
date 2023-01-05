@@ -1,30 +1,30 @@
-aircraft
-airplane
-beach
-cloud
-cloudy sky
-english text
-horizon
-island
-military vehicle
-no humans
-ocean
-outdoors
-planet
-rating:safe
-scenery
-ship
-shore
-sky
-star (symbol)
-subreddit:imaginaryairships
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-sunburst
-sunset
-title:goodyear ad with hypothetical aircraft-carrying airship, artist uncredited, 1945
-title:hypothetical aircraft-carrying airship from a 1945 goodyear ad. artist unknown.
-uploader:yannirotten
-warship
-water
-watercraft
+aircraft,
+airplane,
+beach,
+cloud,
+cloudy sky,
+english text,
+horizon,
+island,
+military vehicle,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+scenery,
+ship,
+shore,
+sky,
+star (symbol),
+subreddit:imaginaryairships,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+sunburst,
+sunset,
+title:goodyear ad with hypothetical aircraft-carrying airship, artist uncredited, 1945,
+title:hypothetical aircraft-carrying airship from a 1945 goodyear ad. artist unknown.,
+uploader:yannirotten,
+warship,
+water,
+watercraft,

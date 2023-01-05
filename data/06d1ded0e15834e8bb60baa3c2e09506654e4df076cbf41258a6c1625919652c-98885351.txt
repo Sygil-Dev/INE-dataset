@@ -1,34 +1,34 @@
-black border
-clock
-clock tower
-cloud
-constellation
-crescent moon
-desert
-earth (planet)
-full moon
-galaxy
-greyscale
-letterboxed
-magic circle
-monochrome
-moon
-moonlight
-night
-night sky
-no humans
-planet
-rating:safe
-roman numeral
-shooting star
-sky
-space
-space craft
-star (sky)
-star (symbol)
-starry sky
-subreddit:imaginarynecronomicon
-sun
-title:arthro by me
-tower
-uploader:spazorton
+black border,
+clock,
+clock tower,
+cloud,
+constellation,
+crescent moon,
+desert,
+earth (planet),
+full moon,
+galaxy,
+greyscale,
+letterboxed,
+magic circle,
+monochrome,
+moon,
+moonlight,
+night,
+night sky,
+no humans,
+planet,
+rating:safe,
+roman numeral,
+shooting star,
+sky,
+space,
+space craft,
+star (sky),
+star (symbol),
+starry sky,
+subreddit:imaginarynecronomicon,
+sun,
+title:arthro by me,
+tower,
+uploader:spazorton,

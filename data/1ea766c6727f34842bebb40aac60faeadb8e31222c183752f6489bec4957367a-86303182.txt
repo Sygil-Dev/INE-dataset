@@ -1,46 +1,46 @@
-5 fingers
-anthro
-anthropomorphism
-black stripes
-blue eyes
-claws
-clothed
-clothing
-creator:sandara
-day
-detailed background
-fingers
-flower
-fur
-genre:fantasy
-looking at viewer
-magic
-magic user
-male
-medium:detailed background
-melee weapon
-meta:2022
-meta:digital media (artwork)
-meta:hi res
-orange body
-orange fur
-outside
-pillar
-plant
-rating:safe
-sky
-solo
-species:felid
-species:feline
-species:mammal
-species:pantherine
-species:tiger
-striped body
-striped fur
-stripes
-subreddit:imaginaryhybrids
-subreddit:immonsters
-sword
-title:tiger and sword by sandara
-uploader:lol33ta
-weapon
+5 fingers,
+anthro,
+anthropomorphism,
+black stripes,
+blue eyes,
+claws,
+clothed,
+clothing,
+creator:sandara,
+day,
+detailed background,
+fingers,
+flower,
+fur,
+genre:fantasy,
+looking at viewer,
+magic,
+magic user,
+male,
+medium:detailed background,
+melee weapon,
+meta:2022,
+meta:digital media (artwork),
+meta:hi res,
+orange body,
+orange fur,
+outside,
+pillar,
+plant,
+rating:safe,
+sky,
+solo,
+species:felid,
+species:feline,
+species:mammal,
+species:pantherine,
+species:tiger,
+striped body,
+striped fur,
+stripes,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+sword,
+title:tiger and sword by sandara,
+uploader:lol33ta,
+weapon,

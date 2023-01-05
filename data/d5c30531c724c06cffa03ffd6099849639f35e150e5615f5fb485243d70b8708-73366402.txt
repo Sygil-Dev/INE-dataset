@@ -1,42 +1,42 @@
-3 heads
-ambiguous gender
-character:cerberus (hades)
-collar
-creator:istrandar
-eyes closed
-feral
-fur
-green eyes
-green nose
-group
-male
-meta:16:9
-meta:hi res
-meta:widescreen
-multi head
-rating:safe
-red body
-red fur
-series:european mythology
-series:greek mythology
-series:hades (game)
-series:mythology
-series:supergiant games
-soul
-species:canid
-species:canine
-species:canis
-species:cerberus
-species:domestic dog
-species:mammal
-subreddit:imaginaryhellscapes
-subreddit:imaginarymythology
-subreddit:imaginaryspirits
-subreddit:imcharacters
-subreddit:imlandscapes
-subreddit:immonsters
-title:cerberus by istrandar
-tongue
-tongue out
-trio
-uploader:myrandall
+3 heads,
+ambiguous gender,
+character:cerberus (hades),
+collar,
+creator:istrandar,
+eyes closed,
+feral,
+fur,
+green eyes,
+green nose,
+group,
+male,
+meta:16:9,
+meta:hi res,
+meta:widescreen,
+multi head,
+rating:safe,
+red body,
+red fur,
+series:european mythology,
+series:greek mythology,
+series:hades (game),
+series:mythology,
+series:supergiant games,
+soul,
+species:canid,
+species:canine,
+species:canis,
+species:cerberus,
+species:domestic dog,
+species:mammal,
+subreddit:imaginaryhellscapes,
+subreddit:imaginarymythology,
+subreddit:imaginaryspirits,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+subreddit:immonsters,
+title:cerberus by istrandar,
+tongue,
+tongue out,
+trio,
+uploader:myrandall,

@@ -1,23 +1,23 @@
-blue sky
-cloud
-cloudy sky
-day
-forest
-grass
-hill
-horizon
-lake
-landscape
-mountain
-mountainous horizon
-nature
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryskyscapes
-sunset
-title:traveling with clouds by sylvain sarrailh
-tree
-uploader:lol33ta
-water
+blue sky,
+cloud,
+cloudy sky,
+day,
+forest,
+grass,
+hill,
+horizon,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryskyscapes,
+sunset,
+title:traveling with clouds by sylvain sarrailh,
+tree,
+uploader:lol33ta,
+water,

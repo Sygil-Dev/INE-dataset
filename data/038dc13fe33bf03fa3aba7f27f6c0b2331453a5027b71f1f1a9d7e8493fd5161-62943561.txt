@@ -1,25 +1,25 @@
-artist name
-bush
-day
-flower
-forest
-garden
-grass
-house
-moss
-nature
-no humans
-outdoors
-path
-plant
-rating:safe
-road
-scenery
-subreddit:imaginarydwellings
-subreddit:imaginaryforests
-subreddit:imarchitecture
-subreddit:imnature
-title:another cozy little place by jjcanvas
-tree
-tree stump
-uploader:myrandall
+artist name,
+bush,
+day,
+flower,
+forest,
+garden,
+grass,
+house,
+moss,
+nature,
+no humans,
+outdoors,
+path,
+plant,
+rating:safe,
+road,
+scenery,
+subreddit:imaginarydwellings,
+subreddit:imaginaryforests,
+subreddit:imarchitecture,
+subreddit:imnature,
+title:another cozy little place by jjcanvas,
+tree,
+tree stump,
+uploader:myrandall,

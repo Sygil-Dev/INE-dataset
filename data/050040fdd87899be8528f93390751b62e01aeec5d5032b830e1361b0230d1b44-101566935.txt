@@ -1,40 +1,40 @@
-battle
-breathing fire
-burning
-campfire
-character:godzilla
-claws
-cloud
-dusk
-embers
-evening
-explosion
-fangs
-fiery hair
-fire
-flame
-flaming sword
-flaming weapon
-kaijuu
-molten rock
-monster
-mountain
-no humans
-open mouth
-orange sky
-rating:safe
-red sky
-scales
-sharp teeth
-sky
-spikes
-subreddit:imaginarydragons
-sunset
-tail
-tail-tip fire
-teeth
-title:vulcan by tatii lange
-torch
-twilight
-uploader:killerbunnyfamily
-volcano
+battle,
+breathing fire,
+burning,
+campfire,
+character:godzilla,
+claws,
+cloud,
+dusk,
+embers,
+evening,
+explosion,
+fangs,
+fiery hair,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+kaijuu,
+molten rock,
+monster,
+mountain,
+no humans,
+open mouth,
+orange sky,
+rating:safe,
+red sky,
+scales,
+sharp teeth,
+sky,
+spikes,
+subreddit:imaginarydragons,
+sunset,
+tail,
+tail-tip fire,
+teeth,
+title:vulcan by tatii lange,
+torch,
+twilight,
+uploader:killerbunnyfamily,
+volcano,

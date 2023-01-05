@@ -1,59 +1,59 @@
-1boy
-1girl
-aerial fireworks
-astronaut
-aurora
-character:tachibana taki
-city lights
-constellation
-crescent moon
-earth (planet)
-fireflies
-fireworks
-full moon
-galaxy
-guitar
-ice skates
-jacket
-lens flare
-light
-light particles
-looking up
-milky way
-moon
-moonlight
-night
-night sky
-outstretched arms
-pants
-planet
-pointing up
-power lines
-rainbow
-rating:safe
-rocket
-shooting star
-sky
-snow
-snowing
-space
-space craft
-space helmet
-spacesuit
-sparkle
-sparkler
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginaryruneterra
-sunrise
-tanabata
-tanzaku
-telescope
-title:unstable harmonics by by riot games
-twilight
-ufo
-uploader:dracconas
-utility pole
+1boy,
+1girl,
+aerial fireworks,
+astronaut,
+aurora,
+character:tachibana taki,
+city lights,
+constellation,
+crescent moon,
+earth (planet),
+fireflies,
+fireworks,
+full moon,
+galaxy,
+guitar,
+ice skates,
+jacket,
+lens flare,
+light,
+light particles,
+looking up,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+outstretched arms,
+pants,
+planet,
+pointing up,
+power lines,
+rainbow,
+rating:safe,
+rocket,
+shooting star,
+sky,
+snow,
+snowing,
+space,
+space craft,
+space helmet,
+spacesuit,
+sparkle,
+sparkler,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginaryruneterra,
+sunrise,
+tanabata,
+tanzaku,
+telescope,
+title:unstable harmonics by by riot games,
+twilight,
+ufo,
+uploader:dracconas,
+utility pole,

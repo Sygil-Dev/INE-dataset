@@ -1,32 +1,32 @@
-animal
-beach
-blurry
-blurry background
-blurry foreground
-bush
-day
-depth of field
-dog
-focused
-grass
-lake
-motion blur
-nature
-ocean
-outdoors
-path
-photo (medium)
-photo background
-pond
-pool
-rating:safe
-river
-road
-shadow
-shiba inu
-subreddit:imaginaryanimals
-title:dogpark by atey majeed ghailan
-tree
-uploader:myrandall
-water
-waterfall
+animal,
+beach,
+blurry,
+blurry background,
+blurry foreground,
+bush,
+day,
+depth of field,
+dog,
+focused,
+grass,
+lake,
+motion blur,
+nature,
+ocean,
+outdoors,
+path,
+photo (medium),
+photo background,
+pond,
+pool,
+rating:safe,
+river,
+road,
+shadow,
+shiba inu,
+subreddit:imaginaryanimals,
+title:dogpark by atey majeed ghailan,
+tree,
+uploader:myrandall,
+water,
+waterfall,

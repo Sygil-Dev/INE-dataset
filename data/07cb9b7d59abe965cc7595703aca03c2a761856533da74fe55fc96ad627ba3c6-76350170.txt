@@ -1,22 +1,22 @@
-basket
-bookshelf
-chair
-city
-clock
-couch
-flower
-fruit
-indoors
-no humans
-palm tree
-plant
-potted plant
-rating:safe
-scenery
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-table
-title:cafe by k&amp;p
-tree
-uploader:hornyheracross
-window
+basket,
+bookshelf,
+chair,
+city,
+clock,
+couch,
+flower,
+fruit,
+indoors,
+no humans,
+palm tree,
+plant,
+potted plant,
+rating:safe,
+scenery,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+table,
+title:cafe by k&amp;p,
+tree,
+uploader:hornyheracross,
+window,

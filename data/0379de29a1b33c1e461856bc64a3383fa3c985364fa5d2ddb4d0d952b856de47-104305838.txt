@@ -1,30 +1,30 @@
-beach
-building
-city
-city lights
-cityscape
-cloud
-cloudy sky
-evening
-gradient sky
-horizon
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-power lines
-rating:safe
-red sky
-scenery
-sky
-star (sky)
-subreddit:imaginarylandscapes
-subreddit:imaginarymindscapes
-sun
-sunset
-title:call in
-twilight
-uploader:futureselfbeats
-water
+beach,
+building,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+evening,
+gradient sky,
+horizon,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+power lines,
+rating:safe,
+red sky,
+scenery,
+sky,
+star (sky),
+subreddit:imaginarylandscapes,
+subreddit:imaginarymindscapes,
+sun,
+sunset,
+title:call in,
+twilight,
+uploader:futureselfbeats,
+water,

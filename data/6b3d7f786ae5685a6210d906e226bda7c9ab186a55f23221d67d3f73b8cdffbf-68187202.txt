@@ -1,58 +1,58 @@
-4 toes
-ambiguous gender
-beak
-blue body
-blue claws
-blue eyes
-blue fur
-building
-character:stitch (lilo and stitch)
-claws
-copyright:disney
-copyright:lilo and stitch
-creator:tsaoshin
-cub
-ears down
-eyes closed
-feathers
-feet
-feral
-fur
-group
-head tuft
-house
-leaf umbrella
-meta:2021
-notched ear
-outside
-pawpads
-pink pawpads
-pivoted ears
-raining
-rating:safe
-road
-series:disney
-series:lilo and stitch
-sidewalk
-sitting
-smile
-species:alien
-species:anatid
-species:anseriform
-species:avian
-species:bird
-species:duck
-species:experiment (lilo and stitch)
-subreddit:imaginaryaww
-subreddit:imaginaryweather
-subreddit:immeta
-subreddit:imnature
-title:spring stitch by tsaoshin
-toes
-town
-tuft
-uploader:lol33ta
-white body
-white feathers
-yellow beak
-young
+4 toes,
+ambiguous gender,
+beak,
+blue body,
+blue claws,
+blue eyes,
+blue fur,
+building,
+character:stitch (lilo and stitch),
+claws,
+copyright:disney,
+copyright:lilo and stitch,
+creator:tsaoshin,
+cub,
+ears down,
+eyes closed,
+feathers,
+feet,
+feral,
+fur,
+group,
+head tuft,
+house,
+leaf umbrella,
+meta:2021,
+notched ear,
+outside,
+pawpads,
+pink pawpads,
+pivoted ears,
+raining,
+rating:safe,
+road,
+series:disney,
+series:lilo and stitch,
+sidewalk,
+sitting,
+smile,
+species:alien,
+species:anatid,
+species:anseriform,
+species:avian,
+species:bird,
+species:duck,
+species:experiment (lilo and stitch),
+subreddit:imaginaryaww,
+subreddit:imaginaryweather,
+subreddit:immeta,
+subreddit:imnature,
+title:spring stitch by tsaoshin,
+toes,
+town,
+tuft,
+uploader:lol33ta,
+white body,
+white feathers,
+yellow beak,
+young,

@@ -1,29 +1,29 @@
-brown hair
-creator:sandara
-day
-detailed background
-eyebrows
-eyelashes
-fur
-hair
-horn
-humasnoiud
-outside
-rating:safe
-sky
-smile
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:mammal
-subreddit:imaginaryaww
-subreddit:imaginarypets
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-subreddit:immeta
-title:black dragon river by sandara tang
-uploader:lol33ta
-uploader:myrandall
-white body
-white fur
+brown hair,
+creator:sandara,
+day,
+detailed background,
+eyebrows,
+eyelashes,
+fur,
+hair,
+horn,
+humasnoiud,
+outside,
+rating:safe,
+sky,
+smile,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:imaginarypets,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+subreddit:immeta,
+title:black dragon river by sandara tang,
+uploader:lol33ta,
+uploader:myrandall,
+white body,
+white fur,

@@ -1,22 +1,22 @@
-architecture
-bare tree
-bridge
-building
-bush
-city
-cityscape
-cloud
-day
-grass
-house
-monochrome
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryagriculture
-title:disney california adventure concept art (1998) by topper helmers
-traditional media
-tree
-uploader:yannirotten
+architecture,
+bare tree,
+bridge,
+building,
+bush,
+city,
+cityscape,
+cloud,
+day,
+grass,
+house,
+monochrome,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryagriculture,
+title:disney california adventure concept art (1998) by topper helmers,
+traditional media,
+tree,
+uploader:yannirotten,

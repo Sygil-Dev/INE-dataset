@@ -1,32 +1,32 @@
-1boy
-1girl
-armor
-barding
-character:loretta knight of the haligtree
-character:moongrum carian knight
-creator:denny626
-full armor
-full body
-holding
-holding polearm
-holding sword
-holding weapon
-horse
-horseback riding
-loretta knight of the haligtree
-meta:highres
-moongrum carian knight
-polearm
-rating:general
-riding
-series:elden ring
-simple background
-staff
-standing
-subreddit:imaginaryknights
-subreddit:imcharacters
-sword
-title:carian knight &amp; loretta, knight of the haligtree by herheim731
-uploader:dragunmancer
-weapon
-white background
+1boy,
+1girl,
+armor,
+barding,
+character:loretta knight of the haligtree,
+character:moongrum carian knight,
+creator:denny626,
+full armor,
+full body,
+holding,
+holding polearm,
+holding sword,
+holding weapon,
+horse,
+horseback riding,
+loretta knight of the haligtree,
+meta:highres,
+moongrum carian knight,
+polearm,
+rating:general,
+riding,
+series:elden ring,
+simple background,
+staff,
+standing,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+sword,
+title:carian knight &amp; loretta, knight of the haligtree by herheim731,
+uploader:dragunmancer,
+weapon,
+white background,

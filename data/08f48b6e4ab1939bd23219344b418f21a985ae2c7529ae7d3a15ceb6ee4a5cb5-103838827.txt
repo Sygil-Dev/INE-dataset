@@ -1,72 +1,72 @@
-acorn
-autumn
-autumn leaves
-branch
-breathing fire
-burning
-calendar (medium)
-campfire
-candle
-category:ine
-character:aki minoriko
-character:aki shizuha
-character:charizard
-character:charmander
-character:cyndaquil
-character:endeavor (boku no hero academia)
-character:torchic
-cooking
-dragonfly
-dusk
-embers
-evening
-explosion
-falling leaves
-fiery hair
-fiery wings
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-forest
-ginkgo leaf
-goldfish
-gradient sky
-holding leaf
-jack-o'-lantern
-leaf
-leaf background
-leaf hair ornament
-leaf on head
-leaves in wind
-maple leaf
-molten rock
-nature
-no humans
-orange (fruit)
-orange background
-orange flower
-orange sky
-orange theme
-outdoors
-pumpkin
-pyrokinesis
-rain
-rating:safe
-red sky
-scenery
-sky
-starter pokemon trio
-subreddit:imaginarylandscapes
-sun
-sunset
-sweet potato
-tail-tip fire
-title:fall by davood moghaddami
-torch
-tree
-twilight
-uploader:one_giant_nostril
-volcano
-yellow sky
+acorn,
+autumn,
+autumn leaves,
+branch,
+breathing fire,
+burning,
+calendar (medium),
+campfire,
+candle,
+category:ine,
+character:aki minoriko,
+character:aki shizuha,
+character:charizard,
+character:charmander,
+character:cyndaquil,
+character:endeavor (boku no hero academia),
+character:torchic,
+cooking,
+dragonfly,
+dusk,
+embers,
+evening,
+explosion,
+falling leaves,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+forest,
+ginkgo leaf,
+goldfish,
+gradient sky,
+holding leaf,
+jack-o'-lantern,
+leaf,
+leaf background,
+leaf hair ornament,
+leaf on head,
+leaves in wind,
+maple leaf,
+molten rock,
+nature,
+no humans,
+orange (fruit),
+orange background,
+orange flower,
+orange sky,
+orange theme,
+outdoors,
+pumpkin,
+pyrokinesis,
+rain,
+rating:safe,
+red sky,
+scenery,
+sky,
+starter pokemon trio,
+subreddit:imaginarylandscapes,
+sun,
+sunset,
+sweet potato,
+tail-tip fire,
+title:fall by davood moghaddami,
+torch,
+tree,
+twilight,
+uploader:one_giant_nostril,
+volcano,
+yellow sky,

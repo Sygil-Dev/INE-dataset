@@ -1,21 +1,21 @@
-battle
-cloud
-electricity
-energy
-giant
-glowing
-lightning
-monster
-no humans
-ocean
-planet
-rating:safe
-realistic
-sky
-subreddit:imaginaryhorrors
-subreddit:imaginarylandscapes
-subreddit:imaginarymindscapes
-subreddit:imaginarymonsters
-title:mano santa, sofía bassi, oil on masonite, 1970.
-uploader:aspiringoccultist4
-water
+battle,
+cloud,
+electricity,
+energy,
+giant,
+glowing,
+lightning,
+monster,
+no humans,
+ocean,
+planet,
+rating:safe,
+realistic,
+sky,
+subreddit:imaginaryhorrors,
+subreddit:imaginarylandscapes,
+subreddit:imaginarymindscapes,
+subreddit:imaginarymonsters,
+title:mano santa, sofía bassi, oil on masonite, 1970.,
+uploader:aspiringoccultist4,
+water,

@@ -1,107 +1,107 @@
-ambiguous gender
-ambiguous_gender
-analog clock
-analog_clock
-artist:tamberella
-barefoot
-bed
-biped
-brown hair
-brown_hair
-character:totoro
-clock
-clothed
-clothing
-controller
-copyright:gamecube
-copyright:ghibli
-copyright:my_neighbor_totoro
-copyright:nintendo
-copyright:nintendo_ds_family
-copyright:pokémon
-creator:tamberella
-door
-eyes closed
-eyes_closed
-feet
-feral
-fully clothed
-fully_clothed
-furniture
-game console
-game controller
-game_console
-game_controller
-gamecube console
-gamecube controller
-gamecube_console
-gamecube_controller
-gaming
-gen 1 pokemon
-group
-hair
-indoors
-inside
-looking down
-looking_down
-lying
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-nintendo controller
-nintendo_controller
-on front
-on_front
-open mouth
-open_mouth
-playing videogame
-playing_videogame
-pokéball
-quadruped
-rating:safe
-series:gamecube
-series:ghibli
-series:my neighbor totoro
-series:nintendo
-series:nintendo ds family
-series:pokémon
-series:studio ghibli
-sleeping
-species:baby pokémon
-species:baby_pokémon
-species:bonsly
-species:buneary
-species:burmy
-species:cherrim
-species:chimchar
-species:drifblim
-species:drifloon
-species:happiny
-species:human
-species:luxio
-species:mammal
-species:pachirisu
-species:pikachu
-species:piplup
-species:pokémon (species)
-species:pokémon_(species)
-species:primate
-species:shinx
-species:starly
-species:turtwig
-studio:nintendo
-studio:studio ghibli
-subreddit:imaginarygaming
-subreddit:imaginaryinteriors
-subreddit:imaginarykanto
-subreddit:imarchitecture
-subreddit:imfandoms
-teeth
-title:1am release night by tamberella
-tongue
-uploader:lol33ta
-uploader:myrandall
-video games
-video_games
+ambiguous gender,
+ambiguous_gender,
+analog clock,
+analog_clock,
+artist:tamberella,
+barefoot,
+bed,
+biped,
+brown hair,
+brown_hair,
+character:totoro,
+clock,
+clothed,
+clothing,
+controller,
+copyright:gamecube,
+copyright:ghibli,
+copyright:my_neighbor_totoro,
+copyright:nintendo,
+copyright:nintendo_ds_family,
+copyright:pokémon,
+creator:tamberella,
+door,
+eyes closed,
+eyes_closed,
+feet,
+feral,
+fully clothed,
+fully_clothed,
+furniture,
+game console,
+game controller,
+game_console,
+game_controller,
+gamecube console,
+gamecube controller,
+gamecube_console,
+gamecube_controller,
+gaming,
+gen 1 pokemon,
+group,
+hair,
+indoors,
+inside,
+looking down,
+looking_down,
+lying,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+nintendo controller,
+nintendo_controller,
+on front,
+on_front,
+open mouth,
+open_mouth,
+playing videogame,
+playing_videogame,
+pokéball,
+quadruped,
+rating:safe,
+series:gamecube,
+series:ghibli,
+series:my neighbor totoro,
+series:nintendo,
+series:nintendo ds family,
+series:pokémon,
+series:studio ghibli,
+sleeping,
+species:baby pokémon,
+species:baby_pokémon,
+species:bonsly,
+species:buneary,
+species:burmy,
+species:cherrim,
+species:chimchar,
+species:drifblim,
+species:drifloon,
+species:happiny,
+species:human,
+species:luxio,
+species:mammal,
+species:pachirisu,
+species:pikachu,
+species:piplup,
+species:pokémon (species),
+species:pokémon_(species),
+species:primate,
+species:shinx,
+species:starly,
+species:turtwig,
+studio:nintendo,
+studio:studio ghibli,
+subreddit:imaginarygaming,
+subreddit:imaginaryinteriors,
+subreddit:imaginarykanto,
+subreddit:imarchitecture,
+subreddit:imfandoms,
+teeth,
+title:1am release night by tamberella,
+tongue,
+uploader:lol33ta,
+uploader:myrandall,
+video games,
+video_games,

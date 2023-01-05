@@ -1,40 +1,40 @@
-ambiguous gender
-ambiguous_gender
-artist:tamberella
-creator:tamberella
-day
-detailed background
-detailed_background
-duo
-feral
-fur
-gender:ambiguous
-medium:detailed background
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-orange body
-orange fur
-orange_body
-orange_fur
-outside
-paws
-rating:safe
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:domestic_dog
-species:fox
-species:mammal
-subreddit:imaginaryaww
-subreddit:immeta
-title:a mirror? by tamberella
-uploader:myrandall
-white body
-white fur
-white_body
-white_fur
-window
+ambiguous gender,
+ambiguous_gender,
+artist:tamberella,
+creator:tamberella,
+day,
+detailed background,
+detailed_background,
+duo,
+feral,
+fur,
+gender:ambiguous,
+medium:detailed background,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+outside,
+paws,
+rating:safe,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:domestic_dog,
+species:fox,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:a mirror? by tamberella,
+uploader:myrandall,
+white body,
+white fur,
+white_body,
+white_fur,
+window,

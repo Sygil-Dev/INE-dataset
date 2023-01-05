@@ -1,21 +1,21 @@
-1girl
-brown hair
-choker
-creator:sam yang
-cup
-day
-highres
-indoors
-lips
-long hair
-long sleeves
-meta:highres
-mountain
-phone
-rating:safe
-sam yang
-series:original
-solo
-subreddit:imaginarysliceoflife
-title:traveling - sam yang
-uploader:lo-fiend
+1girl,
+brown hair,
+choker,
+creator:sam yang,
+cup,
+day,
+highres,
+indoors,
+lips,
+long hair,
+long sleeves,
+meta:highres,
+mountain,
+phone,
+rating:safe,
+sam yang,
+series:original,
+solo,
+subreddit:imaginarysliceoflife,
+title:traveling - sam yang,
+uploader:lo-fiend,

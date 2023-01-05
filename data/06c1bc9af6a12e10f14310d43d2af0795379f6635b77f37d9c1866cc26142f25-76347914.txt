@@ -1,29 +1,29 @@
-1boy
-armor
-artist name
-beard
-cape
-cloud
-cloudy sky
-facial hair
-gauntlets
-helmet
-holding
-holding weapon
-male focus
-outdoors
-rating:safe
-red cape
-shoulder armor
-sky
-solo
-standing
-subreddit:imaginaryarmor
-subreddit:imaginarynobles
-subreddit:imcharacters
-subreddit:imtechnology
-sunset
-sword
-title:urien rheged by nitrox marquez
-uploader:myrandall
-weapon
+1boy,
+armor,
+artist name,
+beard,
+cape,
+cloud,
+cloudy sky,
+facial hair,
+gauntlets,
+helmet,
+holding,
+holding weapon,
+male focus,
+outdoors,
+rating:safe,
+red cape,
+shoulder armor,
+sky,
+solo,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+subreddit:imtechnology,
+sunset,
+sword,
+title:urien rheged by nitrox marquez,
+uploader:myrandall,
+weapon,

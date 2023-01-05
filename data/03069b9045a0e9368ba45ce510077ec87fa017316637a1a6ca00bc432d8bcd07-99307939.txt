@@ -1,46 +1,46 @@
-aurora
-bare tree
-building
-christmas tree
-city
-city lights
-cityscape
-cloud
-constellation
-earth (planet)
-fantasy
-fireworks
-galaxy
-gradient sky
-letterboxed
-light particles
-milky way
-mountain
-mountainous horizon
-night
-night sky
-no humans
-outdoors
-pine tree
-planet
-purple sky
-rating:safe
-scenery
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-space
-star (sky)
-starry sky
-subreddit:imaginaryanimals
-sunset
-tanabata
-telescope
-title:winter wonderland by philip straub
-tree
-twilight
-uploader:chalkchick0
-winter
+aurora,
+bare tree,
+building,
+christmas tree,
+city,
+city lights,
+cityscape,
+cloud,
+constellation,
+earth (planet),
+fantasy,
+fireworks,
+galaxy,
+gradient sky,
+letterboxed,
+light particles,
+milky way,
+mountain,
+mountainous horizon,
+night,
+night sky,
+no humans,
+outdoors,
+pine tree,
+planet,
+purple sky,
+rating:safe,
+scenery,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryanimals,
+sunset,
+tanabata,
+telescope,
+title:winter wonderland by philip straub,
+tree,
+twilight,
+uploader:chalkchick0,
+winter,

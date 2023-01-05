@@ -1,21 +1,21 @@
-bamboo
-bamboo forest
-cloud
-crescent moon
-forest
-full moon
-moon
-moonlight
-nature
-night
-night sky
-outdoors
-rating:safe
-sky
-star (sky)
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-sun
-title:distortion
-tree
-uploader:blyatusmaximus
+bamboo,
+bamboo forest,
+cloud,
+crescent moon,
+forest,
+full moon,
+moon,
+moonlight,
+nature,
+night,
+night sky,
+outdoors,
+rating:safe,
+sky,
+star (sky),
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+sun,
+title:distortion,
+tree,
+uploader:blyatusmaximus,

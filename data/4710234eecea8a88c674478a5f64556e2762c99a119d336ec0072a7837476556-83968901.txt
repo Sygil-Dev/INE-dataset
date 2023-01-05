@@ -1,38 +1,38 @@
-1boy
-1girl
-barefoot
-braid
-braided ponytail
-brown hair
-creator:aureolin24
-creator:nishiki areku
-dress
-fairy wings
-flower
-from behind
-grass
-hair flower
-hair ornament
-helmet
-holding
-holding polearm
-holding weapon
-kneeling
-long hair
-meta:commentary
-meta:highres
-polearm
-rating:sensitive
-see-through
-see-through dress
-series:original
-spear
-subreddit:imaginaryfaeries
-subreddit:imraces
-title:0109 by 西木あれく(aureolin24)
-tree
-tunic
-uploader:musaibwadkar
-very long hair
-weapon
-wings
+1boy,
+1girl,
+barefoot,
+braid,
+braided ponytail,
+brown hair,
+creator:aureolin24,
+creator:nishiki areku,
+dress,
+fairy wings,
+flower,
+from behind,
+grass,
+hair flower,
+hair ornament,
+helmet,
+holding,
+holding polearm,
+holding weapon,
+kneeling,
+long hair,
+meta:commentary,
+meta:highres,
+polearm,
+rating:sensitive,
+see-through,
+see-through dress,
+series:original,
+spear,
+subreddit:imaginaryfaeries,
+subreddit:imraces,
+title:0109 by 西木あれく(aureolin24),
+tree,
+tunic,
+uploader:musaibwadkar,
+very long hair,
+weapon,
+wings,

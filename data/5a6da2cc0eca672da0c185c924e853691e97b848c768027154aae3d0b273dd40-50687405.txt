@@ -1,37 +1,37 @@
-ambiguous gender
-ambiguous_gender
-anthro
-artist:tamberella
-character:aang
-character:appa (avatar)
-character:appa_(avatar)
-clothed
-clothing
-copyright:avatar:_the_last_airbender
-copyright:nickelodeon
-creator:tamberella
-duo
-feral
-male
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-rating:safe
-series:avatar the last airbender
-series:avatar: the last airbender
-series:nickelodeon
-smile
-species:bovid
-species:bovine
-species:human
-species:mammal
-species:primate
-species:sky bison
-species:sky_bison
-studio:nickelodeon
-subreddit:imaginaryaww
-subreddit:immeta
-title:aang + appa by tamberella
-uploader:myrandall
+ambiguous gender,
+ambiguous_gender,
+anthro,
+artist:tamberella,
+character:aang,
+character:appa (avatar),
+character:appa_(avatar),
+clothed,
+clothing,
+copyright:avatar:_the_last_airbender,
+copyright:nickelodeon,
+creator:tamberella,
+duo,
+feral,
+male,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+rating:safe,
+series:avatar the last airbender,
+series:avatar: the last airbender,
+series:nickelodeon,
+smile,
+species:bovid,
+species:bovine,
+species:human,
+species:mammal,
+species:primate,
+species:sky bison,
+species:sky_bison,
+studio:nickelodeon,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:aang + appa by tamberella,
+uploader:myrandall,

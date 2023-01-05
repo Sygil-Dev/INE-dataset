@@ -1,34 +1,34 @@
-beach
-blue sky
-bridge
-cliff
-cloud
-cloudy sky
-day
-field
-flying
-forest
-grass
-hill
-horizon
-island
-lake
-landscape
-mountain
-mountainous horizon
-nature
-no humans
-ocean
-outdoors
-rating:safe
-river
-rock
-scenery
-shore
-sky
-subreddit:imaginaryskyscapes
-title:peaceful day by andreas rocha
-tree
-uploader:johncarterofares
-water
-waterfall
+beach,
+blue sky,
+bridge,
+cliff,
+cloud,
+cloudy sky,
+day,
+field,
+flying,
+forest,
+grass,
+hill,
+horizon,
+island,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+river,
+rock,
+scenery,
+shore,
+sky,
+subreddit:imaginaryskyscapes,
+title:peaceful day by andreas rocha,
+tree,
+uploader:johncarterofares,
+water,
+waterfall,

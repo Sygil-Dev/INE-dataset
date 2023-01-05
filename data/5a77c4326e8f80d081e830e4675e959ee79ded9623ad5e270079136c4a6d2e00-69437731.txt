@@ -1,40 +1,40 @@
-1girl
-belt
-black cape
-black eyes
-black hair
-blood
-blood on face
-bodysuit
-breasts
-cape
-character:batgirl
-character:cassandra cain
-creator:stanley lau
-fighting stance
-gloves
-hand on hip
-holding
-holding knife
-injury
-knife
-meta:commentary
-meta:english commentary
-meta:highres
-no mask
-rating:safe
-series:batman (series)
-series:dc comics
-short hair
-smile
-solo focus
-subreddit:imaginarygotham
-subreddit:imaginasian
-subreddit:imfandoms
-superhero
-title:festival of heroes: the asian superhero celebration #1 cassandra cain variant, by stanley 'artgerm' lau
-torn bodysuit
-torn cape
-torn clothes
-uploader:blood-n-cheese
-utility belt
+1girl,
+belt,
+black cape,
+black eyes,
+black hair,
+blood,
+blood on face,
+bodysuit,
+breasts,
+cape,
+character:batgirl,
+character:cassandra cain,
+creator:stanley lau,
+fighting stance,
+gloves,
+hand on hip,
+holding,
+holding knife,
+injury,
+knife,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+no mask,
+rating:safe,
+series:batman (series),
+series:dc comics,
+short hair,
+smile,
+solo focus,
+subreddit:imaginarygotham,
+subreddit:imaginasian,
+subreddit:imfandoms,
+superhero,
+title:festival of heroes: the asian superhero celebration #1 cassandra cain variant, by stanley 'artgerm' lau,
+torn bodysuit,
+torn cape,
+torn clothes,
+uploader:blood-n-cheese,
+utility belt,

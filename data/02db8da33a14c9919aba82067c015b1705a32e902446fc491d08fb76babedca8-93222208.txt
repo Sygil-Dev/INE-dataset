@@ -1,24 +1,24 @@
-1girl
-character:kars (jojo)
-curly hair
-greyscale
-kiseru
-long hair
-messy hair
-monochrome
-paintbrush
-painting
-pipe
-rating:safe
-signature
-smoke
-smoking
-solo
-striped
-striped shirt
-subreddit:imaginaryelves
-subreddit:imraces
-title:(oc) xiro, the failed jester. by me
-uploader:[deleted]
-uploader:eivythi
-wavy hair
+1girl,
+character:kars (jojo),
+curly hair,
+greyscale,
+kiseru,
+long hair,
+messy hair,
+monochrome,
+paintbrush,
+painting,
+pipe,
+rating:safe,
+signature,
+smoke,
+smoking,
+solo,
+striped,
+striped shirt,
+subreddit:imaginaryelves,
+subreddit:imraces,
+title:(oc) xiro, the failed jester. by me,
+uploader:[deleted],
+uploader:eivythi,
+wavy hair,

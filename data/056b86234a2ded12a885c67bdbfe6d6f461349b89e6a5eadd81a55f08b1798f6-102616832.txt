@@ -1,31 +1,31 @@
-1girl
-acoustic guitar
-animal
-beamed eighth notes
-beamed sixteenth notes
-cat
-closed eyes
-dog
-eighth note
-glasses
-guitar
-instrument
-monochrome
-music
-musical note
-plaid
-playing instrument
-quarter note
-rating:safe
-sheet music
-singing
-sitting
-speech bubble
-spoken blush
-spoken heart
-spoken musical note
-spoken question mark
-spoken sweatdrop
-subreddit:imaginarypets
-title:illustration by @sato_kaneda
-uploader:maleficentrespect3
+1girl,
+acoustic guitar,
+animal,
+beamed eighth notes,
+beamed sixteenth notes,
+cat,
+closed eyes,
+dog,
+eighth note,
+glasses,
+guitar,
+instrument,
+monochrome,
+music,
+musical note,
+plaid,
+playing instrument,
+quarter note,
+rating:safe,
+sheet music,
+singing,
+sitting,
+speech bubble,
+spoken blush,
+spoken heart,
+spoken musical note,
+spoken question mark,
+spoken sweatdrop,
+subreddit:imaginarypets,
+title:illustration by @sato_kaneda,
+uploader:maleficentrespect3,

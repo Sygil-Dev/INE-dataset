@@ -1,25 +1,25 @@
-bird
-blue sky
-building
-cloud
-cloudy sky
-crescent moon
-desert
-horizon
-island
-map
-moon
-mountain
-no humans
-ocean
-planet
-rating:safe
-silhouette
-sky
-subreddit:imaginarytamriel
-subreddit:imfandoms
-sunset
-title:atlas tamrielica, part vi: elsweyr
-tower
-tree
-uploader:barmaglott
+bird,
+blue sky,
+building,
+cloud,
+cloudy sky,
+crescent moon,
+desert,
+horizon,
+island,
+map,
+moon,
+mountain,
+no humans,
+ocean,
+planet,
+rating:safe,
+silhouette,
+sky,
+subreddit:imaginarytamriel,
+subreddit:imfandoms,
+sunset,
+title:atlas tamrielica, part vi: elsweyr,
+tower,
+tree,
+uploader:barmaglott,

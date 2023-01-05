@@ -1,59 +1,59 @@
-1girl
-ahoge
-animal
-bangs
-bench
-bernese mountain dog
-blind girl (popopoka)
-brown footwear
-brown hair
-brown sweater
-character:blind girl (popopoka)
-character:blind girl's dog (popopoka)
-clothing
-contrapposto
-creator:popopoka
-creator:popopoka_
-day
-dog
-facing down
-female
-female only
-fetch
-footwear
-freckles
-full body
-grass
-grey legwear
-happy
-kneehighs
-legwear
-long sleeves
-medium:high resolution
-meta:highres
-mountainous horizon
-neck ribbon
-outdoors
-path
-plaid
-plaid skirt
-playing
-popopoka
-rating:safe
-rating:sensitive
-red ribbon
-ribbon
-road
-series:original
-shoes
-skirt
-smile
-solo
-stick
-studio:fetch
-subreddit:imaginarysliceoflife
-sweater
-teeth
-title:blind girl playing with her best friend. art by (popopoka) (original)
-tree
-uploader:takuu202
+1girl,
+ahoge,
+animal,
+bangs,
+bench,
+bernese mountain dog,
+blind girl (popopoka),
+brown footwear,
+brown hair,
+brown sweater,
+character:blind girl (popopoka),
+character:blind girl's dog (popopoka),
+clothing,
+contrapposto,
+creator:popopoka,
+creator:popopoka_,
+day,
+dog,
+facing down,
+female,
+female only,
+fetch,
+footwear,
+freckles,
+full body,
+grass,
+grey legwear,
+happy,
+kneehighs,
+legwear,
+long sleeves,
+medium:high resolution,
+meta:highres,
+mountainous horizon,
+neck ribbon,
+outdoors,
+path,
+plaid,
+plaid skirt,
+playing,
+popopoka,
+rating:safe,
+rating:sensitive,
+red ribbon,
+ribbon,
+road,
+series:original,
+shoes,
+skirt,
+smile,
+solo,
+stick,
+studio:fetch,
+subreddit:imaginarysliceoflife,
+sweater,
+teeth,
+title:blind girl playing with her best friend. art by (popopoka) (original),
+tree,
+uploader:takuu202,

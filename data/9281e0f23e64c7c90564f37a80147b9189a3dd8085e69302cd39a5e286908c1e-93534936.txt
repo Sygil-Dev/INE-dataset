@@ -1,48 +1,48 @@
-abs
-armor
-armored boots
-bomb
-boots
-breasts
-character:crash (quake)
-character:soulbreaker (day of wrath)
-combat boots
-crazy
-crazy eyes
-crazy smile
-creator:infinitypilot
-creator:qwickjoe
-day of wrath
-day of wrath (doom fanfic)
-desert eagle
-explosive
-formal
-freckles
-grin
-gun
-handgun
-helmet
-medium breasts
-meta:highres
-muscular
-muscular female
-rating:general
-red eyes
-red hair
-series:doom (series)
-series:doom eternal
-series:quake
-series:quake 3 arena
-sinister
-sitting
-smile
-smirk
-smug
-subreddit:imaginaryarmor
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-subreddit:imtechnology
-suit
-title:my doom oc soulbreaker; art by qwickjoe
-uploader:infinitypilot
-weapon
+abs,
+armor,
+armored boots,
+bomb,
+boots,
+breasts,
+character:crash (quake),
+character:soulbreaker (day of wrath),
+combat boots,
+crazy,
+crazy eyes,
+crazy smile,
+creator:infinitypilot,
+creator:qwickjoe,
+day of wrath,
+day of wrath (doom fanfic),
+desert eagle,
+explosive,
+formal,
+freckles,
+grin,
+gun,
+handgun,
+helmet,
+medium breasts,
+meta:highres,
+muscular,
+muscular female,
+rating:general,
+red eyes,
+red hair,
+series:doom (series),
+series:doom eternal,
+series:quake,
+series:quake 3 arena,
+sinister,
+sitting,
+smile,
+smirk,
+smug,
+subreddit:imaginaryarmor,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+subreddit:imtechnology,
+suit,
+title:my doom oc soulbreaker; art by qwickjoe,
+uploader:infinitypilot,
+weapon,

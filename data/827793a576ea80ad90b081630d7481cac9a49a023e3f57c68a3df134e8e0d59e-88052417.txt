@@ -1,23 +1,23 @@
-2d
-concept
-creator:ismail inceoglu
-digital2d
-digitalart
-environmental
-future
-illustration
-medium:digital 2d
-orangecircle
-postcyberpunk
-scene
-scenery
-scifi
-snow
-subreddit:imaginarymindscapes
-subreddit:imaginarypathways
-subreddit:imlandscapes
-sun
-title:tracks of the sun
-title:tracks of the sun by ismail inceoglu
-uploader:lol33ta
-winter
+2d,
+concept,
+creator:ismail inceoglu,
+digital2d,
+digitalart,
+environmental,
+future,
+illustration,
+medium:digital 2d,
+orangecircle,
+postcyberpunk,
+scene,
+scenery,
+scifi,
+snow,
+subreddit:imaginarymindscapes,
+subreddit:imaginarypathways,
+subreddit:imlandscapes,
+sun,
+title:tracks of the sun,
+title:tracks of the sun by ismail inceoglu,
+uploader:lol33ta,
+winter,

@@ -1,29 +1,29 @@
-arch
-architecture
-bridge
-building
-castle
-church
-city
-city lights
-cityscape
-clock
-clock tower
-east asian architecture
-fantasy
-gate
-gears
-glowing
-library
-no humans
-pagoda
-rating:safe
-scenery
-science fiction
-skyline
-skyscraper
-subreddit:imaginarystarships
-title:biological spacecraft, павел богданов
-tokyo (city)
-tower
-uploader:miciy5
+arch,
+architecture,
+bridge,
+building,
+castle,
+church,
+city,
+city lights,
+cityscape,
+clock,
+clock tower,
+east asian architecture,
+fantasy,
+gate,
+gears,
+glowing,
+library,
+no humans,
+pagoda,
+rating:safe,
+scenery,
+science fiction,
+skyline,
+skyscraper,
+subreddit:imaginarystarships,
+title:biological spacecraft, павел богданов,
+tokyo (city),
+tower,
+uploader:miciy5,

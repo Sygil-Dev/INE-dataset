@@ -1,22 +1,22 @@
-armor
-bald
-bare tree
-bat
-beard
-belt
-castle
-facial hair
-full moon
-moon
-moonlight
-multiple boys
-night
-rating:safe
-retro artstyle
-sky
-subreddit:imaginarybeasts
-subreddit:immonsters
-title:bat and wolf creatures - horror - artwork by erwin arroza
-tree
-uploader:stextc
-weapon
+armor,
+bald,
+bare tree,
+bat,
+beard,
+belt,
+castle,
+facial hair,
+full moon,
+moon,
+moonlight,
+multiple boys,
+night,
+rating:safe,
+retro artstyle,
+sky,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+title:bat and wolf creatures - horror - artwork by erwin arroza,
+tree,
+uploader:stextc,
+weapon,

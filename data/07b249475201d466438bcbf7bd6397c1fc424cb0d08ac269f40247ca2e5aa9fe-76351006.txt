@@ -1,24 +1,24 @@
-animal
-bare tree
-bird
-cape
-cliff
-cloud
-crow
-jewelry
-long hair
-mountain
-orange hair
-outdoors
-rating:safe
-red hair
-rock
-seagull
-sky
-snow
-solo
-standing
-subreddit:imaginarywitches
-title:aqualung, water sorcerer, by vaalentinanoelart
-tree
-uploader:rhiannon21
+animal,
+bare tree,
+bird,
+cape,
+cliff,
+cloud,
+crow,
+jewelry,
+long hair,
+mountain,
+orange hair,
+outdoors,
+rating:safe,
+red hair,
+rock,
+seagull,
+sky,
+snow,
+solo,
+standing,
+subreddit:imaginarywitches,
+title:aqualung, water sorcerer, by vaalentinanoelart,
+tree,
+uploader:rhiannon21,

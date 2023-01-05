@@ -1,23 +1,23 @@
-blue sky
-building
-castle
-cloud
-cloudy sky
-day
-facing away
-horizon
-horse
-landscape
-mountain
-mountainous horizon
-outdoors
-rating:safe
-riding
-scenery
-sky
-solo
-subreddit:imaginarycastles
-title:聖之城 by royal nine
-tower
-uploader:lol33ta
-weapon
+blue sky,
+building,
+castle,
+cloud,
+cloudy sky,
+day,
+facing away,
+horizon,
+horse,
+landscape,
+mountain,
+mountainous horizon,
+outdoors,
+rating:safe,
+riding,
+scenery,
+sky,
+solo,
+subreddit:imaginarycastles,
+title:聖之城 by royal nine,
+tower,
+uploader:lol33ta,
+weapon,

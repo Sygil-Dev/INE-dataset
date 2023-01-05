@@ -1,49 +1,49 @@
-aurora
-bed
-blanket
-building
-campfire
-candle
-city lights
-cityscape
-cloud
-crescent moon
-desert
-dusk
-earth (planet)
-explosion
-fire
-full moon
-galaxy
-ghost
-ghost costume
-gradient sky
-halloween
-halloween bucket
-halloween costume
-hat
-jack-o'-lantern
-moon
-moonlight
-mountain
-mountainous horizon
-night
-night sky
-orange sky
-planet
-pumpkin
-purple sky
-rating:safe
-shooting star
-sky
-snow
-space
-star (sky)
-starry sky
-subreddit:imaginaryhorrors
-subreddit:immonsters
-sunset
-title:fancy dress [oc]
-title:happy halloween [oc]
-twilight
-uploader:the_crumblytoast
+aurora,
+bed,
+blanket,
+building,
+campfire,
+candle,
+city lights,
+cityscape,
+cloud,
+crescent moon,
+desert,
+dusk,
+earth (planet),
+explosion,
+fire,
+full moon,
+galaxy,
+ghost,
+ghost costume,
+gradient sky,
+halloween,
+halloween bucket,
+halloween costume,
+hat,
+jack-o'-lantern,
+moon,
+moonlight,
+mountain,
+mountainous horizon,
+night,
+night sky,
+orange sky,
+planet,
+pumpkin,
+purple sky,
+rating:safe,
+shooting star,
+sky,
+snow,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryhorrors,
+subreddit:immonsters,
+sunset,
+title:fancy dress [oc],
+title:happy halloween [oc],
+twilight,
+uploader:the_crumblytoast,

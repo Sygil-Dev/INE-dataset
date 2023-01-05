@@ -1,21 +1,21 @@
-animal
-artwork
-birds
-clouds
-fantasy art
-flying
-furry
-ice
-medium:digital media
-mountains
-rock
-sky
-snow
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-sun rays
-title:'rise and shine' by steve chinsuan wang
-uploader:jaykirsch
-wings
+animal,
+artwork,
+birds,
+clouds,
+fantasy art,
+flying,
+furry,
+ice,
+medium:digital media,
+mountains,
+rock,
+sky,
+snow,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+sun rays,
+title:'rise and shine' by steve chinsuan wang,
+uploader:jaykirsch,
+wings,

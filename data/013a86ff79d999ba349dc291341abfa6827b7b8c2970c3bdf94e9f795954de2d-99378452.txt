@@ -1,22 +1,22 @@
-beach
-bird
-blue sky
-cloud
-cloudy sky
-day
-flying
-horizon
-landscape
-mountain
-ocean
-outdoors
-rating:safe
-sand
-scenery
-seagull
-sky
-subreddit:imaginaryhistory
-sunset
-title:bogatyr by vladimir motsar
-uploader:galactic_gooner
-water
+beach,
+bird,
+blue sky,
+cloud,
+cloudy sky,
+day,
+flying,
+horizon,
+landscape,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+sand,
+scenery,
+seagull,
+sky,
+subreddit:imaginaryhistory,
+sunset,
+title:bogatyr by vladimir motsar,
+uploader:galactic_gooner,
+water,

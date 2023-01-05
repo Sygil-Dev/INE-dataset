@@ -1,28 +1,28 @@
-aleksa stajsic
-creator:aleksa stajsic
-digital2d
-dnd
-dungeons and dragons
-elf
-elf king
-elven priest
-elven warrior
-fantasy
-forest
-forest warden
-forest warrior
-forestwarden
-illustration
-medium:digital 2d
-subreddit:imaginaryimmortals
-subreddit:imaginaryknights
-subreddit:imaginarynobles
-subreddit:imaginarywarriors
-subreddit:imaginaryweaponry
-subreddit:imcharacters
-subreddit:imraces
-subreddit:imtechnology
-title:forest warden
-title:forest warden, aleksa stajsic
-uploader:al3ks4
-warrior
+aleksa stajsic,
+creator:aleksa stajsic,
+digital2d,
+dnd,
+dungeons and dragons,
+elf,
+elf king,
+elven priest,
+elven warrior,
+fantasy,
+forest,
+forest warden,
+forest warrior,
+forestwarden,
+illustration,
+medium:digital 2d,
+subreddit:imaginaryimmortals,
+subreddit:imaginaryknights,
+subreddit:imaginarynobles,
+subreddit:imaginarywarriors,
+subreddit:imaginaryweaponry,
+subreddit:imcharacters,
+subreddit:imraces,
+subreddit:imtechnology,
+title:forest warden,
+title:forest warden, aleksa stajsic,
+uploader:al3ks4,
+warrior,

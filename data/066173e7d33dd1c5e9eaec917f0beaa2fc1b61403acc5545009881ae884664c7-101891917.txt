@@ -1,31 +1,31 @@
-beach
-blue sky
-border
-city
-cloud
-cloudy sky
-condensation trail
-day
-dusk
-evening
-gradient sky
-hill
-horizon
-letterboxed
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-power lines
-rating:safe
-scenery
-sky
-subreddit:imaginaryskyscapes
-sun
-sunset
-title:keep looking up by camartin
-twilight
-uploader:lol33ta
-water
+beach,
+blue sky,
+border,
+city,
+cloud,
+cloudy sky,
+condensation trail,
+day,
+dusk,
+evening,
+gradient sky,
+hill,
+horizon,
+letterboxed,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+power lines,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryskyscapes,
+sun,
+sunset,
+title:keep looking up by camartin,
+twilight,
+uploader:lol33ta,
+water,

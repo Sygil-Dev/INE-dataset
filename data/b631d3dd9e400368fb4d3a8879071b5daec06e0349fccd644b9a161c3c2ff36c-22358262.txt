@@ -1,81 +1,81 @@
-1 female
-1girl
-art:landscape
-background
-bangs
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:konachan.com
-booru:safebooru
-booru:yande.re
-brown eyes
-brown hair
-car
-catzz
-chair
-closed mouth
-coat
-commentary
-creator:catzz
-creator:catzz1993
-cup
-dark
-drink
-drinking glass
-english commentary
-english text
-gender:female
-ground vehicle
-holding
-holding cup
-hoodie
-indoors
-landscape
-language:english
-lonely
-looking away
-medium:english text
-medium:high resolution
-medium:text
-menu
-meta:commentary
-meta:english commentary
-meta:highres
-meta:original character
-motor vehicle
-neon lights
-night
-original character
-pixiv work:72668704
-rain
-rating:mature
-rating:safe
-restaurant
-scenery
-scenic
-series:original
-short hair
-sidelocks
-sitting
-solo
-subreddit:imaginaryfeels
-subreddit:immeta
-table
-text
-title:pain
-title:pain by catzz.
-uploader:ghostofthefallen
-urban
-vehicle
-water
-window
-オリジナル
-ダイナー
-ネオン
-ファミレス
-夜景
-女の子
-背景
-風景
-風景2000users入り
+1 female,
+1girl,
+art:landscape,
+background,
+bangs,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:konachan.com,
+booru:safebooru,
+booru:yande.re,
+brown eyes,
+brown hair,
+car,
+catzz,
+chair,
+closed mouth,
+coat,
+commentary,
+creator:catzz,
+creator:catzz1993,
+cup,
+dark,
+drink,
+drinking glass,
+english commentary,
+english text,
+gender:female,
+ground vehicle,
+holding,
+holding cup,
+hoodie,
+indoors,
+landscape,
+language:english,
+lonely,
+looking away,
+medium:english text,
+medium:high resolution,
+medium:text,
+menu,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:original character,
+motor vehicle,
+neon lights,
+night,
+original character,
+pixiv work:72668704,
+rain,
+rating:mature,
+rating:safe,
+restaurant,
+scenery,
+scenic,
+series:original,
+short hair,
+sidelocks,
+sitting,
+solo,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+table,
+text,
+title:pain,
+title:pain by catzz.,
+uploader:ghostofthefallen,
+urban,
+vehicle,
+water,
+window,
+オリジナル,
+ダイナー,
+ネオン,
+ファミレス,
+夜景,
+女の子,
+背景,
+風景,
+風景2000users入り,

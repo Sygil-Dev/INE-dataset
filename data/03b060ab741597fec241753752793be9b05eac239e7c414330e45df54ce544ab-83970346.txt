@@ -1,36 +1,36 @@
-architecture
-bridge
-building
-castle
-city
-city lights
-cityscape
-clock tower
-cloud
-cloudy sky
-fantasy
-lantern
-milky way
-moon
-mountain
-night
-night sky
-no humans
-outdoors
-rating:safe
-scenery
-shooting star
-sky
-skyline
-skyscraper
-smoke
-star (sky)
-starry sky
-subreddit:imaginarycastles
-subreddit:imaginaryhogwarts
-subreddit:imarchitecture
-subreddit:imfandoms
-title:harry potter and the chamber of secrets by vladislav pantic
-tower
-uploader:chalkchick0
-watercraft
+architecture,
+bridge,
+building,
+castle,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+cloudy sky,
+fantasy,
+lantern,
+milky way,
+moon,
+mountain,
+night,
+night sky,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+shooting star,
+sky,
+skyline,
+skyscraper,
+smoke,
+star (sky),
+starry sky,
+subreddit:imaginarycastles,
+subreddit:imaginaryhogwarts,
+subreddit:imarchitecture,
+subreddit:imfandoms,
+title:harry potter and the chamber of secrets by vladislav pantic,
+tower,
+uploader:chalkchick0,
+watercraft,

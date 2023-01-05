@@ -1,86 +1,86 @@
-1 female
-1girl
-booru:danbooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-booru:tbib
-bottle
-bra
-breast ripple
-brown hair
-character:lena "tracer" oxton
-character:lena "tracer" oxton (overwatch)
-character:sprinter tracer (overwatch)
-character:tracer (overwatch)
-character:track and field tracer
-clothing:bra
-clothing:earrings
-clothing:jewelry
-clothing:shirt
-clothing:sports bra
-clothing:underwear
-creator:mirco cabbia
-creator:mirco cabbia (sciamano240)
-creator:sciamano240
-digital drawing (artwork)
-earrings
-fan art
-female
-female focus
-female only
-female solo
-freckles
-gender:female
-genre:science fiction
-gym
-hand on hip
-jewelry
-looking at viewer
-medium:2d art
-medium:digital 2d
-medium:digital media
-medium:focus on female character
-medium:high resolution
-medium:photoshop
-meta:commentary
-meta:english commentary
-meta:highres
-meta:photoshop (medium)
-mirco_cabbia
-navel
-nose
-overwatch
-point of view
-pov
-rating:mature
-rating:s
-rating:safe
-series:overwatch
-shirt
-smile
-solo
-solo female
-spiked hair
-spiky hair
-sports bra
-stomach
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-taut clothes
-taut shirt
-title:tracer
-title:tracer by sciamano240
-toned
-towel
-towel on one shoulder
-towel_on_one_shoulder
-tracer
-twitter
-underwear
-uploader:lol33ta
-upper body
-water bottle
-water_bottle
-wristband
+1 female,
+1girl,
+booru:danbooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+booru:tbib,
+bottle,
+bra,
+breast ripple,
+brown hair,
+character:lena "tracer" oxton,
+character:lena "tracer" oxton (overwatch),
+character:sprinter tracer (overwatch),
+character:tracer (overwatch),
+character:track and field tracer,
+clothing:bra,
+clothing:earrings,
+clothing:jewelry,
+clothing:shirt,
+clothing:sports bra,
+clothing:underwear,
+creator:mirco cabbia,
+creator:mirco cabbia (sciamano240),
+creator:sciamano240,
+digital drawing (artwork),
+earrings,
+fan art,
+female,
+female focus,
+female only,
+female solo,
+freckles,
+gender:female,
+genre:science fiction,
+gym,
+hand on hip,
+jewelry,
+looking at viewer,
+medium:2d art,
+medium:digital 2d,
+medium:digital media,
+medium:focus on female character,
+medium:high resolution,
+medium:photoshop,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:photoshop (medium),
+mirco_cabbia,
+navel,
+nose,
+overwatch,
+point of view,
+pov,
+rating:mature,
+rating:s,
+rating:safe,
+series:overwatch,
+shirt,
+smile,
+solo,
+solo female,
+spiked hair,
+spiky hair,
+sports bra,
+stomach,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+taut clothes,
+taut shirt,
+title:tracer,
+title:tracer by sciamano240,
+toned,
+towel,
+towel on one shoulder,
+towel_on_one_shoulder,
+tracer,
+twitter,
+underwear,
+uploader:lol33ta,
+upper body,
+water bottle,
+water_bottle,
+wristband,

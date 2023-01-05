@@ -1,24 +1,24 @@
-blonde hair
-booru:sankaku channel
-character:sailor moon (character)
-character:tsukino usagi
-creator:thedurrrrian
-double bun
-female
-lips
-lipstick
-long hair
-magical girl
-makeup
-medium:high resolution
-rating:safe
-red lips
-sailor senshi uniform
-series:sailor moon (series)
-subreddit:imaginaryanime
-subreddit:imfandoms
-tied hair
-title:sailor moon
-title:sailor moon by thedurrrrian
-twintails
-uploader:myrandall
+blonde hair,
+booru:sankaku channel,
+character:sailor moon (character),
+character:tsukino usagi,
+creator:thedurrrrian,
+double bun,
+female,
+lips,
+lipstick,
+long hair,
+magical girl,
+makeup,
+medium:high resolution,
+rating:safe,
+red lips,
+sailor senshi uniform,
+series:sailor moon (series),
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+tied hair,
+title:sailor moon,
+title:sailor moon by thedurrrrian,
+twintails,
+uploader:myrandall,

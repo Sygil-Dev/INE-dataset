@@ -1,23 +1,23 @@
-6+boys
-6+girls
-architecture
-black hair
-braid
-brown hair
-chinese clothes
-east asian architecture
-grass
-hat
-holding
-long hair
-multiple boys
-multiple girls
-plant
-potted plant
-rating:safe
-sitting
-standing
-subreddit:imaginarycultists
-title:cult by mark tarrisse
-tree
-uploader:n0laloth
+6+boys,
+6+girls,
+architecture,
+black hair,
+braid,
+brown hair,
+chinese clothes,
+east asian architecture,
+grass,
+hat,
+holding,
+long hair,
+multiple boys,
+multiple girls,
+plant,
+potted plant,
+rating:safe,
+sitting,
+standing,
+subreddit:imaginarycultists,
+title:cult by mark tarrisse,
+tree,
+uploader:n0laloth,

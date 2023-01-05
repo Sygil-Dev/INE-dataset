@@ -1,24 +1,24 @@
-earth (planet)
-fireworks
-galaxy
-glowing
-milky way
-moon
-night
-night sky
-no humans
-open mouth
-planet
-rating:safe
-realistic
-sharp teeth
-shooting star
-sky
-space
-star (sky)
-starry background
-starry sky
-subreddit:imaginaryanimals
-teeth
-title:battle scarred warrior by anaïs jancenelle
-uploader:chalkchick0
+earth (planet),
+fireworks,
+galaxy,
+glowing,
+milky way,
+moon,
+night,
+night sky,
+no humans,
+open mouth,
+planet,
+rating:safe,
+realistic,
+sharp teeth,
+shooting star,
+sky,
+space,
+star (sky),
+starry background,
+starry sky,
+subreddit:imaginaryanimals,
+teeth,
+title:battle scarred warrior by anaïs jancenelle,
+uploader:chalkchick0,

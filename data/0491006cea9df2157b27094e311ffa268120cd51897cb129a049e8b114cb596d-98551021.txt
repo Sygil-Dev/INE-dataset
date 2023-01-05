@@ -1,19 +1,19 @@
-artist name
-barefoot
-cloud
-cloudy sky
-dated
-full body
-grey background
-holding
-holding staff
-hood
-jewelry
-rating:safe
-robe
-signature
-solo
-staff
-subreddit:imaginaryimmortals
-title:cosmic herald by joel chaim holtzman
-uploader:lol33ta
+artist name,
+barefoot,
+cloud,
+cloudy sky,
+dated,
+full body,
+grey background,
+holding,
+holding staff,
+hood,
+jewelry,
+rating:safe,
+robe,
+signature,
+solo,
+staff,
+subreddit:imaginaryimmortals,
+title:cosmic herald by joel chaim holtzman,
+uploader:lol33ta,

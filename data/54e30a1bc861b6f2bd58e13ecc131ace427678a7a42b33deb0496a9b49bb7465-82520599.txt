@@ -1,20 +1,20 @@
-cosmos
-creator:sylvain sarrailh
-dream
-futur
-lofi
-medium:digital 2d
-planet
-rocks
-scifi
-sky
-space
-stars
-subreddit:imaginarycolorscapes
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-subreddit:immeta
-title:polaris
-title:polaris by sylvain sarrailh
-uploader:lol33ta
-vaporwave
+cosmos,
+creator:sylvain sarrailh,
+dream,
+futur,
+lofi,
+medium:digital 2d,
+planet,
+rocks,
+scifi,
+sky,
+space,
+stars,
+subreddit:imaginarycolorscapes,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+subreddit:immeta,
+title:polaris,
+title:polaris by sylvain sarrailh,
+uploader:lol33ta,
+vaporwave,

@@ -1,33 +1,33 @@
-2018
-ambiguous gender
-claws
-creator:alviaalcedo
-day
-detailed background
-duo
-feral
-flying
-furry
-gender:ambiguous
-horn
-horns
-medium:detailed background
-medium:digital media
-membrane (anatomy)
-membranous wings
-meta:2018
-meta:digital media (artwork)
-outside
-quadruped
-rating:safe
-sky
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-subreddit:imaginarydragons
-subreddit:immonsters
-title:playing with clouds by alviaalcedo
-uploader:lol33ta
-wings
-year:2018
+2018,
+ambiguous gender,
+claws,
+creator:alviaalcedo,
+day,
+detailed background,
+duo,
+feral,
+flying,
+furry,
+gender:ambiguous,
+horn,
+horns,
+medium:detailed background,
+medium:digital media,
+membrane (anatomy),
+membranous wings,
+meta:2018,
+meta:digital media (artwork),
+outside,
+quadruped,
+rating:safe,
+sky,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:playing with clouds by alviaalcedo,
+uploader:lol33ta,
+wings,
+year:2018,

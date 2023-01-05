@@ -1,21 +1,21 @@
-1other
-armor
-artist name
-facing away
-fire
-grass
-gun
-holding
-holding weapon
-outdoors
-rating:safe
-ruins
-scenery
-standing
-subreddit:imaginaryruins
-subreddit:imarchitecture
-sword
-title:dark ruins by panji andrian
-tree
-uploader:suzzerain
-weapon
+1other,
+armor,
+artist name,
+facing away,
+fire,
+grass,
+gun,
+holding,
+holding weapon,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+standing,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+sword,
+title:dark ruins by panji andrian,
+tree,
+uploader:suzzerain,
+weapon,

@@ -1,23 +1,23 @@
-1boy
-black hair
-book
-bottle
-cellphone
-computer
-drawing tablet
-hat
-headphones
-laptop
-mouse (computer)
-paper
-pen
-pencil
-phone
-ponytail
-rating:safe
-subreddit:imaginaryinteriors
-sword
-tissue box
-title:illustrations by leekoo han
-uploader:[deleted]
-weapon
+1boy,
+black hair,
+book,
+bottle,
+cellphone,
+computer,
+drawing tablet,
+hat,
+headphones,
+laptop,
+mouse (computer),
+paper,
+pen,
+pencil,
+phone,
+ponytail,
+rating:safe,
+subreddit:imaginaryinteriors,
+sword,
+tissue box,
+title:illustrations by leekoo han,
+uploader:[deleted],
+weapon,

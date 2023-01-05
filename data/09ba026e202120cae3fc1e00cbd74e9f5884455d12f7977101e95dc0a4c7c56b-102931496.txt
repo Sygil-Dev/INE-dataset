@@ -1,33 +1,33 @@
-blue sky
-building
-bush
-cliff
-cloud
-cloudy sky
-day
-fantasy
-field
-flower
-flower field
-grass
-hill
-horizon
-house
-hydrangea
-landscape
-mountain
-mountainous horizon
-nature
-outdoors
-rating:safe
-rock
-scenery
-sky
-subreddit:imaginarylandscapes
-title:journey by soda abo
-tower
-tree
-uploader:one_giant_nostril
-water
-waterfall
-white flower
+blue sky,
+building,
+bush,
+cliff,
+cloud,
+cloudy sky,
+day,
+fantasy,
+field,
+flower,
+flower field,
+grass,
+hill,
+horizon,
+house,
+hydrangea,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+outdoors,
+rating:safe,
+rock,
+scenery,
+sky,
+subreddit:imaginarylandscapes,
+title:journey by soda abo,
+tower,
+tree,
+uploader:one_giant_nostril,
+water,
+waterfall,
+white flower,

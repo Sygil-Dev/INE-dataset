@@ -1,58 +1,58 @@
-autumn
-autumn leaves
-breathing fire
-burning
-campfire
-candle
-cape
-castle
-cloud
-cloudy sky
-creator:haryarti
-destruction
-dusk
-embers
-evening
-explosion
-facing away
-fiery hair
-fiery wings
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-from behind
-gradient sky
-holding
-holding sword
-holding weapon
-male focus
-molten rock
-mountain
-mountainous horizon
-orange sky
-orange theme
-outdoors
-planted
-planted sword
-rating:safe
-red sky
-red theme
-scenery
-sky
-standing
-subreddit:imaginarywalls
-sun
-sunrise
-sunset
-sword
-title:the thick red line
-title:the thick red line by igor artyomenko
-torch
-tower
-twilight
-uploader:karmicviolence
-volcano
-weapon
-yellow sky
+autumn,
+autumn leaves,
+breathing fire,
+burning,
+campfire,
+candle,
+cape,
+castle,
+cloud,
+cloudy sky,
+creator:haryarti,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+facing away,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+from behind,
+gradient sky,
+holding,
+holding sword,
+holding weapon,
+male focus,
+molten rock,
+mountain,
+mountainous horizon,
+orange sky,
+orange theme,
+outdoors,
+planted,
+planted sword,
+rating:safe,
+red sky,
+red theme,
+scenery,
+sky,
+standing,
+subreddit:imaginarywalls,
+sun,
+sunrise,
+sunset,
+sword,
+title:the thick red line,
+title:the thick red line by igor artyomenko,
+torch,
+tower,
+twilight,
+uploader:karmicviolence,
+volcano,
+weapon,
+yellow sky,

@@ -1,26 +1,26 @@
-architecture
-bridge
-building
-bush
-city
-cityscape
-cloud
-cloudy sky
-fantasy
-grass
-house
-landscape
-mountain
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarydwellings
-subreddit:imaginarypathways
-sunset
-title:the lake house by artist nadegda mihailova (nm-art)
-tower
-tree
-uploader:anon_ymou5
+architecture,
+bridge,
+building,
+bush,
+city,
+cityscape,
+cloud,
+cloudy sky,
+fantasy,
+grass,
+house,
+landscape,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarydwellings,
+subreddit:imaginarypathways,
+sunset,
+title:the lake house by artist nadegda mihailova (nm-art),
+tower,
+tree,
+uploader:anon_ymou5,

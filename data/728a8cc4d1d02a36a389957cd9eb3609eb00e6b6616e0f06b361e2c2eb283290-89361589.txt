@@ -1,36 +1,36 @@
-1boy
-1girl
-angel
-angel wings
-astronaut
-black legwear
-black necktie
-black neckwear
-blue eyes
-creator:kazari tayu
-long hair
-long sleeves
-meta:commentary
-meta:english commentary
-meta:highres
-necktie
-pencil skirt
-rating:safe
-series:original
-shirt
-silver hair
-skirt
-sky
-space
-space helmet
-spacesuit
-star (sky)
-starry sky
-subreddit:imaginaryangels
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-subreddit:imraces
-title:blue star by 風李たゆ(kazari_tayu)
-uploader:musaibwadkar
-white shirt
-wings
+1boy,
+1girl,
+angel,
+angel wings,
+astronaut,
+black legwear,
+black necktie,
+black neckwear,
+blue eyes,
+creator:kazari tayu,
+long hair,
+long sleeves,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+necktie,
+pencil skirt,
+rating:safe,
+series:original,
+shirt,
+silver hair,
+skirt,
+sky,
+space,
+space helmet,
+spacesuit,
+star (sky),
+starry sky,
+subreddit:imaginaryangels,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+subreddit:imraces,
+title:blue star by 風李たゆ(kazari_tayu),
+uploader:musaibwadkar,
+white shirt,
+wings,

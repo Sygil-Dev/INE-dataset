@@ -1,54 +1,54 @@
-4 males
-4boys
-animal ears
-art
-booru:danbooru
-booru:gelbooru
-brown hair
-character:lizardman
-chest
-copyright name
-creator:mauricio herrera
-ears
-fangs
-furry
-gender:male
-gorilla
-lion
-lizardman
-male focus
-medium:copyright name
-medium:high resolution
-meta:highres
-meta:official art
-multiple boys
-multiple males
-open mouth
-polearm
-rating:mature
-rating:safe
-series:legend of the cryptids
-shield
-shirtless
-sky
-spear
-species:canine
-species:canis
-species:feline
-species:gorilla
-species:lion
-species:lizardman
-species:mammal
-species:primate
-species:scalie
-species:wolf
-subreddit:imaginaryhybrids
-subreddit:immonsters
-sword
-title:therians [by mauricio herrera]
-tree
-uploader:skooma-boi
-weapon
-weapon:spear
-wolf
-wolf ears
+4 males,
+4boys,
+animal ears,
+art,
+booru:danbooru,
+booru:gelbooru,
+brown hair,
+character:lizardman,
+chest,
+copyright name,
+creator:mauricio herrera,
+ears,
+fangs,
+furry,
+gender:male,
+gorilla,
+lion,
+lizardman,
+male focus,
+medium:copyright name,
+medium:high resolution,
+meta:highres,
+meta:official art,
+multiple boys,
+multiple males,
+open mouth,
+polearm,
+rating:mature,
+rating:safe,
+series:legend of the cryptids,
+shield,
+shirtless,
+sky,
+spear,
+species:canine,
+species:canis,
+species:feline,
+species:gorilla,
+species:lion,
+species:lizardman,
+species:mammal,
+species:primate,
+species:scalie,
+species:wolf,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+sword,
+title:therians [by mauricio herrera],
+tree,
+uploader:skooma-boi,
+weapon,
+weapon:spear,
+wolf,
+wolf ears,

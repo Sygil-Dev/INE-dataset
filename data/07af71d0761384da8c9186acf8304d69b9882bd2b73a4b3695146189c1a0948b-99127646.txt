@@ -1,21 +1,21 @@
-artist name
-bridge
-bush
-day
-fantasy
-forest
-grass
-house
-mountain
-nature
-no humans
-outdoors
-rating:safe
-river
-scenery
-subreddit:imaginarycastles
-title:castle by zeqing yan
-tree
-uploader:lol33ta
-water
-waterfall
+artist name,
+bridge,
+bush,
+day,
+fantasy,
+forest,
+grass,
+house,
+mountain,
+nature,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+subreddit:imaginarycastles,
+title:castle by zeqing yan,
+tree,
+uploader:lol33ta,
+water,
+waterfall,

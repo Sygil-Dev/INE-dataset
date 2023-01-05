@@ -1,21 +1,21 @@
-3d
-blender
-blue
-category:ine
-creator:thibault girard
-eevee
-medium:digital 3d
-planet
-render
-scenery
-scifi
-ship
-space
-space opera
-spaceship
-subreddit:imaginarybestof
-subreddit:imaginarystarships
-title:[/r/imaginarystarships] belvor by thibault girard
-title:belvor
-title:belvor by thibault girard
-uploader:lol33ta
+3d,
+blender,
+blue,
+category:ine,
+creator:thibault girard,
+eevee,
+medium:digital 3d,
+planet,
+render,
+scenery,
+scifi,
+ship,
+space,
+space opera,
+spaceship,
+subreddit:imaginarybestof,
+subreddit:imaginarystarships,
+title:[/r/imaginarystarships] belvor by thibault girard,
+title:belvor,
+title:belvor by thibault girard,
+uploader:lol33ta,

@@ -1,73 +1,73 @@
-2019
-black claws
-black nose
-blue sky
-booru:e621
-brown body
-brown fur
-brown mane
-center
-class:mammal
-claws
-cloud
-conservators
-creator:bubblewolf
-creator:kenket
-creator:main
-day
-digital media (artwork)
-family:felidae
-feral
-front view
-fur
-gender:male
-lying
-majestic
-male
-mane
-medium:digital media
-medium:traditional media
-meta:2019
-meta:digital media (artwork)
-meta:painting (artwork)
-meta:traditional media (artwork)
-meta:url
-multicolored body
-multicolored fur
-multicolored nose
-outside
-painting (artwork)
-paws
-pink nose
-quadruped
-ra
-rating:safe
-rawr
-rock
-sky
-solo
-source:furaffinity.net
-species:cat
-species:felid
-species:feline
-species:lion
-species:mammal
-species:pantherine
-subreddit:imaginaryanimals
-subreddit:imnature
-sun
-sunlights
-text
-title:ra
-title:ra by tess garman
-traditional media (artwork)
-two tone body
-two tone fur
-two tone nose
-uploader:myrandall
-url
-whiskers
-white body
-white fur
-year:2019
-yellow eyes
+2019,
+black claws,
+black nose,
+blue sky,
+booru:e621,
+brown body,
+brown fur,
+brown mane,
+center,
+class:mammal,
+claws,
+cloud,
+conservators,
+creator:bubblewolf,
+creator:kenket,
+creator:main,
+day,
+digital media (artwork),
+family:felidae,
+feral,
+front view,
+fur,
+gender:male,
+lying,
+majestic,
+male,
+mane,
+medium:digital media,
+medium:traditional media,
+meta:2019,
+meta:digital media (artwork),
+meta:painting (artwork),
+meta:traditional media (artwork),
+meta:url,
+multicolored body,
+multicolored fur,
+multicolored nose,
+outside,
+painting (artwork),
+paws,
+pink nose,
+quadruped,
+ra,
+rating:safe,
+rawr,
+rock,
+sky,
+solo,
+source:furaffinity.net,
+species:cat,
+species:felid,
+species:feline,
+species:lion,
+species:mammal,
+species:pantherine,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+sun,
+sunlights,
+text,
+title:ra,
+title:ra by tess garman,
+traditional media (artwork),
+two tone body,
+two tone fur,
+two tone nose,
+uploader:myrandall,
+url,
+whiskers,
+white body,
+white fur,
+year:2019,
+yellow eyes,

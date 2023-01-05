@@ -1,42 +1,42 @@
-1boy
-above clouds
-baseball cap
-bird
-black hair
-character:ash ketchum
-character:charizard
-character:moltres
-character:pidgeot
-creator:devin elle kurtz
-devin elle kurtz
-fingerless gloves
-fire
-gen 1 pokemon
-gloves
-green gloves
-hat
-jacket
-legendary pokemon
-male focus
-meta:commentary
-meta:highres
-outdoors
-pants
-pokemon (creature)
-rating:safe
-red headwear
-riding pokemon
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (anime)
-series:pokemon (classic anime)
-short hair
-short sleeves
-subreddit:imaginarykanto
-subreddit:imaginaryleviathans
-subreddit:immonsters
-title:moltres by devin elle kurtz
-uploader:miciy5
-uploader:mtlgrems
+1boy,
+above clouds,
+baseball cap,
+bird,
+black hair,
+character:ash ketchum,
+character:charizard,
+character:moltres,
+character:pidgeot,
+creator:devin elle kurtz,
+devin elle kurtz,
+fingerless gloves,
+fire,
+gen 1 pokemon,
+gloves,
+green gloves,
+hat,
+jacket,
+legendary pokemon,
+male focus,
+meta:commentary,
+meta:highres,
+outdoors,
+pants,
+pokemon (creature),
+rating:safe,
+red headwear,
+riding pokemon,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (anime),
+series:pokemon (classic anime),
+short hair,
+short sleeves,
+subreddit:imaginarykanto,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+title:moltres by devin elle kurtz,
+uploader:miciy5,
+uploader:mtlgrems,

@@ -1,21 +1,21 @@
-armor
-bikini
-bikini armor
-clothing:armor
-clothing:bikini
-clothing:swimsuit
-creator:astri lohne
-fantasy
-gender:female
-impractical armor
-medium:digital 2d
-revealing armor
-sketch
-subreddit:imaginaryazeroth
-subreddit:imaginarymonstergirls
-subreddit:impracticalarmour
-swimsuit
-title:fael by astri lohne
-title:november sketch commissions
-uploader:lol33ta
-world of warcraft
+armor,
+bikini,
+bikini armor,
+clothing:armor,
+clothing:bikini,
+clothing:swimsuit,
+creator:astri lohne,
+fantasy,
+gender:female,
+impractical armor,
+medium:digital 2d,
+revealing armor,
+sketch,
+subreddit:imaginaryazeroth,
+subreddit:imaginarymonstergirls,
+subreddit:impracticalarmour,
+swimsuit,
+title:fael by astri lohne,
+title:november sketch commissions,
+uploader:lol33ta,
+world of warcraft,

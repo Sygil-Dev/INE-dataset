@@ -1,25 +1,25 @@
-bamboo
-bamboo forest
-bush
-day
-flower
-foliage
-forest
-grass
-jungle
-leaf
-nature
-no humans
-outdoors
-palm tree
-path
-plant
-potted plant
-rain
-rating:safe
-road
-scenery
-subreddit:imaginarytrees
-title:contemplador en diagnola from the tropical landscapes of tomás sánchez
-tree
-uploader:anon_ymou5
+bamboo,
+bamboo forest,
+bush,
+day,
+flower,
+foliage,
+forest,
+grass,
+jungle,
+leaf,
+nature,
+no humans,
+outdoors,
+palm tree,
+path,
+plant,
+potted plant,
+rain,
+rating:safe,
+road,
+scenery,
+subreddit:imaginarytrees,
+title:contemplador en diagnola from the tropical landscapes of tomás sánchez,
+tree,
+uploader:anon_ymou5,

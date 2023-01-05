@@ -1,57 +1,57 @@
-aerial fireworks
-architecture
-aurora
-balcony
-bridge
-building
-bush
-castle
-chimney
-city
-city lights
-cityscape
-cloud
-cloudy sky
-constellation
-crescent moon
-east asian architecture
-fireflies
-fireworks
-fountain
-full moon
-galaxy
-gradient sky
-house
-lamppost
-lantern
-light particles
-milky way
-moon
-moonlight
-night
-night sky
-no humans
-outdoors
-planet
-rating:safe
-scenery
-shooting star
-sky
-skyline
-skyscraper
-snowing
-space
-star (sky)
-starry sky
-starry sky print
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-sunset
-tanabata
-telescope
-title:temple path [oc]
-tower
-tree
-twilight
-uploader:jamesmakesfilms
-window
+aerial fireworks,
+architecture,
+aurora,
+balcony,
+bridge,
+building,
+bush,
+castle,
+chimney,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+constellation,
+crescent moon,
+east asian architecture,
+fireflies,
+fireworks,
+fountain,
+full moon,
+galaxy,
+gradient sky,
+house,
+lamppost,
+lantern,
+light particles,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+no humans,
+outdoors,
+planet,
+rating:safe,
+scenery,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snowing,
+space,
+star (sky),
+starry sky,
+starry sky print,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+sunset,
+tanabata,
+telescope,
+title:temple path [oc],
+tower,
+tree,
+twilight,
+uploader:jamesmakesfilms,
+window,

@@ -1,22 +1,22 @@
-bush
-day
-forest
-grass
-holding
-holding sword
-holding weapon
-jungle
-moss
-nature
-outdoors
-plant
-rating:safe
-rock
-scenery
-standing
-subreddit:imaginarylandscapes
-sword
-title:the hunt begins
-tree
-uploader:rahulnaikbilavath
-weapon
+bush,
+day,
+forest,
+grass,
+holding,
+holding sword,
+holding weapon,
+jungle,
+moss,
+nature,
+outdoors,
+plant,
+rating:safe,
+rock,
+scenery,
+standing,
+subreddit:imaginarylandscapes,
+sword,
+title:the hunt begins,
+tree,
+uploader:rahulnaikbilavath,
+weapon,

@@ -1,26 +1,26 @@
-animal focus
-character:raikou
-creator:rend
-day
-full body
-gen 2 pokemon
-grass
-legendary pokemon
-looking to the side
-meta:commentary request
-meta:highres
-no humans
-outdoors
-pokemon (creature)
-rating:safe
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-solo
-standing
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:raikou by rend
-tusks
-uploader:hornyheracross
+animal focus,
+character:raikou,
+creator:rend,
+day,
+full body,
+gen 2 pokemon,
+grass,
+legendary pokemon,
+looking to the side,
+meta:commentary request,
+meta:highres,
+no humans,
+outdoors,
+pokemon (creature),
+rating:safe,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+solo,
+standing,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:raikou by rend,
+tusks,
+uploader:hornyheracross,

@@ -1,22 +1,22 @@
-arm cannon
-armor
-dirty
-glowing
-gun
-holding gun
-holding weapon
-mecha
-rating:safe
-retro artstyle
-rifle
-science fiction
-solo
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-title:ice planet soldier by /tg/ anon
-title:ice planet soldier by t/g/ anon
-traditional media
-uploader:bassoeg
-uploader:gangwayneighbor
-weapon
-white background
+arm cannon,
+armor,
+dirty,
+glowing,
+gun,
+holding gun,
+holding weapon,
+mecha,
+rating:safe,
+retro artstyle,
+rifle,
+science fiction,
+solo,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+title:ice planet soldier by /tg/ anon,
+title:ice planet soldier by t/g/ anon,
+traditional media,
+uploader:bassoeg,
+uploader:gangwayneighbor,
+weapon,
+white background,

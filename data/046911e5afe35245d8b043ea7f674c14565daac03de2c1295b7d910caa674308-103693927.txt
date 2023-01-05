@@ -1,19 +1,19 @@
-1boy
-beard
-curly hair
-facial hair
-holding instrument
-instrument
-long hair
-male focus
-music
-old
-old man
-playing instrument
-rating:safe
-solo
-subreddit:imaginarymiddleearth
-title:saruman by aquiles-soir
-uploader:lol33ta
-violin
-wavy hair
+1boy,
+beard,
+curly hair,
+facial hair,
+holding instrument,
+instrument,
+long hair,
+male focus,
+music,
+old,
+old man,
+playing instrument,
+rating:safe,
+solo,
+subreddit:imaginarymiddleearth,
+title:saruman by aquiles-soir,
+uploader:lol33ta,
+violin,
+wavy hair,

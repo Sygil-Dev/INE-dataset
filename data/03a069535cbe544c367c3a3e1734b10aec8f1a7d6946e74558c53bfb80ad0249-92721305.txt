@@ -1,20 +1,20 @@
-food
-hat
-marker (medium)
-military
-military uniform
-multiple boys
-painting (medium)
-photo (medium)
-rating:safe
-realistic
-retro artstyle
-shikishi
-subreddit:imaginaryorcs
-subreddit:imraces
-title:"orcs eating enchiladas" made by dall.e from a text prompt devised by me
-traditional media
-uniform
-uploader:bookwyrmthedevourer
-watercolor (medium)
-weapon
+food,
+hat,
+marker (medium),
+military,
+military uniform,
+multiple boys,
+painting (medium),
+photo (medium),
+rating:safe,
+realistic,
+retro artstyle,
+shikishi,
+subreddit:imaginaryorcs,
+subreddit:imraces,
+title:"orcs eating enchiladas" made by dall.e from a text prompt devised by me,
+traditional media,
+uniform,
+uploader:bookwyrmthedevourer,
+watercolor (medium),
+weapon,

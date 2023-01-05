@@ -1,23 +1,23 @@
-animal
-arrow (projectile)
-bear
-boots
-bow (weapon)
-breath
-fur trim
-grey sky
-holding
-holding weapon
-mountain
-outdoors
-rating:safe
-snow
-snowing
-standing
-subreddit:imaginarymen
-subreddit:imaginarywarriors
-sword
-title:snow bear, the barbarian by pablo blayker
-tree
-uploader:killerbunnyfamily
-weapon
+animal,
+arrow (projectile),
+bear,
+boots,
+bow (weapon),
+breath,
+fur trim,
+grey sky,
+holding,
+holding weapon,
+mountain,
+outdoors,
+rating:safe,
+snow,
+snowing,
+standing,
+subreddit:imaginarymen,
+subreddit:imaginarywarriors,
+sword,
+title:snow bear, the barbarian by pablo blayker,
+tree,
+uploader:killerbunnyfamily,
+weapon,

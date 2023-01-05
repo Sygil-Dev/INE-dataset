@@ -1,50 +1,50 @@
-1girl
-archer
-arrow
-arrow (projectile)
-booru:sankaku
-booru:sankaku channel
-bow
-bow (weapon)
-character:original character
-character:sagittarius (zodiac)
-character:zodiac
-choker
-creator:fdasuarez
-creator:fernanda suarez
-dark
-female
-femenine
-fierce
-fire
-gender:female
-holding bow (weapon)
-holding weapon
-horoscope
-illustration
-jewelry
-looking at viewer
-looking to the side
-medium:digital 2d
-painting
-portrait
-powerful
-rating:s
-rating:safe
-red hair
-ring
-sagittarius
-series:original
-solo
-standing
-studio:sagittarius
-subreddit:imaginaryarchers
-subreddit:imcharacters
-sun
-title:sagittarius by fernanda suarez
-uploader:musaibwadkar
-weapon
-woman
-yellow eyes
-zodiac
-zodiac (personification)
+1girl,
+archer,
+arrow,
+arrow (projectile),
+booru:sankaku,
+booru:sankaku channel,
+bow,
+bow (weapon),
+character:original character,
+character:sagittarius (zodiac),
+character:zodiac,
+choker,
+creator:fdasuarez,
+creator:fernanda suarez,
+dark,
+female,
+femenine,
+fierce,
+fire,
+gender:female,
+holding bow (weapon),
+holding weapon,
+horoscope,
+illustration,
+jewelry,
+looking at viewer,
+looking to the side,
+medium:digital 2d,
+painting,
+portrait,
+powerful,
+rating:s,
+rating:safe,
+red hair,
+ring,
+sagittarius,
+series:original,
+solo,
+standing,
+studio:sagittarius,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+sun,
+title:sagittarius by fernanda suarez,
+uploader:musaibwadkar,
+weapon,
+woman,
+yellow eyes,
+zodiac,
+zodiac (personification),

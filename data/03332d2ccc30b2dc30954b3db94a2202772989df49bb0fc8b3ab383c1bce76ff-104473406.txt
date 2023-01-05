@@ -1,53 +1,53 @@
-1970s (style)
-aerial fireworks
-alien
-astronaut
-aurora
-campfire
-card (medium)
-city lights
-clock
-clock tower
-constellation
-crescent moon
-desert
-earth (planet)
-fireworks
-full moon
-galaxy
-glowing
-greyscale
-halftone
-hexagram
-light particles
-magic circle
-milky way
-moon
-moonlight
-night
-night sky
-planet
-rating:safe
-reflection
-roman numeral
-shooting star
-sky
-snowing
-solo
-space
-space craft
-space helmet
-sparkle
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarywitches
-tanabata
-tanzaku
-tarot
-telescope
-title:through the crystalline window by glint in the dark
-uploader:lol33ta
-window
+1970s (style),
+aerial fireworks,
+alien,
+astronaut,
+aurora,
+campfire,
+card (medium),
+city lights,
+clock,
+clock tower,
+constellation,
+crescent moon,
+desert,
+earth (planet),
+fireworks,
+full moon,
+galaxy,
+glowing,
+greyscale,
+halftone,
+hexagram,
+light particles,
+magic circle,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+planet,
+rating:safe,
+reflection,
+roman numeral,
+shooting star,
+sky,
+snowing,
+solo,
+space,
+space craft,
+space helmet,
+sparkle,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarywitches,
+tanabata,
+tanzaku,
+tarot,
+telescope,
+title:through the crystalline window by glint in the dark,
+uploader:lol33ta,
+window,

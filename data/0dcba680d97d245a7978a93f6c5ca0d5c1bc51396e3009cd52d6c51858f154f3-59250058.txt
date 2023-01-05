@@ -1,31 +1,31 @@
-bridge
-building
-city
-city lights
-cloud
-cloudy sky
-fantasy
-forest
-full moon
-grass
-horizon
-lake
-moon
-mountain
-mountainous horizon
-nature
-night
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-sunset
-title:island m_06 by won jun tae
-tower
-tree
-uploader:lol33ta
-water
+bridge,
+building,
+city,
+city lights,
+cloud,
+cloudy sky,
+fantasy,
+forest,
+full moon,
+grass,
+horizon,
+lake,
+moon,
+mountain,
+mountainous horizon,
+nature,
+night,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+sunset,
+title:island m_06 by won jun tae,
+tower,
+tree,
+uploader:lol33ta,
+water,

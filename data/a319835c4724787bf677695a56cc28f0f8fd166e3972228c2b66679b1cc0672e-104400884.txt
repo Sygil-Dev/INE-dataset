@@ -1,41 +1,41 @@
-1boy
-arm veins
-armor
-axe
-beard
-bleeding
-blood on face
-blood on weapon
-burning
-cape
-embers
-facial hair
-fire
-flame
-flaming sword
-flaming weapon
-forehead bleeding
-gauntlets
-head bleeding
-helmet
-holding
-holding axe
-holding weapon
-light particles
-male focus
-pauldrons
-polearm
-rating:safe
-scratched armor
-scratches
-shoulder armor
-skull on weapon
-solo
-spiked armor
-standing
-subreddit:imaginaryruneterra
-title:darius concept art by kim seung eun
-uploader:myrandall
-veins
-weapon
-wore down
+1boy,
+arm veins,
+armor,
+axe,
+beard,
+bleeding,
+blood on face,
+blood on weapon,
+burning,
+cape,
+embers,
+facial hair,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+forehead bleeding,
+gauntlets,
+head bleeding,
+helmet,
+holding,
+holding axe,
+holding weapon,
+light particles,
+male focus,
+pauldrons,
+polearm,
+rating:safe,
+scratched armor,
+scratches,
+shoulder armor,
+skull on weapon,
+solo,
+spiked armor,
+standing,
+subreddit:imaginaryruneterra,
+title:darius concept art by kim seung eun,
+uploader:myrandall,
+veins,
+weapon,
+wore down,

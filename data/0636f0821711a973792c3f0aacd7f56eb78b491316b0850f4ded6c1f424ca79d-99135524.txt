@@ -1,22 +1,22 @@
-architecture
-castle
-chimney
-cloud
-cloudy sky
-fog
-full moon
-moon
-moonlight
-mountain
-night
-night sky
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarytaverns
-sun
-title:misty tavern, by stoyan stoyanov
-tower
-uploader:sylvyrfyre
+architecture,
+castle,
+chimney,
+cloud,
+cloudy sky,
+fog,
+full moon,
+moon,
+moonlight,
+mountain,
+night,
+night sky,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarytaverns,
+sun,
+title:misty tavern, by stoyan stoyanov,
+tower,
+uploader:sylvyrfyre,

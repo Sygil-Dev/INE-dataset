@@ -1,36 +1,36 @@
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:safebooru
-cave
-character:charmander
-character:roggenrola
-closed mouth
-creator:mk (mikka)
-fang
-fang out
-fangs
-fangs out
-gen 1 pokemon
-gen 1 pokémon
-gen 5 pokemon
-medium:high resolution
-meta:highres
-mk (mikka)
-no humans
-pokemon (creature)
-rating:mature
-rating:safe
-series:pokemon
-series:pokémon
-species:charmander
-species:monster
-species:pokémon
-species:roggenrola
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:charmander in a cave [mk]
-uploader:hornyheracross
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:safebooru,
+cave,
+character:charmander,
+character:roggenrola,
+closed mouth,
+creator:mk (mikka),
+fang,
+fang out,
+fangs,
+fangs out,
+gen 1 pokemon,
+gen 1 pokémon,
+gen 5 pokemon,
+medium:high resolution,
+meta:highres,
+mk (mikka),
+no humans,
+pokemon (creature),
+rating:mature,
+rating:safe,
+series:pokemon,
+series:pokémon,
+species:charmander,
+species:monster,
+species:pokémon,
+species:roggenrola,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:charmander in a cave [mk],
+uploader:hornyheracross,

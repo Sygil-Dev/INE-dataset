@@ -1,127 +1,127 @@
-1 female
-1girl
-2d
-10s
-artist name
-back
-backless dress
-backless outfit
-balcony
-bangs
-bare back
-bare shoulders
-beverage
-birdcage
-black footwear
-black legwear
-black shoes
-blue dress
-blue eyes
-blush
-bow
-bug
-butterfly
-cage
-character:rem (re:zero)
-choker
-clothing:black legwear
-clothing:choker
-clothing:dress
-clothing:footwear
-clothing:hair ornament
-clothing:high heels
-clothing:legwear
-clothing:shoes
-creator:gtunver
-creator:wind610159
-cup
-curtains
-detached collar
-detached sleeves
-dress
-drink
-exposed back
-female
-flower
-footwear
-from behind
-full body
-gender:female
-gtunver
-hair flower
-hair ornament
-hair over one eye
-hairband
-hairpin
-headdress
-heels
-high heels
-insect
-ironwork
-jewelry
-large breasts
-legwear
-lens flare
-light particles
-looking at viewer
-looking back
-maid
-maid headdress
-matching hair/eyes
-medium breasts
-medium:2d art
-medium:artist name
-meta:2d
-meta:artist name
-meta:commentary request
-meta:photoshop (medium)
-no bra
-open-back dress
-petals
-pixiv id 1793569
-pixiv work:57794007
-plate
-pleated dress
-point of view
-pov
-railing
-rating:mature
-rating:safe
-re:zero kara hajimeru isekai seikatsu
-re:ゼロから始める異世界生活
-rem
-rem (re:zero)
-ribbon
-saucer
-series:re zero
-series:re: zero kara hajimeru isekai seikatsu
-series:re:zero kara hajimeru isekai seikatsu
-shadow
-shoes
-short hair
-shoulder blades
-skirt hold
-solo
-species:arthropod
-species:insect
-strapless
-strapless dress
-subreddit:imaginaryanime
-subreddit:imfandoms
-sunlight
-teacup
-thighhighs
-title:re:0 rem by gtunver
-title:re:start smile
-title:re_start smile
-uniform
-uploader:goodlibrarian
-year:10s
-ぱっくり背中
-メイド
-リゼロ10000users入り
-レム
-レム(リゼロ)
-女の子
-肩甲骨
-青髪
+1 female,
+1girl,
+2d,
+10s,
+artist name,
+back,
+backless dress,
+backless outfit,
+balcony,
+bangs,
+bare back,
+bare shoulders,
+beverage,
+birdcage,
+black footwear,
+black legwear,
+black shoes,
+blue dress,
+blue eyes,
+blush,
+bow,
+bug,
+butterfly,
+cage,
+character:rem (re:zero),
+choker,
+clothing:black legwear,
+clothing:choker,
+clothing:dress,
+clothing:footwear,
+clothing:hair ornament,
+clothing:high heels,
+clothing:legwear,
+clothing:shoes,
+creator:gtunver,
+creator:wind610159,
+cup,
+curtains,
+detached collar,
+detached sleeves,
+dress,
+drink,
+exposed back,
+female,
+flower,
+footwear,
+from behind,
+full body,
+gender:female,
+gtunver,
+hair flower,
+hair ornament,
+hair over one eye,
+hairband,
+hairpin,
+headdress,
+heels,
+high heels,
+insect,
+ironwork,
+jewelry,
+large breasts,
+legwear,
+lens flare,
+light particles,
+looking at viewer,
+looking back,
+maid,
+maid headdress,
+matching hair/eyes,
+medium breasts,
+medium:2d art,
+medium:artist name,
+meta:2d,
+meta:artist name,
+meta:commentary request,
+meta:photoshop (medium),
+no bra,
+open-back dress,
+petals,
+pixiv id 1793569,
+pixiv work:57794007,
+plate,
+pleated dress,
+point of view,
+pov,
+railing,
+rating:mature,
+rating:safe,
+re:zero kara hajimeru isekai seikatsu,
+re:ゼロから始める異世界生活,
+rem,
+rem (re:zero),
+ribbon,
+saucer,
+series:re zero,
+series:re: zero kara hajimeru isekai seikatsu,
+series:re:zero kara hajimeru isekai seikatsu,
+shadow,
+shoes,
+short hair,
+shoulder blades,
+skirt hold,
+solo,
+species:arthropod,
+species:insect,
+strapless,
+strapless dress,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+sunlight,
+teacup,
+thighhighs,
+title:re:0 rem by gtunver,
+title:re:start smile,
+title:re_start smile,
+uniform,
+uploader:goodlibrarian,
+year:10s,
+ぱっくり背中,
+メイド,
+リゼロ10000users入り,
+レム,
+レム(リゼロ),
+女の子,
+肩甲骨,
+青髪,

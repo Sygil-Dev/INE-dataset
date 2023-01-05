@@ -1,30 +1,30 @@
-1girl
-android
-arm cannon
-beard
-bullpup
-cyberpunk
-cyborg
-dark skin
-facial hair
-gun
-helmet
-machinery
-mecha
-mechanical arms
-mechanical parts
-multiple boys
-power armor
-radio antenna
-rating:safe
-realistic
-redesign
-robot
-science fiction
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-tattoo
-title:[comission] sgt. lewis "crocodile" crocker by artxbynora
-uploader:starmark_115
-visor
-weapon
+1girl,
+android,
+arm cannon,
+beard,
+bullpup,
+cyberpunk,
+cyborg,
+dark skin,
+facial hair,
+gun,
+helmet,
+machinery,
+mecha,
+mechanical arms,
+mechanical parts,
+multiple boys,
+power armor,
+radio antenna,
+rating:safe,
+realistic,
+redesign,
+robot,
+science fiction,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+tattoo,
+title:[comission] sgt. lewis "crocodile" crocker by artxbynora,
+uploader:starmark_115,
+visor,
+weapon,

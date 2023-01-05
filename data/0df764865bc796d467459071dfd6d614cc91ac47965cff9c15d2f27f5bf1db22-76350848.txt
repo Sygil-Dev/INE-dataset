@@ -1,46 +1,46 @@
-1girl
-animal
-animal on arm
-animal on shoulder
-arm tattoo
-bandaid
-bandaid on arm
-bandaid on knee
-bandaid on leg
-bird
-bird on head
-bird on shoulder
-black dress
-black footwear
-black headwear
-body writing
-boots
-broom
-broom riding
-chair
-chicken
-crow
-dove
-dress
-eagle
-feathers
-full body
-grey background
-hat
-head rest
-heart tattoo
-leg tattoo
-long hair
-owl
-pigeon
-rating:safe
-rooster
-simple background
-sitting
-solo
-subreddit:imaginarywitches
-tattoo
-title:slavic witch by katja škorjanc
-uploader:n0laloth
-witch
-witch hat
+1girl,
+animal,
+animal on arm,
+animal on shoulder,
+arm tattoo,
+bandaid,
+bandaid on arm,
+bandaid on knee,
+bandaid on leg,
+bird,
+bird on head,
+bird on shoulder,
+black dress,
+black footwear,
+black headwear,
+body writing,
+boots,
+broom,
+broom riding,
+chair,
+chicken,
+crow,
+dove,
+dress,
+eagle,
+feathers,
+full body,
+grey background,
+hat,
+head rest,
+heart tattoo,
+leg tattoo,
+long hair,
+owl,
+pigeon,
+rating:safe,
+rooster,
+simple background,
+sitting,
+solo,
+subreddit:imaginarywitches,
+tattoo,
+title:slavic witch by katja škorjanc,
+uploader:n0laloth,
+witch,
+witch hat,

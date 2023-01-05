@@ -1,50 +1,50 @@
-4k
-16:9
-2019
-absurd res
-ambiguous gender
-ambiguous_gender
-artist:neytirix
-character:minty (neytirix)
-creator:neytirix
-digital media (artwork)
-feral
-fur
-gender:ambiguous
-group
-hi res
-medium:16:9 aspect ratio
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-meta:4k
-meta:16:9
-meta:2019
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:widescreen
-raining
-rating:safe
-solo focus
-solo_focus
-species:cat
-species:domestic cat
-species:domestic_cat
-species:felid
-species:feline
-species:felis
-species:mammal
-standing
-subreddit:imaginaryfeels
-subreddit:immeta
-title:i'm not afraid of you. by neytirix.
-uploader:ghostofthefallen
-video in description
-white body
-white fur
-white_body
-white_fur
+4k,
+16:9,
+2019,
+absurd res,
+ambiguous gender,
+ambiguous_gender,
+artist:neytirix,
+character:minty (neytirix),
+creator:neytirix,
+digital media (artwork),
+feral,
+fur,
+gender:ambiguous,
+group,
+hi res,
+medium:16:9 aspect ratio,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+meta:4k,
+meta:16:9,
+meta:2019,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+raining,
+rating:safe,
+solo focus,
+solo_focus,
+species:cat,
+species:domestic cat,
+species:domestic_cat,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+standing,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+title:i'm not afraid of you. by neytirix.,
+uploader:ghostofthefallen,
+video in description,
+white body,
+white fur,
+white_body,
+white_fur,

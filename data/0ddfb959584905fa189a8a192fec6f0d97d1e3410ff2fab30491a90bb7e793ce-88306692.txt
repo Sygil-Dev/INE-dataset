@@ -1,28 +1,28 @@
-1boy
-artist name
-belt
-blonde hair
-boots
-brown footwear
-dated
-full body
-gradient
-gradient background
-grey background
-holding
-holding weapon
-jewelry
-long sleeves
-male focus
-ponytail
-rating:safe
-shield
-signature
-solo
-standing
-subreddit:imaginaryclerics
-subreddit:imcharacters
-sword
-title:rhian - andrew phillips
-uploader:puckee21
-weapon
+1boy,
+artist name,
+belt,
+blonde hair,
+boots,
+brown footwear,
+dated,
+full body,
+gradient,
+gradient background,
+grey background,
+holding,
+holding weapon,
+jewelry,
+long sleeves,
+male focus,
+ponytail,
+rating:safe,
+shield,
+signature,
+solo,
+standing,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+sword,
+title:rhian - andrew phillips,
+uploader:puckee21,
+weapon,

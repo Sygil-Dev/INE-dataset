@@ -1,39 +1,39 @@
-brushing
-character:cyndaquil
-closed eyes
-closed mouth
-creator:jazz (assortedjellies)
-dark skin
-disembodied limb
-english text
-eyes closed
-fire
-flame
-fluffy
-gen 2 pokemon
-grey background
-half-closed eyes
-holding
-holding pokemon
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-motion lines
-multiple views
-petting
-pokemon (creature)
-rating:safe
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-simple background
-starter pokemon
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:cyndaquil care guide by assortedjellies
-tongue
-tongue out
-toothbrush
-uploader:hornyheracross
+brushing,
+character:cyndaquil,
+closed eyes,
+closed mouth,
+creator:jazz (assortedjellies),
+dark skin,
+disembodied limb,
+english text,
+eyes closed,
+fire,
+flame,
+fluffy,
+gen 2 pokemon,
+grey background,
+half-closed eyes,
+holding,
+holding pokemon,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+motion lines,
+multiple views,
+petting,
+pokemon (creature),
+rating:safe,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+simple background,
+starter pokemon,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:cyndaquil care guide by assortedjellies,
+tongue,
+tongue out,
+toothbrush,
+uploader:hornyheracross,

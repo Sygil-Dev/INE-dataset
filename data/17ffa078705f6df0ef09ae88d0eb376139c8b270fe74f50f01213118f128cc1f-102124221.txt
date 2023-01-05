@@ -1,19 +1,19 @@
-celestial art
-cosmo
-cover book
-creator:kucingkecil cabin
-falling star
-galaxy art
-humanity
-medium:digital 2d
-milkyway
-nature
-nebula
-space art
-star
-subreddit:imaginarystarscapes
-title:lonely wolf
-title:lonely wolf by kucingkecil cabin
-tragedy
-uploader:dr_mrs_them0narch
-wolf
+celestial art,
+cosmo,
+cover book,
+creator:kucingkecil cabin,
+falling star,
+galaxy art,
+humanity,
+medium:digital 2d,
+milkyway,
+nature,
+nebula,
+space art,
+star,
+subreddit:imaginarystarscapes,
+title:lonely wolf,
+title:lonely wolf by kucingkecil cabin,
+tragedy,
+uploader:dr_mrs_them0narch,
+wolf,

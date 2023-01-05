@@ -1,21 +1,21 @@
-1girl
-blonde hair
-boots
-brown footwear
-brown hair
-combat boots
-explosive
-gloves
-grenade
-gun
-handgun
-lace-up boots
-marker (medium)
-rating:safe
-rocket launcher
-solo
-subreddit:imaginaryfallout
-subreddit:imfandoms
-title:women of the wasteland by j.w. paterson
-uploader:i_burn_cereal
-weapon
+1girl,
+blonde hair,
+boots,
+brown footwear,
+brown hair,
+combat boots,
+explosive,
+gloves,
+grenade,
+gun,
+handgun,
+lace-up boots,
+marker (medium),
+rating:safe,
+rocket launcher,
+solo,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+title:women of the wasteland by j.w. paterson,
+uploader:i_burn_cereal,
+weapon,

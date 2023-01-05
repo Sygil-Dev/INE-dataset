@@ -1,37 +1,37 @@
-1boy
-1girl
-artist name
-black hair
-book
-book stack
-bookmark
-breathing fire
-burning
-candle
-candlelight
-candlestand
-dated
-facial hair
-facial mark
-facial tattoo
-feathers
-fire
-fireplace
-flame
-indoors
-magic
-magic circle
-map
-open book
-paper
-quill
-rating:safe
-reading
-signature
-subreddit:imaginarywitches
-title:audacious reshapers by justyna gil
-torch
-uploader:disappointingreality
-watermark
-web address
-window
+1boy,
+1girl,
+artist name,
+black hair,
+book,
+book stack,
+bookmark,
+breathing fire,
+burning,
+candle,
+candlelight,
+candlestand,
+dated,
+facial hair,
+facial mark,
+facial tattoo,
+feathers,
+fire,
+fireplace,
+flame,
+indoors,
+magic,
+magic circle,
+map,
+open book,
+paper,
+quill,
+rating:safe,
+reading,
+signature,
+subreddit:imaginarywitches,
+title:audacious reshapers by justyna gil,
+torch,
+uploader:disappointingreality,
+watermark,
+web address,
+window,

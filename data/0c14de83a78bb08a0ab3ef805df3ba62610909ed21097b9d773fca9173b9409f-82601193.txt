@@ -1,22 +1,22 @@
-1boy
-archer
-arrow (projectile)
-belt
-boots
-bow (weapon)
-brown footwear
-drawing bow
-green eyes
-holding arrow
-holding bow (weapon)
-male focus
-pointy ears
-quiver
-rating:safe
-solo
-subreddit:imaginaryarchers
-subreddit:imcharacters
-tail
-title:take aim by yutaan
-uploader:lol33ta
-weapon
+1boy,
+archer,
+arrow (projectile),
+belt,
+boots,
+bow (weapon),
+brown footwear,
+drawing bow,
+green eyes,
+holding arrow,
+holding bow (weapon),
+male focus,
+pointy ears,
+quiver,
+rating:safe,
+solo,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+tail,
+title:take aim by yutaan,
+uploader:lol33ta,
+weapon,

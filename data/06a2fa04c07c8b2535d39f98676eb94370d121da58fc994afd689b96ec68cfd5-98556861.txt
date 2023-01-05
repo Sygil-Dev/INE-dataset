@@ -1,29 +1,29 @@
-1girl
-beach
-closed eyes
-constellation
-crescent
-crescent moon
-desert
-earrings
-earth (planet)
-jewelry
-moon
-night sky
-photo (medium)
-planet
-profile
-rating:safe
-retro artstyle
-sand
-shooting star
-sky
-solo
-space
-sparkle
-star (sky)
-star (symbol)
-starry sky
-subreddit:celestialbodies
-title:ozymandias by fernanda maya
-uploader:lol33ta
+1girl,
+beach,
+closed eyes,
+constellation,
+crescent,
+crescent moon,
+desert,
+earrings,
+earth (planet),
+jewelry,
+moon,
+night sky,
+photo (medium),
+planet,
+profile,
+rating:safe,
+retro artstyle,
+sand,
+shooting star,
+sky,
+solo,
+space,
+sparkle,
+star (sky),
+star (symbol),
+starry sky,
+subreddit:celestialbodies,
+title:ozymandias by fernanda maya,
+uploader:lol33ta,

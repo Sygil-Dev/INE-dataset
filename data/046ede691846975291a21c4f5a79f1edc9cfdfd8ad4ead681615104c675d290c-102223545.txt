@@ -1,35 +1,35 @@
-1girl
-artist name
-bamboo
-bath
-bathing
-bathroom
-bathtub
-bottle
-cactus
-couch
-cup
-curtains
-dark skin
-dark-skinned female
-flower pot
-hair bun
-indoors
-leaf
-nude
-palm tree
-partially submerged
-phone
-pink background
-plant
-potted plant
-rating:safe
-rug
-signature
-solo
-subreddit:imaginaryinteriors
-tanabata
-tanzaku
-title:cluttered bath by aurora stark
-uploader:lol33ta
-water
+1girl,
+artist name,
+bamboo,
+bath,
+bathing,
+bathroom,
+bathtub,
+bottle,
+cactus,
+couch,
+cup,
+curtains,
+dark skin,
+dark-skinned female,
+flower pot,
+hair bun,
+indoors,
+leaf,
+nude,
+palm tree,
+partially submerged,
+phone,
+pink background,
+plant,
+potted plant,
+rating:safe,
+rug,
+signature,
+solo,
+subreddit:imaginaryinteriors,
+tanabata,
+tanzaku,
+title:cluttered bath by aurora stark,
+uploader:lol33ta,
+water,

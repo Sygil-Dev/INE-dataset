@@ -1,28 +1,28 @@
-bamboo
-burning
-campfire
-character:charmander
-explosion
-fire
-flame
-forest
-grass
-halloween
-holding vegetable
-jack-o'-lantern
-leaf
-molten rock
-nature
-no humans
-outdoors
-palm tree
-plant
-pokemon (creature)
-pumpkin
-rating:safe
-subreddit:imaginaryaww
-subreddit:imaginaryfeels
-title:stressful day by atey majeed ghailan
-tree
-uploader:myrandall
-vines
+bamboo,
+burning,
+campfire,
+character:charmander,
+explosion,
+fire,
+flame,
+forest,
+grass,
+halloween,
+holding vegetable,
+jack-o'-lantern,
+leaf,
+molten rock,
+nature,
+no humans,
+outdoors,
+palm tree,
+plant,
+pokemon (creature),
+pumpkin,
+rating:safe,
+subreddit:imaginaryaww,
+subreddit:imaginaryfeels,
+title:stressful day by atey majeed ghailan,
+tree,
+uploader:myrandall,
+vines,

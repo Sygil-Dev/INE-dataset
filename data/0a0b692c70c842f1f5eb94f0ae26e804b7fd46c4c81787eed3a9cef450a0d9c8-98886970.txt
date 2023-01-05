@@ -1,29 +1,29 @@
-3boys
-bald
-beard
-belt
-boots
-chest hair
-dark skin
-dark-skinned male
-facial hair
-gloves
-gun
-hat
-manly
-military
-multiple boys
-muscular
-mustache
-old
-old man
-pouch
-rating:safe
-realistic
-red hair
-subreddit:imaginaryartisans
-sword
-title:blacksmith npc (wip) by two b
-uniform
-uploader:dmk-max
-weapon
+3boys,
+bald,
+beard,
+belt,
+boots,
+chest hair,
+dark skin,
+dark-skinned male,
+facial hair,
+gloves,
+gun,
+hat,
+manly,
+military,
+multiple boys,
+muscular,
+mustache,
+old,
+old man,
+pouch,
+rating:safe,
+realistic,
+red hair,
+subreddit:imaginaryartisans,
+sword,
+title:blacksmith npc (wip) by two b,
+uniform,
+uploader:dmk-max,
+weapon,

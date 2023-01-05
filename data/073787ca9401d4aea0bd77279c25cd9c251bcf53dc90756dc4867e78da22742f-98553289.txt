@@ -1,73 +1,73 @@
-1girl
-!
-argyle
-argyle background
-argyle legwear
-bat print
-bishop (chess)
-board game
-character:alice (alice in wonderland)
-character:black rock shooter (character)
-character:female saniwa (touken ranbu)
-character:himekaidou hatate
-character:kamado tanjirou
-character:motoori kosuzu
-character:ouma kokichi
-character:saniwa (touken ranbu)
-checkerboard cookie
-checkered
-checkered background
-checkered flag
-checkered floor
-checkered kimono
-checkered legwear
-checkered neckwear
-checkered scarf
-checkered shirt
-checkered skirt
-chess piece
-clown
-cookie
-copyright
-cow print
-crosswalk
-diamond (shape)
-flag
-floor
-gohei
-hairpods
-holding flag
-jester cap
-king (chess)
-knight (chess)
-leopard ears
-leopard tail
-on floor
-perspective
-picnic
-plaid legwear
-prison clothes
-queen (chess)
-race queen
-rating:safe
-reflection
-reflective floor
-rook (chess)
-shide
-soccer ball
-solo
-striped tail
-subreddit:imaginarymindscapes
-telstar
-tiger
-tiger boy
-tiger ears
-tiger stripes
-tiger tail
-tile floor
-tile wall
-tiles
-title:the first man #2, 2021 by murlin
-uploader:murlinsaintjean
-vanishing point
-yagasuri
+1girl,
+!,
+argyle,
+argyle background,
+argyle legwear,
+bat print,
+bishop (chess),
+board game,
+character:alice (alice in wonderland),
+character:black rock shooter (character),
+character:female saniwa (touken ranbu),
+character:himekaidou hatate,
+character:kamado tanjirou,
+character:motoori kosuzu,
+character:ouma kokichi,
+character:saniwa (touken ranbu),
+checkerboard cookie,
+checkered,
+checkered background,
+checkered flag,
+checkered floor,
+checkered kimono,
+checkered legwear,
+checkered neckwear,
+checkered scarf,
+checkered shirt,
+checkered skirt,
+chess piece,
+clown,
+cookie,
+copyright,
+cow print,
+crosswalk,
+diamond (shape),
+flag,
+floor,
+gohei,
+hairpods,
+holding flag,
+jester cap,
+king (chess),
+knight (chess),
+leopard ears,
+leopard tail,
+on floor,
+perspective,
+picnic,
+plaid legwear,
+prison clothes,
+queen (chess),
+race queen,
+rating:safe,
+reflection,
+reflective floor,
+rook (chess),
+shide,
+soccer ball,
+solo,
+striped tail,
+subreddit:imaginarymindscapes,
+telstar,
+tiger,
+tiger boy,
+tiger ears,
+tiger stripes,
+tiger tail,
+tile floor,
+tile wall,
+tiles,
+title:the first man #2, 2021 by murlin,
+uploader:murlinsaintjean,
+vanishing point,
+yagasuri,

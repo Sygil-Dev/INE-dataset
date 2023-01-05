@@ -1,26 +1,26 @@
-1 female
-1girl
-amputee
-clothing:dress
-creator:megatruh
-crutch
-dress
-explosion
-from behind
-gender:female
-mushroom cloud
-painting (object)
-rating:general
-rating:safe
-scenery
-series:original
-solo
-stading
-standing
-standing on one leg
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-tied hair
-title:girl in front of a painting by niken anindita
-twintails
-uploader:0-0-1
+1 female,
+1girl,
+amputee,
+clothing:dress,
+creator:megatruh,
+crutch,
+dress,
+explosion,
+from behind,
+gender:female,
+mushroom cloud,
+painting (object),
+rating:general,
+rating:safe,
+scenery,
+series:original,
+solo,
+stading,
+standing,
+standing on one leg,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+tied hair,
+title:girl in front of a painting by niken anindita,
+twintails,
+uploader:0-0-1,

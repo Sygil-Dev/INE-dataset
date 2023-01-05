@@ -1,20 +1,20 @@
-architecture
-bare tree
-building
-castle
-city
-cityscape
-mountain
-outdoors
-rating:safe
-scenery
-sky
-snow
-snowing
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-subreddit:superstructures
-title:overcrowded, by gino stratolat
-tower
-tree
-uploader:tabulaerrata
+architecture,
+bare tree,
+building,
+castle,
+city,
+cityscape,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+snow,
+snowing,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+subreddit:superstructures,
+title:overcrowded, by gino stratolat,
+tower,
+tree,
+uploader:tabulaerrata,

@@ -1,29 +1,29 @@
-architecture
-bare tree
-bridge
-building
-castle
-city
-cloud
-cloudy sky
-day
-fantasy
-grass
-mountain
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginaryarchitecture
-subreddit:imaginarydwellings
-subreddit:imaginarywastelands
-sunset
-title:swamp outpost by magnus schramm
-tower
-tree
-uploader:barson2408
-uploader:kuaiban
-uploader:myrandall
-water
+architecture,
+bare tree,
+bridge,
+building,
+castle,
+city,
+cloud,
+cloudy sky,
+day,
+fantasy,
+grass,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarydwellings,
+subreddit:imaginarywastelands,
+sunset,
+title:swamp outpost by magnus schramm,
+tower,
+tree,
+uploader:barson2408,
+uploader:kuaiban,
+uploader:myrandall,
+water,

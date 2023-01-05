@@ -1,26 +1,26 @@
-1boy
-armor
-cloud
-cloudy sky
-crescent moon
-full moon
-helmet
-holding
-holding weapon
-male focus
-moon
-mountain
-night
-night sky
-outdoors
-rating:safe
-sky
-solo
-subreddit:imaginaryarmor
-subreddit:imaginaryknights
-sun
-sunset
-sword
-title:flaming sword - haixiang mu
-uploader:killashard
-weapon
+1boy,
+armor,
+cloud,
+cloudy sky,
+crescent moon,
+full moon,
+helmet,
+holding,
+holding weapon,
+male focus,
+moon,
+mountain,
+night,
+night sky,
+outdoors,
+rating:safe,
+sky,
+solo,
+subreddit:imaginaryarmor,
+subreddit:imaginaryknights,
+sun,
+sunset,
+sword,
+title:flaming sword - haixiang mu,
+uploader:killashard,
+weapon,

@@ -1,27 +1,27 @@
-alien
-black border
-earth (planet)
-galaxy
-glowing
-gun
-letterboxed
-light particles
-male focus
-mask
-muscular
-night sky
-pillarboxed
-planet
-rating:safe
-science fiction
-snow
-snowing
-space
-space craft
-star (sky)
-starry sky
-subreddit:imaginarymarvel
-subreddit:imfandoms
-title:daredevil #1 cover by gabriele dell'otto
-uploader:disappointingreality
-weapon
+alien,
+black border,
+earth (planet),
+galaxy,
+glowing,
+gun,
+letterboxed,
+light particles,
+male focus,
+mask,
+muscular,
+night sky,
+pillarboxed,
+planet,
+rating:safe,
+science fiction,
+snow,
+snowing,
+space,
+space craft,
+star (sky),
+starry sky,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+title:daredevil #1 cover by gabriele dell'otto,
+uploader:disappointingreality,
+weapon,

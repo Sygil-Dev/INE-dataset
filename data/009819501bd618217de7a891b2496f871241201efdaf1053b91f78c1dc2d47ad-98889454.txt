@@ -1,24 +1,24 @@
-building
-chain-link fence
-city
-cityscape
-east asian architecture
-fence
-fishnets
-halftone
-halftone background
-newspaper
-no humans
-polka dot
-racket
-rating:safe
-real world location
-rooftop
-skyscraper
-subreddit:imaginaryhistory
-tennis racket
-title:an interesting look at france in the year 2000, from 1899. jean-marc cote (mods may remove if not allowed.)
-tokyo (city)
-tree
-uploader:crotchwolf
-web address
+building,
+chain-link fence,
+city,
+cityscape,
+east asian architecture,
+fence,
+fishnets,
+halftone,
+halftone background,
+newspaper,
+no humans,
+polka dot,
+racket,
+rating:safe,
+real world location,
+rooftop,
+skyscraper,
+subreddit:imaginaryhistory,
+tennis racket,
+title:an interesting look at france in the year 2000, from 1899. jean-marc cote (mods may remove if not allowed.),
+tokyo (city),
+tree,
+uploader:crotchwolf,
+web address,

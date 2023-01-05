@@ -1,39 +1,39 @@
-4:5
-2019
-ambiguous gender
-ambiguous_gender
-artist:tamberella
-black nose
-black_nose
-creator:tamberella
-digital media (artwork)
-feral
-fur
-gender:ambiguous
-medium:digital media
-meta:4:5
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-paws
-rating:safe
-solo
-species:mammal
-species:mustela
-species:mustelid
-species:musteline
-species:stoat
-species:true musteline
-standing
-subreddit:imaginaryanimals
-subreddit:imaginaryaww
-subreddit:immeta
-subreddit:imnature
-title:starry stoat by tamberella
-uploader:myrandall
-whiskers
-white body
-white fur
-white_body
-white_fur
-year:2019
+4:5,
+2019,
+ambiguous gender,
+ambiguous_gender,
+artist:tamberella,
+black nose,
+black_nose,
+creator:tamberella,
+digital media (artwork),
+feral,
+fur,
+gender:ambiguous,
+medium:digital media,
+meta:4:5,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+paws,
+rating:safe,
+solo,
+species:mammal,
+species:mustela,
+species:mustelid,
+species:musteline,
+species:stoat,
+species:true musteline,
+standing,
+subreddit:imaginaryanimals,
+subreddit:imaginaryaww,
+subreddit:immeta,
+subreddit:imnature,
+title:starry stoat by tamberella,
+uploader:myrandall,
+whiskers,
+white body,
+white fur,
+white_body,
+white_fur,
+year:2019,

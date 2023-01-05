@@ -1,44 +1,44 @@
-1girl
-artist name
-black nails
-black snake
-chain
-character:medusa (mythology)
-collarbone
-colored sclera
-creator:morry
-creator:morryevans
-earrings
-finger to mouth
-fingernails
-gold chain
-jewelry
-lips
-living hair
-long fingernails
-looking away
-meta:commentary
-meta:highres
-meta:symbol-only commentary
-monster girl
-orange eyes
-pale skin
-parted lips
-portrait
-purple lips
-rating:safe
-red background
-ring
-series:greek mythology
-signature
-snake
-snake hair
-subreddit:imaginarymonstergirls
-subreddit:imaginarymythology
-subreddit:imcharacters
-subreddit:immonsters
-title:medusa portrait (morry)
-title:untitled, by morry evans
-uploader:deluded_fruitcake
-uploader:prismatika_on_tumblr
-yellow sclera
+1girl,
+artist name,
+black nails,
+black snake,
+chain,
+character:medusa (mythology),
+collarbone,
+colored sclera,
+creator:morry,
+creator:morryevans,
+earrings,
+finger to mouth,
+fingernails,
+gold chain,
+jewelry,
+lips,
+living hair,
+long fingernails,
+looking away,
+meta:commentary,
+meta:highres,
+meta:symbol-only commentary,
+monster girl,
+orange eyes,
+pale skin,
+parted lips,
+portrait,
+purple lips,
+rating:safe,
+red background,
+ring,
+series:greek mythology,
+signature,
+snake,
+snake hair,
+subreddit:imaginarymonstergirls,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+subreddit:immonsters,
+title:medusa portrait (morry),
+title:untitled, by morry evans,
+uploader:deluded_fruitcake,
+uploader:prismatika_on_tumblr,
+yellow sclera,

@@ -1,25 +1,25 @@
-1girl
-2boys
-armor
-artist name
-blue eyes
-facial hair
-glowing
-glowing eyes
-green eyes
-holding
-holding sword
-holding weapon
-long hair
-master sword
-multiple boys
-pointy ears
-rating:safe
-signature
-subreddit:imaginaryelves
-subreddit:imraces
-sword
-title:seltian &amp; deyannore by tiago alexandre
-unsheathing
-uploader:dmk-max
-weapon
+1girl,
+2boys,
+armor,
+artist name,
+blue eyes,
+facial hair,
+glowing,
+glowing eyes,
+green eyes,
+holding,
+holding sword,
+holding weapon,
+long hair,
+master sword,
+multiple boys,
+pointy ears,
+rating:safe,
+signature,
+subreddit:imaginaryelves,
+subreddit:imraces,
+sword,
+title:seltian &amp; deyannore by tiago alexandre,
+unsheathing,
+uploader:dmk-max,
+weapon,

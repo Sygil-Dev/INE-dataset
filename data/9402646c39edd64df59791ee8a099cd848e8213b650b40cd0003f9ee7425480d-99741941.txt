@@ -1,35 +1,35 @@
-brown hair
-claws
-clothed
-clothing
-creator:sandara
-day
-detailed background
-eyebrows
-eyelashes
-female
-feral
-hair
-horn
-membrane (anatomy)
-membranous wings
-meta:2022
-meta:digital media (artwork)
-outside
-rating:safe
-sky
-smile
-species:dragon
-species:human
-species:mammal
-species:scalie
-species:western dragon
-subreddit:imaginaryseascapes
-subreddit:imaginarysliceoflife
-subreddit:imaginarysports
-title:windsurfing by sandara
-title:windsurfing by sandara tang
-uploader:johncarterofares
-uploader:myrandall
-water
-wings
+brown hair,
+claws,
+clothed,
+clothing,
+creator:sandara,
+day,
+detailed background,
+eyebrows,
+eyelashes,
+female,
+feral,
+hair,
+horn,
+membrane (anatomy),
+membranous wings,
+meta:2022,
+meta:digital media (artwork),
+outside,
+rating:safe,
+sky,
+smile,
+species:dragon,
+species:human,
+species:mammal,
+species:scalie,
+species:western dragon,
+subreddit:imaginaryseascapes,
+subreddit:imaginarysliceoflife,
+subreddit:imaginarysports,
+title:windsurfing by sandara,
+title:windsurfing by sandara tang,
+uploader:johncarterofares,
+uploader:myrandall,
+water,
+wings,

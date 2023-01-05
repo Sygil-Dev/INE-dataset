@@ -1,21 +1,21 @@
-1girl
-art brush
-blurry
-blurry foreground
-brown hair
-character:aerith gainsborough
-chopsticks
-closed eyes
-depth of field
-paintbrush
-painting
-palette (object)
-rating:safe
-smoke
-subreddit:imaginaryscholars
-subreddit:imaginarystash
-subreddit:imcharacters
-subreddit:imnsfw
-title:study by tea me
-title:速涂 by tea me
-uploader:lol33ta
+1girl,
+art brush,
+blurry,
+blurry foreground,
+brown hair,
+character:aerith gainsborough,
+chopsticks,
+closed eyes,
+depth of field,
+paintbrush,
+painting,
+palette (object),
+rating:safe,
+smoke,
+subreddit:imaginaryscholars,
+subreddit:imaginarystash,
+subreddit:imcharacters,
+subreddit:imnsfw,
+title:study by tea me,
+title:速涂 by tea me,
+uploader:lol33ta,

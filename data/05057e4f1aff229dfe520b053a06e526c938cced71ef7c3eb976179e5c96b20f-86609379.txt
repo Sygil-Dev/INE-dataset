@@ -1,20 +1,20 @@
-architecture
-bridge
-building
-castle
-city
-cityscape
-copyright name
-east asian architecture
-english text
-house
-no humans
-rating:safe
-scenery
-skyscraper
-subreddit:imaginaryarchitecture
-title:guide to the missing middle of housing, a key part to liveable and walkable cities.
-tower
-uploader:xerxes2004
-watermark
-web address
+architecture,
+bridge,
+building,
+castle,
+city,
+cityscape,
+copyright name,
+east asian architecture,
+english text,
+house,
+no humans,
+rating:safe,
+scenery,
+skyscraper,
+subreddit:imaginaryarchitecture,
+title:guide to the missing middle of housing, a key part to liveable and walkable cities.,
+tower,
+uploader:xerxes2004,
+watermark,
+web address,

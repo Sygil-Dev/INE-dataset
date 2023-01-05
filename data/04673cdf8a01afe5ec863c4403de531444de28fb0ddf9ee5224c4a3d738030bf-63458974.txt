@@ -1,30 +1,30 @@
-architecture
-bridge
-building
-city
-city lights
-cityscape
-cloud
-cloudy sky
-evening
-house
-no humans
-orange sky
-outdoors
-rating:safe
-road
-scenery
-sky
-skyscraper
-street
-subreddit:imaginarycityscapes
-subreddit:imaginaryfuturism
-subreddit:imlandscapes
-sunset
-title:big pharma bro
-title:big phrama bro
-tower
-tree
-twilight
-uploader:sailorrosette
-uploader:vertexmonster
+architecture,
+bridge,
+building,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+evening,
+house,
+no humans,
+orange sky,
+outdoors,
+rating:safe,
+road,
+scenery,
+sky,
+skyscraper,
+street,
+subreddit:imaginarycityscapes,
+subreddit:imaginaryfuturism,
+subreddit:imlandscapes,
+sunset,
+title:big pharma bro,
+title:big phrama bro,
+tower,
+tree,
+twilight,
+uploader:sailorrosette,
+uploader:vertexmonster,

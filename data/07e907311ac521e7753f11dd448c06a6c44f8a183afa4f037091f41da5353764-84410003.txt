@@ -1,24 +1,24 @@
-1boy
-blue sky
-cloud
-cloudy sky
-day
-dragon
-facing away
-from behind
-male focus
-mountain
-outdoors
-rating:safe
-scenery
-sky
-solo
-standing
-subreddit:imaginarymythology
-subreddit:imcharacters
-sunset
-title:messiah by mike jordana
-tree
-uploader:lol33ta
-water
-weapon
+1boy,
+blue sky,
+cloud,
+cloudy sky,
+day,
+dragon,
+facing away,
+from behind,
+male focus,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+solo,
+standing,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+sunset,
+title:messiah by mike jordana,
+tree,
+uploader:lol33ta,
+water,
+weapon,

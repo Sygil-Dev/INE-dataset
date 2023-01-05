@@ -1,20 +1,20 @@
-crescent moon
-earth (planet)
-moon
-night
-night sky
-ocean
-painting (medium)
-planet
-rating:safe
-sky
-space
-star (sky)
-starry sky
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-title:extinct-splat: sloppy trials, black, blue ink and fineliner
-traditional media
-uploader:bettons
-water
-waves
+crescent moon,
+earth (planet),
+moon,
+night,
+night sky,
+ocean,
+painting (medium),
+planet,
+rating:safe,
+sky,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+title:extinct-splat: sloppy trials, black, blue ink and fineliner,
+traditional media,
+uploader:bettons,
+water,
+waves,

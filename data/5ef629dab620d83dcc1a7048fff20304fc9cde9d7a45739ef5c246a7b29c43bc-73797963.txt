@@ -1,34 +1,34 @@
-1girl
-armor
-ass
-belt
-blue eyes
-chainmail
-creator:wassnonnam
-full armor
-full body
-grass
-holding
-holding shield
-holding sword
-holding weapon
-looking at viewer
-looking back
-medieval
-meta:absurdres
-meta:bad id
-meta:bad twitter id
-meta:highres
-rating:safe
-rating:sensitive
-series:original
-shield
-solo
-standing
-subreddit:imaginaryarmor
-subreddit:imtechnology
-sword
-title:chainmail suit - wassnonnam
-uploader:real-deal-steel
-wassnonnam
-weapon
+1girl,
+armor,
+ass,
+belt,
+blue eyes,
+chainmail,
+creator:wassnonnam,
+full armor,
+full body,
+grass,
+holding,
+holding shield,
+holding sword,
+holding weapon,
+looking at viewer,
+looking back,
+medieval,
+meta:absurdres,
+meta:bad id,
+meta:bad twitter id,
+meta:highres,
+rating:safe,
+rating:sensitive,
+series:original,
+shield,
+solo,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+sword,
+title:chainmail suit - wassnonnam,
+uploader:real-deal-steel,
+wassnonnam,
+weapon,

@@ -1,45 +1,45 @@
-1boy
-1girl
-::3
-::d
-auri (xoauri)
-belt
-black belt
-black bodysuit
-black cape
-blush
-bodysuit
-cape
-cat tail
-character:batman
-character:bruce wayne
-character:catwoman
-character:selina kyle
-clenched hands
-clothing
-dark skin
-dark-skinned female
-female
-heart
-looking to the side
-male
-mask
-medium:high resolution
-meta:highres
-open mouth
-open-mouth smile
-rating:safe
-series:batman (series)
-series:dc comics
-series:the batman (2022)
-smile
-studio:dc comics
-subreddit:imaginarylovers
-subreddit:imcharacters
-superhero
-tail
-the batman (2022)
-title:batcat doodle by xoauri
-triangle mouth
-uploader:musaibwadkar
-utility belt
+1boy,
+1girl,
+::3,
+::d,
+auri (xoauri),
+belt,
+black belt,
+black bodysuit,
+black cape,
+blush,
+bodysuit,
+cape,
+cat tail,
+character:batman,
+character:bruce wayne,
+character:catwoman,
+character:selina kyle,
+clenched hands,
+clothing,
+dark skin,
+dark-skinned female,
+female,
+heart,
+looking to the side,
+male,
+mask,
+medium:high resolution,
+meta:highres,
+open mouth,
+open-mouth smile,
+rating:safe,
+series:batman (series),
+series:dc comics,
+series:the batman (2022),
+smile,
+studio:dc comics,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+superhero,
+tail,
+the batman (2022),
+title:batcat doodle by xoauri,
+triangle mouth,
+uploader:musaibwadkar,
+utility belt,

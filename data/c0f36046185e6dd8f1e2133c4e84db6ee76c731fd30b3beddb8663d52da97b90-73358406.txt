@@ -1,27 +1,27 @@
-comic
-comic artist
-comic book
-comic book artist
-comics
-cover artist
-creator:david nakayama
-david nakayama
-hellfire gala
-high fashion
-jean grey
-magazine
-marvel
-marvel comics
-marvel girl
-medium:digital 2d
-pinup
-pinup girl
-subreddit:imaginarymarvel
-subreddit:imfandoms
-superhero
-superheroes
-title:jean grey | hellfire gala by david nakayama
-uploader:lol33ta
-vogue
-x men
-xmen
+comic,
+comic artist,
+comic book,
+comic book artist,
+comics,
+cover artist,
+creator:david nakayama,
+david nakayama,
+hellfire gala,
+high fashion,
+jean grey,
+magazine,
+marvel,
+marvel comics,
+marvel girl,
+medium:digital 2d,
+pinup,
+pinup girl,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+superhero,
+superheroes,
+title:jean grey | hellfire gala by david nakayama,
+uploader:lol33ta,
+vogue,
+x men,
+xmen,

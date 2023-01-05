@@ -1,21 +1,21 @@
-album cover
-book
-bookshelf
-bridge
-building
-city
-cityscape
-cover
-english text
-ladder
-library
-multiple boys
-no humans
-rating:safe
-scenery
-skyscraper
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-title:falling by geoffrey smith-woollams
-tokyo (city)
-uploader:naturallyirrational
+album cover,
+book,
+bookshelf,
+bridge,
+building,
+city,
+cityscape,
+cover,
+english text,
+ladder,
+library,
+multiple boys,
+no humans,
+rating:safe,
+scenery,
+skyscraper,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+title:falling by geoffrey smith-woollams,
+tokyo (city),
+uploader:naturallyirrational,

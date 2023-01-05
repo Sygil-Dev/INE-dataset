@@ -1,23 +1,23 @@
-armor
-blonde hair
-cape
-drawing
-ears
-elves
-gender:female
-green clothing
-headwear
-helmet
-long hair
-magician
-medium:wallpaper
-pointy ears
-snow
-snowing
-staff
-subreddit:imaginaryelves
-taekwon kim
-title:elf queen by taekwon kim / a-rang
-uploader:sr_myers
-white clothing
-wind
+armor,
+blonde hair,
+cape,
+drawing,
+ears,
+elves,
+gender:female,
+green clothing,
+headwear,
+helmet,
+long hair,
+magician,
+medium:wallpaper,
+pointy ears,
+snow,
+snowing,
+staff,
+subreddit:imaginaryelves,
+taekwon kim,
+title:elf queen by taekwon kim / a-rang,
+uploader:sr_myers,
+white clothing,
+wind,

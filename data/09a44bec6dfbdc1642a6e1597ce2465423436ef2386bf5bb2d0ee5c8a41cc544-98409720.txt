@@ -1,27 +1,27 @@
-1boy
-acrylic paint (medium)
-armor
-artist name
-calligraphy brush (medium)
-colored pencil (medium)
-gender:female
-graphite (medium)
-long hair
-male focus
-marker (medium)
-millipen (medium)
-painting (medium)
-photo (medium)
-rating:safe
-red hair
-shikishi
-signature
-solo
-standing
-subreddit:imaginaryknights
-subreddit:imcharacters
-title:maerwynn, the dragon, by me (9" x 12")
-traditional media
-uploader:commander_nothing
-watercolor (medium)
-watercolor pencil (medium)
+1boy,
+acrylic paint (medium),
+armor,
+artist name,
+calligraphy brush (medium),
+colored pencil (medium),
+gender:female,
+graphite (medium),
+long hair,
+male focus,
+marker (medium),
+millipen (medium),
+painting (medium),
+photo (medium),
+rating:safe,
+red hair,
+shikishi,
+signature,
+solo,
+standing,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+title:maerwynn, the dragon, by me (9" x 12"),
+traditional media,
+uploader:commander_nothing,
+watercolor (medium),
+watercolor pencil (medium),

@@ -1,23 +1,23 @@
-1girl
-barefoot
-blue eyes
-brown hair
-choker
-earrings
-indoors
-jacket
-jewelry
-lips
-money
-off shoulder
-photo (object)
-plant
-ponytail
-rating:safe
-shorts
-sitting
-solo
-subreddit:imaginarybestof
-title:[/r/imaginarycybernetics] absence of being by unodu
-uploader:lol33ta
-window
+1girl,
+barefoot,
+blue eyes,
+brown hair,
+choker,
+earrings,
+indoors,
+jacket,
+jewelry,
+lips,
+money,
+off shoulder,
+photo (object),
+plant,
+ponytail,
+rating:safe,
+shorts,
+sitting,
+solo,
+subreddit:imaginarybestof,
+title:[/r/imaginarycybernetics] absence of being by unodu,
+uploader:lol33ta,
+window,

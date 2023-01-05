@@ -1,23 +1,23 @@
-american flag
-flag background
-food
-glowing
-multiple torii
-rating:safe
-realistic
-red background
-red border
-red moon
-red sky
-red theme
-rising sun
-science fiction
-simple background
-solo
-star (sky)
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-sunburst background
-title:soul support [oc]
-torii
-uploader:futureselfbeats
+american flag,
+flag background,
+food,
+glowing,
+multiple torii,
+rating:safe,
+realistic,
+red background,
+red border,
+red moon,
+red sky,
+red theme,
+rising sun,
+science fiction,
+simple background,
+solo,
+star (sky),
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+sunburst background,
+title:soul support [oc],
+torii,
+uploader:futureselfbeats,

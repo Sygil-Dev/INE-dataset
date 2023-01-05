@@ -1,45 +1,45 @@
-::3
-aqua eyes
-artist:paleona
-black eyes
-blue eyes
-blush
-blush stickers
-character:mew
-closed mouth
-creature
-egg
-flower
-gen 1 pokemon
-grass
-holding
-holding egg
-horns
-looking away
-looking back
-looking down
-medium:simple background
-medium:watermark
-medium:web address
-medium:white background
-meta:commentary
-meta:english commentary
-no humans
-paleona
-puddle
-rating:mature
-rating:safe
-series:pokemon
-series:pokémon
-sitting
-species:dragonair
-species:monster
-species:pikachu
-species:pokemon
-species:pokémon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:the egg watch by paleona
-uploader:lol33ta
-water
+::3,
+aqua eyes,
+artist:paleona,
+black eyes,
+blue eyes,
+blush,
+blush stickers,
+character:mew,
+closed mouth,
+creature,
+egg,
+flower,
+gen 1 pokemon,
+grass,
+holding,
+holding egg,
+horns,
+looking away,
+looking back,
+looking down,
+medium:simple background,
+medium:watermark,
+medium:web address,
+medium:white background,
+meta:commentary,
+meta:english commentary,
+no humans,
+paleona,
+puddle,
+rating:mature,
+rating:safe,
+series:pokemon,
+series:pokémon,
+sitting,
+species:dragonair,
+species:monster,
+species:pikachu,
+species:pokemon,
+species:pokémon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:the egg watch by paleona,
+uploader:lol33ta,
+water,

@@ -1,48 +1,48 @@
-artist name
-bamboo
-bamboo forest
-blurry
-blurry foreground
-branch
-character:nala
-character:simba
-creator:akeahi
-duo
-eye contact
-eyebrows
-eyelashes
-female
-feral
-grass
-ivy
-jungle
-leaf
-looking at another
-lying
-meta:2021
-meta:digital media (artwork)
-no humans
-open mouth
-palm leaf
-palm tree
-plant
-potted plant
-rating:safe
-red hair
-series:disney
-series:the lion king
-species:felid
-species:lion
-species:mammal
-species:pantherine
-subreddit:imaginarydisney
-subreddit:imfandoms
-tanabata
-tanzaku
-teeth
-title:no by akeahi
-tongue
-tongue out
-tree
-uploader:myrandall
-vines
+artist name,
+bamboo,
+bamboo forest,
+blurry,
+blurry foreground,
+branch,
+character:nala,
+character:simba,
+creator:akeahi,
+duo,
+eye contact,
+eyebrows,
+eyelashes,
+female,
+feral,
+grass,
+ivy,
+jungle,
+leaf,
+looking at another,
+lying,
+meta:2021,
+meta:digital media (artwork),
+no humans,
+open mouth,
+palm leaf,
+palm tree,
+plant,
+potted plant,
+rating:safe,
+red hair,
+series:disney,
+series:the lion king,
+species:felid,
+species:lion,
+species:mammal,
+species:pantherine,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+tanabata,
+tanzaku,
+teeth,
+title:no by akeahi,
+tongue,
+tongue out,
+tree,
+uploader:myrandall,
+vines,

@@ -1,20 +1,20 @@
-1girl
-building
-city
-city lights
-cityscape
-embers
-fire
-light particles
-long hair
-rating:safe
-red sky
-scenery
-sky
-star (sky)
-starry sky
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-sunset
-title:polluted sector by darwin cellis
-uploader:dancing_cthulhu
+1girl,
+building,
+city,
+city lights,
+cityscape,
+embers,
+fire,
+light particles,
+long hair,
+rating:safe,
+red sky,
+scenery,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+sunset,
+title:polluted sector by darwin cellis,
+uploader:dancing_cthulhu,

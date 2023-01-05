@@ -1,31 +1,31 @@
-beach
-blue sky
-building
-city
-cliff
-cloud
-cloudy sky
-day
-hill
-horizon
-island
-lake
-landscape
-mountain
-mountainous horizon
-ocean
-outdoors
-rating:safe
-river
-rock
-scenery
-sky
-solo
-standing
-subreddit:imaginarymonuments
-sunrise
-sunset
-title:colossus of rhodes by leo av
-uploader:sr_myers
-water
-waterfall
+beach,
+blue sky,
+building,
+city,
+cliff,
+cloud,
+cloudy sky,
+day,
+hill,
+horizon,
+island,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+ocean,
+outdoors,
+rating:safe,
+river,
+rock,
+scenery,
+sky,
+solo,
+standing,
+subreddit:imaginarymonuments,
+sunrise,
+sunset,
+title:colossus of rhodes by leo av,
+uploader:sr_myers,
+water,
+waterfall,

@@ -1,17 +1,17 @@
-character:venom (marvel)
-comic
-cover
-creator:kael ngu
-knull
-marvel
-mcu
-medium:digital 2d
-spider
-spiderman
-spidey
-subreddit:imaginarymarvel
-symbiote
-title:venom #29 by kael ngu
-uploader:lol33ta
-venom
-web
+character:venom (marvel),
+comic,
+cover,
+creator:kael ngu,
+knull,
+marvel,
+mcu,
+medium:digital 2d,
+spider,
+spiderman,
+spidey,
+subreddit:imaginarymarvel,
+symbiote,
+title:venom #29 by kael ngu,
+uploader:lol33ta,
+venom,
+web,

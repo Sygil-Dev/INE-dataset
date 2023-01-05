@@ -1,36 +1,36 @@
-1boy
-artist name
-aurora
-constellation
-crescent
-crescent facial mark
-crescent moon
-earrings
-fur trim
-galaxy
-jewelry
-long hair
-male focus
-milky way
-moon
-night
-night sky
-planet
-profile
-rating:safe
-shooting star
-signature
-sky
-solo
-space
-sparkle
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-stud earrings
-subreddit:imaginaryelves
-title:art by @alonadadonut on twitter
-uploader:ohioaasimar
-white hair
+1boy,
+artist name,
+aurora,
+constellation,
+crescent,
+crescent facial mark,
+crescent moon,
+earrings,
+fur trim,
+galaxy,
+jewelry,
+long hair,
+male focus,
+milky way,
+moon,
+night,
+night sky,
+planet,
+profile,
+rating:safe,
+shooting star,
+signature,
+sky,
+solo,
+space,
+sparkle,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+stud earrings,
+subreddit:imaginaryelves,
+title:art by @alonadadonut on twitter,
+uploader:ohioaasimar,
+white hair,

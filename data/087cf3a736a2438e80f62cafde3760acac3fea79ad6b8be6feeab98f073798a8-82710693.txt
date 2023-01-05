@@ -1,37 +1,37 @@
-architecture
-artist name
-axe
-bat
-bat wings
-battle axe
-building
-castle
-demon
-demon boy
-demon girl
-demon wings
-dragon wings
-flying
-holding
-holding axe
-holding weapon
-horns
-male focus
-outdoors
-polearm
-rating:safe
-sky
-solo
-spear
-subreddit:imaginarydemons
-subreddit:imaginarynightscapes
-subreddit:immonsters
-title:gutmorn, pactbound servant - konstantin porubov
-title:gutmorn, pactbound servant by konstantin porubov
-tower
-trident
-uploader:lol33ta
-uploader:rs_someone
-watermark
-weapon
-wings
+architecture,
+artist name,
+axe,
+bat,
+bat wings,
+battle axe,
+building,
+castle,
+demon,
+demon boy,
+demon girl,
+demon wings,
+dragon wings,
+flying,
+holding,
+holding axe,
+holding weapon,
+horns,
+male focus,
+outdoors,
+polearm,
+rating:safe,
+sky,
+solo,
+spear,
+subreddit:imaginarydemons,
+subreddit:imaginarynightscapes,
+subreddit:immonsters,
+title:gutmorn, pactbound servant - konstantin porubov,
+title:gutmorn, pactbound servant by konstantin porubov,
+tower,
+trident,
+uploader:lol33ta,
+uploader:rs_someone,
+watermark,
+weapon,
+wings,

@@ -1,21 +1,21 @@
-1girl
-black background
-closed eyes
-earrings
-gradient hair
-long hair
-makeup
-multicolored hair
-parted lips
-pink hair
-ponytail
-portrait
-profile
-rating:safe
-solo
-subreddit:imaginarycolorscapes
-subreddit:imaginarymindscapes
-title:the dreamer by valentina remenar
-twintails
-uploader:lol33ta
-white hair
+1girl,
+black background,
+closed eyes,
+earrings,
+gradient hair,
+long hair,
+makeup,
+multicolored hair,
+parted lips,
+pink hair,
+ponytail,
+portrait,
+profile,
+rating:safe,
+solo,
+subreddit:imaginarycolorscapes,
+subreddit:imaginarymindscapes,
+title:the dreamer by valentina remenar,
+twintails,
+uploader:lol33ta,
+white hair,

@@ -1,27 +1,27 @@
-black body
-black scales
-claws
-conditional dnp
-creator:blitzdrachin
-creator:conditional dnp
-creator:sifyro
-dragon
-egg
-eyes closed
-feral
-fin
-happy
-horn
-rating:safe
-scales
-smile
-solo
-species:dragon
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:e g g
-uploader:sifyro
-white body
-white scales
-wings
+black body,
+black scales,
+claws,
+conditional dnp,
+creator:blitzdrachin,
+creator:conditional dnp,
+creator:sifyro,
+dragon,
+egg,
+eyes closed,
+feral,
+fin,
+happy,
+horn,
+rating:safe,
+scales,
+smile,
+solo,
+species:dragon,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:e g g,
+uploader:sifyro,
+white body,
+white scales,
+wings,

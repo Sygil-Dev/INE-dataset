@@ -1,21 +1,21 @@
-animation
-cience fiction
-creator:danderfull dan madrid
-elden ring
-medium:digital 2d
-metroid
-metroid dread
-metroid fusion
-metroid prime 2
-metroid prime 2 echoes
-metroid prime 4
-metroid suit
-nintendo
-nintendo switch
-ranni the witch
-samus
-samus aran
-subreddit:imaginarydarksouls
-title:samus x ranni
-title:samus x ranni, [danderfull dan madrid]
-uploader:boredom_simulator
+animation,
+cience fiction,
+creator:danderfull dan madrid,
+elden ring,
+medium:digital 2d,
+metroid,
+metroid dread,
+metroid fusion,
+metroid prime 2,
+metroid prime 2 echoes,
+metroid prime 4,
+metroid suit,
+nintendo,
+nintendo switch,
+ranni the witch,
+samus,
+samus aran,
+subreddit:imaginarydarksouls,
+title:samus x ranni,
+title:samus x ranni, [danderfull dan madrid],
+uploader:boredom_simulator,

@@ -1,67 +1,67 @@
-autumn
-autumn leaves
-battle
-blue fire
-breathing fire
-burning
-burnt clothes
-campfire
-candle
-candlelight
-character:bulbasaur
-character:charizard
-character:charmander
-character:endeavor (boku no hero academia)
-character:fujiwara no mokou
-character:squirtle
-character:torchic
-cooking
-destruction
-dusk
-embers
-evening
-explosion
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming eye
-flaming sword
-flaming weapon
-frying pan
-glowing hair
-gradient sky
-holding leaf
-honey
-maple leaf
-molten rock
-mountainous horizon
-muzzle flash
-orange (fruit)
-orange background
-orange sky
-orange theme
-phoenix
-pokemon (creature)
-pyrokinesis
-rating:safe
-red sky
-red theme
-smoke
-solo
-sparks
-starter pokemon trio
-subreddit:imaginarydragons
-subreddit:immonsters
-sun
-sunset
-sweet potato
-sword of hisou
-tail-tip fire
-title:art by me
-torch
-twilight
-uploader:sifyro
-volcano
+autumn,
+autumn leaves,
+battle,
+blue fire,
+breathing fire,
+burning,
+burnt clothes,
+campfire,
+candle,
+candlelight,
+character:bulbasaur,
+character:charizard,
+character:charmander,
+character:endeavor (boku no hero academia),
+character:fujiwara no mokou,
+character:squirtle,
+character:torchic,
+cooking,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming eye,
+flaming sword,
+flaming weapon,
+frying pan,
+glowing hair,
+gradient sky,
+holding leaf,
+honey,
+maple leaf,
+molten rock,
+mountainous horizon,
+muzzle flash,
+orange (fruit),
+orange background,
+orange sky,
+orange theme,
+phoenix,
+pokemon (creature),
+pyrokinesis,
+rating:safe,
+red sky,
+red theme,
+smoke,
+solo,
+sparks,
+starter pokemon trio,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sun,
+sunset,
+sweet potato,
+sword of hisou,
+tail-tip fire,
+title:art by me,
+torch,
+twilight,
+uploader:sifyro,
+volcano,

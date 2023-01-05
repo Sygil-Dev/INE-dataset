@@ -1,46 +1,46 @@
-ambiguous gender
-ambiguous_gender
-artist:silverfox5213
-black body
-black fur
-black_body
-black_fur
-blue eyes
-blue_eyes
-bow
-bow (disambiguation)
-box
-christmas
-copyright:christmas
-creator:silverfox5213
-daww
-feral
-fur
-gender:ambiguous
-gift
-holidays
-medium:text
-meta:url
-orange body
-orange fur
-orange_body
-orange_fur
-pawpads
-rating:safe
-series:christmas
-solo
-species:canid
-species:canine
-species:fox
-species:mammal
-species:red fox
-species:red_fox
-subreddit:imaginaryaww
-subreddit:immeta
-text
-title:fox in a box by silverfox5213
-uploader:lol33ta
-white body
-white fur
-white_body
-white_fur
+ambiguous gender,
+ambiguous_gender,
+artist:silverfox5213,
+black body,
+black fur,
+black_body,
+black_fur,
+blue eyes,
+blue_eyes,
+bow,
+bow (disambiguation),
+box,
+christmas,
+copyright:christmas,
+creator:silverfox5213,
+daww,
+feral,
+fur,
+gender:ambiguous,
+gift,
+holidays,
+medium:text,
+meta:url,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+pawpads,
+rating:safe,
+series:christmas,
+solo,
+species:canid,
+species:canine,
+species:fox,
+species:mammal,
+species:red fox,
+species:red_fox,
+subreddit:imaginaryaww,
+subreddit:immeta,
+text,
+title:fox in a box by silverfox5213,
+uploader:lol33ta,
+white body,
+white fur,
+white_body,
+white_fur,

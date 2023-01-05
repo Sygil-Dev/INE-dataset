@@ -1,21 +1,21 @@
-betta fish
-booru:sankaku channel
-creator:wenqing yan
-creator:yuumei
-female
-fish
-headband
-in water
-medium:high resolution
-orange hair
-rating:safe
-seaweed
-series:original
-short hair
-solo
-subreddit:imaginaryseascapes
-subreddit:imlandscapes
-title:terrarium life - betta and tetra
-title:terrarium life - betta and tetra by yuumei
-uploader:untilapril
-water
+betta fish,
+booru:sankaku channel,
+creator:wenqing yan,
+creator:yuumei,
+female,
+fish,
+headband,
+in water,
+medium:high resolution,
+orange hair,
+rating:safe,
+seaweed,
+series:original,
+short hair,
+solo,
+subreddit:imaginaryseascapes,
+subreddit:imlandscapes,
+title:terrarium life - betta and tetra,
+title:terrarium life - betta and tetra by yuumei,
+uploader:untilapril,
+water,

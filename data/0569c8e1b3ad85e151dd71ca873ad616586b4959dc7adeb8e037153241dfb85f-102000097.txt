@@ -1,23 +1,23 @@
-beard
-black hair
-facial hair
-hat
-long sleeves
-marker (medium)
-multiple boys
-multiple girls
-mustache
-painting (medium)
-pants
-photo (medium)
-rating:safe
-shirt
-shoes
-short hair
-sitting
-smile
-subreddit:imaginaryscholars
-title:geometry class illustration by don ivan punchatz
-traditional media
-uploader:yannirotten
-watercolor (medium)
+beard,
+black hair,
+facial hair,
+hat,
+long sleeves,
+marker (medium),
+multiple boys,
+multiple girls,
+mustache,
+painting (medium),
+pants,
+photo (medium),
+rating:safe,
+shirt,
+shoes,
+short hair,
+sitting,
+smile,
+subreddit:imaginaryscholars,
+title:geometry class illustration by don ivan punchatz,
+traditional media,
+uploader:yannirotten,
+watercolor (medium),

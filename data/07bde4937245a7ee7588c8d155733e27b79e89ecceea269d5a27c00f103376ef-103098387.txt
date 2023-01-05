@@ -1,25 +1,25 @@
-1girl
-armor
-arrow (projectile)
-bow (weapon)
-character:link
-full body
-gloves
-gradient
-gradient background
-green eyes
-grey background
-pointy ears
-quiver
-rating:safe
-red hair
-signature
-smile
-solo
-subreddit:characterart
-subreddit:reasonablefantasy
-title:beryl, halfling adventurer by tooth wu
-title:beryl,a halfling adventurer by tooth wu
-uploader:disappointingreality
-uploader:lol33ta
-weapon
+1girl,
+armor,
+arrow (projectile),
+bow (weapon),
+character:link,
+full body,
+gloves,
+gradient,
+gradient background,
+green eyes,
+grey background,
+pointy ears,
+quiver,
+rating:safe,
+red hair,
+signature,
+smile,
+solo,
+subreddit:characterart,
+subreddit:reasonablefantasy,
+title:beryl, halfling adventurer by tooth wu,
+title:beryl,a halfling adventurer by tooth wu,
+uploader:disappointingreality,
+uploader:lol33ta,
+weapon,

@@ -1,23 +1,23 @@
-1boy
-armor
-beard
-blue sky
-building
-cloud
-cloudy sky
-day
-facial hair
-horse
-house
-male focus
-mountain
-mustache
-outdoors
-rating:safe
-sky
-solo
-subreddit:imaginaryknights
-title:the knight errant by akitku
-traditional media
-uploader:lol33ta
-weapon
+1boy,
+armor,
+beard,
+blue sky,
+building,
+cloud,
+cloudy sky,
+day,
+facial hair,
+horse,
+house,
+male focus,
+mountain,
+mustache,
+outdoors,
+rating:safe,
+sky,
+solo,
+subreddit:imaginaryknights,
+title:the knight errant by akitku,
+traditional media,
+uploader:lol33ta,
+weapon,

@@ -1,22 +1,22 @@
-avengers
-comic
-comic artist
-comic book
-comic book artist
-comics
-cover artist
-creator:david nakayama
-david nakayama
-dr strange
-marvel
-marvel comics
-medium:digital 2d
-scarlet witch
-strange academy
-subreddit:imaginarymarvel
-subreddit:imfandoms
-superhero
-superheroes
-title:scarlet witch | strange academy 6 by david nakayama
-uploader:lol33ta
-wandavision
+avengers,
+comic,
+comic artist,
+comic book,
+comic book artist,
+comics,
+cover artist,
+creator:david nakayama,
+david nakayama,
+dr strange,
+marvel,
+marvel comics,
+medium:digital 2d,
+scarlet witch,
+strange academy,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+superhero,
+superheroes,
+title:scarlet witch | strange academy 6 by david nakayama,
+uploader:lol33ta,
+wandavision,

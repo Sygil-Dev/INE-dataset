@@ -1,35 +1,35 @@
-autumn
-autumn leaves
-bush
-campfire
-cloud
-cloudy sky
-dusk
-evening
-fire
-flame
-forest
-gradient sky
-grass
-horizon
-landscape
-mountain
-mountainous horizon
-nature
-no humans
-orange sky
-outdoors
-rating:safe
-red sky
-river
-scenery
-sky
-subreddit:imaginarylakes
-sun
-sunrise
-sunset
-title:myth in the lake by emy sheene
-tree
-twilight
-uploader:chalkchick0
-volcano
+autumn,
+autumn leaves,
+bush,
+campfire,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+flame,
+forest,
+gradient sky,
+grass,
+horizon,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+river,
+scenery,
+sky,
+subreddit:imaginarylakes,
+sun,
+sunrise,
+sunset,
+title:myth in the lake by emy sheene,
+tree,
+twilight,
+uploader:chalkchick0,
+volcano,

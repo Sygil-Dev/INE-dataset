@@ -1,24 +1,24 @@
-activision
-bastien grivet
-black ops 3
-concept buildings
-creator:wardenlight studio
-digital 2d
-digitalart
-environment
-illustration
-jessica rossier
-map
-medium:concept art
-medium:digital 2d
-series:call of duty
-spaceships
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-thumbnail
-title:call of duty: black ops lll - zurich map #1
-title:future zurich in call of duty by wardenlight studio (bastien grivet and jessica rossier)
-treyarch
-uploader:xeelee1123
-wardenlight studio
-zurich
+activision,
+bastien grivet,
+black ops 3,
+concept buildings,
+creator:wardenlight studio,
+digital 2d,
+digitalart,
+environment,
+illustration,
+jessica rossier,
+map,
+medium:concept art,
+medium:digital 2d,
+series:call of duty,
+spaceships,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+thumbnail,
+title:call of duty: black ops lll - zurich map #1,
+title:future zurich in call of duty by wardenlight studio (bastien grivet and jessica rossier),
+treyarch,
+uploader:xeelee1123,
+wardenlight studio,
+zurich,

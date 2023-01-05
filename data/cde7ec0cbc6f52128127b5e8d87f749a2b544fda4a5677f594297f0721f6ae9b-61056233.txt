@@ -1,20 +1,20 @@
-site:reddit
-subreddit:animelegs
-subreddit:elfhentai
-subreddit:imaginaryboners
-subreddit:imaginaryelves
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-subreddit:imnsfw
-subreddit:imraces
-subreddit:thighdeology
-subreddit:warhammer_smut
-subreddit:westernhentai
-title:wardancer
-title:wardancer (frostypersimmons)
-title:wardancer [frostypersimmons]
-title:wood elf [frostypersimmons]
-title:wood elf by (frostypersimmons) [warhammer]
-title:wood elf by frostypersimmons warhammer
-title:wood elf tight top (frostypersimmons) [warhammer]
-uploader:captroll81
+site:reddit,
+subreddit:animelegs,
+subreddit:elfhentai,
+subreddit:imaginaryboners,
+subreddit:imaginaryelves,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+subreddit:imnsfw,
+subreddit:imraces,
+subreddit:thighdeology,
+subreddit:warhammer_smut,
+subreddit:westernhentai,
+title:wardancer,
+title:wardancer (frostypersimmons),
+title:wardancer [frostypersimmons],
+title:wood elf [frostypersimmons],
+title:wood elf by (frostypersimmons) [warhammer],
+title:wood elf by frostypersimmons warhammer,
+title:wood elf tight top (frostypersimmons) [warhammer],
+uploader:captroll81,

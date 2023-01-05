@@ -1,22 +1,22 @@
-aircraft
-airplane
-beach
-boat
-flag
-military
-military vehicle
-no humans
-ocean
-outdoors
-rating:safe
-sand
-ship
-signature
-subreddit:imaginarywarships
-title:spanish galley firing on the albatross (c. 1950s) by renaldo kuhler
-traditional media
-uploader:yannirotten
-warship
-water
-watercraft
-world war ii
+aircraft,
+airplane,
+beach,
+boat,
+flag,
+military,
+military vehicle,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+sand,
+ship,
+signature,
+subreddit:imaginarywarships,
+title:spanish galley firing on the albatross (c. 1950s) by renaldo kuhler,
+traditional media,
+uploader:yannirotten,
+warship,
+water,
+watercraft,
+world war ii,

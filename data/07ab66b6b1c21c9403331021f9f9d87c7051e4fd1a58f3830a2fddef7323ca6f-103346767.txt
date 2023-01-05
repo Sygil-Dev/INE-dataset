@@ -1,37 +1,37 @@
-building
-burning
-campfire
-city
-city lights
-cloud
-cloudy sky
-dusk
-embers
-evening
-fire
-flame
-gradient sky
-horizon
-light particles
-mountain
-mountainous horizon
-no humans
-orange sky
-outdoors
-purple sky
-rating:safe
-red sky
-scenery
-sky
-star (sky)
-starry sky
-subreddit:imaginarywildlands
-subreddit:imaginaryworlds
-sun
-sunrise
-sunset
-title:sunset by cycle circle
-tree
-twilight
-uploader:lol33ta
-water
+building,
+burning,
+campfire,
+city,
+city lights,
+cloud,
+cloudy sky,
+dusk,
+embers,
+evening,
+fire,
+flame,
+gradient sky,
+horizon,
+light particles,
+mountain,
+mountainous horizon,
+no humans,
+orange sky,
+outdoors,
+purple sky,
+rating:safe,
+red sky,
+scenery,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginarywildlands,
+subreddit:imaginaryworlds,
+sun,
+sunrise,
+sunset,
+title:sunset by cycle circle,
+tree,
+twilight,
+uploader:lol33ta,
+water,

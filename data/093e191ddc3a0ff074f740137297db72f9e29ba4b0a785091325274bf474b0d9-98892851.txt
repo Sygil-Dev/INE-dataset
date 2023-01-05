@@ -1,22 +1,22 @@
-1boy
-apron
-bow (weapon)
-brick wall
-brown hair
-green eyes
-holding
-indoors
-jewelry
-looking at viewer
-male focus
-necklace
-rating:safe
-shirt
-sleeves rolled up
-solo
-standing
-subreddit:imaginarynobles
-title:fëanor by @cherro_art
-uploader:firstandlasttoday
-weapon
-white shirt
+1boy,
+apron,
+bow (weapon),
+brick wall,
+brown hair,
+green eyes,
+holding,
+indoors,
+jewelry,
+looking at viewer,
+male focus,
+necklace,
+rating:safe,
+shirt,
+sleeves rolled up,
+solo,
+standing,
+subreddit:imaginarynobles,
+title:fëanor by @cherro_art,
+uploader:firstandlasttoday,
+weapon,
+white shirt,

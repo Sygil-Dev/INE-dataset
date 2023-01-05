@@ -1,29 +1,29 @@
-bird
-city
-cloud
-creator:dusanmarkovic
-crescent moon
-crow
-dated
-full moon
-helicopter
-kaijuu
-lightning
-monster
-moon
-moonlight
-night
-night sky
-no humans
-open mouth
-rating:safe
-realistic
-red eyes
-red moon
-red sky
-sky
-subreddit:imaginarywerewolves
-sun
-title:the new world order
-title:the new world order by dusan markovic
-uploader:killerbunnyfamily
+bird,
+city,
+cloud,
+creator:dusanmarkovic,
+crescent moon,
+crow,
+dated,
+full moon,
+helicopter,
+kaijuu,
+lightning,
+monster,
+moon,
+moonlight,
+night,
+night sky,
+no humans,
+open mouth,
+rating:safe,
+realistic,
+red eyes,
+red moon,
+red sky,
+sky,
+subreddit:imaginarywerewolves,
+sun,
+title:the new world order,
+title:the new world order by dusan markovic,
+uploader:killerbunnyfamily,

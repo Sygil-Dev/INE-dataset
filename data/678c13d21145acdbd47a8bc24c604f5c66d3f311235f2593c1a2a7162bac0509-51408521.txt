@@ -1,73 +1,73 @@
-1 female
-1girl
-2d
-anime
-anime girls
-arm support
-artwork
-bandage
-bandaged arm
-bandaged feet
-bandaged hands
-bandaged leg
-bandages
-bangs
-barcode tattoo
-bare shoulders
-blue eyes
-blurry
-blurry foreground
-booru:danbooru
-closed mouth
-clothing:panties
-clothing:underwear
-computer
-creator:1105465598
-creator:miv4t
-creator:mivit
-depth of field
-eyebrows
-eyebrows visible through hair
-feathered wings
-feathers
-full body
-gender:female
-grey panties
-hair between eyes
-headgear
-indoors
-knees up
-laptop
-long hair
-looking at viewer
-low wings
-medium:digital media
-medium:high resolution
-meta:commentary
-meta:english commentary
-meta:highres
-meta:original character
-miv4t
-object hug
-off shoulder
-page:1
-panties
-pink hair
-portrait
-rating:explicit
-rating:safe
-series:original
-sf
-sitting
-solo
-stuffed animal
-stuffed bunny
-stuffed toy
-subreddit:imaginarycybernetics
-tattoo
-teddy bear
-title:machinery
-title:machinery by m4 miv4t
-white wings
-wings
-アンドロイド
+1 female,
+1girl,
+2d,
+anime,
+anime girls,
+arm support,
+artwork,
+bandage,
+bandaged arm,
+bandaged feet,
+bandaged hands,
+bandaged leg,
+bandages,
+bangs,
+barcode tattoo,
+bare shoulders,
+blue eyes,
+blurry,
+blurry foreground,
+booru:danbooru,
+closed mouth,
+clothing:panties,
+clothing:underwear,
+computer,
+creator:1105465598,
+creator:miv4t,
+creator:mivit,
+depth of field,
+eyebrows,
+eyebrows visible through hair,
+feathered wings,
+feathers,
+full body,
+gender:female,
+grey panties,
+hair between eyes,
+headgear,
+indoors,
+knees up,
+laptop,
+long hair,
+looking at viewer,
+low wings,
+medium:digital media,
+medium:high resolution,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:original character,
+miv4t,
+object hug,
+off shoulder,
+page:1,
+panties,
+pink hair,
+portrait,
+rating:explicit,
+rating:safe,
+series:original,
+sf,
+sitting,
+solo,
+stuffed animal,
+stuffed bunny,
+stuffed toy,
+subreddit:imaginarycybernetics,
+tattoo,
+teddy bear,
+title:machinery,
+title:machinery by m4 miv4t,
+white wings,
+wings,
+アンドロイド,

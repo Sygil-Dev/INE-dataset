@@ -1,35 +1,35 @@
-1girl
-bangs
-bare arms
-bare shoulders
-blonde hair
-blue flower
-brick wall
-character:princess zelda
-creator:zieru
-dress
-flower
-full body
-grass
-green eyes
-hugging own legs
-long dress
-long hair
-looking at viewer
-meta:highres
-outdoors
-parted bangs
-parted lips
-pillar
-pointy ears
-rating:general
-red flower
-series:nintendo
-series:the legend of zelda
-series:the legend of zelda: breath of the wild
-sitting
-solo
-subreddit:imaginaryelves
-title:princess zelda by zieru
-uploader:musaibwadkar
-white dress
+1girl,
+bangs,
+bare arms,
+bare shoulders,
+blonde hair,
+blue flower,
+brick wall,
+character:princess zelda,
+creator:zieru,
+dress,
+flower,
+full body,
+grass,
+green eyes,
+hugging own legs,
+long dress,
+long hair,
+looking at viewer,
+meta:highres,
+outdoors,
+parted bangs,
+parted lips,
+pillar,
+pointy ears,
+rating:general,
+red flower,
+series:nintendo,
+series:the legend of zelda,
+series:the legend of zelda: breath of the wild,
+sitting,
+solo,
+subreddit:imaginaryelves,
+title:princess zelda by zieru,
+uploader:musaibwadkar,
+white dress,

@@ -1,26 +1,26 @@
-1girl
-armor
-axe
-blood
-character:albedo (overlord)
-creator:franlol
-demon girl
-halberd
-holding
-holding axe
-holding polearm
-holding weapon
-low wings
-meta:absurdres
-meta:highres
-polearm
-rating:general
-series:overlord (maruyama)
-solo
-subreddit:imaginaryarmor
-subreddit:imtechnology
-title:dark warrior, albedo (by @franlu07)
-uploader:luminiferous_xv
-weapon
-white background
-wings
+1girl,
+armor,
+axe,
+blood,
+character:albedo (overlord),
+creator:franlol,
+demon girl,
+halberd,
+holding,
+holding axe,
+holding polearm,
+holding weapon,
+low wings,
+meta:absurdres,
+meta:highres,
+polearm,
+rating:general,
+series:overlord (maruyama),
+solo,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+title:dark warrior, albedo (by @franlu07),
+uploader:luminiferous_xv,
+weapon,
+white background,
+wings,

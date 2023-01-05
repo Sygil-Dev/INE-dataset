@@ -1,27 +1,27 @@
-3dart
-anatomy
-armor
-art
-character
-cloth
-creator:massimiliano bianchini
-face
-geralt
-geraltofrivia
-leather
-medium:digital 3d
-metal
-netflix
-realistic
-sculpt
-sculpture
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-substance
-texture
-thewicther
-title:geralt of rivia | butcher of blaviken
-title:geralt of rivia | butcher of blaviken, massimiliano bianchini
-uploader:a_good_hunter
-witcher
+3dart,
+anatomy,
+armor,
+art,
+character,
+cloth,
+creator:massimiliano bianchini,
+face,
+geralt,
+geraltofrivia,
+leather,
+medium:digital 3d,
+metal,
+netflix,
+realistic,
+sculpt,
+sculpture,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+substance,
+texture,
+thewicther,
+title:geralt of rivia | butcher of blaviken,
+title:geralt of rivia | butcher of blaviken, massimiliano bianchini,
+uploader:a_good_hunter,
+witcher,

@@ -1,89 +1,89 @@
-4 fingers
-4 toes
-4_fingers
-4_toes
-ambiguous gender
-ambiguous_gender
-annoyed
-artist:silverfox5213
-banana
-blue eyes
-blue_eyes
-brown body
-brown fur
-brown_body
-brown_fur
-claws
-clothing:gloves
-clothing:socks
-creator:silverfox5213
-daww
-dipstick tail
-dipstick_tail
-duct
-feet
-feral
-finger claws
-finger_claws
-fingers
-fox
-fruit
-fur
-gender:ambiguous
-gloves
-gloves (marking)
-gloves_(marking)
-grey background
-grey_background
-head tuft
-head_tuft
-inner ear fluff
-inner_ear_fluff
-leg markings
-leg_markings
-lying
-markings
-medium:grey background
-medium:simple background
-medium:text
-meta:url
-multicolored tail
-multicolored_tail
-on back
-on_back
-rating:safe
-red body
-red fur
-red_body
-red_fur
-simple background
-simple_background
-socks (marking)
-socks_(marking)
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:fox
-species:mammal
-species:red fox
-species:red_fox
-subreddit:imaginaryaww
-subreddit:immeta
-tail
-tape
-text
-title:banana fox (ych inside)
-title:banana fox by silverfox5213
-toes
-tuft
-uploader:lol33ta
-whiskers
-white body
-white claws
-white fur
-white_body
-white_claws
-white_fur
-ych
-year:2019
+4 fingers,
+4 toes,
+4_fingers,
+4_toes,
+ambiguous gender,
+ambiguous_gender,
+annoyed,
+artist:silverfox5213,
+banana,
+blue eyes,
+blue_eyes,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+claws,
+clothing:gloves,
+clothing:socks,
+creator:silverfox5213,
+daww,
+dipstick tail,
+dipstick_tail,
+duct,
+feet,
+feral,
+finger claws,
+finger_claws,
+fingers,
+fox,
+fruit,
+fur,
+gender:ambiguous,
+gloves,
+gloves (marking),
+gloves_(marking),
+grey background,
+grey_background,
+head tuft,
+head_tuft,
+inner ear fluff,
+inner_ear_fluff,
+leg markings,
+leg_markings,
+lying,
+markings,
+medium:grey background,
+medium:simple background,
+medium:text,
+meta:url,
+multicolored tail,
+multicolored_tail,
+on back,
+on_back,
+rating:safe,
+red body,
+red fur,
+red_body,
+red_fur,
+simple background,
+simple_background,
+socks (marking),
+socks_(marking),
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:fox,
+species:mammal,
+species:red fox,
+species:red_fox,
+subreddit:imaginaryaww,
+subreddit:immeta,
+tail,
+tape,
+text,
+title:banana fox (ych inside),
+title:banana fox by silverfox5213,
+toes,
+tuft,
+uploader:lol33ta,
+whiskers,
+white body,
+white claws,
+white fur,
+white_body,
+white_claws,
+white_fur,
+ych,
+year:2019,

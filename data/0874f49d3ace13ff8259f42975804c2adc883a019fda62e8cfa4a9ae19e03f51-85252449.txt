@@ -1,28 +1,28 @@
-1girl
-1other
-arrow (projectile)
-artstation
-bare tree
-branch
-capelet
-forest
-hat
-holding
-holding sword
-holding weapon
-nature
-outdoors
-rating:safe
-snow
-snowing
-standing
-subreddit:imaginarybattlefields
-subreddit:imaginarygiants
-sword
-title:starza by jakub rozalski
-title:starza, by jakub rozalski
-tree
-uploader:sylvyrfyre
-uploader:yamamba78
-weapon
-winter
+1girl,
+1other,
+arrow (projectile),
+artstation,
+bare tree,
+branch,
+capelet,
+forest,
+hat,
+holding,
+holding sword,
+holding weapon,
+nature,
+outdoors,
+rating:safe,
+snow,
+snowing,
+standing,
+subreddit:imaginarybattlefields,
+subreddit:imaginarygiants,
+sword,
+title:starza by jakub rozalski,
+title:starza, by jakub rozalski,
+tree,
+uploader:sylvyrfyre,
+uploader:yamamba78,
+weapon,
+winter,

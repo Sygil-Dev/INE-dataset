@@ -1,19 +1,19 @@
-archer
-burning
-creator:sanjin halimic
-medium:digital 2d
-nathanos
-sanjin halimic
-subreddit:imaginaryarchers
-subreddit:imaginaryazeroth
-subreddit:imcharacters
-subreddit:imfandoms
-sylvanas
-tauren
-teldrassil
-title:burning of teldrassil
-title:burning of teldrassil by sanjin halimic
-uploader:blood-n-cheese
-warcraft
-windrunner
-wow
+archer,
+burning,
+creator:sanjin halimic,
+medium:digital 2d,
+nathanos,
+sanjin halimic,
+subreddit:imaginaryarchers,
+subreddit:imaginaryazeroth,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sylvanas,
+tauren,
+teldrassil,
+title:burning of teldrassil,
+title:burning of teldrassil by sanjin halimic,
+uploader:blood-n-cheese,
+warcraft,
+windrunner,
+wow,

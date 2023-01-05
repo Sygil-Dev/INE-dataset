@@ -1,21 +1,21 @@
-antre
-creator:marion bouzir
-creature
-dragon
-fantastique
-fantasy
-fire
-grotte
-harry potter
-horn
-light
-medium:digital 2d
-monster
-mountain
-rain
-snow
-subreddit:imaginarydragons
-subreddit:immonsters
-sun
-title:pansedefer ukrainien
-title:pansedefer ukrainien by marion bouzir
+antre,
+creator:marion bouzir,
+creature,
+dragon,
+fantastique,
+fantasy,
+fire,
+grotte,
+harry potter,
+horn,
+light,
+medium:digital 2d,
+monster,
+mountain,
+rain,
+snow,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sun,
+title:pansedefer ukrainien,
+title:pansedefer ukrainien by marion bouzir,

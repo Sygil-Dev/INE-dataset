@@ -1,21 +1,21 @@
-1girl
-armor
-black hair
-blood
-blue eyes
-food
-fruit
-holding food
-holding fruit
-lips
-long hair
-nail polish
-rating:safe
-red nails
-solo
-subreddit:imaginaryfood
-subreddit:imaginaryruneterra
-subreddit:immeta
-title:irelia by qi mang
-uploader:dragunmancer
-watermelon
+1girl,
+armor,
+black hair,
+blood,
+blue eyes,
+food,
+fruit,
+holding food,
+holding fruit,
+lips,
+long hair,
+nail polish,
+rating:safe,
+red nails,
+solo,
+subreddit:imaginaryfood,
+subreddit:imaginaryruneterra,
+subreddit:immeta,
+title:irelia by qi mang,
+uploader:dragunmancer,
+watermelon,

@@ -1,24 +1,24 @@
-1boy
-armor
-artist name
-beard
-boots
-facial hair
-full body
-fur trim
-gradient
-gradient background
-grey background
-male focus
-old
-old man
-rating:safe
-realistic
-solo
-standing
-subreddit:imaginaryvikings
-subreddit:imaginarywarriors
-subreddit:imcharacters
-title:warrior by max hugo
-uploader:myrandall
-uploader:pearlydrops
+1boy,
+armor,
+artist name,
+beard,
+boots,
+facial hair,
+full body,
+fur trim,
+gradient,
+gradient background,
+grey background,
+male focus,
+old,
+old man,
+rating:safe,
+realistic,
+solo,
+standing,
+subreddit:imaginaryvikings,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+title:warrior by max hugo,
+uploader:myrandall,
+uploader:pearlydrops,

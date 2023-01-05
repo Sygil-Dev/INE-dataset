@@ -1,22 +1,22 @@
-1girl
-armor
-black border
-black eyes
-black hair
-boots
-cape
-character:son goku
-character:vegeta
-letterboxed
-male focus
-multiple boys
-open mouth
-pillarboxed
-rating:safe
-saiyan armor
-short hair
-smile
-subreddit:imaginarywarhammer
-title:negotiations (by ani pixiv)
-uploader:necessary_ad6622
-wristband
+1girl,
+armor,
+black border,
+black eyes,
+black hair,
+boots,
+cape,
+character:son goku,
+character:vegeta,
+letterboxed,
+male focus,
+multiple boys,
+open mouth,
+pillarboxed,
+rating:safe,
+saiyan armor,
+short hair,
+smile,
+subreddit:imaginarywarhammer,
+title:negotiations (by ani pixiv),
+uploader:necessary_ad6622,
+wristband,

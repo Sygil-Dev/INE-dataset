@@ -1,21 +1,21 @@
-anime
-artworkdigital
-creator:timkongart
-danddcharacter
-digital
-dndcharacter
-dndcommission
-dungeonsanddragons
-elffemale
-elfgirl
-fantasycreature
-forest
-forestfantasy
-high
-kong
-subreddit:imaginarycharacters
-tim
-title:xhan's resurrection by tim kong
-title:xhan's resurrection commission
-uploader:thenightislost
-wolf
+anime,
+artworkdigital,
+creator:timkongart,
+danddcharacter,
+digital,
+dndcharacter,
+dndcommission,
+dungeonsanddragons,
+elffemale,
+elfgirl,
+fantasycreature,
+forest,
+forestfantasy,
+high,
+kong,
+subreddit:imaginarycharacters,
+tim,
+title:xhan's resurrection by tim kong,
+title:xhan's resurrection commission,
+uploader:thenightislost,
+wolf,

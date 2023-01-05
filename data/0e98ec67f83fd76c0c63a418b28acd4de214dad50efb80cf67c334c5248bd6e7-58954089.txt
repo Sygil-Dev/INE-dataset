@@ -1,20 +1,20 @@
-armor
-beach
-blurry
-blurry background
-blurry foreground
-depth of field
-gun
-mecha
-outdoors
-photo background
-rating:safe
-realistic
-sand
-science fiction
-subreddit:imaginaryfallout
-subreddit:imfandoms
-sword
-title:my fallout 3 outcast power armor cosplay. all made from eva foam!
-uploader:heathbar4
-weapon
+armor,
+beach,
+blurry,
+blurry background,
+blurry foreground,
+depth of field,
+gun,
+mecha,
+outdoors,
+photo background,
+rating:safe,
+realistic,
+sand,
+science fiction,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+sword,
+title:my fallout 3 outcast power armor cosplay. all made from eva foam!,
+uploader:heathbar4,
+weapon,

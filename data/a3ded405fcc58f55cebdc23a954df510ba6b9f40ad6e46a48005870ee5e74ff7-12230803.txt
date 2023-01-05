@@ -1,60 +1,60 @@
-2013
-ambiguous gender
-androgynous
-anthro
-anthropomorphism
-armor
-avian
-beak
-belt
-bird
-blue eyes
-booru:e621
-breastplate
-brown body
-brown feathers
-chibi
-claws
-clothing
-clothing:armor
-cloud
-creator:silverfox5213
-cute
-feathers
-gender:ambiguous
-knight
-lance (weapon)
-medium:2013
-medium:english
-medium:english text
-medium:text
-melee weapon
-meta:2013
-meta:english text
-outdoors
-outside
-penguin
-plate armor
-polearm
-rating:questionable
-rating:safe
-scarf
-shield
-sky
-source:furaffinity.net
-species:avian
-species:bird
-species:penguin
-standing
-subreddit:imaginaryaww
-subreddit:immeta
-sword
-text
-title:penguin warrior (normal)
-title:penguin warrior (normal) by silverfox5213
-uploader:lol33ta
-warrior
-weapon
-white body
-white feathers
-year:2013
+2013,
+ambiguous gender,
+androgynous,
+anthro,
+anthropomorphism,
+armor,
+avian,
+beak,
+belt,
+bird,
+blue eyes,
+booru:e621,
+breastplate,
+brown body,
+brown feathers,
+chibi,
+claws,
+clothing,
+clothing:armor,
+cloud,
+creator:silverfox5213,
+cute,
+feathers,
+gender:ambiguous,
+knight,
+lance (weapon),
+medium:2013,
+medium:english,
+medium:english text,
+medium:text,
+melee weapon,
+meta:2013,
+meta:english text,
+outdoors,
+outside,
+penguin,
+plate armor,
+polearm,
+rating:questionable,
+rating:safe,
+scarf,
+shield,
+sky,
+source:furaffinity.net,
+species:avian,
+species:bird,
+species:penguin,
+standing,
+subreddit:imaginaryaww,
+subreddit:immeta,
+sword,
+text,
+title:penguin warrior (normal),
+title:penguin warrior (normal) by silverfox5213,
+uploader:lol33ta,
+warrior,
+weapon,
+white body,
+white feathers,
+year:2013,

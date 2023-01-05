@@ -1,24 +1,24 @@
-1girl
-2boys
-armor
-beard
-black hair
-book
-earrings
-english text
-facial hair
-lipstick
-long hair
-makeup
-male focus
-multiple boys
-pink eyes
-purple eyes
-rating:safe
-speech bubble
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-talking
-title:the phoenician in the dark by natalia kikicheva
-uploader:hellibor
-white hair
+1girl,
+2boys,
+armor,
+beard,
+black hair,
+book,
+earrings,
+english text,
+facial hair,
+lipstick,
+long hair,
+makeup,
+male focus,
+multiple boys,
+pink eyes,
+purple eyes,
+rating:safe,
+speech bubble,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+talking,
+title:the phoenician in the dark by natalia kikicheva,
+uploader:hellibor,
+white hair,

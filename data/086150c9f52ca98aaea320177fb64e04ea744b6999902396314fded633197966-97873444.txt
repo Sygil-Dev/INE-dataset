@@ -1,55 +1,55 @@
-1girl
-back tattoo
-black flower
-black rose
-blood
-blue flower
-blue rose
-bouquet
-bridal veil
-camellia
-character:ib (ib)
-cross
-flower
-flower ornament
-green flower
-holding bouquet
-holding flower
-jewelry
-leaf
-long hair
-orange flower
-petals
-pink flower
-pink rose
-plant
-pubic tattoo
-purple flower
-purple rose
-rating:safe
-red flower
-red rose
-rose
-rose petals
-rose print
-solo
-spider lily
-spoken squiggle
-subreddit:imaginarymerfolk
-subreddit:imraces
-tattoo
-thorns
-title:emotional burnout, digital painting, artist collaboration alexandra saula &amp; brik arty
-tombstone
-tree
-tulip
-uploader:alexandra_saula
-vase
-veil
-very long hair
-vines
-wedding dress
-white flower
-white rose
-yellow flower
-yellow rose
+1girl,
+back tattoo,
+black flower,
+black rose,
+blood,
+blue flower,
+blue rose,
+bouquet,
+bridal veil,
+camellia,
+character:ib (ib),
+cross,
+flower,
+flower ornament,
+green flower,
+holding bouquet,
+holding flower,
+jewelry,
+leaf,
+long hair,
+orange flower,
+petals,
+pink flower,
+pink rose,
+plant,
+pubic tattoo,
+purple flower,
+purple rose,
+rating:safe,
+red flower,
+red rose,
+rose,
+rose petals,
+rose print,
+solo,
+spider lily,
+spoken squiggle,
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+tattoo,
+thorns,
+title:emotional burnout, digital painting, artist collaboration alexandra saula &amp; brik arty,
+tombstone,
+tree,
+tulip,
+uploader:alexandra_saula,
+vase,
+veil,
+very long hair,
+vines,
+wedding dress,
+white flower,
+white rose,
+yellow flower,
+yellow rose,

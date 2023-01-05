@@ -1,22 +1,22 @@
-creator:serafleur
-crystal
-digital art
-digital painting
-disney
-disney princess
-fan art
-fanart
-gem
-glitter
-gold
-holographic
-medium:digital 2d
-portrait
-rapunzel
-semi realism
-semi realistic
-subreddit:imaginarynobles
-tangled
-title:rapunzel
-title:rapunzel, by serafleur
-uploader:sylvyrfyre
+creator:serafleur,
+crystal,
+digital art,
+digital painting,
+disney,
+disney princess,
+fan art,
+fanart,
+gem,
+glitter,
+gold,
+holographic,
+medium:digital 2d,
+portrait,
+rapunzel,
+semi realism,
+semi realistic,
+subreddit:imaginarynobles,
+tangled,
+title:rapunzel,
+title:rapunzel, by serafleur,
+uploader:sylvyrfyre,

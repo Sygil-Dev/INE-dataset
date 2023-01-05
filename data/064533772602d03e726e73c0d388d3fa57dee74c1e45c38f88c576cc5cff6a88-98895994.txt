@@ -1,23 +1,23 @@
-2girls
-bald
-beard
-black hair
-closed eyes
-dark skin
-dress
-facial hair
-hat
-long hair
-multiple boys
-multiple girls
-mustache
-old
-old man
-old woman
-open mouth
-rating:safe
-shirt
-skeleton
-subreddit:imaginarywtf
-title:"fast food fatality" (1979) by don ivan punchatz
-uploader:yannirotten
+2girls,
+bald,
+beard,
+black hair,
+closed eyes,
+dark skin,
+dress,
+facial hair,
+hat,
+long hair,
+multiple boys,
+multiple girls,
+mustache,
+old,
+old man,
+old woman,
+open mouth,
+rating:safe,
+shirt,
+skeleton,
+subreddit:imaginarywtf,
+title:"fast food fatality" (1979) by don ivan punchatz,
+uploader:yannirotten,

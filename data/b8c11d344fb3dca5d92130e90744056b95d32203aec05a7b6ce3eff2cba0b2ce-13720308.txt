@@ -1,84 +1,84 @@
-1 female
-1girl
-09_59083320_p0
-art:landscape
-background
-black footwear
-black pants
-black shoes
-booru:sankaku channel
-brown eyes
-brown hair
-building
-car
-clothing:footwear
-clothing:hair clip
-clothing:hair ornament
-clothing:legwear
-clothing:pants
-clothing:rolled up legwear
-clothing:shoes
-creator:shion (mirudakemann)
-creator:shionnn_k
-creator:しおん
-expressionless
-female
-fence
-firearm
-footwear
-from side
-gender:female
-grass
-ground vehicle
-gun
-hair ornament
-hairclip
-hairpin
-holding
-holding gun
-holding object
-holding weapon
-house
-in profile
-jewelry
-lamppost
-landscape
-looking back
-medium:16:9 aspect ratio
-medium:high resolution
-medium:sign
-meta:highres
-meta:original character
-monster
-motor vehicle
-outdoors
-outside
-pants
-pants rolled up
-pixiv work:59083320
-rating:safe
-rifle
-road
-road sign
-series:original
-shion (pixiv 14707888)
-shoes
-short hair
-sign
-sky
-standing
-street
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:everything is fine [original]
-title:胎児
-tree
-uploader:zewen_senpai
-vehicle
-weapon
-ポストアポカリプス
-標識
-武器娘
-猟銃
-終末
-道路
+1 female,
+1girl,
+09_59083320_p0,
+art:landscape,
+background,
+black footwear,
+black pants,
+black shoes,
+booru:sankaku channel,
+brown eyes,
+brown hair,
+building,
+car,
+clothing:footwear,
+clothing:hair clip,
+clothing:hair ornament,
+clothing:legwear,
+clothing:pants,
+clothing:rolled up legwear,
+clothing:shoes,
+creator:shion (mirudakemann),
+creator:shionnn_k,
+creator:しおん,
+expressionless,
+female,
+fence,
+firearm,
+footwear,
+from side,
+gender:female,
+grass,
+ground vehicle,
+gun,
+hair ornament,
+hairclip,
+hairpin,
+holding,
+holding gun,
+holding object,
+holding weapon,
+house,
+in profile,
+jewelry,
+lamppost,
+landscape,
+looking back,
+medium:16:9 aspect ratio,
+medium:high resolution,
+medium:sign,
+meta:highres,
+meta:original character,
+monster,
+motor vehicle,
+outdoors,
+outside,
+pants,
+pants rolled up,
+pixiv work:59083320,
+rating:safe,
+rifle,
+road,
+road sign,
+series:original,
+shion (pixiv 14707888),
+shoes,
+short hair,
+sign,
+sky,
+standing,
+street,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:everything is fine [original],
+title:胎児,
+tree,
+uploader:zewen_senpai,
+vehicle,
+weapon,
+ポストアポカリプス,
+標識,
+武器娘,
+猟銃,
+終末,
+道路,

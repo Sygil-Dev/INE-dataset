@@ -1,93 +1,93 @@
-4 toes
-4_toes
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-belly scales
-belly_scales
-black body
-black countershading
-black horn
-black scales
-black_body
-black_countershading
-black_horn
-black_scales
-blue eyes
-blue_eyes
-claws
-countershade face
-countershade tail
-countershade torso
-countershade_face
-countershade_tail
-countershade_torso
-countershading
-creator:cryptid-creations
-feet
-feral
-forest
-furry
-gender:ambiguous
-glowing
-glowing object
-glowing_object
-hoard
-holding object
-holding pencil
-holding_object
-holding_pencil
-horn
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:hi res
-meta:hi_res
-multicolored body
-multicolored scales
-multicolored_body
-multicolored_scales
-object in mouth
-object_in_mouth
-pencil (object)
-pencil_(object)
-plant
-pupils
-quadruped
-rating:safe
-red body
-red scales
-red_body
-red_scales
-reverse countershading
-reverse_countershading
-scales
-sitting
-slit pupils
-slit_pupils
-solo
-sparkles
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-spread wings
-spread_wings
-striped tail
-striped_tail
-stripes
-subreddit:adorabledragons
-teeth
-title:dragon draw by cryptid-creations
-toes
-tree
-two tone body
-two tone scales
-two_tone_body
-two_tone_scales
-uploader:lol33ta
-white claws
-white_claws
-wings
+4 toes,
+4_toes,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+belly scales,
+belly_scales,
+black body,
+black countershading,
+black horn,
+black scales,
+black_body,
+black_countershading,
+black_horn,
+black_scales,
+blue eyes,
+blue_eyes,
+claws,
+countershade face,
+countershade tail,
+countershade torso,
+countershade_face,
+countershade_tail,
+countershade_torso,
+countershading,
+creator:cryptid-creations,
+feet,
+feral,
+forest,
+furry,
+gender:ambiguous,
+glowing,
+glowing object,
+glowing_object,
+hoard,
+holding object,
+holding pencil,
+holding_object,
+holding_pencil,
+horn,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:hi res,
+meta:hi_res,
+multicolored body,
+multicolored scales,
+multicolored_body,
+multicolored_scales,
+object in mouth,
+object_in_mouth,
+pencil (object),
+pencil_(object),
+plant,
+pupils,
+quadruped,
+rating:safe,
+red body,
+red scales,
+red_body,
+red_scales,
+reverse countershading,
+reverse_countershading,
+scales,
+sitting,
+slit pupils,
+slit_pupils,
+solo,
+sparkles,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+spread wings,
+spread_wings,
+striped tail,
+striped_tail,
+stripes,
+subreddit:adorabledragons,
+teeth,
+title:dragon draw by cryptid-creations,
+toes,
+tree,
+two tone body,
+two tone scales,
+two_tone_body,
+two_tone_scales,
+uploader:lol33ta,
+white claws,
+white_claws,
+wings,

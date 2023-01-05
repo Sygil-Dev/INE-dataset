@@ -1,25 +1,25 @@
-armor
-artist name
-barbarian shaman
-beard
-character design
-concept art
-creator:russell dongjun lu
-digital painting
-facial hair
-full body
-holding
-male focus
-medium:digital 2d
-old
-old man
-rating:safe
-russell dongjun
-skull
-solo
-standing
-subreddit:imaginarynatives
-title:"barbarian shaman" by russell dongjun lu
-title:barbarian shaman
-uploader:pyro_azer
-weapon
+armor,
+artist name,
+barbarian shaman,
+beard,
+character design,
+concept art,
+creator:russell dongjun lu,
+digital painting,
+facial hair,
+full body,
+holding,
+male focus,
+medium:digital 2d,
+old,
+old man,
+rating:safe,
+russell dongjun,
+skull,
+solo,
+standing,
+subreddit:imaginarynatives,
+title:"barbarian shaman" by russell dongjun lu,
+title:barbarian shaman,
+uploader:pyro_azer,
+weapon,

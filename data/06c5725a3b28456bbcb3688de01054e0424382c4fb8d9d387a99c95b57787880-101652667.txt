@@ -1,33 +1,33 @@
-1boy
-1girl
-armor
-belt
-black hair
-book
-book hug
-brown gloves
-brown hair
-closed eyes
-crossed arms
-elf
-gloves
-gradient
-gradient background
-holding
-holding book
-holding paper
-long hair
-open book
-open mouth
-paper
-pauldrons
-pen
-pointy ears
-quill
-rating:safe
-reading
-shoulder armor
-smile
-subreddit:imaginaryfeels
-title:not a matter of size... by oceanlord
-uploader:lol33ta
+1boy,
+1girl,
+armor,
+belt,
+black hair,
+book,
+book hug,
+brown gloves,
+brown hair,
+closed eyes,
+crossed arms,
+elf,
+gloves,
+gradient,
+gradient background,
+holding,
+holding book,
+holding paper,
+long hair,
+open book,
+open mouth,
+paper,
+pauldrons,
+pen,
+pointy ears,
+quill,
+rating:safe,
+reading,
+shoulder armor,
+smile,
+subreddit:imaginaryfeels,
+title:not a matter of size... by oceanlord,
+uploader:lol33ta,

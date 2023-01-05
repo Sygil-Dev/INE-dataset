@@ -1,23 +1,23 @@
-animal
-blurry
-blurry background
-brown hair
-cat
-closed eyes
-depth of field
-dog
-earmuffs
-from side
-headphones
-headset
-ponytail
-profile
-rating:safe
-red scarf
-scarf
-short hair
-subreddit:imaginarypets
-subreddit:immeta
-title:she finished studying, by minnie zhou (@minweee)
-uploader:leavebritneyalone22
-upper body
+animal,
+blurry,
+blurry background,
+brown hair,
+cat,
+closed eyes,
+depth of field,
+dog,
+earmuffs,
+from side,
+headphones,
+headset,
+ponytail,
+profile,
+rating:safe,
+red scarf,
+scarf,
+short hair,
+subreddit:imaginarypets,
+subreddit:immeta,
+title:she finished studying, by minnie zhou (@minweee),
+uploader:leavebritneyalone22,
+upper body,

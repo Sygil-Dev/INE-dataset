@@ -1,64 +1,64 @@
-1girl
-artist name
-bandage
-bandaged leg
-bandages
-bangs pinned back
-bare arms
-black dress
-black footwear
-booru:sankaku channel
-character:fio (nier)
-character:mama (nier)
-character:white girl
-closed mouth
-collar
-copyright name
-creator:rounin (amuza)
-creature
-crossed ankles
-cuffs
-dress
-english commentary
-english text
-female
-floating
-highres
-mama (nier)
-medium hair
-medium:artist name
-medium:copyright name
-medium:english
-medium:english text
-medium:high resolution
-medium:signature
-medium:text
-meta:commentary
-meta:english commentary
-meta:highres
-nier reincarnation
-outdoors
-pillar
-rating:general
-rating:safe
-restraints
-ruins
-scenery
-series:nier (series)
-series:nier reincarnation
-shackles
-signature
-sitting
-sleeveless
-sleeveless dress
-stone
-subreddit:imaginaryarchitecture
-subreddit:imaginaryruins
-subreddit:imarchitecture
-title:re[in]carnation by lowine
-title:re[in]carnation by lownine
-uploader:blood-n-cheese
-uploader:mtlgrems
-white girl
-white hair
-wide shot
+1girl,
+artist name,
+bandage,
+bandaged leg,
+bandages,
+bangs pinned back,
+bare arms,
+black dress,
+black footwear,
+booru:sankaku channel,
+character:fio (nier),
+character:mama (nier),
+character:white girl,
+closed mouth,
+collar,
+copyright name,
+creator:rounin (amuza),
+creature,
+crossed ankles,
+cuffs,
+dress,
+english commentary,
+english text,
+female,
+floating,
+highres,
+mama (nier),
+medium hair,
+medium:artist name,
+medium:copyright name,
+medium:english,
+medium:english text,
+medium:high resolution,
+medium:signature,
+medium:text,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+nier reincarnation,
+outdoors,
+pillar,
+rating:general,
+rating:safe,
+restraints,
+ruins,
+scenery,
+series:nier (series),
+series:nier reincarnation,
+shackles,
+signature,
+sitting,
+sleeveless,
+sleeveless dress,
+stone,
+subreddit:imaginaryarchitecture,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+title:re[in]carnation by lowine,
+title:re[in]carnation by lownine,
+uploader:blood-n-cheese,
+uploader:mtlgrems,
+white girl,
+white hair,
+wide shot,

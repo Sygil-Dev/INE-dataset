@@ -1,26 +1,26 @@
-aqua
-ariellittlemermaid
-blue
-coral
-creator:superfeature
-fish
-girl
-lady
-madame
-mermaid
-mermaidfantasy
-mystery
-ocean
-orange
-sea
-sealife
-subreddit:imaginaryseascapes
-subreddit:imlandscapes
-title:madam in the water
-title:madam in the water by superfeature
-underthesea
-underwater
-uploader:superfeature
-water
-watercolorpainting
-watergoddess
+aqua,
+ariellittlemermaid,
+blue,
+coral,
+creator:superfeature,
+fish,
+girl,
+lady,
+madame,
+mermaid,
+mermaidfantasy,
+mystery,
+ocean,
+orange,
+sea,
+sealife,
+subreddit:imaginaryseascapes,
+subreddit:imlandscapes,
+title:madam in the water,
+title:madam in the water by superfeature,
+underthesea,
+underwater,
+uploader:superfeature,
+water,
+watercolorpainting,
+watergoddess,

@@ -1,54 +1,54 @@
-artist name
-blue fire
-book
-bookshelf
-candle
-cloak
-crystal
-crystal ball
-dated
-energy ball
-fantasy
-fire
-flame
-flask
-floating
-floating book
-floating object
-ghost
-glowing
-grimoire
-hitodama
-hologram
-hood
-hood up
-hooded cloak
-hooded robe
-indoors
-levitation
-library
-magic
-magic circle
-open book
-orb
-potion
-purple fire
-quill
-rating:safe
-reading
-robe
-round-bottom flask
-runes
-scroll
-signature
-skull
-spirit
-staff
-subreddit:imaginaryscholars
-subreddit:imaginarywizards
-subreddit:imcharacters
-title:arcane endeavor by justyna gil
-uploader:blood-n-cheese
-uploader:myrandall
-witch hat
-wizard
+artist name,
+blue fire,
+book,
+bookshelf,
+candle,
+cloak,
+crystal,
+crystal ball,
+dated,
+energy ball,
+fantasy,
+fire,
+flame,
+flask,
+floating,
+floating book,
+floating object,
+ghost,
+glowing,
+grimoire,
+hitodama,
+hologram,
+hood,
+hood up,
+hooded cloak,
+hooded robe,
+indoors,
+levitation,
+library,
+magic,
+magic circle,
+open book,
+orb,
+potion,
+purple fire,
+quill,
+rating:safe,
+reading,
+robe,
+round-bottom flask,
+runes,
+scroll,
+signature,
+skull,
+spirit,
+staff,
+subreddit:imaginaryscholars,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+title:arcane endeavor by justyna gil,
+uploader:blood-n-cheese,
+uploader:myrandall,
+witch hat,
+wizard,

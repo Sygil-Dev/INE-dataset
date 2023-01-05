@@ -1,41 +1,41 @@
-architecture
-bridge
-building
-castle
-chain-link fence
-city
-city lights
-cityscape
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-house
-lamppost
-mountain
-no humans
-orange sky
-outdoors
-post-apocalypse
-power lines
-rating:safe
-red sky
-river
-road
-ruins
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginaryvillages
-subreddit:imarchitecture
-sunset
-title:tides of the titan by artist marc simonetti
-tower
-tree
-twilight
-uploader:anon_ymou5
-utility pole
-water
+architecture,
+bridge,
+building,
+castle,
+chain-link fence,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+house,
+lamppost,
+mountain,
+no humans,
+orange sky,
+outdoors,
+post-apocalypse,
+power lines,
+rating:safe,
+red sky,
+river,
+road,
+ruins,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginaryvillages,
+subreddit:imarchitecture,
+sunset,
+title:tides of the titan by artist marc simonetti,
+tower,
+tree,
+twilight,
+uploader:anon_ymou5,
+utility pole,
+water,

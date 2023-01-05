@@ -1,24 +1,24 @@
-architecture
-black border
-bridge
-cloud
-facing away
-fantasy
-forest
-grass
-letterboxed
-nature
-outdoors
-rating:safe
-river
-scenery
-standing
-subreddit:imaginaryhellscapes
-subreddit:imaginaryrivers
-title:"chaos before gea" cover art by alejandro olmedo
-tower
-tree
-uploader:lol33ta
-uploader:valar_m0rghul1s
-water
-waterfall
+architecture,
+black border,
+bridge,
+cloud,
+facing away,
+fantasy,
+forest,
+grass,
+letterboxed,
+nature,
+outdoors,
+rating:safe,
+river,
+scenery,
+standing,
+subreddit:imaginaryhellscapes,
+subreddit:imaginaryrivers,
+title:"chaos before gea" cover art by alejandro olmedo,
+tower,
+tree,
+uploader:lol33ta,
+uploader:valar_m0rghul1s,
+water,
+waterfall,

@@ -1,106 +1,106 @@
-2019
-ambiguous gender
-ambiguous_gender
-artist:silverfox5213
-ball
-blue ball
-blue eyes
-blue_eyes
-blurred background
-blurred_background
-brown body
-brown fur
-brown_body
-brown_fur
-character:foxkeh
-claws
-clothing:gloves
-clothing:socks
-copyright:firefox
-creator:silverfox5213
-curtains
-curtains open
-curtains_open
-daww
-desk
-desktop
-detailed
-detailed fur
-detailed_fur
-dipstick tail
-dipstick_tail
-edited
-eye reflection
-eye_reflection
-feral
-fur
-furniture
-gender:ambiguous
-glistening
-glistening eyes
-glistening_eyes
-gloves (marking)
-gloves_(marking)
-holding ball
-holding object
-holding_ball
-holding_object
-inner ear fluff
-inner_ear_fluff
-leg markings
-leg_markings
-long tail
-long_tail
-looking at viewer
-looking_at_viewer
-markings
-medium:digital media
-medium:photograph
-meta:2019
-meta:detailed
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:edit
-meta:photo manipulation
-meta:photo_manipulation
-multicolored body
-multicolored fur
-multicolored tail
-multicolored_body
-multicolored_fur
-multicolored_tail
-orange body
-orange fur
-orange_body
-orange_fur
-photo background
-photo manipulation
-photo_background
-pov
-rating:safe
-reflection
-series:firefox
-socks (marking)
-socks_(marking)
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:fox
-species:mammal
-subreddit:imaginaryaww
-subreddit:immeta
-tail
-thick tail
-thick_tail
-title:fire fox [ych inside]
-title:fire fox by silverfox5213
-tuft
-uploader:lol33ta
-whiskers
-white body
-white fur
-white_body
-white_fur
-window
-year:2019
+2019,
+ambiguous gender,
+ambiguous_gender,
+artist:silverfox5213,
+ball,
+blue ball,
+blue eyes,
+blue_eyes,
+blurred background,
+blurred_background,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+character:foxkeh,
+claws,
+clothing:gloves,
+clothing:socks,
+copyright:firefox,
+creator:silverfox5213,
+curtains,
+curtains open,
+curtains_open,
+daww,
+desk,
+desktop,
+detailed,
+detailed fur,
+detailed_fur,
+dipstick tail,
+dipstick_tail,
+edited,
+eye reflection,
+eye_reflection,
+feral,
+fur,
+furniture,
+gender:ambiguous,
+glistening,
+glistening eyes,
+glistening_eyes,
+gloves (marking),
+gloves_(marking),
+holding ball,
+holding object,
+holding_ball,
+holding_object,
+inner ear fluff,
+inner_ear_fluff,
+leg markings,
+leg_markings,
+long tail,
+long_tail,
+looking at viewer,
+looking_at_viewer,
+markings,
+medium:digital media,
+medium:photograph,
+meta:2019,
+meta:detailed,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:edit,
+meta:photo manipulation,
+meta:photo_manipulation,
+multicolored body,
+multicolored fur,
+multicolored tail,
+multicolored_body,
+multicolored_fur,
+multicolored_tail,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+photo background,
+photo manipulation,
+photo_background,
+pov,
+rating:safe,
+reflection,
+series:firefox,
+socks (marking),
+socks_(marking),
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:fox,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:immeta,
+tail,
+thick tail,
+thick_tail,
+title:fire fox [ych inside],
+title:fire fox by silverfox5213,
+tuft,
+uploader:lol33ta,
+whiskers,
+white body,
+white fur,
+white_body,
+white_fur,
+window,
+year:2019,

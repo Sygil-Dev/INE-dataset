@@ -1,87 +1,87 @@
-2016
-action:open mouth
-angry
-battle
-bioluminescence
-bodypart:multiple heads
-bodypart:red eyes
-bodypart:scar
-bodypart:tail
-bodypart:teeth
-booru:e621
-character:aether
-character:godzilla
-city
-claws
-clothing:armor
-colored
-creator:kaiju samurai
-creator:kaijusamurai
-creator:matt frank
-daikaijuu
-debris
-destruction
-dinosaur
-duel
-duo
-emotion:anger
-epic
-fight
-fighting
-fire
-furry
-gender:ambiguous
-gender:female
-genre:science fiction
-giant monster
-gills
-glare
-glowing
-kaiju samurai
-male:0
-medium:colored
-medium:watermark
-meta:2016
-meta:colored
-meta:tagme
-monster
-mutant
-no humans
-open mouth
-outdoors
-outside
-radiation
-rating:mature
-rating:safe
-red eyes
-regeneration
-rubble
-scales
-scar
-series:godzilla (2014)
-series:godzilla (series)
-series:godzilla: resurgence
-series:legendary pictures
-series:monsterverse
-series:shin godzilla
-series:toho
-series:toho (film company)
-sharp teeth
-smoke
-species:dinosaur
-species:extinct
-species:kaiju
-species:monster
-species:reptile
-species:scalie
-spikes
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-tail
-teeth
-title:shin gojira vs legendary godzilla by kaijusamurai
-toho (film company)
-uploader:lol33ta
-watermark
-website:e621
-year:2016
+2016,
+action:open mouth,
+angry,
+battle,
+bioluminescence,
+bodypart:multiple heads,
+bodypart:red eyes,
+bodypart:scar,
+bodypart:tail,
+bodypart:teeth,
+booru:e621,
+character:aether,
+character:godzilla,
+city,
+claws,
+clothing:armor,
+colored,
+creator:kaiju samurai,
+creator:kaijusamurai,
+creator:matt frank,
+daikaijuu,
+debris,
+destruction,
+dinosaur,
+duel,
+duo,
+emotion:anger,
+epic,
+fight,
+fighting,
+fire,
+furry,
+gender:ambiguous,
+gender:female,
+genre:science fiction,
+giant monster,
+gills,
+glare,
+glowing,
+kaiju samurai,
+male:0,
+medium:colored,
+medium:watermark,
+meta:2016,
+meta:colored,
+meta:tagme,
+monster,
+mutant,
+no humans,
+open mouth,
+outdoors,
+outside,
+radiation,
+rating:mature,
+rating:safe,
+red eyes,
+regeneration,
+rubble,
+scales,
+scar,
+series:godzilla (2014),
+series:godzilla (series),
+series:godzilla: resurgence,
+series:legendary pictures,
+series:monsterverse,
+series:shin godzilla,
+series:toho,
+series:toho (film company),
+sharp teeth,
+smoke,
+species:dinosaur,
+species:extinct,
+species:kaiju,
+species:monster,
+species:reptile,
+species:scalie,
+spikes,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+tail,
+teeth,
+title:shin gojira vs legendary godzilla by kaijusamurai,
+toho (film company),
+uploader:lol33ta,
+watermark,
+website:e621,
+year:2016,

@@ -1,24 +1,24 @@
-candles
-creator:bram sels
-creature
-dryad
-fantasy
-forest
-giant
-gold
-halloween
-hunt
-innistrad
-magic:the gathering
-medium:digital 2d
-mood
-mtg
-planeswalker
-seven
-subreddit:imaginaryelementals
-subreddit:immonsters
-title:wrenn and seven
-title:wrenn and seven by bram sels
-tree
-uploader:blood-n-cheese
-werewolves
+candles,
+creator:bram sels,
+creature,
+dryad,
+fantasy,
+forest,
+giant,
+gold,
+halloween,
+hunt,
+innistrad,
+magic:the gathering,
+medium:digital 2d,
+mood,
+mtg,
+planeswalker,
+seven,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+title:wrenn and seven,
+title:wrenn and seven by bram sels,
+tree,
+uploader:blood-n-cheese,
+werewolves,

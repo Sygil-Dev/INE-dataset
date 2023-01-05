@@ -1,40 +1,40 @@
-battle
-breathing fire
-burning
-campfire
-cloud
-dusk
-embers
-evening
-explosion
-fangs
-fiery hair
-fire
-flame
-flaming sword
-flaming weapon
-kaijuu
-lightning
-molten rock
-monster
-mountain
-no humans
-open mouth
-orange sky
-orange theme
-rating:safe
-red sky
-scales
-sharp teeth
-sky
-smoke
-subreddit:badassdragons
-sun
-sunset
-teeth
-title:ragefire hellkite by xavier ribeiro
-torch
-twilight
-uploader:lol33ta
-volcano
-watermark
+battle,
+breathing fire,
+burning,
+campfire,
+cloud,
+dusk,
+embers,
+evening,
+explosion,
+fangs,
+fiery hair,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+kaijuu,
+lightning,
+molten rock,
+monster,
+mountain,
+no humans,
+open mouth,
+orange sky,
+orange theme,
+rating:safe,
+red sky,
+scales,
+sharp teeth,
+sky,
+smoke,
+subreddit:badassdragons,
+sun,
+sunset,
+teeth,
+title:ragefire hellkite by xavier ribeiro,
+torch,
+twilight,
+uploader:lol33ta,
+volcano,
+watermark,

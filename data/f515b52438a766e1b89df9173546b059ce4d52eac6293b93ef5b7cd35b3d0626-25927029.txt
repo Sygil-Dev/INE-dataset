@@ -1,114 +1,114 @@
-1 female
-1girl
-arc
-armor
-armored boots
-armored dress
-army
-artist name
-battle
-bent knees
-blonde hair
-blue eyes
-blue legwear
-blue thighhighs
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-boots
-braid
-character:jeanne d'arc (fate)
-character:jeanne d'arc (fate) (all)
-character:jeanne d'arc (fate/apocrypha)
-character:jeanne d'arc (ruler) (fate)
-clothing:armor
-clothing:armored boots
-clothing:blue legwear
-clothing:boots
-clothing:dress
-clothing:footwear
-clothing:hair tie
-clothing:legwear
-clothing:thigh-highs
-cloud
-clouds
-cloudy sky
-commentary
-creator:raikoart
-creator:sean "raiko" tay
-creator:ライコ
-dress
-english
-english commentary
-fate
-fate grand order
-fate/apocrypha5000users入り
-fate/grandorder
-faulds
-female
-fgo
-flag
-floating hair
-floating rock
-footwear
-gauntlets
-gender:female
-guro
-headpiece
-highres
-jeanne d
-jeanne d'arc (fate)
-jeanne d'arc (fate) (all)
-jeanne_d'arc
-kneeling
-long braid
-long hair
-looking at viewer
-medium:artist name
-medium:digital 2d
-medium:high resolution
-medium:realistic
-medium:signature
-meta:artist name
-meta:commentary
-meta:english commentary
-meta:explicit content
-meta:highres
-meta:jpeg artifacts
-one knee
-plackart
-point of view
-pov
-rating:explicit
-rating:mature
-rating:safe
-rating:sensitive
-rock
-ruler
-series:fate
-series:fate (series)
-series:fate/apocrypha
-series:fate/grand order
-signature
-single braid
-site:deviantart
-sky
-solo
-solo focus
-squatting
-standard bearer
-subreddit:imaginarywarriors
-thigh-highs
-thighhighs
-tied hair
-title:jeanne d'arc
-title:jeanne d'arc by sean tay
-uploader:dievah
-war
-ジャンヌ・ダルク(fate)
-スーパーヒーロー着地
-ルーラー
-三点着地
-魅惑のふともも
+1 female,
+1girl,
+arc,
+armor,
+armored boots,
+armored dress,
+army,
+artist name,
+battle,
+bent knees,
+blonde hair,
+blue eyes,
+blue legwear,
+blue thighhighs,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+boots,
+braid,
+character:jeanne d'arc (fate),
+character:jeanne d'arc (fate) (all),
+character:jeanne d'arc (fate/apocrypha),
+character:jeanne d'arc (ruler) (fate),
+clothing:armor,
+clothing:armored boots,
+clothing:blue legwear,
+clothing:boots,
+clothing:dress,
+clothing:footwear,
+clothing:hair tie,
+clothing:legwear,
+clothing:thigh-highs,
+cloud,
+clouds,
+cloudy sky,
+commentary,
+creator:raikoart,
+creator:sean "raiko" tay,
+creator:ライコ,
+dress,
+english,
+english commentary,
+fate,
+fate grand order,
+fate/apocrypha5000users入り,
+fate/grandorder,
+faulds,
+female,
+fgo,
+flag,
+floating hair,
+floating rock,
+footwear,
+gauntlets,
+gender:female,
+guro,
+headpiece,
+highres,
+jeanne d,
+jeanne d'arc (fate),
+jeanne d'arc (fate) (all),
+jeanne_d'arc,
+kneeling,
+long braid,
+long hair,
+looking at viewer,
+medium:artist name,
+medium:digital 2d,
+medium:high resolution,
+medium:realistic,
+medium:signature,
+meta:artist name,
+meta:commentary,
+meta:english commentary,
+meta:explicit content,
+meta:highres,
+meta:jpeg artifacts,
+one knee,
+plackart,
+point of view,
+pov,
+rating:explicit,
+rating:mature,
+rating:safe,
+rating:sensitive,
+rock,
+ruler,
+series:fate,
+series:fate (series),
+series:fate/apocrypha,
+series:fate/grand order,
+signature,
+single braid,
+site:deviantart,
+sky,
+solo,
+solo focus,
+squatting,
+standard bearer,
+subreddit:imaginarywarriors,
+thigh-highs,
+thighhighs,
+tied hair,
+title:jeanne d'arc,
+title:jeanne d'arc by sean tay,
+uploader:dievah,
+war,
+ジャンヌ・ダルク(fate),
+スーパーヒーロー着地,
+ルーラー,
+三点着地,
+魅惑のふともも,

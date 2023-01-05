@@ -1,23 +1,23 @@
-2d
-antenna
-concept
-creator:ismail inceoglu
-cyberpunk
-digitalart
-environment
-fields
-illustration
-landscape
-medium:digital 2d
-mountain
-orangecircle
-postcyberpunk
-scenery
-scifi
-subreddit:imaginarytowers
-subreddit:imarchitecture
-title:totem
-title:totem by ismail inceoglu
-totem
-tower
-uploader:myrandall
+2d,
+antenna,
+concept,
+creator:ismail inceoglu,
+cyberpunk,
+digitalart,
+environment,
+fields,
+illustration,
+landscape,
+medium:digital 2d,
+mountain,
+orangecircle,
+postcyberpunk,
+scenery,
+scifi,
+subreddit:imaginarytowers,
+subreddit:imarchitecture,
+title:totem,
+title:totem by ismail inceoglu,
+totem,
+tower,
+uploader:myrandall,

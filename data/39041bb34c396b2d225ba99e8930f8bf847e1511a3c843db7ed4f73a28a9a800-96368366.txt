@@ -1,31 +1,31 @@
-atlas
-battle of azeroth
-blizzard
-characters
-cinematic
-colletible
-creator:evandro miguel
-dark
-digital 3d
-elfbanshee
-fanart
-fantasy
-game
-game art
-gotic
-hearthstone
-horde
-illidan
-medium:digital 3d
-pc
-statue
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-sylvanas windrunner
-title:sylvana, evandro miguel
-title:sylvanas statue - fan art - world of warcraft
-undead
-uploader:miciy5
-warchief
-warcraft
-wow
+atlas,
+battle of azeroth,
+blizzard,
+characters,
+cinematic,
+colletible,
+creator:evandro miguel,
+dark,
+digital 3d,
+elfbanshee,
+fanart,
+fantasy,
+game,
+game art,
+gotic,
+hearthstone,
+horde,
+illidan,
+medium:digital 3d,
+pc,
+statue,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+sylvanas windrunner,
+title:sylvana, evandro miguel,
+title:sylvanas statue - fan art - world of warcraft,
+undead,
+uploader:miciy5,
+warchief,
+warcraft,
+wow,

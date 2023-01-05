@@ -1,89 +1,89 @@
-1 female
-1girl
-ana (overwatch)
-ana_(overwatch)
-artist:miguel mercado
-artstation_sample
-boots
-braid
-brown eyes
-character:ana (overwatch)
-character:ana amari
-character:ana amari (overwatch)
-clothing:boots
-clothing:coat
-clothing:eyewear
-clothing:footwear
-clothing:headband
-clothing:hood
-clothing:legwear
-clothing:pants
-coat
-commentary
-copyright:overwatch
-creator:merkymerx
-creator:miguel mercado
-dark skin
-emblem
-eyepatch
-eyewear
-facial mark
-facial tattoo
-facial_mark
-facial_tattoo
-firearm
-footwear
-full body
-full_body
-gender:female
-genre:science fiction
-gun
-headband
-high resolution
-hijab
-holding
-holding gun
-holding object
-holding weapon
-holding_gun
-holding_weapon
-holster
-hood
-image sample
-image_sample
-knee boots
-knee_boots
-medium:high resolution
-merkymerx
-meta:artstation sample
-meta:commentary
-meta:english commentary
-meta:highres
-meta:image sample
-miguel_mercado
-old
-old woman
-old_woman
-pants
-rating:mature
-rating:safe
-rifle
-scope
-series:overwatch
-sitting
-sniper rifle
-sniper_rifle
-solo
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-tattoo
-thigh holster
-thigh strap
-thigh_holster
-thigh_strap
-tied hair
-title:ana by miguel mercado
-uploader:myrandall
-weapon
-white hair
+1 female,
+1girl,
+ana (overwatch),
+ana_(overwatch),
+artist:miguel mercado,
+artstation_sample,
+boots,
+braid,
+brown eyes,
+character:ana (overwatch),
+character:ana amari,
+character:ana amari (overwatch),
+clothing:boots,
+clothing:coat,
+clothing:eyewear,
+clothing:footwear,
+clothing:headband,
+clothing:hood,
+clothing:legwear,
+clothing:pants,
+coat,
+commentary,
+copyright:overwatch,
+creator:merkymerx,
+creator:miguel mercado,
+dark skin,
+emblem,
+eyepatch,
+eyewear,
+facial mark,
+facial tattoo,
+facial_mark,
+facial_tattoo,
+firearm,
+footwear,
+full body,
+full_body,
+gender:female,
+genre:science fiction,
+gun,
+headband,
+high resolution,
+hijab,
+holding,
+holding gun,
+holding object,
+holding weapon,
+holding_gun,
+holding_weapon,
+holster,
+hood,
+image sample,
+image_sample,
+knee boots,
+knee_boots,
+medium:high resolution,
+merkymerx,
+meta:artstation sample,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:image sample,
+miguel_mercado,
+old,
+old woman,
+old_woman,
+pants,
+rating:mature,
+rating:safe,
+rifle,
+scope,
+series:overwatch,
+sitting,
+sniper rifle,
+sniper_rifle,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+tattoo,
+thigh holster,
+thigh strap,
+thigh_holster,
+thigh_strap,
+tied hair,
+title:ana by miguel mercado,
+uploader:myrandall,
+weapon,
+white hair,

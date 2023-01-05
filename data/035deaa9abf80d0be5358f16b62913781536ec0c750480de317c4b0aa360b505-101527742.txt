@@ -1,21 +1,21 @@
-1girl
-armor
-ball
-character:metroid (creature)
-glowing
-gradient
-gradient background
-holding
-hose
-orb
-power armor
-rating:safe
-robot
-robot joints
-science fiction
-solo
-standing
-subreddit:imaginarywarhammer
-title:[oc] lord necron that i drew. i deviated a little from the standard design. i find necrons to be very angular in terms of design. what do you say? better or worse?
-uploader:okvl_artist
-weapon
+1girl,
+armor,
+ball,
+character:metroid (creature),
+glowing,
+gradient,
+gradient background,
+holding,
+hose,
+orb,
+power armor,
+rating:safe,
+robot,
+robot joints,
+science fiction,
+solo,
+standing,
+subreddit:imaginarywarhammer,
+title:[oc] lord necron that i drew. i deviated a little from the standard design. i find necrons to be very angular in terms of design. what do you say? better or worse?,
+uploader:okvl_artist,
+weapon,

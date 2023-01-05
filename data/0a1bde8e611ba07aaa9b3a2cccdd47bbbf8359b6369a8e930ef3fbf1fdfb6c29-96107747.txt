@@ -1,37 +1,37 @@
-architecture
-bridge
-building
-castle
-city
-clock tower
-cloud
-cloudy sky
-crescent moon
-east asian architecture
-fog
-full moon
-moon
-moonlight
-mountain
-mountainous horizon
-night
-night sky
-outdoors
-pagoda
-rating:safe
-red moon
-red sky
-scarlet devil mansion
-scenery
-sky
-solo
-star (sky)
-starry sky
-subreddit:imaginaryvillages
-subreddit:imarchitecture
-sun
-title:misty by ashstraker
-tower
-tree
-uploader:ncghgf
-water
+architecture,
+bridge,
+building,
+castle,
+city,
+clock tower,
+cloud,
+cloudy sky,
+crescent moon,
+east asian architecture,
+fog,
+full moon,
+moon,
+moonlight,
+mountain,
+mountainous horizon,
+night,
+night sky,
+outdoors,
+pagoda,
+rating:safe,
+red moon,
+red sky,
+scarlet devil mansion,
+scenery,
+sky,
+solo,
+star (sky),
+starry sky,
+subreddit:imaginaryvillages,
+subreddit:imarchitecture,
+sun,
+title:misty by ashstraker,
+tower,
+tree,
+uploader:ncghgf,
+water,

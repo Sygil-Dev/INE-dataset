@@ -1,21 +1,21 @@
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-mountain
-mountainous horizon
-orange sky
-outdoors
-rating:safe
-red sky
-ruins
-scenery
-sky
-standing
-subreddit:imaginaryvillages
-sunset
-title:hidden tribe by fred palacio
-twilight
-uploader:dragunmancer
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+mountain,
+mountainous horizon,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+ruins,
+scenery,
+sky,
+standing,
+subreddit:imaginaryvillages,
+sunset,
+title:hidden tribe by fred palacio,
+twilight,
+uploader:dragunmancer,

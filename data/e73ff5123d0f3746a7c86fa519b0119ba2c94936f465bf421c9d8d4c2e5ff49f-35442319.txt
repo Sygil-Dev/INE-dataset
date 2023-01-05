@@ -1,19 +1,19 @@
-astartes
-berserker
-blood angels
-blood lust
-chainaxe
-charge
-creator:diego gisbert llorens
-flesh tearers
-fury
-medium:digital 2d
-sanguinius
-series:warhammer 40,000
-space marine
-studio:games workshop
-subreddit:imaginarywarhammer
-title:flesh tearer
-title:flesh tearer by diego gisbert llorens
-uploader:adverserius
-warhammer
+astartes,
+berserker,
+blood angels,
+blood lust,
+chainaxe,
+charge,
+creator:diego gisbert llorens,
+flesh tearers,
+fury,
+medium:digital 2d,
+sanguinius,
+series:warhammer 40,000,
+space marine,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+title:flesh tearer,
+title:flesh tearer by diego gisbert llorens,
+uploader:adverserius,
+warhammer,

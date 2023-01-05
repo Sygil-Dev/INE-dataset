@@ -1,23 +1,23 @@
-1boy
-1girl
-black hair
-blue sky
-cloud
-cloudy sky
-day
-dress
-leaf
-outdoors
-rating:safe
-shoes
-sky
-smoke
-solo
-subreddit:imaginaryaww
-subreddit:imaginaryfashion
-subreddit:imaginaryweather
-subreddit:immeta
-subreddit:imnature
-title:god smiles down on all scene kids :3 by sequ0ia
-tree
-uploader:sequ0ia
+1boy,
+1girl,
+black hair,
+blue sky,
+cloud,
+cloudy sky,
+day,
+dress,
+leaf,
+outdoors,
+rating:safe,
+shoes,
+sky,
+smoke,
+solo,
+subreddit:imaginaryaww,
+subreddit:imaginaryfashion,
+subreddit:imaginaryweather,
+subreddit:immeta,
+subreddit:imnature,
+title:god smiles down on all scene kids :3 by sequ0ia,
+tree,
+uploader:sequ0ia,

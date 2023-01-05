@@ -1,27 +1,27 @@
-1girl
-beach
-boat
-caustics
-fish
-head fins
-horizon
-lake
-long hair
-looking at viewer
-mermaid
-monster girl
-ocean
-partially submerged
-pool
-rating:safe
-red hair
-solo
-subreddit:imaginarymerfolk
-swimming
-teeth
-title:swamp mermaid by hilary purnamasari
-underwater
-uploader:[deleted]
-water
-watercraft
-wet
+1girl,
+beach,
+boat,
+caustics,
+fish,
+head fins,
+horizon,
+lake,
+long hair,
+looking at viewer,
+mermaid,
+monster girl,
+ocean,
+partially submerged,
+pool,
+rating:safe,
+red hair,
+solo,
+subreddit:imaginarymerfolk,
+swimming,
+teeth,
+title:swamp mermaid by hilary purnamasari,
+underwater,
+uploader:[deleted],
+water,
+watercraft,
+wet,

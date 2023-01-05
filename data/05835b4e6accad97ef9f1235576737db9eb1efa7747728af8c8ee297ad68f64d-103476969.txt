@@ -1,21 +1,21 @@
-1boy
-beard
-blue eyes
-blurry
-blurry background
-blurry foreground
-copyright name
-depth of field
-facial hair
-gloves
-male focus
-motion blur
-mustache
-old
-old man
-rating:safe
-solo
-subreddit:imaginaryscholars
-teeth
-title:victor frankenstein by feig felipe pérez
-uploader:yannirotten
+1boy,
+beard,
+blue eyes,
+blurry,
+blurry background,
+blurry foreground,
+copyright name,
+depth of field,
+facial hair,
+gloves,
+male focus,
+motion blur,
+mustache,
+old,
+old man,
+rating:safe,
+solo,
+subreddit:imaginaryscholars,
+teeth,
+title:victor frankenstein by feig felipe pérez,
+uploader:yannirotten,

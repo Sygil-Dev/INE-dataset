@@ -1,27 +1,27 @@
-1girl
-blue eyes
-braid
-cat
-flower
-hair over shoulder
-hat
-jewelry
-lipstick
-long hair
-makeup
-necklace
-purple flower
-purple hair
-purple headwear
-purple ribbon
-rating:safe
-ribbon
-single braid
-solo
-subreddit:imaginarywitches
-title:lavender by riikka sofia riekkinen
-twin braids
-uploader:lol33ta
-upper body
-witch
-witch hat
+1girl,
+blue eyes,
+braid,
+cat,
+flower,
+hair over shoulder,
+hat,
+jewelry,
+lipstick,
+long hair,
+makeup,
+necklace,
+purple flower,
+purple hair,
+purple headwear,
+purple ribbon,
+rating:safe,
+ribbon,
+single braid,
+solo,
+subreddit:imaginarywitches,
+title:lavender by riikka sofia riekkinen,
+twin braids,
+uploader:lol33ta,
+upper body,
+witch,
+witch hat,

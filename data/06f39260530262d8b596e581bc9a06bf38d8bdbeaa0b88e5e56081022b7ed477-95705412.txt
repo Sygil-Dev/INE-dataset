@@ -1,40 +1,40 @@
-1girl
-bleeding
-blood
-blood from mouth
-blood on clothes
-blood on face
-blood on hands
-blood on knife
-blood on weapon
-blood splatter
-blood stain
-chain-link fence
-checkered
-colorful
-cuts
-death
-dithering
-fence
-guro
-halftone
-halftone background
-injury
-long hair
-nosebleed
-paint splatter
-pink blood
-polka dot
-polka dot background
-polka dot dress
-rating:safe
-screentones
-solo
-splatter
-subreddit:imaginarycolorscapes
-subreddit:imaginaryhumans
-subreddit:immeta
-subreddit:imraces
-title:my newest artwork
-unmoving pattern
-uploader:arucardpl
+1girl,
+bleeding,
+blood,
+blood from mouth,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on knife,
+blood on weapon,
+blood splatter,
+blood stain,
+chain-link fence,
+checkered,
+colorful,
+cuts,
+death,
+dithering,
+fence,
+guro,
+halftone,
+halftone background,
+injury,
+long hair,
+nosebleed,
+paint splatter,
+pink blood,
+polka dot,
+polka dot background,
+polka dot dress,
+rating:safe,
+screentones,
+solo,
+splatter,
+subreddit:imaginarycolorscapes,
+subreddit:imaginaryhumans,
+subreddit:immeta,
+subreddit:imraces,
+title:my newest artwork,
+unmoving pattern,
+uploader:arucardpl,

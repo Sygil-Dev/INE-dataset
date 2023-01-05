@@ -1,39 +1,39 @@
-arch
-architecture
-artist name
-bridge
-building
-castle
-city
-city lights
-cityscape
-cloud
-crescent moon
-fantasy
-full moon
-gate
-house
-moon
-moonlight
-mountain
-night
-night sky
-no humans
-outdoors
-rating:safe
-reflection
-river
-road
-scenery
-sky
-skyscraper
-star (sky)
-starry sky
-subreddit:imaginaryarchitecture
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:gothic map by arseniy chebynkin (arsenixc)
-tower
-tree
-uploader:hornyheracross
-water
+arch,
+architecture,
+artist name,
+bridge,
+building,
+castle,
+city,
+city lights,
+cityscape,
+cloud,
+crescent moon,
+fantasy,
+full moon,
+gate,
+house,
+moon,
+moonlight,
+mountain,
+night,
+night sky,
+no humans,
+outdoors,
+rating:safe,
+reflection,
+river,
+road,
+scenery,
+sky,
+skyscraper,
+star (sky),
+starry sky,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:gothic map by arseniy chebynkin (arsenixc),
+tower,
+tree,
+uploader:hornyheracross,
+water,

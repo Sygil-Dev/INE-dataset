@@ -1,28 +1,28 @@
-architecture
-bridge
-building
-burning
-city
-city lights
-cityscape
-cloud
-cloudy sky
-embers
-explosion
-fire
-flame
-outdoors
-rating:safe
-ruins
-scenery
-science fiction
-sky
-skyscraper
-smoke
-subreddit:imaginarysteampunk
-sunset
-title:an laenort, sh vehicle, by rostyslav zagornov
-torch
-tower
-twilight
-uploader:sylvyrfyre
+architecture,
+bridge,
+building,
+burning,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+embers,
+explosion,
+fire,
+flame,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+science fiction,
+sky,
+skyscraper,
+smoke,
+subreddit:imaginarysteampunk,
+sunset,
+title:an laenort, sh vehicle, by rostyslav zagornov,
+torch,
+tower,
+twilight,
+uploader:sylvyrfyre,

@@ -1,20 +1,20 @@
-beautiful
-boardgame
-bookcover
-cardgame
-creator:sloth being
-crown
-elf
-elven
-fantasy
-girl
-highelf
-illustration
-medium:digital 2d
-noble
-queen
-subreddit:imaginarynobles
-subreddit:imcharacters
-title:[oc] noble elf by me
-title:high elf
-uploader:slothbeing
+beautiful,
+boardgame,
+bookcover,
+cardgame,
+creator:sloth being,
+crown,
+elf,
+elven,
+fantasy,
+girl,
+highelf,
+illustration,
+medium:digital 2d,
+noble,
+queen,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+title:[oc] noble elf by me,
+title:high elf,
+uploader:slothbeing,

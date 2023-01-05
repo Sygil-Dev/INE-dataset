@@ -1,34 +1,34 @@
-2girls
-architecture
-barefoot
-blonde hair
-blood
-breasts
-brick floor
-brick wall
-building
-chain-link fence
-city
-cityscape
-creator:waldemar von kozak
-east asian architecture
-fence
-honeycomb (pattern)
-honeycomb background
-injury
-long hair
-medium:digital 2d
-multiple girls
-net
-rating:safe
-rooftop
-sitting
-skyscraper
-subreddit:imaginarycharacters
-tattoo
-tile floor
-tile wall
-tiles
-title:task complete by waldemar von kozak
-uploader:one_giant_nostril
-valkyrie
+2girls,
+architecture,
+barefoot,
+blonde hair,
+blood,
+breasts,
+brick floor,
+brick wall,
+building,
+chain-link fence,
+city,
+cityscape,
+creator:waldemar von kozak,
+east asian architecture,
+fence,
+honeycomb (pattern),
+honeycomb background,
+injury,
+long hair,
+medium:digital 2d,
+multiple girls,
+net,
+rating:safe,
+rooftop,
+sitting,
+skyscraper,
+subreddit:imaginarycharacters,
+tattoo,
+tile floor,
+tile wall,
+tiles,
+title:task complete by waldemar von kozak,
+uploader:one_giant_nostril,
+valkyrie,

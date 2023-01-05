@@ -1,28 +1,28 @@
-1girl
-2boys
-artstation
-breasts
-character:elizabeth braddock
-character:psylocke
-cleavage
-creator:hibren
-female
-female focus
-long hair
-male
-medium:artist name
-medium:fanart
-medium:high resolution
-medium:text
-multiple boys
-mutant
-purple eyes
-purple hair
-rating:safe
-series:x-force
-series:x-men
-studio:marvel comics
-subreddit:imaginarymarvel
-subreddit:imfandoms
-title:psylocke by hibren art
-uploader:lol33ta
+1girl,
+2boys,
+artstation,
+breasts,
+character:elizabeth braddock,
+character:psylocke,
+cleavage,
+creator:hibren,
+female,
+female focus,
+long hair,
+male,
+medium:artist name,
+medium:fanart,
+medium:high resolution,
+medium:text,
+multiple boys,
+mutant,
+purple eyes,
+purple hair,
+rating:safe,
+series:x-force,
+series:x-men,
+studio:marvel comics,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+title:psylocke by hibren art,
+uploader:lol33ta,

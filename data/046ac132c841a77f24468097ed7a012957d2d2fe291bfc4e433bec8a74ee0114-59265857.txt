@@ -1,25 +1,25 @@
-aircraft
-airplane
-battle
-cloud
-cloudy sky
-condensation trail
-explosion
-fighter jet
-fire
-flying
-jet
-military
-military vehicle
-mountain
-ocean
-planet
-rating:safe
-realistic
-sky
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-sunset
-title:caviar sweep
-uploader:skiploom188
-watercraft
+aircraft,
+airplane,
+battle,
+cloud,
+cloudy sky,
+condensation trail,
+explosion,
+fighter jet,
+fire,
+flying,
+jet,
+military,
+military vehicle,
+mountain,
+ocean,
+planet,
+rating:safe,
+realistic,
+sky,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+sunset,
+title:caviar sweep,
+uploader:skiploom188,
+watercraft,

@@ -1,26 +1,26 @@
-constellation
-crescent moon
-full moon
-horns
-jewelry
-moon
-night
-night sky
-no humans
-planet
-rating:safe
-red moon
-red sky
-shooting star
-sky
-sparkle
-star (sky)
-star (symbol)
-starry sky
-subreddit:imaginarybehemoths
-subreddit:imaginarymythology
-subreddit:imcharacters
-subreddit:immonsters
-sun
-title:apollo, by me (#11 in my olympians series) *details in comments
-uploader:tyler_lockett
+constellation,
+crescent moon,
+full moon,
+horns,
+jewelry,
+moon,
+night,
+night sky,
+no humans,
+planet,
+rating:safe,
+red moon,
+red sky,
+shooting star,
+sky,
+sparkle,
+star (sky),
+star (symbol),
+starry sky,
+subreddit:imaginarybehemoths,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+subreddit:immonsters,
+sun,
+title:apollo, by me (#11 in my olympians series) *details in comments,
+uploader:tyler_lockett,

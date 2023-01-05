@@ -1,26 +1,26 @@
-1girl
-bubble
-caustics
-dark skin
-dark-skinned female
-day
-fish
-jewelry
-long hair
-necklace
-ocean
-open mouth
-outdoors
-pool
-rating:safe
-rock
-solo
-spread fingers
-subreddit:imaginarywitches
-surfing
-teeth
-title:channel the tempest by vicki pangestu
-uploader:n0laloth
-water
-watermark
-waves
+1girl,
+bubble,
+caustics,
+dark skin,
+dark-skinned female,
+day,
+fish,
+jewelry,
+long hair,
+necklace,
+ocean,
+open mouth,
+outdoors,
+pool,
+rating:safe,
+rock,
+solo,
+spread fingers,
+subreddit:imaginarywitches,
+surfing,
+teeth,
+title:channel the tempest by vicki pangestu,
+uploader:n0laloth,
+water,
+watermark,
+waves,

@@ -1,65 +1,65 @@
-5 fingers
-2018
-anthro
-anthropomorphism
-black body
-black fur
-black lips
-blue eyes
-clothed
-clothing
-creator:conditional dnp
-creator:latex
-creator:latex (artist)
-creator:royz
-detailed
-detailed fur
-digital painting (artwork)
-duo
-fingers
-firearm
-fur
-future
-garrison cap
-gender:male
-genre:science fiction
-green eyes
-invalid tag
-lips
-male
-medium:detailed background
-medium:digital media
-medium:high resolution
-melanistic
-meta:2018
-meta:detailed
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:hi res
-open mouth
-rating:safe
-sci_fi
-ship
-source:furaffinity.net
-space
-spaceship
-species:black panther
-species:cat
-species:felid
-species:feline
-species:leopard
-species:mammal
-species:pantherine
-species:snow leopard
-species:tiger
-species:white tiger
-subreddit:imaginaryhybrids
-suit
-title:terminus
-title:terminus 2 by ilya royz (royzilya)
-uploader:killerbunnyfamily
-vehicle
-watercraft
-weapon
-whiskers
-year:2018
+5 fingers,
+2018,
+anthro,
+anthropomorphism,
+black body,
+black fur,
+black lips,
+blue eyes,
+clothed,
+clothing,
+creator:conditional dnp,
+creator:latex,
+creator:latex (artist),
+creator:royz,
+detailed,
+detailed fur,
+digital painting (artwork),
+duo,
+fingers,
+firearm,
+fur,
+future,
+garrison cap,
+gender:male,
+genre:science fiction,
+green eyes,
+invalid tag,
+lips,
+male,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+melanistic,
+meta:2018,
+meta:detailed,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:hi res,
+open mouth,
+rating:safe,
+sci_fi,
+ship,
+source:furaffinity.net,
+space,
+spaceship,
+species:black panther,
+species:cat,
+species:felid,
+species:feline,
+species:leopard,
+species:mammal,
+species:pantherine,
+species:snow leopard,
+species:tiger,
+species:white tiger,
+subreddit:imaginaryhybrids,
+suit,
+title:terminus,
+title:terminus 2 by ilya royz (royzilya),
+uploader:killerbunnyfamily,
+vehicle,
+watercraft,
+weapon,
+whiskers,
+year:2018,

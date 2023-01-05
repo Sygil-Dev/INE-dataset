@@ -1,17 +1,17 @@
-archer
-castle
-cloak
-cloud
-female
-human
-long black hair
-plain
-subreddit:imaginaryarchers
-subreddit:imaginaryarmor
-subreddit:imaginaryhumans
-subreddit:imcharacters
-subreddit:imraces
-subreddit:imtechnology
-title:raleigh - nayvadius wilburn
-title:raleigh by nayvadius wilburn
-uploader:puckee21
+archer,
+castle,
+cloak,
+cloud,
+female,
+human,
+long black hair,
+plain,
+subreddit:imaginaryarchers,
+subreddit:imaginaryarmor,
+subreddit:imaginaryhumans,
+subreddit:imcharacters,
+subreddit:imraces,
+subreddit:imtechnology,
+title:raleigh - nayvadius wilburn,
+title:raleigh by nayvadius wilburn,
+uploader:puckee21,

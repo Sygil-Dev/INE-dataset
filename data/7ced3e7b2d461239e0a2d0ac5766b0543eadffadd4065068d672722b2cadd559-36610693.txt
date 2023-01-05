@@ -1,72 +1,72 @@
-ambiguous gender
-ambiguous_gender
-armor
-artist:cryptid-creations
-beard
-black eyes
-black_eyes
-blep
-blue eyes
-blue_eyes
-boat
-clothed
-clothing
-clothing:armor
-clothing:tagme
-cloud
-creator:cryptid-creations
-facial hair
-facial_hair
-feral
-furry
-gender:ambiguous
-gender:male
-group
-headgear
-headwear
-helmet
-horn
-horns
-longboat
-male
-medium:text
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:url
-oar
-outside
-rating:safe
-red body
-red scales
-red_body
-red_scales
-scales
-sea
-shield
-sky
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-subreddit:adorabledragons
-text
-title:dragon boat by cryptid-creations
-tongue
-tongue out
-tongue_out
-uploader:lol33ta
-vehicle
-viking
-water
-watercraft
-white body
-white scales
-white_body
-white_scales
-wings
-year:2019
+ambiguous gender,
+ambiguous_gender,
+armor,
+artist:cryptid-creations,
+beard,
+black eyes,
+black_eyes,
+blep,
+blue eyes,
+blue_eyes,
+boat,
+clothed,
+clothing,
+clothing:armor,
+clothing:tagme,
+cloud,
+creator:cryptid-creations,
+facial hair,
+facial_hair,
+feral,
+furry,
+gender:ambiguous,
+gender:male,
+group,
+headgear,
+headwear,
+helmet,
+horn,
+horns,
+longboat,
+male,
+medium:text,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:url,
+oar,
+outside,
+rating:safe,
+red body,
+red scales,
+red_body,
+red_scales,
+scales,
+sea,
+shield,
+sky,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+subreddit:adorabledragons,
+text,
+title:dragon boat by cryptid-creations,
+tongue,
+tongue out,
+tongue_out,
+uploader:lol33ta,
+vehicle,
+viking,
+water,
+watercraft,
+white body,
+white scales,
+white_body,
+white_scales,
+wings,
+year:2019,

@@ -1,44 +1,44 @@
-analog clock
-bed
-book
-bookmark
-bookshelf
-bulletin board
-button
-clock
-cloth
-commission
-computer
-creator:sixthleafclover
-curtains
-cushion
-dress
-fabric
-golem
-green
-hat
-indoors
-lace
-machine
-naga
-needle
-paper
-pin
-rating:safe
-reflection
-room
-sewing
-source:furaffinity.net
-species:draconcopode
-species:naga
-species:snake
-subreddit:imaginaryfashion
-subreddit:immeta
-tailor
-thread
-title:tailoring dreams
-title:tailoring dreams by the-sixthleafclover
-uploader:lol33ta
-wall clock
-wedding
-zipper
+analog clock,
+bed,
+book,
+bookmark,
+bookshelf,
+bulletin board,
+button,
+clock,
+cloth,
+commission,
+computer,
+creator:sixthleafclover,
+curtains,
+cushion,
+dress,
+fabric,
+golem,
+green,
+hat,
+indoors,
+lace,
+machine,
+naga,
+needle,
+paper,
+pin,
+rating:safe,
+reflection,
+room,
+sewing,
+source:furaffinity.net,
+species:draconcopode,
+species:naga,
+species:snake,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+tailor,
+thread,
+title:tailoring dreams,
+title:tailoring dreams by the-sixthleafclover,
+uploader:lol33ta,
+wall clock,
+wedding,
+zipper,

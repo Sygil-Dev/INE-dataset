@@ -1,27 +1,27 @@
-1girl
-aurora
-city lights
-constellation
-earth (planet)
-galaxy
-greyscale
-light particles
-milky way
-monochrome
-moon
-night
-night sky
-planet
-rating:safe
-shooting star
-sky
-snow
-snowing
-solo
-space
-star (sky)
-starry sky
-starry sky print
-subreddit:imaginarysliceoflife
-title:abbey road, wet charcoal and pastels by me.
-uploader:nobrakes1975
+1girl,
+aurora,
+city lights,
+constellation,
+earth (planet),
+galaxy,
+greyscale,
+light particles,
+milky way,
+monochrome,
+moon,
+night,
+night sky,
+planet,
+rating:safe,
+shooting star,
+sky,
+snow,
+snowing,
+solo,
+space,
+star (sky),
+starry sky,
+starry sky print,
+subreddit:imaginarysliceoflife,
+title:abbey road, wet charcoal and pastels by me.,
+uploader:nobrakes1975,

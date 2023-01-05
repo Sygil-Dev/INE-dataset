@@ -1,36 +1,36 @@
-1boy
-against tree
-artist name
-bamboo
-bamboo forest
-bare tree
-blonde hair
-branch
-bush
-cape
-dagger
-foliage
-forest
-grass
-holding
-holding sword
-holding weapon
-knife
-log
-male focus
-moss
-nature
-outdoors
-path
-plant
-rating:safe
-realistic
-solo
-subreddit:imaginaryelves
-sword
-title:elf in a dark forest by rami-fon-verg
-tombstone
-tree
-tree stump
-uploader:rajahbeaubeau
-weapon
+1boy,
+against tree,
+artist name,
+bamboo,
+bamboo forest,
+bare tree,
+blonde hair,
+branch,
+bush,
+cape,
+dagger,
+foliage,
+forest,
+grass,
+holding,
+holding sword,
+holding weapon,
+knife,
+log,
+male focus,
+moss,
+nature,
+outdoors,
+path,
+plant,
+rating:safe,
+realistic,
+solo,
+subreddit:imaginaryelves,
+sword,
+title:elf in a dark forest by rami-fon-verg,
+tombstone,
+tree,
+tree stump,
+uploader:rajahbeaubeau,
+weapon,

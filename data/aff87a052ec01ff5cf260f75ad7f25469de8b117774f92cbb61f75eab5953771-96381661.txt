@@ -1,24 +1,24 @@
-character name
-character:zeta gundam (mobile suit)
-creator:jazz kawa sodom
-creator:jazz_kawa
-grey background
-mecha
-meta:absurdres
-meta:highres
-meta:translation request
-missile
-mobile suit
-no humans
-rating:general
-robot
-science fiction
-series:gundam
-series:zeta gundam
-shoulder cannon
-solo focus
-subreddit:imaginarystarships
-subreddit:imtechnology
-title:fa/z-006h full armoured zeta waverider form and transformation details by @jazz_kawa
-transformation
-uploader:adamaofcylon
+character name,
+character:zeta gundam (mobile suit),
+creator:jazz kawa sodom,
+creator:jazz_kawa,
+grey background,
+mecha,
+meta:absurdres,
+meta:highres,
+meta:translation request,
+missile,
+mobile suit,
+no humans,
+rating:general,
+robot,
+science fiction,
+series:gundam,
+series:zeta gundam,
+shoulder cannon,
+solo focus,
+subreddit:imaginarystarships,
+subreddit:imtechnology,
+title:fa/z-006h full armoured zeta waverider form and transformation details by @jazz_kawa,
+transformation,
+uploader:adamaofcylon,

@@ -1,22 +1,22 @@
-1920+
-art
-artstation
-creator:jakub rozalski
-game art
-games
-illustration
-iron harvest
-jakub rozalski
-mecha
-medium:digital 2d
-mr.werewolf
-olga
-painting
-rusviet
-scythe
-subreddit:imaginarymechs
-subreddit:imtechnology
-title:1920 - rusviet finest
-title:rusviet finest [by jakub rozalski]
-uploader:skooma-boi
-world of 1920
+1920+,
+art,
+artstation,
+creator:jakub rozalski,
+game art,
+games,
+illustration,
+iron harvest,
+jakub rozalski,
+mecha,
+medium:digital 2d,
+mr.werewolf,
+olga,
+painting,
+rusviet,
+scythe,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+title:1920 - rusviet finest,
+title:rusviet finest [by jakub rozalski],
+uploader:skooma-boi,
+world of 1920,

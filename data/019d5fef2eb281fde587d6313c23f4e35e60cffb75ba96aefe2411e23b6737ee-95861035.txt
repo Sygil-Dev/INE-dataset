@@ -1,20 +1,20 @@
-black hair
-blood
-camellia
-colored skin
-facial hair
-flower
-long hair
-looking at viewer
-male focus
-rating:safe
-red flower
-red rose
-rose
-spider lily
-subreddit:imaginaryvampires
-subreddit:immonsters
-thorns
-title:thorn, by noirsnow
-uploader:tabulaerrata
-white border
+black hair,
+blood,
+camellia,
+colored skin,
+facial hair,
+flower,
+long hair,
+looking at viewer,
+male focus,
+rating:safe,
+red flower,
+red rose,
+rose,
+spider lily,
+subreddit:imaginaryvampires,
+subreddit:immonsters,
+thorns,
+title:thorn, by noirsnow,
+uploader:tabulaerrata,
+white border,

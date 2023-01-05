@@ -1,45 +1,45 @@
-1boy
-1girl
-backpack
-bag
-bangs
-beret
-black jacket
-blazer
-blue sky
-bottle
-brown eyes
-brown hair
-camera
-closed mouth
-cloud
-clouds
-creator:gemi
-hands up
-hat
-highres
-hill
-holding
-holding camera
-jacket
-long hair
-long sleeves
-map
-meta:absurdres
-meta:highres
-outdoors
-rating:general
-river
-series:original
-shirt
-short hair
-sky
-smile
-standing
-subreddit:imaginaryhumans
-taking picture
-title:wait a minute by げみ(gemi333)
-uploader:musaibwadkar
-water
-water bottle
-yellow shirt
+1boy,
+1girl,
+backpack,
+bag,
+bangs,
+beret,
+black jacket,
+blazer,
+blue sky,
+bottle,
+brown eyes,
+brown hair,
+camera,
+closed mouth,
+cloud,
+clouds,
+creator:gemi,
+hands up,
+hat,
+highres,
+hill,
+holding,
+holding camera,
+jacket,
+long hair,
+long sleeves,
+map,
+meta:absurdres,
+meta:highres,
+outdoors,
+rating:general,
+river,
+series:original,
+shirt,
+short hair,
+sky,
+smile,
+standing,
+subreddit:imaginaryhumans,
+taking picture,
+title:wait a minute by げみ(gemi333),
+uploader:musaibwadkar,
+water,
+water bottle,
+yellow shirt,

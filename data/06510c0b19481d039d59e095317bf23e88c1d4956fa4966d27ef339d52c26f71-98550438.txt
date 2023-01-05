@@ -1,36 +1,36 @@
-beach
-blue sky
-boat
-bowl
-bridge
-category:ine
-cloud
-day
-earth (planet)
-fish
-food
-food focus
-horizon
-island
-lake
-mountain
-no humans
-noodles
-ocean
-outdoors
-planet
-rating:safe
-river
-sand
-scenery
-ship
-shore
-sky
-subreddit:imaginarybestof
-title:[/r/imaginarycityscapes] the holy city of setara by timi honkanen
-tower
-uploader:lol33ta
-water
-watercraft
-waterfall
-waves
+beach,
+blue sky,
+boat,
+bowl,
+bridge,
+category:ine,
+cloud,
+day,
+earth (planet),
+fish,
+food,
+food focus,
+horizon,
+island,
+lake,
+mountain,
+no humans,
+noodles,
+ocean,
+outdoors,
+planet,
+rating:safe,
+river,
+sand,
+scenery,
+ship,
+shore,
+sky,
+subreddit:imaginarybestof,
+title:[/r/imaginarycityscapes] the holy city of setara by timi honkanen,
+tower,
+uploader:lol33ta,
+water,
+watercraft,
+waterfall,
+waves,

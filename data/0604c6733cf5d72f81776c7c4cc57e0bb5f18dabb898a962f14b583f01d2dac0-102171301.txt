@@ -1,20 +1,20 @@
-1girl
-aircraft
-airplane
-boat
-cloud
-instrument
-long hair
-planet
-rating:safe
-scenery
-shooting star
-sky
-star (sky)
-starry sky
-subreddit:imaginaryfuturism
-subreddit:imaginaryvillages
-title:future life #18 magazine cover art, 1980, by david mattingly
-tower
-uploader:yannirotten
-watercraft
+1girl,
+aircraft,
+airplane,
+boat,
+cloud,
+instrument,
+long hair,
+planet,
+rating:safe,
+scenery,
+shooting star,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginaryfuturism,
+subreddit:imaginaryvillages,
+title:future life #18 magazine cover art, 1980, by david mattingly,
+tower,
+uploader:yannirotten,
+watercraft,

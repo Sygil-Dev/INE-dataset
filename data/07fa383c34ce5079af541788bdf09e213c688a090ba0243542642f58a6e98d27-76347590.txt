@@ -1,21 +1,21 @@
-1girl
-armor
-blue hair
-day
-feathered wings
-holding
-long hair
-polearm
-rating:safe
-sky
-solo
-spear
-subreddit:imaginaryangels
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-subreddit:imraces
-title:paladin hildira in bastion by anna esyutkina
-uploader:lol33ta
-weapon
-white wings
-wings
+1girl,
+armor,
+blue hair,
+day,
+feathered wings,
+holding,
+long hair,
+polearm,
+rating:safe,
+sky,
+solo,
+spear,
+subreddit:imaginaryangels,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+subreddit:imraces,
+title:paladin hildira in bastion by anna esyutkina,
+uploader:lol33ta,
+weapon,
+white wings,
+wings,

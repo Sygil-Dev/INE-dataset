@@ -1,29 +1,29 @@
-armor
-artist name
-blood
-burning
-cape
-copyright name
-fire
-flaming sword
-flaming weapon
-glowing
-helmet
-holding
-holding sword
-holding weapon
-plume
-rating:safe
-sharp teeth
-shoulder armor
-standing
-subreddit:imaginarycarnage
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imnsfw
-sword
-title:"deadly contrast" by anato finnstark
-title:deadly contrast by anato finnstark
-uploader:dancing_cthulhu
-uploader:nikephoros_ii_phokas
-weapon
+armor,
+artist name,
+blood,
+burning,
+cape,
+copyright name,
+fire,
+flaming sword,
+flaming weapon,
+glowing,
+helmet,
+holding,
+holding sword,
+holding weapon,
+plume,
+rating:safe,
+sharp teeth,
+shoulder armor,
+standing,
+subreddit:imaginarycarnage,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imnsfw,
+sword,
+title:"deadly contrast" by anato finnstark,
+title:deadly contrast by anato finnstark,
+uploader:dancing_cthulhu,
+uploader:nikephoros_ii_phokas,
+weapon,

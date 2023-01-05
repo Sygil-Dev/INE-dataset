@@ -1,41 +1,41 @@
-1 female
-10s
-bangs
-black eyes
-black hair
-black neckwear
-black pants
-character:shimomura izumi
-closed mouth
-clothing:legwear
-clothing:shirt
-cowboy shot
-creator:highkun
-dissolving
-dress shirt
-fighting stance
-formal
-gender:female
-lips
-long sleeves
-medium:grey background
-medium:high resolution
-medium:simple background
-meta:highres
-meta:spoilers
-mole
-mole under eye
-necktie
-pants
-rating:mature
-rating:safe
-red lips
-series:ajin (sakurai gamon)
-series:ajin: demi-human
-shirt
-solo
-subreddit:imaginarycharacters
-suit
-swept bangs
-title:izumi shimomura by high kun
-uploader:ultartx
+1 female,
+10s,
+bangs,
+black eyes,
+black hair,
+black neckwear,
+black pants,
+character:shimomura izumi,
+closed mouth,
+clothing:legwear,
+clothing:shirt,
+cowboy shot,
+creator:highkun,
+dissolving,
+dress shirt,
+fighting stance,
+formal,
+gender:female,
+lips,
+long sleeves,
+medium:grey background,
+medium:high resolution,
+medium:simple background,
+meta:highres,
+meta:spoilers,
+mole,
+mole under eye,
+necktie,
+pants,
+rating:mature,
+rating:safe,
+red lips,
+series:ajin (sakurai gamon),
+series:ajin: demi-human,
+shirt,
+solo,
+subreddit:imaginarycharacters,
+suit,
+swept bangs,
+title:izumi shimomura by high kun,
+uploader:ultartx,

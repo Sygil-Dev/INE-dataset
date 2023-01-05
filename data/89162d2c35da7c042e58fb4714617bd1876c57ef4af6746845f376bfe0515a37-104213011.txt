@@ -1,22 +1,22 @@
-1girl
-armor
-cape
-full body
-fur trim
-grey background
-helmet
-holding
-holding weapon
-pantyhose
-polearm
-rating:safe
-signature
-simple background
-solo
-spear
-subreddit:imaginarymonstergirls
-subreddit:imaginarywarriors
-title:moth warrior by grace liu
-title:moth warrior by nightblue-art/grace liu
-uploader:myrandall
-weapon
+1girl,
+armor,
+cape,
+full body,
+fur trim,
+grey background,
+helmet,
+holding,
+holding weapon,
+pantyhose,
+polearm,
+rating:safe,
+signature,
+simple background,
+solo,
+spear,
+subreddit:imaginarymonstergirls,
+subreddit:imaginarywarriors,
+title:moth warrior by grace liu,
+title:moth warrior by nightblue-art/grace liu,
+uploader:myrandall,
+weapon,

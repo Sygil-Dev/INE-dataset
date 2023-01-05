@@ -1,53 +1,53 @@
-1 female
-1girl
-6+others
-black eyes
-black hair
-booru:danbooru
-clothing:hair tie
-cloud
-creator:alpyro
-face mask
-gender:female
-holding
-holding object
-holding sword
-holding weapon
-horns
-katana
-mask
-medium:high resolution
-meta:highres
-moon
-moss
-multiple others
-navel
-night
-night sky
-ninja
-outdoors
-outside
-parkour
-pauldrons
-ponytail
-pouch
-rating:safe
-rooftop
-running
-scabbard
-series:original
-sheath
-sheathed
-sky
-stomach
-subreddit:imaginaryassassins
-subreddit:imcharacters
-sword
-tattoo
-tied hair
-title:jiyu by remy paul
-tree
-unsheathed
-uploader:myrandall
-vambraces
-weapon
+1 female,
+1girl,
+6+others,
+black eyes,
+black hair,
+booru:danbooru,
+clothing:hair tie,
+cloud,
+creator:alpyro,
+face mask,
+gender:female,
+holding,
+holding object,
+holding sword,
+holding weapon,
+horns,
+katana,
+mask,
+medium:high resolution,
+meta:highres,
+moon,
+moss,
+multiple others,
+navel,
+night,
+night sky,
+ninja,
+outdoors,
+outside,
+parkour,
+pauldrons,
+ponytail,
+pouch,
+rating:safe,
+rooftop,
+running,
+scabbard,
+series:original,
+sheath,
+sheathed,
+sky,
+stomach,
+subreddit:imaginaryassassins,
+subreddit:imcharacters,
+sword,
+tattoo,
+tied hair,
+title:jiyu by remy paul,
+tree,
+unsheathed,
+uploader:myrandall,
+vambraces,
+weapon,

@@ -1,27 +1,27 @@
-1970s (style)
-1980s (style)
-beach
-cloud
-day
-desert
-earth (planet)
-food
-fruit
-full moon
-moon
-night sky
-ocean
-outdoors
-planet
-rating:safe
-retro artstyle
-shooting star
-sky
-space
-space craft
-star (sky)
-starry sky
-subreddit:imaginaryaliens
-title:fantastic universe cover art, january 1954, by joseph richards
-traditional media
-uploader:yannirotten
+1970s (style),
+1980s (style),
+beach,
+cloud,
+day,
+desert,
+earth (planet),
+food,
+fruit,
+full moon,
+moon,
+night sky,
+ocean,
+outdoors,
+planet,
+rating:safe,
+retro artstyle,
+shooting star,
+sky,
+space,
+space craft,
+star (sky),
+starry sky,
+subreddit:imaginaryaliens,
+title:fantastic universe cover art, january 1954, by joseph richards,
+traditional media,
+uploader:yannirotten,

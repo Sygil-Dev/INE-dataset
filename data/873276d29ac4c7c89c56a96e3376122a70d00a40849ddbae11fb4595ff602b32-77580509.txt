@@ -1,58 +1,58 @@
-age difference
-ambiguous gender
-beard
-black body
-black fur
-blue eyes
-chopsticks
-clothed
-clothing
-cloud
-cooking
-creator:mifuki32
-cub
-facial hair
-feral
-fur
-grass
-green eyes
-group
-hat
-headgear
-headwear
-leaf
-male
-meta:hi res
-meta:signature
-meta:tagme
-mountain
-older human
-older male
-plant
-quadruped
-rating:safe
-slice of life
-species:anatid
-species:anseriform
-species:anserinae
-species:avian
-species:bird
-species:chicken
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:galliform
-species:gallus (genus)
-species:goose
-species:human
-species:mammal
-species:phasianid
-subreddit:imaginaryfeels
-subreddit:immeta
-title:"old man and cat" by 三二木_mifuki32
-uploader:parfaitdream
-white body
-white fur
-wok
-young
+age difference,
+ambiguous gender,
+beard,
+black body,
+black fur,
+blue eyes,
+chopsticks,
+clothed,
+clothing,
+cloud,
+cooking,
+creator:mifuki32,
+cub,
+facial hair,
+feral,
+fur,
+grass,
+green eyes,
+group,
+hat,
+headgear,
+headwear,
+leaf,
+male,
+meta:hi res,
+meta:signature,
+meta:tagme,
+mountain,
+older human,
+older male,
+plant,
+quadruped,
+rating:safe,
+slice of life,
+species:anatid,
+species:anseriform,
+species:anserinae,
+species:avian,
+species:bird,
+species:chicken,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:galliform,
+species:gallus (genus),
+species:goose,
+species:human,
+species:mammal,
+species:phasianid,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+title:"old man and cat" by 三二木_mifuki32,
+uploader:parfaitdream,
+white body,
+white fur,
+wok,
+young,

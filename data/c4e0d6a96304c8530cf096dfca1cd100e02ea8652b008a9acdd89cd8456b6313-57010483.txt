@@ -1,55 +1,55 @@
-ambiguous gender
-barefoot
-brown eyes
-character:detective pikachu
-clothing
-creator:silverfox5213
-daww
-dipstick ears
-e621
-feet
-feral
-fluffy
-fur
-hat
-headgear
-headwear
-long ears
-looking at viewer
-lore:male (lore)
-meta:2018
-meta:detailed
-meta:digital drawing (artwork)
-meta:digital media (artwork)
-meta:url
-meta:watermark
-multicolored ears
-rating:safe
-red body
-red fur
-series:nintendo
-series:pokémon
-series:pokémon detective pikachu
-shrug
-simple background
-smile
-solo
-species:mammal
-species:pikachu
-species:pokémon (species)
-species:rodent
-standing
-subreddit:imaginarykanto
-subreddit:imfandoms
-text
-title:detective pikachu by silverfox5213
-tongue
-tongue out
-uploader:lol33ta
-video games
-whiskers
-white background
-white body
-white fur
-yellow body
-yellow fur
+ambiguous gender,
+barefoot,
+brown eyes,
+character:detective pikachu,
+clothing,
+creator:silverfox5213,
+daww,
+dipstick ears,
+e621,
+feet,
+feral,
+fluffy,
+fur,
+hat,
+headgear,
+headwear,
+long ears,
+looking at viewer,
+lore:male (lore),
+meta:2018,
+meta:detailed,
+meta:digital drawing (artwork),
+meta:digital media (artwork),
+meta:url,
+meta:watermark,
+multicolored ears,
+rating:safe,
+red body,
+red fur,
+series:nintendo,
+series:pokémon,
+series:pokémon detective pikachu,
+shrug,
+simple background,
+smile,
+solo,
+species:mammal,
+species:pikachu,
+species:pokémon (species),
+species:rodent,
+standing,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+text,
+title:detective pikachu by silverfox5213,
+tongue,
+tongue out,
+uploader:lol33ta,
+video games,
+whiskers,
+white background,
+white body,
+white fur,
+yellow body,
+yellow fur,

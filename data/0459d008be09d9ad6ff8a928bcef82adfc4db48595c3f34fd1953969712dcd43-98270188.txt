@@ -1,26 +1,26 @@
-6+boys
-bald
-beard
-blonde hair
-braid
-dated
-facial hair
-fine art parody
-hat
-horse
-multiple boys
-old
-old man
-polearm
-rating:safe
-signature
-sitting
-spear
-staff
-subreddit:imaginaryfood
-subreddit:imaginarygiants
-subreddit:immeta
-subreddit:imraces
-title:"feast of legends" (1985) by john howe
-uploader:yannirotten
-weapon
+6+boys,
+bald,
+beard,
+blonde hair,
+braid,
+dated,
+facial hair,
+fine art parody,
+hat,
+horse,
+multiple boys,
+old,
+old man,
+polearm,
+rating:safe,
+signature,
+sitting,
+spear,
+staff,
+subreddit:imaginaryfood,
+subreddit:imaginarygiants,
+subreddit:immeta,
+subreddit:imraces,
+title:"feast of legends" (1985) by john howe,
+uploader:yannirotten,
+weapon,

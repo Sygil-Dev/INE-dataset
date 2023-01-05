@@ -1,75 +1,75 @@
-alien
-armor
-auction
-bald
-bare midriff
-beard
-belly
-bitch taken for walk
-blue skin
-character:sullustan
-character:twi'lek
-character:zygerrian
-clothed
-clothing
-colored skin
-crowd
-cuffs
-ears
-facial hair
-feline
-feline ears
-hand cuffs
-handcuffs
-hat
-headband
-headwear
-holding weapon
-holding whip
-hood
-large ears
-led through crowd
-lightwhip
-long ears
-male
-market
-marketplace
-medium:high resolution
-medium:official art
-meta:official art
-meta:zygerria
-midriff
-multiple boys
-multiple males
-navel
-outdoors
-prisoner
-ralph lomotan
-rating:questionable
-rating:safe
-restraints
-road
-series:clone wars
-series:lucasarts
-series:star wars
-sex slave
-short
-size difference
-skirt
-slave
-slave auction
-slave market
-slaver
-standing
-street
-studio:lucasarts
-subreddit:imaginaryslavery
-sullustan
-surrounded
-title:star wars: scum and villainy - zygerrian slave auction, by raph herrera lomotan
-ugnaught
-uploader:risellka
-walk of shame
-whip
-wrist cuffs
-zygerria
+alien,
+armor,
+auction,
+bald,
+bare midriff,
+beard,
+belly,
+bitch taken for walk,
+blue skin,
+character:sullustan,
+character:twi'lek,
+character:zygerrian,
+clothed,
+clothing,
+colored skin,
+crowd,
+cuffs,
+ears,
+facial hair,
+feline,
+feline ears,
+hand cuffs,
+handcuffs,
+hat,
+headband,
+headwear,
+holding weapon,
+holding whip,
+hood,
+large ears,
+led through crowd,
+lightwhip,
+long ears,
+male,
+market,
+marketplace,
+medium:high resolution,
+medium:official art,
+meta:official art,
+meta:zygerria,
+midriff,
+multiple boys,
+multiple males,
+navel,
+outdoors,
+prisoner,
+ralph lomotan,
+rating:questionable,
+rating:safe,
+restraints,
+road,
+series:clone wars,
+series:lucasarts,
+series:star wars,
+sex slave,
+short,
+size difference,
+skirt,
+slave,
+slave auction,
+slave market,
+slaver,
+standing,
+street,
+studio:lucasarts,
+subreddit:imaginaryslavery,
+sullustan,
+surrounded,
+title:star wars: scum and villainy - zygerrian slave auction, by raph herrera lomotan,
+ugnaught,
+uploader:risellka,
+walk of shame,
+whip,
+wrist cuffs,
+zygerria,

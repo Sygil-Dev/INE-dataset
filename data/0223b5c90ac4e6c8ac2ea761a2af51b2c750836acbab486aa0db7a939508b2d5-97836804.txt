@@ -1,36 +1,36 @@
-1girl
-ahoge
-animal ears
-blue eyes
-blurry
-blurry background
-bread
-burger
-character:oguri cap (umamusume)
-depth of field
-eating
-eyebrows visible through hair
-food
-hair between eyes
-headband
-indoors
-long hair
-pancake
-pie
-plate
-puffy short sleeves
-puffy sleeves
-rating:safe
-sailor collar
-school uniform
-serafuku
-short sleeves
-silver hair
-sitting
-solo
-subreddit:imaginaryfood
-subreddit:immeta
-title:yummy toast - mi_so_ni_it
-toast
-tracen school uniform
-uploader:phillyphresh
+1girl,
+ahoge,
+animal ears,
+blue eyes,
+blurry,
+blurry background,
+bread,
+burger,
+character:oguri cap (umamusume),
+depth of field,
+eating,
+eyebrows visible through hair,
+food,
+hair between eyes,
+headband,
+indoors,
+long hair,
+pancake,
+pie,
+plate,
+puffy short sleeves,
+puffy sleeves,
+rating:safe,
+sailor collar,
+school uniform,
+serafuku,
+short sleeves,
+silver hair,
+sitting,
+solo,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:yummy toast - mi_so_ni_it,
+toast,
+tracen school uniform,
+uploader:phillyphresh,

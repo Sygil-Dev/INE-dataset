@@ -1,49 +1,49 @@
-5 toes
-ambiguous gender
-barefoot
-blonde hair
-blue eyes
-character:link
-cloud
-creator:vavafle cmsn
-detailed background
-duo
-feet
-feral
-grass
-hair
-humanoid pointy ears
-leaf
-light
-light body
-light skin
-male
-melee weapon
-meta:2022
-not furry
-open mouth
-plant
-raining
-rating:safe
-rock
-series:nintendo
-series:the legend of zelda
-sitting
-sky
-species:humanoid
-species:hylian
-species:lizard
-species:reptile
-species:scalie
-subreddit:imaginarygaming
-subreddit:imaginaryweather
-subreddit:imfandoms
-subreddit:imnature
-sunlight
-sword
-title:taking shelter by jackdu
-toes
-tree
-uploader:myrandall
-video games
-weapon
+5 toes,
+ambiguous gender,
+barefoot,
+blonde hair,
+blue eyes,
+character:link,
+cloud,
+creator:vavafle cmsn,
+detailed background,
+duo,
+feet,
+feral,
+grass,
+hair,
+humanoid pointy ears,
+leaf,
+light,
+light body,
+light skin,
+male,
+melee weapon,
+meta:2022,
+not furry,
+open mouth,
+plant,
+raining,
+rating:safe,
+rock,
+series:nintendo,
+series:the legend of zelda,
+sitting,
+sky,
+species:humanoid,
+species:hylian,
+species:lizard,
+species:reptile,
+species:scalie,
+subreddit:imaginarygaming,
+subreddit:imaginaryweather,
+subreddit:imfandoms,
+subreddit:imnature,
+sunlight,
+sword,
+title:taking shelter by jackdu,
+toes,
+tree,
+uploader:myrandall,
+video games,
+weapon,

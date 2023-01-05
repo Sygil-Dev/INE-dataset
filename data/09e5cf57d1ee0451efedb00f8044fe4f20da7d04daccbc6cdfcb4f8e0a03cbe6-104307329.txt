@@ -1,19 +1,19 @@
-1girl
-architecture
-bridge
-building
-city
-cityscape
-cloud
-day
-long hair
-outdoors
-rating:safe
-scenery
-sky
-skyscraper
-standing
-subreddit:imaginarysteampunk
-title:steampunk city by evozon game studio
-tower
-uploader:hvitserkr
+1girl,
+architecture,
+bridge,
+building,
+city,
+cityscape,
+cloud,
+day,
+long hair,
+outdoors,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+standing,
+subreddit:imaginarysteampunk,
+title:steampunk city by evozon game studio,
+tower,
+uploader:hvitserkr,

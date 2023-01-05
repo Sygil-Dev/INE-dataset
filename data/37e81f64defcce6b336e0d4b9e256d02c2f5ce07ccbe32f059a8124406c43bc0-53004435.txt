@@ -1,30 +1,30 @@
-artist:x-celebril-x
-breasts
-copyright:blizzard_entertainment
-copyright:warcraft
-creator:x-celebril-x
-female
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:url
-not furry
-not_furry
-rating:safe
-series:blizzard entertainment
-series:warcraft
-solo
-species:elf
-species:humanoid
-species:night elf
-species:night_elf
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-text
-title:death knight by x-celebril-x
-uploader:myrandall
-video games
-video_games
+artist:x-celebril-x,
+breasts,
+copyright:blizzard_entertainment,
+copyright:warcraft,
+creator:x-celebril-x,
+female,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:url,
+not furry,
+not_furry,
+rating:safe,
+series:blizzard entertainment,
+series:warcraft,
+solo,
+species:elf,
+species:humanoid,
+species:night elf,
+species:night_elf,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+text,
+title:death knight by x-celebril-x,
+uploader:myrandall,
+video games,
+video_games,

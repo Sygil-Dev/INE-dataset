@@ -1,77 +1,77 @@
-action pose
-ambiguous gender
-barbel (anatomy)
-biped
-blue sky
-booru:konachan.com
-chain
-character:altaria
-character:blastoise
-character:dragonair
-character:dragonite
-character:exeggutor
-character:gyarados
-character:tagme (character)
-claws
-cloud
-clouds
-creator:spareribs
-creator:supearibu
-day
-detailed background
-eyes closed
-feral
-flying
-group
-membrane (anatomy)
-membranous wings
-meta:2020
-meta:hi res
-nobody
-open mouth
-outside
-partially submerged
-plant
-pose
-quadruped
-rating:safe
-rock
-series:nintendo
-series:pokemon
-series:pokémon
-serpentine
-shell
-sky
-species:aggron
-species:alolan exeggutor
-species:altaria
-species:blastoise
-species:deino
-species:dragonair
-species:dragonite
-species:drampa
-species:elemental creature
-species:flapple
-species:flora fauna
-species:flygon
-species:fossil pokémon
-species:garchomp
-species:goomy
-species:gyarados
-species:kommo-o
-species:noivern
-species:pokémon (species)
-species:regional form (pokémon)
-species:shiny pokémon
-species:tyrantrum
-standing
-subreddit:imaginarykanto
-subreddit:imfandoms
-teeth
-title:dragon island of the sky by spareribs
-uploader:hornyheracross
-video games
-walking
-water
-waterfall
-wings
+action pose,
+ambiguous gender,
+barbel (anatomy),
+biped,
+blue sky,
+booru:konachan.com,
+chain,
+character:altaria,
+character:blastoise,
+character:dragonair,
+character:dragonite,
+character:exeggutor,
+character:gyarados,
+character:tagme (character),
+claws,
+cloud,
+clouds,
+creator:spareribs,
+creator:supearibu,
+day,
+detailed background,
+eyes closed,
+feral,
+flying,
+group,
+membrane (anatomy),
+membranous wings,
+meta:2020,
+meta:hi res,
+nobody,
+open mouth,
+outside,
+partially submerged,
+plant,
+pose,
+quadruped,
+rating:safe,
+rock,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+serpentine,
+shell,
+sky,
+species:aggron,
+species:alolan exeggutor,
+species:altaria,
+species:blastoise,
+species:deino,
+species:dragonair,
+species:dragonite,
+species:drampa,
+species:elemental creature,
+species:flapple,
+species:flora fauna,
+species:flygon,
+species:fossil pokémon,
+species:garchomp,
+species:goomy,
+species:gyarados,
+species:kommo-o,
+species:noivern,
+species:pokémon (species),
+species:regional form (pokémon),
+species:shiny pokémon,
+species:tyrantrum,
+standing,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+teeth,
+title:dragon island of the sky by spareribs,
+uploader:hornyheracross,
+video games,
+walking,
+water,
+waterfall,
+wings,

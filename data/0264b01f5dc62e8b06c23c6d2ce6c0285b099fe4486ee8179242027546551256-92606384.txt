@@ -1,21 +1,21 @@
-artist name
-city
-cloud
-cloudy sky
-horizon
-mountain
-no humans
-ocean
-outdoors
-rating:safe
-scenery
-signature
-sky
-subreddit:imaginaryseascapes
-subreddit:imlandscapes
-title:old boat, my oil painting on a hardboard 8''x12''
-title:old boat, my ool painting on a hardboard 8''x12''
-uploader:evacuatebarter
-uploader:kznsq
-water
-watercraft
+artist name,
+city,
+cloud,
+cloudy sky,
+horizon,
+mountain,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+signature,
+sky,
+subreddit:imaginaryseascapes,
+subreddit:imlandscapes,
+title:old boat, my oil painting on a hardboard 8''x12'',
+title:old boat, my ool painting on a hardboard 8''x12'',
+uploader:evacuatebarter,
+uploader:kznsq,
+water,
+watercraft,

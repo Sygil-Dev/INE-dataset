@@ -1,23 +1,23 @@
-1boy
-armor
-artist name
-boots
-dated
-facial hair
-gradient
-gradient background
-hat
-male focus
-pointy ears
-rating:safe
-realistic
-sheath
-sheathed
-signature
-solo
-standing
-subreddit:characterart
-sword
-title:moss by mingming
-uploader:lol33ta
-weapon
+1boy,
+armor,
+artist name,
+boots,
+dated,
+facial hair,
+gradient,
+gradient background,
+hat,
+male focus,
+pointy ears,
+rating:safe,
+realistic,
+sheath,
+sheathed,
+signature,
+solo,
+standing,
+subreddit:characterart,
+sword,
+title:moss by mingming,
+uploader:lol33ta,
+weapon,

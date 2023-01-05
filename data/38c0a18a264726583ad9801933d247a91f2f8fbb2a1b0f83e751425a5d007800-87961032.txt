@@ -1,20 +1,20 @@
-book
-bookshelf
-booru:sankaku
-butterfly
-creator:wenqing yan
-female
-grass
-indoors
-insect
-leaf
-library
-medium:high resolution
-rating:s
-series:deviantart
-series:original
-solo
-subreddit:imaginarylibraries
-subreddit:imarchitecture
-title:'welcome to nevermore' by yuumei
-uploader:lambentenigma
+book,
+bookshelf,
+booru:sankaku,
+butterfly,
+creator:wenqing yan,
+female,
+grass,
+indoors,
+insect,
+leaf,
+library,
+medium:high resolution,
+rating:s,
+series:deviantart,
+series:original,
+solo,
+subreddit:imaginarylibraries,
+subreddit:imarchitecture,
+title:'welcome to nevermore' by yuumei,
+uploader:lambentenigma,

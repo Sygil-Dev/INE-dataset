@@ -1,44 +1,44 @@
-1girl
-animal
-black cat
-black hair
-black umbrella
-blue umbrella
-blurry
-blurry background
-bus stop
-cat
-cloudy sky
-depth of field
-grey sky
-holding
-holding umbrella
-hydrangea
-male focus
-oil-paper umbrella
-outdoors
-overcast
-pink umbrella
-puddle
-rain
-raincoat
-rating:safe
-red umbrella
-reflection
-rubber boots
-shared umbrella
-showering
-solo
-storm
-subreddit:imaginarypets
-subreddit:imaginaryrobotics
-title:rain encounter by atey majeed ghailan
-transparent
-transparent umbrella
-umbrella
-uploader:myrandall
-water drop
-wet
-wet clothes
-wet hair
-wet shirt
+1girl,
+animal,
+black cat,
+black hair,
+black umbrella,
+blue umbrella,
+blurry,
+blurry background,
+bus stop,
+cat,
+cloudy sky,
+depth of field,
+grey sky,
+holding,
+holding umbrella,
+hydrangea,
+male focus,
+oil-paper umbrella,
+outdoors,
+overcast,
+pink umbrella,
+puddle,
+rain,
+raincoat,
+rating:safe,
+red umbrella,
+reflection,
+rubber boots,
+shared umbrella,
+showering,
+solo,
+storm,
+subreddit:imaginarypets,
+subreddit:imaginaryrobotics,
+title:rain encounter by atey majeed ghailan,
+transparent,
+transparent umbrella,
+umbrella,
+uploader:myrandall,
+water drop,
+wet,
+wet clothes,
+wet hair,
+wet shirt,

@@ -1,34 +1,34 @@
-bleeding
-blood
-blood from eyes
-blood from mouth
-blood on clothes
-blood on face
-blood on hands
-blood on knife
-blood on weapon
-blood splatter
-blood stain
-chainsaw
-corpse
-crazy eyes
-crazy smile
-cuts
-death
-defloration
-guro
-horror (theme)
-injury
-nosebleed
-paint splatter
-pool of blood
-rating:safe
-red theme
-scratches
-severed head
-splatter
-stab
-subreddit:imaginarycarnage
-title:shredded.
-uploader:literalhatcs
-yandere
+bleeding,
+blood,
+blood from eyes,
+blood from mouth,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on knife,
+blood on weapon,
+blood splatter,
+blood stain,
+chainsaw,
+corpse,
+crazy eyes,
+crazy smile,
+cuts,
+death,
+defloration,
+guro,
+horror (theme),
+injury,
+nosebleed,
+paint splatter,
+pool of blood,
+rating:safe,
+red theme,
+scratches,
+severed head,
+splatter,
+stab,
+subreddit:imaginarycarnage,
+title:shredded.,
+uploader:literalhatcs,
+yandere,

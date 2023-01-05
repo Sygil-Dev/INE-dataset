@@ -1,51 +1,51 @@
-1girl
-air conditioner
-bangs
-black gloves
-black jacket
-black pants
-blood
-blood splatter
-booru:sankaku
-car
-closed mouth
-clothing
-creator:guweiz
-creator:ttguweiz
-crowbar
-day
-earrings
-female
-gloves
-ground vehicle
-hairband
-highres
-holding
-jacket
-jewelry
-long hair
-long sleeves
-medium:high resolution
-meta:highres
-meta:symbol-only commentary
-motor vehicle
-on vehicle
-open clothes
-open jacket
-pants
-ponytail
-rating:general
-rating:s
-rating:safe
-red hairband
-series:original
-sidelocks
-solo
-standing
-stud earrings
-subreddit:imaginaryhumans
-subreddit:imraces
-tied hair
-title:🌃 by guweiz
-uploader:musaibwadkar
-vehicle
+1girl,
+air conditioner,
+bangs,
+black gloves,
+black jacket,
+black pants,
+blood,
+blood splatter,
+booru:sankaku,
+car,
+closed mouth,
+clothing,
+creator:guweiz,
+creator:ttguweiz,
+crowbar,
+day,
+earrings,
+female,
+gloves,
+ground vehicle,
+hairband,
+highres,
+holding,
+jacket,
+jewelry,
+long hair,
+long sleeves,
+medium:high resolution,
+meta:highres,
+meta:symbol-only commentary,
+motor vehicle,
+on vehicle,
+open clothes,
+open jacket,
+pants,
+ponytail,
+rating:general,
+rating:s,
+rating:safe,
+red hairband,
+series:original,
+sidelocks,
+solo,
+standing,
+stud earrings,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+tied hair,
+title:🌃 by guweiz,
+uploader:musaibwadkar,
+vehicle,

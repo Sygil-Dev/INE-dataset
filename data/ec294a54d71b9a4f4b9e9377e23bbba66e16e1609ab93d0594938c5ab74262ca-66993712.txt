@@ -1,21 +1,21 @@
-2d
-creator:henry yann
-creature
-fantasy
-fisherman
-game art
-grafit studio
-gwent
-illustration
-medium:digital 2d
-mermaid
-monster
-subreddit:imaginaryhorrors
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-swamp
-title:swamp mermaid
-title:swamp mermaid by henry yann
-uploader:dontaskmeplease333
-uploader:lol33ta
-witcher
+2d,
+creator:henry yann,
+creature,
+fantasy,
+fisherman,
+game art,
+grafit studio,
+gwent,
+illustration,
+medium:digital 2d,
+mermaid,
+monster,
+subreddit:imaginaryhorrors,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+swamp,
+title:swamp mermaid,
+title:swamp mermaid by henry yann,
+uploader:dontaskmeplease333,
+uploader:lol33ta,
+witcher,

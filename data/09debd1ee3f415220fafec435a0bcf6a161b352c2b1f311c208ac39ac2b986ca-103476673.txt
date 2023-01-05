@@ -1,21 +1,21 @@
-3boys
-alcohol
-bottle
-cup
-drinking glass
-fireworks
-food
-hat
-multiple boys
-multiple girls
-night
-night sky
-planet
-rating:safe
-sky
-space
-star (sky)
-starry sky
-subreddit:imaginaryfood
-title:all foods by daniel valaisis
-uploader:yannirotten
+3boys,
+alcohol,
+bottle,
+cup,
+drinking glass,
+fireworks,
+food,
+hat,
+multiple boys,
+multiple girls,
+night,
+night sky,
+planet,
+rating:safe,
+sky,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryfood,
+title:all foods by daniel valaisis,
+uploader:yannirotten,

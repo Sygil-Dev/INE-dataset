@@ -1,135 +1,135 @@
-1 female
-1girl
-2 males
-2boys
-10s
-::3
-airport
-alternate universe
-artist:chocogrotto
-baby carrier
-babywearing
-bare shoulders
-baseball cap
-bent over
-black bra
-black underwear
-blush
-booru:safebooru
-booru:sankaku
-booru:sankaku channel
-bra
-brown hair
-bubble
-buttons
-capri pants
-chair
-character:blue (pokemon)
-character:blue oak
-character:blue oak (sm)
-character:gen 1 pokemon
-character:green (pokemon)
-character:ookido green
-character:ookido green (sm)
-character:pikachu
-character:pokemon (creature)
-character:pokemon character
-character:pokemon species
-character:protagonist (pokemon)
-character:red (pokemon sm)
-character:red (pokemon)
-character:red (pokemon) (sm)
-chocogrotto
-closed eyes
-clothing
-clothing:baseball cap
-clothing:black underwear
-clothing:bra
-clothing:crop top
-clothing:hat
-clothing:headwear
-clothing:jeans
-clothing:legwear
-clothing:lingerie
-clothing:pants
-clothing:raglan sleeves
-clothing:underwear
-commentary
-copyright:pokemon sm
-creator:chocogrotto
-crop top
-denim
-exhausted
-eyes closed
-face::3
-female
-gen 1 pokemon
-gender:female
-gender:male
-green pants
-hat
-indoors
-jeans
-lingerie
-long hair
-male
-medium:2010s
-medium:photo
-medium:photo background
-medium:photograph
-messy hair
-meta:bad id
-meta:bad twitter id
-meta:commentary
-midriff
-multiple boys
-multiple males
-navel
-nose bubble
-older
-ookido green (sm)
-orange eyes
-orange hair
-pants
-photo
-photo background
-poke ball
-pokemon (creature)
-poké ball
-raglan sleeves
-rating:mature
-rating:q
-rating:questionable
-rating:safe
-red (pokemon) (sm)
-rolling suitcase
-sarong
-series:pokemon
-series:pokemon (game)
-series:pokemon sm
-series:pokemon sun & moon
-series:pokémon
-series:pokémon sun & moon
-short hair
-sleep bubble
-sleeping
-sleeping upright
-species:monster
-species:pikachu
-species:pokemon
-species:pokémon
-spiked hair
-spiky hair
-stomach
-studio:airport
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-suitcase
-sun hat
-tired
-title:long flight by chocogrotto on twitter
-underwear
-uploader:pardusco
-what if
-window
+1 female,
+1girl,
+2 males,
+2boys,
+10s,
+::3,
+airport,
+alternate universe,
+artist:chocogrotto,
+baby carrier,
+babywearing,
+bare shoulders,
+baseball cap,
+bent over,
+black bra,
+black underwear,
+blush,
+booru:safebooru,
+booru:sankaku,
+booru:sankaku channel,
+bra,
+brown hair,
+bubble,
+buttons,
+capri pants,
+chair,
+character:blue (pokemon),
+character:blue oak,
+character:blue oak (sm),
+character:gen 1 pokemon,
+character:green (pokemon),
+character:ookido green,
+character:ookido green (sm),
+character:pikachu,
+character:pokemon (creature),
+character:pokemon character,
+character:pokemon species,
+character:protagonist (pokemon),
+character:red (pokemon sm),
+character:red (pokemon),
+character:red (pokemon) (sm),
+chocogrotto,
+closed eyes,
+clothing,
+clothing:baseball cap,
+clothing:black underwear,
+clothing:bra,
+clothing:crop top,
+clothing:hat,
+clothing:headwear,
+clothing:jeans,
+clothing:legwear,
+clothing:lingerie,
+clothing:pants,
+clothing:raglan sleeves,
+clothing:underwear,
+commentary,
+copyright:pokemon sm,
+creator:chocogrotto,
+crop top,
+denim,
+exhausted,
+eyes closed,
+face::3,
+female,
+gen 1 pokemon,
+gender:female,
+gender:male,
+green pants,
+hat,
+indoors,
+jeans,
+lingerie,
+long hair,
+male,
+medium:2010s,
+medium:photo,
+medium:photo background,
+medium:photograph,
+messy hair,
+meta:bad id,
+meta:bad twitter id,
+meta:commentary,
+midriff,
+multiple boys,
+multiple males,
+navel,
+nose bubble,
+older,
+ookido green (sm),
+orange eyes,
+orange hair,
+pants,
+photo,
+photo background,
+poke ball,
+pokemon (creature),
+poké ball,
+raglan sleeves,
+rating:mature,
+rating:q,
+rating:questionable,
+rating:safe,
+red (pokemon) (sm),
+rolling suitcase,
+sarong,
+series:pokemon,
+series:pokemon (game),
+series:pokemon sm,
+series:pokemon sun & moon,
+series:pokémon,
+series:pokémon sun & moon,
+short hair,
+sleep bubble,
+sleeping,
+sleeping upright,
+species:monster,
+species:pikachu,
+species:pokemon,
+species:pokémon,
+spiked hair,
+spiky hair,
+stomach,
+studio:airport,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+suitcase,
+sun hat,
+tired,
+title:long flight by chocogrotto on twitter,
+underwear,
+uploader:pardusco,
+what if,
+window,

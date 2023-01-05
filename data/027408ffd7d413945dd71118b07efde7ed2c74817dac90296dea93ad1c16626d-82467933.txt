@@ -1,20 +1,20 @@
-1girl
-brown hair
-car
-dress
-flower
-grass
-ground vehicle
-motor vehicle
-outdoors
-plant
-rating:safe
-scenery
-subreddit:imaginarygardens
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-title:bourgeoisie by artist eddie mendoza
-title:bourgeoisie by eddie mendoza
-tree
-uploader:anon_ymou5
-uploader:ultartx
+1girl,
+brown hair,
+car,
+dress,
+flower,
+grass,
+ground vehicle,
+motor vehicle,
+outdoors,
+plant,
+rating:safe,
+scenery,
+subreddit:imaginarygardens,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+title:bourgeoisie by artist eddie mendoza,
+title:bourgeoisie by eddie mendoza,
+tree,
+uploader:anon_ymou5,
+uploader:ultartx,

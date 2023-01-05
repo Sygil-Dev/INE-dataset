@@ -1,29 +1,29 @@
-1girl
-beret
-black headwear
-black jacket
-brown hair
-car
-emblem
-firing
-gloves
-ground vehicle
-gun
-handgun
-hat
-holding gun
-jacket
-motor vehicle
-motorcycle
-night
-on motorcycle
-pistol
-rating:safe
-revolver
-short hair
-solo
-subreddit:imaginarycybernetics
-title:cyborg girl 35 by remy paul
-uploader:sr_myers
-vehicle focus
-weapon
+1girl,
+beret,
+black headwear,
+black jacket,
+brown hair,
+car,
+emblem,
+firing,
+gloves,
+ground vehicle,
+gun,
+handgun,
+hat,
+holding gun,
+jacket,
+motor vehicle,
+motorcycle,
+night,
+on motorcycle,
+pistol,
+rating:safe,
+revolver,
+short hair,
+solo,
+subreddit:imaginarycybernetics,
+title:cyborg girl 35 by remy paul,
+uploader:sr_myers,
+vehicle focus,
+weapon,

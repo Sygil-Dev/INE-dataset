@@ -1,26 +1,26 @@
-air bubble
-artist name
-beach
-boat
-bubble
-caustics
-city lights
-horizon
-light rays
-ocean
-rating:safe
-sand
-scenery
-shore
-signature
-sky
-star (sky)
-starry sky
-subreddit:imaginaryseascapes
-sunlight
-title:wave of impression, my oil painting on a canvas panel 12''x16''
-uploader:kznsq
-water
-watercraft
-waves
-whale
+air bubble,
+artist name,
+beach,
+boat,
+bubble,
+caustics,
+city lights,
+horizon,
+light rays,
+ocean,
+rating:safe,
+sand,
+scenery,
+shore,
+signature,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginaryseascapes,
+sunlight,
+title:wave of impression, my oil painting on a canvas panel 12''x16'',
+uploader:kznsq,
+water,
+watercraft,
+waves,
+whale,

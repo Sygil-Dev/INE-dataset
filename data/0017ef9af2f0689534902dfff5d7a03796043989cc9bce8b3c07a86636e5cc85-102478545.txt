@@ -1,19 +1,19 @@
-heart
-mecha
-no humans
-outline
-pink background
-rating:safe
-red background
-speech bubble
-spoken anger vein
-spoken blush
-spoken heart
-spoken musical note
-spoken object
-spoken squiggle
-spoken sweatdrop
-squiggle
-subreddit:imaginaryhalo
-title:casa'nova' by sammyspartan
-uploader:[deleted]
+heart,
+mecha,
+no humans,
+outline,
+pink background,
+rating:safe,
+red background,
+speech bubble,
+spoken anger vein,
+spoken blush,
+spoken heart,
+spoken musical note,
+spoken object,
+spoken squiggle,
+spoken sweatdrop,
+squiggle,
+subreddit:imaginaryhalo,
+title:casa'nova' by sammyspartan,
+uploader:[deleted],

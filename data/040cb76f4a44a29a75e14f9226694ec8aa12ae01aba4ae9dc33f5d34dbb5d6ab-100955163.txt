@@ -1,21 +1,21 @@
-cloud
-cloudy sky
-dragon
-evening
-horizon
-kaijuu
-mountain
-mountainous horizon
-ocean
-orange sky
-outdoors
-rating:safe
-sky
-subreddit:imaginarydragons
-subreddit:imaginarywesteros
-sunset
-tail
-teeth
-title:jahaerys and alysanne on royal progress by joshua cairós
-twilight
-uploader:ooweoprort
+cloud,
+cloudy sky,
+dragon,
+evening,
+horizon,
+kaijuu,
+mountain,
+mountainous horizon,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+sky,
+subreddit:imaginarydragons,
+subreddit:imaginarywesteros,
+sunset,
+tail,
+teeth,
+title:jahaerys and alysanne on royal progress by joshua cairós,
+twilight,
+uploader:ooweoprort,

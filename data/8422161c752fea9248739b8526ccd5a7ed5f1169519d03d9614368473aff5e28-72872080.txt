@@ -1,30 +1,30 @@
-1boy
-bird
-casual
-character:beast boy (dc)
-colored skin
-creator:_gabrielpicolo
-creator:gabriel picolo
-full body
-gabriel picolo
-goose
-green hair
-green skin
-groceries
-holding
-mask
-meta:highres
-mouth mask
-pointy ears
-rating:safe
-series:teen titans
-shoes
-shopping
-sneakers
-squatting
-subreddit:imaginarydc
-subreddit:imfandoms
-tank top
-title:grocery shopping day (2) by gabriel picolo
-uploader:blood-n-cheese
-watermelon slice
+1boy,
+bird,
+casual,
+character:beast boy (dc),
+colored skin,
+creator:_gabrielpicolo,
+creator:gabriel picolo,
+full body,
+gabriel picolo,
+goose,
+green hair,
+green skin,
+groceries,
+holding,
+mask,
+meta:highres,
+mouth mask,
+pointy ears,
+rating:safe,
+series:teen titans,
+shoes,
+shopping,
+sneakers,
+squatting,
+subreddit:imaginarydc,
+subreddit:imfandoms,
+tank top,
+title:grocery shopping day (2) by gabriel picolo,
+uploader:blood-n-cheese,
+watermelon slice,

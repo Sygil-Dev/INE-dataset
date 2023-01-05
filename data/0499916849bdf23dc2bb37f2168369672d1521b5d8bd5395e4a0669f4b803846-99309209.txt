@@ -1,19 +1,19 @@
-artist name
-brown gloves
-gloves
-ground vehicle
-helmet
-mask
-motor vehicle
-motorcycle
-motorcycle helmet
-on motorcycle
-rating:safe
-riding
-shirt
-signature
-solo
-subreddit:imaginaryvehicles
-tank top
-title:moto raider by fernando correa
-uploader:i_burn_cereal
+artist name,
+brown gloves,
+gloves,
+ground vehicle,
+helmet,
+mask,
+motor vehicle,
+motorcycle,
+motorcycle helmet,
+on motorcycle,
+rating:safe,
+riding,
+shirt,
+signature,
+solo,
+subreddit:imaginaryvehicles,
+tank top,
+title:moto raider by fernando correa,
+uploader:i_burn_cereal,

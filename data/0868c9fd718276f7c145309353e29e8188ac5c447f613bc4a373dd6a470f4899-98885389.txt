@@ -1,19 +1,19 @@
-1boy
-colored skin
-dated
-glowing
-gradient
-gradient background
-holding
-holding polearm
-holding weapon
-male focus
-polearm
-rating:safe
-signature
-solo
-spear
-subreddit:imaginarycybernetics
-title:yaksha by vinci r
-uploader:lol33ta
-weapon
+1boy,
+colored skin,
+dated,
+glowing,
+gradient,
+gradient background,
+holding,
+holding polearm,
+holding weapon,
+male focus,
+polearm,
+rating:safe,
+signature,
+solo,
+spear,
+subreddit:imaginarycybernetics,
+title:yaksha by vinci r,
+uploader:lol33ta,
+weapon,

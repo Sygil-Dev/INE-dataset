@@ -1,45 +1,45 @@
-1boy
-arm guards
-armor
-blood
-blood on clothes
-blood on weapon
-bloody weapon
-boots
-box
-brown footwear
-champion of the perished
-character:champion of the perished
-creator:daarkenart
-daarkenart
-fantasy
-gothic
-holding
-holding sword
-holding weapon
-horror (theme)
-leather armor
-male focus
-meta:commentary
-meta:english commentary
-meta:highres
-meta:official art
-rain
-rating:sensitive
-rotting
-series:magic: the gathering
-sharp teeth
-shoulder armor
-shoulder spikes
-single boot
-soldier
-spikes
-subreddit:imaginaryundead
-subreddit:immonsters
-sword
-teeth
-title:champion of the perished by mike "daarken" lim
-uploader:blood-n-cheese
-water drop
-weapon
-zombie
+1boy,
+arm guards,
+armor,
+blood,
+blood on clothes,
+blood on weapon,
+bloody weapon,
+boots,
+box,
+brown footwear,
+champion of the perished,
+character:champion of the perished,
+creator:daarkenart,
+daarkenart,
+fantasy,
+gothic,
+holding,
+holding sword,
+holding weapon,
+horror (theme),
+leather armor,
+male focus,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:official art,
+rain,
+rating:sensitive,
+rotting,
+series:magic: the gathering,
+sharp teeth,
+shoulder armor,
+shoulder spikes,
+single boot,
+soldier,
+spikes,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+sword,
+teeth,
+title:champion of the perished by mike "daarken" lim,
+uploader:blood-n-cheese,
+water drop,
+weapon,
+zombie,

@@ -1,19 +1,19 @@
-1boy
-armor
-axe
-cloud
-copyright name
-fire
-grass
-holding axe
-horns
-male focus
-outdoors
-rating:safe
-sky
-solo
-subreddit:imaginarybehemoths
-teeth
-title:"axeweaver--gladiators of dragon isle|board game" by manthos lappas
-uploader:nikephoros_ii_phokas
-weapon
+1boy,
+armor,
+axe,
+cloud,
+copyright name,
+fire,
+grass,
+holding axe,
+horns,
+male focus,
+outdoors,
+rating:safe,
+sky,
+solo,
+subreddit:imaginarybehemoths,
+teeth,
+title:"axeweaver--gladiators of dragon isle|board game" by manthos lappas,
+uploader:nikephoros_ii_phokas,
+weapon,

@@ -1,19 +1,19 @@
-1girl
-3d
-black hair
-blue eyes
-book
-dress
-full body
-gradient
-gradient background
-jewelry
-long hair
-open book
-rating:safe
-solo
-standing
-subreddit:imaginarywitches
-title:ice queen by anotherparfait
-uploader:anotherparfait
-witch
+1girl,
+3d,
+black hair,
+blue eyes,
+book,
+dress,
+full body,
+gradient,
+gradient background,
+jewelry,
+long hair,
+open book,
+rating:safe,
+solo,
+standing,
+subreddit:imaginarywitches,
+title:ice queen by anotherparfait,
+uploader:anotherparfait,
+witch,

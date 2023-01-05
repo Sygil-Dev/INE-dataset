@@ -1,25 +1,25 @@
-1boy
-beard
-bird
-facial hair
-formal
-grass
-hat
-male focus
-mountain
-mustache
-old
-old man
-outdoors
-rating:safe
-rock
-signature
-sitting
-snow
-subreddit:imaginarygiants
-subreddit:imraces
-suit
-title:“day of the colossus" (2018) by mark roger’s
-top hat
-tree
-uploader:yannirotten
+1boy,
+beard,
+bird,
+facial hair,
+formal,
+grass,
+hat,
+male focus,
+mountain,
+mustache,
+old,
+old man,
+outdoors,
+rating:safe,
+rock,
+signature,
+sitting,
+snow,
+subreddit:imaginarygiants,
+subreddit:imraces,
+suit,
+title:“day of the colossus" (2018) by mark roger’s,
+top hat,
+tree,
+uploader:yannirotten,

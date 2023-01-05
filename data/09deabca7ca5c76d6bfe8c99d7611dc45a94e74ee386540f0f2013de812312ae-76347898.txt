@@ -1,22 +1,22 @@
-armor
-belt
-breastplate
-cape
-full armor
-gauntlets
-greaves
-grey background
-helmet
-holding
-holding sword
-holding weapon
-rating:safe
-shoulder armor
-solo
-standing
-subreddit:imaginaryarmor
-subreddit:imtechnology
-sword
-title:armor 218 by paul shut
-uploader:lol33ta
-weapon
+armor,
+belt,
+breastplate,
+cape,
+full armor,
+gauntlets,
+greaves,
+grey background,
+helmet,
+holding,
+holding sword,
+holding weapon,
+rating:safe,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+sword,
+title:armor 218 by paul shut,
+uploader:lol33ta,
+weapon,

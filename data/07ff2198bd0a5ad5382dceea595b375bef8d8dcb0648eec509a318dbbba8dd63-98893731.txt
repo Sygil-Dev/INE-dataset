@@ -1,41 +1,41 @@
-beach
-blue sky
-bridge
-building
-bush
-city
-cloud
-cloudy sky
-day
-door
-field
-flower
-forest
-grass
-horizon
-house
-island
-lake
-mountain
-nature
-no humans
-ocean
-outdoors
-palm tree
-path
-plant
-potted plant
-rating:safe
-river
-road
-sand
-scenery
-shore
-sky
-subreddit:imaginaryturtleworlds
-title:i built a palace on the back of a turtle in the sims 4
-tower
-tree
-uploader:thesimscrolls
-water
-waterfall
+beach,
+blue sky,
+bridge,
+building,
+bush,
+city,
+cloud,
+cloudy sky,
+day,
+door,
+field,
+flower,
+forest,
+grass,
+horizon,
+house,
+island,
+lake,
+mountain,
+nature,
+no humans,
+ocean,
+outdoors,
+palm tree,
+path,
+plant,
+potted plant,
+rating:safe,
+river,
+road,
+sand,
+scenery,
+shore,
+sky,
+subreddit:imaginaryturtleworlds,
+title:i built a palace on the back of a turtle in the sims 4,
+tower,
+tree,
+uploader:thesimscrolls,
+water,
+waterfall,

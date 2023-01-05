@@ -1,29 +1,29 @@
-arms
-blood
-bodies
-creator:bram sels
-dark
-forest
-hanging
-leaves
-legs
-medium:digital 2d
-night
-painting
-sacrifice
-skeleton
-skulls
-subreddit:imaginaryhorrors
-subreddit:imaginarywitches
-subreddit:immonsters
-tattoos
-thorns
-title:hægtessan
-title:hægtessan by bram sels
-tree
-uploader:dancing_cthulhu
-uploader:lol33ta
-warlocks
-witch
-witches
-woods
+arms,
+blood,
+bodies,
+creator:bram sels,
+dark,
+forest,
+hanging,
+leaves,
+legs,
+medium:digital 2d,
+night,
+painting,
+sacrifice,
+skeleton,
+skulls,
+subreddit:imaginaryhorrors,
+subreddit:imaginarywitches,
+subreddit:immonsters,
+tattoos,
+thorns,
+title:hægtessan,
+title:hægtessan by bram sels,
+tree,
+uploader:dancing_cthulhu,
+uploader:lol33ta,
+warlocks,
+witch,
+witches,
+woods,

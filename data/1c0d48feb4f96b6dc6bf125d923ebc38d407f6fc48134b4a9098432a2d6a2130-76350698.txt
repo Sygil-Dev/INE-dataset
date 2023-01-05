@@ -1,22 +1,22 @@
-creator:irenhorrors
-darkart
-drawlloween
-drawlloween2020
-fantasy
-fantasyart
-gothic
-gothicart
-grimfall
-grimfall2020
-halloween
-halloween2020
-illustration
-irenhorrors
-mabsdrawlloweenclub
-macabre
-magic
-subreddit:imaginarywitches
-title:creepy twins
-title:creepy twins by irenhorrors
-uploader:myrandall
-witchcraft
+creator:irenhorrors,
+darkart,
+drawlloween,
+drawlloween2020,
+fantasy,
+fantasyart,
+gothic,
+gothicart,
+grimfall,
+grimfall2020,
+halloween,
+halloween2020,
+illustration,
+irenhorrors,
+mabsdrawlloweenclub,
+macabre,
+magic,
+subreddit:imaginarywitches,
+title:creepy twins,
+title:creepy twins by irenhorrors,
+uploader:myrandall,
+witchcraft,

@@ -1,29 +1,29 @@
-1girl
-black hair
-black headwear
-book
-cat
-dress
-ghost
-hat
-jack-o'-lantern
-lantern
-night
-open book
-potted plant
-pumpkin
-rating:safe
-shoes
-short hair
-signature
-solo
-star (sky)
-subreddit:imaginaryinteriors
-subreddit:imaginarywitches
-subreddit:imarchitecture
-title:cats by simzart
-uploader:pop_budget
-uploader:simz88
-window
-witch
-witch hat
+1girl,
+black hair,
+black headwear,
+book,
+cat,
+dress,
+ghost,
+hat,
+jack-o'-lantern,
+lantern,
+night,
+open book,
+potted plant,
+pumpkin,
+rating:safe,
+shoes,
+short hair,
+signature,
+solo,
+star (sky),
+subreddit:imaginaryinteriors,
+subreddit:imaginarywitches,
+subreddit:imarchitecture,
+title:cats by simzart,
+uploader:pop_budget,
+uploader:simz88,
+window,
+witch,
+witch hat,

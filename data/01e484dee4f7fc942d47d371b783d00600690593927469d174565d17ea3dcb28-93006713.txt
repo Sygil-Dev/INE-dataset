@@ -1,20 +1,20 @@
-analog clock
-artist name
-clock
-clock tower
-compass
-gears
-heads-up display
-magic circle
-no humans
-rating:safe
-road sign
-roman numeral
-scenery
-sign
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-title:"mansur" - marcel deneuve (2022)
-tower
-uploader:yeeslander
-wall clock
+analog clock,
+artist name,
+clock,
+clock tower,
+compass,
+gears,
+heads-up display,
+magic circle,
+no humans,
+rating:safe,
+road sign,
+roman numeral,
+scenery,
+sign,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+title:"mansur" - marcel deneuve (2022),
+tower,
+uploader:yeeslander,
+wall clock,

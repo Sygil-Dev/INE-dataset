@@ -1,31 +1,31 @@
-1boy
-armor
-battle
-beard
-breathing fire
-burning
-debris
-embers
-explosion
-facial hair
-fire
-firing
-flame
-male focus
-manly
-molten rock
-mustache
-rating:safe
-solo
-subreddit:imaginarybestof
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:immeta
-sun
-sunset
-title:[/r/imaginarywarriors] unstoppable ogre by xavier ribeiro
-title:unstoppable ogre by xavier ribeiro
-uploader:lol33ta
-watermark
-weapon
-web address
+1boy,
+armor,
+battle,
+beard,
+breathing fire,
+burning,
+debris,
+embers,
+explosion,
+facial hair,
+fire,
+firing,
+flame,
+male focus,
+manly,
+molten rock,
+mustache,
+rating:safe,
+solo,
+subreddit:imaginarybestof,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:immeta,
+sun,
+sunset,
+title:[/r/imaginarywarriors] unstoppable ogre by xavier ribeiro,
+title:unstoppable ogre by xavier ribeiro,
+uploader:lol33ta,
+watermark,
+weapon,
+web address,

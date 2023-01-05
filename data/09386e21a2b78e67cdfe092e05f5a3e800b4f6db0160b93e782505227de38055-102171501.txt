@@ -1,21 +1,21 @@
-1other
-ambiguous gender
-bare tree
-branch
-day
-facing away
-forest
-holding
-holding weapon
-nature
-outdoors
-rating:safe
-scenery
-snow
-standing
-subreddit:imaginaryforests
-sword
-title:gloomy forest, by sathish kumar
-tree
-uploader:hadrian_marlow
-weapon
+1other,
+ambiguous gender,
+bare tree,
+branch,
+day,
+facing away,
+forest,
+holding,
+holding weapon,
+nature,
+outdoors,
+rating:safe,
+scenery,
+snow,
+standing,
+subreddit:imaginaryforests,
+sword,
+title:gloomy forest, by sathish kumar,
+tree,
+uploader:hadrian_marlow,
+weapon,

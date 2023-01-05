@@ -1,26 +1,26 @@
-40k
-armor
-armour
-astartes
-black templar
-black templars
-candles
-creator:veronica anrathi
-cross
-emperor
-holy
-imperium
-knight
-loyalist
-medium:digital 2d
-saturnine
-space marine
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-sword
-terminator
-title:emperor's holy knight
-title:emperor's holy knight by veronica anrathi
-uploader:ice91
-warhammer 40000
-warrior
+40k,
+armor,
+armour,
+astartes,
+black templar,
+black templars,
+candles,
+creator:veronica anrathi,
+cross,
+emperor,
+holy,
+imperium,
+knight,
+loyalist,
+medium:digital 2d,
+saturnine,
+space marine,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+sword,
+terminator,
+title:emperor's holy knight,
+title:emperor's holy knight by veronica anrathi,
+uploader:ice91,
+warhammer 40000,
+warrior,

@@ -1,26 +1,26 @@
-bridge
-brown hair
-building
-car
-city
-city lights
-cityscape
-fireworks
-light particles
-multiple girls
-neon lights
-night
-night sky
-rating:safe
-rooftop
-scenery
-shooting star
-sky
-skyline
-skyscraper
-star (sky)
-starry sky
-street
-subreddit:imaginarysliceoflife
-title:welcome to wonderland by lkwong21
-uploader:renderhub
+bridge,
+brown hair,
+building,
+car,
+city,
+city lights,
+cityscape,
+fireworks,
+light particles,
+multiple girls,
+neon lights,
+night,
+night sky,
+rating:safe,
+rooftop,
+scenery,
+shooting star,
+sky,
+skyline,
+skyscraper,
+star (sky),
+starry sky,
+street,
+subreddit:imaginarysliceoflife,
+title:welcome to wonderland by lkwong21,
+uploader:renderhub,

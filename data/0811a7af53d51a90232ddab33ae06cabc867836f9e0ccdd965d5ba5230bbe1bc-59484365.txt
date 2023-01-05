@@ -1,22 +1,22 @@
-1boy
-bald
-beard
-facial hair
-grey background
-ground vehicle
-male focus
-military vehicle
-mustache
-old
-old man
-open mouth
-rating:safe
-realistic
-science fiction
-signature
-solo
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:just finished this painting of a stormcast eternal sequitor while gathering courage to paint my first models ever
-traditional media
-uploader:rrasic
+1boy,
+bald,
+beard,
+facial hair,
+grey background,
+ground vehicle,
+male focus,
+military vehicle,
+mustache,
+old,
+old man,
+open mouth,
+rating:safe,
+realistic,
+science fiction,
+signature,
+solo,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:just finished this painting of a stormcast eternal sequitor while gathering courage to paint my first models ever,
+traditional media,
+uploader:rrasic,

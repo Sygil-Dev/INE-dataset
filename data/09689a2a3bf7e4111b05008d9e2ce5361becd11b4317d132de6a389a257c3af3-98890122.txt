@@ -1,40 +1,40 @@
-anchor
-angel and devil
-artist name
-bat wings
-bound
-broken
-broken chain
-chain
-chained
-claws
-collar
-cuffs
-dated
-demon
-demon boy
-demon girl
-demon horns
-demon tail
-demon wings
-dragon
-dragon tail
-dragon wings
-flail
-glowing
-handcuffs
-horns
-leash
-metal collar
-mini wings
-rating:safe
-red wings
-shackles
-sickle
-signature
-spikes
-subreddit:imaginarydemons
-tail
-title:demon , isabella karpińska
-uploader:miciy5
-wings
+anchor,
+angel and devil,
+artist name,
+bat wings,
+bound,
+broken,
+broken chain,
+chain,
+chained,
+claws,
+collar,
+cuffs,
+dated,
+demon,
+demon boy,
+demon girl,
+demon horns,
+demon tail,
+demon wings,
+dragon,
+dragon tail,
+dragon wings,
+flail,
+glowing,
+handcuffs,
+horns,
+leash,
+metal collar,
+mini wings,
+rating:safe,
+red wings,
+shackles,
+sickle,
+signature,
+spikes,
+subreddit:imaginarydemons,
+tail,
+title:demon , isabella karpińska,
+uploader:miciy5,
+wings,

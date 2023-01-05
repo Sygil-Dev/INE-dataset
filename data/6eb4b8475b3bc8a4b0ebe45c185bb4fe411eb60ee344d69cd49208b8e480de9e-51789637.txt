@@ -1,95 +1,95 @@
-anthro
-anthropomorphism
-black clothing
-black pupils
-black shirt
-black topwear
-blue eyes
-blurred background
-bust portrait
-character:rift apart lombax
-clothed
-clothing
-clothing:black shirt
-clothing:earring (single)
-clothing:tagme
-copyright:ratchet and clank
-copyright:sony corporation
-copyright:sony interactive entertainment
-creator:imalou
-cybernetic arm
-cybernetics
-detailed background
-digital painting (artwork)
-ear piercing
-ear ring
-eyebrows
-eyelashes
-eyewear
-eyewear on head
-female
-flat chest
-flat chested
-front view
-fur
-gender:female
-goggles
-goggles on head
-hair
-head tuft
-light
-lips
-looking at viewer
-machine
-mammal
-medium:blurry background
-medium:detailed background
-medium:digital media
-medium:video game
-meta:2020
-meta:bust portrait
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:portrait
-meta:signature
-piercing
-pink lips
-pink nose
-portrait
-prosthetic
-prosthetic arm
-prosthetic limb
-pupils
-purple eyebrows
-purple stripes
-rating:safe
-scarf
-series:ratchet and clank
-series:sony corporation
-series:sony interactive entertainment
-shirt
-short hair
-smile
-solo
-sony corporation
-sony interactive entertainment
-species:lombax
-species:mammal
-striped
-striped body
-striped ears
-striped fur
-stripes
-subreddit:imaginarygaming
-subreddit:imfandoms
-tank top
-three-quarter view
-title:the mysterious lombax girl, by imalou
-topwear
-tuft
-uploader:myrandall
-video games
-white body
-white fur
-white hair
-year:2020
+anthro,
+anthropomorphism,
+black clothing,
+black pupils,
+black shirt,
+black topwear,
+blue eyes,
+blurred background,
+bust portrait,
+character:rift apart lombax,
+clothed,
+clothing,
+clothing:black shirt,
+clothing:earring (single),
+clothing:tagme,
+copyright:ratchet and clank,
+copyright:sony corporation,
+copyright:sony interactive entertainment,
+creator:imalou,
+cybernetic arm,
+cybernetics,
+detailed background,
+digital painting (artwork),
+ear piercing,
+ear ring,
+eyebrows,
+eyelashes,
+eyewear,
+eyewear on head,
+female,
+flat chest,
+flat chested,
+front view,
+fur,
+gender:female,
+goggles,
+goggles on head,
+hair,
+head tuft,
+light,
+lips,
+looking at viewer,
+machine,
+mammal,
+medium:blurry background,
+medium:detailed background,
+medium:digital media,
+medium:video game,
+meta:2020,
+meta:bust portrait,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:portrait,
+meta:signature,
+piercing,
+pink lips,
+pink nose,
+portrait,
+prosthetic,
+prosthetic arm,
+prosthetic limb,
+pupils,
+purple eyebrows,
+purple stripes,
+rating:safe,
+scarf,
+series:ratchet and clank,
+series:sony corporation,
+series:sony interactive entertainment,
+shirt,
+short hair,
+smile,
+solo,
+sony corporation,
+sony interactive entertainment,
+species:lombax,
+species:mammal,
+striped,
+striped body,
+striped ears,
+striped fur,
+stripes,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+tank top,
+three-quarter view,
+title:the mysterious lombax girl, by imalou,
+topwear,
+tuft,
+uploader:myrandall,
+video games,
+white body,
+white fur,
+white hair,
+year:2020,

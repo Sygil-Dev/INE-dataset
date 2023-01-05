@@ -1,20 +1,20 @@
-2d
-2dart
-beast
-creator:aleksa stajsic
-creature
-creatures
-demon
-fantasy
-fantasy creature
-illustration
-medium:digital 2d
-monster
-subreddit:imaginaryanimals
-subreddit:imaginarybeasts
-subreddit:imaginarybehemoths
-subreddit:immonsters
-subreddit:imnature
-title:horned beast
-title:horned beast, aleksa stajsic
-uploader:al3ks4
+2d,
+2dart,
+beast,
+creator:aleksa stajsic,
+creature,
+creatures,
+demon,
+fantasy,
+fantasy creature,
+illustration,
+medium:digital 2d,
+monster,
+subreddit:imaginaryanimals,
+subreddit:imaginarybeasts,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+subreddit:imnature,
+title:horned beast,
+title:horned beast, aleksa stajsic,
+uploader:al3ks4,

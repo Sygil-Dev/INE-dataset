@@ -1,28 +1,28 @@
-atlus
-constellation
-creator:serafleur
-crystal
-crystals
-digital art
-digital painting
-fairy tail
-falcom
-fire emblem
-gem
-glitter
-glitters
-gold
-holographic
-iridescence
-medium:digital 2d
-naruto
-persona 5
-portrait
-semi realism
-semi realistic
-subreddit:imaginaryimmortals
-subreddit:imraces
-title:star goddess
-title:star goddess, by abigail diaz
-trails of cold steel
-uploader:sylvyrfyre
+atlus,
+constellation,
+creator:serafleur,
+crystal,
+crystals,
+digital art,
+digital painting,
+fairy tail,
+falcom,
+fire emblem,
+gem,
+glitter,
+glitters,
+gold,
+holographic,
+iridescence,
+medium:digital 2d,
+naruto,
+persona 5,
+portrait,
+semi realism,
+semi realistic,
+subreddit:imaginaryimmortals,
+subreddit:imraces,
+title:star goddess,
+title:star goddess, by abigail diaz,
+trails of cold steel,
+uploader:sylvyrfyre,

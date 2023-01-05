@@ -1,50 +1,50 @@
-1 male
-2014
-anthro
-anthropomorphism
-big eyes
-bionic
-bionics
-blue body
-blue fur
-booru:e621
-cat
-chibi
-creator:silverfox5213
-cybernetics
-face::3
-firearm
-fur
-gender:male
-gun
-handgun
-hybrid
-kitty
-machine
-male
-male focus
-male only
-meta:2014
-pistol
-ranged weapon
-rating:safe
-robot
-scarf
-solo
-solo male
-source:furaffinity.net
-species:cat
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:hybrid
-species:mammal
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:hybrid kitty
-title:hybrid kitty by silverfox5213
-uploader:lol33ta
-weapon
-year:2014
-yellow eyes
+1 male,
+2014,
+anthro,
+anthropomorphism,
+big eyes,
+bionic,
+bionics,
+blue body,
+blue fur,
+booru:e621,
+cat,
+chibi,
+creator:silverfox5213,
+cybernetics,
+face::3,
+firearm,
+fur,
+gender:male,
+gun,
+handgun,
+hybrid,
+kitty,
+machine,
+male,
+male focus,
+male only,
+meta:2014,
+pistol,
+ranged weapon,
+rating:safe,
+robot,
+scarf,
+solo,
+solo male,
+source:furaffinity.net,
+species:cat,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:hybrid,
+species:mammal,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:hybrid kitty,
+title:hybrid kitty by silverfox5213,
+uploader:lol33ta,
+weapon,
+year:2014,
+yellow eyes,

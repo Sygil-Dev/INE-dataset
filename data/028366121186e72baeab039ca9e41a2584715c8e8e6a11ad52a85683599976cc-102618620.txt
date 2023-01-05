@@ -1,23 +1,23 @@
-1girl
-blurry
-bokeh
-braid
-character:princess zelda
-elf
-fireflies
-light particles
-lips
-long hair
-looking at viewer
-makeup
-nose
-pointy ears
-rating:safe
-snow
-snowflakes
-snowing
-solo
-subreddit:imaginaryelves
-title:snow elf by bella bergolts
-uploader:oray
-winter
+1girl,
+blurry,
+bokeh,
+braid,
+character:princess zelda,
+elf,
+fireflies,
+light particles,
+lips,
+long hair,
+looking at viewer,
+makeup,
+nose,
+pointy ears,
+rating:safe,
+snow,
+snowflakes,
+snowing,
+solo,
+subreddit:imaginaryelves,
+title:snow elf by bella bergolts,
+uploader:oray,
+winter,

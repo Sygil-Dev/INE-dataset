@@ -1,75 +1,75 @@
-1 female
-1girl
-alternate costume
-alternate hairstyle
-android
-armor
-artstation
-bangs
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:konachan.com
-booru:konachan.net
-booru:safebooru
-cable
-character:katarina
-character:katarina du couteau
-character:katarina du couteau, the sinister blade
-character:project: katarina
-chengwei pan
-clothing:jacket
-creator:chengwei pan
-cropped jacket
-cyberpunk
-cyborg
-damaged
-facial mark
-floating hair
-forehead mark
-gender:female
-genre:cyberpunk
-genre:science fiction
-grey hair
-hand up
-jacket
-joints
-light beam
-lips
-long hair
-mechanical arm
-mechanical parts
-medium breasts
-medium:digital 2d
-medium:high resolution
-medium:signature
-meta:commentary
-meta:highres
-meta:signature
-parted lips
-parts exposed
-project:katarina
-rating:general
-rating:mature
-rating:s
-rating:safe
-realistic
-red eyes
-red lips
-robot
-robot joints
-series:league of legends
-sidelocks
-signature
-signed
-silver hair
-solo
-species:android
-species:robot
-subreddit:imaginarycybernetics
-techgirl
-title:farewell chapter 2 by chengwei pan
-uploader:panzer-kunst
-visor (armor)
-white hair
-wind
+1 female,
+1girl,
+alternate costume,
+alternate hairstyle,
+android,
+armor,
+artstation,
+bangs,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:konachan.com,
+booru:konachan.net,
+booru:safebooru,
+cable,
+character:katarina,
+character:katarina du couteau,
+character:katarina du couteau, the sinister blade,
+character:project: katarina,
+chengwei pan,
+clothing:jacket,
+creator:chengwei pan,
+cropped jacket,
+cyberpunk,
+cyborg,
+damaged,
+facial mark,
+floating hair,
+forehead mark,
+gender:female,
+genre:cyberpunk,
+genre:science fiction,
+grey hair,
+hand up,
+jacket,
+joints,
+light beam,
+lips,
+long hair,
+mechanical arm,
+mechanical parts,
+medium breasts,
+medium:digital 2d,
+medium:high resolution,
+medium:signature,
+meta:commentary,
+meta:highres,
+meta:signature,
+parted lips,
+parts exposed,
+project:katarina,
+rating:general,
+rating:mature,
+rating:s,
+rating:safe,
+realistic,
+red eyes,
+red lips,
+robot,
+robot joints,
+series:league of legends,
+sidelocks,
+signature,
+signed,
+silver hair,
+solo,
+species:android,
+species:robot,
+subreddit:imaginarycybernetics,
+techgirl,
+title:farewell chapter 2 by chengwei pan,
+uploader:panzer-kunst,
+visor (armor),
+white hair,
+wind,

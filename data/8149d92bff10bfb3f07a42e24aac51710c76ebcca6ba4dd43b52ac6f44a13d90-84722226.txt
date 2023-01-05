@@ -1,21 +1,21 @@
-building
-city
-conceptart
-creator:sylvain sarrailh
-cyberpunk
-futur
-landscape
-medium:digital 2d
-night
-robots
-scifi
-skycrapper
-skyline
-subreddit:imaginarycyberpunk
-subreddit:imaginaryfuturism
-subreddit:imtechnology
-title:samurai army by sylvain sarrailh
-title:samurai army key art
-title:samurai army key art by sylvain sarrailh
-uploader:karmagheden
-uploader:lol33ta
+building,
+city,
+conceptart,
+creator:sylvain sarrailh,
+cyberpunk,
+futur,
+landscape,
+medium:digital 2d,
+night,
+robots,
+scifi,
+skycrapper,
+skyline,
+subreddit:imaginarycyberpunk,
+subreddit:imaginaryfuturism,
+subreddit:imtechnology,
+title:samurai army by sylvain sarrailh,
+title:samurai army key art,
+title:samurai army key art by sylvain sarrailh,
+uploader:karmagheden,
+uploader:lol33ta,

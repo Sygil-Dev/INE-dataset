@@ -1,22 +1,22 @@
-1girl
-barefoot
-bug
-deer
-forest
-grass
-in tree
-jewelry
-long hair
-mushroom
-nature
-plant
-rating:safe
-sitting
-solo
-squirrel
-subreddit:imaginarywitches
-title:from the roots and below by daniel correia
-tree
-tree stump
-uploader:lol33ta
-water
+1girl,
+barefoot,
+bug,
+deer,
+forest,
+grass,
+in tree,
+jewelry,
+long hair,
+mushroom,
+nature,
+plant,
+rating:safe,
+sitting,
+solo,
+squirrel,
+subreddit:imaginarywitches,
+title:from the roots and below by daniel correia,
+tree,
+tree stump,
+uploader:lol33ta,
+water,

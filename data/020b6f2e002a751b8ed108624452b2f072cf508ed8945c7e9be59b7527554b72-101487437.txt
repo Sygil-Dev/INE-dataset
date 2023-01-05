@@ -1,24 +1,24 @@
-1boy
-1girl
-beach
-cloud
-cloudy sky
-day
-desert
-greyscale
-ground vehicle
-military
-monochrome
-motor vehicle
-mountain
-mountainous horizon
-ocean
-outdoors
-rating:safe
-road
-sand
-sky
-subreddit:imaginaryagriculture
-title:batman &amp; superman world's finest #7 cover art (dc, 1999) by dave taylor and robert campanella
-uploader:yannirotten
-waves
+1boy,
+1girl,
+beach,
+cloud,
+cloudy sky,
+day,
+desert,
+greyscale,
+ground vehicle,
+military,
+monochrome,
+motor vehicle,
+mountain,
+mountainous horizon,
+ocean,
+outdoors,
+rating:safe,
+road,
+sand,
+sky,
+subreddit:imaginaryagriculture,
+title:batman &amp; superman world's finest #7 cover art (dc, 1999) by dave taylor and robert campanella,
+uploader:yannirotten,
+waves,

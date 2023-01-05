@@ -1,55 +1,55 @@
-anthro
-anthropomorphism
-armor
-blue clothing
-blue dress
-booru:e621
-breasts
-claws
-clothed
-clothing
-clothing:armor
-clothing:dress
-clothing:hood
-colored sclera
-creator:galoogamelady
-dress
-duo
-ears up
-fangs
-female
-furry
-gender:female
-genre:fantasy
-happy
-hood
-open mouth
-rating:safe
-red clothing
-red dress
-red eyes
-robe
-series:bethesda softworks
-series:the elder scrolls
-smile
-smug
-species:argonian
-species:cat
-species:felid
-species:feline
-species:khajiit
-species:lizard
-species:mammal
-species:reptile
-species:scalie
-standing
-subreddit:imaginarytamriel
-subreddit:imfandoms
-tag source:e621
-title:geeldorys and freel-kah by galoogamelady
-uploader:lol33ta
-veil
-video games
-whiskers
-yellow eyes
-yellow sclera
+anthro,
+anthropomorphism,
+armor,
+blue clothing,
+blue dress,
+booru:e621,
+breasts,
+claws,
+clothed,
+clothing,
+clothing:armor,
+clothing:dress,
+clothing:hood,
+colored sclera,
+creator:galoogamelady,
+dress,
+duo,
+ears up,
+fangs,
+female,
+furry,
+gender:female,
+genre:fantasy,
+happy,
+hood,
+open mouth,
+rating:safe,
+red clothing,
+red dress,
+red eyes,
+robe,
+series:bethesda softworks,
+series:the elder scrolls,
+smile,
+smug,
+species:argonian,
+species:cat,
+species:felid,
+species:feline,
+species:khajiit,
+species:lizard,
+species:mammal,
+species:reptile,
+species:scalie,
+standing,
+subreddit:imaginarytamriel,
+subreddit:imfandoms,
+tag source:e621,
+title:geeldorys and freel-kah by galoogamelady,
+uploader:lol33ta,
+veil,
+video games,
+whiskers,
+yellow eyes,
+yellow sclera,

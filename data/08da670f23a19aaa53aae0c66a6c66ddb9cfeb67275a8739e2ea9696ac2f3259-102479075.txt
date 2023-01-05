@@ -1,25 +1,25 @@
-3boys
-abs
-arrow (projectile)
-beard
-boots
-bow (weapon)
-cape
-cloak
-facial hair
-gloves
-hood
-long hair
-multiple boys
-multiple girls
-muscular
-old
-rating:safe
-smoke
-standing
-subreddit:imaginaryarmor
-subreddit:imaginarycharacters
-subreddit:wholesomefantasyart
-title:[oc] dnd party that i drew.
-uploader:okvl_artist
-weapon
+3boys,
+abs,
+arrow (projectile),
+beard,
+boots,
+bow (weapon),
+cape,
+cloak,
+facial hair,
+gloves,
+hood,
+long hair,
+multiple boys,
+multiple girls,
+muscular,
+old,
+rating:safe,
+smoke,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imaginarycharacters,
+subreddit:wholesomefantasyart,
+title:[oc] dnd party that i drew.,
+uploader:okvl_artist,
+weapon,

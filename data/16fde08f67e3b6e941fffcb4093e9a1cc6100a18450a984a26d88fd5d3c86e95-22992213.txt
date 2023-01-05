@@ -1,33 +1,33 @@
-bbs
-car
-cars
-creator:filippo ubertino
-cyber
-cyberpunk
-diablo
-engine
-extreme
-fabric
-future
-genre:science fiction
-ground vehicle
-hks
-lamborghini
-medium:digital 2d
-motor vehicle
-nos
-orange
-piumino
-science
-scifi
-series:diablo
-smoke
-studio:blizzard entertainment
-subreddit:imaginaryvehicles
-title:lamborghini diablo 138-ppr
-title:lamborghini diablo 138-ppr by filippo ubertino
-tribute
-tuning
-uploader:i_burn_cereal
-vehicle
-white
+bbs,
+car,
+cars,
+creator:filippo ubertino,
+cyber,
+cyberpunk,
+diablo,
+engine,
+extreme,
+fabric,
+future,
+genre:science fiction,
+ground vehicle,
+hks,
+lamborghini,
+medium:digital 2d,
+motor vehicle,
+nos,
+orange,
+piumino,
+science,
+scifi,
+series:diablo,
+smoke,
+studio:blizzard entertainment,
+subreddit:imaginaryvehicles,
+title:lamborghini diablo 138-ppr,
+title:lamborghini diablo 138-ppr by filippo ubertino,
+tribute,
+tuning,
+uploader:i_burn_cereal,
+vehicle,
+white,

@@ -1,40 +1,40 @@
-alectorfencer
-ambiguous gender
-ambiguous_gender
-artist:alectorfencer
-autumn
-black nose
-black_nose
-blurred background
-blurred_background
-creator:alectorfencer
-feral
-foliage
-ghostly
-green eyes
-green_eyes
-leaf
-leaves
-meta:2020
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:headshot portrait
-meta:headshot_portrait
-meta:portrait
-nature
-plants
-plantspirit
-rating:safe
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-spirit
-subreddit:imaginaryautumnscapes
-subreddit:imlandscapes
-title:whispers
-title:whispers by alectorfencer
-uploader:myrandall
-wolf
+alectorfencer,
+ambiguous gender,
+ambiguous_gender,
+artist:alectorfencer,
+autumn,
+black nose,
+black_nose,
+blurred background,
+blurred_background,
+creator:alectorfencer,
+feral,
+foliage,
+ghostly,
+green eyes,
+green_eyes,
+leaf,
+leaves,
+meta:2020,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:headshot portrait,
+meta:headshot_portrait,
+meta:portrait,
+nature,
+plants,
+plantspirit,
+rating:safe,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+spirit,
+subreddit:imaginaryautumnscapes,
+subreddit:imlandscapes,
+title:whispers,
+title:whispers by alectorfencer,
+uploader:myrandall,
+wolf,

@@ -1,40 +1,40 @@
-ambiguous gender
-antlers
-baby
-black body
-black fur
-claws
-creator:norapotwora
-fangs
-feral
-fur
-grey body
-grey fur
-group
-horn
-open mouth
-parent
-parent and child
-rating:safe
-scales
-series:asian mythology
-series:east asian mythology
-series:mythology
-size difference
-species:didelphid
-species:dragon
-species:eastern dragon
-species:furred dragon
-species:hybrid
-species:mammal
-species:marsupial
-species:phalangeriform
-subreddit:imaginaryhybrids
-subreddit:immonsters
-title:possums by nora potwora
-uploader:dragunmancer
-whiskers
-white body
-white fur
-white scales
-young
+ambiguous gender,
+antlers,
+baby,
+black body,
+black fur,
+claws,
+creator:norapotwora,
+fangs,
+feral,
+fur,
+grey body,
+grey fur,
+group,
+horn,
+open mouth,
+parent,
+parent and child,
+rating:safe,
+scales,
+series:asian mythology,
+series:east asian mythology,
+series:mythology,
+size difference,
+species:didelphid,
+species:dragon,
+species:eastern dragon,
+species:furred dragon,
+species:hybrid,
+species:mammal,
+species:marsupial,
+species:phalangeriform,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+title:possums by nora potwora,
+uploader:dragunmancer,
+whiskers,
+white body,
+white fur,
+white scales,
+young,

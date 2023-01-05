@@ -1,45 +1,45 @@
-aurora
-bridge
-building
-castle
-city
-city lights
-cityscape
-cloud
-constellation
-crescent
-crescent moon
-earth (planet)
-full moon
-galaxy
-house
-light particles
-milky way
-moon
-moonlight
-night
-night sky
-no humans
-planet
-rating:safe
-reflection
-scenery
-shooting star
-sky
-skyline
-skyscraper
-snowing
-space
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-tanabata
-telescope
-title:"vast planet" by bob eggleton
-tower
-tree
-uploader:yannirotten
+aurora,
+bridge,
+building,
+castle,
+city,
+city lights,
+cityscape,
+cloud,
+constellation,
+crescent,
+crescent moon,
+earth (planet),
+full moon,
+galaxy,
+house,
+light particles,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+no humans,
+planet,
+rating:safe,
+reflection,
+scenery,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snowing,
+space,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+tanabata,
+telescope,
+title:"vast planet" by bob eggleton,
+tower,
+tree,
+uploader:yannirotten,

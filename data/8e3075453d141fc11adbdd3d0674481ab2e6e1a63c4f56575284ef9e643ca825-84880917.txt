@@ -1,24 +1,24 @@
-80s
-90s
-book cover
-cel shaded
-comic book
-creator:calder moore
-environment
-giant
-illustration
-knights
-landscape
-lineart
-medium:digital 3d
-moebius
-shader
-skull
-stylized
-subreddit:imaginarybehemoths
-subreddit:immonsters
-title:fallen giant
-title:fallen giant by calder moore
-toon
-uploader:lol33ta
-vibrant
+80s,
+90s,
+book cover,
+cel shaded,
+comic book,
+creator:calder moore,
+environment,
+giant,
+illustration,
+knights,
+landscape,
+lineart,
+medium:digital 3d,
+moebius,
+shader,
+skull,
+stylized,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+title:fallen giant,
+title:fallen giant by calder moore,
+toon,
+uploader:lol33ta,
+vibrant,

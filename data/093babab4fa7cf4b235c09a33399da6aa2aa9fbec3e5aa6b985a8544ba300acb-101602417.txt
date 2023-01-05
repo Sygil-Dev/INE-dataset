@@ -1,20 +1,20 @@
-1boy
-armor
-axe
-blurry
-blurry background
-embers
-fire
-helmet
-holding
-holding weapon
-horns
-male focus
-rating:safe
-solo
-subreddit:imaginarydragons
-subreddit:imaginaryhybrids
-sword
-title:rakshasa by aaron florento
-uploader:killerbunnyfamily
-weapon
+1boy,
+armor,
+axe,
+blurry,
+blurry background,
+embers,
+fire,
+helmet,
+holding,
+holding weapon,
+horns,
+male focus,
+rating:safe,
+solo,
+subreddit:imaginarydragons,
+subreddit:imaginaryhybrids,
+sword,
+title:rakshasa by aaron florento,
+uploader:killerbunnyfamily,
+weapon,

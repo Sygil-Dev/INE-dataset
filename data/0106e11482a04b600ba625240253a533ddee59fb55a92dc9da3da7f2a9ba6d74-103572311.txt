@@ -1,29 +1,29 @@
-animal
-aurora
-beach
-bird
-cat tail
-cloud
-glowing
-horizon
-lake
-mountain
-night
-night sky
-ocean
-outdoors
-planet
-rating:safe
-scenery
-seagull
-shooting star
-signature
-sky
-solo
-space
-star (sky)
-starry sky
-subreddit:imaginarydragons
-tail
-title:aurora by dragonwhisper23
-uploader:jarrad960
+animal,
+aurora,
+beach,
+bird,
+cat tail,
+cloud,
+glowing,
+horizon,
+lake,
+mountain,
+night,
+night sky,
+ocean,
+outdoors,
+planet,
+rating:safe,
+scenery,
+seagull,
+shooting star,
+signature,
+sky,
+solo,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarydragons,
+tail,
+title:aurora by dragonwhisper23,
+uploader:jarrad960,

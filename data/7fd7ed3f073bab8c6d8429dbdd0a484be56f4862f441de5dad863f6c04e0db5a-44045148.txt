@@ -1,19 +1,19 @@
-astronaut
-creator:guillaume menuel
-desertic planet
-exploration
-mars
-mecha
-medium:concept art
-medium:digital 2d
-nasa
-orange
-planet
-robot
-space exploration
-spaceship
-subreddit:imaginaryastronauts
-title:the wreck
-title:the wreck by guillaume menuel
-uploader:lol33ta
-wreck
+astronaut,
+creator:guillaume menuel,
+desertic planet,
+exploration,
+mars,
+mecha,
+medium:concept art,
+medium:digital 2d,
+nasa,
+orange,
+planet,
+robot,
+space exploration,
+spaceship,
+subreddit:imaginaryastronauts,
+title:the wreck,
+title:the wreck by guillaume menuel,
+uploader:lol33ta,
+wreck,

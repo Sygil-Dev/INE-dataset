@@ -1,22 +1,22 @@
-1boy
-armor
-blue cape
-braid
-cape
-character:elezen
-dark elf
-elf
-facial mark
-hand on own chest
-long hair
-male focus
-pointy ears
-rating:safe
-simple background
-solo
-subreddit:imaginaryelves
-subreddit:imraces
-sword
-title:[oc] commission - half elf cleric i did last month!
-uploader:keepmulligan
-weapon
+1boy,
+armor,
+blue cape,
+braid,
+cape,
+character:elezen,
+dark elf,
+elf,
+facial mark,
+hand on own chest,
+long hair,
+male focus,
+pointy ears,
+rating:safe,
+simple background,
+solo,
+subreddit:imaginaryelves,
+subreddit:imraces,
+sword,
+title:[oc] commission - half elf cleric i did last month!,
+uploader:keepmulligan,
+weapon,

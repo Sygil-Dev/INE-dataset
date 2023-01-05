@@ -1,21 +1,21 @@
-1boy
-abs
-barefoot
-bracelet
-bracer
-dark skin
-dark-skinned male
-full body
-headband
-jewelry
-male focus
-muscular
-rating:safe
-realistic
-sky
-solo
-standing
-subreddit:imaginarywarriors
-title:warrior made by ai generated app called dream
-uploader:coley213
-wristband
+1boy,
+abs,
+barefoot,
+bracelet,
+bracer,
+dark skin,
+dark-skinned male,
+full body,
+headband,
+jewelry,
+male focus,
+muscular,
+rating:safe,
+realistic,
+sky,
+solo,
+standing,
+subreddit:imaginarywarriors,
+title:warrior made by ai generated app called dream,
+uploader:coley213,
+wristband,

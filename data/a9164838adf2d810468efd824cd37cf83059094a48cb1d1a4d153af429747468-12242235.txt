@@ -1,62 +1,62 @@
-4 eyes
-16:9
-2016
-abstract background
-ambiguous gender
-armor
-bioluminescence
-booru:e621
-cape
-claws
-clothing
-clothing:armor
-clothing:footwear
-creator:veera hokkanen
-curved horn
-dragon
-feral
-fight
-footwear
-furry
-gender:ambiguous
-gender:male
-glowing
-grey body
-grey scales
-hair
-horn
-horns
-human
-jumping
-male
-mammal
-medium:16:9 aspect ratio
-melee weapon
-meta:16:9
-meta:2016
-meta:widescreen
-multi eye
-open mouth
-polearm
-pupils
-rating:safe
-sandals
-scales
-scalie
-shoes
-slit pupils
-spear
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-subreddit:imaginaryadrenaline
-teeth
-title:dragon slayer by veera hokkanen
-uploader:dragunmancer
-veera hokkanen
-weapon
-white hair
-year:2016
+4 eyes,
+16:9,
+2016,
+abstract background,
+ambiguous gender,
+armor,
+bioluminescence,
+booru:e621,
+cape,
+claws,
+clothing,
+clothing:armor,
+clothing:footwear,
+creator:veera hokkanen,
+curved horn,
+dragon,
+feral,
+fight,
+footwear,
+furry,
+gender:ambiguous,
+gender:male,
+glowing,
+grey body,
+grey scales,
+hair,
+horn,
+horns,
+human,
+jumping,
+male,
+mammal,
+medium:16:9 aspect ratio,
+melee weapon,
+meta:16:9,
+meta:2016,
+meta:widescreen,
+multi eye,
+open mouth,
+polearm,
+pupils,
+rating:safe,
+sandals,
+scales,
+scalie,
+shoes,
+slit pupils,
+spear,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+subreddit:imaginaryadrenaline,
+teeth,
+title:dragon slayer by veera hokkanen,
+uploader:dragunmancer,
+veera hokkanen,
+weapon,
+white hair,
+year:2016,

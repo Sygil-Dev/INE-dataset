@@ -1,29 +1,29 @@
-black border
-cloud
-cloudy sky
-dark
-fake screenshot
-fantasy
-forest
-grass
-lake
-landscape
-letterboxed
-long hair
-mountain
-mountainous horizon
-nature
-night
-outdoors
-pillarboxed
-rating:safe
-river
-scenery
-sky
-subreddit:imaginaryarchitecture
-sunset
-title:gothic thunder by sergii golotovskiy
-tree
-uploader:lol33ta
-very long hair
-water
+black border,
+cloud,
+cloudy sky,
+dark,
+fake screenshot,
+fantasy,
+forest,
+grass,
+lake,
+landscape,
+letterboxed,
+long hair,
+mountain,
+mountainous horizon,
+nature,
+night,
+outdoors,
+pillarboxed,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginaryarchitecture,
+sunset,
+title:gothic thunder by sergii golotovskiy,
+tree,
+uploader:lol33ta,
+very long hair,
+water,

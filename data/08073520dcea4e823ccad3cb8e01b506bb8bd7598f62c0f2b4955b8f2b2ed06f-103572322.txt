@@ -1,32 +1,32 @@
-1boy
-building
-city
-cloud
-cloudy sky
-condensation trail
-dark
-electricity
-fantasy
-horizon
-lightning
-mountain
-night
-night sky
-no humans
-ocean
-outdoors
-rating:safe
-scenery
-shooting star
-silhouette
-sky
-smoke
-star (sky)
-storm
-subreddit:imaginaryweather
-sunset
-title:wall of lightning by franklin chan
-twilight
-uploader:[deleted]
-water
-waves
+1boy,
+building,
+city,
+cloud,
+cloudy sky,
+condensation trail,
+dark,
+electricity,
+fantasy,
+horizon,
+lightning,
+mountain,
+night,
+night sky,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+shooting star,
+silhouette,
+sky,
+smoke,
+star (sky),
+storm,
+subreddit:imaginaryweather,
+sunset,
+title:wall of lightning by franklin chan,
+twilight,
+uploader:[deleted],
+water,
+waves,

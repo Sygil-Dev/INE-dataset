@@ -1,34 +1,34 @@
-acorn
-ambiguous gender
-blush
-brown body
-brown eyes
-brown fur
-brown inner ear
-creator:mellymiew
-ear tuft
-feral
-fluffy
-fluffy tail
-food
-fruit
-fur
-leaf
-meta:2019
-meta:painting (artwork)
-meta:traditional media (artwork)
-meta:watercolor (artwork)
-nut (fruit)
-plant
-rating:safe
-running
-solo
-species:mammal
-species:rodent
-species:sciurid
-species:tree squirrel
-subreddit:imaginaryaww
-subreddit:immeta
-title:acorn squirrel by mellymiew
-tuft
-uploader:lol33ta
+acorn,
+ambiguous gender,
+blush,
+brown body,
+brown eyes,
+brown fur,
+brown inner ear,
+creator:mellymiew,
+ear tuft,
+feral,
+fluffy,
+fluffy tail,
+food,
+fruit,
+fur,
+leaf,
+meta:2019,
+meta:painting (artwork),
+meta:traditional media (artwork),
+meta:watercolor (artwork),
+nut (fruit),
+plant,
+rating:safe,
+running,
+solo,
+species:mammal,
+species:rodent,
+species:sciurid,
+species:tree squirrel,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:acorn squirrel by mellymiew,
+tuft,
+uploader:lol33ta,

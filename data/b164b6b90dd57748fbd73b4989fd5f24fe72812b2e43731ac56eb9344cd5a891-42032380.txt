@@ -1,19 +1,19 @@
-city
-clouds
-creator:themefinland
-floating
-flying
-galaxy
-genre:steampunk
-moth
-ship
-source:furaffinity.net
-space
-stars
-subreddit:imaginarysteampunk
-title:approaching the golden city [commission]
-title:approaching the golden city by themefinland
-uploader:lol33ta
-vehicle
-watercraft
-year:mar 4, 2020
+city,
+clouds,
+creator:themefinland,
+floating,
+flying,
+galaxy,
+genre:steampunk,
+moth,
+ship,
+source:furaffinity.net,
+space,
+stars,
+subreddit:imaginarysteampunk,
+title:approaching the golden city [commission],
+title:approaching the golden city by themefinland,
+uploader:lol33ta,
+vehicle,
+watercraft,
+year:mar 4, 2020,

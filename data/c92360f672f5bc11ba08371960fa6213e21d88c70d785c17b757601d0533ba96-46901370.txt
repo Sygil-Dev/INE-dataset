@@ -1,22 +1,22 @@
-booru:sankaku channel
-character:ishtar (fate)
-character:tohsaka rin
-creator:zarory
-deviantart
-female
-gender:female
-long hair
-medium:high resolution
-medium:realistic
-rating:safe
-series:fate
-series:fate (series)
-series:fate/grand order
-series:fate/stay night
-solo
-subreddit:imaginaryboners
-subreddit:imnsfw
-subreddit:sheizenokan
-title:ishtar by zarory
-two side up
-uploader:myrandall
+booru:sankaku channel,
+character:ishtar (fate),
+character:tohsaka rin,
+creator:zarory,
+deviantart,
+female,
+gender:female,
+long hair,
+medium:high resolution,
+medium:realistic,
+rating:safe,
+series:fate,
+series:fate (series),
+series:fate/grand order,
+series:fate/stay night,
+solo,
+subreddit:imaginaryboners,
+subreddit:imnsfw,
+subreddit:sheizenokan,
+title:ishtar by zarory,
+two side up,
+uploader:myrandall,

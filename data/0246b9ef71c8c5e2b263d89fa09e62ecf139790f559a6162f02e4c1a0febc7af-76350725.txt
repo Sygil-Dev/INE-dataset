@@ -1,26 +1,26 @@
-absolutely everyone
-building
-chain-link fence
-character profile
-city
-cityscape
-english text
-fence
-fire
-glowing
-halftone
-looking at viewer
-night
-no humans
-open mouth
-poke ball
-poke ball (basic)
-rating:safe
-sky
-skyscraper
-subreddit:imaginarywitches
-text focus
-title:ultimate service, by me
-uploader:ambratolm
-wall of text
-web address
+absolutely everyone,
+building,
+chain-link fence,
+character profile,
+city,
+cityscape,
+english text,
+fence,
+fire,
+glowing,
+halftone,
+looking at viewer,
+night,
+no humans,
+open mouth,
+poke ball,
+poke ball (basic),
+rating:safe,
+sky,
+skyscraper,
+subreddit:imaginarywitches,
+text focus,
+title:ultimate service, by me,
+uploader:ambratolm,
+wall of text,
+web address,

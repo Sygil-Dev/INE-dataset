@@ -1,58 +1,58 @@
-1girl
-animal
-backpack
-backpack removed
-bag
-book
-book stack
-brown hair
-cable
-cat
-cat teaser
-cellphone
-character:lofi girl
-closed eyes
-computer
-creator:julia shii
-cup
-day
-from above
-futon
-gender:female
-green sweater
-indoors
-laptop
-listening to music
-long sleeves
-lying
-manga (object)
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-on side
-pants
-phone
-pillow
-ponytail
-rating:safe
-red scarf
-scarf
-seigaiha
-series:lofi girl (youtube)
-short ponytail
-sleeping
-sleeves past wrists
-slippers
-smartphone
-socks
-solo
-stuffed toy
-subreddit:imaginarymeirl
-sunlight
-sweater
-tatami
-teacup
-teapot
-title:lazy sunday by julia shi
-uploader:sr_myers
+1girl,
+animal,
+backpack,
+backpack removed,
+bag,
+book,
+book stack,
+brown hair,
+cable,
+cat,
+cat teaser,
+cellphone,
+character:lofi girl,
+closed eyes,
+computer,
+creator:julia shii,
+cup,
+day,
+from above,
+futon,
+gender:female,
+green sweater,
+indoors,
+laptop,
+listening to music,
+long sleeves,
+lying,
+manga (object),
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+on side,
+pants,
+phone,
+pillow,
+ponytail,
+rating:safe,
+red scarf,
+scarf,
+seigaiha,
+series:lofi girl (youtube),
+short ponytail,
+sleeping,
+sleeves past wrists,
+slippers,
+smartphone,
+socks,
+solo,
+stuffed toy,
+subreddit:imaginarymeirl,
+sunlight,
+sweater,
+tatami,
+teacup,
+teapot,
+title:lazy sunday by julia shi,
+uploader:sr_myers,

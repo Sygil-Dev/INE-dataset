@@ -1,23 +1,23 @@
-architecture
-bridge
-building
-city
-cityscape
-clock
-clock tower
-cloud
-day
-outdoors
-power lines
-railing
-rating:safe
-road
-scenery
-sign
-sky
-street
-subreddit:imaginarywastelands
-subreddit:imlandscapes
-title:rust 5 (ue5) - dekogon studios
-tower
-uploader:ravekat1
+architecture,
+bridge,
+building,
+city,
+cityscape,
+clock,
+clock tower,
+cloud,
+day,
+outdoors,
+power lines,
+railing,
+rating:safe,
+road,
+scenery,
+sign,
+sky,
+street,
+subreddit:imaginarywastelands,
+subreddit:imlandscapes,
+title:rust 5 (ue5) - dekogon studios,
+tower,
+uploader:ravekat1,

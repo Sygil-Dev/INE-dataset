@@ -1,48 +1,48 @@
-1girl
-4 eyes
-6 legs
-ambiguous gender
-architecture
-bare tree
-bridge
-building
-castle
-city
-cityscape
-clothed
-clothed feral
-clothing
-cloud
-creator:alex ries
-east asian architecture
-eyestalks
-farm
-feral
-gradient sky
-group
-house
-landscape
-mountain
-multi eye
-orange sky
-outdoors
-outside
-pagoda
-plant
-rating:safe
-red sky
-saddle
-scenery
-size difference
-sky
-species:alien
-species:birrin
-subreddit:imaginaryagriculture
-sun
-sunset
-title:sunrise by alex ries
-torii
-tower
-tree
-uploader:myrandall
-water
+1girl,
+4 eyes,
+6 legs,
+ambiguous gender,
+architecture,
+bare tree,
+bridge,
+building,
+castle,
+city,
+cityscape,
+clothed,
+clothed feral,
+clothing,
+cloud,
+creator:alex ries,
+east asian architecture,
+eyestalks,
+farm,
+feral,
+gradient sky,
+group,
+house,
+landscape,
+mountain,
+multi eye,
+orange sky,
+outdoors,
+outside,
+pagoda,
+plant,
+rating:safe,
+red sky,
+saddle,
+scenery,
+size difference,
+sky,
+species:alien,
+species:birrin,
+subreddit:imaginaryagriculture,
+sun,
+sunset,
+title:sunrise by alex ries,
+torii,
+tower,
+tree,
+uploader:myrandall,
+water,

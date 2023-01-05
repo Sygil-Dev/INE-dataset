@@ -1,17 +1,17 @@
-artwork
-blonde hair
-blue eyes
-character:jeanne d'arc
-clothing:armor
-fantasy art
-fantasy girl
-gender:female
-knight
-long hair
-subreddit:imaginaryarmor
-subreddit:imaginaryclerics
-sword
-title:paladin evangeline by yuhong ding
-uploader:anndromedda
-warrior
-weapon
+artwork,
+blonde hair,
+blue eyes,
+character:jeanne d'arc,
+clothing:armor,
+fantasy art,
+fantasy girl,
+gender:female,
+knight,
+long hair,
+subreddit:imaginaryarmor,
+subreddit:imaginaryclerics,
+sword,
+title:paladin evangeline by yuhong ding,
+uploader:anndromedda,
+warrior,
+weapon,

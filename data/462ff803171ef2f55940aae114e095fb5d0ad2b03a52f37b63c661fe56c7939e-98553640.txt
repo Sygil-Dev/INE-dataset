@@ -1,32 +1,32 @@
-ambiguous gender
-barefoot
-brown hair
-child
-clothed
-clothing
-creator:sandara
-day
-detailed background
-dress
-eyes closed
-feet
-female
-feral
-grass
-hair
-meta:2022
-meta:digital media (artwork)
-meta:hi res
-outside
-plant
-rating:safe
-sky
-smile
-species:dragon
-species:human
-species:mammal
-subreddit:adorabledragons
-title:dance by sandara
-toes
-uploader:lol33ta
-young
+ambiguous gender,
+barefoot,
+brown hair,
+child,
+clothed,
+clothing,
+creator:sandara,
+day,
+detailed background,
+dress,
+eyes closed,
+feet,
+female,
+feral,
+grass,
+hair,
+meta:2022,
+meta:digital media (artwork),
+meta:hi res,
+outside,
+plant,
+rating:safe,
+sky,
+smile,
+species:dragon,
+species:human,
+species:mammal,
+subreddit:adorabledragons,
+title:dance by sandara,
+toes,
+uploader:lol33ta,
+young,

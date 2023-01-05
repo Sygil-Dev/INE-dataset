@@ -1,63 +1,63 @@
-ambiguous_gender
-animal mask
-animal_mask
-artist:silverfox5213
-bag
-beak mask
-beak_mask
-black body
-black eyes
-black feathers
-black_body
-black_eyes
-black_feathers
-closed eyes
-clothed
-clothing
-creator:silverfox5213
-crow
-doctor
-duo
-eyes_closed
-feathers
-fully clothed
-fully_clothed
-gender:ambiguous
-gloves
-hands
-handwear
-hat
-headgear
-headwear
-jewelry
-mace
-mask
-medium:simple background
-medium:white background
-melee weapon
-melee_weapon
-meta:tagme
-nasty
-necklace
-plague
-plague doctor
-plague_doctor
-rating:safe
-raven
-simple_background
-source:furaffinity.net
-species:avian
-species:bird
-species:unknown species
-species:unknown_species
-subreddit:imaginaryaww
-subreddit:immeta
-title:lil plague doctors
-title:lil plague doctors by silverfox5213
-uploader:lol33ta
-wash
-weapon
-white_background
-ya
-year:2020
-your
+ambiguous_gender,
+animal mask,
+animal_mask,
+artist:silverfox5213,
+bag,
+beak mask,
+beak_mask,
+black body,
+black eyes,
+black feathers,
+black_body,
+black_eyes,
+black_feathers,
+closed eyes,
+clothed,
+clothing,
+creator:silverfox5213,
+crow,
+doctor,
+duo,
+eyes_closed,
+feathers,
+fully clothed,
+fully_clothed,
+gender:ambiguous,
+gloves,
+hands,
+handwear,
+hat,
+headgear,
+headwear,
+jewelry,
+mace,
+mask,
+medium:simple background,
+medium:white background,
+melee weapon,
+melee_weapon,
+meta:tagme,
+nasty,
+necklace,
+plague,
+plague doctor,
+plague_doctor,
+rating:safe,
+raven,
+simple_background,
+source:furaffinity.net,
+species:avian,
+species:bird,
+species:unknown species,
+species:unknown_species,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:lil plague doctors,
+title:lil plague doctors by silverfox5213,
+uploader:lol33ta,
+wash,
+weapon,
+white_background,
+ya,
+year:2020,
+your,

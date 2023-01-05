@@ -1,21 +1,21 @@
-battle
-blurry
-blurry foreground
-depth of field
-monster
-motion blur
-open mouth
-rating:safe
-realistic
-sharp teeth
-spikes
-subreddit:imaginarytrolls
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-subreddit:imraces
-teeth
-title:troll shaman , anton nazarenko
-title:troll shaman by anton nazarenko
-uploader:betraying_chino
-uploader:miciy5
+battle,
+blurry,
+blurry foreground,
+depth of field,
+monster,
+motion blur,
+open mouth,
+rating:safe,
+realistic,
+sharp teeth,
+spikes,
+subreddit:imaginarytrolls,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+subreddit:imraces,
+teeth,
+title:troll shaman , anton nazarenko,
+title:troll shaman by anton nazarenko,
+uploader:betraying_chino,
+uploader:miciy5,

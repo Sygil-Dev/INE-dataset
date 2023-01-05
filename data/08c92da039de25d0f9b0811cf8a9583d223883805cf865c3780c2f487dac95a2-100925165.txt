@@ -1,24 +1,24 @@
-autumn
-autumn leaves
-character:bulbasaur
-character:charizard
-character:charmander
-character:chikorita
-character:cyndaquil
-closed eyes
-colorful
-fire
-flame
-leaf
-nature
-no humans
-outdoors
-painting (medium)
-pokemon (creature)
-rating:safe
-subreddit:imaginarycolorscapes
-sunset
-title:autumn sunset on the lake by tanbelia
-traditional media
-tree
-uploader:tanbelia
+autumn,
+autumn leaves,
+character:bulbasaur,
+character:charizard,
+character:charmander,
+character:chikorita,
+character:cyndaquil,
+closed eyes,
+colorful,
+fire,
+flame,
+leaf,
+nature,
+no humans,
+outdoors,
+painting (medium),
+pokemon (creature),
+rating:safe,
+subreddit:imaginarycolorscapes,
+sunset,
+title:autumn sunset on the lake by tanbelia,
+traditional media,
+tree,
+uploader:tanbelia,

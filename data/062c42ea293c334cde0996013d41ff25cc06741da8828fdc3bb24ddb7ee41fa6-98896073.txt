@@ -1,25 +1,25 @@
-beach
-boat
-cave
-cloud
-creator:psdeluxe
-earth (planet)
-horizon
-lake
-landscape
-mountain
-ocean
-outdoors
-planet
-rating:safe
-scenery
-shore
-signature
-sky
-subreddit:imaginaryglaciers
-title:20160410-ice-psdelux
-title:ice by psdeluxe
-uploader:fireflycities
-water
-watercraft
-waves
+beach,
+boat,
+cave,
+cloud,
+creator:psdeluxe,
+earth (planet),
+horizon,
+lake,
+landscape,
+mountain,
+ocean,
+outdoors,
+planet,
+rating:safe,
+scenery,
+shore,
+signature,
+sky,
+subreddit:imaginaryglaciers,
+title:20160410-ice-psdelux,
+title:ice by psdeluxe,
+uploader:fireflycities,
+water,
+watercraft,
+waves,

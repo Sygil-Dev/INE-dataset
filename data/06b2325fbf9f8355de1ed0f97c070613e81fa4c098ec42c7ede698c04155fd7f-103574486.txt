@@ -1,145 +1,145 @@
-1girl
-1970s (style)
-1980s (style)
-above clouds
-aerial fireworks
-alien
-america
-american flag
-antlers
-arm hair
-astronaut
-aurora
-baggy clothes
-balcony
-beamed eighth notes
-beard
-brown hair
-campfire
-character:angela balzac
-character:kyon
-character:miyamizu mitsuha
-character:mohammed avdol
-character:ranka lee
-character:rosalina
-character:sheryl nome
-character:tifa lockhart
-character:touwa erio
-character:ultimate madoka
-chimney
-christmas
-christmas lights
-christmas ornaments
-christmas tree
-city
-city lights
-cityscape
-cold
-constellation
-constellation print
-crescent moon
-desert
-dusk
-dust
-earth (planet)
-embers
-energy gun
-facial hair
-ferris wheel
-festival
-fireflies
-fireworks
-flag background
-fountain
-full moon
-fur-trimmed headwear
-galaxy
-gift bag
-globe
-goldfish
-gradient sky
-halftone
-halftone background
-hat
-hirschgeweih antennas
-holding sack
-house
-husband and wife
-lamppost
-light
-light particles
-lights
-mecha
-meme
-merry christmas
-milky way
-moon
-moonlight
-music
-night
-night sky
-onsen
-painting (medium)
-partially underwater shot
-penguin
-pine tree
-pirate
-planet
-print headwear
-projected inset
-rainbow
-rating:safe
-ray gun
-reflective water
-reindeer
-reindeer antlers
-reindeer costume
-retro artstyle
-rocket
-rooftop
-sack
-santa costume
-santa hat
-science fiction
-shooting star
-singing
-sky
-skyline
-skyscraper
-snow
-snowing
-snowman
-solo
-space
-space craft
-space helmet
-spacesuit
-sparkler
-spilling
-spotlight
-stadium
-stage lights
-star (sky)
-star (symbol)
-star guardian (league of legends)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarydemons
-summer festival
-sunrise
-tanabata
-tanzaku
-tarot
-telescope
-tent
-title:x-mas tragedy by fred fields
-twilight
-uchiwa
-ufo
-uploader:yannirotten
-watercolor (medium)
-window
-winter
-wreath
-yukata
+1girl,
+1970s (style),
+1980s (style),
+above clouds,
+aerial fireworks,
+alien,
+america,
+american flag,
+antlers,
+arm hair,
+astronaut,
+aurora,
+baggy clothes,
+balcony,
+beamed eighth notes,
+beard,
+brown hair,
+campfire,
+character:angela balzac,
+character:kyon,
+character:miyamizu mitsuha,
+character:mohammed avdol,
+character:ranka lee,
+character:rosalina,
+character:sheryl nome,
+character:tifa lockhart,
+character:touwa erio,
+character:ultimate madoka,
+chimney,
+christmas,
+christmas lights,
+christmas ornaments,
+christmas tree,
+city,
+city lights,
+cityscape,
+cold,
+constellation,
+constellation print,
+crescent moon,
+desert,
+dusk,
+dust,
+earth (planet),
+embers,
+energy gun,
+facial hair,
+ferris wheel,
+festival,
+fireflies,
+fireworks,
+flag background,
+fountain,
+full moon,
+fur-trimmed headwear,
+galaxy,
+gift bag,
+globe,
+goldfish,
+gradient sky,
+halftone,
+halftone background,
+hat,
+hirschgeweih antennas,
+holding sack,
+house,
+husband and wife,
+lamppost,
+light,
+light particles,
+lights,
+mecha,
+meme,
+merry christmas,
+milky way,
+moon,
+moonlight,
+music,
+night,
+night sky,
+onsen,
+painting (medium),
+partially underwater shot,
+penguin,
+pine tree,
+pirate,
+planet,
+print headwear,
+projected inset,
+rainbow,
+rating:safe,
+ray gun,
+reflective water,
+reindeer,
+reindeer antlers,
+reindeer costume,
+retro artstyle,
+rocket,
+rooftop,
+sack,
+santa costume,
+santa hat,
+science fiction,
+shooting star,
+singing,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+snowman,
+solo,
+space,
+space craft,
+space helmet,
+spacesuit,
+sparkler,
+spilling,
+spotlight,
+stadium,
+stage lights,
+star (sky),
+star (symbol),
+star guardian (league of legends),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarydemons,
+summer festival,
+sunrise,
+tanabata,
+tanzaku,
+tarot,
+telescope,
+tent,
+title:x-mas tragedy by fred fields,
+twilight,
+uchiwa,
+ufo,
+uploader:yannirotten,
+watercolor (medium),
+window,
+winter,
+wreath,
+yukata,

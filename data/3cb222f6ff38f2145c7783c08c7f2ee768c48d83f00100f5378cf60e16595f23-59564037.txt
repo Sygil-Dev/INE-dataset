@@ -1,38 +1,38 @@
-alien
-armor
-band-aid
-bandage
-booru:e621
-clothed
-clothing
-covenant
-creator:izrez
-explosives
-female
-girl
-grenade
-grunt
-halo
-page:3
-partially clothed
-rating:safe
-scar
-series:halo (series)
-series:microsoft
-series:xbox game studios
-sleeping
-solo
-source:furaffinity.net
-species:alien
-species:humanoid
-species:unggoy
-subreddit:imaginaryaliens
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-subreddit:imraces
-title:grunt 3
-title:halo - sleeping female grunt by izrez
-unggoy
-uploader:bloody_choker
-video games
-weapon
+alien,
+armor,
+band-aid,
+bandage,
+booru:e621,
+clothed,
+clothing,
+covenant,
+creator:izrez,
+explosives,
+female,
+girl,
+grenade,
+grunt,
+halo,
+page:3,
+partially clothed,
+rating:safe,
+scar,
+series:halo (series),
+series:microsoft,
+series:xbox game studios,
+sleeping,
+solo,
+source:furaffinity.net,
+species:alien,
+species:humanoid,
+species:unggoy,
+subreddit:imaginaryaliens,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+subreddit:imraces,
+title:grunt 3,
+title:halo - sleeping female grunt by izrez,
+unggoy,
+uploader:bloody_choker,
+video games,
+weapon,

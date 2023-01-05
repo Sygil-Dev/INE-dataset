@@ -1,23 +1,23 @@
-beach
-bird
-boat
-building
-city
-cloud
-flock
-horizon
-long hair
-ocean
-outdoors
-rating:safe
-scenery
-seagull
-shore
-sky
-subreddit:imaginaryderelicts
-subreddit:imaginaryvessels
-subreddit:imtechnology
-title:"the wreck on the beach" by dofresh (ronan le fur)
-uploader:yannirotten
-water
-watercraft
+beach,
+bird,
+boat,
+building,
+city,
+cloud,
+flock,
+horizon,
+long hair,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+seagull,
+shore,
+sky,
+subreddit:imaginaryderelicts,
+subreddit:imaginaryvessels,
+subreddit:imtechnology,
+title:"the wreck on the beach" by dofresh (ronan le fur),
+uploader:yannirotten,
+water,
+watercraft,

@@ -1,64 +1,64 @@
-7
-ambiguous gender
-anklet
-bees
-bracelet
-bubblewolf
-character:red xiii
-claws
-cliff
-creator:bubblewolf
-cub
-detailed background
-digital
-digitigrade
-fangs
-fantasy
-feathers
-feral
-ff7
-final
-finger claws
-fire
-flaming tail
-fur
-glowing
-group
-inner ear fluff
-jewelry
-looking at another
-meta:detailed
-meta:english text
-meta:hi res
-meta:shaded
-meta:signature
-muscular
-muscular feral
-nanaki
-quadruped
-rating:safe
-red
-red body
-red fur
-scar
-series:final fantasy
-series:final fantasy vii
-series:square enix
-snout
-source:furaffinity.net
-species:felid
-species:feline
-species:mammal
-subreddit:imaginaryanimals
-sunrise
-text
-title:red xiii
-title:red xiii by bubblewolf
-toe claws
-trio
-tuft
-uploader:killerbunnyfamily
-video games
-whiskers
-xiii
-young
+7,
+ambiguous gender,
+anklet,
+bees,
+bracelet,
+bubblewolf,
+character:red xiii,
+claws,
+cliff,
+creator:bubblewolf,
+cub,
+detailed background,
+digital,
+digitigrade,
+fangs,
+fantasy,
+feathers,
+feral,
+ff7,
+final,
+finger claws,
+fire,
+flaming tail,
+fur,
+glowing,
+group,
+inner ear fluff,
+jewelry,
+looking at another,
+meta:detailed,
+meta:english text,
+meta:hi res,
+meta:shaded,
+meta:signature,
+muscular,
+muscular feral,
+nanaki,
+quadruped,
+rating:safe,
+red,
+red body,
+red fur,
+scar,
+series:final fantasy,
+series:final fantasy vii,
+series:square enix,
+snout,
+source:furaffinity.net,
+species:felid,
+species:feline,
+species:mammal,
+subreddit:imaginaryanimals,
+sunrise,
+text,
+title:red xiii,
+title:red xiii by bubblewolf,
+toe claws,
+trio,
+tuft,
+uploader:killerbunnyfamily,
+video games,
+whiskers,
+xiii,
+young,

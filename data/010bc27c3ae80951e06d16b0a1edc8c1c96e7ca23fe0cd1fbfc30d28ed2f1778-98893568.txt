@@ -1,21 +1,21 @@
-1girl
-armlet
-blonde hair
-blue eyes
-book
-bracelet
-detached sleeves
-hood
-jewelry
-library
-lips
-nose
-rating:safe
-realistic
-signature
-solo
-subreddit:imaginaryclerics
-title:priest of forgotten gods, by zack stella
-uploader:sylvyrfyre
-watermark
-web address
+1girl,
+armlet,
+blonde hair,
+blue eyes,
+book,
+bracelet,
+detached sleeves,
+hood,
+jewelry,
+library,
+lips,
+nose,
+rating:safe,
+realistic,
+signature,
+solo,
+subreddit:imaginaryclerics,
+title:priest of forgotten gods, by zack stella,
+uploader:sylvyrfyre,
+watermark,
+web address,

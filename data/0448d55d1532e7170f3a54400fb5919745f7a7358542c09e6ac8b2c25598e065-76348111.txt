@@ -1,34 +1,34 @@
-1boy
-armor
-beard
-cape
-coat
-facial hair
-fur collar
-fur trim
-fur-trimmed cape
-fur-trimmed sleeves
-holding
-holding sword
-holding weapon
-katana
-looking at viewer
-male focus
-manly
-mustache
-old
-old man
-rating:safe
-realistic
-sheath
-sheathed
-solo
-standing
-subreddit:imaginaryarmor
-subreddit:imtechnology
-sword
-title:commander garrit by cornelius cockroft
-unsheathing
-uploader:myrandall
-weapon
-wrinkled skin
+1boy,
+armor,
+beard,
+cape,
+coat,
+facial hair,
+fur collar,
+fur trim,
+fur-trimmed cape,
+fur-trimmed sleeves,
+holding,
+holding sword,
+holding weapon,
+katana,
+looking at viewer,
+male focus,
+manly,
+mustache,
+old,
+old man,
+rating:safe,
+realistic,
+sheath,
+sheathed,
+solo,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+sword,
+title:commander garrit by cornelius cockroft,
+unsheathing,
+uploader:myrandall,
+weapon,
+wrinkled skin,

@@ -1,20 +1,20 @@
-architecture
-bridge
-building
-castle
-city
-cloud
-cloudy sky
-mountain
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:castle town by artist jordan grimmer
-tower
-uploader:anon_ymou5
-water
+architecture,
+bridge,
+building,
+castle,
+city,
+cloud,
+cloudy sky,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:castle town by artist jordan grimmer,
+tower,
+uploader:anon_ymou5,
+water,

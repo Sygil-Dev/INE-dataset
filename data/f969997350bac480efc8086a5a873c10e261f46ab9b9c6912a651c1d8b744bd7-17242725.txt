@@ -1,38 +1,38 @@
-2016
-artist:maplespyder
-blue eyes
-blue_eyes
-character:maplespyder (character)
-character:maplespyder_(character)
-creator:maplespyder
-digital media (artwork)
-feral
-fur
-maplespyder (character)
-medium:digital media
-medium:simple background
-meta:2016
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-orange body
-orange fur
-orange_body
-orange_fur
-paws
-rating:safe
-simple background
-simple_background
-sitting
-solo
-species:cat
-species:domestic cat
-species:domestic_cat
-species:felid
-species:feline
-species:felis
-species:mammal
-subreddit:imaginaryanimals
-subreddit:imnature
-title:pirate by maplespyder
-uploader:lonelyandbored75
-year:2016
+2016,
+artist:maplespyder,
+blue eyes,
+blue_eyes,
+character:maplespyder (character),
+character:maplespyder_(character),
+creator:maplespyder,
+digital media (artwork),
+feral,
+fur,
+maplespyder (character),
+medium:digital media,
+medium:simple background,
+meta:2016,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+paws,
+rating:safe,
+simple background,
+simple_background,
+sitting,
+solo,
+species:cat,
+species:domestic cat,
+species:domestic_cat,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:pirate by maplespyder,
+uploader:lonelyandbored75,
+year:2016,

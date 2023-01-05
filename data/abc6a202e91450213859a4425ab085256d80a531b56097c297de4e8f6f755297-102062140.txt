@@ -1,29 +1,29 @@
-1girl
-black hair
-boots
-cable
-creator:morncolour
-dress
-hand up
-indoors
-jacket
-looking at object
-machine
-medium hair
-meta:absurdres
-meta:highres
-purple footwear
-rating:general
-scenery
-science fiction
-scientist
-see-through
-see-through jacket
-series:original
-solo
-subreddit:imaginarymindscapes
-title:star-making machine by morncolour
-uploader:clae_pcmr
-white dress
-white theme
-wire
+1girl,
+black hair,
+boots,
+cable,
+creator:morncolour,
+dress,
+hand up,
+indoors,
+jacket,
+looking at object,
+machine,
+medium hair,
+meta:absurdres,
+meta:highres,
+purple footwear,
+rating:general,
+scenery,
+science fiction,
+scientist,
+see-through,
+see-through jacket,
+series:original,
+solo,
+subreddit:imaginarymindscapes,
+title:star-making machine by morncolour,
+uploader:clae_pcmr,
+white dress,
+white theme,
+wire,

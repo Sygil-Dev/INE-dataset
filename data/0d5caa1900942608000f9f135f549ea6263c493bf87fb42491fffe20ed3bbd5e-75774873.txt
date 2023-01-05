@@ -1,23 +1,23 @@
-1boy
-boots
-bullpup
-full body
-gun
-holding
-holding gun
-holding weapon
-male focus
-military
-pouch
-rating:safe
-rifle
-simple background
-solo
-standing
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-title:[oc] virbraxis guard
-uniform
-uploader:anbox1
-weapon
-white background
+1boy,
+boots,
+bullpup,
+full body,
+gun,
+holding,
+holding gun,
+holding weapon,
+male focus,
+military,
+pouch,
+rating:safe,
+rifle,
+simple background,
+solo,
+standing,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+title:[oc] virbraxis guard,
+uniform,
+uploader:anbox1,
+weapon,
+white background,

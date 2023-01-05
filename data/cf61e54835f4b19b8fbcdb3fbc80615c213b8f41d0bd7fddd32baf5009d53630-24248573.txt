@@ -1,24 +1,24 @@
-2d
-car
-concept
-creator:ismail inceoglu
-cyberpunk
-daily
-environment
-genre:science fiction
-ground vehicle
-hover
-hovercar
-ismail inceoglu
-landscape
-medium:digital 2d
-motor vehicle
-orangecircle
-scenery
-seventeenth
-subreddit:imaginaryadrenaline
-subreddit:imaginaryvehicles
-title:too fast
-title:too fast by ismail inceoglu
-uploader:myrandall
-vehicle
+2d,
+car,
+concept,
+creator:ismail inceoglu,
+cyberpunk,
+daily,
+environment,
+genre:science fiction,
+ground vehicle,
+hover,
+hovercar,
+ismail inceoglu,
+landscape,
+medium:digital 2d,
+motor vehicle,
+orangecircle,
+scenery,
+seventeenth,
+subreddit:imaginaryadrenaline,
+subreddit:imaginaryvehicles,
+title:too fast,
+title:too fast by ismail inceoglu,
+uploader:myrandall,
+vehicle,

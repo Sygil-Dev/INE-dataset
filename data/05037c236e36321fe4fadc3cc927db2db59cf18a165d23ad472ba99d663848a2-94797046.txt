@@ -1,23 +1,23 @@
-animal
-breathing fire
-burning
-embers
-explosion
-fangs
-fire
-flame
-molten rock
-monster
-no humans
-open mouth
-orange background
-rating:safe
-realistic
-red sky
-sharp teeth
-subreddit:imaginarywerewolves
-subreddit:immonsters
-sunset
-teeth
-title:“hunted” by rafael villaperde
-uploader:yannirotten
+animal,
+breathing fire,
+burning,
+embers,
+explosion,
+fangs,
+fire,
+flame,
+molten rock,
+monster,
+no humans,
+open mouth,
+orange background,
+rating:safe,
+realistic,
+red sky,
+sharp teeth,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+sunset,
+teeth,
+title:“hunted” by rafael villaperde,
+uploader:yannirotten,

@@ -1,35 +1,35 @@
-1boy
-abs
-armor
-bara
-beard
-blue cape
-boots
-cape
-character:iskandar (fate)
-facial hair
-full body
-fur cape
-fur collar
-fur trim
-fur-trimmed cape
-jewelry
-male focus
-manly
-mature male
-muscular
-muscular male
-pectorals
-rating:safe
-red hair
-simple background
-solo
-standing
-subreddit:imaginaryvikings
-subreddit:imaginarywarriors
-subreddit:imcharacters
-sword
-title:viking by danny paik
-uploader:ajcarrington
-uploader:myrandall
-weapon
+1boy,
+abs,
+armor,
+bara,
+beard,
+blue cape,
+boots,
+cape,
+character:iskandar (fate),
+facial hair,
+full body,
+fur cape,
+fur collar,
+fur trim,
+fur-trimmed cape,
+jewelry,
+male focus,
+manly,
+mature male,
+muscular,
+muscular male,
+pectorals,
+rating:safe,
+red hair,
+simple background,
+solo,
+standing,
+subreddit:imaginaryvikings,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+sword,
+title:viking by danny paik,
+uploader:ajcarrington,
+uploader:myrandall,
+weapon,

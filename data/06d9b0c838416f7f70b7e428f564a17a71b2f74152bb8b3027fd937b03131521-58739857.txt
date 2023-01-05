@@ -1,19 +1,19 @@
-artist name
-book
-chain
-chained
-creator:wei wang
-curtains
-glowing
-glowing eyes
-holding book
-male focus
-medium:digital 2d
-open book
-rating:safe
-signature
-solo
-subreddit:imaginaryclerics
-title:paladin by wei wang
-title:the art of warcraft
-uploader:lol33ta
+artist name,
+book,
+chain,
+chained,
+creator:wei wang,
+curtains,
+glowing,
+glowing eyes,
+holding book,
+male focus,
+medium:digital 2d,
+open book,
+rating:safe,
+signature,
+solo,
+subreddit:imaginaryclerics,
+title:paladin by wei wang,
+title:the art of warcraft,
+uploader:lol33ta,

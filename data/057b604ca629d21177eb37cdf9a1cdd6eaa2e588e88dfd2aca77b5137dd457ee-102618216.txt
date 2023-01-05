@@ -1,23 +1,23 @@
-1boy
-american flag
-beard
-facial hair
-flag background
-japanese flag
-male focus
-multiple torii
-mustache
-old
-old man
-rating:safe
-red background
-red border
-red moon
-red sky
-red theme
-simple background
-solo
-subreddit:imaginarywesteros
-title:the broken king, by me
-torii
-uploader:lordthistlewaiteofha
+1boy,
+american flag,
+beard,
+facial hair,
+flag background,
+japanese flag,
+male focus,
+multiple torii,
+mustache,
+old,
+old man,
+rating:safe,
+red background,
+red border,
+red moon,
+red sky,
+red theme,
+simple background,
+solo,
+subreddit:imaginarywesteros,
+title:the broken king, by me,
+torii,
+uploader:lordthistlewaiteofha,

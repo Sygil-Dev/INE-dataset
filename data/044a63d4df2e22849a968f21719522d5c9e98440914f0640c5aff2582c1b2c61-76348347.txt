@@ -1,23 +1,23 @@
-1girl
-adjusting headwear
-baseball cap
-blood
-blood on hands
-blood splatter
-full body
-gloves
-hat
-jacket
-male focus
-pants
-rating:safe
-shoes
-simple background
-sneakers
-solo
-standing
-subreddit:imaginaryfashion
-subreddit:immeta
-title:3 by rc yang0525
-uploader:musaibwadkar
-white background
+1girl,
+adjusting headwear,
+baseball cap,
+blood,
+blood on hands,
+blood splatter,
+full body,
+gloves,
+hat,
+jacket,
+male focus,
+pants,
+rating:safe,
+shoes,
+simple background,
+sneakers,
+solo,
+standing,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+title:3 by rc yang0525,
+uploader:musaibwadkar,
+white background,

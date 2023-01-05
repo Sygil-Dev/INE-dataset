@@ -1,30 +1,30 @@
-architecture
-bridge
-building
-bush
-city
-cloud
-east asian architecture
-fantasy
-flower
-forest
-grass
-lantern
-leaf
-nature
-night
-no humans
-outdoors
-pagoda
-plant
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarycastles
-title:forest realm by nele diel
-torii
-tree
-uploader:myrandall
-water
-waterfall
+architecture,
+bridge,
+building,
+bush,
+city,
+cloud,
+east asian architecture,
+fantasy,
+flower,
+forest,
+grass,
+lantern,
+leaf,
+nature,
+night,
+no humans,
+outdoors,
+pagoda,
+plant,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarycastles,
+title:forest realm by nele diel,
+torii,
+tree,
+uploader:myrandall,
+water,
+waterfall,

@@ -1,28 +1,28 @@
-1boy
-beard
-creator:chun lo
-facial hair
-from behind
-holding
-holding sword
-holding weapon
-japanese clothes
-katana
-kimono
-male focus
-medium:digital 2d
-orange background
-rating:safe
-red background
-samurai
-sheath
-sheathed
-simple background
-solo
-subreddit:imaginaryninjas
-sword
-title:mantle
-title:mantle by chun lo
-uploader:panthaura
-weapon
-wide sleeves
+1boy,
+beard,
+creator:chun lo,
+facial hair,
+from behind,
+holding,
+holding sword,
+holding weapon,
+japanese clothes,
+katana,
+kimono,
+male focus,
+medium:digital 2d,
+orange background,
+rating:safe,
+red background,
+samurai,
+sheath,
+sheathed,
+simple background,
+solo,
+subreddit:imaginaryninjas,
+sword,
+title:mantle,
+title:mantle by chun lo,
+uploader:panthaura,
+weapon,
+wide sleeves,

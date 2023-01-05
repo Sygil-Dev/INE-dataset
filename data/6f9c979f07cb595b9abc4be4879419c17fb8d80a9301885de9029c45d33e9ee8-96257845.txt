@@ -1,36 +1,36 @@
-beach
-character:sifyro
-claws
-clothing
-coconut
-conditional dnp
-creator:blitzdrachin
-creator:conditional dnp
-creator:sifyro
-drupe (fruit)
-eyewear
-food
-fruit
-hat
-headgear
-headwear
-horn
-meta:2022
-paws
-plant
-rating:safe
-seaside
-semi-anthro
-source:furaffinity.net
-species:dragon
-subreddit:adorabledragons
-subreddit:imaginarydragons
-subreddit:immonsters
-sunglasses
-swimwear
-title:art by me
-title:let's go to the beach, bitch!
-title:sifyro having her ova at the beach!
-uploader:sifyro
-wings
-zipper
+beach,
+character:sifyro,
+claws,
+clothing,
+coconut,
+conditional dnp,
+creator:blitzdrachin,
+creator:conditional dnp,
+creator:sifyro,
+drupe (fruit),
+eyewear,
+food,
+fruit,
+hat,
+headgear,
+headwear,
+horn,
+meta:2022,
+paws,
+plant,
+rating:safe,
+seaside,
+semi-anthro,
+source:furaffinity.net,
+species:dragon,
+subreddit:adorabledragons,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sunglasses,
+swimwear,
+title:art by me,
+title:let's go to the beach, bitch!,
+title:sifyro having her ova at the beach!,
+uploader:sifyro,
+wings,
+zipper,

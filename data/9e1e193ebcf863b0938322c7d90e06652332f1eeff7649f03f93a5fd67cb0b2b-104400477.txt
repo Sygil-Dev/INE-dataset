@@ -1,20 +1,20 @@
-1boy
-1girl
-blue hair
-braid
-character:jinx (league of legends)
-eyeshadow
-hair over one eye
-lips
-long hair
-makeup
-nose
-pink eyes
-rating:safe
-realistic
-scar
-subreddit:imaginaryruneterra
-tattoo
-title:don't cry. you're perfect by pickled0ctopus
-twin braids
-uploader:dracconas
+1boy,
+1girl,
+blue hair,
+braid,
+character:jinx (league of legends),
+eyeshadow,
+hair over one eye,
+lips,
+long hair,
+makeup,
+nose,
+pink eyes,
+rating:safe,
+realistic,
+scar,
+subreddit:imaginaryruneterra,
+tattoo,
+title:don't cry. you're perfect by pickled0ctopus,
+twin braids,
+uploader:dracconas,

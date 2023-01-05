@@ -1,28 +1,28 @@
-1girl
-6+boys
-armor
-bald
-beard
-cape
-energy sword
-facial hair
-gun
-helmet
-lightsaber
-military
-military uniform
-multiple boys
-mustache
-old
-old man
-rating:safe
-realistic
-rifle
-science fiction
-subreddit:imaginarynobles
-subreddit:imcharacters
-sword
-title:imperial chic - who wore it better?
-uniform
-uploader:redcoat_officer
-weapon
+1girl,
+6+boys,
+armor,
+bald,
+beard,
+cape,
+energy sword,
+facial hair,
+gun,
+helmet,
+lightsaber,
+military,
+military uniform,
+multiple boys,
+mustache,
+old,
+old man,
+rating:safe,
+realistic,
+rifle,
+science fiction,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+sword,
+title:imperial chic - who wore it better?,
+uniform,
+uploader:redcoat_officer,
+weapon,

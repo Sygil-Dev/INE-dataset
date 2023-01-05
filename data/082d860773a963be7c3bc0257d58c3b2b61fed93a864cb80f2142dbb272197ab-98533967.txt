@@ -1,52 +1,52 @@
-architecture
-autumn
-autumn leaves
-bare tree
-building
-bush
-chain-link fence
-city
-cityscape
-cloud
-east asian architecture
-evening
-fence
-forest
-gate
-gradient sky
-grass
-house
-lamppost
-mountain
-nature
-no humans
-orange sky
-outdoors
-park
-path
-plant
-power lines
-rating:safe
-real world location
-road
-road sign
-scenery
-shrine
-sidewalk
-sign
-sky
-skyscraper
-street
-subreddit:imaginarycolorscapes
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-subreddit:immeta
-sunlight
-sunset
-title:someday, by gydw1n
-title:someday, by gydw1n (denis istomin)
-torii
-tree
-twilight
-uploader:tabulaerrata
-utility pole
+architecture,
+autumn,
+autumn leaves,
+bare tree,
+building,
+bush,
+chain-link fence,
+city,
+cityscape,
+cloud,
+east asian architecture,
+evening,
+fence,
+forest,
+gate,
+gradient sky,
+grass,
+house,
+lamppost,
+mountain,
+nature,
+no humans,
+orange sky,
+outdoors,
+park,
+path,
+plant,
+power lines,
+rating:safe,
+real world location,
+road,
+road sign,
+scenery,
+shrine,
+sidewalk,
+sign,
+sky,
+skyscraper,
+street,
+subreddit:imaginarycolorscapes,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+subreddit:immeta,
+sunlight,
+sunset,
+title:someday, by gydw1n,
+title:someday, by gydw1n (denis istomin),
+torii,
+tree,
+twilight,
+uploader:tabulaerrata,
+utility pole,

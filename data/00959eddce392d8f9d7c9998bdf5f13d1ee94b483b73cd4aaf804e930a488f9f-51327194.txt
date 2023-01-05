@@ -1,55 +1,55 @@
-ambiguous gender
-ambiguous_gender
-animal
-animal focus
-artist:silverfox5213
-black body
-black eyes
-black fur
-black_body
-black_eyes
-black_fur
-cat
-creator:silverfox5213
-daww
-dog
-feral
-fur
-gills
-grey body
-grey fur
-grey_body
-grey_fur
-lion
-looking at viewer
-meta:url
-no humans
-rating:safe
-realistic
-simple background
-simple_background
-solo
-species:cat
-species:domestic cat
-species:domestic_cat
-species:felid
-species:feline
-species:felis
-species:fish
-species:hybrid
-species:mammal
-species:marine
-species:shark
-subreddit:imaginaryaww
-subreddit:immeta
-text
-title:shark cat by silverfox5213
-uploader:lol33ta
-white background
-white body
-white cat
-white fur
-white_background
-white_body
-white_fur
-wolf
+ambiguous gender,
+ambiguous_gender,
+animal,
+animal focus,
+artist:silverfox5213,
+black body,
+black eyes,
+black fur,
+black_body,
+black_eyes,
+black_fur,
+cat,
+creator:silverfox5213,
+daww,
+dog,
+feral,
+fur,
+gills,
+grey body,
+grey fur,
+grey_body,
+grey_fur,
+lion,
+looking at viewer,
+meta:url,
+no humans,
+rating:safe,
+realistic,
+simple background,
+simple_background,
+solo,
+species:cat,
+species:domestic cat,
+species:domestic_cat,
+species:felid,
+species:feline,
+species:felis,
+species:fish,
+species:hybrid,
+species:mammal,
+species:marine,
+species:shark,
+subreddit:imaginaryaww,
+subreddit:immeta,
+text,
+title:shark cat by silverfox5213,
+uploader:lol33ta,
+white background,
+white body,
+white cat,
+white fur,
+white_background,
+white_body,
+white_fur,
+wolf,

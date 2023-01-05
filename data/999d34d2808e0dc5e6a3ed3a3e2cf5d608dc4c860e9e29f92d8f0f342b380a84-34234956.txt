@@ -1,92 +1,92 @@
-1 male
-4 toes
-4_toes
-5 fingers
-5_fingers
-2019
-anthro
-anthropomorphism
-artist:kenket
-assassin
-barefoot
-black nose
-black_nose
-booru:e621
-brown body
-brown fur
-brown_body
-brown_fur
-canid
-canis
-character:trell
-claws
-copyright:tangletorn
-creator:izrez
-creator:kenket
-crimes
-dagger
-detailed background
-detailed_background
-feet
-fingers
-fox
-fur
-gender:male
-genre:fantasy
-holding dagger
-holding_dagger
-inner ear fluff
-inner_ear_fluff
-knife
-long mouth
-long_mouth
-male
-male only
-medium:detailed background
-medium:digital media
-medium:focus on male character
-melee weapon
-melee_weapon
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-night
-outside
-pawpads
-rating:safe
-reed
-robber
-rogue
-rope
-series:tangletorn
-smile
-soles
-solo
-solo male
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:coyote
-species:fox
-species:mammal
-subreddit:imaginaryassassins
-subreddit:imcharacters
-tan body
-tan fur
-tan_body
-tan_fur
-tangletorn
-thief
-title:window shopping by tess garman (kenket)
-title:ƃuᴉddoɥs ʍopuᴉʍ
-toes
-trell
-tuft
-uploader:lol33ta
-upside down
-upside_down
-village
-weapon
-whiskers
-year:2019
+1 male,
+4 toes,
+4_toes,
+5 fingers,
+5_fingers,
+2019,
+anthro,
+anthropomorphism,
+artist:kenket,
+assassin,
+barefoot,
+black nose,
+black_nose,
+booru:e621,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+canid,
+canis,
+character:trell,
+claws,
+copyright:tangletorn,
+creator:izrez,
+creator:kenket,
+crimes,
+dagger,
+detailed background,
+detailed_background,
+feet,
+fingers,
+fox,
+fur,
+gender:male,
+genre:fantasy,
+holding dagger,
+holding_dagger,
+inner ear fluff,
+inner_ear_fluff,
+knife,
+long mouth,
+long_mouth,
+male,
+male only,
+medium:detailed background,
+medium:digital media,
+medium:focus on male character,
+melee weapon,
+melee_weapon,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+night,
+outside,
+pawpads,
+rating:safe,
+reed,
+robber,
+rogue,
+rope,
+series:tangletorn,
+smile,
+soles,
+solo,
+solo male,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:coyote,
+species:fox,
+species:mammal,
+subreddit:imaginaryassassins,
+subreddit:imcharacters,
+tan body,
+tan fur,
+tan_body,
+tan_fur,
+tangletorn,
+thief,
+title:window shopping by tess garman (kenket),
+title:ƃuᴉddoɥs ʍopuᴉʍ,
+toes,
+trell,
+tuft,
+uploader:lol33ta,
+upside down,
+upside_down,
+village,
+weapon,
+whiskers,
+year:2019,

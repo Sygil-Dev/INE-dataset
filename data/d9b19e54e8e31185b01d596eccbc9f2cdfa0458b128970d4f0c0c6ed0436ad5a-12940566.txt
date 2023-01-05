@@ -1,79 +1,79 @@
-4 toes
-5 fingers
-2018
-amazing background
-amazing_background
-amber eyes
-anthro
-anthropomorphism
-armor
-artist:caraid
-baldric
-black nose
-booru:e621
-bracers
-claymore
-clothing:armor
-cloud
-creator:caraid
-creator:lhuneart
-day
-detailed background
-detailed fur
-feet
-fingers
-fur
-gender:male
-grass
-greaves
-grey body
-grey fur
-holding object
-holding sword
-holding weapon
-kilt
-male
-medium:amazing background
-medium:detailed background
-medium:digital media
-medium:high resolution
-melee weapon
-meta:2018
-meta:detailed
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-outside
-plant
-rating:safe
-revealing armor
-scabbard
-scotland
-scottish
-sky
-solo
-spaulder
-spaulders
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-sporran
-strap across chest
-strap_across_chest
-subreddit:imaginaryhybrids
-subreddit:imaginarywerewolves
-subreddit:immonsters
-sword
-title:one man army by ilse gort
-toes
-unconvincing armor
-unconvincing_armor
-uploader:killerbunnyfamily
-vrika
-vrika macpherson wolf
-weapon
-year:2018
-yellow eyes
+4 toes,
+5 fingers,
+2018,
+amazing background,
+amazing_background,
+amber eyes,
+anthro,
+anthropomorphism,
+armor,
+artist:caraid,
+baldric,
+black nose,
+booru:e621,
+bracers,
+claymore,
+clothing:armor,
+cloud,
+creator:caraid,
+creator:lhuneart,
+day,
+detailed background,
+detailed fur,
+feet,
+fingers,
+fur,
+gender:male,
+grass,
+greaves,
+grey body,
+grey fur,
+holding object,
+holding sword,
+holding weapon,
+kilt,
+male,
+medium:amazing background,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+melee weapon,
+meta:2018,
+meta:detailed,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+outside,
+plant,
+rating:safe,
+revealing armor,
+scabbard,
+scotland,
+scottish,
+sky,
+solo,
+spaulder,
+spaulders,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+sporran,
+strap across chest,
+strap_across_chest,
+subreddit:imaginaryhybrids,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+sword,
+title:one man army by ilse gort,
+toes,
+unconvincing armor,
+unconvincing_armor,
+uploader:killerbunnyfamily,
+vrika,
+vrika macpherson wolf,
+weapon,
+year:2018,
+yellow eyes,

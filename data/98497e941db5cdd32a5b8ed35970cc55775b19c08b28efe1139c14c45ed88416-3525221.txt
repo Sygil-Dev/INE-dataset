@@ -1,43 +1,43 @@
-art
-booru:e621
-creator:adam paquette
-detailed background
-feral
-gender:male
-horn
-horns
-landscape
-low-angle shot
-low-angle view
-macro
-male
-medium:detailed background
-meta:english text
-meta:official art
-monster
-nature
-open mouth
-outside
-plant
-quadruped
-rating:safe
-ruins
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-sharp teeth
-snarling
-solo
-species:monster
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarybehemoths
-teeth
-text
-title:zhur-taa ancient by adam paquette
-tree
-uploader:killerbunnyfamily
-water
-waterfall
+art,
+booru:e621,
+creator:adam paquette,
+detailed background,
+feral,
+gender:male,
+horn,
+horns,
+landscape,
+low-angle shot,
+low-angle view,
+macro,
+male,
+medium:detailed background,
+meta:english text,
+meta:official art,
+monster,
+nature,
+open mouth,
+outside,
+plant,
+quadruped,
+rating:safe,
+ruins,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+sharp teeth,
+snarling,
+solo,
+species:monster,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarybehemoths,
+teeth,
+text,
+title:zhur-taa ancient by adam paquette,
+tree,
+uploader:killerbunnyfamily,
+water,
+waterfall,

@@ -1,24 +1,24 @@
-1girl
-?
-air bubble
-bubble
-category:ine
-caustics
-fish
-ocean
-open mouth
-pokemon (creature)
-pool
-rating:safe
-smile
-splashing
-subreddit:imaginaryaww
-subreddit:imaginarybestof
-subreddit:immeta
-swimming
-title:[/r/imaginaryaww] wizard by astral-requin
-title:wizard by astral-requin
-underwater
-uploader:lol33ta
-water
-waves
+1girl,
+?,
+air bubble,
+bubble,
+category:ine,
+caustics,
+fish,
+ocean,
+open mouth,
+pokemon (creature),
+pool,
+rating:safe,
+smile,
+splashing,
+subreddit:imaginaryaww,
+subreddit:imaginarybestof,
+subreddit:immeta,
+swimming,
+title:[/r/imaginaryaww] wizard by astral-requin,
+title:wizard by astral-requin,
+underwater,
+uploader:lol33ta,
+water,
+waves,

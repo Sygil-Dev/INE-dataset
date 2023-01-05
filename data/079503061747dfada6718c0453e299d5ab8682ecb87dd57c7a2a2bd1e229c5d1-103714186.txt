@@ -1,29 +1,29 @@
-1boy
-armor
-artist name
-black cape
-blue cape
-cape
-full body
-gauntlets
-glowing
-glowing eyes
-glowing weapon
-gradient
-gradient background
-grey background
-helmet
-holding
-holding sword
-holding weapon
-male focus
-rating:safe
-red cape
-signature
-solo
-standing
-subreddit:imaginaryhalo
-sword
-title:dlta by lathorah
-uploader:[deleted]
-weapon
+1boy,
+armor,
+artist name,
+black cape,
+blue cape,
+cape,
+full body,
+gauntlets,
+glowing,
+glowing eyes,
+glowing weapon,
+gradient,
+gradient background,
+grey background,
+helmet,
+holding,
+holding sword,
+holding weapon,
+male focus,
+rating:safe,
+red cape,
+signature,
+solo,
+standing,
+subreddit:imaginaryhalo,
+sword,
+title:dlta by lathorah,
+uploader:[deleted],
+weapon,

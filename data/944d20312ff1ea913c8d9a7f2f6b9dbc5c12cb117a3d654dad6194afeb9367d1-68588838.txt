@@ -1,19 +1,19 @@
-1girl
-black hair
-brown eyes
-chromatic aberration
-close-up
-closed mouth
-creator:ilya kuvshinov
-face
-hair over face
-lips
-looking at viewer
-meta:highres
-rating:safe
-series:original
-solo
-subreddit:imaginarycolorscapes
-subreddit:immeta
-title:untitled by kuvshinov ilya
-uploader:musaibwadkar
+1girl,
+black hair,
+brown eyes,
+chromatic aberration,
+close-up,
+closed mouth,
+creator:ilya kuvshinov,
+face,
+hair over face,
+lips,
+looking at viewer,
+meta:highres,
+rating:safe,
+series:original,
+solo,
+subreddit:imaginarycolorscapes,
+subreddit:immeta,
+title:untitled by kuvshinov ilya,
+uploader:musaibwadkar,

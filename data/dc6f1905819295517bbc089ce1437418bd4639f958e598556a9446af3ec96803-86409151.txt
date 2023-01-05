@@ -1,17 +1,17 @@
-archer
-barefoot
-deer
-female
-human
-long blonde hair
-mouse
-night
-squirrel
-subreddit:imaginaryarchers
-subreddit:imaginaryimmortals
-subreddit:imaginarymythology
-subreddit:imcharacters
-subreddit:imraces
-title:artemis by fernanda suarez
-uploader:lol33ta
-uploader:n0laloth
+archer,
+barefoot,
+deer,
+female,
+human,
+long blonde hair,
+mouse,
+night,
+squirrel,
+subreddit:imaginaryarchers,
+subreddit:imaginaryimmortals,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+subreddit:imraces,
+title:artemis by fernanda suarez,
+uploader:lol33ta,
+uploader:n0laloth,

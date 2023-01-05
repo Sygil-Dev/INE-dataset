@@ -1,19 +1,19 @@
-1boy
-beard
-boots
-character sheet
-coat
-concept art
-facial hair
-gloves
-gun
-holding
-holding weapon
-multiple views
-rating:safe
-standing
-subreddit:imaginarycybernetics
-title:the city of cult - drug inducing gear by stefan atanasov
-turnaround
-uploader:natezomby
-weapon
+1boy,
+beard,
+boots,
+character sheet,
+coat,
+concept art,
+facial hair,
+gloves,
+gun,
+holding,
+holding weapon,
+multiple views,
+rating:safe,
+standing,
+subreddit:imaginarycybernetics,
+title:the city of cult - drug inducing gear by stefan atanasov,
+turnaround,
+uploader:natezomby,
+weapon,

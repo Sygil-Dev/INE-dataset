@@ -1,46 +1,46 @@
-1boy
-1girl
-bare shoulders
-baseball bat
-baseball cap
-bottle
-brown hair
-can
-candy
-collarbone
-couch
-creator:pubia0919
-crt
-fetus
-food
-green eyes
-grey eyes
-hand on own knee
-hat
-holding
-holding baseball bat
-holding candy
-holding food
-holding mop
-humanoid robot
-long hair
-meta:absurdres
-meta:commentary
-meta:highres
-mop
-nightgown
-pubia0919
-rabbit ears antenna
-rating:general
-robot
-series:original
-slippers
-stairs
-stuffed animal
-stuffed toy
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-teddy bear
-title:our secret base by pubia
-traffic cone
-uploader:musaibwadkar
+1boy,
+1girl,
+bare shoulders,
+baseball bat,
+baseball cap,
+bottle,
+brown hair,
+can,
+candy,
+collarbone,
+couch,
+creator:pubia0919,
+crt,
+fetus,
+food,
+green eyes,
+grey eyes,
+hand on own knee,
+hat,
+holding,
+holding baseball bat,
+holding candy,
+holding food,
+holding mop,
+humanoid robot,
+long hair,
+meta:absurdres,
+meta:commentary,
+meta:highres,
+mop,
+nightgown,
+pubia0919,
+rabbit ears antenna,
+rating:general,
+robot,
+series:original,
+slippers,
+stairs,
+stuffed animal,
+stuffed toy,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+teddy bear,
+title:our secret base by pubia,
+traffic cone,
+uploader:musaibwadkar,

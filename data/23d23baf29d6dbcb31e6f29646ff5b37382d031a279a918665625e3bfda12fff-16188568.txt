@@ -1,19 +1,19 @@
-adopted
-baby
-child
-creator:whitemantis
-cute
-family
-father
-love
-source:furaffinity.net
-subreddit:imaginaryfeels
-tender
-title:timeless: a new
-title:timeless: a new chapter
-title:vygo and vyrn by amadenchart
-uploader:lol33ta
-vygo
-vyrn
-whitemantis
-young
+adopted,
+baby,
+child,
+creator:whitemantis,
+cute,
+family,
+father,
+love,
+source:furaffinity.net,
+subreddit:imaginaryfeels,
+tender,
+title:timeless: a new,
+title:timeless: a new chapter,
+title:vygo and vyrn by amadenchart,
+uploader:lol33ta,
+vygo,
+vyrn,
+whitemantis,
+young,

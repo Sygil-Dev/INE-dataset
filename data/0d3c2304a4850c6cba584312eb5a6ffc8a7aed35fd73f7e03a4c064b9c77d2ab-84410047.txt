@@ -1,26 +1,26 @@
-1girl
-artist name
-axe
-boots
-brown footwear
-crossed arms
-earrings
-full body
-green hair
-jewelry
-knee boots
-night
-night sky
-pointy ears
-rating:safe
-realistic
-signature
-solo
-space
-standing
-star (sky)
-starry sky
-subreddit:imaginaryelves
-subreddit:imraces
-title:cerelia graye by tiago alexandre
-uploader:dmk-max
+1girl,
+artist name,
+axe,
+boots,
+brown footwear,
+crossed arms,
+earrings,
+full body,
+green hair,
+jewelry,
+knee boots,
+night,
+night sky,
+pointy ears,
+rating:safe,
+realistic,
+signature,
+solo,
+space,
+standing,
+star (sky),
+starry sky,
+subreddit:imaginaryelves,
+subreddit:imraces,
+title:cerelia graye by tiago alexandre,
+uploader:dmk-max,

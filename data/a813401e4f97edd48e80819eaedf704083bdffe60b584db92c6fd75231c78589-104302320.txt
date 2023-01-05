@@ -1,24 +1,24 @@
-architecture
-bookshelf
-brick wall
-bridge
-building
-chain-link fence
-city
-cityscape
-clock tower
-east asian architecture
-fence
-library
-long hair
-no humans
-pagoda
-rating:safe
-rooftop
-scenery
-skyscraper
-subreddit:imaginaryarchitecture
-title:a design by 18th century architect étienne-louis boullée
-tower
-uploader:quasarsrcool
-voile
+architecture,
+bookshelf,
+brick wall,
+bridge,
+building,
+chain-link fence,
+city,
+cityscape,
+clock tower,
+east asian architecture,
+fence,
+library,
+long hair,
+no humans,
+pagoda,
+rating:safe,
+rooftop,
+scenery,
+skyscraper,
+subreddit:imaginaryarchitecture,
+title:a design by 18th century architect étienne-louis boullée,
+tower,
+uploader:quasarsrcool,
+voile,

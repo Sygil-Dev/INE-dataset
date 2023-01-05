@@ -1,20 +1,20 @@
-1 female
-blonde hair
-closed eyes
-creator:maximko
-ears
-gender:female
-head back
-long hair
-parted lips
-pointy ears
-rating:safe
-series:original
-sketch
-solo
-subreddit:imaginaryelves
-subreddit:imraces
-teeth
-title:unicorn light elf girl by maximko
-uploader:lol33ta
-wavy hair
+1 female,
+blonde hair,
+closed eyes,
+creator:maximko,
+ears,
+gender:female,
+head back,
+long hair,
+parted lips,
+pointy ears,
+rating:safe,
+series:original,
+sketch,
+solo,
+subreddit:imaginaryelves,
+subreddit:imraces,
+teeth,
+title:unicorn light elf girl by maximko,
+uploader:lol33ta,
+wavy hair,

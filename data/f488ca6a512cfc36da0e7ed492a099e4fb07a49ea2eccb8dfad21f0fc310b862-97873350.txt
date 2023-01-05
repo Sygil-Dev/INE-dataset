@@ -1,24 +1,24 @@
-2d art
-color
-concept art
-concept design
-creator:hue teo
-digital art
-digital painting
-environment concept art
-environment design
-hue
-hue teo
-illustration
-medium:digital 2d
-storytelling
-subreddit:imaginarymonuments
-subreddit:imarchitecture
-sword
-sword of light
-title:sword of light
-title:sword of light, hue teo
-uploader:miciy5
-vis dev
-visual development
-visual storytelling
+2d art,
+color,
+concept art,
+concept design,
+creator:hue teo,
+digital art,
+digital painting,
+environment concept art,
+environment design,
+hue,
+hue teo,
+illustration,
+medium:digital 2d,
+storytelling,
+subreddit:imaginarymonuments,
+subreddit:imarchitecture,
+sword,
+sword of light,
+title:sword of light,
+title:sword of light, hue teo,
+uploader:miciy5,
+vis dev,
+visual development,
+visual storytelling,

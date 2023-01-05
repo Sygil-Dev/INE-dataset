@@ -1,30 +1,30 @@
-beach
-bird
-blue sky
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-grass
-horizon
-house
-mountain
-ocean
-outdoors
-palm tree
-plant
-potted plant
-rating:safe
-scenery
-sky
-stairs
-subreddit:imaginaryarchitecture
-title:volantis - made just for fun, by me, to learn procreate
-tower
-tree
-uploader:peemopaimo
-water
+beach,
+bird,
+blue sky,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+grass,
+horizon,
+house,
+mountain,
+ocean,
+outdoors,
+palm tree,
+plant,
+potted plant,
+rating:safe,
+scenery,
+sky,
+stairs,
+subreddit:imaginaryarchitecture,
+title:volantis - made just for fun, by me, to learn procreate,
+tower,
+tree,
+uploader:peemopaimo,
+water,

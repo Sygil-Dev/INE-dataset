@@ -1,20 +1,20 @@
-barefoot
-breasts
-cleavage
-dress
-fire
-fish
-long hair
-lying
-on back
-painting (medium)
-rating:safe
-red hair
-subreddit:imaginaryimmortals
-subreddit:imaginarymythology
-subreddit:imcharacters
-subreddit:imraces
-title:aphrodite finds psyche's task accomplished by h.j. ford
-traditional media
-uploader:miriviews
-watercolor (medium)
+barefoot,
+breasts,
+cleavage,
+dress,
+fire,
+fish,
+long hair,
+lying,
+on back,
+painting (medium),
+rating:safe,
+red hair,
+subreddit:imaginaryimmortals,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+subreddit:imraces,
+title:aphrodite finds psyche's task accomplished by h.j. ford,
+traditional media,
+uploader:miriviews,
+watercolor (medium),

@@ -1,36 +1,36 @@
-1boy
-backpack
-bag
-baseball cap
-brown eyes
-character:ash ketchum
-character:pikachu
-cosplay
-creature
-electricity
-facial hair
-fingerless gloves
-full body
-gloves
-hat
-holding
-holding poke ball
-jacket
-male focus
-on shoulder
-open mouth
-pants
-poke ball
-poke ball (basic)
-pokemon (creature)
-pokemon on head
-pokemon on shoulder
-rating:safe
-shoes
-sneakers
-standing
-subreddit:imaginarykanto
-tattoo
-title:pokemon 25th anniversary by gabriel leonardo galvao
-uploader:lol33ta
-watermark
+1boy,
+backpack,
+bag,
+baseball cap,
+brown eyes,
+character:ash ketchum,
+character:pikachu,
+cosplay,
+creature,
+electricity,
+facial hair,
+fingerless gloves,
+full body,
+gloves,
+hat,
+holding,
+holding poke ball,
+jacket,
+male focus,
+on shoulder,
+open mouth,
+pants,
+poke ball,
+poke ball (basic),
+pokemon (creature),
+pokemon on head,
+pokemon on shoulder,
+rating:safe,
+shoes,
+sneakers,
+standing,
+subreddit:imaginarykanto,
+tattoo,
+title:pokemon 25th anniversary by gabriel leonardo galvao,
+uploader:lol33ta,
+watermark,

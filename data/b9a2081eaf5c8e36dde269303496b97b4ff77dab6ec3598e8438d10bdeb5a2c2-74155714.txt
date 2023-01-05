@@ -1,44 +1,44 @@
-2d
-2dart
-armor
-barbarian
-berserker
-blizzard
-book illustration
-conceptart
-creator:aleksa stajsic
-digital 2d
-dnd
-dragon
-dungeouns and dragons
-fantasy
-heartstone
-illustration
-leagueoflegends
-lol
-lord
-mage
-magic
-magicthegathering
-medium:digital 2d
-monster
-paladin
-riot
-smaug
-splash
-splashart
-subreddit:imaginaryanimals
-subreddit:imaginaryarmor
-subreddit:imaginarybeasts
-subreddit:imaginarybehemoths
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:immonsters
-subreddit:imnature
-subreddit:imtechnology
-title:wyrm lord
-title:wyrm lord, aleksa stajsic
-uploader:al3ks4
-warrior
-wow
-wyrm
+2d,
+2dart,
+armor,
+barbarian,
+berserker,
+blizzard,
+book illustration,
+conceptart,
+creator:aleksa stajsic,
+digital 2d,
+dnd,
+dragon,
+dungeouns and dragons,
+fantasy,
+heartstone,
+illustration,
+leagueoflegends,
+lol,
+lord,
+mage,
+magic,
+magicthegathering,
+medium:digital 2d,
+monster,
+paladin,
+riot,
+smaug,
+splash,
+splashart,
+subreddit:imaginaryanimals,
+subreddit:imaginaryarmor,
+subreddit:imaginarybeasts,
+subreddit:imaginarybehemoths,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:immonsters,
+subreddit:imnature,
+subreddit:imtechnology,
+title:wyrm lord,
+title:wyrm lord, aleksa stajsic,
+uploader:al3ks4,
+warrior,
+wow,
+wyrm,

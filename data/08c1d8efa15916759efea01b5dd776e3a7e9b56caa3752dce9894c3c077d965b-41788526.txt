@@ -1,37 +1,37 @@
-architecture
-artwork
-bridge
-building
-bush
-castle
-city
-cityscape
-cloud
-day
-east asian architecture
-fantasy
-fantasy art
-forest
-landscape
-nature
-no humans
-outdoors
-rating:safe
-river
-ruins
-scenery
-sina abbasnia
-sky
-skyscraper
-subreddit:imaginaryvillages
-subreddit:imarchitecture
-title:art by sina abbasnia
-title:forest village by sina abbasnia
-tower
-tree
-trees
-uploader:[deleted]
-uploader:ultartx
-village
-water
-waterfall
+architecture,
+artwork,
+bridge,
+building,
+bush,
+castle,
+city,
+cityscape,
+cloud,
+day,
+east asian architecture,
+fantasy,
+fantasy art,
+forest,
+landscape,
+nature,
+no humans,
+outdoors,
+rating:safe,
+river,
+ruins,
+scenery,
+sina abbasnia,
+sky,
+skyscraper,
+subreddit:imaginaryvillages,
+subreddit:imarchitecture,
+title:art by sina abbasnia,
+title:forest village by sina abbasnia,
+tower,
+tree,
+trees,
+uploader:[deleted],
+uploader:ultartx,
+village,
+water,
+waterfall,

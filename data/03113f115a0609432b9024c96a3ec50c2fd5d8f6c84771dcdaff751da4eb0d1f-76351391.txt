@@ -1,20 +1,20 @@
-1girl
-artist name
-bare tree
-barefoot
-branch
-dated
-forest
-monster
-nature
-outdoors
-rating:safe
-subreddit:imaginarywitcher
-subreddit:imaginarywitches
-subreddit:imcharacters
-subreddit:imfandoms
-title:sabbath by michal lisowski
-tree
-uploader:betraying_chino
-uploader:blood-n-cheese
-witch
+1girl,
+artist name,
+bare tree,
+barefoot,
+branch,
+dated,
+forest,
+monster,
+nature,
+outdoors,
+rating:safe,
+subreddit:imaginarywitcher,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+subreddit:imfandoms,
+title:sabbath by michal lisowski,
+tree,
+uploader:betraying_chino,
+uploader:blood-n-cheese,
+witch,

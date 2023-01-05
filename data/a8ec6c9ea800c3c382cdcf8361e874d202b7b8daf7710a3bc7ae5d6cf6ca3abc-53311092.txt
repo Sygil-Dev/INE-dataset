@@ -1,19 +1,19 @@
-creator:shibu11
-creator:カオミン
-medium:2d art
-pixiv id:1236873
-pixiv work:76887678
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-title:一期一会
-title:一期一会 by カオミン
-uploader:zewen_senpai
-オリジナル10000users入り
-キャプリーヌ
-サマードレス
-チョーカー
-ボブカット
-ローライフレックス
-女の子
-機関車
-白ワンピ
+creator:shibu11,
+creator:カオミン,
+medium:2d art,
+pixiv id:1236873,
+pixiv work:76887678,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+title:一期一会,
+title:一期一会 by カオミン,
+uploader:zewen_senpai,
+オリジナル10000users入り,
+キャプリーヌ,
+サマードレス,
+チョーカー,
+ボブカット,
+ローライフレックス,
+女の子,
+機関車,
+白ワンピ,

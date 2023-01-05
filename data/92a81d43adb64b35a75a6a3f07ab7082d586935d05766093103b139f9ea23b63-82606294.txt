@@ -1,26 +1,26 @@
-cloud
-creator:dimitri sirenko
-howl
-meta:hi res
-meta:oil painting (artwork)
-meta:painting (artwork)
-meta:traditional media (artwork)
-moon
-night
-rating:safe
-sea
-sky
-solo
-species:canid
-species:canine
-species:canis
-species:elemental creature
-species:mammal
-species:water creature
-species:wolf
-subreddit:imaginarybodyscapes
-subreddit:imlandscapes
-title:soul searching, me, oil on canvas, 2021 ( by u/dimitrisirenko)
-uploader:chalkchick0
-water
-wave
+cloud,
+creator:dimitri sirenko,
+howl,
+meta:hi res,
+meta:oil painting (artwork),
+meta:painting (artwork),
+meta:traditional media (artwork),
+moon,
+night,
+rating:safe,
+sea,
+sky,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:elemental creature,
+species:mammal,
+species:water creature,
+species:wolf,
+subreddit:imaginarybodyscapes,
+subreddit:imlandscapes,
+title:soul searching, me, oil on canvas, 2021 ( by u/dimitrisirenko),
+uploader:chalkchick0,
+water,
+wave,

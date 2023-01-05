@@ -1,28 +1,28 @@
-ambiguous gender
-armor
-breastplate
-cape
-faulds
-full armor
-full body
-gauntlets
-greaves
-grey background
-helmet
-holding
-holding sword
-holding weapon
-knight
-pauldrons
-rating:safe
-shoulder armor
-solo
-standing
-subreddit:imaginaryarmor
-subreddit:imaginaryknights
-subreddit:imcharacters
-subreddit:imtechnology
-sword
-title:dragonknight by hadong song
-uploader:dmk-max
-weapon
+ambiguous gender,
+armor,
+breastplate,
+cape,
+faulds,
+full armor,
+full body,
+gauntlets,
+greaves,
+grey background,
+helmet,
+holding,
+holding sword,
+holding weapon,
+knight,
+pauldrons,
+rating:safe,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+subreddit:imtechnology,
+sword,
+title:dragonknight by hadong song,
+uploader:dmk-max,
+weapon,

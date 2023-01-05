@@ -1,29 +1,29 @@
-armor
-book
-brown hair
-clothed
-clothing
-creator:x-celebril-x
-day
-detailed background
-eyebrows
-eyelashes
-female
-green eyes
-hair
-meta:2021
-meta:digital media (artwork)
-meta:url
-outside
-rating:safe
-sky
-species:elf
-species:humanoid
-subreddit:imaginaryazeroth
-subreddit:imaginaryelves
-subreddit:imfandoms
-subreddit:imraces
-text
-title:silvermoon
-title:silvermoon by x-celebril-x
-uploader:myrandall
+armor,
+book,
+brown hair,
+clothed,
+clothing,
+creator:x-celebril-x,
+day,
+detailed background,
+eyebrows,
+eyelashes,
+female,
+green eyes,
+hair,
+meta:2021,
+meta:digital media (artwork),
+meta:url,
+outside,
+rating:safe,
+sky,
+species:elf,
+species:humanoid,
+subreddit:imaginaryazeroth,
+subreddit:imaginaryelves,
+subreddit:imfandoms,
+subreddit:imraces,
+text,
+title:silvermoon,
+title:silvermoon by x-celebril-x,
+uploader:myrandall,

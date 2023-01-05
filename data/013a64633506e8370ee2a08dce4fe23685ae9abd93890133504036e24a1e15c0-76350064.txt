@@ -1,30 +1,30 @@
-...
-book
-bookshelf
-cat
-character:kirby
-christmas tree
-crescent
-food
-handheld game console
-headphones
-indoors
-multiple girls
-phone
-poster (object)
-rating:safe
-shirt
-shorts
-sitting
-spoken ellipsis
-star (symbol)
-star hair ornament
-star pasties
-star print
-starfish
-starry background
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-title:teenage dream by miss holly
-uploader:lol33ta
-wand
+...,
+book,
+bookshelf,
+cat,
+character:kirby,
+christmas tree,
+crescent,
+food,
+handheld game console,
+headphones,
+indoors,
+multiple girls,
+phone,
+poster (object),
+rating:safe,
+shirt,
+shorts,
+sitting,
+spoken ellipsis,
+star (symbol),
+star hair ornament,
+star pasties,
+star print,
+starfish,
+starry background,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+title:teenage dream by miss holly,
+uploader:lol33ta,
+wand,

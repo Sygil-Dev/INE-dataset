@@ -1,28 +1,28 @@
-ak-47
-assault rifle
-checkered
-checkered background
-checkered floor
-gradient
-gradient background
-gun
-halftone
-halftone background
-handgun
-holding gun
-kalashnikov rifle
-machine gun
-pistol
-polka dot
-polka dot background
-rating:safe
-revolver
-rifle
-scope
-sniper rifle
-submachine gun
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-title:guns by chu qiao
-uploader:disappointingreality
-weapon
+ak-47,
+assault rifle,
+checkered,
+checkered background,
+checkered floor,
+gradient,
+gradient background,
+gun,
+halftone,
+halftone background,
+handgun,
+holding gun,
+kalashnikov rifle,
+machine gun,
+pistol,
+polka dot,
+polka dot background,
+rating:safe,
+revolver,
+rifle,
+scope,
+sniper rifle,
+submachine gun,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+title:guns by chu qiao,
+uploader:disappointingreality,
+weapon,

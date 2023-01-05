@@ -1,20 +1,20 @@
-bare tree
-cloud
-cloudy sky
-evening
-monster
-no humans
-orange sky
-outdoors
-rating:safe
-red sky
-sharp teeth
-sky
-subreddit:imaginarybeasts
-subreddit:imaginarytamriel
-sunset
-title:silt strider by lekso tiger
-tree
-twilight
-uploader:blood-n-cheese
-uploader:n0laloth
+bare tree,
+cloud,
+cloudy sky,
+evening,
+monster,
+no humans,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+sharp teeth,
+sky,
+subreddit:imaginarybeasts,
+subreddit:imaginarytamriel,
+sunset,
+title:silt strider by lekso tiger,
+tree,
+twilight,
+uploader:blood-n-cheese,
+uploader:n0laloth,

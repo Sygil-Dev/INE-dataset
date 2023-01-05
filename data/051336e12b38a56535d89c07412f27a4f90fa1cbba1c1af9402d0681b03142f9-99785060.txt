@@ -1,44 +1,44 @@
-architecture
-blue sky
-bridge
-building
-bush
-castle
-chimney
-city
-city lights
-cityscape
-clock tower
-cloud
-cloudy sky
-day
-east asian architecture
-fantasy
-fountain
-gate
-house
-landscape
-mountain
-no humans
-outdoors
-pagoda
-rating:safe
-river
-road
-rooftop
-ruins
-scenery
-sky
-skyline
-skyscraper
-street
-subreddit:imaginaryvillages
-title:concept art for feature film "upon the magic roads" by kirill khrol
-tokyo (city)
-tower
-town
-tree
-uploader:ultartx
-water
-waterfall
-windmill
+architecture,
+blue sky,
+bridge,
+building,
+bush,
+castle,
+chimney,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+cloudy sky,
+day,
+east asian architecture,
+fantasy,
+fountain,
+gate,
+house,
+landscape,
+mountain,
+no humans,
+outdoors,
+pagoda,
+rating:safe,
+river,
+road,
+rooftop,
+ruins,
+scenery,
+sky,
+skyline,
+skyscraper,
+street,
+subreddit:imaginaryvillages,
+title:concept art for feature film "upon the magic roads" by kirill khrol,
+tokyo (city),
+tower,
+town,
+tree,
+uploader:ultartx,
+water,
+waterfall,
+windmill,

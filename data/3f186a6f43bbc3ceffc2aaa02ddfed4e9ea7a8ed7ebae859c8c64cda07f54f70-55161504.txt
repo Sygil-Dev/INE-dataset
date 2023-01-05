@@ -1,40 +1,40 @@
-bandanna
-cape
-character:bulbasaur
-character:charmander
-character:hero (dq1)
-character:hero (dq4)
-character:hero (dq8)
-character:pikachu
-character:roto
-character:squirtle
-cosplay
-creator:dave rapoza
-english text
-gen 1 pokemon
-grass
-helmet
-hero (dq1) (cosplay)
-hero (dq4) (cosplay)
-hero (dq8) (cosplay)
-meta:highres
-pokemon (creature)
-rating:safe
-roto (cosplay)
-series:creatures (company)
-series:dragon quest
-series:game freak
-series:nintendo
-series:pokemon
-shield
-sleeping
-starter pokemon
-starter pokemon trio
-subreddit:imaginarykanto
-subreddit:imfandoms
-sword
-tiara
-title:pokéquest by dave rapoza
-tree stump
-uploader:myrandall
-weapon
+bandanna,
+cape,
+character:bulbasaur,
+character:charmander,
+character:hero (dq1),
+character:hero (dq4),
+character:hero (dq8),
+character:pikachu,
+character:roto,
+character:squirtle,
+cosplay,
+creator:dave rapoza,
+english text,
+gen 1 pokemon,
+grass,
+helmet,
+hero (dq1) (cosplay),
+hero (dq4) (cosplay),
+hero (dq8) (cosplay),
+meta:highres,
+pokemon (creature),
+rating:safe,
+roto (cosplay),
+series:creatures (company),
+series:dragon quest,
+series:game freak,
+series:nintendo,
+series:pokemon,
+shield,
+sleeping,
+starter pokemon,
+starter pokemon trio,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sword,
+tiara,
+title:pokéquest by dave rapoza,
+tree stump,
+uploader:myrandall,
+weapon,

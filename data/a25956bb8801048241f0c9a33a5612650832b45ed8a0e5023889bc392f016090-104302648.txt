@@ -1,22 +1,22 @@
-burning
-candle
-embers
-fire
-flame
-gender:female
-holding
-holding sword
-holding weapon
-multiple others
-outdoors
-rating:safe
-scenery
-sparks
-standing
-subreddit:imaginarywitches
-sword
-title:noc kupały | summer solstice by milosz wojtasik
-torch
-tree
-uploader:rajahbeaubeau
-weapon
+burning,
+candle,
+embers,
+fire,
+flame,
+gender:female,
+holding,
+holding sword,
+holding weapon,
+multiple others,
+outdoors,
+rating:safe,
+scenery,
+sparks,
+standing,
+subreddit:imaginarywitches,
+sword,
+title:noc kupały | summer solstice by milosz wojtasik,
+torch,
+tree,
+uploader:rajahbeaubeau,
+weapon,

@@ -1,22 +1,22 @@
-1boy
-belt
-boots
-coat
-facial hair
-gas mask
-gloves
-grey background
-hat
-helmet
-mask
-military
-military uniform
-rating:safe
-standing
-subreddit:imaginaryhistory
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-subreddit:immeta
-title:dieselpunk german officer by me
-uniform
-uploader:bogdanr2
+1boy,
+belt,
+boots,
+coat,
+facial hair,
+gas mask,
+gloves,
+grey background,
+hat,
+helmet,
+mask,
+military,
+military uniform,
+rating:safe,
+standing,
+subreddit:imaginaryhistory,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+subreddit:immeta,
+title:dieselpunk german officer by me,
+uniform,
+uploader:bogdanr2,

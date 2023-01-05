@@ -1,23 +1,23 @@
-ambiguous gender
-claws
-creator:sandara
-feral
-green body
-green scales
-group
-hair
-meta:2022
-meta:digital media (artwork)
-meta:hi res
-rating:safe
-scales
-simple background
-species:dragon
-standing
-subreddit:imaginarydragons
-subreddit:immonsters
-title:fairy dragon life-cycle by sandara
-uploader:lol33ta
-white background
-white hair
-wings
+ambiguous gender,
+claws,
+creator:sandara,
+feral,
+green body,
+green scales,
+group,
+hair,
+meta:2022,
+meta:digital media (artwork),
+meta:hi res,
+rating:safe,
+scales,
+simple background,
+species:dragon,
+standing,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:fairy dragon life-cycle by sandara,
+uploader:lol33ta,
+white background,
+white hair,
+wings,

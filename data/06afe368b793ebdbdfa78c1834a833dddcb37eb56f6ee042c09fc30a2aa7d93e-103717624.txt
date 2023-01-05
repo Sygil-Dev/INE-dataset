@@ -1,39 +1,39 @@
-autumn
-bridge
-building
-burning
-campfire
-city
-cityscape
-cloud
-dusk
-evening
-explosion
-fire
-fireplace
-fireworks
-flame
-gradient sky
-horizon
-molten rock
-mountain
-orange sky
-orange theme
-outdoors
-palm tree
-power lines
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginarywesteros
-sun
-sunrise
-sunset
-title:vintage travel posters for westeros
-torch
-tree
-twilight
-uploader:im_trolling_yu
-utility pole
-yellow sky
+autumn,
+bridge,
+building,
+burning,
+campfire,
+city,
+cityscape,
+cloud,
+dusk,
+evening,
+explosion,
+fire,
+fireplace,
+fireworks,
+flame,
+gradient sky,
+horizon,
+molten rock,
+mountain,
+orange sky,
+orange theme,
+outdoors,
+palm tree,
+power lines,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginarywesteros,
+sun,
+sunrise,
+sunset,
+title:vintage travel posters for westeros,
+torch,
+tree,
+twilight,
+uploader:im_trolling_yu,
+utility pole,
+yellow sky,

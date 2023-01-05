@@ -1,31 +1,31 @@
-1girl
-aqua hair
-bamboo forest
-blue skin
-colored skin
-creator:amberharrisart
-fireflies
-forest
-full moon
-glowing
-grass
-green hair
-hitodama
-horns
-long hair
-magic
-moon
-nature
-night
-orb
-outdoors
-rating:safe
-sitting
-solo
-spirit
-subreddit:imaginarymonstergirls
-title:[c] helper
-title:helper by amberharrisart
-tombstone
-tree
-uploader:vikingzx
+1girl,
+aqua hair,
+bamboo forest,
+blue skin,
+colored skin,
+creator:amberharrisart,
+fireflies,
+forest,
+full moon,
+glowing,
+grass,
+green hair,
+hitodama,
+horns,
+long hair,
+magic,
+moon,
+nature,
+night,
+orb,
+outdoors,
+rating:safe,
+sitting,
+solo,
+spirit,
+subreddit:imaginarymonstergirls,
+title:[c] helper,
+title:helper by amberharrisart,
+tombstone,
+tree,
+uploader:vikingzx,

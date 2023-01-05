@@ -1,28 +1,28 @@
-2dart
-2dartist
-blizzard
-character design
-creator:aleksa stajsic
-dnd
-dungeons and dragons
-dwarf
-fantasy
-gryphon
-heartstone
-illustration
-illustrator
-lol
-medium:digital 2d
-riot
-subreddit:imaginaryanimals
-subreddit:imaginarybeasts
-subreddit:imaginaryclerics
-subreddit:imaginaryhybrids
-subreddit:imcharacters
-subreddit:immonsters
-subreddit:imnature
-title:gryphon rider
-title:gryphon rider, aleksa stajsic
-uploader:al3ks4
-viking
-warcraft
+2dart,
+2dartist,
+blizzard,
+character design,
+creator:aleksa stajsic,
+dnd,
+dungeons and dragons,
+dwarf,
+fantasy,
+gryphon,
+heartstone,
+illustration,
+illustrator,
+lol,
+medium:digital 2d,
+riot,
+subreddit:imaginaryanimals,
+subreddit:imaginarybeasts,
+subreddit:imaginaryclerics,
+subreddit:imaginaryhybrids,
+subreddit:imcharacters,
+subreddit:immonsters,
+subreddit:imnature,
+title:gryphon rider,
+title:gryphon rider, aleksa stajsic,
+uploader:al3ks4,
+viking,
+warcraft,

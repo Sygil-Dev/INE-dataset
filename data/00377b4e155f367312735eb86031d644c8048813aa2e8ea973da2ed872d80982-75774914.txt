@@ -1,20 +1,20 @@
-armor
-castle
-city
-cloud
-cloudy sky
-holding
-holding weapon
-mecha
-mountain
-no humans
-rating:safe
-sky
-subreddit:imaginaryaliens
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-subreddit:imraces
-title:the assault by michael (mick) mowat
-uploader:ajcarrington
-uploader:myrandall
-weapon
+armor,
+castle,
+city,
+cloud,
+cloudy sky,
+holding,
+holding weapon,
+mecha,
+mountain,
+no humans,
+rating:safe,
+sky,
+subreddit:imaginaryaliens,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+subreddit:imraces,
+title:the assault by michael (mick) mowat,
+uploader:ajcarrington,
+uploader:myrandall,
+weapon,

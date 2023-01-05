@@ -1,56 +1,56 @@
-2020
-alien
-ambiguous gender
-ambiguous_gender
-anthro
-artist:atryl
-blizzard
-character:zerg
-character:zergling
-claws
-copyright:blizzard_entertainment
-copyright:starcraft
-creator:atryl
-full-length portrait
-furaffinity
-glowing
-glowing eyes
-glowing_eyes
-hi res
-insect wings
-insect_wings
-meta:2020
-meta:full-length portrait
-meta:full-length_portrait
-meta:hi res
-meta:hi_res
-meta:portrait
-nude
-portrait
-rating:safe
-series:blizzard entertainment
-series:starcraft
-solo
-source:furaffinity.net
-species:alien
-species:zerg
-species:zergling
-studio:blizzard entertainment
-subreddit:imaginaryaliens
-subreddit:imraces
-title:kekeke
-title:kekeke by atryl
-toe claws
-toe_claws
-tongue
-tongue out
-tongue_out
-uploader:myrandall
-video games
-video_games
-wings
-yellow eyes
-yellow_eyes
-zegling
-zerg
-zergling
+2020,
+alien,
+ambiguous gender,
+ambiguous_gender,
+anthro,
+artist:atryl,
+blizzard,
+character:zerg,
+character:zergling,
+claws,
+copyright:blizzard_entertainment,
+copyright:starcraft,
+creator:atryl,
+full-length portrait,
+furaffinity,
+glowing,
+glowing eyes,
+glowing_eyes,
+hi res,
+insect wings,
+insect_wings,
+meta:2020,
+meta:full-length portrait,
+meta:full-length_portrait,
+meta:hi res,
+meta:hi_res,
+meta:portrait,
+nude,
+portrait,
+rating:safe,
+series:blizzard entertainment,
+series:starcraft,
+solo,
+source:furaffinity.net,
+species:alien,
+species:zerg,
+species:zergling,
+studio:blizzard entertainment,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+title:kekeke,
+title:kekeke by atryl,
+toe claws,
+toe_claws,
+tongue,
+tongue out,
+tongue_out,
+uploader:myrandall,
+video games,
+video_games,
+wings,
+yellow eyes,
+yellow_eyes,
+zegling,
+zerg,
+zergling,

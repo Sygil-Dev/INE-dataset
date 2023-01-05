@@ -1,62 +1,62 @@
-1other
-acoustic guitar
-alarm clock
-barefoot
-book
-book stack
-bookshelf
-cactus
-candle
-capelet
-cat
-ceiling
-clock
-cup
-cushion
-day
-eyewear removed
-furry
-glasses
-guitar
-hanging plant
-herb bundle
-indoors
-instrument
-light bulb
-meta:commentary request
-meta:highres
-open book
-open window
-painting (object)
-pants
-paper
-pencil
-picture (object)
-picture frame
-plant
-portrait (object)
-potted plant
-rating:safe
-reading
-room
-round window
-series:original
-shimada kiyoka
-shoes
-shoes removed
-sitting
-sitting in window
-solo
-star (symbol)
-string of light bulbs
-stuffed toy
-subreddit:imaginarysliceoflife
-table
-title:reading - @sh1m4da
-treasure chest
-uploader:lo-fiend
-white pants
-window
-window shade
-windowsill
-wooden floor
+1other,
+acoustic guitar,
+alarm clock,
+barefoot,
+book,
+book stack,
+bookshelf,
+cactus,
+candle,
+capelet,
+cat,
+ceiling,
+clock,
+cup,
+cushion,
+day,
+eyewear removed,
+furry,
+glasses,
+guitar,
+hanging plant,
+herb bundle,
+indoors,
+instrument,
+light bulb,
+meta:commentary request,
+meta:highres,
+open book,
+open window,
+painting (object),
+pants,
+paper,
+pencil,
+picture (object),
+picture frame,
+plant,
+portrait (object),
+potted plant,
+rating:safe,
+reading,
+room,
+round window,
+series:original,
+shimada kiyoka,
+shoes,
+shoes removed,
+sitting,
+sitting in window,
+solo,
+star (symbol),
+string of light bulbs,
+stuffed toy,
+subreddit:imaginarysliceoflife,
+table,
+title:reading - @sh1m4da,
+treasure chest,
+uploader:lo-fiend,
+white pants,
+window,
+window shade,
+windowsill,
+wooden floor,

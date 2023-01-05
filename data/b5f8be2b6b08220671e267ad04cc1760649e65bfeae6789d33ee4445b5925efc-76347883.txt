@@ -1,30 +1,30 @@
-blizzard
-card art
-character design
-concept art
-creator:aleksa stajsic
-dnd
-dungeouns and dragons
-elf
-elf king
-fantasy illustration
-heartstone
-lol
-magic
-medium:digital 2d
-noble
-riot
-subreddit:imaginaryanimals
-subreddit:imaginaryarmor
-subreddit:imaginarynobles
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imnature
-subreddit:imtechnology
-title:elf king concept
-title:elf king concept, aleksa stajsic
-uploader:al3ks4
-warcraft
-warrior
-wizzard
-wow
+blizzard,
+card art,
+character design,
+concept art,
+creator:aleksa stajsic,
+dnd,
+dungeouns and dragons,
+elf,
+elf king,
+fantasy illustration,
+heartstone,
+lol,
+magic,
+medium:digital 2d,
+noble,
+riot,
+subreddit:imaginaryanimals,
+subreddit:imaginaryarmor,
+subreddit:imaginarynobles,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imnature,
+subreddit:imtechnology,
+title:elf king concept,
+title:elf king concept, aleksa stajsic,
+uploader:al3ks4,
+warcraft,
+warrior,
+wizzard,
+wow,

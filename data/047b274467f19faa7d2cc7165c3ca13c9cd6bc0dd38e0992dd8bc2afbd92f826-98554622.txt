@@ -1,22 +1,22 @@
-1girl
-armor
-belt
-blonde hair
-breastplate
-chainmail
-cowboy shot
-gender:female
-grey background
-knight
-lips
-rating:safe
-shield
-short hair
-simple background
-solo
-standing
-subreddit:reasonablefantasy
-sword
-title:cavalier, by elena danilova
-uploader:kingrob29
-weapon
+1girl,
+armor,
+belt,
+blonde hair,
+breastplate,
+chainmail,
+cowboy shot,
+gender:female,
+grey background,
+knight,
+lips,
+rating:safe,
+shield,
+short hair,
+simple background,
+solo,
+standing,
+subreddit:reasonablefantasy,
+sword,
+title:cavalier, by elena danilova,
+uploader:kingrob29,
+weapon,

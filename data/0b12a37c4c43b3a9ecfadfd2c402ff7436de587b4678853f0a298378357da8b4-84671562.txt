@@ -1,28 +1,28 @@
-beach
-bridge
-building
-city
-city lights
-cloud
-cloudy sky
-horizon
-lake
-light rays
-long hair
-mountain
-ocean
-outdoors
-planet
-rating:safe
-river
-scenery
-shore
-sky
-star (sky)
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-sunbeam
-title:follow the mountain's teeth by nic ames
-uploader:untilapril
-water
-waterfall
+beach,
+bridge,
+building,
+city,
+city lights,
+cloud,
+cloudy sky,
+horizon,
+lake,
+light rays,
+long hair,
+mountain,
+ocean,
+outdoors,
+planet,
+rating:safe,
+river,
+scenery,
+shore,
+sky,
+star (sky),
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+sunbeam,
+title:follow the mountain's teeth by nic ames,
+uploader:untilapril,
+water,
+waterfall,

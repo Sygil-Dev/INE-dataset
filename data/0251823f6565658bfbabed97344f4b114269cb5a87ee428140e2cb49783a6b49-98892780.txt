@@ -1,34 +1,34 @@
-1boy
-1girl
-1990s (style)
-aircraft
-airplane
-album cover
-animal
-bat
-bird
-building
-can
-car
-cover
-crow
-dark skin
-fighter jet
-flock
-formal
-ground vehicle
-helicopter
-jet
-logo
-motor vehicle
-necktie
-outdoors
-parody
-rating:safe
-retro artstyle
-seagull
-sky
-subreddit:imaginarypolitics
-suit
-title:d-treezy by sharpwriter
-uploader:myrandall
+1boy,
+1girl,
+1990s (style),
+aircraft,
+airplane,
+album cover,
+animal,
+bat,
+bird,
+building,
+can,
+car,
+cover,
+crow,
+dark skin,
+fighter jet,
+flock,
+formal,
+ground vehicle,
+helicopter,
+jet,
+logo,
+motor vehicle,
+necktie,
+outdoors,
+parody,
+rating:safe,
+retro artstyle,
+seagull,
+sky,
+subreddit:imaginarypolitics,
+suit,
+title:d-treezy by sharpwriter,
+uploader:myrandall,

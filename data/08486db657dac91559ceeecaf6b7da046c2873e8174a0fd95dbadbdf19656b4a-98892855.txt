@@ -1,29 +1,29 @@
-architecture
-bird
-blue sky
-bridge
-building
-bush
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-field
-grass
-house
-mountain
-no humans
-outdoors
-rating:safe
-road
-scenery
-sky
-subreddit:imaginaryruins
-sunset
-title:grain-flow hangar by sergey vasnev
-tower
-tree
-uploader:myrandall
-windmill
+architecture,
+bird,
+blue sky,
+bridge,
+building,
+bush,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+field,
+grass,
+house,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+road,
+scenery,
+sky,
+subreddit:imaginaryruins,
+sunset,
+title:grain-flow hangar by sergey vasnev,
+tower,
+tree,
+uploader:myrandall,
+windmill,

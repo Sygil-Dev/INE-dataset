@@ -1,87 +1,87 @@
-4 fingers
-4 toes
-4_fingers
-4_toes
-artist:tsaoshin
-black body
-black claws
-black eyes
-black scales
-black_body
-black_claws
-black_eyes
-black_scales
-blue body
-blue claws
-blue fur
-blue nose
-blue_body
-blue_claws
-blue_fur
-blue_nose
-bouquet
-character:stitch (lilo and stitch)
-character:stitch_(lilo_and_stitch)
-character:toothless
-claws
-copyright:disney
-copyright:dreamworks
-copyright:how_to_train_your_dragon
-copyright:lilo_and_stitch
-creator:tsaoshin
-crossover
-duo focus
-duo_focus
-feet
-feral
-fingers
-flower
-forest
-fur
-green eyes
-green sclera
-green_eyes
-green_sclera
-group
-insect wings
-insect_wings
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:3:2
-meta:2021
-notched ear
-notched_ear
-outside
-plant
-quadruped
-rating:safe
-scales
-series:disney
-series:dreamworks
-series:how to train your dragon
-series:lilo and stitch
-smile
-species:alien
-species:arthropod
-species:bee
-species:butterfly
-species:dragon
-species:experiment (lilo and stitch)
-species:experiment_(lilo_and_stitch)
-species:hymenopteran
-species:insect
-species:lepidopteran
-species:night fury
-species:night_fury
-species:scalie
-species:western dragon
-species:western_dragon
-subreddit:imaginarydragons
-subreddit:immonsters
-title:spring toothless and stitch by tsaoshin
-toes
-tree
-uploader:jarrad960
-wings
+4 fingers,
+4 toes,
+4_fingers,
+4_toes,
+artist:tsaoshin,
+black body,
+black claws,
+black eyes,
+black scales,
+black_body,
+black_claws,
+black_eyes,
+black_scales,
+blue body,
+blue claws,
+blue fur,
+blue nose,
+blue_body,
+blue_claws,
+blue_fur,
+blue_nose,
+bouquet,
+character:stitch (lilo and stitch),
+character:stitch_(lilo_and_stitch),
+character:toothless,
+claws,
+copyright:disney,
+copyright:dreamworks,
+copyright:how_to_train_your_dragon,
+copyright:lilo_and_stitch,
+creator:tsaoshin,
+crossover,
+duo focus,
+duo_focus,
+feet,
+feral,
+fingers,
+flower,
+forest,
+fur,
+green eyes,
+green sclera,
+green_eyes,
+green_sclera,
+group,
+insect wings,
+insect_wings,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:3:2,
+meta:2021,
+notched ear,
+notched_ear,
+outside,
+plant,
+quadruped,
+rating:safe,
+scales,
+series:disney,
+series:dreamworks,
+series:how to train your dragon,
+series:lilo and stitch,
+smile,
+species:alien,
+species:arthropod,
+species:bee,
+species:butterfly,
+species:dragon,
+species:experiment (lilo and stitch),
+species:experiment_(lilo_and_stitch),
+species:hymenopteran,
+species:insect,
+species:lepidopteran,
+species:night fury,
+species:night_fury,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:spring toothless and stitch by tsaoshin,
+toes,
+tree,
+uploader:jarrad960,
+wings,

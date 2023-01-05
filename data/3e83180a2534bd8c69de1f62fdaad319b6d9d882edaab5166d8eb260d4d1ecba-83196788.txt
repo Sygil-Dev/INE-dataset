@@ -1,34 +1,34 @@
-beak
-bird
-bright pupils
-character:entei
-character:ho-oh
-character:raikou
-character:suicune
-closed mouth
-creator:teletelo
-eyes closed
-gen 2 pokemon
-happy
-legendary pokemon
-looking back
-lying
-meta:commentary
-meta:highres
-nest
-no humans
-on stomach
-pokemon (creature)
-rating:safe
-red eyes
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-sleeping
-smile
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:ho oh and the baby legendary beasts
-uploader:moltoallegro
-white pupils
+beak,
+bird,
+bright pupils,
+character:entei,
+character:ho-oh,
+character:raikou,
+character:suicune,
+closed mouth,
+creator:teletelo,
+eyes closed,
+gen 2 pokemon,
+happy,
+legendary pokemon,
+looking back,
+lying,
+meta:commentary,
+meta:highres,
+nest,
+no humans,
+on stomach,
+pokemon (creature),
+rating:safe,
+red eyes,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+sleeping,
+smile,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:ho oh and the baby legendary beasts,
+uploader:moltoallegro,
+white pupils,

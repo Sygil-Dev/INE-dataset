@@ -1,49 +1,49 @@
-breathing fire
-burning
-campfire
-character:charizard
-character:charmander
-claws
-cloud
-creator:sixthleafclover
-dusk
-embers
-evening
-explosion
-fangs
-fiery hair
-fiery wings
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-gradient sky
-kaijuu
-molten rock
-no humans
-open mouth
-orange sky
-orange theme
-pyrokinesis
-rating:safe
-red sky
-sharp teeth
-site:furaffinity
-sky
-smoke
-source:furaffinity.net
-spikes
-subreddit:imaginarydragons
-subreddit:immonsters
-subreddit:zodiacart
-sunset
-tail
-tail-tip fire
-teeth
-title:2023 zodiac dragons aries - fiery ram dragon
-title:2023 zodiac dragons aries - fiery ram dragon by the-sixthleafclover
-torch
-twilight
-uploader:lol33ta
-volcano
+breathing fire,
+burning,
+campfire,
+character:charizard,
+character:charmander,
+claws,
+cloud,
+creator:sixthleafclover,
+dusk,
+embers,
+evening,
+explosion,
+fangs,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+gradient sky,
+kaijuu,
+molten rock,
+no humans,
+open mouth,
+orange sky,
+orange theme,
+pyrokinesis,
+rating:safe,
+red sky,
+sharp teeth,
+site:furaffinity,
+sky,
+smoke,
+source:furaffinity.net,
+spikes,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+subreddit:zodiacart,
+sunset,
+tail,
+tail-tip fire,
+teeth,
+title:2023 zodiac dragons aries - fiery ram dragon,
+title:2023 zodiac dragons aries - fiery ram dragon by the-sixthleafclover,
+torch,
+twilight,
+uploader:lol33ta,
+volcano,

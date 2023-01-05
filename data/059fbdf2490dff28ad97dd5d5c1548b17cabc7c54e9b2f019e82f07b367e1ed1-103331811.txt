@@ -1,31 +1,31 @@
-1boy
-burning
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-male focus
-molten rock
-mountain
-mountainous horizon
-orange sky
-outdoors
-planted
-planted sword
-rating:safe
-red moon
-red sky
-red theme
-scenery
-sky
-solo
-subreddit:imaginarywitcher
-sun
-sunset
-title:sunset on the path by hunter stout
-twilight
-uploader:manowar0264
-weapon
-yellow sky
+1boy,
+burning,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+male focus,
+molten rock,
+mountain,
+mountainous horizon,
+orange sky,
+outdoors,
+planted,
+planted sword,
+rating:safe,
+red moon,
+red sky,
+red theme,
+scenery,
+sky,
+solo,
+subreddit:imaginarywitcher,
+sun,
+sunset,
+title:sunset on the path by hunter stout,
+twilight,
+uploader:manowar0264,
+weapon,
+yellow sky,

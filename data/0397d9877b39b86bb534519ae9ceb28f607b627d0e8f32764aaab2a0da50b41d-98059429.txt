@@ -1,24 +1,24 @@
-4girls
-blonde hair
-blue eyes
-green background
-ground vehicle
-gun
-hat
-helmet
-iron cross
-military
-military uniform
-military vehicle
-multiple girls
-rating:safe
-star (symbol)
-submachine gun
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-tank
-title:my soviet scrap soldiers with their steam powered t-34 by me
-uniform
-uploader:chubba945
-weapon
-world war ii
+4girls,
+blonde hair,
+blue eyes,
+green background,
+ground vehicle,
+gun,
+hat,
+helmet,
+iron cross,
+military,
+military uniform,
+military vehicle,
+multiple girls,
+rating:safe,
+star (symbol),
+submachine gun,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+tank,
+title:my soviet scrap soldiers with their steam powered t-34 by me,
+uniform,
+uploader:chubba945,
+weapon,
+world war ii,

@@ -1,21 +1,21 @@
-1girl
-architecture
-bird
-building
-city
-cityscape
-day
-letterboxed
-long hair
-outdoors
-rating:safe
-ruins
-scenery
-skyscraper
-standing
-subreddit:imaginarytemples
-title:temple by thomas pringle
-tree
-uploader:[deleted]
-very long hair
-water
+1girl,
+architecture,
+bird,
+building,
+city,
+cityscape,
+day,
+letterboxed,
+long hair,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+skyscraper,
+standing,
+subreddit:imaginarytemples,
+title:temple by thomas pringle,
+tree,
+uploader:[deleted],
+very long hair,
+water,

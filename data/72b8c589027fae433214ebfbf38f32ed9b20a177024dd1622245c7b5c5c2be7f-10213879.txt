@@ -1,22 +1,22 @@
-adrian prado
-banner
-battle
-blood ravens
-bolter
-choppa
-dreadnought
-grenade
-grot
-imperium
-military watercraft
-orks
-series:warhammer 40,000
-shoota
-space marines
-studio:games workshop
-subreddit:imaginarybattlefields
-title:warhammer 40k battle fanart by adrián prado
-uploader:_imperial_marine_
-vehicle
-warship
-watercraft
+adrian prado,
+banner,
+battle,
+blood ravens,
+bolter,
+choppa,
+dreadnought,
+grenade,
+grot,
+imperium,
+military watercraft,
+orks,
+series:warhammer 40,000,
+shoota,
+space marines,
+studio:games workshop,
+subreddit:imaginarybattlefields,
+title:warhammer 40k battle fanart by adrián prado,
+uploader:_imperial_marine_,
+vehicle,
+warship,
+watercraft,

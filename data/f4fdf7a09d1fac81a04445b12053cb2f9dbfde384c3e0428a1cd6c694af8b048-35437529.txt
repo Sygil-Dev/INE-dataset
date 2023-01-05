@@ -1,21 +1,21 @@
-azevedo
-concept
-creator:mike azevedo
-crusader
-evil
-hippo
-knight
-medium:digital 2d
-mike
-monster
-mount
-series:diablo
-species:goblin
-studio:blizzard entertainment
-subreddit:imaginaryknights
-subreddit:imaginarywarriors
-title:"crusader diablo 3" by mike azevedo
-title:crusader, diablo 3
-title:crusader, diablo 3 by mike azevedo
-uploader:adverserius
-uploader:torvusil
+azevedo,
+concept,
+creator:mike azevedo,
+crusader,
+evil,
+hippo,
+knight,
+medium:digital 2d,
+mike,
+monster,
+mount,
+series:diablo,
+species:goblin,
+studio:blizzard entertainment,
+subreddit:imaginaryknights,
+subreddit:imaginarywarriors,
+title:"crusader diablo 3" by mike azevedo,
+title:crusader, diablo 3,
+title:crusader, diablo 3 by mike azevedo,
+uploader:adverserius,
+uploader:torvusil,

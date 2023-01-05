@@ -1,27 +1,27 @@
-beach
-boat
-bridge
-cloud
-cloudy sky
-day
-dock
-horizon
-mountain
-no humans
-ocean
-outdoors
-pier
-rating:safe
-river
-sand
-scenery
-ship
-shore
-sky
-subreddit:imaginaryvessels
-sunset
-title:'the henry b. hyde, entering 'frisco bay 1885' by john tansey.
-uploader:kapitankurt
-water
-watercraft
-waves
+beach,
+boat,
+bridge,
+cloud,
+cloudy sky,
+day,
+dock,
+horizon,
+mountain,
+no humans,
+ocean,
+outdoors,
+pier,
+rating:safe,
+river,
+sand,
+scenery,
+ship,
+shore,
+sky,
+subreddit:imaginaryvessels,
+sunset,
+title:'the henry b. hyde, entering 'frisco bay 1885' by john tansey.,
+uploader:kapitankurt,
+water,
+watercraft,
+waves,

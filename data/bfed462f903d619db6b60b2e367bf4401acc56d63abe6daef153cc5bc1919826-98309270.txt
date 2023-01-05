@@ -1,48 +1,48 @@
-4 ears
-4 fingers
-blue body
-blue feathers
-conditional dnp
-creator:blitzdrachin
-creator:conditional dnp
-creator:sifyro
-eyes closed
-feathers
-feral
-fingers
-flower
-fur
-glowing
-glowing body
-glowing feathers
-grass
-long tail
-lying
-meta:2022
-meta:tagme
-multi ear
-night
-personal grooming
-pink body
-pink feathers
-pink fur
-plant
-quadruped
-rating:safe
-source:furaffinity.net
-species:dragon
-species:feathered dragon
-species:furred dragon
-star
-subreddit:adorabledragons
-subreddit:imaginarydragons
-subreddit:immonsters
-title:art by me.
-title:being more beautiful than the moon. art by me.
-title:healing moon
-uploader:sifyro
-white body
-white fur
-wings
-yellow body
-yellow feathers
+4 ears,
+4 fingers,
+blue body,
+blue feathers,
+conditional dnp,
+creator:blitzdrachin,
+creator:conditional dnp,
+creator:sifyro,
+eyes closed,
+feathers,
+feral,
+fingers,
+flower,
+fur,
+glowing,
+glowing body,
+glowing feathers,
+grass,
+long tail,
+lying,
+meta:2022,
+meta:tagme,
+multi ear,
+night,
+personal grooming,
+pink body,
+pink feathers,
+pink fur,
+plant,
+quadruped,
+rating:safe,
+source:furaffinity.net,
+species:dragon,
+species:feathered dragon,
+species:furred dragon,
+star,
+subreddit:adorabledragons,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:art by me.,
+title:being more beautiful than the moon. art by me.,
+title:healing moon,
+uploader:sifyro,
+white body,
+white fur,
+wings,
+yellow body,
+yellow feathers,

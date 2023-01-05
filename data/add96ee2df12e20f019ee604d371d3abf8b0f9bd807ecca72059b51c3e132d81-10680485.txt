@@ -1,60 +1,60 @@
-armor
-artist:gugu-troll
-booru:e621
-clothed
-clothing
-clothing:armor
-creator:gugu-troll
-detailed background
-detailed_background
-feral
-furry
-gender:male
-group
-holding object
-holding weapon
-holding_object
-holding_weapon
-male
-medium:detailed background
-medium:digital media
-medium:high resolution
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-monster
-rating:safe
-sky
-species:dragon
-species:elf
-species:goblin
-species:humanoid
-species:mythical
-species:scalie
-species:wyvern
-spines
-subreddit:imaginarybeasts
-subreddit:imaginarydragons
-subreddit:imaginaryelves
-subreddit:imaginaryimmortals
-subreddit:imaginarynobles
-subreddit:imaginarywarhammer
-subreddit:imcharacters
-subreddit:imfandoms
-subreddit:immonsters
-subreddit:imraces
-teeth
-title:'dark elf warrior' by marina kleyman, aka gugu-troll
-topless
-uploader:da_lizard_1771
-uploader:jg379
-uploader:urien_rakarth
-weapon
-winged arms
-winged_arms
-wings
+armor,
+artist:gugu-troll,
+booru:e621,
+clothed,
+clothing,
+clothing:armor,
+creator:gugu-troll,
+detailed background,
+detailed_background,
+feral,
+furry,
+gender:male,
+group,
+holding object,
+holding weapon,
+holding_object,
+holding_weapon,
+male,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+monster,
+rating:safe,
+sky,
+species:dragon,
+species:elf,
+species:goblin,
+species:humanoid,
+species:mythical,
+species:scalie,
+species:wyvern,
+spines,
+subreddit:imaginarybeasts,
+subreddit:imaginarydragons,
+subreddit:imaginaryelves,
+subreddit:imaginaryimmortals,
+subreddit:imaginarynobles,
+subreddit:imaginarywarhammer,
+subreddit:imcharacters,
+subreddit:imfandoms,
+subreddit:immonsters,
+subreddit:imraces,
+teeth,
+title:'dark elf warrior' by marina kleyman, aka gugu-troll,
+topless,
+uploader:da_lizard_1771,
+uploader:jg379,
+uploader:urien_rakarth,
+weapon,
+winged arms,
+winged_arms,
+wings,

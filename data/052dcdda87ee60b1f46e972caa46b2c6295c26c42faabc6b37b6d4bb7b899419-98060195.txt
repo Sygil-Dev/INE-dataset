@@ -1,25 +1,25 @@
-1boy
-armor
-beard
-boots
-clenched hand
-facial hair
-full body
-gradient
-gradient background
-grey background
-male focus
-mustache
-pants
-rating:safe
-sheath
-sheathed
-shoulder armor
-solo
-standing
-subreddit:imaginaryhumans
-subreddit:imraces
-sword
-title:my work by jia cai
-uploader:puckee21
-weapon
+1boy,
+armor,
+beard,
+boots,
+clenched hand,
+facial hair,
+full body,
+gradient,
+gradient background,
+grey background,
+male focus,
+mustache,
+pants,
+rating:safe,
+sheath,
+sheathed,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+sword,
+title:my work by jia cai,
+uploader:puckee21,
+weapon,

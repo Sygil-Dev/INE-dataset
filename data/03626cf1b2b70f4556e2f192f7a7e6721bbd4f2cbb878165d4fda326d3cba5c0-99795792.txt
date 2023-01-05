@@ -1,41 +1,41 @@
-1boy
-1girl
-bare shoulders
-black hair
-black jacket
-brown hair
-cherry blossoms
-closed eyes
-confetti
-couple
-dissolving
-dress
-falling leaves
-falling petals
-flower
-formal
-gradient
-gradient background
-graduation
-groom
-hanami
-hetero
-holding hands
-interlocked fingers
-jacket
-leaves in wind
-off shoulder
-own hands together
-petals
-petals on liquid
-rating:safe
-rose petals
-short hair
-spring (season)
-subreddit:imaginarylovers
-suit
-title:take my hand by jellyribbons
-uploader:time-run6400
-wedding
-white dress
-wind
+1boy,
+1girl,
+bare shoulders,
+black hair,
+black jacket,
+brown hair,
+cherry blossoms,
+closed eyes,
+confetti,
+couple,
+dissolving,
+dress,
+falling leaves,
+falling petals,
+flower,
+formal,
+gradient,
+gradient background,
+graduation,
+groom,
+hanami,
+hetero,
+holding hands,
+interlocked fingers,
+jacket,
+leaves in wind,
+off shoulder,
+own hands together,
+petals,
+petals on liquid,
+rating:safe,
+rose petals,
+short hair,
+spring (season),
+subreddit:imaginarylovers,
+suit,
+title:take my hand by jellyribbons,
+uploader:time-run6400,
+wedding,
+white dress,
+wind,

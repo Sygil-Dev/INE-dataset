@@ -1,77 +1,77 @@
-1 female
-1girl
-ahoge
-angel wings
-bare shoulders
-barefoot
-blonde hair
-blonde hair, blue eyes
-booru:gelbooru
-braid
-braids
-brown hair
-camellia
-camellia (flower)
-carousel
-character:camellia
-clothing:hair ornament
-clothing:japanese clothes
-clothing:kimono
-clothing:red ribbon
-clothing:ribbon
-creator:nnni_f
-creator:tsukioka tsukiho
-creator:月岡
-creator:月岡月穂
-curly hair
-feet
-female
-floral print
-flower
-gender:female
-green eyes
-hair flower
-hair ornament
-head tilt
-japanese clothes
-jewelry
-kimono
-leg ribbon
-leg up
-lips
-long hair
-mangaka:tsukioka tsukiho
-medium:wallpaper
-original 10000 users bookmark
-original character
-parted lips
-pixiv work:31815540
-raised leg
-rating:mature
-rating:safe
-red ribbon
-ribbon
-robe
-series:original
-short kimono
-sitting
-smile
-solo
-source:mobile wallpaper
-source:original
-subreddit:imaginaryangels
-subreddit:imraces
-title:angel &amp; merry-go-around by 月岡
-title:夕焼けメリーゴーランド
-uploader:zewen_senpai
-wafuku
-wings
-オリジナル
-オリジナル10000users入り
-メリーゴーランド
-和洋折衷
-回転木馬
-天使
-女の子
-裸足
-金髪碧眼
+1 female,
+1girl,
+ahoge,
+angel wings,
+bare shoulders,
+barefoot,
+blonde hair,
+blonde hair, blue eyes,
+booru:gelbooru,
+braid,
+braids,
+brown hair,
+camellia,
+camellia (flower),
+carousel,
+character:camellia,
+clothing:hair ornament,
+clothing:japanese clothes,
+clothing:kimono,
+clothing:red ribbon,
+clothing:ribbon,
+creator:nnni_f,
+creator:tsukioka tsukiho,
+creator:月岡,
+creator:月岡月穂,
+curly hair,
+feet,
+female,
+floral print,
+flower,
+gender:female,
+green eyes,
+hair flower,
+hair ornament,
+head tilt,
+japanese clothes,
+jewelry,
+kimono,
+leg ribbon,
+leg up,
+lips,
+long hair,
+mangaka:tsukioka tsukiho,
+medium:wallpaper,
+original 10000 users bookmark,
+original character,
+parted lips,
+pixiv work:31815540,
+raised leg,
+rating:mature,
+rating:safe,
+red ribbon,
+ribbon,
+robe,
+series:original,
+short kimono,
+sitting,
+smile,
+solo,
+source:mobile wallpaper,
+source:original,
+subreddit:imaginaryangels,
+subreddit:imraces,
+title:angel &amp; merry-go-around by 月岡,
+title:夕焼けメリーゴーランド,
+uploader:zewen_senpai,
+wafuku,
+wings,
+オリジナル,
+オリジナル10000users入り,
+メリーゴーランド,
+和洋折衷,
+回転木馬,
+天使,
+女の子,
+裸足,
+金髪碧眼,

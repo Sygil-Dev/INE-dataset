@@ -1,24 +1,24 @@
-1boy
-1girl
-armor
-beard
-facial hair
-full armor
-hand on hilt
-headwear removed
-long hair
-looking at viewer
-mustache
-rating:safe
-realistic
-sheath
-sheathed
-standing
-subreddit:imaginaryknights
-subreddit:imcharacters
-sword
-title:'knights' by kerem beyit
-title:knights' by keerm beyit
-uploader:jg379
-uploader:otterpromote
-weapon
+1boy,
+1girl,
+armor,
+beard,
+facial hair,
+full armor,
+hand on hilt,
+headwear removed,
+long hair,
+looking at viewer,
+mustache,
+rating:safe,
+realistic,
+sheath,
+sheathed,
+standing,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+sword,
+title:'knights' by kerem beyit,
+title:knights' by keerm beyit,
+uploader:jg379,
+uploader:otterpromote,
+weapon,

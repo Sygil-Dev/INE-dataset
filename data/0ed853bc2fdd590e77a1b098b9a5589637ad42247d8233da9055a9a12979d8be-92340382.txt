@@ -1,34 +1,34 @@
-angel wings
-animal
-animal focus
-beak
-bird
-bird on hand
-bird on head
-chicken
-crow
-dove
-duck
-eagle
-feathered wings
-feathers
-flock
-flying
-no humans
-open mouth
-owl
-parrot
-pegasus
-pigeon
-rating:safe
-rooster
-seagull
-sparrow
-spread wings
-subreddit:imaginarydragons
-subreddit:immonsters
-title:sea cat-dragon
-uploader:vedadragon
-white feathers
-white wings
-wings
+angel wings,
+animal,
+animal focus,
+beak,
+bird,
+bird on hand,
+bird on head,
+chicken,
+crow,
+dove,
+duck,
+eagle,
+feathered wings,
+feathers,
+flock,
+flying,
+no humans,
+open mouth,
+owl,
+parrot,
+pegasus,
+pigeon,
+rating:safe,
+rooster,
+seagull,
+sparrow,
+spread wings,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:sea cat-dragon,
+uploader:vedadragon,
+white feathers,
+white wings,
+wings,

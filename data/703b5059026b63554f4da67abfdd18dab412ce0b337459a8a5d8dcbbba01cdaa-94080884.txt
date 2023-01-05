@@ -1,112 +1,112 @@
-1boy
-2girls
-bangs
-bench
-black hair
-black legwear
-black thighhighs
-blazer
-blonde hair
-blood on ground
-blue jacket
-blue skirt
-booru:sankaku
-brown footwear
-cat
-character:denji (chainsaw man)
-character:hayakawa aki
-character:himeno (chainsaw man)
-character:meowy (chainsaw man)
-character:nayuta (chainsaw man)
-character:power (chainsaw man)
-clothing
-cloud
-cloudy sky
-collared shirt
-creator:khyle.
-creator:khyleri
-cross-shaped pupils
-crosshair pupils
-demon girl
-demon horns
-dress shirt
-english text
-eyepatch
-fangs
-female
-footwear
-foreshortening
-free hugs
-hair between eyes
-hair ornament
-hairclip
-hairpin
-holding
-holding marker
-holding sign
-horns
-jacket
-jewelry
-legwear
-loafers
-long hair
-long sleeves
-looking at viewer
-male
-marker
-medium:english text
-medium:foreshortening
-medium:high resolution
-medium:patreon logo
-medium:patreon username
-medium:text
-medium:web address
-meta:character request
-meta:commentary
-meta:english commentary
-meta:highres
-miniskirt
-multiple girls
-necktie
-nostrils
-ocean
-open mouth
-outdoors
-palm tree
-patreon logo
-patreon username
-plaid
-plaid skirt
-pleated skirt
-rating:adult
-rating:q
-rating:questionable
-rating:sensitive
-red horns
-red necktie
-red neckwear
-ringed eyes
-series:chainsaw man
-shirt
-shoes
-sign
-site:danbooru
-site:gelbooru
-skirt
-sky
-slip-on shoes
-standing
-standing on one leg
-subreddit:imaginarysliceoflife
-sunset
-symbol-shaped pupils
-thighhighs
-thighs
-title:power offering free hugs. art by (khyle.) [chainsaw man]
-tree
-uploader:takuu202
-v-shaped eyebrows
-water
-watermark
-web address
-white shirt
+1boy,
+2girls,
+bangs,
+bench,
+black hair,
+black legwear,
+black thighhighs,
+blazer,
+blonde hair,
+blood on ground,
+blue jacket,
+blue skirt,
+booru:sankaku,
+brown footwear,
+cat,
+character:denji (chainsaw man),
+character:hayakawa aki,
+character:himeno (chainsaw man),
+character:meowy (chainsaw man),
+character:nayuta (chainsaw man),
+character:power (chainsaw man),
+clothing,
+cloud,
+cloudy sky,
+collared shirt,
+creator:khyle.,
+creator:khyleri,
+cross-shaped pupils,
+crosshair pupils,
+demon girl,
+demon horns,
+dress shirt,
+english text,
+eyepatch,
+fangs,
+female,
+footwear,
+foreshortening,
+free hugs,
+hair between eyes,
+hair ornament,
+hairclip,
+hairpin,
+holding,
+holding marker,
+holding sign,
+horns,
+jacket,
+jewelry,
+legwear,
+loafers,
+long hair,
+long sleeves,
+looking at viewer,
+male,
+marker,
+medium:english text,
+medium:foreshortening,
+medium:high resolution,
+medium:patreon logo,
+medium:patreon username,
+medium:text,
+medium:web address,
+meta:character request,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+miniskirt,
+multiple girls,
+necktie,
+nostrils,
+ocean,
+open mouth,
+outdoors,
+palm tree,
+patreon logo,
+patreon username,
+plaid,
+plaid skirt,
+pleated skirt,
+rating:adult,
+rating:q,
+rating:questionable,
+rating:sensitive,
+red horns,
+red necktie,
+red neckwear,
+ringed eyes,
+series:chainsaw man,
+shirt,
+shoes,
+sign,
+site:danbooru,
+site:gelbooru,
+skirt,
+sky,
+slip-on shoes,
+standing,
+standing on one leg,
+subreddit:imaginarysliceoflife,
+sunset,
+symbol-shaped pupils,
+thighhighs,
+thighs,
+title:power offering free hugs. art by (khyle.) [chainsaw man],
+tree,
+uploader:takuu202,
+v-shaped eyebrows,
+water,
+watermark,
+web address,
+white shirt,

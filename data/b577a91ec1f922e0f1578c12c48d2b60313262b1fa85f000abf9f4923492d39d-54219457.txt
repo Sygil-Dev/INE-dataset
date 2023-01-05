@@ -1,31 +1,31 @@
-ambiguous gender
-cloud
-creator:istrandar
-duo
-feathers
-feral
-flying
-fur
-meta:16:9
-meta:hi res
-meta:widescreen
-orange body
-orange fur
-outside
-purple body
-purple feathers
-rating:safe
-size difference
-sky
-species:avian
-species:bird
-species:canid
-species:canine
-species:fox
-species:mammal
-subreddit:imaginaryanimals
-subreddit:imnature
-title:the bird and the fox by istrandar
-uploader:myrandall
-white body
-white feathers
+ambiguous gender,
+cloud,
+creator:istrandar,
+duo,
+feathers,
+feral,
+flying,
+fur,
+meta:16:9,
+meta:hi res,
+meta:widescreen,
+orange body,
+orange fur,
+outside,
+purple body,
+purple feathers,
+rating:safe,
+size difference,
+sky,
+species:avian,
+species:bird,
+species:canid,
+species:canine,
+species:fox,
+species:mammal,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:the bird and the fox by istrandar,
+uploader:myrandall,
+white body,
+white feathers,

@@ -1,170 +1,170 @@
-1 female
-1girl
-against fence
-armlet
-arrokuda
-bike shorts
-black hair
-blue eyes
-blue eyeshadow
-blue hair
-boat
-booru:sankaku
-booru:sankaku channel
-building
-bush
-bushes
-character:arrokuda
-character:chinchou
-character:clauncher
-character:dedenne
-character:drednaw
-character:gen 1 pokemon
-character:gen 2 pokemon
-character:gen 3 pokemon
-character:gen 4 pokemon
-character:gen 6 pokemon
-character:gen 7 pokemon
-character:gen 8 pokemon
-character:gorebyss
-character:gym leader
-character:huntail
-character:kingler
-character:lapras
-character:lumineon
-character:luvdisc
-character:magikarp
-character:mantine
-character:mantyke
-character:milotic
-character:nessa (pokemon)
-character:pelipper
-character:pokemon species
-character:primarina
-character:pyukumuku
-character:quagsire
-character:rookidee
-character:rurina (pokémon)
-character:shellder
-character:sobble
-character:squirtle
-character:staryu
-character:wailmer
-character:wingull
-cloud
-creator:fumeshi
-dark skin
-dark skinned female
-dark-skinned blue-haired
-dark-skinned female
-dark-skinned multicolored-haired
-day
-dynamax band
-earrings
-eyelashes
-eyeshadow
-female
-fence
-footwear
-fumeshi
-gen 1 pokemon
-gen 1 pokémon
-gen 2 pokemon
-gen 2 pokémon
-gen 3 pokemon
-gen 3 pokémon
-gen 4 pokemon
-gen 4 pokémon
-gen 6 pokemon
-gen 6 pokémon
-gen 7 pokemon
-gen 7 pokémon
-gen 8 pokemon
-gen 8 pokémon
-gender:female
-gloves
-grass
-gym leader
-hair bun
-hoop earrings
-jewelry
-long hair
-makeup
-medium:high resolution
-medium:signature
-meta:commentary request
-meta:highres
-meta:signature
-meta:useless tags
-mountainous horizon
-multicolored hair
-necklace
-number
-open mouth
-outdoors
-outside
-pokemon (creature)
-rating:general
-rating:s
-rating:safe
-sandals
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon sword & shield
-series:pokemon swsh
-series:pokémon
-series:pokémon sword and shield
-shorts
-signature
-single glove
-single hair bun
-sky
-smile
-spats
-species:chinchou
-species:clauncher
-species:dedenne
-species:drednaw
-species:gorebyss
-species:huntail
-species:kingler
-species:lapras
-species:lumineon
-species:luvdisc
-species:magikarp
-species:mantine
-species:mantyke
-species:milotic
-species:pelipper
-species:pokémon
-species:primarina
-species:pyukumuku
-species:quagsire
-species:shellder
-species:sobble
-species:squirtle
-species:staryu
-species:wailmer
-species:wingull
-standing
-studio:creatures (company)
-studio:creatures inc.
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-teeth
-tied hair
-title:hulbury port by ふめし
-toes
-tongue
-two tone hair
-two-tone hair
-uploader:hornyheracross
-vehicle
-water
-watercraft
-window
+1 female,
+1girl,
+against fence,
+armlet,
+arrokuda,
+bike shorts,
+black hair,
+blue eyes,
+blue eyeshadow,
+blue hair,
+boat,
+booru:sankaku,
+booru:sankaku channel,
+building,
+bush,
+bushes,
+character:arrokuda,
+character:chinchou,
+character:clauncher,
+character:dedenne,
+character:drednaw,
+character:gen 1 pokemon,
+character:gen 2 pokemon,
+character:gen 3 pokemon,
+character:gen 4 pokemon,
+character:gen 6 pokemon,
+character:gen 7 pokemon,
+character:gen 8 pokemon,
+character:gorebyss,
+character:gym leader,
+character:huntail,
+character:kingler,
+character:lapras,
+character:lumineon,
+character:luvdisc,
+character:magikarp,
+character:mantine,
+character:mantyke,
+character:milotic,
+character:nessa (pokemon),
+character:pelipper,
+character:pokemon species,
+character:primarina,
+character:pyukumuku,
+character:quagsire,
+character:rookidee,
+character:rurina (pokémon),
+character:shellder,
+character:sobble,
+character:squirtle,
+character:staryu,
+character:wailmer,
+character:wingull,
+cloud,
+creator:fumeshi,
+dark skin,
+dark skinned female,
+dark-skinned blue-haired,
+dark-skinned female,
+dark-skinned multicolored-haired,
+day,
+dynamax band,
+earrings,
+eyelashes,
+eyeshadow,
+female,
+fence,
+footwear,
+fumeshi,
+gen 1 pokemon,
+gen 1 pokémon,
+gen 2 pokemon,
+gen 2 pokémon,
+gen 3 pokemon,
+gen 3 pokémon,
+gen 4 pokemon,
+gen 4 pokémon,
+gen 6 pokemon,
+gen 6 pokémon,
+gen 7 pokemon,
+gen 7 pokémon,
+gen 8 pokemon,
+gen 8 pokémon,
+gender:female,
+gloves,
+grass,
+gym leader,
+hair bun,
+hoop earrings,
+jewelry,
+long hair,
+makeup,
+medium:high resolution,
+medium:signature,
+meta:commentary request,
+meta:highres,
+meta:signature,
+meta:useless tags,
+mountainous horizon,
+multicolored hair,
+necklace,
+number,
+open mouth,
+outdoors,
+outside,
+pokemon (creature),
+rating:general,
+rating:s,
+rating:safe,
+sandals,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon sword & shield,
+series:pokemon swsh,
+series:pokémon,
+series:pokémon sword and shield,
+shorts,
+signature,
+single glove,
+single hair bun,
+sky,
+smile,
+spats,
+species:chinchou,
+species:clauncher,
+species:dedenne,
+species:drednaw,
+species:gorebyss,
+species:huntail,
+species:kingler,
+species:lapras,
+species:lumineon,
+species:luvdisc,
+species:magikarp,
+species:mantine,
+species:mantyke,
+species:milotic,
+species:pelipper,
+species:pokémon,
+species:primarina,
+species:pyukumuku,
+species:quagsire,
+species:shellder,
+species:sobble,
+species:squirtle,
+species:staryu,
+species:wailmer,
+species:wingull,
+standing,
+studio:creatures (company),
+studio:creatures inc.,
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+teeth,
+tied hair,
+title:hulbury port by ふめし,
+toes,
+tongue,
+two tone hair,
+two-tone hair,
+uploader:hornyheracross,
+vehicle,
+water,
+watercraft,
+window,

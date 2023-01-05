@@ -1,21 +1,21 @@
-blue sky
-building
-city
-cloud
-cloudy sky
-day
-desert
-fantasy
-mountain
-no humans
-outdoors
-pillar
-rating:safe
-ruins
-scenery
-sky
-subreddit:imaginaryarchitecture
-sunlight
-title:12-27 by shen he
-tower
-uploader:lol33ta
+blue sky,
+building,
+city,
+cloud,
+cloudy sky,
+day,
+desert,
+fantasy,
+mountain,
+no humans,
+outdoors,
+pillar,
+rating:safe,
+ruins,
+scenery,
+sky,
+subreddit:imaginaryarchitecture,
+sunlight,
+title:12-27 by shen he,
+tower,
+uploader:lol33ta,

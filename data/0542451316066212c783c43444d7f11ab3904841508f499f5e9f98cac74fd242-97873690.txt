@@ -1,45 +1,45 @@
-1boy
-aircraft
-airplane
-animal
-artist name
-bat
-bat wings
-bird
-black feathers
-bug
-butterfly
-castle
-cross
-crow
-demon wings
-flock
-flying
-full moon
-gradient
-gradient background
-graveyard
-grey background
-grey sky
-greyscale
-halloween
-halloween costume
-happy halloween
-jack-o'-lantern
-male focus
-mini wings
-moon
-pumpkin
-rating:safe
-seagull
-signature
-silhouette
-sky
-spider
-subreddit:imaginaryvampires
-subreddit:immonsters
-title:dracula sketch (1990s) by mike mignola
-tombstone
-uploader:yannirotten
-vampire
-vampire costume
+1boy,
+aircraft,
+airplane,
+animal,
+artist name,
+bat,
+bat wings,
+bird,
+black feathers,
+bug,
+butterfly,
+castle,
+cross,
+crow,
+demon wings,
+flock,
+flying,
+full moon,
+gradient,
+gradient background,
+graveyard,
+grey background,
+grey sky,
+greyscale,
+halloween,
+halloween costume,
+happy halloween,
+jack-o'-lantern,
+male focus,
+mini wings,
+moon,
+pumpkin,
+rating:safe,
+seagull,
+signature,
+silhouette,
+sky,
+spider,
+subreddit:imaginaryvampires,
+subreddit:immonsters,
+title:dracula sketch (1990s) by mike mignola,
+tombstone,
+uploader:yannirotten,
+vampire,
+vampire costume,

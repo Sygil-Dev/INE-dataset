@@ -1,43 +1,43 @@
-apple
-autumn
-autumn leaves
-banana
-basket
-berry
-bunny
-carrot
-dress
-field
-flower
-flower field
-food
-fruit
-garden
-grapes
-grass
-leaf
-long sleeves
-mushroom
-nature
-on grass
-on ground
-orange (fruit)
-orange flower
-outdoors
-plant
-potted plant
-pumpkin
-rating:safe
-sleeping
-subreddit:imaginarydwarves
-subreddit:imraces
-title:"the yellow dwarf" (1875) by walter crane
-tomato
-traditional media
-tree
-tree stump
-tulip
-uploader:yannirotten
-vegetable
-wheat
-yellow flower
+apple,
+autumn,
+autumn leaves,
+banana,
+basket,
+berry,
+bunny,
+carrot,
+dress,
+field,
+flower,
+flower field,
+food,
+fruit,
+garden,
+grapes,
+grass,
+leaf,
+long sleeves,
+mushroom,
+nature,
+on grass,
+on ground,
+orange (fruit),
+orange flower,
+outdoors,
+plant,
+potted plant,
+pumpkin,
+rating:safe,
+sleeping,
+subreddit:imaginarydwarves,
+subreddit:imraces,
+title:"the yellow dwarf" (1875) by walter crane,
+tomato,
+traditional media,
+tree,
+tree stump,
+tulip,
+uploader:yannirotten,
+vegetable,
+wheat,
+yellow flower,

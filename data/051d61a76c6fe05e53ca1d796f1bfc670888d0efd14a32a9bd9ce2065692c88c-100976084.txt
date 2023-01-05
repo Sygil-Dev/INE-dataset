@@ -1,48 +1,48 @@
-bandages
-basket
-basketball
-bat
-candy
-candy cane
-character:charmander
-character:libeccio (kancolle)
-costume
-emoji
-food
-food-themed hair ornament
-ghost
-ghost costume
-halloween
-halloween bucket
-halloween costume
-happy halloween
-hat
-holding vegetable
-jack-o'-lantern
-lollipop
-mask
-multiple girls
-mummy
-mummy costume
-open mouth
-orange hair
-pumpkin
-pumpkin hair ornament
-pumpkin hat
-rating:safe
-silk
-simple background
-skeleton
-skull
-smile
-sparkle
-sparkling eyes
-spider web
-star (symbol)
-subreddit:wholesomefantasyart
-title:this year's halloween contest
-trick or treat
-uploader:inaaaaatiffy
-vampire costume
-vegetable
-witch hat
+bandages,
+basket,
+basketball,
+bat,
+candy,
+candy cane,
+character:charmander,
+character:libeccio (kancolle),
+costume,
+emoji,
+food,
+food-themed hair ornament,
+ghost,
+ghost costume,
+halloween,
+halloween bucket,
+halloween costume,
+happy halloween,
+hat,
+holding vegetable,
+jack-o'-lantern,
+lollipop,
+mask,
+multiple girls,
+mummy,
+mummy costume,
+open mouth,
+orange hair,
+pumpkin,
+pumpkin hair ornament,
+pumpkin hat,
+rating:safe,
+silk,
+simple background,
+skeleton,
+skull,
+smile,
+sparkle,
+sparkling eyes,
+spider web,
+star (symbol),
+subreddit:wholesomefantasyart,
+title:this year's halloween contest,
+trick or treat,
+uploader:inaaaaatiffy,
+vampire costume,
+vegetable,
+witch hat,

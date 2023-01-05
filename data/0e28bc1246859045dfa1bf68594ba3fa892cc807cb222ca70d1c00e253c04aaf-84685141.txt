@@ -1,21 +1,21 @@
-blood
-blood splatter
-flag background
-japanese flag
-looking at viewer
-multiple torii
-rating:safe
-realistic
-red background
-red border
-red moon
-red sky
-red theme
-red umbrella
-simple background
-solo
-subreddit:imaginaryvampires
-subreddit:immonsters
-teeth
-title:vampire by deanna crisbacher
-uploader:dancing_cthulhu
+blood,
+blood splatter,
+flag background,
+japanese flag,
+looking at viewer,
+multiple torii,
+rating:safe,
+realistic,
+red background,
+red border,
+red moon,
+red sky,
+red theme,
+red umbrella,
+simple background,
+solo,
+subreddit:imaginaryvampires,
+subreddit:immonsters,
+teeth,
+title:vampire by deanna crisbacher,
+uploader:dancing_cthulhu,

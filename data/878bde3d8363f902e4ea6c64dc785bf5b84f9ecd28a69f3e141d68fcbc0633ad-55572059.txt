@@ -1,24 +1,24 @@
-archer
-assasin
-babarian
-battle
-beaurtiful
-card
-crazy
-creator:phu thieu
-female
-field
-fighting
-games
-knight
-maddest
-rainy
-redhair
-subreddit:imaginaryweather
-subreddit:imnature
-tcg
-team
-title:my artwork: thal's maddest
-title:thal's maddest by phu thieu
-uploader:myrandall
-warrior
+archer,
+assasin,
+babarian,
+battle,
+beaurtiful,
+card,
+crazy,
+creator:phu thieu,
+female,
+field,
+fighting,
+games,
+knight,
+maddest,
+rainy,
+redhair,
+subreddit:imaginaryweather,
+subreddit:imnature,
+tcg,
+team,
+title:my artwork: thal's maddest,
+title:thal's maddest by phu thieu,
+uploader:myrandall,
+warrior,

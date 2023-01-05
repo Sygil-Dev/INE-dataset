@@ -1,20 +1,20 @@
-1girl
-blonde hair
-blue eyes
-earrings
-face
-facepaint
-facial mark
-facial tattoo
-jewelry
-lips
-long hair
-looking at viewer
-necklace
-portrait
-rating:safe
-solo
-subreddit:imaginaryhumans
-tattoo
-title:dragon by chuby mi
-uploader:lol33ta
+1girl,
+blonde hair,
+blue eyes,
+earrings,
+face,
+facepaint,
+facial mark,
+facial tattoo,
+jewelry,
+lips,
+long hair,
+looking at viewer,
+necklace,
+portrait,
+rating:safe,
+solo,
+subreddit:imaginaryhumans,
+tattoo,
+title:dragon by chuby mi,
+uploader:lol33ta,

@@ -1,34 +1,34 @@
-1girl
-building
-city
-cityscape
-cloud
-cloudy sky
-desert
-dusk
-evening
-facing away
-from behind
-horizon
-long hair
-mountain
-mountainous horizon
-orange sky
-outdoors
-rating:safe
-red sky
-ruins
-scenery
-sky
-solo
-subreddit:imaginaryfuturism
-sun
-sunlight
-sunrise
-sunset
-title:orange sky city by brandon gobey
-tower
-twilight
-uploader:lol33ta
-weapon
-yellow sky
+1girl,
+building,
+city,
+cityscape,
+cloud,
+cloudy sky,
+desert,
+dusk,
+evening,
+facing away,
+from behind,
+horizon,
+long hair,
+mountain,
+mountainous horizon,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+ruins,
+scenery,
+sky,
+solo,
+subreddit:imaginaryfuturism,
+sun,
+sunlight,
+sunrise,
+sunset,
+title:orange sky city by brandon gobey,
+tower,
+twilight,
+uploader:lol33ta,
+weapon,
+yellow sky,

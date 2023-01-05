@@ -1,20 +1,20 @@
-1girl
-animal
-armor
-dog
-lion
-open mouth
-oversized animal
-rating:safe
-sharp teeth
-subreddit:imaginaryangels
-subreddit:imraces
-teeth
-tiger
-title:planar ally by marta nael
-tongue
-tongue out
-uploader:blood-n-cheese
-weapon
-wings
-wolf
+1girl,
+animal,
+armor,
+dog,
+lion,
+open mouth,
+oversized animal,
+rating:safe,
+sharp teeth,
+subreddit:imaginaryangels,
+subreddit:imraces,
+teeth,
+tiger,
+title:planar ally by marta nael,
+tongue,
+tongue out,
+uploader:blood-n-cheese,
+weapon,
+wings,
+wolf,

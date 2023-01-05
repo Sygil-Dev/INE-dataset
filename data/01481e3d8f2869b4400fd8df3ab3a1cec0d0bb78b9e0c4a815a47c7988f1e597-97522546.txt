@@ -1,36 +1,36 @@
-1girl
-adventurer
-artist name
-aurora
-bandaged leg
-bandages
-blonde hair
-cape
-creator:sirtiefling
-digitalpainting
-earrings
-fantasy
-full body
-gender:female
-girl
-jewelry
-mage
-necklace
-night
-night sky
-rating:safe
-shooting star
-sky
-solo
-sorcerer
-space
-spellcaster
-staff
-standing
-star (sky)
-starry sky
-subreddit:imaginarywitches
-title:the runecaster
-title:the runecaster by sirtiefling
-uploader:lol33ta
-wizard
+1girl,
+adventurer,
+artist name,
+aurora,
+bandaged leg,
+bandages,
+blonde hair,
+cape,
+creator:sirtiefling,
+digitalpainting,
+earrings,
+fantasy,
+full body,
+gender:female,
+girl,
+jewelry,
+mage,
+necklace,
+night,
+night sky,
+rating:safe,
+shooting star,
+sky,
+solo,
+sorcerer,
+space,
+spellcaster,
+staff,
+standing,
+star (sky),
+starry sky,
+subreddit:imaginarywitches,
+title:the runecaster,
+title:the runecaster by sirtiefling,
+uploader:lol33ta,
+wizard,

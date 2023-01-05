@@ -1,21 +1,21 @@
-1girl
-booru:konachan.com
-brown hair
-building
-city
-creator:wayne chan
-gender:female
-kneehighs
-pleated skirt
-scenic
-school uniform
-series:original
-short hair
-signed
-skirt
-sky
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:night by 陳ギwaynechan
-tree
-uploader:twilightwolf04
+1girl,
+booru:konachan.com,
+brown hair,
+building,
+city,
+creator:wayne chan,
+gender:female,
+kneehighs,
+pleated skirt,
+scenic,
+school uniform,
+series:original,
+short hair,
+signed,
+skirt,
+sky,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:night by 陳ギwaynechan,
+tree,
+uploader:twilightwolf04,

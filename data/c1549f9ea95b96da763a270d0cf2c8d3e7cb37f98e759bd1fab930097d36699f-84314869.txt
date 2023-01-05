@@ -1,46 +1,46 @@
-1girl
-::<
-akari (pokemon)
-beak
-character:akari (pokemon)
-character:arceus
-character:basculegion
-character:cyndaquil
-character:hisuian braviary
-character:hisuian zorua
-character:oshawott
-character:rowlet
-creator:kitakaze tomohiro
-fire
-flying
-gen 2 pokemon
-gen 4 pokemon
-gen 5 pokemon
-gen 7 pokemon
-head scarf
-highres
-hisuian braviary
-holding
-holding poke ball
-kitakaze tomohiro
-legendary pokemon
-meta:highres
-mythical pokemon
-poke ball
-poke ball (legends)
-pokemon (creature)
-rating:safe
-red scarf
-scarf
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon legends: arceus
-smile
-standing
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:pokemon legends: arceus, by tomohiro kitakaze
-uploader:charizardmain
+1girl,
+::<,
+akari (pokemon),
+beak,
+character:akari (pokemon),
+character:arceus,
+character:basculegion,
+character:cyndaquil,
+character:hisuian braviary,
+character:hisuian zorua,
+character:oshawott,
+character:rowlet,
+creator:kitakaze tomohiro,
+fire,
+flying,
+gen 2 pokemon,
+gen 4 pokemon,
+gen 5 pokemon,
+gen 7 pokemon,
+head scarf,
+highres,
+hisuian braviary,
+holding,
+holding poke ball,
+kitakaze tomohiro,
+legendary pokemon,
+meta:highres,
+mythical pokemon,
+poke ball,
+poke ball (legends),
+pokemon (creature),
+rating:safe,
+red scarf,
+scarf,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon legends: arceus,
+smile,
+standing,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:pokemon legends: arceus, by tomohiro kitakaze,
+uploader:charizardmain,

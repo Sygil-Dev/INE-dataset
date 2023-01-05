@@ -1,22 +1,22 @@
-armor
-battle
-gauntlets
-glowing eyes
-helmet
-holding
-holding sword
-holding weapon
-horns
-long hair
-multiple girls
-rating:safe
-shield
-subreddit:imaginaryfeels
-subreddit:imaginaryruneterra
-subreddit:immeta
-sword
-title:corrupted leona lv1 by herbie wang
-title:corrupted leona lv1, by herbie wang
-uploader:lol33ta
-uploader:miciy5
-weapon
+armor,
+battle,
+gauntlets,
+glowing eyes,
+helmet,
+holding,
+holding sword,
+holding weapon,
+horns,
+long hair,
+multiple girls,
+rating:safe,
+shield,
+subreddit:imaginaryfeels,
+subreddit:imaginaryruneterra,
+subreddit:immeta,
+sword,
+title:corrupted leona lv1 by herbie wang,
+title:corrupted leona lv1, by herbie wang,
+uploader:lol33ta,
+uploader:miciy5,
+weapon,

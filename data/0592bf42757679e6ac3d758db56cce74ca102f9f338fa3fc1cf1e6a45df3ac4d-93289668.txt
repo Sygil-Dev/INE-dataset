@@ -1,20 +1,20 @@
-1girl
-breasts
-character:princess zelda
-elf
-jewelry
-lineart
-lips
-long hair
-looking at viewer
-monochrome
-necklace
-pointy ears
-rating:safe
-signature
-solo
-subreddit:imaginaryelves
-subreddit:imraces
-title:“sorcerer” art by me, client’s oc
-unfinished
-uploader:witchycharm
+1girl,
+breasts,
+character:princess zelda,
+elf,
+jewelry,
+lineart,
+lips,
+long hair,
+looking at viewer,
+monochrome,
+necklace,
+pointy ears,
+rating:safe,
+signature,
+solo,
+subreddit:imaginaryelves,
+subreddit:imraces,
+title:“sorcerer” art by me, client’s oc,
+unfinished,
+uploader:witchycharm,

@@ -1,145 +1,145 @@
-alcohol
-alternate costume
-alternative costume
-arm up
-armor
-bag
-bald
-bandaged arm
-bandages
-bar
-bard bard
-baron nashor
-beard
-beer
-beer mug
-belt
-black hair
-blakebyun
-blind
-blindfold
-blue skin
-board game
-book
-bottle
-breastplate
-candle
-chandelier
-character:bard (league of legends)
-character:bard bard
-character:baron nashor
-character:darius (league of legends)
-character:fizz (league of legends)
-character:fizz finslayer
-character:garen (league of legends)
-character:lee sin
-character:lee sin (league of legends)
-character:monk lee
-character:nami (league of legends)
-character:nami tidecaller
-character:rift master darius
-character:rugged garen
-character:sin
-character:zilean
-character:zilean (league of legends)
-character:zilean wisewood
-chest belt
-chest tattoo
-chimney
-clenched hands
-cloak
-clothing
-coat
-coin
-colored skin
-creator:blakebyun
-creator:daviseila
-creator:emanueldias
-creator:felipemartini
-creator:leonardo sala
-crossed arms
-cup
-daviseila
-dice
-drink
-emanueldias
-facial hair
-facial tattoo
-feathers
-felipemartini
-fence
-fire
-fizz finslayer
-food
-gauntlets
-gloves
-gold
-green eyes
-green skin
-hat
-headwear
-hood
-hooded cloak
-jar
-legends of runeterra
-leonardo sala
-looking at another
-male
-map
-mask
-medium:16:9 aspect ratio
-medium:high resolution
-medium:very high resolution
-mermaid
-meta:absurdres
-meta:highres
-monk lee
-monster girl
-mug
-multicolored hair
-multiple boys
-muscle
-muscular
-muscular male
-nami tidecaller
-old
-old man
-one arm up
-playing
-playing games
-plump
-rating:general
-rating:safe
-red eyes
-red hair
-rift master darius
-scar
-scar on arm
-scar on face
-scar on nose
-series:league of legends
-series:legends of runeterra
-shield
-short hair
-shoulder armor
-shoulder pads
-sitting
-sleeping
-smile
-smirk
-subreddit:imaginarygatherings
-table
-tattoo
-teeth
-title:runeterra rift quest, by envar studio
-torn clothes
-turkey leg
-uploader:sylvyrfyre
-weapon
-white hair
-wine
-wine bottle
-wooden chair
-wooden fence
-wooden table
-zilean wisewood
+alcohol,
+alternate costume,
+alternative costume,
+arm up,
+armor,
+bag,
+bald,
+bandaged arm,
+bandages,
+bar,
+bard bard,
+baron nashor,
+beard,
+beer,
+beer mug,
+belt,
+black hair,
+blakebyun,
+blind,
+blindfold,
+blue skin,
+board game,
+book,
+bottle,
+breastplate,
+candle,
+chandelier,
+character:bard (league of legends),
+character:bard bard,
+character:baron nashor,
+character:darius (league of legends),
+character:fizz (league of legends),
+character:fizz finslayer,
+character:garen (league of legends),
+character:lee sin,
+character:lee sin (league of legends),
+character:monk lee,
+character:nami (league of legends),
+character:nami tidecaller,
+character:rift master darius,
+character:rugged garen,
+character:sin,
+character:zilean,
+character:zilean (league of legends),
+character:zilean wisewood,
+chest belt,
+chest tattoo,
+chimney,
+clenched hands,
+cloak,
+clothing,
+coat,
+coin,
+colored skin,
+creator:blakebyun,
+creator:daviseila,
+creator:emanueldias,
+creator:felipemartini,
+creator:leonardo sala,
+crossed arms,
+cup,
+daviseila,
+dice,
+drink,
+emanueldias,
+facial hair,
+facial tattoo,
+feathers,
+felipemartini,
+fence,
+fire,
+fizz finslayer,
+food,
+gauntlets,
+gloves,
+gold,
+green eyes,
+green skin,
+hat,
+headwear,
+hood,
+hooded cloak,
+jar,
+legends of runeterra,
+leonardo sala,
+looking at another,
+male,
+map,
+mask,
+medium:16:9 aspect ratio,
+medium:high resolution,
+medium:very high resolution,
+mermaid,
+meta:absurdres,
+meta:highres,
+monk lee,
+monster girl,
+mug,
+multicolored hair,
+multiple boys,
+muscle,
+muscular,
+muscular male,
+nami tidecaller,
+old,
+old man,
+one arm up,
+playing,
+playing games,
+plump,
+rating:general,
+rating:safe,
+red eyes,
+red hair,
+rift master darius,
+scar,
+scar on arm,
+scar on face,
+scar on nose,
+series:league of legends,
+series:legends of runeterra,
+shield,
+short hair,
+shoulder armor,
+shoulder pads,
+sitting,
+sleeping,
+smile,
+smirk,
+subreddit:imaginarygatherings,
+table,
+tattoo,
+teeth,
+title:runeterra rift quest, by envar studio,
+torn clothes,
+turkey leg,
+uploader:sylvyrfyre,
+weapon,
+white hair,
+wine,
+wine bottle,
+wooden chair,
+wooden fence,
+wooden table,
+zilean wisewood,

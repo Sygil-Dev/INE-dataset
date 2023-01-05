@@ -1,21 +1,21 @@
-architecture
-blue sky
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-mountain
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarydeserts
-subreddit:imnature
-sunset
-title:trip see_b by weyne jin
-tower
-uploader:chalkchick0
+architecture,
+blue sky,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+sunset,
+title:trip see_b by weyne jin,
+tower,
+uploader:chalkchick0,

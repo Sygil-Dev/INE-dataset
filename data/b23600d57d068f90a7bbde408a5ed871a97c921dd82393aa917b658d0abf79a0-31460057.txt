@@ -1,56 +1,56 @@
-2 females
-2girls
-aqua eyes
-aqua hair
-black hair
-book
-booru:danbooru
-booru:danbooru-safebooru
-booru:safebooru
-bowl cut
-broom
-candle
-casual
-cellphone
-chair
-closed mouth
-clothing:hair tie
-clothing:hat
-clothing:headwear
-clothing:shirt
-computer
-creator:varguyart
-cup
-gender:female
-hat
-holding
-holding cellphone
-holding object
-holding phone
-laptop
-multiple females
-multiple girls
-open clothes
-open shirt
-phone
-ponytail
-rating:safe
-series:original
-shirt
-short hair
-sitting
-smartphone
-subreddit:imaginarytaverns
-subreddit:imaginarywitches
-subreddit:imarchitecture
-subreddit:wholesomefantasyart
-table
-teacup
-tied hair
-title:coffee shop by varguy
-uploader:jungjungdoesntcare
-uploader:myrandall
-varguyart
-window
-witch
-witch hat
+2 females,
+2girls,
+aqua eyes,
+aqua hair,
+black hair,
+book,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:safebooru,
+bowl cut,
+broom,
+candle,
+casual,
+cellphone,
+chair,
+closed mouth,
+clothing:hair tie,
+clothing:hat,
+clothing:headwear,
+clothing:shirt,
+computer,
+creator:varguyart,
+cup,
+gender:female,
+hat,
+holding,
+holding cellphone,
+holding object,
+holding phone,
+laptop,
+multiple females,
+multiple girls,
+open clothes,
+open shirt,
+phone,
+ponytail,
+rating:safe,
+series:original,
+shirt,
+short hair,
+sitting,
+smartphone,
+subreddit:imaginarytaverns,
+subreddit:imaginarywitches,
+subreddit:imarchitecture,
+subreddit:wholesomefantasyart,
+table,
+teacup,
+tied hair,
+title:coffee shop by varguy,
+uploader:jungjungdoesntcare,
+uploader:myrandall,
+varguyart,
+window,
+witch,
+witch hat,

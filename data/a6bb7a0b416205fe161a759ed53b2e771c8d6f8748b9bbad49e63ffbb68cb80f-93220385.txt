@@ -1,59 +1,59 @@
-1boy
-armor
-blade
-bleeding
-blood
-blood splatter
-boots
-character:geralt of rivia
-clothing
-creator:art-calavera
-creator:blade
-death
-decapitation
-facial hair
-fighting
-floating
-floating hair
-footwear
-gloves
-gore
-grey hair
-guro
-holding
-holding object
-holding weapon
-jacket
-jumping
-leafless
-leather
-leather boots
-leather gloves
-leather jacket
-long hair
-looking ahead
-looking to the side
-male
-male only
-medium:high resolution
-meta:extreme content
-monster
-orange (color)
-orange sky
-outdoors
-rating:questionable
-rock
-scar
-series:the witcher (series)
-severed head
-sky
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-sunset
-sword
-title:geralt of rivia by art-calavera
-tree
-uploader:ultartx
-weapon
-white hair
+1boy,
+armor,
+blade,
+bleeding,
+blood,
+blood splatter,
+boots,
+character:geralt of rivia,
+clothing,
+creator:art-calavera,
+creator:blade,
+death,
+decapitation,
+facial hair,
+fighting,
+floating,
+floating hair,
+footwear,
+gloves,
+gore,
+grey hair,
+guro,
+holding,
+holding object,
+holding weapon,
+jacket,
+jumping,
+leafless,
+leather,
+leather boots,
+leather gloves,
+leather jacket,
+long hair,
+looking ahead,
+looking to the side,
+male,
+male only,
+medium:high resolution,
+meta:extreme content,
+monster,
+orange (color),
+orange sky,
+outdoors,
+rating:questionable,
+rock,
+scar,
+series:the witcher (series),
+severed head,
+sky,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sunset,
+sword,
+title:geralt of rivia by art-calavera,
+tree,
+uploader:ultartx,
+weapon,
+white hair,

@@ -1,39 +1,39 @@
-1girl
-backpack
-bag
-black hair
-bolter
-booru:sankaku
-chainsword
-character:adeptus astartes
-character:ultramarines
-clothing
-creator:ryuusei (mark ii)
-female
-genre:genderswap
-genre:genderswap (mtf)
-gun
-handgun
-holding
-holding weapon
-looking to the side
-mask
-medium:high resolution
-medium:simple background
-medium:white background
-over shoulder
-rating:s
-scar
-scar across eye
-scar on face
-series:warhammer 40k
-short hair
-skirt
-skull
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-sword
-title:femboy ultramarine by @cnmbwjx
-uploader:jfjdfdjjtbfb
-weapon
-weapon over shoulder
+1girl,
+backpack,
+bag,
+black hair,
+bolter,
+booru:sankaku,
+chainsword,
+character:adeptus astartes,
+character:ultramarines,
+clothing,
+creator:ryuusei (mark ii),
+female,
+genre:genderswap,
+genre:genderswap (mtf),
+gun,
+handgun,
+holding,
+holding weapon,
+looking to the side,
+mask,
+medium:high resolution,
+medium:simple background,
+medium:white background,
+over shoulder,
+rating:s,
+scar,
+scar across eye,
+scar on face,
+series:warhammer 40k,
+short hair,
+skirt,
+skull,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+sword,
+title:femboy ultramarine by @cnmbwjx,
+uploader:jfjdfdjjtbfb,
+weapon,
+weapon over shoulder,

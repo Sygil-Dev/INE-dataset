@@ -1,21 +1,21 @@
-animal
-bird
-blue sky
-cloud
-cloudy sky
-day
-field
-mountain
-no humans
-ocean
-outdoors
-rating:safe
-scenery
-seagull
-sky
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-title:island glaive
-tower
-tree
-uploader:sirgrenchaw
+animal,
+bird,
+blue sky,
+cloud,
+cloudy sky,
+day,
+field,
+mountain,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+seagull,
+sky,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+title:island glaive,
+tower,
+tree,
+uploader:sirgrenchaw,

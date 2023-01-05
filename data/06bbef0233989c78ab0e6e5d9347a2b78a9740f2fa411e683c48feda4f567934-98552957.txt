@@ -1,33 +1,33 @@
-artist name
-bare tree
-beach
-building
-city
-cloud
-cloudy sky
-crescent moon
-desert
-full moon
-horizon
-landscape
-moon
-mountain
-mountainous horizon
-night
-no humans
-outdoors
-rating:safe
-sand
-scenery
-sky
-subreddit:imaginarywastelands
-sun
-sunset
-title:frontier bivouac by álvaro calvo escudero
-tower
-tree
-twilight
-uploader:lol33ta
-water
-watermark
-web address
+artist name,
+bare tree,
+beach,
+building,
+city,
+cloud,
+cloudy sky,
+crescent moon,
+desert,
+full moon,
+horizon,
+landscape,
+moon,
+mountain,
+mountainous horizon,
+night,
+no humans,
+outdoors,
+rating:safe,
+sand,
+scenery,
+sky,
+subreddit:imaginarywastelands,
+sun,
+sunset,
+title:frontier bivouac by álvaro calvo escudero,
+tower,
+tree,
+twilight,
+uploader:lol33ta,
+water,
+watermark,
+web address,

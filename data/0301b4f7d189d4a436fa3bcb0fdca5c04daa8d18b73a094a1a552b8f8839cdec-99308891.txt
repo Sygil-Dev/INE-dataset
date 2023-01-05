@@ -1,28 +1,28 @@
-battle
-breathing fire
-bridge
-building
-burning
-candle
-chain
-city
-cityscape
-creator:dusanmarkovic
-destruction
-embers
-explosion
-faceless male
-fire
-fireplace
-flame
-giant
-multiple boys
-rating:safe
-skyscraper
-subreddit:imaginarymonsters
-subreddit:imaginarywerewolves
-title:monstrous creation
-title:monstrous creation by dusan markovic
-torch
-uploader:killerbunnyfamily
-weapon
+battle,
+breathing fire,
+bridge,
+building,
+burning,
+candle,
+chain,
+city,
+cityscape,
+creator:dusanmarkovic,
+destruction,
+embers,
+explosion,
+faceless male,
+fire,
+fireplace,
+flame,
+giant,
+multiple boys,
+rating:safe,
+skyscraper,
+subreddit:imaginarymonsters,
+subreddit:imaginarywerewolves,
+title:monstrous creation,
+title:monstrous creation by dusan markovic,
+torch,
+uploader:killerbunnyfamily,
+weapon,

@@ -1,41 +1,41 @@
-beach
-bridge
-building
-city
-city lights
-cityscape
-cloud
-cloudy sky
-ferris wheel
-horizon
-lake
-landscape
-mountain
-night
-night sky
-no humans
-ocean
-outdoors
-planet
-rating:safe
-reflection
-river
-road
-rooftop
-scenery
-shore
-sky
-skyline
-skyscraper
-star (sky)
-starry sky
-street
-subreddit:imaginarycityscapes
-subreddit:imaginaryfuturism
-subreddit:superstructures
-sunset
-title:etage megacity i by simon f
-tower
-twilight
-uploader:lol33ta
-water
+beach,
+bridge,
+building,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+ferris wheel,
+horizon,
+lake,
+landscape,
+mountain,
+night,
+night sky,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+reflection,
+river,
+road,
+rooftop,
+scenery,
+shore,
+sky,
+skyline,
+skyscraper,
+star (sky),
+starry sky,
+street,
+subreddit:imaginarycityscapes,
+subreddit:imaginaryfuturism,
+subreddit:superstructures,
+sunset,
+title:etage megacity i by simon f,
+tower,
+twilight,
+uploader:lol33ta,
+water,

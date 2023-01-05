@@ -1,28 +1,28 @@
-artist name
-breathing fire
-burning
-campfire
-cloud
-embers
-evening
-explosion
-fire
-flame
-lightning
-molten rock
-monster
-no humans
-orange sky
-rating:safe
-red sky
-sharp teeth
-signature
-sky
-subreddit:badassdragons
-subreddit:imaginarydragons
-sunset
-title:black death by yuliya zabelina
-torch
-twilight
-uploader:rajahbeaubeau
-volcano
+artist name,
+breathing fire,
+burning,
+campfire,
+cloud,
+embers,
+evening,
+explosion,
+fire,
+flame,
+lightning,
+molten rock,
+monster,
+no humans,
+orange sky,
+rating:safe,
+red sky,
+sharp teeth,
+signature,
+sky,
+subreddit:badassdragons,
+subreddit:imaginarydragons,
+sunset,
+title:black death by yuliya zabelina,
+torch,
+twilight,
+uploader:rajahbeaubeau,
+volcano,

@@ -1,74 +1,74 @@
-2girls
-6+boys
-augustine sycamore
-aurea juniper
-bag
-binder
-binder clip
-birch (pokemon)
-blouse
-blue shirt
-book
-chair
-character:augustine sycamore
-character:aurea juniper
-character:birch (pokemon)
-character:elm (pokemon)
-character:igglybuff
-character:kukui (pokemon)
-character:poochyena
-character:rowan (pokemon)
-character:samuel oak
-character:sonia (pokemon)
-character:yamper
-collared shirt
-creator:mei ford
-diagram
-egg
-elm (pokemon)
-eraser
-folder
-gen 2 pokemon
-gen 3 pokemon
-gen 8 pokemon
-highres
-holographic interface
-indoors
-mega stone
-mei ford
-meta:highres
-multiple boys
-multiple girls
-papers
-pen
-pokemon (creature)
-pokemon egg
-purple shirt
-rating:safe
-rating:sensitive
-round table
-rowan (pokemon)
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon bw
-series:pokemon dppt
-series:pokemon gsc
-series:pokemon rgby
-series:pokemon rse
-series:pokemon sm
-series:pokemon swsh
-series:pokemon xy
-shirt
-simple background
-subreddit:imaginarykanto
-subreddit:imfandoms
-table
-thermos
-title:research collab by @meifordart
-uploader:bearowolf
-white background
-white shirt
-z-ring
+2girls,
+6+boys,
+augustine sycamore,
+aurea juniper,
+bag,
+binder,
+binder clip,
+birch (pokemon),
+blouse,
+blue shirt,
+book,
+chair,
+character:augustine sycamore,
+character:aurea juniper,
+character:birch (pokemon),
+character:elm (pokemon),
+character:igglybuff,
+character:kukui (pokemon),
+character:poochyena,
+character:rowan (pokemon),
+character:samuel oak,
+character:sonia (pokemon),
+character:yamper,
+collared shirt,
+creator:mei ford,
+diagram,
+egg,
+elm (pokemon),
+eraser,
+folder,
+gen 2 pokemon,
+gen 3 pokemon,
+gen 8 pokemon,
+highres,
+holographic interface,
+indoors,
+mega stone,
+mei ford,
+meta:highres,
+multiple boys,
+multiple girls,
+papers,
+pen,
+pokemon (creature),
+pokemon egg,
+purple shirt,
+rating:safe,
+rating:sensitive,
+round table,
+rowan (pokemon),
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon bw,
+series:pokemon dppt,
+series:pokemon gsc,
+series:pokemon rgby,
+series:pokemon rse,
+series:pokemon sm,
+series:pokemon swsh,
+series:pokemon xy,
+shirt,
+simple background,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+table,
+thermos,
+title:research collab by @meifordart,
+uploader:bearowolf,
+white background,
+white shirt,
+z-ring,

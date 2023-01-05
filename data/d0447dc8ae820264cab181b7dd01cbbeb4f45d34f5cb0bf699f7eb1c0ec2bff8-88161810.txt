@@ -1,53 +1,53 @@
-5girls
-armor
-black hair
-blonde hair
-boots
-breastplate
-brown footwear
-brown hair
-codpiece
-colored skin
-creator:orcbarbies
-eyepatch
-faulds
-female goblin
-goblin
-green eyes
-green hair
-green skin
-hat
-holding
-holding sword
-holding weapon
-lance
-landsknecht
-medieval
-meta:commentary
-meta:english commentary
-meta:highres
-multiple girls
-orange eyes
-pointing
-pointing forward
-polearm
-puff and slash shorts
-puff and slash sleeves
-puffy sleeves
-rating:sensitive
-renaissance
-renaissance clothes
-series:original
-soldier
-subreddit:imaginaryfashion
-subreddit:imaginarygoblins
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-subreddit:immeta
-subreddit:imraces
-sword
-thick eyebrows
-title:gobsknecht by orcbarbies
-uploader:myrandall
-weapon
-yellow eyes
+5girls,
+armor,
+black hair,
+blonde hair,
+boots,
+breastplate,
+brown footwear,
+brown hair,
+codpiece,
+colored skin,
+creator:orcbarbies,
+eyepatch,
+faulds,
+female goblin,
+goblin,
+green eyes,
+green hair,
+green skin,
+hat,
+holding,
+holding sword,
+holding weapon,
+lance,
+landsknecht,
+medieval,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+multiple girls,
+orange eyes,
+pointing,
+pointing forward,
+polearm,
+puff and slash shorts,
+puff and slash sleeves,
+puffy sleeves,
+rating:sensitive,
+renaissance,
+renaissance clothes,
+series:original,
+soldier,
+subreddit:imaginaryfashion,
+subreddit:imaginarygoblins,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+subreddit:immeta,
+subreddit:imraces,
+sword,
+thick eyebrows,
+title:gobsknecht by orcbarbies,
+uploader:myrandall,
+weapon,
+yellow eyes,

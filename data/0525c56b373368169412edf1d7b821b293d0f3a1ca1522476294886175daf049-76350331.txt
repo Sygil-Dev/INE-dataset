@@ -1,28 +1,28 @@
-1boy
-book
-bubble
-closed eyes
-grass
-green theme
-leaf
-lily pad
-lotus
-lying
-male focus
-moss
-open book
-pants
-plant
-rating:safe
-reading
-ripples
-sleeping
-soaking feet
-solo
-subreddit:imaginaryscholars
-subreddit:imcharacters
-title:man's solitude, by alexandra petruk
-traditional media
-uploader:belledame-sans-serif
-water
-water drop
+1boy,
+book,
+bubble,
+closed eyes,
+grass,
+green theme,
+leaf,
+lily pad,
+lotus,
+lying,
+male focus,
+moss,
+open book,
+pants,
+plant,
+rating:safe,
+reading,
+ripples,
+sleeping,
+soaking feet,
+solo,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+title:man's solitude, by alexandra petruk,
+traditional media,
+uploader:belledame-sans-serif,
+water,
+water drop,

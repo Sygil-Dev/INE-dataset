@@ -1,25 +1,25 @@
-awooooooooo
-booru:e621
-creator:kenket
-forest
-looking at viewer
-meta:3:4
-meta:2019
-meta:monochrome
-meta:sketch
-moon
-outside
-plant
-rating:safe
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:moonbeast
-title:moonbeast by tess garman (kenket)
-tree
-uploader:myrandall
+awooooooooo,
+booru:e621,
+creator:kenket,
+forest,
+looking at viewer,
+meta:3:4,
+meta:2019,
+meta:monochrome,
+meta:sketch,
+moon,
+outside,
+plant,
+rating:safe,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:moonbeast,
+title:moonbeast by tess garman (kenket),
+tree,
+uploader:myrandall,

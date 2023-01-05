@@ -1,24 +1,24 @@
-anime
-april fool
-cloud
-creator:sylvain sarrailh
-design
-fire
-fly
-ghibli
-magic
-magical
-medium:digital 2d
-night
-sky
-sorcerer
-subreddit:imaginaryanime
-subreddit:imaginarywitches
-subreddit:imfandoms
-title:kiki &amp; chihiro spirited delivery : wrath of yubaba
-title:kiki &amp; chihiro spirited delivery: wrath of yubaba, by sylvain sarrailh
-tribute
-uploader:myrandall
-video game
-vis dev
-witch
+anime,
+april fool,
+cloud,
+creator:sylvain sarrailh,
+design,
+fire,
+fly,
+ghibli,
+magic,
+magical,
+medium:digital 2d,
+night,
+sky,
+sorcerer,
+subreddit:imaginaryanime,
+subreddit:imaginarywitches,
+subreddit:imfandoms,
+title:kiki &amp; chihiro spirited delivery : wrath of yubaba,
+title:kiki &amp; chihiro spirited delivery: wrath of yubaba, by sylvain sarrailh,
+tribute,
+uploader:myrandall,
+video game,
+vis dev,
+witch,

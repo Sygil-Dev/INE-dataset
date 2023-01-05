@@ -1,20 +1,20 @@
-aiming
-arrow (projectile)
-battle
-bow (weapon)
-fishing rod
-holding
-holding arrow
-holding bow (weapon)
-multiple boys
-quiver
-rating:safe
-string
-subreddit:imaginaryarchers
-subreddit:imaginarybattlefields
-title:rage on autumn by manuel castanon
-tree
-uploader:lol33ta
-uploader:myrandall
-uploader:thegypsyslayer
-weapon
+aiming,
+arrow (projectile),
+battle,
+bow (weapon),
+fishing rod,
+holding,
+holding arrow,
+holding bow (weapon),
+multiple boys,
+quiver,
+rating:safe,
+string,
+subreddit:imaginaryarchers,
+subreddit:imaginarybattlefields,
+title:rage on autumn by manuel castanon,
+tree,
+uploader:lol33ta,
+uploader:myrandall,
+uploader:thegypsyslayer,
+weapon,

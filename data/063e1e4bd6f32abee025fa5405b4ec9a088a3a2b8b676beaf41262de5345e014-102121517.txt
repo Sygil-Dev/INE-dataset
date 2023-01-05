@@ -1,26 +1,26 @@
-artist name
-autumn
-autumn leaves
-bare tree
-blonde hair
-campfire
-dated
-explosion
-fire
-forest
-hood
-leaf
-molten rock
-nature
-outdoors
-rating:safe
-shore
-signature
-subreddit:imaginarywitches
-sunset
-title:balance by ludvik skopalik
-tree
-uploader:lol33ta
-water
-watermark
-web address
+artist name,
+autumn,
+autumn leaves,
+bare tree,
+blonde hair,
+campfire,
+dated,
+explosion,
+fire,
+forest,
+hood,
+leaf,
+molten rock,
+nature,
+outdoors,
+rating:safe,
+shore,
+signature,
+subreddit:imaginarywitches,
+sunset,
+title:balance by ludvik skopalik,
+tree,
+uploader:lol33ta,
+water,
+watermark,
+web address,

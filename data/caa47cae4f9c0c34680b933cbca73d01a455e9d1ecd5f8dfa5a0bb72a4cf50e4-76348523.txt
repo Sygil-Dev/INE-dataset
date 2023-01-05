@@ -1,62 +1,62 @@
-1girl
-artist name
-bangs
-black eyes
-black footwear
-black hair
-black jacket
-black pants
-black shirt
-black tank top
-booru:sankaku
-breasts
-character name
-clothing
-creator:guweiz
-creator:ttguweiz
-english commentary
-female
-footwear
-hairband
-hands in pockets
-highres
-holding
-holding clothes
-holding jacket
-holding object
-jacket
-jacket on shoulders
-jacket removed
-long hair
-medium:artist name
-medium:character name
-medium:high resolution
-medium:multiple views
-medium:simple background
-medium:very high resolution
-medium:white background
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-multiple views
-pants
-ponytail
-rating:s
-rating:safe
-rating:sensitive
-red hairband
-series:original
-shirt
-shoes
-sidelocks
-simple background
-small breasts
-standing
-subreddit:imaginaryfashion
-subreddit:immeta
-tank top
-tied hair
-title:casual by guweiz
-uploader:blood-n-cheese
-white background
+1girl,
+artist name,
+bangs,
+black eyes,
+black footwear,
+black hair,
+black jacket,
+black pants,
+black shirt,
+black tank top,
+booru:sankaku,
+breasts,
+character name,
+clothing,
+creator:guweiz,
+creator:ttguweiz,
+english commentary,
+female,
+footwear,
+hairband,
+hands in pockets,
+highres,
+holding,
+holding clothes,
+holding jacket,
+holding object,
+jacket,
+jacket on shoulders,
+jacket removed,
+long hair,
+medium:artist name,
+medium:character name,
+medium:high resolution,
+medium:multiple views,
+medium:simple background,
+medium:very high resolution,
+medium:white background,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+multiple views,
+pants,
+ponytail,
+rating:s,
+rating:safe,
+rating:sensitive,
+red hairband,
+series:original,
+shirt,
+shoes,
+sidelocks,
+simple background,
+small breasts,
+standing,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+tank top,
+tied hair,
+title:casual by guweiz,
+uploader:blood-n-cheese,
+white background,

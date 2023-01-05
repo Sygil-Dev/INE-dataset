@@ -1,45 +1,45 @@
-1 female
-1girl
-booru:danbooru
-brown hair
-character:bahamut (final fantasy)
-character:yuna
-character:yuna (ff10)
-claws
-clothing:japanese clothes
-clothing:skirt
-creator:juno viinikka
-detached sleeves
-dragon
-fangs
-furry
-gender:female
-glowing
-glowing eyes
-japanese clothes
-juno viinikka
-long skirt
-magic circle
-medium:high resolution
-meta:highres
-monster
-open mouth
-outstretched arms
-rating:safe
-rock
-series:final fantasy
-series:final fantasy x
-short hair
-skirt
-smoke
-species:dragon
-species:mythical
-species:scalie
-staff
-standing
-studio:square enix
-subreddit:imaginarybehemoths
-subreddit:immonsters
-title:bahamut by juno viinikka
-tongue
-uploader:myrandall
+1 female,
+1girl,
+booru:danbooru,
+brown hair,
+character:bahamut (final fantasy),
+character:yuna,
+character:yuna (ff10),
+claws,
+clothing:japanese clothes,
+clothing:skirt,
+creator:juno viinikka,
+detached sleeves,
+dragon,
+fangs,
+furry,
+gender:female,
+glowing,
+glowing eyes,
+japanese clothes,
+juno viinikka,
+long skirt,
+magic circle,
+medium:high resolution,
+meta:highres,
+monster,
+open mouth,
+outstretched arms,
+rating:safe,
+rock,
+series:final fantasy,
+series:final fantasy x,
+short hair,
+skirt,
+smoke,
+species:dragon,
+species:mythical,
+species:scalie,
+staff,
+standing,
+studio:square enix,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+title:bahamut by juno viinikka,
+tongue,
+uploader:myrandall,

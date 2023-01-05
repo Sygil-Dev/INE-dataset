@@ -1,24 +1,24 @@
-1girl
-aircraft
-airplane
-dark skin
-dark-skinned female
-desert
-fighter jet
-gun
-headwear removed
-jet
-mecha
-military
-military vehicle
-pilot
-pilot suit
-rating:safe
-science fiction
-short hair
-sky
-space craft
-subreddit:imaginaryarmor
-subreddit:imtechnology
-title:"we're the kids" by loomingcolumn &amp; goeliath
-uploader:tacticusthrowaway
+1girl,
+aircraft,
+airplane,
+dark skin,
+dark-skinned female,
+desert,
+fighter jet,
+gun,
+headwear removed,
+jet,
+mecha,
+military,
+military vehicle,
+pilot,
+pilot suit,
+rating:safe,
+science fiction,
+short hair,
+sky,
+space craft,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+title:"we're the kids" by loomingcolumn &amp; goeliath,
+uploader:tacticusthrowaway,

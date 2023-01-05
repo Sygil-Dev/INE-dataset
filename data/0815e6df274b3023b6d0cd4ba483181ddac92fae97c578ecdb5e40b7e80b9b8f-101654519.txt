@@ -1,58 +1,58 @@
-1girl
-aerial fireworks
-antlers
-astronaut
-aurora
-campfire
-character:ultimate madoka
-christmas tree
-city
-city lights
-cityscape
-cloud
-constellation
-crescent moon
-desert
-dust
-earth (planet)
-embers
-fireflies
-fireworks
-full moon
-galaxy
-letterboxed
-light
-light particles
-milky way
-moon
-moonlight
-night
-night sky
-pine tree
-planet
-rating:safe
-reindeer
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-space
-space craft
-space helmet
-spacesuit
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarynecronomicon
-tanabata
-tanzaku
-telescope
-title:the king in yellow by dante liu
-twilight
-ufo
-uploader:i_burn_cereal
-window
+1girl,
+aerial fireworks,
+antlers,
+astronaut,
+aurora,
+campfire,
+character:ultimate madoka,
+christmas tree,
+city,
+city lights,
+cityscape,
+cloud,
+constellation,
+crescent moon,
+desert,
+dust,
+earth (planet),
+embers,
+fireflies,
+fireworks,
+full moon,
+galaxy,
+letterboxed,
+light,
+light particles,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+pine tree,
+planet,
+rating:safe,
+reindeer,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+space,
+space craft,
+space helmet,
+spacesuit,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarynecronomicon,
+tanabata,
+tanzaku,
+telescope,
+title:the king in yellow by dante liu,
+twilight,
+ufo,
+uploader:i_burn_cereal,
+window,

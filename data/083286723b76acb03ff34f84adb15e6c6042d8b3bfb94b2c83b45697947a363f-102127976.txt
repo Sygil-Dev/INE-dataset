@@ -1,19 +1,19 @@
-bare tree
-branch
-bush
-forest
-grass
-lake
-nature
-night
-outdoors
-palm tree
-plant
-rating:safe
-river
-scenery
-subreddit:imaginarywinterscapes
-title:270121 by lekso tiger
-tree
-uploader:myrandall
-water
+bare tree,
+branch,
+bush,
+forest,
+grass,
+lake,
+nature,
+night,
+outdoors,
+palm tree,
+plant,
+rating:safe,
+river,
+scenery,
+subreddit:imaginarywinterscapes,
+title:270121 by lekso tiger,
+tree,
+uploader:myrandall,
+water,

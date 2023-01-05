@@ -1,31 +1,31 @@
-2018
-ambiguous gender
-blue eyes
-booru:e621
-creator:sandara
-feral
-furry
-gender:ambiguous
-horn
-horns
-medium:high resolution
-medium:simple background
-medium:traditional media
-medium:white background
-meta:2018
-meta:hi res
-meta:traditional media (artwork)
-rating:safe
-simple background
-solo
-species:dragon
-species:leaf dragon
-species:mythical
-species:scalie
-subreddit:imaginaryelementals
-subreddit:immonsters
-title:watercolor dragon 4
-title:watercolor dragon 4 by sandara
-uploader:lol33ta
-white background
-year:2018
+2018,
+ambiguous gender,
+blue eyes,
+booru:e621,
+creator:sandara,
+feral,
+furry,
+gender:ambiguous,
+horn,
+horns,
+medium:high resolution,
+medium:simple background,
+medium:traditional media,
+medium:white background,
+meta:2018,
+meta:hi res,
+meta:traditional media (artwork),
+rating:safe,
+simple background,
+solo,
+species:dragon,
+species:leaf dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+title:watercolor dragon 4,
+title:watercolor dragon 4 by sandara,
+uploader:lol33ta,
+white background,
+year:2018,

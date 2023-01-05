@@ -1,23 +1,23 @@
-architecture
-bird
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-day
-outdoors
-rating:safe
-scenery
-sky
-skyscraper
-subreddit:imaginarywesteros
-subreddit:imfandoms
-sunlight
-title:qarth by hieronymus7z
-tower
-uploader:axlii12_
-watermark
-web address
+architecture,
+bird,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+outdoors,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+sunlight,
+title:qarth by hieronymus7z,
+tower,
+uploader:axlii12_,
+watermark,
+web address,

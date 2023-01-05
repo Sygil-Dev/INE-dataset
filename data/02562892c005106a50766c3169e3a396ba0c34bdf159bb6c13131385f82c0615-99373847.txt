@@ -1,23 +1,23 @@
-autumn
-autumn leaves
-bare tree
-bush
-campfire
-character:aki shizuha
-day
-falling leaves
-fire
-forest
-leaf
-maple leaf
-nature
-no humans
-outdoors
-rating:safe
-scenery
-subreddit:imaginaryforests
-sunlight
-sunset
-title:magicwoods by aboy ningthouja
-tree
-uploader:chalkchick0
+autumn,
+autumn leaves,
+bare tree,
+bush,
+campfire,
+character:aki shizuha,
+day,
+falling leaves,
+fire,
+forest,
+leaf,
+maple leaf,
+nature,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+subreddit:imaginaryforests,
+sunlight,
+sunset,
+title:magicwoods by aboy ningthouja,
+tree,
+uploader:chalkchick0,

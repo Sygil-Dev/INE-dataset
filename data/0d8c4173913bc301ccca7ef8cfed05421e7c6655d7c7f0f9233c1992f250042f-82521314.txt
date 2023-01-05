@@ -1,26 +1,26 @@
-arch
-architecture
-blue sky
-bridge
-building
-castle
-city
-cityscape
-clock tower
-cloud
-day
-desert
-east asian architecture
-house
-mountain
-outdoors
-rating:safe
-ruins
-scenery
-sky
-skyscraper
-subreddit:imaginarytowers
-subreddit:imarchitecture
-title:scifi-egyptian structure by remy paul
-tower
-uploader:sr_myers
+arch,
+architecture,
+blue sky,
+bridge,
+building,
+castle,
+city,
+cityscape,
+clock tower,
+cloud,
+day,
+desert,
+east asian architecture,
+house,
+mountain,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarytowers,
+subreddit:imarchitecture,
+title:scifi-egyptian structure by remy paul,
+tower,
+uploader:sr_myers,

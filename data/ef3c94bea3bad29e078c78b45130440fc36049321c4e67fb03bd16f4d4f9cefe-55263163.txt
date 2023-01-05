@@ -1,19 +1,19 @@
-character
-conceptart
-creator:yongjae choi
-creature
-illustration
-magic
-medium:digital 2d
-mtg
-subreddit:imaginarybestof
-subreddit:imaginaryundead
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:immeta
-subreddit:immonsters
-title:[/r/imaginaryundead] nevinyrral, urborg tyrant by yongjae choi
-title:nevinyrral, urborg tyrant / magic the gathering
-title:nevinyrral, urborg tyrant by yongjae choi
-uploader:lol33ta
-zombie
+character,
+conceptart,
+creator:yongjae choi,
+creature,
+illustration,
+magic,
+medium:digital 2d,
+mtg,
+subreddit:imaginarybestof,
+subreddit:imaginaryundead,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:immeta,
+subreddit:immonsters,
+title:[/r/imaginaryundead] nevinyrral, urborg tyrant by yongjae choi,
+title:nevinyrral, urborg tyrant / magic the gathering,
+title:nevinyrral, urborg tyrant by yongjae choi,
+uploader:lol33ta,
+zombie,

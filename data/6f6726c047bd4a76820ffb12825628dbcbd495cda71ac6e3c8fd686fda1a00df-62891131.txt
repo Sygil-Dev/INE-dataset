@@ -1,69 +1,69 @@
-1 female
-animal
-aqua eyes
-armlet
-bangs
-bare shoulders
-bikini
-bikini top
-blue gloves
-bug
-butterfly
-closed mouth
-creator:xueyinye
-creator:yoru (xueyinye)
-creator:夜·艾露達
-crown
-detached collar
-ears
-elf
-facial mark
-floating hair
-flower
-forehead mark
-gem
-gloves
-hair flower
-hair ornament
-insect
-jewelry
-light particles
-lips
-long hair
-looking at viewer
-midriff
-miniskirt
-navel
-night
-night sky
-outdoors
-outside
-outstretched arms
-petals
-pixiv
-pointy ears
-princess
-red flower
-red lips
-see-through
-series:original
-silver hair
-skirt
-sky
-smoke
-solo
-star (sky)
-stomach
-subreddit:imaginaryelves
-subreddit:imraces
-swept bangs
-swimsuit
-swimwear
-title:elf princess by elda-qd
-tree
-uploader:savagex99
-very long hair
-創作
-原創
-妖精
-少女
+1 female,
+animal,
+aqua eyes,
+armlet,
+bangs,
+bare shoulders,
+bikini,
+bikini top,
+blue gloves,
+bug,
+butterfly,
+closed mouth,
+creator:xueyinye,
+creator:yoru (xueyinye),
+creator:夜·艾露達,
+crown,
+detached collar,
+ears,
+elf,
+facial mark,
+floating hair,
+flower,
+forehead mark,
+gem,
+gloves,
+hair flower,
+hair ornament,
+insect,
+jewelry,
+light particles,
+lips,
+long hair,
+looking at viewer,
+midriff,
+miniskirt,
+navel,
+night,
+night sky,
+outdoors,
+outside,
+outstretched arms,
+petals,
+pixiv,
+pointy ears,
+princess,
+red flower,
+red lips,
+see-through,
+series:original,
+silver hair,
+skirt,
+sky,
+smoke,
+solo,
+star (sky),
+stomach,
+subreddit:imaginaryelves,
+subreddit:imraces,
+swept bangs,
+swimsuit,
+swimwear,
+title:elf princess by elda-qd,
+tree,
+uploader:savagex99,
+very long hair,
+創作,
+原創,
+妖精,
+少女,

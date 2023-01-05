@@ -1,38 +1,38 @@
-beach
-boat
-bridge
-city
-city lights
-cloud
-cloudy sky
-gradient sky
-horizon
-lake
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-planet
-pool
-rating:safe
-red sky
-reflection
-river
-scenery
-shore
-sky
-star (sky)
-starry sky
-subreddit:imaginarycolorscapes
-subreddit:wallpaper
-sun
-sunset
-title:mountains sunset [1920 x 1080]
-title:wait by alena aenami.
-twilight
-uploader:j-musicvast
-uploader:turbologic
-water
-waves
+beach,
+boat,
+bridge,
+city,
+city lights,
+cloud,
+cloudy sky,
+gradient sky,
+horizon,
+lake,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+planet,
+pool,
+rating:safe,
+red sky,
+reflection,
+river,
+scenery,
+shore,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginarycolorscapes,
+subreddit:wallpaper,
+sun,
+sunset,
+title:mountains sunset [1920 x 1080],
+title:wait by alena aenami.,
+twilight,
+uploader:j-musicvast,
+uploader:turbologic,
+water,
+waves,

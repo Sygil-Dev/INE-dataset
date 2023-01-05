@@ -1,25 +1,25 @@
-bare tree
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-lake
-mountain
-mountainous horizon
-no humans
-orange sky
-outdoors
-rating:safe
-red sky
-river
-scenery
-sky
-subreddit:imaginaryderelicts
-sun
-sunset
-title:the relic in the meadow by christopher balaskas.
-tree
-twilight
-uploader:mcgravin
+bare tree,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+lake,
+mountain,
+mountainous horizon,
+no humans,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+river,
+scenery,
+sky,
+subreddit:imaginaryderelicts,
+sun,
+sunset,
+title:the relic in the meadow by christopher balaskas.,
+tree,
+twilight,
+uploader:mcgravin,

@@ -1,38 +1,38 @@
-building
-city
-city lights
-cityscape
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-hill
-horizon
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-power lines
-purple sky
-rating:safe
-red sky
-scenery
-sky
-star (sky)
-starry sky
-subreddit:birdsforscale
-subreddit:imaginaryskyscapes
-subreddit:wholesomefantasyart
-sun
-sunrise
-sunset
-title:burning clouds by bisbiswas
-twilight
-uploader:lol33ta
-utility pole
-water
-yellow sky
+building,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+hill,
+horizon,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+power lines,
+purple sky,
+rating:safe,
+red sky,
+scenery,
+sky,
+star (sky),
+starry sky,
+subreddit:birdsforscale,
+subreddit:imaginaryskyscapes,
+subreddit:wholesomefantasyart,
+sun,
+sunrise,
+sunset,
+title:burning clouds by bisbiswas,
+twilight,
+uploader:lol33ta,
+utility pole,
+water,
+yellow sky,

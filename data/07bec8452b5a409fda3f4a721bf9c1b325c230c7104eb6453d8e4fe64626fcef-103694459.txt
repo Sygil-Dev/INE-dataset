@@ -1,22 +1,22 @@
-1girl
-armor
-breastplate
-cape
-castle
-day
-flag
-gauntlets
-helmet
-holding
-holding weapon
-mountain
-pauldrons
-rating:safe
-shoulder armor
-sky
-solo
-standing
-subreddit:imaginaryknights
-title:"knight" by takeshi yoshida
-uploader:torvusil
-weapon
+1girl,
+armor,
+breastplate,
+cape,
+castle,
+day,
+flag,
+gauntlets,
+helmet,
+holding,
+holding weapon,
+mountain,
+pauldrons,
+rating:safe,
+shoulder armor,
+sky,
+solo,
+standing,
+subreddit:imaginaryknights,
+title:"knight" by takeshi yoshida,
+uploader:torvusil,
+weapon,

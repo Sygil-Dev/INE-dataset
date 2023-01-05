@@ -1,25 +1,25 @@
-cloud
-cloudy sky
-evening
-horizon
-lake
-landscape
-mecha
-mountain
-mountainous horizon
-ocean
-outdoors
-pilot suit
-planet
-rating:safe
-realistic
-scenery
-science fiction
-sky
-star (sky)
-subreddit:imaginarytechnology
-sunset
-title:deer by christian bravery
-twilight
-uploader:one_giant_nostril
-water
+cloud,
+cloudy sky,
+evening,
+horizon,
+lake,
+landscape,
+mecha,
+mountain,
+mountainous horizon,
+ocean,
+outdoors,
+pilot suit,
+planet,
+rating:safe,
+realistic,
+scenery,
+science fiction,
+sky,
+star (sky),
+subreddit:imaginarytechnology,
+sunset,
+title:deer by christian bravery,
+twilight,
+uploader:one_giant_nostril,
+water,

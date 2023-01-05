@@ -1,32 +1,32 @@
-1girl
-angel
-angel wings
-bird tail
-bird wings
-black wings
-brown dress
-closed eyes
-dress
-feathered wings
-feathers
-full body
-gradient
-gradient background
-grey background
-holding weapon
-large wings
-rating:safe
-short hair
-single wing
-smile
-solo
-spread wings
-subreddit:imaginarycharacters
-subreddit:reasonablefantasy
-sword
-title:[oc] recent work i did
-title:recent work i did
-uploader:seilaman02
-weapon
-white wings
-wings
+1girl,
+angel,
+angel wings,
+bird tail,
+bird wings,
+black wings,
+brown dress,
+closed eyes,
+dress,
+feathered wings,
+feathers,
+full body,
+gradient,
+gradient background,
+grey background,
+holding weapon,
+large wings,
+rating:safe,
+short hair,
+single wing,
+smile,
+solo,
+spread wings,
+subreddit:imaginarycharacters,
+subreddit:reasonablefantasy,
+sword,
+title:[oc] recent work i did,
+title:recent work i did,
+uploader:seilaman02,
+weapon,
+white wings,
+wings,

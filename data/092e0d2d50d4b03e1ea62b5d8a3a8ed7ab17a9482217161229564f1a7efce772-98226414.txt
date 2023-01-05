@@ -1,30 +1,30 @@
-battle
-breathing fire
-burning
-campfire
-character:godzilla
-dragon
-embers
-explosion
-fangs
-fire
-flame
-glowing
-kaijuu
-molten rock
-monster
-no humans
-open mouth
-rating:safe
-realistic
-scales
-sharp teeth
-smoke
-subreddit:imaginarybehemoths
-subreddit:imaginarydragons
-subreddit:imaginaryelementals
-subreddit:immonsters
-teeth
-title:elemental hydra by jorge norgaard
-torch
-uploader:killerbunnyfamily
+battle,
+breathing fire,
+burning,
+campfire,
+character:godzilla,
+dragon,
+embers,
+explosion,
+fangs,
+fire,
+flame,
+glowing,
+kaijuu,
+molten rock,
+monster,
+no humans,
+open mouth,
+rating:safe,
+realistic,
+scales,
+sharp teeth,
+smoke,
+subreddit:imaginarybehemoths,
+subreddit:imaginarydragons,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+teeth,
+title:elemental hydra by jorge norgaard,
+torch,
+uploader:killerbunnyfamily,

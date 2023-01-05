@@ -1,56 +1,56 @@
-bathing
-bathroom
-bathtub
-black body
-black fur
-booru:sankaku
-brown hair
-bubble
-cleaning
-creator:wenqing yan
-creator:yuumei
-duo
-female
-feral
-flower
-fur
-hair
-hand on head
-leaf
-looking at another
-male
-medium:artist name
-medium:high resolution
-medium:text
-meta:2022
-meta:hi res
-meta:shaded
-meta:watermark
-plant
-quadruped
-rating:s
-rating:safe
-series:deviantart
-series:original
-solo
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:human
-species:husky
-species:mammal
-species:nordic sled dog
-species:spitz
-star
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-title:bath time by yuumei
-uploader:unhingedcorpse
-wet
-wet body
-wet fur
-white body
-white fur
-window
-yellow eyes
+bathing,
+bathroom,
+bathtub,
+black body,
+black fur,
+booru:sankaku,
+brown hair,
+bubble,
+cleaning,
+creator:wenqing yan,
+creator:yuumei,
+duo,
+female,
+feral,
+flower,
+fur,
+hair,
+hand on head,
+leaf,
+looking at another,
+male,
+medium:artist name,
+medium:high resolution,
+medium:text,
+meta:2022,
+meta:hi res,
+meta:shaded,
+meta:watermark,
+plant,
+quadruped,
+rating:s,
+rating:safe,
+series:deviantart,
+series:original,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:human,
+species:husky,
+species:mammal,
+species:nordic sled dog,
+species:spitz,
+star,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+title:bath time by yuumei,
+uploader:unhingedcorpse,
+wet,
+wet body,
+wet fur,
+white body,
+white fur,
+window,
+yellow eyes,

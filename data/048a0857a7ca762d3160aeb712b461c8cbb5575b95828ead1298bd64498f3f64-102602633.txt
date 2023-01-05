@@ -1,20 +1,20 @@
-aircraft
-airplane
-cloud
-earth (planet)
-flying
-horizon
-military vehicle
-moon
-ocean
-pilot suit
-planet
-rating:safe
-realistic
-sky
-space
-star (sky)
-subreddit:imaginarystarships
-sun
-title:mars exocruiser by thibault girard
-uploader:xeelee1123
+aircraft,
+airplane,
+cloud,
+earth (planet),
+flying,
+horizon,
+military vehicle,
+moon,
+ocean,
+pilot suit,
+planet,
+rating:safe,
+realistic,
+sky,
+space,
+star (sky),
+subreddit:imaginarystarships,
+sun,
+title:mars exocruiser by thibault girard,
+uploader:xeelee1123,

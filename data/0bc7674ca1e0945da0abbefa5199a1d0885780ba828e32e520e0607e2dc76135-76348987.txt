@@ -1,35 +1,35 @@
-1girl
-black flower
-black legwear
-black rose
-blue flower
-blue rose
-bouquet
-earrings
-flower
-gloves
-horns
-jewelry
-lipstick
-long hair
-makeup
-pink flower
-pink rose
-pubic tattoo
-purple rose
-rating:safe
-red flower
-red rose
-rose
-rose petals
-rose print
-solo
-spoken squiggle
-squiggle
-subreddit:imaginarymarvel
-subreddit:imfandoms
-tattoo
-thorns
-title:scarlet witch by serena rocca
-uploader:lol33ta
-white rose
+1girl,
+black flower,
+black legwear,
+black rose,
+blue flower,
+blue rose,
+bouquet,
+earrings,
+flower,
+gloves,
+horns,
+jewelry,
+lipstick,
+long hair,
+makeup,
+pink flower,
+pink rose,
+pubic tattoo,
+purple rose,
+rating:safe,
+red flower,
+red rose,
+rose,
+rose petals,
+rose print,
+solo,
+spoken squiggle,
+squiggle,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+tattoo,
+thorns,
+title:scarlet witch by serena rocca,
+uploader:lol33ta,
+white rose,

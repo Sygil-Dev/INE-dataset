@@ -1,64 +1,64 @@
-abstract
-angel
-archive
-army
-beast
-beautiful
-blood
-book
-book art
-card
-centurion
-character
-characterdesign
-color
-colorscript
-conceptart
-cover
-coverart
-creator:dominik mayer
-creature
-creaturedesign
-creepy
-dark
-demon
-demons
-dominikmayer
-dragon
-eerie
-energy
-epic
-evil
-fairytale
-flower
-ghost
-graphical
-hell
-history
-horror
-illustration
-king
-knight
-lore
-medium:digital 2d
-monster
-mood
-mythic
-painting
-playmat
-portal
-poster
-posterart
-promo art
-roman
-saga
-story
-stylized
-subreddit:imaginarysoldiers
-title:elysium - enter paradise
-title:elysium - enter paradise, dominik mayer
-undead
-uploader:miciy5
-warrior
-weird
-zombie
+abstract,
+angel,
+archive,
+army,
+beast,
+beautiful,
+blood,
+book,
+book art,
+card,
+centurion,
+character,
+characterdesign,
+color,
+colorscript,
+conceptart,
+cover,
+coverart,
+creator:dominik mayer,
+creature,
+creaturedesign,
+creepy,
+dark,
+demon,
+demons,
+dominikmayer,
+dragon,
+eerie,
+energy,
+epic,
+evil,
+fairytale,
+flower,
+ghost,
+graphical,
+hell,
+history,
+horror,
+illustration,
+king,
+knight,
+lore,
+medium:digital 2d,
+monster,
+mood,
+mythic,
+painting,
+playmat,
+portal,
+poster,
+posterart,
+promo art,
+roman,
+saga,
+story,
+stylized,
+subreddit:imaginarysoldiers,
+title:elysium - enter paradise,
+title:elysium - enter paradise, dominik mayer,
+undead,
+uploader:miciy5,
+warrior,
+weird,
+zombie,

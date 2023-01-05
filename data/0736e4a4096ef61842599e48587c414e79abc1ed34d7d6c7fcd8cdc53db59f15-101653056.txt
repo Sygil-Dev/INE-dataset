@@ -1,23 +1,23 @@
-1girl
-album cover
-blonde hair
-city lights
-cityscape
-cloud
-dress
-flower
-long hair
-purple sky
-rating:safe
-scenery
-sitting
-sky
-solo
-star (sky)
-starry sky
-subreddit:imaginarycolorscapes
-sunset
-title:visionary mountains by larry carlson
-twilight
-uploader:larry_carlson
-white dress
+1girl,
+album cover,
+blonde hair,
+city lights,
+cityscape,
+cloud,
+dress,
+flower,
+long hair,
+purple sky,
+rating:safe,
+scenery,
+sitting,
+sky,
+solo,
+star (sky),
+starry sky,
+subreddit:imaginarycolorscapes,
+sunset,
+title:visionary mountains by larry carlson,
+twilight,
+uploader:larry_carlson,
+white dress,

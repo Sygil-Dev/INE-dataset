@@ -1,24 +1,24 @@
-architecture
-bird
-bridge
-building
-bush
-cloud
-day
-facing away
-fantasy
-grass
-letterboxed
-nature
-outdoors
-plant
-rating:safe
-ruins
-scenery
-sky
-subreddit:imaginarydwellings
-title:city of beginnings by chris ostrowski
-torii
-tower
-tree
-uploader:lol33ta
+architecture,
+bird,
+bridge,
+building,
+bush,
+cloud,
+day,
+facing away,
+fantasy,
+grass,
+letterboxed,
+nature,
+outdoors,
+plant,
+rating:safe,
+ruins,
+scenery,
+sky,
+subreddit:imaginarydwellings,
+title:city of beginnings by chris ostrowski,
+torii,
+tower,
+tree,
+uploader:lol33ta,

@@ -1,28 +1,28 @@
-1girl
-ass
-bow (weapon)
-cape
-feather boa
-fur
-fur boots
-fur cape
-fur coat
-fur collar
-fur trim
-fur-trimmed boots
-fur-trimmed cape
-fur-trimmed coat
-fur-trimmed gloves
-fur-trimmed legwear
-fur-trimmed sleeves
-long hair
-pointy ears
-rating:safe
-simple background
-solo
-standing
-subreddit:characterart
-title:asura, art_sonyach
-uploader:art_sonyach
-weapon
-wolf
+1girl,
+ass,
+bow (weapon),
+cape,
+feather boa,
+fur,
+fur boots,
+fur cape,
+fur coat,
+fur collar,
+fur trim,
+fur-trimmed boots,
+fur-trimmed cape,
+fur-trimmed coat,
+fur-trimmed gloves,
+fur-trimmed legwear,
+fur-trimmed sleeves,
+long hair,
+pointy ears,
+rating:safe,
+simple background,
+solo,
+standing,
+subreddit:characterart,
+title:asura, art_sonyach,
+uploader:art_sonyach,
+weapon,
+wolf,

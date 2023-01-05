@@ -1,21 +1,21 @@
-aircraft
-battle
-cloud
-fighter jet
-glowing
-horizon
-jet
-ocean
-outdoors
-rating:safe
-science fiction
-sky
-space craft
-subreddit:imaginaryaviation
-subreddit:imaginaryfuturism
-sun
-sunset
-title:hangar, pedram mohammadi
-title:hanger by pedram mohammadi
-uploader:lol33ta
-uploader:miciy5
+aircraft,
+battle,
+cloud,
+fighter jet,
+glowing,
+horizon,
+jet,
+ocean,
+outdoors,
+rating:safe,
+science fiction,
+sky,
+space craft,
+subreddit:imaginaryaviation,
+subreddit:imaginaryfuturism,
+sun,
+sunset,
+title:hangar, pedram mohammadi,
+title:hanger by pedram mohammadi,
+uploader:lol33ta,
+uploader:miciy5,

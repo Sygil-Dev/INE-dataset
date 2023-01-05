@@ -1,29 +1,29 @@
-alcohol
-animal
-animal focus
-black cat
-book
-bottle
-candle
-cat
-collar
-cup
-drinking glass
-flask
-jar
-neck bell
-no humans
-rating:safe
-signature
-subreddit:imaginaryanimals
-subreddit:imaginaryfaeries
-subreddit:imaginaryfood
-subreddit:immeta
-subreddit:imnature
-subreddit:imraces
-title:'absinthe' by lisa parker
-uploader:jg379
-uploader:yannirotten
-wine
-wine bottle
-wine glass
+alcohol,
+animal,
+animal focus,
+black cat,
+book,
+bottle,
+candle,
+cat,
+collar,
+cup,
+drinking glass,
+flask,
+jar,
+neck bell,
+no humans,
+rating:safe,
+signature,
+subreddit:imaginaryanimals,
+subreddit:imaginaryfaeries,
+subreddit:imaginaryfood,
+subreddit:immeta,
+subreddit:imnature,
+subreddit:imraces,
+title:'absinthe' by lisa parker,
+uploader:jg379,
+uploader:yannirotten,
+wine,
+wine bottle,
+wine glass,

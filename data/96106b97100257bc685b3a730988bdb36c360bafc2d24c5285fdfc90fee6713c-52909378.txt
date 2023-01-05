@@ -1,19 +1,19 @@
-creator:shibu11
-creator:カオミン
-medium:2d art
-pixiv id:1236873
-pixiv work:76019395
-subreddit:imaginaryfeels
-subreddit:immeta
-title:eyes met by カオミン
-title:目が合った
-uploader:musaibwadkar
-アンダーリム
-オリジナル7500users入り
-ニットベスト
-制服
-女の子
-文学少女
-眼鏡っ娘
-読書
-電車内
+creator:shibu11,
+creator:カオミン,
+medium:2d art,
+pixiv id:1236873,
+pixiv work:76019395,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+title:eyes met by カオミン,
+title:目が合った,
+uploader:musaibwadkar,
+アンダーリム,
+オリジナル7500users入り,
+ニットベスト,
+制服,
+女の子,
+文学少女,
+眼鏡っ娘,
+読書,
+電車内,

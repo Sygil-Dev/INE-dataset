@@ -1,51 +1,51 @@
-autumn
-autumn leaves
-breathing fire
-burning
-campfire
-candle
-character:charmander
-cloud
-cloudy sky
-cooking
-dusk
-embers
-evening
-explosion
-fiery hair
-fiery wings
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-forest
-gradient sky
-horizon
-leaf
-maple leaf
-molten rock
-mountain
-mountainous horizon
-nature
-no humans
-orange sky
-orange theme
-outdoors
-pyrokinesis
-rating:safe
-red sky
-red theme
-scenery
-sky
-smoke
-subreddit:imaginarytechnology
-sun
-sunset
-tail-tip fire
-title:𝘛𝘰𝘳𝘮𝘦𝘯𝘵𝘰𝘳-class gou 𝙏𝙝𝙞𝙨 𝙀𝙣𝙙 𝙂𝙤𝙚𝙨 𝙁𝙞𝙧𝙨𝙩 [by me]
-torch
-tree
-twilight
-uploader:nopatienceandnotime
-volcano
+autumn,
+autumn leaves,
+breathing fire,
+burning,
+campfire,
+candle,
+character:charmander,
+cloud,
+cloudy sky,
+cooking,
+dusk,
+embers,
+evening,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+forest,
+gradient sky,
+horizon,
+leaf,
+maple leaf,
+molten rock,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+orange sky,
+orange theme,
+outdoors,
+pyrokinesis,
+rating:safe,
+red sky,
+red theme,
+scenery,
+sky,
+smoke,
+subreddit:imaginarytechnology,
+sun,
+sunset,
+tail-tip fire,
+title:𝘛𝘰𝘳𝘮𝘦𝘯𝘵𝘰𝘳-class gou 𝙏𝙝𝙞𝙨 𝙀𝙣𝙙 𝙂𝙤𝙚𝙨 𝙁𝙞𝙧𝙨𝙩 [by me],
+torch,
+tree,
+twilight,
+uploader:nopatienceandnotime,
+volcano,

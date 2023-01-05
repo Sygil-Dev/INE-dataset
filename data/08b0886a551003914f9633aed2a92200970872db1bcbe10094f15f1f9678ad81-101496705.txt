@@ -1,20 +1,20 @@
-1girl
-boots
-colored skin
-curly hair
-flower
-full body
-green hair
-jewelry
-long hair
-makeup
-pantyhose
-rating:safe
-simple background
-solo
-subreddit:imaginaryorcs
-title:dnd tempest cleric by kii weatherton
-uploader:lol33ta
-wavy hair
-weapon
-white background
+1girl,
+boots,
+colored skin,
+curly hair,
+flower,
+full body,
+green hair,
+jewelry,
+long hair,
+makeup,
+pantyhose,
+rating:safe,
+simple background,
+solo,
+subreddit:imaginaryorcs,
+title:dnd tempest cleric by kii weatherton,
+uploader:lol33ta,
+wavy hair,
+weapon,
+white background,

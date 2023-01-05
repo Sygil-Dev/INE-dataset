@@ -1,45 +1,45 @@
-arch
-architecture
-balcony
-blue sky
-bridge
-building
-castle
-chimney
-city
-city lights
-cityscape
-clock
-clock tower
-cloud
-cloudy sky
-day
-east asian architecture
-fantasy
-fountain
-gate
-house
-library
-mountain
-no humans
-outdoors
-pagoda
-railing
-rating:safe
-river
-road
-rooftop
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginarycityscapes
-subreddit:imaginarywalls
-subreddit:imlandscapes
-title:landscape 20210904 by kotakan
-title:landscape 20210904 by kou takano
-tower
-town
-uploader:blood-n-cheese
-uploader:lol33ta
-windmill
+arch,
+architecture,
+balcony,
+blue sky,
+bridge,
+building,
+castle,
+chimney,
+city,
+city lights,
+cityscape,
+clock,
+clock tower,
+cloud,
+cloudy sky,
+day,
+east asian architecture,
+fantasy,
+fountain,
+gate,
+house,
+library,
+mountain,
+no humans,
+outdoors,
+pagoda,
+railing,
+rating:safe,
+river,
+road,
+rooftop,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginarycityscapes,
+subreddit:imaginarywalls,
+subreddit:imlandscapes,
+title:landscape 20210904 by kotakan,
+title:landscape 20210904 by kou takano,
+tower,
+town,
+uploader:blood-n-cheese,
+uploader:lol33ta,
+windmill,

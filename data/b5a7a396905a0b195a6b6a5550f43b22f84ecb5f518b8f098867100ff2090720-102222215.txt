@@ -1,27 +1,27 @@
-1boy
-animal
-bangs
-barefoot
-beard
-bird
-black hair
-brown robe
-character:jesus
-closed eyes
-creator:mossacannibalis
-facial hair
-highres
-holding
-holding animal
-long hair
-long sleeves
-male focus
-meta:absurdres
-meta:highres
-rating:general
-robe
-series:real life
-subreddit:imaginaryhybrids
-title:jesus with his lamb by mossa
-uploader:tabulaerrata
-wings
+1boy,
+animal,
+bangs,
+barefoot,
+beard,
+bird,
+black hair,
+brown robe,
+character:jesus,
+closed eyes,
+creator:mossacannibalis,
+facial hair,
+highres,
+holding,
+holding animal,
+long hair,
+long sleeves,
+male focus,
+meta:absurdres,
+meta:highres,
+rating:general,
+robe,
+series:real life,
+subreddit:imaginaryhybrids,
+title:jesus with his lamb by mossa,
+uploader:tabulaerrata,
+wings,

@@ -1,22 +1,22 @@
-6+boys
-absolutely everyone
-bag
-baseball cap
-building
-character:charizard
-character:eevee
-character:flareon
-character:lapras
-character:meowth
-character:pikachu
-character:raichu
-ground vehicle
-hat
-long hair
-multiple boys
-multiple girls
-pokemon (creature)
-rating:safe
-subreddit:imaginaryanimals
-title:school of fish by viktor schreckengost
-uploader:yannirotten
+6+boys,
+absolutely everyone,
+bag,
+baseball cap,
+building,
+character:charizard,
+character:eevee,
+character:flareon,
+character:lapras,
+character:meowth,
+character:pikachu,
+character:raichu,
+ground vehicle,
+hat,
+long hair,
+multiple boys,
+multiple girls,
+pokemon (creature),
+rating:safe,
+subreddit:imaginaryanimals,
+title:school of fish by viktor schreckengost,
+uploader:yannirotten,

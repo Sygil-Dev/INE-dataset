@@ -1,26 +1,26 @@
-1girl
-armor
-black cape
-braid
-brown hair
-cape
-elf
-fantasy
-gauntlets
-gloves
-holding
-holding sword
-holding weapon
-long hair
-looking at viewer
-pauldrons
-pointy ears
-rating:safe
-shoulder armor
-single braid
-solo
-subreddit:imaginarycharacters
-sword
-title:robb and lilith
-uploader:weradd_
-weapon
+1girl,
+armor,
+black cape,
+braid,
+brown hair,
+cape,
+elf,
+fantasy,
+gauntlets,
+gloves,
+holding,
+holding sword,
+holding weapon,
+long hair,
+looking at viewer,
+pauldrons,
+pointy ears,
+rating:safe,
+shoulder armor,
+single braid,
+solo,
+subreddit:imaginarycharacters,
+sword,
+title:robb and lilith,
+uploader:weradd_,
+weapon,

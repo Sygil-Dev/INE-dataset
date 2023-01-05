@@ -1,109 +1,109 @@
-1girl
-alan caster
-alan_caster
-artist name
-artist_name
-bangs
-blush
-bob cut
-bob_cut
-bonnet
-booru:lolibooru
-border
-capelet
-character:gardevoir
-character:pokemon species
-closed mouth
-closed_mouth
-clothed pokemon
-clothed_pokemon
-colored skin
-colored_skin
-creator:alan caster
-english commentary
-female
-female focus
-flat chest
-flat_chest
-flower
-gen 3 pokemon
-green background
-green hair
-green skin
-green_background
-green_hair
-green_skin
-hair flower
-hair ornament
-hair over one eye
-hair_flower
-hair_ornament
-hair_over_one_eye
-happy
-highres
-light blush
-light_blush
-looking at viewer
-looking_at_viewer
-medium:1:1 aspect ratio
-medium:artist name
-medium:border
-medium:green background
-medium:high resolution
-medium:signature
-medium:simple background
-medium:very high resolution
-medium:white border
-meta:absurdres
-meta:highres
-multicolored
-multicolored skin
-multicolored_skin
-multicoloured
-outside border
-outside_border
-pettanko
-pink trim
-pink_trim
-pokemon (creature)
-pokemon unite
-pokemon_(creature)
-rating:questionable
-rating:safe
-red eyes
-red flower
-red_eyes
-red_flower
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon unite
-series:pokemon_(game)
-series:pokemon_unite
-short hair
-short_hair
-signature
-simple background
-simple_background
-smile
-solo
-split mouth
-split_mouth
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:gardevoir: fashionable style by alan caster on pixiv
-two-tone skin
-two-tone_skin
-uploader:no_kangaroo_5267
-upper body
-upper_body
-white border
-white capelet
-white headwear
-white skin
-white_border
-white_capelet
-white_headwear
-white_skin
+1girl,
+alan caster,
+alan_caster,
+artist name,
+artist_name,
+bangs,
+blush,
+bob cut,
+bob_cut,
+bonnet,
+booru:lolibooru,
+border,
+capelet,
+character:gardevoir,
+character:pokemon species,
+closed mouth,
+closed_mouth,
+clothed pokemon,
+clothed_pokemon,
+colored skin,
+colored_skin,
+creator:alan caster,
+english commentary,
+female,
+female focus,
+flat chest,
+flat_chest,
+flower,
+gen 3 pokemon,
+green background,
+green hair,
+green skin,
+green_background,
+green_hair,
+green_skin,
+hair flower,
+hair ornament,
+hair over one eye,
+hair_flower,
+hair_ornament,
+hair_over_one_eye,
+happy,
+highres,
+light blush,
+light_blush,
+looking at viewer,
+looking_at_viewer,
+medium:1:1 aspect ratio,
+medium:artist name,
+medium:border,
+medium:green background,
+medium:high resolution,
+medium:signature,
+medium:simple background,
+medium:very high resolution,
+medium:white border,
+meta:absurdres,
+meta:highres,
+multicolored,
+multicolored skin,
+multicolored_skin,
+multicoloured,
+outside border,
+outside_border,
+pettanko,
+pink trim,
+pink_trim,
+pokemon (creature),
+pokemon unite,
+pokemon_(creature),
+rating:questionable,
+rating:safe,
+red eyes,
+red flower,
+red_eyes,
+red_flower,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon unite,
+series:pokemon_(game),
+series:pokemon_unite,
+short hair,
+short_hair,
+signature,
+simple background,
+simple_background,
+smile,
+solo,
+split mouth,
+split_mouth,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:gardevoir: fashionable style by alan caster on pixiv,
+two-tone skin,
+two-tone_skin,
+uploader:no_kangaroo_5267,
+upper body,
+upper_body,
+white border,
+white capelet,
+white headwear,
+white skin,
+white_border,
+white_capelet,
+white_headwear,
+white_skin,

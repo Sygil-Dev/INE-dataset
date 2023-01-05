@@ -1,40 +1,40 @@
-1girl
-animal ears
-booru:sankaku
-brown hair
-cannon
-character:destroyer
-creator:haguruma c
-creator:haguruma_c
-destroyer
-drone
-female
-fox ears
-from behind
-full body
-kitsunemimi
-long hair
-mast
-medium:high resolution
-meta:commentary
-meta:highres
-military
-military vehicle
-rating:s
-rating:safe
-series:original
-ship
-shipwreck
-site:danbooru
-site:pixiv
-solo
-standing
-subreddit:imaginarywarships
-subreddit:imtechnology
-title:uss higgins - now a shipwreck in a post-apocalyptic world by haguruma-c
-turret
-uploader:castass
-uss higgins (ddg-76)
-vehicle
-warship
-watercraft
+1girl,
+animal ears,
+booru:sankaku,
+brown hair,
+cannon,
+character:destroyer,
+creator:haguruma c,
+creator:haguruma_c,
+destroyer,
+drone,
+female,
+fox ears,
+from behind,
+full body,
+kitsunemimi,
+long hair,
+mast,
+medium:high resolution,
+meta:commentary,
+meta:highres,
+military,
+military vehicle,
+rating:s,
+rating:safe,
+series:original,
+ship,
+shipwreck,
+site:danbooru,
+site:pixiv,
+solo,
+standing,
+subreddit:imaginarywarships,
+subreddit:imtechnology,
+title:uss higgins - now a shipwreck in a post-apocalyptic world by haguruma-c,
+turret,
+uploader:castass,
+uss higgins (ddg-76),
+vehicle,
+warship,
+watercraft,

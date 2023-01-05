@@ -1,57 +1,57 @@
-alternate species
-alternate_species
-archer
-armor
-artist:imdrunkontea
-blue eyes
-blue theme
-blue_eyes
-booru:e621
-bow (weapon)
-bow_(weapon)
-character:princess luna
-character:princess luna (mlp)
-character:princess_luna_(mlp)
-clothing:armor
-copyright:friendship is magic
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:my little pony
-copyright:my_little_pony
-creator:imdrunkontea
-flying
-forest
-genre:fantasy
-humanoidized
-imdrunkontea
-medium:high resolution
-meta:3:4
-meta:2019
-meta:blue theme
-meta:blue_theme
-meta:hi res
-meta:hi_res
-plant
-ranged weapon
-ranged_weapon
-rating:safe
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:human
-species:humanoid
-species:mammal
-species:primate
-species:winged humanoid
-species:winged_humanoid
-studio:hasbro
-subreddit:imaginaryarchers
-subreddit:imcharacters
-title:warrior princess luna by imdrunkontea
-tree
-uploader:lol33ta
-weapon
-winged humanoid
-wings
-year:2019
+alternate species,
+alternate_species,
+archer,
+armor,
+artist:imdrunkontea,
+blue eyes,
+blue theme,
+blue_eyes,
+booru:e621,
+bow (weapon),
+bow_(weapon),
+character:princess luna,
+character:princess luna (mlp),
+character:princess_luna_(mlp),
+clothing:armor,
+copyright:friendship is magic,
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:my little pony,
+copyright:my_little_pony,
+creator:imdrunkontea,
+flying,
+forest,
+genre:fantasy,
+humanoidized,
+imdrunkontea,
+medium:high resolution,
+meta:3:4,
+meta:2019,
+meta:blue theme,
+meta:blue_theme,
+meta:hi res,
+meta:hi_res,
+plant,
+ranged weapon,
+ranged_weapon,
+rating:safe,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:human,
+species:humanoid,
+species:mammal,
+species:primate,
+species:winged humanoid,
+species:winged_humanoid,
+studio:hasbro,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+title:warrior princess luna by imdrunkontea,
+tree,
+uploader:lol33ta,
+weapon,
+winged humanoid,
+wings,
+year:2019,

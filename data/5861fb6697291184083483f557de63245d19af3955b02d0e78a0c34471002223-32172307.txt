@@ -1,65 +1,65 @@
-5 fingers
-5_fingers
-16:9
-anthro
-anthropomorphism
-artist:themefinland
-claws
-creator:themefinland
-creature
-day
-desert
-detailed background
-detailed_background
-digital media (artwork)
-dragon
-duo
-feral
-fingers
-furry
-gender:male
-genre:fantasy
-hi res
-holding object
-holding spear
-holding weapon
-holding_object
-holding_spear
-holding_weapon
-knight
-lance
-male
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-melee weapon
-melee_weapon
-meta:16:9
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-mount
-open mouth
-open_mouth
-outside
-polearm
-rating:safe
-reptile
-rider
-sand
-sky
-source:furaffinity.net
-spear
-species:dragon
-species:mythical
-species:reptile
-species:scalie
-subreddit:epicmounts
-teeth
-title:saszrukai drakkar knight [commission]
-title:saszrukai drakkar knight [commission] by artist themefinland
-tongue
-uploader:anon_ymou5
-weapon
+5 fingers,
+5_fingers,
+16:9,
+anthro,
+anthropomorphism,
+artist:themefinland,
+claws,
+creator:themefinland,
+creature,
+day,
+desert,
+detailed background,
+detailed_background,
+digital media (artwork),
+dragon,
+duo,
+feral,
+fingers,
+furry,
+gender:male,
+genre:fantasy,
+hi res,
+holding object,
+holding spear,
+holding weapon,
+holding_object,
+holding_spear,
+holding_weapon,
+knight,
+lance,
+male,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+melee weapon,
+melee_weapon,
+meta:16:9,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+mount,
+open mouth,
+open_mouth,
+outside,
+polearm,
+rating:safe,
+reptile,
+rider,
+sand,
+sky,
+source:furaffinity.net,
+spear,
+species:dragon,
+species:mythical,
+species:reptile,
+species:scalie,
+subreddit:epicmounts,
+teeth,
+title:saszrukai drakkar knight [commission],
+title:saszrukai drakkar knight [commission] by artist themefinland,
+tongue,
+uploader:anon_ymou5,
+weapon,

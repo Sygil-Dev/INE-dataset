@@ -1,31 +1,31 @@
-architecture
-bridge
-building
-castle
-city
-cityscape
-cloud
-cloudy sky
-dusk
-evening
-gradient sky
-horizon
-house
-mountain
-no humans
-ocean
-orange sky
-outdoors
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginaryvessels
-sun
-sunrise
-sunset
-title:'pirate sunset' by daniel eskridge.
-tower
-twilight
-uploader:kapitankurt
-window
+architecture,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+cloudy sky,
+dusk,
+evening,
+gradient sky,
+horizon,
+house,
+mountain,
+no humans,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginaryvessels,
+sun,
+sunrise,
+sunset,
+title:'pirate sunset' by daniel eskridge.,
+tower,
+twilight,
+uploader:kapitankurt,
+window,

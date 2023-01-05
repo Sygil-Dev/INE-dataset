@@ -1,59 +1,59 @@
-ambiguous gender
-barbel (anatomy)
-bite
-biting another
-black body
-black eyes
-blue eyes
-brown body
-brown fur
-claws
-countershading
-creator:silverfox5213
-eyes closed
-fangs
-feral
-fur
-grey body
-grey fur
-group
-looking at viewer
-meta:2022
-meta:edit
-meta:english text
-meta:photo manipulation
-open mouth
-orange body
-orange fur
-pawpads
-plushie
-rating:safe
-red body
-species:amur carp
-species:canid
-species:canine
-species:canis
-species:carp
-species:cyprinid
-species:cypriniform
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:fish
-species:fox
-species:hybrid
-species:koi
-species:mammal
-species:marine
-species:red fox
-species:typical carp
-species:wolf
-subreddit:imaginaryaww
-subreddit:immeta
-text
-title:don't eat your new friend! by silverfox5213
-trio
-uploader:lol33ta
-white body
-white fur
+ambiguous gender,
+barbel (anatomy),
+bite,
+biting another,
+black body,
+black eyes,
+blue eyes,
+brown body,
+brown fur,
+claws,
+countershading,
+creator:silverfox5213,
+eyes closed,
+fangs,
+feral,
+fur,
+grey body,
+grey fur,
+group,
+looking at viewer,
+meta:2022,
+meta:edit,
+meta:english text,
+meta:photo manipulation,
+open mouth,
+orange body,
+orange fur,
+pawpads,
+plushie,
+rating:safe,
+red body,
+species:amur carp,
+species:canid,
+species:canine,
+species:canis,
+species:carp,
+species:cyprinid,
+species:cypriniform,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:fish,
+species:fox,
+species:hybrid,
+species:koi,
+species:mammal,
+species:marine,
+species:red fox,
+species:typical carp,
+species:wolf,
+subreddit:imaginaryaww,
+subreddit:immeta,
+text,
+title:don't eat your new friend! by silverfox5213,
+trio,
+uploader:lol33ta,
+white body,
+white fur,

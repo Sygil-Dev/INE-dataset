@@ -1,79 +1,79 @@
-ambiguous gender
-ambiguous_gender
-anthro
-anthropomorphism
-artist:michael_whelan
-biped
-bottomwear
-bracelet
-c. j. cherryh
-character:pyanfar chanur
-character:pyanfar_chanur
-character:tully
-cloak
-clothed
-clothing
-clothing:bottomwear
-clothing:bracelet
-clothing:legwear
-clothing:pants
-copyright:c._j._cherryh
-creator:michael whelan
-ear piercing
-ear ring
-ear_piercing
-ear_ring
-facial piercing
-felid
-female
-firearm
-fur
-gender:ambiguous
-gender:female
-gender:male
-gesture
-gun
-hani (species)
-holding object
-holding weapon
-holding_object
-holding_weapon
-jewelry
-kif (species)
-mahendo'sat
-male
-meta:3:5
-meta:1986
-pants
-piercing
-pointing
-primate
-pyanfar chanur
-ranged weapon
-ranged_weapon
-rating:safe
-series:c. j. cherryh
-species:alien
-species:felid
-species:feline
-species:hani (species)
-species:hani_(species)
-species:human
-species:kif (species)
-species:kif_(species)
-species:mahendo'sat
-species:mammal
-species:primate
-standing
-subreddit:imaginaryaliens
-subreddit:imraces
-title:chanur's homecoming by artist michael whelan
-topless
-torn bottomwear
-torn clothes
-torn clothing
-torn_bottomwear
-torn_clothing
-tully
-uploader:anon_ymou5
-weapon
+ambiguous gender,
+ambiguous_gender,
+anthro,
+anthropomorphism,
+artist:michael_whelan,
+biped,
+bottomwear,
+bracelet,
+c. j. cherryh,
+character:pyanfar chanur,
+character:pyanfar_chanur,
+character:tully,
+cloak,
+clothed,
+clothing,
+clothing:bottomwear,
+clothing:bracelet,
+clothing:legwear,
+clothing:pants,
+copyright:c._j._cherryh,
+creator:michael whelan,
+ear piercing,
+ear ring,
+ear_piercing,
+ear_ring,
+facial piercing,
+felid,
+female,
+firearm,
+fur,
+gender:ambiguous,
+gender:female,
+gender:male,
+gesture,
+gun,
+hani (species),
+holding object,
+holding weapon,
+holding_object,
+holding_weapon,
+jewelry,
+kif (species),
+mahendo'sat,
+male,
+meta:3:5,
+meta:1986,
+pants,
+piercing,
+pointing,
+primate,
+pyanfar chanur,
+ranged weapon,
+ranged_weapon,
+rating:safe,
+series:c. j. cherryh,
+species:alien,
+species:felid,
+species:feline,
+species:hani (species),
+species:hani_(species),
+species:human,
+species:kif (species),
+species:kif_(species),
+species:mahendo'sat,
+species:mammal,
+species:primate,
+standing,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+title:chanur's homecoming by artist michael whelan,
+topless,
+torn bottomwear,
+torn clothes,
+torn clothing,
+torn_bottomwear,
+torn_clothing,
+tully,
+uploader:anon_ymou5,
+weapon,

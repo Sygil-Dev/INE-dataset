@@ -1,31 +1,31 @@
-1girl
-animal
-artist name
-beetle
-bird
-blonde hair
-blue butterfly
-blue flower
-bug
-butterfly
-butterfly hair ornament
-butterfly on hand
-butterfly wings
-character:kashiwazaki sena
-dragonfly
-fairy
-glowing butterfly
-lizard
-mushroom
-nature
-rating:safe
-signature
-solo
-spider
-subreddit:imaginaryelementals
-title:roots by laszlo pinter
-tree
-uploader:lol33ta
-white butterfly
-wings
-yellow butterfly
+1girl,
+animal,
+artist name,
+beetle,
+bird,
+blonde hair,
+blue butterfly,
+blue flower,
+bug,
+butterfly,
+butterfly hair ornament,
+butterfly on hand,
+butterfly wings,
+character:kashiwazaki sena,
+dragonfly,
+fairy,
+glowing butterfly,
+lizard,
+mushroom,
+nature,
+rating:safe,
+signature,
+solo,
+spider,
+subreddit:imaginaryelementals,
+title:roots by laszlo pinter,
+tree,
+uploader:lol33ta,
+white butterfly,
+wings,
+yellow butterfly,

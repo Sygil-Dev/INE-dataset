@@ -1,23 +1,23 @@
-1girl
-black border
-bottle
-cat
-chair
-clock
-cup
-curtains
-indoors
-letterboxed
-plant
-potted plant
-rain
-rating:safe
-shirt
-short hair
-sitting
-solo
-subreddit:imaginaryweather
-table
-title:at home by the long ly
-uploader:lol33ta
-window
+1girl,
+black border,
+bottle,
+cat,
+chair,
+clock,
+cup,
+curtains,
+indoors,
+letterboxed,
+plant,
+potted plant,
+rain,
+rating:safe,
+shirt,
+short hair,
+sitting,
+solo,
+subreddit:imaginaryweather,
+table,
+title:at home by the long ly,
+uploader:lol33ta,
+window,

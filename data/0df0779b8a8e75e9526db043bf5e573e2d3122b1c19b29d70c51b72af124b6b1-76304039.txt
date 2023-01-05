@@ -1,34 +1,34 @@
-1girl
-bandaged arm
-bandaged hand
-bandaged neck
-bandages
-black hair
-black pants
-blood
-blood on clothes
-blood on face
-blood on hands
-blood splatter
-breasts
-bruise
-choker
-creator:jeehyung lee
-cuts
-injury
-jacket
-long hair
-marvel
-medium:digital 2d
-midriff
-navel
-pants
-rating:safe
-sarashi
-subreddit:imaginarymarvel
-subreddit:imaginarymutants
-subreddit:imfandoms
-title:x-23 by jeehyung lee
-uploader:disappointingreality
-uploader:i_burn_cereal
-x-23
+1girl,
+bandaged arm,
+bandaged hand,
+bandaged neck,
+bandages,
+black hair,
+black pants,
+blood,
+blood on clothes,
+blood on face,
+blood on hands,
+blood splatter,
+breasts,
+bruise,
+choker,
+creator:jeehyung lee,
+cuts,
+injury,
+jacket,
+long hair,
+marvel,
+medium:digital 2d,
+midriff,
+navel,
+pants,
+rating:safe,
+sarashi,
+subreddit:imaginarymarvel,
+subreddit:imaginarymutants,
+subreddit:imfandoms,
+title:x-23 by jeehyung lee,
+uploader:disappointingreality,
+uploader:i_burn_cereal,
+x-23,

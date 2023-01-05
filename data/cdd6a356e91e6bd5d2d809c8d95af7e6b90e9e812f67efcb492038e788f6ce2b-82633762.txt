@@ -1,22 +1,22 @@
-beach
-boat
-caribbean
-creator:glen fox
-island
-medium:digital 3d
-palm
-pirate
-pirates
-sand
-ship
-shop
-stylised
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-sunny
-tiki
-title:tiki treasure by glen fox
-title:tiki treasure v2
-treasure
-trees
-uploader:lol33ta
+beach,
+boat,
+caribbean,
+creator:glen fox,
+island,
+medium:digital 3d,
+palm,
+pirate,
+pirates,
+sand,
+ship,
+shop,
+stylised,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+sunny,
+tiki,
+title:tiki treasure by glen fox,
+title:tiki treasure v2,
+treasure,
+trees,
+uploader:lol33ta,

@@ -1,21 +1,21 @@
-battle
-cloud
-damaged
-dirty
-helmet
-mecha
-missile
-pilot
-pilot suit
-rating:safe
-realistic
-science fiction
-space craft
-spacesuit
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-title:planet stories cover [detail] (1978) by jim burns
-traditional media
-uploader:yannirotten
-variable fighter
-weapon
+battle,
+cloud,
+damaged,
+dirty,
+helmet,
+mecha,
+missile,
+pilot,
+pilot suit,
+rating:safe,
+realistic,
+science fiction,
+space craft,
+spacesuit,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+title:planet stories cover [detail] (1978) by jim burns,
+traditional media,
+uploader:yannirotten,
+variable fighter,
+weapon,

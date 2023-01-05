@@ -1,98 +1,98 @@
-2018
-ambiguous gender
-amethyst (gem)
-aquamarine (gem)
-beak
-border
-bracelet
-breasts
-clothing:bracelet
-cloud
-coin
-creator:sandara
-day
-detailed background
-digital media (artwork)
-emerald (gem)
-eyebrows
-eyelashes
-feathered wings
-feathers
-female
-feral
-gem
-gender:ambiguous
-gender:female
-gold (metal)
-gold coin
-gold jewelry
-green body
-green scales
-grey body
-grey feathers
-group
-guro
-hair
-half-closed eyes
-hi res
-humanoid hands
-jewelry
-long hair
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2018
-meta:digital media (artwork)
-meta:hi res
-meta:nsfw
-multicolored body
-multicolored feathers
-multicolored hair
-multicolored scales
-narrowed eyes
-nipples
-nude
-outside
-pale skin
-pearl (gem)
-pendant
-pink nipples
-purple body
-purple hair
-purple scales
-rating:explicit
-rating:mature
-rating:questionable
-ring
-rope
-ruby (gem)
-scales
-series:invalid color
-sky
-slim
-source:e621
-species:avian
-species:bird
-species:gull
-species:humanoid
-species:lari
-species:larid
-species:marine
-species:merfolk
-species:mythical
-species:seagull
-split form
-subreddit:imaginarymerfolk
-subreddit:imraces
-title:mermaid
-title:mermaid by sandara
-treasure
-treasure chest
-uploader:lol33ta
-water
-white body
-white border
-white feathers
-white hair
-wings
-year:2018
+2018,
+ambiguous gender,
+amethyst (gem),
+aquamarine (gem),
+beak,
+border,
+bracelet,
+breasts,
+clothing:bracelet,
+cloud,
+coin,
+creator:sandara,
+day,
+detailed background,
+digital media (artwork),
+emerald (gem),
+eyebrows,
+eyelashes,
+feathered wings,
+feathers,
+female,
+feral,
+gem,
+gender:ambiguous,
+gender:female,
+gold (metal),
+gold coin,
+gold jewelry,
+green body,
+green scales,
+grey body,
+grey feathers,
+group,
+guro,
+hair,
+half-closed eyes,
+hi res,
+humanoid hands,
+jewelry,
+long hair,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2018,
+meta:digital media (artwork),
+meta:hi res,
+meta:nsfw,
+multicolored body,
+multicolored feathers,
+multicolored hair,
+multicolored scales,
+narrowed eyes,
+nipples,
+nude,
+outside,
+pale skin,
+pearl (gem),
+pendant,
+pink nipples,
+purple body,
+purple hair,
+purple scales,
+rating:explicit,
+rating:mature,
+rating:questionable,
+ring,
+rope,
+ruby (gem),
+scales,
+series:invalid color,
+sky,
+slim,
+source:e621,
+species:avian,
+species:bird,
+species:gull,
+species:humanoid,
+species:lari,
+species:larid,
+species:marine,
+species:merfolk,
+species:mythical,
+species:seagull,
+split form,
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+title:mermaid,
+title:mermaid by sandara,
+treasure,
+treasure chest,
+uploader:lol33ta,
+water,
+white body,
+white border,
+white feathers,
+white hair,
+wings,
+year:2018,

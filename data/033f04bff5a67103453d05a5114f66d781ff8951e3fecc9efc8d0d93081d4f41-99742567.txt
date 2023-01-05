@@ -1,22 +1,22 @@
-dinosaur
-dragon
-field
-forest
-grass
-gun
-jungle
-monster
-moss
-nature
-no humans
-outdoors
-plant
-rating:safe
-sharp teeth
-sky
-subreddit:imaginarydragons
-sword
-title:the courts of chaos alternative cover art, 1986, by tim white
-tree
-uploader:yannirotten
-weapon
+dinosaur,
+dragon,
+field,
+forest,
+grass,
+gun,
+jungle,
+monster,
+moss,
+nature,
+no humans,
+outdoors,
+plant,
+rating:safe,
+sharp teeth,
+sky,
+subreddit:imaginarydragons,
+sword,
+title:the courts of chaos alternative cover art, 1986, by tim white,
+tree,
+uploader:yannirotten,
+weapon,

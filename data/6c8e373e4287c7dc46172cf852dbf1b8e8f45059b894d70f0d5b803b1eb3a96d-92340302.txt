@@ -1,21 +1,21 @@
-ambiguous gender
-creator:sandara
-day
-detailed background
-duo
-feral
-forest
-meta:2022
-meta:digital media (artwork)
-meta:hi res
-moss
-outside
-plant
-rating:safe
-species:avian
-species:bird
-subreddit:imaginaryelementals
-subreddit:immonsters
-title:spring thaw by sandara
-tree
-uploader:lol33ta
+ambiguous gender,
+creator:sandara,
+day,
+detailed background,
+duo,
+feral,
+forest,
+meta:2022,
+meta:digital media (artwork),
+meta:hi res,
+moss,
+outside,
+plant,
+rating:safe,
+species:avian,
+species:bird,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+title:spring thaw by sandara,
+tree,
+uploader:lol33ta,

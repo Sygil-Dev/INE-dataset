@@ -1,19 +1,19 @@
-books
-creator:space junk
-creator:user_gwzf2877
-digital
-fanart
-fantasy
-krita
-library
-pixiv id:60016091
-pixiv work:92459177
-pokemon
-red
-scrolls
-subreddit:imaginarylibraries
-subreddit:imarchitecture
-title:red library
-title:red library by space junk
-uploader:mediadavid
-warmlight
+books,
+creator:space junk,
+creator:user_gwzf2877,
+digital,
+fanart,
+fantasy,
+krita,
+library,
+pixiv id:60016091,
+pixiv work:92459177,
+pokemon,
+red,
+scrolls,
+subreddit:imaginarylibraries,
+subreddit:imarchitecture,
+title:red library,
+title:red library by space junk,
+uploader:mediadavid,
+warmlight,

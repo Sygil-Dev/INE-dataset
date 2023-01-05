@@ -1,19 +1,19 @@
-1boy
-araki hirohiko (style)
-blonde hair
-braid
-character name
-character:dio brando
-character:gilgamesh (fate)
-english text
-face
-lipstick
-makeup
-parody
-pink background
-rating:safe
-red eyes
-style parody
-subreddit:imaginarywarhammer
-title:ix legion
-uploader:hawtdawg65
+1boy,
+araki hirohiko (style),
+blonde hair,
+braid,
+character name,
+character:dio brando,
+character:gilgamesh (fate),
+english text,
+face,
+lipstick,
+makeup,
+parody,
+pink background,
+rating:safe,
+red eyes,
+style parody,
+subreddit:imaginarywarhammer,
+title:ix legion,
+uploader:hawtdawg65,

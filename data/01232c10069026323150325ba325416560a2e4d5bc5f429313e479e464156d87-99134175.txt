@@ -1,21 +1,21 @@
-black border
-blue sky
-cloud
-day
-fake screenshot
-fantasy
-landscape
-letterboxed
-mountain
-no humans
-outdoors
-pillarboxed
-rating:safe
-scenery
-sky
-subreddit:imaginarydwellings
-title:snowland house by cycle circle
-tower
-tree
-uploader:lol33ta
-water
+black border,
+blue sky,
+cloud,
+day,
+fake screenshot,
+fantasy,
+landscape,
+letterboxed,
+mountain,
+no humans,
+outdoors,
+pillarboxed,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarydwellings,
+title:snowland house by cycle circle,
+tower,
+tree,
+uploader:lol33ta,
+water,

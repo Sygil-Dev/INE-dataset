@@ -1,32 +1,32 @@
-1boy
-1other
-ambiguous gender
-beach
-cloud
-cloudy sky
-hill
-horizon
-ice
-landscape
-lightning
-male focus
-moon
-mountain
-mountainous horizon
-night
-night sky
-ocean
-outdoors
-rating:safe
-scenery
-signature
-sky
-snow
-snowing
-star (sky)
-starry sky
-subreddit:imaginarynecronomicon
-title:at the mountains of madness by erskine designs
-uploader:i_burn_cereal
-waves
-weapon
+1boy,
+1other,
+ambiguous gender,
+beach,
+cloud,
+cloudy sky,
+hill,
+horizon,
+ice,
+landscape,
+lightning,
+male focus,
+moon,
+mountain,
+mountainous horizon,
+night,
+night sky,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+signature,
+sky,
+snow,
+snowing,
+star (sky),
+starry sky,
+subreddit:imaginarynecronomicon,
+title:at the mountains of madness by erskine designs,
+uploader:i_burn_cereal,
+waves,
+weapon,

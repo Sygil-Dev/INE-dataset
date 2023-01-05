@@ -1,65 +1,65 @@
-1 female
-1girl
-back
-bare legs
-black hair
-booru:sankaku channel
-camera
-clothing:legwear
-cloud
-creator:fisheye-placebo
-creator:wenqing yan
-creator:yuu
-creator:yuumei
-exposed shoulders
-female
-flowing hair
-gender:female
-horizon
-legs
-legwear
-long hair
-medium:high resolution
-medium:text
-medium:watermark
-medium:web address
-meta:commentary
-meta:english commentary
-meta:highres
-meta:photoshop (medium)
-mountain
-nature
-night
-night sky
-original 10000 users bookmark
-outdoors
-outside
-pixiv work:58030599
-rating:mature
-rating:safe
-scenery
-series:original
-shirt
-short
-short shorts
-shorts
-sky
-sleeveless
-solo
-star (sky)
-starry sky
-stars
-strapless
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-tank top
-title:capture the sky
-title:capture the sky, by wenqing yan.
-uploader:0-0-1
-watermark
-wind
-クリック推薦
-星
-空
-雲
-青の衝撃
+1 female,
+1girl,
+back,
+bare legs,
+black hair,
+booru:sankaku channel,
+camera,
+clothing:legwear,
+cloud,
+creator:fisheye-placebo,
+creator:wenqing yan,
+creator:yuu,
+creator:yuumei,
+exposed shoulders,
+female,
+flowing hair,
+gender:female,
+horizon,
+legs,
+legwear,
+long hair,
+medium:high resolution,
+medium:text,
+medium:watermark,
+medium:web address,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:photoshop (medium),
+mountain,
+nature,
+night,
+night sky,
+original 10000 users bookmark,
+outdoors,
+outside,
+pixiv work:58030599,
+rating:mature,
+rating:safe,
+scenery,
+series:original,
+shirt,
+short,
+short shorts,
+shorts,
+sky,
+sleeveless,
+solo,
+star (sky),
+starry sky,
+stars,
+strapless,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+tank top,
+title:capture the sky,
+title:capture the sky, by wenqing yan.,
+uploader:0-0-1,
+watermark,
+wind,
+クリック推薦,
+星,
+空,
+雲,
+青の衝撃,

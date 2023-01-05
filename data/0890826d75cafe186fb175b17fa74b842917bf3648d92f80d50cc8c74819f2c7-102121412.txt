@@ -1,20 +1,20 @@
-1boy
-1other
-armor
-cape
-gauntlets
-helmet
-holding
-holding sword
-holding weapon
-male focus
-pauldrons
-rating:safe
-shoulder armor
-solo
-standing
-subreddit:imaginarywarriors
-sword
-title:"war priest" by felix ortiz
-uploader:nikephoros_ii_phokas
-weapon
+1boy,
+1other,
+armor,
+cape,
+gauntlets,
+helmet,
+holding,
+holding sword,
+holding weapon,
+male focus,
+pauldrons,
+rating:safe,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginarywarriors,
+sword,
+title:"war priest" by felix ortiz,
+uploader:nikephoros_ii_phokas,
+weapon,

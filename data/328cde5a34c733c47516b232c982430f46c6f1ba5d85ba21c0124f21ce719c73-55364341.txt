@@ -1,32 +1,32 @@
-3boys
-4girls
-boots
-character:aang
-character:asami sato
-character:bolin (korra)
-character:jinora (legend of korra)
-character:korra
-character:mako (avatar)
-character:pabu (avatar)
-city
-creator:devin elle kurtz
-fence
-ikki (legend of korra)
-looking at another
-meelo (legend of korra)
-meta:highres
-mountain
-multiple boys
-multiple girls
-pelt
-ponytail
-rating:safe
-series:avatar (series)
-series:the legend of korra
-sitting
-statue
-subreddit:imaginarymonuments
-subreddit:imarchitecture
-sunset
-title:team avatar ii by tamberella
-uploader:myrandall
+3boys,
+4girls,
+boots,
+character:aang,
+character:asami sato,
+character:bolin (korra),
+character:jinora (legend of korra),
+character:korra,
+character:mako (avatar),
+character:pabu (avatar),
+city,
+creator:devin elle kurtz,
+fence,
+ikki (legend of korra),
+looking at another,
+meelo (legend of korra),
+meta:highres,
+mountain,
+multiple boys,
+multiple girls,
+pelt,
+ponytail,
+rating:safe,
+series:avatar (series),
+series:the legend of korra,
+sitting,
+statue,
+subreddit:imaginarymonuments,
+subreddit:imarchitecture,
+sunset,
+title:team avatar ii by tamberella,
+uploader:myrandall,

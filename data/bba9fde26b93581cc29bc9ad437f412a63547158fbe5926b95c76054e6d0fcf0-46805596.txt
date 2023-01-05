@@ -1,26 +1,26 @@
-alien
-blade
-boots
-character
-creator:bjorn hurri
-creature
-cyberpunk
-female
-firearm
-footwear
-gender:female
-genre:cyberpunk
-gold
-gun
-medium:digital 2d
-pirate
-pistol
-species:alien
-subreddit:imaginaryaliens
-subreddit:imraces
-sword
-title:#nemesisartchallenge - starblade
-title:starblade by bjorn hurri
-uploader:myrandall
-weapon
-woman
+alien,
+blade,
+boots,
+character,
+creator:bjorn hurri,
+creature,
+cyberpunk,
+female,
+firearm,
+footwear,
+gender:female,
+genre:cyberpunk,
+gold,
+gun,
+medium:digital 2d,
+pirate,
+pistol,
+species:alien,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+sword,
+title:#nemesisartchallenge - starblade,
+title:starblade by bjorn hurri,
+uploader:myrandall,
+weapon,
+woman,

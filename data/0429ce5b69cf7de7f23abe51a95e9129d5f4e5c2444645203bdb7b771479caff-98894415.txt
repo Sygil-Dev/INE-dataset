@@ -1,26 +1,26 @@
-beach
-blue sky
-boat
-character:link
-cloud
-cloudy sky
-day
-desert
-horizon
-landscape
-male focus
-mountain
-ocean
-outdoors
-rating:safe
-sand
-scenery
-shore
-sky
-subreddit:imaginaryagriculture
-sword
-title:froggie harvester by ognjen sporin
-uploader:myrandall
-water
-watercraft
-weapon
+beach,
+blue sky,
+boat,
+character:link,
+cloud,
+cloudy sky,
+day,
+desert,
+horizon,
+landscape,
+male focus,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+sand,
+scenery,
+shore,
+sky,
+subreddit:imaginaryagriculture,
+sword,
+title:froggie harvester by ognjen sporin,
+uploader:myrandall,
+water,
+watercraft,
+weapon,

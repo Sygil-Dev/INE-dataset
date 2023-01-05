@@ -1,26 +1,26 @@
-1girl
-book
-earrings
-elf
-full body
-gradient
-gradient background
-green eyes
-holding
-jewelry
-midriff
-navel
-pointy ears
-rating:safe
-red hair
-shoes
-short hair
-solo
-staff
-standing
-subreddit:imaginarydruids
-subreddit:imaginaryelves
-subreddit:imraces
-title:amali by jack meng kirkman
-uploader:lol33ta
-uploader:myrandall
+1girl,
+book,
+earrings,
+elf,
+full body,
+gradient,
+gradient background,
+green eyes,
+holding,
+jewelry,
+midriff,
+navel,
+pointy ears,
+rating:safe,
+red hair,
+shoes,
+short hair,
+solo,
+staff,
+standing,
+subreddit:imaginarydruids,
+subreddit:imaginaryelves,
+subreddit:imraces,
+title:amali by jack meng kirkman,
+uploader:lol33ta,
+uploader:myrandall,

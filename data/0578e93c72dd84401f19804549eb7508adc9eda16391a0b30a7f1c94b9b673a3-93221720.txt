@@ -1,28 +1,28 @@
-character:pikachu
-holding
-holding umbrella
-leaf umbrella
-multiple boys
-oil-paper umbrella
-parasol
-partially submerged
-pokemon (creature)
-puddle
-rain
-raincoat
-rating:safe
-red umbrella
-ripples
-rubber boots
-shared umbrella
-subreddit:imaginaryweather
-subreddit:imnature
-title:mood exploration by claire gary
-transparent umbrella
-umbrella
-uploader:lol33ta
-water
-wet
-yellow footwear
-yellow headwear
-yellow raincoat
+character:pikachu,
+holding,
+holding umbrella,
+leaf umbrella,
+multiple boys,
+oil-paper umbrella,
+parasol,
+partially submerged,
+pokemon (creature),
+puddle,
+rain,
+raincoat,
+rating:safe,
+red umbrella,
+ripples,
+rubber boots,
+shared umbrella,
+subreddit:imaginaryweather,
+subreddit:imnature,
+title:mood exploration by claire gary,
+transparent umbrella,
+umbrella,
+uploader:lol33ta,
+water,
+wet,
+yellow footwear,
+yellow headwear,
+yellow raincoat,

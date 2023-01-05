@@ -1,22 +1,22 @@
-artist name
-beach
-cloud
-cloudy sky
-horizon
-mountain
-ocean
-outdoors
-rating:safe
-sand
-scenery
-shore
-signature
-sky
-subreddit:imaginarywarships
-subreddit:imtechnology
-sunlight
-sunset
-title:hms repulse, gulf of aden, a night in november 1941, by richard cosby
-uploader:tsquare43
-water
-waves
+artist name,
+beach,
+cloud,
+cloudy sky,
+horizon,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+sand,
+scenery,
+shore,
+signature,
+sky,
+subreddit:imaginarywarships,
+subreddit:imtechnology,
+sunlight,
+sunset,
+title:hms repulse, gulf of aden, a night in november 1941, by richard cosby,
+uploader:tsquare43,
+water,
+waves,

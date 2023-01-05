@@ -1,21 +1,21 @@
-blacksmith
-book illustration
-creator:aleksa stajsic
-cute
-dwarf
-dwarf blacksmith
-fantasy
-medium:digital 2d
-robot
-small
-stylized
-subreddit:imaginaryaww
-subreddit:imaginaryclerics
-subreddit:imaginaryfeels
-subreddit:imaginaryhybrids
-subreddit:imcharacters
-subreddit:immeta
-subreddit:immonsters
-title:blacksmith, chef and robot
-title:blacksmith, chef and robot, aleksa stajsic
-uploader:al3ks4
+blacksmith,
+book illustration,
+creator:aleksa stajsic,
+cute,
+dwarf,
+dwarf blacksmith,
+fantasy,
+medium:digital 2d,
+robot,
+small,
+stylized,
+subreddit:imaginaryaww,
+subreddit:imaginaryclerics,
+subreddit:imaginaryfeels,
+subreddit:imaginaryhybrids,
+subreddit:imcharacters,
+subreddit:immeta,
+subreddit:immonsters,
+title:blacksmith, chef and robot,
+title:blacksmith, chef and robot, aleksa stajsic,
+uploader:al3ks4,

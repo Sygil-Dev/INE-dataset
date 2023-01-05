@@ -1,21 +1,21 @@
-1girl
-2boys
-blonde hair
-chair
-english text
-facial hair
-fine art parody
-indoors
-multiple boys
-nihonga
-old
-old man
-parody
-rating:safe
-retro artstyle
-shirt
-subreddit:imaginarygiants
-subreddit:imraces
-table
-title:illustration for the history of mother twaddle and the marvellous atchievements [sic] of her son jack (1807) by an unknown artist
-uploader:yannirotten
+1girl,
+2boys,
+blonde hair,
+chair,
+english text,
+facial hair,
+fine art parody,
+indoors,
+multiple boys,
+nihonga,
+old,
+old man,
+parody,
+rating:safe,
+retro artstyle,
+shirt,
+subreddit:imaginarygiants,
+subreddit:imraces,
+table,
+title:illustration for the history of mother twaddle and the marvellous atchievements [sic] of her son jack (1807) by an unknown artist,
+uploader:yannirotten,

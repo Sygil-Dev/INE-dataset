@@ -1,25 +1,25 @@
-anthro
-armor
-artist:gelangweiltertoaster
-clothed
-clothing
-creator:gelangweiltertoaster
-male
-meta:4:5
-meta:2021
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-rating:safe
-species:dragon
-species:spirit
-species:wingless dragon
-species:wingless_dragon
-standing
-subreddit:imaginarydragons
-subreddit:immonsters
-title:ghosts of the past (art by me)
-uploader:toasterteostra
-yellow eyes
-yellow_eyes
+anthro,
+armor,
+artist:gelangweiltertoaster,
+clothed,
+clothing,
+creator:gelangweiltertoaster,
+male,
+meta:4:5,
+meta:2021,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+rating:safe,
+species:dragon,
+species:spirit,
+species:wingless dragon,
+species:wingless_dragon,
+standing,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:ghosts of the past (art by me),
+uploader:toasterteostra,
+yellow eyes,
+yellow_eyes,

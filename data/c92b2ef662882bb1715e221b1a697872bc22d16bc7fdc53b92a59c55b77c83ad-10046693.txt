@@ -1,29 +1,29 @@
-beak
-character:kraken
-cloud
-cloudy sky
-creator:genzoman
-dark sky
-kraken
-monster
-no humans
-ocean
-rating:safe
-sail
-sea monster
-series:original
-ship
-signature
-sky
-storm
-subreddit:imaginaryleviathans
-subreddit:immonsters
-tentacle
-tentacles
-title:kraken
-title:kraken by gonzalo ordóñez arias (genzoman)
-uploader:lol33ta
-vehicle
-water
-watercraft
-waves
+beak,
+character:kraken,
+cloud,
+cloudy sky,
+creator:genzoman,
+dark sky,
+kraken,
+monster,
+no humans,
+ocean,
+rating:safe,
+sail,
+sea monster,
+series:original,
+ship,
+signature,
+sky,
+storm,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+tentacle,
+tentacles,
+title:kraken,
+title:kraken by gonzalo ordóñez arias (genzoman),
+uploader:lol33ta,
+vehicle,
+water,
+watercraft,
+waves,

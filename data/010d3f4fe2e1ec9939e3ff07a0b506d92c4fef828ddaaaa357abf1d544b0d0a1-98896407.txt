@@ -1,28 +1,28 @@
-breathing fire
-burning
-campfire
-embers
-explosion
-fiery hair
-fiery wings
-fire
-flame
-flaming sword
-flaming weapon
-male focus
-molten rock
-orange sky
-orange theme
-pyrokinesis
-rating:safe
-red sky
-red theme
-sky
-spiked hair
-subreddit:imaginaryvolcanoes
-sunset
-tail-tip fire
-title:underground volcano by sergio rebolledo
-torch
-uploader:[deleted]
-volcano
+breathing fire,
+burning,
+campfire,
+embers,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+male focus,
+molten rock,
+orange sky,
+orange theme,
+pyrokinesis,
+rating:safe,
+red sky,
+red theme,
+sky,
+spiked hair,
+subreddit:imaginaryvolcanoes,
+sunset,
+tail-tip fire,
+title:underground volcano by sergio rebolledo,
+torch,
+uploader:[deleted],
+volcano,

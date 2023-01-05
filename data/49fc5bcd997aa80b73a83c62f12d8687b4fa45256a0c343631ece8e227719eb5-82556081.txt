@@ -1,22 +1,22 @@
-2dart
-character design
-concept art
-cover art
-creator:aleksa stajsic
-fantasy
-fantasy illustration
-game art
-gandalf
-goblin
-illustration
-lotr
-mage
-medium:digital 2d
-subreddit:imaginaryclerics
-subreddit:imcharacters
-title:wizard
-title:wizard, aleksa stajsic
-tyler edlin
-uploader:al3ks4
-wizard
-wow
+2dart,
+character design,
+concept art,
+cover art,
+creator:aleksa stajsic,
+fantasy,
+fantasy illustration,
+game art,
+gandalf,
+goblin,
+illustration,
+lotr,
+mage,
+medium:digital 2d,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+title:wizard,
+title:wizard, aleksa stajsic,
+tyler edlin,
+uploader:al3ks4,
+wizard,
+wow,

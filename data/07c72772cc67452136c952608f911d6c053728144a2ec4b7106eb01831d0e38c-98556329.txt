@@ -1,20 +1,20 @@
-1girl
-dragon
-full moon
-gender:female
-glowing
-glowing eyes
-hat
-long hair
-moon
-night
-open mouth
-rating:safe
-subreddit:imaginaryundead
-subreddit:imaginarywitches
-teeth
-thighhighs
-title:the necromancer by livia prima
-title:the necromancer, livia prima
-uploader:iwasreallyshocked
-uploader:miciy5
+1girl,
+dragon,
+full moon,
+gender:female,
+glowing,
+glowing eyes,
+hat,
+long hair,
+moon,
+night,
+open mouth,
+rating:safe,
+subreddit:imaginaryundead,
+subreddit:imaginarywitches,
+teeth,
+thighhighs,
+title:the necromancer by livia prima,
+title:the necromancer, livia prima,
+uploader:iwasreallyshocked,
+uploader:miciy5,

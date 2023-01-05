@@ -1,33 +1,33 @@
-1girl
-above clouds
-angel
-angel wings
-bird
-cloud
-cloudy sky
-dusk
-evening
-feathered wings
-feathers
-fire
-flying
-gradient sky
-horizon
-large wings
-mountain
-orange sky
-outdoors
-outstretched arms
-rating:safe
-sky
-solo
-spread wings
-subreddit:imaginaryangels
-subreddit:imraces
-sun
-sunrise
-sunset
-title:angel of light by pawel kozera
-twilight
-uploader:lol33ta
-wings
+1girl,
+above clouds,
+angel,
+angel wings,
+bird,
+cloud,
+cloudy sky,
+dusk,
+evening,
+feathered wings,
+feathers,
+fire,
+flying,
+gradient sky,
+horizon,
+large wings,
+mountain,
+orange sky,
+outdoors,
+outstretched arms,
+rating:safe,
+sky,
+solo,
+spread wings,
+subreddit:imaginaryangels,
+subreddit:imraces,
+sun,
+sunrise,
+sunset,
+title:angel of light by pawel kozera,
+twilight,
+uploader:lol33ta,
+wings,

@@ -1,32 +1,32 @@
-artist name
-blonde hair
-character:link
-cloud
-cloudy sky
-dusk
-evening
-field
-fire
-grass
-hat
-master sword
-mountain
-mountainous horizon
-orange sky
-outdoors
-pointing
-rating:safe
-realistic
-shield
-signature
-sky
-subreddit:imaginarybehemoths
-sunset
-sword
-title:i’m sorry fin, ( by relajavo)
-tunic
-twilight
-uploader:supinelyuse
-watermark
-weapon
-web address
+artist name,
+blonde hair,
+character:link,
+cloud,
+cloudy sky,
+dusk,
+evening,
+field,
+fire,
+grass,
+hat,
+master sword,
+mountain,
+mountainous horizon,
+orange sky,
+outdoors,
+pointing,
+rating:safe,
+realistic,
+shield,
+signature,
+sky,
+subreddit:imaginarybehemoths,
+sunset,
+sword,
+title:i’m sorry fin, ( by relajavo),
+tunic,
+twilight,
+uploader:supinelyuse,
+watermark,
+weapon,
+web address,

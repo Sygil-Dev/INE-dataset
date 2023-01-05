@@ -1,29 +1,29 @@
-armor
-beard
-beer mug
-brick wall
-brown hair
-chair
-creator:willobrien
-cup
-drink
-facial hair
-furry
-holding cup
-horns
-long hair
-mug
-multiple boys
-rating:safe
-sitting
-subreddit:imaginarygatherings
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-subreddit:imcharacters
-table
-teacup
-teapot
-title:margreve tavern
-title:margreve tavern by will o'brien
-uploader:myrandall
-uploader:net-diver
+armor,
+beard,
+beer mug,
+brick wall,
+brown hair,
+chair,
+creator:willobrien,
+cup,
+drink,
+facial hair,
+furry,
+holding cup,
+horns,
+long hair,
+mug,
+multiple boys,
+rating:safe,
+sitting,
+subreddit:imaginarygatherings,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+subreddit:imcharacters,
+table,
+teacup,
+teapot,
+title:margreve tavern,
+title:margreve tavern by will o'brien,
+uploader:myrandall,
+uploader:net-diver,

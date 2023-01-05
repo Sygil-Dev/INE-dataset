@@ -1,29 +1,29 @@
-bat
-blood
-castle
-character:hunter (bloodborne)
-cloud
-coat
-copyright name
-crescent moon
-fog
-full moon
-hat
-moon
-moonlight
-night
-night sky
-ninja
-outdoors
-rating:safe
-red moon
-sky
-solo
-subreddit:imaginarydarksouls
-sun
-title:a foul beast by albert cordero
-tombstone
-tower
-tricorne
-uploader:royalupchuk
-weapon
+bat,
+blood,
+castle,
+character:hunter (bloodborne),
+cloud,
+coat,
+copyright name,
+crescent moon,
+fog,
+full moon,
+hat,
+moon,
+moonlight,
+night,
+night sky,
+ninja,
+outdoors,
+rating:safe,
+red moon,
+sky,
+solo,
+subreddit:imaginarydarksouls,
+sun,
+title:a foul beast by albert cordero,
+tombstone,
+tower,
+tricorne,
+uploader:royalupchuk,
+weapon,

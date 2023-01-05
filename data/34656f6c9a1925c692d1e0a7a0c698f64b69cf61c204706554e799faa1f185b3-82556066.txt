@@ -1,45 +1,45 @@
-1girl
-apron
-black dress
-black hair
-black headwear
-black-framed eyewear
-broom
-chandelier
-closed eyes
-closed mouth
-creator:ryota-h
-cup
-dancing
-dress
-eyes closed
-fork
-from side
-glasses
-holding
-holding wand
-indoors
-juliet sleeves
-knife
-long hair
-long sleeves
-magic
-maid
-maid apron
-meta:highres
-profile
-puffy sleeves
-rating:safe
-semi-rimless eyewear
-series:original
-smile
-solo
-subreddit:imaginarywitches
-teacup
-teapot
-telekinesis
-title:household magic [@ryota_h]
-under-rim eyewear
-uploader:alternatesalt
-wand
-witch
+1girl,
+apron,
+black dress,
+black hair,
+black headwear,
+black-framed eyewear,
+broom,
+chandelier,
+closed eyes,
+closed mouth,
+creator:ryota-h,
+cup,
+dancing,
+dress,
+eyes closed,
+fork,
+from side,
+glasses,
+holding,
+holding wand,
+indoors,
+juliet sleeves,
+knife,
+long hair,
+long sleeves,
+magic,
+maid,
+maid apron,
+meta:highres,
+profile,
+puffy sleeves,
+rating:safe,
+semi-rimless eyewear,
+series:original,
+smile,
+solo,
+subreddit:imaginarywitches,
+teacup,
+teapot,
+telekinesis,
+title:household magic [@ryota_h],
+under-rim eyewear,
+uploader:alternatesalt,
+wand,
+witch,

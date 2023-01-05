@@ -1,76 +1,76 @@
-4 toes
-4_toes
-alectorfencer
-ambiguous gender
-ambiguous_gender
-artist:alectorfencer
-black nose
-black_nose
-blue eyes
-blue_eyes
-blurred background
-blurred_background
-category:ine
-class:mammal
-claws
-creator:alectorfencer
-cub
-day
-feet
-feral
-filename:1585427531.alectorfencer_birthday2020
-fur
-gender:ambiguous
-good
-green
-green background
-green_background
-grey nose
-grey_nose
-inner ear fluff
-inner_ear_fluff
-leaf
-medium:green background
-medium:simple background
-meta:2020
-mood
-nature
-nature_wolf
-outside
-paws
-plant
-plantspirit
-plantwolf
-pup
-rating:general
-rating:safe
-simple background
-simple_background
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:mammal
-species:unspecified / any
-species:wolf
-spirit
-spring
-subreddit:imaginaryaww
-subreddit:imaginarybestof
-subreddit:immeta
-sunshine
-title:[/r/imaginaryaww] little leaf by alectorfencer
-title:little leaf
-title:little leaf by alectorfencer
-toes
-tuft
-uploader:lol33ta
-vibes
-white body
-white fur
-white_body
-white_fur
-wolf
-year:2020
-young
+4 toes,
+4_toes,
+alectorfencer,
+ambiguous gender,
+ambiguous_gender,
+artist:alectorfencer,
+black nose,
+black_nose,
+blue eyes,
+blue_eyes,
+blurred background,
+blurred_background,
+category:ine,
+class:mammal,
+claws,
+creator:alectorfencer,
+cub,
+day,
+feet,
+feral,
+filename:1585427531.alectorfencer_birthday2020,
+fur,
+gender:ambiguous,
+good,
+green,
+green background,
+green_background,
+grey nose,
+grey_nose,
+inner ear fluff,
+inner_ear_fluff,
+leaf,
+medium:green background,
+medium:simple background,
+meta:2020,
+mood,
+nature,
+nature_wolf,
+outside,
+paws,
+plant,
+plantspirit,
+plantwolf,
+pup,
+rating:general,
+rating:safe,
+simple background,
+simple_background,
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:unspecified / any,
+species:wolf,
+spirit,
+spring,
+subreddit:imaginaryaww,
+subreddit:imaginarybestof,
+subreddit:immeta,
+sunshine,
+title:[/r/imaginaryaww] little leaf by alectorfencer,
+title:little leaf,
+title:little leaf by alectorfencer,
+toes,
+tuft,
+uploader:lol33ta,
+vibes,
+white body,
+white fur,
+white_body,
+white_fur,
+wolf,
+year:2020,
+young,

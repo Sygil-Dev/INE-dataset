@@ -1,22 +1,22 @@
-blonde
-creator:indigo jenar
-golden
-greatsword
-knight
-mace
-medium:digital 2d
-paladin
-spear
-subreddit:imaginaryadrenaline
-subreddit:imaginaryknights
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:immeta
-sword
-title:the crypts
-title:the crypts (art by me)
-title:the crypts by indigo jenar
-undead
-uploader:blood-n-cheese
-uploader:magicredstar
-warrior
+blonde,
+creator:indigo jenar,
+golden,
+greatsword,
+knight,
+mace,
+medium:digital 2d,
+paladin,
+spear,
+subreddit:imaginaryadrenaline,
+subreddit:imaginaryknights,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:immeta,
+sword,
+title:the crypts,
+title:the crypts (art by me),
+title:the crypts by indigo jenar,
+undead,
+uploader:blood-n-cheese,
+uploader:magicredstar,
+warrior,

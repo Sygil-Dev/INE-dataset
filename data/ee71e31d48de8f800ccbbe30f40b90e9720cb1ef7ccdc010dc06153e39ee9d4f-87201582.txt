@@ -1,21 +1,21 @@
-alien
-art challenge
-astronaut
-conceptart
-creator:alexander "minze" thümler
-environment
-illustration
-interior
-medium:digital 2d
-mermaid
-mermay
-mermay2021
-rescue
-sci fi
-scifi
-spaceship
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-title:mermay 2021
-title:mermay 2021 by alexander thümler
-uploader:dragunmancer
+alien,
+art challenge,
+astronaut,
+conceptart,
+creator:alexander "minze" thümler,
+environment,
+illustration,
+interior,
+medium:digital 2d,
+mermaid,
+mermay,
+mermay2021,
+rescue,
+sci fi,
+scifi,
+spaceship,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+title:mermay 2021,
+title:mermay 2021 by alexander thümler,
+uploader:dragunmancer,

@@ -1,42 +1,42 @@
-1girl
-blue eyes
-booru:sankaku
-boots
-brown hair
-clothing
-creator:mossa
-creator:mossacannibalis
-eyeshadow
-female
-footwear
-full body
-hat
-head tilt
-headwear
-highres
-long sleeves
-looking at viewer
-makeup
-medium hair
-medium:5:4 aspect ratio
-medium:high resolution
-medium:simple background
-medium:white background
-meta:highres
-mossacannibalis
-parted lips
-rating:general
-rating:s
-series:original
-simple background
-smile
-smirk
-solo
-squatting
-subreddit:imaginaryfashion
-subreddit:immeta
-title:untitled by mossacannibalis
-two-tone pants
-uploader:musaibwadkar
-upturned eyes
-white background
+1girl,
+blue eyes,
+booru:sankaku,
+boots,
+brown hair,
+clothing,
+creator:mossa,
+creator:mossacannibalis,
+eyeshadow,
+female,
+footwear,
+full body,
+hat,
+head tilt,
+headwear,
+highres,
+long sleeves,
+looking at viewer,
+makeup,
+medium hair,
+medium:5:4 aspect ratio,
+medium:high resolution,
+medium:simple background,
+medium:white background,
+meta:highres,
+mossacannibalis,
+parted lips,
+rating:general,
+rating:s,
+series:original,
+simple background,
+smile,
+smirk,
+solo,
+squatting,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+title:untitled by mossacannibalis,
+two-tone pants,
+uploader:musaibwadkar,
+upturned eyes,
+white background,

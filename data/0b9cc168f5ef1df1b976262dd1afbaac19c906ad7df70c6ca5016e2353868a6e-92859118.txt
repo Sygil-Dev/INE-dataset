@@ -1,20 +1,20 @@
-cloud
-evening
-gradient sky
-horizon
-mountain
-orange sky
-outdoors
-rating:safe
-red sky
-red theme
-scenery
-sky
-subreddit:imaginaryseascapes
-subreddit:imlandscapes
-sun
-sunset
-title:zuex by khalifa hytham
-tree
-twilight
-uploader:lol33ta
+cloud,
+evening,
+gradient sky,
+horizon,
+mountain,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+red theme,
+scenery,
+sky,
+subreddit:imaginaryseascapes,
+subreddit:imlandscapes,
+sun,
+sunset,
+title:zuex by khalifa hytham,
+tree,
+twilight,
+uploader:lol33ta,

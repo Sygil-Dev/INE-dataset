@@ -1,20 +1,20 @@
-arch
-architecture
-blue sky
-bridge
-building
-city
-cityscape
-cloud
-cloudy sky
-day
-east asian architecture
-fantasy
-pillar
-rating:safe
-scenery
-sky
-subreddit:imaginarylandscapes
-title:king of the mountain palace, erik shoemaker
-tower
-uploader:lonelyzo
+arch,
+architecture,
+blue sky,
+bridge,
+building,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+east asian architecture,
+fantasy,
+pillar,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarylandscapes,
+title:king of the mountain palace, erik shoemaker,
+tower,
+uploader:lonelyzo,

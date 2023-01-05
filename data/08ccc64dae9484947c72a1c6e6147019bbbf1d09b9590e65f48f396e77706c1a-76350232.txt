@@ -1,20 +1,20 @@
-bottle
-box
-food
-fruit
-frying pan
-jar
-kettle
-kitchen
-knife
-no humans
-plant
-rating:safe
-scenery
-shelf
-stove
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-table
-title:inside a coffee kitchen car by tenkichi1212
-uploader:justonceokay5
+bottle,
+box,
+food,
+fruit,
+frying pan,
+jar,
+kettle,
+kitchen,
+knife,
+no humans,
+plant,
+rating:safe,
+scenery,
+shelf,
+stove,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+table,
+title:inside a coffee kitchen car by tenkichi1212,
+uploader:justonceokay5,

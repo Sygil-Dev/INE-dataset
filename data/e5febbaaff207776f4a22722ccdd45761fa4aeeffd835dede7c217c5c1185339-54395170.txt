@@ -1,35 +1,35 @@
-bridge
-creator:ik07
-creator:toichi (ik07)
-creator:⑪
-day
-falling leaves
-fish
-hatate:tagged
-lantern
-leaf
-mountain
-no humans
-outdoors
-pond
-railing
-rating:safe
-scenery
-series:original
-shrine
-subreddit:imaginarytemples
-subreddit:imarchitecture
-title:r55g10b35
-title:shinto shrine by ⑪
-torii
-tree
-uploader:zewen_senpai
-ここに行きたい
-ふつくしい
-オリジナル10000users入り
-和風
-映り込み
-極彩色の魔術師
-神社
-背景
-風景10000users入り
+bridge,
+creator:ik07,
+creator:toichi (ik07),
+creator:⑪,
+day,
+falling leaves,
+fish,
+hatate:tagged,
+lantern,
+leaf,
+mountain,
+no humans,
+outdoors,
+pond,
+railing,
+rating:safe,
+scenery,
+series:original,
+shrine,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+title:r55g10b35,
+title:shinto shrine by ⑪,
+torii,
+tree,
+uploader:zewen_senpai,
+ここに行きたい,
+ふつくしい,
+オリジナル10000users入り,
+和風,
+映り込み,
+極彩色の魔術師,
+神社,
+背景,
+風景10000users入り,

@@ -1,38 +1,38 @@
-autumn
-autumn leaves
-bare tree
-blue sky
-branch
-breathing fire
-burning
-campfire
-cloud
-day
-explosion
-falling leaves
-fire
-flame
-forest
-gradient sky
-holding leaf
-leaf
-maple leaf
-molten rock
-mountain
-mountainous horizon
-nature
-no humans
-orange flower
-orange sky
-orange theme
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryautumnscapes
-subreddit:imaginarymountains
-sunset
-title:mt.pisgah-pisgah view ranch by brotherwayword/george terry
-traditional media
-tree
-uploader:chalkchick0
+autumn,
+autumn leaves,
+bare tree,
+blue sky,
+branch,
+breathing fire,
+burning,
+campfire,
+cloud,
+day,
+explosion,
+falling leaves,
+fire,
+flame,
+forest,
+gradient sky,
+holding leaf,
+leaf,
+maple leaf,
+molten rock,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+orange flower,
+orange sky,
+orange theme,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryautumnscapes,
+subreddit:imaginarymountains,
+sunset,
+title:mt.pisgah-pisgah view ranch by brotherwayword/george terry,
+traditional media,
+tree,
+uploader:chalkchick0,

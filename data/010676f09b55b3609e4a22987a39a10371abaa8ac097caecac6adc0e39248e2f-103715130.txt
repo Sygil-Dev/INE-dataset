@@ -1,20 +1,20 @@
-blue sky
-cloud
-day
-earth (planet)
-horizon
-no humans
-ocean
-outdoors
-planet
-rating:safe
-ship
-sky
-subreddit:imaginaryfuturism
-subreddit:imaginarystarships
-title:ice tanker by eric geusz
-title:ice tanker by eric geusz.
-traditional media
-uploader:[deleted]
-uploader:lol33ta
-watercraft
+blue sky,
+cloud,
+day,
+earth (planet),
+horizon,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+ship,
+sky,
+subreddit:imaginaryfuturism,
+subreddit:imaginarystarships,
+title:ice tanker by eric geusz,
+title:ice tanker by eric geusz.,
+traditional media,
+uploader:[deleted],
+uploader:lol33ta,
+watercraft,

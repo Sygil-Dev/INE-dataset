@@ -1,57 +1,57 @@
-1girl
-aerial fireworks
-alien
-astronaut
-aurora
-campfire
-character:ultimate madoka
-city lights
-constellation
-crescent moon
-desert
-dusk
-dust
-earth (planet)
-embers
-fire
-fireflies
-fireworks
-full moon
-galaxy
-giant
-glowing
-gradient sky
-light
-light particles
-milky way
-moon
-moonlight
-night
-night sky
-planet
-rating:safe
-science fiction
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-space
-space craft
-space helmet
-spacesuit
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarydemons
-subreddit:immonsters
-tanabata
-tanzaku
-telescope
-title:glairfingailt demon by daniel vega
-twilight
-uploader:misanthropy3000
+1girl,
+aerial fireworks,
+alien,
+astronaut,
+aurora,
+campfire,
+character:ultimate madoka,
+city lights,
+constellation,
+crescent moon,
+desert,
+dusk,
+dust,
+earth (planet),
+embers,
+fire,
+fireflies,
+fireworks,
+full moon,
+galaxy,
+giant,
+glowing,
+gradient sky,
+light,
+light particles,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+planet,
+rating:safe,
+science fiction,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+space,
+space craft,
+space helmet,
+spacesuit,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+tanabata,
+tanzaku,
+telescope,
+title:glairfingailt demon by daniel vega,
+twilight,
+uploader:misanthropy3000,

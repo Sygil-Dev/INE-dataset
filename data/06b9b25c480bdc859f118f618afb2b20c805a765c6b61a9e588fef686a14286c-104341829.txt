@@ -1,26 +1,26 @@
-1girl
-arms at sides
-black eyes
-black hair
-cowboy shot
-holding
-holding sword
-holding weapon
-katana
-long hair
-looking at viewer
-monochrome
-necktie
-pleated skirt
-rating:safe
-sheath
-sheathed
-skirt
-solo
-spot color
-standing
-subreddit:imaginarycybernetics
-sword
-title:g1 by rodrigo balmaceda
-uploader:musaibwadkar
-weapon
+1girl,
+arms at sides,
+black eyes,
+black hair,
+cowboy shot,
+holding,
+holding sword,
+holding weapon,
+katana,
+long hair,
+looking at viewer,
+monochrome,
+necktie,
+pleated skirt,
+rating:safe,
+sheath,
+sheathed,
+skirt,
+solo,
+spot color,
+standing,
+subreddit:imaginarycybernetics,
+sword,
+title:g1 by rodrigo balmaceda,
+uploader:musaibwadkar,
+weapon,

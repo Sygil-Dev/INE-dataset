@@ -1,50 +1,50 @@
-1girl
-bare arms
-beanie
-black hair
-blurry
-blurry background
-character:dawn (pokemon)
-character:luxray
-creator:hari611
-eyelashes
-film grain
-floating hair
-floating scarf
-gen 4 pokemon
-grey eyes
-hair ornament
-hairclip
-hat
-lens flare
-long hair
-looking to the side
-meta:commentary request
-meta:highres
-open mouth
-outdoors
-pink skirt
-poke ball print
-poke ball symbol
-pokemon (creature)
-rating:safe
-red scarf
-scarf
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon dppt
-shirt
-signature
-skirt
-sleeveless
-sleeveless shirt
-standing
-subreddit:imaginarykanto
-subreddit:imfandoms
-tied hair
-title:dawn and luxray by @_ha_ri_
-uploader:pardusco
-white headwear
+1girl,
+bare arms,
+beanie,
+black hair,
+blurry,
+blurry background,
+character:dawn (pokemon),
+character:luxray,
+creator:hari611,
+eyelashes,
+film grain,
+floating hair,
+floating scarf,
+gen 4 pokemon,
+grey eyes,
+hair ornament,
+hairclip,
+hat,
+lens flare,
+long hair,
+looking to the side,
+meta:commentary request,
+meta:highres,
+open mouth,
+outdoors,
+pink skirt,
+poke ball print,
+poke ball symbol,
+pokemon (creature),
+rating:safe,
+red scarf,
+scarf,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon dppt,
+shirt,
+signature,
+skirt,
+sleeveless,
+sleeveless shirt,
+standing,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tied hair,
+title:dawn and luxray by @_ha_ri_,
+uploader:pardusco,
+white headwear,

@@ -1,23 +1,23 @@
-1girl
-blue dress
-braid
-capelet
-dark skin
-dark-skinned female
-earrings
-fur
-fur collar
-fur trim
-ice
-jewelry
-letterboxed
-long hair
-outstretched arm
-outstretched hand
-pillarboxed
-rating:safe
-snow
-solo
-subreddit:wholesomefantasyart
-title:katara by caro oliveira
-uploader:justonceokay5
+1girl,
+blue dress,
+braid,
+capelet,
+dark skin,
+dark-skinned female,
+earrings,
+fur,
+fur collar,
+fur trim,
+ice,
+jewelry,
+letterboxed,
+long hair,
+outstretched arm,
+outstretched hand,
+pillarboxed,
+rating:safe,
+snow,
+solo,
+subreddit:wholesomefantasyart,
+title:katara by caro oliveira,
+uploader:justonceokay5,

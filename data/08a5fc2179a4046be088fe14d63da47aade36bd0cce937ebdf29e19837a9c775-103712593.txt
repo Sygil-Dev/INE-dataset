@@ -1,26 +1,26 @@
-bush
-cloud
-cloudy sky
-creator:piotrdura
-environment
-forest
-grass
-horizon
-landscape
-mountain
-nature
-no humans
-outdoors
-path
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarycanyons
-subreddit:imaginaryrivers
-sunset
-title:west fork trail
-title:west fork trail by piotr dura
-tree
-uploader:malign-god
-water
+bush,
+cloud,
+cloudy sky,
+creator:piotrdura,
+environment,
+forest,
+grass,
+horizon,
+landscape,
+mountain,
+nature,
+no humans,
+outdoors,
+path,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarycanyons,
+subreddit:imaginaryrivers,
+sunset,
+title:west fork trail,
+title:west fork trail by piotr dura,
+tree,
+uploader:malign-god,
+water,

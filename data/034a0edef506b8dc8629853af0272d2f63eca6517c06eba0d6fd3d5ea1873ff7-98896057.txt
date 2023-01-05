@@ -1,29 +1,29 @@
-abs
-armor
-bleeding
-blood
-blood from mouth
-blood on clothes
-blood on face
-blood on hands
-blood on weapon
-blood splatter
-blood stain
-cuts
-death
-fake horns
-glowing
-glowing eyes
-helmet
-horns
-injury
-male focus
-multiple boys
-muscular
-nosebleed
-rating:safe
-scratches
-subreddit:imaginarywarhammer
-title:fargus, the imperial fists daemon prince
-uploader:artistpotorochin
-white background
+abs,
+armor,
+bleeding,
+blood,
+blood from mouth,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on weapon,
+blood splatter,
+blood stain,
+cuts,
+death,
+fake horns,
+glowing,
+glowing eyes,
+helmet,
+horns,
+injury,
+male focus,
+multiple boys,
+muscular,
+nosebleed,
+rating:safe,
+scratches,
+subreddit:imaginarywarhammer,
+title:fargus, the imperial fists daemon prince,
+uploader:artistpotorochin,
+white background,

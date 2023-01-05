@@ -1,52 +1,52 @@
-anthro
-anthropomorphism
-booru:e621
-bubblewolf
-claws
-clothed
-clothing
-clothing:eyewear
-clothing:necktie
-creator:bubblewolf
-digital
-duo
-ear piercing
-eyewear
-facial piercing
-filename:1510421743.bubblewolf_bubblewolf_i_have_forty_three_upload
-flower
-gender:male
-glasses
-jewelry
-male
-meta:url
-necktie
-paper
-pen
-piercing
-plant
-rating:general
-rating:safe
-ring
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:felid
-species:feline
-species:jaguar
-species:mammal
-species:pantherine
-species:unspecified / any
-species:wolf
-subreddit:imaginaryhybrids
-subreddit:immonsters
-suit
-teeth
-text
-title:i have forty three
-title:i have forty three by bubblewolf
-uploader:killerbunnyfamily
-whiskers
-wolf
-writing (disambiguation)
+anthro,
+anthropomorphism,
+booru:e621,
+bubblewolf,
+claws,
+clothed,
+clothing,
+clothing:eyewear,
+clothing:necktie,
+creator:bubblewolf,
+digital,
+duo,
+ear piercing,
+eyewear,
+facial piercing,
+filename:1510421743.bubblewolf_bubblewolf_i_have_forty_three_upload,
+flower,
+gender:male,
+glasses,
+jewelry,
+male,
+meta:url,
+necktie,
+paper,
+pen,
+piercing,
+plant,
+rating:general,
+rating:safe,
+ring,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:felid,
+species:feline,
+species:jaguar,
+species:mammal,
+species:pantherine,
+species:unspecified / any,
+species:wolf,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+suit,
+teeth,
+text,
+title:i have forty three,
+title:i have forty three by bubblewolf,
+uploader:killerbunnyfamily,
+whiskers,
+wolf,
+writing (disambiguation),

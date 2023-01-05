@@ -1,20 +1,20 @@
-booru:yande.re
-creator:ukai saki
-creator:ukaisaki
-creator:鵜飼沙樹
-dress
-rating:questionable
-rating:safe
-subreddit:imaginaryfeels
-subreddit:immeta
-summer dress
-tagme
-title:lunar qualia by ukaisaki
-title:月面のクオリア
-uploader:musaibwadkar
-いぶそう
-オーバーラップ文庫
-小説家になろう
-小説家になろう10000users入り
-彼と彼女
-異世界迷宮の最深部を目指そう
+booru:yande.re,
+creator:ukai saki,
+creator:ukaisaki,
+creator:鵜飼沙樹,
+dress,
+rating:questionable,
+rating:safe,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+summer dress,
+tagme,
+title:lunar qualia by ukaisaki,
+title:月面のクオリア,
+uploader:musaibwadkar,
+いぶそう,
+オーバーラップ文庫,
+小説家になろう,
+小説家になろう10000users入り,
+彼と彼女,
+異世界迷宮の最深部を目指そう,

@@ -1,27 +1,27 @@
-anthro
-anthropomorphism
-blue eyes
-booru:e621
-chain
-creator:shalinka
-fur
-gender:male
-guro
-looking at viewer
-nude
-point of view
-pov
-rating:explicit
-rating:mature
-rating:safe
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-standing
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:fenrir [by shalinka]
-uploader:skooma-boi
+anthro,
+anthropomorphism,
+blue eyes,
+booru:e621,
+chain,
+creator:shalinka,
+fur,
+gender:male,
+guro,
+looking at viewer,
+nude,
+point of view,
+pov,
+rating:explicit,
+rating:mature,
+rating:safe,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+standing,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:fenrir [by shalinka],
+uploader:skooma-boi,

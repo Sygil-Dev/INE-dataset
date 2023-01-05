@@ -1,58 +1,58 @@
-2boys
-awkward
-baking
-black eyes
-black hair
-blue eyes
-booru:sankaku channel
-character:raiden (metal gear)
-character:steven armstrong
-chef
-chef hat
-chef uniform
-confused
-cooking
-creator:raiden
-creator:subakeye
-cyborg
-egg
-english text
-eyepatch
-grey hair
-hat
-make america great again
-male
-male focus
-medium:english
-medium:english text
-medium:high resolution
-medium:parody
-medium:text
-medium:very high resolution
-meme
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-metalgearrising
-multiple boys
-muscle
-muscular
-omelet
-parody
-pun
-rating:general
-rating:safe
-series:metal gear (series)
-series:metal gear rising: revengeance
-shirt
-short hair
-silver hair
-subakeye
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:making the mother of all omelettes by subakeye
-toned
-toned male
-uploader:3dsmaster7173
-white hair
+2boys,
+awkward,
+baking,
+black eyes,
+black hair,
+blue eyes,
+booru:sankaku channel,
+character:raiden (metal gear),
+character:steven armstrong,
+chef,
+chef hat,
+chef uniform,
+confused,
+cooking,
+creator:raiden,
+creator:subakeye,
+cyborg,
+egg,
+english text,
+eyepatch,
+grey hair,
+hat,
+make america great again,
+male,
+male focus,
+medium:english,
+medium:english text,
+medium:high resolution,
+medium:parody,
+medium:text,
+medium:very high resolution,
+meme,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+metalgearrising,
+multiple boys,
+muscle,
+muscular,
+omelet,
+parody,
+pun,
+rating:general,
+rating:safe,
+series:metal gear (series),
+series:metal gear rising: revengeance,
+shirt,
+short hair,
+silver hair,
+subakeye,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:making the mother of all omelettes by subakeye,
+toned,
+toned male,
+uploader:3dsmaster7173,
+white hair,

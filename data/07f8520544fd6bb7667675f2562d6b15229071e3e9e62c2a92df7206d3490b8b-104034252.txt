@@ -1,81 +1,81 @@
-1girl
-above clouds
-aerial fireworks
-astronaut
-aurora
-balcony
-beach
-blue sky
-boat
-campfire
-christmas lights
-city
-city lights
-cityscape
-cloud
-constellation
-crescent moon
-desert
-earth (planet)
-fireflies
-fireworks
-fish
-fisheye
-fountain
-full moon
-galaxy
-globe
-gradient sky
-hill
-horizon
-island
-lake
-light
-light particles
-lighthouse
-long hair
-milky way
-moon
-moonlight
-night
-night sky
-ocean
-onsen
-partially underwater shot
-planet
-pool
-poolside
-rating:safe
-reindeer
-rocket
-scenery
-shooting star
-shore
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-space
-space craft
-space helmet
-spacesuit
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarystarscapes
-sunrise
-tanabata
-tanzaku
-telescope
-title:over the icy moon by josef bartoň
-twilight
-ufo
-uploader:lol33ta
-water
-whale
-window
-winter
+1girl,
+above clouds,
+aerial fireworks,
+astronaut,
+aurora,
+balcony,
+beach,
+blue sky,
+boat,
+campfire,
+christmas lights,
+city,
+city lights,
+cityscape,
+cloud,
+constellation,
+crescent moon,
+desert,
+earth (planet),
+fireflies,
+fireworks,
+fish,
+fisheye,
+fountain,
+full moon,
+galaxy,
+globe,
+gradient sky,
+hill,
+horizon,
+island,
+lake,
+light,
+light particles,
+lighthouse,
+long hair,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+ocean,
+onsen,
+partially underwater shot,
+planet,
+pool,
+poolside,
+rating:safe,
+reindeer,
+rocket,
+scenery,
+shooting star,
+shore,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+space,
+space craft,
+space helmet,
+spacesuit,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarystarscapes,
+sunrise,
+tanabata,
+tanzaku,
+telescope,
+title:over the icy moon by josef bartoň,
+twilight,
+ufo,
+uploader:lol33ta,
+water,
+whale,
+window,
+winter,

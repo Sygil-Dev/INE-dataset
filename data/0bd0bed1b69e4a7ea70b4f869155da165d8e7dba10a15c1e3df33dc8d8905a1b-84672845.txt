@@ -1,40 +1,40 @@
-1boy
-armor
-blue eyes
-boots
-campfire
-character:link
-cloud
-creator:yioshka
-day
-digitalart
-fanart
-fire
-gameart
-grass
-leaf
-long hair
-male focus
-mountain
-nature
-outdoors
-planted
-planted sword
-pointy ears
-rating:safe
-shadowlands
-sitting
-sky
-solo
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-sword
-title:shadowlands
-title:shadowlands by yioshka
-tree
-uploader:lol33ta
-warcraft
-weapon
-wow
-yioshka
-yioshkaart
+1boy,
+armor,
+blue eyes,
+boots,
+campfire,
+character:link,
+cloud,
+creator:yioshka,
+day,
+digitalart,
+fanart,
+fire,
+gameart,
+grass,
+leaf,
+long hair,
+male focus,
+mountain,
+nature,
+outdoors,
+planted,
+planted sword,
+pointy ears,
+rating:safe,
+shadowlands,
+sitting,
+sky,
+solo,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+sword,
+title:shadowlands,
+title:shadowlands by yioshka,
+tree,
+uploader:lol33ta,
+warcraft,
+weapon,
+wow,
+yioshka,
+yioshkaart,

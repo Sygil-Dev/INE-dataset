@@ -1,39 +1,39 @@
-autocannon
-cannon
-character:atlas (battletech)
-clenched hands
-creator:anthony scroggins (shimmering sword)
-damaged
-dated
-dirty
-energy cannon
-firearm
-genre:science fiction
-glowing
-glowing eyes
-grin
-mecha
-meta:commentary
-meta:commission
-missile
-painting
-rating:mature
-rating:safe
-realistic
-red
-rocket launcher
-scratches
-series:battletech
-shadow
-signature
-skull
-smile
-solo
-subreddit:imaginarymechs
-subreddit:imtechnology
-theb33f
-title:b33f's atlas by shimmering-sword
-uploader:lol33ta
-weapon
-white
-year:2014
+autocannon,
+cannon,
+character:atlas (battletech),
+clenched hands,
+creator:anthony scroggins (shimmering sword),
+damaged,
+dated,
+dirty,
+energy cannon,
+firearm,
+genre:science fiction,
+glowing,
+glowing eyes,
+grin,
+mecha,
+meta:commentary,
+meta:commission,
+missile,
+painting,
+rating:mature,
+rating:safe,
+realistic,
+red,
+rocket launcher,
+scratches,
+series:battletech,
+shadow,
+signature,
+skull,
+smile,
+solo,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+theb33f,
+title:b33f's atlas by shimmering-sword,
+uploader:lol33ta,
+weapon,
+white,
+year:2014,

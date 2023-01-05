@@ -1,37 +1,37 @@
-1girl
-architecture
-bird
-bridge
-building
-car
-chain-link fence
-city
-city lights
-cityscape
-cloud
-cloudy sky
-crane (machine)
-ferris wheel
-long hair
-neon lights
-outdoors
-pagoda
-post-apocalypse
-rating:safe
-reflection
-river
-rooftop
-ruins
-scenery
-sky
-skyline
-skyscraper
-street
-subreddit:imaginaryfuturism
-sunset
-title:sagittarian empire, by evan rhodes
-tokyo (city)
-tower
-twilight
-uploader:hadrian_marlow
-water
+1girl,
+architecture,
+bird,
+bridge,
+building,
+car,
+chain-link fence,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+crane (machine),
+ferris wheel,
+long hair,
+neon lights,
+outdoors,
+pagoda,
+post-apocalypse,
+rating:safe,
+reflection,
+river,
+rooftop,
+ruins,
+scenery,
+sky,
+skyline,
+skyscraper,
+street,
+subreddit:imaginaryfuturism,
+sunset,
+title:sagittarian empire, by evan rhodes,
+tokyo (city),
+tower,
+twilight,
+uploader:hadrian_marlow,
+water,

@@ -1,20 +1,20 @@
-1boy
-ascot
-black hair
-blue butterfly
-book
-bug
-butterfly
-chair
-crystal
-earrings
-indoors
-jewelry
-magic
-male focus
-quill
-rating:safe
-sitting
-subreddit:imaginaryfeels
-title:hold for questioning by sam perin
-uploader:lol33ta
+1boy,
+ascot,
+black hair,
+blue butterfly,
+book,
+bug,
+butterfly,
+chair,
+crystal,
+earrings,
+indoors,
+jewelry,
+magic,
+male focus,
+quill,
+rating:safe,
+sitting,
+subreddit:imaginaryfeels,
+title:hold for questioning by sam perin,
+uploader:lol33ta,

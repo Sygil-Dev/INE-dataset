@@ -1,71 +1,71 @@
-5 fingers
-anthro
-anthropomorphism
-black claws
-black lips
-black nails
-black nose
-brown body
-brown fur
-bubblewolf
-cheek tuft
-claws
-clothing
-colored nails
-creator:bubblewolf
-detailed background
-digit ring
-digital
-digitigrade
-facial tuft
-filename:1627495858.bubblewolf_bubblewolf_roses_wander_upload
-fingers
-fur
-furgonomics
-hat
-headgear
-headwear
-holding object
-holding suitcase
-jewelry
-lips
-looking aside
-male
-meta:artist name
-meta:english text
-meta:hi res
-nails
-neck tuft
-rating:general
-rating:safe
-ring
-sculpture
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-stairs
-statue
-subreddit:imaginaryhybrids
-subreddit:imaginarymen
-subreddit:imaginarywerewolves
-subreddit:immonsters
-suit
-suitcase
-text
-title:rose's wander
-title:rose's wander by bubblewolf
-toe ring
-top hat
-topwear
-tuft
-uploader:killerbunnyfamily
-vest
-walking
-whiskers
-white body
-white fur
-wolf
+5 fingers,
+anthro,
+anthropomorphism,
+black claws,
+black lips,
+black nails,
+black nose,
+brown body,
+brown fur,
+bubblewolf,
+cheek tuft,
+claws,
+clothing,
+colored nails,
+creator:bubblewolf,
+detailed background,
+digit ring,
+digital,
+digitigrade,
+facial tuft,
+filename:1627495858.bubblewolf_bubblewolf_roses_wander_upload,
+fingers,
+fur,
+furgonomics,
+hat,
+headgear,
+headwear,
+holding object,
+holding suitcase,
+jewelry,
+lips,
+looking aside,
+male,
+meta:artist name,
+meta:english text,
+meta:hi res,
+nails,
+neck tuft,
+rating:general,
+rating:safe,
+ring,
+sculpture,
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+stairs,
+statue,
+subreddit:imaginaryhybrids,
+subreddit:imaginarymen,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+suit,
+suitcase,
+text,
+title:rose's wander,
+title:rose's wander by bubblewolf,
+toe ring,
+top hat,
+topwear,
+tuft,
+uploader:killerbunnyfamily,
+vest,
+walking,
+whiskers,
+white body,
+white fur,
+wolf,

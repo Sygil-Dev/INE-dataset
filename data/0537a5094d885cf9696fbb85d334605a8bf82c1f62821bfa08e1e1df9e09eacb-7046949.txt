@@ -1,32 +1,32 @@
-animal
-art:classical fine art
-blood
-blood on weapon
-board:/pol/
-board:/tg/
-character art
-creator:ulpiano fernanded-checa y saiz
-creator:ulpiano fernández-checa y saiz
-filename:horseman of the apocalypse
-fine art
-holding
-holding weapon
-hydrus invalid tag:"board: /pol/"
-medium:image
-medium:jpg
-medium:traditional media
-meta:character request
-monster
-rating:safe
-realistic
-series:classic art
-signature
-site:4chan.org
-subreddit:imaginarymythology
-sword
-title:horseman of the apocalypse
-title:horseman of the apocalypse, by ulpiano checa (ca 1900)
-type:unfunny filename thread
-uploader:kollapse1
-weapon
-website:chan style imageboards
+animal,
+art:classical fine art,
+blood,
+blood on weapon,
+board:/pol/,
+board:/tg/,
+character art,
+creator:ulpiano fernanded-checa y saiz,
+creator:ulpiano fernández-checa y saiz,
+filename:horseman of the apocalypse,
+fine art,
+holding,
+holding weapon,
+hydrus invalid tag:"board: /pol/",
+medium:image,
+medium:jpg,
+medium:traditional media,
+meta:character request,
+monster,
+rating:safe,
+realistic,
+series:classic art,
+signature,
+site:4chan.org,
+subreddit:imaginarymythology,
+sword,
+title:horseman of the apocalypse,
+title:horseman of the apocalypse, by ulpiano checa (ca 1900),
+type:unfunny filename thread,
+uploader:kollapse1,
+weapon,
+website:chan style imageboards,

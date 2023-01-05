@@ -1,50 +1,50 @@
-1girl
-ahoge
-astronaut
-bangs
-boots
-brown eyes
-cloud
-creator:ddal
-creator:ddal84
-floating
-flower
-gender:female
-gloves
-grey hair
-gun
-hair between eyes
-holding
-looking away
-medium:2d art
-meta:absurdres
-meta:commentary request
-meta:highres
-parted lips
-pixiv id:267137
-pixiv work:93366981
-rating:safe
-rating:sensitive
-red flower
-red rose
-rose
-series:original
-shoe soles
-solo
-space
-space helmet
-spacesuit
-star (sky)
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-tetracube
-title:tetracube î± - æ09 by ddal
-title:tetracube α - 希望09
-title:tetracube α - 希望09 by ddal
-uploader:inkelect
-uploader:musaibwadkar
-white footwear
-white gloves
-オリジナル1000users入り
-バブルヘルメット
-宇宙服
+1girl,
+ahoge,
+astronaut,
+bangs,
+boots,
+brown eyes,
+cloud,
+creator:ddal,
+creator:ddal84,
+floating,
+flower,
+gender:female,
+gloves,
+grey hair,
+gun,
+hair between eyes,
+holding,
+looking away,
+medium:2d art,
+meta:absurdres,
+meta:commentary request,
+meta:highres,
+parted lips,
+pixiv id:267137,
+pixiv work:93366981,
+rating:safe,
+rating:sensitive,
+red flower,
+red rose,
+rose,
+series:original,
+shoe soles,
+solo,
+space,
+space helmet,
+spacesuit,
+star (sky),
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+tetracube,
+title:tetracube î± - æ09 by ddal,
+title:tetracube α - 希望09,
+title:tetracube α - 希望09 by ddal,
+uploader:inkelect,
+uploader:musaibwadkar,
+white footwear,
+white gloves,
+オリジナル1000users入り,
+バブルヘルメット,
+宇宙服,

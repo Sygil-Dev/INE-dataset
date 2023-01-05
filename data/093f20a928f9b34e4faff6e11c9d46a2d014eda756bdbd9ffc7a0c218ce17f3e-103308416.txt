@@ -1,34 +1,34 @@
-1girl
-::q
-animal
-animal ear fluff
-animal ears
-breasts
-bunny
-cat
-character:kyubey
-cleavage
-creature
-dog
-fox
-fox ears
-fox girl
-fox tail
-japanese clothes
-kitsune
-kyuubi
-long hair
-multiple tails
-rating:safe
-sitting
-solo
-subreddit:imaginarycharacters
-tail
-title:false god
-tongue
-tongue out
-uploader:robustaart
-whiskers
-white cat
-white hair
-wolf
+1girl,
+::q,
+animal,
+animal ear fluff,
+animal ears,
+breasts,
+bunny,
+cat,
+character:kyubey,
+cleavage,
+creature,
+dog,
+fox,
+fox ears,
+fox girl,
+fox tail,
+japanese clothes,
+kitsune,
+kyuubi,
+long hair,
+multiple tails,
+rating:safe,
+sitting,
+solo,
+subreddit:imaginarycharacters,
+tail,
+title:false god,
+tongue,
+tongue out,
+uploader:robustaart,
+whiskers,
+white cat,
+white hair,
+wolf,

@@ -1,42 +1,42 @@
-1girl
-@ @
-bangs
-blunt bangs
-braid
-character:makima (chainsaw man)
-closed mouth
-coat
-collared shirt
-creator:edpan
-doberman
-dog
-edpan
-english commentary
-limited palette
-long hair
-looking at viewer
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-necktie
-open clothes
-open coat
-pants
-rating:adult
-rating:safe
-rating:sensitive
-red theme
-ringed eyes
-series:chainsaw man
-shirt
-smile
-solo
-standing
-subreddit:imaginarypets
-subreddit:immeta
-title:"a corpse is talking" by ed panopio
-uploader:musaibwadkar
-white shirt
-wing collar
-yellow eyes
+1girl,
+@ @,
+bangs,
+blunt bangs,
+braid,
+character:makima (chainsaw man),
+closed mouth,
+coat,
+collared shirt,
+creator:edpan,
+doberman,
+dog,
+edpan,
+english commentary,
+limited palette,
+long hair,
+looking at viewer,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+necktie,
+open clothes,
+open coat,
+pants,
+rating:adult,
+rating:safe,
+rating:sensitive,
+red theme,
+ringed eyes,
+series:chainsaw man,
+shirt,
+smile,
+solo,
+standing,
+subreddit:imaginarypets,
+subreddit:immeta,
+title:"a corpse is talking" by ed panopio,
+uploader:musaibwadkar,
+white shirt,
+wing collar,
+yellow eyes,

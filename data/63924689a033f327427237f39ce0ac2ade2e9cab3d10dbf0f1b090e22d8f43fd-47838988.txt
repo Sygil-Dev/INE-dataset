@@ -1,41 +1,41 @@
-::d
-character:gardevoir
-character:ralts
-cloud
-creator:kakuzatou (boxxxsugar)
-day
-face::d
-flower
-from below
-gen 3 pokemon
-gen 3 pokémon
-meta:commentary request
-no humans
-open mouth
-outdoors
-outside
-outstretched arms
-petals
-pink eyes
-pokemon (creature)
-rating:safe
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokémon
-size difference
-sky
-smile
-source type:game
-sparkle
-species:gardevoir
-species:pokémon
-species:ralts
-studio:creatures (company)
-studio:game freak
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:frolicking in a field by niwa
-tongue
-uploader:hornyheracross
+::d,
+character:gardevoir,
+character:ralts,
+cloud,
+creator:kakuzatou (boxxxsugar),
+day,
+face::d,
+flower,
+from below,
+gen 3 pokemon,
+gen 3 pokémon,
+meta:commentary request,
+no humans,
+open mouth,
+outdoors,
+outside,
+outstretched arms,
+petals,
+pink eyes,
+pokemon (creature),
+rating:safe,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+size difference,
+sky,
+smile,
+source type:game,
+sparkle,
+species:gardevoir,
+species:pokémon,
+species:ralts,
+studio:creatures (company),
+studio:game freak,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:frolicking in a field by niwa,
+tongue,
+uploader:hornyheracross,

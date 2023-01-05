@@ -1,62 +1,62 @@
-beach
-bird
-blue sky
-boat
-bridge
-building
-bush
-castle
-category:ine
-city
-city lights
-cityscape
-cliff
-cloud
-cloudy sky
-day
-dock
-fishing
-fountain
-horizon
-house
-island
-lake
-landscape
-lighthouse
-mountain
-mountainous horizon
-nature
-no humans
-ocean
-outdoors
-palm tree
-pier
-planet
-pond
-pool
-poolside
-rating:safe
-reflection
-river
-rock
-sand
-scenery
-seagull
-ship
-shore
-sky
-skyline
-subreddit:imaginarybestof
-sunlight
-sunrise
-sunset
-title:[/r/imaginaryseascapes] the smuggler's cove by david aguero
-tower
-tree
-uploader:lol33ta
-walking on liquid
-warship
-water
-watercraft
-waterfall
-waves
+beach,
+bird,
+blue sky,
+boat,
+bridge,
+building,
+bush,
+castle,
+category:ine,
+city,
+city lights,
+cityscape,
+cliff,
+cloud,
+cloudy sky,
+day,
+dock,
+fishing,
+fountain,
+horizon,
+house,
+island,
+lake,
+landscape,
+lighthouse,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+ocean,
+outdoors,
+palm tree,
+pier,
+planet,
+pond,
+pool,
+poolside,
+rating:safe,
+reflection,
+river,
+rock,
+sand,
+scenery,
+seagull,
+ship,
+shore,
+sky,
+skyline,
+subreddit:imaginarybestof,
+sunlight,
+sunrise,
+sunset,
+title:[/r/imaginaryseascapes] the smuggler's cove by david aguero,
+tower,
+tree,
+uploader:lol33ta,
+walking on liquid,
+warship,
+water,
+watercraft,
+waterfall,
+waves,

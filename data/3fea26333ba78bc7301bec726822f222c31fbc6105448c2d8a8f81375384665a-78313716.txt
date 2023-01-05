@@ -1,27 +1,27 @@
-ambiguous gender
-creator:clockbirds
-day
-detailed background
-feathered wings
-feathers
-feral
-forest
-grass
-hooves
-meta:hi res
-outside
-plant
-rating:safe
-sky
-solo
-species:avian
-species:cervid
-species:hybrid
-species:mammal
-standing
-subreddit:imaginaryhybrids
-subreddit:immonsters
-title:waterfalls by clockbirds
-tree
-uploader:lambentenigma
-wings
+ambiguous gender,
+creator:clockbirds,
+day,
+detailed background,
+feathered wings,
+feathers,
+feral,
+forest,
+grass,
+hooves,
+meta:hi res,
+outside,
+plant,
+rating:safe,
+sky,
+solo,
+species:avian,
+species:cervid,
+species:hybrid,
+species:mammal,
+standing,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+title:waterfalls by clockbirds,
+tree,
+uploader:lambentenigma,
+wings,

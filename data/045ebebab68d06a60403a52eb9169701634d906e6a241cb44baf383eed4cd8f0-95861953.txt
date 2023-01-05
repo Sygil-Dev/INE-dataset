@@ -1,31 +1,31 @@
-blurry
-bush
-day
-forest
-garden
-grass
-ground vehicle
-hat
-house
-jungle
-lamppost
-nature
-no humans
-outdoors
-palm tree
-path
-plant
-potted plant
-rating:safe
-river
-road
-scenery
-sign
-sky
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:local retailer and his family by artist anna anikeyka
-tree
-tree shade
-tree stump
-uploader:anon_ymou5
+blurry,
+bush,
+day,
+forest,
+garden,
+grass,
+ground vehicle,
+hat,
+house,
+jungle,
+lamppost,
+nature,
+no humans,
+outdoors,
+palm tree,
+path,
+plant,
+potted plant,
+rating:safe,
+river,
+road,
+scenery,
+sign,
+sky,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:local retailer and his family by artist anna anikeyka,
+tree,
+tree shade,
+tree stump,
+uploader:anon_ymou5,

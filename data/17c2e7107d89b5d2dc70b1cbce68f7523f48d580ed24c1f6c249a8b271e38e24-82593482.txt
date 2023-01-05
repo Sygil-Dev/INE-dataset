@@ -1,25 +1,25 @@
-astronaut
-boy
-cosmic
-cosmos
-creator:illustoryart
-door
-doorway
-fantastic
-helmet
-infinity
-inspiration
-magic
-nebula
-night
-outdoors
-pirate
-scifi
-stars
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-teddybear
-title:universe outdoors
-title:universe outdoors by nokeek
-universe
-uploader:lol33ta
+astronaut,
+boy,
+cosmic,
+cosmos,
+creator:illustoryart,
+door,
+doorway,
+fantastic,
+helmet,
+infinity,
+inspiration,
+magic,
+nebula,
+night,
+outdoors,
+pirate,
+scifi,
+stars,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+teddybear,
+title:universe outdoors,
+title:universe outdoors by nokeek,
+universe,
+uploader:lol33ta,

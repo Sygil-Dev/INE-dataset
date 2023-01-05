@@ -1,28 +1,28 @@
-airship
-architecture
-bridge
-building
-castle
-city
-cityscape
-cloud
-fantasy
-gate
-house
-mountain
-no humans
-outdoors
-rating:safe
-scenery
-sky
-skyscraper
-subreddit:imaginaryarchitecture
-subreddit:imaginarycastles
-subreddit:imaginarycityscapes
-subreddit:imarchitecture
-subreddit:imlandscapes
-sunset
-title:新都 (xindu) by artist tian xiang
-title:新都 by artist tian xiang
-tower
-uploader:anon_ymou5
+airship,
+architecture,
+bridge,
+building,
+castle,
+city,
+cityscape,
+cloud,
+fantasy,
+gate,
+house,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarycastles,
+subreddit:imaginarycityscapes,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+sunset,
+title:新都 (xindu) by artist tian xiang,
+title:新都 by artist tian xiang,
+tower,
+uploader:anon_ymou5,

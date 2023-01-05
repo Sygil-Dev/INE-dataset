@@ -1,23 +1,23 @@
-batman
-batman tas
-comic
-comic artist
-comic book art
-comic book artist
-comics
-cover artist
-creator:david nakayama
-david nakayama
-dc
-dc comics
-drawing
-harley quinn
-joker
-medium:digital 2d
-subreddit:imaginarydc
-subreddit:imaginarygotham
-subreddit:imfandoms
-superhero
-superheroes
-title:harley quinn by david nakayama (2020)
-uploader:rrmmmxx
+batman,
+batman tas,
+comic,
+comic artist,
+comic book art,
+comic book artist,
+comics,
+cover artist,
+creator:david nakayama,
+david nakayama,
+dc,
+dc comics,
+drawing,
+harley quinn,
+joker,
+medium:digital 2d,
+subreddit:imaginarydc,
+subreddit:imaginarygotham,
+subreddit:imfandoms,
+superhero,
+superheroes,
+title:harley quinn by david nakayama (2020),
+uploader:rrmmmxx,

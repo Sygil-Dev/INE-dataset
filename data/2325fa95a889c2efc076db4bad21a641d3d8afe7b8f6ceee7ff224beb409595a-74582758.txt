@@ -1,22 +1,22 @@
-2girls
-animal
-bird
-black hair
-booru:konachan.com
-building
-creator:ji dao ji
-dress
-gray hair
-instrument
-long hair
-rating:safe
-school uniform
-seifuku
-series:original
-skirt
-skirt lift
-sky
-subreddit:imaginarysliceoflife
-summer dress
-title:over the skyline by 极道寂
-uploader:your-little-sister
+2girls,
+animal,
+bird,
+black hair,
+booru:konachan.com,
+building,
+creator:ji dao ji,
+dress,
+gray hair,
+instrument,
+long hair,
+rating:safe,
+school uniform,
+seifuku,
+series:original,
+skirt,
+skirt lift,
+sky,
+subreddit:imaginarysliceoflife,
+summer dress,
+title:over the skyline by 极道寂,
+uploader:your-little-sister,

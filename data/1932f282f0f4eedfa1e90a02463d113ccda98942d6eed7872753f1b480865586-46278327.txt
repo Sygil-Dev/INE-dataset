@@ -1,55 +1,55 @@
-1 male
-1boy
-beard
-blue sailor collar
-character:nicolas cage
-character:sailor moon
-character:tsukino "sailor moon" usagi
-chest hair
-choker
-circlet
-closed eyes
-cosplay
-creator:zipavika
-crescent
-crescent earrings
-crossdressing
-derivative work
-diadem
-earrings
-facial hair
-gender:male
-hair over shoulder
-headwear
-heart
-heart choker
-jewelry
-long hair
-male focus
-meme
-meta:commentary
-meta:derivative work
-meta:english commentary
-meta:screencap redraw
-mustache
-nicolas cage
-rating:safe
-red choker
-sailor collar
-sailor moon (cosplay)
-sailor moon redraw challenge
-sailor senshi
-sailor senshi uniform
-screencap redraw
-series:bishoujo senshi sailor moon
-series:con air
-solo
-subreddit:imaginarywtf
-subreddit:imnsfw
-teeth
-title:sailor moon redraw by zipavika
-twintails
-uploader:kingconq
-upper body
-upper teeth
-zipavika
+1 male,
+1boy,
+beard,
+blue sailor collar,
+character:nicolas cage,
+character:sailor moon,
+character:tsukino "sailor moon" usagi,
+chest hair,
+choker,
+circlet,
+closed eyes,
+cosplay,
+creator:zipavika,
+crescent,
+crescent earrings,
+crossdressing,
+derivative work,
+diadem,
+earrings,
+facial hair,
+gender:male,
+hair over shoulder,
+headwear,
+heart,
+heart choker,
+jewelry,
+long hair,
+male focus,
+meme,
+meta:commentary,
+meta:derivative work,
+meta:english commentary,
+meta:screencap redraw,
+mustache,
+nicolas cage,
+rating:safe,
+red choker,
+sailor collar,
+sailor moon (cosplay),
+sailor moon redraw challenge,
+sailor senshi,
+sailor senshi uniform,
+screencap redraw,
+series:bishoujo senshi sailor moon,
+series:con air,
+solo,
+subreddit:imaginarywtf,
+subreddit:imnsfw,
+teeth,
+title:sailor moon redraw by zipavika,
+twintails,
+uploader:kingconq,
+upper body,
+upper teeth,
+zipavika,

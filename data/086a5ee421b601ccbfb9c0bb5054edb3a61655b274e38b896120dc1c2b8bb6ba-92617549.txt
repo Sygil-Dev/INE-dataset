@@ -1,20 +1,20 @@
-1other
-bare tree
-forest
-glowing
-grass
-holding
-monster
-nature
-outdoors
-rating:safe
-sharp teeth
-size difference
-standing
-subreddit:imaginarydragons
-subreddit:immonsters
-sword
-title:i made midir
-tree
-uploader:aymflexing
-weapon
+1other,
+bare tree,
+forest,
+glowing,
+grass,
+holding,
+monster,
+nature,
+outdoors,
+rating:safe,
+sharp teeth,
+size difference,
+standing,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sword,
+title:i made midir,
+tree,
+uploader:aymflexing,
+weapon,

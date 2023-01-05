@@ -1,67 +1,67 @@
-1girl
-angry
-animal
-asymmetrical legwear
-bangs
-beer mug
-bench
-bernese mountain dog
-bird
-blind
-blurry
-blurry background
-body freckles
-character:blind girl (popopoka)
-character:blind girl's dog (popopoka)
-clothing
-creator:popopoka
-creator:popopoka_
-cup
-dog
-female
-footwear
-fountain
-freckles
-freckles on body
-frown
-grey skirt
-medium hair
-medium:blurry background
-medium:high resolution
-medium:letterboxed
-medium:russian language
-medium:russian text
-medium:text
-medium:very high resolution
-meta:absurdres
-meta:highres
-meta:translated
-meta:translation request
-mismatched legwear
-mug
-multicolored clothes
-multicolored legwear
-outdoors
-park
-path
-plaid
-plaid skirt
-print shirt
-rating:general
-rating:safe
-reading
-series:original
-shirt
-shoes
-sidewalk
-sitting
-skirt
-smile
-socks
-stone walkway
-subreddit:imaginarysliceoflife
-title:blind girl's peaceful day at the park. art by (popopoka) (original)
-tree
-twilight
-uploader:takuu202
-water
+1girl,
+angry,
+animal,
+asymmetrical legwear,
+bangs,
+beer mug,
+bench,
+bernese mountain dog,
+bird,
+blind,
+blurry,
+blurry background,
+body freckles,
+character:blind girl (popopoka),
+character:blind girl's dog (popopoka),
+clothing,
+creator:popopoka,
+creator:popopoka_,
+cup,
+dog,
+female,
+footwear,
+fountain,
+freckles,
+freckles on body,
+frown,
+grey skirt,
+medium hair,
+medium:blurry background,
+medium:high resolution,
+medium:letterboxed,
+medium:russian language,
+medium:russian text,
+medium:text,
+medium:very high resolution,
+meta:absurdres,
+meta:highres,
+meta:translated,
+meta:translation request,
+mismatched legwear,
+mug,
+multicolored clothes,
+multicolored legwear,
+outdoors,
+park,
+path,
+plaid,
+plaid skirt,
+print shirt,
+rating:general,
+rating:safe,
+reading,
+series:original,
+shirt,
+shoes,
+sidewalk,
+sitting,
+skirt,
+smile,
+socks,
+stone walkway,
+subreddit:imaginarysliceoflife,
+title:blind girl's peaceful day at the park. art by (popopoka) (original),
+tree,
+twilight,
+uploader:takuu202,
+water,

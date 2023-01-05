@@ -1,72 +1,72 @@
-1girl
-backpack
-bag
-black hair
-blouse
-blush
-booru:sankaku
-brown jacket
-can
-chopsticks
-clothing
-creator:dnwls3010
-creator:huwari (dnwls3010)
-creator:ふわり
-cup ramen
-day
-drawstring
-eating
-female
-forehead
-hair rollers
-holding
-holding chopsticks
-hood
-hood down
-hooded jacket
-indoors
-jacket
-long hair
-long sleeves
-mask
-mask pull
-medium:4:3 aspect ratio
-mouth mask
-open clothes
-open jacket
-open mouth
-pepsi
-rating:s
-rating:safe
-red eyes
-series:original
-series:pepsi
-shelf
-shirt
-sitting
-soda can
-solo
-steam
-subreddit:imaginaryfood
-subreddit:immeta
-title:convenience store breakfast by ふわり
-title:女子高生
-track jacket
-uploader:misanthropy3000
-upper body
-white jacket
-white shirt
-オリジナル
-オリジナル1000users入り
-オリジナル5000users入り
-オリジナル7500users入り
-オリジナル10000users入り
-カップラーメン
-マスク
-制服
-制服パーカー
-女の子
-女子高生
-横顔
-白肌
-食事
+1girl,
+backpack,
+bag,
+black hair,
+blouse,
+blush,
+booru:sankaku,
+brown jacket,
+can,
+chopsticks,
+clothing,
+creator:dnwls3010,
+creator:huwari (dnwls3010),
+creator:ふわり,
+cup ramen,
+day,
+drawstring,
+eating,
+female,
+forehead,
+hair rollers,
+holding,
+holding chopsticks,
+hood,
+hood down,
+hooded jacket,
+indoors,
+jacket,
+long hair,
+long sleeves,
+mask,
+mask pull,
+medium:4:3 aspect ratio,
+mouth mask,
+open clothes,
+open jacket,
+open mouth,
+pepsi,
+rating:s,
+rating:safe,
+red eyes,
+series:original,
+series:pepsi,
+shelf,
+shirt,
+sitting,
+soda can,
+solo,
+steam,
+subreddit:imaginaryfood,
+subreddit:immeta,
+title:convenience store breakfast by ふわり,
+title:女子高生,
+track jacket,
+uploader:misanthropy3000,
+upper body,
+white jacket,
+white shirt,
+オリジナル,
+オリジナル1000users入り,
+オリジナル5000users入り,
+オリジナル7500users入り,
+オリジナル10000users入り,
+カップラーメン,
+マスク,
+制服,
+制服パーカー,
+女の子,
+女子高生,
+横顔,
+白肌,
+食事,

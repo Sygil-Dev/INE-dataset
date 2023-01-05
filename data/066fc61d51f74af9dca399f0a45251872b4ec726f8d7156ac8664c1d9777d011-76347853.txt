@@ -1,24 +1,24 @@
-armor
-artist name
-axe
-cape
-castle
-cloud
-cloudy sky
-crescent moon
-dated
-full moon
-gauntlets
-helmet
-moon
-night
-rating:safe
-signature
-sky
-solo
-subreddit:imaginaryarmor
-subreddit:imtechnology
-sun
-title:champion by emilio r. camarena
-uploader:lol33ta
-weapon
+armor,
+artist name,
+axe,
+cape,
+castle,
+cloud,
+cloudy sky,
+crescent moon,
+dated,
+full moon,
+gauntlets,
+helmet,
+moon,
+night,
+rating:safe,
+signature,
+sky,
+solo,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+sun,
+title:champion by emilio r. camarena,
+uploader:lol33ta,
+weapon,

@@ -1,47 +1,47 @@
-1other
-2boys
-3girls
-blue hair
-blue sky
-booru:danbooru
-booru:gelbooru
-booru:sankaku
-booru:tbib
-character:asuka langley
-character:asuka langley sohryu
-character:ayanami rei
-character:eva 01
-character:ikari shinji
-character:makinami mari illustrious
-character:nagisa kaworu
-character:souryuu asuka langley
-clothing
-cloud
-cloudy sky
-creator:qosic
-creator:qosicart
-evangelion (mecha)
-female
-humanoid robot
-male
-mecha
-multiple boys
-multiple girls
-outdoors
-rating:general
-rating:s
-rating:safe
-rating:sensitive
-robot
-school uniform
-science fiction
-series:neon genesis evangelion
-series:rebuild of evangelion
-sky
-source:twitter
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:farewell, evangelion by @qosicart
-tokyo-3 middle school uniform
-uniform
-uploader:malilaks
+1other,
+2boys,
+3girls,
+blue hair,
+blue sky,
+booru:danbooru,
+booru:gelbooru,
+booru:sankaku,
+booru:tbib,
+character:asuka langley,
+character:asuka langley sohryu,
+character:ayanami rei,
+character:eva 01,
+character:ikari shinji,
+character:makinami mari illustrious,
+character:nagisa kaworu,
+character:souryuu asuka langley,
+clothing,
+cloud,
+cloudy sky,
+creator:qosic,
+creator:qosicart,
+evangelion (mecha),
+female,
+humanoid robot,
+male,
+mecha,
+multiple boys,
+multiple girls,
+outdoors,
+rating:general,
+rating:s,
+rating:safe,
+rating:sensitive,
+robot,
+school uniform,
+science fiction,
+series:neon genesis evangelion,
+series:rebuild of evangelion,
+sky,
+source:twitter,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:farewell, evangelion by @qosicart,
+tokyo-3 middle school uniform,
+uniform,
+uploader:malilaks,

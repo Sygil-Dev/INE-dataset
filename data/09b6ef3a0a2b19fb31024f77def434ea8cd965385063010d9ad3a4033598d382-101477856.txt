@@ -1,31 +1,31 @@
-blue sky
-cliff
-cloud
-cloudy sky
-day
-desert
-fantasy
-field
-hill
-horizon
-island
-lake
-landscape
-mountain
-mountainous horizon
-no humans
-ocean
-outdoors
-rating:safe
-river
-rock
-scenery
-sky
-subreddit:imaginarypathways
-sunrise
-sunset
-title:fast and furious spy racers by etienne hebinger
-tower
-uploader:lol33ta
-water
-waterfall
+blue sky,
+cliff,
+cloud,
+cloudy sky,
+day,
+desert,
+fantasy,
+field,
+hill,
+horizon,
+island,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+river,
+rock,
+scenery,
+sky,
+subreddit:imaginarypathways,
+sunrise,
+sunset,
+title:fast and furious spy racers by etienne hebinger,
+tower,
+uploader:lol33ta,
+water,
+waterfall,

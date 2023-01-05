@@ -1,27 +1,27 @@
-1girl
-armor
-belt
-boots
-brown footwear
-brown gloves
-cape
-coat
-full body
-fur trim
-gloves
-green eyes
-long hair
-looking at viewer
-rating:safe
-red hair
-simple background
-smile
-solo
-standing
-subreddit:characterart
-subreddit:imaginaryhumans
-subreddit:imraces
-title:myra by drkav
-uploader:leavebritneyalone22
-uploader:standyourground10
-white background
+1girl,
+armor,
+belt,
+boots,
+brown footwear,
+brown gloves,
+cape,
+coat,
+full body,
+fur trim,
+gloves,
+green eyes,
+long hair,
+looking at viewer,
+rating:safe,
+red hair,
+simple background,
+smile,
+solo,
+standing,
+subreddit:characterart,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:myra by drkav,
+uploader:leavebritneyalone22,
+uploader:standyourground10,
+white background,

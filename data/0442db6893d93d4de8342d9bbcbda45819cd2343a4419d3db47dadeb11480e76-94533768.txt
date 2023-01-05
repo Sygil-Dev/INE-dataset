@@ -1,31 +1,31 @@
-1boy
-bamboo
-blonde hair
-branch
-bush
-category:ine
-elf
-facepaint
-forest
-gloves
-grass
-jungle
-leaf
-male focus
-nature
-outdoors
-plant
-pointy ears
-rating:safe
-solo
-subreddit:imaginarybestof
-subreddit:imaginaryelves
-subreddit:imraces
-sword
-tanabata
-title:[/r/imaginaryelves] elf maiden by a fu
-title:elf maiden, by a fu
-tree
-uploader:lol33ta
-uploader:tabulaerrata
-weapon
+1boy,
+bamboo,
+blonde hair,
+branch,
+bush,
+category:ine,
+elf,
+facepaint,
+forest,
+gloves,
+grass,
+jungle,
+leaf,
+male focus,
+nature,
+outdoors,
+plant,
+pointy ears,
+rating:safe,
+solo,
+subreddit:imaginarybestof,
+subreddit:imaginaryelves,
+subreddit:imraces,
+sword,
+tanabata,
+title:[/r/imaginaryelves] elf maiden by a fu,
+title:elf maiden, by a fu,
+tree,
+uploader:lol33ta,
+uploader:tabulaerrata,
+weapon,

@@ -1,44 +1,44 @@
-1girl
-armor
-belt
-breastplate
-brown hair
-chain
-closed mouth
-creator:gogalking
-flail
-flanged mace
-full body
-gender:female
-gloves
-gogalking
-greaves
-green eyes
-grey background
-highres
-holding
-holding flail
-holding shield
-holding weapon
-jaggy lines
-looking ahead
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-metal
-rating:general
-series:original
-shield
-short hair
-shoulder armor
-simple background
-skirt
-solo
-standing
-subreddit:imaginarycharacters
-subreddit:reasonablefantasy
-title:design, by gogalking @gogalking on twitter
-uploader:deluded_fruitcake
-weapon
-wood
+1girl,
+armor,
+belt,
+breastplate,
+brown hair,
+chain,
+closed mouth,
+creator:gogalking,
+flail,
+flanged mace,
+full body,
+gender:female,
+gloves,
+gogalking,
+greaves,
+green eyes,
+grey background,
+highres,
+holding,
+holding flail,
+holding shield,
+holding weapon,
+jaggy lines,
+looking ahead,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+metal,
+rating:general,
+series:original,
+shield,
+short hair,
+shoulder armor,
+simple background,
+skirt,
+solo,
+standing,
+subreddit:imaginarycharacters,
+subreddit:reasonablefantasy,
+title:design, by gogalking @gogalking on twitter,
+uploader:deluded_fruitcake,
+weapon,
+wood,

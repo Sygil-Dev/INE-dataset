@@ -1,66 +1,66 @@
-1girl
-acorn
-animal
-antlers
-bell
-berry
-bird
-blue dress
-box
-brown hair
-bunny
-bush
-candy cane
-character:eevee
-christmas
-christmas lights
-christmas ornaments
-christmas tree
-closed eyes
-crown
-deer
-deer ears
-fake antlers
-fireflies
-fireplace
-flower
-forest
-fur-trimmed headwear
-garden
-gift
-gift box
-grass
-hat
-holly
-ladybug
-long hair
-merry christmas
-mushroom
-nature
-on grass
-on ground
-ornament
-outdoors
-party hat
-pine tree
-rating:safe
-red flower
-red rose
-reindeer
-reindeer antlers
-reindeer costume
-sack
-santa costume
-santa dress
-santa hat
-sitting
-squirrel
-strawberry
-subreddit:imaginaryaww
-subreddit:wholesomefantasyart
-title:strawberry witch by artist laura diehl
-tomato
-tree
-tree stump
-uploader:anon_ymou5
-wreath
+1girl,
+acorn,
+animal,
+antlers,
+bell,
+berry,
+bird,
+blue dress,
+box,
+brown hair,
+bunny,
+bush,
+candy cane,
+character:eevee,
+christmas,
+christmas lights,
+christmas ornaments,
+christmas tree,
+closed eyes,
+crown,
+deer,
+deer ears,
+fake antlers,
+fireflies,
+fireplace,
+flower,
+forest,
+fur-trimmed headwear,
+garden,
+gift,
+gift box,
+grass,
+hat,
+holly,
+ladybug,
+long hair,
+merry christmas,
+mushroom,
+nature,
+on grass,
+on ground,
+ornament,
+outdoors,
+party hat,
+pine tree,
+rating:safe,
+red flower,
+red rose,
+reindeer,
+reindeer antlers,
+reindeer costume,
+sack,
+santa costume,
+santa dress,
+santa hat,
+sitting,
+squirrel,
+strawberry,
+subreddit:imaginaryaww,
+subreddit:wholesomefantasyart,
+title:strawberry witch by artist laura diehl,
+tomato,
+tree,
+tree stump,
+uploader:anon_ymou5,
+wreath,

@@ -1,28 +1,28 @@
-1girl
-air bubble
-artist name
-aurora
-bubble
-caustics
-fish
-glowing
-light particles
-light rays
-milky way
-night
-night sky
-open mouth
-planet
-rating:safe
-shooting star
-signature
-space
-star (sky)
-starry sky
-subreddit:imaginaryleviathans
-tail
-tentacles
-title:sea creature ii by aleksi briclot
-turtle
-underwater
-uploader:drunkindragon
+1girl,
+air bubble,
+artist name,
+aurora,
+bubble,
+caustics,
+fish,
+glowing,
+light particles,
+light rays,
+milky way,
+night,
+night sky,
+open mouth,
+planet,
+rating:safe,
+shooting star,
+signature,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryleviathans,
+tail,
+tentacles,
+title:sea creature ii by aleksi briclot,
+turtle,
+underwater,
+uploader:drunkindragon,

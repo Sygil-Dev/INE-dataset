@@ -1,41 +1,41 @@
-1girl
-animal
-animal on shoulder
-bear
-beard
-bird
-bunny
-cat
-chicken
-clothed animal
-cow
-deer
-dog
-duck
-facial hair
-fox
-goat
-lion
-long hair
-monkey
-mouse
-old
-old man
-old woman
-owl
-painting (medium)
-pig
-polar bear
-puppy
-rating:safe
-realistic
-reindeer
-sheep
-shiba inu
-sitting
-squirrel
-subreddit:imaginarygatherings
-title:nativity with manger by gordon napier
-traditional media
-uploader:[deleted]
-white cat
+1girl,
+animal,
+animal on shoulder,
+bear,
+beard,
+bird,
+bunny,
+cat,
+chicken,
+clothed animal,
+cow,
+deer,
+dog,
+duck,
+facial hair,
+fox,
+goat,
+lion,
+long hair,
+monkey,
+mouse,
+old,
+old man,
+old woman,
+owl,
+painting (medium),
+pig,
+polar bear,
+puppy,
+rating:safe,
+realistic,
+reindeer,
+sheep,
+shiba inu,
+sitting,
+squirrel,
+subreddit:imaginarygatherings,
+title:nativity with manger by gordon napier,
+traditional media,
+uploader:[deleted],
+white cat,

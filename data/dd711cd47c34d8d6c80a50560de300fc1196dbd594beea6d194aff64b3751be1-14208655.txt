@@ -1,95 +1,95 @@
-10s
-animal ears
-anime
-apartment
-bicycle
-booru:sankaku
-broom
-building
-car
-city
-cloud
-clouds
-convenience store
-copyright name
-creator:arsenixc
-creator:otokuyou
-crosswalk
-day
-ears
-gender:female
-green eyes
-ground vehicle
-house
-lamppost
-landscape
-light rays
-lmrnr
-medium:16:9 aspect ratio
-medium:1920x1080 wallpaper
-medium:artist name
-medium:high resolution
-medium:wallpaper
-meta:tagme
-motor vehicle
-motorcycle
-no humans
-nobody
-outdoors
-outside
-pavement
-power lines
-railroad crossing
-railroad tracks
-rating:s
-red hair
-reflection
-road
-road sign
-scenery
-scenic
-scooter
-series:love money rock'n'roll
-series:original
-series:pixiv
-shadow
-shop
-sidewalk
-sign
-sky
-soviet games
-storefront
-street
-style:photoshop
-style:reflection
-style:watermark
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-summer
-sunlight
-tail
-telephone pole
-title:old street by by arseniy chebynkin (arsenixc).
-title:the city by arsenixc
-title:古い通り
-traffic cone
-train
-transformer
-trash can
-uploader:ghostofthefallen
-uploader:zewen_senpai
-vehicle
-vending machine
-wallpaper
-watermark
-window
-year:2016
-オリジナル
-オリジナル50000users入り
-町並み
-背景
-街
-踏切
-通り
-風景
-風景50000users入り
+10s,
+animal ears,
+anime,
+apartment,
+bicycle,
+booru:sankaku,
+broom,
+building,
+car,
+city,
+cloud,
+clouds,
+convenience store,
+copyright name,
+creator:arsenixc,
+creator:otokuyou,
+crosswalk,
+day,
+ears,
+gender:female,
+green eyes,
+ground vehicle,
+house,
+lamppost,
+landscape,
+light rays,
+lmrnr,
+medium:16:9 aspect ratio,
+medium:1920x1080 wallpaper,
+medium:artist name,
+medium:high resolution,
+medium:wallpaper,
+meta:tagme,
+motor vehicle,
+motorcycle,
+no humans,
+nobody,
+outdoors,
+outside,
+pavement,
+power lines,
+railroad crossing,
+railroad tracks,
+rating:s,
+red hair,
+reflection,
+road,
+road sign,
+scenery,
+scenic,
+scooter,
+series:love money rock'n'roll,
+series:original,
+series:pixiv,
+shadow,
+shop,
+sidewalk,
+sign,
+sky,
+soviet games,
+storefront,
+street,
+style:photoshop,
+style:reflection,
+style:watermark,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+summer,
+sunlight,
+tail,
+telephone pole,
+title:old street by by arseniy chebynkin (arsenixc).,
+title:the city by arsenixc,
+title:古い通り,
+traffic cone,
+train,
+transformer,
+trash can,
+uploader:ghostofthefallen,
+uploader:zewen_senpai,
+vehicle,
+vending machine,
+wallpaper,
+watermark,
+window,
+year:2016,
+オリジナル,
+オリジナル50000users入り,
+町並み,
+背景,
+街,
+踏切,
+通り,
+風景,
+風景50000users入り,

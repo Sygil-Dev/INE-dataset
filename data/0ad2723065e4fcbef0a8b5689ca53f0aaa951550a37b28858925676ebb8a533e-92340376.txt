@@ -1,23 +1,23 @@
-1girl
-animal
-armor
-bare tree
-boots
-braid
-fingerless gloves
-gloves
-long hair
-rating:safe
-single braid
-sitting
-snow
-snowing
-subreddit:imaginarywarriors
-subreddit:imcharacters
-tattoo
-title:little miracle by isbjorg
-tree
-twin braids
-uploader:lol33ta
-white hair
-winter
+1girl,
+animal,
+armor,
+bare tree,
+boots,
+braid,
+fingerless gloves,
+gloves,
+long hair,
+rating:safe,
+single braid,
+sitting,
+snow,
+snowing,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+tattoo,
+title:little miracle by isbjorg,
+tree,
+twin braids,
+uploader:lol33ta,
+white hair,
+winter,

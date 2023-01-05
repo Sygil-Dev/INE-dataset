@@ -1,19 +1,19 @@
-color
-creator:jocelin carmes
-house
-illustration
-landscape
-medium:digital 2d
-night
-rock
-skeleton
-snow
-subreddit:birdsforscale
-subreddit:imaginarybehemoths
-sunset
-title:artwork selection
-title:skeleton by jocelin carmes
-uploader:lol33ta
-uploader:snugglyaggron
-viking
-vis dev
+color,
+creator:jocelin carmes,
+house,
+illustration,
+landscape,
+medium:digital 2d,
+night,
+rock,
+skeleton,
+snow,
+subreddit:birdsforscale,
+subreddit:imaginarybehemoths,
+sunset,
+title:artwork selection,
+title:skeleton by jocelin carmes,
+uploader:lol33ta,
+uploader:snugglyaggron,
+viking,
+vis dev,

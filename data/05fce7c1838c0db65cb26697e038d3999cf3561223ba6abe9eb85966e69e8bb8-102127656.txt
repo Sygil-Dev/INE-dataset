@@ -1,20 +1,20 @@
-1boy
-1girl
-belt
-blonde hair
-breasts
-brick wall
-cleavage
-facial hair
-hat
-jewelry
-long hair
-pouch
-rating:safe
-subreddit:imaginarycharacters
-subreddit:imaginarydemons
-sword
-tattoo
-title:"the damsel" by me
-uploader:theobliviousowl
-weapon
+1boy,
+1girl,
+belt,
+blonde hair,
+breasts,
+brick wall,
+cleavage,
+facial hair,
+hat,
+jewelry,
+long hair,
+pouch,
+rating:safe,
+subreddit:imaginarycharacters,
+subreddit:imaginarydemons,
+sword,
+tattoo,
+title:"the damsel" by me,
+uploader:theobliviousowl,
+weapon,

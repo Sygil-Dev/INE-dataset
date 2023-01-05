@@ -1,21 +1,21 @@
-1girl
-artist name
-blurry
-dark skin
-dark-skinned female
-gloves
-long hair
-night
-night sky
-ponytail
-rating:safe
-signature
-sky
-solo
-star (sky)
-starry sky
-subreddit:imaginaryruneterra
-title:wherever you are, i will find you. by janine berg
-uploader:dracconas
-watermark
-weapon
+1girl,
+artist name,
+blurry,
+dark skin,
+dark-skinned female,
+gloves,
+long hair,
+night,
+night sky,
+ponytail,
+rating:safe,
+signature,
+sky,
+solo,
+star (sky),
+starry sky,
+subreddit:imaginaryruneterra,
+title:wherever you are, i will find you. by janine berg,
+uploader:dracconas,
+watermark,
+weapon,

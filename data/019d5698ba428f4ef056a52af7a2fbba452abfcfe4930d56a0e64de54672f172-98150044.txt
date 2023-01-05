@@ -1,25 +1,25 @@
-1boy
-armor
-category:ine
-full armor
-full body
-gauntlets
-greaves
-helmet
-holding
-male focus
-pauldrons
-rating:safe
-shoulder armor
-simple background
-solo
-standing
-subreddit:imaginarybestof
-subreddit:imaginaryknights
-subreddit:imcharacters
-title:[/r/imaginaryknights] musket knight by ariel perez
-title:musket knight by ariel perez
-uploader:galactic_gooner
-uploader:lol33ta
-weapon
-white background
+1boy,
+armor,
+category:ine,
+full armor,
+full body,
+gauntlets,
+greaves,
+helmet,
+holding,
+male focus,
+pauldrons,
+rating:safe,
+shoulder armor,
+simple background,
+solo,
+standing,
+subreddit:imaginarybestof,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+title:[/r/imaginaryknights] musket knight by ariel perez,
+title:musket knight by ariel perez,
+uploader:galactic_gooner,
+uploader:lol33ta,
+weapon,
+white background,

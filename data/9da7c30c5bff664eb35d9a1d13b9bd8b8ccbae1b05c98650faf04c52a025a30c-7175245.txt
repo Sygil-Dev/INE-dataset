@@ -1,73 +1,73 @@
-1 female
-1girl
-alternate costume
-alternate_costume
-alternative costume
-artist:mike nesbitt
-booru:danbooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-booru:tbib
-braid
-brown hair
-character:d.va (overwatch)
-character:hana "d.va" song
-character:hana "d.va" song (overwatch)
-character:palanquin d.va
-closed eyes
-clothing:hair ornament
-clothing:pink skirt
-clothing:skirt
-clothing:striped pattern
-copyright:overwatch
-creator:mike nesbitt
-creator:vashperado
-d.va
-d.va_(overwatch)
-eyes closed
-facial mark
-female
-female focus
-female only
-filename:deev by vashperado_659998171
-gender:female
-genre:science fiction
-hair ornament
-hanbok
-korean clothes
-korean_clothes
-long hair
-markings
-medium:simple background
-meta:commentary request
-mike_nesbitt
-official alternate costume
-palanquin d.va
-palanquin_d.va
-pink skirt
-pink_skirt
-rating:general
-rating:mature
-rating:safe
-series:overwatch
-series:overwatch 1
-simple background
-skirt
-smile
-solo
-solo female
-striped
-striped sleeves
-striped_sleeves
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-tied hair
-title:deev
-title:deev by vashperado
-uploader:lol33ta
-upper body
-upper_body
-whisker markings
-whisker_markings
+1 female,
+1girl,
+alternate costume,
+alternate_costume,
+alternative costume,
+artist:mike nesbitt,
+booru:danbooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+booru:tbib,
+braid,
+brown hair,
+character:d.va (overwatch),
+character:hana "d.va" song,
+character:hana "d.va" song (overwatch),
+character:palanquin d.va,
+closed eyes,
+clothing:hair ornament,
+clothing:pink skirt,
+clothing:skirt,
+clothing:striped pattern,
+copyright:overwatch,
+creator:mike nesbitt,
+creator:vashperado,
+d.va,
+d.va_(overwatch),
+eyes closed,
+facial mark,
+female,
+female focus,
+female only,
+filename:deev by vashperado_659998171,
+gender:female,
+genre:science fiction,
+hair ornament,
+hanbok,
+korean clothes,
+korean_clothes,
+long hair,
+markings,
+medium:simple background,
+meta:commentary request,
+mike_nesbitt,
+official alternate costume,
+palanquin d.va,
+palanquin_d.va,
+pink skirt,
+pink_skirt,
+rating:general,
+rating:mature,
+rating:safe,
+series:overwatch,
+series:overwatch 1,
+simple background,
+skirt,
+smile,
+solo,
+solo female,
+striped,
+striped sleeves,
+striped_sleeves,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+tied hair,
+title:deev,
+title:deev by vashperado,
+uploader:lol33ta,
+upper body,
+upper_body,
+whisker markings,
+whisker_markings,

@@ -1,23 +1,23 @@
-2d
-3d
-blue
-cinema4d
-cinematography
-conceptart
-creator:friendly robot
-digitalpainting
-film
-illustration
-medium:digital 2d
-mood
-motion
-nft
-painting
-scifi
-short film
-soldier
-storytelling
-subreddit:imaginaryruins
-title:the pathfinder
-title:the pathfinder by françois leroy (friendly robot)
-uploader:dancing_cthulhu
+2d,
+3d,
+blue,
+cinema4d,
+cinematography,
+conceptart,
+creator:friendly robot,
+digitalpainting,
+film,
+illustration,
+medium:digital 2d,
+mood,
+motion,
+nft,
+painting,
+scifi,
+short film,
+soldier,
+storytelling,
+subreddit:imaginaryruins,
+title:the pathfinder,
+title:the pathfinder by françois leroy (friendly robot),
+uploader:dancing_cthulhu,

@@ -1,33 +1,33 @@
-1girl
-architecture
-blue sky
-brick
-brick wall
-building
-bush
-cloud
-cloudy sky
-day
-fence
-grass
-house
-outdoors
-pavement
-plant
-potted plant
-rating:safe
-road
-scenery
-shoes
-short hair
-sky
-sneakers
-solo
-stairs
-stone wall
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:what i remember by djamilaknopf
-tree
-uploader:lol33ta
-wall
+1girl,
+architecture,
+blue sky,
+brick,
+brick wall,
+building,
+bush,
+cloud,
+cloudy sky,
+day,
+fence,
+grass,
+house,
+outdoors,
+pavement,
+plant,
+potted plant,
+rating:safe,
+road,
+scenery,
+shoes,
+short hair,
+sky,
+sneakers,
+solo,
+stairs,
+stone wall,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:what i remember by djamilaknopf,
+tree,
+uploader:lol33ta,
+wall,
