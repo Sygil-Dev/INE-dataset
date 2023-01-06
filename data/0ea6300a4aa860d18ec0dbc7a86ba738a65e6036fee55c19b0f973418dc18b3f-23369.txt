@@ -1,23 +1,23 @@
-beach
-category:ine
-cloud
-cloudy sky
-desert
-field
-gun
-horse
-mountain
-multiple boys
-ocean
-outdoors
-rating:safe
-realistic
-sand
-scenery
-sky
-subreddit:imaginarywarships
-subreddit:imtechnology
-title:ise was hyuga's sister, standish backish, watercolor on paper, 1946
-uploader:kapitankurt
-water
-weapon
+beach,
+category:ine,
+cloud,
+cloudy sky,
+desert,
+field,
+gun,
+horse,
+mountain,
+multiple boys,
+ocean,
+outdoors,
+rating:safe,
+realistic,
+sand,
+scenery,
+sky,
+subreddit:imaginarywarships,
+subreddit:imtechnology,
+title:ise was hyuga's sister, standish backish, watercolor on paper, 1946,
+uploader:kapitankurt,
+water,
+weapon,

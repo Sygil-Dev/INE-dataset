@@ -1,26 +1,26 @@
-architecture
-bird
-bridge
-building
-castle
-category:ine
-city
-city lights
-cityscape
-cloud
-flock
-mountain
-outdoors
-rating:safe
-ruins
-scenery
-sky
-skyscraper
-snow
-snowing
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-title:wrecktown by philipp grote
-tower
-uploader:hvitserkr
-water
+architecture,
+bird,
+bridge,
+building,
+castle,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+flock,
+mountain,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+skyscraper,
+snow,
+snowing,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+title:wrecktown by philipp grote,
+tower,
+uploader:hvitserkr,
+water,

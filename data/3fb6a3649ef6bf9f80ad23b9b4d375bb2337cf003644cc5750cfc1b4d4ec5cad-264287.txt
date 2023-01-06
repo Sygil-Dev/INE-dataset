@@ -1,69 +1,69 @@
-ambiguous_gender
-annoyed
-artist:cryptid-creations
-black eyes
-black_eyes
-blue body
-blue scales
-blue_body
-blue_scales
-bodypart:black eyes
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-feral
-filename:dp1189_s
-gender:ambiguous
-gender:male
-humor
-male:1
-medium:patreon reward
-melee weapon
-melee_weapon
-meme:humor
-meta:paid reward
-meta:patreon reward
-meta:url
-pun
-rating:safe
-rock
-scales
-seaweed
-site:patreon
-site:yiff.party
-solo
-species:animate inanimate
-species:animate_inanimate
-species:billfish
-species:fish
-species:istiophoriform
-species:living melee weapon
-species:living sword
-species:living weapon
-species:living_melee_weapon
-species:living_sword
-species:living_weapon
-species:marine
-species:swordfish
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-sword
-text
-title:'swordfish in the stone' by piper thibodeau
-title:daily paint #1188. swordfish in the stone
-title:daily paint #1189. swordfish in the stone
-underwater
-uploader:myrandall
-visual pun
-visual_pun
-water
-weapon
-white body
-white scales
-white_body
-white_scales
-yellow body
-yellow scales
-yellow_body
-yellow_scales
-yiff id:457132
+ambiguous_gender,
+annoyed,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+blue body,
+blue scales,
+blue_body,
+blue_scales,
+bodypart:black eyes,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+feral,
+filename:dp1189_s,
+gender:ambiguous,
+gender:male,
+humor,
+male:1,
+medium:patreon reward,
+melee weapon,
+melee_weapon,
+meme:humor,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+pun,
+rating:safe,
+rock,
+scales,
+seaweed,
+site:patreon,
+site:yiff.party,
+solo,
+species:animate inanimate,
+species:animate_inanimate,
+species:billfish,
+species:fish,
+species:istiophoriform,
+species:living melee weapon,
+species:living sword,
+species:living weapon,
+species:living_melee_weapon,
+species:living_sword,
+species:living_weapon,
+species:marine,
+species:swordfish,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+sword,
+text,
+title:'swordfish in the stone' by piper thibodeau,
+title:daily paint #1188. swordfish in the stone,
+title:daily paint #1189. swordfish in the stone,
+underwater,
+uploader:myrandall,
+visual pun,
+visual_pun,
+water,
+weapon,
+white body,
+white scales,
+white_body,
+white_scales,
+yellow body,
+yellow scales,
+yellow_body,
+yellow_scales,
+yiff id:457132,

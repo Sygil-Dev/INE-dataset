@@ -1,36 +1,36 @@
-1other
-bare tree
-branch
-category:ine
-dead
-facing away
-fantasy art
-filename:vilius-petrauskas-dfam39-tumulus-of-germanicus-petrauskas-v02-161212-to-print-tiff-fixed.jpg
-forest
-holding
-holding sword
-holding weapon
-nature
-outdoors
-rating:safe
-scenery
-subreddit:imaginarybattlefields
-subreddit:imaginarycarnage
-subreddit:imaginaryfeels
-subreddit:imaginaryhistory
-subreddit:imlandscapes
-subreddit:immeta
-sword
-title:coming back to teutoburg forest battle by vilius petrauskas
-title:coming back to teutoburg forest battle scene by vilius petrauskas
-title:return to the battlefield by vilius petrauskas
-title:teutenburger wald sacrifice, by vilius petrauskas
-tree
-uploader:forsureaturtle
-uploader:kuaiban
-uploader:natezomby
-uploader:sylvyrfyre
-uploader:thegypsyslayer
-warrior
-weapon
-website:reddit
+1other,
+bare tree,
+branch,
+category:ine,
+dead,
+facing away,
+fantasy art,
+filename:vilius-petrauskas-dfam39-tumulus-of-germanicus-petrauskas-v02-161212-to-print-tiff-fixed.jpg,
+forest,
+holding,
+holding sword,
+holding weapon,
+nature,
+outdoors,
+rating:safe,
+scenery,
+subreddit:imaginarybattlefields,
+subreddit:imaginarycarnage,
+subreddit:imaginaryfeels,
+subreddit:imaginaryhistory,
+subreddit:imlandscapes,
+subreddit:immeta,
+sword,
+title:coming back to teutoburg forest battle by vilius petrauskas,
+title:coming back to teutoburg forest battle scene by vilius petrauskas,
+title:return to the battlefield by vilius petrauskas,
+title:teutenburger wald sacrifice, by vilius petrauskas,
+tree,
+uploader:forsureaturtle,
+uploader:kuaiban,
+uploader:natezomby,
+uploader:sylvyrfyre,
+uploader:thegypsyslayer,
+warrior,
+weapon,
+website:reddit,

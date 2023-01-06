@@ -1,24 +1,24 @@
-blue sky
-category:ine
-cliff
-cloud
-cloudy sky
-day
-grass
-long hair
-mountain
-mountainous horizon
-outdoors
-rating:safe
-rock
-ruins
-scenery
-sky
-solo
-standing
-subreddit:imaginarycanyons
-subreddit:imaginarycowboys
-subreddit:imcharacters
-subreddit:imnature
-title:through the canyon by alexey trishkin
-uploader:chalkchick0
+blue sky,
+category:ine,
+cliff,
+cloud,
+cloudy sky,
+day,
+grass,
+long hair,
+mountain,
+mountainous horizon,
+outdoors,
+rating:safe,
+rock,
+ruins,
+scenery,
+sky,
+solo,
+standing,
+subreddit:imaginarycanyons,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+subreddit:imnature,
+title:through the canyon by alexey trishkin,
+uploader:chalkchick0,

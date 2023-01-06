@@ -1,51 +1,51 @@
-autumn
-breathing fire
-burning
-burnt clothes
-campfire
-candle
-category:ine
-character:charizard
-character:charmander
-character:endeavor (boku no hero academia)
-cooking
-destruction
-dragon horns
-dragon tail
-dragon wings
-dusk
-embers
-explosion
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-glowing hair
-horns
-molten rock
-muzzle flash
-orange eyes
-orange sky
-orange theme
-pyrokinesis
-rating:safe
-red sky
-solo
-sparks
-spikes
-subreddit:imaginaryelementals
-subreddit:immonsters
-sun
-sunset
-tail
-tail-tip fire
-teeth
-title:fire dragon by artcraft studio
-torch
-twilight
-uploader:lol33ta
-volcano
+autumn,
+breathing fire,
+burning,
+burnt clothes,
+campfire,
+candle,
+category:ine,
+character:charizard,
+character:charmander,
+character:endeavor (boku no hero academia),
+cooking,
+destruction,
+dragon horns,
+dragon tail,
+dragon wings,
+dusk,
+embers,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+glowing hair,
+horns,
+molten rock,
+muzzle flash,
+orange eyes,
+orange sky,
+orange theme,
+pyrokinesis,
+rating:safe,
+red sky,
+solo,
+sparks,
+spikes,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+sun,
+sunset,
+tail,
+tail-tip fire,
+teeth,
+title:fire dragon by artcraft studio,
+torch,
+twilight,
+uploader:lol33ta,
+volcano,

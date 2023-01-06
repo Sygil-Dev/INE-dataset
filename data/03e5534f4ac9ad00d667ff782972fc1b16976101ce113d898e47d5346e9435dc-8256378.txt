@@ -1,70 +1,70 @@
-3 heads
-2017
-armor
-blonde hair
-bodily fluids
-booru:e621
-brown body
-category:ine
-character:applejack
-character:applejack (mlp)
-clothing:armor
-clothing:headwear
-cowboy hat
-creator:assasinmonkey
-drool
-duo
-female
-feral
-froggy bottom bog
-furry
-gender:ambiguous
-gender:female
-genre:fantasy
-green eyes
-hair
-hat
-medium:high resolution
-melee weapon
-meta:2017
-mouth hold
-multi head
-multiple heads
-open mouth
-outside
-rating:safe
-red eyes
-rock
-running
-saliva
-series:friendship is magic
-series:mlp:generation 4
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sharp teeth
-size difference
-species:dragon
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:hydra
-species:mammal
-species:monster
-species:mythical
-species:pony
-species:scalie
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-swamp
-sword
-teeth
-title:ever free hydra
-title:ever free hydra by myron c. p.
-tongue
-tree
-uploader:myrandall
-weapon
-year:2017
+3 heads,
+2017,
+armor,
+blonde hair,
+bodily fluids,
+booru:e621,
+brown body,
+category:ine,
+character:applejack,
+character:applejack (mlp),
+clothing:armor,
+clothing:headwear,
+cowboy hat,
+creator:assasinmonkey,
+drool,
+duo,
+female,
+feral,
+froggy bottom bog,
+furry,
+gender:ambiguous,
+gender:female,
+genre:fantasy,
+green eyes,
+hair,
+hat,
+medium:high resolution,
+melee weapon,
+meta:2017,
+mouth hold,
+multi head,
+multiple heads,
+open mouth,
+outside,
+rating:safe,
+red eyes,
+rock,
+running,
+saliva,
+series:friendship is magic,
+series:mlp:generation 4,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sharp teeth,
+size difference,
+species:dragon,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:hydra,
+species:mammal,
+species:monster,
+species:mythical,
+species:pony,
+species:scalie,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+swamp,
+sword,
+teeth,
+title:ever free hydra,
+title:ever free hydra by myron c. p.,
+tongue,
+tree,
+uploader:myrandall,
+weapon,
+year:2017,

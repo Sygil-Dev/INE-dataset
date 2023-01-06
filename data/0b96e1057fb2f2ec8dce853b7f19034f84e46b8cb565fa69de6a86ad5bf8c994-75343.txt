@@ -1,37 +1,37 @@
-1boy
-arrow (projectile)
-artist name
-bare tree
-bow (weapon)
-branch
-category:ine
-dagger
-dated
-day
-forest
-hat
-holding sword
-holding weapon
-jumping
-katana
-long hair
-male focus
-nature
-outdoors
-rating:safe
-red hair
-scabbard
-sheath
-sheathed
-signature
-snow
-snowing
-solo
-subreddit:imaginaryvikings
-subreddit:imcharacters
-sword
-title:viking charge! by donovan valdes
-tree
-uploader:hvitserkr
-weapon
-winter
+1boy,
+arrow (projectile),
+artist name,
+bare tree,
+bow (weapon),
+branch,
+category:ine,
+dagger,
+dated,
+day,
+forest,
+hat,
+holding sword,
+holding weapon,
+jumping,
+katana,
+long hair,
+male focus,
+nature,
+outdoors,
+rating:safe,
+red hair,
+scabbard,
+sheath,
+sheathed,
+signature,
+snow,
+snowing,
+solo,
+subreddit:imaginaryvikings,
+subreddit:imcharacters,
+sword,
+title:viking charge! by donovan valdes,
+tree,
+uploader:hvitserkr,
+weapon,
+winter,

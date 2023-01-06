@@ -1,16 +1,16 @@
-category:ine
-character design
-concept art
-creator:j. queiroz
-cyberpunk
-future
-futuristic
-gunslinger
-medium:digital 2d
-redhead
-rifle
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-title:redhead and her friend
-title:redhead and her friend, joão garcia
-uploader:garcia_jvq
+category:ine,
+character design,
+concept art,
+creator:j. queiroz,
+cyberpunk,
+future,
+futuristic,
+gunslinger,
+medium:digital 2d,
+redhead,
+rifle,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+title:redhead and her friend,
+title:redhead and her friend, joão garcia,
+uploader:garcia_jvq,

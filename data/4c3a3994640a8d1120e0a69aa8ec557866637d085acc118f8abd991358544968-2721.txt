@@ -1,46 +1,46 @@
-ambiguous gender
-autumn
-blue body
-blue eyes
-booru:e621
-category:ine
-creator:sandara
-day
-detailed background
-feral
-forest
-frost
-furry
-gender:ambiguous
-ice
-ice wings
-leaf
-leaves
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-outside
-plant
-rating:safe
-solo
-species:dragon
-species:elemental creature
-species:elemental dragon
-species:ice dragon
-species:mythical
-species:scalie
-species:western dragon
-standing
-subreddit:imaginaryelementals
-subreddit:immonsters
-title:first frost
-title:first frost by sandara tang
-tree
-uploader:myrandall
-water
-wings
-winter
-year:2017
+ambiguous gender,
+autumn,
+blue body,
+blue eyes,
+booru:e621,
+category:ine,
+creator:sandara,
+day,
+detailed background,
+feral,
+forest,
+frost,
+furry,
+gender:ambiguous,
+ice,
+ice wings,
+leaf,
+leaves,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+outside,
+plant,
+rating:safe,
+solo,
+species:dragon,
+species:elemental creature,
+species:elemental dragon,
+species:ice dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+standing,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+title:first frost,
+title:first frost by sandara tang,
+tree,
+uploader:myrandall,
+water,
+wings,
+winter,
+year:2017,

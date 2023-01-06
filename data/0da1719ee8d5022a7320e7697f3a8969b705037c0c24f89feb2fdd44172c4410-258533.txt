@@ -1,21 +1,21 @@
-bridge
-category:ine
-creator:le-lanterneur
-day
-fantasy
-mountain
-nature
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginaryislands
-subreddit:imnature
-title:l'ile volante
-title:l'ile volante by max la lanterne
-tree
-uploader:fireflycities
-water
-waterfall
+bridge,
+category:ine,
+creator:le-lanterneur,
+day,
+fantasy,
+mountain,
+nature,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginaryislands,
+subreddit:imnature,
+title:l'ile volante,
+title:l'ile volante by max la lanterne,
+tree,
+uploader:fireflycities,
+water,
+waterfall,

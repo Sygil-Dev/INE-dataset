@@ -1,25 +1,25 @@
-armor
-bird
-category:ine
-cloud
-colored skin
-creator:kerembeyit
-grass
-jungle
-leaf
-mountain
-nature
-palm tree
-plant
-rating:safe
-sky
-solo
-spikes
-subreddit:imaginarytrolls
-subreddit:imraces
-teeth
-title:troll rogue
-title:troll rogue by kerem beyit
-tree
-uploader:lol33ta
-weapon
+armor,
+bird,
+category:ine,
+cloud,
+colored skin,
+creator:kerembeyit,
+grass,
+jungle,
+leaf,
+mountain,
+nature,
+palm tree,
+plant,
+rating:safe,
+sky,
+solo,
+spikes,
+subreddit:imaginarytrolls,
+subreddit:imraces,
+teeth,
+title:troll rogue,
+title:troll rogue by kerem beyit,
+tree,
+uploader:lol33ta,
+weapon,

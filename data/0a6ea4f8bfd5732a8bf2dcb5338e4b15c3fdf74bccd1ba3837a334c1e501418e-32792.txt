@@ -1,27 +1,27 @@
-6+boys
-bald
-beard
-blonde hair
-blue eyes
-brown eyes
-brown hair
-category:ine
-eyepatch
-facial hair
-goatee
-hat
-long hair
-mature male
-multiple boys
-mustache
-old
-old man
-open mouth
-orange hair
-rating:safe
-stubble
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-title:just finished this today, figured this was the place to post it.
-uploader:primordialsound
-wrinkled skin
+6+boys,
+bald,
+beard,
+blonde hair,
+blue eyes,
+brown eyes,
+brown hair,
+category:ine,
+eyepatch,
+facial hair,
+goatee,
+hat,
+long hair,
+mature male,
+multiple boys,
+mustache,
+old,
+old man,
+open mouth,
+orange hair,
+rating:safe,
+stubble,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+title:just finished this today, figured this was the place to post it.,
+uploader:primordialsound,
+wrinkled skin,

@@ -1,25 +1,25 @@
-architecture
-bird
-bridge
-building
-category:ine
-city
-fantasy
-grass
-letterboxed
-no humans
-outdoors
-overgrown
-rating:safe
-river
-ruins
-scenery
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-title:in the end by olga orlova
-tower
-tree
-uploader:e-leventy
-uploader:valar_m0rghul1s
-water
-waterfall
+architecture,
+bird,
+bridge,
+building,
+category:ine,
+city,
+fantasy,
+grass,
+letterboxed,
+no humans,
+outdoors,
+overgrown,
+rating:safe,
+river,
+ruins,
+scenery,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+title:in the end by olga orlova,
+tower,
+tree,
+uploader:e-leventy,
+uploader:valar_m0rghul1s,
+water,
+waterfall,

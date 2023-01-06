@@ -1,27 +1,27 @@
-amazing
-ambiguous gender
-booru:e621
-category:ine
-colossal
-creator:kosa zsolt
-creator:zsoltkosa
-destruction
-gender:ambiguous
-lightning
-medium:high resolution
-meta:hi res
-not furry
-rating:safe
-solo
-species:deity
-species:elemental
-species:monster
-storm
-subreddit:imaginaryelementals
-subreddit:immonsters
-surreal
-title:"air colossus" by kósa zsolt
-title:air colossus
-tornado
-uploader:mysalmonhasfeets
-where is your god now
+amazing,
+ambiguous gender,
+booru:e621,
+category:ine,
+colossal,
+creator:kosa zsolt,
+creator:zsoltkosa,
+destruction,
+gender:ambiguous,
+lightning,
+medium:high resolution,
+meta:hi res,
+not furry,
+rating:safe,
+solo,
+species:deity,
+species:elemental,
+species:monster,
+storm,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+surreal,
+title:"air colossus" by kósa zsolt,
+title:air colossus,
+tornado,
+uploader:mysalmonhasfeets,
+where is your god now,

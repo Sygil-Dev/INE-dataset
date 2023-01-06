@@ -1,70 +1,70 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-beach
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bucket
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-crown
-crustacean
-decapoda
-feral
-filename:d940_s
-furry
-gender:ambiguous
-green body
-green scales
-green_body
-green_scales
-malacostracan
-marine
-medium:patreon reward
-medium:simple background
-medium:white background
-meta:paid reward
-meta:patreon reward
-meta:url
-rating:safe
-sand
-sand castle
-sand_castle
-scales
-sculpture
-seaside
-shovel
-simple background
-simple_background
-site:patreon
-site:yiff.party
-smile
-solo
-species:arthropod
-species:crab
-species:crustacean
-species:decapoda
-species:malacostracan
-species:marine
-species:reptile
-species:scalie
-species:sea turtle
-species:sea_turtle
-species:turtle
-subreddit:imaginaryturtleworlds
-subreddit:immeta
-tan body
-tan scales
-tan_body
-tan_scales
-text
-title:daily painting #940. (og) king of the beach
-title:daily painting #940. (og) king of the beach by piper thibodeau (x-post /r/imaginaryjustnice)
-tools
-uploader:luteraar
-white background
-white_background
-yiff id:457132
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+beach,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bucket,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+crown,
+crustacean,
+decapoda,
+feral,
+filename:d940_s,
+furry,
+gender:ambiguous,
+green body,
+green scales,
+green_body,
+green_scales,
+malacostracan,
+marine,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+rating:safe,
+sand,
+sand castle,
+sand_castle,
+scales,
+sculpture,
+seaside,
+shovel,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+smile,
+solo,
+species:arthropod,
+species:crab,
+species:crustacean,
+species:decapoda,
+species:malacostracan,
+species:marine,
+species:reptile,
+species:scalie,
+species:sea turtle,
+species:sea_turtle,
+species:turtle,
+subreddit:imaginaryturtleworlds,
+subreddit:immeta,
+tan body,
+tan scales,
+tan_body,
+tan_scales,
+text,
+title:daily painting #940. (og) king of the beach,
+title:daily painting #940. (og) king of the beach by piper thibodeau (x-post /r/imaginaryjustnice),
+tools,
+uploader:luteraar,
+white background,
+white_background,
+yiff id:457132,

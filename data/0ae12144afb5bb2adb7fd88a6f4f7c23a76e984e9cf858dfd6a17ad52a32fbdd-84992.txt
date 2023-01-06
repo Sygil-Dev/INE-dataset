@@ -1,22 +1,22 @@
-category:ine
-city
-cloud
-cloudy sky
-fire
-giant
-light rays
-mountain
-orange sky
-outdoors
-rating:safe
-scenery
-sky
-standing
-subreddit:imaginaryarrakis
-subreddit:imfandoms
-sunbeam
-sunlight
-sunset
-title:epic shai-hulud concept art by eduardo peña [xpost /r/dune]
-twilight
-uploader:conandy
+category:ine,
+city,
+cloud,
+cloudy sky,
+fire,
+giant,
+light rays,
+mountain,
+orange sky,
+outdoors,
+rating:safe,
+scenery,
+sky,
+standing,
+subreddit:imaginaryarrakis,
+subreddit:imfandoms,
+sunbeam,
+sunlight,
+sunset,
+title:epic shai-hulud concept art by eduardo peña [xpost /r/dune],
+twilight,
+uploader:conandy,

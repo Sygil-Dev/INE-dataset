@@ -1,20 +1,20 @@
-aleksastajsic
-category:ine
-character design
-conceptart
-creator:aleksa stajsic
-creatures
-digitalpainting
-elf
-illustration
-medium:digital 2d
-stajsicart
-subreddit:imaginaryelves
-subreddit:imaginaryimmortals
-subreddit:imaginarywizards
-subreddit:imaginarywtf
-subreddit:imcharacters
-subreddit:imnsfw
-subreddit:imraces
-title:archibald and pipe
-uploader:al3ks4
+aleksastajsic,
+category:ine,
+character design,
+conceptart,
+creator:aleksa stajsic,
+creatures,
+digitalpainting,
+elf,
+illustration,
+medium:digital 2d,
+stajsicart,
+subreddit:imaginaryelves,
+subreddit:imaginaryimmortals,
+subreddit:imaginarywizards,
+subreddit:imaginarywtf,
+subreddit:imcharacters,
+subreddit:imnsfw,
+subreddit:imraces,
+title:archibald and pipe,
+uploader:al3ks4,

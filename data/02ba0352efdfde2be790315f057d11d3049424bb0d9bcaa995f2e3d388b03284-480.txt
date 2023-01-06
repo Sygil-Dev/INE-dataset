@@ -1,29 +1,29 @@
-1other
-animal
-artist name
-bat
-bird
-category:ine
-cloud
-cloudy sky
-copyright name
-crow
-dragon
-flock
-flying
-holding weapon
-lightning
-monster
-outdoors
-rain
-rating:safe
-seagull
-sharp teeth
-silhouette
-sky
-subreddit:imaginarybehemoths
-subreddit:immonsters
-title:wild hunt by borisut chamnan
-uploader:blood-n-cheese
-uploader:tellanas
-weapon
+1other,
+animal,
+artist name,
+bat,
+bird,
+category:ine,
+cloud,
+cloudy sky,
+copyright name,
+crow,
+dragon,
+flock,
+flying,
+holding weapon,
+lightning,
+monster,
+outdoors,
+rain,
+rating:safe,
+seagull,
+sharp teeth,
+silhouette,
+sky,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+title:wild hunt by borisut chamnan,
+uploader:blood-n-cheese,
+uploader:tellanas,
+weapon,

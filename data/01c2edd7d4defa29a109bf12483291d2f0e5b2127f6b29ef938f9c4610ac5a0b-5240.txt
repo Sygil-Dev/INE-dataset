@@ -1,44 +1,44 @@
-1girl
-bat wings
-blonde hair
-category:ine
-character
-character design
-creator:livia prima
-cross earrings
-demon girl
-demon wings
-ear piercing
-earrings
-fangs
-furry
-gender:female
-genre:fantasy
-jewelry
-lips
-livia prima
-looking at viewer
-medium:digital 2d
-monster
-piercing
-rating:safe
-simple background
-smile
-solo
-species:dragon
-species:mythical
-species:scalie
-species:undead
-species:vampire
-subreddit:imaginarypets
-subreddit:imaginaryvampires
-subreddit:immeta
-subreddit:immonsters
-teeth
-title:vampie
-title:vampie by livia prima
-uploader:lol33ta
-uploader:synntara
-upper body
-vampire
-wings
+1girl,
+bat wings,
+blonde hair,
+category:ine,
+character,
+character design,
+creator:livia prima,
+cross earrings,
+demon girl,
+demon wings,
+ear piercing,
+earrings,
+fangs,
+furry,
+gender:female,
+genre:fantasy,
+jewelry,
+lips,
+livia prima,
+looking at viewer,
+medium:digital 2d,
+monster,
+piercing,
+rating:safe,
+simple background,
+smile,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+species:undead,
+species:vampire,
+subreddit:imaginarypets,
+subreddit:imaginaryvampires,
+subreddit:immeta,
+subreddit:immonsters,
+teeth,
+title:vampie,
+title:vampie by livia prima,
+uploader:lol33ta,
+uploader:synntara,
+upper body,
+vampire,
+wings,

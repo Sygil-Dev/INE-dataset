@@ -1,26 +1,26 @@
-1girl
-artist name
-blonde hair
-cape
-category:concept art
-category:ine
-crossed arms
-dress
-earrings
-full body
-grey background
-jewelry
-long dress
-long sleeves
-own hands together
-rating:safe
-solo
-standing
-subreddit:conceptart
-subreddit:imaginaryvikings
-subreddit:imcharacters
-subreddit:immeta
-title:viking jarl by amanda howes
-title:viking jarl concept design
-uploader:chubby__cat
-veil
+1girl,
+artist name,
+blonde hair,
+cape,
+category:concept art,
+category:ine,
+crossed arms,
+dress,
+earrings,
+full body,
+grey background,
+jewelry,
+long dress,
+long sleeves,
+own hands together,
+rating:safe,
+solo,
+standing,
+subreddit:conceptart,
+subreddit:imaginaryvikings,
+subreddit:imcharacters,
+subreddit:immeta,
+title:viking jarl by amanda howes,
+title:viking jarl concept design,
+uploader:chubby__cat,
+veil,

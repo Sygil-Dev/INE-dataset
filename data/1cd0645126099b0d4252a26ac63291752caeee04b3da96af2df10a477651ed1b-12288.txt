@@ -1,126 +1,126 @@
-4:3
-age regression
-aged down
-all nine eeveelutions
-ambiguous
-ambiguous gender
-attic
-biting
-blue eyes
-booru:e621
-booru:safebooru
-bow
-brown body
-brown ears
-brown fur
-carpet
-category:ine
-cleaning
-closed eyes
-creator:fuchsia
-creator:fuchsia (artist)
-cub
-cute
-d;
-ear biting
-eevee
-eeveelution
-espeon
-evolutionary family
-eyebrows
-eyebrows visible through hair
-eyes closed
-facing away
-facing viewer
-female
-feral
-flareon
-floor
-fox
-fringe trim
-fur
-gen 1 pokemon
-gen 1 pokémon
-gen 2 pokemon
-gen 2 pokémon
-gen 4 pokemon
-gen 6 pokemon
-gender:ambiguous
-gender:ambiguous gender
-gender:female
-glaceon
-group
-indoors
-inside
-jolteon
-ladder
-leafeon
-licking
-light
-light particles
-looking down
-looking to the side
-lying
-lying on another
-mammal
-medium:4:3 aspect ratio
-medium:video game
-meta:4:3
-meta:commentary request
-mother
-no humans
-on ground
-on rug
-one eye closed
-open mouth
-parent
-playing
-pokemon (creature)
-pokémon
-rating:safe
-red eyes
-red rug
-rug
-running bond
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokémon
-shia
-sleeping
-smile
-species:canid
-species:canine
-species:eevee
-species:eeveelution
-species:espeon
-species:flareon
-species:fox
-species:glaceon
-species:jolteon
-species:leafeon
-species:mammal
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:sylveon
-species:umbreon
-species:vaporeon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-sunlight
-sylveon
-tag source:e621
-title:attic by shia
-tongue
-tongue out
-umbreon
-vaporeon
-wince
-window
-wood floor
-wooden floor
-young
-younger
+4:3,
+age regression,
+aged down,
+all nine eeveelutions,
+ambiguous,
+ambiguous gender,
+attic,
+biting,
+blue eyes,
+booru:e621,
+booru:safebooru,
+bow,
+brown body,
+brown ears,
+brown fur,
+carpet,
+category:ine,
+cleaning,
+closed eyes,
+creator:fuchsia,
+creator:fuchsia (artist),
+cub,
+cute,
+d;,
+ear biting,
+eevee,
+eeveelution,
+espeon,
+evolutionary family,
+eyebrows,
+eyebrows visible through hair,
+eyes closed,
+facing away,
+facing viewer,
+female,
+feral,
+flareon,
+floor,
+fox,
+fringe trim,
+fur,
+gen 1 pokemon,
+gen 1 pokémon,
+gen 2 pokemon,
+gen 2 pokémon,
+gen 4 pokemon,
+gen 6 pokemon,
+gender:ambiguous,
+gender:ambiguous gender,
+gender:female,
+glaceon,
+group,
+indoors,
+inside,
+jolteon,
+ladder,
+leafeon,
+licking,
+light,
+light particles,
+looking down,
+looking to the side,
+lying,
+lying on another,
+mammal,
+medium:4:3 aspect ratio,
+medium:video game,
+meta:4:3,
+meta:commentary request,
+mother,
+no humans,
+on ground,
+on rug,
+one eye closed,
+open mouth,
+parent,
+playing,
+pokemon (creature),
+pokémon,
+rating:safe,
+red eyes,
+red rug,
+rug,
+running bond,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokémon,
+shia,
+sleeping,
+smile,
+species:canid,
+species:canine,
+species:eevee,
+species:eeveelution,
+species:espeon,
+species:flareon,
+species:fox,
+species:glaceon,
+species:jolteon,
+species:leafeon,
+species:mammal,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:sylveon,
+species:umbreon,
+species:vaporeon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sunlight,
+sylveon,
+tag source:e621,
+title:attic by shia,
+tongue,
+tongue out,
+umbreon,
+vaporeon,
+wince,
+window,
+wood floor,
+wooden floor,
+young,
+younger,

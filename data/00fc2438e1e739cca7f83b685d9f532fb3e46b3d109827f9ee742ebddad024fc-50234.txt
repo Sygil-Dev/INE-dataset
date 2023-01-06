@@ -1,24 +1,24 @@
-6+boys
-category:ine
-cloud
-grass
-gun
-hat
-holding gun
-horse
-multiple boys
-outdoors
-rating:safe
-riding
-rifle
-sky
-subreddit:imaginaryairships
-subreddit:imaginaryhistory
-subreddit:immeta
-subreddit:imtechnology
-sword
-title:"guerra a muerte" by luis barragan
-title:guerra a muerte by luis barragan
-uploader:lol33ta
-uploader:pyro_azer
-weapon
+6+boys,
+category:ine,
+cloud,
+grass,
+gun,
+hat,
+holding gun,
+horse,
+multiple boys,
+outdoors,
+rating:safe,
+riding,
+rifle,
+sky,
+subreddit:imaginaryairships,
+subreddit:imaginaryhistory,
+subreddit:immeta,
+subreddit:imtechnology,
+sword,
+title:"guerra a muerte" by luis barragan,
+title:guerra a muerte by luis barragan,
+uploader:lol33ta,
+uploader:pyro_azer,
+weapon,

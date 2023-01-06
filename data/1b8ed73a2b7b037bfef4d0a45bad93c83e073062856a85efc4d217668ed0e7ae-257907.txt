@@ -1,39 +1,39 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-category:ine
-cheese
-cracker
-creator:cryptid-creations
-dairy products
-dairy_products
-feral
-food
-food creature
-fruit
-grape
-grapes
-mammal
-meta:url
-monotreme
-platypus
-rating:safe
-simple background
-simple_background
-solo
-species:food creature
-species:food_creature
-species:mammal
-species:monotreme
-species:platypus
-subreddit:imaginaryaww
-subreddit:imaginaryfood
-subreddit:imaginaryhybrids
-subreddit:immeta
-subreddit:immonsters
-text
-title:"platterpus" by piper thibodeau
-title:daily paint 2106. platterpus
-uploader:torvusil
-white background
-white_background
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+category:ine,
+cheese,
+cracker,
+creator:cryptid-creations,
+dairy products,
+dairy_products,
+feral,
+food,
+food creature,
+fruit,
+grape,
+grapes,
+mammal,
+meta:url,
+monotreme,
+platypus,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:food creature,
+species:food_creature,
+species:mammal,
+species:monotreme,
+species:platypus,
+subreddit:imaginaryaww,
+subreddit:imaginaryfood,
+subreddit:imaginaryhybrids,
+subreddit:immeta,
+subreddit:immonsters,
+text,
+title:"platterpus" by piper thibodeau,
+title:daily paint 2106. platterpus,
+uploader:torvusil,
+white background,
+white_background,

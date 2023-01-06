@@ -1,44 +1,44 @@
-art
-booru:e621
-category:ine
-creator:mathias kollros
-destruction
-fangs
-female
-fight
-furry
-gender:female
-gender:male
-group
-macro
-male
-melee weapon
-meta:official art
-multi eye
-multiple eyes
-polearm
-rating:safe
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-size difference
-smaller female
-smaller male
-species:human
-species:mammal
-species:primate
-species:reptile
-species:scalie
-species:snake
-spines
-staff
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarybehemoths
-subreddit:immonsters
-tag source:e621
-temple
-title:nemesis of mortals by mathias kollros
-uploader:drunkindragon
-weapon
+art,
+booru:e621,
+category:ine,
+creator:mathias kollros,
+destruction,
+fangs,
+female,
+fight,
+furry,
+gender:female,
+gender:male,
+group,
+macro,
+male,
+melee weapon,
+meta:official art,
+multi eye,
+multiple eyes,
+polearm,
+rating:safe,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+size difference,
+smaller female,
+smaller male,
+species:human,
+species:mammal,
+species:primate,
+species:reptile,
+species:scalie,
+species:snake,
+spines,
+staff,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+tag source:e621,
+temple,
+title:nemesis of mortals by mathias kollros,
+uploader:drunkindragon,
+weapon,

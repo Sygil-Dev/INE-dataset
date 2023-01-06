@@ -1,35 +1,35 @@
-antlers
-booru:e621
-category:ine
-claws
-creator:sandara
-feathered wings
-feathers
-feral
-furry
-green eyes
-horn
-horns
-medium:simple background
-medium:white background
-meta:2018
-rating:safe
-scales
-simple background
-solo
-species:cabbage dragon
-species:dragon
-species:feathered dragon
-species:leaf dragon
-species:mythical
-species:scalie
-standing
-subreddit:imaginaryelementals
-subreddit:immonsters
-title:the cute cabbage baby by sandara tang
-title:watercolor dragon 1 - the cute cabbage baby
-uploader:myrandall
-white background
-white body
-white scales
-wings
+antlers,
+booru:e621,
+category:ine,
+claws,
+creator:sandara,
+feathered wings,
+feathers,
+feral,
+furry,
+green eyes,
+horn,
+horns,
+medium:simple background,
+medium:white background,
+meta:2018,
+rating:safe,
+scales,
+simple background,
+solo,
+species:cabbage dragon,
+species:dragon,
+species:feathered dragon,
+species:leaf dragon,
+species:mythical,
+species:scalie,
+standing,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+title:the cute cabbage baby by sandara tang,
+title:watercolor dragon 1 - the cute cabbage baby,
+uploader:myrandall,
+white background,
+white body,
+white scales,
+wings,

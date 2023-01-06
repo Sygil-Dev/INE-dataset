@@ -1,43 +1,43 @@
-beach
-building
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-dusk
-evening
-field
-forest
-gradient sky
-grass
-hill
-horizon
-lake
-landscape
-mountain
-mountainous horizon
-nature
-no humans
-ocean
-orange sky
-outdoors
-power lines
-rating:safe
-red sky
-river
-road
-scenery
-sky
-subreddit:imaginaryseascapes
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sun
-sunrise
-sunset
-title:"marriage" by jun seong park
-tree
-twilight
-uploader:pyro_azer
-utility pole
-water
+beach,
+building,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+dusk,
+evening,
+field,
+forest,
+gradient sky,
+grass,
+hill,
+horizon,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+ocean,
+orange sky,
+outdoors,
+power lines,
+rating:safe,
+red sky,
+river,
+road,
+scenery,
+sky,
+subreddit:imaginaryseascapes,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sun,
+sunrise,
+sunset,
+title:"marriage" by jun seong park,
+tree,
+twilight,
+uploader:pyro_azer,
+utility pole,
+water,

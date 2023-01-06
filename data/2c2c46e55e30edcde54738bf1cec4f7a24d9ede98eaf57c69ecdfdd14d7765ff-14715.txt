@@ -1,70 +1,70 @@
-2018
-anthro
-anthropomorphism
-arrow
-barefoot
-blue eyes
-booru:e621
-bow
-bow (weapon)
-category:ine
-clothed
-clothing
-clothing:shirt
-clothing:topwear
-creator:0laffson
-creator:caraid
-creator:kenket
-danger
-detailed background
-digital media (artwork)
-digitigrade
-dipstick tail
-feet
-forest
-fur
-genre:fantasy
-holding object
-holding weapon
-inner ear fluff
-is
-male
-markings
-medium:detailed background
-medium:digital media
-medium:high resolution
-medium:traditional media
-meta:2018
-meta:hi res
-meta:painting (artwork)
-meta:traditional media (artwork)
-multicolored tail
-orange body
-orange fur
-painting (artwork)
-plant
-quiver
-ranged weapon
-rating:safe
-rock
-smile
-source:furaffinity.net
-species:canid
-species:canine
-species:fox
-species:mammal
-subreddit:imaginaryarchers
-subreddit:imcharacters
-tail
-tail markings
-the
-this
-title:this is where i came in
-title:this is where i came in by tess garman
-tree
-tuft
-uploader:myrandall
-weapon
-whiskers
-year:2018
-zone
+2018,
+anthro,
+anthropomorphism,
+arrow,
+barefoot,
+blue eyes,
+booru:e621,
+bow,
+bow (weapon),
+category:ine,
+clothed,
+clothing,
+clothing:shirt,
+clothing:topwear,
+creator:0laffson,
+creator:caraid,
+creator:kenket,
+danger,
+detailed background,
+digital media (artwork),
+digitigrade,
+dipstick tail,
+feet,
+forest,
+fur,
+genre:fantasy,
+holding object,
+holding weapon,
+inner ear fluff,
+is,
+male,
+markings,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+medium:traditional media,
+meta:2018,
+meta:hi res,
+meta:painting (artwork),
+meta:traditional media (artwork),
+multicolored tail,
+orange body,
+orange fur,
+painting (artwork),
+plant,
+quiver,
+ranged weapon,
+rating:safe,
+rock,
+smile,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:fox,
+species:mammal,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+tail,
+tail markings,
+the,
+this,
+title:this is where i came in,
+title:this is where i came in by tess garman,
+tree,
+tuft,
+uploader:myrandall,
+weapon,
+whiskers,
+year:2018,
+zone,

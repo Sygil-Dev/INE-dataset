@@ -1,52 +1,52 @@
-2018
-ambiguous gender
-black nose
-booru:e621
-brown body
-brown fur
-category:ine
-character:flareon
-closed eyes
-creator:kenket
-eeveelution
-embers
-everywhere
-eyes closed
-feral
-fur
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-kenket
-meta:2018
-multicolored body
-multicolored fur
-pokémon
-pokémon (species)
-rating:safe
-series:nintendo
-series:pokémon
-shedding
-side view
-sitting
-smile
-solo
-source:furaffinity.net
-species:eeveelution
-species:flareon
-species:monster
-species:pokémon
-species:pokémon (species)
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:flare
-title:flareon
-title:flareon by tess garman
-two tone body
-two tone fur
-uploader:myrandall
-video games
-white body
-white fur
-year:2018
+2018,
+ambiguous gender,
+black nose,
+booru:e621,
+brown body,
+brown fur,
+category:ine,
+character:flareon,
+closed eyes,
+creator:kenket,
+eeveelution,
+embers,
+everywhere,
+eyes closed,
+feral,
+fur,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+kenket,
+meta:2018,
+multicolored body,
+multicolored fur,
+pokémon,
+pokémon (species),
+rating:safe,
+series:nintendo,
+series:pokémon,
+shedding,
+side view,
+sitting,
+smile,
+solo,
+source:furaffinity.net,
+species:eeveelution,
+species:flareon,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:flare,
+title:flareon,
+title:flareon by tess garman,
+two tone body,
+two tone fur,
+uploader:myrandall,
+video games,
+white body,
+white fur,
+year:2018,

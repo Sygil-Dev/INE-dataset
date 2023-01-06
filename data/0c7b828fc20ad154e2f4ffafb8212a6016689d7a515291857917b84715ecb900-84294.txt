@@ -1,40 +1,40 @@
-1girl
-black headwear
-blue sky
-boots
-brown footwear
-bush
-cape
-category:ine
-cliff
-cloud
-cloudy sky
-creator:varguy
-day
-field
-flower
-forest
-grass
-hat
-hill
-horizon
-lake
-landscape
-mountain
-mountainous horizon
-nature
-outdoors
-path
-rating:safe
-road
-rock
-scenery
-sky
-solo
-subreddit:imaginarywizards
-subreddit:imcharacters
-title:travelling wizard
-title:travelling wizard by varguy
-tree
-uploader:net-diver
-witch hat
+1girl,
+black headwear,
+blue sky,
+boots,
+brown footwear,
+bush,
+cape,
+category:ine,
+cliff,
+cloud,
+cloudy sky,
+creator:varguy,
+day,
+field,
+flower,
+forest,
+grass,
+hat,
+hill,
+horizon,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+outdoors,
+path,
+rating:safe,
+road,
+rock,
+scenery,
+sky,
+solo,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+title:travelling wizard,
+title:travelling wizard by varguy,
+tree,
+uploader:net-diver,
+witch hat,

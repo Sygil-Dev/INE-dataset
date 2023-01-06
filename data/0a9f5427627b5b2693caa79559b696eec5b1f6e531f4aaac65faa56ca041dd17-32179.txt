@@ -1,22 +1,22 @@
-1boy
-category:ine
-dated
-electricity
-field
-fire
-glowing
-grass
-green eyes
-horns
-magic
-male focus
-outdoors
-rating:safe
-solo
-subreddit:imaginarydemons
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:immonsters
-title:warlock's wrath by gabriel cassata
-uploader:myrandall
-weapon
+1boy,
+category:ine,
+dated,
+electricity,
+field,
+fire,
+glowing,
+grass,
+green eyes,
+horns,
+magic,
+male focus,
+outdoors,
+rating:safe,
+solo,
+subreddit:imaginarydemons,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:immonsters,
+title:warlock's wrath by gabriel cassata,
+uploader:myrandall,
+weapon,

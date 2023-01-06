@@ -1,29 +1,29 @@
-1girl
-acrylic paint (medium)
-category:ine
-china dress
-chinese clothes
-double bun
-dress
-flag background
-hand on hip
-hands on hips
-lipstick
-makeup
-multiple torii
-painting (medium)
-rating:safe
-red background
-red border
-red moon
-red sky
-red theme
-rising sun
-sleeveless
-sleeveless dress
-solo
-subreddit:imaginaryfashion
-subreddit:immeta
-sunburst
-title:canton style by emily chew
-uploader:lol33ta
+1girl,
+acrylic paint (medium),
+category:ine,
+china dress,
+chinese clothes,
+double bun,
+dress,
+flag background,
+hand on hip,
+hands on hips,
+lipstick,
+makeup,
+multiple torii,
+painting (medium),
+rating:safe,
+red background,
+red border,
+red moon,
+red sky,
+red theme,
+rising sun,
+sleeveless,
+sleeveless dress,
+solo,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+sunburst,
+title:canton style by emily chew,
+uploader:lol33ta,

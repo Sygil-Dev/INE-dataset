@@ -1,38 +1,38 @@
-1boy
-1girl
-art brush
-beard
-blonde hair
-blue sky
-brown hair
-calligraphy brush
-canvas (object)
-category:ine
-cloud
-day
-facial hair
-floral print
-holding paintbrush
-instrument
-japanese clothes
-kimono
-lips
-mountain
-music
-ocean
-open mouth
-paddle
-paint
-paintbrush
-painting
-palette (object)
-playing instrument
-rating:safe
-short hair
-sky
-smile
-subreddit:imaginaryhumans
-subreddit:imraces
-teeth
-title:the master and magnolia by magdalena olechny
-uploader:lol33ta
+1boy,
+1girl,
+art brush,
+beard,
+blonde hair,
+blue sky,
+brown hair,
+calligraphy brush,
+canvas (object),
+category:ine,
+cloud,
+day,
+facial hair,
+floral print,
+holding paintbrush,
+instrument,
+japanese clothes,
+kimono,
+lips,
+mountain,
+music,
+ocean,
+open mouth,
+paddle,
+paint,
+paintbrush,
+painting,
+palette (object),
+playing instrument,
+rating:safe,
+short hair,
+sky,
+smile,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+teeth,
+title:the master and magnolia by magdalena olechny,
+uploader:lol33ta,

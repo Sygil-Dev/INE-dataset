@@ -1,37 +1,37 @@
-1girl
-artist name
-aurora
-brown eyes
-category:ine
-coat
-energy sword
-fur collar
-fur trim
-fur-trimmed jacket
-glowing sword
-holding
-holding sword
-holding weapon
-jacket
-katana
-lightsaber
-long hair
-milky way
-night
-night sky
-nose
-rating:safe
-realistic
-shooting star
-sky
-solo
-space
-star (sky)
-starry background
-starry sky
-subreddit:imaginarypets
-subreddit:immeta
-sword
-title:stevonnie by deoxy diamond
-uploader:lol33ta
-weapon
+1girl,
+artist name,
+aurora,
+brown eyes,
+category:ine,
+coat,
+energy sword,
+fur collar,
+fur trim,
+fur-trimmed jacket,
+glowing sword,
+holding,
+holding sword,
+holding weapon,
+jacket,
+katana,
+lightsaber,
+long hair,
+milky way,
+night,
+night sky,
+nose,
+rating:safe,
+realistic,
+shooting star,
+sky,
+solo,
+space,
+star (sky),
+starry background,
+starry sky,
+subreddit:imaginarypets,
+subreddit:immeta,
+sword,
+title:stevonnie by deoxy diamond,
+uploader:lol33ta,
+weapon,

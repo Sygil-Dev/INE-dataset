@@ -1,43 +1,43 @@
-aerial fireworks
-air bubble
-astronaut
-aurora
-category:ine
-city
-city lights
-cloud
-constellation
-crescent moon
-debris
-earth (planet)
-explosion
-fireworks
-full moon
-galaxy
-light
-light particles
-milky way
-moon
-night
-night sky
-planet
-rating:safe
-reflection
-shooting star
-sky
-skyscraper
-snowing
-solo
-space
-space craft
-star (sky)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-telescope
-title:'earth's engine exposed' by matthew attard
-twilight
-uploader:jaykirsch
-water
+aerial fireworks,
+air bubble,
+astronaut,
+aurora,
+category:ine,
+city,
+city lights,
+cloud,
+constellation,
+crescent moon,
+debris,
+earth (planet),
+explosion,
+fireworks,
+full moon,
+galaxy,
+light,
+light particles,
+milky way,
+moon,
+night,
+night sky,
+planet,
+rating:safe,
+reflection,
+shooting star,
+sky,
+skyscraper,
+snowing,
+solo,
+space,
+space craft,
+star (sky),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+telescope,
+title:'earth's engine exposed' by matthew attard,
+twilight,
+uploader:jaykirsch,
+water,

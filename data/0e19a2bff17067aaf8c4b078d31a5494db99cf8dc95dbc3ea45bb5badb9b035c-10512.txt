@@ -1,22 +1,22 @@
-axe
-bare tree
-category:ine
-copyright name
-greyscale
-holding
-holding weapon
-letterboxed
-monochrome
-monster
-outdoors
-polearm
-rating:safe
-sharp teeth
-spikes
-subreddit:imaginarygiants
-subreddit:imraces
-title:warrior giant by ryan van dongen
-tree
-uploader:[deleted]
-uploader:faeryknight
-weapon
+axe,
+bare tree,
+category:ine,
+copyright name,
+greyscale,
+holding,
+holding weapon,
+letterboxed,
+monochrome,
+monster,
+outdoors,
+polearm,
+rating:safe,
+sharp teeth,
+spikes,
+subreddit:imaginarygiants,
+subreddit:imraces,
+title:warrior giant by ryan van dongen,
+tree,
+uploader:[deleted],
+uploader:faeryknight,
+weapon,

@@ -1,31 +1,31 @@
-6+boys
-army
-battle
-beach
-category:ine
-day
-desert
-dust
-ground vehicle
-gun
-horse
-military
-military vehicle
-motor vehicle
-multiple boys
-ocean
-outdoors
-rating:safe
-realistic
-rifle
-sand
-science fiction
-soldier
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-sunset
-title:tank herd by yohann schepacz
-uniform
-uploader:drunkindragon
-water
-weapon
+6+boys,
+army,
+battle,
+beach,
+category:ine,
+day,
+desert,
+dust,
+ground vehicle,
+gun,
+horse,
+military,
+military vehicle,
+motor vehicle,
+multiple boys,
+ocean,
+outdoors,
+rating:safe,
+realistic,
+rifle,
+sand,
+science fiction,
+soldier,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+sunset,
+title:tank herd by yohann schepacz,
+uniform,
+uploader:drunkindragon,
+water,
+weapon,

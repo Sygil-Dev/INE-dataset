@@ -1,39 +1,39 @@
-1boy
-animal
-artist name
-bamboo
-bare tree
-boots
-branch
-bush
-category:ine
-dated
-day
-forest
-fur trim
-gloves
-grass
-jungle
-leaf
-male focus
-nature
-outdoors
-oversized animal
-palm tree
-path
-pine tree
-plant
-rating:safe
-realistic
-signature
-sky
-solo
-standing
-subreddit:imaginarybeasts
-subreddit:immonsters
-title:goreclaw, terror of qal sisma by svetlin velinov
-tree
-twitter username
-uploader:lol33ta
-uploader:tamander
-weapon
+1boy,
+animal,
+artist name,
+bamboo,
+bare tree,
+boots,
+branch,
+bush,
+category:ine,
+dated,
+day,
+forest,
+fur trim,
+gloves,
+grass,
+jungle,
+leaf,
+male focus,
+nature,
+outdoors,
+oversized animal,
+palm tree,
+path,
+pine tree,
+plant,
+rating:safe,
+realistic,
+signature,
+sky,
+solo,
+standing,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+title:goreclaw, terror of qal sisma by svetlin velinov,
+tree,
+twitter username,
+uploader:lol33ta,
+uploader:tamander,
+weapon,

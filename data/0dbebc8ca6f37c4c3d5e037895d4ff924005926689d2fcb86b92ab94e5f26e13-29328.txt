@@ -1,24 +1,24 @@
-1boy
-cigarette
-creator:claparo-sans
-hat
-holding cigarette
-jewelry
-male focus
-pipe
-profile
-rating:safe
-realistic
-shirt
-smoke
-smoking
-solo
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-title:vlad
-title:vlad by phong anh (
-uploader:lol33ta
-watch
-web address
-wristband
-wristwatch
+1boy,
+cigarette,
+creator:claparo-sans,
+hat,
+holding cigarette,
+jewelry,
+male focus,
+pipe,
+profile,
+rating:safe,
+realistic,
+shirt,
+smoke,
+smoking,
+solo,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+title:vlad,
+title:vlad by phong anh (,
+uploader:lol33ta,
+watch,
+web address,
+wristband,
+wristwatch,

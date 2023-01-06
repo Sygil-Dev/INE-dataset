@@ -1,24 +1,24 @@
-#2d art
-#concept art
-#design
-#digital art
-#drawing
-#environment
-#environments
-#illustration
-#painting
-#sketches
-#thumbnails
-category:ine
-creator:anthony brault
-medium:digital 2d
-subreddit:imaginaryairships
-subreddit:imaginaryarchitecture
-subreddit:imaginarybestof
-subreddit:immeta
-subreddit:imtechnology
-title:[/r/imaginaryairships] sky city by anthony brault
-title:sky city
-title:sky city by anthony brault
-uploader:dr_mrs_them0narch
-uploader:lol33ta
+#2d art,
+#concept art,
+#design,
+#digital art,
+#drawing,
+#environment,
+#environments,
+#illustration,
+#painting,
+#sketches,
+#thumbnails,
+category:ine,
+creator:anthony brault,
+medium:digital 2d,
+subreddit:imaginaryairships,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarybestof,
+subreddit:immeta,
+subreddit:imtechnology,
+title:[/r/imaginaryairships] sky city by anthony brault,
+title:sky city,
+title:sky city by anthony brault,
+uploader:dr_mrs_them0narch,
+uploader:lol33ta,

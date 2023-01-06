@@ -1,68 +1,68 @@
-aerial fireworks
-aurora
-balcony
-bridge
-building
-category:ine
-chain-link fence
-christmas lights
-christmas tree
-city
-city lights
-cityscape
-cloud
-constellation
-crescent moon
-dark
-earth (planet)
-ferris wheel
-fireflies
-fireworks
-full moon
-galaxy
-gradient sky
-lamppost
-light
-light particles
-lights
-milky way
-moon
-moonlight
-night
-night sky
-no humans
-outdoors
-pavement
-planet
-railing
-rating:safe
-reflection
-road
-rooftop
-scenery
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-space
-stadium
-star (sky)
-starry background
-starry sky
-starry sky print
-street
-subreddit:imaginarycolorscapes
-subreddit:immeta
-tanabata
-tanzaku
-telescope
-title:erase us [oc]
-tokyo (city)
-tower
-town
-tree
-twilight
-uploader:erase_us
-window
+aerial fireworks,
+aurora,
+balcony,
+bridge,
+building,
+category:ine,
+chain-link fence,
+christmas lights,
+christmas tree,
+city,
+city lights,
+cityscape,
+cloud,
+constellation,
+crescent moon,
+dark,
+earth (planet),
+ferris wheel,
+fireflies,
+fireworks,
+full moon,
+galaxy,
+gradient sky,
+lamppost,
+light,
+light particles,
+lights,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+no humans,
+outdoors,
+pavement,
+planet,
+railing,
+rating:safe,
+reflection,
+road,
+rooftop,
+scenery,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+space,
+stadium,
+star (sky),
+starry background,
+starry sky,
+starry sky print,
+street,
+subreddit:imaginarycolorscapes,
+subreddit:immeta,
+tanabata,
+tanzaku,
+telescope,
+title:erase us [oc],
+tokyo (city),
+tower,
+town,
+tree,
+twilight,
+uploader:erase_us,
+window,

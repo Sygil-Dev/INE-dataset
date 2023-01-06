@@ -1,82 +1,82 @@
->:(
-animate inanimate
-artist:starsheepsweaters
-artist:tsaoshin
-black eyes
-black_eyes
-bottomwear
-bracelet
-breasts
-brown hair
-brown_hair
-category:ine
-character:starsheepsweaters (character)
-character:starsheepsweaters_(character)
-character:thomas the tank engine
-character:thomas_the_tank_engine
-close-up
-clothed
-clothing
-clothing:bottomwear
-clothing:bracelet
-clothing:eyewear
-clothing:glasses
-clothing:jacket
-clothing:legwear
-clothing:pants
-clothing:shirt
-clothing:topwear
-copyright:mattel
-copyright:thomas_and_friends
-creator:starsheepsweaters
-creator:tsaoshin
-eyewear
-female
-frown
-gender:female
-gender:male
-glasses
-hair
-jacket
-jewelry
-long hair
-long_hair
-machine
-male
-medium:high resolution
-meme
-meta:hi res
-meta:hi_res
-meta:meme
-not furry
-not_furry
-pants
-rating:safe
-scarf
-series:mattel
-series:thomas and friends
-series:thomas the tank engine
-shirt
-smile
-species:animate inanimate
-species:dire machine
-species:dire vehicle
-species:human
-species:living machine
-species:living vehicle
-species:living_machine
-species:living_vehicle
-species:mammal
-species:primate
-standing
-starsheepsweaters
-starsheepsweaters (character)
-subreddit:imaginarywtf
-subreddit:imnsfw
-thomas and friends
-title:stardraws unleashed
-title:stardraws unleashed by eric proctor
-topwear
-train
-uploader:myrandall
-vehicle
+>:(,
+animate inanimate,
+artist:starsheepsweaters,
+artist:tsaoshin,
+black eyes,
+black_eyes,
+bottomwear,
+bracelet,
+breasts,
+brown hair,
+brown_hair,
+category:ine,
+character:starsheepsweaters (character),
+character:starsheepsweaters_(character),
+character:thomas the tank engine,
+character:thomas_the_tank_engine,
+close-up,
+clothed,
+clothing,
+clothing:bottomwear,
+clothing:bracelet,
+clothing:eyewear,
+clothing:glasses,
+clothing:jacket,
+clothing:legwear,
+clothing:pants,
+clothing:shirt,
+clothing:topwear,
+copyright:mattel,
+copyright:thomas_and_friends,
+creator:starsheepsweaters,
+creator:tsaoshin,
+eyewear,
+female,
+frown,
+gender:female,
+gender:male,
+glasses,
+hair,
+jacket,
+jewelry,
+long hair,
+long_hair,
+machine,
+male,
+medium:high resolution,
+meme,
+meta:hi res,
+meta:hi_res,
+meta:meme,
+not furry,
+not_furry,
+pants,
+rating:safe,
+scarf,
+series:mattel,
+series:thomas and friends,
+series:thomas the tank engine,
+shirt,
+smile,
+species:animate inanimate,
+species:dire machine,
+species:dire vehicle,
+species:human,
+species:living machine,
+species:living vehicle,
+species:living_machine,
+species:living_vehicle,
+species:mammal,
+species:primate,
+standing,
+starsheepsweaters,
+starsheepsweaters (character),
+subreddit:imaginarywtf,
+subreddit:imnsfw,
+thomas and friends,
+title:stardraws unleashed,
+title:stardraws unleashed by eric proctor,
+topwear,
+train,
+uploader:myrandall,
+vehicle,

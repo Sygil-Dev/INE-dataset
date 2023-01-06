@@ -1,49 +1,49 @@
-2d
-angled
-ballistic
-buckshot
-category:ine
-color
-concept
-conceptart
-conceptgun
-conceptual
-creator:wesley johnson
-custom
-cyberpunk
-design
-digital 2d
-digtal2d
-ergonomic
-firearm
-hardsurfaced
-illustration
-industrial
-medium:digital 2d
-military
-painting
-pdw
-photomanipulation
-photoshop
-police
-polymer
-presentation
-props
-science fiction
-scifi
-shadowrun
-shape
-shotgun
-slugs
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-swat
-technical design
-technology
-title:nova ballistics mk v. hailstorm
-title:nova ballistics mk v. hailstorm by wesley johnson
-unique
-uploader:klrixparanoidx
-weapon
-weaponart
-weta inspired
+2d,
+angled,
+ballistic,
+buckshot,
+category:ine,
+color,
+concept,
+conceptart,
+conceptgun,
+conceptual,
+creator:wesley johnson,
+custom,
+cyberpunk,
+design,
+digital 2d,
+digtal2d,
+ergonomic,
+firearm,
+hardsurfaced,
+illustration,
+industrial,
+medium:digital 2d,
+military,
+painting,
+pdw,
+photomanipulation,
+photoshop,
+police,
+polymer,
+presentation,
+props,
+science fiction,
+scifi,
+shadowrun,
+shape,
+shotgun,
+slugs,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+swat,
+technical design,
+technology,
+title:nova ballistics mk v. hailstorm,
+title:nova ballistics mk v. hailstorm by wesley johnson,
+unique,
+uploader:klrixparanoidx,
+weapon,
+weaponart,
+weta inspired,

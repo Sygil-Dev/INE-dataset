@@ -1,145 +1,145 @@
-1 female
-6+ males
-ammunition belt
-ammunition_belt
-arm cannon
-arm tattoo
-arm_tattoo
-artist:jung myung lee
-bald
-battle
-beard
-black gloves
-black hat
-black headwear
-black jacket
-black necktie
-black neckwear
-black_hat
-black_jacket
-black_neckwear
-blue eyes
-bodice
-breasts
-brown gloves
-brown hat
-brown headwear
-brown_hat
-buckle
-cartridge
-casing ejection
-casing_ejection
-category:ine
-cleavage
-clothing:black gloves
-clothing:black jacket
-clothing:cropped jacket
-clothing:gloves
-clothing:hat
-clothing:headwear
-clothing:jacket
-clothing:legwear
-clothing:lingerie
-clothing:necktie
-clothing:pants
-clothing:tank top
-clothing:underwear
-clothing:white pants
-company name
-company_name
-copyright name
-copyright:legend of the cryptids
-copyright_name
-cowboy shot
-creator:jung myung lee
-cropped jacket
-dark skin
-dual wielding
-dutch angle
-facial hair
-firearm
-firing
-gatling gun
-gatling_gun
-gender:female
-gender:male
-genre:steampunk
-gloves
-goatee
-goggles
-goggles on hat
-goggles on headwear
-goggles_on_headwear
-gorget
-handgun
-hat
-heterochromia
-high collar
-holding
-image sample
-image_sample
-jacket
-jung_myung_lee
-large breasts
-leather
-legend_of_the_cryptids
-legwear
-lips
-long hair
-long sleeves
-machine gun
-machine_gun
-mechanical arm
-medium:company name
-medium:copyright name
-medium:watermark
-meta:artstation sample
-meta:character request
-meta:image sample
-monocle
-multiple males
-mustache
-necktie
-pants
-parted lips
-peaked cap
-peaked_cap
-pirate
-pistol
-rating:questionable
-rating:safe
-red eyes
-series:legend of the cryptids
-shell casing
-shell_casing
-ship's wheel
-sideburns
-skull and crossbones
-skull_and_crossbones
-solo focus
-steering wheel
-steering_wheel
-subreddit:imaginarysteampunk
-subreddit:imtechnology
-sunset
-tagme:character
-tank top
-tattoo
-tight
-tight pants
-tight_pants
-title:"steampunk" by lee jung-myung (rupid79)
-title:steampunk by lee jung-myung
-top hat
-top_hat
-tricorne
-uploader:3dom
-uploader:ethereeal
-useless armor
-vest
-victorian
-watermark
-weapon
-white hair
-white pants
-white_pants
+1 female,
+6+ males,
+ammunition belt,
+ammunition_belt,
+arm cannon,
+arm tattoo,
+arm_tattoo,
+artist:jung myung lee,
+bald,
+battle,
+beard,
+black gloves,
+black hat,
+black headwear,
+black jacket,
+black necktie,
+black neckwear,
+black_hat,
+black_jacket,
+black_neckwear,
+blue eyes,
+bodice,
+breasts,
+brown gloves,
+brown hat,
+brown headwear,
+brown_hat,
+buckle,
+cartridge,
+casing ejection,
+casing_ejection,
+category:ine,
+cleavage,
+clothing:black gloves,
+clothing:black jacket,
+clothing:cropped jacket,
+clothing:gloves,
+clothing:hat,
+clothing:headwear,
+clothing:jacket,
+clothing:legwear,
+clothing:lingerie,
+clothing:necktie,
+clothing:pants,
+clothing:tank top,
+clothing:underwear,
+clothing:white pants,
+company name,
+company_name,
+copyright name,
+copyright:legend of the cryptids,
+copyright_name,
+cowboy shot,
+creator:jung myung lee,
+cropped jacket,
+dark skin,
+dual wielding,
+dutch angle,
+facial hair,
+firearm,
+firing,
+gatling gun,
+gatling_gun,
+gender:female,
+gender:male,
+genre:steampunk,
+gloves,
+goatee,
+goggles,
+goggles on hat,
+goggles on headwear,
+goggles_on_headwear,
+gorget,
+handgun,
+hat,
+heterochromia,
+high collar,
+holding,
+image sample,
+image_sample,
+jacket,
+jung_myung_lee,
+large breasts,
+leather,
+legend_of_the_cryptids,
+legwear,
+lips,
+long hair,
+long sleeves,
+machine gun,
+machine_gun,
+mechanical arm,
+medium:company name,
+medium:copyright name,
+medium:watermark,
+meta:artstation sample,
+meta:character request,
+meta:image sample,
+monocle,
+multiple males,
+mustache,
+necktie,
+pants,
+parted lips,
+peaked cap,
+peaked_cap,
+pirate,
+pistol,
+rating:questionable,
+rating:safe,
+red eyes,
+series:legend of the cryptids,
+shell casing,
+shell_casing,
+ship's wheel,
+sideburns,
+skull and crossbones,
+skull_and_crossbones,
+solo focus,
+steering wheel,
+steering_wheel,
+subreddit:imaginarysteampunk,
+subreddit:imtechnology,
+sunset,
+tagme:character,
+tank top,
+tattoo,
+tight,
+tight pants,
+tight_pants,
+title:"steampunk" by lee jung-myung (rupid79),
+title:steampunk by lee jung-myung,
+top hat,
+top_hat,
+tricorne,
+uploader:3dom,
+uploader:ethereeal,
+useless armor,
+vest,
+victorian,
+watermark,
+weapon,
+white hair,
+white pants,
+white_pants,

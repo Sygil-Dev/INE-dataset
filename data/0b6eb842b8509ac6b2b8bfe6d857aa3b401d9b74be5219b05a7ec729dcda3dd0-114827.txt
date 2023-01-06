@@ -1,53 +1,53 @@
-1girl
-alternate costume
-angelaziegler
-blue eyes
-booru:sankaku channel
-breasts
-category:ine
-character:dr. angela "mercy" ziegler
-clothing:earrings
-clothing:gloves
-clothing:jewelry
-creator:darwh
-creator:pixiv id 26761312
-crown
-earrings
-eyeshadow
-facial mark
-forehead mark
-gender:female
-genre:science fiction
-gloves
-jewelry
-lipstick
-long hair
-looking at viewer
-makeup
-medium:artist name
-medium:high resolution
-medium:text
-mercy
-mercyoverwatch
-meta:artist name
-moon
-official alternate costume
-open mouth
-overwatch
-overwatchblizzard
-piercing
-purple hair
-rating:safe
-series:overwatch
-signature
-smile
-solo
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-teeth
-title:atlantic mercy selfie [overwatch]
-title:atlantic mercy selfie [overwatch] by darwh
-uploader:sw4ahl
-upper body
-wings
+1girl,
+alternate costume,
+angelaziegler,
+blue eyes,
+booru:sankaku channel,
+breasts,
+category:ine,
+character:dr. angela "mercy" ziegler,
+clothing:earrings,
+clothing:gloves,
+clothing:jewelry,
+creator:darwh,
+creator:pixiv id 26761312,
+crown,
+earrings,
+eyeshadow,
+facial mark,
+forehead mark,
+gender:female,
+genre:science fiction,
+gloves,
+jewelry,
+lipstick,
+long hair,
+looking at viewer,
+makeup,
+medium:artist name,
+medium:high resolution,
+medium:text,
+mercy,
+mercyoverwatch,
+meta:artist name,
+moon,
+official alternate costume,
+open mouth,
+overwatch,
+overwatchblizzard,
+piercing,
+purple hair,
+rating:safe,
+series:overwatch,
+signature,
+smile,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+teeth,
+title:atlantic mercy selfie [overwatch],
+title:atlantic mercy selfie [overwatch] by darwh,
+uploader:sw4ahl,
+upper body,
+wings,

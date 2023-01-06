@@ -1,21 +1,21 @@
-1boy
-book
-category:ine
-cross
-facial hair
-formal
-glasses
-male focus
-mustache
-old
-old man
-own hands together
-priest
-rating:safe
-subreddit:imaginarynobles
-subreddit:imaginarypets
-subreddit:imcharacters
-subreddit:immeta
-title:lord dog by n kayurova
-uploader:hvitserkr
-wrinkled skin
+1boy,
+book,
+category:ine,
+cross,
+facial hair,
+formal,
+glasses,
+male focus,
+mustache,
+old,
+old man,
+own hands together,
+priest,
+rating:safe,
+subreddit:imaginarynobles,
+subreddit:imaginarypets,
+subreddit:imcharacters,
+subreddit:immeta,
+title:lord dog by n kayurova,
+uploader:hvitserkr,
+wrinkled skin,

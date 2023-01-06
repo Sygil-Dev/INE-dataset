@@ -1,25 +1,25 @@
-architecture
-bird
-bridge
-building
-castle
-category:ine
-city
-city lights
-cityscape
-cloud
-cloudy sky
-east asian architecture
-fantasy
-outdoors
-pagoda
-rating:safe
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginarysteampunk
-subreddit:imtechnology
-title:city concept commission by tyler edlin
-tower
-uploader:o_no_my_buttholes
+architecture,
+bird,
+bridge,
+building,
+castle,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+east asian architecture,
+fantasy,
+outdoors,
+pagoda,
+rating:safe,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginarysteampunk,
+subreddit:imtechnology,
+title:city concept commission by tyler edlin,
+tower,
+uploader:o_no_my_buttholes,

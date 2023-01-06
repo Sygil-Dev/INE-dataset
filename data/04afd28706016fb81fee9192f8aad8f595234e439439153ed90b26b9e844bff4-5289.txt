@@ -1,21 +1,21 @@
-1boy
-blonde hair
-cape
-category:ine
-copyright name
-faceless
-faceless male
-holding
-holding sword
-holding weapon
-male focus
-rating:safe
-realistic
-solo
-subreddit:imaginarywarriors
-subreddit:imcharacters
-sword
-teeth
-title:"achilles" by red pencil art
-uploader:torvusil
-weapon
+1boy,
+blonde hair,
+cape,
+category:ine,
+copyright name,
+faceless,
+faceless male,
+holding,
+holding sword,
+holding weapon,
+male focus,
+rating:safe,
+realistic,
+solo,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+sword,
+teeth,
+title:"achilles" by red pencil art,
+uploader:torvusil,
+weapon,

@@ -1,31 +1,31 @@
-architecture
-beach
-boat
-bridge
-castle
-category:ine
-cloud
-cloudy sky
-day
-fantasy
-horizon
-lake
-mountain
-no humans
-ocean
-outdoors
-planet
-rating:safe
-river
-scenery
-ship
-sky
-subreddit:imaginarywarships
-subreddit:imtechnology
-title:"brig mercury attacked by two turkish ships," aivazovsky, 1892 [2220x1400] (xpost /r/battlepaintings)
-tower
-uploader:dziban303
-water
-watercraft
-waterfall
-waves
+architecture,
+beach,
+boat,
+bridge,
+castle,
+category:ine,
+cloud,
+cloudy sky,
+day,
+fantasy,
+horizon,
+lake,
+mountain,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+river,
+scenery,
+ship,
+sky,
+subreddit:imaginarywarships,
+subreddit:imtechnology,
+title:"brig mercury attacked by two turkish ships," aivazovsky, 1892 [2220x1400] (xpost /r/battlepaintings),
+tower,
+uploader:dziban303,
+water,
+watercraft,
+waterfall,
+waves,

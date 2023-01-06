@@ -1,45 +1,45 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist:ryky
-category:ine
-character:felis
-creator:ryky
-digital media (artwork)
-domestic cat
-duo
-felid
-feline
-feral
-forest
-gender:ambiguous
-group
-mammal
-medium:digital media
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-plant
-rating:safe
-ryky
-sitting
-species:cat
-species:domestic cat
-species:domestic_cat
-species:felid
-species:feline
-species:felis
-species:fish
-species:mammal
-species:marine
-species:spirit
-subreddit:imaginarywaterfalls
-subreddit:imnature
-title:paradise
-title:paradise by benjamin cehelsky
-tree
-uploader:myrandall
-water
-waterfall
-website:reddit
-year:2018
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:ryky,
+category:ine,
+character:felis,
+creator:ryky,
+digital media (artwork),
+domestic cat,
+duo,
+felid,
+feline,
+feral,
+forest,
+gender:ambiguous,
+group,
+mammal,
+medium:digital media,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+plant,
+rating:safe,
+ryky,
+sitting,
+species:cat,
+species:domestic cat,
+species:domestic_cat,
+species:felid,
+species:feline,
+species:felis,
+species:fish,
+species:mammal,
+species:marine,
+species:spirit,
+subreddit:imaginarywaterfalls,
+subreddit:imnature,
+title:paradise,
+title:paradise by benjamin cehelsky,
+tree,
+uploader:myrandall,
+water,
+waterfall,
+website:reddit,
+year:2018,

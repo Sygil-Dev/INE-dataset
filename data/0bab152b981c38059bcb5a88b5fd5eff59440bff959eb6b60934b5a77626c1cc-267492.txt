@@ -1,28 +1,28 @@
-1boy
-backpack
-bag
-beach
-belt
-brown gloves
-category:ine
-cloud
-facial hair
-gloves
-horizon
-lake
-male focus
-ocean
-outdoors
-rating:safe
-sand
-shore
-sky
-smile
-solo
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-sunset
-teeth
-title:going for an adventure by marco alvares
-uploader:lol33ta
-water
+1boy,
+backpack,
+bag,
+beach,
+belt,
+brown gloves,
+category:ine,
+cloud,
+facial hair,
+gloves,
+horizon,
+lake,
+male focus,
+ocean,
+outdoors,
+rating:safe,
+sand,
+shore,
+sky,
+smile,
+solo,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+sunset,
+teeth,
+title:going for an adventure by marco alvares,
+uploader:lol33ta,
+water,

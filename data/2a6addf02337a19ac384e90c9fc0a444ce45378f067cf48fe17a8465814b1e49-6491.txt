@@ -1,31 +1,31 @@
-amazing
-ambiguous gender
-armor
-booru:e621
-building
-castle
-category:ine
-character:the shatterer
-clothing:armor
-creator:kekai kotaki
-feral
-fire
-furry
-gender:ambiguous
-machine
-mechanical
-meta:3:2
-outside
-rating:safe
-series:guild wars
-side view
-solo
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:have mercy, by kekai kotaki
-uploader:godforesaken
-video games
-wings
+amazing,
+ambiguous gender,
+armor,
+booru:e621,
+building,
+castle,
+category:ine,
+character:the shatterer,
+clothing:armor,
+creator:kekai kotaki,
+feral,
+fire,
+furry,
+gender:ambiguous,
+machine,
+mechanical,
+meta:3:2,
+outside,
+rating:safe,
+series:guild wars,
+side view,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:have mercy, by kekai kotaki,
+uploader:godforesaken,
+video games,
+wings,

@@ -1,53 +1,53 @@
-battle
-breathing fire
-building
-burning
-campfire
-cannon
-category:ine
-city
-creator:jeremy chong
-damaged
-debris
-destruction
-dirty
-dusk
-embers
-evening
-explosion
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-gradient sky
-gun
-helicopter
-mecha
-medium:digital 2d
-molten rock
-muzzle flash
-no humans
-orange background
-orange sky
-rating:safe
-realistic
-red sky
-rocket launcher
-ruins
-science fiction
-smoke
-sparks
-subreddit:imaginaryfuturewar
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-sun
-sunset
-title:magitek armor by jeremy chong
-torch
-twilight
-uploader:lol33ta
-uploader:myrandall
-war
-weapon
+battle,
+breathing fire,
+building,
+burning,
+campfire,
+cannon,
+category:ine,
+city,
+creator:jeremy chong,
+damaged,
+debris,
+destruction,
+dirty,
+dusk,
+embers,
+evening,
+explosion,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+gradient sky,
+gun,
+helicopter,
+mecha,
+medium:digital 2d,
+molten rock,
+muzzle flash,
+no humans,
+orange background,
+orange sky,
+rating:safe,
+realistic,
+red sky,
+rocket launcher,
+ruins,
+science fiction,
+smoke,
+sparks,
+subreddit:imaginaryfuturewar,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+sun,
+sunset,
+title:magitek armor by jeremy chong,
+torch,
+twilight,
+uploader:lol33ta,
+uploader:myrandall,
+war,
+weapon,

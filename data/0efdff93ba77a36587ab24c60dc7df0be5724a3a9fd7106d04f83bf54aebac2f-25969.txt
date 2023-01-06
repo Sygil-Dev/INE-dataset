@@ -1,33 +1,33 @@
-2boys
-armor
-artist name
-axe
-category:ine
-creator:dmitry prozorov
-glowing
-glowing eyes
-grom hellscream
-helmet
-holding
-holding weapon
-jewelry
-male focus
-medium:digital 2d
-multiple boys
-orc
-rating:safe
-red eyes
-subreddit:imaginarydemons
-subreddit:imaginaryorcs
-subreddit:immonsters
-subreddit:imraces
-sword
-teeth
-title:grom hellscream
-title:grom hellscream by dmitry prozorov
-title:grom hellscream, by dmitry prozorov
-uploader:lol33ta
-uploader:nikephoros_ii_phokas
-warcraft
-weapon
-wow
+2boys,
+armor,
+artist name,
+axe,
+category:ine,
+creator:dmitry prozorov,
+glowing,
+glowing eyes,
+grom hellscream,
+helmet,
+holding,
+holding weapon,
+jewelry,
+male focus,
+medium:digital 2d,
+multiple boys,
+orc,
+rating:safe,
+red eyes,
+subreddit:imaginarydemons,
+subreddit:imaginaryorcs,
+subreddit:immonsters,
+subreddit:imraces,
+sword,
+teeth,
+title:grom hellscream,
+title:grom hellscream by dmitry prozorov,
+title:grom hellscream, by dmitry prozorov,
+uploader:lol33ta,
+uploader:nikephoros_ii_phokas,
+warcraft,
+weapon,
+wow,

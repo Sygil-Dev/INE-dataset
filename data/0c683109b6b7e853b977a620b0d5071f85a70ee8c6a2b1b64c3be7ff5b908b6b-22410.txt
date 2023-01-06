@@ -1,54 +1,54 @@
-autumn
-breathing fire
-burning
-campfire
-category:ine
-city
-city lights
-cloud
-cloudy sky
-creator:martanael
-dusk
-embers
-evening
-explosion
-fiery wings
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-gradient sky
-horizon
-landscape
-letterboxed
-lightning
-molten rock
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-planted
-rating:safe
-red sky
-river
-scenery
-sky
-smoke
-subreddit:imaginaryhellscapes
-subreddit:imaginaryvolcanoes
-subreddit:imlandscapes
-subreddit:imnature
-sun
-sunlight
-sunrise
-sunset
-tail-tip fire
-title:lava fields
-title:lava fields by marta de andrés
-title:lava fields by marta nael
-torch
-twilight
-uploader:lol33ta
-volcano
+autumn,
+breathing fire,
+burning,
+campfire,
+category:ine,
+city,
+city lights,
+cloud,
+cloudy sky,
+creator:martanael,
+dusk,
+embers,
+evening,
+explosion,
+fiery wings,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+gradient sky,
+horizon,
+landscape,
+letterboxed,
+lightning,
+molten rock,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+planted,
+rating:safe,
+red sky,
+river,
+scenery,
+sky,
+smoke,
+subreddit:imaginaryhellscapes,
+subreddit:imaginaryvolcanoes,
+subreddit:imlandscapes,
+subreddit:imnature,
+sun,
+sunlight,
+sunrise,
+sunset,
+tail-tip fire,
+title:lava fields,
+title:lava fields by marta de andrés,
+title:lava fields by marta nael,
+torch,
+twilight,
+uploader:lol33ta,
+volcano,

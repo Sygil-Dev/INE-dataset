@@ -1,65 +1,65 @@
-1 female
-1girl
-animal
-armor
-armored skirt
-artist:kyoung hwan kim
-baton
-belt
-black footwear
-black legwear
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-brown eyes
-brown hair
-category:ine
-clothing:legwear
-commentary
-copyright:original
-creator:kyoung hwan kim
-dog
-english
-english commentary
-firearm
-full armor
-gauntlets
-gender:female
-gun
-headwear
-helmet
-holding
-holding weapon
-long hair
-medium:2d art
-medium:high resolution
-medium:simple background
-medium:white background
-meta:commentary
-meta:english commentary
-meta:highres
-pouch
-rating:mature
-rating:safe
-series:original
-shoulder armor
-simple background
-solo
-species:canine
-species:dog
-species:mammal
-standing
-subreddit:imaginarypets
-subreddit:imaginaryweaponry
-subreddit:immeta
-subreddit:imtechnology
-sword
-title:"royal guard" by kyoung hwan kim
-title:royal guard
-title:royal guard by kyoung hwan kim
-uploader:lol33ta
-uploader:pyro_azer
-weapon
-white background
+1 female,
+1girl,
+animal,
+armor,
+armored skirt,
+artist:kyoung hwan kim,
+baton,
+belt,
+black footwear,
+black legwear,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+brown eyes,
+brown hair,
+category:ine,
+clothing:legwear,
+commentary,
+copyright:original,
+creator:kyoung hwan kim,
+dog,
+english,
+english commentary,
+firearm,
+full armor,
+gauntlets,
+gender:female,
+gun,
+headwear,
+helmet,
+holding,
+holding weapon,
+long hair,
+medium:2d art,
+medium:high resolution,
+medium:simple background,
+medium:white background,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+pouch,
+rating:mature,
+rating:safe,
+series:original,
+shoulder armor,
+simple background,
+solo,
+species:canine,
+species:dog,
+species:mammal,
+standing,
+subreddit:imaginarypets,
+subreddit:imaginaryweaponry,
+subreddit:immeta,
+subreddit:imtechnology,
+sword,
+title:"royal guard" by kyoung hwan kim,
+title:royal guard,
+title:royal guard by kyoung hwan kim,
+uploader:lol33ta,
+uploader:pyro_azer,
+weapon,
+white background,

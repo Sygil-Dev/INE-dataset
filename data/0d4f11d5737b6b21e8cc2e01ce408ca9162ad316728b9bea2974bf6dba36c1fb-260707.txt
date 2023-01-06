@@ -1,23 +1,23 @@
-arch
-architecture
-bridge
-building
-castle
-category:ine
-city
-cityscape
-clock
-clock tower
-cloud
-east asian architecture
-gate
-outdoors
-pagoda
-rating:safe
-scenery
-sky
-subreddit:imaginaryfallout
-subreddit:imfandoms
-title:my vision for cleveland oh 2277, drawn on the back of my math homework.
-tower
-uploader:jahadijack
+arch,
+architecture,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+clock,
+clock tower,
+cloud,
+east asian architecture,
+gate,
+outdoors,
+pagoda,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+title:my vision for cleveland oh 2277, drawn on the back of my math homework.,
+tower,
+uploader:jahadijack,

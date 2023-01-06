@@ -1,22 +1,22 @@
-arch
-architecture
-bridge
-building
-category:ine
-city
-east asian architecture
-fantasy
-lantern
-outdoors
-rating:safe
-scenery
-silhouette
-subreddit:imaginarydwellings
-subreddit:imaginaryforests
-subreddit:imarchitecture
-title:mushrooms for rent by alben tan
-title:mushrooms for rent, by alben tan
-tower
-tree
-uploader:azalann
-uploader:sylvyrfyre
+arch,
+architecture,
+bridge,
+building,
+category:ine,
+city,
+east asian architecture,
+fantasy,
+lantern,
+outdoors,
+rating:safe,
+scenery,
+silhouette,
+subreddit:imaginarydwellings,
+subreddit:imaginaryforests,
+subreddit:imarchitecture,
+title:mushrooms for rent by alben tan,
+title:mushrooms for rent, by alben tan,
+tower,
+tree,
+uploader:azalann,
+uploader:sylvyrfyre,

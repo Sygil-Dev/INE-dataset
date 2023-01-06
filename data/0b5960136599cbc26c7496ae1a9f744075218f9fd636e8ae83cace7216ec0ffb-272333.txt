@@ -1,53 +1,53 @@
-autumn
-autumn leaves
-battle
-breathing fire
-burning
-campfire
-candle
-category:ine
-character:godzilla
-creator:liu heng
-destruction
-dusk
-embers
-evening
-explosion
-fangs
-fiery hair
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-kaijuu
-medium:digital 2d
-molten rock
-monster
-muzzle flash
-open mouth
-orange sky
-orange theme
-pyrokinesis
-rating:safe
-red sky
-scales
-sharp teeth
-smoke
-sparks
-subreddit:imaginarywerewolves
-subreddit:immonsters
-sunset
-sword
-tail
-tail-tip fire
-teeth
-title:work003
-title:work003 by nako liu
-title:work 003 by liu heng - this werewolf is really a piece of work.
-torch
-twilight
-uploader:builtofstone
-uploader:nikephoros_ii_phokas
-volcano
+autumn,
+autumn leaves,
+battle,
+breathing fire,
+burning,
+campfire,
+candle,
+category:ine,
+character:godzilla,
+creator:liu heng,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+fangs,
+fiery hair,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+kaijuu,
+medium:digital 2d,
+molten rock,
+monster,
+muzzle flash,
+open mouth,
+orange sky,
+orange theme,
+pyrokinesis,
+rating:safe,
+red sky,
+scales,
+sharp teeth,
+smoke,
+sparks,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+sunset,
+sword,
+tail,
+tail-tip fire,
+teeth,
+title:work003,
+title:work003 by nako liu,
+title:work 003 by liu heng - this werewolf is really a piece of work.,
+torch,
+twilight,
+uploader:builtofstone,
+uploader:nikephoros_ii_phokas,
+volcano,

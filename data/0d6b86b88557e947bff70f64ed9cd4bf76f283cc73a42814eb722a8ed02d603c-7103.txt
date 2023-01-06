@@ -1,20 +1,20 @@
-1girl
-aurora
-bracelet
-hat
-jewelry
-night
-night sky
-open mouth
-rating:safe
-sky
-space
-staff
-star (sky)
-starry sky
-subreddit:imaginarystash
-subreddit:imnsfw
-teeth
-title:blind geezer by ware lee
-uploader:lol33ta
-weapon
+1girl,
+aurora,
+bracelet,
+hat,
+jewelry,
+night,
+night sky,
+open mouth,
+rating:safe,
+sky,
+space,
+staff,
+star (sky),
+starry sky,
+subreddit:imaginarystash,
+subreddit:imnsfw,
+teeth,
+title:blind geezer by ware lee,
+uploader:lol33ta,
+weapon,

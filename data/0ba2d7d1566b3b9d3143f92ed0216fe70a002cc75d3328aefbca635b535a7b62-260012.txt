@@ -1,65 +1,65 @@
-action:open mouth
-animal
-anthropomorphism
-black eyes
-blue background
-blue necktie
-blue sky
-bodypart:black eyes
-brown body
-brown fur
-cat
-category:ine
-clothed
-clothing
-clothing:necktie
-cloud
-creator:cryptid-creations
-dog
-english text
-feral
-formal
-fur
-gender:ambiguous
-gender:male
-humor
-male:1
-meme:humor
-meta:english text
-meta:url
-necktie
-news
-news report
-no humans
-open mouth
-pun
-raining
-rating:safe
-sky
-solo
-species:canid
-species:canine
-species:canis
-species:cat
-species:dog
-species:domestic cat
-species:domestic dog
-species:felid
-species:feline
-species:felis
-species:mammal
-subreddit:imaginaryaww
-subreddit:immeta
-suit
-sun
-tan body
-tan fur
-teeth
-text
-title:4-day furcast by piper thibodeau
-title:daily paint 2013# 4-day furcast
-uploader:myrandall
-visual pun
-weather forecast
-weather report
-website:e621
+action:open mouth,
+animal,
+anthropomorphism,
+black eyes,
+blue background,
+blue necktie,
+blue sky,
+bodypart:black eyes,
+brown body,
+brown fur,
+cat,
+category:ine,
+clothed,
+clothing,
+clothing:necktie,
+cloud,
+creator:cryptid-creations,
+dog,
+english text,
+feral,
+formal,
+fur,
+gender:ambiguous,
+gender:male,
+humor,
+male:1,
+meme:humor,
+meta:english text,
+meta:url,
+necktie,
+news,
+news report,
+no humans,
+open mouth,
+pun,
+raining,
+rating:safe,
+sky,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:cat,
+species:dog,
+species:domestic cat,
+species:domestic dog,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:immeta,
+suit,
+sun,
+tan body,
+tan fur,
+teeth,
+text,
+title:4-day furcast by piper thibodeau,
+title:daily paint 2013# 4-day furcast,
+uploader:myrandall,
+visual pun,
+weather forecast,
+weather report,
+website:e621,

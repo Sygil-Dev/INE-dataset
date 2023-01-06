@@ -1,22 +1,22 @@
-1boy
-1other
-arrow (projectile)
-bamboo
-category:ine
-forest
-grass
-holding
-hood
-leaf
-male focus
-nature
-plant
-rating:safe
-solo
-standing
-subreddit:imaginaryarchers
-subreddit:imcharacters
-title:autumn ranger by viktor solovyov.
-tree
-uploader:turbologic
-weapon
+1boy,
+1other,
+arrow (projectile),
+bamboo,
+category:ine,
+forest,
+grass,
+holding,
+hood,
+leaf,
+male focus,
+nature,
+plant,
+rating:safe,
+solo,
+standing,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+title:autumn ranger by viktor solovyov.,
+tree,
+uploader:turbologic,
+weapon,

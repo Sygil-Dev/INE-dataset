@@ -1,28 +1,28 @@
-armor
-blizzard
-category:ine
-character:amélie "widowmaker" lacroix
-character:dr. angela "mercy" ziegler
-character:widowmaker
-creator:ching yeh
-creator:iwbitu
-cyborg
-dva
-fanart
-hanzo
-mask
-medium:digital 2d
-mercy
-overwatch
-samurai
-series:overwatch
-studio:blizzard entertainment
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:cyborg fan skins by ching yeh
-title:overwatch fanart
-tracer
-uploader:antrikshy
-website:reddit
-widowmaker
-zarya
+armor,
+blizzard,
+category:ine,
+character:amélie "widowmaker" lacroix,
+character:dr. angela "mercy" ziegler,
+character:widowmaker,
+creator:ching yeh,
+creator:iwbitu,
+cyborg,
+dva,
+fanart,
+hanzo,
+mask,
+medium:digital 2d,
+mercy,
+overwatch,
+samurai,
+series:overwatch,
+studio:blizzard entertainment,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:cyborg fan skins by ching yeh,
+title:overwatch fanart,
+tracer,
+uploader:antrikshy,
+website:reddit,
+widowmaker,
+zarya,

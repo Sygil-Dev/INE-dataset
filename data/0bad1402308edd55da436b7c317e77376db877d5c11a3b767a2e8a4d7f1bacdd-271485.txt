@@ -1,31 +1,31 @@
-angel
-bird
-bird wings
-black feathers
-black hair
-black wings
-category:ine
-creator:sevelbows
-crow
-eagle
-facial hair
-feathered wings
-feathers
-harpy
-head wings
-multicolored hair
-multiple boys
-multiple girls
-pink hair
-pointy ears
-rating:safe
-subreddit:imaginarywerewolves
-subreddit:immonsters
-talons
-tattoo
-title:"jane doe" by sev elbows
-title:'jane doe'
-transparent background
-uploader:sevelbows
-winged arms
-wings
+angel,
+bird,
+bird wings,
+black feathers,
+black hair,
+black wings,
+category:ine,
+creator:sevelbows,
+crow,
+eagle,
+facial hair,
+feathered wings,
+feathers,
+harpy,
+head wings,
+multicolored hair,
+multiple boys,
+multiple girls,
+pink hair,
+pointy ears,
+rating:safe,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+talons,
+tattoo,
+title:"jane doe" by sev elbows,
+title:'jane doe',
+transparent background,
+uploader:sevelbows,
+winged arms,
+wings,

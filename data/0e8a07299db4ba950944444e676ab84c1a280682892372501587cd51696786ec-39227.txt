@@ -1,22 +1,22 @@
-1girl
-animal
-black hair
-category:ine
-fur
-fur trim
-hat
-holding
-rating:safe
-reindeer
-riding
-santa hat
-short hair
-simple background
-solo
-subreddit:imaginaryanimals
-subreddit:imaginarypets
-subreddit:immeta
-subreddit:imnature
-title:[oc] raven
-uploader:wslafleur
-white background
+1girl,
+animal,
+black hair,
+category:ine,
+fur,
+fur trim,
+hat,
+holding,
+rating:safe,
+reindeer,
+riding,
+santa hat,
+short hair,
+simple background,
+solo,
+subreddit:imaginaryanimals,
+subreddit:imaginarypets,
+subreddit:immeta,
+subreddit:imnature,
+title:[oc] raven,
+uploader:wslafleur,
+white background,

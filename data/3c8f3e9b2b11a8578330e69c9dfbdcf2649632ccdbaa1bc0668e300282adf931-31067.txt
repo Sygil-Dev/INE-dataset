@@ -1,46 +1,46 @@
-1 female
-%c5%82owicz
-black footwear
-blonde hair
-blue eyes
-boots
-braid
-category:ine
-clothing:dress
-clothing:footwear
-creator:radittz
-cross-laced footwear
-dress
-floral background
-flower
-folk
-footwear
-full body
-gender:female
-hair flower
-hair ornament
-long hair
-long sleeves
-medium:artist name
-medium:high resolution
-medium:watermark
-medium:web address
-meta:highres
-multicolored
-multicolored clothes
-multicolored dress
-poland
-polish clothes
-rating:mature
-rating:safe
-series:original
-solo
-subreddit:imaginaryfashion
-subreddit:immeta
-title:polish rainbow
-title:polish rainbow by marta radittz
-title:polish rainbow by radittz
-twin braids
-uploader:lol33ta
-very long hair
-łowicz
+1 female,
+%c5%82owicz,
+black footwear,
+blonde hair,
+blue eyes,
+boots,
+braid,
+category:ine,
+clothing:dress,
+clothing:footwear,
+creator:radittz,
+cross-laced footwear,
+dress,
+floral background,
+flower,
+folk,
+footwear,
+full body,
+gender:female,
+hair flower,
+hair ornament,
+long hair,
+long sleeves,
+medium:artist name,
+medium:high resolution,
+medium:watermark,
+medium:web address,
+meta:highres,
+multicolored,
+multicolored clothes,
+multicolored dress,
+poland,
+polish clothes,
+rating:mature,
+rating:safe,
+series:original,
+solo,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+title:polish rainbow,
+title:polish rainbow by marta radittz,
+title:polish rainbow by radittz,
+twin braids,
+uploader:lol33ta,
+very long hair,
+łowicz,

@@ -1,21 +1,21 @@
-bird
-category:ine
-day
-facing away
-grass
-long hair
-outdoors
-plant
-rating:safe
-ruins
-scenery
-sky
-standing
-subreddit:imaginaryruins
-subreddit:imaginarywastelands
-subreddit:imarchitecture
-subreddit:imlandscapes
-title:beach walk by jan ditlev
-tree
-uploader:myrandall
-waterfall
+bird,
+category:ine,
+day,
+facing away,
+grass,
+long hair,
+outdoors,
+plant,
+rating:safe,
+ruins,
+scenery,
+sky,
+standing,
+subreddit:imaginaryruins,
+subreddit:imaginarywastelands,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+title:beach walk by jan ditlev,
+tree,
+uploader:myrandall,
+waterfall,

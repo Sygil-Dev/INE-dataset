@@ -1,36 +1,36 @@
-1girl
-black jacket
-building
-cable
-category:ine
-city
-city lights
-cityscape
-cyberpunk
-facing away
-green eyes
-heads-up display
-health bar
-jacket
-long hair
-neon lights
-neon trim
-outdoors
-post-apocalypse
-rain
-rating:safe
-reflection
-ruins
-scenery
-science fiction
-skyscraper
-solo
-standing
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:europolis streets by christer sveen
-uploader:lol33ta
-uploader:warandpiece
-very long hair
-water
-white hair
+1girl,
+black jacket,
+building,
+cable,
+category:ine,
+city,
+city lights,
+cityscape,
+cyberpunk,
+facing away,
+green eyes,
+heads-up display,
+health bar,
+jacket,
+long hair,
+neon lights,
+neon trim,
+outdoors,
+post-apocalypse,
+rain,
+rating:safe,
+reflection,
+ruins,
+scenery,
+science fiction,
+skyscraper,
+solo,
+standing,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:europolis streets by christer sveen,
+uploader:lol33ta,
+uploader:warandpiece,
+very long hair,
+water,
+white hair,

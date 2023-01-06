@@ -1,23 +1,23 @@
-axe
-bush
-category:ine
-day
-forest
-grass
-jungle
-monster
-nature
-outdoors
-plant
-rating:safe
-river
-scenery
-sharp teeth
-stream
-subreddit:imaginarybehemoths
-subreddit:immonsters
-sword
-title:chase by sam burley
-tree
-uploader:tamander
-weapon
+axe,
+bush,
+category:ine,
+day,
+forest,
+grass,
+jungle,
+monster,
+nature,
+outdoors,
+plant,
+rating:safe,
+river,
+scenery,
+sharp teeth,
+stream,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+sword,
+title:chase by sam burley,
+tree,
+uploader:tamander,
+weapon,

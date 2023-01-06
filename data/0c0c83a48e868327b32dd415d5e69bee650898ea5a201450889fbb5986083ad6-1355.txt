@@ -1,28 +1,28 @@
-6+boys
-armor
-battle
-beard
-bow (weapon)
-category:ine
-facial hair
-hat
-helmet
-holding
-holding sword
-holding weapon
-long hair
-monster
-multiple boys
-rating:safe
-subreddit:imaginarybehemoths
-subreddit:imaginarygiants
-subreddit:immonsters
-subreddit:imraces
-sword
-title:"duel of colossuses" by yuriy chemezov
-title:duel of colossuses by yuriy chemezov
-uploader:3dom
-uploader:kuaiban
-uploader:lol33ta
-weapon
-wings
+6+boys,
+armor,
+battle,
+beard,
+bow (weapon),
+category:ine,
+facial hair,
+hat,
+helmet,
+holding,
+holding sword,
+holding weapon,
+long hair,
+monster,
+multiple boys,
+rating:safe,
+subreddit:imaginarybehemoths,
+subreddit:imaginarygiants,
+subreddit:immonsters,
+subreddit:imraces,
+sword,
+title:"duel of colossuses" by yuriy chemezov,
+title:duel of colossuses by yuriy chemezov,
+uploader:3dom,
+uploader:kuaiban,
+uploader:lol33ta,
+weapon,
+wings,

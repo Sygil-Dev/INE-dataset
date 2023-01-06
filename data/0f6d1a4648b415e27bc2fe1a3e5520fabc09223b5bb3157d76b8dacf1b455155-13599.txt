@@ -1,57 +1,57 @@
-armor
-artist:audrarius
-blue body
-blue feathers
-blue_body
-blue_feathers
-booru:e621
-category:ine
-character:rainbow dash
-character:rainbow dash (mlp)
-character:rainbow_dash_(mlp)
-clothing:armor
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:audrarius
-feathered wings
-feathered_wings
-feathers
-female
-gender:female
-genre:fantasy
-hair
-medium:absurd resolution
-medium:high resolution
-medium:simple background
-meta:absurd res
-meta:absurd_res
-meta:hi res
-meta:hi_res
-multicolored hair
-multicolored_hair
-pegasus
-purple eyes
-purple_eyes
-rainbow hair
-rainbow_hair
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-simple background
-simple_background
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryartifacts
-subreddit:immeta
-title:helmet
-title:helmet by malus/'audrarius'
-uploader:myrandall
-wings
+armor,
+artist:audrarius,
+blue body,
+blue feathers,
+blue_body,
+blue_feathers,
+booru:e621,
+category:ine,
+character:rainbow dash,
+character:rainbow dash (mlp),
+character:rainbow_dash_(mlp),
+clothing:armor,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:audrarius,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+gender:female,
+genre:fantasy,
+hair,
+medium:absurd resolution,
+medium:high resolution,
+medium:simple background,
+meta:absurd res,
+meta:absurd_res,
+meta:hi res,
+meta:hi_res,
+multicolored hair,
+multicolored_hair,
+pegasus,
+purple eyes,
+purple_eyes,
+rainbow hair,
+rainbow_hair,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+simple background,
+simple_background,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryartifacts,
+subreddit:immeta,
+title:helmet,
+title:helmet by malus/'audrarius',
+uploader:myrandall,
+wings,

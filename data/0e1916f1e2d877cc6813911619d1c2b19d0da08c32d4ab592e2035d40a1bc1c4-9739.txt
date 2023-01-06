@@ -1,49 +1,49 @@
-aurora
-bridge
-building
-category:ine
-city
-city lights
-cityscape
-clock tower
-cloud
-constellation
-crescent moon
-earth (planet)
-ferris wheel
-fireworks
-full moon
-galaxy
-lamppost
-light particles
-long hair
-milky way
-moon
-moonlight
-night
-night sky
-outdoors
-planet
-rating:safe
-scenery
-science fiction
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-space
-space craft
-standing
-star (sky)
-starry background
-starry sky
-starry sky print
-subreddit:imaginaryportals
-subreddit:imtechnology
-telescope
-title:blue sun by mike winkelmann
-tower
-uploader:journey_951
+aurora,
+bridge,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+constellation,
+crescent moon,
+earth (planet),
+ferris wheel,
+fireworks,
+full moon,
+galaxy,
+lamppost,
+light particles,
+long hair,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+outdoors,
+planet,
+rating:safe,
+scenery,
+science fiction,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+space,
+space craft,
+standing,
+star (sky),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginaryportals,
+subreddit:imtechnology,
+telescope,
+title:blue sun by mike winkelmann,
+tower,
+uploader:journey_951,

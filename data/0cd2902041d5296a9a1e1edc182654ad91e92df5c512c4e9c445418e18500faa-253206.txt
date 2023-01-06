@@ -1,27 +1,27 @@
-architecture
-blue sky
-bridge
-building
-castle
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-day
-fantasy
-floating island
-gate
-mountain
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarywaterfalls
-subreddit:imnature
-sunset
-title:tiandao by zhenpeng dong
-tower
-tree
-uploader:lol33ta
-water
+architecture,
+blue sky,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+fantasy,
+floating island,
+gate,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarywaterfalls,
+subreddit:imnature,
+sunset,
+title:tiandao by zhenpeng dong,
+tower,
+tree,
+uploader:lol33ta,
+water,

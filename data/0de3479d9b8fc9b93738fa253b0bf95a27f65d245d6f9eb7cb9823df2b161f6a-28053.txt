@@ -1,25 +1,25 @@
-artist name
-banshee
-blue theme
-category:ine
-creator:maik beiersdorf
-ghost
-horror
-katana
-long hair
-medium:digital 2d
-medium:lineart
-rating:safe
-skeleton
-solo
-species:lich
-species:undead
-specter
-subreddit:imaginaryundead
-subreddit:immonsters
-sword
-title:"wraith" by maik beiersdorf
-title:wraith
-uploader:pyro_azer
-weapon
-wraith
+artist name,
+banshee,
+blue theme,
+category:ine,
+creator:maik beiersdorf,
+ghost,
+horror,
+katana,
+long hair,
+medium:digital 2d,
+medium:lineart,
+rating:safe,
+skeleton,
+solo,
+species:lich,
+species:undead,
+specter,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+sword,
+title:"wraith" by maik beiersdorf,
+title:wraith,
+uploader:pyro_azer,
+weapon,
+wraith,

@@ -1,25 +1,25 @@
-category:ine
-gun
-mecha
-military
-military uniform
-military vehicle
-ocean
-planet
-rating:safe
-rifle
-ship
-snow
-snowing
-soldier
-subreddit:imaginarybattlefields
-subreddit:imaginaryvehicles
-subreddit:imlandscapes
-subreddit:imtechnology
-title:imperial troop/at-at transport by john dunivant
-uniform
-uploader:[deleted]
-uploader:ethan_kahn
-water
-watercraft
-weapon
+category:ine,
+gun,
+mecha,
+military,
+military uniform,
+military vehicle,
+ocean,
+planet,
+rating:safe,
+rifle,
+ship,
+snow,
+snowing,
+soldier,
+subreddit:imaginarybattlefields,
+subreddit:imaginaryvehicles,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+title:imperial troop/at-at transport by john dunivant,
+uniform,
+uploader:[deleted],
+uploader:ethan_kahn,
+water,
+watercraft,
+weapon,

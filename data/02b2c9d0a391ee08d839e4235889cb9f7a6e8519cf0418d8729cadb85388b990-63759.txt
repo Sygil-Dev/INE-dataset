@@ -1,31 +1,31 @@
-beach
-boat
-category:ine
-cloud
-creator:spaceweaver
-dragon
-horizon
-lake
-mountain
-no humans
-ocean
-outdoors
-rating:safe
-river
-rock
-scales
-scenery
-shore
-sky
-subreddit:imaginaryglaciers
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-sunlight
-title:melting
-title:melting by spaceweaver/nicolas becaud nguyen
-title:melting by spaceweaver/nicolas becaud nguyen (x-post /r/imaginaryglaciers)
-uploader:chalkchick0
-water
-watercraft
-waterfall
-waves
+beach,
+boat,
+category:ine,
+cloud,
+creator:spaceweaver,
+dragon,
+horizon,
+lake,
+mountain,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+river,
+rock,
+scales,
+scenery,
+shore,
+sky,
+subreddit:imaginaryglaciers,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+sunlight,
+title:melting,
+title:melting by spaceweaver/nicolas becaud nguyen,
+title:melting by spaceweaver/nicolas becaud nguyen (x-post /r/imaginaryglaciers),
+uploader:chalkchick0,
+water,
+watercraft,
+waterfall,
+waves,

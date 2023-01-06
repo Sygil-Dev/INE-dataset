@@ -1,98 +1,98 @@
-1girl
-1970s (style)
-1980s (style)
-above clouds
-aerial fireworks
-alien
-american flag
-antlers
-astronaut
-aurora
-balcony
-building
-campfire
-category:ine
-character:miyamizu mitsuha
-character:touwa erio
-character:ultimate madoka
-christmas
-christmas lights
-christmas ornaments
-christmas tree
-city
-city lights
-cityscape
-closed eyes
-cloud
-constellation
-constellation print
-crescent moon
-desert
-dusk
-dust
-earth (planet)
-festival
-fireflies
-fireworks
-full moon
-galaxy
-globe
-glowing
-gradient sky
-halftone background
-hirschgeweih antennas
-house
-lamppost
-light
-light particles
-lights
-looking up
-meme
-merry christmas
-milky way
-moon
-moonlight
-night
-night sky
-onsen
-pine tree
-planet
-print headwear
-projected inset
-rating:safe
-reflection
-reflective water
-reindeer
-rocket
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-space
-space craft
-space helmet
-spacesuit
-sparkler
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarybodyscapes
-subreddit:imlandscapes
-summer festival
-tanabata
-tanzaku
-telescope
-tent
-title:[069] mind like a universe, by mariah tato
-twilight
-uchiwa
-ufo
-uploader:belledame-sans-serif
-window
-winter
-yukata
+1girl,
+1970s (style),
+1980s (style),
+above clouds,
+aerial fireworks,
+alien,
+american flag,
+antlers,
+astronaut,
+aurora,
+balcony,
+building,
+campfire,
+category:ine,
+character:miyamizu mitsuha,
+character:touwa erio,
+character:ultimate madoka,
+christmas,
+christmas lights,
+christmas ornaments,
+christmas tree,
+city,
+city lights,
+cityscape,
+closed eyes,
+cloud,
+constellation,
+constellation print,
+crescent moon,
+desert,
+dusk,
+dust,
+earth (planet),
+festival,
+fireflies,
+fireworks,
+full moon,
+galaxy,
+globe,
+glowing,
+gradient sky,
+halftone background,
+hirschgeweih antennas,
+house,
+lamppost,
+light,
+light particles,
+lights,
+looking up,
+meme,
+merry christmas,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+onsen,
+pine tree,
+planet,
+print headwear,
+projected inset,
+rating:safe,
+reflection,
+reflective water,
+reindeer,
+rocket,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+space,
+space craft,
+space helmet,
+spacesuit,
+sparkler,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarybodyscapes,
+subreddit:imlandscapes,
+summer festival,
+tanabata,
+tanzaku,
+telescope,
+tent,
+title:[069] mind like a universe, by mariah tato,
+twilight,
+uchiwa,
+ufo,
+uploader:belledame-sans-serif,
+window,
+winter,
+yukata,

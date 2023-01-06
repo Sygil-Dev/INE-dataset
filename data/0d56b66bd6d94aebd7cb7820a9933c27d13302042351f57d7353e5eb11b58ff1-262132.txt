@@ -1,21 +1,21 @@
-armoury
-category:ine
-conceptart
-creator:alejandro gonzalez agudelo
-landless
-medium:digital 2d
-no humans
-planted
-planted sword
-postapocalyptic game
-postapocalyptic style
-rating:safe
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-sword
-title:armoury concept for landless
-title:armoury concept for landless, alejandro gonzalez agudelo
-uploader:hvitserkr
-weapon
-weapons
-wepons concept
+armoury,
+category:ine,
+conceptart,
+creator:alejandro gonzalez agudelo,
+landless,
+medium:digital 2d,
+no humans,
+planted,
+planted sword,
+postapocalyptic game,
+postapocalyptic style,
+rating:safe,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+sword,
+title:armoury concept for landless,
+title:armoury concept for landless, alejandro gonzalez agudelo,
+uploader:hvitserkr,
+weapon,
+weapons,
+wepons concept,

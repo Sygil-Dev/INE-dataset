@@ -1,22 +1,22 @@
-architecture
-bare tree
-building
-category:ine
-city
-city lights
-cityscape
-night
-outdoors
-rating:safe
-road
-scenery
-sky
-skyscraper
-snow
-snowing
-street
-subreddit:imaginarytrees
-subreddit:imnature
-title:times square tree by joan piqué llorens
-tree
-uploader:nitemyria
+architecture,
+bare tree,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+night,
+outdoors,
+rating:safe,
+road,
+scenery,
+sky,
+skyscraper,
+snow,
+snowing,
+street,
+subreddit:imaginarytrees,
+subreddit:imnature,
+title:times square tree by joan piqué llorens,
+tree,
+uploader:nitemyria,

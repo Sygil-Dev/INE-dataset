@@ -1,31 +1,31 @@
-bridge
-building
-castle
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-fantasy
-grass
-landscape
-lightning
-mountain
-nature
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-sunset
-title:castle, week 28 by tomasz chistowski
-title:daily sketches week #28 by tomasz chistowski
-tower
-tree
-uploader:imwaaal
-uploader:lol33ta
-water
-waterfall
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+fantasy,
+grass,
+landscape,
+lightning,
+mountain,
+nature,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+sunset,
+title:castle, week 28 by tomasz chistowski,
+title:daily sketches week #28 by tomasz chistowski,
+tower,
+tree,
+uploader:imwaaal,
+uploader:lol33ta,
+water,
+waterfall,

@@ -1,23 +1,23 @@
-architecture
-bridge
-building
-category:ine
-city
-city lights
-cityscape
-east asian architecture
-outdoors
-pagoda
-rating:safe
-scenery
-skyscraper
-subreddit:imaginarymindscapes
-subreddit:imaginarytowers
-subreddit:imarchitecture
-subreddit:imlandscapes
-title:'yesterday you said tomorrow' by eugene panshin
-title:city by eugene panshin
-tower
-tree
-uploader:jaykirsch
-uploader:lol33ta
+architecture,
+bridge,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+east asian architecture,
+outdoors,
+pagoda,
+rating:safe,
+scenery,
+skyscraper,
+subreddit:imaginarymindscapes,
+subreddit:imaginarytowers,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+title:'yesterday you said tomorrow' by eugene panshin,
+title:city by eugene panshin,
+tower,
+tree,
+uploader:jaykirsch,
+uploader:lol33ta,

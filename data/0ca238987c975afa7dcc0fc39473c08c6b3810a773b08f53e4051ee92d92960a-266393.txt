@@ -1,30 +1,30 @@
-blue sky
-bridge
-building
-castle
-category:ine
-city
-cloud
-cloudy sky
-day
-grass
-lake
-mountain
-mountainous horizon
-nature
-outdoors
-rating:safe
-river
-rock
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-sunbeam
-title:castle in the valley c1 by sergey zabelin
-tower
-tree
-uploader:drunkindragon
-water
-waterfall
-website:reddit
+blue sky,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cloud,
+cloudy sky,
+day,
+grass,
+lake,
+mountain,
+mountainous horizon,
+nature,
+outdoors,
+rating:safe,
+river,
+rock,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+sunbeam,
+title:castle in the valley c1 by sergey zabelin,
+tower,
+tree,
+uploader:drunkindragon,
+water,
+waterfall,
+website:reddit,

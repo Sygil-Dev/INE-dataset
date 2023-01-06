@@ -1,78 +1,78 @@
-2018
-ambiguous gender
-animal
-apple
-biped
-bird
-blonde hair
-blonde mane
-blue sky
-booru:e621
-brown body
-category:ine
-cloud
-cloudscape
-cloudy sky
-creator:sandara
-day
-detailed background
-dog
-dot eyes
-eyes closed
-feral
-field
-food
-fruit
-gender:ambiguous
-grass
-green body
-group
-hair
-holding food
-holding object
-long tail
-mane
-medium:detailed background
-medium:digital media
-meta:2018
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:shaded
-mountain
-mountainous horizon
-multicolored body
-no humans
-orange eyes
-outdoors
-outside
-plant
-quadruped
-rating:safe
-saddle
-scenery
-series:breath of the wild
-series:nintendo
-series:the legend of zelda
-sitting
-sky
-species:ambient bird
-species:avian
-species:bird
-species:equid
-species:equine
-species:horse
-species:korok
-species:mammal
-standing
-stripped body
-subreddit:imaginaryanimals
-subreddit:imnature
-title:breath of the wild - whistle
-title:breath of the wild - whistle by sandara tang
-two tone body
-uploader:myrandall
-video games
-weapon
-website:reddit
-white body
-year:2018
+2018,
+ambiguous gender,
+animal,
+apple,
+biped,
+bird,
+blonde hair,
+blonde mane,
+blue sky,
+booru:e621,
+brown body,
+category:ine,
+cloud,
+cloudscape,
+cloudy sky,
+creator:sandara,
+day,
+detailed background,
+dog,
+dot eyes,
+eyes closed,
+feral,
+field,
+food,
+fruit,
+gender:ambiguous,
+grass,
+green body,
+group,
+hair,
+holding food,
+holding object,
+long tail,
+mane,
+medium:detailed background,
+medium:digital media,
+meta:2018,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:shaded,
+mountain,
+mountainous horizon,
+multicolored body,
+no humans,
+orange eyes,
+outdoors,
+outside,
+plant,
+quadruped,
+rating:safe,
+saddle,
+scenery,
+series:breath of the wild,
+series:nintendo,
+series:the legend of zelda,
+sitting,
+sky,
+species:ambient bird,
+species:avian,
+species:bird,
+species:equid,
+species:equine,
+species:horse,
+species:korok,
+species:mammal,
+standing,
+stripped body,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:breath of the wild - whistle,
+title:breath of the wild - whistle by sandara tang,
+two tone body,
+uploader:myrandall,
+video games,
+weapon,
+website:reddit,
+white body,
+year:2018,

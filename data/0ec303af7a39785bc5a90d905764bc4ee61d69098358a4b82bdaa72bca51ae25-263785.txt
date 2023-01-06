@@ -1,21 +1,21 @@
-blue sky
-category:ine
-caterpillar tracks
-day
-desert
-ground vehicle
-hat
-military
-military uniform
-military vehicle
-motor vehicle
-outdoors
-rating:safe
-sand
-sky
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-tank
-title:desert truck by konstantin vohwinkel
-uniform
-uploader:i_burn_cereal
+blue sky,
+category:ine,
+caterpillar tracks,
+day,
+desert,
+ground vehicle,
+hat,
+military,
+military uniform,
+military vehicle,
+motor vehicle,
+outdoors,
+rating:safe,
+sand,
+sky,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+tank,
+title:desert truck by konstantin vohwinkel,
+uniform,
+uploader:i_burn_cereal,

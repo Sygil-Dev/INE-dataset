@@ -1,25 +1,25 @@
-bird
-blue sky
-bush
-category:ine
-cloud
-day
-field
-forest
-grass
-green theme
-mountain
-nature
-no humans
-outdoors
-pokemon (creature)
-rating:safe
-river
-road
-scenery
-sky
-subreddit:imaginaryanimals
-subreddit:imnature
-title:bird of valor by zephaniah lukamba
-tree
-uploader:jorgeamvf
+bird,
+blue sky,
+bush,
+category:ine,
+cloud,
+day,
+field,
+forest,
+grass,
+green theme,
+mountain,
+nature,
+no humans,
+outdoors,
+pokemon (creature),
+rating:safe,
+river,
+road,
+scenery,
+sky,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:bird of valor by zephaniah lukamba,
+tree,
+uploader:jorgeamvf,

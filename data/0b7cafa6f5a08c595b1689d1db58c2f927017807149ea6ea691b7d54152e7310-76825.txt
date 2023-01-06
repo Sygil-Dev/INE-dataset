@@ -1,22 +1,22 @@
-bare tree
-bush
-castle
-category:ine
-cloud
-cloudy sky
-fog
-forest
-mountain
-mountainous horizon
-nature
-night
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryvessels
-subreddit:imtechnology
-title:between the devil and the deep blue sea by alisher mirzoev
-tree
-uploader:[deleted]
-uploader:emotionalyak3
+bare tree,
+bush,
+castle,
+category:ine,
+cloud,
+cloudy sky,
+fog,
+forest,
+mountain,
+mountainous horizon,
+nature,
+night,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryvessels,
+subreddit:imtechnology,
+title:between the devil and the deep blue sea by alisher mirzoev,
+tree,
+uploader:[deleted],
+uploader:emotionalyak3,

@@ -1,68 +1,68 @@
-autumn
-autumn leaves
-battle
-breathing fire
-burning
-burnt clothes
-campfire
-candle
-category:ine
-character:aki shizuha
-character:charizard
-character:charmander
-character:endeavor (boku no hero academia)
-character:fujiwara no mokou
-character:godzilla
-city
-cooking
-destruction
-dusk
-embers
-evening
-explosion
-falling leaves
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-forest
-goldfish
-gradient sky
-holding leaf
-leaf
-maple leaf
-molten rock
-mountainous horizon
-muzzle flash
-nature
-orange background
-orange sky
-orange theme
-phoenix
-pyrokinesis
-rating:safe
-red sky
-red theme
-scenery
-smoke
-sparks
-starter pokemon trio
-subreddit:imaginaryelementals
-subreddit:imaginaryhellscapes
-subreddit:imlandscapes
-subreddit:immonsters
-sun
-sunset
-sweet potato
-sword of hisou
-tail-tip fire
-title:"fire guardian" by marquis lester
-torch
-tree
-twilight
-uploader:torvusil
-volcano
+autumn,
+autumn leaves,
+battle,
+breathing fire,
+burning,
+burnt clothes,
+campfire,
+candle,
+category:ine,
+character:aki shizuha,
+character:charizard,
+character:charmander,
+character:endeavor (boku no hero academia),
+character:fujiwara no mokou,
+character:godzilla,
+city,
+cooking,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+falling leaves,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+forest,
+goldfish,
+gradient sky,
+holding leaf,
+leaf,
+maple leaf,
+molten rock,
+mountainous horizon,
+muzzle flash,
+nature,
+orange background,
+orange sky,
+orange theme,
+phoenix,
+pyrokinesis,
+rating:safe,
+red sky,
+red theme,
+scenery,
+smoke,
+sparks,
+starter pokemon trio,
+subreddit:imaginaryelementals,
+subreddit:imaginaryhellscapes,
+subreddit:imlandscapes,
+subreddit:immonsters,
+sun,
+sunset,
+sweet potato,
+sword of hisou,
+tail-tip fire,
+title:"fire guardian" by marquis lester,
+torch,
+tree,
+twilight,
+uploader:torvusil,
+volcano,

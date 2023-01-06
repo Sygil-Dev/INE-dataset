@@ -1,33 +1,33 @@
-1970s (style)
-1980s (style)
-category:ine
-creator:jamusdu
-cygnus
-disney
-disneyfanart
-earth (planet)
-glowing
-jamesjdunn
-jamusdu
-mecha
-milky way
-night
-night sky
-no humans
-planet
-rating:safe
-retro artstyle
-science fiction
-space
-star (sky)
-starry sky
-subreddit:imaginarydisney
-subreddit:imfandoms
-sword
-theblackhole
-title:disney's: the black hole [oa]
-title:the black hole
-uploader:jamusdu
-vincent
-waltdisneypictures
-weapon
+1970s (style),
+1980s (style),
+category:ine,
+creator:jamusdu,
+cygnus,
+disney,
+disneyfanart,
+earth (planet),
+glowing,
+jamesjdunn,
+jamusdu,
+mecha,
+milky way,
+night,
+night sky,
+no humans,
+planet,
+rating:safe,
+retro artstyle,
+science fiction,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+sword,
+theblackhole,
+title:disney's: the black hole [oa],
+title:the black hole,
+uploader:jamusdu,
+vincent,
+waltdisneypictures,
+weapon,

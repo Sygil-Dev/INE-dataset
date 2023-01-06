@@ -1,30 +1,30 @@
-1boy
-armor
-bare tree
-beard
-category:ine
-facial hair
-full moon
-hat
-holding
-holding sword
-katana
-long hair
-male focus
-moon
-night
-night sky
-old
-old man
-rating:safe
-sheath
-sky
-solo
-subreddit:imaginarywarriors
-subreddit:imcharacters
-sword
-title:"three kingdoms heroes 陶谦 2017" by gan junxi
-tree
-unsheathing
-uploader:pyro_azer
-weapon
+1boy,
+armor,
+bare tree,
+beard,
+category:ine,
+facial hair,
+full moon,
+hat,
+holding,
+holding sword,
+katana,
+long hair,
+male focus,
+moon,
+night,
+night sky,
+old,
+old man,
+rating:safe,
+sheath,
+sky,
+solo,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+sword,
+title:"three kingdoms heroes 陶谦 2017" by gan junxi,
+tree,
+unsheathing,
+uploader:pyro_azer,
+weapon,

@@ -1,53 +1,53 @@
-adventure
-anger
-anxiety
-art
-breeze
-category:ine
-clouds
-creative
-creativity
-creator:daniel ignacio
-dramatic
-emotion
-environment
-evening
-fly
-game art
-gaming
-genre:fantasy
-genre:science fiction
-graphic design
-happiness
-inspiration
-landscape
-machine
-mecha
-medium:animated
-medium:concept art
-medium:traditional 3d
-mmorpg
-morning
-motivation
-movie
-nature
-night
-passion
-pastoral
-poetry
-sadness
-scenery
-shapes
-sky
-space
-story
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sunrise
-sunset
-title:lito by daniel ignacio
-title:the face of the deep
-travel
-trees
-uploader:somepostman
-vibrant
+adventure,
+anger,
+anxiety,
+art,
+breeze,
+category:ine,
+clouds,
+creative,
+creativity,
+creator:daniel ignacio,
+dramatic,
+emotion,
+environment,
+evening,
+fly,
+game art,
+gaming,
+genre:fantasy,
+genre:science fiction,
+graphic design,
+happiness,
+inspiration,
+landscape,
+machine,
+mecha,
+medium:animated,
+medium:concept art,
+medium:traditional 3d,
+mmorpg,
+morning,
+motivation,
+movie,
+nature,
+night,
+passion,
+pastoral,
+poetry,
+sadness,
+scenery,
+shapes,
+sky,
+space,
+story,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sunrise,
+sunset,
+title:lito by daniel ignacio,
+title:the face of the deep,
+travel,
+trees,
+uploader:somepostman,
+vibrant,

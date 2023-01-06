@@ -1,21 +1,21 @@
-black background
-black border
-category:ine
-circle
-full body
-full moon
-grin
-letterboxed
-moon
-orange theme
-pillarboxed
-pointy ears
-rating:safe
-signature
-smile
-solo
-subreddit:imaginarymerfolk
-subreddit:imraces
-title:mermay day 11
-transparent background
-uploader:limunab0i
+black background,
+black border,
+category:ine,
+circle,
+full body,
+full moon,
+grin,
+letterboxed,
+moon,
+orange theme,
+pillarboxed,
+pointy ears,
+rating:safe,
+signature,
+smile,
+solo,
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+title:mermay day 11,
+transparent background,
+uploader:limunab0i,

@@ -1,28 +1,28 @@
-1girl
-beach
-boat
-category:ine
-city lights
-cloud
-horizon
-lake
-light rays
-long hair
-ocean
-outdoors
-rating:safe
-reflection
-river
-scenery
-shore
-sky
-subreddit:imaginarycityscapes
-subreddit:imaginaryfuturism
-subreddit:imlandscapes
-subreddit:imtechnology
-sunbeam
-title:"arctic city / aurora borealis" by david alvarez
-uploader:pyro_azer
-very long hair
-water
-watercraft
+1girl,
+beach,
+boat,
+category:ine,
+city lights,
+cloud,
+horizon,
+lake,
+light rays,
+long hair,
+ocean,
+outdoors,
+rating:safe,
+reflection,
+river,
+scenery,
+shore,
+sky,
+subreddit:imaginarycityscapes,
+subreddit:imaginaryfuturism,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+sunbeam,
+title:"arctic city / aurora borealis" by david alvarez,
+uploader:pyro_azer,
+very long hair,
+water,
+watercraft,

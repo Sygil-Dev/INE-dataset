@@ -1,33 +1,33 @@
-aircraft
-battle
-building
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-mecha
-military
-military vehicle
-rating:safe
-realistic
-science fiction
-ship
-skyscraper
-soldier
-space craft
-subreddit:imaginarybattlefields
-subreddit:imaginarybestof
-subreddit:imaginaryworldeaters
-subreddit:imlandscapes
-subreddit:immeta
-subreddit:immonsters
-title:119 by su jian
-title:[/r/imaginaryworldeaters] 119 by su jian
-title:world eater by su jian
-tower
-uploader:[deleted]
-uploader:ethan_kahn
-uploader:lol33ta
-uploader:natezomby
-watercraft
+aircraft,
+battle,
+building,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+mecha,
+military,
+military vehicle,
+rating:safe,
+realistic,
+science fiction,
+ship,
+skyscraper,
+soldier,
+space craft,
+subreddit:imaginarybattlefields,
+subreddit:imaginarybestof,
+subreddit:imaginaryworldeaters,
+subreddit:imlandscapes,
+subreddit:immeta,
+subreddit:immonsters,
+title:119 by su jian,
+title:[/r/imaginaryworldeaters] 119 by su jian,
+title:world eater by su jian,
+tower,
+uploader:[deleted],
+uploader:ethan_kahn,
+uploader:lol33ta,
+uploader:natezomby,
+watercraft,

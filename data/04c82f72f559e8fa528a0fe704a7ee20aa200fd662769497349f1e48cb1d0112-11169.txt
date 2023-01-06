@@ -1,24 +1,24 @@
-category:ine
-cloud
-dusk
-evening
-gradient sky
-horizon
-mountain
-ocean
-orange sky
-outdoors
-rating:safe
-red sky
-red theme
-scenery
-sky
-subreddit:imaginaryarrakis
-subreddit:imfandoms
-sun
-sunset
-title:dune concept environment (013b) by simon goinard
-twilight
-uploader:[deleted]
-uploader:faeryknight
-water
+category:ine,
+cloud,
+dusk,
+evening,
+gradient sky,
+horizon,
+mountain,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+red theme,
+scenery,
+sky,
+subreddit:imaginaryarrakis,
+subreddit:imfandoms,
+sun,
+sunset,
+title:dune concept environment (013b) by simon goinard,
+twilight,
+uploader:[deleted],
+uploader:faeryknight,
+water,

@@ -1,29 +1,29 @@
-1boy
-animal
-artist name
-beard
-beetle
-blue butterfly
-bug
-butterfly
-butterfly on hand
-butterfly wings
-category:ine
-dated
-facial hair
-glowing butterfly
-male focus
-mustache
-old
-rating:safe
-realistic
-signature
-solo
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-title:frodo by ramin memarzade
-uploader:[deleted]
-uploader:owntheknight
-upper body
-white butterfly
-yellow butterfly
+1boy,
+animal,
+artist name,
+beard,
+beetle,
+blue butterfly,
+bug,
+butterfly,
+butterfly on hand,
+butterfly wings,
+category:ine,
+dated,
+facial hair,
+glowing butterfly,
+male focus,
+mustache,
+old,
+rating:safe,
+realistic,
+signature,
+solo,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+title:frodo by ramin memarzade,
+uploader:[deleted],
+uploader:owntheknight,
+upper body,
+white butterfly,
+yellow butterfly,

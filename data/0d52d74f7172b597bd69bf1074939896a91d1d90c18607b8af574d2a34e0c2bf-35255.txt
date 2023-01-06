@@ -1,23 +1,23 @@
-1boy
-black eyes
-black hair
-category:ine
-facial hair
-flower
-gradient
-gradient background
-grey background
-lips
-looking at viewer
-male focus
-mustache
-nose
-rating:safe
-realistic
-signature
-solo
-subreddit:imaginaryhumans
-subreddit:imraces
-title:nikola tesla by carlos castañeda
-uploader:lol33ta
-white flower
+1boy,
+black eyes,
+black hair,
+category:ine,
+facial hair,
+flower,
+gradient,
+gradient background,
+grey background,
+lips,
+looking at viewer,
+male focus,
+mustache,
+nose,
+rating:safe,
+realistic,
+signature,
+solo,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:nikola tesla by carlos castañeda,
+uploader:lol33ta,
+white flower,

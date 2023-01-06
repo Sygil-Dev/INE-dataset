@@ -1,22 +1,22 @@
-1girl
-artist name
-category:ine
-earrings
-glowing
-heart
-long hair
-looking at viewer
-makeup
-multicolored hair
-open mouth
-rating:safe
-solo
-subreddit:imaginarystash
-subreddit:imaginarywtf
-subreddit:imnsfw
-teeth
-title:akashic records by javier g. pacheco
-tongue
-tongue out
-uploader:lol33ta
-uploader:myrandall
+1girl,
+artist name,
+category:ine,
+earrings,
+glowing,
+heart,
+long hair,
+looking at viewer,
+makeup,
+multicolored hair,
+open mouth,
+rating:safe,
+solo,
+subreddit:imaginarystash,
+subreddit:imaginarywtf,
+subreddit:imnsfw,
+teeth,
+title:akashic records by javier g. pacheco,
+tongue,
+tongue out,
+uploader:lol33ta,
+uploader:myrandall,

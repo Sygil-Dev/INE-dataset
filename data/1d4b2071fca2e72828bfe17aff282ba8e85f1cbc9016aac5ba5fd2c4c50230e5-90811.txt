@@ -1,21 +1,21 @@
-category:ine
-creator:billy christian
-furry
-leviathan
-medium:digital 2d
-pink
-sea
-serpent
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:imaginaryleviathans
-subreddit:immonsters
-title:"ragetide serpent" by billy christian
-title:ragetide serpent
-title:ragetide serpent by billy christian
-uploader:mranzoti
-uploader:risellka
-uploader:synntara
-water beam
+category:ine,
+creator:billy christian,
+furry,
+leviathan,
+medium:digital 2d,
+pink,
+sea,
+serpent,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+title:"ragetide serpent" by billy christian,
+title:ragetide serpent,
+title:ragetide serpent by billy christian,
+uploader:mranzoti,
+uploader:risellka,
+uploader:synntara,
+water beam,

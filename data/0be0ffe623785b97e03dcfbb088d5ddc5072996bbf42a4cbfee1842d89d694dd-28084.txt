@@ -1,35 +1,35 @@
-1girl
-autumn
-burning
-campfire
-category:ine
-closed eyes
-dusk
-embers
-evening
-explosion
-field
-fire
-fireplace
-flame
-gradient sky
-grass
-horns
-long hair
-molten rock
-orange background
-orange sky
-orange theme
-outdoors
-rating:safe
-red sky
-signature
-smile
-subreddit:imaginarygiants
-subreddit:imraces
-sun
-sunset
-title:gentle giant, by yuri-murasaki
-twilight
-uploader:ripduncanidaho
-yellow sky
+1girl,
+autumn,
+burning,
+campfire,
+category:ine,
+closed eyes,
+dusk,
+embers,
+evening,
+explosion,
+field,
+fire,
+fireplace,
+flame,
+gradient sky,
+grass,
+horns,
+long hair,
+molten rock,
+orange background,
+orange sky,
+orange theme,
+outdoors,
+rating:safe,
+red sky,
+signature,
+smile,
+subreddit:imaginarygiants,
+subreddit:imraces,
+sun,
+sunset,
+title:gentle giant, by yuri-murasaki,
+twilight,
+uploader:ripduncanidaho,
+yellow sky,

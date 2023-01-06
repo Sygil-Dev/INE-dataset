@@ -1,27 +1,27 @@
-category:ine
-cloud
-cloudy sky
-creator:ilya golitsyn
-dusk
-embers
-facing away
-fire
-letterboxed
-medium:digital 2d
-orange sky
-outdoors
-rating:safe
-red sky
-scenery
-sky
-solo
-standing
-subreddit:imaginarydeserts
-subreddit:imnature
-sunset
-title:fantasy environment by ilya golitsyn
-title:fantasy environmet
-tower
-twilight
-uploader:thomar
-weapon
+category:ine,
+cloud,
+cloudy sky,
+creator:ilya golitsyn,
+dusk,
+embers,
+facing away,
+fire,
+letterboxed,
+medium:digital 2d,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+scenery,
+sky,
+solo,
+standing,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+sunset,
+title:fantasy environment by ilya golitsyn,
+title:fantasy environmet,
+tower,
+twilight,
+uploader:thomar,
+weapon,

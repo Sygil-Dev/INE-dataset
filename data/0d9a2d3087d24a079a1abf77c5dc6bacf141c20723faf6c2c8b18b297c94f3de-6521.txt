@@ -1,25 +1,25 @@
-aircraft
-bare tree
-bird
-bridge
-building
-category:ine
-city
-no humans
-orange sky
-outdoors
-palm tree
-plant
-power lines
-rating:safe
-scenery
-silhouette
-sky
-subreddit:imaginarygiants
-subreddit:imraces
-sunset
-title:hour of promise by jonas de ro
-tree
-twilight
-uploader:the-thirteenth
-water
+aircraft,
+bare tree,
+bird,
+bridge,
+building,
+category:ine,
+city,
+no humans,
+orange sky,
+outdoors,
+palm tree,
+plant,
+power lines,
+rating:safe,
+scenery,
+silhouette,
+sky,
+subreddit:imaginarygiants,
+subreddit:imraces,
+sunset,
+title:hour of promise by jonas de ro,
+tree,
+twilight,
+uploader:the-thirteenth,
+water,

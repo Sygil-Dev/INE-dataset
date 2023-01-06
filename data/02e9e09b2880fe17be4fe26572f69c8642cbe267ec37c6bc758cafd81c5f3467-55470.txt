@@ -1,57 +1,57 @@
-aurora
-breathing fire
-burning
-campfire
-candle
-category:ine
-city
-city lights
-cloud
-cloudy sky
-constellation
-dusk
-earth (planet)
-embers
-evening
-explosion
-fiery wings
-fire
-fireplace
-fireworks
-firing
-flame
-flaming sword
-flaming weapon
-galaxy
-gradient sky
-horizon
-light particles
-milky way
-molten rock
-night
-night sky
-no humans
-orange sky
-planet
-rating:safe
-scenery
-shooting star
-sky
-snowing
-space
-sparkler
-sparks
-star (sky)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarystarscapes
-subreddit:imlandscapes
-sun
-sunrise
-sunset
-title:garden nebula by oleg danylenko
-torch
-twilight
-uploader:synntara
-volcano
+aurora,
+breathing fire,
+burning,
+campfire,
+candle,
+category:ine,
+city,
+city lights,
+cloud,
+cloudy sky,
+constellation,
+dusk,
+earth (planet),
+embers,
+evening,
+explosion,
+fiery wings,
+fire,
+fireplace,
+fireworks,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+galaxy,
+gradient sky,
+horizon,
+light particles,
+milky way,
+molten rock,
+night,
+night sky,
+no humans,
+orange sky,
+planet,
+rating:safe,
+scenery,
+shooting star,
+sky,
+snowing,
+space,
+sparkler,
+sparks,
+star (sky),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarystarscapes,
+subreddit:imlandscapes,
+sun,
+sunrise,
+sunset,
+title:garden nebula by oleg danylenko,
+torch,
+twilight,
+uploader:synntara,
+volcano,

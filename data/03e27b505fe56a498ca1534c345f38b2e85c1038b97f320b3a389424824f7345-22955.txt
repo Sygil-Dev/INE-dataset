@@ -1,39 +1,39 @@
-beach
-category:ine
-city
-city lights
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-horizon
-lake
-landscape
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-rating:safe
-red sky
-river
-scenery
-shore
-sky
-subreddit:imaginarymountains
-subreddit:imaginaryvolcanoes
-subreddit:imnature
-sun
-sunbeam
-sunlight
-sunrise
-sunset
-title:erebus mount. miskatonic expedition by guillem h. pongiluppi
-twilight
-uploader:e-leventy
-uploader:scoreleven
-water
-waves
+beach,
+category:ine,
+city,
+city lights,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+horizon,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+river,
+scenery,
+shore,
+sky,
+subreddit:imaginarymountains,
+subreddit:imaginaryvolcanoes,
+subreddit:imnature,
+sun,
+sunbeam,
+sunlight,
+sunrise,
+sunset,
+title:erebus mount. miskatonic expedition by guillem h. pongiluppi,
+twilight,
+uploader:e-leventy,
+uploader:scoreleven,
+water,
+waves,

@@ -1,35 +1,35 @@
-6+girls
-animal ears
-category:ine
-chain
-character sheet
-character:fujiwara no mokou
-character:izayoi sakuya
-coat
-creator:ilona mencner
-greyscale
-hat
-knife
-long hair
-medium:digital 2d
-monochrome
-multiple girls
-ponytail
-rating:safe
-scythe
-shadow
-short hair
-silhouette
-spot color
-standing
-subreddit:imaginarydemons
-subreddit:imaginarynobles
-subreddit:imcharacters
-subreddit:immonsters
-sword
-thighhighs
-title:demon queen
-title:demon queen by ilona mencner
-twintails
-uploader:net-diver
-weapon
+6+girls,
+animal ears,
+category:ine,
+chain,
+character sheet,
+character:fujiwara no mokou,
+character:izayoi sakuya,
+coat,
+creator:ilona mencner,
+greyscale,
+hat,
+knife,
+long hair,
+medium:digital 2d,
+monochrome,
+multiple girls,
+ponytail,
+rating:safe,
+scythe,
+shadow,
+short hair,
+silhouette,
+spot color,
+standing,
+subreddit:imaginarydemons,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+subreddit:immonsters,
+sword,
+thighhighs,
+title:demon queen,
+title:demon queen by ilona mencner,
+twintails,
+uploader:net-diver,
+weapon,

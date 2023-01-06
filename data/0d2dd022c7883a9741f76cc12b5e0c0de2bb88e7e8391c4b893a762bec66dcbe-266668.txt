@@ -1,23 +1,23 @@
-category:ine
-cloud
-cloudy sky
-fire
-horizon
-light rays
-mountain
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-sun
-sunbeam
-sunlight
-sunrise
-sunset
-title:untitled by raja nandepu
-tower
-uploader:[deleted]
-uploader:faeryknight
-water
+category:ine,
+cloud,
+cloudy sky,
+fire,
+horizon,
+light rays,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+sun,
+sunbeam,
+sunlight,
+sunrise,
+sunset,
+title:untitled by raja nandepu,
+tower,
+uploader:[deleted],
+uploader:faeryknight,
+water,

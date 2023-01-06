@@ -1,27 +1,27 @@
-category:ine
-character:ursula (the little mermaid)
-coloring
-creator:elias chatzoudis
-dark
-fairy tales
-fish
-inks
-lineart
-lines
-little mermaid
-medium:digital 2d
-medium:traditional dry media
-mermaid
-ocean
-paper
-pencils
-photoshop
-sea witch
-series:the little mermaid
-spooky
-subreddit:imaginarydisney
-subreddit:imfandoms
-title:ariel+ursula (ariela) by elias chatzoudis
-uploader:lol33ta
-ursula
-villain
+category:ine,
+character:ursula (the little mermaid),
+coloring,
+creator:elias chatzoudis,
+dark,
+fairy tales,
+fish,
+inks,
+lineart,
+lines,
+little mermaid,
+medium:digital 2d,
+medium:traditional dry media,
+mermaid,
+ocean,
+paper,
+pencils,
+photoshop,
+sea witch,
+series:the little mermaid,
+spooky,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+title:ariel+ursula (ariela) by elias chatzoudis,
+uploader:lol33ta,
+ursula,
+villain,

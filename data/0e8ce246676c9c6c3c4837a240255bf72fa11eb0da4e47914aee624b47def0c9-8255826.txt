@@ -1,45 +1,45 @@
-apocalypce
-architecture
-bare tree
-bridge
-building
-bulgaria
-bush
-castle
-category:ine
-city
-cloud
-cloudy sky
-creator:ismail inceoglu
-culture
-east asian architecture
-fence
-fog
-forest
-genre:science fiction
-grass
-house
-lightning
-medium:digital 2d
-national
-nature
-no humans
-outdoors
-pagoda
-palace
-plant
-rating:safe
-scenery
-shrine
-sky
-smoke
-sofia
-subreddit:imaginaryruins
-subreddit:imaginarytemples
-subreddit:imarchitecture
-title:city temple by ismail inceoglu
-tower
-tree
-uploader:l-ya
-uploader:myrandall
-waterfall
+apocalypce,
+architecture,
+bare tree,
+bridge,
+building,
+bulgaria,
+bush,
+castle,
+category:ine,
+city,
+cloud,
+cloudy sky,
+creator:ismail inceoglu,
+culture,
+east asian architecture,
+fence,
+fog,
+forest,
+genre:science fiction,
+grass,
+house,
+lightning,
+medium:digital 2d,
+national,
+nature,
+no humans,
+outdoors,
+pagoda,
+palace,
+plant,
+rating:safe,
+scenery,
+shrine,
+sky,
+smoke,
+sofia,
+subreddit:imaginaryruins,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+title:city temple by ismail inceoglu,
+tower,
+tree,
+uploader:l-ya,
+uploader:myrandall,
+waterfall,

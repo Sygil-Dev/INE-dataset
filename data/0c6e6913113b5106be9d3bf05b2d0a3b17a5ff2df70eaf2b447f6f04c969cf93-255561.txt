@@ -1,21 +1,21 @@
-category:ine
-cloud
-cloudy sky
-creator:col price
-holding
-holding weapon
-outdoors
-rain
-rating:safe
-ruins
-scenery
-sky
-standing
-subreddit:imaginaryfuturewar
-subreddit:imaginarymechs
-subreddit:imtechnology
-title:no escape
-title:no escape by col price
-uploader:net-diver
-water
-weapon
+category:ine,
+cloud,
+cloudy sky,
+creator:col price,
+holding,
+holding weapon,
+outdoors,
+rain,
+rating:safe,
+ruins,
+scenery,
+sky,
+standing,
+subreddit:imaginaryfuturewar,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+title:no escape,
+title:no escape by col price,
+uploader:net-diver,
+water,
+weapon,

@@ -1,23 +1,23 @@
-beach
-category:ine
-cloud
-cloudy sky
-horizon
-mountain
-ocean
-outdoors
-rating:safe
-sand
-scenery
-shore
-sky
-subreddit:imaginaryelementals
-subreddit:imaginarygiants
-subreddit:immonsters
-subreddit:imraces
-sunset
-title:giant, by sang yeop park
-title:sketches and study - jeju island by sangyeop park
-uploader:natezomby
-uploader:sylvyrfyre
-water
+beach,
+category:ine,
+cloud,
+cloudy sky,
+horizon,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+sand,
+scenery,
+shore,
+sky,
+subreddit:imaginaryelementals,
+subreddit:imaginarygiants,
+subreddit:immonsters,
+subreddit:imraces,
+sunset,
+title:giant, by sang yeop park,
+title:sketches and study - jeju island by sangyeop park,
+uploader:natezomby,
+uploader:sylvyrfyre,
+water,

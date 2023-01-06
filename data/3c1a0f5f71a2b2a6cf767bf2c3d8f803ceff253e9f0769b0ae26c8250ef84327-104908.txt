@@ -1,42 +1,42 @@
-architecture
-art
-booru:e621
-category:ine
-creator:tyler jacobson
-feral
-front view
-furry
-glowing
-glowing mouth
-horn
-horns
-macro
-membrane (anatomy)
-membranous wings
-meta:official art
-meta:restricted palette
-meta:signature
-perched
-quadruped
-rating:safe
-restricted palette
-scalie
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-signature
-solo
-species:dragon
-species:mythical
-species:scalie
-spread wings
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-title:tyrant of valakut by tyler jacobson
-tusks
-uploader:the-thirteenth
-wings
+architecture,
+art,
+booru:e621,
+category:ine,
+creator:tyler jacobson,
+feral,
+front view,
+furry,
+glowing,
+glowing mouth,
+horn,
+horns,
+macro,
+membrane (anatomy),
+membranous wings,
+meta:official art,
+meta:restricted palette,
+meta:signature,
+perched,
+quadruped,
+rating:safe,
+restricted palette,
+scalie,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+signature,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+spread wings,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:tyrant of valakut by tyler jacobson,
+tusks,
+uploader:the-thirteenth,
+wings,

@@ -1,62 +1,62 @@
-1girl
-acorn
-artist name
-autumn
-autumn leaves
-black hair
-blurry
-blurry background
-blurry foreground
-breathing fire
-brown eyes
-burning
-campfire
-category:ine
-character:aki shizuha
-depth of field
-dragonfly
-dusk
-elf
-embers
-evening
-explosion
-falling leaves
-fire
-fireplace
-flame
-ginkgo leaf
-gradient sky
-hairband
-holding leaf
-leaf
-leaf background
-leaf hair ornament
-leaf on head
-leaves in wind
-long hair
-looking at viewer
-maple leaf
-molten rock
-motion blur
-nature
-orange background
-orange sky
-orange theme
-outdoors
-pyrokinesis
-rating:safe
-red sky
-scarf
-smile
-solo
-subreddit:imaginaryhumans
-subreddit:imraces
-sunset
-sweet potato
-title:"kana" by miura naoko
-tree
-twilight
-uploader:torvusil
-upper body
-white scarf
-yellow sky
+1girl,
+acorn,
+artist name,
+autumn,
+autumn leaves,
+black hair,
+blurry,
+blurry background,
+blurry foreground,
+breathing fire,
+brown eyes,
+burning,
+campfire,
+category:ine,
+character:aki shizuha,
+depth of field,
+dragonfly,
+dusk,
+elf,
+embers,
+evening,
+explosion,
+falling leaves,
+fire,
+fireplace,
+flame,
+ginkgo leaf,
+gradient sky,
+hairband,
+holding leaf,
+leaf,
+leaf background,
+leaf hair ornament,
+leaf on head,
+leaves in wind,
+long hair,
+looking at viewer,
+maple leaf,
+molten rock,
+motion blur,
+nature,
+orange background,
+orange sky,
+orange theme,
+outdoors,
+pyrokinesis,
+rating:safe,
+red sky,
+scarf,
+smile,
+solo,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+sunset,
+sweet potato,
+title:"kana" by miura naoko,
+tree,
+twilight,
+uploader:torvusil,
+upper body,
+white scarf,
+yellow sky,

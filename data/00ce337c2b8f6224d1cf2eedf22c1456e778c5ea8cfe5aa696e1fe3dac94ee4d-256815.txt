@@ -1,27 +1,27 @@
-beach
-category:ine
-city lights
-cloud
-cloudy sky
-horizon
-long hair
-mountain
-night
-night sky
-ocean
-outdoors
-rating:safe
-sand
-scenery
-shooting star
-shore
-sky
-space
-star (sky)
-starry sky
-subreddit:imaginarydeserts
-subreddit:imnature
-sunset
-title:desert storm by vyacheslav milinchuk
-uploader:lol33ta
-water
+beach,
+category:ine,
+city lights,
+cloud,
+cloudy sky,
+horizon,
+long hair,
+mountain,
+night,
+night sky,
+ocean,
+outdoors,
+rating:safe,
+sand,
+scenery,
+shooting star,
+shore,
+sky,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+sunset,
+title:desert storm by vyacheslav milinchuk,
+uploader:lol33ta,
+water,

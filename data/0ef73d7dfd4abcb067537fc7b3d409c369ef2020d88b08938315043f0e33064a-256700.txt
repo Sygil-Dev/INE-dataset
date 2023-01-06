@@ -1,33 +1,33 @@
-architecture
-bird
-blue sky
-bridge
-building
-castle
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-creator:alayna
-day
-fantasy
-light rays
-mountain
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarymountains
-subreddit:imaginarywaterfalls
-subreddit:imnature
-sunbeam
-sunlight
-title:crown oasis
-title:crown oasis by alayna lemmer
-tower
-uploader:fireflycities
-uploader:ldov
-water
-waterfall
+architecture,
+bird,
+blue sky,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+creator:alayna,
+day,
+fantasy,
+light rays,
+mountain,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarymountains,
+subreddit:imaginarywaterfalls,
+subreddit:imnature,
+sunbeam,
+sunlight,
+title:crown oasis,
+title:crown oasis by alayna lemmer,
+tower,
+uploader:fireflycities,
+uploader:ldov,
+water,
+waterfall,

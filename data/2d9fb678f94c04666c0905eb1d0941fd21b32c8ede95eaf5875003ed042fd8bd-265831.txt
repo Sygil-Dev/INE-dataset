@@ -1,52 +1,52 @@
-1 male
-1boy
-2 females
-2girls
-bare shoulders
-black hair
-booru:danbooru
-bug
-butterflies
-butterfly
-category:ine
-clothing:headwear
-counter
-creator:asuka111
-creator:patipat asavasena
-dress
-drill hair
-gender:female
-gender:male
-gloves
-hat
-holding
-holding pipe
-insect
-kiseru
-letterboxed
-long hair
-magic
-maneki neko
-maneki-neko
-medium:letterboxed
-multiple females
-multiple girls
-pipe
-pointing
-rating:safe
-red hair
-series:original
-shop
-shopping
-short hair
-smoke
-smoking
-species:arthropod
-species:insect
-store
-subreddit:imaginarygatherings
-subreddit:imcharacters
-title:the magical pigment shop by patipat asavasena
-uploader:[deleted]
-witch
-witch hat
+1 male,
+1boy,
+2 females,
+2girls,
+bare shoulders,
+black hair,
+booru:danbooru,
+bug,
+butterflies,
+butterfly,
+category:ine,
+clothing:headwear,
+counter,
+creator:asuka111,
+creator:patipat asavasena,
+dress,
+drill hair,
+gender:female,
+gender:male,
+gloves,
+hat,
+holding,
+holding pipe,
+insect,
+kiseru,
+letterboxed,
+long hair,
+magic,
+maneki neko,
+maneki-neko,
+medium:letterboxed,
+multiple females,
+multiple girls,
+pipe,
+pointing,
+rating:safe,
+red hair,
+series:original,
+shop,
+shopping,
+short hair,
+smoke,
+smoking,
+species:arthropod,
+species:insect,
+store,
+subreddit:imaginarygatherings,
+subreddit:imcharacters,
+title:the magical pigment shop by patipat asavasena,
+uploader:[deleted],
+witch,
+witch hat,

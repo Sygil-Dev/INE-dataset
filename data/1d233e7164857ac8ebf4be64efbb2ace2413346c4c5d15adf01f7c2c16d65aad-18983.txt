@@ -1,21 +1,21 @@
-2d
-category:ine
-conceptart
-creator:ismail inceoglu
-digitalart
-environment
-hayha
-medium:digital 2d
-scenery
-simo
-simuna
-snow
-subreddit:imaginarysoldiers
-subreddit:imaginarywinterscapes
-subreddit:imcharacters
-subreddit:imlandscapes
-title:white death
-title:white death by ismail inceoglu
-uploader:luteraar
-uploader:spoon_artillery
-whitedeath
+2d,
+category:ine,
+conceptart,
+creator:ismail inceoglu,
+digitalart,
+environment,
+hayha,
+medium:digital 2d,
+scenery,
+simo,
+simuna,
+snow,
+subreddit:imaginarysoldiers,
+subreddit:imaginarywinterscapes,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+title:white death,
+title:white death by ismail inceoglu,
+uploader:luteraar,
+uploader:spoon_artillery,
+whitedeath,

@@ -1,34 +1,34 @@
-1girl
-alcohol
-beer
-beer mug
-belt
-brown hair
-category:ine
-cowboy hat
-creator:kamillyonsiya
-cup
-drinking glass
-gun
-handgun
-hat
-holding
-jewelry
-lips
-long hair
-mug
-necklace
-picture (object)
-pistol
-rating:safe
-realistic
-signature
-sitting
-solo
-subreddit:imaginarycowboys
-subreddit:imcharacters
-title:infamous ann
-title:infamous ann by siya oum
-uploader:lol33ta
-weapon
-whiskey
+1girl,
+alcohol,
+beer,
+beer mug,
+belt,
+brown hair,
+category:ine,
+cowboy hat,
+creator:kamillyonsiya,
+cup,
+drinking glass,
+gun,
+handgun,
+hat,
+holding,
+jewelry,
+lips,
+long hair,
+mug,
+necklace,
+picture (object),
+pistol,
+rating:safe,
+realistic,
+signature,
+sitting,
+solo,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+title:infamous ann,
+title:infamous ann by siya oum,
+uploader:lol33ta,
+weapon,
+whiskey,

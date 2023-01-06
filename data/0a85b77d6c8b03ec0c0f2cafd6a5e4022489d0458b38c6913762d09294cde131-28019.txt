@@ -1,24 +1,24 @@
-1boy
-armor
-cape
-category:ine
-cloud
-cloudy sky
-gauntlets
-grass
-mountain
-outdoors
-pauldrons
-rating:safe
-shoulder armor
-sky
-solo
-standing
-subreddit:imaginaryclerics
-subreddit:imcharacters
-sunset
-sword
-title:hope on the horizon by sebastian barth
-uploader:lol33ta
-weapon
-wind
+1boy,
+armor,
+cape,
+category:ine,
+cloud,
+cloudy sky,
+gauntlets,
+grass,
+mountain,
+outdoors,
+pauldrons,
+rating:safe,
+shoulder armor,
+sky,
+solo,
+standing,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+sunset,
+sword,
+title:hope on the horizon by sebastian barth,
+uploader:lol33ta,
+weapon,
+wind,

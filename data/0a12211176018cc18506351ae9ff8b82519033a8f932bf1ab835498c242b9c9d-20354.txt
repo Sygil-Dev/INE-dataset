@@ -1,36 +1,36 @@
-1girl
-bleeding
-blonde hair
-blood
-blood from mouth
-blood on clothes
-blood on face
-blood on hands
-blood splatter
-blood stain
-blue eyes
-category:ine
-cuts
-dirty face
-embers
-evening
-explosion
-fire
-gun
-injury
-long hair
-orange background
-orange sky
-rating:safe
-red sky
-rifle
-signature
-solo
-subreddit:imaginaryboners
-subreddit:imaginarywastelands
-subreddit:imlandscapes
-subreddit:imnsfw
-sunset
-title:mad max (character concept) by anato finnstark
-uploader:e-leventy
-weapon
+1girl,
+bleeding,
+blonde hair,
+blood,
+blood from mouth,
+blood on clothes,
+blood on face,
+blood on hands,
+blood splatter,
+blood stain,
+blue eyes,
+category:ine,
+cuts,
+dirty face,
+embers,
+evening,
+explosion,
+fire,
+gun,
+injury,
+long hair,
+orange background,
+orange sky,
+rating:safe,
+red sky,
+rifle,
+signature,
+solo,
+subreddit:imaginaryboners,
+subreddit:imaginarywastelands,
+subreddit:imlandscapes,
+subreddit:imnsfw,
+sunset,
+title:mad max (character concept) by anato finnstark,
+uploader:e-leventy,
+weapon,

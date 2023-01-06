@@ -1,29 +1,29 @@
-armor
-axe
-breathing fire
-burning
-campfire
-candle
-category:ine
-embers
-explosion
-faceless
-faceless male
-fire
-flame
-flaming sword
-flaming weapon
-holding
-male focus
-molten rock
-rating:safe
-subreddit:imaginaryarmor
-subreddit:imaginaryartisans
-subreddit:imtechnology
-sword
-title:flamewright by mathias kollros
-title:m:tg flamewright by mathias kollros
-torch
-uploader:drunkindragon
-uploader:myrandall
-weapon
+armor,
+axe,
+breathing fire,
+burning,
+campfire,
+candle,
+category:ine,
+embers,
+explosion,
+faceless,
+faceless male,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+holding,
+male focus,
+molten rock,
+rating:safe,
+subreddit:imaginaryarmor,
+subreddit:imaginaryartisans,
+subreddit:imtechnology,
+sword,
+title:flamewright by mathias kollros,
+title:m:tg flamewright by mathias kollros,
+torch,
+uploader:drunkindragon,
+uploader:myrandall,
+weapon,

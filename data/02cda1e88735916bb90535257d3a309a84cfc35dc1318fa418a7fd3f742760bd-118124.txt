@@ -1,26 +1,26 @@
-architecture
-bridge
-building
-bush
-castle
-category:ine
-city
-cloud
-cloudy sky
-day
-grass
-horse
-mountain
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarytemples
-subreddit:imarchitecture
-sword
-title:symbiont world - temples of old energy by jimmy p. duda
-tower
-tree
-uploader:the-thirteenth
-weapon
+architecture,
+bridge,
+building,
+bush,
+castle,
+category:ine,
+city,
+cloud,
+cloudy sky,
+day,
+grass,
+horse,
+mountain,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+sword,
+title:symbiont world - temples of old energy by jimmy p. duda,
+tower,
+tree,
+uploader:the-thirteenth,
+weapon,

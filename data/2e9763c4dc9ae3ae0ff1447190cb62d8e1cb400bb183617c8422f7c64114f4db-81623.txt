@@ -1,26 +1,26 @@
-art
-category:ine
-concept
-concept art
-creator:karanak
-games
-genre:science fiction
-medium:concept art
-no humans
-rating:safe
-science fiction
-series:star conflict
-ship
-space
-space craft
-starconflict
-starfighter
-subreddit:imaginaryfuturewar
-subreddit:imaginarywarships
-subreddit:imtechnology
-title:spinosaurus
-title:spinosaurus by alexy
-uploader:lordjimbob01
-vehicle
-watercraft
-weapon
+art,
+category:ine,
+concept,
+concept art,
+creator:karanak,
+games,
+genre:science fiction,
+medium:concept art,
+no humans,
+rating:safe,
+science fiction,
+series:star conflict,
+ship,
+space,
+space craft,
+starconflict,
+starfighter,
+subreddit:imaginaryfuturewar,
+subreddit:imaginarywarships,
+subreddit:imtechnology,
+title:spinosaurus,
+title:spinosaurus by alexy,
+uploader:lordjimbob01,
+vehicle,
+watercraft,
+weapon,

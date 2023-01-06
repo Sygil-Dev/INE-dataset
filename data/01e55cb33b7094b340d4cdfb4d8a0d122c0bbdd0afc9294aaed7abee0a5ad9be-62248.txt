@@ -1,22 +1,22 @@
-1girl
-armor
-category:ine
-chaos marine
-creator:matthew sheridan
-games workshop
-gradient
-gradient background
-holding
-medium:traditional 3d
-miniatures
-rating:safe
-solo
-space marine
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:chaos sister of blood (miniature sculpt)
-title:female chaos marine
-uploader:__lilacwine
-warhammer
-warhammer40k
-weapon
+1girl,
+armor,
+category:ine,
+chaos marine,
+creator:matthew sheridan,
+games workshop,
+gradient,
+gradient background,
+holding,
+medium:traditional 3d,
+miniatures,
+rating:safe,
+solo,
+space marine,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:chaos sister of blood (miniature sculpt),
+title:female chaos marine,
+uploader:__lilacwine,
+warhammer,
+warhammer40k,
+weapon,

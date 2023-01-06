@@ -1,103 +1,103 @@
-1girl
-1970s (style)
-above clouds
-aerial fireworks
-alien
-america
-american flag
-antlers
-astronaut
-aurora
-balcony
-building
-campfire
-category:ine
-character:ultimate madoka
-chimney
-christmas
-christmas lights
-christmas tree
-city
-city lights
-cityscape
-clock tower
-cloud
-constellation
-constellation print
-crescent moon
-desert
-dusk
-dust
-earth (planet)
-ferris wheel
-festival
-fireflies
-fireworks
-fountain
-full moon
-galaxy
-globe
-gown
-gradient sky
-hirschgeweih antennas
-house
-lamppost
-lantern
-light
-light particles
-lights
-long hair
-milky way
-moon
-moonlight
-night
-night sky
-onsen
-outdoors
-pavement
-pine tree
-planet
-purple sky
-rating:safe
-reindeer
-rocket
-rooftop
-sack
-shooting star
-sky
-skyline
-skyscraper
-smoke
-snow
-snowing
-solo
-space
-space craft
-space helmet
-spacesuit
-stadium
-stairs
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-steam
-subreddit:imaginarycastles
-subreddit:imarchitecture
-summer festival
-sunrise
-tanabata
-tanzaku
-telescope
-title:primitive royalty by mike winkelmann
-tower
-town
-twilight
-uchiwa
-ufo
-uploader:elumental
-vines
-window
-winter
-yukata
+1girl,
+1970s (style),
+above clouds,
+aerial fireworks,
+alien,
+america,
+american flag,
+antlers,
+astronaut,
+aurora,
+balcony,
+building,
+campfire,
+category:ine,
+character:ultimate madoka,
+chimney,
+christmas,
+christmas lights,
+christmas tree,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+constellation,
+constellation print,
+crescent moon,
+desert,
+dusk,
+dust,
+earth (planet),
+ferris wheel,
+festival,
+fireflies,
+fireworks,
+fountain,
+full moon,
+galaxy,
+globe,
+gown,
+gradient sky,
+hirschgeweih antennas,
+house,
+lamppost,
+lantern,
+light,
+light particles,
+lights,
+long hair,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+onsen,
+outdoors,
+pavement,
+pine tree,
+planet,
+purple sky,
+rating:safe,
+reindeer,
+rocket,
+rooftop,
+sack,
+shooting star,
+sky,
+skyline,
+skyscraper,
+smoke,
+snow,
+snowing,
+solo,
+space,
+space craft,
+space helmet,
+spacesuit,
+stadium,
+stairs,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+steam,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+summer festival,
+sunrise,
+tanabata,
+tanzaku,
+telescope,
+title:primitive royalty by mike winkelmann,
+tower,
+town,
+twilight,
+uchiwa,
+ufo,
+uploader:elumental,
+vines,
+window,
+winter,
+yukata,

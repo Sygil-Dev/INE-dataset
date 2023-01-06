@@ -1,25 +1,25 @@
-6+boys
-armor
-battle
-blonde hair
-boots
-cape
-category:ine
-creator:pedro blanco
-fire
-gun
-hat
-holding weapon
-long hair
-medium:digital 2d
-multiple boys
-multiple girls
-polearm
-rating:safe
-subreddit:imaginarygatherings
-subreddit:imcharacters
-sword
-title:ancient civilizations 03
-title:ancient civilizations 03 by pedro blanco
-uploader:elumental
-weapon
+6+boys,
+armor,
+battle,
+blonde hair,
+boots,
+cape,
+category:ine,
+creator:pedro blanco,
+fire,
+gun,
+hat,
+holding weapon,
+long hair,
+medium:digital 2d,
+multiple boys,
+multiple girls,
+polearm,
+rating:safe,
+subreddit:imaginarygatherings,
+subreddit:imcharacters,
+sword,
+title:ancient civilizations 03,
+title:ancient civilizations 03 by pedro blanco,
+uploader:elumental,
+weapon,

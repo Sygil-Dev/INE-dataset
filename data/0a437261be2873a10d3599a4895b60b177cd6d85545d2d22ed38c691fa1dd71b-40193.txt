@@ -1,41 +1,41 @@
-alorix
-anthropomorphism
-artist:alorix
-bandage
-belt
-big ears
-big_ears
-booru:e621
-bottomless
-category:ine
-character:shipwrekk
-clothed
-clothing
-creator:alorix
-fantasy
-furry
-genre:fantasy
-glowing
-glowing eyes
-glowing_eyes
-humanoid
-monster
-not furry
-not_furry
-open mouth
-open_mouth
-pubes
-pubic hair
-rating:questionable
-scalie
-scar
-shipwrekk
-solo
-species:goblin
-species:humanoid
-species:scalie
-subreddit:imaginarygoblins
-subreddit:imraces
-title:goblin hunt
-title:goblin hunt by 'alorix'
-uploader:myrandall
+alorix,
+anthropomorphism,
+artist:alorix,
+bandage,
+belt,
+big ears,
+big_ears,
+booru:e621,
+bottomless,
+category:ine,
+character:shipwrekk,
+clothed,
+clothing,
+creator:alorix,
+fantasy,
+furry,
+genre:fantasy,
+glowing,
+glowing eyes,
+glowing_eyes,
+humanoid,
+monster,
+not furry,
+not_furry,
+open mouth,
+open_mouth,
+pubes,
+pubic hair,
+rating:questionable,
+scalie,
+scar,
+shipwrekk,
+solo,
+species:goblin,
+species:humanoid,
+species:scalie,
+subreddit:imaginarygoblins,
+subreddit:imraces,
+title:goblin hunt,
+title:goblin hunt by 'alorix',
+uploader:myrandall,

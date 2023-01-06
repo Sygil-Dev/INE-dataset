@@ -1,22 +1,22 @@
-architecture
-bridge
-building
-category:ine
-city
-cityscape
-east asian architecture
-fantasy
-outdoors
-pagoda
-rating:safe
-scenery
-subreddit:imaginaryarchitecture
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:the bodhi by pengzhen zhang
-title:the bodhi, by pengzhen zhang
-tower
-tree
-uploader:imwaaal
-uploader:sylvyrfyre
-website:reddit
+architecture,
+bridge,
+building,
+category:ine,
+city,
+cityscape,
+east asian architecture,
+fantasy,
+outdoors,
+pagoda,
+rating:safe,
+scenery,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:the bodhi by pengzhen zhang,
+title:the bodhi, by pengzhen zhang,
+tower,
+tree,
+uploader:imwaaal,
+uploader:sylvyrfyre,
+website:reddit,

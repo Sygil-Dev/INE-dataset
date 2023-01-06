@@ -1,58 +1,58 @@
-5 fingers
-5_fingers
-2018
-alpha channel
-armor
-artist:dvixie
-blue eyes
-blue_eyes
-category:ine
-centaur
-creator:dennyvixen
-creator:dvixie
-dennyvixen
-digital media (artwork)
-dvixie
-equine
-eyelashes
-female
-fingers
-gender:female
-hair
-holding object
-holding weapon
-holding_object
-holding_weapon
-hooves
-mammal
-medium:digital media
-meta:2018
-meta:alpha channel
-meta:alpha_channel
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-monster
-orange hair
-orange_hair
-rating:safe
-smile
-solo
-species:centaur
-species:equid
-species:equid taur
-species:equid_taur
-species:equine
-species:equine taur
-species:humanoid taur
-species:humanoid_taur
-species:mammal
-species:mammal taur
-species:mammal_taur
-species:taur
-subreddit:imaginarycentaurs
-subreddit:imraces
-taur
-title:barbarian centaur by claire revell
-uploader:myrandall
-weapon
-year:2018
+5 fingers,
+5_fingers,
+2018,
+alpha channel,
+armor,
+artist:dvixie,
+blue eyes,
+blue_eyes,
+category:ine,
+centaur,
+creator:dennyvixen,
+creator:dvixie,
+dennyvixen,
+digital media (artwork),
+dvixie,
+equine,
+eyelashes,
+female,
+fingers,
+gender:female,
+hair,
+holding object,
+holding weapon,
+holding_object,
+holding_weapon,
+hooves,
+mammal,
+medium:digital media,
+meta:2018,
+meta:alpha channel,
+meta:alpha_channel,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+monster,
+orange hair,
+orange_hair,
+rating:safe,
+smile,
+solo,
+species:centaur,
+species:equid,
+species:equid taur,
+species:equid_taur,
+species:equine,
+species:equine taur,
+species:humanoid taur,
+species:humanoid_taur,
+species:mammal,
+species:mammal taur,
+species:mammal_taur,
+species:taur,
+subreddit:imaginarycentaurs,
+subreddit:imraces,
+taur,
+title:barbarian centaur by claire revell,
+uploader:myrandall,
+weapon,
+year:2018,

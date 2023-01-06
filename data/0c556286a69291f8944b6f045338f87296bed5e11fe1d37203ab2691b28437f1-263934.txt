@@ -1,30 +1,30 @@
-1girl
-animal
-artist name
-bubble
-bunny
-category:ine
-food
-freckles
-glasses
-hogwarts school uniform
-holding
-long hair
-long sleeves
-looking at viewer
-pocky
-rabbit ears
-rating:safe
-shirt
-signature
-snow
-snowing
-snowman
-solo
-stuffed bunny
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-title:i'm a witch by dal ataev
-uploader:lol33ta
-upper body
-wand
+1girl,
+animal,
+artist name,
+bubble,
+bunny,
+category:ine,
+food,
+freckles,
+glasses,
+hogwarts school uniform,
+holding,
+long hair,
+long sleeves,
+looking at viewer,
+pocky,
+rabbit ears,
+rating:safe,
+shirt,
+signature,
+snow,
+snowing,
+snowman,
+solo,
+stuffed bunny,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+title:i'm a witch by dal ataev,
+uploader:lol33ta,
+upper body,
+wand,

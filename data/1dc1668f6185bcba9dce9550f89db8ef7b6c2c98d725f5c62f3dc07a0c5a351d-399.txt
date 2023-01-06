@@ -1,35 +1,35 @@
-axe
-booru:e621
-category:ine
-character:avaricious dragon
-claws
-creator:chris rahn
-furry
-glowing
-glowing claws
-glowing eyes
-horn
-horns
-melee weapon
-membrane (anatomy)
-membranous wings
-meta:official art
-rating:safe
-scales
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-solo
-species:dragon
-species:mythical
-species:scalie
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-sword
-title:avaricious dragon by chris rahn
-uploader:the-thirteenth
-weapon
-wings
+axe,
+booru:e621,
+category:ine,
+character:avaricious dragon,
+claws,
+creator:chris rahn,
+furry,
+glowing,
+glowing claws,
+glowing eyes,
+horn,
+horns,
+melee weapon,
+membrane (anatomy),
+membranous wings,
+meta:official art,
+rating:safe,
+scales,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sword,
+title:avaricious dragon by chris rahn,
+uploader:the-thirteenth,
+weapon,
+wings,

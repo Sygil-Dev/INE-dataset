@@ -1,42 +1,42 @@
-2014
-barn
-blonde hair
-category:ine
-character:applejack (mlp)
-clothing:headwear
-cloud
-cowboy hat
-creator:dennybutt
-creator:dennyvixen
-cutie mark
-female
-fence
-feral
-freckles
-fur
-gender:female
-genre:fantasy
-green eyes
-hair
-hat
-orange fur
-outside
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-sky
-smile
-solo
-species:earth pony
-species:equine
-species:horse
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:new day by dvixie
-tree
-uploader:stevenlnicholas
+2014,
+barn,
+blonde hair,
+category:ine,
+character:applejack (mlp),
+clothing:headwear,
+cloud,
+cowboy hat,
+creator:dennybutt,
+creator:dennyvixen,
+cutie mark,
+female,
+fence,
+feral,
+freckles,
+fur,
+gender:female,
+genre:fantasy,
+green eyes,
+hair,
+hat,
+orange fur,
+outside,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+smile,
+solo,
+species:earth pony,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:new day by dvixie,
+tree,
+uploader:stevenlnicholas,

@@ -1,28 +1,28 @@
-artist name
-blue sky
-building
-category:ine
-city
-cloud
-day
-grass
-house
-no humans
-outdoors
-pavement
-plant
-potted plant
-rating:safe
-road
-scenery
-sign
-sky
-street
-subreddit:imaginarypathways
-subreddit:imaginaryvillages
-subreddit:imarchitecture
-subreddit:imlandscapes
-sunset
-title:welcome to campobasso by alex treno
-tree
-uploader:natezomby
+artist name,
+blue sky,
+building,
+category:ine,
+city,
+cloud,
+day,
+grass,
+house,
+no humans,
+outdoors,
+pavement,
+plant,
+potted plant,
+rating:safe,
+road,
+scenery,
+sign,
+sky,
+street,
+subreddit:imaginarypathways,
+subreddit:imaginaryvillages,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+sunset,
+title:welcome to campobasso by alex treno,
+tree,
+uploader:natezomby,

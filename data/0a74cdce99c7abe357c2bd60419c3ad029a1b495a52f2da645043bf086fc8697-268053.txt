@@ -1,41 +1,41 @@
-bridge
-building
-category:ine
-city
-city lights
-cityscape
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-horizon
-mountain
-mountainous horizon
-no humans
-orange sky
-outdoors
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imaginaryweather
-subreddit:imarchitecture
-subreddit:imnature
-sun
-sunlight
-sunrise
-sunset
-title:molten rain by sung choi
-title:molten rain, by sung choi
-tower
-twilight
-uploader:[deleted]
-uploader:faeryknight
-uploader:lol33ta
-uploader:sylvyrfyre
-uploader:tamander
-uploader:wiildman8
-water
+bridge,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+horizon,
+mountain,
+mountainous horizon,
+no humans,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imaginaryweather,
+subreddit:imarchitecture,
+subreddit:imnature,
+sun,
+sunlight,
+sunrise,
+sunset,
+title:molten rain by sung choi,
+title:molten rain, by sung choi,
+tower,
+twilight,
+uploader:[deleted],
+uploader:faeryknight,
+uploader:lol33ta,
+uploader:sylvyrfyre,
+uploader:tamander,
+uploader:wiildman8,
+water,

@@ -1,32 +1,32 @@
-aurora
-blurry
-blurry foreground
-category:ine
-christmas
-creator:clement danveau
-depth of field
-factory
-ice
-light particles
-medium:digital 2d
-mountain
-night
-night sky
-northern lights
-presents
-rating:safe
-santa
-scenery
-sky
-snow
-star (sky)
-starry sky
-subreddit:imaginaryfactories
-subreddit:imaginarywinterscapes
-subreddit:imarchitecture
-subreddit:imlandscapes
-title:santa's factory
-title:santa's factory by clement danveau
-uploader:lol33ta
-uploader:o_no_my_buttholes
-winter
+aurora,
+blurry,
+blurry foreground,
+category:ine,
+christmas,
+creator:clement danveau,
+depth of field,
+factory,
+ice,
+light particles,
+medium:digital 2d,
+mountain,
+night,
+night sky,
+northern lights,
+presents,
+rating:safe,
+santa,
+scenery,
+sky,
+snow,
+star (sky),
+starry sky,
+subreddit:imaginaryfactories,
+subreddit:imaginarywinterscapes,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+title:santa's factory,
+title:santa's factory by clement danveau,
+uploader:lol33ta,
+uploader:o_no_my_buttholes,
+winter,

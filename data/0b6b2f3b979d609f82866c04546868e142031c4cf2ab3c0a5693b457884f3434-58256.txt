@@ -1,77 +1,77 @@
-1girl
-above clouds
-aerial fireworks
-astronaut
-aurora
-black border
-campfire
-category:ine
-character:ultimate madoka
-chimney
-christmas
-city
-city lights
-cityscape
-clock tower
-cloud
-constellation
-creator:terranabassador
-crescent moon
-dango
-desert
-dust
-earth (planet)
-fireflies
-fireworks
-flag background
-full moon
-galaxy
-hirschgeweih antennas
-letterboxed
-light particles
-milky way
-moon
-moonlight
-night
-night sky
-ninja
-onsen
-pillarboxed
-pine tree
-planet
-rating:safe
-red moon
-reindeer
-rocket
-rooftop
-round window
-shooting star
-sky
-skyline
-skyscraper
-snow
-snowing
-solo
-space
-space craft
-space helmet
-spaceart
-spacesuit
-star
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarystarscapes
-subreddit:imlandscapes
-tanabata
-tanzaku
-telescope
-title:momentum
-title:momentum (original work)
-tower
-ufo
-uploader:terranambassador
-wagashi
-window
+1girl,
+above clouds,
+aerial fireworks,
+astronaut,
+aurora,
+black border,
+campfire,
+category:ine,
+character:ultimate madoka,
+chimney,
+christmas,
+city,
+city lights,
+cityscape,
+clock tower,
+cloud,
+constellation,
+creator:terranabassador,
+crescent moon,
+dango,
+desert,
+dust,
+earth (planet),
+fireflies,
+fireworks,
+flag background,
+full moon,
+galaxy,
+hirschgeweih antennas,
+letterboxed,
+light particles,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+ninja,
+onsen,
+pillarboxed,
+pine tree,
+planet,
+rating:safe,
+red moon,
+reindeer,
+rocket,
+rooftop,
+round window,
+shooting star,
+sky,
+skyline,
+skyscraper,
+snow,
+snowing,
+solo,
+space,
+space craft,
+space helmet,
+spaceart,
+spacesuit,
+star,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarystarscapes,
+subreddit:imlandscapes,
+tanabata,
+tanzaku,
+telescope,
+title:momentum,
+title:momentum (original work),
+tower,
+ufo,
+uploader:terranambassador,
+wagashi,
+window,

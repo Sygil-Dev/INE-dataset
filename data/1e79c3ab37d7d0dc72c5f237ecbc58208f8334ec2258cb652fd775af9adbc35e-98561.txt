@@ -1,27 +1,27 @@
-1 female
-boots
-breasts
-brown hair
-category:ine
-cleavage
-clothing:footwear
-creator:lehuss
-footwear
-gender:female
-headband
-long hair
-medium breasts
-meta:copyright request
-pirate
-rating:safe
-ship
-solo
-subreddit:imaginarypirates
-subreddit:imcharacters
-sword
-tattoo
-title:alvilda : by anto lehuss
-uploader:o_no_my_buttholes
-vehicle
-watercraft
-weapon
+1 female,
+boots,
+breasts,
+brown hair,
+category:ine,
+cleavage,
+clothing:footwear,
+creator:lehuss,
+footwear,
+gender:female,
+headband,
+long hair,
+medium breasts,
+meta:copyright request,
+pirate,
+rating:safe,
+ship,
+solo,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+sword,
+tattoo,
+title:alvilda : by anto lehuss,
+uploader:o_no_my_buttholes,
+vehicle,
+watercraft,
+weapon,

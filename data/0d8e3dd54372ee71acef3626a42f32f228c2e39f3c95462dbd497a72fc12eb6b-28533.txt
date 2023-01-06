@@ -1,45 +1,45 @@
-1girl
-2d
-!
-...
-asian
-category:ine
-concept art
-creator:justice wong
-darkness
-demon
-evil
-ghost
-greyscale
-heart
-hi rez
-illustration
-japanese
-knight
-medium:digital 2d
-monochrome
-monster
-multiple views
-oni
-paladins
-poster
-rating:safe
-red
-robot joints
-samurai
-shooter
-sketch
-snipper
-species:demon
-species:mythical
-species:oni
-spoken ellipsis
-spoken exclamation mark
-spoken heart
-spoken question mark
-subreddit:imaginarydemons
-subreddit:immonsters
-title:team oni !!
-title:team oni !! by justice wong
-uploader:net-diver
-warrior
+1girl,
+2d,
+!,
+...,
+asian,
+category:ine,
+concept art,
+creator:justice wong,
+darkness,
+demon,
+evil,
+ghost,
+greyscale,
+heart,
+hi rez,
+illustration,
+japanese,
+knight,
+medium:digital 2d,
+monochrome,
+monster,
+multiple views,
+oni,
+paladins,
+poster,
+rating:safe,
+red,
+robot joints,
+samurai,
+shooter,
+sketch,
+snipper,
+species:demon,
+species:mythical,
+species:oni,
+spoken ellipsis,
+spoken exclamation mark,
+spoken heart,
+spoken question mark,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+title:team oni !!,
+title:team oni !! by justice wong,
+uploader:net-diver,
+warrior,

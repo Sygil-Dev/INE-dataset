@@ -1,22 +1,22 @@
-2d
-aircraft
-art
-category:ine
-concept
-conceptual
-creator:ismail inceoglu
-daily
-digital
-environment
-genre:science fiction
-island
-landscape
-medium:digital 2d
-plane
-scenery
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-title:crash me into pieces
-title:crash me into pieces by ismail inceoglu
-uploader:luteraar
-vehicle
+2d,
+aircraft,
+art,
+category:ine,
+concept,
+conceptual,
+creator:ismail inceoglu,
+daily,
+digital,
+environment,
+genre:science fiction,
+island,
+landscape,
+medium:digital 2d,
+plane,
+scenery,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+title:crash me into pieces,
+title:crash me into pieces by ismail inceoglu,
+uploader:luteraar,
+vehicle,

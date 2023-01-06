@@ -1,47 +1,47 @@
-architecture
-balcony
-beach
-blue sky
-bridge
-building
-bush
-castle
-category:ine
-city
-cityscape
-clock tower
-cloud
-cloudy sky
-day
-fantasy
-fountain
-gate
-horizon
-house
-lake
-lamppost
-landscape
-mountain
-mountainous horizon
-no humans
-ocean
-outdoors
-overgrown
-path
-railing
-rating:safe
-river
-road
-ruins
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:theme park by jaecheol park
-tower
-tree
-uploader:lol33ta
-water
-waterfall
+architecture,
+balcony,
+beach,
+blue sky,
+bridge,
+building,
+bush,
+castle,
+category:ine,
+city,
+cityscape,
+clock tower,
+cloud,
+cloudy sky,
+day,
+fantasy,
+fountain,
+gate,
+horizon,
+house,
+lake,
+lamppost,
+landscape,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+outdoors,
+overgrown,
+path,
+railing,
+rating:safe,
+river,
+road,
+ruins,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:theme park by jaecheol park,
+tower,
+tree,
+uploader:lol33ta,
+water,
+waterfall,

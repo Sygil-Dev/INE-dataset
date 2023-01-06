@@ -1,29 +1,29 @@
-afloat
-beach
-bird
-blue sky
-category:ine
-cloud
-cloudy sky
-day
-horizon
-innertube
-no humans
-ocean
-open mouth
-outdoors
-penguin
-pokemon (creature)
-pool
-rating:safe
-sand
-seagull
-shore
-sky
-subreddit:imaginarykanto
-subreddit:imfandoms
-swimming
-title:at the beach by pháp nguyễn
-uploader:lol33ta
-water
-waves
+afloat,
+beach,
+bird,
+blue sky,
+category:ine,
+cloud,
+cloudy sky,
+day,
+horizon,
+innertube,
+no humans,
+ocean,
+open mouth,
+outdoors,
+penguin,
+pokemon (creature),
+pool,
+rating:safe,
+sand,
+seagull,
+shore,
+sky,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+swimming,
+title:at the beach by pháp nguyễn,
+uploader:lol33ta,
+water,
+waves,

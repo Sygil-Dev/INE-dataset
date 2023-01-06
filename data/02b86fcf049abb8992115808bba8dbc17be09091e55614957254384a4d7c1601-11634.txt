@@ -1,27 +1,27 @@
-armor
-banner
-card
-category:ine
-flag
-glowing
-glowing eyes
-helmet
-holding
-holding sword
-holding weapon
-horse
-horseback riding
-japanese armor
-kabuto
-katana
-rating:safe
-riding
-samurai
-sheath
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-sword
-talisman
-title:victory day by christian villacis
-uploader:lol33ta
-weapon
+armor,
+banner,
+card,
+category:ine,
+flag,
+glowing,
+glowing eyes,
+helmet,
+holding,
+holding sword,
+holding weapon,
+horse,
+horseback riding,
+japanese armor,
+kabuto,
+katana,
+rating:safe,
+riding,
+samurai,
+sheath,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+sword,
+talisman,
+title:victory day by christian villacis,
+uploader:lol33ta,
+weapon,

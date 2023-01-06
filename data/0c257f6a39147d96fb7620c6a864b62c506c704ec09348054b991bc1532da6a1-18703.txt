@@ -1,28 +1,28 @@
-1girl
-boots
-braid
-bush
-category:ine
-cloud
-forest
-gloves
-grass
-leaf
-long hair
-nature
-outdoors
-plant
-pointy ears
-polearm
-rating:safe
-sky
-solo
-subreddit:imaginarywizards
-subreddit:imcharacters
-title:nissa's renewal by lius lasahido
-tree
-twin braids
-uploader:synntara
-watermark
-weapon
-web address
+1girl,
+boots,
+braid,
+bush,
+category:ine,
+cloud,
+forest,
+gloves,
+grass,
+leaf,
+long hair,
+nature,
+outdoors,
+plant,
+pointy ears,
+polearm,
+rating:safe,
+sky,
+solo,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+title:nissa's renewal by lius lasahido,
+tree,
+twin braids,
+uploader:synntara,
+watermark,
+weapon,
+web address,

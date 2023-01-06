@@ -1,43 +1,43 @@
-5 fingers
-anthro
-anthropomorphism
-black bars
-bloody
-booru:e621
-category:ine
-clothed
-clothing
-creator:alradeck
-creator:firefeathers
-demon
-epic
-fight
-fingers
-fox
-gender:male
-horn
-horns
-hyumans
-ice
-magic user
-male
-medium:digital media
-meta:2012
-meta:digital media (artwork)
-rating:safe
-source:furaffinity.net
-species:canid
-species:canine
-species:demon
-species:fox
-species:human
-species:hybrid
-species:mammal
-species:primate
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-sunset
-title:mutiny
-title:mutiny by a.l. radeck
-uploader:myrandall
-year:2012
+5 fingers,
+anthro,
+anthropomorphism,
+black bars,
+bloody,
+booru:e621,
+category:ine,
+clothed,
+clothing,
+creator:alradeck,
+creator:firefeathers,
+demon,
+epic,
+fight,
+fingers,
+fox,
+gender:male,
+horn,
+horns,
+hyumans,
+ice,
+magic user,
+male,
+medium:digital media,
+meta:2012,
+meta:digital media (artwork),
+rating:safe,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:demon,
+species:fox,
+species:human,
+species:hybrid,
+species:mammal,
+species:primate,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+sunset,
+title:mutiny,
+title:mutiny by a.l. radeck,
+uploader:myrandall,
+year:2012,

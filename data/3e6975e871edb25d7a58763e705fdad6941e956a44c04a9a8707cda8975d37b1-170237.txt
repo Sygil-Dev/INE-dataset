@@ -1,49 +1,49 @@
-2019
-artist:nemo2d
-category:ine
-character:starlight glimmer
-character:starlight glimmer (mlp)
-character:starlight_glimmer_(mlp)
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:nemo2d
-detailed background
-detailed_background
-digital media (artwork)
-feral
-flying
-genre:fantasy
-group
-hi res
-hooves
-horn
-horns
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2019
-meta:digital_media_(artwork)
-meta:hi_res
-rating:safe
-rock
-series:friendship is magic
-series:my little pony
-series:my little pony: friendship is magic
-sitting
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:non-human animal
-species:pegasus
-species:pterippus
-species:unicorn
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:'the maretian vol.2' by nemo2d
-title:the maretian vol.2
-uploader:coelacanth0794
-wings
-year:2019
+2019,
+artist:nemo2d,
+category:ine,
+character:starlight glimmer,
+character:starlight glimmer (mlp),
+character:starlight_glimmer_(mlp),
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:nemo2d,
+detailed background,
+detailed_background,
+digital media (artwork),
+feral,
+flying,
+genre:fantasy,
+group,
+hi res,
+hooves,
+horn,
+horns,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2019,
+meta:digital_media_(artwork),
+meta:hi_res,
+rating:safe,
+rock,
+series:friendship is magic,
+series:my little pony,
+series:my little pony: friendship is magic,
+sitting,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:non-human animal,
+species:pegasus,
+species:pterippus,
+species:unicorn,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:'the maretian vol.2' by nemo2d,
+title:the maretian vol.2,
+uploader:coelacanth0794,
+wings,
+year:2019,

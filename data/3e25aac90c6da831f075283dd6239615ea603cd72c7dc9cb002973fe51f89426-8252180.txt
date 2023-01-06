@@ -1,70 +1,70 @@
-4 fingers
-abs
-absurd res
-anthro
-anthropomorphism
-biped
-black nose
-booru:e621
-canine
-category:ine
-character:tracks
-claws
-creator:themefinland
-digitigrade
-dutch angle
-fingers
-forest
-full-length portrait
-fur
-gender:male
-grey body
-grey fur
-grey tail
-hair
-hi res
-long claws
-male
-mammal
-medium:absurd resolution
-medium:high resolution
-meta:absurd res
-meta:full-length portrait
-meta:hi res
-meta:portrait
-monster
-outside
-plant
-portrait
-pose
-rating:safe
-snow
-snowing
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-standing
-subreddit:imaginarywerewolves
-subreddit:immonsters
-themefinland
-title:canis ring
-title:canis ring (by me)
-tracks
-tree
-uploader:themefinland
-were
-werewolf
-white eyes
-white fur
-white hair
-winter
-wold
-wolf
+4 fingers,
+abs,
+absurd res,
+anthro,
+anthropomorphism,
+biped,
+black nose,
+booru:e621,
+canine,
+category:ine,
+character:tracks,
+claws,
+creator:themefinland,
+digitigrade,
+dutch angle,
+fingers,
+forest,
+full-length portrait,
+fur,
+gender:male,
+grey body,
+grey fur,
+grey tail,
+hair,
+hi res,
+long claws,
+male,
+mammal,
+medium:absurd resolution,
+medium:high resolution,
+meta:absurd res,
+meta:full-length portrait,
+meta:hi res,
+meta:portrait,
+monster,
+outside,
+plant,
+portrait,
+pose,
+rating:safe,
+snow,
+snowing,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+standing,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+themefinland,
+title:canis ring,
+title:canis ring (by me),
+tracks,
+tree,
+uploader:themefinland,
+were,
+werewolf,
+white eyes,
+white fur,
+white hair,
+winter,
+wold,
+wolf,

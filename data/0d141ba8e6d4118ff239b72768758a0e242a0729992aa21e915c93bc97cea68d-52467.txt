@@ -1,29 +1,29 @@
-1girl
-animal
-armor
-artist name
-bird
-category:ine
-character
-concept
-creator:alon chou
-crow
-dated
-dove
-magic
-medium:digital 2d
-night
-rating:safe
-seagull
-signature
-species:equine
-species:horse
-species:mammal
-subreddit:imaginaryknights
-subreddit:imcharacters
-sword
-title:black knight
-title:black knight by alon chou
-uploader:drunkindragon
-warriors
-weapon
+1girl,
+animal,
+armor,
+artist name,
+bird,
+category:ine,
+character,
+concept,
+creator:alon chou,
+crow,
+dated,
+dove,
+magic,
+medium:digital 2d,
+night,
+rating:safe,
+seagull,
+signature,
+species:equine,
+species:horse,
+species:mammal,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+sword,
+title:black knight,
+title:black knight by alon chou,
+uploader:drunkindragon,
+warriors,
+weapon,

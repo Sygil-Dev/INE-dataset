@@ -1,82 +1,82 @@
-1 female
-1girl
-android
-bad id
-bad tumblr id
-belt
-black hair
-bodysuit
-booru:clangbooru
-breasts
-brown eyes
-brown hair
-category:ine
-circuit
-clothing:belt
-clothing:bodysuit
-clothing:bottomwear
-clothing:gloves
-clothing:hair clip
-clothing:hair ornament
-clothing:hairclip
-clothing:topwear
-commentary
-covering
-covering breasts
-covering_breasts
-creator:kilart
-creator:kilartdev
-cyborg
-facial mark
-facial tattoo
-gender:female
-genre:science fiction
-gloves
-glowing
-hair ornament
-kilart
-large breasts
-lips
-looking at viewer
-medium breasts
-medium:2d art
-meta:bad id
-meta:bad tumblr id
-meta:commentary
-meta:photoshop (medium)
-meta:revision
-navel
-no nipples
-no_nipples
-open clothes
-original
-pov
-rating:mature
-rating:questionable
-rating:safe
-rating:sensitive
-realistic
-revision
-robot
-robot girl
-robot_girl
-science fiction
-science_fiction
-series:original
-short hair
-site:booru.org
-smile
-solo
-species:android
-species:robot
-star
-star (symbol)
-star facial mark
-stomach
-subreddit:imaginaryscience
-subreddit:imtechnology
-tattoo
-title:cyborg girl v2.0
-title:cyborg girl v2.0 by kilart (kilartdev) [xpost /r/imaginarycybernetics)
-uploader:lol33ta
-website:reddit
+1 female,
+1girl,
+android,
+bad id,
+bad tumblr id,
+belt,
+black hair,
+bodysuit,
+booru:clangbooru,
+breasts,
+brown eyes,
+brown hair,
+category:ine,
+circuit,
+clothing:belt,
+clothing:bodysuit,
+clothing:bottomwear,
+clothing:gloves,
+clothing:hair clip,
+clothing:hair ornament,
+clothing:hairclip,
+clothing:topwear,
+commentary,
+covering,
+covering breasts,
+covering_breasts,
+creator:kilart,
+creator:kilartdev,
+cyborg,
+facial mark,
+facial tattoo,
+gender:female,
+genre:science fiction,
+gloves,
+glowing,
+hair ornament,
+kilart,
+large breasts,
+lips,
+looking at viewer,
+medium breasts,
+medium:2d art,
+meta:bad id,
+meta:bad tumblr id,
+meta:commentary,
+meta:photoshop (medium),
+meta:revision,
+navel,
+no nipples,
+no_nipples,
+open clothes,
+original,
+pov,
+rating:mature,
+rating:questionable,
+rating:safe,
+rating:sensitive,
+realistic,
+revision,
+robot,
+robot girl,
+robot_girl,
+science fiction,
+science_fiction,
+series:original,
+short hair,
+site:booru.org,
+smile,
+solo,
+species:android,
+species:robot,
+star,
+star (symbol),
+star facial mark,
+stomach,
+subreddit:imaginaryscience,
+subreddit:imtechnology,
+tattoo,
+title:cyborg girl v2.0,
+title:cyborg girl v2.0 by kilart (kilartdev) [xpost /r/imaginarycybernetics),
+uploader:lol33ta,
+website:reddit,

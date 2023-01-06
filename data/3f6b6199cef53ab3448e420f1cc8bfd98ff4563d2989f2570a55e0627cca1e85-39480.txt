@@ -1,79 +1,79 @@
-ac
-ambiguous gender
-armor
-assassinscreed
-bayek
-booru:e621
-bottomwear
-brown body
-brown skin
-cat
-category:ine
-claws
-clothed
-clothing
-clothing:armor
-clothing:hood
-clothing:legwear
-clothing:pants
-creator:sandara
-feral
-flying
-fur
-gender:ambiguous
-gender:male
-greaves
-group
-guro
-hand on head
-hood
-lion
-lying
-male
-mane
-medium:digital media
-melee weapon
-meta:2017
-meta:digital media (artwork)
-nude
-on front
-origins
-outside
-pants
-petting
-plate armor
-polearm
-rating:explicit
-rating:mature
-rating:safe
-series:assassin's creed
-series:ubisoft
-sitting
-size difference
-spear
-species:accipitrid
-species:accipitriform
-species:avian
-species:bird
-species:cat
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:hawk
-species:human
-species:lion
-species:mammal
-species:pantherine
-species:primate
-spots
-studio:ubisoft
-subreddit:imaginarypets
-subreddit:immeta
-title:big kitty small kitty
-title:big kitty small kitty by sandara tang
-uploader:myrandall
-vambraces
-video games
-weapon
-year:2017
+ac,
+ambiguous gender,
+armor,
+assassinscreed,
+bayek,
+booru:e621,
+bottomwear,
+brown body,
+brown skin,
+cat,
+category:ine,
+claws,
+clothed,
+clothing,
+clothing:armor,
+clothing:hood,
+clothing:legwear,
+clothing:pants,
+creator:sandara,
+feral,
+flying,
+fur,
+gender:ambiguous,
+gender:male,
+greaves,
+group,
+guro,
+hand on head,
+hood,
+lion,
+lying,
+male,
+mane,
+medium:digital media,
+melee weapon,
+meta:2017,
+meta:digital media (artwork),
+nude,
+on front,
+origins,
+outside,
+pants,
+petting,
+plate armor,
+polearm,
+rating:explicit,
+rating:mature,
+rating:safe,
+series:assassin's creed,
+series:ubisoft,
+sitting,
+size difference,
+spear,
+species:accipitrid,
+species:accipitriform,
+species:avian,
+species:bird,
+species:cat,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:hawk,
+species:human,
+species:lion,
+species:mammal,
+species:pantherine,
+species:primate,
+spots,
+studio:ubisoft,
+subreddit:imaginarypets,
+subreddit:immeta,
+title:big kitty small kitty,
+title:big kitty small kitty by sandara tang,
+uploader:myrandall,
+vambraces,
+video games,
+weapon,
+year:2017,

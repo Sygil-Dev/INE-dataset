@@ -1,77 +1,77 @@
-anthro
-anthropomorphism
-armband
-artist:denis_zhbankov
-biceps
-big muscles
-big_muscles
-black nose
-black_background
-black_nose
-blood
-blue body
-blue fur
-blue_body
-blue_fur
-bodily fluids
-bodily_fluids
-bright eyes
-bright_eyes
-category:ine
-character:sonic the hedgehog
-character:sonic_the_hedgehog
-clothed
-clothing
-clothing:tagme
-copyright:sonic_the_hedgehog_(series)
-creator:denis zhbankov
-ears
-eye_scar
-front view
-front_view
-fur
-gender:male
-half-length portrait
-large male
-long ears
-long_ears
-looking at viewer
-looking_at_viewer
-male
-medium:black background
-medium:digital media
-medium:high resolution
-medium:simple background
-meta:2018
-meta:digital_media_(artwork)
-meta:half-length_portrait
-meta:hi_res
-meta:portrait
-multiple scars
-multiple_scars
-muscles
-muscular
-muscular male
-muscular_anthro
-muscular_male
-pecs
-portrait
-pov
-purple eyes
-purple_eyes
-rating:safe
-realistic
-scar
-scar across eye
-series:sonic the hedgehog
-simple_background
-solo
-subreddit:imaginarybeasts
-subreddit:immonsters
-subscription:bara
-title:sonic by denis zhbankov
-topless
-uploader:lol33ta
-veiny muscles
-veiny_muscles
-year:2018
+anthro,
+anthropomorphism,
+armband,
+artist:denis_zhbankov,
+biceps,
+big muscles,
+big_muscles,
+black nose,
+black_background,
+black_nose,
+blood,
+blue body,
+blue fur,
+blue_body,
+blue_fur,
+bodily fluids,
+bodily_fluids,
+bright eyes,
+bright_eyes,
+category:ine,
+character:sonic the hedgehog,
+character:sonic_the_hedgehog,
+clothed,
+clothing,
+clothing:tagme,
+copyright:sonic_the_hedgehog_(series),
+creator:denis zhbankov,
+ears,
+eye_scar,
+front view,
+front_view,
+fur,
+gender:male,
+half-length portrait,
+large male,
+long ears,
+long_ears,
+looking at viewer,
+looking_at_viewer,
+male,
+medium:black background,
+medium:digital media,
+medium:high resolution,
+medium:simple background,
+meta:2018,
+meta:digital_media_(artwork),
+meta:half-length_portrait,
+meta:hi_res,
+meta:portrait,
+multiple scars,
+multiple_scars,
+muscles,
+muscular,
+muscular male,
+muscular_anthro,
+muscular_male,
+pecs,
+portrait,
+pov,
+purple eyes,
+purple_eyes,
+rating:safe,
+realistic,
+scar,
+scar across eye,
+series:sonic the hedgehog,
+simple_background,
+solo,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+subscription:bara,
+title:sonic by denis zhbankov,
+topless,
+uploader:lol33ta,
+veiny muscles,
+veiny_muscles,
+year:2018,

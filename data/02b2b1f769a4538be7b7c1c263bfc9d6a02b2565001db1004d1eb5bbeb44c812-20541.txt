@@ -1,22 +1,22 @@
-1girl
-artist name
-category:ine
-colored skin
-earrings
-face
-gradient
-jewelry
-long hair
-looking at viewer
-portrait
-purple background
-purple hair
-purple skin
-rating:safe
-signature
-solo
-subreddit:imaginaryelves
-subreddit:imraces
-title:sage by tiago alexandre
-uploader:lol33ta
-yellow eyes
+1girl,
+artist name,
+category:ine,
+colored skin,
+earrings,
+face,
+gradient,
+jewelry,
+long hair,
+looking at viewer,
+portrait,
+purple background,
+purple hair,
+purple skin,
+rating:safe,
+signature,
+solo,
+subreddit:imaginaryelves,
+subreddit:imraces,
+title:sage by tiago alexandre,
+uploader:lol33ta,
+yellow eyes,

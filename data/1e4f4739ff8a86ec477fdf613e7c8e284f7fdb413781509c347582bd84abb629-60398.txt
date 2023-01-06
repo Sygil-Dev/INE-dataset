@@ -1,46 +1,46 @@
-blue body
-blue feathers
-booru:e621
-category:ine
-creator:victor fernandez
-creator:victor fernández
-day
-detailed background
-feathered wings
-feathers
-feral
-furry
-gender:male
-horn
-horns
-male
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-outside
-rating:safe
-rock
-sky
-solo
-species:avian
-species:bird
-species:dragon
-species:feathered dragon
-species:galliform
-species:hybrid
-species:mythical
-species:peafowl
-species:phasianid
-species:scalie
-standing
-subreddit:imaginarybeasts
-subreddit:imaginaryhybrids
-subreddit:immonsters
-title:peacock dragon by victor fernández
-uploader:chalkchick0
-website:reddit
-wings
-year:2017
+blue body,
+blue feathers,
+booru:e621,
+category:ine,
+creator:victor fernandez,
+creator:victor fernández,
+day,
+detailed background,
+feathered wings,
+feathers,
+feral,
+furry,
+gender:male,
+horn,
+horns,
+male,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+outside,
+rating:safe,
+rock,
+sky,
+solo,
+species:avian,
+species:bird,
+species:dragon,
+species:feathered dragon,
+species:galliform,
+species:hybrid,
+species:mythical,
+species:peafowl,
+species:phasianid,
+species:scalie,
+standing,
+subreddit:imaginarybeasts,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+title:peacock dragon by victor fernández,
+uploader:chalkchick0,
+website:reddit,
+wings,
+year:2017,

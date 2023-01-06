@@ -1,56 +1,56 @@
-armor
-artist:dofresh
-boots
-breastplate
-bug
-butterfly
-category:ine
-clothing:footwear
-commentary
-copyright:original
-corpse
-creator:dofresh
-dated
-day
-death
-dofresh
-footwear
-forest
-gauntlets
-greaves
-insect
-ivy
-knight
-long sword
-long_sword
-medium:high resolution
-meta:commentary
-meta:highres
-nature
-original
-outdoors
-outside
-pauldrons
-plate armor
-plate_armor
-rating:mature
-rating:safe
-roots
-ruins
-series:original
-signature
-silk
-sitting
-skeleton
-skull
-solo
-species:arthropod
-species:insect
-spider web
-subreddit:imaginaryartifacts
-subreddit:immeta
-sword
-throne
-title:this is not avalon by "_ dofresh _" (artstation)
-uploader:valar_m0rghul1s
-weapon
+armor,
+artist:dofresh,
+boots,
+breastplate,
+bug,
+butterfly,
+category:ine,
+clothing:footwear,
+commentary,
+copyright:original,
+corpse,
+creator:dofresh,
+dated,
+day,
+death,
+dofresh,
+footwear,
+forest,
+gauntlets,
+greaves,
+insect,
+ivy,
+knight,
+long sword,
+long_sword,
+medium:high resolution,
+meta:commentary,
+meta:highres,
+nature,
+original,
+outdoors,
+outside,
+pauldrons,
+plate armor,
+plate_armor,
+rating:mature,
+rating:safe,
+roots,
+ruins,
+series:original,
+signature,
+silk,
+sitting,
+skeleton,
+skull,
+solo,
+species:arthropod,
+species:insect,
+spider web,
+subreddit:imaginaryartifacts,
+subreddit:immeta,
+sword,
+throne,
+title:this is not avalon by "_ dofresh _" (artstation),
+uploader:valar_m0rghul1s,
+weapon,

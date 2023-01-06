@@ -1,21 +1,21 @@
-aircraft
-bird
-building
-category:ine
-city
-cloud
-cloudy sky
-horizon
-mountain
-ocean
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-sunset
-title:medieval fantasy by paola cardenas
-tower
-uploader:ethereeal
-watercraft
+aircraft,
+bird,
+building,
+category:ine,
+city,
+cloud,
+cloudy sky,
+horizon,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+sunset,
+title:medieval fantasy by paola cardenas,
+tower,
+uploader:ethereeal,
+watercraft,

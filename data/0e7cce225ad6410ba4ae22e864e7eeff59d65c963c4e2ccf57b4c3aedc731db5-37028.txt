@@ -1,26 +1,26 @@
-1girl
-beard
-category:ine
-coat
-facial hair
-hat
-holding
-japanese clothes
-kimono
-long sleeves
-multiple boys
-mustache
-old
-old man
-pipe
-pouch
-rating:safe
-simple background
-subreddit:imaginaryhumans
-subreddit:imaginaryscholars
-subreddit:imcharacters
-subreddit:imraces
-title:the archivist by morten solgaard pedersen
-uploader:myrandall
-weapon
-white hair
+1girl,
+beard,
+category:ine,
+coat,
+facial hair,
+hat,
+holding,
+japanese clothes,
+kimono,
+long sleeves,
+multiple boys,
+mustache,
+old,
+old man,
+pipe,
+pouch,
+rating:safe,
+simple background,
+subreddit:imaginaryhumans,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+subreddit:imraces,
+title:the archivist by morten solgaard pedersen,
+uploader:myrandall,
+weapon,
+white hair,

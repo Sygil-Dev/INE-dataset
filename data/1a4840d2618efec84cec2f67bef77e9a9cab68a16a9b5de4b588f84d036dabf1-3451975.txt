@@ -1,59 +1,59 @@
-2016
-absurd res
-blue body
-blue feathers
-blue fur
-blue hair
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-closed eyes
-clothing:necklace
-cloud
-creator:bluespaceling
-detailed background
-eyes closed
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-horn
-horns
-jewelry
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:2:1
-meta:2016
-meta:absurd res
-meta:hi res
-necklace
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-spread wings
-star
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:a stroll among the stars
-title:a stroll among the stars by 'bluespaceling'
-uploader:myrandall
-wings
-year:2016
+2016,
+absurd res,
+blue body,
+blue feathers,
+blue fur,
+blue hair,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+closed eyes,
+clothing:necklace,
+cloud,
+creator:bluespaceling,
+detailed background,
+eyes closed,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+jewelry,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:2:1,
+meta:2016,
+meta:absurd res,
+meta:hi res,
+necklace,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+spread wings,
+star,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:a stroll among the stars,
+title:a stroll among the stars by 'bluespaceling',
+uploader:myrandall,
+wings,
+year:2016,

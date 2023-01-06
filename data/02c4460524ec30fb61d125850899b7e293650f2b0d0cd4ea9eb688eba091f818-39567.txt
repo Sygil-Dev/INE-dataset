@@ -1,25 +1,25 @@
-animal
-black cat
-black umbrella
-cat
-category:ine
-holding
-holding umbrella
-oil-paper umbrella
-pink umbrella
-puddle
-rain
-raincoat
-rating:safe
-red umbrella
-shared umbrella
-signature
-subreddit:imaginarypets
-subreddit:immeta
-title:washed up by korak bhaumik
-transparent
-transparent umbrella
-umbrella
-uploader:hvitserkr
-wet
-wet clothes
+animal,
+black cat,
+black umbrella,
+cat,
+category:ine,
+holding,
+holding umbrella,
+oil-paper umbrella,
+pink umbrella,
+puddle,
+rain,
+raincoat,
+rating:safe,
+red umbrella,
+shared umbrella,
+signature,
+subreddit:imaginarypets,
+subreddit:immeta,
+title:washed up by korak bhaumik,
+transparent,
+transparent umbrella,
+umbrella,
+uploader:hvitserkr,
+wet,
+wet clothes,

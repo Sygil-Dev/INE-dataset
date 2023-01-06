@@ -1,110 +1,110 @@
-1 male
-abs
-amazing
-anthro
-anthropomorphism
-balaa
-biceps
-big muscles
-biped
-birds_of_paradise
-black body
-black fur
-black nose
-booru:e621
-calendar
-category:ine
-class:mammal
-clothing:jewelry
-clothing:necklace
-colorful
-creator:balaa
-creator:deyvarah
-day
-depth of field
-detailed background
-feathers
-front view
-fur
-fur tuft
-gender:male
-gesture
-half-length portrait
-head ornament
-headdress
-inner ear fluff
-jewelry
-lips
-looking at viewer
-male
-male only
-medium:detailed background
-medium:digital media
-medium:focus on male character
-medium:text
-medium:watermark
-meta:2014
-meta:colorful
-meta:digital media (artwork)
-meta:half-length portrait
-meta:portrait
-meta:shaded
-meta:soft shading
-meta:url
-meta:watermark
-monster
-multicolored body
-multicolored fur
-muscles
-muscular
-muscular anthro
-muscular male
-neck tuft
-necklace
-new_guinea
-no sclera
-obliques
-outside
-pecs
-photorealism
-portrait
-pov
-rating:safe
-serious
-serratus
-snout
-soft shading
-solo
-solo male
-source:e621
-source:furaffinity.net
-species:canid
-species:canid - wolf
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:werewolf
-species:wolf
-spots
-spotted body
-spotted fur
-spread arms
-subreddit:imaginarywerewolves
-subreddit:immonsters
-text
-title:bird of paradise
-title:bird of paradise by balaa/anastasia korochansckaja
-tribal
-tuft
-two tone body
-two tone fur
-uploader:chalkchick0
-url
-watermark
-werewolf
-whiskers
-wolf
-wwc
-year:2014
-yellow eyes
+1 male,
+abs,
+amazing,
+anthro,
+anthropomorphism,
+balaa,
+biceps,
+big muscles,
+biped,
+birds_of_paradise,
+black body,
+black fur,
+black nose,
+booru:e621,
+calendar,
+category:ine,
+class:mammal,
+clothing:jewelry,
+clothing:necklace,
+colorful,
+creator:balaa,
+creator:deyvarah,
+day,
+depth of field,
+detailed background,
+feathers,
+front view,
+fur,
+fur tuft,
+gender:male,
+gesture,
+half-length portrait,
+head ornament,
+headdress,
+inner ear fluff,
+jewelry,
+lips,
+looking at viewer,
+male,
+male only,
+medium:detailed background,
+medium:digital media,
+medium:focus on male character,
+medium:text,
+medium:watermark,
+meta:2014,
+meta:colorful,
+meta:digital media (artwork),
+meta:half-length portrait,
+meta:portrait,
+meta:shaded,
+meta:soft shading,
+meta:url,
+meta:watermark,
+monster,
+multicolored body,
+multicolored fur,
+muscles,
+muscular,
+muscular anthro,
+muscular male,
+neck tuft,
+necklace,
+new_guinea,
+no sclera,
+obliques,
+outside,
+pecs,
+photorealism,
+portrait,
+pov,
+rating:safe,
+serious,
+serratus,
+snout,
+soft shading,
+solo,
+solo male,
+source:e621,
+source:furaffinity.net,
+species:canid,
+species:canid - wolf,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:werewolf,
+species:wolf,
+spots,
+spotted body,
+spotted fur,
+spread arms,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+text,
+title:bird of paradise,
+title:bird of paradise by balaa/anastasia korochansckaja,
+tribal,
+tuft,
+two tone body,
+two tone fur,
+uploader:chalkchick0,
+url,
+watermark,
+werewolf,
+whiskers,
+wolf,
+wwc,
+year:2014,
+yellow eyes,

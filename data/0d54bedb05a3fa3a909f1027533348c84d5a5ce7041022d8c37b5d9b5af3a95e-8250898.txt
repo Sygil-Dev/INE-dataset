@@ -1,22 +1,22 @@
-category:ine
-cloud
-creator:jason scheier
-evening
-gradient sky
-medium:digital 2d
-mountain
-mountainous horizon
-no humans
-outdoors
-purple sky
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginarymonuments
-subreddit:imarchitecture
-sunset
-title:monoliths
-title:monoliths by jason scheier
-twilight
-uploader:hvitserkr
+category:ine,
+cloud,
+creator:jason scheier,
+evening,
+gradient sky,
+medium:digital 2d,
+mountain,
+mountainous horizon,
+no humans,
+outdoors,
+purple sky,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginarymonuments,
+subreddit:imarchitecture,
+sunset,
+title:monoliths,
+title:monoliths by jason scheier,
+twilight,
+uploader:hvitserkr,

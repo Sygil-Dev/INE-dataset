@@ -1,29 +1,29 @@
-1girl
-aircraft
-airplane
-antennae
-burning
-category:ine
-embers
-explosion
-fire
-firing
-flame
-flying
-ground vehicle
-long hair
-military
-military vehicle
-motor vehicle
-muzzle flash
-rating:safe
-realistic
-science fiction
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-sunset
-tank
-title:the guardian legend - miria - concept art by naoyuki kato
-traditional media
-uploader:[deleted]
-uploader:mrsunsociable
+1girl,
+aircraft,
+airplane,
+antennae,
+burning,
+category:ine,
+embers,
+explosion,
+fire,
+firing,
+flame,
+flying,
+ground vehicle,
+long hair,
+military,
+military vehicle,
+motor vehicle,
+muzzle flash,
+rating:safe,
+realistic,
+science fiction,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+sunset,
+tank,
+title:the guardian legend - miria - concept art by naoyuki kato,
+traditional media,
+uploader:[deleted],
+uploader:mrsunsociable,

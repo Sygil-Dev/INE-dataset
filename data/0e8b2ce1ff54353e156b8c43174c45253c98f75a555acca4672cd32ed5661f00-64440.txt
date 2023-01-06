@@ -1,28 +1,28 @@
-1girl
-battle
-building
-castle
-category:ine
-city
-claws
-cloud
-day
-destruction
-dragon
-fangs
-monster
-mountain
-open mouth
-rating:safe
-realistic
-ruins
-sharp teeth
-sky
-subreddit:imaginarybeasts
-subreddit:imaginaryhybrids
-subreddit:immonsters
-sword
-teeth
-title:manticore by rj palmer
-uploader:e-leventy
-weapon
+1girl,
+battle,
+building,
+castle,
+category:ine,
+city,
+claws,
+cloud,
+day,
+destruction,
+dragon,
+fangs,
+monster,
+mountain,
+open mouth,
+rating:safe,
+realistic,
+ruins,
+sharp teeth,
+sky,
+subreddit:imaginarybeasts,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+sword,
+teeth,
+title:manticore by rj palmer,
+uploader:e-leventy,
+weapon,

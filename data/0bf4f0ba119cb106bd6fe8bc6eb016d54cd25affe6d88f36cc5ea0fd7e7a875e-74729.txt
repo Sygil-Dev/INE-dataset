@@ -1,26 +1,26 @@
-1boy
-aiming
-archer
-armor
-arrow (projectile)
-bow
-bow (weapon)
-cape
-category:ine
-creator:thegryph
-drawing bow
-fantasyillustration
-holding arrow
-holding bow (weapon)
-holding weapon
-male focus
-rating:safe
-solo
-subreddit:imaginaryarchers
-subreddit:imcharacters
-sunset
-title:archer
-title:archer by nicole cardiff
-title:archer by thegryph
-uploader:lol33ta
-weapon
+1boy,
+aiming,
+archer,
+armor,
+arrow (projectile),
+bow,
+bow (weapon),
+cape,
+category:ine,
+creator:thegryph,
+drawing bow,
+fantasyillustration,
+holding arrow,
+holding bow (weapon),
+holding weapon,
+male focus,
+rating:safe,
+solo,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+sunset,
+title:archer,
+title:archer by nicole cardiff,
+title:archer by thegryph,
+uploader:lol33ta,
+weapon,

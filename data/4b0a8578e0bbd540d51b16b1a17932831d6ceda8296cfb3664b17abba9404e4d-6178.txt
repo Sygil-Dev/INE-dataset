@@ -1,27 +1,27 @@
-artwork
-bastien grivet
-building
-castle
-category:ine
-clouds
-creator:bastien grivet
-creature
-drawing
-environment
-fantasy art
-furry
-illustration
-lake
-medium:digital 2d
-medium:digital media
-mountains
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:a new friend
-title:a new friend by bastien grivet
-uploader:imwaaal
-water
-waterfall
+artwork,
+bastien grivet,
+building,
+castle,
+category:ine,
+clouds,
+creator:bastien grivet,
+creature,
+drawing,
+environment,
+fantasy art,
+furry,
+illustration,
+lake,
+medium:digital 2d,
+medium:digital media,
+mountains,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:a new friend,
+title:a new friend by bastien grivet,
+uploader:imwaaal,
+water,
+waterfall,

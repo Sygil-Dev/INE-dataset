@@ -1,23 +1,23 @@
-category:ine
-cloud
-creator:sandara
-dragon
-dragon horns
-dragon tail
-dragon wings
-no humans
-open mouth
-outdoors
-rating:safe
-scales
-sharp teeth
-sky
-spikes
-subreddit:imaginarydragons
-subreddit:immonsters
-tail
-teeth
-title:stardragon
-title:stardragon by sandara tang
-uploader:panzer-kunst
-wings
+category:ine,
+cloud,
+creator:sandara,
+dragon,
+dragon horns,
+dragon tail,
+dragon wings,
+no humans,
+open mouth,
+outdoors,
+rating:safe,
+scales,
+sharp teeth,
+sky,
+spikes,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+tail,
+teeth,
+title:stardragon,
+title:stardragon by sandara tang,
+uploader:panzer-kunst,
+wings,

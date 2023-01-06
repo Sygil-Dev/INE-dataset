@@ -1,27 +1,27 @@
-1girl
-angel
-angel wings
-barefoot
-black wings
-category:ine
-detached wings
-dress
-feathered wings
-halo
-holding
-holding weapon
-long hair
-multiple wings
-rating:safe
-single wing
-solo
-spread wings
-standing
-subreddit:imaginaryangels
-subreddit:imraces
-sword
-title:angel, by rafa maciel
-uploader:belledame-sans-serif
-weapon
-white wings
-wings
+1girl,
+angel,
+angel wings,
+barefoot,
+black wings,
+category:ine,
+detached wings,
+dress,
+feathered wings,
+halo,
+holding,
+holding weapon,
+long hair,
+multiple wings,
+rating:safe,
+single wing,
+solo,
+spread wings,
+standing,
+subreddit:imaginaryangels,
+subreddit:imraces,
+sword,
+title:angel, by rafa maciel,
+uploader:belledame-sans-serif,
+weapon,
+white wings,
+wings,

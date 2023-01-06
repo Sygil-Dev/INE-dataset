@@ -1,77 +1,77 @@
-1 female
-1girl
-2 males
-2boys
-black gloves
-blonde
-blonde hair
-blue eyes
-blurry
-blurry background
-bodysuit
-boots
-bottomwear
-breasts
-broken glass
-bullet
-category:ine
-character:bullet
-character:samus aran
-character:tess (raikoart)
-character:tess turner
-city
-clothing:black gloves
-clothing:bodysuit
-clothing:boots
-clothing:bottomwear
-clothing:footwear
-clothing:gloves
-clothing:hair tie
-clothing:topwear
-creator:raikoart
-creator:sean "raiko" tay
-driving
-female
-firearm
-firing
-footwear
-gender:female
-gender:male
-glass
-gloves
-gun
-handgun
-lips
-long hair
-looking at viewer
-male
-medium:16:10 aspect ratio
-medium:blurry background
-medium:digital 2d
-meta:commentary
-multiple boys
-multiple males
-oc
-pale skin
-parted lips
-ponytail
-rain
-rating:mature
-rating:safe
-realistic
-series:original
-solo
-solo focus
-standing
-subreddit:imaginaryassassins
-subreddit:imcharacters
-taxi
-tess
-tess (raikoart)
-tied hair
-title:goodbye
-title:goodbye, by sean 'raiko' tay
-topwear
-uploader:sylvyrfyre
-weapon
-window
+1 female,
+1girl,
+2 males,
+2boys,
+black gloves,
+blonde,
+blonde hair,
+blue eyes,
+blurry,
+blurry background,
+bodysuit,
+boots,
+bottomwear,
+breasts,
+broken glass,
+bullet,
+category:ine,
+character:bullet,
+character:samus aran,
+character:tess (raikoart),
+character:tess turner,
+city,
+clothing:black gloves,
+clothing:bodysuit,
+clothing:boots,
+clothing:bottomwear,
+clothing:footwear,
+clothing:gloves,
+clothing:hair tie,
+clothing:topwear,
+creator:raikoart,
+creator:sean "raiko" tay,
+driving,
+female,
+firearm,
+firing,
+footwear,
+gender:female,
+gender:male,
+glass,
+gloves,
+gun,
+handgun,
+lips,
+long hair,
+looking at viewer,
+male,
+medium:16:10 aspect ratio,
+medium:blurry background,
+medium:digital 2d,
+meta:commentary,
+multiple boys,
+multiple males,
+oc,
+pale skin,
+parted lips,
+ponytail,
+rain,
+rating:mature,
+rating:safe,
+realistic,
+series:original,
+solo,
+solo focus,
+standing,
+subreddit:imaginaryassassins,
+subreddit:imcharacters,
+taxi,
+tess,
+tess (raikoart),
+tied hair,
+title:goodbye,
+title:goodbye, by sean 'raiko' tay,
+topwear,
+uploader:sylvyrfyre,
+weapon,
+window,

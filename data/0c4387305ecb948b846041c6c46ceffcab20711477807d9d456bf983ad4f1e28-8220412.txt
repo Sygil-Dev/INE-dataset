@@ -1,22 +1,22 @@
-category:ine
-cranes (bird)
-creator:richard wright
-cyan
-fantasy art
-lake
-medium:digital 2d
-mist
-mountains
-pyramid
-reflection
-series:magic: the gathering
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarymindscapes
-subreddit:imaginarytemples
-subreddit:imarchitecture
-subreddit:imlandscapes
-title:daze
-title:daze by richard wright
-uploader:johncarterofares
-uploader:natezomby
+category:ine,
+cranes (bird),
+creator:richard wright,
+cyan,
+fantasy art,
+lake,
+medium:digital 2d,
+mist,
+mountains,
+pyramid,
+reflection,
+series:magic: the gathering,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarymindscapes,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+title:daze,
+title:daze by richard wright,
+uploader:johncarterofares,
+uploader:natezomby,

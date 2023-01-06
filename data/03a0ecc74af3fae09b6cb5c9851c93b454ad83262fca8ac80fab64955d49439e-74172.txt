@@ -1,34 +1,34 @@
-1girl
-aiming
-arrow (projectile)
-bare tree
-belt
-bow (weapon)
-branch
-breasts
-bush
-category:ine
-day
-drawing bow
-forest
-holding
-holding bow (weapon)
-hood
-in tree
-leaf
-nature
-outdoors
-plant
-quiver
-rating:safe
-solo
-subreddit:imaginaryarchers
-subreddit:imaginaryelves
-subreddit:imcharacters
-subreddit:imraces
-title:elven archer by mikhail naumovich
-tree
-uploader:lol33ta
-uploader:spirtomb1831
-uploader:tallantas
-weapon
+1girl,
+aiming,
+arrow (projectile),
+bare tree,
+belt,
+bow (weapon),
+branch,
+breasts,
+bush,
+category:ine,
+day,
+drawing bow,
+forest,
+holding,
+holding bow (weapon),
+hood,
+in tree,
+leaf,
+nature,
+outdoors,
+plant,
+quiver,
+rating:safe,
+solo,
+subreddit:imaginaryarchers,
+subreddit:imaginaryelves,
+subreddit:imcharacters,
+subreddit:imraces,
+title:elven archer by mikhail naumovich,
+tree,
+uploader:lol33ta,
+uploader:spirtomb1831,
+uploader:tallantas,
+weapon,

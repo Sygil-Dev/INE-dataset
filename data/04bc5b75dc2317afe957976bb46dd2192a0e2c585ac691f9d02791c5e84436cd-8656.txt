@@ -1,50 +1,50 @@
-abandoned
-anato finnstark
-art
-autumn
-autumn leaves
-bare tree
-breathing fire
-burning
-campfire
-candle
-category:ine
-embers
-evening
-explosion
-fall
-fire
-fireplace
-flame
-flaming weapon
-forest
-gender:female
-lantern
-leaf
-leaves
-maple leaf
-medium:concept art
-molten rock
-multiple torii
-nature
-orange sky
-outdoors
-rating:safe
-red hair
-red sky
-scenery
-stairs
-statue
-subreddit:imaginaryautumnscapes
-subreddit:imaginarypathways
-subreddit:imlandscapes
-sunlight
-sunset
-title:the smell of dead leaves by anato finnstark
-torch
-torii
-tree
-trees
-uploader:godforesaken
-uploader:lol33ta
-water
+abandoned,
+anato finnstark,
+art,
+autumn,
+autumn leaves,
+bare tree,
+breathing fire,
+burning,
+campfire,
+candle,
+category:ine,
+embers,
+evening,
+explosion,
+fall,
+fire,
+fireplace,
+flame,
+flaming weapon,
+forest,
+gender:female,
+lantern,
+leaf,
+leaves,
+maple leaf,
+medium:concept art,
+molten rock,
+multiple torii,
+nature,
+orange sky,
+outdoors,
+rating:safe,
+red hair,
+red sky,
+scenery,
+stairs,
+statue,
+subreddit:imaginaryautumnscapes,
+subreddit:imaginarypathways,
+subreddit:imlandscapes,
+sunlight,
+sunset,
+title:the smell of dead leaves by anato finnstark,
+torch,
+torii,
+tree,
+trees,
+uploader:godforesaken,
+uploader:lol33ta,
+water,

@@ -1,26 +1,26 @@
-blue sky
-category:ine
-cloud
-cloudy sky
-condensation trail
-creator:breakerofoaths
-creator:laser-fire
-day
-dragon
-fantasy
-flying
-green
-mecha
-no humans
-outdoors
-rating:safe
-robot
-sciencefiction
-scifi
-sky
-spring onion
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-title:"beam" by breakerofoaths
-title:beam
-uploader:torvusil
+blue sky,
+category:ine,
+cloud,
+cloudy sky,
+condensation trail,
+creator:breakerofoaths,
+creator:laser-fire,
+day,
+dragon,
+fantasy,
+flying,
+green,
+mecha,
+no humans,
+outdoors,
+rating:safe,
+robot,
+sciencefiction,
+scifi,
+sky,
+spring onion,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+title:"beam" by breakerofoaths,
+title:beam,
+uploader:torvusil,

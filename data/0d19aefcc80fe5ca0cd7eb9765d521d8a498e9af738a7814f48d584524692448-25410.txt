@@ -1,107 +1,107 @@
-3:2
-626
-2018
-ambiguous gender
-art
-artist name
-back markings
-beak
-bird
-bird feet
-blue body
-blue claws
-blue eyes
-blue fur
-blue nose
-category:ine
-character:stitch
-character:stitch (lilo and stitch)
-cheek tuft
-chest tuft
-claws
-creative
-creator:tsaoshin
-cub
-cute
-digital
-digital painting (artwork)
-digitalpainting
-disney
-duckling
-duo
-ericproctor
-facial tuft
-fanart
-feathers
-feral
-full body
-fur
-head tuft
-liloandstitch
-looking down
-markings
-medium:digital media
-medium:simple background
-membrane (anatomy)
-meta:3:2
-meta:2018
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:signature
-motion lines
-no humans
-notched ear
-outdoors
-paint
-photoshop
-pokemon (creature)
-rain
-raining
-rating:safe
-series:disney
-series:lilo & stitch
-series:lilo and stitch
-signature
-simple background
-sitting
-sky
-small tail
-solo
-species:alien
-species:anatid
-species:anseriform
-species:avian
-species:bird
-species:duck
-species:duckling
-species:experiment (lilo and stitch)
-species:experiment (species)
-speed lines
-stitch
-stitchday
-streaming
-studio:disney
-subreddit:imaginaryaww
-subreddit:imaginarydisney
-subreddit:imfandoms
-subreddit:immeta
-sun
-sunlight
-timelapse
-title:stitch day 2018
-title:stitch day 2018 by eric proctor
-title:stitch day 2018 by tsaoshin (eric proctor)
-tsaoshin
-tuft
-twitch
-uploader:lol33ta
-uploader:myrandall
-water
-watermark
-webbed feet
-wet
-white body
-white feathers
-year:2018
-yellow beak
-young
+3:2,
+626,
+2018,
+ambiguous gender,
+art,
+artist name,
+back markings,
+beak,
+bird,
+bird feet,
+blue body,
+blue claws,
+blue eyes,
+blue fur,
+blue nose,
+category:ine,
+character:stitch,
+character:stitch (lilo and stitch),
+cheek tuft,
+chest tuft,
+claws,
+creative,
+creator:tsaoshin,
+cub,
+cute,
+digital,
+digital painting (artwork),
+digitalpainting,
+disney,
+duckling,
+duo,
+ericproctor,
+facial tuft,
+fanart,
+feathers,
+feral,
+full body,
+fur,
+head tuft,
+liloandstitch,
+looking down,
+markings,
+medium:digital media,
+medium:simple background,
+membrane (anatomy),
+meta:3:2,
+meta:2018,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:signature,
+motion lines,
+no humans,
+notched ear,
+outdoors,
+paint,
+photoshop,
+pokemon (creature),
+rain,
+raining,
+rating:safe,
+series:disney,
+series:lilo & stitch,
+series:lilo and stitch,
+signature,
+simple background,
+sitting,
+sky,
+small tail,
+solo,
+species:alien,
+species:anatid,
+species:anseriform,
+species:avian,
+species:bird,
+species:duck,
+species:duckling,
+species:experiment (lilo and stitch),
+species:experiment (species),
+speed lines,
+stitch,
+stitchday,
+streaming,
+studio:disney,
+subreddit:imaginaryaww,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+subreddit:immeta,
+sun,
+sunlight,
+timelapse,
+title:stitch day 2018,
+title:stitch day 2018 by eric proctor,
+title:stitch day 2018 by tsaoshin (eric proctor),
+tsaoshin,
+tuft,
+twitch,
+uploader:lol33ta,
+uploader:myrandall,
+water,
+watermark,
+webbed feet,
+wet,
+white body,
+white feathers,
+year:2018,
+yellow beak,
+young,

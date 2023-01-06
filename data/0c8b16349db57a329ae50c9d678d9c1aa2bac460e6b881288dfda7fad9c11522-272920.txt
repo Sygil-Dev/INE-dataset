@@ -1,32 +1,32 @@
-1boy
-book
-book stack
-bookshelf
-boots
-candle
-category:ine
-fire
-flame
-floating
-floating book
-floating object
-full body
-grimoire
-holding
-holding book
-library
-magic
-male focus
-map
-open book
-paper
-pointy ears
-quill
-rating:safe
-reading
-solo
-subreddit:imaginaryscholars
-subreddit:imcharacters
-title:krispin by dimitris karakousis
-uploader:lol33ta
-wizard
+1boy,
+book,
+book stack,
+bookshelf,
+boots,
+candle,
+category:ine,
+fire,
+flame,
+floating,
+floating book,
+floating object,
+full body,
+grimoire,
+holding,
+holding book,
+library,
+magic,
+male focus,
+map,
+open book,
+paper,
+pointy ears,
+quill,
+rating:safe,
+reading,
+solo,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+title:krispin by dimitris karakousis,
+uploader:lol33ta,
+wizard,

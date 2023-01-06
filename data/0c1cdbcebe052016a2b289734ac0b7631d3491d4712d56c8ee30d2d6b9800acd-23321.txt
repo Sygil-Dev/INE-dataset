@@ -1,23 +1,23 @@
-black border
-blurry
-blurry background
-blurry foreground
-border
-category:ine
-colored skin
-depth of field
-full moon
-horns
-letterboxed
-moon
-moonlight
-night
-night sky
-pillarboxed
-rating:safe
-sky
-subreddit:imaginaryvampires
-subreddit:immonsters
-sun
-title:vampire unicorn by ivan fomin
-uploader:lol33ta
+black border,
+blurry,
+blurry background,
+blurry foreground,
+border,
+category:ine,
+colored skin,
+depth of field,
+full moon,
+horns,
+letterboxed,
+moon,
+moonlight,
+night,
+night sky,
+pillarboxed,
+rating:safe,
+sky,
+subreddit:imaginaryvampires,
+subreddit:immonsters,
+sun,
+title:vampire unicorn by ivan fomin,
+uploader:lol33ta,

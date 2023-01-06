@@ -1,21 +1,21 @@
-armor
-artist name
-category:ine
-grass
-holding
-holding sword
-holding weapon
-monster
-rating:safe
-sharp teeth
-subreddit:imaginaryaliens
-subreddit:imaginarybeasts
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:immonsters
-subreddit:imraces
-sword
-teeth
-title:females by czepeku (me)
-uploader:czepeku
-weapon
+armor,
+artist name,
+category:ine,
+grass,
+holding,
+holding sword,
+holding weapon,
+monster,
+rating:safe,
+sharp teeth,
+subreddit:imaginaryaliens,
+subreddit:imaginarybeasts,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:immonsters,
+subreddit:imraces,
+sword,
+teeth,
+title:females by czepeku (me),
+uploader:czepeku,
+weapon,

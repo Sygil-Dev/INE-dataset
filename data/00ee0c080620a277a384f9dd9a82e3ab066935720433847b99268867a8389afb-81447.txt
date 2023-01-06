@@ -1,34 +1,34 @@
-1boy
-1girl
-armor
-arrow (projectile)
-belt
-blue sky
-category:ine
-cloud
-cloudy sky
-day
-grass
-gun
-horse
-horseback riding
-mountain
-open mouth
-pants
-pouch
-rating:safe
-riding
-saddle
-sitting
-sky
-subreddit:imaginaryfamilies
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-title:the bitcher by richard sashigane
-title:the bitcher, by richard sashigane
-tree
-uploader:knighterrannt
-uploader:lol33ta
-weapon
-white hair
+1boy,
+1girl,
+armor,
+arrow (projectile),
+belt,
+blue sky,
+category:ine,
+cloud,
+cloudy sky,
+day,
+grass,
+gun,
+horse,
+horseback riding,
+mountain,
+open mouth,
+pants,
+pouch,
+rating:safe,
+riding,
+saddle,
+sitting,
+sky,
+subreddit:imaginaryfamilies,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+title:the bitcher by richard sashigane,
+title:the bitcher, by richard sashigane,
+tree,
+uploader:knighterrannt,
+uploader:lol33ta,
+weapon,
+white hair,

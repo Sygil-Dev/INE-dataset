@@ -1,23 +1,23 @@
-category:ine
-creator:louis-philippe desjardins
-gradient
-gradient background
-gun
-handpainted
-louis
-louis-philippe desjardins
-medium:digital 3d
-no humans
-racing
-rating:safe
-red
-rifle
-science fiction
-sniper
-stylized
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-title:handpainted red rifle, louis-philippe desjardins
-title:handpainted red sniper rifle
-uploader:darkchew
-weapon
+category:ine,
+creator:louis-philippe desjardins,
+gradient,
+gradient background,
+gun,
+handpainted,
+louis,
+louis-philippe desjardins,
+medium:digital 3d,
+no humans,
+racing,
+rating:safe,
+red,
+rifle,
+science fiction,
+sniper,
+stylized,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+title:handpainted red rifle, louis-philippe desjardins,
+title:handpainted red sniper rifle,
+uploader:darkchew,
+weapon,

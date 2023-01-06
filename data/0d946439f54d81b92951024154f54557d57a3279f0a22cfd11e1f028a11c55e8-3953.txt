@@ -1,37 +1,37 @@
-2016
-ambiguous gender
-booru:e621
-category:ine
-creator:alasou
-eeveelution
-eyelashes
-feral
-gender:ambiguous
-looking at viewer
-medium:high resolution
-medium:simple background
-meta:2016
-meta:hi res
-pov
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-simple background
-smile
-solo
-species:eeveelution
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:sylveon
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"sassylveon" by alaric (alasou)
-title:sassylveon
-uploader:torvusil
-video games
-year:2016
+2016,
+ambiguous gender,
+booru:e621,
+category:ine,
+creator:alasou,
+eeveelution,
+eyelashes,
+feral,
+gender:ambiguous,
+looking at viewer,
+medium:high resolution,
+medium:simple background,
+meta:2016,
+meta:hi res,
+pov,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+simple background,
+smile,
+solo,
+species:eeveelution,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:sylveon,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"sassylveon" by alaric (alasou),
+title:sassylveon,
+uploader:torvusil,
+video games,
+year:2016,

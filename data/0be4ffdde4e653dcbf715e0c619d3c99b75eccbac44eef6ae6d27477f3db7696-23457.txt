@@ -1,35 +1,35 @@
-battle
-breathing fire
-burning
-campfire
-candle
-category:ine
-destruction
-embers
-explosion
-fire
-firing
-flame
-flaming sword
-flaming weapon
-giant
-holding
-holding weapon
-lightning
-magic
-molten rock
-monster
-muzzle flash
-rating:safe
-smoke
-sparks
-subreddit:imaginarycanyons
-subreddit:imaginaryvolcanoes
-subreddit:imnature
-title:break the earth by titus lunter
-torch
-uploader:[deleted]
-uploader:faeryknight
-uploader:valar_m0rghul1s
-volcano
-weapon
+battle,
+breathing fire,
+burning,
+campfire,
+candle,
+category:ine,
+destruction,
+embers,
+explosion,
+fire,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+giant,
+holding,
+holding weapon,
+lightning,
+magic,
+molten rock,
+monster,
+muzzle flash,
+rating:safe,
+smoke,
+sparks,
+subreddit:imaginarycanyons,
+subreddit:imaginaryvolcanoes,
+subreddit:imnature,
+title:break the earth by titus lunter,
+torch,
+uploader:[deleted],
+uploader:faeryknight,
+uploader:valar_m0rghul1s,
+volcano,
+weapon,

@@ -1,24 +1,24 @@
-autumn
-burning
-campfire
-category:ine
-cloud
-creator:wandererlink
-explosion
-fire
-forest
-hat
-molten rock
-mountain
-nature
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginaryvolcanoes
-subreddit:imnature
-sunset
-title:volcano
-title:volcano by meng-ru chiang (link chiang)
-tree
-uploader:lol33ta
+autumn,
+burning,
+campfire,
+category:ine,
+cloud,
+creator:wandererlink,
+explosion,
+fire,
+forest,
+hat,
+molten rock,
+mountain,
+nature,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginaryvolcanoes,
+subreddit:imnature,
+sunset,
+title:volcano,
+title:volcano by meng-ru chiang (link chiang),
+tree,
+uploader:lol33ta,

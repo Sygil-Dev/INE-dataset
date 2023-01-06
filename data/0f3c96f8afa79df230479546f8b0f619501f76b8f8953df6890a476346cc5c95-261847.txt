@@ -1,22 +1,22 @@
-camouflage
-category:ine
-concept
-creator:karanak
-firearm
-games
-googlesketchup
-ground vehicle
-machine gun
-military
-military vehicle
-motor vehicle
-no humans
-rating:safe
-series:original
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-title:explorer
-title:explorer by alexey (karanak)
-uploader:lordjimbob01
-vehicle
-weapon
+camouflage,
+category:ine,
+concept,
+creator:karanak,
+firearm,
+games,
+googlesketchup,
+ground vehicle,
+machine gun,
+military,
+military vehicle,
+motor vehicle,
+no humans,
+rating:safe,
+series:original,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+title:explorer,
+title:explorer by alexey (karanak),
+uploader:lordjimbob01,
+vehicle,
+weapon,

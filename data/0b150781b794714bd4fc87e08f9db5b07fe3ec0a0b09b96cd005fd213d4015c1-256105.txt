@@ -1,33 +1,33 @@
-afol
-blue sky
-capital ship
-category:ine
-cloud
-cloudy sky
-condensation trail
-creator:darryl temple
-day
-flying
-ground vehicle
-horizon
-jet
-ldd
-lego
-medium:digital 3d
-minifig
-moc
-motor vehicle
-mountain
-ocean
-pirate
-rating:safe
-sky
-space ship
-subreddit:imaginaryaviation
-subreddit:imtechnology
-title:lego sky pirate - pa mig 17
-title:lego sky pirate - pa mig 17 by darryl temple
-truck
-uploader:o_no_my_buttholes
-vehicle
-weapon
+afol,
+blue sky,
+capital ship,
+category:ine,
+cloud,
+cloudy sky,
+condensation trail,
+creator:darryl temple,
+day,
+flying,
+ground vehicle,
+horizon,
+jet,
+ldd,
+lego,
+medium:digital 3d,
+minifig,
+moc,
+motor vehicle,
+mountain,
+ocean,
+pirate,
+rating:safe,
+sky,
+space ship,
+subreddit:imaginaryaviation,
+subreddit:imtechnology,
+title:lego sky pirate - pa mig 17,
+title:lego sky pirate - pa mig 17 by darryl temple,
+truck,
+uploader:o_no_my_buttholes,
+vehicle,
+weapon,

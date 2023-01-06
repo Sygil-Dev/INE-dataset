@@ -1,31 +1,31 @@
-abyssal ship
-battle
-black border
-cannon
-category:ine
-character:godzilla
-cloud
-giant
-kaijuu
-letterboxed
-lightning
-military vehicle
-monster
-no humans
-ocean
-pillarboxed
-rating:safe
-rifle
-sharp teeth
-size difference
-space craft
-spikes
-splashing
-subreddit:imaginarygiants
-subreddit:imraces
-title:stone giant by andreas adamek
-uploader:[deleted]
-uploader:faeryknight
-water
-watercraft
-weapon
+abyssal ship,
+battle,
+black border,
+cannon,
+category:ine,
+character:godzilla,
+cloud,
+giant,
+kaijuu,
+letterboxed,
+lightning,
+military vehicle,
+monster,
+no humans,
+ocean,
+pillarboxed,
+rating:safe,
+rifle,
+sharp teeth,
+size difference,
+space craft,
+spikes,
+splashing,
+subreddit:imaginarygiants,
+subreddit:imraces,
+title:stone giant by andreas adamek,
+uploader:[deleted],
+uploader:faeryknight,
+water,
+watercraft,
+weapon,

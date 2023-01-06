@@ -1,27 +1,27 @@
-art
-black background
-category:ine
-cc0
-creator:valinakova
-creator:vladinakova
-digitalpainting
-easter
-eggs
-ekaterina
-ekaterina_valinakova
-ekaterinavalinakova
-fantasy
-happy
-illustration
-magic circle
-no humans
-rating:safe
-speedpainting
-subreddit:imaginaryportals
-subreddit:imtechnology
-title:happy easter
-title:happy easter by valentiniak/ekaterinya vladinakova
-uploader:chalkchick0
-valinakova
-youtube
-youtubespeedpaint
+art,
+black background,
+category:ine,
+cc0,
+creator:valinakova,
+creator:vladinakova,
+digitalpainting,
+easter,
+eggs,
+ekaterina,
+ekaterina_valinakova,
+ekaterinavalinakova,
+fantasy,
+happy,
+illustration,
+magic circle,
+no humans,
+rating:safe,
+speedpainting,
+subreddit:imaginaryportals,
+subreddit:imtechnology,
+title:happy easter,
+title:happy easter by valentiniak/ekaterinya vladinakova,
+uploader:chalkchick0,
+valinakova,
+youtube,
+youtubespeedpaint,

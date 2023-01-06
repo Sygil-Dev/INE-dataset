@@ -1,26 +1,26 @@
-1 female
-category:ine
-creator:john dimayuga
-elf
-fantasy
-female
-female only
-full body
-gender:female
-genre:fantasy
-goddess
-medium:digital 2d
-medium:simple background
-oc
-original character
-philippine myth
-rating:safe
-solo
-solo female
-species:elf
-subreddit:imaginaryelves
-subreddit:imraces
-title:mayari
-title:mayari by john dimayuga
-uploader:lol33ta
-warrior
+1 female,
+category:ine,
+creator:john dimayuga,
+elf,
+fantasy,
+female,
+female only,
+full body,
+gender:female,
+genre:fantasy,
+goddess,
+medium:digital 2d,
+medium:simple background,
+oc,
+original character,
+philippine myth,
+rating:safe,
+solo,
+solo female,
+species:elf,
+subreddit:imaginaryelves,
+subreddit:imraces,
+title:mayari,
+title:mayari by john dimayuga,
+uploader:lol33ta,
+warrior,

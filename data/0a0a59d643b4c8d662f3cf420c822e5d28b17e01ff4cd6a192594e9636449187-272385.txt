@@ -1,22 +1,22 @@
-artist name
-blonde hair
-blurry
-brooch
-cape
-category:ine
-creator:behindinfinity
-depth of field
-jewelry
-long sleeves
-male focus
-necklace
-rating:safe
-red cape
-signature
-solo
-subreddit:imaginaryspirits
-subreddit:immonsters
-title:"howl's moving castle: warmth of a fire demon" by jin (behindinfinity)
-title:howl's moving castle: warmth of a fire demon
-uploader:torvusil
-website:reddit
+artist name,
+blonde hair,
+blurry,
+brooch,
+cape,
+category:ine,
+creator:behindinfinity,
+depth of field,
+jewelry,
+long sleeves,
+male focus,
+necklace,
+rating:safe,
+red cape,
+signature,
+solo,
+subreddit:imaginaryspirits,
+subreddit:immonsters,
+title:"howl's moving castle: warmth of a fire demon" by jin (behindinfinity),
+title:howl's moving castle: warmth of a fire demon,
+uploader:torvusil,
+website:reddit,

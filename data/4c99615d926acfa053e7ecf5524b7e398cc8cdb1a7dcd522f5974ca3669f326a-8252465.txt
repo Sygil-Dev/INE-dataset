@@ -1,20 +1,20 @@
-2d
-art
-artist
-artwork
-category:ine
-conceptart
-creator:anato finnstark
-crow
-crox
-digital
-medium:digital 3d
-subreddit:imaginaryhorrors
-subreddit:imaginaryimmortals
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-subreddit:immonsters
-subreddit:imraces
-title:black sun
-title:black sun ( by anato finnstark )
-uploader:anatofinnstark
+2d,
+art,
+artist,
+artwork,
+category:ine,
+conceptart,
+creator:anato finnstark,
+crow,
+crox,
+digital,
+medium:digital 3d,
+subreddit:imaginaryhorrors,
+subreddit:imaginaryimmortals,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+subreddit:immonsters,
+subreddit:imraces,
+title:black sun,
+title:black sun ( by anato finnstark ),
+uploader:anatofinnstark,

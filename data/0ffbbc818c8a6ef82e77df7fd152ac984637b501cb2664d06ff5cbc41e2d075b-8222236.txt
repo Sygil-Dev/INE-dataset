@@ -1,45 +1,45 @@
-anthro
-anthropomorphism
-bat
-black eyes
-bodypart:black eyes
-bottomless
-brown body
-brown fur
-category:ine
-clothed
-clothing
-clothing:armor
-creator:cryptid-creations
-fur
-gender:ambiguous
-group
-headgear
-headwear
-helmet
-humor
-mammal
-medium:simple background
-medium:white background
-membrane (anatomy)
-membranous wings
-meme:humor
-meta:url
-meta:white background
-pun
-rating:safe
-simple background
-species:bat
-species:chiropteran
-species:mammal
-stick
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-tan body
-tan fur
-text
-title:battalion by piper thibodeau
-uploader:myrandall
-website:reddit
-wings
-wood
+anthro,
+anthropomorphism,
+bat,
+black eyes,
+bodypart:black eyes,
+bottomless,
+brown body,
+brown fur,
+category:ine,
+clothed,
+clothing,
+clothing:armor,
+creator:cryptid-creations,
+fur,
+gender:ambiguous,
+group,
+headgear,
+headwear,
+helmet,
+humor,
+mammal,
+medium:simple background,
+medium:white background,
+membrane (anatomy),
+membranous wings,
+meme:humor,
+meta:url,
+meta:white background,
+pun,
+rating:safe,
+simple background,
+species:bat,
+species:chiropteran,
+species:mammal,
+stick,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+tan body,
+tan fur,
+text,
+title:battalion by piper thibodeau,
+uploader:myrandall,
+website:reddit,
+wings,
+wood,

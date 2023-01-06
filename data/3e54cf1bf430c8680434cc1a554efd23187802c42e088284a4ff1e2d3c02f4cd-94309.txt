@@ -1,29 +1,29 @@
-art
-artwork
-category:ine
-concepart
-creator:kyuyong eom
-design
-digitalart
-draw
-elartist
-elartist@naver.com
-eom kyu yong
-fantasy art
-https://www.facebook.com/kyuyong.eom
-https://www.instagram.com/kyuyong_eom/
-illustration
-kerberos
-kyu yong eom
-medium:digital 2d
-painting
-sexy
-subreddit:imaginarywarriors
-subreddit:imcharacters
-title:kerberos and i
-title:kerberos and i, by kyuyong eom
-uploader:sylvyrfyre
-아트웍
-엄규용
-일러스트
-일러스트레이션
+art,
+artwork,
+category:ine,
+concepart,
+creator:kyuyong eom,
+design,
+digitalart,
+draw,
+elartist,
+elartist@naver.com,
+eom kyu yong,
+fantasy art,
+https://www.facebook.com/kyuyong.eom,
+https://www.instagram.com/kyuyong_eom/,
+illustration,
+kerberos,
+kyu yong eom,
+medium:digital 2d,
+painting,
+sexy,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+title:kerberos and i,
+title:kerberos and i, by kyuyong eom,
+uploader:sylvyrfyre,
+아트웍,
+엄규용,
+일러스트,
+일러스트레이션,

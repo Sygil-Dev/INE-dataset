@@ -1,23 +1,23 @@
-1girl
-3boys
-black eyes
-black hair
-blonde hair
-brown hair
-category:ine
-dark skin
-dark-skinned male
-facial hair
-grin
-mole
-mole under mouth
-multiple boys
-rating:safe
-simple background
-smile
-stubble
-subreddit:imaginaryfallout
-subreddit:imfandoms
-title:vault-tec calling! character designs for something i might make?
-uploader:dahluc
-white background
+1girl,
+3boys,
+black eyes,
+black hair,
+blonde hair,
+brown hair,
+category:ine,
+dark skin,
+dark-skinned male,
+facial hair,
+grin,
+mole,
+mole under mouth,
+multiple boys,
+rating:safe,
+simple background,
+smile,
+stubble,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+title:vault-tec calling! character designs for something i might make?,
+uploader:dahluc,
+white background,

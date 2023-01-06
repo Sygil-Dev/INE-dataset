@@ -1,22 +1,22 @@
-category:ine
-character
-character design
-concept art
-creator:aleksa stajsic
-creatures
-digitalpainting
-fantasy
-medium:digital 2d
-subreddit:imaginarydemons
-subreddit:imaginaryelementals
-subreddit:imaginaryfaeries
-subreddit:imaginaryhybrids
-subreddit:imaginaryimmortals
-subreddit:imaginarymythology
-subreddit:imcharacters
-subreddit:immonsters
-subreddit:imraces
-summer
-title:summer
-uploader:al3ks4
-wood
+category:ine,
+character,
+character design,
+concept art,
+creator:aleksa stajsic,
+creatures,
+digitalpainting,
+fantasy,
+medium:digital 2d,
+subreddit:imaginarydemons,
+subreddit:imaginaryelementals,
+subreddit:imaginaryfaeries,
+subreddit:imaginaryhybrids,
+subreddit:imaginaryimmortals,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+subreddit:immonsters,
+subreddit:imraces,
+summer,
+title:summer,
+uploader:al3ks4,
+wood,

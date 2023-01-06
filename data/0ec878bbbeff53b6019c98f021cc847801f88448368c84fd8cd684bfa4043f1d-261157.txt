@@ -1,25 +1,25 @@
-animal
-animal ears
-animal focus
-black headwear
-cat
-cat ears
-cat tail
-category:ine
-clothed animal
-fishnets
-gradient
-gradient background
-hat
-no humans
-rating:safe
-solo
-subreddit:imaginaryanimals
-subreddit:imnature
-tail
-title:zombie rat response team by joe viego
-uploader:lol33ta
-vest
-website:reddit
-whiskers
-white shirt
+animal,
+animal ears,
+animal focus,
+black headwear,
+cat,
+cat ears,
+cat tail,
+category:ine,
+clothed animal,
+fishnets,
+gradient,
+gradient background,
+hat,
+no humans,
+rating:safe,
+solo,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+tail,
+title:zombie rat response team by joe viego,
+uploader:lol33ta,
+vest,
+website:reddit,
+whiskers,
+white shirt,

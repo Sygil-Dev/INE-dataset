@@ -1,21 +1,21 @@
-6+boys
-armor
-battle
-category:ine
-dragon
-hat
-helmet
-holding weapon
-horse
-horseback riding
-long hair
-monster
-rating:safe
-red hair
-riding
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-sword
-title:the age of dragon by weijia yu
-uploader:lol33ta
-weapon
+6+boys,
+armor,
+battle,
+category:ine,
+dragon,
+hat,
+helmet,
+holding weapon,
+horse,
+horseback riding,
+long hair,
+monster,
+rating:safe,
+red hair,
+riding,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+sword,
+title:the age of dragon by weijia yu,
+uploader:lol33ta,
+weapon,

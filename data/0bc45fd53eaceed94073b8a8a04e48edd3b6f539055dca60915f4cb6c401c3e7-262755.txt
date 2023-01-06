@@ -1,21 +1,21 @@
-1girl
-armor
-blood
-blood on clothes
-blood on face
-blood on hands
-blood splatter
-blurry
-blurry background
-blurry foreground
-category:ine
-death
-depth of field
-injury
-rating:safe
-solo
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:streets of rage by shuo shi
-uploader:lol33ta
-weapon
+1girl,
+armor,
+blood,
+blood on clothes,
+blood on face,
+blood on hands,
+blood splatter,
+blurry,
+blurry background,
+blurry foreground,
+category:ine,
+death,
+depth of field,
+injury,
+rating:safe,
+solo,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:streets of rage by shuo shi,
+uploader:lol33ta,
+weapon,

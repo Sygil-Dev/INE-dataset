@@ -1,59 +1,59 @@
-1 female
-1girl
-blonde
-blonde hair
-blurry
-blurry background
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-category:ine
-character:hyur
-chuby mi
-close-up
-closed mouth
-clothing:earrings
-creator:chuby mi
-crystal earrings
-earrings
-face
-facial scar
-gender:female
-hyur
-jewelry
-light rays
-lips
-looking to the side
-medium:absurd resolution
-medium:blurry background
-medium:digital 2d
-medium:high resolution
-medium:very high resolution
-meta:absurdres
-meta:commentary request
-meta:highres
-mole
-mole under eye
-portrait
-process
-rating:mature
-rating:safe
-scar
-scar on cheek
-scar on face
-series:final fantasy
-series:final fantasy xiv
-short hair
-solo
-species:hyur
-studio:square enix
-subreddit:imaginaryhumans
-subreddit:imraces
-subreddit:inegentlemanboners
-sunbeam
-sunlight
-title:blonde
-title:blonde by chuby mi
-uploader:net-diver
-wind
+1 female,
+1girl,
+blonde,
+blonde hair,
+blurry,
+blurry background,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+category:ine,
+character:hyur,
+chuby mi,
+close-up,
+closed mouth,
+clothing:earrings,
+creator:chuby mi,
+crystal earrings,
+earrings,
+face,
+facial scar,
+gender:female,
+hyur,
+jewelry,
+light rays,
+lips,
+looking to the side,
+medium:absurd resolution,
+medium:blurry background,
+medium:digital 2d,
+medium:high resolution,
+medium:very high resolution,
+meta:absurdres,
+meta:commentary request,
+meta:highres,
+mole,
+mole under eye,
+portrait,
+process,
+rating:mature,
+rating:safe,
+scar,
+scar on cheek,
+scar on face,
+series:final fantasy,
+series:final fantasy xiv,
+short hair,
+solo,
+species:hyur,
+studio:square enix,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+subreddit:inegentlemanboners,
+sunbeam,
+sunlight,
+title:blonde,
+title:blonde by chuby mi,
+uploader:net-diver,
+wind,

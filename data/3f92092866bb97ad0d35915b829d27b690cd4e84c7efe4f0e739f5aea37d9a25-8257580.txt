@@ -1,72 +1,72 @@
-1 female
-1 male
-1boy
-1girl
-android
-artist name
-belt
-black footwear
-black hair
-black shirt
-blonde hair
-blouse
-blue eyes
-can
-category:ine
-character:curly brace
-character:quote
-character:quote (doukutsu monogatari)
-clothing:headwear
-clothing:legwear
-cola
-colored skin
-creator:takuyarawr
-crop top
-filename:14427dbfd315a42ebb00ed2e2531fa7e
-from above
-gender:female
-gender:male
-green scarf
-hand in pocket
-hat
-headpones
-headset
-holding
-holding can
-humanoid robot
-joints
-long hair
-medium:artist name
-meta:commentary request
-midriff
-outdoors
-outside
-pants
-pouch
-rating:mature
-rating:s
-rating:safe
-rating:sensitive
-red hat
-red headwear
-red pants
-red scarf
-red shirt
-robot
-robot joints
-scarf
-series:doukutsu monogatari
-shirt
-sleeveless
-sleeveless shirt
-smile
-species:android
-species:robot
-standing
-subreddit:imaginarygaming
-subreddit:imfandoms
-title:"drink" by takuyarawr
-title:drink
-uploader:torvusil
-vending machine
-white skin
+1 female,
+1 male,
+1boy,
+1girl,
+android,
+artist name,
+belt,
+black footwear,
+black hair,
+black shirt,
+blonde hair,
+blouse,
+blue eyes,
+can,
+category:ine,
+character:curly brace,
+character:quote,
+character:quote (doukutsu monogatari),
+clothing:headwear,
+clothing:legwear,
+cola,
+colored skin,
+creator:takuyarawr,
+crop top,
+filename:14427dbfd315a42ebb00ed2e2531fa7e,
+from above,
+gender:female,
+gender:male,
+green scarf,
+hand in pocket,
+hat,
+headpones,
+headset,
+holding,
+holding can,
+humanoid robot,
+joints,
+long hair,
+medium:artist name,
+meta:commentary request,
+midriff,
+outdoors,
+outside,
+pants,
+pouch,
+rating:mature,
+rating:s,
+rating:safe,
+rating:sensitive,
+red hat,
+red headwear,
+red pants,
+red scarf,
+red shirt,
+robot,
+robot joints,
+scarf,
+series:doukutsu monogatari,
+shirt,
+sleeveless,
+sleeveless shirt,
+smile,
+species:android,
+species:robot,
+standing,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+title:"drink" by takuyarawr,
+title:drink,
+uploader:torvusil,
+vending machine,
+white skin,

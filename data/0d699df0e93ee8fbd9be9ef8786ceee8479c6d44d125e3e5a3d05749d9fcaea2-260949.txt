@@ -1,25 +1,25 @@
-1girl
-artist name
-black hair
-blurry
-blurry background
-blurry foreground
-category:ine
-coat
-depth of field
-green eyes
-hat
-jacket
-lips
-looking at viewer
-peaked cap
-rating:safe
-realistic
-solo
-subreddit:imaginaryfallout
-subreddit:imfandoms
-title:piper by shalizeh7
-uploader:valar_m0rghul1s
-upper body
-watermark
-web address
+1girl,
+artist name,
+black hair,
+blurry,
+blurry background,
+blurry foreground,
+category:ine,
+coat,
+depth of field,
+green eyes,
+hat,
+jacket,
+lips,
+looking at viewer,
+peaked cap,
+rating:safe,
+realistic,
+solo,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+title:piper by shalizeh7,
+uploader:valar_m0rghul1s,
+upper body,
+watermark,
+web address,

@@ -1,40 +1,40 @@
-blue eyes
-booru:e621
-category:ine
-character:cthulhu
-character:h.p. lovecraft
-claws
-creator:esharam
-earth
-gender:male
-green body
-hole (anatomy)
-male
-mantle (anatomy)
-mantle (mollusk)
-membrane (anatomy)
-membranous wings
-moon
-nom
-outer space
-rating:safe
-series:cthulhu mythos
-series:h.p. lovecraft
-siphon (anatomy)
-solo
-space
-species:cephalopod
-species:eldritch horror
-species:human
-species:mammal
-species:marine
-species:mollusk
-species:primate
-subreddit:imaginaryworldeaters
-subreddit:immonsters
-suction cup
-tentacles
-title:cthulhu : long reach of evil
-title:cthulhu : long reach of evil by eddie sharam (esharam)
-uploader:obsignate
-wings
+blue eyes,
+booru:e621,
+category:ine,
+character:cthulhu,
+character:h.p. lovecraft,
+claws,
+creator:esharam,
+earth,
+gender:male,
+green body,
+hole (anatomy),
+male,
+mantle (anatomy),
+mantle (mollusk),
+membrane (anatomy),
+membranous wings,
+moon,
+nom,
+outer space,
+rating:safe,
+series:cthulhu mythos,
+series:h.p. lovecraft,
+siphon (anatomy),
+solo,
+space,
+species:cephalopod,
+species:eldritch horror,
+species:human,
+species:mammal,
+species:marine,
+species:mollusk,
+species:primate,
+subreddit:imaginaryworldeaters,
+subreddit:immonsters,
+suction cup,
+tentacles,
+title:cthulhu : long reach of evil,
+title:cthulhu : long reach of evil by eddie sharam (esharam),
+uploader:obsignate,
+wings,

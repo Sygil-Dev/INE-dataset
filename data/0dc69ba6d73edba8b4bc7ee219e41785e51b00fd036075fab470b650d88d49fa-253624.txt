@@ -1,32 +1,32 @@
-animal
-autumn
-autumn leaves
-bird
-category:ine
-character:shameimaru aya
-chicken
-deer
-fire
-flock
-forest
-grass
-leaf
-mountain
-nature
-outdoors
-rating:safe
-river
-rooster
-scenery
-subreddit:imaginarymythology
-subreddit:imaginarywaterfalls
-subreddit:imcharacters
-subreddit:imnature
-sword
-title:shiva mudra by joão paulo bragato
-tokin hat
-uploader:lol33ta
-uploader:natezomby
-water
-weapon
-wolf
+animal,
+autumn,
+autumn leaves,
+bird,
+category:ine,
+character:shameimaru aya,
+chicken,
+deer,
+fire,
+flock,
+forest,
+grass,
+leaf,
+mountain,
+nature,
+outdoors,
+rating:safe,
+river,
+rooster,
+scenery,
+subreddit:imaginarymythology,
+subreddit:imaginarywaterfalls,
+subreddit:imcharacters,
+subreddit:imnature,
+sword,
+title:shiva mudra by joão paulo bragato,
+tokin hat,
+uploader:lol33ta,
+uploader:natezomby,
+water,
+weapon,
+wolf,

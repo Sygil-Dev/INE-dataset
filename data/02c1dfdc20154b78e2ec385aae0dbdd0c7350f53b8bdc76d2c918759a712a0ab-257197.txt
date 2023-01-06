@@ -1,25 +1,25 @@
-2boys
-aiming
-belt
-category:ine
-cowboy hat
-finger on trigger
-firing
-gloves
-gun
-handgun
-hat
-holding gun
-holster
-multiple boys
-pistol
-rating:safe
-realistic
-revolver
-shotgun
-subreddit:imaginaryfallout
-subreddit:imfandoms
-title:vault runner by charlotte soileh
-trigger discipline
-uploader:i_burn_cereal
-weapon
+2boys,
+aiming,
+belt,
+category:ine,
+cowboy hat,
+finger on trigger,
+firing,
+gloves,
+gun,
+handgun,
+hat,
+holding gun,
+holster,
+multiple boys,
+pistol,
+rating:safe,
+realistic,
+revolver,
+shotgun,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+title:vault runner by charlotte soileh,
+trigger discipline,
+uploader:i_burn_cereal,
+weapon,

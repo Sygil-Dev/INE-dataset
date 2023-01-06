@@ -1,47 +1,47 @@
-1girl
-artist name
-aurora
-black background
-category:ine
-character:rosalina
-christmas tree
-constellation
-constellation print
-creator:mcptato
-crescent
-crescent moon
-earth (planet)
-galaxy
-long hair
-moon
-night
-night sky
-pentagram
-planet
-purple hair
-rating:safe
-saint quartz (fate)
-shooting star
-sky
-solo
-space
-star (sky)
-star (symbol)
-star earrings
-star hair ornament
-star hat ornament
-star necklace
-star pasties
-star print
-starfish
-starry background
-starry sky
-starry sky print
-subreddit:imaginarybodyscapes
-subreddit:imlandscapes
-tanabata
-tarot
-title:[163] if she's a universe
-title:[163] if she's a universe, by mariah tato
-uploader:belledame-sans-serif
-witch hat
+1girl,
+artist name,
+aurora,
+black background,
+category:ine,
+character:rosalina,
+christmas tree,
+constellation,
+constellation print,
+creator:mcptato,
+crescent,
+crescent moon,
+earth (planet),
+galaxy,
+long hair,
+moon,
+night,
+night sky,
+pentagram,
+planet,
+purple hair,
+rating:safe,
+saint quartz (fate),
+shooting star,
+sky,
+solo,
+space,
+star (sky),
+star (symbol),
+star earrings,
+star hair ornament,
+star hat ornament,
+star necklace,
+star pasties,
+star print,
+starfish,
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarybodyscapes,
+subreddit:imlandscapes,
+tanabata,
+tarot,
+title:[163] if she's a universe,
+title:[163] if she's a universe, by mariah tato,
+uploader:belledame-sans-serif,
+witch hat,

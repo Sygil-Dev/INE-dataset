@@ -1,25 +1,25 @@
-armor
-axe
-bat wings
-category:ine
-demon wings
-dragon wings
-dual wielding
-holding
-holding sword
-holding weapon
-huge weapon
-multiple wings
-rating:safe
-solo
-standing
-subreddit:imaginarydemons
-subreddit:imaginaryknights
-subreddit:imaginaryundead
-subreddit:imcharacters
-subreddit:immonsters
-sword
-title:risen dragon knight by ketai kotaki
-uploader:godforesaken
-weapon
-wings
+armor,
+axe,
+bat wings,
+category:ine,
+demon wings,
+dragon wings,
+dual wielding,
+holding,
+holding sword,
+holding weapon,
+huge weapon,
+multiple wings,
+rating:safe,
+solo,
+standing,
+subreddit:imaginarydemons,
+subreddit:imaginaryknights,
+subreddit:imaginaryundead,
+subreddit:imcharacters,
+subreddit:immonsters,
+sword,
+title:risen dragon knight by ketai kotaki,
+uploader:godforesaken,
+weapon,
+wings,

@@ -1,22 +1,22 @@
-armor
-black cloak
-cape
-category:ine
-character:king hassan (fate)
-cloak
-glowing
-glowing eyes
-hood
-hood up
-hooded cloak
-hooded jacket
-hoodie
-mask
-multiple boys
-rating:safe
-skull
-skull mask
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:beyond human by lucas leger
-uploader:nitemyria
+armor,
+black cloak,
+cape,
+category:ine,
+character:king hassan (fate),
+cloak,
+glowing,
+glowing eyes,
+hood,
+hood up,
+hooded cloak,
+hooded jacket,
+hoodie,
+mask,
+multiple boys,
+rating:safe,
+skull,
+skull mask,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:beyond human by lucas leger,
+uploader:nitemyria,

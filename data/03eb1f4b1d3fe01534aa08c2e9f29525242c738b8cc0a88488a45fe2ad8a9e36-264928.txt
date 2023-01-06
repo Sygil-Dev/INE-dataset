@@ -1,24 +1,24 @@
-bare tree
-branch
-category:ine
-cloud
-cloudy sky
-creator:aquasixio
-horizon
-mountain
-no humans
-outdoors
-rating:safe
-scenery
-sky
-snow
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sun
-sunlight
-sunset
-title:it made scars in the sky
-title:it made scars in the sky, by cyril rolando
-tree
-twilight
-uploader:belledame-sans-serif
+bare tree,
+branch,
+category:ine,
+cloud,
+cloudy sky,
+creator:aquasixio,
+horizon,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+snow,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sun,
+sunlight,
+sunset,
+title:it made scars in the sky,
+title:it made scars in the sky, by cyril rolando,
+tree,
+twilight,
+uploader:belledame-sans-serif,

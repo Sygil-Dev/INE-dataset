@@ -1,124 +1,124 @@
-16:9
-2018
-accessory
-amber eyes
-amber_eyes
-arctic
-artist:discordthege
-background
-bodily fluids
-bodily_fluids
-booru:e621
-category:ine
-character:lyra heartstrings
-character:lyra heartstrings (mlp)
-character:lyra_heartstrings_(mlp)
-clothed
-clothing
-coat
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:discordthege
-crying
-cutie mark
-cutie_mark
-dark
-desert
-detailed background
-detailed_background
-digital media (artwork)
-eyebrows
-eyelashes
-female
-feral
-fim
-floppy ears
-floppy_ears
-flower
-flower in hair
-flower petals
-flower_in_hair
-flower_petals
-frostpunk
-gender:female
-genre:fantasy
-green hair
-green_hair
-hair
-hair accessory
-hair ornament
-hair_accessory
-heartstrings
-hi res
-hooves
-horn
-horns
-ice
-landscape
-light
-lyra
-lyre
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-medium:text
-medium:wallpaper
-meta:16:9
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:portrait
-meta:signature
-meta:url
-meta:wallpaper
-meta:widescreen
-mlp
-moonlight
-multicolored hair
-multicolored_hair
-musical instrument
-musical_instrument
-night
-outside
-petals
-plant
-plucked string instrument
-plucked_string_instrument
-portrait
-rating:safe
-rose
-sad
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-signature
-sitting
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-string instrument
-string_instrument
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tears
-text
-title:"forsaken" by discordthege
-title:forsaken
-topwear
-two tone hair
-two_tone_hair
-unicorn
-uploader:torvusil
-url
-wallpaper
-year:2018
-yellow eyes
+16:9,
+2018,
+accessory,
+amber eyes,
+amber_eyes,
+arctic,
+artist:discordthege,
+background,
+bodily fluids,
+bodily_fluids,
+booru:e621,
+category:ine,
+character:lyra heartstrings,
+character:lyra heartstrings (mlp),
+character:lyra_heartstrings_(mlp),
+clothed,
+clothing,
+coat,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:discordthege,
+crying,
+cutie mark,
+cutie_mark,
+dark,
+desert,
+detailed background,
+detailed_background,
+digital media (artwork),
+eyebrows,
+eyelashes,
+female,
+feral,
+fim,
+floppy ears,
+floppy_ears,
+flower,
+flower in hair,
+flower petals,
+flower_in_hair,
+flower_petals,
+frostpunk,
+gender:female,
+genre:fantasy,
+green hair,
+green_hair,
+hair,
+hair accessory,
+hair ornament,
+hair_accessory,
+heartstrings,
+hi res,
+hooves,
+horn,
+horns,
+ice,
+landscape,
+light,
+lyra,
+lyre,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+medium:text,
+medium:wallpaper,
+meta:16:9,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:portrait,
+meta:signature,
+meta:url,
+meta:wallpaper,
+meta:widescreen,
+mlp,
+moonlight,
+multicolored hair,
+multicolored_hair,
+musical instrument,
+musical_instrument,
+night,
+outside,
+petals,
+plant,
+plucked string instrument,
+plucked_string_instrument,
+portrait,
+rating:safe,
+rose,
+sad,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+signature,
+sitting,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+string instrument,
+string_instrument,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tears,
+text,
+title:"forsaken" by discordthege,
+title:forsaken,
+topwear,
+two tone hair,
+two_tone_hair,
+unicorn,
+uploader:torvusil,
+url,
+wallpaper,
+year:2018,
+yellow eyes,

@@ -1,21 +1,21 @@
-category:ine
-creator:chris rallis
-creator:chrisrallis
-dryad
-elf
-fairy
-fantasy
-forest
-medium:digital 2d
-nudity
-nymph
-subreddit:imaginaryboners
-subreddit:imaginaryelves
-subreddit:imnsfw
-subreddit:imraces
-title:dryad
-title:dryad by chris rallis
-title:the dryad
-uploader:alien2345
-uploader:drunkindragon
-wolf
+category:ine,
+creator:chris rallis,
+creator:chrisrallis,
+dryad,
+elf,
+fairy,
+fantasy,
+forest,
+medium:digital 2d,
+nudity,
+nymph,
+subreddit:imaginaryboners,
+subreddit:imaginaryelves,
+subreddit:imnsfw,
+subreddit:imraces,
+title:dryad,
+title:dryad by chris rallis,
+title:the dryad,
+uploader:alien2345,
+uploader:drunkindragon,
+wolf,

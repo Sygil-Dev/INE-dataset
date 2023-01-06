@@ -1,28 +1,28 @@
-2d
-3d
-architecture
-category:ine
-concept
-creator:duncan halleck
-environment
-fantasy
-genre:science fiction
-interior
-mass effect
-medium:digital 2d
-medium:digital media
-military
-modeling
-nuclear
-rating:safe
-reactor
-realistic
-scenery
-science fiction
-scifi
-star wars
-subreddit:imaginaryfuturism
-subreddit:imtechnology
-title:reactor maintenance
-title:reactor maintenance by duncan halleck
-uploader:net-diver
+2d,
+3d,
+architecture,
+category:ine,
+concept,
+creator:duncan halleck,
+environment,
+fantasy,
+genre:science fiction,
+interior,
+mass effect,
+medium:digital 2d,
+medium:digital media,
+military,
+modeling,
+nuclear,
+rating:safe,
+reactor,
+realistic,
+scenery,
+science fiction,
+scifi,
+star wars,
+subreddit:imaginaryfuturism,
+subreddit:imtechnology,
+title:reactor maintenance,
+title:reactor maintenance by duncan halleck,
+uploader:net-diver,

@@ -1,23 +1,23 @@
-armor
-artist name
-boots
-category:ine
-cloud
-cloudy sky
-copyright name
-grass
-holding
-mountain
-rating:safe
-signature
-sky
-solo
-standing
-subreddit:imaginarygnomes
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-subreddit:imraces
-sword
-title:frodo baggins by aleksander karcz
-uploader:lol33ta
-weapon
+armor,
+artist name,
+boots,
+category:ine,
+cloud,
+cloudy sky,
+copyright name,
+grass,
+holding,
+mountain,
+rating:safe,
+signature,
+sky,
+solo,
+standing,
+subreddit:imaginarygnomes,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+subreddit:imraces,
+sword,
+title:frodo baggins by aleksander karcz,
+uploader:lol33ta,
+weapon,

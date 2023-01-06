@@ -1,24 +1,24 @@
-1girl
-blonde hair
-category:ine
-creator:hoàng lập (solan)
-earrings
-fanart
-jewelry
-lips
-long sleeves
-looking at viewer
-makeup
-medium:digital 2d
-portrait
-rating:safe
-red lips
-short hair
-solo
-study
-subreddit:imaginaryfashion
-subreddit:immeta
-title:toc tien
-title:toc tien by hoàng lập (solan)
-uploader:lol33ta
-upper body
+1girl,
+blonde hair,
+category:ine,
+creator:hoàng lập (solan),
+earrings,
+fanart,
+jewelry,
+lips,
+long sleeves,
+looking at viewer,
+makeup,
+medium:digital 2d,
+portrait,
+rating:safe,
+red lips,
+short hair,
+solo,
+study,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+title:toc tien,
+title:toc tien by hoàng lập (solan),
+uploader:lol33ta,
+upper body,

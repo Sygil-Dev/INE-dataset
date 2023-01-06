@@ -1,92 +1,92 @@
-ambiguous gender
-ambiguous_gender
-antennae
-antennae (anatomy)
-antennae_(anatomy)
-artist:cryptid-creations
-bodypart:antennae
-branch
-category:ine
-caterpillar
-chrysalis
-countershading
-creator:cryptid-creations
-cute
-digital media (artwork)
-duo
-feral
-fluffy
-fur
-gender:ambiguous
-grey body
-grey fur
-grey_body
-grey_fur
-guro
-humor
-hybrid
-in tree
-in_tree
-larva
-leaf
-leaves
-medium:digital media
-medium:simple background
-medium:text
-medium:watermark
-medium:white background
-meme:humor
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:signature
-meta:url
-meta:watermark
-motion lines
-motion_lines
-nude
-paws
-plant
-pun
-rating:explicit
-rating:mature
-rating:safe
-series:watermark
-signature
-simple background
-simple_background
-species:arthropod
-species:canid
-species:canine
-species:canis
-species:dog
-species:domestic dog
-species:domestic_dog
-species:hybrid
-species:insect
-species:mammal
-subreddit:imaginaryaww
-subreddit:imaginaryhybrids
-subreddit:immeta
-subreddit:immonsters
-tailwag
-tan body
-tan fur
-tan_body
-tan_fur
-title:puppa dog by piper thibodeau
-tongue
-tongue out
-tongue_out
-tree
-uploader:myrandall
-visual pun
-visual_pun
-watermark
-white background
-white body
-white fur
-white_background
-white_body
-white_fur
-year:2018
+ambiguous gender,
+ambiguous_gender,
+antennae,
+antennae (anatomy),
+antennae_(anatomy),
+artist:cryptid-creations,
+bodypart:antennae,
+branch,
+category:ine,
+caterpillar,
+chrysalis,
+countershading,
+creator:cryptid-creations,
+cute,
+digital media (artwork),
+duo,
+feral,
+fluffy,
+fur,
+gender:ambiguous,
+grey body,
+grey fur,
+grey_body,
+grey_fur,
+guro,
+humor,
+hybrid,
+in tree,
+in_tree,
+larva,
+leaf,
+leaves,
+medium:digital media,
+medium:simple background,
+medium:text,
+medium:watermark,
+medium:white background,
+meme:humor,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:signature,
+meta:url,
+meta:watermark,
+motion lines,
+motion_lines,
+nude,
+paws,
+plant,
+pun,
+rating:explicit,
+rating:mature,
+rating:safe,
+series:watermark,
+signature,
+simple background,
+simple_background,
+species:arthropod,
+species:canid,
+species:canine,
+species:canis,
+species:dog,
+species:domestic dog,
+species:domestic_dog,
+species:hybrid,
+species:insect,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:imaginaryhybrids,
+subreddit:immeta,
+subreddit:immonsters,
+tailwag,
+tan body,
+tan fur,
+tan_body,
+tan_fur,
+title:puppa dog by piper thibodeau,
+tongue,
+tongue out,
+tongue_out,
+tree,
+uploader:myrandall,
+visual pun,
+visual_pun,
+watermark,
+white background,
+white body,
+white fur,
+white_background,
+white_body,
+white_fur,
+year:2018,

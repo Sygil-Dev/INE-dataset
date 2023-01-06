@@ -1,25 +1,25 @@
-1other
-ambiguous gender
-armor
-building
-castle
-category:ine
-cloud
-cloudy sky
-facing away
-holding
-holding weapon
-mountain
-outdoors
-rating:safe
-scenery
-signature
-sky
-snow
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:magic laboratory by j line
-tower
-uploader:elumental
-weapon
-website:reddit
+1other,
+ambiguous gender,
+armor,
+building,
+castle,
+category:ine,
+cloud,
+cloudy sky,
+facing away,
+holding,
+holding weapon,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+signature,
+sky,
+snow,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:magic laboratory by j line,
+tower,
+uploader:elumental,
+weapon,
+website:reddit,

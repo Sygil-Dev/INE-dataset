@@ -1,31 +1,31 @@
-architecture
-bridge
-building
-bush
-category:ine
-chimney
-city
-cloud
-day
-east asian architecture
-fantasy
-grass
-house
-mountain
-outdoors
-rating:safe
-river
-road
-scenery
-sky
-stairs
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:cottage by ast ralf
-title:project d by avant choi
-tree
-uploader:[deleted]
-uploader:ethan_kahn
-uploader:lol33ta
-water
-waterfall
+architecture,
+bridge,
+building,
+bush,
+category:ine,
+chimney,
+city,
+cloud,
+day,
+east asian architecture,
+fantasy,
+grass,
+house,
+mountain,
+outdoors,
+rating:safe,
+river,
+road,
+scenery,
+sky,
+stairs,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:cottage by ast ralf,
+title:project d by avant choi,
+tree,
+uploader:[deleted],
+uploader:ethan_kahn,
+uploader:lol33ta,
+water,
+waterfall,

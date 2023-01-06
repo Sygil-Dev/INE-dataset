@@ -1,71 +1,71 @@
-1girl
-amazing background
-ambiguous gender
-armor
-bird
-booru:e621
-bracers
-brown hair
-bush
-category:ine
-claws
-clothed
-clothing
-clothing:armor
-creator:sandara
-detailed background
-dinosaur
-feathers
-female
-feral
-forest
-furry
-gender:ambiguous
-gender:female
-grass
-group
-ixalan
-jungle
-long hair
-looking at viewer
-medium:amazing background
-medium:detailed background
-melee weapon
-midriff
-moss
-nature
-navel
-open mouth
-plant
-polearm
-pov
-rating:safe
-red body
-red feathers
-riding
-sitting
-spear
-species:dinosaur
-species:extinct
-species:feathered dinosaur
-species:human
-species:mammal
-species:primate
-species:reptile
-species:scalie
-species:theropod
-standing
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-teeth
-temple
-title:dino and rider
-title:dino and rider by sandara tang
-tongue
-tree
-tribal
-uploader:myrandall
-water
-waterfall
-weapon
-yellow eyes
+1girl,
+amazing background,
+ambiguous gender,
+armor,
+bird,
+booru:e621,
+bracers,
+brown hair,
+bush,
+category:ine,
+claws,
+clothed,
+clothing,
+clothing:armor,
+creator:sandara,
+detailed background,
+dinosaur,
+feathers,
+female,
+feral,
+forest,
+furry,
+gender:ambiguous,
+gender:female,
+grass,
+group,
+ixalan,
+jungle,
+long hair,
+looking at viewer,
+medium:amazing background,
+medium:detailed background,
+melee weapon,
+midriff,
+moss,
+nature,
+navel,
+open mouth,
+plant,
+polearm,
+pov,
+rating:safe,
+red body,
+red feathers,
+riding,
+sitting,
+spear,
+species:dinosaur,
+species:extinct,
+species:feathered dinosaur,
+species:human,
+species:mammal,
+species:primate,
+species:reptile,
+species:scalie,
+species:theropod,
+standing,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+teeth,
+temple,
+title:dino and rider,
+title:dino and rider by sandara tang,
+tongue,
+tree,
+tribal,
+uploader:myrandall,
+water,
+waterfall,
+weapon,
+yellow eyes,

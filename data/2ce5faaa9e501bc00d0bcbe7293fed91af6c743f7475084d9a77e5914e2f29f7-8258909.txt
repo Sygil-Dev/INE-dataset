@@ -1,103 +1,103 @@
-1 female
-1girl
-2 males
-2boys
-5:3 aspect ratio
-armor
-ashe (overwatch)
-asymmetrical hair
-blizzard entertainment
-blue sky
-bob (overwatch)
-booru:sankaku
-booru:sankaku channel
-category:ine
-character:ashe (overwatch)
-character:bob (overwatch)
-character:cassidy (overwatch)
-character:elizabeth caledonia "calamity" ashe
-character:elizabeth caledonia “calamity” ashe
-character:jesse mccree
-character:mccree (overwatch)
-character:omnic
-character:robot
-clothing
-clothing:cowboy hat
-clothing:headwear
-clothing:legwear
-clothing:pants
-cowboy hat
-creator:monori rogue
-creator:monorirogue
-day
-eyeshadow
-facial hair
-female
-firearm
-friendly mutton chops
-gender:female
-gender:male
-genre:science fiction
-gun
-hat
-headwear
-high resolution
-holding
-holding gun
-holding object
-holding weapon
-improvised weapon
-jacket
-large filesize
-leather
-leather jacket
-lever action
-lips
-makeup
-male
-mccree (overwatch)
-medium:5:3 aspect ratio
-medium:high resolution
-medium:large filesize
-medium:sign
-medium:very high resolution
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-mini hat
-mole
-mole above mouth
-monori rogue
-multiple boys
-multiple males
-mustache
-omnic
-overwatch
-pants
-pauldrons
-poncho
-rating:s
-rating:safe
-red eyes
-rifle
-road sign
-robot
-series:overwatch
-shoulder armor
-sign
-single pauldron
-sky
-species:robot
-studio:blizzard entertainment
-studio:poncho
-subreddit:imaginarygaming
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:"ashe n bob" by monori rogue
-title:ashe n bob
-trigger discipline
-uploader:torvusil
-very high resolution
-weapon
-white hair
+1 female,
+1girl,
+2 males,
+2boys,
+5:3 aspect ratio,
+armor,
+ashe (overwatch),
+asymmetrical hair,
+blizzard entertainment,
+blue sky,
+bob (overwatch),
+booru:sankaku,
+booru:sankaku channel,
+category:ine,
+character:ashe (overwatch),
+character:bob (overwatch),
+character:cassidy (overwatch),
+character:elizabeth caledonia "calamity" ashe,
+character:elizabeth caledonia “calamity” ashe,
+character:jesse mccree,
+character:mccree (overwatch),
+character:omnic,
+character:robot,
+clothing,
+clothing:cowboy hat,
+clothing:headwear,
+clothing:legwear,
+clothing:pants,
+cowboy hat,
+creator:monori rogue,
+creator:monorirogue,
+day,
+eyeshadow,
+facial hair,
+female,
+firearm,
+friendly mutton chops,
+gender:female,
+gender:male,
+genre:science fiction,
+gun,
+hat,
+headwear,
+high resolution,
+holding,
+holding gun,
+holding object,
+holding weapon,
+improvised weapon,
+jacket,
+large filesize,
+leather,
+leather jacket,
+lever action,
+lips,
+makeup,
+male,
+mccree (overwatch),
+medium:5:3 aspect ratio,
+medium:high resolution,
+medium:large filesize,
+medium:sign,
+medium:very high resolution,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+mini hat,
+mole,
+mole above mouth,
+monori rogue,
+multiple boys,
+multiple males,
+mustache,
+omnic,
+overwatch,
+pants,
+pauldrons,
+poncho,
+rating:s,
+rating:safe,
+red eyes,
+rifle,
+road sign,
+robot,
+series:overwatch,
+shoulder armor,
+sign,
+single pauldron,
+sky,
+species:robot,
+studio:blizzard entertainment,
+studio:poncho,
+subreddit:imaginarygaming,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:"ashe n bob" by monori rogue,
+title:ashe n bob,
+trigger discipline,
+uploader:torvusil,
+very high resolution,
+weapon,
+white hair,

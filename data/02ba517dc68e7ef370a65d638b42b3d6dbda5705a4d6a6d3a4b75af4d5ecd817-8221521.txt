@@ -1,31 +1,31 @@
-building
-bush
-category:ine
-cloud
-cloudy sky
-fantasy
-field
-grass
-hill
-horizon
-landscape
-mountain
-mountainous horizon
-no humans
-on grass
-outdoors
-rating:safe
-rock
-scenery
-sky
-star (sky)
-starry sky
-subreddit:imaginarymonuments
-subreddit:imarchitecture
-sunset
-title:robot finds egg by mike winkelmann (beeple)
-tower
-tree
-twilight
-uploader:elumental
-windmill
+building,
+bush,
+category:ine,
+cloud,
+cloudy sky,
+fantasy,
+field,
+grass,
+hill,
+horizon,
+landscape,
+mountain,
+mountainous horizon,
+no humans,
+on grass,
+outdoors,
+rating:safe,
+rock,
+scenery,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginarymonuments,
+subreddit:imarchitecture,
+sunset,
+title:robot finds egg by mike winkelmann (beeple),
+tower,
+tree,
+twilight,
+uploader:elumental,
+windmill,

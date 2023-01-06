@@ -1,24 +1,24 @@
-battle
-category:ine
-creator:cecilia g.f.
-fight
-fog
-giant
-horse
-medium:digital 2d
-mist
-monster
-mountain
-shield
-soldier
-spear
-subreddit:imaginarybattlefields
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-subreddit:imlandscapes
-sword
-title:'into battle' by cecilia g.f.
-title:into battle
-uploader:blackeremy
-warrior
-weapon
+battle,
+category:ine,
+creator:cecilia g.f.,
+fight,
+fog,
+giant,
+horse,
+medium:digital 2d,
+mist,
+monster,
+mountain,
+shield,
+soldier,
+spear,
+subreddit:imaginarybattlefields,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+sword,
+title:'into battle' by cecilia g.f.,
+title:into battle,
+uploader:blackeremy,
+warrior,
+weapon,

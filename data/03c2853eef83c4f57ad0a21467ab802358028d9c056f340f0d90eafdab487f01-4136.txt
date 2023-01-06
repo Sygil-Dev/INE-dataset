@@ -1,21 +1,21 @@
-artist name
-black gloves
-blood
-category:ine
-copyright name
-creator:neisbeis
-gloves
-holding
-holding weapon
-multiple boys
-night
-rating:safe
-red eyes
-skull
-subreddit:imaginaryvampires
-subreddit:immonsters
-sword
-title:upooru the vampire advanced
-title:upooru the vampire advanced by ignacio bazán lazcano
-uploader:malign-god
-weapon
+artist name,
+black gloves,
+blood,
+category:ine,
+copyright name,
+creator:neisbeis,
+gloves,
+holding,
+holding weapon,
+multiple boys,
+night,
+rating:safe,
+red eyes,
+skull,
+subreddit:imaginaryvampires,
+subreddit:immonsters,
+sword,
+title:upooru the vampire advanced,
+title:upooru the vampire advanced by ignacio bazán lazcano,
+uploader:malign-god,
+weapon,

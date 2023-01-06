@@ -1,44 +1,44 @@
-2018
-ambiguous gender
-booru:e621
-burning
-category:ine
-creator:kenket
-eating
-fire
-flame
-gen 2 pokemon
-gender:ambiguous
-larvitar
-larvitarfanart
-medium:traditional media
-meta:1:1
-meta:2018
-meta:traditional media (artwork)
-no humans
-pokemon
-pokemon (creature)
-pokemonfanart
-rating:safe
-realistic
-red eyes
-series:nintendo
-series:pokémon
-signature
-solo
-source type:game
-source:furaffinity.net
-species:larvitar
-species:monster
-species:pokémon
-species:pokémon (species)
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:larvitar
-title:larvitar by tess garman
-tyranitar
-uploader:myrandall
-video games
-watermark
-year:2018
+2018,
+ambiguous gender,
+booru:e621,
+burning,
+category:ine,
+creator:kenket,
+eating,
+fire,
+flame,
+gen 2 pokemon,
+gender:ambiguous,
+larvitar,
+larvitarfanart,
+medium:traditional media,
+meta:1:1,
+meta:2018,
+meta:traditional media (artwork),
+no humans,
+pokemon,
+pokemon (creature),
+pokemonfanart,
+rating:safe,
+realistic,
+red eyes,
+series:nintendo,
+series:pokémon,
+signature,
+solo,
+source type:game,
+source:furaffinity.net,
+species:larvitar,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:larvitar,
+title:larvitar by tess garman,
+tyranitar,
+uploader:myrandall,
+video games,
+watermark,
+year:2018,

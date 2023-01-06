@@ -1,25 +1,25 @@
-bird
-braid
-category:ine
-cloud
-day
-dress
-hat
-long hair
-mountain
-multiple girls
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarynobles
-subreddit:imaginarypets
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-subreddit:immeta
-title:calanthe by lorenzo mastroianni
-tree
-uploader:malign-god
-veil
-watermark
+bird,
+braid,
+category:ine,
+cloud,
+day,
+dress,
+hat,
+long hair,
+mountain,
+multiple girls,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarynobles,
+subreddit:imaginarypets,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+subreddit:immeta,
+title:calanthe by lorenzo mastroianni,
+tree,
+uploader:malign-god,
+veil,
+watermark,

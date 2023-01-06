@@ -1,21 +1,21 @@
-arrow (projectile)
-blurry
-bow (weapon)
-category:ine
-glowing
-green theme
-holding
-holding bow (weapon)
-rating:safe
-subreddit:imaginaryspirits
-subreddit:imaginarywitches
-subreddit:imcharacters
-subreddit:immonsters
-tentacles
-thighhighs
-title:le notti di nibiru by roman kuteynikov
-title:le notti di nibiru by roman roland kuteynikov
-uploader:lol33ta
-uploader:malign-god
-weapon
-witch
+arrow (projectile),
+blurry,
+bow (weapon),
+category:ine,
+glowing,
+green theme,
+holding,
+holding bow (weapon),
+rating:safe,
+subreddit:imaginaryspirits,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+subreddit:immonsters,
+tentacles,
+thighhighs,
+title:le notti di nibiru by roman kuteynikov,
+title:le notti di nibiru by roman roland kuteynikov,
+uploader:lol33ta,
+uploader:malign-god,
+weapon,
+witch,

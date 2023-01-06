@@ -1,69 +1,69 @@
-1 female
-1girl
-armor
-battle
-breathing fire
-burning
-campfire
-category:ine
-character:charizard
-copyright:league of angels
-copyright:league of angels ii
-creator:artist request
-demon
-demon girl
-demon wings
-destruction
-dragon
-dragon wings
-embers
-explosion
-fantasy art
-fiery hair
-fiery wings
-fire
-firing
-flame
-flaming sword
-flaming weapon
-flying
-gender:female
-giant
-holding
-holding weapon
-horns
-league of angels ii
-lightning
-long hair
-medium:digital media
-medium:high resolution
-meta:artist request
-meta:highres
-meta:photoshop (medium)
-molten rock
-mountain
-polearm
-pyrokinesis
-rating:mature
-rating:safe
-realistic
-red hair
-series:league of angels
-series:league of angels ii
-smoke
-spear
-species:demon
-subreddit:imaginaryelementals
-subreddit:imaginaryhellscapes
-subreddit:imlandscapes
-subreddit:immonsters
-sword
-tail-tip fire
-title:breaking of rock by g-host lee
-torch
-uploader:lol33ta
-uploader:tamander
-video games
-volcano
-weapon
-wings
+1 female,
+1girl,
+armor,
+battle,
+breathing fire,
+burning,
+campfire,
+category:ine,
+character:charizard,
+copyright:league of angels,
+copyright:league of angels ii,
+creator:artist request,
+demon,
+demon girl,
+demon wings,
+destruction,
+dragon,
+dragon wings,
+embers,
+explosion,
+fantasy art,
+fiery hair,
+fiery wings,
+fire,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+flying,
+gender:female,
+giant,
+holding,
+holding weapon,
+horns,
+league of angels ii,
+lightning,
+long hair,
+medium:digital media,
+medium:high resolution,
+meta:artist request,
+meta:highres,
+meta:photoshop (medium),
+molten rock,
+mountain,
+polearm,
+pyrokinesis,
+rating:mature,
+rating:safe,
+realistic,
+red hair,
+series:league of angels,
+series:league of angels ii,
+smoke,
+spear,
+species:demon,
+subreddit:imaginaryelementals,
+subreddit:imaginaryhellscapes,
+subreddit:imlandscapes,
+subreddit:immonsters,
+sword,
+tail-tip fire,
+title:breaking of rock by g-host lee,
+torch,
+uploader:lol33ta,
+uploader:tamander,
+video games,
+volcano,
+weapon,
+wings,

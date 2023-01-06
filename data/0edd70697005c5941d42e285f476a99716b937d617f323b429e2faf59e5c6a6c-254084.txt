@@ -1,32 +1,32 @@
-1boy
-belt
-category:ine
-cowboy hat
-cowboy western
-creator:reillybrown
-finger on trigger
-gloves
-gun
-gun to head
-handgun
-hat
-holding
-holding gun
-holding weapon
-long sleeves
-male focus
-pistol
-rating:safe
-revolver
-signature
-solo
-star (symbol)
-subreddit:imaginarycowboys
-subreddit:imcharacters
-title:cowboy deadpool
-title:cowboy deadpool by reilly brown
-trigger discipline
-uploader:miaowbitch
-vest
-weapon
-yellow background
+1boy,
+belt,
+category:ine,
+cowboy hat,
+cowboy western,
+creator:reillybrown,
+finger on trigger,
+gloves,
+gun,
+gun to head,
+handgun,
+hat,
+holding,
+holding gun,
+holding weapon,
+long sleeves,
+male focus,
+pistol,
+rating:safe,
+revolver,
+signature,
+solo,
+star (symbol),
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+title:cowboy deadpool,
+title:cowboy deadpool by reilly brown,
+trigger discipline,
+uploader:miaowbitch,
+vest,
+weapon,
+yellow background,

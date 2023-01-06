@@ -1,31 +1,31 @@
-1girl
-building
-cable
-category:ine
-cloud
-cloudy sky
-fake screenshot
-heads-up display
-health bar
-jacket
-long hair
-neon lights
-outdoors
-rain
-rating:safe
-scenery
-sky
-skyscraper
-solo
-standing
-subreddit:imaginaryarchitecture
-subreddit:imaginarycityscapes
-subreddit:imaginaryfuturism
-subreddit:imarchitecture
-subreddit:imlandscapes
-subreddit:imtechnology
-title:nicolas bouvier: busy skies
-uploader:nfcwalletcard
-user interface
-very long hair
-white hair
+1girl,
+building,
+cable,
+category:ine,
+cloud,
+cloudy sky,
+fake screenshot,
+heads-up display,
+health bar,
+jacket,
+long hair,
+neon lights,
+outdoors,
+rain,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+solo,
+standing,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarycityscapes,
+subreddit:imaginaryfuturism,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+title:nicolas bouvier: busy skies,
+uploader:nfcwalletcard,
+user interface,
+very long hair,
+white hair,

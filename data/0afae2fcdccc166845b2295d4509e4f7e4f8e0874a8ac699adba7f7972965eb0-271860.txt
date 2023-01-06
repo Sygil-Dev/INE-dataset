@@ -1,32 +1,32 @@
-1girl
-air bubble
-animal
-bird
-boat
-brown hair
-bubble
-category:ine
-caustics
-creator:chalky nan
-fish
-long hair
-medium:digital 2d
-mermaid
-mermay
-monster girl
-nude
-ocean
-open mouth
-seagull
-ship
-solo
-subreddit:imaginarymerfolk
-subreddit:imraces
-title:low tide (updated)
-title:low tide by chalky nan
-underwater
-uploader:lol33ta
-uploader:tallantas
-water
-watercraft
-waves
+1girl,
+air bubble,
+animal,
+bird,
+boat,
+brown hair,
+bubble,
+category:ine,
+caustics,
+creator:chalky nan,
+fish,
+long hair,
+medium:digital 2d,
+mermaid,
+mermay,
+monster girl,
+nude,
+ocean,
+open mouth,
+seagull,
+ship,
+solo,
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+title:low tide (updated),
+title:low tide by chalky nan,
+underwater,
+uploader:lol33ta,
+uploader:tallantas,
+water,
+watercraft,
+waves,

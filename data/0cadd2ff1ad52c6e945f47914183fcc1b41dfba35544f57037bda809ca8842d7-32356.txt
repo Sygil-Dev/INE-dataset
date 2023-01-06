@@ -1,68 +1,68 @@
-1boy
-abuse
-amputee
-bad end
-bite mark
-bleeding
-blood
-blood from eyes
-blood from mouth
-blood on clothes
-blood on face
-blood on hands
-blood on knife
-blood on weapon
-blood splatter
-blood stain
-bruise
-bruise on face
-bullet hole
-category:ine
-chainsaw
-corpse
-crack
-cuts
-death
-defloration
-dirty
-dirty clothes
-dirty face
-dripping
-empty eyes
-footprints
-guro
-holding knife
-horror (theme)
-impaled
-injury
-ketchup
-knife
-lipstick mark
-nosebleed
-paint splatter
-pink blood
-pool of blood
-rating:safe
-red flower
-red rose
-saw
-scalpel
-scratches
-severed head
-severed limb
-spider lily
-splatter
-spot color
-stab
-stain
-stitches
-subreddit:imaginarydemons
-subreddit:immonsters
-suicide
-title:fail?
-traditional media
-uploader:momo-the-drawer-
-vampire
-whip marks
-yandere
-zombie
+1boy,
+abuse,
+amputee,
+bad end,
+bite mark,
+bleeding,
+blood,
+blood from eyes,
+blood from mouth,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on knife,
+blood on weapon,
+blood splatter,
+blood stain,
+bruise,
+bruise on face,
+bullet hole,
+category:ine,
+chainsaw,
+corpse,
+crack,
+cuts,
+death,
+defloration,
+dirty,
+dirty clothes,
+dirty face,
+dripping,
+empty eyes,
+footprints,
+guro,
+holding knife,
+horror (theme),
+impaled,
+injury,
+ketchup,
+knife,
+lipstick mark,
+nosebleed,
+paint splatter,
+pink blood,
+pool of blood,
+rating:safe,
+red flower,
+red rose,
+saw,
+scalpel,
+scratches,
+severed head,
+severed limb,
+spider lily,
+splatter,
+spot color,
+stab,
+stain,
+stitches,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+suicide,
+title:fail?,
+traditional media,
+uploader:momo-the-drawer-,
+vampire,
+whip marks,
+yandere,
+zombie,

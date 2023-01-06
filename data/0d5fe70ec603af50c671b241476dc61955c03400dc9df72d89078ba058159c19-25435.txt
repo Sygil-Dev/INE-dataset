@@ -1,21 +1,21 @@
-1girl
-3boys
-boots
-brown hair
-category:ine
-gradient
-gradient background
-green eyes
-holding
-long hair
-multiple boys
-rating:safe
-robe
-staff
-standing
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-sword
-title:backpackers by filipe capra
-uploader:lol33ta
-weapon
+1girl,
+3boys,
+boots,
+brown hair,
+category:ine,
+gradient,
+gradient background,
+green eyes,
+holding,
+long hair,
+multiple boys,
+rating:safe,
+robe,
+staff,
+standing,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+sword,
+title:backpackers by filipe capra,
+uploader:lol33ta,
+weapon,

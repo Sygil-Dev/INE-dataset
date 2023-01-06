@@ -1,31 +1,31 @@
-category:ine
-concept
-concept art
-conceptart
-conceptartist
-conceptdesign
-creator:niek schlosser
-digital2d
-digital 2d
-digitalpainting
-environment
-environment2d
-environmentart
-environments
-fantasy
-fantasyart
-illustration
-juice
-medium:digital 2d
-military
-painting
-photoshop
-subreddit:imaginaryhistory
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-subreddit:immeta
-title:town take over
-title:town take over by niek schlosser
-title:town take over, by niek schlosser
-uploader:niekschlosser
-uploader:nitemyria
+category:ine,
+concept,
+concept art,
+conceptart,
+conceptartist,
+conceptdesign,
+creator:niek schlosser,
+digital2d,
+digital 2d,
+digitalpainting,
+environment,
+environment2d,
+environmentart,
+environments,
+fantasy,
+fantasyart,
+illustration,
+juice,
+medium:digital 2d,
+military,
+painting,
+photoshop,
+subreddit:imaginaryhistory,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+subreddit:immeta,
+title:town take over,
+title:town take over by niek schlosser,
+title:town take over, by niek schlosser,
+uploader:niekschlosser,
+uploader:nitemyria,

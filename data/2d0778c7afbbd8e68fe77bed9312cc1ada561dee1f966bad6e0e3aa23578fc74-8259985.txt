@@ -1,28 +1,28 @@
-1 female
-blood
-bodily fluids
-booru:sankaku channel
-category:ine
-clothing:gloves
-cyberpunk
-cyborg
-dunhuang chen
-extra arms
-extra faces
-firearm
-gender:female
-genre:science fiction
-gun holster
-holster
-medium:1:1 aspect ratio
-medium:high resolution
-monster girl
-pistol
-rating:safe
-species:robot
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-tentacles
-title:lady eel by dunhuang chen
-uploader:myrandall
-weapon
+1 female,
+blood,
+bodily fluids,
+booru:sankaku channel,
+category:ine,
+clothing:gloves,
+cyberpunk,
+cyborg,
+dunhuang chen,
+extra arms,
+extra faces,
+firearm,
+gender:female,
+genre:science fiction,
+gun holster,
+holster,
+medium:1:1 aspect ratio,
+medium:high resolution,
+monster girl,
+pistol,
+rating:safe,
+species:robot,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+tentacles,
+title:lady eel by dunhuang chen,
+uploader:myrandall,
+weapon,

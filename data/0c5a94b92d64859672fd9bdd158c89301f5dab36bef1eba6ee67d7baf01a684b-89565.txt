@@ -1,28 +1,28 @@
-1boy
-armor
-category:ine
-cloud
-cloudy sky
-holding
-holding weapon
-horse
-horseback riding
-male focus
-mountain
-outdoors
-polearm
-rating:safe
-riding
-sky
-solo
-spear
-subreddit:imaginaryarmor
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imtechnology
-sunset
-title:death bringer by tomasz jedruszek
-uploader:lexxx20
-uploader:lol33ta
-weapon
-wings
+1boy,
+armor,
+category:ine,
+cloud,
+cloudy sky,
+holding,
+holding weapon,
+horse,
+horseback riding,
+male focus,
+mountain,
+outdoors,
+polearm,
+rating:safe,
+riding,
+sky,
+solo,
+spear,
+subreddit:imaginaryarmor,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imtechnology,
+sunset,
+title:death bringer by tomasz jedruszek,
+uploader:lexxx20,
+uploader:lol33ta,
+weapon,
+wings,

@@ -1,21 +1,21 @@
-battle
-category:ine
-cloud
-cloudy sky
-ground vehicle
-military
-military vehicle
-motor vehicle
-no humans
-ocean
-rating:safe
-ship
-sky
-subreddit:imaginarywarships
-subreddit:imtechnology
-sunset
-title:'jerry hunters, rosneath, scotland' painting, watercolour on paper by dwight clark shepler. 1943
-uploader:kapitankurt
-water
-watercraft
-world war ii
+battle,
+category:ine,
+cloud,
+cloudy sky,
+ground vehicle,
+military,
+military vehicle,
+motor vehicle,
+no humans,
+ocean,
+rating:safe,
+ship,
+sky,
+subreddit:imaginarywarships,
+subreddit:imtechnology,
+sunset,
+title:'jerry hunters, rosneath, scotland' painting, watercolour on paper by dwight clark shepler. 1943,
+uploader:kapitankurt,
+water,
+watercraft,
+world war ii,

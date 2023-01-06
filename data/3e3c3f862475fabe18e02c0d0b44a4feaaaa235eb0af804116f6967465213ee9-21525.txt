@@ -1,21 +1,21 @@
-category:ine
-computer
-cyberbooty
-cyberpunk
-futuristic
-gender:female
-genre:science fiction
-indoors
-interfaces
-interior
-subreddit:imaginaryboners
-subreddit:imaginarycyberpunk
-subreddit:imaginaryfuturism
-subreddit:imnsfw
-subreddit:imtechnology
-superhero
-tattoo
-title:inca's apartment by alexander nanitchkov
-topless
-uploader:drunkindragon
-uploader:faeryknight
+category:ine,
+computer,
+cyberbooty,
+cyberpunk,
+futuristic,
+gender:female,
+genre:science fiction,
+indoors,
+interfaces,
+interior,
+subreddit:imaginaryboners,
+subreddit:imaginarycyberpunk,
+subreddit:imaginaryfuturism,
+subreddit:imnsfw,
+subreddit:imtechnology,
+superhero,
+tattoo,
+title:inca's apartment by alexander nanitchkov,
+topless,
+uploader:drunkindragon,
+uploader:faeryknight,

@@ -1,24 +1,24 @@
-architecture
-bridge
-building
-bush
-category:ine
-city
-east asian architecture
-forest
-grass
-nature
-no humans
-outdoors
-path
-rating:safe
-river
-road
-scenery
-subreddit:imaginaryarchitecture
-subreddit:imaginarytrees
-subreddit:imnature
-title:giant tree by frédéric simon
-tree
-uploader:hvitserkr
-uploader:sr_myers
+architecture,
+bridge,
+building,
+bush,
+category:ine,
+city,
+east asian architecture,
+forest,
+grass,
+nature,
+no humans,
+outdoors,
+path,
+rating:safe,
+river,
+road,
+scenery,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarytrees,
+subreddit:imnature,
+title:giant tree by frédéric simon,
+tree,
+uploader:hvitserkr,
+uploader:sr_myers,

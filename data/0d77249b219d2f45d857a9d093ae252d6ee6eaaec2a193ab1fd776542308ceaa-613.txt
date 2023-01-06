@@ -1,26 +1,26 @@
-aircraft
-battleship
-building
-category:ine
-city
-giant
-helicopter
-house
-military
-military vehicle
-no humans
-outdoors
-photo background
-power lines
-rating:safe
-ruins
-ship
-snow
-spot color
-subreddit:imaginarybehemoths
-subreddit:immonsters
-title:year of the dog by justin ryan
-traditional media
-tree
-uploader:lol33ta
-warship
+aircraft,
+battleship,
+building,
+category:ine,
+city,
+giant,
+helicopter,
+house,
+military,
+military vehicle,
+no humans,
+outdoors,
+photo background,
+power lines,
+rating:safe,
+ruins,
+ship,
+snow,
+spot color,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+title:year of the dog by justin ryan,
+traditional media,
+tree,
+uploader:lol33ta,
+warship,

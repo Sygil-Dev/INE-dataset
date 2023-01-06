@@ -1,76 +1,76 @@
-1 female
-1girl
-4 males
-4boys
-armor
-armored dress
-battle
-book
-booru:danbooru
-booru:gelbooru
-boots
-buckler
-category:ine
-claw (weapon)
-cleavage
-cleavage cutout
-clothing:armor
-clothing:boots
-clothing:footwear
-clothing:scarf
-clothing:thigh boots
-clothing:thigh-highs
-creator:kilart
-creator:kilartdev
-dagger
-dark elf
-dual wielding
-ears
-elf
-fantasy
-faulds
-footwear
-full armor
-gauntlets
-gender:female
-gender:male
-genre:fantasy
-headwear
-helmet
-holding
-holding object
-holding weapon
-knight
-medium breasts
-medium:high resolution
-melee weapon
-meta:commentary
-meta:english commentary
-meta:highres
-multiple boys
-multiple males
-pointy ears
-rating:mature
-rating:safe
-red scarf
-reverse grip
-scarf
-series:original
-shield
-solo focus
-sorcerer
-species:dark elf
-species:elf
-spiked armor
-subreddit:imaginaryelves
-subreddit:imraces
-sword
-thigh boots
-thigh-highs
-thighhighs
-title:dark elves blood corsair
-title:dark elves blood corsair by choe, heonhwa
-uploader:net-diver
-weapon
-white hair
-zettai ryouiki
+1 female,
+1girl,
+4 males,
+4boys,
+armor,
+armored dress,
+battle,
+book,
+booru:danbooru,
+booru:gelbooru,
+boots,
+buckler,
+category:ine,
+claw (weapon),
+cleavage,
+cleavage cutout,
+clothing:armor,
+clothing:boots,
+clothing:footwear,
+clothing:scarf,
+clothing:thigh boots,
+clothing:thigh-highs,
+creator:kilart,
+creator:kilartdev,
+dagger,
+dark elf,
+dual wielding,
+ears,
+elf,
+fantasy,
+faulds,
+footwear,
+full armor,
+gauntlets,
+gender:female,
+gender:male,
+genre:fantasy,
+headwear,
+helmet,
+holding,
+holding object,
+holding weapon,
+knight,
+medium breasts,
+medium:high resolution,
+melee weapon,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+multiple boys,
+multiple males,
+pointy ears,
+rating:mature,
+rating:safe,
+red scarf,
+reverse grip,
+scarf,
+series:original,
+shield,
+solo focus,
+sorcerer,
+species:dark elf,
+species:elf,
+spiked armor,
+subreddit:imaginaryelves,
+subreddit:imraces,
+sword,
+thigh boots,
+thigh-highs,
+thighhighs,
+title:dark elves blood corsair,
+title:dark elves blood corsair by choe, heonhwa,
+uploader:net-diver,
+weapon,
+white hair,
+zettai ryouiki,

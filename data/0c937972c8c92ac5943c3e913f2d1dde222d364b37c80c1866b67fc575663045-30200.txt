@@ -1,30 +1,30 @@
-1girl
-anthro
-anthropomorphization
-booru:sankaku
-category:ine
-character:sunset shimmer
-clothing:thigh-highs
-creator:racoon-kun
-creator:racoonkun
-creator:racoonsan
-female
-female only
-gender:female
-indoors
-long hair
-medium:high resolution
-multicolored hair
-rating:s
-rating:safe
-series:my little pony
-series:my little pony equestria girls
-series:my little pony friendship is magic
-solo
-studio:hasbro
-subreddit:imaginaryfashion
-subreddit:immeta
-title:"shimmer champagne" by racoonkun
-title:shimmer champagne
-two-tone hair
-uploader:torvusil
+1girl,
+anthro,
+anthropomorphization,
+booru:sankaku,
+category:ine,
+character:sunset shimmer,
+clothing:thigh-highs,
+creator:racoon-kun,
+creator:racoonkun,
+creator:racoonsan,
+female,
+female only,
+gender:female,
+indoors,
+long hair,
+medium:high resolution,
+multicolored hair,
+rating:s,
+rating:safe,
+series:my little pony,
+series:my little pony equestria girls,
+series:my little pony friendship is magic,
+solo,
+studio:hasbro,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+title:"shimmer champagne" by racoonkun,
+title:shimmer champagne,
+two-tone hair,
+uploader:torvusil,

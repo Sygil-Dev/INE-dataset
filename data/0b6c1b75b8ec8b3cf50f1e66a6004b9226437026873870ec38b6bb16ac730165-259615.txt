@@ -1,28 +1,28 @@
-1boy
-armor
-brown background
-category:ine
-creator:shimmering-sword
-energy sword
-glowing
-glowing sword
-glowing weapon
-gun
-helmet
-holding
-holding weapon
-horns
-lightsaber
-male focus
-pointing
-rating:safe
-science fiction
-solo
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-sword
-title:[1343x750] elemental perseverance / by anthony scroggins
-title:elemental perseverance
-twitter username
-uploader:nachtigall44
-weapon
+1boy,
+armor,
+brown background,
+category:ine,
+creator:shimmering-sword,
+energy sword,
+glowing,
+glowing sword,
+glowing weapon,
+gun,
+helmet,
+holding,
+holding weapon,
+horns,
+lightsaber,
+male focus,
+pointing,
+rating:safe,
+science fiction,
+solo,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+sword,
+title:[1343x750] elemental perseverance / by anthony scroggins,
+title:elemental perseverance,
+twitter username,
+uploader:nachtigall44,
+weapon,

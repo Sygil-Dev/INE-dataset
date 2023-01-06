@@ -1,25 +1,25 @@
-assault rifle
-category:ine
-creator:huang ming
-cyberpunk
-genre:science fiction
-gloves
-gun
-helmet
-knee pads
-lineart
-medium:digital 2d
-military
-multiple boys
-pouch
-rating:safe
-realistic
-rifle
-scope
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-title:crasher by huang ming
-title:洛恩海姆公司安全部队
-uniform
-uploader:lol33ta
-weapon
+assault rifle,
+category:ine,
+creator:huang ming,
+cyberpunk,
+genre:science fiction,
+gloves,
+gun,
+helmet,
+knee pads,
+lineart,
+medium:digital 2d,
+military,
+multiple boys,
+pouch,
+rating:safe,
+realistic,
+rifle,
+scope,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+title:crasher by huang ming,
+title:洛恩海姆公司安全部队,
+uniform,
+uploader:lol33ta,
+weapon,

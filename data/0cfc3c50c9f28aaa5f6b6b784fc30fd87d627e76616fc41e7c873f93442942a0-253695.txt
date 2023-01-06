@@ -1,44 +1,44 @@
-1boy
-armor
-aurora
-blue eyes
-cape
-category:ine
-character:elezen
-constellation
-crescent moon
-earth (planet)
-elf
-full moon
-galaxy
-hair between eyes
-light particles
-male focus
-milky way
-moon
-moonlight
-night
-night sky
-planet
-pointy ears
-rating:safe
-red moon
-shooting star
-shoulder armor
-signature
-sky
-snowing
-solo
-space
-space craft
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginaryelves
-subreddit:imraces
-tanabata
-title:a smile for a hero by cynthia inesta
-uploader:lol33ta
-white hair
+1boy,
+armor,
+aurora,
+blue eyes,
+cape,
+category:ine,
+character:elezen,
+constellation,
+crescent moon,
+earth (planet),
+elf,
+full moon,
+galaxy,
+hair between eyes,
+light particles,
+male focus,
+milky way,
+moon,
+moonlight,
+night,
+night sky,
+planet,
+pointy ears,
+rating:safe,
+red moon,
+shooting star,
+shoulder armor,
+signature,
+sky,
+snowing,
+solo,
+space,
+space craft,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginaryelves,
+subreddit:imraces,
+tanabata,
+title:a smile for a hero by cynthia inesta,
+uploader:lol33ta,
+white hair,

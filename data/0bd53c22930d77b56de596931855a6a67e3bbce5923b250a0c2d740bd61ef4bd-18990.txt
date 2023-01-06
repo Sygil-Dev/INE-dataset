@@ -1,21 +1,21 @@
-1boy
-arrow (projectile)
-bow (weapon)
-category:ine
-cloud
-cloudy sky
-dragon
-electricity
-holding
-holding bow (weapon)
-holding weapon
-lightning
-polearm
-rating:safe
-sky
-smoke
-subreddit:imaginaryelves
-subreddit:imraces
-title:skyrider elf by dan scott
-uploader:tellanas
-weapon
+1boy,
+arrow (projectile),
+bow (weapon),
+category:ine,
+cloud,
+cloudy sky,
+dragon,
+electricity,
+holding,
+holding bow (weapon),
+holding weapon,
+lightning,
+polearm,
+rating:safe,
+sky,
+smoke,
+subreddit:imaginaryelves,
+subreddit:imraces,
+title:skyrider elf by dan scott,
+uploader:tellanas,
+weapon,

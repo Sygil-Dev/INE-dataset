@@ -1,34 +1,34 @@
-aircraft
-black border
-burning
-category:ine
-city
-cloud
-dusk
-embers
-evening
-explosion
-fire
-flame
-gradient sky
-horizon
-letterboxed
-molten rock
-ocean
-orange sky
-pillarboxed
-rating:safe
-red sky
-ruins
-scenery
-silhouette
-sky
-star (sky)
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-sun
-sunset
-title:galaxy theme work by keyi li
-twilight
-uploader:hvitserkr
-water
+aircraft,
+black border,
+burning,
+category:ine,
+city,
+cloud,
+dusk,
+embers,
+evening,
+explosion,
+fire,
+flame,
+gradient sky,
+horizon,
+letterboxed,
+molten rock,
+ocean,
+orange sky,
+pillarboxed,
+rating:safe,
+red sky,
+ruins,
+scenery,
+silhouette,
+sky,
+star (sky),
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+sun,
+sunset,
+title:galaxy theme work by keyi li,
+twilight,
+uploader:hvitserkr,
+water,

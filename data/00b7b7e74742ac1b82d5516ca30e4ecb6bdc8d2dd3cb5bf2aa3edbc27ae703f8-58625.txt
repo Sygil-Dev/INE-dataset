@@ -1,36 +1,36 @@
-armor
-battle
-breathing fire
-burning
-campfire
-candle
-category:ine
-dusk
-embers
-explosion
-fiery hair
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-glowing
-helmet
-horns
-molten rock
-pyrokinesis
-rating:safe
-sharp teeth
-smoke
-solo
-sparks
-subreddit:imaginarybeasts
-subreddit:immonsters
-sunset
-tail-tip fire
-teeth
-title:party time by diego gisbert llorens
-torch
-twilight
-uploader:adverserius
-volcano
+armor,
+battle,
+breathing fire,
+burning,
+campfire,
+candle,
+category:ine,
+dusk,
+embers,
+explosion,
+fiery hair,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+glowing,
+helmet,
+horns,
+molten rock,
+pyrokinesis,
+rating:safe,
+sharp teeth,
+smoke,
+solo,
+sparks,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+sunset,
+tail-tip fire,
+teeth,
+title:party time by diego gisbert llorens,
+torch,
+twilight,
+uploader:adverserius,
+volcano,

@@ -1,24 +1,24 @@
-1girl
-brown eyes
-brown hair
-category:ine
-creator:paigehwarren
-dark skin
-dark-skinned female
-dress
-full body
-green dress
-green skirt
-hairlocs
-rating:safe
-short hair
-simple background
-smile
-solo
-standing
-subreddit:imaginaryfashion
-subreddit:immeta
-title:princess tiana
-title:princess tiana by paige halsey warren
-uploader:lol33ta
-white background
+1girl,
+brown eyes,
+brown hair,
+category:ine,
+creator:paigehwarren,
+dark skin,
+dark-skinned female,
+dress,
+full body,
+green dress,
+green skirt,
+hairlocs,
+rating:safe,
+short hair,
+simple background,
+smile,
+solo,
+standing,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+title:princess tiana,
+title:princess tiana by paige halsey warren,
+uploader:lol33ta,
+white background,

@@ -1,22 +1,22 @@
-1girl
-black gloves
-black hair
-category:ine
-closed eyes
-earrings
-finger gun
-gloves
-hood
-jewelry
-mask
-outstretched arm
-pointing
-pointing at viewer
-rating:safe
-realistic
-sleeping
-subreddit:imaginarybestof
-subreddit:immeta
-tattoo
-title:[/r/imaginaryhorrors] malekai, lord of shadows by dave greco
-uploader:lol33ta
+1girl,
+black gloves,
+black hair,
+category:ine,
+closed eyes,
+earrings,
+finger gun,
+gloves,
+hood,
+jewelry,
+mask,
+outstretched arm,
+pointing,
+pointing at viewer,
+rating:safe,
+realistic,
+sleeping,
+subreddit:imaginarybestof,
+subreddit:immeta,
+tattoo,
+title:[/r/imaginaryhorrors] malekai, lord of shadows by dave greco,
+uploader:lol33ta,

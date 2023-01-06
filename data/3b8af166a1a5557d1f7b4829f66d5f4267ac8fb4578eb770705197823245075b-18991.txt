@@ -1,21 +1,21 @@
-ancient
-antarctica
-category:ine
-city
-creator:wraithdt
-cthulhu
-deathmatch
-mythos
-osprey
-publishing
-ross
-sea
-shoggoth
-submarines
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-title:cthulhu wars - operation highjump
-title:cthulhu wars - operation highjump by darren tan
-underwater
-uploader:huntertamuc
-wars
+ancient,
+antarctica,
+category:ine,
+city,
+creator:wraithdt,
+cthulhu,
+deathmatch,
+mythos,
+osprey,
+publishing,
+ross,
+sea,
+shoggoth,
+submarines,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+title:cthulhu wars - operation highjump,
+title:cthulhu wars - operation highjump by darren tan,
+underwater,
+uploader:huntertamuc,
+wars,

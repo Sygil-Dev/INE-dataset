@@ -1,22 +1,22 @@
-1girl
-battle
-bubble
-category:ine
-city
-cloud
-creator:chrisrallis
-full moon
-lens flare
-long hair
-moon
-planet
-rain
-rating:safe
-subreddit:imaginarydragons
-subreddit:immonsters
-sun
-title:shieldhide dragon
-title:shieldhide dragon by chris rallis
-uploader:drunkindragon
-water
-weapon
+1girl,
+battle,
+bubble,
+category:ine,
+city,
+cloud,
+creator:chrisrallis,
+full moon,
+lens flare,
+long hair,
+moon,
+planet,
+rain,
+rating:safe,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sun,
+title:shieldhide dragon,
+title:shieldhide dragon by chris rallis,
+uploader:drunkindragon,
+water,
+weapon,

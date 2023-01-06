@@ -1,26 +1,26 @@
-bridge
-category:ine
-circle
-city
-clock
-clock tower
-cloud
-full moon
-green background
-green theme
-magic circle
-moon
-night
-night sky
-no humans
-planet
-rating:safe
-scenery
-sky
-star (sky)
-subreddit:imaginaryislands
-subreddit:imnature
-title:island by yana dhyana
-tower
-tree
-uploader:hvitserkr
+bridge,
+category:ine,
+circle,
+city,
+clock,
+clock tower,
+cloud,
+full moon,
+green background,
+green theme,
+magic circle,
+moon,
+night,
+night sky,
+no humans,
+planet,
+rating:safe,
+scenery,
+sky,
+star (sky),
+subreddit:imaginaryislands,
+subreddit:imnature,
+title:island by yana dhyana,
+tower,
+tree,
+uploader:hvitserkr,

@@ -1,44 +1,44 @@
-antlers
-aurora
-bare tree
-bell
-blurry
-candy cane
-category:ine
-christmas
-christmas lights
-christmas ornaments
-christmas tree
-deer ears
-depth of field
-fake antlers
-fur trim
-fur-trimmed headwear
-gift
-holly
-merry christmas
-mountain
-nature
-no humans
-outdoors
-pine tree
-rating:safe
-reindeer
-reindeer antlers
-reindeer costume
-sack
-santa costume
-santa hat
-sitting
-snow
-snowflakes
-snowing
-snowman
-subreddit:imaginaryanimals
-subreddit:imnature
-title:christmas king hamster by alexander samsonov
-tree
-uploader:lol33ta
-website:reddit
-winter
-wreath
+antlers,
+aurora,
+bare tree,
+bell,
+blurry,
+candy cane,
+category:ine,
+christmas,
+christmas lights,
+christmas ornaments,
+christmas tree,
+deer ears,
+depth of field,
+fake antlers,
+fur trim,
+fur-trimmed headwear,
+gift,
+holly,
+merry christmas,
+mountain,
+nature,
+no humans,
+outdoors,
+pine tree,
+rating:safe,
+reindeer,
+reindeer antlers,
+reindeer costume,
+sack,
+santa costume,
+santa hat,
+sitting,
+snow,
+snowflakes,
+snowing,
+snowman,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:christmas king hamster by alexander samsonov,
+tree,
+uploader:lol33ta,
+website:reddit,
+winter,
+wreath,

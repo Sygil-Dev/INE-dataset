@@ -1,29 +1,29 @@
-1 male
-bodysuit
-category:ine
-character:black panther (marvel)
-character:t'challa
-claws
-clothing:bottomwear
-clothing:topwear
-creator:caleb thomas
-full body
-gender:male
-gradient
-looking at viewer
-male focus
-mask
-medium:artist name
-medium:gradient background
-medium:grey background
-medium:simple background
-pov
-rating:mature
-solo
-squatting
-studio:marvel
-subreddit:imaginarymarvel
-subreddit:imfandoms
-superhero
-title:black panther by caleb thomas
-uploader:incredibel
+1 male,
+bodysuit,
+category:ine,
+character:black panther (marvel),
+character:t'challa,
+claws,
+clothing:bottomwear,
+clothing:topwear,
+creator:caleb thomas,
+full body,
+gender:male,
+gradient,
+looking at viewer,
+male focus,
+mask,
+medium:artist name,
+medium:gradient background,
+medium:grey background,
+medium:simple background,
+pov,
+rating:mature,
+solo,
+squatting,
+studio:marvel,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+superhero,
+title:black panther by caleb thomas,
+uploader:incredibel,

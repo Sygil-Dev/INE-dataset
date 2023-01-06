@@ -1,79 +1,79 @@
-2018
-after transformation
-after_transformation
-anthropomorphism
-armor
-artist:themefinland
-booru:e621
-bottomwear
-category:ine
-claws
-cliff
-clothing
-clothing:armor
-clothing:bottomwear
-clothing:loincloth
-creator:themefinland
-day
-detailed background
-digital painting (artwork)
-digitigrade
-dusk
-forest
-fur
-gender:female
-grey body
-grey fur
-group
-headgear
-headwear
-helmet
-huge shoulders
-loincloth
-lycantrope
-male
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-melee weapon
-meta:16:9
-meta:2018
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:digital_media_(artwork)
-meta:digital_painting_(artwork)
-meta:hi res
-meta:hi_res
-meta:widescreen
-monster
-moss
-outside
-overcast
-plant
-post transformation
-rating:safe
-rocks
-sky
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-standing
-subreddit:imaginarywerewolves
-subreddit:immonsters
-sword
-title:"the high crags" by timi honkanen (themefinland), deviantart.com
-title:the high crags
-transformation
-tree
-uploader:nikephoros_ii_phokas
-weapon
-year:2018
+2018,
+after transformation,
+after_transformation,
+anthropomorphism,
+armor,
+artist:themefinland,
+booru:e621,
+bottomwear,
+category:ine,
+claws,
+cliff,
+clothing,
+clothing:armor,
+clothing:bottomwear,
+clothing:loincloth,
+creator:themefinland,
+day,
+detailed background,
+digital painting (artwork),
+digitigrade,
+dusk,
+forest,
+fur,
+gender:female,
+grey body,
+grey fur,
+group,
+headgear,
+headwear,
+helmet,
+huge shoulders,
+loincloth,
+lycantrope,
+male,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+melee weapon,
+meta:16:9,
+meta:2018,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:digital_media_(artwork),
+meta:digital_painting_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+monster,
+moss,
+outside,
+overcast,
+plant,
+post transformation,
+rating:safe,
+rocks,
+sky,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+standing,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+sword,
+title:"the high crags" by timi honkanen (themefinland), deviantart.com,
+title:the high crags,
+transformation,
+tree,
+uploader:nikephoros_ii_phokas,
+weapon,
+year:2018,

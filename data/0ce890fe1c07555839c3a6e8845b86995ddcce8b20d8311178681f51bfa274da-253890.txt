@@ -1,37 +1,37 @@
-1boy
-abs
-bat
-belt
-category:ine
-cloud
-coat
-crescent moon
-fire
-full moon
-gun
-halloween
-hat
-male focus
-moon
-night
-night sky
-orange sky
-purple sky
-rating:safe
-red moon
-red sky
-signature
-skull
-sky
-star (sky)
-starry sky
-subreddit:imaginarycowboys
-subreddit:imcharacters
-sun
-sunset
-title:gunslinger spawn and western ghost rider by matt james &amp; jimbo salgado
-top hat
-twilight
-uploader:lol33ta
-weapon
-witch hat
+1boy,
+abs,
+bat,
+belt,
+category:ine,
+cloud,
+coat,
+crescent moon,
+fire,
+full moon,
+gun,
+halloween,
+hat,
+male focus,
+moon,
+night,
+night sky,
+orange sky,
+purple sky,
+rating:safe,
+red moon,
+red sky,
+signature,
+skull,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+sun,
+sunset,
+title:gunslinger spawn and western ghost rider by matt james &amp; jimbo salgado,
+top hat,
+twilight,
+uploader:lol33ta,
+weapon,
+witch hat,

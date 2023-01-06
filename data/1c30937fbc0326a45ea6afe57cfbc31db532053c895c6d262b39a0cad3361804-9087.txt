@@ -1,42 +1,42 @@
-anton kurbatov
-architecture
-artwork
-asteroid
-blue
-booru:wallhaven.cc
-building
-category:ine
-city
-cityscape
-commission
-creator:antonkurbatov
-cyan
-cyber
-cyber city
-cyberpunk
-dark
-dark cyberpunk
-digital
-digital painting
-digitallandscape
-digitalpainting
-drawing
-future
-futuristic
-futuristic city
-genre:cyberpunk
-genre:science fiction
-illustration
-landcape
-landscape
-lights
-medium:digital media
-mountains
-night
-skyscraper
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:dezpo'sito studios
-title:dezpo'sito studios by anton kurbatov
-tower
-uploader:fireflycities
+anton kurbatov,
+architecture,
+artwork,
+asteroid,
+blue,
+booru:wallhaven.cc,
+building,
+category:ine,
+city,
+cityscape,
+commission,
+creator:antonkurbatov,
+cyan,
+cyber,
+cyber city,
+cyberpunk,
+dark,
+dark cyberpunk,
+digital,
+digital painting,
+digitallandscape,
+digitalpainting,
+drawing,
+future,
+futuristic,
+futuristic city,
+genre:cyberpunk,
+genre:science fiction,
+illustration,
+landcape,
+landscape,
+lights,
+medium:digital media,
+mountains,
+night,
+skyscraper,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:dezpo'sito studios,
+title:dezpo'sito studios by anton kurbatov,
+tower,
+uploader:fireflycities,

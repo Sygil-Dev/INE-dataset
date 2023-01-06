@@ -1,22 +1,22 @@
-bird
-building
-castle
-category:ine
-city
-cloud
-cloudy sky
-day
-holding
-mountain
-outdoors
-rating:safe
-riding
-scenery
-sky
-subreddit:imaginarywarriors
-subreddit:imcharacters
-sunlight
-sword
-title:inspiring captain by ryan barger
-uploader:tellanas
-weapon
+bird,
+building,
+castle,
+category:ine,
+city,
+cloud,
+cloudy sky,
+day,
+holding,
+mountain,
+outdoors,
+rating:safe,
+riding,
+scenery,
+sky,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+sunlight,
+sword,
+title:inspiring captain by ryan barger,
+uploader:tellanas,
+weapon,

@@ -1,30 +1,30 @@
-america
-bar
-category:ine
-civil war
-concept
-cowboy
-cowboy doors
-cowboy entering saloon
-creator:robin boer
-dust
-dusty saloon
-medium:digital 2d
-priest cowboy
-saloon
-sheriff
-shooting
-standoff
-subreddit:imaginarycowboys
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-subreddit:imcharacters
-surprised
-title:stick em up
-title:stick em up by robin boer
-title:stick em up!
-uploader:robin-boer
-uploader:valar_m0rghul1s
-western
-whiskey
-wild west
+america,
+bar,
+category:ine,
+civil war,
+concept,
+cowboy,
+cowboy doors,
+cowboy entering saloon,
+creator:robin boer,
+dust,
+dusty saloon,
+medium:digital 2d,
+priest cowboy,
+saloon,
+sheriff,
+shooting,
+standoff,
+subreddit:imaginarycowboys,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+subreddit:imcharacters,
+surprised,
+title:stick em up,
+title:stick em up by robin boer,
+title:stick em up!,
+uploader:robin-boer,
+uploader:valar_m0rghul1s,
+western,
+whiskey,
+wild west,

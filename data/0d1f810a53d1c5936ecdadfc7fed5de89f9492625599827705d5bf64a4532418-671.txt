@@ -1,25 +1,25 @@
-1girl
-armband
-bare tree
-boots
-branch
-category:ine
-elf
-hugging own legs
-jewelry
-orange hair
-pointy ears
-quiver
-rating:safe
-realistic
-red hair
-sitting
-solo
-subreddit:imaginarybestof
-subreddit:imaginaryelves
-subreddit:immeta
-subreddit:imraces
-title:[/r/imaginaryelves] natalie elf by michał sałata
-title:natalie elf by michał sałata
-tree
-uploader:lol33ta
+1girl,
+armband,
+bare tree,
+boots,
+branch,
+category:ine,
+elf,
+hugging own legs,
+jewelry,
+orange hair,
+pointy ears,
+quiver,
+rating:safe,
+realistic,
+red hair,
+sitting,
+solo,
+subreddit:imaginarybestof,
+subreddit:imaginaryelves,
+subreddit:immeta,
+subreddit:imraces,
+title:[/r/imaginaryelves] natalie elf by michał sałata,
+title:natalie elf by michał sałata,
+tree,
+uploader:lol33ta,

@@ -1,28 +1,28 @@
-1girl
-armor
-belt
-brown hair
-category:ine
-creator:bolondteri
-elf
-forest
-grass
-green eyes
-horns
-nature
-outdoors
-planted
-planted sword
-pointy ears
-rating:safe
-short hair
-signature
-solo
-subreddit:imaginaryelves
-subreddit:imraces
-sword
-title:sylendra
-title:sylendra the wood elf, by mythicalpalette
-tree
-uploader:tyrisla
-weapon
+1girl,
+armor,
+belt,
+brown hair,
+category:ine,
+creator:bolondteri,
+elf,
+forest,
+grass,
+green eyes,
+horns,
+nature,
+outdoors,
+planted,
+planted sword,
+pointy ears,
+rating:safe,
+short hair,
+signature,
+solo,
+subreddit:imaginaryelves,
+subreddit:imraces,
+sword,
+title:sylendra,
+title:sylendra the wood elf, by mythicalpalette,
+tree,
+uploader:tyrisla,
+weapon,

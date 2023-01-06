@@ -1,29 +1,29 @@
-aircraft
-airplane
-battle
-beach
-category:ine
-cloud
-cockpit
-earth (planet)
-flying
-horizon
-letterboxed
-military
-military vehicle
-ocean
-pilot suit
-planet
-rating:safe
-science fiction
-ship
-sky
-space craft
-subreddit:imaginaryaviation
-subreddit:imtechnology
-sunset
-title:swallow by pablo dominguez
-uploader:green_smarties
-water
-watercraft
-website:reddit
+aircraft,
+airplane,
+battle,
+beach,
+category:ine,
+cloud,
+cockpit,
+earth (planet),
+flying,
+horizon,
+letterboxed,
+military,
+military vehicle,
+ocean,
+pilot suit,
+planet,
+rating:safe,
+science fiction,
+ship,
+sky,
+space craft,
+subreddit:imaginaryaviation,
+subreddit:imtechnology,
+sunset,
+title:swallow by pablo dominguez,
+uploader:green_smarties,
+water,
+watercraft,
+website:reddit,

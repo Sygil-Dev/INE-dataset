@@ -1,22 +1,22 @@
-1girl
-armor
-beard
-blood
-category:ine
-full armor
-gauntlets
-helmet
-holding
-holding sword
-holding weapon
-multiple boys
-pauldrons
-rating:safe
-shoulder armor
-standing
-subreddit:imaginaryknights
-subreddit:imcharacters
-sword
-title:iron blade - mood artworks (01) by alexandre chaudret
-uploader:knighterrannt
-weapon
+1girl,
+armor,
+beard,
+blood,
+category:ine,
+full armor,
+gauntlets,
+helmet,
+holding,
+holding sword,
+holding weapon,
+multiple boys,
+pauldrons,
+rating:safe,
+shoulder armor,
+standing,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+sword,
+title:iron blade - mood artworks (01) by alexandre chaudret,
+uploader:knighterrannt,
+weapon,

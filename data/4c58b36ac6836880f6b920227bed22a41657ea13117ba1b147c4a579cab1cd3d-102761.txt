@@ -1,35 +1,35 @@
-2d digital
-adventure
-art
-atmosphere
-canyon
-category:ine
-characters
-colors
-creative
-creator:wadim kashin
-custom brushes
-desert
-digital drawing
-environment
-good stuff
-horseriders
-illustration
-landscape
-loose
-march
-medium:3d rendering
-medium:concept art
-medium:digital 2d
-medium:digital media
-medium:photoshop
-pretty
-subreddit:imaginarydeserts
-subreddit:imnature
-title:canyon
-title:canyon by wadim kashin
-uploader:myrandall
-visual development
-wadim kashin art
-western
-year:2019
+2d digital,
+adventure,
+art,
+atmosphere,
+canyon,
+category:ine,
+characters,
+colors,
+creative,
+creator:wadim kashin,
+custom brushes,
+desert,
+digital drawing,
+environment,
+good stuff,
+horseriders,
+illustration,
+landscape,
+loose,
+march,
+medium:3d rendering,
+medium:concept art,
+medium:digital 2d,
+medium:digital media,
+medium:photoshop,
+pretty,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+title:canyon,
+title:canyon by wadim kashin,
+uploader:myrandall,
+visual development,
+wadim kashin art,
+western,
+year:2019,

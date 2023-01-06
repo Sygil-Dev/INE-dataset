@@ -1,22 +1,22 @@
-1boy
-armor
-brown eyes
-category:ine
-facial hair
-flower
-gauntlets
-headwear removed
-male focus
-petals
-rating:safe
-realistic
-snow
-snowing
-solo
-subreddit:imaginaryhumans
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-subreddit:imraces
-title:frederick by irene munoz
-uploader:lol33ta
-upper body
+1boy,
+armor,
+brown eyes,
+category:ine,
+facial hair,
+flower,
+gauntlets,
+headwear removed,
+male focus,
+petals,
+rating:safe,
+realistic,
+snow,
+snowing,
+solo,
+subreddit:imaginaryhumans,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+subreddit:imraces,
+title:frederick by irene munoz,
+uploader:lol33ta,
+upper body,

@@ -1,26 +1,26 @@
-axe
-brutal
-category:ine
-choppa
-creator:diego gisbert llorens
-creator:diegogisbertllorens
-diegogisbertllorens
-goff
-goff-klan
-medium:digital 2d
-noble
-ork
-orks
-portrait
-series:warhammer 40,000
-shoota
-species:orc
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:goff ork
-title:goff ork by diego gisbert llorens
-uploader:adverserius
-warboss
-warhammer
-weapon
+axe,
+brutal,
+category:ine,
+choppa,
+creator:diego gisbert llorens,
+creator:diegogisbertllorens,
+diegogisbertllorens,
+goff,
+goff-klan,
+medium:digital 2d,
+noble,
+ork,
+orks,
+portrait,
+series:warhammer 40,000,
+shoota,
+species:orc,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:goff ork,
+title:goff ork by diego gisbert llorens,
+uploader:adverserius,
+warboss,
+warhammer,
+weapon,

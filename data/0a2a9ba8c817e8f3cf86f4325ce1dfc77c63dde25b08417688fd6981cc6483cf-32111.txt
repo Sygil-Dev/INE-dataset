@@ -1,28 +1,28 @@
-1girl
-aircraft
-artist name
-category:ine
-cloud
-dated
-desert
-dusk
-dust
-evening
-mecha
-multiple boys
-orange sky
-outdoors
-rating:safe
-realistic
-sand
-signature
-sky
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-sunset
-title:steam raptor by dmitry burmak
-twilight
-uploader:hvitserkr
-watermark
-weapon
-web address
+1girl,
+aircraft,
+artist name,
+category:ine,
+cloud,
+dated,
+desert,
+dusk,
+dust,
+evening,
+mecha,
+multiple boys,
+orange sky,
+outdoors,
+rating:safe,
+realistic,
+sand,
+signature,
+sky,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+sunset,
+title:steam raptor by dmitry burmak,
+twilight,
+uploader:hvitserkr,
+watermark,
+weapon,
+web address,

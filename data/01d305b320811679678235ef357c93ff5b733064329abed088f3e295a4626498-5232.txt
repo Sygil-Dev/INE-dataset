@@ -1,21 +1,21 @@
-1boy
-bat
-bat wings
-category:ine
-demon wings
-dragon wings
-long hair
-male focus
-painting (medium)
-photo (medium)
-rating:safe
-red eyes
-solo
-spikes
-subreddit:imaginaryvampires
-subreddit:immonsters
-title:vampire by silvija stroncikaite
-traditional media
-uploader:lol33ta
-vampire
-wings
+1boy,
+bat,
+bat wings,
+category:ine,
+demon wings,
+dragon wings,
+long hair,
+male focus,
+painting (medium),
+photo (medium),
+rating:safe,
+red eyes,
+solo,
+spikes,
+subreddit:imaginaryvampires,
+subreddit:immonsters,
+title:vampire by silvija stroncikaite,
+traditional media,
+uploader:lol33ta,
+vampire,
+wings,

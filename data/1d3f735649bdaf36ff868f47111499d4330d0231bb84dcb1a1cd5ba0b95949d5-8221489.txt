@@ -1,140 +1,140 @@
-2015
-abs
-action pose
-action:open mouth
-action:standing upright
-all fours
-angry
-anthropomorphism
-ass
-athletic
-attack
-avian
-battle
-biceps
-blue body
-blue feathers
-bodily fluids
-bodypart:abs
-bodypart:ass
-bodypart:multicolored fur
-bodypart:wings
-bone
-bone necklace
-bones
-booru:e621
-bottomwear
-bright eyes
-brown body
-brown fur
-butt
-carrying
-category:ine
-character:sparks
-claws
-clothed
-clothing
-clothing:bottomwear
-clothing:collar
-clothing:jewelry
-clothing:necklace
-clothing:striped pattern
-collar
-creator:junaidi
-death
-detailed
-detailed background
-digitigrade
-dragon
-dutch angle
-emotion:anger
-fangs
-feathered wings
-feathers
-feral
-fire
-flying
-forest
-forest fire
-full moon
-fur
-furry
-gender:ambiguous
-gender:male
-group
-guro
-holding character
-impulse limited
-in tree
-jewelry
-junaidi
-loincloth
-looking down
-looking up
-macro
-magic
-male
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2015
-meta:detailed
-meta:digital media (artwork)
-meta:english text
-meta:hi res
-meta:nsfw
-meta:tagme
-monster
-moon
-multicolored body
-multicolored fur
-night
-nude
-open mouth
-outside
-pecs
-plant
-pose
-rage
-rating:explicit
-rating:mature
-rating:safe
-red body
-red feathers
-saliva
-series:impulse limited
-size difference
-skull
-sparks
-species:avian
-species:canid
-species:canine
-species:canis
-species:dragon
-species:mammal
-species:mythical
-species:scalie
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-standing
-striped
-striped body
-striped fur
-stripes
-subreddit:imaginaryhybrids
-subreddit:immonsters
-text
-title:final fight by junaidi lim
-topless
-tree
-two tone body
-two tone fur
-uploader:synntara
-walking
-website:e621
-were
-wings
-year:2015
+2015,
+abs,
+action pose,
+action:open mouth,
+action:standing upright,
+all fours,
+angry,
+anthropomorphism,
+ass,
+athletic,
+attack,
+avian,
+battle,
+biceps,
+blue body,
+blue feathers,
+bodily fluids,
+bodypart:abs,
+bodypart:ass,
+bodypart:multicolored fur,
+bodypart:wings,
+bone,
+bone necklace,
+bones,
+booru:e621,
+bottomwear,
+bright eyes,
+brown body,
+brown fur,
+butt,
+carrying,
+category:ine,
+character:sparks,
+claws,
+clothed,
+clothing,
+clothing:bottomwear,
+clothing:collar,
+clothing:jewelry,
+clothing:necklace,
+clothing:striped pattern,
+collar,
+creator:junaidi,
+death,
+detailed,
+detailed background,
+digitigrade,
+dragon,
+dutch angle,
+emotion:anger,
+fangs,
+feathered wings,
+feathers,
+feral,
+fire,
+flying,
+forest,
+forest fire,
+full moon,
+fur,
+furry,
+gender:ambiguous,
+gender:male,
+group,
+guro,
+holding character,
+impulse limited,
+in tree,
+jewelry,
+junaidi,
+loincloth,
+looking down,
+looking up,
+macro,
+magic,
+male,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2015,
+meta:detailed,
+meta:digital media (artwork),
+meta:english text,
+meta:hi res,
+meta:nsfw,
+meta:tagme,
+monster,
+moon,
+multicolored body,
+multicolored fur,
+night,
+nude,
+open mouth,
+outside,
+pecs,
+plant,
+pose,
+rage,
+rating:explicit,
+rating:mature,
+rating:safe,
+red body,
+red feathers,
+saliva,
+series:impulse limited,
+size difference,
+skull,
+sparks,
+species:avian,
+species:canid,
+species:canine,
+species:canis,
+species:dragon,
+species:mammal,
+species:mythical,
+species:scalie,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+standing,
+striped,
+striped body,
+striped fur,
+stripes,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+text,
+title:final fight by junaidi lim,
+topless,
+tree,
+two tone body,
+two tone fur,
+uploader:synntara,
+walking,
+website:e621,
+were,
+wings,
+year:2015,

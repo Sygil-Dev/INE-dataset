@@ -1,31 +1,31 @@
-armed
-blaster
-category:ine
-class
-clock
-creator:lukas singer
-destroyer
-grey
-greyscale
-letterboxed
-lineart
-long hair
-medium:digital 3d
-monochrome
-multiple girls
-rating:safe
-republic
-spacecraft
-spaceship
-star
-star wars
-subreddit:imaginarystarships
-subreddit:imtechnology
-title:venator class star destroyer
-title:venator class star destroyer by lukas singer
-transparent background
-turret
-uploader:mr_gibbys
-venator
-wars
-weapon
+armed,
+blaster,
+category:ine,
+class,
+clock,
+creator:lukas singer,
+destroyer,
+grey,
+greyscale,
+letterboxed,
+lineart,
+long hair,
+medium:digital 3d,
+monochrome,
+multiple girls,
+rating:safe,
+republic,
+spacecraft,
+spaceship,
+star,
+star wars,
+subreddit:imaginarystarships,
+subreddit:imtechnology,
+title:venator class star destroyer,
+title:venator class star destroyer by lukas singer,
+transparent background,
+turret,
+uploader:mr_gibbys,
+venator,
+wars,
+weapon,

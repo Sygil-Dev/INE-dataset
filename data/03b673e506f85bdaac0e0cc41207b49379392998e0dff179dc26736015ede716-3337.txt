@@ -1,46 +1,46 @@
-1girl
-album cover
-assault rifle
-bandana
-baseball cap
-black hair
-brown hair
-category:ine
-character:ash ketchum
-character:misty (pokemon)
-closed eyes
-cover
-finger on trigger
-gloves
-gun
-handgun
-hat
-holding
-holding gun
-holding water gun
-holding weapon
-kalashnikov rifle
-multiple boys
-orange hair
-parody
-pistol
-rating:safe
-revolver
-rifle
-short hair
-shotgun
-side ponytail
-sniper rifle
-splattershot (splatoon)
-style parody
-submachine gun
-subreddit:imaginarykanto
-subreddit:imfandoms
-super soaker
-suppressor
-title parody
-title:work in progress
-trigger discipline
-uploader:rdhertsuni
-water gun
-weapon
+1girl,
+album cover,
+assault rifle,
+bandana,
+baseball cap,
+black hair,
+brown hair,
+category:ine,
+character:ash ketchum,
+character:misty (pokemon),
+closed eyes,
+cover,
+finger on trigger,
+gloves,
+gun,
+handgun,
+hat,
+holding,
+holding gun,
+holding water gun,
+holding weapon,
+kalashnikov rifle,
+multiple boys,
+orange hair,
+parody,
+pistol,
+rating:safe,
+revolver,
+rifle,
+short hair,
+shotgun,
+side ponytail,
+sniper rifle,
+splattershot (splatoon),
+style parody,
+submachine gun,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+super soaker,
+suppressor,
+title parody,
+title:work in progress,
+trigger discipline,
+uploader:rdhertsuni,
+water gun,
+weapon,

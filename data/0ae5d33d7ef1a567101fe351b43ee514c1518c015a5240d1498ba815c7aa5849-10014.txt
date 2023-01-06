@@ -1,24 +1,24 @@
-1girl
-building
-category:ine
-cloud
-cloudy sky
-copyright name
-fake screenshot
-health bar
-light rays
-lightning
-long hair
-outdoors
-rating:safe
-ruins
-scenery
-sky
-standing
-subreddit:imaginaryportals
-subreddit:imtechnology
-sunbeam
-title:brimstone by jan ditlev
-tower
-uploader:myrandall
-very long hair
+1girl,
+building,
+category:ine,
+cloud,
+cloudy sky,
+copyright name,
+fake screenshot,
+health bar,
+light rays,
+lightning,
+long hair,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+standing,
+subreddit:imaginaryportals,
+subreddit:imtechnology,
+sunbeam,
+title:brimstone by jan ditlev,
+tower,
+uploader:myrandall,
+very long hair,

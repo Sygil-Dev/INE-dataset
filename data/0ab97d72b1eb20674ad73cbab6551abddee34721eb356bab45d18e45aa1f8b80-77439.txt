@@ -1,29 +1,29 @@
-beach
-boat
-cannon
-category:ine
-cloud
-flag
-horizon
-military
-military vehicle
-no humans
-ocean
-outdoors
-rating:safe
-rising sun
-ship
-sky
-smokestack
-subreddit:imaginarywarships
-subreddit:imtechnology
-sunburst
-sunset
-title:[art] uss iowa from "magnificent ships: volume 1" for vive vr headsets [4356x2520]
-turret
-uploader:kideternal
-warship
-water
-watercraft
-waves
-world war ii
+beach,
+boat,
+cannon,
+category:ine,
+cloud,
+flag,
+horizon,
+military,
+military vehicle,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+rising sun,
+ship,
+sky,
+smokestack,
+subreddit:imaginarywarships,
+subreddit:imtechnology,
+sunburst,
+sunset,
+title:[art] uss iowa from "magnificent ships: volume 1" for vive vr headsets [4356x2520],
+turret,
+uploader:kideternal,
+warship,
+water,
+watercraft,
+waves,
+world war ii,

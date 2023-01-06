@@ -1,21 +1,21 @@
-artist name
-blue eyes
-blue fire
-category:ine
-flaming eye
-glowing
-glowing eye
-glowing eyes
-monster
-rating:safe
-realistic
-solo
-space
-star (sky)
-subreddit:imaginarydemons
-subreddit:immonsters
-teeth
-title:demon by richard luong
-uploader:incredibel
-watermark
-web address
+artist name,
+blue eyes,
+blue fire,
+category:ine,
+flaming eye,
+glowing,
+glowing eye,
+glowing eyes,
+monster,
+rating:safe,
+realistic,
+solo,
+space,
+star (sky),
+subreddit:imaginarydemons,
+subreddit:immonsters,
+teeth,
+title:demon by richard luong,
+uploader:incredibel,
+watermark,
+web address,

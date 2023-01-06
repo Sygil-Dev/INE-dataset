@@ -1,61 +1,61 @@
-alien
-battle
-car
-category:ine
-character:destoroyah
-character:godzilla
-character:jet jaguar
-character:king ghidorah
-character:mechagodzilla
-character:moguera
-character:mothra
-conjoined
-creator:larry quach
-creator:nobackstreetboys
-dated
-debris
-destruction
-epic
-fire
-firing
-flying
-genre:science fiction
-ground vehicle
-kaijuu
-mecha
-medium:high resolution
-meta:commentary request
-meta:highres
-military
-missile
-monster
-motor vehicle
-no humans
-rating:general
-rating:mature
-rating:safe
-realistic
-redesign
-robot
-rocket launcher
-science fiction
-series:godzilla (series)
-series:godzilla vs megalon
-series:godzilla vs. mechagodzilla
-series:godzilla vs. spacegodzilla
-series:godzilla vs.king ghidorah
-signature
-species:kaiju
-species:monster
-species:robot
-subreddit:imaginarymechs
-subreddit:imtechnology
-surrounded
-title:japan defense force (jdf)
-title:japan defense force (jdf) by larry
-uploader:godnaruto21
-vehicle
-weapon
-when you see it
-wreckage
-year:2017
+alien,
+battle,
+car,
+category:ine,
+character:destoroyah,
+character:godzilla,
+character:jet jaguar,
+character:king ghidorah,
+character:mechagodzilla,
+character:moguera,
+character:mothra,
+conjoined,
+creator:larry quach,
+creator:nobackstreetboys,
+dated,
+debris,
+destruction,
+epic,
+fire,
+firing,
+flying,
+genre:science fiction,
+ground vehicle,
+kaijuu,
+mecha,
+medium:high resolution,
+meta:commentary request,
+meta:highres,
+military,
+missile,
+monster,
+motor vehicle,
+no humans,
+rating:general,
+rating:mature,
+rating:safe,
+realistic,
+redesign,
+robot,
+rocket launcher,
+science fiction,
+series:godzilla (series),
+series:godzilla vs megalon,
+series:godzilla vs. mechagodzilla,
+series:godzilla vs. spacegodzilla,
+series:godzilla vs.king ghidorah,
+signature,
+species:kaiju,
+species:monster,
+species:robot,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+surrounded,
+title:japan defense force (jdf),
+title:japan defense force (jdf) by larry,
+uploader:godnaruto21,
+vehicle,
+weapon,
+when you see it,
+wreckage,
+year:2017,

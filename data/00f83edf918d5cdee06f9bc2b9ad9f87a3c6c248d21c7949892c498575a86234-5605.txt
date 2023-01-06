@@ -1,36 +1,36 @@
-aircraft
-battle
-breathing fire
-burning
-category:ine
-character:godzilla
-destruction
-embers
-energy
-explosion
-fire
-firing
-flame
-flaming sword
-flaming weapon
-kaijuu
-mecha
-military
-military vehicle
-missile
-molten rock
-monster
-muzzle flash
-rating:safe
-realistic
-science fiction
-smoke
-sparks
-subreddit:imaginarydragons
-subreddit:immonsters
-sunset
-title:mtg glorybringer by sam burley
-torch
-uploader:tamander
-war
-weapon
+aircraft,
+battle,
+breathing fire,
+burning,
+category:ine,
+character:godzilla,
+destruction,
+embers,
+energy,
+explosion,
+fire,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+kaijuu,
+mecha,
+military,
+military vehicle,
+missile,
+molten rock,
+monster,
+muzzle flash,
+rating:safe,
+realistic,
+science fiction,
+smoke,
+sparks,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sunset,
+title:mtg glorybringer by sam burley,
+torch,
+uploader:tamander,
+war,
+weapon,

@@ -1,21 +1,21 @@
-3d
-3d character
-3ds max
-3dsmax
-astronaut
-category:ine
-creator:luis alfonso antoranz ros
-laar
-medium:digital 3d
-photoshop
-science fiction
-space
-spaceman
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-subway
-title:spaceman
-title:spaceman by luis alfonso antoranz ros
-uploader:cptarius
-vray
-zbrush
+3d,
+3d character,
+3ds max,
+3dsmax,
+astronaut,
+category:ine,
+creator:luis alfonso antoranz ros,
+laar,
+medium:digital 3d,
+photoshop,
+science fiction,
+space,
+spaceman,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+subway,
+title:spaceman,
+title:spaceman by luis alfonso antoranz ros,
+uploader:cptarius,
+vray,
+zbrush,

@@ -1,58 +1,58 @@
-2018
-applejack
-assasinmonkey
-blonde hair
-bodily fluids
-booru:e621
-category:ine
-character:applejack
-character:applejack (mlp)
-close-up
-creator:assasinmonkey
-crying
-earth pony
-female
-floppy ears
-gender:female
-genre:fantasy
-green eyes
-hair
-mare
-medium:digital media
-meta:2018
-meta:digital media (artwork)
-mlpfim
-mylittleponyfriendshipismagic
-orange body
-outside
-rain
-raining
-rating:safe
-realistic
-sad
-safe
-series:friendship is magic
-series:mlp:generation 4
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-soft focus
-solo
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryfeels
-subreddit:immeta
-tears
-title:apply rain
-title:apply rain by myron c. p.
-uploader:myrandall
-water
-wet
-wet hair
-wet mane
-year:2018
+2018,
+applejack,
+assasinmonkey,
+blonde hair,
+bodily fluids,
+booru:e621,
+category:ine,
+character:applejack,
+character:applejack (mlp),
+close-up,
+creator:assasinmonkey,
+crying,
+earth pony,
+female,
+floppy ears,
+gender:female,
+genre:fantasy,
+green eyes,
+hair,
+mare,
+medium:digital media,
+meta:2018,
+meta:digital media (artwork),
+mlpfim,
+mylittleponyfriendshipismagic,
+orange body,
+outside,
+rain,
+raining,
+rating:safe,
+realistic,
+sad,
+safe,
+series:friendship is magic,
+series:mlp:generation 4,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+soft focus,
+solo,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+tears,
+title:apply rain,
+title:apply rain by myron c. p.,
+uploader:myrandall,
+water,
+wet,
+wet hair,
+wet mane,
+year:2018,

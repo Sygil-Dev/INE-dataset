@@ -1,27 +1,27 @@
-1boy
-armor
-artist name
-blonde hair
-cape
-forest
-full body
-grass
-holding
-holding sword
-male focus
-nature
-planted
-planted sword
-rating:safe
-realistic
-red cape
-solo
-standing
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-sword
-title:prince(2014) by 酉 钲
-tree
-uploader:[deleted]
-uploader:mostcertainlynsfw
-weapon
+1boy,
+armor,
+artist name,
+blonde hair,
+cape,
+forest,
+full body,
+grass,
+holding,
+holding sword,
+male focus,
+nature,
+planted,
+planted sword,
+rating:safe,
+realistic,
+red cape,
+solo,
+standing,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+sword,
+title:prince(2014) by 酉 钲,
+tree,
+uploader:[deleted],
+uploader:mostcertainlynsfw,
+weapon,

@@ -1,35 +1,35 @@
-1girl
-animal
-black cat
-blurry
-blurry background
-bracelet
-brown eyes
-brown hair
-cat
-category:ine
-dog
-jewelry
-long hair
-print shirt
-rating:safe
-saint quartz (fate)
-shirt
-short sleeves
-smile
-star (symbol)
-star earrings
-star hair ornament
-star necklace
-star pasties
-star print
-starfish
-starry background
-subreddit:imaginarypets
-subreddit:immeta
-t-shirt
-title:little helper by jimmy xia
-uploader:lol33ta
-upper body
-white shirt
-wristband
+1girl,
+animal,
+black cat,
+blurry,
+blurry background,
+bracelet,
+brown eyes,
+brown hair,
+cat,
+category:ine,
+dog,
+jewelry,
+long hair,
+print shirt,
+rating:safe,
+saint quartz (fate),
+shirt,
+short sleeves,
+smile,
+star (symbol),
+star earrings,
+star hair ornament,
+star necklace,
+star pasties,
+star print,
+starfish,
+starry background,
+subreddit:imaginarypets,
+subreddit:immeta,
+t-shirt,
+title:little helper by jimmy xia,
+uploader:lol33ta,
+upper body,
+white shirt,
+wristband,

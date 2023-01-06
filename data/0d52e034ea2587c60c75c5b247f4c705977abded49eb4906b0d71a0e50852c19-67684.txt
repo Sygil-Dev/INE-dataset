@@ -1,23 +1,23 @@
-1girl
-barefoot
-beard
-boots
-bow
-brown hair
-category:ine
-creator:dc9spot
-dress
-facial hair
-hair bow
-lion
-long hair
-rating:safe
-simple background
-standing
-subreddit:imaginarylovers
-subreddit:imcharacters
-title:beauty and the beast genderbend by dc9spot
-uploader:eunra
-white background
-yellow bow
-yellow dress
+1girl,
+barefoot,
+beard,
+boots,
+bow,
+brown hair,
+category:ine,
+creator:dc9spot,
+dress,
+facial hair,
+hair bow,
+lion,
+long hair,
+rating:safe,
+simple background,
+standing,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+title:beauty and the beast genderbend by dc9spot,
+uploader:eunra,
+white background,
+yellow bow,
+yellow dress,

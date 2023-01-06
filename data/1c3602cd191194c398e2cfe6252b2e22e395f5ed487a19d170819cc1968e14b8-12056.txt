@@ -1,21 +1,21 @@
-arrakis
-category:ine
-creator:jous croe
-dune
-dunemovie
-fanart
-frankherbert
-harvester
-medium:digital 2d
-movieposter
-muaddib
-sandworm
-scifi
-scifiart
-shaihulud
-spaceopera
-subreddit:imaginaryarrakis
-subreddit:imfandoms
-title:dune fanart
-title:dune fanart, jous croe
-uploader:jouscroe
+arrakis,
+category:ine,
+creator:jous croe,
+dune,
+dunemovie,
+fanart,
+frankherbert,
+harvester,
+medium:digital 2d,
+movieposter,
+muaddib,
+sandworm,
+scifi,
+scifiart,
+shaihulud,
+spaceopera,
+subreddit:imaginaryarrakis,
+subreddit:imfandoms,
+title:dune fanart,
+title:dune fanart, jous croe,
+uploader:jouscroe,

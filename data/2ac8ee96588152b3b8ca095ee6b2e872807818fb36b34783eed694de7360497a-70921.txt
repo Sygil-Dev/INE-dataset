@@ -1,21 +1,21 @@
-background
-category:ine
-creator:jp nik
-digital
-environment
-japan
-medium:digital 2d
-original
-painting
-scenery
-subreddit:imaginarypathways
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sunset
-title:re; shirakawa
-title:re; shirakawa by jp niko
-title:re; shirakawa by jp niko [x-post /r/imaginarypathways]
-title:shirakawa by jp nik
-uploader:lol33ta
-uploader:valar_m0rghul1s
-website:reddit
+background,
+category:ine,
+creator:jp nik,
+digital,
+environment,
+japan,
+medium:digital 2d,
+original,
+painting,
+scenery,
+subreddit:imaginarypathways,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sunset,
+title:re; shirakawa,
+title:re; shirakawa by jp niko,
+title:re; shirakawa by jp niko [x-post /r/imaginarypathways],
+title:shirakawa by jp nik,
+uploader:lol33ta,
+uploader:valar_m0rghul1s,
+website:reddit,

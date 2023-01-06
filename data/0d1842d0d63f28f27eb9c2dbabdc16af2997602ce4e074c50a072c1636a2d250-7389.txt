@@ -1,26 +1,26 @@
-aurora
-category:ine
-city lights
-cloud
-cloudy sky
-galaxy
-light particles
-milky way
-moon
-night
-night sky
-no humans
-rating:safe
-scenery
-shooting star
-sky
-space
-star (sky)
-starry sky
-subreddit:imaginarystarscapes
-subreddit:imlandscapes
-sunset
-title:formations by teun van der zalm
-tree
-twilight
-uploader:lol33ta
+aurora,
+category:ine,
+city lights,
+cloud,
+cloudy sky,
+galaxy,
+light particles,
+milky way,
+moon,
+night,
+night sky,
+no humans,
+rating:safe,
+scenery,
+shooting star,
+sky,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarystarscapes,
+subreddit:imlandscapes,
+sunset,
+title:formations by teun van der zalm,
+tree,
+twilight,
+uploader:lol33ta,

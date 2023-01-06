@@ -1,25 +1,25 @@
-behaviour
-category:ine
-creator:diego gisbert llorens
-creator:diegogisbertllorens
-diegogisbertllorens
-eternal crusade
-faction
-mad doc
-medium:digital 2d
-mmo
-orks
-series:eternal crusade
-series:warhammer 40,000
-stormboy
-studio:games workshop
-subreddit:imaginaryorcs
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-subreddit:imraces
-title:eternal crusade-orks
-title:eternal crusade-orks by diego gisbert llorens
-title:eternal crusade-orks, diego gisbert llorens
-uploader:adverserius
-uploader:lol33ta
-warhammer
+behaviour,
+category:ine,
+creator:diego gisbert llorens,
+creator:diegogisbertllorens,
+diegogisbertllorens,
+eternal crusade,
+faction,
+mad doc,
+medium:digital 2d,
+mmo,
+orks,
+series:eternal crusade,
+series:warhammer 40,000,
+stormboy,
+studio:games workshop,
+subreddit:imaginaryorcs,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+subreddit:imraces,
+title:eternal crusade-orks,
+title:eternal crusade-orks by diego gisbert llorens,
+title:eternal crusade-orks, diego gisbert llorens,
+uploader:adverserius,
+uploader:lol33ta,
+warhammer,

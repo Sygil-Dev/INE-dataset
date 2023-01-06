@@ -1,24 +1,24 @@
-armor
-blood
-blood on weapon
-blood splatter
-category:ine
-dual wielding
-gauntlets
-helmet
-holding
-holding sword
-holding weapon
-multiple boys
-rating:safe
-standing
-subreddit:imaginarybattlefields
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imlandscapes
-sword
-title:turning point by hugh pinder
-title:turning point by hugh pindur
-uploader:drunkindragon
-uploader:myrandall
-weapon
+armor,
+blood,
+blood on weapon,
+blood splatter,
+category:ine,
+dual wielding,
+gauntlets,
+helmet,
+holding,
+holding sword,
+holding weapon,
+multiple boys,
+rating:safe,
+standing,
+subreddit:imaginarybattlefields,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+sword,
+title:turning point by hugh pinder,
+title:turning point by hugh pindur,
+uploader:drunkindragon,
+uploader:myrandall,
+weapon,

@@ -1,23 +1,23 @@
-alaynadanner
-alaynalemmer
-basicland
-category:ine
-creator:alayna
-forest
-greenmana
-magic
-magicthegathering
-mana
-mtg
-plains
-subreddit:imaginarypathways
-subreddit:imaginarywildlands
-subreddit:imlandscapes
-swamp
-title:magic: the gathering plains for standard showdown m19, by alayna lemmer-danner
-title:magic: the gathering- plains for m19 standard
-title:magic: the gathering- plains for m19 standard by alayna lemmer-danner
-uploader:ethereeal
-uploader:fireflycities
-uploader:net-diver
-whitemana
+alaynadanner,
+alaynalemmer,
+basicland,
+category:ine,
+creator:alayna,
+forest,
+greenmana,
+magic,
+magicthegathering,
+mana,
+mtg,
+plains,
+subreddit:imaginarypathways,
+subreddit:imaginarywildlands,
+subreddit:imlandscapes,
+swamp,
+title:magic: the gathering plains for standard showdown m19, by alayna lemmer-danner,
+title:magic: the gathering- plains for m19 standard,
+title:magic: the gathering- plains for m19 standard by alayna lemmer-danner,
+uploader:ethereeal,
+uploader:fireflycities,
+uploader:net-diver,
+whitemana,

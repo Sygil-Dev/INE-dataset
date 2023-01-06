@@ -1,106 +1,106 @@
-1 female
-1girl
-armor
-armwear
-artist:dishwasher1910
-artstation
-bangs
-bare shoulders
-bent knees
-black footwear
-black gloves
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku
-booru:sankaku channel
-boots
-breasts
-category:ine
-character:pyrrha nikos
-clavicle
-cleavage
-clothing
-clothing:armor
-clothing:black footwear
-clothing:black gloves
-clothing:boots
-clothing:detached sleeves
-clothing:elbow gloves
-clothing:footwear
-clothing:gloves
-clothing:hair ornament
-clothing:hair tie
-clothing:leotard
-clothing:thigh-highs
-collarbone
-commentary
-creator:dishwasher1910
-detached sleeves
-elbow gloves
-english commentary
-exposed shoulders
-facing viewer
-female
-female only
-female solo
-firearm
-flowing hair
-footwear
-full body
-garrison cap
-gender:female
-gloves
-greaves
-green eyes
-gun
-hair ornament
-leg armor
-leotard
-long hair
-looking away
-medium:artist name
-medium:character name
-medium:fanart from deviantart
-medium:light background
-medium:simple background
-medium:text
-medium:white background
-meta:artist name
-meta:commentary
-meta:english commentary
-ponytail
-pyrrhanikos
-rating:general
-rating:s
-rating:safe
-red hair
-redhead
-rifle
-rwby
-rwby1000users入り
-rwbyroosterteeth
-series:artstation
-series:rwby
-shoulder armor
-sideways glance
-site:deviantart
-smile
-sniper rifle
-solo
-subreddit:imaginaryanime
-subreddit:imfandoms
-swept bangs
-thigh-highs
-thighhighs
-thighs
-tied hair
-title:"pyrrah nikos 3.0" by bach do (dishwasher1910)
-title:pyrrah nikos 3.0
-title:pyrrha nikos -rwby 3.0
-uploader:torvusil
-vambraces
-weapon
-wind
-レオタード
+1 female,
+1girl,
+armor,
+armwear,
+artist:dishwasher1910,
+artstation,
+bangs,
+bare shoulders,
+bent knees,
+black footwear,
+black gloves,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku,
+booru:sankaku channel,
+boots,
+breasts,
+category:ine,
+character:pyrrha nikos,
+clavicle,
+cleavage,
+clothing,
+clothing:armor,
+clothing:black footwear,
+clothing:black gloves,
+clothing:boots,
+clothing:detached sleeves,
+clothing:elbow gloves,
+clothing:footwear,
+clothing:gloves,
+clothing:hair ornament,
+clothing:hair tie,
+clothing:leotard,
+clothing:thigh-highs,
+collarbone,
+commentary,
+creator:dishwasher1910,
+detached sleeves,
+elbow gloves,
+english commentary,
+exposed shoulders,
+facing viewer,
+female,
+female only,
+female solo,
+firearm,
+flowing hair,
+footwear,
+full body,
+garrison cap,
+gender:female,
+gloves,
+greaves,
+green eyes,
+gun,
+hair ornament,
+leg armor,
+leotard,
+long hair,
+looking away,
+medium:artist name,
+medium:character name,
+medium:fanart from deviantart,
+medium:light background,
+medium:simple background,
+medium:text,
+medium:white background,
+meta:artist name,
+meta:commentary,
+meta:english commentary,
+ponytail,
+pyrrhanikos,
+rating:general,
+rating:s,
+rating:safe,
+red hair,
+redhead,
+rifle,
+rwby,
+rwby1000users入り,
+rwbyroosterteeth,
+series:artstation,
+series:rwby,
+shoulder armor,
+sideways glance,
+site:deviantart,
+smile,
+sniper rifle,
+solo,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+swept bangs,
+thigh-highs,
+thighhighs,
+thighs,
+tied hair,
+title:"pyrrah nikos 3.0" by bach do (dishwasher1910),
+title:pyrrah nikos 3.0,
+title:pyrrha nikos -rwby 3.0,
+uploader:torvusil,
+vambraces,
+weapon,
+wind,
+レオタード,

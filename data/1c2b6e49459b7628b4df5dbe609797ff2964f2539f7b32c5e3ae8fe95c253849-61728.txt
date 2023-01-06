@@ -1,24 +1,24 @@
-art
-asian
-category:ine
-creator:daniel ignacio
-genre:cyberpunk
-genre:science fiction
-genre:steampunk
-hongkong
-impressionism
-japan
-korea
-medium:concept art
-medium:digital 2d
-medium:digital media
-painting
-philippines
-singapore
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-taiwan
-thailand
-title:easy, wild stranger
-title:easy, wild stranger by daniel ignacio
-uploader:crowe410
+art,
+asian,
+category:ine,
+creator:daniel ignacio,
+genre:cyberpunk,
+genre:science fiction,
+genre:steampunk,
+hongkong,
+impressionism,
+japan,
+korea,
+medium:concept art,
+medium:digital 2d,
+medium:digital media,
+painting,
+philippines,
+singapore,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+taiwan,
+thailand,
+title:easy, wild stranger,
+title:easy, wild stranger by daniel ignacio,
+uploader:crowe410,

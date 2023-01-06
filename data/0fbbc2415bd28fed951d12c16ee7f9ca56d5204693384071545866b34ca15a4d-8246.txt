@@ -1,71 +1,71 @@
-1 female
-1girl
-artist:guweiz
-black legwear
-black shirt
-black skirt
-black thighhighs
-blinds
-book
-bookshelf
-booru:sankaku channel
-building
-category:ine
-cellphone
-city
-city lights
-cityscape
-clothing:footwear
-clothing:legwear
-clothing:thigh-highs
-copyright:original
-creator:guweiz
-dangling
-facing away
-female
-flip phone
-foot dangle
-footwear
-from behind
-gender:female
-grey sky
-holding
-holding object
-holding phone
-loafers
-long sleeves
-meta:commentary request
-meta:photoshop (medium)
-night
-outdoors
-outside
-phone
-plant
-potted plant
-rating:mature
-rating:safe
-rating:sensitive
-series:original
-shirt
-shoes
-short hair
-skirt
-sky
-skyscraper
-slip-on shoes
-solo
-species:human
-species:mammal
-species:primate
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-thigh-highs
-thighhighs
-thighs
-title:skyline
-title:skyline by guweiz
-uploader:malign-god
-wide shot
-window
-window blinds
-zettai ryouiki
+1 female,
+1girl,
+artist:guweiz,
+black legwear,
+black shirt,
+black skirt,
+black thighhighs,
+blinds,
+book,
+bookshelf,
+booru:sankaku channel,
+building,
+category:ine,
+cellphone,
+city,
+city lights,
+cityscape,
+clothing:footwear,
+clothing:legwear,
+clothing:thigh-highs,
+copyright:original,
+creator:guweiz,
+dangling,
+facing away,
+female,
+flip phone,
+foot dangle,
+footwear,
+from behind,
+gender:female,
+grey sky,
+holding,
+holding object,
+holding phone,
+loafers,
+long sleeves,
+meta:commentary request,
+meta:photoshop (medium),
+night,
+outdoors,
+outside,
+phone,
+plant,
+potted plant,
+rating:mature,
+rating:safe,
+rating:sensitive,
+series:original,
+shirt,
+shoes,
+short hair,
+skirt,
+sky,
+skyscraper,
+slip-on shoes,
+solo,
+species:human,
+species:mammal,
+species:primate,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+thigh-highs,
+thighhighs,
+thighs,
+title:skyline,
+title:skyline by guweiz,
+uploader:malign-god,
+wide shot,
+window,
+window blinds,
+zettai ryouiki,

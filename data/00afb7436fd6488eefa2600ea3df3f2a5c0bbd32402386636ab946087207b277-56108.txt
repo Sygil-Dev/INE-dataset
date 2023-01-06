@@ -1,30 +1,30 @@
-art
-atmosphere
-category:ine
-concept
-concept art
-creator:jakub rozalski
-digital painting
-dog
-fantasy
-genre:fantasy
-gnome
-illustration
-medium:concept art
-medium:digital 2d
-mood
-painting
-species:canine
-species:dog
-species:gnome
-species:mammal
-species:mythical
-subreddit:imaginarygnomes
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-subreddit:imraces
-title:wanderer
-title:wanderers by jakub rozalski
-title:wanderers by jakub rozalski [x-post /r/imaginarygnomes]
-uploader:valar_m0rghul1s
-winter
+art,
+atmosphere,
+category:ine,
+concept,
+concept art,
+creator:jakub rozalski,
+digital painting,
+dog,
+fantasy,
+genre:fantasy,
+gnome,
+illustration,
+medium:concept art,
+medium:digital 2d,
+mood,
+painting,
+species:canine,
+species:dog,
+species:gnome,
+species:mammal,
+species:mythical,
+subreddit:imaginarygnomes,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+subreddit:imraces,
+title:wanderer,
+title:wanderers by jakub rozalski,
+title:wanderers by jakub rozalski [x-post /r/imaginarygnomes],
+uploader:valar_m0rghul1s,
+winter,

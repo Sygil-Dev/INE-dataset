@@ -1,57 +1,57 @@
-1 female
-1girl
-ahoge
-artist:coraman
-black cat
-book
-bookshelf
-bottle
-brown hair
-cage
-candle
-cat
-category:ine
-clothing:gloves
-copyright:original
-coraman
-creator:coraman
-cupboard
-desk
-eyeball
-fantasy
-from above
-gender:female
-genre:fantasy
-globe
-gloves
-incense
-indoors
-inside
-jar
-magic
-medium:absurd resolution
-medium:high resolution
-meta:absurdres
-meta:bad id
-meta:bad pixiv id
-meta:highres
-mushroom
-open book
-paper
-quill
-rating:safe
-scenery
-series:original
-sitting
-skeleton
-solo
-species:cat
-species:feline
-species:mammal
-spill
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-test tube
-test tube rack
-title:wizard's holiday by [濱田イト]
-uploader:ethan_kahn
+1 female,
+1girl,
+ahoge,
+artist:coraman,
+black cat,
+book,
+bookshelf,
+bottle,
+brown hair,
+cage,
+candle,
+cat,
+category:ine,
+clothing:gloves,
+copyright:original,
+coraman,
+creator:coraman,
+cupboard,
+desk,
+eyeball,
+fantasy,
+from above,
+gender:female,
+genre:fantasy,
+globe,
+gloves,
+incense,
+indoors,
+inside,
+jar,
+magic,
+medium:absurd resolution,
+medium:high resolution,
+meta:absurdres,
+meta:bad id,
+meta:bad pixiv id,
+meta:highres,
+mushroom,
+open book,
+paper,
+quill,
+rating:safe,
+scenery,
+series:original,
+sitting,
+skeleton,
+solo,
+species:cat,
+species:feline,
+species:mammal,
+spill,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+test tube,
+test tube rack,
+title:wizard's holiday by [濱田イト],
+uploader:ethan_kahn,

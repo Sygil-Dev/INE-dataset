@@ -1,35 +1,35 @@
-bird
-black border
-bridge
-building
-category:ine
-city
-city lights
-cityscape
-cloud
-cloudy sky
-creator:llirik-13
-evening
-horizon
-lake
-landscape
-letterboxed
-long hair
-mountain
-mountainous horizon
-ocean
-orange sky
-outdoors
-pillarboxed
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarydeserts
-subreddit:imnature
-sunset
-title:83
-title:83 by kirill khrol
-twilight
-uploader:fireflycities
-water
+bird,
+black border,
+bridge,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+creator:llirik-13,
+evening,
+horizon,
+lake,
+landscape,
+letterboxed,
+long hair,
+mountain,
+mountainous horizon,
+ocean,
+orange sky,
+outdoors,
+pillarboxed,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+sunset,
+title:83,
+title:83 by kirill khrol,
+twilight,
+uploader:fireflycities,
+water,

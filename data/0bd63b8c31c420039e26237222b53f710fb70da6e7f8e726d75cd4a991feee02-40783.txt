@@ -1,25 +1,25 @@
-1girl
-armor
-blue eyes
-boots
-category:ine
-character:princess zelda
-creator:wood-illustration
-dark-skinned female
-earrings
-elf
-full body
-glowing
-glowing eyes
-jewelry
-long hair
-magic
-pointy ears
-rating:safe
-solo
-standing
-subreddit:imaginarygoblins
-subreddit:imraces
-title:goblin
-title:goblin by stephen wood
-uploader:lol33ta
+1girl,
+armor,
+blue eyes,
+boots,
+category:ine,
+character:princess zelda,
+creator:wood-illustration,
+dark-skinned female,
+earrings,
+elf,
+full body,
+glowing,
+glowing eyes,
+jewelry,
+long hair,
+magic,
+pointy ears,
+rating:safe,
+solo,
+standing,
+subreddit:imaginarygoblins,
+subreddit:imraces,
+title:goblin,
+title:goblin by stephen wood,
+uploader:lol33ta,

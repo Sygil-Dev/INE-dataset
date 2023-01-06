@@ -1,21 +1,21 @@
-1girl
-bird
-category:ine
-cloud
-cloudy sky
-crow
-long hair
-outdoors
-rating:safe
-scenery
-seagull
-sky
-solo
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-sunset
-thighhighs
-title:the army of one by pavel kolomeyets.
-twilight
-uploader:[deleted]
-uploader:ethan_kahn
+1girl,
+bird,
+category:ine,
+cloud,
+cloudy sky,
+crow,
+long hair,
+outdoors,
+rating:safe,
+scenery,
+seagull,
+sky,
+solo,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+sunset,
+thighhighs,
+title:the army of one by pavel kolomeyets.,
+twilight,
+uploader:[deleted],
+uploader:ethan_kahn,

@@ -1,22 +1,22 @@
-armor
-arrow (projectile)
-battle
-blonde hair
-bow (weapon)
-category:ine
-forest
-grass
-holding
-holding bow (weapon)
-holding weapon
-long hair
-nature
-rating:safe
-signature
-subreddit:imaginaryarchers
-subreddit:imaginarymythology
-subreddit:imcharacters
-sword
-title:centaur archer by rod luper
-uploader:o_no_my_buttholes
-weapon
+armor,
+arrow (projectile),
+battle,
+blonde hair,
+bow (weapon),
+category:ine,
+forest,
+grass,
+holding,
+holding bow (weapon),
+holding weapon,
+long hair,
+nature,
+rating:safe,
+signature,
+subreddit:imaginaryarchers,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+sword,
+title:centaur archer by rod luper,
+uploader:o_no_my_buttholes,
+weapon,

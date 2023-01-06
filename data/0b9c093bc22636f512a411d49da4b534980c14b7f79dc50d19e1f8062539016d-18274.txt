@@ -1,23 +1,23 @@
-blue sky
-category:ine
-cloud
-cloudy sky
-day
-dragon
-fantasy
-horizon
-ice
-landscape
-mountain
-mountainous horizon
-outdoors
-rating:safe
-scenery
-sky
-snow
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-title:frozen by godwin akpan
-uploader:[deleted]
-uploader:faeryknight
-water
+blue sky,
+category:ine,
+cloud,
+cloudy sky,
+day,
+dragon,
+fantasy,
+horizon,
+ice,
+landscape,
+mountain,
+mountainous horizon,
+outdoors,
+rating:safe,
+scenery,
+sky,
+snow,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+title:frozen by godwin akpan,
+uploader:[deleted],
+uploader:faeryknight,
+water,

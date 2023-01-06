@@ -1,22 +1,22 @@
-aircraft
-airplane
-category:ine
-creator:pablo dominguez
-fighter jet
-jet
-mecha
-medium:digital 2d
-military
-military vehicle
-ocean
-pilot
-pilot suit
-rating:safe
-realistic
-science fiction
-signature
-subreddit:imaginaryaviation
-subreddit:imtechnology
-title:vr sketches
-title:vr sketches by pablo dominguez
-uploader:net-diver
+aircraft,
+airplane,
+category:ine,
+creator:pablo dominguez,
+fighter jet,
+jet,
+mecha,
+medium:digital 2d,
+military,
+military vehicle,
+ocean,
+pilot,
+pilot suit,
+rating:safe,
+realistic,
+science fiction,
+signature,
+subreddit:imaginaryaviation,
+subreddit:imtechnology,
+title:vr sketches,
+title:vr sketches by pablo dominguez,
+uploader:net-diver,

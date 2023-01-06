@@ -1,28 +1,28 @@
-animal
-architecture
-bookshelf
-bridge
-building
-castle
-category:ine
-city
-city lights
-cityscape
-giant
-house
-no humans
-outdoors
-oversized animal
-rating:safe
-scenery
-sky
-skyscraper
-street
-subreddit:imaginaryleviathans
-subreddit:immonsters
-title:chill at 5:25 - shuichi nakano
-tower
-town
-tree
-uploader:zen_enchiladas
-watercraft
+animal,
+architecture,
+bookshelf,
+bridge,
+building,
+castle,
+category:ine,
+city,
+city lights,
+cityscape,
+giant,
+house,
+no humans,
+outdoors,
+oversized animal,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+street,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+title:chill at 5:25 - shuichi nakano,
+tower,
+town,
+tree,
+uploader:zen_enchiladas,
+watercraft,

@@ -1,26 +1,26 @@
-aircraft
-battle
-beach
-category:ine
-damaged
-dated
-firing
-helicopter
-mecha
-military
-military vehicle
-ocean
-rating:safe
-realistic
-sand
-science fiction
-signature
-space craft
-subreddit:imaginarybattlefields
-subreddit:imaginaryhistory
-subreddit:imlandscapes
-subreddit:immeta
-title:my painting of aerial combat ww2, acrylic on canvas, 16x20.
-uploader:wonderlandonacid
-water
-watercraft
+aircraft,
+battle,
+beach,
+category:ine,
+damaged,
+dated,
+firing,
+helicopter,
+mecha,
+military,
+military vehicle,
+ocean,
+rating:safe,
+realistic,
+sand,
+science fiction,
+signature,
+space craft,
+subreddit:imaginarybattlefields,
+subreddit:imaginaryhistory,
+subreddit:imlandscapes,
+subreddit:immeta,
+title:my painting of aerial combat ww2, acrylic on canvas, 16x20.,
+uploader:wonderlandonacid,
+water,
+watercraft,

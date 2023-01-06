@@ -1,49 +1,49 @@
-2013
-ambiguous gender
-anthro
-anthropomorphism
-arena
-armor
-booru:e621
-category:ine
-chibi
-clothing:armor
-creator:silverfox5213
-dragon
-fire
-furry
-gender:ambiguous
-holding
-holding object
-holding sword
-holding weapon
-melee weapon
-meta:2013
-outside
-penguin
-rating:safe
-shield
-solo
-source:furaffinity.net
-species:avian
-species:bird
-species:crested penguin
-species:dragon
-species:mythical
-species:penguin
-species:rockhopper penguin
-species:royal penguin
-species:scalie
-subreddit:imaginaryanimals
-subreddit:imaginaryaww
-subreddit:immeta
-subreddit:imnature
-sword
-title:penguin warrior (advance)
-title:penguin warrior (advance) by 'silverfox5213'
-title:penguin warrior (advance) by silverfox5213
-uploader:lol33ta
-uploader:myrandall
-warrior
-weapon
-year:2013
+2013,
+ambiguous gender,
+anthro,
+anthropomorphism,
+arena,
+armor,
+booru:e621,
+category:ine,
+chibi,
+clothing:armor,
+creator:silverfox5213,
+dragon,
+fire,
+furry,
+gender:ambiguous,
+holding,
+holding object,
+holding sword,
+holding weapon,
+melee weapon,
+meta:2013,
+outside,
+penguin,
+rating:safe,
+shield,
+solo,
+source:furaffinity.net,
+species:avian,
+species:bird,
+species:crested penguin,
+species:dragon,
+species:mythical,
+species:penguin,
+species:rockhopper penguin,
+species:royal penguin,
+species:scalie,
+subreddit:imaginaryanimals,
+subreddit:imaginaryaww,
+subreddit:immeta,
+subreddit:imnature,
+sword,
+title:penguin warrior (advance),
+title:penguin warrior (advance) by 'silverfox5213',
+title:penguin warrior (advance) by silverfox5213,
+uploader:lol33ta,
+uploader:myrandall,
+warrior,
+weapon,
+year:2013,

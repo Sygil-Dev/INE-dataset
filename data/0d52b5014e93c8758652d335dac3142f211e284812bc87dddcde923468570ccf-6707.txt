@@ -1,21 +1,21 @@
-1girl
-::d
-aqua eyes
-blue eyes
-category:ine
-curly hair
-hairband
-long hair
-open mouth
-rating:safe
-riding
-smile
-subreddit:imaginaryaww
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immeta
-title:"ninetails" by filipe capra
-title:ninetails by filipe capra
-uploader:lol33ta
-uploader:torvusil
-very long hair
+1girl,
+::d,
+aqua eyes,
+blue eyes,
+category:ine,
+curly hair,
+hairband,
+long hair,
+open mouth,
+rating:safe,
+riding,
+smile,
+subreddit:imaginaryaww,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immeta,
+title:"ninetails" by filipe capra,
+title:ninetails by filipe capra,
+uploader:lol33ta,
+uploader:torvusil,
+very long hair,

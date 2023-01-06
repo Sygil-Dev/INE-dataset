@@ -1,23 +1,23 @@
-air bubble
-animal
-blue theme
-boat
-bubble
-category:ine
-caustics
-monster
-ocean
-open mouth
-pool
-rating:safe
-realistic
-sharp teeth
-signature
-subreddit:imaginarywtf
-subreddit:imnsfw
-teeth
-title:soleares by zal artworks
-underwater
-uploader:lol33ta
-water
-watercraft
+air bubble,
+animal,
+blue theme,
+boat,
+bubble,
+category:ine,
+caustics,
+monster,
+ocean,
+open mouth,
+pool,
+rating:safe,
+realistic,
+sharp teeth,
+signature,
+subreddit:imaginarywtf,
+subreddit:imnsfw,
+teeth,
+title:soleares by zal artworks,
+underwater,
+uploader:lol33ta,
+water,
+watercraft,

@@ -1,62 +1,62 @@
-2019
-artist:vanillaghosties
-category:ine
-changeling
-character:queen chrysalis
-character:queen chrysalis (idw)
-character:queen_chrysalis_(idw)
-clothing
-clothing:eyewear
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:idw_publishing
-copyright:my_little_pony
-copyright:my_little_pony_(idw)
-creator:vanillaghosties
-crown
-cute
-eyewear
-female
-feral
-gender:female
-genre:fantasy
-glasses
-green eyes
-green hair
-green_eyes
-green_hair
-hair
-hi res
-idw
-insect wings
-insect_wings
-medium:high resolution
-meta:2019
-meta:hi res
-meta:hi_res
-pupils
-rating:safe
-reversalis
-safe
-series:friendship is magic
-series:hasbro
-series:idw publishing
-series:my little pony
-series:my little pony (idw)
-series:my little pony friendship is magic
-slippers
-slit pupils
-slit_pupils
-solo
-species:arthropod
-species:changeling
-species:non-human animal
-spoiler:comic
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"reversalis" by vanillaghosties
-title:reversalis
-uploader:torvusil
-vanillaghosties
-wings
+2019,
+artist:vanillaghosties,
+category:ine,
+changeling,
+character:queen chrysalis,
+character:queen chrysalis (idw),
+character:queen_chrysalis_(idw),
+clothing,
+clothing:eyewear,
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:idw_publishing,
+copyright:my_little_pony,
+copyright:my_little_pony_(idw),
+creator:vanillaghosties,
+crown,
+cute,
+eyewear,
+female,
+feral,
+gender:female,
+genre:fantasy,
+glasses,
+green eyes,
+green hair,
+green_eyes,
+green_hair,
+hair,
+hi res,
+idw,
+insect wings,
+insect_wings,
+medium:high resolution,
+meta:2019,
+meta:hi res,
+meta:hi_res,
+pupils,
+rating:safe,
+reversalis,
+safe,
+series:friendship is magic,
+series:hasbro,
+series:idw publishing,
+series:my little pony,
+series:my little pony (idw),
+series:my little pony friendship is magic,
+slippers,
+slit pupils,
+slit_pupils,
+solo,
+species:arthropod,
+species:changeling,
+species:non-human animal,
+spoiler:comic,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"reversalis" by vanillaghosties,
+title:reversalis,
+uploader:torvusil,
+vanillaghosties,
+wings,
