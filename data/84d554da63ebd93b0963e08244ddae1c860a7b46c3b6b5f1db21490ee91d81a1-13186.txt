@@ -1,45 +1,45 @@
-2018
-ambiguous gender
-black body
-black fur
-blue body
-blue fur
-booru:e621
-category:ine
-chibi
-creator:kenket
-fur
-gender:ambiguous
-ketsketch
-lucario
-medium:traditional media
-meta:2018
-meta:traditional media (artwork)
-painting
-pokemon
-pokemonfanart
-pokemonpainting
-red eyes
-riolu
-riolulucario
-riolupokemon
-series:nintendo
-series:pokémon
-solo
-source type:game
-species:canid
-species:canine
-species:mammal
-species:monster
-species:pokémon
-species:pokémon (species)
-species:riolu
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:riolu
-title:riolu by tess garman
-uploader:myrandall
-video games
-whiskers
-year:2018
+2018,
+ambiguous gender,
+black body,
+black fur,
+blue body,
+blue fur,
+booru:e621,
+category:ine,
+chibi,
+creator:kenket,
+fur,
+gender:ambiguous,
+ketsketch,
+lucario,
+medium:traditional media,
+meta:2018,
+meta:traditional media (artwork),
+painting,
+pokemon,
+pokemonfanart,
+pokemonpainting,
+red eyes,
+riolu,
+riolulucario,
+riolupokemon,
+series:nintendo,
+series:pokémon,
+solo,
+source type:game,
+species:canid,
+species:canine,
+species:mammal,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:riolu,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:riolu,
+title:riolu by tess garman,
+uploader:myrandall,
+video games,
+whiskers,
+year:2018,

@@ -1,25 +1,25 @@
-and
-category:ine
-colors
-creator:bjpentecost
-creator:silverone
-dang
-fruity
-her
-monster
-one
-silver
-source:furaffinity.net
-species:centaur
-species:equine
-species:mammal
-species:zebra
-subreddit:imaginarybeasts
-subreddit:imaginarycentaurs
-subreddit:immonsters
-subreddit:imraces
-title:centaur in the gemstone forest
-title:chorevontas by bobbie jean pentecost
-title:chorévontas
-typical
-uploader:myrandall
+and,
+category:ine,
+colors,
+creator:bjpentecost,
+creator:silverone,
+dang,
+fruity,
+her,
+monster,
+one,
+silver,
+source:furaffinity.net,
+species:centaur,
+species:equine,
+species:mammal,
+species:zebra,
+subreddit:imaginarybeasts,
+subreddit:imaginarycentaurs,
+subreddit:immonsters,
+subreddit:imraces,
+title:centaur in the gemstone forest,
+title:chorevontas by bobbie jean pentecost,
+title:chorévontas,
+typical,
+uploader:myrandall,

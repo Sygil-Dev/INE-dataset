@@ -1,20 +1,20 @@
-category:ine
-creator:laura sava
-dragon
-elf
-guro
-illustration
-medium:digital 2d
-meta:nsfw
-rating:explicit
-subreddit:imaginaryelves
-subreddit:imaginaryfashion
-subreddit:immeta
-subreddit:imraces
-title:calatona by laura sava
-title:legend of the cryptids - calatona
-title:legend of the cryptids - calatona by laura sava
-uploader:e-leventy
-uploader:lol33ta
-warrior
-woman
+category:ine,
+creator:laura sava,
+dragon,
+elf,
+guro,
+illustration,
+medium:digital 2d,
+meta:nsfw,
+rating:explicit,
+subreddit:imaginaryelves,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+subreddit:imraces,
+title:calatona by laura sava,
+title:legend of the cryptids - calatona,
+title:legend of the cryptids - calatona by laura sava,
+uploader:e-leventy,
+uploader:lol33ta,
+warrior,
+woman,

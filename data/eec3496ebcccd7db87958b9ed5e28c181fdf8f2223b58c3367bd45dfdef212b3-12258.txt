@@ -1,42 +1,42 @@
-00s
-2 males
-booru:safebooru
-category:ine
-character:aggron
-character:mikuri (pokemon)
-character:tsuwabuki daigo
-clothing:jewelry
-creator:yuuichi (bobobo)
-gen 1 pokemon
-gen 2 pokemon
-gen 3 pokemon
-gender:male
-green hair
-jewelry
-male focus
-medium:focus on male character
-medium:traditional media
-medium:watercolor
-meta:traditional media
-multiple boys
-multiple males
-pokemon (creature)
-rating:safe
-ring
-series:pokemon
-series:pokemon (game)
-series:pokemon ruby sapphire & emerald
-series:pokémon
-series:pokémon ruby sapphire & emerald
-silver hair
-species:aggron
-species:milotic
-species:monster
-species:pokemon
-species:pokémon
-species:seaking
-species:skarmory
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:let's begin by 祐壱
+00s,
+2 males,
+booru:safebooru,
+category:ine,
+character:aggron,
+character:mikuri (pokemon),
+character:tsuwabuki daigo,
+clothing:jewelry,
+creator:yuuichi (bobobo),
+gen 1 pokemon,
+gen 2 pokemon,
+gen 3 pokemon,
+gender:male,
+green hair,
+jewelry,
+male focus,
+medium:focus on male character,
+medium:traditional media,
+medium:watercolor,
+meta:traditional media,
+multiple boys,
+multiple males,
+pokemon (creature),
+rating:safe,
+ring,
+series:pokemon,
+series:pokemon (game),
+series:pokemon ruby sapphire & emerald,
+series:pokémon,
+series:pokémon ruby sapphire & emerald,
+silver hair,
+species:aggron,
+species:milotic,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:seaking,
+species:skarmory,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:let's begin by 祐壱,

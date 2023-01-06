@@ -1,70 +1,70 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-bivalve
-black eyes
-black_eyes
-bodypart:black eyes
-broom
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-character:harry james potter
-character:harry potter (character)
-character:harry_potter_(character)
-clam
-cleaning tool
-clothing:eyewear
-clothing:glasses
-clothing:scarf
-cloud
-copyright:harry_potter
-creator:cryptid-creations
-english text
-eyewear
-feral
-fur
-gender:ambiguous
-gender:male
-golden snitch
-golden_snitch
-humor
-language:english
-male:1
-marine
-medium:english text
-medium:text
-meme:humor
-meta:2017
-meta:english text
-meta:english_text
-pun
-rating:safe
-scarf
-series:harry potter
-shell
-sky
-solo
-species:bivalve
-species:clam
-species:lutrine
-species:mammal
-species:marine
-species:mollusc
-species:mollusk
-species:mustelid
-species:otter
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-text
-title:daily painting 1697# harry otter
-title:harry otter by piper thibodeau
-uploader:myrandall
-white body
-white fur
-white_body
-white_fur
-wings
-year:2017
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+bivalve,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+broom,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+character:harry james potter,
+character:harry potter (character),
+character:harry_potter_(character),
+clam,
+cleaning tool,
+clothing:eyewear,
+clothing:glasses,
+clothing:scarf,
+cloud,
+copyright:harry_potter,
+creator:cryptid-creations,
+english text,
+eyewear,
+feral,
+fur,
+gender:ambiguous,
+gender:male,
+golden snitch,
+golden_snitch,
+humor,
+language:english,
+male:1,
+marine,
+medium:english text,
+medium:text,
+meme:humor,
+meta:2017,
+meta:english text,
+meta:english_text,
+pun,
+rating:safe,
+scarf,
+series:harry potter,
+shell,
+sky,
+solo,
+species:bivalve,
+species:clam,
+species:lutrine,
+species:mammal,
+species:marine,
+species:mollusc,
+species:mollusk,
+species:mustelid,
+species:otter,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+text,
+title:daily painting 1697# harry otter,
+title:harry otter by piper thibodeau,
+uploader:myrandall,
+white body,
+white fur,
+white_body,
+white_fur,
+wings,
+year:2017,

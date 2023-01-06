@@ -1,22 +1,22 @@
-category:ine
-creator:twarda
-creator:twarda8
-creepy
-embryo
-fetus
-freak
-game
-gen 1 pokemon
-life
-psychic
-realistic
-revamp
-series:pokémon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:realistic mew
-title:realistic mew by karolina twardosz
-twarda
-twarda8
-uploader:o_no_my_buttholes
+category:ine,
+creator:twarda,
+creator:twarda8,
+creepy,
+embryo,
+fetus,
+freak,
+game,
+gen 1 pokemon,
+life,
+psychic,
+realistic,
+revamp,
+series:pokémon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:realistic mew,
+title:realistic mew by karolina twardosz,
+twarda,
+twarda8,
+uploader:o_no_my_buttholes,

@@ -1,36 +1,36 @@
-artstation
-barbarian
-category:ine
-character
-character design
-creator:conor burke
-creature
-creature design
-demon
-design
-fantasy
-fire
-flame
-heat
-horror
-hot
-knight
-medium:digital 2d
-samurai
-skeleton
-sketch
-sketches
-skull
-speedpaint
-spitpaint
-subreddit:imaginarydemons
-subreddit:imaginaryundead
-subreddit:immonsters
-title:fire warriors
-title:fire warriors by conor burke
-title:fire warriors, conor burke, at www.artstation.com - i wouldn't suggest they're not demons.
-uploader:knighterrannt
-uploader:nikephoros_ii_phokas
-viking
-warrior
-zombie
+artstation,
+barbarian,
+category:ine,
+character,
+character design,
+creator:conor burke,
+creature,
+creature design,
+demon,
+design,
+fantasy,
+fire,
+flame,
+heat,
+horror,
+hot,
+knight,
+medium:digital 2d,
+samurai,
+skeleton,
+sketch,
+sketches,
+skull,
+speedpaint,
+spitpaint,
+subreddit:imaginarydemons,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+title:fire warriors,
+title:fire warriors by conor burke,
+title:fire warriors, conor burke, at www.artstation.com - i wouldn't suggest they're not demons.,
+uploader:knighterrannt,
+uploader:nikephoros_ii_phokas,
+viking,
+warrior,
+zombie,

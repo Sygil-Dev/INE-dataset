@@ -1,22 +1,22 @@
-1girl
-bandaid on nose
-bare shoulders
-category:ine
-glasses
-glowing
-headphones
-lips
-long hair
-looking at viewer
-male focus
-nose
-rating:safe
-realistic
-red eyes
-sleeveless
-solo
-subreddit:imaginarycybernetics
-subreddit:imaginarycyberpunk
-subreddit:imtechnology
-title:punk by kasita dw
-uploader:panzer-kunst
+1girl,
+bandaid on nose,
+bare shoulders,
+category:ine,
+glasses,
+glowing,
+headphones,
+lips,
+long hair,
+looking at viewer,
+male focus,
+nose,
+rating:safe,
+realistic,
+red eyes,
+sleeveless,
+solo,
+subreddit:imaginarycybernetics,
+subreddit:imaginarycyberpunk,
+subreddit:imtechnology,
+title:punk by kasita dw,
+uploader:panzer-kunst,

@@ -1,24 +1,24 @@
-1other
-animal
-armor
-bird
-breastplate
-category:ine
-crow
-faulds
-full armor
-gauntlets
-helmet
-holding
-holding sword
-holding weapon
-pauldrons
-rating:safe
-shoulder armor
-standing
-subreddit:imaginaryundead
-subreddit:immonsters
-sword
-title:grave watchers by elias ravanetti
-uploader:adverserius
-weapon
+1other,
+animal,
+armor,
+bird,
+breastplate,
+category:ine,
+crow,
+faulds,
+full armor,
+gauntlets,
+helmet,
+holding,
+holding sword,
+holding weapon,
+pauldrons,
+rating:safe,
+shoulder armor,
+standing,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+sword,
+title:grave watchers by elias ravanetti,
+uploader:adverserius,
+weapon,

@@ -1,23 +1,23 @@
-category:ine
-concept
-conceptart
-creator:michal kus
-demo
-design
-digital
-education
-focalpointschool
-linedrawing
-medium:digital 2d
-medium:digital media
-rendering
-school
-subreddit:imaginaryaviation
-subreddit:imaginarystarships
-subreddit:imtechnology
-title:zroka - exploration craft
-title:zroka - exploration craft by michal kus
-title:zroka exploration craft by michal kus
-uploader:journey_951
-uploader:net-diver
-vehicle
+category:ine,
+concept,
+conceptart,
+creator:michal kus,
+demo,
+design,
+digital,
+education,
+focalpointschool,
+linedrawing,
+medium:digital 2d,
+medium:digital media,
+rendering,
+school,
+subreddit:imaginaryaviation,
+subreddit:imaginarystarships,
+subreddit:imtechnology,
+title:zroka - exploration craft,
+title:zroka - exploration craft by michal kus,
+title:zroka exploration craft by michal kus,
+uploader:journey_951,
+uploader:net-diver,
+vehicle,

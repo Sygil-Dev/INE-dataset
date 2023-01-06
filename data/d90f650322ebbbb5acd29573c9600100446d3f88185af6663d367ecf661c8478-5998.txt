@@ -1,34 +1,34 @@
-ambiguous gender
-booru:e621
-category:ine
-cloud
-creator:sandara
-fire
-fur
-furry
-gender:ambiguous
-outside
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-sky
-solo
-species:dragon
-species:furred dragon
-species:kyurem
-species:legendary pokémon
-species:monster
-species:mythical
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:scalie
-species:white kyurem
-studio:nintendo
-subreddit:imaginarydragons
-subreddit:immonsters
-title:kyurem white by sandara
-title:white kyurem
-uploader:optimusprime1313
-video games
+ambiguous gender,
+booru:e621,
+category:ine,
+cloud,
+creator:sandara,
+fire,
+fur,
+furry,
+gender:ambiguous,
+outside,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+sky,
+solo,
+species:dragon,
+species:furred dragon,
+species:kyurem,
+species:legendary pokémon,
+species:monster,
+species:mythical,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:scalie,
+species:white kyurem,
+studio:nintendo,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:kyurem white by sandara,
+title:white kyurem,
+uploader:optimusprime1313,
+video games,

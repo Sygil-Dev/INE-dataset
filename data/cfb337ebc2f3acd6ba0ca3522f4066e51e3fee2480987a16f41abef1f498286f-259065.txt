@@ -1,49 +1,49 @@
-ambiguous gender
-booru:e621
-brown body
-brown eyes
-brown fur
-bust portrait
-category:ine
-character:big floppa
-creator:kenket
-digital media (artwork)
-ear tuft
-feral
-fur
-gender:ambiguous
-guro
-headshot portrait
-medium:digital media
-medium:simple background
-medium:traditional media
-meta:bust portrait
-meta:nsfw
-meta:painting (artwork)
-meta:portrait
-meta:traditional media (artwork)
-nude
-painting (artwork)
-portrait
-rating:explicit
-rating:mature
-rating:safe
-simple background
-solo
-source:furaffinity.net
-species:caracal
-species:caracal (genus)
-species:felid
-species:feline
-species:mammal
-subreddit:imaginaryanimals
-subreddit:imaginaryaww
-subreddit:immeta
-subreddit:imnature
-tan body
-tan fur
-title:caracal
-title:caracal by tess garman
-tuft
-uploader:myrandall
-whiskers
+ambiguous gender,
+booru:e621,
+brown body,
+brown eyes,
+brown fur,
+bust portrait,
+category:ine,
+character:big floppa,
+creator:kenket,
+digital media (artwork),
+ear tuft,
+feral,
+fur,
+gender:ambiguous,
+guro,
+headshot portrait,
+medium:digital media,
+medium:simple background,
+medium:traditional media,
+meta:bust portrait,
+meta:nsfw,
+meta:painting (artwork),
+meta:portrait,
+meta:traditional media (artwork),
+nude,
+painting (artwork),
+portrait,
+rating:explicit,
+rating:mature,
+rating:safe,
+simple background,
+solo,
+source:furaffinity.net,
+species:caracal,
+species:caracal (genus),
+species:felid,
+species:feline,
+species:mammal,
+subreddit:imaginaryanimals,
+subreddit:imaginaryaww,
+subreddit:immeta,
+subreddit:imnature,
+tan body,
+tan fur,
+title:caracal,
+title:caracal by tess garman,
+tuft,
+uploader:myrandall,
+whiskers,

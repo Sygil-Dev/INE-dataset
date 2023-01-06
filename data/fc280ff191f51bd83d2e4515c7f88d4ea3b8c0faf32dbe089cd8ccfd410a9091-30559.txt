@@ -1,34 +1,34 @@
-ambiguous gender
-category:ine
-creator:cryptid-creations
-fangs
-feral
-gender:ambiguous
-horn
-horns
-humor
-medium:simple background
-medium:white background
-melee weapon
-meme:humor
-meta:english text
-meta:pillarbox
-meta:url
-polearm
-pun
-rating:safe
-red eyes
-simple background
-species:cnidarian
-species:demon
-species:jellyfish
-species:marine
-species:medusozoan
-subreddit:imaginarydemons
-subreddit:immonsters
-text
-title:hellyfish by piper thibodeau
-trident
-uploader:myrandall
-weapon
-white background
+ambiguous gender,
+category:ine,
+creator:cryptid-creations,
+fangs,
+feral,
+gender:ambiguous,
+horn,
+horns,
+humor,
+medium:simple background,
+medium:white background,
+melee weapon,
+meme:humor,
+meta:english text,
+meta:pillarbox,
+meta:url,
+polearm,
+pun,
+rating:safe,
+red eyes,
+simple background,
+species:cnidarian,
+species:demon,
+species:jellyfish,
+species:marine,
+species:medusozoan,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+text,
+title:hellyfish by piper thibodeau,
+trident,
+uploader:myrandall,
+weapon,
+white background,

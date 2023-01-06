@@ -1,32 +1,32 @@
-above clouds
-beach
-blue sky
-building
-category:ine
-cliff
-cloud
-cloudy sky
-day
-fantasy
-horizon
-ice
-lake
-landscape
-mountain
-mountainous horizon
-no humans
-ocean
-outdoors
-rating:safe
-rock
-scenery
-sky
-snow
-snowing
-subreddit:imaginarymountains
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-subreddit:imnature
-title:"icy mountain" by inus pretorius
-uploader:pyro_azer
-waterfall
+above clouds,
+beach,
+blue sky,
+building,
+category:ine,
+cliff,
+cloud,
+cloudy sky,
+day,
+fantasy,
+horizon,
+ice,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+rock,
+scenery,
+sky,
+snow,
+snowing,
+subreddit:imaginarymountains,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+subreddit:imnature,
+title:"icy mountain" by inus pretorius,
+uploader:pyro_azer,
+waterfall,

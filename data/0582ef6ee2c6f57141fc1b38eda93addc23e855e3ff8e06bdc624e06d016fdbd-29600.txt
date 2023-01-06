@@ -1,29 +1,29 @@
-beautiful
-blue
-category:ine
-concept
-creator:aleksandra skiba
-creature
-digitalart
-fish
-illustration
-lady
-medium:digital 2d
-mermaid
-mermay
-mermay2019
-monster
-painting
-queen
-sea
-siren
-species:mythical
-subreddit:imaginarymerfolk
-subreddit:imaginarypets
-subreddit:immeta
-subreddit:imraces
-title:lady and her pets
-title:lady and her pets by aleksandra skiba
-uploader:net-diver
-water
-woman
+beautiful,
+blue,
+category:ine,
+concept,
+creator:aleksandra skiba,
+creature,
+digitalart,
+fish,
+illustration,
+lady,
+medium:digital 2d,
+mermaid,
+mermay,
+mermay2019,
+monster,
+painting,
+queen,
+sea,
+siren,
+species:mythical,
+subreddit:imaginarymerfolk,
+subreddit:imaginarypets,
+subreddit:immeta,
+subreddit:imraces,
+title:lady and her pets,
+title:lady and her pets by aleksandra skiba,
+uploader:net-diver,
+water,
+woman,

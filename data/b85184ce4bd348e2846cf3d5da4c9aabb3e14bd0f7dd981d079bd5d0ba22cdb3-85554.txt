@@ -1,32 +1,32 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-category:ine
-clothing
-cloud
-creator:cryptid-creations
-feral
-furry
-gender:ambiguous
-ill
-meta:english text
-meta:english_text
-nest
-rating:safe
-scientific instrument
-scientific_instrument
-sky
-solo
-species:pterodactylus
-species:pterosaur
-species:reptile
-species:scalie
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-text
-thermometer
-title:daily painting 1662# - jurrasick
-title:jurrasick by piper thibodeau
-uploader:myrandall
-weather instrument
-weather_instrument
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+category:ine,
+clothing,
+cloud,
+creator:cryptid-creations,
+feral,
+furry,
+gender:ambiguous,
+ill,
+meta:english text,
+meta:english_text,
+nest,
+rating:safe,
+scientific instrument,
+scientific_instrument,
+sky,
+solo,
+species:pterodactylus,
+species:pterosaur,
+species:reptile,
+species:scalie,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+text,
+thermometer,
+title:daily painting 1662# - jurrasick,
+title:jurrasick by piper thibodeau,
+uploader:myrandall,
+weather instrument,
+weather_instrument,

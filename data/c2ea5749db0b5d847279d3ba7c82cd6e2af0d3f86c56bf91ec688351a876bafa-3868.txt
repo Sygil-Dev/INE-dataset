@@ -1,21 +1,21 @@
-category:ine
-coelurosaurus
-creator:zack stella
-dinosaur
-giganotosaurus
-ixalan
-m:tg
-medium:digital 2d
-mtg
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-t-rex
-title:gishath, sun's avatar - magic: the gathering
-title:gishath, sun's avatar - magic: the gathering by zack stella
-title:gishath, sun's avatar by zack stella
-tyrannosaurus
-uploader:blood-n-cheese
-uploader:tallantas
-uploader:the-thirteenth
-uploader:thomar
-xln
+category:ine,
+coelurosaurus,
+creator:zack stella,
+dinosaur,
+giganotosaurus,
+ixalan,
+m:tg,
+medium:digital 2d,
+mtg,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+t-rex,
+title:gishath, sun's avatar - magic: the gathering,
+title:gishath, sun's avatar - magic: the gathering by zack stella,
+title:gishath, sun's avatar by zack stella,
+tyrannosaurus,
+uploader:blood-n-cheese,
+uploader:tallantas,
+uploader:the-thirteenth,
+uploader:thomar,
+xln,

@@ -1,25 +1,25 @@
-category:ine
-count
-creator:riccardo moscatello
-dracula
-dragon
-iii
-medium:digital 2d
-order
-subreddit:imaginaryhistory
-subreddit:imaginarynobles
-subreddit:imaginaryvampires
-subreddit:imcharacters
-subreddit:immeta
-subreddit:immonsters
-tepes
-title:vlad iii the impaler
-title:vlad iii the impaler by riccardo moscatello
-uploader:dmk-max
-uploader:lol33ta
-uploader:manowar0264
-uploader:radialart
-vampire
-vlad
-vladdracula
-vladiii
+category:ine,
+count,
+creator:riccardo moscatello,
+dracula,
+dragon,
+iii,
+medium:digital 2d,
+order,
+subreddit:imaginaryhistory,
+subreddit:imaginarynobles,
+subreddit:imaginaryvampires,
+subreddit:imcharacters,
+subreddit:immeta,
+subreddit:immonsters,
+tepes,
+title:vlad iii the impaler,
+title:vlad iii the impaler by riccardo moscatello,
+uploader:dmk-max,
+uploader:lol33ta,
+uploader:manowar0264,
+uploader:radialart,
+vampire,
+vlad,
+vladdracula,
+vladiii,

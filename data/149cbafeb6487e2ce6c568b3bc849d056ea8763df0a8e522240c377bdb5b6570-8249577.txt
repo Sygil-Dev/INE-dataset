@@ -1,54 +1,54 @@
-2016
-absurd res
-anthro
-anthrofied
-anthropomorphism
-artist:stefano_carta
-biped
-candle
-category:ine
-character:robb stark
-character:robb_stark
-class:mammal
-clothing
-copyright:game_of_thrones
-creator:stefano carta
-crown
-dinner
-fluffy
-food
-fur
-genre:fantasy
-hi res
-male
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:3d_(artwork)
-meta:2016
-meta:absurd_res
-meta:digital_media_(artwork)
-meta:hi_res
-photorealism
-rating:safe
-realistic
-royalty
-series:game of thrones
-sitting
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-subreddit:imaginaryfood
-subreddit:imaginaryhybrids
-subreddit:imaginarywerewolves
-subreddit:immeta
-subreddit:immonsters
-title:the young king by stefano carta
-title:the young wolf by stefano carta
-uploader:natezomby
-uploader:owntheknight
-uploader:saltysolomon
-year:2016
+2016,
+absurd res,
+anthro,
+anthrofied,
+anthropomorphism,
+artist:stefano_carta,
+biped,
+candle,
+category:ine,
+character:robb stark,
+character:robb_stark,
+class:mammal,
+clothing,
+copyright:game_of_thrones,
+creator:stefano carta,
+crown,
+dinner,
+fluffy,
+food,
+fur,
+genre:fantasy,
+hi res,
+male,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:3d_(artwork),
+meta:2016,
+meta:absurd_res,
+meta:digital_media_(artwork),
+meta:hi_res,
+photorealism,
+rating:safe,
+realistic,
+royalty,
+series:game of thrones,
+sitting,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+subreddit:imaginaryfood,
+subreddit:imaginaryhybrids,
+subreddit:imaginarywerewolves,
+subreddit:immeta,
+subreddit:immonsters,
+title:the young king by stefano carta,
+title:the young wolf by stefano carta,
+uploader:natezomby,
+uploader:owntheknight,
+uploader:saltysolomon,
+year:2016,

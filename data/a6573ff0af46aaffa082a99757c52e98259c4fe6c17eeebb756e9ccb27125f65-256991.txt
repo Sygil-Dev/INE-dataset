@@ -1,29 +1,29 @@
-ambiguous gender
-ambiguous_gender
-anthro
-apron
-apron only
-apron_only
-artist:cryptid-creations
-category:ine
-chainsaw
-clothing
-creator:cryptid-creations
-feathers
-meta:url
-mostly nude
-mostly_nude
-power tool
-power_tool
-rating:safe
-semi-anthro
-solo
-species:avian
-species:bird
-species:owl
-subreddit:imaginaryanimals
-subreddit:imnature
-text
-title:featherface by piper thibodeau
-tools
-uploader:myrandall
+ambiguous gender,
+ambiguous_gender,
+anthro,
+apron,
+apron only,
+apron_only,
+artist:cryptid-creations,
+category:ine,
+chainsaw,
+clothing,
+creator:cryptid-creations,
+feathers,
+meta:url,
+mostly nude,
+mostly_nude,
+power tool,
+power_tool,
+rating:safe,
+semi-anthro,
+solo,
+species:avian,
+species:bird,
+species:owl,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+text,
+title:featherface by piper thibodeau,
+tools,
+uploader:myrandall,

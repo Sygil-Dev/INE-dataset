@@ -1,78 +1,78 @@
-accessory
-amazing background
-amazing_background
-anthro
-anthropomorphism
-artist:whiluna
-berry
-biped
-booru:e621
-breasts
-canine
-category:ine
-claws
-creator:whiluna
-crown
-detailed background
-featureless breasts
-featureless_breasts
-female
-flower
-flower crown
-food
-forest
-fruit
-fur
-gender:female
-gloomy
-grass
-guro
-hair accessory
-hair ornament
-hair ring
-hair_accessory
-hair_ring
-head wreath
-headdress
-hi res
-mammal
-medium:amazing background
-medium:detailed background
-medium:high resolution
-meta:hi res
-meta:hi_res
-monster
-nature
-nude
-pawpads
-paws
-peaceful
-plant
-rating:explicit
-rating:mature
-rating:questionable
-sitting
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:by zsofia dankove. cue west side story's "i feel pretty"?
-title:fenya
-tree
-uploader:nikephoros_ii_phokas
-were
-werewolf
-whiluna
-white body
-white fur
-wolf
-wreath
+accessory,
+amazing background,
+amazing_background,
+anthro,
+anthropomorphism,
+artist:whiluna,
+berry,
+biped,
+booru:e621,
+breasts,
+canine,
+category:ine,
+claws,
+creator:whiluna,
+crown,
+detailed background,
+featureless breasts,
+featureless_breasts,
+female,
+flower,
+flower crown,
+food,
+forest,
+fruit,
+fur,
+gender:female,
+gloomy,
+grass,
+guro,
+hair accessory,
+hair ornament,
+hair ring,
+hair_accessory,
+hair_ring,
+head wreath,
+headdress,
+hi res,
+mammal,
+medium:amazing background,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+meta:hi_res,
+monster,
+nature,
+nude,
+pawpads,
+paws,
+peaceful,
+plant,
+rating:explicit,
+rating:mature,
+rating:questionable,
+sitting,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:by zsofia dankove. cue west side story's "i feel pretty"?,
+title:fenya,
+tree,
+uploader:nikephoros_ii_phokas,
+were,
+werewolf,
+whiluna,
+white body,
+white fur,
+wolf,
+wreath,

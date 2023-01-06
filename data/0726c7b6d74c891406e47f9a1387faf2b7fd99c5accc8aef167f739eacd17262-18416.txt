@@ -1,41 +1,41 @@
-assault rifle
-battle
-building
-burning
-candle
-category:ine
-city
-city lights
-cityscape
-destruction
-embers
-evening
-explosion
-fire
-firing
-flame
-ground vehicle
-gun
-helicopter
-long hair
-military
-military vehicle
-motor vehicle
-rating:safe
-rifle
-ruins
-sparks
-subreddit:imaginarybattlefields
-subreddit:imaginaryhistory
-subreddit:imlandscapes
-subreddit:immeta
-sunset
-tank
-title:the first scinfaxi war by giorgio grecu
-torch
-twilight
-uploader:[deleted]
-uploader:e-leventy
-uploader:ethan_kahn
-war
-weapon
+assault rifle,
+battle,
+building,
+burning,
+candle,
+category:ine,
+city,
+city lights,
+cityscape,
+destruction,
+embers,
+evening,
+explosion,
+fire,
+firing,
+flame,
+ground vehicle,
+gun,
+helicopter,
+long hair,
+military,
+military vehicle,
+motor vehicle,
+rating:safe,
+rifle,
+ruins,
+sparks,
+subreddit:imaginarybattlefields,
+subreddit:imaginaryhistory,
+subreddit:imlandscapes,
+subreddit:immeta,
+sunset,
+tank,
+title:the first scinfaxi war by giorgio grecu,
+torch,
+twilight,
+uploader:[deleted],
+uploader:e-leventy,
+uploader:ethan_kahn,
+war,
+weapon,

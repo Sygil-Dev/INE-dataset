@@ -1,32 +1,32 @@
-category:ine
-concept
-creator:karanak
-fire
-games
-landscape
-letterboxed
-mecha
-medium:4:3 aspect ratio
-medium:1200x900 wallpaper
-medium:letterboxed
-medium:wallpaper
-medium:wallpaper 4:3 ratio
-no humans
-non-humanoid robot
-post-apocalyptic
-rating:general
-rating:mature
-rating:safe
-robot
-ruins
-series:original
-shield
-smoke
-subreddit:imaginaryscience
-subreddit:imtechnology
-title:god of battleground
-title:god of the battleground - by karanak (alexey)
-uploader:lntrinsic
-walker
-メカ
-多脚戦車
+category:ine,
+concept,
+creator:karanak,
+fire,
+games,
+landscape,
+letterboxed,
+mecha,
+medium:4:3 aspect ratio,
+medium:1200x900 wallpaper,
+medium:letterboxed,
+medium:wallpaper,
+medium:wallpaper 4:3 ratio,
+no humans,
+non-humanoid robot,
+post-apocalyptic,
+rating:general,
+rating:mature,
+rating:safe,
+robot,
+ruins,
+series:original,
+shield,
+smoke,
+subreddit:imaginaryscience,
+subreddit:imtechnology,
+title:god of battleground,
+title:god of the battleground - by karanak (alexey),
+uploader:lntrinsic,
+walker,
+メカ,
+多脚戦車,

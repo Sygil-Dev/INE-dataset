@@ -1,75 +1,75 @@
-::3
-ambiguous gender
-ambiguous_gender
-artist:seyumei
-booru:e621
-bow
-bow (disambiguation)
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:seyumei
-daww
-duo
-face::3
-feral
-fur
-gen8pokemon
-gen 2 pokemon
-gender:ambiguous
-grass
-horizontal pupils
-horizontal_pupils
-horn
-horns
-language:english
-mareep
-medium:english text
-medium:text
-medium:video game
-meta:english text
-meta:english_text
-meta:watermark
-plant
-pokemon
-pokemon_sword_and_shield
-pokemonfanart
-pokemonswordandshield
-pokemonswordshield
-pupils
-quadruped
-rating:safe
-series:nintendo
-series:pokémon
-sheep
-sitting
-smile
-species:mareep
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:wooloo
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:imaginarygaming
-subreddit:imfandoms
-subreddit:immeta
-text
-title:"sheep sisters" by seyumei
-title:sheep sisters
-uploader:torvusil
-video games
-video_games
-white body
-white fur
-white wool
-white_body
-white_fur
-white_wool
-wool (fur)
-wool_(fur)
-wooloo
-wooloo_pokemon
-wooloofanart
-wooloogang
-wooloopokemon
+::3,
+ambiguous gender,
+ambiguous_gender,
+artist:seyumei,
+booru:e621,
+bow,
+bow (disambiguation),
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:seyumei,
+daww,
+duo,
+face::3,
+feral,
+fur,
+gen8pokemon,
+gen 2 pokemon,
+gender:ambiguous,
+grass,
+horizontal pupils,
+horizontal_pupils,
+horn,
+horns,
+language:english,
+mareep,
+medium:english text,
+medium:text,
+medium:video game,
+meta:english text,
+meta:english_text,
+meta:watermark,
+plant,
+pokemon,
+pokemon_sword_and_shield,
+pokemonfanart,
+pokemonswordandshield,
+pokemonswordshield,
+pupils,
+quadruped,
+rating:safe,
+series:nintendo,
+series:pokémon,
+sheep,
+sitting,
+smile,
+species:mareep,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:wooloo,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+subreddit:immeta,
+text,
+title:"sheep sisters" by seyumei,
+title:sheep sisters,
+uploader:torvusil,
+video games,
+video_games,
+white body,
+white fur,
+white wool,
+white_body,
+white_fur,
+white_wool,
+wool (fur),
+wool_(fur),
+wooloo,
+wooloo_pokemon,
+wooloofanart,
+wooloogang,
+wooloopokemon,

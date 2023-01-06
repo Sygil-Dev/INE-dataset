@@ -1,43 +1,43 @@
-1 male
-1-up
-albronmuscle
-bara
-bombom
-bricks
-character:chomper
-character:goomba
-character:mario
-chest
-class:mammal
-clothing:overalls
-coins
-creator:albron111
-gay
-gender:male
-hard hat
-male focus
-male only
-muscle
-order:primate
-overalls
-series:nintendo
-series:super mario 64
-series:super mario brothers
-series:super smash bros.
-six pack
-solo
-solo male
-source type:game
-species:human
-species:mammal
-species:primate
-studio:nintendo
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-supermariomaker
-supersmashbros
-title:super mario maker
-title:super mario maker by alex bronnings
-uploader:silencelibrarian
-video games
-videogames
+1 male,
+1-up,
+albronmuscle,
+bara,
+bombom,
+bricks,
+character:chomper,
+character:goomba,
+character:mario,
+chest,
+class:mammal,
+clothing:overalls,
+coins,
+creator:albron111,
+gay,
+gender:male,
+hard hat,
+male focus,
+male only,
+muscle,
+order:primate,
+overalls,
+series:nintendo,
+series:super mario 64,
+series:super mario brothers,
+series:super smash bros.,
+six pack,
+solo,
+solo male,
+source type:game,
+species:human,
+species:mammal,
+species:primate,
+studio:nintendo,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+supermariomaker,
+supersmashbros,
+title:super mario maker,
+title:super mario maker by alex bronnings,
+uploader:silencelibrarian,
+video games,
+videogames,

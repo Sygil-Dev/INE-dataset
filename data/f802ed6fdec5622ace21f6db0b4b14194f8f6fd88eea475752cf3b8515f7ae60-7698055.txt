@@ -1,45 +1,45 @@
-2017
-aurora borealis
-booru:e621
-category:ine
-character:spike
-character:spike (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-creator:starblaze25
-duo
-female
-furry
-gender:female
-gender:male
-genre:fantasy
-horn
-horns
-male
-medium:high resolution
-meta:2017
-meta:hi res
-night
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-shooting star
-species:dragon
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:scalie
-species:winged unicorn
-star
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"twilights twilight" by starblaze25
-title:twilights twilight
-twilight
-uploader:torvusil
-wings
-year:2017
+2017,
+aurora borealis,
+booru:e621,
+category:ine,
+character:spike,
+character:spike (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+creator:starblaze25,
+duo,
+female,
+furry,
+gender:female,
+gender:male,
+genre:fantasy,
+horn,
+horns,
+male,
+medium:high resolution,
+meta:2017,
+meta:hi res,
+night,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+shooting star,
+species:dragon,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:scalie,
+species:winged unicorn,
+star,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"twilights twilight" by starblaze25,
+title:twilights twilight,
+twilight,
+uploader:torvusil,
+wings,
+year:2017,

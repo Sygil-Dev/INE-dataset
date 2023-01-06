@@ -1,36 +1,36 @@
-1boy
-1girl
-bag
-bed
-bedroom
-book
-bookshelf
-brown hair
-category:ine
-chair
-clock
-computer
-cross-section
-cup
-curtains
-desk
-headphones
-indoors
-lamp
-laptop
-monitor
-mouse (computer)
-office chair
-phone
-pillow
-rating:safe
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-table
-television
-tissue box
-title:bedroom by 磯部トースト
-trash can
-uploader:[deleted]
-uploader:ethan_kahn
-window
+1boy,
+1girl,
+bag,
+bed,
+bedroom,
+book,
+bookshelf,
+brown hair,
+category:ine,
+chair,
+clock,
+computer,
+cross-section,
+cup,
+curtains,
+desk,
+headphones,
+indoors,
+lamp,
+laptop,
+monitor,
+mouse (computer),
+office chair,
+phone,
+pillow,
+rating:safe,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+table,
+television,
+tissue box,
+title:bedroom by 磯部トースト,
+trash can,
+uploader:[deleted],
+uploader:ethan_kahn,
+window,

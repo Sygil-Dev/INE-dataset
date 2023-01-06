@@ -1,44 +1,44 @@
-1girl
-astronaut
-aurora
-black hair
-category:ine
-city lights
-cloud
-constellation
-crescent
-crescent moon
-dark-skinned female
-earth (planet)
-fireflies
-full moon
-galaxy
-light particles
-long hair
-milky way
-moon
-moonlight
-multicolored hair
-night
-night sky
-planet
-rating:safe
-red moon
-shooting star
-sky
-solo
-space
-space craft
-space helmet
-spacesuit
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-sun
-tanabata
-title:strength, by kmye chan
-uploader:belledame-sans-serif
+1girl,
+astronaut,
+aurora,
+black hair,
+category:ine,
+city lights,
+cloud,
+constellation,
+crescent,
+crescent moon,
+dark-skinned female,
+earth (planet),
+fireflies,
+full moon,
+galaxy,
+light particles,
+long hair,
+milky way,
+moon,
+moonlight,
+multicolored hair,
+night,
+night sky,
+planet,
+rating:safe,
+red moon,
+shooting star,
+sky,
+solo,
+space,
+space craft,
+space helmet,
+spacesuit,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+sun,
+tanabata,
+title:strength, by kmye chan,
+uploader:belledame-sans-serif,

@@ -1,24 +1,24 @@
-architecture
-black border
-building
-category:ine
-city
-city lights
-cityscape
-cloud
-crescent moon
-dark
-full moon
-letterboxed
-moon
-moonlight
-night
-night sky
-rating:safe
-scenery
-sky
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:20190202 by flint chen
-tower
-uploader:synntara
+architecture,
+black border,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+crescent moon,
+dark,
+full moon,
+letterboxed,
+moon,
+moonlight,
+night,
+night sky,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:20190202 by flint chen,
+tower,
+uploader:synntara,

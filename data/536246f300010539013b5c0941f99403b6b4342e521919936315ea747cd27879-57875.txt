@@ -1,83 +1,83 @@
-2016
-action:licking
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-blue body
-blue scales
-blue_body
-blue_scales
-blueberry (fruit)
-blueberry_(fruit)
-bodypart:black eyes
-category:ine
-character:tart
-creator:cryptid-creations
-creator:piperdraws
-feral
-filename:dp1343_s
-food
-fruit
-furry
-gender:ambiguous
-green body
-green scales
-green_body
-green_scales
-group
-humor
-leaf
-licking
-licking lips
-licking_lips
-medium:patreon reward
-medium:simple background
-medium:white background
-meme:humor
-meta:2016
-meta:paid reward
-meta:patreon reward
-meta:white background
-plant
-pun
-raspberry
-rating:safe
-red body
-red scales
-red_body
-red_scales
-scales
-self lick
-self_lick
-simple background
-simple_background
-site:patreon
-site:yiff.party
-species:food creature
-species:food_creature
-species:reptile
-species:scalie
-species:turtle
-strawberry
-subreddit:imaginaryfood
-subreddit:imaginaryturtleworlds
-subreddit:immeta
-tan body
-tan scales
-tan_body
-tan_scales
-tart (food)
-tart_(food)
-title:daily 1343. tartles
-title:daily 1343. tartles by piper thibodeau
-title:tartles by piper thibodeau
-tongue
-tongue out
-tongue_out
-uploader:lol33ta
-uploader:myrandall
-visual pun
-visual_pun
-white_background
-year:2016
+2016,
+action:licking,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+blue body,
+blue scales,
+blue_body,
+blue_scales,
+blueberry (fruit),
+blueberry_(fruit),
+bodypart:black eyes,
+category:ine,
+character:tart,
+creator:cryptid-creations,
+creator:piperdraws,
+feral,
+filename:dp1343_s,
+food,
+fruit,
+furry,
+gender:ambiguous,
+green body,
+green scales,
+green_body,
+green_scales,
+group,
+humor,
+leaf,
+licking,
+licking lips,
+licking_lips,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2016,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+plant,
+pun,
+raspberry,
+rating:safe,
+red body,
+red scales,
+red_body,
+red_scales,
+scales,
+self lick,
+self_lick,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+species:food creature,
+species:food_creature,
+species:reptile,
+species:scalie,
+species:turtle,
+strawberry,
+subreddit:imaginaryfood,
+subreddit:imaginaryturtleworlds,
+subreddit:immeta,
+tan body,
+tan scales,
+tan_body,
+tan_scales,
+tart (food),
+tart_(food),
+title:daily 1343. tartles,
+title:daily 1343. tartles by piper thibodeau,
+title:tartles by piper thibodeau,
+tongue,
+tongue out,
+tongue_out,
+uploader:lol33ta,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white_background,
+year:2016,

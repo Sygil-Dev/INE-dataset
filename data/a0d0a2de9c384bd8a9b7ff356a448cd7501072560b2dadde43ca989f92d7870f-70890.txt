@@ -1,71 +1,71 @@
-1 male
-1boy
-acoustic guitar
-art
-behind back
-blue pants
-brown footwear
-brown hair
-bush
-carrying over shoulder
-category:ine
-cherry blossoms
-clothing:footwear
-clothing:legwear
-clothing:pants
-creator:aquasixio
-creator:cyril rolando
-denim
-digital
-evening
-field
-footwear
-from behind
-full body
-gender:male
-grass
-guitar
-hand in pocket
-horizontal stripes
-instrument
-jeans
-looking afar
-male focus
-marlon
-meta:commentary
-meta:english commentary
-mountain
-musical instrument
-orange sky
-over shoulder
-pants
-path
-plant
-rating:mature
-rating:safe
-road
-rock
-sack
-series:original
-shirt
-shoes
-short sleeves
-sky
-sneakers
-solo
-star (sky)
-stick
-stone floor
-story
-striped
-striped shirt
-subreddit:imaginarypathways
-subreddit:imlandscapes
-sunlight
-sunset
-t-shirt
-title:a world of poetry
-title:a world of poetry by cyril rolando
-tree
-uploader:fireflycities
-walking
+1 male,
+1boy,
+acoustic guitar,
+art,
+behind back,
+blue pants,
+brown footwear,
+brown hair,
+bush,
+carrying over shoulder,
+category:ine,
+cherry blossoms,
+clothing:footwear,
+clothing:legwear,
+clothing:pants,
+creator:aquasixio,
+creator:cyril rolando,
+denim,
+digital,
+evening,
+field,
+footwear,
+from behind,
+full body,
+gender:male,
+grass,
+guitar,
+hand in pocket,
+horizontal stripes,
+instrument,
+jeans,
+looking afar,
+male focus,
+marlon,
+meta:commentary,
+meta:english commentary,
+mountain,
+musical instrument,
+orange sky,
+over shoulder,
+pants,
+path,
+plant,
+rating:mature,
+rating:safe,
+road,
+rock,
+sack,
+series:original,
+shirt,
+shoes,
+short sleeves,
+sky,
+sneakers,
+solo,
+star (sky),
+stick,
+stone floor,
+story,
+striped,
+striped shirt,
+subreddit:imaginarypathways,
+subreddit:imlandscapes,
+sunlight,
+sunset,
+t-shirt,
+title:a world of poetry,
+title:a world of poetry by cyril rolando,
+tree,
+uploader:fireflycities,
+walking,

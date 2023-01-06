@@ -1,21 +1,21 @@
-assassin
-castle
-category:ine
-creator:klaus pillon
-creator:klauspillon
-klaus
-medium:digital 2d
-night
-ninja
-ninjas
-pillon
-room
-stealth
-subreddit:imaginaryninjas
-subreddit:imcharacters
-title:outside the lords bedroom by klaus pillon
-title:rise of the kage
-title:rise of the kage - outside the lords bedroom -
-title:rise of the kage by klaus pillon
-uploader:saltysolomon
-uploader:valar_m0rghul1s
+assassin,
+castle,
+category:ine,
+creator:klaus pillon,
+creator:klauspillon,
+klaus,
+medium:digital 2d,
+night,
+ninja,
+ninjas,
+pillon,
+room,
+stealth,
+subreddit:imaginaryninjas,
+subreddit:imcharacters,
+title:outside the lords bedroom by klaus pillon,
+title:rise of the kage,
+title:rise of the kage - outside the lords bedroom -,
+title:rise of the kage by klaus pillon,
+uploader:saltysolomon,
+uploader:valar_m0rghul1s,

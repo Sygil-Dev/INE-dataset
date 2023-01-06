@@ -1,21 +1,21 @@
-axe
-beard
-category:ine
-cloud
-cloudy sky
-holding
-multiple boys
-ocean
-polearm
-rating:safe
-sky
-snow
-subreddit:imaginarycarnage
-subreddit:imaginaryvikings
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imnsfw
-title:bear warrior by denman rooke
-uploader:lol33ta
-uploader:myrandall
-weapon
+axe,
+beard,
+category:ine,
+cloud,
+cloudy sky,
+holding,
+multiple boys,
+ocean,
+polearm,
+rating:safe,
+sky,
+snow,
+subreddit:imaginarycarnage,
+subreddit:imaginaryvikings,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imnsfw,
+title:bear warrior by denman rooke,
+uploader:lol33ta,
+uploader:myrandall,
+weapon,

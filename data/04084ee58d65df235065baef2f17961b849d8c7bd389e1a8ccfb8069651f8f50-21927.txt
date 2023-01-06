@@ -1,34 +1,34 @@
-1girl
-armor
-blonde hair
-blue eyes
-cape
-category:ine
-character
-creator:katerina kirillova
-earrings
-fantasy
-full body
-fur
-fur collar
-fur trim
-guard
-holding sword
-holding weapon
-jewelry
-katana
-long hair
-medium:digital 2d
-rating:safe
-sheath
-simple background
-solo
-standing
-subreddit:imaginaryvikings
-subreddit:imcharacters
-sword
-title:guard
-title:guard by katerina kirillova
-uploader:net-diver
-viking
-weapon
+1girl,
+armor,
+blonde hair,
+blue eyes,
+cape,
+category:ine,
+character,
+creator:katerina kirillova,
+earrings,
+fantasy,
+full body,
+fur,
+fur collar,
+fur trim,
+guard,
+holding sword,
+holding weapon,
+jewelry,
+katana,
+long hair,
+medium:digital 2d,
+rating:safe,
+sheath,
+simple background,
+solo,
+standing,
+subreddit:imaginaryvikings,
+subreddit:imcharacters,
+sword,
+title:guard,
+title:guard by katerina kirillova,
+uploader:net-diver,
+viking,
+weapon,

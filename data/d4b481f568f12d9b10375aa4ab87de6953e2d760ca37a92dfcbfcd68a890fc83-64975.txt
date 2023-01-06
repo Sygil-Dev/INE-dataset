@@ -1,25 +1,25 @@
-animal
-bokeh
-bridge
-category:ine
-clouds
-creator:ryky
-headphones
-long hair
-medium:digital media
-painting
-planet
-ryky
-rykyscenery
-scenic
-series:original
-sky
-species:cetacean
-species:mammal
-species:whale
-subreddit:imaginarypathways
-subreddit:imlandscapes
-sunset
-title:way home
-title:way home by benjamin cehelsky
-uploader:myrandall
+animal,
+bokeh,
+bridge,
+category:ine,
+clouds,
+creator:ryky,
+headphones,
+long hair,
+medium:digital media,
+painting,
+planet,
+ryky,
+rykyscenery,
+scenic,
+series:original,
+sky,
+species:cetacean,
+species:mammal,
+species:whale,
+subreddit:imaginarypathways,
+subreddit:imlandscapes,
+sunset,
+title:way home,
+title:way home by benjamin cehelsky,
+uploader:myrandall,

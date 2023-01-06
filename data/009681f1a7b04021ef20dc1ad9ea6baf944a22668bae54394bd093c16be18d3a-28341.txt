@@ -1,21 +1,21 @@
-building
-burning
-category:ine
-city
-destruction
-embers
-evening
-explosion
-fire
-flame
-molten rock
-orange sky
-rating:safe
-red sky
-scenery
-subreddit:imaginaryautumnscapes
-subreddit:imlandscapes
-sunset
-title:the october country by jackie sullivan
-torch
-uploader:bootsmagoots
+building,
+burning,
+category:ine,
+city,
+destruction,
+embers,
+evening,
+explosion,
+fire,
+flame,
+molten rock,
+orange sky,
+rating:safe,
+red sky,
+scenery,
+subreddit:imaginaryautumnscapes,
+subreddit:imlandscapes,
+sunset,
+title:the october country by jackie sullivan,
+torch,
+uploader:bootsmagoots,

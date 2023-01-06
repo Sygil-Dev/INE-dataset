@@ -1,66 +1,66 @@
-2016
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-blue body
-blue scales
-blue_body
-blue_scales
-bodypart:black eyes
-category:ine
-christmas
-christmas clothing
-christmas headwear
-clothing
-clothing:hat
-clothing:headwear
-clothing:tagme
-copyright:christmas
-creator:cryptid-creations
-feral
-furry
-gender:ambiguous
-gender:male
-hat
-headgear
-headwear
-holidays
-humor
-male:1
-meme:humor
-meta:2016
-meta:english text
-meta:english_text
-plant
-pun
-rating:safe
-santa hat
-santa_hat
-scales
-series:christmas
-snow
-solo
-species:brachiosaurid
-species:brachiosaurus
-species:dinosaur
-species:extinct
-species:reptile
-species:sauropod
-species:scalie
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-text
-title:branchiosaurus by piper thibodeau
-title:daily paint 1474. branchiosaurus
-tree
-uploader:myrandall
-visual pun
-visual_pun
-white body
-white scales
-white_body
-white_scales
-wind
-winter
-year:2016
+2016,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+blue body,
+blue scales,
+blue_body,
+blue_scales,
+bodypart:black eyes,
+category:ine,
+christmas,
+christmas clothing,
+christmas headwear,
+clothing,
+clothing:hat,
+clothing:headwear,
+clothing:tagme,
+copyright:christmas,
+creator:cryptid-creations,
+feral,
+furry,
+gender:ambiguous,
+gender:male,
+hat,
+headgear,
+headwear,
+holidays,
+humor,
+male:1,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:english_text,
+plant,
+pun,
+rating:safe,
+santa hat,
+santa_hat,
+scales,
+series:christmas,
+snow,
+solo,
+species:brachiosaurid,
+species:brachiosaurus,
+species:dinosaur,
+species:extinct,
+species:reptile,
+species:sauropod,
+species:scalie,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+text,
+title:branchiosaurus by piper thibodeau,
+title:daily paint 1474. branchiosaurus,
+tree,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white body,
+white scales,
+white_body,
+white_scales,
+wind,
+winter,
+year:2016,

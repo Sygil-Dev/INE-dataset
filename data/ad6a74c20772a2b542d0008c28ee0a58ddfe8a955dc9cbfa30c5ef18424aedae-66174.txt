@@ -1,52 +1,52 @@
-alectorfencer
-artist:alectorfencer
-arya
-aryastark
-black nose
-black_nose
-booru:e621
-category:ine
-character:arya stark
-character:arya_stark
-closed eyes
-clothed
-clothing
-copyright:game_of_thrones
-creator:alectorfencer
-day
-detailed background
-detailed_background
-direwolf
-duo
-eyes closed
-eyes_closed
-filename:1501020906.alectorfencer_arya
-forest
-fur
-gameofthrones
-got7
-medium:detailed background
-meta:2017
-nymeria
-outside
-plant
-rating:general
-rating:safe
-series:game of thrones
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:human
-species:mammal
-species:primate
-species:unspecified / any
-species:wolf
-subreddit:imaginarywesteros
-subreddit:imfandoms
-title:reunion
-title:reunion by claudya schmidt
-tree
-uploader:knighterrannt
-wolf
-year:2017
+alectorfencer,
+artist:alectorfencer,
+arya,
+aryastark,
+black nose,
+black_nose,
+booru:e621,
+category:ine,
+character:arya stark,
+character:arya_stark,
+closed eyes,
+clothed,
+clothing,
+copyright:game_of_thrones,
+creator:alectorfencer,
+day,
+detailed background,
+detailed_background,
+direwolf,
+duo,
+eyes closed,
+eyes_closed,
+filename:1501020906.alectorfencer_arya,
+forest,
+fur,
+gameofthrones,
+got7,
+medium:detailed background,
+meta:2017,
+nymeria,
+outside,
+plant,
+rating:general,
+rating:safe,
+series:game of thrones,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:human,
+species:mammal,
+species:primate,
+species:unspecified / any,
+species:wolf,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+title:reunion,
+title:reunion by claudya schmidt,
+tree,
+uploader:knighterrannt,
+wolf,
+year:2017,

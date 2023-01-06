@@ -1,59 +1,59 @@
-1 female
-1girl
-bangs
-black hair
-blue ribbon
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-bowl
-brown hair
-cat
-category:ine
-chopsticks
-clothing:hair ribbon
-clothing:ribbon
-creator:g-tz
-creator:taejune kim
-eating
-fan
-female
-food
-g-tz
-gender:female
-grey eyes
-hair ornament
-hair ribbon
-japanese clothes
-kimono
-long hair
-making-of available
-medium:16:9 aspect ratio
-medium:high resolution
-medium:watermark
-meta:highres
-meta:making-of available
-noodles
-rating:mature
-rating:safe
-ribbon
-series:original
-shelf
-solo
-species:cat
-species:feline
-species:mammal
-steam
-sticky note
-subreddit:imaginaryfood
-subreddit:imaginaryhumans
-subreddit:immeta
-subreddit:imraces
-title:oh, delicious!
-title:oh, delicious! by taejune kim
-uploader:dievah
-uploader:net-diver
-wafuku
-watermark
-window
+1 female,
+1girl,
+bangs,
+black hair,
+blue ribbon,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+bowl,
+brown hair,
+cat,
+category:ine,
+chopsticks,
+clothing:hair ribbon,
+clothing:ribbon,
+creator:g-tz,
+creator:taejune kim,
+eating,
+fan,
+female,
+food,
+g-tz,
+gender:female,
+grey eyes,
+hair ornament,
+hair ribbon,
+japanese clothes,
+kimono,
+long hair,
+making-of available,
+medium:16:9 aspect ratio,
+medium:high resolution,
+medium:watermark,
+meta:highres,
+meta:making-of available,
+noodles,
+rating:mature,
+rating:safe,
+ribbon,
+series:original,
+shelf,
+solo,
+species:cat,
+species:feline,
+species:mammal,
+steam,
+sticky note,
+subreddit:imaginaryfood,
+subreddit:imaginaryhumans,
+subreddit:immeta,
+subreddit:imraces,
+title:oh, delicious!,
+title:oh, delicious! by taejune kim,
+uploader:dievah,
+uploader:net-diver,
+wafuku,
+watermark,
+window,

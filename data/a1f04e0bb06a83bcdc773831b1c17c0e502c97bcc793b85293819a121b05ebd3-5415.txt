@@ -1,53 +1,53 @@
-artist:arvalis
-booru:e621
-category:ine
-claws
-copyright:nintendo
-copyright:pokémon
-creator:arvalis
-feral
-gen 2 pokemon
-language:english
-medium:absurd resolution
-medium:digital media
-medium:english text
-medium:high resolution
-medium:text
-medium:video game
-meta:2012
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:english text
-meta:english_text
-meta:hi res
-meta:hi_res
-meta:model sheet
-model sheet
-model_sheet
-open mouth
-open_mouth
-rating:safe
-realistic
-series:nintendo
-series:pokémon
-species:larvitar
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:tyranitar
-standing
-studio:nintendo
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-teeth
-text
-title:tyranitar by rj palmer
-title:tyranitar-
-tongue
-uploader:optimusprime1313
-video games
-video_games
-year:2012
+artist:arvalis,
+booru:e621,
+category:ine,
+claws,
+copyright:nintendo,
+copyright:pokémon,
+creator:arvalis,
+feral,
+gen 2 pokemon,
+language:english,
+medium:absurd resolution,
+medium:digital media,
+medium:english text,
+medium:high resolution,
+medium:text,
+medium:video game,
+meta:2012,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:english text,
+meta:english_text,
+meta:hi res,
+meta:hi_res,
+meta:model sheet,
+model sheet,
+model_sheet,
+open mouth,
+open_mouth,
+rating:safe,
+realistic,
+series:nintendo,
+series:pokémon,
+species:larvitar,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:tyranitar,
+standing,
+studio:nintendo,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+teeth,
+text,
+title:tyranitar by rj palmer,
+title:tyranitar-,
+tongue,
+uploader:optimusprime1313,
+video games,
+video_games,
+year:2012,

@@ -1,32 +1,32 @@
-aa gun
-art
-category:ine
-caterpillar tracks
-concept
-concept_art
-creator:karanak
-future
-games
-genre:science fiction
-googlesketchup
-ground vehicle
-medium:concept art
-meta:concept art
-military
-military vehicle
-motor vehicle
-no humans
-rating:safe
-series:original
-smoke grenade launcher
-subreddit:imaginaryfuturewar
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-tank
-title:archer
-title:archer by alexey (karanak)
-uploader:lordjimbob01
-vehicle
-weapon
-weapons
-自走対空砲
+aa gun,
+art,
+category:ine,
+caterpillar tracks,
+concept,
+concept_art,
+creator:karanak,
+future,
+games,
+genre:science fiction,
+googlesketchup,
+ground vehicle,
+medium:concept art,
+meta:concept art,
+military,
+military vehicle,
+motor vehicle,
+no humans,
+rating:safe,
+series:original,
+smoke grenade launcher,
+subreddit:imaginaryfuturewar,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+tank,
+title:archer,
+title:archer by alexey (karanak),
+uploader:lordjimbob01,
+vehicle,
+weapon,
+weapons,
+自走対空砲,

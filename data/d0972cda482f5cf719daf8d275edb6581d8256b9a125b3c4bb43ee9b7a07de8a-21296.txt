@@ -1,32 +1,32 @@
-armor
-assasin
-beautiful
-bikini
-bikini armor
-blood
-category:ine
-creator:phu thieu
-dead
-death
-epic
-fighting
-gender:female
-girl
-horror
-impractical armor
-killer
-medium:digital 2d
-paragon
-rainy
-reaper
-revealing armor
-scythe
-subreddit:erotichorrorart
-subreddit:imaginaryboners
-subreddit:imnsfw
-subreddit:impracticalarmour
-swimsuit
-swimwear
-title:paragon of death
-title:paragon of death by phu thieu
-uploader:bleeding_choker
+armor,
+assasin,
+beautiful,
+bikini,
+bikini armor,
+blood,
+category:ine,
+creator:phu thieu,
+dead,
+death,
+epic,
+fighting,
+gender:female,
+girl,
+horror,
+impractical armor,
+killer,
+medium:digital 2d,
+paragon,
+rainy,
+reaper,
+revealing armor,
+scythe,
+subreddit:erotichorrorart,
+subreddit:imaginaryboners,
+subreddit:imnsfw,
+subreddit:impracticalarmour,
+swimsuit,
+swimwear,
+title:paragon of death,
+title:paragon of death by phu thieu,
+uploader:bleeding_choker,

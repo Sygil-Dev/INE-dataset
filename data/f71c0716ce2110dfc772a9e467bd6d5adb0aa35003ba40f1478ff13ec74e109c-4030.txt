@@ -1,20 +1,20 @@
-action
-cardgame
-category:ine
-character
-conceptart
-creator:jeremy chong
-fightingscene
-girl
-illustration
-medium:digital 2d
-mobiusfinalfantasy
-soldier
-squareenix
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:impracticalarmour
-title:sophie a by jeremy chong
-title:sophie-a by jeremy chong.
-uploader:n0laloth
-uploader:turbologic
+action,
+cardgame,
+category:ine,
+character,
+conceptart,
+creator:jeremy chong,
+fightingscene,
+girl,
+illustration,
+medium:digital 2d,
+mobiusfinalfantasy,
+soldier,
+squareenix,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:impracticalarmour,
+title:sophie a by jeremy chong,
+title:sophie-a by jeremy chong.,
+uploader:n0laloth,
+uploader:turbologic,

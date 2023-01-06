@@ -1,40 +1,40 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-brown body
-brown scales
-brown_body
-brown_scales
-building
-category:ine
-creator:cryptid-creations
-feral
-furry
-gender:ambiguous
-green eyes
-green_eyes
-meta:english text
-meta:english_text
-meta:url
-pyramid
-rating:safe
-scales
-seaweed
-shell
-solo
-species:reptile
-species:scalie
-species:turtle
-subreddit:imaginaryturtleworlds
-subreddit:immeta
-tan body
-tan scales
-tan_body
-tan_scales
-text
-title:daily paint 1981# aztec turtle by piper thibodeau
-turtle shell
-turtle_shell
-underwater
-uploader:hvitserkr
-water
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+brown body,
+brown scales,
+brown_body,
+brown_scales,
+building,
+category:ine,
+creator:cryptid-creations,
+feral,
+furry,
+gender:ambiguous,
+green eyes,
+green_eyes,
+meta:english text,
+meta:english_text,
+meta:url,
+pyramid,
+rating:safe,
+scales,
+seaweed,
+shell,
+solo,
+species:reptile,
+species:scalie,
+species:turtle,
+subreddit:imaginaryturtleworlds,
+subreddit:immeta,
+tan body,
+tan scales,
+tan_body,
+tan_scales,
+text,
+title:daily paint 1981# aztec turtle by piper thibodeau,
+turtle shell,
+turtle_shell,
+underwater,
+uploader:hvitserkr,
+water,

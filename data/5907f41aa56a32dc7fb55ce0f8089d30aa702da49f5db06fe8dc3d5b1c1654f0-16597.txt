@@ -1,29 +1,29 @@
-animal
-bird
-booru:sankaku channel
-brown hair
-category:ine
-child
-closed eyes
-creator:wenqing yan
-creator:yuumei
-eyes closed
-female
-gender:female
-gore
-loli
-medium:high resolution
-meta:contentious content
-meta:extreme content
-rating:questionable
-sad
-short hair
-species:avian
-species:bird
-squatting
-subreddit:imaginarypolitics
-subreddit:immeta
-title:legacy
-title:legacy by wenqing yan
-uploader:karmicviolence
-young
+animal,
+bird,
+booru:sankaku channel,
+brown hair,
+category:ine,
+child,
+closed eyes,
+creator:wenqing yan,
+creator:yuumei,
+eyes closed,
+female,
+gender:female,
+gore,
+loli,
+medium:high resolution,
+meta:contentious content,
+meta:extreme content,
+rating:questionable,
+sad,
+short hair,
+species:avian,
+species:bird,
+squatting,
+subreddit:imaginarypolitics,
+subreddit:immeta,
+title:legacy,
+title:legacy by wenqing yan,
+uploader:karmicviolence,
+young,

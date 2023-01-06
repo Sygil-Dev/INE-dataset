@@ -1,21 +1,21 @@
-canid
-category:ine
-cave
-creator:bjpentecost
-creator:silverone
-furry
-source:furaffinity.net
-species:canine
-species:canis
-species:dragon
-species:mammal
-species:mythical
-species:scalie
-species:wolf
-subreddit:imaginarycaves
-subreddit:imaginarygatherings
-subreddit:imcharacters
-subreddit:imnature
-title:meeting in the crystal cave by bobbie jean pentecost
-title:meeting in the crystal forest
-uploader:myrandall
+canid,
+category:ine,
+cave,
+creator:bjpentecost,
+creator:silverone,
+furry,
+source:furaffinity.net,
+species:canine,
+species:canis,
+species:dragon,
+species:mammal,
+species:mythical,
+species:scalie,
+species:wolf,
+subreddit:imaginarycaves,
+subreddit:imaginarygatherings,
+subreddit:imcharacters,
+subreddit:imnature,
+title:meeting in the crystal cave by bobbie jean pentecost,
+title:meeting in the crystal forest,
+uploader:myrandall,

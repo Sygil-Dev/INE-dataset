@@ -1,51 +1,51 @@
-2015
-booru:e621
-cactus
-category:ine
-character:chief thunderhooves (mlp)
-character:little strongheart
-character:little strongheart (mlp)
-creator:huussii
-cub
-desert
-detailed background
-duo
-feathers
-female
-feral
-gender:female
-gender:male
-genre:fantasy
-headpiece
-hi res
-male
-medium:16:9 aspect ratio
-medium:detailed background
-medium:high resolution
-meta:16:9
-meta:2015
-meta:hi res
-meta:widescreen
-outside
-plant
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sky
-species:american bison
-species:bison
-species:bovid
-species:bovine
-species:buffalo
-species:mammal
-studio:hasbro
-subreddit:imaginarydeserts
-subreddit:imnature
-tag source:e621
-title:the chieftain's pride
-title:the chieftain's pride by teemu husso (x-post /r/imaginaryanimals)
-uploader:madbrad200
-year:2015
-young
+2015,
+booru:e621,
+cactus,
+category:ine,
+character:chief thunderhooves (mlp),
+character:little strongheart,
+character:little strongheart (mlp),
+creator:huussii,
+cub,
+desert,
+detailed background,
+duo,
+feathers,
+female,
+feral,
+gender:female,
+gender:male,
+genre:fantasy,
+headpiece,
+hi res,
+male,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:high resolution,
+meta:16:9,
+meta:2015,
+meta:hi res,
+meta:widescreen,
+outside,
+plant,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+species:american bison,
+species:bison,
+species:bovid,
+species:bovine,
+species:buffalo,
+species:mammal,
+studio:hasbro,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+tag source:e621,
+title:the chieftain's pride,
+title:the chieftain's pride by teemu husso (x-post /r/imaginaryanimals),
+uploader:madbrad200,
+year:2015,
+young,

@@ -1,49 +1,49 @@
-aiming
-aiming at viewer
-assault rifle
-beretta 92
-binoculars
-bullpup
-camcorder
-camera
-category:ine
-creator:peterku
-drum magazine
-finger on trigger
-game console
-gatling gun
-grenade launcher
-gun
-h&k hk416
-h&k ump
-handgun
-heckler & koch
-holding gun
-holding weapon
-kalashnikov rifle
-m4 carbine
-m1911
-machine gun
-magazine (weapon)
-no humans
-p90
-pistol
-rating:safe
-revolver
-rifle
-rocket launcher
-scope
-shotgun
-sig sauer
-sniper rifle
-submachine gun
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-suppressor
-title:mad.asa secondary
-title:mad.asa secondary by peter (peterku)
-trigger discipline
-uploader:lordjimbob01
-video camera
-walther
-weapon
+aiming,
+aiming at viewer,
+assault rifle,
+beretta 92,
+binoculars,
+bullpup,
+camcorder,
+camera,
+category:ine,
+creator:peterku,
+drum magazine,
+finger on trigger,
+game console,
+gatling gun,
+grenade launcher,
+gun,
+h&k hk416,
+h&k ump,
+handgun,
+heckler & koch,
+holding gun,
+holding weapon,
+kalashnikov rifle,
+m4 carbine,
+m1911,
+machine gun,
+magazine (weapon),
+no humans,
+p90,
+pistol,
+rating:safe,
+revolver,
+rifle,
+rocket launcher,
+scope,
+shotgun,
+sig sauer,
+sniper rifle,
+submachine gun,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+suppressor,
+title:mad.asa secondary,
+title:mad.asa secondary by peter (peterku),
+trigger discipline,
+uploader:lordjimbob01,
+video camera,
+walther,
+weapon,

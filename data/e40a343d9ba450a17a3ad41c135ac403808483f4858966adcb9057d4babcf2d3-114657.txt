@@ -1,159 +1,159 @@
-2 females
-2girls
-3 males
-3boys
-;)
-alcohol
-artwork
-bar
-beard
-beer
-beer mug
-beverage
-black hair
-blonde hair
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:konachan.com
-booru:safebooru
-braid
-brown hair
-casual
-category:ine
-character:jaina proudmoore
-character:thrall
-character:troll (warcraft)
-character:tyrande whisperwind
-character:varian wrynn
-character:vol'jin
-cigar
-cigarette
-clothing:earrings
-clothing:eyewear
-clothing:glasses
-clothing:hair ribbon
-clothing:hair tie
-clothing:hood
-clothing:hoodie
-clothing:jewelry
-clothing:ribbon
-clothing:shirt
-clothing:sleeveless outfit
-clothing:t-shirt
-collarbone
-commentary
-creator:morry
-creator:morry evans
-cup
-drawstring
-drink
-drinking glass
-earrings
-ears
-elf
-english commentary
-eyebrows
-eyewear
-face:;)
-facial hair
-fingernails
-forehead
-gender:female
-gender:male
-glasses
-goatee
-green hair
-green skin
-grin
-group
-hair over shoulder
-hair pulled back
-hair ribbon
-hand on shoulder
-hanging light
-hood
-hoodie
-indoors
-jewelry
-king varian wrynn
-long braid
-long hair
-makeup
-male:3
-mascara
-medium:digital 2d
-medium:digital media
-medium:high resolution
-meta:character request
-meta:commentary
-meta:english commentary
-meta:highres
-meta:revision
-mohawk
-monster
-morry
-mouth hold
-multicolored hair
-multiple boys
-multiple females
-multiple girls
-multiple males
-muscle
-muscles
-night elf
-no pupils
-one eye closed
-orc
-pink skin
-plug (piercing)
-pointy ears
-ponytail
-purple skin
-rating:mature
-rating:safe
-red eyes
-red hair
-ribbon
-rimless eyewear
-ring
-scar
-scar across eye
-series:warcraft
-series:world of warcraft
-shirt
-side braid
-signature
-signed
-single braid
-sleeveless
-sleeveless hoodie
-smile
-smoking
-species:elf
-species:night elf
-species:orc
-species:troll
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imaginaryorcs
-subreddit:imfandoms
-subreddit:imraces
-t-shirt
-tagme:character
-tavern
-thrall
-tied hair
-title:day off by morry
-title:day off by morry evans
-tusks
-twin braids
-twintails
-two tone hair
-two-tone hair
-uploader:lol33ta
-video game art
-wedding band
-whiskey
-white hair
-wink
+2 females,
+2girls,
+3 males,
+3boys,
+;),
+alcohol,
+artwork,
+bar,
+beard,
+beer,
+beer mug,
+beverage,
+black hair,
+blonde hair,
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:konachan.com,
+booru:safebooru,
+braid,
+brown hair,
+casual,
+category:ine,
+character:jaina proudmoore,
+character:thrall,
+character:troll (warcraft),
+character:tyrande whisperwind,
+character:varian wrynn,
+character:vol'jin,
+cigar,
+cigarette,
+clothing:earrings,
+clothing:eyewear,
+clothing:glasses,
+clothing:hair ribbon,
+clothing:hair tie,
+clothing:hood,
+clothing:hoodie,
+clothing:jewelry,
+clothing:ribbon,
+clothing:shirt,
+clothing:sleeveless outfit,
+clothing:t-shirt,
+collarbone,
+commentary,
+creator:morry,
+creator:morry evans,
+cup,
+drawstring,
+drink,
+drinking glass,
+earrings,
+ears,
+elf,
+english commentary,
+eyebrows,
+eyewear,
+face:;),
+facial hair,
+fingernails,
+forehead,
+gender:female,
+gender:male,
+glasses,
+goatee,
+green hair,
+green skin,
+grin,
+group,
+hair over shoulder,
+hair pulled back,
+hair ribbon,
+hand on shoulder,
+hanging light,
+hood,
+hoodie,
+indoors,
+jewelry,
+king varian wrynn,
+long braid,
+long hair,
+makeup,
+male:3,
+mascara,
+medium:digital 2d,
+medium:digital media,
+medium:high resolution,
+meta:character request,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:revision,
+mohawk,
+monster,
+morry,
+mouth hold,
+multicolored hair,
+multiple boys,
+multiple females,
+multiple girls,
+multiple males,
+muscle,
+muscles,
+night elf,
+no pupils,
+one eye closed,
+orc,
+pink skin,
+plug (piercing),
+pointy ears,
+ponytail,
+purple skin,
+rating:mature,
+rating:safe,
+red eyes,
+red hair,
+ribbon,
+rimless eyewear,
+ring,
+scar,
+scar across eye,
+series:warcraft,
+series:world of warcraft,
+shirt,
+side braid,
+signature,
+signed,
+single braid,
+sleeveless,
+sleeveless hoodie,
+smile,
+smoking,
+species:elf,
+species:night elf,
+species:orc,
+species:troll,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imaginaryorcs,
+subreddit:imfandoms,
+subreddit:imraces,
+t-shirt,
+tagme:character,
+tavern,
+thrall,
+tied hair,
+title:day off by morry,
+title:day off by morry evans,
+tusks,
+twin braids,
+twintails,
+two tone hair,
+two-tone hair,
+uploader:lol33ta,
+video game art,
+wedding band,
+whiskey,
+white hair,
+wink,

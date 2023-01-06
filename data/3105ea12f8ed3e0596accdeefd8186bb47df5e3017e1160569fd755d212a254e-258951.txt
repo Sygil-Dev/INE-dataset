@@ -1,37 +1,37 @@
-action:closing eyes
-category:ine
-ceramic
-closed eyes
-creator:cryptid-creations
-eyes closed
-feral
-furry
-gender:ambiguous
-gender:male
-humor
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:url
-meta:white background
-pun
-rating:safe
-shell
-simple background
-solo
-species:reptile
-species:scalie
-species:tortoise
-species:turtle
-subreddit:imaginaryanimals
-subreddit:imaginaryaww
-subreddit:immeta
-subreddit:imnature
-text
-tile
-title:"rep-tiles" by piper thibodeau (cryptid-creations)
-title:daily paint 2025# rep-tiles
-turtle shell
-uploader:torvusil
-website:e621
+action:closing eyes,
+category:ine,
+ceramic,
+closed eyes,
+creator:cryptid-creations,
+eyes closed,
+feral,
+furry,
+gender:ambiguous,
+gender:male,
+humor,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:url,
+meta:white background,
+pun,
+rating:safe,
+shell,
+simple background,
+solo,
+species:reptile,
+species:scalie,
+species:tortoise,
+species:turtle,
+subreddit:imaginaryanimals,
+subreddit:imaginaryaww,
+subreddit:immeta,
+subreddit:imnature,
+text,
+tile,
+title:"rep-tiles" by piper thibodeau (cryptid-creations),
+title:daily paint 2025# rep-tiles,
+turtle shell,
+uploader:torvusil,
+website:e621,

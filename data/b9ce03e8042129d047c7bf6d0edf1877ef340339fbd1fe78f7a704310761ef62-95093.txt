@@ -1,21 +1,21 @@
-category:ine
-centaur
-comic
-creator:sandra duchiewicz
-design
-dnd
-drawing
-fantasy
-girl
-lineart
-manga
-medium:digital 2d
-monster
-npc
-rpg
-stylized
-subreddit:imaginarycentaurs
-subreddit:imraces
-title:centaur girl
-title:centaur girl by sandra duchiewicz
-uploader:net-diver
+category:ine,
+centaur,
+comic,
+creator:sandra duchiewicz,
+design,
+dnd,
+drawing,
+fantasy,
+girl,
+lineart,
+manga,
+medium:digital 2d,
+monster,
+npc,
+rpg,
+stylized,
+subreddit:imaginarycentaurs,
+subreddit:imraces,
+title:centaur girl,
+title:centaur girl by sandra duchiewicz,
+uploader:net-diver,

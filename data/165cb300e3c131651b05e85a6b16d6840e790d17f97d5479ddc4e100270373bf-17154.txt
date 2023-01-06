@@ -1,59 +1,59 @@
-4 females
-4girls
-6+ males
-6+boys
-armor
-army
-ass
-belt
-bodysuit
-category:ine
-chain
-chains
-character:cervantes de leon
-character:heishirou mitsurugi
-character:taki (soulcalibur)
-clothing:bottomwear
-clothing:headwear
-clothing:topwear
-cravat
-creator:genzoman
-epaulettes
-gender:female
-gender:male
-hat
-headband
-japanese armor
-katana
-knife
-kote
-kurokote
-kusazuri
-manly
-mask
-multiple boys
-multiple females
-multiple girls
-multiple males
-muscle
-ninja
-pirate
-pirate hat
-rating:explicit
-rating:safe
-reverse grip
-samurai
-samurai armor
-series:original
-series:soulcalibur
-shoulder armor
-sode
-subreddit:imaginaryninjas
-subreddit:imaginarypirates
-subreddit:imcharacters
-sword
-title:pirates vs ninjas
-title:pirates vs ninjas by genzoman
-tricorne
-uploader:messiah69
-weapon
+4 females,
+4girls,
+6+ males,
+6+boys,
+armor,
+army,
+ass,
+belt,
+bodysuit,
+category:ine,
+chain,
+chains,
+character:cervantes de leon,
+character:heishirou mitsurugi,
+character:taki (soulcalibur),
+clothing:bottomwear,
+clothing:headwear,
+clothing:topwear,
+cravat,
+creator:genzoman,
+epaulettes,
+gender:female,
+gender:male,
+hat,
+headband,
+japanese armor,
+katana,
+knife,
+kote,
+kurokote,
+kusazuri,
+manly,
+mask,
+multiple boys,
+multiple females,
+multiple girls,
+multiple males,
+muscle,
+ninja,
+pirate,
+pirate hat,
+rating:explicit,
+rating:safe,
+reverse grip,
+samurai,
+samurai armor,
+series:original,
+series:soulcalibur,
+shoulder armor,
+sode,
+subreddit:imaginaryninjas,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+sword,
+title:pirates vs ninjas,
+title:pirates vs ninjas by genzoman,
+tricorne,
+uploader:messiah69,
+weapon,

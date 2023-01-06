@@ -1,23 +1,23 @@
-360
-castle
-category:ine
-creator:richard sashigane
-elves
-failed
-fantasy
-illustration
-medium:digital 2d
-negotiations
-orc
-painting
-panorama
-richard
-sashigane
-seige
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-title:failed negotiations (360 panorama) by richard sashigane
-title:failed negotiations.
-uploader:hvitserkr
-vr
-war
+360,
+castle,
+category:ine,
+creator:richard sashigane,
+elves,
+failed,
+fantasy,
+illustration,
+medium:digital 2d,
+negotiations,
+orc,
+painting,
+panorama,
+richard,
+sashigane,
+seige,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+title:failed negotiations (360 panorama) by richard sashigane,
+title:failed negotiations.,
+uploader:hvitserkr,
+vr,
+war,

@@ -1,26 +1,26 @@
-black border
-category:ine
-cloud
-cloudy sky
-forest
-ground vehicle
-landscape
-letterboxed
-military
-military vehicle
-motor vehicle
-mountain
-mountainous horizon
-nature
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarywildlands
-subreddit:imlandscapes
-sunset
-tank
-title:end of the world by yao qin
-tree
-uploader:lol33ta
+black border,
+category:ine,
+cloud,
+cloudy sky,
+forest,
+ground vehicle,
+landscape,
+letterboxed,
+military,
+military vehicle,
+motor vehicle,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarywildlands,
+subreddit:imlandscapes,
+sunset,
+tank,
+title:end of the world by yao qin,
+tree,
+uploader:lol33ta,

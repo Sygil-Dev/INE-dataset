@@ -1,33 +1,33 @@
-ambiguous gender
-black eyes
-booru:e621
-category:ine
-clover
-creator:cryptid-creations
-feral
-flower
-four leaf clover
-four-leaf clover
-furry
-gender:ambiguous
-green body
-green scales
-holidays
-meta:url
-plant
-rating:safe
-scales
-series:st. patrick's day
-solo
-species:reptile
-species:scalie
-species:turtle
-subreddit:imaginaryanimals
-subreddit:imnature
-swimming
-text
-title:daily paint 1942# happy st-patrick's day
-title:happy st-patrick's day by piper thibodeau
-triskelion
-uploader:myrandall
-water
+ambiguous gender,
+black eyes,
+booru:e621,
+category:ine,
+clover,
+creator:cryptid-creations,
+feral,
+flower,
+four leaf clover,
+four-leaf clover,
+furry,
+gender:ambiguous,
+green body,
+green scales,
+holidays,
+meta:url,
+plant,
+rating:safe,
+scales,
+series:st. patrick's day,
+solo,
+species:reptile,
+species:scalie,
+species:turtle,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+swimming,
+text,
+title:daily paint 1942# happy st-patrick's day,
+title:happy st-patrick's day by piper thibodeau,
+triskelion,
+uploader:myrandall,
+water,

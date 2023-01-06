@@ -1,47 +1,47 @@
-anthro
-anthropomorphism
-booru:e621
-building
-category:ine
-city
-cityscape
-creator:dan scott
-crest
-destruction
-feral
-furry
-group
-head crest
-macro
-meta:official art
-meta:restricted palette
-meta:signature
-rating:safe
-restricted palette
-roaring
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-sharp teeth
-signature
-source:e621
-species:amphibian
-species:avian
-species:bird
-species:frog
-species:marine
-species:merfolk
-species:mythical
-species:scalie
-split form
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarybehemoths
-subreddit:immonsters
-teeth
-title:biomass mutation by dan scott
-tower
-uhoh
-uploader:tellanas
+anthro,
+anthropomorphism,
+booru:e621,
+building,
+category:ine,
+city,
+cityscape,
+creator:dan scott,
+crest,
+destruction,
+feral,
+furry,
+group,
+head crest,
+macro,
+meta:official art,
+meta:restricted palette,
+meta:signature,
+rating:safe,
+restricted palette,
+roaring,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+sharp teeth,
+signature,
+source:e621,
+species:amphibian,
+species:avian,
+species:bird,
+species:frog,
+species:marine,
+species:merfolk,
+species:mythical,
+species:scalie,
+split form,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+teeth,
+title:biomass mutation by dan scott,
+tower,
+uhoh,
+uploader:tellanas,

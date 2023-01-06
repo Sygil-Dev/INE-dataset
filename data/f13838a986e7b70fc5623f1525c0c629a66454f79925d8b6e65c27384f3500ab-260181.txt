@@ -1,48 +1,48 @@
-ambiguous gender
-black eyes
-bodypart:black eyes
-category:ine
-creator:cryptid-creations
-duo
-feathered wings
-feathers
-feral
-fur
-gender:ambiguous
-gender:female
-grey body
-grey feathers
-grey fur
-humor
-loli body type
-meme:humor
-meta:english text
-meta:url
-pun
-rating:safe
-sky
-species:avian
-species:bird
-species:gull
-species:hybrid
-species:lari
-species:larid
-species:mammal
-species:marine
-species:pinniped
-species:seagull
-species:seal
-subreddit:imaginaryaww
-subreddit:imaginaryhybrids
-subreddit:immeta
-subreddit:immonsters
-text
-title:daily paint 2002# sealgull
-title:sealgull by piper thibodeau
-uploader:myrandall
-website:e621
-white body
-white feathers
-white fur
-wings
-young
+ambiguous gender,
+black eyes,
+bodypart:black eyes,
+category:ine,
+creator:cryptid-creations,
+duo,
+feathered wings,
+feathers,
+feral,
+fur,
+gender:ambiguous,
+gender:female,
+grey body,
+grey feathers,
+grey fur,
+humor,
+loli body type,
+meme:humor,
+meta:english text,
+meta:url,
+pun,
+rating:safe,
+sky,
+species:avian,
+species:bird,
+species:gull,
+species:hybrid,
+species:lari,
+species:larid,
+species:mammal,
+species:marine,
+species:pinniped,
+species:seagull,
+species:seal,
+subreddit:imaginaryaww,
+subreddit:imaginaryhybrids,
+subreddit:immeta,
+subreddit:immonsters,
+text,
+title:daily paint 2002# sealgull,
+title:sealgull by piper thibodeau,
+uploader:myrandall,
+website:e621,
+white body,
+white feathers,
+white fur,
+wings,
+young,

@@ -1,35 +1,35 @@
-beach
-blue sky
-boat
-category:ine
-cloud
-cloudy sky
-earth (planet)
-horizon
-island
-lake
-landscape
-mountain
-mountainous horizon
-no humans
-ocean
-outdoors
-planet
-rating:safe
-river
-scenery
-ship
-shore
-sky
-snow
-subreddit:imaginaryglaciers
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-sunset
-title:glaciation by niek schlosser
-uploader:[deleted]
-uploader:lol33ta
-warship
-water
-watercraft
-waves
+beach,
+blue sky,
+boat,
+category:ine,
+cloud,
+cloudy sky,
+earth (planet),
+horizon,
+island,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+river,
+scenery,
+ship,
+shore,
+sky,
+snow,
+subreddit:imaginaryglaciers,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+sunset,
+title:glaciation by niek schlosser,
+uploader:[deleted],
+uploader:lol33ta,
+warship,
+water,
+watercraft,
+waves,

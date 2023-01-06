@@ -1,49 +1,49 @@
-1 male
-1boy
-baron samedi (smite)
-belt
-booru:danbooru
-booru:gelbooru
-category:ine
-character:baron samedi (smite)
-clothing:headwear
-creator:scebiqu
-creator:simon eckert
-dark skin
-facial mark
-feathers
-flower
-furry
-gender:male
-ghost
-hat
-jewelry
-leaf
-male focus
-medium:high resolution
-meta:highres
-night
-night sky
-rating:mature
-rating:safe
-ring
-series:smite
-skull
-sky
-snake
-solo
-species:reptile
-species:scalie
-species:snake
-staff
-statue
-studio:hi-rez
-subreddit:imaginaryundead
-subreddit:immonsters
-teeth
-title:smite baron samedi
-title:smite baron samedi by simon ecker
-tombstone
-uploader:net-diver
-voodoo
-yellow eyes
+1 male,
+1boy,
+baron samedi (smite),
+belt,
+booru:danbooru,
+booru:gelbooru,
+category:ine,
+character:baron samedi (smite),
+clothing:headwear,
+creator:scebiqu,
+creator:simon eckert,
+dark skin,
+facial mark,
+feathers,
+flower,
+furry,
+gender:male,
+ghost,
+hat,
+jewelry,
+leaf,
+male focus,
+medium:high resolution,
+meta:highres,
+night,
+night sky,
+rating:mature,
+rating:safe,
+ring,
+series:smite,
+skull,
+sky,
+snake,
+solo,
+species:reptile,
+species:scalie,
+species:snake,
+staff,
+statue,
+studio:hi-rez,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+teeth,
+title:smite baron samedi,
+title:smite baron samedi by simon ecker,
+tombstone,
+uploader:net-diver,
+voodoo,
+yellow eyes,

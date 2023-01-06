@@ -1,24 +1,24 @@
-black and white
-category:ine
-creator:daniel adams-dufresne
-creepy
-dark fantasy
-death
-fairytale
-forest
-haunting
-medium:digital 2d
-minimalism
-palace
-pop of color
-portal
-stained glass
-steampunk
-storybook
-subreddit:imaginaryportals
-subreddit:imtechnology
-title:the hanging gardens
-title:the hanging gardens by daniel adams
-uploader:evejou
-victorian era
-winter
+black and white,
+category:ine,
+creator:daniel adams-dufresne,
+creepy,
+dark fantasy,
+death,
+fairytale,
+forest,
+haunting,
+medium:digital 2d,
+minimalism,
+palace,
+pop of color,
+portal,
+stained glass,
+steampunk,
+storybook,
+subreddit:imaginaryportals,
+subreddit:imtechnology,
+title:the hanging gardens,
+title:the hanging gardens by daniel adams,
+uploader:evejou,
+victorian era,
+winter,

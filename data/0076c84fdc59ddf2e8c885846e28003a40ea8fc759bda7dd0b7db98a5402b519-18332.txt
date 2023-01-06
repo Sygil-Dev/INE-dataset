@@ -1,25 +1,25 @@
-blue theme
-boat
-category:ine
-cave
-facing away
-fantasy
-fish
-glowing
-light rays
-mountain
-no humans
-ocean
-rating:safe
-scenery
-subreddit:imaginarytemples
-subreddit:imaginarywinterscapes
-subreddit:imarchitecture
-subreddit:imlandscapes
-title:tian ma shen gong by hongliang liu
-underwater
-uploader:lol33ta
-water
-watercraft
-waterfall
-whale
+blue theme,
+boat,
+category:ine,
+cave,
+facing away,
+fantasy,
+fish,
+glowing,
+light rays,
+mountain,
+no humans,
+ocean,
+rating:safe,
+scenery,
+subreddit:imaginarytemples,
+subreddit:imaginarywinterscapes,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+title:tian ma shen gong by hongliang liu,
+underwater,
+uploader:lol33ta,
+water,
+watercraft,
+waterfall,
+whale,

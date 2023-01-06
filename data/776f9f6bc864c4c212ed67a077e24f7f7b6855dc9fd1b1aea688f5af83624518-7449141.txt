@@ -1,56 +1,56 @@
-2017
-armor
-asian clothing
-booru:e621
-category:ine
-character:rainbow dash
-character:rainbow dash (mlp)
-clothing
-clothing:armor
-creator:asimos
-detailed background
-east asian clothing
-female
-feral
-gender:female
-genre:fantasy
-hair
-japanese clothes
-japanese clothing
-katana
-medium:detailed background
-melee weapon
-meta:2017
-mlpfim
-mount fuji
-mountain
-multicolored hair
-mylittlepony
-mylittleponyfriendshipismagic
-pegasus
-rainbow hair
-rainbowdash
-rating:safe
-samurai
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sword
-title:loyalty
-title:loyalty by viktor/'asimos'
-uploader:myrandall
-warrior
-weapon
-wings
-year:2017
+2017,
+armor,
+asian clothing,
+booru:e621,
+category:ine,
+character:rainbow dash,
+character:rainbow dash (mlp),
+clothing,
+clothing:armor,
+creator:asimos,
+detailed background,
+east asian clothing,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+japanese clothes,
+japanese clothing,
+katana,
+medium:detailed background,
+melee weapon,
+meta:2017,
+mlpfim,
+mount fuji,
+mountain,
+multicolored hair,
+mylittlepony,
+mylittleponyfriendshipismagic,
+pegasus,
+rainbow hair,
+rainbowdash,
+rating:safe,
+samurai,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sword,
+title:loyalty,
+title:loyalty by viktor/'asimos',
+uploader:myrandall,
+warrior,
+weapon,
+wings,
+year:2017,

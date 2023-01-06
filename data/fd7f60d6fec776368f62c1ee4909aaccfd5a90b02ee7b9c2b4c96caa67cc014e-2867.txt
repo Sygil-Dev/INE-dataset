@@ -1,73 +1,73 @@
-ambiguous gender
-black eyes
-booru:e621
-booru:gelbooru
-booru:safebooru
-bubble
-category:ine
-character:chinchou
-character:jellicent
-creator:bluekomadori
-creator:sora23163
-creator:コマドリ
-diving
-eeveelution
-feral
-fins
-full body
-gen 1 pokemon
-gen 1 pokémon
-gen 2 pokemon
-gen 5 pokemon
-gender:ambiguous
-gender:female
-glowing
-group
-head fins
-light
-medium:high resolution
-medium:watermark
-medium:web address
-meta:2:3
-meta:hi res
-meta:highres
-no humans
-open mouth
-pixiv artist id:2124558
-pixiv illust id:47427558
-pokemon 5000 users bookmark
-rating:safe
-red eyes
-sea
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokémon
-smile
-species:chinchou
-species:cnidarian
-species:eeveelution
-species:jellicent
-species:marine
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:vaporeon
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-sunlight
-swimming
-tail
-title:"vaporeon and chinchou" by bluekomadori
-title:vaporeon and chinchou by bluekomadori
-title:シャワーズ
-underwater
-uploader:lol33ta
-uploader:torvusil
-water
-ぜひお願いします!
-なにこれ綺麗
-ポケットモンスター
+ambiguous gender,
+black eyes,
+booru:e621,
+booru:gelbooru,
+booru:safebooru,
+bubble,
+category:ine,
+character:chinchou,
+character:jellicent,
+creator:bluekomadori,
+creator:sora23163,
+creator:コマドリ,
+diving,
+eeveelution,
+feral,
+fins,
+full body,
+gen 1 pokemon,
+gen 1 pokémon,
+gen 2 pokemon,
+gen 5 pokemon,
+gender:ambiguous,
+gender:female,
+glowing,
+group,
+head fins,
+light,
+medium:high resolution,
+medium:watermark,
+medium:web address,
+meta:2:3,
+meta:hi res,
+meta:highres,
+no humans,
+open mouth,
+pixiv artist id:2124558,
+pixiv illust id:47427558,
+pokemon 5000 users bookmark,
+rating:safe,
+red eyes,
+sea,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokémon,
+smile,
+species:chinchou,
+species:cnidarian,
+species:eeveelution,
+species:jellicent,
+species:marine,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:vaporeon,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sunlight,
+swimming,
+tail,
+title:"vaporeon and chinchou" by bluekomadori,
+title:vaporeon and chinchou by bluekomadori,
+title:シャワーズ,
+underwater,
+uploader:lol33ta,
+uploader:torvusil,
+water,
+ぜひお願いします!,
+なにこれ綺麗,
+ポケットモンスター,

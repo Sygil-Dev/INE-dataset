@@ -1,59 +1,59 @@
-american flag
-ammunition
-big foot
-bigfoot
-blood
-bodily fluids
-booru:e621
-bullet
-bullets
-category:ine
-character:bigfoot
-character:theodore roosevelt
-clothed
-clothing
-clothing:tagme
-creator:sharpwriter
-cryptid
-fire
-firearm
-flag
-fully clothed
-gender:male
-gun
-m60
-machine gun
-male
-medium:high resolution
-meta:hi res
-meta:warm colors
-monster
-plant
-ranged weapon
-rating:questionable
-sasquatch
-sharpwriter
-smoking
-species:bigfoot
-species:human
-species:mammal
-species:monster
-species:primate
-species:sasquatch
-stars and stripes
-subreddit:imaginaryhistory
-subreddit:imaginarypolitics
-subreddit:immeta
-suit
-teddy roosevelt
-theodore roosevelt
-title:teddy roosevelt vs. bigfoot
-title:teddy roosevelt vs. bigfoot - by jason odin heuser
-title:teddy roosevelt vs. bigfoot by jason heuser
-tree
-united states of america
-uploader:davidreiss666
-uploader:greypo
-wallpaper
-warm colors
-weapon
+american flag,
+ammunition,
+big foot,
+bigfoot,
+blood,
+bodily fluids,
+booru:e621,
+bullet,
+bullets,
+category:ine,
+character:bigfoot,
+character:theodore roosevelt,
+clothed,
+clothing,
+clothing:tagme,
+creator:sharpwriter,
+cryptid,
+fire,
+firearm,
+flag,
+fully clothed,
+gender:male,
+gun,
+m60,
+machine gun,
+male,
+medium:high resolution,
+meta:hi res,
+meta:warm colors,
+monster,
+plant,
+ranged weapon,
+rating:questionable,
+sasquatch,
+sharpwriter,
+smoking,
+species:bigfoot,
+species:human,
+species:mammal,
+species:monster,
+species:primate,
+species:sasquatch,
+stars and stripes,
+subreddit:imaginaryhistory,
+subreddit:imaginarypolitics,
+subreddit:immeta,
+suit,
+teddy roosevelt,
+theodore roosevelt,
+title:teddy roosevelt vs. bigfoot,
+title:teddy roosevelt vs. bigfoot - by jason odin heuser,
+title:teddy roosevelt vs. bigfoot by jason heuser,
+tree,
+united states of america,
+uploader:davidreiss666,
+uploader:greypo,
+wallpaper,
+warm colors,
+weapon,

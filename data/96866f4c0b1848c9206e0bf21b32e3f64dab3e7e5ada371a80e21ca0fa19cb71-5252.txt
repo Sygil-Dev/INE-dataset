@@ -1,60 +1,60 @@
-2019
-ambiguous gender
-ambiguous_gender
-artist:kenket
-blue eyes
-blue_eyes
-booru:e621
-canid
-canis
-category:ine
-character:midday lycanroc
-copyright:nintendo
-copyright:pokémon
-creator:kenket
-feral
-fluffy
-fur
-gender:ambiguous
-kenket
-looking at viewer
-looking_at_viewer
-medium:traditional media
-meta:2019
-meta:portrait
-meta:traditional media (artwork)
-meta:traditional_media_(artwork)
-midday lycanroc
-outside
-pokémon
-pokémon (species)
-portrait
-pov
-rating:safe
-sassy
-series:pokémon
-smile
-smug
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:lycanroc
-species:mammal
-species:midday lycanroc
-species:midday_lycanroc
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:wolf
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:midday lycanroc
-title:midday lycanroc by tess garman
-traditional media (artwork)
-uploader:myrandall
-video games
-video_games
+2019,
+ambiguous gender,
+ambiguous_gender,
+artist:kenket,
+blue eyes,
+blue_eyes,
+booru:e621,
+canid,
+canis,
+category:ine,
+character:midday lycanroc,
+copyright:nintendo,
+copyright:pokémon,
+creator:kenket,
+feral,
+fluffy,
+fur,
+gender:ambiguous,
+kenket,
+looking at viewer,
+looking_at_viewer,
+medium:traditional media,
+meta:2019,
+meta:portrait,
+meta:traditional media (artwork),
+meta:traditional_media_(artwork),
+midday lycanroc,
+outside,
+pokémon,
+pokémon (species),
+portrait,
+pov,
+rating:safe,
+sassy,
+series:pokémon,
+smile,
+smug,
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:lycanroc,
+species:mammal,
+species:midday lycanroc,
+species:midday_lycanroc,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:wolf,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:midday lycanroc,
+title:midday lycanroc by tess garman,
+traditional media (artwork),
+uploader:myrandall,
+video games,
+video_games,

@@ -1,28 +1,28 @@
-artowork
-blood
-bodily fluids
-category:ine
-creator:michele frigo
-digitalart
-digitalpaint
-fantasy
-illustration
-imperium
-medium:digital 2d
-michelefrigo
-painting
-series:warhammer 40,000
-snow
-space
-space marines
-space wolves
-spacemarine
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-sword
-title:lone wolf by michele frigo
-uploader:panzer-kunst
-warhammer
-weapon
-wolf
+artowork,
+blood,
+bodily fluids,
+category:ine,
+creator:michele frigo,
+digitalart,
+digitalpaint,
+fantasy,
+illustration,
+imperium,
+medium:digital 2d,
+michelefrigo,
+painting,
+series:warhammer 40,000,
+snow,
+space,
+space marines,
+space wolves,
+spacemarine,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+sword,
+title:lone wolf by michele frigo,
+uploader:panzer-kunst,
+warhammer,
+weapon,
+wolf,

@@ -1,23 +1,23 @@
-artgerm
-blonde hair
-blue clothing
-cape
-category:ine
-character:supergirl
-clothing:legwear
-creator:artgerm
-creator:stanley lau
-drawing
-gender:female
-long hair
-magazine cover
-red clothing
-series:dc comics
-shorts
-smiling
-studio:dc comics
-subreddit:imaginarydc
-subreddit:imfandoms
-title:supergirl 18 by stanley lau
-uploader:incredibel
-wavy hair
+artgerm,
+blonde hair,
+blue clothing,
+cape,
+category:ine,
+character:supergirl,
+clothing:legwear,
+creator:artgerm,
+creator:stanley lau,
+drawing,
+gender:female,
+long hair,
+magazine cover,
+red clothing,
+series:dc comics,
+shorts,
+smiling,
+studio:dc comics,
+subreddit:imaginarydc,
+subreddit:imfandoms,
+title:supergirl 18 by stanley lau,
+uploader:incredibel,
+wavy hair,

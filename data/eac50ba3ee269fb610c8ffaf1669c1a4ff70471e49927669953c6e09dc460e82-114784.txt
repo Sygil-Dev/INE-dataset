@@ -1,26 +1,26 @@
-category:ine
-character:dr. angela "mercy" ziegler
-creator:ilse harting
-digital drawing (artwork)
-fan art
-fanart
-genre:science fiction
-girl
-illustration
-medium:2d art
-medium:digital 2d
-medium:digital media
-mercy
-overwatch
-portrait
-series:overwatch
-sexy
-studio:blizzard entertainment
-subreddit:imaginarygaming
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-title:"heroes never die" by ilse harting
-title:''heroes never die''
-title:heroes never die by ilse harting
-uploader:lol33ta
-uploader:torvusil
+category:ine,
+character:dr. angela "mercy" ziegler,
+creator:ilse harting,
+digital drawing (artwork),
+fan art,
+fanart,
+genre:science fiction,
+girl,
+illustration,
+medium:2d art,
+medium:digital 2d,
+medium:digital media,
+mercy,
+overwatch,
+portrait,
+series:overwatch,
+sexy,
+studio:blizzard entertainment,
+subreddit:imaginarygaming,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+title:"heroes never die" by ilse harting,
+title:''heroes never die'',
+title:heroes never die by ilse harting,
+uploader:lol33ta,
+uploader:torvusil,

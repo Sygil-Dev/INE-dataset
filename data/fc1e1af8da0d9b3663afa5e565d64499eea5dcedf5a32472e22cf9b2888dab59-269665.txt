@@ -1,25 +1,25 @@
-army
-building
-castle
-category:ine
-fantasy art
-fantasy girl
-flag
-furry
-gender:female
-illustration
-kingdom of heaven
-mask
-medieval
-medium:digital media
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarycastles
-subreddit:imaginarynobles
-subreddit:imarchitecture
-subreddit:imcharacters
-title:"malta challenge" by aria safarzadegan
-unicorn
-uploader:pyro_azer
-warrior
+army,
+building,
+castle,
+category:ine,
+fantasy art,
+fantasy girl,
+flag,
+furry,
+gender:female,
+illustration,
+kingdom of heaven,
+mask,
+medieval,
+medium:digital media,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarycastles,
+subreddit:imaginarynobles,
+subreddit:imarchitecture,
+subreddit:imcharacters,
+title:"malta challenge" by aria safarzadegan,
+unicorn,
+uploader:pyro_azer,
+warrior,

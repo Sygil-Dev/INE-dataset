@@ -1,29 +1,29 @@
-1girl
-armor
-artist name
-battle
-bikini armor
-blonde hair
-breasts
-category:ine
-creator:bayardwu
-creator:deviantart.com/bayardwu/gallery/?catpath=/&offset=0
-glowing
-helmet
-holding
-holding weapon
-lions
-long hair
-navel
-polearm
-rating:safe
-seven
-signature
-subreddit:imaginaryundead
-subreddit:immonsters
-sword
-thighhighs
-title:album cover work for seven lions by bayard wu
-title:album cover work for seven lions.
-uploader:myrandall
-weapon
+1girl,
+armor,
+artist name,
+battle,
+bikini armor,
+blonde hair,
+breasts,
+category:ine,
+creator:bayardwu,
+creator:deviantart.com/bayardwu/gallery/?catpath=/&offset=0,
+glowing,
+helmet,
+holding,
+holding weapon,
+lions,
+long hair,
+navel,
+polearm,
+rating:safe,
+seven,
+signature,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+sword,
+thighhighs,
+title:album cover work for seven lions by bayard wu,
+title:album cover work for seven lions.,
+uploader:myrandall,
+weapon,

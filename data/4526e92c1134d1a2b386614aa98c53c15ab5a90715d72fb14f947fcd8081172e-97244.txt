@@ -1,22 +1,22 @@
-atmosphere
-category:ine
-composition
-creator:raphael lacoste
-enviroment
-genre:science fiction
-landscape
-mattepaint
-mattepainting
-medium:digital 3d
-mood
-planet
-raphael lacoste
-red
-sciencefiction
-spacecraft
-spaceship
-subreddit:imaginarystarships
-subreddit:imtechnology
-title:red planet 2.0
-title:red planet 2.0 by raphael lacoste
-uploader:panzer-kunst
+atmosphere,
+category:ine,
+composition,
+creator:raphael lacoste,
+enviroment,
+genre:science fiction,
+landscape,
+mattepaint,
+mattepainting,
+medium:digital 3d,
+mood,
+planet,
+raphael lacoste,
+red,
+sciencefiction,
+spacecraft,
+spaceship,
+subreddit:imaginarystarships,
+subreddit:imtechnology,
+title:red planet 2.0,
+title:red planet 2.0 by raphael lacoste,
+uploader:panzer-kunst,

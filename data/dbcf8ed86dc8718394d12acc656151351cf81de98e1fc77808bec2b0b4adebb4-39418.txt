@@ -1,30 +1,30 @@
-1 female
-1girl
-artist:raikoart
-bare shoulders
-brown eyes
-brown hair
-category:ine
-clothing:hair tie
-creator:raikoart
-creator:sean "raiko" tay
-flat chest
-gender:female
-girl
-long hair
-medium:digital 2d
-raikoart
-rating:safe
-shadow
-short hair
-solo
-study
-subreddit:imaginaryhumans
-subreddit:imraces
-sunlight
-tied hair
-title:f a h r e n h e i t
-title:fahrenheit
-title:fahrenheit by sean tay
-uploader:myrandall
-warm
+1 female,
+1girl,
+artist:raikoart,
+bare shoulders,
+brown eyes,
+brown hair,
+category:ine,
+clothing:hair tie,
+creator:raikoart,
+creator:sean "raiko" tay,
+flat chest,
+gender:female,
+girl,
+long hair,
+medium:digital 2d,
+raikoart,
+rating:safe,
+shadow,
+short hair,
+solo,
+study,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+sunlight,
+tied hair,
+title:f a h r e n h e i t,
+title:fahrenheit,
+title:fahrenheit by sean tay,
+uploader:myrandall,
+warm,

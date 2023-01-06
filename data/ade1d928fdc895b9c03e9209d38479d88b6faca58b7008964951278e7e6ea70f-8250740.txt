@@ -1,57 +1,57 @@
-allergies
-ambiguous gender
-and
-androgynous
-anthro
-booru:e621
-category:ine
-creator:rhyu
-ermine
-flower
-foliage
-fur
-gender:ambiguous
-gender:male
-looking at viewer
-male
-mammal
-medium:2015
-medium:high resolution
-meta:2015
-meta:hi res
-meta:useless tags
-mustela
-mustelid
-musteline
-plant
-pollen
-pov
-purple eyes
-rajewel
-rating:questionable
-rating:safe
-rhyu
-siberdrac
-solo
-source:furaffinity.net
-sparkles
-species:ermine
-species:mammal
-species:mustela
-species:mustelid
-species:musteline
-species:stoat
-species:true musteline
-stoat
-subreddit:imaginaryhybrids
-subreddit:immonsters
-title:fusion
-title:fusion, by robyn (rajewel)
-true musteline
-uploader:belledame-sans-serif
-website:reddit
-whiskers
-white body
-white fur
-year:2015
-zaidan
+allergies,
+ambiguous gender,
+and,
+androgynous,
+anthro,
+booru:e621,
+category:ine,
+creator:rhyu,
+ermine,
+flower,
+foliage,
+fur,
+gender:ambiguous,
+gender:male,
+looking at viewer,
+male,
+mammal,
+medium:2015,
+medium:high resolution,
+meta:2015,
+meta:hi res,
+meta:useless tags,
+mustela,
+mustelid,
+musteline,
+plant,
+pollen,
+pov,
+purple eyes,
+rajewel,
+rating:questionable,
+rating:safe,
+rhyu,
+siberdrac,
+solo,
+source:furaffinity.net,
+sparkles,
+species:ermine,
+species:mammal,
+species:mustela,
+species:mustelid,
+species:musteline,
+species:stoat,
+species:true musteline,
+stoat,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+title:fusion,
+title:fusion, by robyn (rajewel),
+true musteline,
+uploader:belledame-sans-serif,
+website:reddit,
+whiskers,
+white body,
+white fur,
+year:2015,
+zaidan,

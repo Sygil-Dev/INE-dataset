@@ -1,56 +1,56 @@
-4 toes
-alpha channel
-ambiguous gender
-anisodactyl
-aquarath
-beak
-beast
-bird feet
-black beak
-black body
-black feathers
-booru:e621
-category:ine
-creator:pechschwinge
-creature
-dark
-dasschwarzeauge
-demon
-fantasy
-feathered wings
-feathers
-feet
-feral
-fire
-gender:ambiguous
-glow
-gryphon
-irrhalk
-medium:digital media
-medium:simple background
-medium:transparent background
-meta:alpha channel
-meta:digital media (artwork)
-meta:hi res
-monster
-rating:safe
-series:mythology
-simple background
-solo
-species:avian
-species:gryphon
-species:hybrid
-species:mythical
-species:mythological avian
-spiele
-subreddit:imaginarydemons
-subreddit:immonsters
-thedarkeye
-title:irrhalk
-title:irrhalk by nadine schäkel
-toes
-transparent background
-ulisses
-uploader:net-diver
-white background
-wings
+4 toes,
+alpha channel,
+ambiguous gender,
+anisodactyl,
+aquarath,
+beak,
+beast,
+bird feet,
+black beak,
+black body,
+black feathers,
+booru:e621,
+category:ine,
+creator:pechschwinge,
+creature,
+dark,
+dasschwarzeauge,
+demon,
+fantasy,
+feathered wings,
+feathers,
+feet,
+feral,
+fire,
+gender:ambiguous,
+glow,
+gryphon,
+irrhalk,
+medium:digital media,
+medium:simple background,
+medium:transparent background,
+meta:alpha channel,
+meta:digital media (artwork),
+meta:hi res,
+monster,
+rating:safe,
+series:mythology,
+simple background,
+solo,
+species:avian,
+species:gryphon,
+species:hybrid,
+species:mythical,
+species:mythological avian,
+spiele,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+thedarkeye,
+title:irrhalk,
+title:irrhalk by nadine schäkel,
+toes,
+transparent background,
+ulisses,
+uploader:net-diver,
+white background,
+wings,

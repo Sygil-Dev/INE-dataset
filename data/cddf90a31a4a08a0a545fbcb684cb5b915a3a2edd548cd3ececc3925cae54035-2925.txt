@@ -1,23 +1,23 @@
-aegontargaryen
-alt%c4%b1n%c3%b6z
-altinoz
-asoiaf
-asongoficeandfire
-category:ine
-creator:ertacaltinoz
-daenerystargaryen
-drogon
-erta%c3%a7alt%c4%b1n%c3%b6z
-ertacaltinoz
-gameofthrones
-got
-gots8
-grrmartin
-jonsnow
-khaleesi
-rhaegal
-subreddit:imaginarydragons
-subreddit:immonsters
-title:you have a gentle heart
-title:you have a gentle heart by ertac altinoz
-uploader:adverserius
+aegontargaryen,
+alt%c4%b1n%c3%b6z,
+altinoz,
+asoiaf,
+asongoficeandfire,
+category:ine,
+creator:ertacaltinoz,
+daenerystargaryen,
+drogon,
+erta%c3%a7alt%c4%b1n%c3%b6z,
+ertacaltinoz,
+gameofthrones,
+got,
+gots8,
+grrmartin,
+jonsnow,
+khaleesi,
+rhaegal,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:you have a gentle heart,
+title:you have a gentle heart by ertac altinoz,
+uploader:adverserius,

@@ -1,38 +1,38 @@
-ambiguous gender
-ambiguous/ambiguous
-black body
-black scales
-blue body
-blue eyes
-blue scales
-blue tongue
-booru:e621
-category:ine
-closed eyes
-creator:ferrety-lixciaa
-cute
-duo
-eyes closed
-fangs
-feral
-furry
-gem
-gender:ambiguous
-half-closed eyes
-love
-medium:high resolution
-meta:hi res
-narrowed eyes
-open mouth
-rating:safe
-scales
-series:istaria chronicles of the gifted
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarylovers
-subreddit:imcharacters
-title:"cutie patooties" by alicia (ferrety-lixciaa)
-title:art trade/collab - cutie patooties
-tongue
-uploader:torvusil
+ambiguous gender,
+ambiguous/ambiguous,
+black body,
+black scales,
+blue body,
+blue eyes,
+blue scales,
+blue tongue,
+booru:e621,
+category:ine,
+closed eyes,
+creator:ferrety-lixciaa,
+cute,
+duo,
+eyes closed,
+fangs,
+feral,
+furry,
+gem,
+gender:ambiguous,
+half-closed eyes,
+love,
+medium:high resolution,
+meta:hi res,
+narrowed eyes,
+open mouth,
+rating:safe,
+scales,
+series:istaria chronicles of the gifted,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+title:"cutie patooties" by alicia (ferrety-lixciaa),
+title:art trade/collab - cutie patooties,
+tongue,
+uploader:torvusil,

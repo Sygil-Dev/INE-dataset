@@ -1,90 +1,90 @@
-1 female
-1girl
-armor
-artist:yoon lee
-artstation_sample
-bangs
-bodysuit
-booru:danbooru
-booru:gelbooru
-booru:safebooru
-booru:tbib
-bottomwear
-brown eyes
-brown hair
-cannon
-canon
-category:ine
-character name
-character:d.va
-character:d.va (overwatch)
-character:hana "d.va" song
-character:hana "d.va" song (overwatch)
-character:meka (overwatch)
-character_name
-clothing:bodysuit
-clothing:bottomwear
-clothing:gloves
-clothing:topwear
-clothing:white gloves
-concept art
-copyright:overwatch
-creator:yoon lee
-d.va_(overwatch)
-dva
-facial mark
-facial_mark
-fanart
-female
-female only
-firearm
-firing
-gatling gun
-gatling_gun
-gender:female
-genre:science fiction
-girls:1
-gloves
-gun
-headphones
-high resolution
-highres
-image sample
-image_sample
-logo
-long hair
-markings
-mecha
-medium:character name
-medium:digital 2d
-medium:high resolution
-medium:image
-medium:logo
-medium:no audio
-medium:video
-meka (overwatch)
-meka_(overwatch)
-meta:artstation sample
-meta:highres
-meta:image sample
-open mouth
-overwatch
-pilot suit
-pilot_suit
-rating:mature
-rating:safe
-series:overwatch
-shouting
-solo
-studio:blizzard entertainment
-subreddit:imaginarygaming
-subreddit:imfandoms
-title:"d.va" by yoon lee
-topwear
-uploader:torvusil
-weapon
-whisker markings
-whisker_markings
-white gloves
-white_gloves
-yoon_lee
+1 female,
+1girl,
+armor,
+artist:yoon lee,
+artstation_sample,
+bangs,
+bodysuit,
+booru:danbooru,
+booru:gelbooru,
+booru:safebooru,
+booru:tbib,
+bottomwear,
+brown eyes,
+brown hair,
+cannon,
+canon,
+category:ine,
+character name,
+character:d.va,
+character:d.va (overwatch),
+character:hana "d.va" song,
+character:hana "d.va" song (overwatch),
+character:meka (overwatch),
+character_name,
+clothing:bodysuit,
+clothing:bottomwear,
+clothing:gloves,
+clothing:topwear,
+clothing:white gloves,
+concept art,
+copyright:overwatch,
+creator:yoon lee,
+d.va_(overwatch),
+dva,
+facial mark,
+facial_mark,
+fanart,
+female,
+female only,
+firearm,
+firing,
+gatling gun,
+gatling_gun,
+gender:female,
+genre:science fiction,
+girls:1,
+gloves,
+gun,
+headphones,
+high resolution,
+highres,
+image sample,
+image_sample,
+logo,
+long hair,
+markings,
+mecha,
+medium:character name,
+medium:digital 2d,
+medium:high resolution,
+medium:image,
+medium:logo,
+medium:no audio,
+medium:video,
+meka (overwatch),
+meka_(overwatch),
+meta:artstation sample,
+meta:highres,
+meta:image sample,
+open mouth,
+overwatch,
+pilot suit,
+pilot_suit,
+rating:mature,
+rating:safe,
+series:overwatch,
+shouting,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+title:"d.va" by yoon lee,
+topwear,
+uploader:torvusil,
+weapon,
+whisker markings,
+whisker_markings,
+white gloves,
+white_gloves,
+yoon_lee,

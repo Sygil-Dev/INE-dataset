@@ -1,103 +1,103 @@
-1 female
-1 male
-1girl
-armor
-artist name
-banned artist
-bare shoulders
-bent knees
-bird
-black hair
-blue eyes
-blue sky
-bodypart:black hair
-bodypart:blue eyes
-bodypart:breasts
-bodypart:large breasts
-bodypart:long hair
-bottle
-bracelet
-breasts
-casual
-category:ine
-character:diana prince
-character:wonder woman
-cleavage
-clothing:bracelet
-clothing:earrings
-clothing:jewelry
-cloud
-creator:sakimichan
-cup
-dc comics
-diana prince
-eagle
-earrings
-fanart from deviantart
-female focus
-female only
-female:1
-filename:wonderwoman_casual
-filename:wonderwoman_casual.jpg
-gauntlets
-gender:female
-gender:male
-hair:black
-holding
-holding object
-jewelry
-large breasts
-light skin
-light-skinned
-light-skinned female
-lips
-long hair
-looking away
-male:1
-medium:artist name
-medium:fanart from deviantart
-medium:focus on female character
-medium:patreon reward
-medium:realistic
-medium:text
-medium:watermark
-meta:paid reward
-meta:patreon reward
-meta:pixiv-import
-meta:watermark
-name tag
-piercing
-rating:mature
-rating:safe
-realistic
-rope
-sakimichan
-series:dc comics
-series:wonder woman
-series:wonder woman (series)
-site:deviant art
-site:patreon
-site:yiff.party
-sitting
-sky
-smile
-solo
-star (object)
-studio:dc comics
-subreddit:imaginarydc
-subreddit:imfandoms
-superhero
-superheroine
-text
-tiara
-title:wonder woman day off
-title:wonder woman day off by sakimi chan
-uploader:incredibel
-watermark
-weapon
-website:danbooru
-website:gelbooru
-whip
-wind
-wonder woman
-wonder woman (series)
+1 female,
+1 male,
+1girl,
+armor,
+artist name,
+banned artist,
+bare shoulders,
+bent knees,
+bird,
+black hair,
+blue eyes,
+blue sky,
+bodypart:black hair,
+bodypart:blue eyes,
+bodypart:breasts,
+bodypart:large breasts,
+bodypart:long hair,
+bottle,
+bracelet,
+breasts,
+casual,
+category:ine,
+character:diana prince,
+character:wonder woman,
+cleavage,
+clothing:bracelet,
+clothing:earrings,
+clothing:jewelry,
+cloud,
+creator:sakimichan,
+cup,
+dc comics,
+diana prince,
+eagle,
+earrings,
+fanart from deviantart,
+female focus,
+female only,
+female:1,
+filename:wonderwoman_casual,
+filename:wonderwoman_casual.jpg,
+gauntlets,
+gender:female,
+gender:male,
+hair:black,
+holding,
+holding object,
+jewelry,
+large breasts,
+light skin,
+light-skinned,
+light-skinned female,
+lips,
+long hair,
+looking away,
+male:1,
+medium:artist name,
+medium:fanart from deviantart,
+medium:focus on female character,
+medium:patreon reward,
+medium:realistic,
+medium:text,
+medium:watermark,
+meta:paid reward,
+meta:patreon reward,
+meta:pixiv-import,
+meta:watermark,
+name tag,
+piercing,
+rating:mature,
+rating:safe,
+realistic,
+rope,
+sakimichan,
+series:dc comics,
+series:wonder woman,
+series:wonder woman (series),
+site:deviant art,
+site:patreon,
+site:yiff.party,
+sitting,
+sky,
+smile,
+solo,
+star (object),
+studio:dc comics,
+subreddit:imaginarydc,
+subreddit:imfandoms,
+superhero,
+superheroine,
+text,
+tiara,
+title:wonder woman day off,
+title:wonder woman day off by sakimi chan,
+uploader:incredibel,
+watermark,
+weapon,
+website:danbooru,
+website:gelbooru,
+whip,
+wind,
+wonder woman,
+wonder woman (series),

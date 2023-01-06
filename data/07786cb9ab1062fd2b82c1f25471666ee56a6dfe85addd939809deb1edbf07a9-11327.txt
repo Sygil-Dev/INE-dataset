@@ -1,54 +1,54 @@
-battle
-breathing fire
-burning
-cannon
-category:ine
-cloud
-cloudy sky
-condensation trail
-damaged
-destruction
-embers
-explosion
-fire
-firing
-flame
-flaming sword
-flaming weapon
-ground vehicle
-gun
-helicopter
-helmet
-lens flare
-light rays
-lightning
-mecha
-military
-military vehicle
-missile
-motor vehicle
-muzzle flash
-no humans
-ocean
-rating:safe
-realistic
-rifle
-science fiction
-sky
-smoke
-soldier
-space craft
-sparks
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-sun
-sunlight
-sunrise
-sunset
-tank
-title:"final battle" by kagerott
-torch
-twilight
-uploader:lord_pulsar
-war
-weapon
+battle,
+breathing fire,
+burning,
+cannon,
+category:ine,
+cloud,
+cloudy sky,
+condensation trail,
+damaged,
+destruction,
+embers,
+explosion,
+fire,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+ground vehicle,
+gun,
+helicopter,
+helmet,
+lens flare,
+light rays,
+lightning,
+mecha,
+military,
+military vehicle,
+missile,
+motor vehicle,
+muzzle flash,
+no humans,
+ocean,
+rating:safe,
+realistic,
+rifle,
+science fiction,
+sky,
+smoke,
+soldier,
+space craft,
+sparks,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+sun,
+sunlight,
+sunrise,
+sunset,
+tank,
+title:"final battle" by kagerott,
+torch,
+twilight,
+uploader:lord_pulsar,
+war,
+weapon,

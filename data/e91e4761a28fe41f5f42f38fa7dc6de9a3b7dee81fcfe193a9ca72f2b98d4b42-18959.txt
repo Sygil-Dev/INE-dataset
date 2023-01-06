@@ -1,34 +1,34 @@
-barrels
-blonde hair
-building
-category:ine
-clothing
-clothing:blue dress
-clothing:boots
-clothing:dress
-clothing:footwear
-clothing:gloves
-crowds
-dress
-firearm
-footwear
-gender:female
-gold
-house
-men
-painting
-people
-pirates
-pistol
-sabre
-sand
-sasha beliaev
-ship
-subreddit:imaginaryhumans
-subreddit:imraces
-tie
-title:gentle ladies by sasha beliaev
-uploader:emotionalyak3
-vehicle
-watercraft
-weapon
+barrels,
+blonde hair,
+building,
+category:ine,
+clothing,
+clothing:blue dress,
+clothing:boots,
+clothing:dress,
+clothing:footwear,
+clothing:gloves,
+crowds,
+dress,
+firearm,
+footwear,
+gender:female,
+gold,
+house,
+men,
+painting,
+people,
+pirates,
+pistol,
+sabre,
+sand,
+sasha beliaev,
+ship,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+tie,
+title:gentle ladies by sasha beliaev,
+uploader:emotionalyak3,
+vehicle,
+watercraft,
+weapon,

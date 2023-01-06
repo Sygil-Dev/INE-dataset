@@ -1,136 +1,136 @@
-absurd res
-armor
-artist:sambaneko
-booru:e621
-category:ine
-character:adagio dazzle
-character:adagio dazzle (eg)
-character:adagio_dazzle_(eg)
-character:angel (mlp)
-character:angel_(mlp)
-character:applejack
-character:applejack (mlp)
-character:applejack_(mlp)
-character:aria blaze
-character:aria blaze (eg)
-character:aria_blaze_(eg)
-character:discord
-character:discord (mlp)
-character:discord_(mlp)
-character:flash magnus (mlp)
-character:flash_magnus_(mlp)
-character:fluttershy
-character:fluttershy (mlp)
-character:fluttershy_(mlp)
-character:king sombra
-character:king sombra (mlp)
-character:king_sombra_(mlp)
-character:meadowbrook (mlp)
-character:meadowbrook_(mlp)
-character:mistmane (mlp)
-character:mistmane_(mlp)
-character:nightmare moon
-character:nightmare moon (mlp)
-character:nightmare_moon_(mlp)
-character:pinkie pie
-character:pinkie pie (mlp)
-character:pinkie_pie_(mlp)
-character:pony of shadows (mlp)
-character:pony_of_shadows_(mlp)
-character:princess celestia
-character:princess celestia (mlp)
-character:princess luna
-character:princess luna (mlp)
-character:princess_celestia_(mlp)
-character:princess_luna_(mlp)
-character:rainbow dash
-character:rainbow dash (mlp)
-character:rainbow_dash_(mlp)
-character:rarity
-character:rarity (mlp)
-character:rarity_(mlp)
-character:rockhoof (mlp)
-character:rockhoof_(mlp)
-character:somnambula (mlp)
-character:somnambula_(mlp)
-character:sonata dusk
-character:sonata dusk (eg)
-character:sonata_dusk_(eg)
-character:spike
-character:spike (mlp)
-character:spike_(mlp)
-character:starswirl the bearded (mlp)
-character:starswirl_the_bearded_(mlp)
-character:stygian (mlp)
-character:stygian_(mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-character:twilight_sparkle_(mlp)
-clothing:armor
-copyright:equestria_girls
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:my_little_pony
-creator:sambaneko
-eyeshadow
-fangs
-female
-full moon
-full_moon
-furry
-gender:female
-gender:male
-genre:fantasy
-headgear
-headwear
-helmet
-hi res
-horn
-horns
-long image
-makeup
-male
-medium:absurd resolution
-medium:high resolution
-meta:absurd_res
-meta:hi_res
-meta:long_image
-meta:tall_image
-moon
-mylittlepony
-mylittleponyfriendshipismagic
-purple eyeshadow
-purple_eyeshadow
-rating:safe
-series:equestria girls
-series:friendship is magic
-series:my little pony
-series:my little pony equestria girls
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:dragon
-species:equid
-species:equine
-species:horse
-species:lagomorph
-species:leporid
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-species:rabbit
-species:scalie
-species:shadow creature
-species:shadow_creature
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tall image
-title:"friendship is magic: from pillars to ponyville" by sambaneko
-title:friendship is magic: from pillars to ponyville
-tree of harmony
-tree_of_harmony
-uploader:torvusil
-wings
+absurd res,
+armor,
+artist:sambaneko,
+booru:e621,
+category:ine,
+character:adagio dazzle,
+character:adagio dazzle (eg),
+character:adagio_dazzle_(eg),
+character:angel (mlp),
+character:angel_(mlp),
+character:applejack,
+character:applejack (mlp),
+character:applejack_(mlp),
+character:aria blaze,
+character:aria blaze (eg),
+character:aria_blaze_(eg),
+character:discord,
+character:discord (mlp),
+character:discord_(mlp),
+character:flash magnus (mlp),
+character:flash_magnus_(mlp),
+character:fluttershy,
+character:fluttershy (mlp),
+character:fluttershy_(mlp),
+character:king sombra,
+character:king sombra (mlp),
+character:king_sombra_(mlp),
+character:meadowbrook (mlp),
+character:meadowbrook_(mlp),
+character:mistmane (mlp),
+character:mistmane_(mlp),
+character:nightmare moon,
+character:nightmare moon (mlp),
+character:nightmare_moon_(mlp),
+character:pinkie pie,
+character:pinkie pie (mlp),
+character:pinkie_pie_(mlp),
+character:pony of shadows (mlp),
+character:pony_of_shadows_(mlp),
+character:princess celestia,
+character:princess celestia (mlp),
+character:princess luna,
+character:princess luna (mlp),
+character:princess_celestia_(mlp),
+character:princess_luna_(mlp),
+character:rainbow dash,
+character:rainbow dash (mlp),
+character:rainbow_dash_(mlp),
+character:rarity,
+character:rarity (mlp),
+character:rarity_(mlp),
+character:rockhoof (mlp),
+character:rockhoof_(mlp),
+character:somnambula (mlp),
+character:somnambula_(mlp),
+character:sonata dusk,
+character:sonata dusk (eg),
+character:sonata_dusk_(eg),
+character:spike,
+character:spike (mlp),
+character:spike_(mlp),
+character:starswirl the bearded (mlp),
+character:starswirl_the_bearded_(mlp),
+character:stygian (mlp),
+character:stygian_(mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+character:twilight_sparkle_(mlp),
+clothing:armor,
+copyright:equestria_girls,
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:sambaneko,
+eyeshadow,
+fangs,
+female,
+full moon,
+full_moon,
+furry,
+gender:female,
+gender:male,
+genre:fantasy,
+headgear,
+headwear,
+helmet,
+hi res,
+horn,
+horns,
+long image,
+makeup,
+male,
+medium:absurd resolution,
+medium:high resolution,
+meta:absurd_res,
+meta:hi_res,
+meta:long_image,
+meta:tall_image,
+moon,
+mylittlepony,
+mylittleponyfriendshipismagic,
+purple eyeshadow,
+purple_eyeshadow,
+rating:safe,
+series:equestria girls,
+series:friendship is magic,
+series:my little pony,
+series:my little pony equestria girls,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:dragon,
+species:equid,
+species:equine,
+species:horse,
+species:lagomorph,
+species:leporid,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:rabbit,
+species:scalie,
+species:shadow creature,
+species:shadow_creature,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tall image,
+title:"friendship is magic: from pillars to ponyville" by sambaneko,
+title:friendship is magic: from pillars to ponyville,
+tree of harmony,
+tree_of_harmony,
+uploader:torvusil,
+wings,

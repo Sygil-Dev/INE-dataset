@@ -1,58 +1,58 @@
-1 male
-alcohol
-anthro
-anthropomorphism
-beverage
-biped
-booru:e621
-canine
-category:ine
-claws
-cool colors
-creator:blotch
-creator:chibi-marrow
-creator:screwbald
-detailed background
-drunk
-food
-full moon
-gender:male
-hairy
-hindpaw
-holding object
-light
-male
-male only
-medium:detailed background
-medium:focus on male character
-meta:cool colors
-meta:detailed
-monster
-moon
-moonlight
-night
-outside
-paws
-rating:safe
-sitting
-sky
-solo
-solo male
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:werewolf
-species:wolf
-star
-starry sky
-stars
-subreddit:imaginarywerewolves
-subreddit:immonsters
-substance intoxication
-title:moonshine
-title:moonshine by teagan gavet and tess garman
-uploader:nikephoros_ii_phokas
-wolf
+1 male,
+alcohol,
+anthro,
+anthropomorphism,
+beverage,
+biped,
+booru:e621,
+canine,
+category:ine,
+claws,
+cool colors,
+creator:blotch,
+creator:chibi-marrow,
+creator:screwbald,
+detailed background,
+drunk,
+food,
+full moon,
+gender:male,
+hairy,
+hindpaw,
+holding object,
+light,
+male,
+male only,
+medium:detailed background,
+medium:focus on male character,
+meta:cool colors,
+meta:detailed,
+monster,
+moon,
+moonlight,
+night,
+outside,
+paws,
+rating:safe,
+sitting,
+sky,
+solo,
+solo male,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:werewolf,
+species:wolf,
+star,
+starry sky,
+stars,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+substance intoxication,
+title:moonshine,
+title:moonshine by teagan gavet and tess garman,
+uploader:nikephoros_ii_phokas,
+wolf,

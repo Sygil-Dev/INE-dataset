@@ -1,25 +1,25 @@
-1boy
-armor
-black border
-blue fire
-category:ine
-character:king hassan (fate)
-copyright name
-fake horns
-glowing
-glowing eyes
-helmet
-holding weapon
-letterboxed
-male focus
-pillarboxed
-rating:safe
-subreddit:imaginarygotham
-subreddit:imaginaryknights
-subreddit:imcharacters
-subreddit:imfandoms
-sword
-title:the dark knight by vinicius bortoletto
-title:the dark knight by vinicius bortoletto (r/imaginarygotham)
-uploader:lol33ta
-weapon
+1boy,
+armor,
+black border,
+blue fire,
+category:ine,
+character:king hassan (fate),
+copyright name,
+fake horns,
+glowing,
+glowing eyes,
+helmet,
+holding weapon,
+letterboxed,
+male focus,
+pillarboxed,
+rating:safe,
+subreddit:imaginarygotham,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sword,
+title:the dark knight by vinicius bortoletto,
+title:the dark knight by vinicius bortoletto (r/imaginarygotham),
+uploader:lol33ta,
+weapon,

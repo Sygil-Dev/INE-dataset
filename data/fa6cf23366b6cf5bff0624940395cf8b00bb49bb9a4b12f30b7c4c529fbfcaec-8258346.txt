@@ -1,30 +1,30 @@
-2d
-art
-artwork
-beheading
-blood
-bodily fluids
-category:ine
-creator:joakim ericsson
-duel
-illustration
-joakim ericsson
-katana
-medium:concept art
-medium:digital 2d
-medium:digital media
-painting
-samurai
-snow
-snowing
-subreddit:imaginaryassassins
-subreddit:imaginarybattlefields
-subreddit:imcharacters
-sword
-title:assassin
-title:assassin by joakim ericsson
-uploader:hvitserkr
-uploader:lexxx20
-uploader:yamamba78
-warrior
-weapon
+2d,
+art,
+artwork,
+beheading,
+blood,
+bodily fluids,
+category:ine,
+creator:joakim ericsson,
+duel,
+illustration,
+joakim ericsson,
+katana,
+medium:concept art,
+medium:digital 2d,
+medium:digital media,
+painting,
+samurai,
+snow,
+snowing,
+subreddit:imaginaryassassins,
+subreddit:imaginarybattlefields,
+subreddit:imcharacters,
+sword,
+title:assassin,
+title:assassin by joakim ericsson,
+uploader:hvitserkr,
+uploader:lexxx20,
+uploader:yamamba78,
+warrior,
+weapon,

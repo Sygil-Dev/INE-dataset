@@ -1,38 +1,38 @@
-1boy
-architecture
-boots
-bridge
-building
-castle
-category:ine
-city
-city lights
-cityscape
-clock
-clock tower
-cloud
-cloudy sky
-coat
-east asian architecture
-gun
-hat
-male focus
-night
-night sky
-outdoors
-pagoda
-rating:safe
-scenery
-sky
-skyscraper
-solo
-subreddit:imaginaryassassins
-subreddit:imaginarybestof
-subreddit:imcharacters
-subreddit:immeta
-title:[/r/imaginaryassassins] duskmantle prowler by johannes voss
-title:mtg: duskmantle prowler by johannes voss
-tower
-uploader:lol33ta
-uploader:synntara
-weapon
+1boy,
+architecture,
+boots,
+bridge,
+building,
+castle,
+category:ine,
+city,
+city lights,
+cityscape,
+clock,
+clock tower,
+cloud,
+cloudy sky,
+coat,
+east asian architecture,
+gun,
+hat,
+male focus,
+night,
+night sky,
+outdoors,
+pagoda,
+rating:safe,
+scenery,
+sky,
+skyscraper,
+solo,
+subreddit:imaginaryassassins,
+subreddit:imaginarybestof,
+subreddit:imcharacters,
+subreddit:immeta,
+title:[/r/imaginaryassassins] duskmantle prowler by johannes voss,
+title:mtg: duskmantle prowler by johannes voss,
+tower,
+uploader:lol33ta,
+uploader:synntara,
+weapon,

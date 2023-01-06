@@ -1,21 +1,21 @@
-atmosphere
-category:ine
-concept
-creator:duncan halleck
-design
-digital2d
-digital3d
-dusk
-environment
-medium:digital 2d
-sciencefiction
-scifi
-subreddit:imaginaryskyscapes
-subreddit:imaginarytemples
-subreddit:imaginaryworlds
-subreddit:imarchitecture
-subreddit:imlandscapes
-title:the obelisks of malin
-title:the obelisks of malin, duncan halleck
-towers
-uploader:dhalleck
+atmosphere,
+category:ine,
+concept,
+creator:duncan halleck,
+design,
+digital2d,
+digital3d,
+dusk,
+environment,
+medium:digital 2d,
+sciencefiction,
+scifi,
+subreddit:imaginaryskyscapes,
+subreddit:imaginarytemples,
+subreddit:imaginaryworlds,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+title:the obelisks of malin,
+title:the obelisks of malin, duncan halleck,
+towers,
+uploader:dhalleck,

@@ -1,51 +1,51 @@
-1 female
-animal
-animal on shoulder
-bird
-bird on shoulder
-booru:danbooru
-booru:gelbooru
-breasts
-cape
-category:ine
-character:morrigan (mythology)
-circlet
-clothing:cape
-clothing:detached sleeves
-creator:jessibeans
-creator:jessica oyhenart
-crow
-detached sleeves
-from below
-gender:female
-hand on hip
-lipstick
-long hair
-makeup
-mascara
-medium breasts
-medium:absurd resolution
-medium:high resolution
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-meta:revision
-mythology
-nose
-purple eyes
-purple hair
-rating:mature
-rating:safe
-series:mythology
-solo
-sorceress
-species:avian
-species:bird
-subreddit:imaginaryhumans
-subreddit:imaginarywitches
-subreddit:imraces
-title:"morrigan le fay" by jessica oyhenart (jessibeans)
-title:morrigan le fay
-underbust
-uploader:torvusil
+1 female,
+animal,
+animal on shoulder,
+bird,
+bird on shoulder,
+booru:danbooru,
+booru:gelbooru,
+breasts,
+cape,
+category:ine,
+character:morrigan (mythology),
+circlet,
+clothing:cape,
+clothing:detached sleeves,
+creator:jessibeans,
+creator:jessica oyhenart,
+crow,
+detached sleeves,
+from below,
+gender:female,
+hand on hip,
+lipstick,
+long hair,
+makeup,
+mascara,
+medium breasts,
+medium:absurd resolution,
+medium:high resolution,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:revision,
+mythology,
+nose,
+purple eyes,
+purple hair,
+rating:mature,
+rating:safe,
+series:mythology,
+solo,
+sorceress,
+species:avian,
+species:bird,
+subreddit:imaginaryhumans,
+subreddit:imaginarywitches,
+subreddit:imraces,
+title:"morrigan le fay" by jessica oyhenart (jessibeans),
+title:morrigan le fay,
+underbust,
+uploader:torvusil,

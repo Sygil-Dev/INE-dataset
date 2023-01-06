@@ -1,41 +1,41 @@
-blue body
-blue scales
-booru:e621
-category:ine
-creator:sandara
-day
-detailed background
-group
-levianthan
-lightning
-medium:detailed background
-meta:2017
-open mouth
-outside
-partially submerged
-rating:safe
-scales
-sea
-serpent
-ship
-species:human
-species:leviathan
-species:mammal
-species:primate
-spine
-storm
-subreddit:imaginaryvessels
-subreddit:imaginaryweather
-subreddit:imnature
-subreddit:imtechnology
-teeth
-thunder
-title:leviathan
-title:leviathan by sandara tang
-tongue
-uploader:myrandall
-vehicle
-water
-watercraft
-waterline view
-year:2017
+blue body,
+blue scales,
+booru:e621,
+category:ine,
+creator:sandara,
+day,
+detailed background,
+group,
+levianthan,
+lightning,
+medium:detailed background,
+meta:2017,
+open mouth,
+outside,
+partially submerged,
+rating:safe,
+scales,
+sea,
+serpent,
+ship,
+species:human,
+species:leviathan,
+species:mammal,
+species:primate,
+spine,
+storm,
+subreddit:imaginaryvessels,
+subreddit:imaginaryweather,
+subreddit:imnature,
+subreddit:imtechnology,
+teeth,
+thunder,
+title:leviathan,
+title:leviathan by sandara tang,
+tongue,
+uploader:myrandall,
+vehicle,
+water,
+watercraft,
+waterline view,
+year:2017,

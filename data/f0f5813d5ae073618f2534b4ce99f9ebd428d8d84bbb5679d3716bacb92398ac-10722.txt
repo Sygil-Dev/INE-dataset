@@ -1,54 +1,54 @@
-1:1
-3 fingers
-3 toes
-3d (artwork)
-ambiguous gender
-black body
-black scales
-blue body
-blue scales
-booru:e621
-category:ine
-creator:henry vargas
-digital media (artwork)
-fingers
-fire
-front view
-full-length portrait
-furry
-gender:ambiguous
-hi res
-medium:1:1 aspect ratio
-medium:3d rendering
-medium:digital media
-medium:high resolution
-medium:pink background
-medium:simple background
-pink background
-portrait
-rating:safe
-red eyes
-scales
-series:nintendo
-series:pokemon
-series:pokémon
-simple background
-species:dragon
-species:mega charizard
-species:mega charizard x
-species:mega evolution
-species:monster
-species:mythical
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:scalie
-species:western dragon
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"mega charizard x" by henry vargas
-toes
-uploader:torvusil
-video games
+1:1,
+3 fingers,
+3 toes,
+3d (artwork),
+ambiguous gender,
+black body,
+black scales,
+blue body,
+blue scales,
+booru:e621,
+category:ine,
+creator:henry vargas,
+digital media (artwork),
+fingers,
+fire,
+front view,
+full-length portrait,
+furry,
+gender:ambiguous,
+hi res,
+medium:1:1 aspect ratio,
+medium:3d rendering,
+medium:digital media,
+medium:high resolution,
+medium:pink background,
+medium:simple background,
+pink background,
+portrait,
+rating:safe,
+red eyes,
+scales,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+simple background,
+species:dragon,
+species:mega charizard,
+species:mega charizard x,
+species:mega evolution,
+species:monster,
+species:mythical,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:scalie,
+species:western dragon,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"mega charizard x" by henry vargas,
+toes,
+uploader:torvusil,
+video games,

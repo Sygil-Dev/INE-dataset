@@ -1,21 +1,21 @@
-artist name
-category:ine
-cloud
-cloudy sky
-forest
-horizon
-mountain
-mountainous horizon
-nature
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-sunset
-title:lost by sylvain sarrailh
-uploader:[deleted]
-uploader:ethan_kahn
-water
+artist name,
+category:ine,
+cloud,
+cloudy sky,
+forest,
+horizon,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+sunset,
+title:lost by sylvain sarrailh,
+uploader:[deleted],
+uploader:ethan_kahn,
+water,

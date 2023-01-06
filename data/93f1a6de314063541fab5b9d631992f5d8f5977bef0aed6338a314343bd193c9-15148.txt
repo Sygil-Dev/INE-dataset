@@ -1,79 +1,79 @@
-alien
-aliens
-artist:arvalis
-back plates
-back_plates
-category:ine
-conceptart
-copyright:alien_(franchise)
-creator:arvalis
-creaturedesign
-dinosaur
-dinosaurs
-feral
-furry
-gender:male
-genitalia
-genitals
-gradient background
-gradient_background
-group
-jurassicpark
-male
-medium:digital media
-medium:text
-meta:2017
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:url
-open mouth
-open_mouth
-penis
-rating:explicit
-rating:safe
-series:alien
-series:alien (franchise)
-sharp teeth
-sharp_teeth
-side view
-side_view
-simple background
-simple_background
-size difference
-size_difference
-solo focus
-solo_focus
-species:alien
-species:dinosaur
-species:extinct
-species:hybrid
-species:reptile
-species:scalie
-species:theropod
-species:tyrannosaurid
-species:tyrannosaurus
-species:tyrannosaurus rex
-species:tyrannosaurus_rex
-species:xenomorph
-spines
-standing
-subreddit:imaginaryaliens
-subreddit:imraces
-teeth
-text
-theropod
-title:alien t. rex
-title:alien t. rex by arvalis on deviantart (rj palmer)
-tongue
-trex
-trexdinosaur
-tyrannosaurus
-tyrannosaurusrex
-uploader:o_no_my_buttholes
-xenomorph
-xenomorphalien
-year:2017
+alien,
+aliens,
+artist:arvalis,
+back plates,
+back_plates,
+category:ine,
+conceptart,
+copyright:alien_(franchise),
+creator:arvalis,
+creaturedesign,
+dinosaur,
+dinosaurs,
+feral,
+furry,
+gender:male,
+genitalia,
+genitals,
+gradient background,
+gradient_background,
+group,
+jurassicpark,
+male,
+medium:digital media,
+medium:text,
+meta:2017,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:url,
+open mouth,
+open_mouth,
+penis,
+rating:explicit,
+rating:safe,
+series:alien,
+series:alien (franchise),
+sharp teeth,
+sharp_teeth,
+side view,
+side_view,
+simple background,
+simple_background,
+size difference,
+size_difference,
+solo focus,
+solo_focus,
+species:alien,
+species:dinosaur,
+species:extinct,
+species:hybrid,
+species:reptile,
+species:scalie,
+species:theropod,
+species:tyrannosaurid,
+species:tyrannosaurus,
+species:tyrannosaurus rex,
+species:tyrannosaurus_rex,
+species:xenomorph,
+spines,
+standing,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+teeth,
+text,
+theropod,
+title:alien t. rex,
+title:alien t. rex by arvalis on deviantart (rj palmer),
+tongue,
+trex,
+trexdinosaur,
+tyrannosaurus,
+tyrannosaurusrex,
+uploader:o_no_my_buttholes,
+xenomorph,
+xenomorphalien,
+year:2017,

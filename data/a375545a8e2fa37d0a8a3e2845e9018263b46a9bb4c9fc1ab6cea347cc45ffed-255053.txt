@@ -1,30 +1,30 @@
-blood elf
-category:ine
-creator:nixri
-creator:nixri ✦
-creator:rudy duca
-elf
-fan art
-fantasy
-female
-medium:2d art
-medium:digital 2d
-nixri
-portrait
-rudy duca
-rudyduca
-species:elf
-subreddit:imaginaryazeroth
-subreddit:imaginaryelves
-subreddit:imaginarynobles
-subreddit:imcharacters
-subreddit:imfandoms
-subreddit:imraces
-title:arcane mage
-title:arcane mage by rudy duca
-title:elves compilation 2018
-title:elves portraits i've done over the year
-uploader:lol33ta
-uploader:nixri
-uploader:spirtomb1831
-warcraft
+blood elf,
+category:ine,
+creator:nixri,
+creator:nixri ✦,
+creator:rudy duca,
+elf,
+fan art,
+fantasy,
+female,
+medium:2d art,
+medium:digital 2d,
+nixri,
+portrait,
+rudy duca,
+rudyduca,
+species:elf,
+subreddit:imaginaryazeroth,
+subreddit:imaginaryelves,
+subreddit:imaginarynobles,
+subreddit:imcharacters,
+subreddit:imfandoms,
+subreddit:imraces,
+title:arcane mage,
+title:arcane mage by rudy duca,
+title:elves compilation 2018,
+title:elves portraits i've done over the year,
+uploader:lol33ta,
+uploader:nixri,
+uploader:spirtomb1831,
+warcraft,

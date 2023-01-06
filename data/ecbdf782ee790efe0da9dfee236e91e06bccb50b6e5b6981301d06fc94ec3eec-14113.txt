@@ -1,21 +1,21 @@
-2d
-building
-category:ine
-concept
-conceptart
-creator:ismail inceoglu
-creepy
-daily
-digital
-digitalart
-environment
-house
-medium:digital 2d
-scenery
-seventeenthart
-sketch
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:tea time
-title:tea time by ismail inceoglu
-uploader:l-ya
+2d,
+building,
+category:ine,
+concept,
+conceptart,
+creator:ismail inceoglu,
+creepy,
+daily,
+digital,
+digitalart,
+environment,
+house,
+medium:digital 2d,
+scenery,
+seventeenthart,
+sketch,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:tea time,
+title:tea time by ismail inceoglu,
+uploader:l-ya,

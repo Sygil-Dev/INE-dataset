@@ -1,40 +1,40 @@
-architecture
-art
-artwork
-buddhism
-category:ine
-creator:eddie mendoza
-creature
-drawing
-eddie mendoza
-environment
-fantasy art
-furry
-illustration
-medium:concept art
-medium:digital media
-monks
-mountains
-religion
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginaryarchitecture
-subreddit:imaginarybestof
-subreddit:imaginarycastles
-subreddit:imaginarytemples
-subreddit:imaginaryworlds
-subreddit:imarchitecture
-subreddit:imlandscapes
-subreddit:immeta
-temple
-title:"mountain palace" by eddie mendoza
-title:'mountain palace' by eddie mendoza
-title:[/r/imaginaryarchitecture] mountain palace by eddie mendoza
-title:mountain palace
-title:mountain palace by eddie mendoza
-uploader:jaykirsch
-uploader:johncarterofares
-uploader:lol33ta
-uploader:net-diver
-uploader:pyro_azer
+architecture,
+art,
+artwork,
+buddhism,
+category:ine,
+creator:eddie mendoza,
+creature,
+drawing,
+eddie mendoza,
+environment,
+fantasy art,
+furry,
+illustration,
+medium:concept art,
+medium:digital media,
+monks,
+mountains,
+religion,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarybestof,
+subreddit:imaginarycastles,
+subreddit:imaginarytemples,
+subreddit:imaginaryworlds,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+subreddit:immeta,
+temple,
+title:"mountain palace" by eddie mendoza,
+title:'mountain palace' by eddie mendoza,
+title:[/r/imaginaryarchitecture] mountain palace by eddie mendoza,
+title:mountain palace,
+title:mountain palace by eddie mendoza,
+uploader:jaykirsch,
+uploader:johncarterofares,
+uploader:lol33ta,
+uploader:net-diver,
+uploader:pyro_azer,

@@ -1,225 +1,225 @@
-1 female
-1 male
-1girl
-80s
-80sanime
-80年代風
-90s
-90sanime
-90年代風
-1990s (style)
-action:open mouth
-anime
-anthro
-anthropomorphism
-anthropomorphization
-artist name
-artist:bluethebone
-bag
-band-aid
-bandage
-bandaid
-bandaid on face
-bandaid on head
-bandaid on nose
-bangs
-black clothing
-black hair
-black_clothing
-black_hair
-bluethebone
-booru:danbooru-safebooru
-booru:e621
-booru:sankaku
-borrowed character
-bow
-bread
-caption
-category:ine
-character:fan character
-character:fan_character
-character:gaghiel
-character:gaghiel (diives)
-character:gen 3 pokemon
-character:mawile
-character:original character
-character:pokemon species
-clipstudiopaint
-clothed
-clothing
-clothing:bag
-clothing:bow
-clothing:gloves
-clothing:hair bow
-clothing:hair ornament
-clothing:legwear
-clothing:puffy short sleeves
-clothing:puffy sleeves
-clothing:school uniform
-clothing:short sleeves
-clothing:socks
-clothing:tagme
-clothing:thigh-highs
-clothing:uniform
-copyright:nintendo
-copyright:pokémon
-creator:bluethebone
-creator:diives
-creator:https:bluethebone
-creator:ʙʟᴜᴇᴛʜᴇʙᴏɴᴇ
-cute
-dialogue
-digital media (artwork)
-digitalart
-diives
-english text
-extra mouth
-eyebrows
-eyebrows visible through hair
-fake
-fake screenshot
-fakescreenshot
-fanart
-fang
-fanged tooth
-fangs
-female
-female only
-female solo
-female:1
-food
-food in mouth
-footwear
-furry
-gaghiel
-gaghiel (diives)
-game
-gen 3 pokemon
-gen 3 pokémon
-gender:female
-gender:male
-guro
-hair
-hair bangs
-hair bow
-hair mouth
-hair:black
-hair_mouth
-humanoid
-humor
-language:english
-late for school
-legwear
-long hair
-long socks
-long_socks
-male:1
-mawile
-medium:4:3 aspect ratio
-medium:90s
-medium:anime
-medium:digital media
-medium:english
-medium:english text
-medium:fake screenshot
-medium:screen capture
-medium:screenshot
-medium:style parody
-medium:subtitled
-medium:text
-medium:video game
-meme:humor
-meta:4:3
-meta:80s
-meta:90s
-meta:artist name
-meta:borrowed character
-meta:commentary
-meta:dialogue
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:english text
-meta:english_text
-meta:original character
-meta:subtitled
-mouth hold
-not furry
-not_furry
-oldschool
-open mouth
-personification
-pink bow
-pokemon
-pokémon
-pokémon (species)
-pokémorph
-puffy short sleeves
-rating:explicit
-rating:mature
-rating:s
-rating:safe
-rating:sensitive
-red eyes
-red_eyes
-retro
-retro artstyle
-retroanime
-running
-school
-school bag
-school uniform
-school_uniform
-schoolgirl
-series:borrowed character
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokémon
-sharp teeth
-sharp_teeth
-short sleeves
-site:4chan.org
-socks
-solo
-source:furaffinity.net
-species:humanoid
-species:mawile
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-studio:creatures (company)
-studio:creatures inc.
-studio:game freak
-studio:nintendo
-style parody
-style_parody
-subreddit:imaginaryanime
-subreddit:imfandoms
-subtitled
-teeth
-text
-thigh-highs
-thighhighs
-title:"gaghiel [diives/pkmn]" by bluethebone
-title:[retro] gaghiel [diives/pkmn]
-toast
-toast in mouth
-tumblr blog:bluethebone
-uniform
-uploader:torvusil
-very long hair
-video games
-video_games
-website:chan style imageboards
-website:danbooru
-website:danbooru-safebooru
-website:e621
-website:safebooru
-website:sankaku channel
-worried
-かわいい
-クチート
-ポケモン
-漫画
+1 female,
+1 male,
+1girl,
+80s,
+80sanime,
+80年代風,
+90s,
+90sanime,
+90年代風,
+1990s (style),
+action:open mouth,
+anime,
+anthro,
+anthropomorphism,
+anthropomorphization,
+artist name,
+artist:bluethebone,
+bag,
+band-aid,
+bandage,
+bandaid,
+bandaid on face,
+bandaid on head,
+bandaid on nose,
+bangs,
+black clothing,
+black hair,
+black_clothing,
+black_hair,
+bluethebone,
+booru:danbooru-safebooru,
+booru:e621,
+booru:sankaku,
+borrowed character,
+bow,
+bread,
+caption,
+category:ine,
+character:fan character,
+character:fan_character,
+character:gaghiel,
+character:gaghiel (diives),
+character:gen 3 pokemon,
+character:mawile,
+character:original character,
+character:pokemon species,
+clipstudiopaint,
+clothed,
+clothing,
+clothing:bag,
+clothing:bow,
+clothing:gloves,
+clothing:hair bow,
+clothing:hair ornament,
+clothing:legwear,
+clothing:puffy short sleeves,
+clothing:puffy sleeves,
+clothing:school uniform,
+clothing:short sleeves,
+clothing:socks,
+clothing:tagme,
+clothing:thigh-highs,
+clothing:uniform,
+copyright:nintendo,
+copyright:pokémon,
+creator:bluethebone,
+creator:diives,
+creator:https:bluethebone,
+creator:ʙʟᴜᴇᴛʜᴇʙᴏɴᴇ,
+cute,
+dialogue,
+digital media (artwork),
+digitalart,
+diives,
+english text,
+extra mouth,
+eyebrows,
+eyebrows visible through hair,
+fake,
+fake screenshot,
+fakescreenshot,
+fanart,
+fang,
+fanged tooth,
+fangs,
+female,
+female only,
+female solo,
+female:1,
+food,
+food in mouth,
+footwear,
+furry,
+gaghiel,
+gaghiel (diives),
+game,
+gen 3 pokemon,
+gen 3 pokémon,
+gender:female,
+gender:male,
+guro,
+hair,
+hair bangs,
+hair bow,
+hair mouth,
+hair:black,
+hair_mouth,
+humanoid,
+humor,
+language:english,
+late for school,
+legwear,
+long hair,
+long socks,
+long_socks,
+male:1,
+mawile,
+medium:4:3 aspect ratio,
+medium:90s,
+medium:anime,
+medium:digital media,
+medium:english,
+medium:english text,
+medium:fake screenshot,
+medium:screen capture,
+medium:screenshot,
+medium:style parody,
+medium:subtitled,
+medium:text,
+medium:video game,
+meme:humor,
+meta:4:3,
+meta:80s,
+meta:90s,
+meta:artist name,
+meta:borrowed character,
+meta:commentary,
+meta:dialogue,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:english text,
+meta:english_text,
+meta:original character,
+meta:subtitled,
+mouth hold,
+not furry,
+not_furry,
+oldschool,
+open mouth,
+personification,
+pink bow,
+pokemon,
+pokémon,
+pokémon (species),
+pokémorph,
+puffy short sleeves,
+rating:explicit,
+rating:mature,
+rating:s,
+rating:safe,
+rating:sensitive,
+red eyes,
+red_eyes,
+retro,
+retro artstyle,
+retroanime,
+running,
+school,
+school bag,
+school uniform,
+school_uniform,
+schoolgirl,
+series:borrowed character,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+sharp teeth,
+sharp_teeth,
+short sleeves,
+site:4chan.org,
+socks,
+solo,
+source:furaffinity.net,
+species:humanoid,
+species:mawile,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+studio:creatures (company),
+studio:creatures inc.,
+studio:game freak,
+studio:nintendo,
+style parody,
+style_parody,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+subtitled,
+teeth,
+text,
+thigh-highs,
+thighhighs,
+title:"gaghiel [diives/pkmn]" by bluethebone,
+title:[retro] gaghiel [diives/pkmn],
+toast,
+toast in mouth,
+tumblr blog:bluethebone,
+uniform,
+uploader:torvusil,
+very long hair,
+video games,
+video_games,
+website:chan style imageboards,
+website:danbooru,
+website:danbooru-safebooru,
+website:e621,
+website:safebooru,
+website:sankaku channel,
+worried,
+かわいい,
+クチート,
+ポケモン,
+漫画,

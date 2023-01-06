@@ -1,27 +1,27 @@
-1boy
-black hair
-black pants
-black shirt
-category:ine
-creator:avogado6
-ferris wheel
-gender:male
-grey theme
-male focus
-meta:commentary request
-outdoors
-pants
-park
-rain
-rating:safe
-ruins
-series:original
-shirt
-sitting
-solo
-spinning teacup
-subreddit:imaginaryfeels
-subreddit:immeta
-title:hollow dreams by avogado6
-uploader:[deleted]
-website:reddit
+1boy,
+black hair,
+black pants,
+black shirt,
+category:ine,
+creator:avogado6,
+ferris wheel,
+gender:male,
+grey theme,
+male focus,
+meta:commentary request,
+outdoors,
+pants,
+park,
+rain,
+rating:safe,
+ruins,
+series:original,
+shirt,
+sitting,
+solo,
+spinning teacup,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+title:hollow dreams by avogado6,
+uploader:[deleted],
+website:reddit,

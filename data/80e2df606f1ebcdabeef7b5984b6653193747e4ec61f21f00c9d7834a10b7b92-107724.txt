@@ -1,34 +1,34 @@
-beautiful
-category:ine
-character:oc
-character:oc only
-character:oc:heart gold
-character:oc:soul silver
-clothing
-creator:light262
-epic
-gift art
-happy birthday
-light262
-light and dark
-looking at viewer
-medium:high resolution
-oc
-oc only
-oc:heart gold
-oc:soul silver
-pov
-rating:safe
-safe
-signature
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:unicorn
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"dormin birthday gift 2019" by luke sateis (light262)
-title:dormin birthday gift 2019 - made by light262
-uploader:torvusil
+beautiful,
+category:ine,
+character:oc,
+character:oc only,
+character:oc:heart gold,
+character:oc:soul silver,
+clothing,
+creator:light262,
+epic,
+gift art,
+happy birthday,
+light262,
+light and dark,
+looking at viewer,
+medium:high resolution,
+oc,
+oc only,
+oc:heart gold,
+oc:soul silver,
+pov,
+rating:safe,
+safe,
+signature,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:unicorn,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"dormin birthday gift 2019" by luke sateis (light262),
+title:dormin birthday gift 2019 - made by light262,
+uploader:torvusil,

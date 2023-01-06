@@ -1,21 +1,21 @@
-beeple
-booru:wallhaven.cc
-category:ine
-circle
-couple
-gender:female
-ground
-imaginedragons
-medium:3d rendering
-medium:digital media
-men
-mountains
-neon
-ravine
-rocks
-space
-stars
-subreddit:imaginarylovers
-subreddit:imcharacters
-title:premultiply by beeble
-uploader:lol33ta
+beeple,
+booru:wallhaven.cc,
+category:ine,
+circle,
+couple,
+gender:female,
+ground,
+imaginedragons,
+medium:3d rendering,
+medium:digital media,
+men,
+mountains,
+neon,
+ravine,
+rocks,
+space,
+stars,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+title:premultiply by beeble,
+uploader:lol33ta,

@@ -1,22 +1,22 @@
-6+boys
-category:ine
-character
-conceptart
-creator:rob hargreaves
-fantasy
-knight
-long hair
-medieval
-medium:digital 2d
-monochrome
-multiple boys
-multiple girls
-rating:safe
-short hair
-steampunk
-subreddit:imaginaryknights
-subreddit:imcharacters
-title:steampunk/ medieval knight
-title:steampunk/medieval knight concept art
-uploader:robhargreavesart
-weapon
+6+boys,
+category:ine,
+character,
+conceptart,
+creator:rob hargreaves,
+fantasy,
+knight,
+long hair,
+medieval,
+medium:digital 2d,
+monochrome,
+multiple boys,
+multiple girls,
+rating:safe,
+short hair,
+steampunk,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+title:steampunk/ medieval knight,
+title:steampunk/medieval knight concept art,
+uploader:robhargreavesart,
+weapon,

@@ -1,21 +1,21 @@
-category:ine
-clothing:armor
-creator:hua lu
-creature
-drawing
-fantasy art
-headwear
-helmet
-hua lu
-mask
-medium:digital media
-men
-samurai
-skeleton
-skull
-subreddit:imaginarydemons
-subreddit:immonsters
-tie
-title:yaksha 风·夜叉明王尊
-title:yaksha 风·夜叉明王尊 by hua lu
-uploader:lol33ta
+category:ine,
+clothing:armor,
+creator:hua lu,
+creature,
+drawing,
+fantasy art,
+headwear,
+helmet,
+hua lu,
+mask,
+medium:digital media,
+men,
+samurai,
+skeleton,
+skull,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+tie,
+title:yaksha 风·夜叉明王尊,
+title:yaksha 风·夜叉明王尊 by hua lu,
+uploader:lol33ta,

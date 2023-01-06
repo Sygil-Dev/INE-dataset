@@ -1,103 +1,103 @@
-1 female
-1girl
-album:393187 noxus girl-katarina_ cassiopeia_ leblanc_ etc., haigure
-alternate costume
-alternative costume
-armor
-bare shoulders
-blurry
-blurry background
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-brown eyes
-category:ine
-chain
-chains
-character:riven (league of legends)
-character:riven, the exile
-closed mouth
-clothing:corset
-clothing:footwear
-clothing:gloves
-clothing:hair tie
-corset
-creator:raikoart
-creator:sean "raiko" tay
-creator:ライコ
-dirty
-dirty clothes
-dirty face
-female
-fighting stance
-folded ponytail
-footwear
-franchise:league_of_legends
-gender:female
-gloves
-grey hair
-highres
-holding
-holding object
-holding sword
-holding weapon
-in profile
-league
-league_of_legends
-leagueoflegends
-leather footwear
-legends
-lips
-long hair
-medium:artist name
-medium:blurry background
-medium:digital 2d
-medium:high resolution
-medium:realistic
-medium:signature
-medium:text
-medium:watermark
-meta:commentary request
-meta:duplicate
-meta:highres
-meta:pixel-perfect duplicate
-meta:potential duplicate
-meta:revision
-meta:signature
-meta:watermark
-of
-ponytail
-profile
-rating:general
-rating:mature
-rating:questionable
-rating:safe
-rating:sensitive
-riven
-sandals
-series:league of legends
-short hair
-shoulder armor
-signature
-site:deviantart
-solo
-source:luscious.net
-studio:dirty
-subreddit:imaginarygaming
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imfandoms
-sword
-tied hair
-title:"riven" by sean tay
-title:riven - awaken
-title:riven by sean tay
-uploader:tamander
-uploader:torvusil
-watermark
-weapon
-white hair
-女戦士
-英雄联盟
+1 female,
+1girl,
+album:393187 noxus girl-katarina_ cassiopeia_ leblanc_ etc., haigure,
+alternate costume,
+alternative costume,
+armor,
+bare shoulders,
+blurry,
+blurry background,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+brown eyes,
+category:ine,
+chain,
+chains,
+character:riven (league of legends),
+character:riven, the exile,
+closed mouth,
+clothing:corset,
+clothing:footwear,
+clothing:gloves,
+clothing:hair tie,
+corset,
+creator:raikoart,
+creator:sean "raiko" tay,
+creator:ライコ,
+dirty,
+dirty clothes,
+dirty face,
+female,
+fighting stance,
+folded ponytail,
+footwear,
+franchise:league_of_legends,
+gender:female,
+gloves,
+grey hair,
+highres,
+holding,
+holding object,
+holding sword,
+holding weapon,
+in profile,
+league,
+league_of_legends,
+leagueoflegends,
+leather footwear,
+legends,
+lips,
+long hair,
+medium:artist name,
+medium:blurry background,
+medium:digital 2d,
+medium:high resolution,
+medium:realistic,
+medium:signature,
+medium:text,
+medium:watermark,
+meta:commentary request,
+meta:duplicate,
+meta:highres,
+meta:pixel-perfect duplicate,
+meta:potential duplicate,
+meta:revision,
+meta:signature,
+meta:watermark,
+of,
+ponytail,
+profile,
+rating:general,
+rating:mature,
+rating:questionable,
+rating:safe,
+rating:sensitive,
+riven,
+sandals,
+series:league of legends,
+short hair,
+shoulder armor,
+signature,
+site:deviantart,
+solo,
+source:luscious.net,
+studio:dirty,
+subreddit:imaginarygaming,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sword,
+tied hair,
+title:"riven" by sean tay,
+title:riven - awaken,
+title:riven by sean tay,
+uploader:tamander,
+uploader:torvusil,
+watermark,
+weapon,
+white hair,
+女戦士,
+英雄联盟,

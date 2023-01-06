@@ -1,55 +1,55 @@
-autumn
-breathing fire
-burning
-campfire
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-dusk
-embers
-evening
-explosion
-fiery wings
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-gradient sky
-hill
-horizon
-landscape
-lighthouse
-molten rock
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-orange theme
-outdoors
-power lines
-purple sky
-rating:safe
-red sky
-red theme
-river
-scenery
-shore
-sky
-subreddit:imaginaryvolcanoes
-subreddit:imnature
-sun
-sunrise
-sunset
-title:terra therma 2 by dennis de koning
-torch
-twilight
-uploader:lol33ta
-utility pole
-volcano
-water
-waves
-yellow sky
+autumn,
+breathing fire,
+burning,
+campfire,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+dusk,
+embers,
+evening,
+explosion,
+fiery wings,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+gradient sky,
+hill,
+horizon,
+landscape,
+lighthouse,
+molten rock,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+orange theme,
+outdoors,
+power lines,
+purple sky,
+rating:safe,
+red sky,
+red theme,
+river,
+scenery,
+shore,
+sky,
+subreddit:imaginaryvolcanoes,
+subreddit:imnature,
+sun,
+sunrise,
+sunset,
+title:terra therma 2 by dennis de koning,
+torch,
+twilight,
+uploader:lol33ta,
+utility pole,
+volcano,
+water,
+waves,
+yellow sky,

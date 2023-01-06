@@ -1,75 +1,75 @@
-2017
-ambiguous gender
-bacon
-black eyes
-bodypart:black eyes
-box
-broccoli
-butt
-category:ine
-cheese
-claws
-creator:cryptid-creations
-creator:piperdraws
-dairy products
-eating
-english text
-feral
-filename:dp1763_s
-food
-fruit
-furry
-gender:ambiguous
-gender:male
-half-closed eyes
-humor
-language:english
-male:1
-medium:english text
-medium:patreon reward
-medium:simple background
-medium:text
-medium:white background
-meta:2017
-meta:english text
-meta:paid reward
-meta:patreon reward
-meta:url
-meta:white background
-narrowed eyes
-parsley (food)
-pepper (food)
-pepper (fruit)
-pepperoni
-pizza
-pizza box
-plant
-pun
-rating:safe
-simple background
-site:patreon
-site:yiff.party
-solo
-species:dinosaur
-species:extinct
-species:food creature
-species:hadrosaurid
-species:hadrosaurus
-species:ornithischian
-species:parasaurolophus
-species:reptile
-species:scalie
-subreddit:imaginarydinosaurs
-subreddit:imaginaryfood
-subreddit:immeta
-subreddit:immonsters
-text
-title:1$ patreon pack - daily paint 1763# pizzasaurus - the herbivore
-title:5-10$ patreon pack - daily paint 1763# pizzasaurus - the herbivore
-title:daily paint 1763# pizzasaurus - the herbivore
-title:pizzasaurus - the herbivore by piper thibodeau
-uploader:myrandall
-vegetable
-website:e621
-year:2017
-yiff id:457132
+2017,
+ambiguous gender,
+bacon,
+black eyes,
+bodypart:black eyes,
+box,
+broccoli,
+butt,
+category:ine,
+cheese,
+claws,
+creator:cryptid-creations,
+creator:piperdraws,
+dairy products,
+eating,
+english text,
+feral,
+filename:dp1763_s,
+food,
+fruit,
+furry,
+gender:ambiguous,
+gender:male,
+half-closed eyes,
+humor,
+language:english,
+male:1,
+medium:english text,
+medium:patreon reward,
+medium:simple background,
+medium:text,
+medium:white background,
+meta:2017,
+meta:english text,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+meta:white background,
+narrowed eyes,
+parsley (food),
+pepper (food),
+pepper (fruit),
+pepperoni,
+pizza,
+pizza box,
+plant,
+pun,
+rating:safe,
+simple background,
+site:patreon,
+site:yiff.party,
+solo,
+species:dinosaur,
+species:extinct,
+species:food creature,
+species:hadrosaurid,
+species:hadrosaurus,
+species:ornithischian,
+species:parasaurolophus,
+species:reptile,
+species:scalie,
+subreddit:imaginarydinosaurs,
+subreddit:imaginaryfood,
+subreddit:immeta,
+subreddit:immonsters,
+text,
+title:1$ patreon pack - daily paint 1763# pizzasaurus - the herbivore,
+title:5-10$ patreon pack - daily paint 1763# pizzasaurus - the herbivore,
+title:daily paint 1763# pizzasaurus - the herbivore,
+title:pizzasaurus - the herbivore by piper thibodeau,
+uploader:myrandall,
+vegetable,
+website:e621,
+year:2017,
+yiff id:457132,

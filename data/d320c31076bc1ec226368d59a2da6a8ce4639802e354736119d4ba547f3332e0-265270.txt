@@ -1,35 +1,35 @@
-4k
-4kuhd
-awesome
-blue
-category:ine
-class:mammal
-creator:sixthleafclover
-creator:the-sixthleafclover
-eyes
-firearm
-mini
-minigun
-monster
-shooting
-source:furaffinity.net
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:werewolf
-species:wolf
-subreddit:imaginaryweaponry
-subreddit:imaginarywerewolves
-subreddit:immonsters
-subreddit:imtechnology
-thunder
-title:thunder
-title:thunder by christina yen
-title:thunder werewolf - 4k uhd digital art files
-uploader:lol33ta
-weapon
-werewolf
-white
-wolf
-year:jan 5, 2020
+4k,
+4kuhd,
+awesome,
+blue,
+category:ine,
+class:mammal,
+creator:sixthleafclover,
+creator:the-sixthleafclover,
+eyes,
+firearm,
+mini,
+minigun,
+monster,
+shooting,
+source:furaffinity.net,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:werewolf,
+species:wolf,
+subreddit:imaginaryweaponry,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+subreddit:imtechnology,
+thunder,
+title:thunder,
+title:thunder by christina yen,
+title:thunder werewolf - 4k uhd digital art files,
+uploader:lol33ta,
+weapon,
+werewolf,
+white,
+wolf,
+year:jan 5, 2020,

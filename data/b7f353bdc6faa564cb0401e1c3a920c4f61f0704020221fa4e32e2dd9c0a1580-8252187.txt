@@ -1,33 +1,33 @@
-2018
-booru:e621
-bubble
-category:ine
-creator:assasinmonkey
-digitalpainting
-eyelashes
-feral
-hooves
-medium:digital media
-medium:high resolution
-meta:2018
-meta:digital media (artwork)
-meta:hi res
-mlpfim
-mylittleponyfriendshipismagic
-nautilus
-oc
-pony
-purple eyes
-rating:safe
-series:my little pony
-solo
-species:hybrid
-studio:hasbro
-subreddit:imaginaryhybrids
-subreddit:immonsters
-title:all for nautilus
-title:all for nautilus by myron c. p.
-underwater
-uploader:myrandall
-water
-year:2018
+2018,
+booru:e621,
+bubble,
+category:ine,
+creator:assasinmonkey,
+digitalpainting,
+eyelashes,
+feral,
+hooves,
+medium:digital media,
+medium:high resolution,
+meta:2018,
+meta:digital media (artwork),
+meta:hi res,
+mlpfim,
+mylittleponyfriendshipismagic,
+nautilus,
+oc,
+pony,
+purple eyes,
+rating:safe,
+series:my little pony,
+solo,
+species:hybrid,
+studio:hasbro,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+title:all for nautilus,
+title:all for nautilus by myron c. p.,
+underwater,
+uploader:myrandall,
+water,
+year:2018,

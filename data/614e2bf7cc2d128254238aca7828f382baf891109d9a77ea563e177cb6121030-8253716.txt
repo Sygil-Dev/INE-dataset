@@ -1,32 +1,32 @@
-booru:e621
-brown hair
-category:ine
-creator:discordthege
-feathered wings
-feathers
-hair
-looking at viewer
-medium:detailed background
-medium:digital media
-medium:high resolution
-moon
-night
-outside
-paws
-pov
-rating:safe
-red eyes
-rock
-series:my little pony
-sky
-smile
-species:mythical
-species:sphinx
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"ancient fire dance" by discordthege
-title:ancient fire dance
-uploader:torvusil
-wings
-year:2017
+booru:e621,
+brown hair,
+category:ine,
+creator:discordthege,
+feathered wings,
+feathers,
+hair,
+looking at viewer,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+moon,
+night,
+outside,
+paws,
+pov,
+rating:safe,
+red eyes,
+rock,
+series:my little pony,
+sky,
+smile,
+species:mythical,
+species:sphinx,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"ancient fire dance" by discordthege,
+title:ancient fire dance,
+uploader:torvusil,
+wings,
+year:2017,

@@ -1,22 +1,22 @@
-animal
-bird
-category:ine
-cloud
-dragon
-from behind
-light rays
-lightning
-monster
-multiple others
-outdoors
-rating:safe
-ruins
-scenery
-snowing
-standing
-subreddit:imaginaryleviathans
-subreddit:immonsters
-sunbeam
-title:into the north by borisut chamnan
-uploader:malign-god
-uploader:wiildman8
+animal,
+bird,
+category:ine,
+cloud,
+dragon,
+from behind,
+light rays,
+lightning,
+monster,
+multiple others,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+snowing,
+standing,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+sunbeam,
+title:into the north by borisut chamnan,
+uploader:malign-god,
+uploader:wiildman8,

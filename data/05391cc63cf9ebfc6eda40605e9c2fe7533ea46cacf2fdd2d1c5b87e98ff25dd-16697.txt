@@ -1,21 +1,21 @@
-1girl
-category:ine
-city
-city lights
-dark
-fantasy
-long hair
-rating:safe
-scenery
-solo
-standing
-subreddit:imaginarypathways
-subreddit:imaginaryportals
-subreddit:imlandscapes
-subreddit:imtechnology
-title:dark souls fan art: fog gate, by ivan vujovic
-title:fog gate by ivan vujovic
-uploader:godforesaken
-uploader:myrandall
-uploader:valar_m0rghul1s
-water
+1girl,
+category:ine,
+city,
+city lights,
+dark,
+fantasy,
+long hair,
+rating:safe,
+scenery,
+solo,
+standing,
+subreddit:imaginarypathways,
+subreddit:imaginaryportals,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+title:dark souls fan art: fog gate, by ivan vujovic,
+title:fog gate by ivan vujovic,
+uploader:godforesaken,
+uploader:myrandall,
+uploader:valar_m0rghul1s,
+water,

@@ -1,22 +1,22 @@
-1 female
-armored
-category:ine
-dropbox
-fantasy art
-fantasy girl
-female
-female focus
-female only
-gender:female
-grecia
-shield
-solo
-solo female
-spartan commander by jeongseok lee
-stomach
-subreddit:imaginaryboners
-subreddit:imnsfw
-sword
-title:spartan commander by jeongseok lee
-uploader:n0laloth
-weapon
+1 female,
+armored,
+category:ine,
+dropbox,
+fantasy art,
+fantasy girl,
+female,
+female focus,
+female only,
+gender:female,
+grecia,
+shield,
+solo,
+solo female,
+spartan commander by jeongseok lee,
+stomach,
+subreddit:imaginaryboners,
+subreddit:imnsfw,
+sword,
+title:spartan commander by jeongseok lee,
+uploader:n0laloth,
+weapon,

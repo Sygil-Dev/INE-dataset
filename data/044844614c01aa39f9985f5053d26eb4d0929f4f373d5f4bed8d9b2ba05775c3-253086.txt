@@ -1,25 +1,25 @@
-blurry
-blurry background
-blurry foreground
-category:ine
-closed eyes
-closed mouth
-depth of field
-food
-food focus
-fruit
-motion blur
-no humans
-plate
-pokemon (creature)
-rating:safe
-smile
-strawberry
-subreddit:imaginaryaww
-subreddit:imaginarygaming
-subreddit:imfandoms
-subreddit:immeta
-title:"just kawaii things" by rikka 331
-title:just kawaii things by rikka 331
-uploader:lol33ta
-uploader:torvusil
+blurry,
+blurry background,
+blurry foreground,
+category:ine,
+closed eyes,
+closed mouth,
+depth of field,
+food,
+food focus,
+fruit,
+motion blur,
+no humans,
+plate,
+pokemon (creature),
+rating:safe,
+smile,
+strawberry,
+subreddit:imaginaryaww,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+subreddit:immeta,
+title:"just kawaii things" by rikka 331,
+title:just kawaii things by rikka 331,
+uploader:lol33ta,
+uploader:torvusil,

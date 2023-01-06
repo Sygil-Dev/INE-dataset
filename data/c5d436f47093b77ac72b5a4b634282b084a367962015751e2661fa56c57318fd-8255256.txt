@@ -1,85 +1,85 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-beverage
-brown eyes
-brown_eyes
-category:ine
-centaur
-container
-cookie
-copyright:oreo_(food)
-creator:cryptid-creations
-cup
-eating
-english text
-equid
-equid taur
-eyebrows
-food
-food creature
-glass
-holding beverage
-holding cup
-holding glass
-holding melee weapon
-holding object
-holding polearm
-holding spear
-holding weapon
-holding_beverage
-holding_cup
-holding_glass
-holding_melee_weapon
-holding_object
-holding_polearm
-holding_spear
-holding_weapon
-humor
-language:english
-mammal
-mammal taur
-medium:simple background
-medium:text
-melee weapon
-melee_weapon
-meta:2018
-meta:english text
-meta:english_text
-meta:url
-milk
-monster
-polearm
-pun
-rating:safe
-series:oreo (food)
-simple background
-simple_background
-smile
-solo
-spear
-species:centaur
-species:equid
-species:equid taur
-species:equid_taur
-species:food creature
-species:food_creature
-species:humanoid taur
-species:mammal
-species:mammal taur
-species:mammal_taur
-species:taur
-standing
-subreddit:imaginarycentaurs
-subreddit:imraces
-taur
-text
-title:daily paint 1891# centoreo by piper thibodeau
-uploader:hvitserkr
-visual pun
-visual_pun
-weapon
-white background
-white_background
-wjite background
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+beverage,
+brown eyes,
+brown_eyes,
+category:ine,
+centaur,
+container,
+cookie,
+copyright:oreo_(food),
+creator:cryptid-creations,
+cup,
+eating,
+english text,
+equid,
+equid taur,
+eyebrows,
+food,
+food creature,
+glass,
+holding beverage,
+holding cup,
+holding glass,
+holding melee weapon,
+holding object,
+holding polearm,
+holding spear,
+holding weapon,
+holding_beverage,
+holding_cup,
+holding_glass,
+holding_melee_weapon,
+holding_object,
+holding_polearm,
+holding_spear,
+holding_weapon,
+humor,
+language:english,
+mammal,
+mammal taur,
+medium:simple background,
+medium:text,
+melee weapon,
+melee_weapon,
+meta:2018,
+meta:english text,
+meta:english_text,
+meta:url,
+milk,
+monster,
+polearm,
+pun,
+rating:safe,
+series:oreo (food),
+simple background,
+simple_background,
+smile,
+solo,
+spear,
+species:centaur,
+species:equid,
+species:equid taur,
+species:equid_taur,
+species:food creature,
+species:food_creature,
+species:humanoid taur,
+species:mammal,
+species:mammal taur,
+species:mammal_taur,
+species:taur,
+standing,
+subreddit:imaginarycentaurs,
+subreddit:imraces,
+taur,
+text,
+title:daily paint 1891# centoreo by piper thibodeau,
+uploader:hvitserkr,
+visual pun,
+visual_pun,
+weapon,
+white background,
+white_background,
+wjite background,

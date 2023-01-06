@@ -1,45 +1,45 @@
-1 male
-1boy
-animal
-artist:tanigawa hiroshi
-bird
-booru:danbooru
-booru:gelbooru
-category:ine
-cliff
-colossus
-copyright:original
-creator:tanigawa hiroshi
-day
-deer
-epic
-fantasy
-gender:male
-genre:fantasy
-highres
-horns
-island turtle
-lake
-landscape
-male focus
-medium:high resolution
-meta:highres
-mountain
-rating:adult
-rating:mature
-rating:safe
-scenery
-series:original
-solo
-species:avian
-species:cervine
-species:deer
-species:mammal
-subreddit:imaginarybehemoths
-subreddit:immonsters
-temple
-title:walking fountain by garoshi＠ソレイユ [original name 歩く泉]
-tree
-uploader:jonlucperr1776
-water
-waterfall
+1 male,
+1boy,
+animal,
+artist:tanigawa hiroshi,
+bird,
+booru:danbooru,
+booru:gelbooru,
+category:ine,
+cliff,
+colossus,
+copyright:original,
+creator:tanigawa hiroshi,
+day,
+deer,
+epic,
+fantasy,
+gender:male,
+genre:fantasy,
+highres,
+horns,
+island turtle,
+lake,
+landscape,
+male focus,
+medium:high resolution,
+meta:highres,
+mountain,
+rating:adult,
+rating:mature,
+rating:safe,
+scenery,
+series:original,
+solo,
+species:avian,
+species:cervine,
+species:deer,
+species:mammal,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+temple,
+title:walking fountain by garoshi＠ソレイユ [original name 歩く泉],
+tree,
+uploader:jonlucperr1776,
+water,
+waterfall,

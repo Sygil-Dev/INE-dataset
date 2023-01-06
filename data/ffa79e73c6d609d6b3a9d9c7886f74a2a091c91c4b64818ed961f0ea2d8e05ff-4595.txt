@@ -1,40 +1,40 @@
-1 female
-amputee
-black hair
-blue eyes
-cable
-category:ine
-character:kusanagi motoko
-commentary
-creator:muju
-cyborg
-damaged
-double amputee
-eyebrows
-eyeliner
-eyeshadow
-gender:female
-genre:science fiction
-lips
-lipstick
-looking at viewer
-makeup
-mascara
-mechanical parts
-no nipples
-nose
-pink lipstick
-pov
-rating:safe
-realistic
-series:ghost in the shell
-short hair
-solo
-spine
-subreddit:imaginarybestof
-subreddit:immeta
-title:[/r/imaginarycybernetics] ghost in the shell by ignatius tan
-torso
-triangle
-uploader:lol33ta
-upper body
+1 female,
+amputee,
+black hair,
+blue eyes,
+cable,
+category:ine,
+character:kusanagi motoko,
+commentary,
+creator:muju,
+cyborg,
+damaged,
+double amputee,
+eyebrows,
+eyeliner,
+eyeshadow,
+gender:female,
+genre:science fiction,
+lips,
+lipstick,
+looking at viewer,
+makeup,
+mascara,
+mechanical parts,
+no nipples,
+nose,
+pink lipstick,
+pov,
+rating:safe,
+realistic,
+series:ghost in the shell,
+short hair,
+solo,
+spine,
+subreddit:imaginarybestof,
+subreddit:immeta,
+title:[/r/imaginarycybernetics] ghost in the shell by ignatius tan,
+torso,
+triangle,
+uploader:lol33ta,
+upper body,

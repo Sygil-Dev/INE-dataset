@@ -1,57 +1,57 @@
-ambiguous gender
-booru:e621
-category:ine
-character:valiamoonseer
-claws
-creator:neytirix
-detailed background
-forest
-furry
-gender:ambiguous
-grass
-group
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-membrane (anatomy)
-membranous wings
-meta:16:9
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-meta:widescreen
-outside
-plant
-purple eyes
-raining
-rating:safe
-species:anatid
-species:anseriform
-species:avian
-species:bird
-species:canid
-species:canine
-species:cervid
-species:cervine
-species:deer
-species:dragon
-species:duck
-species:fox
-species:lagomorph
-species:leporid
-species:mammal
-species:mythical
-species:rabbit
-species:scalie
-species:western dragon
-subreddit:imaginaryanimals
-subreddit:imaginaryforests
-subreddit:imnature
-title:"shelter" by neytirix
-title:shelter
-tree
-uploader:torvusil
-water
-wings
-year:2017
+ambiguous gender,
+booru:e621,
+category:ine,
+character:valiamoonseer,
+claws,
+creator:neytirix,
+detailed background,
+forest,
+furry,
+gender:ambiguous,
+grass,
+group,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+membrane (anatomy),
+membranous wings,
+meta:16:9,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+meta:widescreen,
+outside,
+plant,
+purple eyes,
+raining,
+rating:safe,
+species:anatid,
+species:anseriform,
+species:avian,
+species:bird,
+species:canid,
+species:canine,
+species:cervid,
+species:cervine,
+species:deer,
+species:dragon,
+species:duck,
+species:fox,
+species:lagomorph,
+species:leporid,
+species:mammal,
+species:mythical,
+species:rabbit,
+species:scalie,
+species:western dragon,
+subreddit:imaginaryanimals,
+subreddit:imaginaryforests,
+subreddit:imnature,
+title:"shelter" by neytirix,
+title:shelter,
+tree,
+uploader:torvusil,
+water,
+wings,
+year:2017,

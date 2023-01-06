@@ -1,68 +1,68 @@
-2018
-ambiguous gender
-belly
-blue eyes
-booru:e621
-branch
-category:ine
-cream belly
-creator:sandara
-cute
-feral
-fur
-gender:ambiguous
-green body
-green fur
-green pawpads
-grey background
-in tree
-insect wings
-looking at viewer
-medium:digital media
-medium:grey background
-medium:simple background
-meta:2018
-meta:digital media (artwork)
-multi arm
-multi limb
-multiple arms
-multiple limbs
-on branch
-pawpads
-plant
-pov
-rating:safe
-simple background
-smile
-solo
-species:arthropod
-species:cat
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:hybrid
-species:insect
-species:lepidopteran
-species:luna moth
-species:mammal
-species:moth
-species:saturniid
-subreddit:imaginaryaww
-subreddit:imaginarybeasts
-subreddit:imaginaryhybrids
-subreddit:immeta
-subreddit:immonsters
-tan belly
-title:lunar
-title:lunar by sandara
-title:lunar by sandara tang
-tree
-uploader:lol33ta
-uploader:myrandall
-uploader:net-diver
-water
-water drop
-whiskers
-wings
-year:2018
+2018,
+ambiguous gender,
+belly,
+blue eyes,
+booru:e621,
+branch,
+category:ine,
+cream belly,
+creator:sandara,
+cute,
+feral,
+fur,
+gender:ambiguous,
+green body,
+green fur,
+green pawpads,
+grey background,
+in tree,
+insect wings,
+looking at viewer,
+medium:digital media,
+medium:grey background,
+medium:simple background,
+meta:2018,
+meta:digital media (artwork),
+multi arm,
+multi limb,
+multiple arms,
+multiple limbs,
+on branch,
+pawpads,
+plant,
+pov,
+rating:safe,
+simple background,
+smile,
+solo,
+species:arthropod,
+species:cat,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:hybrid,
+species:insect,
+species:lepidopteran,
+species:luna moth,
+species:mammal,
+species:moth,
+species:saturniid,
+subreddit:imaginaryaww,
+subreddit:imaginarybeasts,
+subreddit:imaginaryhybrids,
+subreddit:immeta,
+subreddit:immonsters,
+tan belly,
+title:lunar,
+title:lunar by sandara,
+title:lunar by sandara tang,
+tree,
+uploader:lol33ta,
+uploader:myrandall,
+uploader:net-diver,
+water,
+water drop,
+whiskers,
+wings,
+year:2018,

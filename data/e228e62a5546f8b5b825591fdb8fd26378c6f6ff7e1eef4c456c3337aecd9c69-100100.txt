@@ -1,29 +1,29 @@
-2d
-3d
-aircraft
-category:ine
-concept art
-creator:mateusz majewski
-flying
-hard surface
-illustration
-medium:digital 2d
-medium:digital media
-photobash
-photomanipulation
-plane
-scifi
-sky
-slider
-space
-star
-subreddit:imaginaryaviation
-subreddit:imaginarystarships
-subreddit:imtechnology
-title:cloud 09
-title:cloud 9 by mateusz majewski
-title:cloud 09 by mateusz majewski
-uploader:drunkindragon
-uploader:net-diver
-vehicle
-wars
+2d,
+3d,
+aircraft,
+category:ine,
+concept art,
+creator:mateusz majewski,
+flying,
+hard surface,
+illustration,
+medium:digital 2d,
+medium:digital media,
+photobash,
+photomanipulation,
+plane,
+scifi,
+sky,
+slider,
+space,
+star,
+subreddit:imaginaryaviation,
+subreddit:imaginarystarships,
+subreddit:imtechnology,
+title:cloud 09,
+title:cloud 9 by mateusz majewski,
+title:cloud 09 by mateusz majewski,
+uploader:drunkindragon,
+uploader:net-diver,
+vehicle,
+wars,

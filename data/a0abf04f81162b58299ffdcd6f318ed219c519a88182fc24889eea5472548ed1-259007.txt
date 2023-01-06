@@ -1,49 +1,49 @@
-1 eye
-$
-beak
-black body
-black feathers
-blue eyes
-branch
-brown body
-brown feathers
-category:ine
-chromatic aberration
-creator:cryptid-creations
-dollar sign
-eyes:blue
-feathered wings
-feathers
-feral
-group
-humor
-in tree
-medium:anaglyph
-medium:stereogram
-meme:humor
-meta:2018
-night
-one-eyed
-plant
-pun
-pyramid
-rating:safe
-scared
-species:avian
-species:bird
-species:owl
-stereoscopic
-subreddit:imaginaryanimals
-subreddit:imnature
-title:daily paint 2018# owlluminati
-title:owlluminati by piper thibodeau
-tree
-uploader:myrandall
-website:e621
-website:reddit
-white body
-white feathers
-wings
-wood
-worried
-year:2018
+1 eye,
+$,
+beak,
+black body,
+black feathers,
+blue eyes,
+branch,
+brown body,
+brown feathers,
+category:ine,
+chromatic aberration,
+creator:cryptid-creations,
+dollar sign,
+eyes:blue,
+feathered wings,
+feathers,
+feral,
+group,
+humor,
+in tree,
+medium:anaglyph,
+medium:stereogram,
+meme:humor,
+meta:2018,
+night,
+one-eyed,
+plant,
+pun,
+pyramid,
+rating:safe,
+scared,
+species:avian,
+species:bird,
+species:owl,
+stereoscopic,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:daily paint 2018# owlluminati,
+title:owlluminati by piper thibodeau,
+tree,
+uploader:myrandall,
+website:e621,
+website:reddit,
+white body,
+white feathers,
+wings,
+wood,
+worried,
+year:2018,

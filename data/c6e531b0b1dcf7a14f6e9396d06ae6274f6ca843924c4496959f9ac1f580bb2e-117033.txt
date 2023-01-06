@@ -1,25 +1,25 @@
-category:ine
-character
-characterdesign
-class:mammal
-creator:i-zora
-creature
-design
-fur
-gender:female
-genre:fantasy
-humanoid
-monster
-shifter
-source:furaffinity.net
-species:canine
-species:canis
-species:mythical
-species:werewolf
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:[cm] zakelina
-title:zakelina - by i-zora
-uploader:bleeding_choker
-year:2019
+category:ine,
+character,
+characterdesign,
+class:mammal,
+creator:i-zora,
+creature,
+design,
+fur,
+gender:female,
+genre:fantasy,
+humanoid,
+monster,
+shifter,
+source:furaffinity.net,
+species:canine,
+species:canis,
+species:mythical,
+species:werewolf,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:[cm] zakelina,
+title:zakelina - by i-zora,
+uploader:bleeding_choker,
+year:2019,

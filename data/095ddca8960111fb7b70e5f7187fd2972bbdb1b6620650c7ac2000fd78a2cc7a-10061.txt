@@ -1,38 +1,38 @@
-artwork
-category:ine
-cave
-dark fantasy
-electricity
-fantasy art
-glowing
-holding
-holding sword
-holding weapon
-lightning
-medium:digital media
-outdoors
-pc gaming
-rating:safe
-scenery
-series:league of legends
-solo
-standing
-subreddit:imaginarybattlefields
-subreddit:imaginaryhellscapes
-subreddit:imaginaryundead
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imlandscapes
-subreddit:immonsters
-sword
-title:black mist, by efflam mercier
-title:the black mist by efflam mercier
-title:the black mist by efflam mercier.
-tree
-uploader:ethan_kahn
-uploader:lol33ta
-uploader:myrandall
-uploader:sylvyrfyre
-video games
-water
-weapon
+artwork,
+category:ine,
+cave,
+dark fantasy,
+electricity,
+fantasy art,
+glowing,
+holding,
+holding sword,
+holding weapon,
+lightning,
+medium:digital media,
+outdoors,
+pc gaming,
+rating:safe,
+scenery,
+series:league of legends,
+solo,
+standing,
+subreddit:imaginarybattlefields,
+subreddit:imaginaryhellscapes,
+subreddit:imaginaryundead,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+subreddit:immonsters,
+sword,
+title:black mist, by efflam mercier,
+title:the black mist by efflam mercier,
+title:the black mist by efflam mercier.,
+tree,
+uploader:ethan_kahn,
+uploader:lol33ta,
+uploader:myrandall,
+uploader:sylvyrfyre,
+video games,
+water,
+weapon,

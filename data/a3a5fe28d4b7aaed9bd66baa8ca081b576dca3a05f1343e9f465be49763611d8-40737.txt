@@ -1,25 +1,25 @@
-2d
-adventure
-category:ine
-cave
-conceptart
-creator:ismail inceoglu
-digitalart
-digitalpainting
-enviromentdesign
-games
-images and maps
-ismail-inceoglu-daily-reasure
-landscape
-level design
-medium:digital 2d
-ship
-ship graveyard
-ships
-subreddit:imaginarycaves
-subreddit:imnature
-title:daily тreasure by ismail inceoglu
-uploader:l-ya
-vehicle
-watercraft
-тreasure
+2d,
+adventure,
+category:ine,
+cave,
+conceptart,
+creator:ismail inceoglu,
+digitalart,
+digitalpainting,
+enviromentdesign,
+games,
+images and maps,
+ismail-inceoglu-daily-reasure,
+landscape,
+level design,
+medium:digital 2d,
+ship,
+ship graveyard,
+ships,
+subreddit:imaginarycaves,
+subreddit:imnature,
+title:daily тreasure by ismail inceoglu,
+uploader:l-ya,
+vehicle,
+watercraft,
+тreasure,

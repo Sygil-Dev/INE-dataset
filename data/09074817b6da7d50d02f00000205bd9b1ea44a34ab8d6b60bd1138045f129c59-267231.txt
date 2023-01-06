@@ -1,31 +1,31 @@
-architecture
-black border
-bridge
-building
-castle
-category:ine
-city
-cityscape
-clock tower
-cloud
-creator:julian calle
-day
-east asian architecture
-fantasy
-letterboxed
-mountain
-outdoors
-pagoda
-pillarboxed
-rating:safe
-river
-scenery
-sky
-skyline
-skyscraper
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:feudal japan: the shogunate - environment design
-title:feudal japan: the shogunate - environment design by julian calle
-tower
-uploader:net-diver
+architecture,
+black border,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+clock tower,
+cloud,
+creator:julian calle,
+day,
+east asian architecture,
+fantasy,
+letterboxed,
+mountain,
+outdoors,
+pagoda,
+pillarboxed,
+rating:safe,
+river,
+scenery,
+sky,
+skyline,
+skyscraper,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:feudal japan: the shogunate - environment design,
+title:feudal japan: the shogunate - environment design by julian calle,
+tower,
+uploader:net-diver,

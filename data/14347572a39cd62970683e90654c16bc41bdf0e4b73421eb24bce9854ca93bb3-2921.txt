@@ -1,46 +1,46 @@
-1 female
-1girl
-armored gloves
-artist:dao trong le
-bare shoulders
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-category:ine
-cleavage
-clothing:dress
-clothing:hair tie
-commentary
-copyright:original
-creator:dao trong le
-dao trong le
-dress
-english commentary
-gauntlets
-gender:female
-holding
-holding object
-holding sword
-holding weapon
-medium breasts
-medium:high resolution
-meta:commentary
-meta:english commentary
-meta:highres
-ponytail
-rating:mature
-rating:safe
-series:original
-signature
-silver hair
-solo
-subreddit:imaginaryninjas
-subreddit:imcharacters
-sword
-tied hair
-title:"murasaki" by dao le trong
-title:ninja x by dao le trong
-uploader:lol33ta
-uploader:torvusil
-weapon
+1 female,
+1girl,
+armored gloves,
+artist:dao trong le,
+bare shoulders,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+category:ine,
+cleavage,
+clothing:dress,
+clothing:hair tie,
+commentary,
+copyright:original,
+creator:dao trong le,
+dao trong le,
+dress,
+english commentary,
+gauntlets,
+gender:female,
+holding,
+holding object,
+holding sword,
+holding weapon,
+medium breasts,
+medium:high resolution,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+ponytail,
+rating:mature,
+rating:safe,
+series:original,
+signature,
+silver hair,
+solo,
+subreddit:imaginaryninjas,
+subreddit:imcharacters,
+sword,
+tied hair,
+title:"murasaki" by dao le trong,
+title:ninja x by dao le trong,
+uploader:lol33ta,
+uploader:torvusil,
+weapon,

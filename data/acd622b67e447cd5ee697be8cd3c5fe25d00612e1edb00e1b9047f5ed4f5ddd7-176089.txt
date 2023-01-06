@@ -1,22 +1,22 @@
-art
-barcelona
-brush
-category:ine
-classic
-color
-composition
-creator:dani naimare
-dani naimare
-invasion
-medium:digital 2d
-naimare
-ribal
-spain
-subreddit:imaginaryfeels
-subreddit:immeta
-survivor
-title:no merci
-title:no mercy by dani naimare
-trival
-uploader:kuaiban
-war
+art,
+barcelona,
+brush,
+category:ine,
+classic,
+color,
+composition,
+creator:dani naimare,
+dani naimare,
+invasion,
+medium:digital 2d,
+naimare,
+ribal,
+spain,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+survivor,
+title:no merci,
+title:no mercy by dani naimare,
+trival,
+uploader:kuaiban,
+war,

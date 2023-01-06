@@ -1,36 +1,36 @@
-bare tree
-campfire
-category:ine
-city
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-horizon
-lake
-landscape
-mountain
-mountainous horizon
-nature
-no humans
-ocean
-orange sky
-outdoors
-palm tree
-purple sky
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginaryvolcanoes
-subreddit:imnature
-sun
-sunrise
-sunset
-title:volcano by rachid lotf
-tree
-twilight
-uploader:smials
-volcano
+bare tree,
+campfire,
+category:ine,
+city,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+horizon,
+lake,
+landscape,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+ocean,
+orange sky,
+outdoors,
+palm tree,
+purple sky,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginaryvolcanoes,
+subreddit:imnature,
+sun,
+sunrise,
+sunset,
+title:volcano by rachid lotf,
+tree,
+twilight,
+uploader:smials,
+volcano,

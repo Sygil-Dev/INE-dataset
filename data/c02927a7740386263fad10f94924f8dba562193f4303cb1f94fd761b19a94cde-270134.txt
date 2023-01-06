@@ -1,85 +1,85 @@
-1 female
-anime
-artist:you shimizu
-background
-battlement
-black footwear
-black shoes
-bridge
-brown hair
-building
-bush
-castle
-category:ine
-chimney
-city
-cityscape
-clothing:dress
-clothing:footwear
-clothing:gloves
-cloud
-cloudy sky
-copyright:original
-creator:shimizu629
-creator:you (shimizu)
-creator:you shimizu
-creator:よー清水@3日目東 ハ-30b
-creator:よー清水@3日目西へ-01b
-creator:よー清水@新刊技法書予約受付中
-dress
-flower
-footwear
-from side
-gender:female
-genre:fantasy
-gloves
-gown
-half-timbered
-landscape
-logo
-long hair
-medium:high resolution
-meta:highres
-original
-original 10000 users bookmark
-original character
-outdoors
-outside
-parasol
-pixiv artist id:2830609
-pixiv illust id:58869175
-pixiv work:58869175
-plant
-rating:safe
-rooftop
-scenery
-series:original
-shoes
-site:art abyss
-sky
-smoke
-solo
-spire
-standing
-subreddit:imaginarycastles
-subreddit:imarchitecture
-sunlight
-title:castle and town by よー清水
-title:城と街
-tower
-umbrella
-uploader:phoenixathena
-wall
-wavy hair
-website:reddit
-white dress
-white gloves
-すごい
-オリジナル
-オリジナル30000users入り
-ファンタジー
-城
-女の子
-背景
-風景
-風景10000users入り
+1 female,
+anime,
+artist:you shimizu,
+background,
+battlement,
+black footwear,
+black shoes,
+bridge,
+brown hair,
+building,
+bush,
+castle,
+category:ine,
+chimney,
+city,
+cityscape,
+clothing:dress,
+clothing:footwear,
+clothing:gloves,
+cloud,
+cloudy sky,
+copyright:original,
+creator:shimizu629,
+creator:you (shimizu),
+creator:you shimizu,
+creator:よー清水@3日目東 ハ-30b,
+creator:よー清水@3日目西へ-01b,
+creator:よー清水@新刊技法書予約受付中,
+dress,
+flower,
+footwear,
+from side,
+gender:female,
+genre:fantasy,
+gloves,
+gown,
+half-timbered,
+landscape,
+logo,
+long hair,
+medium:high resolution,
+meta:highres,
+original,
+original 10000 users bookmark,
+original character,
+outdoors,
+outside,
+parasol,
+pixiv artist id:2830609,
+pixiv illust id:58869175,
+pixiv work:58869175,
+plant,
+rating:safe,
+rooftop,
+scenery,
+series:original,
+shoes,
+site:art abyss,
+sky,
+smoke,
+solo,
+spire,
+standing,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+sunlight,
+title:castle and town by よー清水,
+title:城と街,
+tower,
+umbrella,
+uploader:phoenixathena,
+wall,
+wavy hair,
+website:reddit,
+white dress,
+white gloves,
+すごい,
+オリジナル,
+オリジナル30000users入り,
+ファンタジー,
+城,
+女の子,
+背景,
+風景,
+風景10000users入り,

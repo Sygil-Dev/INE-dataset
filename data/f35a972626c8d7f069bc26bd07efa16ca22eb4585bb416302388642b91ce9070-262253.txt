@@ -1,57 +1,57 @@
-annoyed
-berry
-blue body
-blue feathers
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-december (month)
-emotion:annoyance
-english text
-feathers
-feral
-filename:dp1842_s
-food
-fruit
-gender:male
-humor
-language:english
-male
-male:1
-medium:english text
-medium:patreon reward
-medium:text
-meme:humor
-meta:2018
-meta:english text
-meta:paid reward
-meta:patreon reward
-orange body
-orange feathers
-plant
-pun
-rating:safe
-site:patreon
-site:yiff.party
-snow
-solo
-species:avian
-species:bird
-species:bluebird
-species:oscine
-species:passerine
-species:thrush (bird)
-subreddit:imaginaryanimals
-subreddit:imnature
-text
-title:1$ patreon pack - daily paint 1842# decembird
-title:5$ patreon pack - daily paint 1842# decembird
-title:daily paint 1842# decembird
-title:decembird by piper thibodeau
-tree
-uploader:myrandall
-website:e621
-white body
-white feathers
-year:2018
-yiff id:457132
+annoyed,
+berry,
+blue body,
+blue feathers,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+december (month),
+emotion:annoyance,
+english text,
+feathers,
+feral,
+filename:dp1842_s,
+food,
+fruit,
+gender:male,
+humor,
+language:english,
+male,
+male:1,
+medium:english text,
+medium:patreon reward,
+medium:text,
+meme:humor,
+meta:2018,
+meta:english text,
+meta:paid reward,
+meta:patreon reward,
+orange body,
+orange feathers,
+plant,
+pun,
+rating:safe,
+site:patreon,
+site:yiff.party,
+snow,
+solo,
+species:avian,
+species:bird,
+species:bluebird,
+species:oscine,
+species:passerine,
+species:thrush (bird),
+subreddit:imaginaryanimals,
+subreddit:imnature,
+text,
+title:1$ patreon pack - daily paint 1842# decembird,
+title:5$ patreon pack - daily paint 1842# decembird,
+title:daily paint 1842# decembird,
+title:decembird by piper thibodeau,
+tree,
+uploader:myrandall,
+website:e621,
+white body,
+white feathers,
+year:2018,
+yiff id:457132,

@@ -1,49 +1,49 @@
-art
-booru:e621
-category:ine
-creator:tomasz jedruszek
-detailed background
-duo
-feral
-forest
-furry
-lantern
-macro
-medium:detailed background
-meta:official art
-meta:signature
-night
-open mouth
-plant
-quadruped
-rating:safe
-rear view
-riding
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-signature
-size difference
-species:human
-species:mammal
-species:monster
-species:primate
-species:reptile
-species:scalie
-species:turtle
-straddling
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarybehemoths
-subreddit:imaginaryswamps
-subreddit:imaginaryturtleworlds
-subreddit:immeta
-subreddit:immonsters
-subreddit:imnature
-title:silburlind snapper by tomasz jedruszek
-tree
-uploader:faeryknight
-uploader:lol33ta
-uploader:valar_m0rghul1s
-water
+art,
+booru:e621,
+category:ine,
+creator:tomasz jedruszek,
+detailed background,
+duo,
+feral,
+forest,
+furry,
+lantern,
+macro,
+medium:detailed background,
+meta:official art,
+meta:signature,
+night,
+open mouth,
+plant,
+quadruped,
+rating:safe,
+rear view,
+riding,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+signature,
+size difference,
+species:human,
+species:mammal,
+species:monster,
+species:primate,
+species:reptile,
+species:scalie,
+species:turtle,
+straddling,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarybehemoths,
+subreddit:imaginaryswamps,
+subreddit:imaginaryturtleworlds,
+subreddit:immeta,
+subreddit:immonsters,
+subreddit:imnature,
+title:silburlind snapper by tomasz jedruszek,
+tree,
+uploader:faeryknight,
+uploader:lol33ta,
+uploader:valar_m0rghul1s,
+water,

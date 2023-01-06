@@ -1,47 +1,47 @@
-booru:safebooru
-category:ine
-character:gastly
-character:gengar
-character:haunter
-clothing:earrings
-creator:shimanoko
-earrings
-egasumi
-fine art parody
-gen 1 pokemon
-ghost
-inspired by fine art
-jewelry
-meta:bad id
-meta:bad pixiv id
-monster
-nihonga
-no humans
-parody
-pipe
-pokemon (creature)
-rating:safe
-scar
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon red green blue & yellow
-series:pokemon rgby
-series:pokémon
-series:pokémon red green blue & yellow
-species:gastly
-species:gengar
-species:haunter
-species:monster
-species:pokemon
-species:pokémon
-studio:nintendo
-subreddit:imaginaryspirits
-subreddit:immonsters
-sumi-e
-title:my favorite trio of ghosts, attributed to shimanoko
-tongue
-tongue out
-uploader:deftpirate
+booru:safebooru,
+category:ine,
+character:gastly,
+character:gengar,
+character:haunter,
+clothing:earrings,
+creator:shimanoko,
+earrings,
+egasumi,
+fine art parody,
+gen 1 pokemon,
+ghost,
+inspired by fine art,
+jewelry,
+meta:bad id,
+meta:bad pixiv id,
+monster,
+nihonga,
+no humans,
+parody,
+pipe,
+pokemon (creature),
+rating:safe,
+scar,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon red green blue & yellow,
+series:pokemon rgby,
+series:pokémon,
+series:pokémon red green blue & yellow,
+species:gastly,
+species:gengar,
+species:haunter,
+species:monster,
+species:pokemon,
+species:pokémon,
+studio:nintendo,
+subreddit:imaginaryspirits,
+subreddit:immonsters,
+sumi-e,
+title:my favorite trio of ghosts, attributed to shimanoko,
+tongue,
+tongue out,
+uploader:deftpirate,

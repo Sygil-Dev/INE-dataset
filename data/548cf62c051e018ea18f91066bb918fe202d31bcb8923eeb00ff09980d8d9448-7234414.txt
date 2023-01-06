@@ -1,71 +1,71 @@
-assasinmonkey
-bodily fluids
-booru:e621
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-creator:assasinmonkey
-crown
-crying
-eyelashes
-female
-feral
-floppy ears
-gender:female
-genre:fantasy
-grief
-hair
-horn
-horns
-jewelry
-kemono.party
-mare
-medium:1:1 aspect ratio
-meta:1:1
-meta:2017
-multicolored hair
-multicolored mane
-multicolored tail
-night
-peytral
-pretty
-princess
-purple eyes
-rating:safe
-regalia
-royalty
-sad
-safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-shooting star
-solo
-sparkles
-species:alicorn
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-species:winged unicorn
-star
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tail
-tears
-tears of pain
-teeth
-tiara
-title:celestial solitude
-title:celestial solitude by myron c. p.
-uncanny valley
-unicorn horn
-uploader:myrandall
-wings
-year:2017
+assasinmonkey,
+bodily fluids,
+booru:e621,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+creator:assasinmonkey,
+crown,
+crying,
+eyelashes,
+female,
+feral,
+floppy ears,
+gender:female,
+genre:fantasy,
+grief,
+hair,
+horn,
+horns,
+jewelry,
+kemono.party,
+mare,
+medium:1:1 aspect ratio,
+meta:1:1,
+meta:2017,
+multicolored hair,
+multicolored mane,
+multicolored tail,
+night,
+peytral,
+pretty,
+princess,
+purple eyes,
+rating:safe,
+regalia,
+royalty,
+sad,
+safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+shooting star,
+solo,
+sparkles,
+species:alicorn,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+species:winged unicorn,
+star,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tail,
+tears,
+tears of pain,
+teeth,
+tiara,
+title:celestial solitude,
+title:celestial solitude by myron c. p.,
+uncanny valley,
+unicorn horn,
+uploader:myrandall,
+wings,
+year:2017,

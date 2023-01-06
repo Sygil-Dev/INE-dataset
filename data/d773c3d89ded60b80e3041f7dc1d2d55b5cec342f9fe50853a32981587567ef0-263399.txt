@@ -1,188 +1,188 @@
-1 female
-1girl
-16:9 aspect ratio
->:(
-aircraft
-armor
-armored boots
-artist cg
-backlighting
-bangs
-black bodysuit
-black hair
-blurry
-bodysuit
-booru:sankaku
-boots
-bottomwear
-breastplate
-broken armor
-broken glass
-broken_armor
-broken_glass
-brown eyes
-brown hair
-building
-category:ine
-cg art
-character name
-character names
-character:anubis pharah
-character:fareeha "pharah" amari
-character:pharah (overwatch)
-character:warrior
-closed mouth
-closed_mouth
-clothing
-clothing:armor
-clothing:armored boots
-clothing:bodysuit
-clothing:boots
-clothing:bottomwear
-clothing:footwear
-clothing:hair ornament
-clothing:topwear
-cloud
-cloud (clouds)
-clouds
-cloudy sky
-cowboy shot
-cowboy_shot
-creator:liang xing - 星星梁
-creator:liang-xing
-creator:liangxing
-dark skin
-dark skinned female
-dark-skinned female
-day
-debris
-depth of field
-depth_of_field
-destruction
-dutch angle
-english text
-eye of horus
-eyeliner
-eyeshadow
-face:>:(
-facial tattoo
-facial_tattoo
-female
-finger on trigger
-firearm
-firing
-footwear
-frown
-gantz
-gauntlets
-gender:female
-genre:mecha musume
-genre:science fiction
-ghost in the shell
-girl
-glass
-glowing
-gun
-hair ornament
-hair tubes
-high resolution
-holding
-holding gun
-holding object
-holding weapon
-holding_gun
-holding_weapon
-illustration
-language:english
-legs
-legs apart
-liang xing
-light particles
-lips
-long hair
-looking at viewer
-looking away
-makeup
-mecha
-mecha girls
-mecha musume
-mechagirl
-mechanical wings
-medium:3d rendering
-medium:16:9 aspect ratio
-medium:artist cg
-medium:backlighting
-medium:cg art
-medium:character name
-medium:cowboy shot
-medium:depth of field
-medium:digital media
-medium:dutch angle
-medium:english
-medium:english language
-medium:english text
-medium:high resolution
-medium:motion blur
-medium:realistic
-medium:source filmmaker
-medium:text
-medium:video game
-medium:wallpaper
-meta:commentary request
-meta:photoshop (medium)
-meta:pixiv-import
-missile
-motion blur
-orange eyes
-outdoors
-outside
-outstretched arm
-overwatch
-overwatch1000users入り
-pauldron
-pauldrons
-pharah (overwatch)
-pixiv work:61260119
-point of view
-pov
-power armor
-rating:mature
-rating:s
-rating:safe
-realistic
-red eyes
-running makeup
-series:blizzard entertainment
-series:gantz
-series:ghost in the shell
-series:overwatch
-serious
-shards
-shot
-shoulder armor
-single
-site:anime-pictures.net
-site:archived.moe
-sky
-solo
-spread legs
-spreading
-studio:blizzard entertainment
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-swept bangs
-tattoo
-text
-title:pharah
-title:pharah by liang xing
-topwear
-torn clothes
-uploader:myrandall
-v-shaped eyebrows
-vehicle
-video games
-wallpaper
-warrior
-weapon
-wide image
-wings
+1 female,
+1girl,
+16:9 aspect ratio,
+>:(,
+aircraft,
+armor,
+armored boots,
+artist cg,
+backlighting,
+bangs,
+black bodysuit,
+black hair,
+blurry,
+bodysuit,
+booru:sankaku,
+boots,
+bottomwear,
+breastplate,
+broken armor,
+broken glass,
+broken_armor,
+broken_glass,
+brown eyes,
+brown hair,
+building,
+category:ine,
+cg art,
+character name,
+character names,
+character:anubis pharah,
+character:fareeha "pharah" amari,
+character:pharah (overwatch),
+character:warrior,
+closed mouth,
+closed_mouth,
+clothing,
+clothing:armor,
+clothing:armored boots,
+clothing:bodysuit,
+clothing:boots,
+clothing:bottomwear,
+clothing:footwear,
+clothing:hair ornament,
+clothing:topwear,
+cloud,
+cloud (clouds),
+clouds,
+cloudy sky,
+cowboy shot,
+cowboy_shot,
+creator:liang xing - 星星梁,
+creator:liang-xing,
+creator:liangxing,
+dark skin,
+dark skinned female,
+dark-skinned female,
+day,
+debris,
+depth of field,
+depth_of_field,
+destruction,
+dutch angle,
+english text,
+eye of horus,
+eyeliner,
+eyeshadow,
+face:>:(,
+facial tattoo,
+facial_tattoo,
+female,
+finger on trigger,
+firearm,
+firing,
+footwear,
+frown,
+gantz,
+gauntlets,
+gender:female,
+genre:mecha musume,
+genre:science fiction,
+ghost in the shell,
+girl,
+glass,
+glowing,
+gun,
+hair ornament,
+hair tubes,
+high resolution,
+holding,
+holding gun,
+holding object,
+holding weapon,
+holding_gun,
+holding_weapon,
+illustration,
+language:english,
+legs,
+legs apart,
+liang xing,
+light particles,
+lips,
+long hair,
+looking at viewer,
+looking away,
+makeup,
+mecha,
+mecha girls,
+mecha musume,
+mechagirl,
+mechanical wings,
+medium:3d rendering,
+medium:16:9 aspect ratio,
+medium:artist cg,
+medium:backlighting,
+medium:cg art,
+medium:character name,
+medium:cowboy shot,
+medium:depth of field,
+medium:digital media,
+medium:dutch angle,
+medium:english,
+medium:english language,
+medium:english text,
+medium:high resolution,
+medium:motion blur,
+medium:realistic,
+medium:source filmmaker,
+medium:text,
+medium:video game,
+medium:wallpaper,
+meta:commentary request,
+meta:photoshop (medium),
+meta:pixiv-import,
+missile,
+motion blur,
+orange eyes,
+outdoors,
+outside,
+outstretched arm,
+overwatch,
+overwatch1000users入り,
+pauldron,
+pauldrons,
+pharah (overwatch),
+pixiv work:61260119,
+point of view,
+pov,
+power armor,
+rating:mature,
+rating:s,
+rating:safe,
+realistic,
+red eyes,
+running makeup,
+series:blizzard entertainment,
+series:gantz,
+series:ghost in the shell,
+series:overwatch,
+serious,
+shards,
+shot,
+shoulder armor,
+single,
+site:anime-pictures.net,
+site:archived.moe,
+sky,
+solo,
+spread legs,
+spreading,
+studio:blizzard entertainment,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+swept bangs,
+tattoo,
+text,
+title:pharah,
+title:pharah by liang xing,
+topwear,
+torn clothes,
+uploader:myrandall,
+v-shaped eyebrows,
+vehicle,
+video games,
+wallpaper,
+warrior,
+weapon,
+wide image,
+wings,

@@ -1,50 +1,50 @@
-4 eyes
-6 legs
-aircraft
-armor
-battle
-blood
-bodily fluids
-building
-category:ine
-clothed
-clothed feral
-clothing
-creator:abiogenisis
-creator:alex ries
-fangs
-feral
-group
-headgear
-helicopter
-helmet
-holding knife
-holding object
-holding sign
-jumping
-knife
-leg wraps
-letterbox
-multi eye
-open mouth
-rating:questionable
-riot
-riot shield
-running
-sign
-species:alien
-species:birrin
-subreddit:imaginaryaliens
-subreddit:imaginarybattlefields
-subreddit:imaginarygatherings
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-subreddit:imlandscapes
-subreddit:imraces
-title:protest
-title:protest by abiogenisis
-title:protest by alex ries
-uploader:lol33ta
-uploader:myrandall
-website:reddit
-wraps
+4 eyes,
+6 legs,
+aircraft,
+armor,
+battle,
+blood,
+bodily fluids,
+building,
+category:ine,
+clothed,
+clothed feral,
+clothing,
+creator:abiogenisis,
+creator:alex ries,
+fangs,
+feral,
+group,
+headgear,
+helicopter,
+helmet,
+holding knife,
+holding object,
+holding sign,
+jumping,
+knife,
+leg wraps,
+letterbox,
+multi eye,
+open mouth,
+rating:questionable,
+riot,
+riot shield,
+running,
+sign,
+species:alien,
+species:birrin,
+subreddit:imaginaryaliens,
+subreddit:imaginarybattlefields,
+subreddit:imaginarygatherings,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+subreddit:imraces,
+title:protest,
+title:protest by abiogenisis,
+title:protest by alex ries,
+uploader:lol33ta,
+uploader:myrandall,
+website:reddit,
+wraps,

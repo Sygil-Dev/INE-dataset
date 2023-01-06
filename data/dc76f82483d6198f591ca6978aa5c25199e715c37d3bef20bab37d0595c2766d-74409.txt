@@ -1,22 +1,22 @@
-archer
-balista
-bow
-card
-category:ine
-colosal
-creator:fajareka setiawan
-digitalart
-fantasyart
-gameart
-illustration
-legendofthecryptids
-medium:digital 2d
-species:feline
-species:mammal
-species:tiger
-subreddit:imaginaryarchers
-subreddit:imcharacters
-title:brea the untamed (adv)
-title:brea the untamed (adv) by fajareka setiawan
-uploader:thegypsyslayer
-war
+archer,
+balista,
+bow,
+card,
+category:ine,
+colosal,
+creator:fajareka setiawan,
+digitalart,
+fantasyart,
+gameart,
+illustration,
+legendofthecryptids,
+medium:digital 2d,
+species:feline,
+species:mammal,
+species:tiger,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+title:brea the untamed (adv),
+title:brea the untamed (adv) by fajareka setiawan,
+uploader:thegypsyslayer,
+war,

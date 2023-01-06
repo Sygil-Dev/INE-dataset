@@ -1,62 +1,62 @@
-3 fingers
-3 toes
-blue body
-blue eyes
-blue skin
-booru:e621
-category:ine
-claws
-closed eyes
-creator:conditional dnp
-creator:oksara
-curved horn
-day
-duo
-eyes closed
-feet
-female
-female on top
-feral
-fingers
-furry
-gender:female
-gender:male
-grey body
-grey skin
-guro
-horn
-horns
-invalid tag
-kiss
-kissing
-long tail
-male
-male on bottom
-male on female
-male/female
-medium:high resolution
-membrane (anatomy)
-membranous wings
-meta:hi res
-nude
-oksara
-on bottom
-on top
-outside
-rating:explicit
-rating:mature
-rating:questionable
-rating:safe
-sky
-smooth horn
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarylovers
-subreddit:imcharacters
-tail
-title:"tundra love" by oksara
-title:tundra love
-toes
-uploader:torvusil
-wings
+3 fingers,
+3 toes,
+blue body,
+blue eyes,
+blue skin,
+booru:e621,
+category:ine,
+claws,
+closed eyes,
+creator:conditional dnp,
+creator:oksara,
+curved horn,
+day,
+duo,
+eyes closed,
+feet,
+female,
+female on top,
+feral,
+fingers,
+furry,
+gender:female,
+gender:male,
+grey body,
+grey skin,
+guro,
+horn,
+horns,
+invalid tag,
+kiss,
+kissing,
+long tail,
+male,
+male on bottom,
+male on female,
+male/female,
+medium:high resolution,
+membrane (anatomy),
+membranous wings,
+meta:hi res,
+nude,
+oksara,
+on bottom,
+on top,
+outside,
+rating:explicit,
+rating:mature,
+rating:questionable,
+rating:safe,
+sky,
+smooth horn,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+tail,
+title:"tundra love" by oksara,
+title:tundra love,
+toes,
+uploader:torvusil,
+wings,

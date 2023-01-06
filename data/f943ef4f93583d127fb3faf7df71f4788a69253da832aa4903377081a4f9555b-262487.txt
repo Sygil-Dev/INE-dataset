@@ -1,47 +1,47 @@
-3 fingers
-abstract background
-ambiguous gender
-armor
-blue eyes
-booru:e621
-card
-category:ine
-character:garrus vakarian
-character:hud
-clothing:armor
-clothing:eyewear
-creator:alteya
-eyewear
-fingers
-firearm
-gender:ambiguous
-grey body
-group
-gun
-hi res
-horn
-horns
-hud
-judgement (tarot)
-major arcana
-markings
-medium:abstract background
-medium:high resolution
-meta:hi res
-prosthetic
-ranged weapon
-rating:safe
-rifle
-scar
-series:mass effect
-solo focus
-species:alien
-species:turian
-subreddit:imaginarymasseffect
-subreddit:imfandoms
-tarot card
-title:me: garrus
-title:me: garrus by alteya
-uploader:valar_m0rghul1s
-video games
-weapon
+3 fingers,
+abstract background,
+ambiguous gender,
+armor,
+blue eyes,
+booru:e621,
+card,
+category:ine,
+character:garrus vakarian,
+character:hud,
+clothing:armor,
+clothing:eyewear,
+creator:alteya,
+eyewear,
+fingers,
+firearm,
+gender:ambiguous,
+grey body,
+group,
+gun,
+hi res,
+horn,
+horns,
+hud,
+judgement (tarot),
+major arcana,
+markings,
+medium:abstract background,
+medium:high resolution,
+meta:hi res,
+prosthetic,
+ranged weapon,
+rating:safe,
+rifle,
+scar,
+series:mass effect,
+solo focus,
+species:alien,
+species:turian,
+subreddit:imaginarymasseffect,
+subreddit:imfandoms,
+tarot card,
+title:me: garrus,
+title:me: garrus by alteya,
+uploader:valar_m0rghul1s,
+video games,
+weapon,

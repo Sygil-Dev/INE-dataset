@@ -1,62 +1,62 @@
-ambiguous gender
-ambiguous_gender
-artist:tsaoshin
-booru:e621
-category:ine
-charizard
-chibi
-copyright:nintendo
-copyright:pokémon
-creator:tsaoshin
-cute
-digital
-ericproctor
-fanart
-fire
-furry
-gaming
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-gottadrawemall
-gottadrawthemall
-kanto
-medium:1:1 aspect ratio
-medium:digital media
-meta:1:1
-meta:2016
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-nintendo
-painting
-photoshop
-pokemon
-pool:15535
-rating:safe
-series:nintendo
-series:pokémon
-sketch
-solo
-species:charizard
-species:dragon
-species:monster
-species:mythical
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:scalie
-species:western dragon
-species:western_dragon
-starters
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:006 - charizard
-title:"006 - charizard" by eric proctor (tsaoshin)
-tsaoshin
-type
-uploader:torvusil
-video games
-video_games
-wings
-year:2016
+ambiguous gender,
+ambiguous_gender,
+artist:tsaoshin,
+booru:e621,
+category:ine,
+charizard,
+chibi,
+copyright:nintendo,
+copyright:pokémon,
+creator:tsaoshin,
+cute,
+digital,
+ericproctor,
+fanart,
+fire,
+furry,
+gaming,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+gottadrawemall,
+gottadrawthemall,
+kanto,
+medium:1:1 aspect ratio,
+medium:digital media,
+meta:1:1,
+meta:2016,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+nintendo,
+painting,
+photoshop,
+pokemon,
+pool:15535,
+rating:safe,
+series:nintendo,
+series:pokémon,
+sketch,
+solo,
+species:charizard,
+species:dragon,
+species:monster,
+species:mythical,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:scalie,
+species:western dragon,
+species:western_dragon,
+starters,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:006 - charizard,
+title:"006 - charizard" by eric proctor (tsaoshin),
+tsaoshin,
+type,
+uploader:torvusil,
+video games,
+video_games,
+wings,
+year:2016,

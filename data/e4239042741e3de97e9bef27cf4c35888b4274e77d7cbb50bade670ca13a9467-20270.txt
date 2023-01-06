@@ -1,22 +1,22 @@
-artstation
-blonde hair
-blue eyes
-booru:sankaku channel
-category:ine
-character:elsa (frozen)
-character:elsa of arendelle
-creator:sean ellery
-creator:stanley lau
-female
-gender:female
-rating:safe
-series:frozen
-series:frozen (disney)
-smile
-solo
-studio:disney
-subreddit:imaginarydisney
-subreddit:imfandoms
-title:elsa by by stanley 'artgerm' lau
-uploader:nitemyria
-wind
+artstation,
+blonde hair,
+blue eyes,
+booru:sankaku channel,
+category:ine,
+character:elsa (frozen),
+character:elsa of arendelle,
+creator:sean ellery,
+creator:stanley lau,
+female,
+gender:female,
+rating:safe,
+series:frozen,
+series:frozen (disney),
+smile,
+solo,
+studio:disney,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+title:elsa by by stanley 'artgerm' lau,
+uploader:nitemyria,
+wind,

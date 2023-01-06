@@ -1,65 +1,65 @@
-blue body
-blue eyes
-blue feathers
-blue fur
-blue hair
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-creator:l1nkoln
-cutie mark
-dark theme
-equine
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-gradient background
-grass
-hair
-hooves
-horn
-horns
-l1nkoln
-lying
-medium:16:9 aspect ratio
-medium:absurd resolution
-medium:gradient background
-medium:high resolution
-medium:simple background
-meta:16:9
-meta:absurd res
-meta:dark theme
-meta:hi res
-meta:widescreen
-night
-outside
-plant
-ponyville
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-simple background
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-star
-starry sky
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"commission for knuxmania" by vadim (l1nkoln)
-title:commission for knuxmania
-uploader:torvusil
-winged unicorn
-wings
+blue body,
+blue eyes,
+blue feathers,
+blue fur,
+blue hair,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+creator:l1nkoln,
+cutie mark,
+dark theme,
+equine,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+gradient background,
+grass,
+hair,
+hooves,
+horn,
+horns,
+l1nkoln,
+lying,
+medium:16:9 aspect ratio,
+medium:absurd resolution,
+medium:gradient background,
+medium:high resolution,
+medium:simple background,
+meta:16:9,
+meta:absurd res,
+meta:dark theme,
+meta:hi res,
+meta:widescreen,
+night,
+outside,
+plant,
+ponyville,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+simple background,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+star,
+starry sky,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"commission for knuxmania" by vadim (l1nkoln),
+title:commission for knuxmania,
+uploader:torvusil,
+winged unicorn,
+wings,

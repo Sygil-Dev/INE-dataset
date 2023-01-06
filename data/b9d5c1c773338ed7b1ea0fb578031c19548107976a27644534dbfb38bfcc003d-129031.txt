@@ -1,58 +1,58 @@
-animal
-booru:safebooru
-bridge
-category:ine
-character:croagunk
-character:lotad
-character:masquerain
-character:politoed
-character:poliwag
-character:quagsire
-character:tympole
-character:wooper
-creator:yakkun
-creature
-forest
-gen 1 pokemon
-gen 2 pokemon
-gen 3 pokemon
-gen 4 pokemon
-gen 5 pokemon
-grass
-landscape
-nature
-no humans
-plant
-pokemon (creature)
-rain
-rating:general
-rating:mature
-rating:safe
-scenery
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokémon
-species:croagunk
-species:lotad
-species:masquerain
-species:monster
-species:pokemon
-species:pokémon
-species:politoed
-species:poliwag
-species:quagsire
-species:tympole
-species:wooper
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imaginaryweather
-subreddit:imfandoms
-subreddit:imnature
-title:ambiguous by yakun
-tree
-uploader:lol33ta
-uploader:pkmnart
-water
+animal,
+booru:safebooru,
+bridge,
+category:ine,
+character:croagunk,
+character:lotad,
+character:masquerain,
+character:politoed,
+character:poliwag,
+character:quagsire,
+character:tympole,
+character:wooper,
+creator:yakkun,
+creature,
+forest,
+gen 1 pokemon,
+gen 2 pokemon,
+gen 3 pokemon,
+gen 4 pokemon,
+gen 5 pokemon,
+grass,
+landscape,
+nature,
+no humans,
+plant,
+pokemon (creature),
+rain,
+rating:general,
+rating:mature,
+rating:safe,
+scenery,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokémon,
+species:croagunk,
+species:lotad,
+species:masquerain,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:politoed,
+species:poliwag,
+species:quagsire,
+species:tympole,
+species:wooper,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imaginaryweather,
+subreddit:imfandoms,
+subreddit:imnature,
+title:ambiguous by yakun,
+tree,
+uploader:lol33ta,
+uploader:pkmnart,
+water,

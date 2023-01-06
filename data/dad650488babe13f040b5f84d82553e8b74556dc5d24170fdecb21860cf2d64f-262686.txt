@@ -1,70 +1,70 @@
-1 female
-1girl
-alien
-alternate costume
-backless dress
-backless outfit
-black background
-black sclera
-blue dress
-bodysuit
-breasts
-category:ine
-character:commander shepard
-character:commander shepard (female)
-character:garrus vakarian
-character:turian
-closed eyes
-clothing:bottomwear
-clothing:dress
-clothing:earrings
-clothing:topwear
-colored sclera
-commander_shepard_(female)
-commentary
-couple
-creator:zetallis
-dancing
-dress
-earrings
-eyes closed
-formal
-gender:female
-height difference
-height_difference
-high resolution
-interspecies
-jewelry
-lipstick
-makeup
-mass_effect_3
-medium breasts
-medium:black background
-medium:high resolution
-medium:simple background
-meta:commentary
-meta:highres
-nose
-open-back dress
-open-back_dress
-rating:mature
-rating:s
-rating:safe
-red hair
-series:mass effect
-series:mass effect 3
-shirt
-short hair
-sleeveless
-sleeveless dress
-species:alien
-species:turian
-subreddit:imaginarymasseffect
-subreddit:imfandoms
-tango
-title:there is no shepard without vakarian
-title:there is no shepard without vakarian by zetallis on deviantart
-toned
-turian
-uploader:valar_m0rghul1s
-zetallis
+1 female,
+1girl,
+alien,
+alternate costume,
+backless dress,
+backless outfit,
+black background,
+black sclera,
+blue dress,
+bodysuit,
+breasts,
+category:ine,
+character:commander shepard,
+character:commander shepard (female),
+character:garrus vakarian,
+character:turian,
+closed eyes,
+clothing:bottomwear,
+clothing:dress,
+clothing:earrings,
+clothing:topwear,
+colored sclera,
+commander_shepard_(female),
+commentary,
+couple,
+creator:zetallis,
+dancing,
+dress,
+earrings,
+eyes closed,
+formal,
+gender:female,
+height difference,
+height_difference,
+high resolution,
+interspecies,
+jewelry,
+lipstick,
+makeup,
+mass_effect_3,
+medium breasts,
+medium:black background,
+medium:high resolution,
+medium:simple background,
+meta:commentary,
+meta:highres,
+nose,
+open-back dress,
+open-back_dress,
+rating:mature,
+rating:s,
+rating:safe,
+red hair,
+series:mass effect,
+series:mass effect 3,
+shirt,
+short hair,
+sleeveless,
+sleeveless dress,
+species:alien,
+species:turian,
+subreddit:imaginarymasseffect,
+subreddit:imfandoms,
+tango,
+title:there is no shepard without vakarian,
+title:there is no shepard without vakarian by zetallis on deviantart,
+toned,
+turian,
+uploader:valar_m0rghul1s,
+zetallis,

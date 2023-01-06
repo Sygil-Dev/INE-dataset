@@ -1,47 +1,47 @@
-booru:sankaku channel
-bow
-bracelet
-category:ine
-character:tyrande whisperwind
-clothing:bracelet
-clothing:dress
-clothing:headband
-clothing:jewelry
-clothing:necklace
-clothing:white dress
-colored skin
-creator:georgy stacker
-creator:themaestronoob
-dress
-ears
-georgy stacker
-green hair
-head tilt
-headband
-high resolution
-jewelry
-medium:digital 2d
-medium:high resolution
-medium:very high resolution
-moon
-necklace
-night
-pointed ears
-pointy ears
-purple skin
-rating:questionable
-series:warcraft
-series:world of warcraft
-source:artstation
-species:elf
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-title:tyrande whisperwind by georgy stacker
-tyrande whisperwind
-uploader:lol33ta
-very high resolution
-warcraft
-white dress
-world of warcraft
-wow
+booru:sankaku channel,
+bow,
+bracelet,
+category:ine,
+character:tyrande whisperwind,
+clothing:bracelet,
+clothing:dress,
+clothing:headband,
+clothing:jewelry,
+clothing:necklace,
+clothing:white dress,
+colored skin,
+creator:georgy stacker,
+creator:themaestronoob,
+dress,
+ears,
+georgy stacker,
+green hair,
+head tilt,
+headband,
+high resolution,
+jewelry,
+medium:digital 2d,
+medium:high resolution,
+medium:very high resolution,
+moon,
+necklace,
+night,
+pointed ears,
+pointy ears,
+purple skin,
+rating:questionable,
+series:warcraft,
+series:world of warcraft,
+source:artstation,
+species:elf,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+title:tyrande whisperwind by georgy stacker,
+tyrande whisperwind,
+uploader:lol33ta,
+very high resolution,
+warcraft,
+white dress,
+world of warcraft,
+wow,

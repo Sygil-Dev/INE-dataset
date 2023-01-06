@@ -1,41 +1,41 @@
-2boys
-antique firearm
-beard
-black hair
-category:ine
-coat
-cowboy hat
-cowboy western
-creator:davepalumbo
-facial hair
-firelock
-gloves
-gun
-handgun
-hat
-holding
-holding gun
-holding weapon
-kalashnikov rifle
-male focus
-military
-military uniform
-multiple boys
-mustache
-open mouth
-pistol
-rating:safe
-revolver
-rifle
-subreddit:imaginarycowboys
-subreddit:imcharacters
-sunglasses
-title:the lone ranger and tonto
-title:the lone ranger and tonto by dave palumbo
-title:the lone ranger and tonto by david palumbo
-trigger discipline
-uniform
-uploader:[deleted]
-uploader:faeryknight
-uploader:lol33ta
-weapon
+2boys,
+antique firearm,
+beard,
+black hair,
+category:ine,
+coat,
+cowboy hat,
+cowboy western,
+creator:davepalumbo,
+facial hair,
+firelock,
+gloves,
+gun,
+handgun,
+hat,
+holding,
+holding gun,
+holding weapon,
+kalashnikov rifle,
+male focus,
+military,
+military uniform,
+multiple boys,
+mustache,
+open mouth,
+pistol,
+rating:safe,
+revolver,
+rifle,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+sunglasses,
+title:the lone ranger and tonto,
+title:the lone ranger and tonto by dave palumbo,
+title:the lone ranger and tonto by david palumbo,
+trigger discipline,
+uniform,
+uploader:[deleted],
+uploader:faeryknight,
+uploader:lol33ta,
+weapon,

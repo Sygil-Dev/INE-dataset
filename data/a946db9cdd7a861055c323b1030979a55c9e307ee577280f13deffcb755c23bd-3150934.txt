@@ -1,47 +1,47 @@
-2013
-anthro
-anthropomorphism
-art
-black nose
-booru:e621
-category:ine
-clenched teeth
-clothing
-clothing:hood
-creator:karzrave
-creator:massiveface
-digital
-female
-gender:female
-grin
-hood
-karz
-looking at viewer
-meta:1:1
-meta:2013
-night
-outside
-pov
-rating:safe
-sharp teeth
-smile
-snow
-snowing
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-tag source:e621
-teeth
-title:let the right one in
-title:valentine
-title:valentine by robert bowyer
-uploader:vecordy
-wererwolf
-year:2013
-yellow eyes
+2013,
+anthro,
+anthropomorphism,
+art,
+black nose,
+booru:e621,
+category:ine,
+clenched teeth,
+clothing,
+clothing:hood,
+creator:karzrave,
+creator:massiveface,
+digital,
+female,
+gender:female,
+grin,
+hood,
+karz,
+looking at viewer,
+meta:1:1,
+meta:2013,
+night,
+outside,
+pov,
+rating:safe,
+sharp teeth,
+smile,
+snow,
+snowing,
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+tag source:e621,
+teeth,
+title:let the right one in,
+title:valentine,
+title:valentine by robert bowyer,
+uploader:vecordy,
+wererwolf,
+year:2013,
+yellow eyes,

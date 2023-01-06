@@ -1,29 +1,29 @@
-3 males
-aircraft
-airplane
-booru:danbooru
-booru:gelbooru
-category:ine
-character:caproni ca.3
-creator:ruru ruru
-firearm
-firing
-gender:male
-italian
-italian text
-machine gun
-meta:bad id
-meta:bad pixiv id
-mountain
-multiple boys
-multiple males
-rating:safe
-series:original
-smoke
-subreddit:imaginaryaviation
-subreddit:imtechnology
-title:pioneer sky by rado javor
-uploader:kapitankurt
-vehicle
-weapon
-world war i
+3 males,
+aircraft,
+airplane,
+booru:danbooru,
+booru:gelbooru,
+category:ine,
+character:caproni ca.3,
+creator:ruru ruru,
+firearm,
+firing,
+gender:male,
+italian,
+italian text,
+machine gun,
+meta:bad id,
+meta:bad pixiv id,
+mountain,
+multiple boys,
+multiple males,
+rating:safe,
+series:original,
+smoke,
+subreddit:imaginaryaviation,
+subreddit:imtechnology,
+title:pioneer sky by rado javor,
+uploader:kapitankurt,
+vehicle,
+weapon,
+world war i,

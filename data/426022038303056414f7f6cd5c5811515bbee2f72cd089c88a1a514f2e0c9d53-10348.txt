@@ -1,46 +1,46 @@
-amazon
-animal
-arch
-archer
-beast
-bow
-category:ine
-commission
-creator:ina wong
-creator:ina wong (ina murwani prasetyaningrum)
-creature
-dread
-dreadlocks
-feathers
-hannibal
-horn
-horns
-hunter
-huntress
-medium:digital 2d
-monster
-monsters
-pig
-red
-savanah
-savannah
-skeleton
-skull
-spear
-species:pig
-subreddit:imaginaryarchers
-subreddit:imaginarybeasts
-subreddit:imaginarynatives
-subreddit:imaginarypets
-subreddit:imcharacters
-subreddit:immeta
-subreddit:immonsters
-title:orithyia and hannibal
-title:orithyia and hannibal by ina wong
-tribal
-tusk
-uploader:drunkindragon
-uploader:myrandall
-uploader:net-diver
-weapon
-woman
+amazon,
+animal,
+arch,
+archer,
+beast,
+bow,
+category:ine,
+commission,
+creator:ina wong,
+creator:ina wong (ina murwani prasetyaningrum),
+creature,
+dread,
+dreadlocks,
+feathers,
+hannibal,
+horn,
+horns,
+hunter,
+huntress,
+medium:digital 2d,
+monster,
+monsters,
+pig,
+red,
+savanah,
+savannah,
+skeleton,
+skull,
+spear,
+species:pig,
+subreddit:imaginaryarchers,
+subreddit:imaginarybeasts,
+subreddit:imaginarynatives,
+subreddit:imaginarypets,
+subreddit:imcharacters,
+subreddit:immeta,
+subreddit:immonsters,
+title:orithyia and hannibal,
+title:orithyia and hannibal by ina wong,
+tribal,
+tusk,
+uploader:drunkindragon,
+uploader:myrandall,
+uploader:net-diver,
+weapon,
+woman,

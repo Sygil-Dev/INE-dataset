@@ -1,22 +1,22 @@
-big
-cartoon
-cartoony
-category:ine
-creator:louis-philippe desjardins
-crystal
-desjardins
-fantasy
-hand painted
-huge
-louis
-louis-philippe
-medium:digital 3d
-simplified
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-sword
-title:gem sword, hand painted
-title:gem sword, hand painted, be me
-uploader:darkchew
-weapon
-winter
+big,
+cartoon,
+cartoony,
+category:ine,
+creator:louis-philippe desjardins,
+crystal,
+desjardins,
+fantasy,
+hand painted,
+huge,
+louis,
+louis-philippe,
+medium:digital 3d,
+simplified,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+sword,
+title:gem sword, hand painted,
+title:gem sword, hand painted, be me,
+uploader:darkchew,
+weapon,
+winter,

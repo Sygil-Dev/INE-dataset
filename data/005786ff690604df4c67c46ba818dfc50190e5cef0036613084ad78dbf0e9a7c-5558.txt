@@ -1,32 +1,32 @@
-category:ine
-claws
-creator:kaiju samurai
-creator:kaijusamurai
-dinosaur
-furry
-gender:female
-glowing
-meateater
-medium:high resolution
-monster
-mutant
-no humans
-open mouth
-rating:safe
-scales
-sharp teeth
-signature
-species:dinosaur
-species:extinct
-species:reptile
-species:scalie
-spikes
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-tail
-teeth
-title:mutant t rex by matt frank
-title:mutant tyranno full
-tyrannosaurus rex
-uploader:optimusprime1313
-yellow eyes
+category:ine,
+claws,
+creator:kaiju samurai,
+creator:kaijusamurai,
+dinosaur,
+furry,
+gender:female,
+glowing,
+meateater,
+medium:high resolution,
+monster,
+mutant,
+no humans,
+open mouth,
+rating:safe,
+scales,
+sharp teeth,
+signature,
+species:dinosaur,
+species:extinct,
+species:reptile,
+species:scalie,
+spikes,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+tail,
+teeth,
+title:mutant t rex by matt frank,
+title:mutant tyranno full,
+tyrannosaurus rex,
+uploader:optimusprime1313,
+yellow eyes,

@@ -1,36 +1,36 @@
-booru:e621
-brown body
-brown fur
-category:ine
-creator:kenket
-eyes closed
-feral
-fur
-hair
-male
-meta:2018
-meta:url
-multicolored body
-multicolored fur
-orange body
-orange fur
-paws
-quadruped
-rating:safe
-series:nintendo
-series:pokémon
-simple background
-sleeping
-solo
-species:arcanine
-species:pokémon (species)
-subreddit:imaginarykanto
-subreddit:imfandoms
-text
-title:sleepy arcanine
-title:sleepy arcanine by tess garman
-two tone body
-two tone fur
-uploader:myrandall
-video games
-white background
+booru:e621,
+brown body,
+brown fur,
+category:ine,
+creator:kenket,
+eyes closed,
+feral,
+fur,
+hair,
+male,
+meta:2018,
+meta:url,
+multicolored body,
+multicolored fur,
+orange body,
+orange fur,
+paws,
+quadruped,
+rating:safe,
+series:nintendo,
+series:pokémon,
+simple background,
+sleeping,
+solo,
+species:arcanine,
+species:pokémon (species),
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+text,
+title:sleepy arcanine,
+title:sleepy arcanine by tess garman,
+two tone body,
+two tone fur,
+uploader:myrandall,
+video games,
+white background,

@@ -1,71 +1,71 @@
-2018
-ambiguous gender
-bioluminescence
-black body
-black fur
-black nose
-booru:e621
-canine
-category:ine
-character:umbreon
-creator:kenket
-detailed background
-eeveelution
-fur
-gen 1 pokemon
-gen 2 pokemon
-gender:ambiguous
-glowing
-guro
-half-length portrait
-kenket
-looking at viewer
-mammal
-medium:detailed background
-medium:traditional media
-meta:2018
-meta:half-length portrait
-meta:painting (artwork)
-meta:portrait
-meta:restricted palette
-meta:traditional media (artwork)
-moon
-night
-nude
-orange eyes
-painting (artwork)
-pokémon
-pokémon (species)
-portrait
-pov
-rating:explicit
-rating:mature
-restricted palette
-series:nintendo
-series:pokémon
-shiny pokémon
-solo
-source type:game
-source:furaffinity.net
-species:canid
-species:canine
-species:eevee
-species:eeveelution
-species:mammal
-species:monster
-species:pokémon
-species:pokémon (species)
-species:shiny pokémon
-species:umbreon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:shine
-title:shine by tess garman
-today
-tonight
-uploader:lol33ta
-uploader:myrandall
-video games
-whiskers
-year:2018
+2018,
+ambiguous gender,
+bioluminescence,
+black body,
+black fur,
+black nose,
+booru:e621,
+canine,
+category:ine,
+character:umbreon,
+creator:kenket,
+detailed background,
+eeveelution,
+fur,
+gen 1 pokemon,
+gen 2 pokemon,
+gender:ambiguous,
+glowing,
+guro,
+half-length portrait,
+kenket,
+looking at viewer,
+mammal,
+medium:detailed background,
+medium:traditional media,
+meta:2018,
+meta:half-length portrait,
+meta:painting (artwork),
+meta:portrait,
+meta:restricted palette,
+meta:traditional media (artwork),
+moon,
+night,
+nude,
+orange eyes,
+painting (artwork),
+pokémon,
+pokémon (species),
+portrait,
+pov,
+rating:explicit,
+rating:mature,
+restricted palette,
+series:nintendo,
+series:pokémon,
+shiny pokémon,
+solo,
+source type:game,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:eevee,
+species:eeveelution,
+species:mammal,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:shiny pokémon,
+species:umbreon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:shine,
+title:shine by tess garman,
+today,
+tonight,
+uploader:lol33ta,
+uploader:myrandall,
+video games,
+whiskers,
+year:2018,

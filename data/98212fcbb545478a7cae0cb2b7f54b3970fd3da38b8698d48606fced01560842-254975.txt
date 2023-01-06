@@ -1,42 +1,42 @@
-armor
-blue skin
-bone
-booru:sankaku channel
-cape
-category:ine
-character:sylvanas windrunner
-character:sylvanas windrunner, the banshee queen
-closed mouth
-clothing:armor
-creator:jessibeans
-cuirass
-elf
-feathers
-female
-gender:female
-long hair
-looking at viewer
-medium:fanart from deviantart
-medium:high resolution
-point of view
-pov
-rating:safe
-red eyes
-series:warcraft
-site:deviantart
-skull
-smile
-solo
-species:elf
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imaginaryelves
-subreddit:imaginarygaming
-subreddit:imfandoms
-subreddit:imraces
-title:"sylvanas windrunner" by jessica oyhenart
-title:sylvanas windrunner
-title:sylvanas windrunner by jessica oyhenart
-uploader:net-diver
-uploader:torvusil
-white hair
+armor,
+blue skin,
+bone,
+booru:sankaku channel,
+cape,
+category:ine,
+character:sylvanas windrunner,
+character:sylvanas windrunner, the banshee queen,
+closed mouth,
+clothing:armor,
+creator:jessibeans,
+cuirass,
+elf,
+feathers,
+female,
+gender:female,
+long hair,
+looking at viewer,
+medium:fanart from deviantart,
+medium:high resolution,
+point of view,
+pov,
+rating:safe,
+red eyes,
+series:warcraft,
+site:deviantart,
+skull,
+smile,
+solo,
+species:elf,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imaginaryelves,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+subreddit:imraces,
+title:"sylvanas windrunner" by jessica oyhenart,
+title:sylvanas windrunner,
+title:sylvanas windrunner by jessica oyhenart,
+uploader:net-diver,
+uploader:torvusil,
+white hair,

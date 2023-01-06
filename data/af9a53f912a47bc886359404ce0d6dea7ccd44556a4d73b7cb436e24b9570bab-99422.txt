@@ -1,22 +1,22 @@
-artwork
-astronaut
-category:ine
-conceptart
-creator:johnson ting
-fantasy art
-futuristic
-genre:science fiction
-johnson ting
-johnsonting
-medium:digital 2d
-medium:digital media
-medium:photoshop
-planet
-space
-spaceship
-subreddit:imaginarypirates
-subreddit:imcharacters
-title:frontier buccaneers
-title:frontier buccaneers by johnson ting
-uploader:hvitserkr
-weapon
+artwork,
+astronaut,
+category:ine,
+conceptart,
+creator:johnson ting,
+fantasy art,
+futuristic,
+genre:science fiction,
+johnson ting,
+johnsonting,
+medium:digital 2d,
+medium:digital media,
+medium:photoshop,
+planet,
+space,
+spaceship,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+title:frontier buccaneers,
+title:frontier buccaneers by johnson ting,
+uploader:hvitserkr,
+weapon,

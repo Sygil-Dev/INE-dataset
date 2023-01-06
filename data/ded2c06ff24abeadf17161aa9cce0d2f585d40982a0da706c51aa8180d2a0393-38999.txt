@@ -1,26 +1,26 @@
-armor
-aromantic
-asexual
-black
-category:ine
-creator:cecilia g.f.
-dark
-destiny
-knight
-lgtb
-lgtbq
-lgtbqa
-man
-medium:digital 2d
-red thread of fate
-shadow
-stained glass
-subreddit:imaginaryhumans
-subreddit:imaginaryknights
-subreddit:imcharacters
-subreddit:imraces
-sword
-the red fate
-title:'the red fate' by cecilia g.f.
-title:the red fate
-uploader:blackeremy
+armor,
+aromantic,
+asexual,
+black,
+category:ine,
+creator:cecilia g.f.,
+dark,
+destiny,
+knight,
+lgtb,
+lgtbq,
+lgtbqa,
+man,
+medium:digital 2d,
+red thread of fate,
+shadow,
+stained glass,
+subreddit:imaginaryhumans,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+subreddit:imraces,
+sword,
+the red fate,
+title:'the red fate' by cecilia g.f.,
+title:the red fate,
+uploader:blackeremy,

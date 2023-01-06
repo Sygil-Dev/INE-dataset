@@ -1,41 +1,41 @@
-3 males
-3boys
-building
-category:ine
-chair
-chang-wei chen
-creator:chang-wei chen
-dark skin
-dark-skinned male
-day
-egypt
-gender:male
-headdress
-medium:high resolution
-monumental
-multiple boys
-multiple males
-outdoors
-outside
-rating:safe
-rowing
-series:monumental
-shirtless
-species:avian
-species:bird
-standing
-statue
-subreddit:imaginarynobles
-subreddit:imaginaryrivers
-subreddit:imaginaryvessels
-subreddit:imcharacters
-subreddit:imnature
-subreddit:imtechnology
-title:card illustration for "monumental" by chang-wei chen
-title:monumental by chang-wei chen
-title:monumental, by chang wei chen
-tree
-uploader:lol33ta
-uploader:osarnachthis
-uploader:sylvyrfyre
-water
+3 males,
+3boys,
+building,
+category:ine,
+chair,
+chang-wei chen,
+creator:chang-wei chen,
+dark skin,
+dark-skinned male,
+day,
+egypt,
+gender:male,
+headdress,
+medium:high resolution,
+monumental,
+multiple boys,
+multiple males,
+outdoors,
+outside,
+rating:safe,
+rowing,
+series:monumental,
+shirtless,
+species:avian,
+species:bird,
+standing,
+statue,
+subreddit:imaginarynobles,
+subreddit:imaginaryrivers,
+subreddit:imaginaryvessels,
+subreddit:imcharacters,
+subreddit:imnature,
+subreddit:imtechnology,
+title:card illustration for "monumental" by chang-wei chen,
+title:monumental by chang-wei chen,
+title:monumental, by chang wei chen,
+tree,
+uploader:lol33ta,
+uploader:osarnachthis,
+uploader:sylvyrfyre,
+water,

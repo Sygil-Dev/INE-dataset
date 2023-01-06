@@ -1,55 +1,55 @@
-3 toes
-4 fingers
-2018
-ambiguous gender
-bodily fluids
-book
-booru:e621
-brown body
-brown skin
-card
-category:ine
-claws
-creator:kenket
-duo
-feet
-fingers
-gen 1 pokemon
-gender:ambiguous
-medium:high resolution
-medium:simple background
-medium:white background
-meta:2018
-meta:hi res
-meta:url
-rating:safe
-series:nintendo
-series:pokémon
-simple background
-sitting
-species:abra
-species:bulbasaur
-species:charizard
-species:monster
-species:pokémon
-species:pokémon (species)
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-sweat
-sweatdrop
-teal skin
-telekinesis
-tentacles
-text
-title:abra
-title:abra by tess garman
-toe claws
-toes
-uploader:myrandall
-url
-video games
-white background
-year:2018
-yellow body
-yellow skin
+3 toes,
+4 fingers,
+2018,
+ambiguous gender,
+bodily fluids,
+book,
+booru:e621,
+brown body,
+brown skin,
+card,
+category:ine,
+claws,
+creator:kenket,
+duo,
+feet,
+fingers,
+gen 1 pokemon,
+gender:ambiguous,
+medium:high resolution,
+medium:simple background,
+medium:white background,
+meta:2018,
+meta:hi res,
+meta:url,
+rating:safe,
+series:nintendo,
+series:pokémon,
+simple background,
+sitting,
+species:abra,
+species:bulbasaur,
+species:charizard,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sweat,
+sweatdrop,
+teal skin,
+telekinesis,
+tentacles,
+text,
+title:abra,
+title:abra by tess garman,
+toe claws,
+toes,
+uploader:myrandall,
+url,
+video games,
+white background,
+year:2018,
+yellow body,
+yellow skin,

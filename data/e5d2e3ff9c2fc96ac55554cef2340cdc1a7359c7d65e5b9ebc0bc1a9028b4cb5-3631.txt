@@ -1,29 +1,29 @@
-2d
-army
-bastien
-category:ine
-creator:bastien grivet
-destruction
-digital painting
-dinosaure
-grivet
-grivetart
-illustration
-ingen
-jurassic
-medium:digital 2d
-monster
-painting
-rex
-series:jurassic park
-series:jurassic world
-species:dinosaur
-species:extinct
-species:tyrannosaurus rex
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-terror
-title:asset out of containment
-title:asset out of containment by bastien grivet
-uploader:panzer-kunst
-uploader:valar_m0rghul1s
+2d,
+army,
+bastien,
+category:ine,
+creator:bastien grivet,
+destruction,
+digital painting,
+dinosaure,
+grivet,
+grivetart,
+illustration,
+ingen,
+jurassic,
+medium:digital 2d,
+monster,
+painting,
+rex,
+series:jurassic park,
+series:jurassic world,
+species:dinosaur,
+species:extinct,
+species:tyrannosaurus rex,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+terror,
+title:asset out of containment,
+title:asset out of containment by bastien grivet,
+uploader:panzer-kunst,
+uploader:valar_m0rghul1s,

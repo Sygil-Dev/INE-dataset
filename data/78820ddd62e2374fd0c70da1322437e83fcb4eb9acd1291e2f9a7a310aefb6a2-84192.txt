@@ -1,52 +1,52 @@
-2017
-ambiguous gender
-ambiguous_gender
-artist:tsaoshin
-booru:e621
-category:ine
-character:vaporeon
-copyright:nintendo
-copyright:pokémon
-creator:tsaoshin
-daww
-digital media (artwork)
-eeveelution
-feral
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-looking at viewer
-looking_at_viewer
-medium:1:1 aspect ratio
-medium:digital media
-meta:1:1
-meta:2017
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-one eye closed
-one_eye_closed
-pokémon
-pokémon (species)
-pool:15535
-pov
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-sfw nudity
-solo
-species:eeveelution
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:vaporeon
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:immeta
-title:vaporeon by tsaoshin
-uploader:lol33ta
-video games
-video_games
-year:2017
+2017,
+ambiguous gender,
+ambiguous_gender,
+artist:tsaoshin,
+booru:e621,
+category:ine,
+character:vaporeon,
+copyright:nintendo,
+copyright:pokémon,
+creator:tsaoshin,
+daww,
+digital media (artwork),
+eeveelution,
+feral,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+looking at viewer,
+looking_at_viewer,
+medium:1:1 aspect ratio,
+medium:digital media,
+meta:1:1,
+meta:2017,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+one eye closed,
+one_eye_closed,
+pokémon,
+pokémon (species),
+pool:15535,
+pov,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+sfw nudity,
+solo,
+species:eeveelution,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:vaporeon,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:vaporeon by tsaoshin,
+uploader:lol33ta,
+video games,
+video_games,
+year:2017,

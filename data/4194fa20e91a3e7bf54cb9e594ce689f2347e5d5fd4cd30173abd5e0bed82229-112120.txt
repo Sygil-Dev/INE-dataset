@@ -1,24 +1,24 @@
-character:jessica drew
-character:spider-woman
-character:supergirl
-creator:leinil yu
-crossover
-dc
-female
-female/female
-gender:female
-leinil yu
-lesbian
-meta:crossover
-multiple females
-multiple girls
-series:avengers
-series:dc comics
-series:spider-man (series)
-studio:dc comics
-studio:marvel
-subreddit:imaginarylesboners
-subreddit:imnsfw
-title:nycc - spider-woman and supergirl by leinil francis yu
-uploader:lol33ta
-yuri
+character:jessica drew,
+character:spider-woman,
+character:supergirl,
+creator:leinil yu,
+crossover,
+dc,
+female,
+female/female,
+gender:female,
+leinil yu,
+lesbian,
+meta:crossover,
+multiple females,
+multiple girls,
+series:avengers,
+series:dc comics,
+series:spider-man (series),
+studio:dc comics,
+studio:marvel,
+subreddit:imaginarylesboners,
+subreddit:imnsfw,
+title:nycc - spider-woman and supergirl by leinil francis yu,
+uploader:lol33ta,
+yuri,

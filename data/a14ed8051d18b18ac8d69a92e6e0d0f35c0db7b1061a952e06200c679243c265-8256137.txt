@@ -1,80 +1,80 @@
-1 female
-1girl
-amazon
-armor
-biceps
-black hair
-blue eyes
-blue sky
-bracelet
-breastplate
-breasts
-category:ine
-character:diana prince
-character:wonder woman
-circlet
-clothing:armlet
-clothing:cape
-clothing:earrings
-clothing:skirt
-cloud
-cloud (clouds)
-clouds
-creator:artgerm
-creator:artgerm (stanley lau)
-creator:pteruges
-creator:stanley lau
-day
-earrings
-exposed shoulders
-female
-flying
-gender:female
-girl
-jewelry
-lasso
-lens flare
-lips
-lipstick
-long hair
-looking at viewer
-medium:fanart from deviantart
-medium:high resolution
-medium:realistic
-meta:highres
-midair
-open mouth
-outdoors
-outstretched arms
-parted lips
-piercing
-pink lipstick
-pov
-rating:mature
-rating:safe
-realistic
-series:dc comics
-series:wonder woman
-series:wonder woman (series)
-shield
-signed
-single
-site:anime-pictures.net
-site:deviantart
-skirt
-sky
-solo
-strapless
-studio:dc comics
-subreddit:imaginarydc
-subreddit:imfandoms
-superhero
-superheroine
-tall image
-tiara
-title:wonder woman descend by stanley lau
-toned
-uploader:incredibel
-weapon
-website:reddit
-wind
+1 female,
+1girl,
+amazon,
+armor,
+biceps,
+black hair,
+blue eyes,
+blue sky,
+bracelet,
+breastplate,
+breasts,
+category:ine,
+character:diana prince,
+character:wonder woman,
+circlet,
+clothing:armlet,
+clothing:cape,
+clothing:earrings,
+clothing:skirt,
+cloud,
+cloud (clouds),
+clouds,
+creator:artgerm,
+creator:artgerm (stanley lau),
+creator:pteruges,
+creator:stanley lau,
+day,
+earrings,
+exposed shoulders,
+female,
+flying,
+gender:female,
+girl,
+jewelry,
+lasso,
+lens flare,
+lips,
+lipstick,
+long hair,
+looking at viewer,
+medium:fanart from deviantart,
+medium:high resolution,
+medium:realistic,
+meta:highres,
+midair,
+open mouth,
+outdoors,
+outstretched arms,
+parted lips,
+piercing,
+pink lipstick,
+pov,
+rating:mature,
+rating:safe,
+realistic,
+series:dc comics,
+series:wonder woman,
+series:wonder woman (series),
+shield,
+signed,
+single,
+site:anime-pictures.net,
+site:deviantart,
+skirt,
+sky,
+solo,
+strapless,
+studio:dc comics,
+subreddit:imaginarydc,
+subreddit:imfandoms,
+superhero,
+superheroine,
+tall image,
+tiara,
+title:wonder woman descend by stanley lau,
+toned,
+uploader:incredibel,
+weapon,
+website:reddit,
+wind,

@@ -1,20 +1,20 @@
-artbrawl
-blizzard
-category:ine
-challenge
-creator:ivan dedov
-fanartbrawl
-hero
-medium:digital 2d
-series:hearthstone
-series:warcraft
-series:world of warcraft
-species:gnome
-species:mythical
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imaginarysteampunk
-subreddit:imtechnology
-title:pipir skyrage
-title:pipir skyrage by ivan dedov
-uploader:lol33ta
+artbrawl,
+blizzard,
+category:ine,
+challenge,
+creator:ivan dedov,
+fanartbrawl,
+hero,
+medium:digital 2d,
+series:hearthstone,
+series:warcraft,
+series:world of warcraft,
+species:gnome,
+species:mythical,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imaginarysteampunk,
+subreddit:imtechnology,
+title:pipir skyrage,
+title:pipir skyrage by ivan dedov,
+uploader:lol33ta,

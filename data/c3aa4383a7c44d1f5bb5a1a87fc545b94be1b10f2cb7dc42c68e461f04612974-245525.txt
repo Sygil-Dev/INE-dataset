@@ -1,42 +1,42 @@
-4 males
-action
-bald
-category:ine
-chain
-character:poseidon
-character:poseidon (mythology)
-chariot
-creator:park jae-cheol
-creator:pteruges
-fins
-gender:male
-hippocamp
-hooves
-horns
-mane
-meta:bad id
-meta:bad pixiv id
-monster
-multiple boys
-multiple males
-muscle
-ocean
-polearm
-pulling
-rating:safe
-rock
-seahorse
-series:greek mythology
-shirtless
-species:equine
-species:horse
-species:mammal
-subreddit:imaginaryseascapes
-subreddit:imlandscapes
-tidal wave
-title:poseidon's wrath by dehong he
-trident
-uploader:faeryknight
-water
-waves
-weapon
+4 males,
+action,
+bald,
+category:ine,
+chain,
+character:poseidon,
+character:poseidon (mythology),
+chariot,
+creator:park jae-cheol,
+creator:pteruges,
+fins,
+gender:male,
+hippocamp,
+hooves,
+horns,
+mane,
+meta:bad id,
+meta:bad pixiv id,
+monster,
+multiple boys,
+multiple males,
+muscle,
+ocean,
+polearm,
+pulling,
+rating:safe,
+rock,
+seahorse,
+series:greek mythology,
+shirtless,
+species:equine,
+species:horse,
+species:mammal,
+subreddit:imaginaryseascapes,
+subreddit:imlandscapes,
+tidal wave,
+title:poseidon's wrath by dehong he,
+trident,
+uploader:faeryknight,
+water,
+waves,
+weapon,

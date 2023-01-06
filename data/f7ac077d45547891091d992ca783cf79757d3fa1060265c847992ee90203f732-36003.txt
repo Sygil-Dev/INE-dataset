@@ -1,24 +1,24 @@
-angry
-branches
-carcharoth
-category:ine
-creator:cecilia g.f.
-creature
-eyes
-ferocious
-forest
-giant
-lord of the rings
-lotr
-medium:digital 2d
-mouth
-night
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-teeth
-title:'carcharoth' by cecilia g.f.
-title:carcharoth
-uploader:blackeremy
-warrior
-wolg
-woman
+angry,
+branches,
+carcharoth,
+category:ine,
+creator:cecilia g.f.,
+creature,
+eyes,
+ferocious,
+forest,
+giant,
+lord of the rings,
+lotr,
+medium:digital 2d,
+mouth,
+night,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+teeth,
+title:'carcharoth' by cecilia g.f.,
+title:carcharoth,
+uploader:blackeremy,
+warrior,
+wolg,
+woman,

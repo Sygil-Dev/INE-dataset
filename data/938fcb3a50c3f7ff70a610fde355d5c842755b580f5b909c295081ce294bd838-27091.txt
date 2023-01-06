@@ -1,61 +1,61 @@
-2others
-biting
-booru:safebooru
-category:ine
-character:shinx
-character:simba
-creator:kuitsuku
-crossover
-cub
-fangs
-feline
-flash (specie)
-gen 4 pokemon
-gender:female
-lion
-lion cub
-looking back
-medium:transparent background
-meta:crossover
-meta:transparent background
-no humans
-one eye closed
-open mouth
-pokemon (creature)
-rating:general
-rating:safe
-series:creatures (company)
-series:disney
-series:game freak
-series:nintendo
-series:olm digital
-series:pokemon
-series:pokemon (anime)
-series:pokemon dppt
-series:pokémon
-series:super smash bros.
-series:the lion king
-shadow
-simple background
-specie connection
-species:feline
-species:lion
-species:mammal
-species:monster
-species:pokémon
-species:shinx
-standing
-studio:disney
-studio:nintendo
-subreddit:imaginarydisney
-subreddit:imfandoms
-tail
-tail biting
-tail pull
-title:hakuna...matata?
-title:hakuna...matata? by krista nicholson (kuitsuku)
-transparent background
-uploader:lol33ta
-wink
-yellow eyes
-young
+2others,
+biting,
+booru:safebooru,
+category:ine,
+character:shinx,
+character:simba,
+creator:kuitsuku,
+crossover,
+cub,
+fangs,
+feline,
+flash (specie),
+gen 4 pokemon,
+gender:female,
+lion,
+lion cub,
+looking back,
+medium:transparent background,
+meta:crossover,
+meta:transparent background,
+no humans,
+one eye closed,
+open mouth,
+pokemon (creature),
+rating:general,
+rating:safe,
+series:creatures (company),
+series:disney,
+series:game freak,
+series:nintendo,
+series:olm digital,
+series:pokemon,
+series:pokemon (anime),
+series:pokemon dppt,
+series:pokémon,
+series:super smash bros.,
+series:the lion king,
+shadow,
+simple background,
+specie connection,
+species:feline,
+species:lion,
+species:mammal,
+species:monster,
+species:pokémon,
+species:shinx,
+standing,
+studio:disney,
+studio:nintendo,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+tail,
+tail biting,
+tail pull,
+title:hakuna...matata?,
+title:hakuna...matata? by krista nicholson (kuitsuku),
+transparent background,
+uploader:lol33ta,
+wink,
+yellow eyes,
+young,

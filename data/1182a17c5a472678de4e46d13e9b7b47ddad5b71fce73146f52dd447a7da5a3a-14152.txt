@@ -1,21 +1,21 @@
-2d
-ancient
-art
-cabin
-category:ine
-concept
-conceptart
-creator:ismail inceoglu
-drawing
-forest
-hills
-medium:digital 2d
-mountains
-nature
-painting
-sketch
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:charted
-title:charted by ismail inceoglu
-uploader:l-ya
+2d,
+ancient,
+art,
+cabin,
+category:ine,
+concept,
+conceptart,
+creator:ismail inceoglu,
+drawing,
+forest,
+hills,
+medium:digital 2d,
+mountains,
+nature,
+painting,
+sketch,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:charted,
+title:charted by ismail inceoglu,
+uploader:l-ya,

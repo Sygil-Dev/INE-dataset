@@ -1,22 +1,22 @@
-animals
-category:ine
-cool
-creator:whiteyconcarne
-crustacean
-fantasycharacter
-fantasycreature
-knight
-lake
-lakereflection
-lance
-lobster
-nature
-subreddit:imaginaryknights
-subreddit:imcharacters
-title:langostine lancer
-title:langostine lancer, by e. whitehall
-uploader:whiteyconcarne
-warrior
-weaponconcept
-weaponry
-weird
+animals,
+category:ine,
+cool,
+creator:whiteyconcarne,
+crustacean,
+fantasycharacter,
+fantasycreature,
+knight,
+lake,
+lakereflection,
+lance,
+lobster,
+nature,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+title:langostine lancer,
+title:langostine lancer, by e. whitehall,
+uploader:whiteyconcarne,
+warrior,
+weaponconcept,
+weaponry,
+weird,

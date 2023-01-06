@@ -1,27 +1,27 @@
-1boy
-aiming
-armor
-arrow (projectile)
-axe
-bow (weapon)
-braid
-category:ine
-drawing bow
-holding
-holding arrow
-holding bow (weapon)
-holding weapon
-male focus
-mountain
-muscular
-polearm
-quiver
-rating:safe
-sky
-solo
-subreddit:imaginaryarchers
-subreddit:imcharacters
-title:elvish champion by mark zug
-tree
-uploader:lol33ta
-weapon
+1boy,
+aiming,
+armor,
+arrow (projectile),
+axe,
+bow (weapon),
+braid,
+category:ine,
+drawing bow,
+holding,
+holding arrow,
+holding bow (weapon),
+holding weapon,
+male focus,
+mountain,
+muscular,
+polearm,
+quiver,
+rating:safe,
+sky,
+solo,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+title:elvish champion by mark zug,
+tree,
+uploader:lol33ta,
+weapon,

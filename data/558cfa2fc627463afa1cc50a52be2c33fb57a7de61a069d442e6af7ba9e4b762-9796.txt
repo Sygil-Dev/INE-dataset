@@ -1,24 +1,24 @@
-art direction
-category:ine
-creator:sviatoslav gerasimchuk
-digital art
-fantasy
-medium:digital 2d
-medium:digital media
-photoshop
-sci fi
-subreddit:imaginaryarchitecture
-subreddit:imaginarycityscapes
-subreddit:imaginarydwellings
-subreddit:imaginarymindscapes
-subreddit:imaginarytrees
-subreddit:imaginaryworlds
-subreddit:imarchitecture
-subreddit:imlandscapes
-subreddit:imnature
-supertree
-title:supertree city
-title:supertree city by sviatoslav gerasimchuk
-uploader:chalkchick0
-uploader:dr_mrs_them0narch
-uploader:hvitserkr
+art direction,
+category:ine,
+creator:sviatoslav gerasimchuk,
+digital art,
+fantasy,
+medium:digital 2d,
+medium:digital media,
+photoshop,
+sci fi,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarycityscapes,
+subreddit:imaginarydwellings,
+subreddit:imaginarymindscapes,
+subreddit:imaginarytrees,
+subreddit:imaginaryworlds,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+subreddit:imnature,
+supertree,
+title:supertree city,
+title:supertree city by sviatoslav gerasimchuk,
+uploader:chalkchick0,
+uploader:dr_mrs_them0narch,
+uploader:hvitserkr,

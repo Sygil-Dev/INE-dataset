@@ -1,20 +1,20 @@
-art
-book cover
-category:ine
-creator:raphael lacoste
-illustration
-medium:concept art
-medium:digital 2d
-megalodon
-raphael lacoste
-sci fi
-skyline
-skyscrappers
-species:elephant
-species:mammal
-species:pachyderm
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:the wind up girl
-title:the wind up girl by raphael lacoste
-uploader:crowe410
+art,
+book cover,
+category:ine,
+creator:raphael lacoste,
+illustration,
+medium:concept art,
+medium:digital 2d,
+megalodon,
+raphael lacoste,
+sci fi,
+skyline,
+skyscrappers,
+species:elephant,
+species:mammal,
+species:pachyderm,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:the wind up girl,
+title:the wind up girl by raphael lacoste,
+uploader:crowe410,

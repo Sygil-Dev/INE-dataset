@@ -1,62 +1,62 @@
-anthro
-anthropomorphism
-armor
-bell
-belt
-bone
-booru:e621
-category:ine
-chair
-clothed
-clothing
-clothing:armor
-creator:klaher baklaher
-crystal
-ear piercing
-ear ring
-fur
-furniture
-gender:male
-gesture
-glowing
-green eyes
-group
-headgear
-helmet
-horn
-inside
-inspired by proper art
-knife
-male
-mask
-medium:digital media
-medium:high resolution
-meta:2016
-meta:digital media (artwork)
-meta:hi res
-meta:inspired by formal art
-open mouth
-piercing
-raised finger
-raised index finger
-rating:safe
-red eyes
-robe
-series:the last supper
-series:warhammer
-series:warhammer (franchise)
-series:warhammer fantasy
-skull
-species:mammal
-species:murid
-species:murine
-species:rat
-species:rodent
-species:skaven
-studio:games workshop
-subreddit:imaginarygatherings
-subreddit:imcharacters
-title:the council of thirteen by klaher baklaher
-uploader:hvitserkr
-website:reddit
-year:2016
+anthro,
+anthropomorphism,
+armor,
+bell,
+belt,
+bone,
+booru:e621,
+category:ine,
+chair,
+clothed,
+clothing,
+clothing:armor,
+creator:klaher baklaher,
+crystal,
+ear piercing,
+ear ring,
+fur,
+furniture,
+gender:male,
+gesture,
+glowing,
+green eyes,
+group,
+headgear,
+helmet,
+horn,
+inside,
+inspired by proper art,
+knife,
+male,
+mask,
+medium:digital media,
+medium:high resolution,
+meta:2016,
+meta:digital media (artwork),
+meta:hi res,
+meta:inspired by formal art,
+open mouth,
+piercing,
+raised finger,
+raised index finger,
+rating:safe,
+red eyes,
+robe,
+series:the last supper,
+series:warhammer,
+series:warhammer (franchise),
+series:warhammer fantasy,
+skull,
+species:mammal,
+species:murid,
+species:murine,
+species:rat,
+species:rodent,
+species:skaven,
+studio:games workshop,
+subreddit:imaginarygatherings,
+subreddit:imcharacters,
+title:the council of thirteen by klaher baklaher,
+uploader:hvitserkr,
+website:reddit,
+year:2016,

@@ -1,54 +1,54 @@
-4k
-2017
-armor
-booru:e621
-category:ine
-character:maud pie
-character:maud pie (mlp)
-character:starlight glimmer
-character:starlight glimmer (mlp)
-clothing:armor
-creator:starblaze25
-crystal
-crystals
-cutie mark
-duo
-female
-feral
-gender:female
-genre:fantasy
-hair
-hard hat
-headgear
-headwear
-helmet
-indoors
-inside
-medium:16:9 aspect ratio
-medium:absurd resolution
-medium:high resolution
-meta:4k
-meta:16:9
-meta:2017
-meta:absurd res
-meta:hi res
-mouth hold
-pickaxe
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"captivated by a glimmer" by starblaze25
-title:captivated by a glimmer
-uploader:torvusil
-year:2017
+4k,
+2017,
+armor,
+booru:e621,
+category:ine,
+character:maud pie,
+character:maud pie (mlp),
+character:starlight glimmer,
+character:starlight glimmer (mlp),
+clothing:armor,
+creator:starblaze25,
+crystal,
+crystals,
+cutie mark,
+duo,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+hard hat,
+headgear,
+headwear,
+helmet,
+indoors,
+inside,
+medium:16:9 aspect ratio,
+medium:absurd resolution,
+medium:high resolution,
+meta:4k,
+meta:16:9,
+meta:2017,
+meta:absurd res,
+meta:hi res,
+mouth hold,
+pickaxe,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"captivated by a glimmer" by starblaze25,
+title:captivated by a glimmer,
+uploader:torvusil,
+year:2017,

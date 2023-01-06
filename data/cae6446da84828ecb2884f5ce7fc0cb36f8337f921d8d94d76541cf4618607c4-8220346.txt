@@ -1,86 +1,86 @@
-abs
-ambiguous gender
-ambiguous_gender
-anthro
-anthropomorphism
-artist:taran_fiddler
-biceps
-big muscles
-big_muscles
-blood
-bodily fluids
-bodily_fluids
-booru:e621
-bottomwear
-category:ine
-character:quetzalcoatl
-class:mammal
-claws
-clothed
-clothing
-clothing:tagme
-copyright:american_mythology
-copyright:aztec_mythology
-copyright:mesoamerican_mythology
-copyright:mythology
-creator:taran fiddler
-family:felidae
-feathered dragon
-feathered wings
-feathered_wings
-feathers
-felid
-feral
-fur
-furry
-gender:ambiguous
-gender:male
-genus:pantherine
-jaguar
-loincloth
-male
-medium:digital media
-medium:high resolution
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-muscles
-muscular
-muscular male
-muscular_male
-obliques
-open mouth
-open_mouth
-pecs
-rating:questionable
-scratch
-series:american mythology
-series:aztec mythology
-series:mesoamerican mythology
-series:mythology
-species:deity
-species:dragon
-species:feathered dragon
-species:feathered_dragon
-species:felid
-species:feline
-species:jaguar
-species:mammal
-species:mythical
-species:pantherine
-species:scalie
-spots
-spotted body
-spotted fur
-spotted_body
-spotted_fur
-subreddit:imaginaryhybrids
-subreddit:immonsters
-taran fiddler
-title:resurrected creatuanary dragons by taran fiddler
-topless
-triceps
-uploader:lol33ta
-wings
-wounded
+abs,
+ambiguous gender,
+ambiguous_gender,
+anthro,
+anthropomorphism,
+artist:taran_fiddler,
+biceps,
+big muscles,
+big_muscles,
+blood,
+bodily fluids,
+bodily_fluids,
+booru:e621,
+bottomwear,
+category:ine,
+character:quetzalcoatl,
+class:mammal,
+claws,
+clothed,
+clothing,
+clothing:tagme,
+copyright:american_mythology,
+copyright:aztec_mythology,
+copyright:mesoamerican_mythology,
+copyright:mythology,
+creator:taran fiddler,
+family:felidae,
+feathered dragon,
+feathered wings,
+feathered_wings,
+feathers,
+felid,
+feral,
+fur,
+furry,
+gender:ambiguous,
+gender:male,
+genus:pantherine,
+jaguar,
+loincloth,
+male,
+medium:digital media,
+medium:high resolution,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+muscles,
+muscular,
+muscular male,
+muscular_male,
+obliques,
+open mouth,
+open_mouth,
+pecs,
+rating:questionable,
+scratch,
+series:american mythology,
+series:aztec mythology,
+series:mesoamerican mythology,
+series:mythology,
+species:deity,
+species:dragon,
+species:feathered dragon,
+species:feathered_dragon,
+species:felid,
+species:feline,
+species:jaguar,
+species:mammal,
+species:mythical,
+species:pantherine,
+species:scalie,
+spots,
+spotted body,
+spotted fur,
+spotted_body,
+spotted_fur,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+taran fiddler,
+title:resurrected creatuanary dragons by taran fiddler,
+topless,
+triceps,
+uploader:lol33ta,
+wings,
+wounded,

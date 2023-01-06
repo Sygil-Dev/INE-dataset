@@ -1,79 +1,79 @@
-3 toes
-3_toes
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-big eyes
-big_eyes
-category:ine
-creator:cryptid-creations
-curled tail
-curled_tail
-english text
-feet
-feral
-furry
-gecko
-gender:ambiguous
-gender:female
-giraffe
-giraffid
-horn
-horns
-humor
-hybrid
-language:english
-lizard
-logo
-long tail
-long_tail
-looking at viewer
-looking_at_viewer
-mammal
-medium:english text
-medium:simple background
-medium:text
-medium:white background
-meta:english text
-meta:english_text
-meta:url
-orange body
-orange skin
-orange_body
-orange_skin
-ossicone
-pov
-pun
-rating:safe
-reptile
-scalie
-simple background
-simple_background
-smile
-solo
-species:gecko
-species:giraffe
-species:giraffid
-species:hybrid
-species:lizard
-species:mammal
-species:reptile
-species:scalie
-spots
-subreddit:imaginaryhybrids
-subreddit:immonsters
-tail
-text
-title:long necko by piper thibodeau
-toes
-tongue
-tongue out
-tongue_out
-uploader:myrandall
-url
-white background
-white_background
-yellow body
-yellow skin
-yellow_body
-yellow_skin
+3 toes,
+3_toes,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+big eyes,
+big_eyes,
+category:ine,
+creator:cryptid-creations,
+curled tail,
+curled_tail,
+english text,
+feet,
+feral,
+furry,
+gecko,
+gender:ambiguous,
+gender:female,
+giraffe,
+giraffid,
+horn,
+horns,
+humor,
+hybrid,
+language:english,
+lizard,
+logo,
+long tail,
+long_tail,
+looking at viewer,
+looking_at_viewer,
+mammal,
+medium:english text,
+medium:simple background,
+medium:text,
+medium:white background,
+meta:english text,
+meta:english_text,
+meta:url,
+orange body,
+orange skin,
+orange_body,
+orange_skin,
+ossicone,
+pov,
+pun,
+rating:safe,
+reptile,
+scalie,
+simple background,
+simple_background,
+smile,
+solo,
+species:gecko,
+species:giraffe,
+species:giraffid,
+species:hybrid,
+species:lizard,
+species:mammal,
+species:reptile,
+species:scalie,
+spots,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+tail,
+text,
+title:long necko by piper thibodeau,
+toes,
+tongue,
+tongue out,
+tongue_out,
+uploader:myrandall,
+url,
+white background,
+white_background,
+yellow body,
+yellow skin,
+yellow_body,
+yellow_skin,

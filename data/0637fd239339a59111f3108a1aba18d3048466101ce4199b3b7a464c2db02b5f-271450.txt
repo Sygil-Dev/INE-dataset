@@ -1,39 +1,39 @@
-1girl
-blue rose
-blue skin
-blurry
-blurry background
-blurry foreground
-category:ine
-closed mouth
-colored skin
-depth of field
-eyelashes
-flower
-grey skin
-hair ornament
-hair tie
-leaf
-lips
-long hair
-looking at viewer
-low-tied long hair
-makeup
-motion blur
-multi-tied hair
-nose
-pink flower
-pink rose
-portrait
-purple rose
-purple skin
-rating:safe
-red flower
-red rose
-rose
-solo
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-title:acrona by lucia massucco
-uploader:lol33ta
-white hair
+1girl,
+blue rose,
+blue skin,
+blurry,
+blurry background,
+blurry foreground,
+category:ine,
+closed mouth,
+colored skin,
+depth of field,
+eyelashes,
+flower,
+grey skin,
+hair ornament,
+hair tie,
+leaf,
+lips,
+long hair,
+looking at viewer,
+low-tied long hair,
+makeup,
+motion blur,
+multi-tied hair,
+nose,
+pink flower,
+pink rose,
+portrait,
+purple rose,
+purple skin,
+rating:safe,
+red flower,
+red rose,
+rose,
+solo,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+title:acrona by lucia massucco,
+uploader:lol33ta,
+white hair,

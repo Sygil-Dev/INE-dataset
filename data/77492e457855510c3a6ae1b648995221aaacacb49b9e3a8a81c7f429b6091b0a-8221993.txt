@@ -1,62 +1,62 @@
-action:smile
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-board:/v/
-bodypart:black eyes
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:cryptid-creations
-feral
-gen 1 pokemon
-gender:ambiguous
-gender:male
-glowing
-green body
-green scales
-green_body
-green_scales
-happy
-humor
-lightbulb
-male:1
-medium:text
-meme:humor
-meta:2018
-meta:url
-pun
-rating:safe
-scales
-series:nintendo
-series:pokémon
-site:4chan.org
-smile
-solo
-species:amphibian
-species:animate inanimate
-species:animate_inanimate
-species:bulbasaur
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginaryhybrids
-subreddit:imfandoms
-subreddit:immonsters
-text
-title:"lightbulbasaur" by piper thibodeau
-title:daily paint 2214. lightbulbasaur
-uploader:torvusil
-video games
-video_games
-visual pun
-visual_pun
-website:chan style imageboards
-website:e621
-year:2018
+action:smile,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+board:/v/,
+bodypart:black eyes,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:cryptid-creations,
+feral,
+gen 1 pokemon,
+gender:ambiguous,
+gender:male,
+glowing,
+green body,
+green scales,
+green_body,
+green_scales,
+happy,
+humor,
+lightbulb,
+male:1,
+medium:text,
+meme:humor,
+meta:2018,
+meta:url,
+pun,
+rating:safe,
+scales,
+series:nintendo,
+series:pokémon,
+site:4chan.org,
+smile,
+solo,
+species:amphibian,
+species:animate inanimate,
+species:animate_inanimate,
+species:bulbasaur,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginaryhybrids,
+subreddit:imfandoms,
+subreddit:immonsters,
+text,
+title:"lightbulbasaur" by piper thibodeau,
+title:daily paint 2214. lightbulbasaur,
+uploader:torvusil,
+video games,
+video_games,
+visual pun,
+visual_pun,
+website:chan style imageboards,
+website:e621,
+year:2018,

@@ -1,53 +1,53 @@
-ambiguous gender
-armor
-black eyes
-booru:e621
-brown body
-brown fur
-category:ine
-character:galactus
-character:jolly jack
-character:jolly jack (character)
-clothing:armor
-creator:conditional dnp
-creator:jollyjack
-earth
-eating
-english text
-feral
-fur
-gender:ambiguous
-grey background
-hamster
-headgear
-headwear
-helmet
-invalid tag
-jolly jack (character)
-language:english
-medium:english text
-medium:grey background
-medium:simple background
-medium:text
-meta:english text
-planet
-rating:safe
-rodent
-series:fantastic four
-simple background
-solo
-species:cricetid
-species:hamster
-species:mammal
-species:rodent
-studio:marvel
-subreddit:imaginaryworldeaters
-subreddit:immonsters
-tan body
-tan fur
-text
-title:"galactus hamster" by phillip m jackson
-title:galactus hamster
-title:galactus hamster by phillip m jackson
-uploader:lol33ta
-uploader:mysalmonhasfeets
+ambiguous gender,
+armor,
+black eyes,
+booru:e621,
+brown body,
+brown fur,
+category:ine,
+character:galactus,
+character:jolly jack,
+character:jolly jack (character),
+clothing:armor,
+creator:conditional dnp,
+creator:jollyjack,
+earth,
+eating,
+english text,
+feral,
+fur,
+gender:ambiguous,
+grey background,
+hamster,
+headgear,
+headwear,
+helmet,
+invalid tag,
+jolly jack (character),
+language:english,
+medium:english text,
+medium:grey background,
+medium:simple background,
+medium:text,
+meta:english text,
+planet,
+rating:safe,
+rodent,
+series:fantastic four,
+simple background,
+solo,
+species:cricetid,
+species:hamster,
+species:mammal,
+species:rodent,
+studio:marvel,
+subreddit:imaginaryworldeaters,
+subreddit:immonsters,
+tan body,
+tan fur,
+text,
+title:"galactus hamster" by phillip m jackson,
+title:galactus hamster,
+title:galactus hamster by phillip m jackson,
+uploader:lol33ta,
+uploader:mysalmonhasfeets,

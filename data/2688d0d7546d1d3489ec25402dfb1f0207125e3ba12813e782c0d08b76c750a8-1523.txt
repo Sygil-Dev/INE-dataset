@@ -1,49 +1,49 @@
-animal
-blue sky
-category:ine
-cloud
-cloudy sky
-creator:assasinmonkey
-day
-domestic cat
-felid
-feral
-fluffy
-fur
-gender:ambiguous
-genre:fantasy
-grass
-inner ear fluff
-landscape
-macro
-medium:16:10 aspect ratio
-medium:absurd resolution
-medium:high resolution
-mountain
-no humans
-outdoors
-outside
-oversized animal
-rating:safe
-river
-series:original
-sky
-solo
-species:cat
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:mammal
-standing
-subreddit:imaginarybehemoths
-subreddit:immonsters
-superabsurd res
-title:"oh lawd..." by myron c. p. (assasinmonkey)
-title:oh lawd...
-tree
-tuft
-uploader:coelacanth0794
-water
-whiskers
-year:2019
+animal,
+blue sky,
+category:ine,
+cloud,
+cloudy sky,
+creator:assasinmonkey,
+day,
+domestic cat,
+felid,
+feral,
+fluffy,
+fur,
+gender:ambiguous,
+genre:fantasy,
+grass,
+inner ear fluff,
+landscape,
+macro,
+medium:16:10 aspect ratio,
+medium:absurd resolution,
+medium:high resolution,
+mountain,
+no humans,
+outdoors,
+outside,
+oversized animal,
+rating:safe,
+river,
+series:original,
+sky,
+solo,
+species:cat,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+standing,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+superabsurd res,
+title:"oh lawd..." by myron c. p. (assasinmonkey),
+title:oh lawd...,
+tree,
+tuft,
+uploader:coelacanth0794,
+water,
+whiskers,
+year:2019,

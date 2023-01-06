@@ -1,58 +1,58 @@
-10s
-ambiguous gender
-booru:e621
-booru:safebooru
-category:ine
-character:groudon
-claws
-creator:garmmon
-creator:garmmon (artist)
-creator:garmmy
-epic
-eruption
-feral
-fire
-gender:ambiguous
-gender:female
-glowing
-lava
-markings
-meta:2015
-molten rock
-monster
-no humans
-pokemon (creature)
-rating:safe
-rock
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon omega ruby & alpha sapphire
-series:pokemon oras
-series:pokémon
-series:pokémon omega ruby & alpha sapphire
-sharp teeth
-sky
-smoke
-solo
-species:groudon
-species:legendary pokémon
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:primal groudon
-species:primal reversion
-spikes
-studio:nintendo
-subreddit:imaginarybehemoths
-subreddit:immonsters
-tail
-teeth
-title:omega - groudon
-title:primal groudon by garmmon
-toe claws
-uploader:optimusprime1313
-video games
-volcano
-year:2015
+10s,
+ambiguous gender,
+booru:e621,
+booru:safebooru,
+category:ine,
+character:groudon,
+claws,
+creator:garmmon,
+creator:garmmon (artist),
+creator:garmmy,
+epic,
+eruption,
+feral,
+fire,
+gender:ambiguous,
+gender:female,
+glowing,
+lava,
+markings,
+meta:2015,
+molten rock,
+monster,
+no humans,
+pokemon (creature),
+rating:safe,
+rock,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon omega ruby & alpha sapphire,
+series:pokemon oras,
+series:pokémon,
+series:pokémon omega ruby & alpha sapphire,
+sharp teeth,
+sky,
+smoke,
+solo,
+species:groudon,
+species:legendary pokémon,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:primal groudon,
+species:primal reversion,
+spikes,
+studio:nintendo,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+tail,
+teeth,
+title:omega - groudon,
+title:primal groudon by garmmon,
+toe claws,
+uploader:optimusprime1313,
+video games,
+volcano,
+year:2015,

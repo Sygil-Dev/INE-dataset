@@ -1,22 +1,22 @@
-action figure
-box art
-category:ine
-charles xavier
-comic book art
-cover art
-creator:david nakayama
-hasbro
-marvel
-marvel legends
-medium:digital 2d
-professor x
-subreddit:imaginarymarvel
-subreddit:imaginarymutants
-subreddit:imfandoms
-title:professor x by david nakayama
-title:professor x marvel legends box art by david nakayama
-toy
-uploader:i_burn_cereal
-uploader:lol33ta
-x-men
-xmen
+action figure,
+box art,
+category:ine,
+charles xavier,
+comic book art,
+cover art,
+creator:david nakayama,
+hasbro,
+marvel,
+marvel legends,
+medium:digital 2d,
+professor x,
+subreddit:imaginarymarvel,
+subreddit:imaginarymutants,
+subreddit:imfandoms,
+title:professor x by david nakayama,
+title:professor x marvel legends box art by david nakayama,
+toy,
+uploader:i_burn_cereal,
+uploader:lol33ta,
+x-men,
+xmen,

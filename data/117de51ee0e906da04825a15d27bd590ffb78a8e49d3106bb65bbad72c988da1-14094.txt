@@ -1,71 +1,71 @@
-2018
-ambiguous gender
-ambiguous_gender
-art
-artist:tsaoshin
-backseat
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:tsaoshin
-cute
-digitalart
-dragonair
-dragonite
-dratini
-drawing
-ericproctor
-fanart
-funny
-furry
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-gottadrawemall
-horn
-horns
-joshworlds
-livestream
-medium:1:1 aspect ratio
-medium:digital media
-meta:1:1
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-photoshop
-pokedex
-pokemon
-pool:15535
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-show
-sketch
-solo
-species:dragon
-species:dragonite
-species:monster
-species:mythical
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:scalie
-stream
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:149 - dragonite
-title:dragonite by eric proctor
-tsaoshin
-twitch
-type
-uploader:myrandall
-video
-video games
-video_games
-wings
-year:2018
-youtube
+2018,
+ambiguous gender,
+ambiguous_gender,
+art,
+artist:tsaoshin,
+backseat,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:tsaoshin,
+cute,
+digitalart,
+dragonair,
+dragonite,
+dratini,
+drawing,
+ericproctor,
+fanart,
+funny,
+furry,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+gottadrawemall,
+horn,
+horns,
+joshworlds,
+livestream,
+medium:1:1 aspect ratio,
+medium:digital media,
+meta:1:1,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+photoshop,
+pokedex,
+pokemon,
+pool:15535,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+show,
+sketch,
+solo,
+species:dragon,
+species:dragonite,
+species:monster,
+species:mythical,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:scalie,
+stream,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:149 - dragonite,
+title:dragonite by eric proctor,
+tsaoshin,
+twitch,
+type,
+uploader:myrandall,
+video,
+video games,
+video_games,
+wings,
+year:2018,
+youtube,

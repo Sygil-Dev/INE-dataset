@@ -1,79 +1,79 @@
-1 female
-1 male
-1boy
-1girl
-art
-artist name
-bandage
-bandages
-bayard wu
-beard
-booru:danbooru
-booru:gelbooru
-bracelet
-breasts
-category:ine
-character:troll
-cleavage
-clothing:bracelet
-clothing:earrings
-clothing:hat
-clothing:headwear
-clothing:jewelry
-clothing:necklace
-colored skin
-creator:bayard wu
-creator:bayardwu
-dagger
-dated
-earrings
-ears
-faceless
-faceless female
-facial hair
-fangs
-feathers
-furry
-gender:female
-gender:male
-green skin
-hat
-jewelry
-knife
-leaf
-male focus
-medium:artist name
-medium:dated
-medium:watermark
-medium:web address
-melee weapon
-meta:artist name
-meta:commentary request
-meta:official art
-meta:photoshop (medium)
-nail polish
-necklace
-pointy ears
-rating:mature
-rating:safe
-rating:sensitive
-real person
-red hair
-series:legend of the cryptids
-skull
-snake
-solo
-species:reptile
-species:scalie
-species:snake
-subreddit:imaginarytrolls
-subreddit:imraces
-title:blood sacrifice
-title:blood sacrifice by bayard wu
-tree
-tribal
-troll
-uploader:lordjimbob01
-watermark
-weapon
-web address
+1 female,
+1 male,
+1boy,
+1girl,
+art,
+artist name,
+bandage,
+bandages,
+bayard wu,
+beard,
+booru:danbooru,
+booru:gelbooru,
+bracelet,
+breasts,
+category:ine,
+character:troll,
+cleavage,
+clothing:bracelet,
+clothing:earrings,
+clothing:hat,
+clothing:headwear,
+clothing:jewelry,
+clothing:necklace,
+colored skin,
+creator:bayard wu,
+creator:bayardwu,
+dagger,
+dated,
+earrings,
+ears,
+faceless,
+faceless female,
+facial hair,
+fangs,
+feathers,
+furry,
+gender:female,
+gender:male,
+green skin,
+hat,
+jewelry,
+knife,
+leaf,
+male focus,
+medium:artist name,
+medium:dated,
+medium:watermark,
+medium:web address,
+melee weapon,
+meta:artist name,
+meta:commentary request,
+meta:official art,
+meta:photoshop (medium),
+nail polish,
+necklace,
+pointy ears,
+rating:mature,
+rating:safe,
+rating:sensitive,
+real person,
+red hair,
+series:legend of the cryptids,
+skull,
+snake,
+solo,
+species:reptile,
+species:scalie,
+species:snake,
+subreddit:imaginarytrolls,
+subreddit:imraces,
+title:blood sacrifice,
+title:blood sacrifice by bayard wu,
+tree,
+tribal,
+troll,
+uploader:lordjimbob01,
+watermark,
+weapon,
+web address,

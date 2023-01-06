@@ -1,27 +1,27 @@
-alt%c4%b1n%c3%b6z
-altinoz
-asoiaf
-asoiaffanart
-category:ine
-creator:ertacaltinoz
-erta%c3%a7
-erta%c3%a7alt%c4%b1n%c3%b6z
-ertac
-ertacaltinoz
-gameofthrones
-gameofthronesfanart
-got
-gots8
-grrmartin
-housestark
-rickon
-rickonstark
-subreddit:imaginaryundead
-subreddit:imaginarywesteros
-subreddit:imfandoms
-subreddit:immonsters
-title:valar morghulis
-title:valar morghulis by ertaç altınöz
-uploader:net-diver
-valarmorghulis
-wight
+alt%c4%b1n%c3%b6z,
+altinoz,
+asoiaf,
+asoiaffanart,
+category:ine,
+creator:ertacaltinoz,
+erta%c3%a7,
+erta%c3%a7alt%c4%b1n%c3%b6z,
+ertac,
+ertacaltinoz,
+gameofthrones,
+gameofthronesfanart,
+got,
+gots8,
+grrmartin,
+housestark,
+rickon,
+rickonstark,
+subreddit:imaginaryundead,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+subreddit:immonsters,
+title:valar morghulis,
+title:valar morghulis by ertaç altınöz,
+uploader:net-diver,
+valarmorghulis,
+wight,

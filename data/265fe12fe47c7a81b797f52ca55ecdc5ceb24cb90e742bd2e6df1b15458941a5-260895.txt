@@ -1,40 +1,40 @@
-1 male
-1boy
-aerial battle
-afterburner
-aircraft
-airplane
-battle
-category:ine
-character:adfx-02 morgan
-character:cipher (ace combat zero)
-character:cipher (ace combat)
-character:f-15
-character:larry foulke
-condensation trail
-contrail
-creator:pvtskwerl
-dogfight
-f-15
-f-15 eagle
-fighter jet
-fire
-foreshortening
-gender:male
-jet
-military
-military vehicle
-pilot
-rain
-rating:safe
-ruins
-series:ace combat
-series:ace combat zero
-subreddit:imaginaryaviation
-subreddit:imtechnology
-title:zero
-title:zero by chi-chun liu
-title:zero by pvtskwerl
-uploader:bockclockula
-uploader:kingswhiskey
-vehicle
+1 male,
+1boy,
+aerial battle,
+afterburner,
+aircraft,
+airplane,
+battle,
+category:ine,
+character:adfx-02 morgan,
+character:cipher (ace combat zero),
+character:cipher (ace combat),
+character:f-15,
+character:larry foulke,
+condensation trail,
+contrail,
+creator:pvtskwerl,
+dogfight,
+f-15,
+f-15 eagle,
+fighter jet,
+fire,
+foreshortening,
+gender:male,
+jet,
+military,
+military vehicle,
+pilot,
+rain,
+rating:safe,
+ruins,
+series:ace combat,
+series:ace combat zero,
+subreddit:imaginaryaviation,
+subreddit:imtechnology,
+title:zero,
+title:zero by chi-chun liu,
+title:zero by pvtskwerl,
+uploader:bockclockula,
+uploader:kingswhiskey,
+vehicle,

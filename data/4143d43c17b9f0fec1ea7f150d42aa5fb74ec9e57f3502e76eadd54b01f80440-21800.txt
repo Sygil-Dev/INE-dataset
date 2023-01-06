@@ -1,69 +1,69 @@
-anthro
-arthropod
-artist:cryptid-creations
-beard
-bee
-black nose
-black_nose
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-claws
-clothing
-clothing:hat
-clothing:headwear
-creator:cryptid-creations
-facial hair
-facial_hair
-fur
-grass
-hat
-hat only
-hat_only
-headgear
-headgear only
-headgear_only
-headwear
-headwear only
-headwear_only
-hive
-hymenopteran
-insect
-male
-mammal
-medium:simple background
-medium:white background
-meta:url
-mostly nude
-mostly_nude
-plant
-rating:safe
-simple background
-simple_background
-sitting
-solo
-species:arthropod
-species:bee
-species:brown bear
-species:brown_bear
-species:grizzly bear
-species:grizzly_bear
-species:hymenopteran
-species:insect
-species:mammal
-species:ursid
-species:ursine
-staff
-subreddit:imaginarywizards
-subreddit:imcharacters
-text
-title:grizzard by piper thibodeau
-tongue
-tongue out
-tongue_out
-uploader:myrandall
-ursid
-white background
-white_background
+anthro,
+arthropod,
+artist:cryptid-creations,
+beard,
+bee,
+black nose,
+black_nose,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+claws,
+clothing,
+clothing:hat,
+clothing:headwear,
+creator:cryptid-creations,
+facial hair,
+facial_hair,
+fur,
+grass,
+hat,
+hat only,
+hat_only,
+headgear,
+headgear only,
+headgear_only,
+headwear,
+headwear only,
+headwear_only,
+hive,
+hymenopteran,
+insect,
+male,
+mammal,
+medium:simple background,
+medium:white background,
+meta:url,
+mostly nude,
+mostly_nude,
+plant,
+rating:safe,
+simple background,
+simple_background,
+sitting,
+solo,
+species:arthropod,
+species:bee,
+species:brown bear,
+species:brown_bear,
+species:grizzly bear,
+species:grizzly_bear,
+species:hymenopteran,
+species:insect,
+species:mammal,
+species:ursid,
+species:ursine,
+staff,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+text,
+title:grizzard by piper thibodeau,
+tongue,
+tongue out,
+tongue_out,
+uploader:myrandall,
+ursid,
+white background,
+white_background,

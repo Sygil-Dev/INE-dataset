@@ -1,22 +1,22 @@
-armor
-category:ine
-cliff
-clouds
-creator:cecilia g.f.
-crown
-dress
-magic
-medium:digital 2d
-moon
-power
-sorceress
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sword
-title:ell'grya
-title:ell'grya by cecilia g.f.
-uploader:blackeremy
-warrior
-weapon
-witch
-woman
+armor,
+category:ine,
+cliff,
+clouds,
+creator:cecilia g.f.,
+crown,
+dress,
+magic,
+medium:digital 2d,
+moon,
+power,
+sorceress,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sword,
+title:ell'grya,
+title:ell'grya by cecilia g.f.,
+uploader:blackeremy,
+warrior,
+weapon,
+witch,
+woman,

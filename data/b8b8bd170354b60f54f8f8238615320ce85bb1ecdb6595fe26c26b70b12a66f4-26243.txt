@@ -1,41 +1,41 @@
-anthro
-biped
-black body
-black fur
-blue body
-blue fur
-booru:e621
-category:ine
-creator:kenket
-feet
-fur
-hand spike
-jumping
-meta:2018
-meta:hi res
-meta:url
-multicolored body
-multicolored fur
-nude
-pawpads
-paws
-rating:safe
-red eyes
-series:nintendo
-series:pokémon
-side view
-simple background
-soles
-solo
-species:lucario
-species:pokémon (species)
-subreddit:imaginarykanto
-subreddit:imfandoms
-text
-title:lucario
-title:lucario by tess garman
-two tone body
-two tone fur
-uploader:myrandall
-video games
-white background
+anthro,
+biped,
+black body,
+black fur,
+blue body,
+blue fur,
+booru:e621,
+category:ine,
+creator:kenket,
+feet,
+fur,
+hand spike,
+jumping,
+meta:2018,
+meta:hi res,
+meta:url,
+multicolored body,
+multicolored fur,
+nude,
+pawpads,
+paws,
+rating:safe,
+red eyes,
+series:nintendo,
+series:pokémon,
+side view,
+simple background,
+soles,
+solo,
+species:lucario,
+species:pokémon (species),
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+text,
+title:lucario,
+title:lucario by tess garman,
+two tone body,
+two tone fur,
+uploader:myrandall,
+video games,
+white background,

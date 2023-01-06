@@ -1,41 +1,41 @@
-2019
-artist:sandara
-category:ine
-claws
-creator:sandara
-day
-detailed background
-detailed_background
-digital media (artwork)
-furry
-medium:detailed background
-medium:digital media
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:digital_media_(artwork)
-multi_arm
-multi_limb
-open mouth
-open_mouth
-outside
-rating:safe
-sky
-solo
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-subreddit:imaginarydragons
-subreddit:immonsters
-teeth
-title:elder artifact dragon
-title:elder artifact dragon by sandara tang
-tongue
-uploader:lol33ta
-uploader:net-diver
-wings
-year:2019
+2019,
+artist:sandara,
+category:ine,
+claws,
+creator:sandara,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+furry,
+medium:detailed background,
+medium:digital media,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:digital_media_(artwork),
+multi_arm,
+multi_limb,
+open mouth,
+open_mouth,
+outside,
+rating:safe,
+sky,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+teeth,
+title:elder artifact dragon,
+title:elder artifact dragon by sandara tang,
+tongue,
+uploader:lol33ta,
+uploader:net-diver,
+wings,
+year:2019,

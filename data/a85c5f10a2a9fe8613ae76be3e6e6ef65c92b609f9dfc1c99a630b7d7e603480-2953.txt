@@ -1,50 +1,50 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-category:ine
-clothing:scarf
-creator:cryptid-creations
-creator:piperdraws
-earmuffs
-feral
-filename:dp1806_s
-gender:male
-humor
-ice
-male:1
-medium:patreon reward
-meme:humor
-meta:english text
-meta:english_text
-meta:paid reward
-meta:patreon reward
-meta:url
-pun
-rating:safe
-simple background
-simple_background
-site:patreon
-site:yiff.party
-solo
-species:chiropteran
-species:elemental
-species:elemental creature
-species:elemental_creature
-species:ice creature
-species:ice_creature
-species:mammal
-species:mineral fauna
-species:mineral_fauna
-subreddit:imaginaryelementals
-subreddit:immonsters
-text
-title:1$ patreon pack - daily paint 1806# frost bite
-title:5$ patreon pack - daily paint 1806# frost bite
-title:daily paint 1806# frost bite
-title:frost bite by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-white background
-white_background
-yiff id:457132
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+category:ine,
+clothing:scarf,
+creator:cryptid-creations,
+creator:piperdraws,
+earmuffs,
+feral,
+filename:dp1806_s,
+gender:male,
+humor,
+ice,
+male:1,
+medium:patreon reward,
+meme:humor,
+meta:english text,
+meta:english_text,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+pun,
+rating:safe,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+solo,
+species:chiropteran,
+species:elemental,
+species:elemental creature,
+species:elemental_creature,
+species:ice creature,
+species:ice_creature,
+species:mammal,
+species:mineral fauna,
+species:mineral_fauna,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+text,
+title:1$ patreon pack - daily paint 1806# frost bite,
+title:5$ patreon pack - daily paint 1806# frost bite,
+title:daily paint 1806# frost bite,
+title:frost bite by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white background,
+white_background,
+yiff id:457132,

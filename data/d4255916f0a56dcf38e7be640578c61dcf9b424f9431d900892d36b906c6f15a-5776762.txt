@@ -1,58 +1,58 @@
-absurd res
-bodily fluids
-booru:e621
-category:ine
-character:queen chrysalis
-character:queen chrysalis (mlp)
-character:starlight glimmer
-character:starlight glimmer (mlp)
-creator:thediscorded
-detailed background
-duo
-eyelashes
-fangs
-female
-feral
-fur
-gender:female
-genre:fantasy
-green eyes
-hair
-hi res
-hooves
-horn
-horns
-insect wings
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:absurd res
-meta:hi res
-purple body
-purple eyes
-purple fur
-purple hair
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sitting
-species:arthropod
-species:changeling
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:non-human animal
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tears
-teeth
-title:"in the hive" by thediscorded
-title:in the hive
-tongue
-uploader:torvusil
-wings
+absurd res,
+bodily fluids,
+booru:e621,
+category:ine,
+character:queen chrysalis,
+character:queen chrysalis (mlp),
+character:starlight glimmer,
+character:starlight glimmer (mlp),
+creator:thediscorded,
+detailed background,
+duo,
+eyelashes,
+fangs,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+green eyes,
+hair,
+hi res,
+hooves,
+horn,
+horns,
+insect wings,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:absurd res,
+meta:hi res,
+purple body,
+purple eyes,
+purple fur,
+purple hair,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sitting,
+species:arthropod,
+species:changeling,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:non-human animal,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tears,
+teeth,
+title:"in the hive" by thediscorded,
+title:in the hive,
+tongue,
+uploader:torvusil,
+wings,

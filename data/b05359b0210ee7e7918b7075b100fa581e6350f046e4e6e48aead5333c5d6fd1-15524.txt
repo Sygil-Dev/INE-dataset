@@ -1,64 +1,64 @@
-1 female
-artist:dong-wook shin
-bare shoulders
-blonde hair
-blue eyes
-bluezima
-brown eyes
-category:ine
-character:princess
-character:princess rodes
-clothing:dress
-clothing:footwear
-clothing:high heels
-clothing:hoodie
-clothing:shoes
-collarbone
-commentary
-copyright:legend of the cryptids
-creator:dong-wook shin
-dong-wook shin
-dress
-footwear
-gender:female
-glowing
-glowing eyes
-gown
-green eyes
-group
-happy
-heels
-high heels
-holding
-holding shoes
-hoodie
-lips
-long hair
-magic
-medium:high resolution
-medium:realistic
-meta:artstation sample
-meta:commentary
-meta:highres
-meta:image sample
-off shoulder
-off-shoulder dress
-princess
-princess rodes
-rating:safe
-realistic
-royal
-series:legend of the cryptids
-shoes
-solo focus
-statue
-stiletto heels
-studio:royal
-subreddit:imaginaryartifacts
-subreddit:immeta
-tiara
-title:princess rodes by bluezima-shin dong wook
-treasure chest
-uploader:lol33ta
-wand
-witch
+1 female,
+artist:dong-wook shin,
+bare shoulders,
+blonde hair,
+blue eyes,
+bluezima,
+brown eyes,
+category:ine,
+character:princess,
+character:princess rodes,
+clothing:dress,
+clothing:footwear,
+clothing:high heels,
+clothing:hoodie,
+clothing:shoes,
+collarbone,
+commentary,
+copyright:legend of the cryptids,
+creator:dong-wook shin,
+dong-wook shin,
+dress,
+footwear,
+gender:female,
+glowing,
+glowing eyes,
+gown,
+green eyes,
+group,
+happy,
+heels,
+high heels,
+holding,
+holding shoes,
+hoodie,
+lips,
+long hair,
+magic,
+medium:high resolution,
+medium:realistic,
+meta:artstation sample,
+meta:commentary,
+meta:highres,
+meta:image sample,
+off shoulder,
+off-shoulder dress,
+princess,
+princess rodes,
+rating:safe,
+realistic,
+royal,
+series:legend of the cryptids,
+shoes,
+solo focus,
+statue,
+stiletto heels,
+studio:royal,
+subreddit:imaginaryartifacts,
+subreddit:immeta,
+tiara,
+title:princess rodes by bluezima-shin dong wook,
+treasure chest,
+uploader:lol33ta,
+wand,
+witch,

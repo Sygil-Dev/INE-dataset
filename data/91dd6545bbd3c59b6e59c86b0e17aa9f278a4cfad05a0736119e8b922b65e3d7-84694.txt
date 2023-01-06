@@ -1,20 +1,20 @@
-artwork
-bag
-baseball bat
-category:ine
-cats
-clothing:choker
-coca-cola
-gender:female
-medium:digital media
-rain
-rui li
-street
-subreddit:imaginaryfeels
-subreddit:immeta
-title:vending machine by rui li
-title:vending machine by rui li.
-uploader:ghostofthefallen
-uploader:lol33ta
-vending machine
-white hair
+artwork,
+bag,
+baseball bat,
+category:ine,
+cats,
+clothing:choker,
+coca-cola,
+gender:female,
+medium:digital media,
+rain,
+rui li,
+street,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+title:vending machine by rui li,
+title:vending machine by rui li.,
+uploader:ghostofthefallen,
+uploader:lol33ta,
+vending machine,
+white hair,

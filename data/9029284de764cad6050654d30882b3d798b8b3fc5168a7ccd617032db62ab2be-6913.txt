@@ -1,63 +1,63 @@
-4 toes
-ambiguous gender
-anisodactyl
-artist:castaguer93
-beard
-bird feet
-bird_feet
-booru:e621
-category:ine
-creator:castaguer93
-druid
-facial hair
-feet
-forest
-gender:ambiguous
-gender:male
-group
-hair
-log
-long hair
-lying
-magic user
-magic_user
-male
-medium:high resolution
-meta:hi res
-meta:hi_res
-old
-peaceful
-plant
-rating:safe
-sitting
-species:avian
-species:bird
-species:canid
-species:canine
-species:canis
-species:corvid
-species:corvus (genus)
-species:corvus_(genus)
-species:crow
-species:human
-species:mammal
-species:oscine
-species:passerine
-species:primate
-species:wolf
-staff
-subreddit:imaginarybestof
-subreddit:imaginarydruids
-subreddit:imaginarypets
-subreddit:immeta
-tattoo
-title:[/r/imaginarywizards] little gifts by manuel castanon
-title:little gifts by manuel castañón
-toes
-tree
-tribal spellcaster
-tribal_spellcaster
-uploader:killerbunnyfamily
-uploader:lol33ta
-white hair
-wood
+4 toes,
+ambiguous gender,
+anisodactyl,
+artist:castaguer93,
+beard,
+bird feet,
+bird_feet,
+booru:e621,
+category:ine,
+creator:castaguer93,
+druid,
+facial hair,
+feet,
+forest,
+gender:ambiguous,
+gender:male,
+group,
+hair,
+log,
+long hair,
+lying,
+magic user,
+magic_user,
+male,
+medium:high resolution,
+meta:hi res,
+meta:hi_res,
+old,
+peaceful,
+plant,
+rating:safe,
+sitting,
+species:avian,
+species:bird,
+species:canid,
+species:canine,
+species:canis,
+species:corvid,
+species:corvus (genus),
+species:corvus_(genus),
+species:crow,
+species:human,
+species:mammal,
+species:oscine,
+species:passerine,
+species:primate,
+species:wolf,
+staff,
+subreddit:imaginarybestof,
+subreddit:imaginarydruids,
+subreddit:imaginarypets,
+subreddit:immeta,
+tattoo,
+title:[/r/imaginarywizards] little gifts by manuel castanon,
+title:little gifts by manuel castañón,
+toes,
+tree,
+tribal spellcaster,
+tribal_spellcaster,
+uploader:killerbunnyfamily,
+uploader:lol33ta,
+white hair,
+wood,

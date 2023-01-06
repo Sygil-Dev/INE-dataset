@@ -1,25 +1,25 @@
-alt%c4%b1n%c3%b6z
-altinoz
-aryastark
-asoiaf
-asongoficeandfire
-category:ine
-creator:ertacaltinoz
-erta%c3%a7
-erta%c3%a7alt%c4%b1n%c3%b6z
-ertac
-ertacaltinoz
-gameofthrones
-got
-gots8
-grrmartin
-sandorclegane
-subreddit:imaginarywesteros
-subreddit:imfandoms
-thehound
-title:"winter is coming" by ertaç altınöz
-title:winter is coming
-uploader:ertacaltinoz
-whitewalkers
-wights
-winterfell
+alt%c4%b1n%c3%b6z,
+altinoz,
+aryastark,
+asoiaf,
+asongoficeandfire,
+category:ine,
+creator:ertacaltinoz,
+erta%c3%a7,
+erta%c3%a7alt%c4%b1n%c3%b6z,
+ertac,
+ertacaltinoz,
+gameofthrones,
+got,
+gots8,
+grrmartin,
+sandorclegane,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+thehound,
+title:"winter is coming" by ertaç altınöz,
+title:winter is coming,
+uploader:ertacaltinoz,
+whitewalkers,
+wights,
+winterfell,

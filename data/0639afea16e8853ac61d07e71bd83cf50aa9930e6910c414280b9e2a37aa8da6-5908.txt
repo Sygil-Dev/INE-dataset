@@ -1,26 +1,26 @@
-artist name
-building
-category:ine
-city
-city lights
-cityscape
-glowing
-glowing eyes
-gun
-holographic interface
-letterboxed
-rain
-rating:safe
-science fiction
-skyscraper
-subreddit:imaginaryninjas
-subreddit:imaginaryweaponry
-subreddit:imcharacters
-subreddit:imtechnology
-sword
-title:sin city by wenjun lin
-title:the sin city by wenjun lin
-uploader:[deleted]
-uploader:ethan_kahn
-uploader:valar_m0rghul1s
-weapon
+artist name,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+glowing,
+glowing eyes,
+gun,
+holographic interface,
+letterboxed,
+rain,
+rating:safe,
+science fiction,
+skyscraper,
+subreddit:imaginaryninjas,
+subreddit:imaginaryweaponry,
+subreddit:imcharacters,
+subreddit:imtechnology,
+sword,
+title:sin city by wenjun lin,
+title:the sin city by wenjun lin,
+uploader:[deleted],
+uploader:ethan_kahn,
+uploader:valar_m0rghul1s,
+weapon,

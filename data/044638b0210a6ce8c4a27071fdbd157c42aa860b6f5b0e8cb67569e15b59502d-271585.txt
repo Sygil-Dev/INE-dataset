@@ -1,42 +1,42 @@
-architecture
-bare tree
-branch
-building
-bush
-category:ine
-chain-link fence
-cherry blossoms
-city
-city lights
-cityscape
-east asian architecture
-fence
-ferris wheel
-fishnet legwear
-fishnets
-forest
-honeycomb (pattern)
-honeycomb background
-house
-nature
-net
-night
-no humans
-outdoors
-rating:safe
-rooftop
-scenery
-shouji
-shrine
-skyline
-skyscraper
-sliding doors
-snow
-stained glass
-subreddit:imaginaryasylums
-subreddit:imarchitecture
-tatami
-title:old asylum by mark fonzen
-tokyo (city)
-tree
-uploader:lol33ta
+architecture,
+bare tree,
+branch,
+building,
+bush,
+category:ine,
+chain-link fence,
+cherry blossoms,
+city,
+city lights,
+cityscape,
+east asian architecture,
+fence,
+ferris wheel,
+fishnet legwear,
+fishnets,
+forest,
+honeycomb (pattern),
+honeycomb background,
+house,
+nature,
+net,
+night,
+no humans,
+outdoors,
+rating:safe,
+rooftop,
+scenery,
+shouji,
+shrine,
+skyline,
+skyscraper,
+sliding doors,
+snow,
+stained glass,
+subreddit:imaginaryasylums,
+subreddit:imarchitecture,
+tatami,
+title:old asylum by mark fonzen,
+tokyo (city),
+tree,
+uploader:lol33ta,

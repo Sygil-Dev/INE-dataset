@@ -1,22 +1,22 @@
-artwork
-big
-category:ine
-commission
-creator:antonkurbatov
-digitalart
-digitalartwork
-digitallandscape
-digitalpainting
-fantasy
-flora
-forest
-fungal
-fungi
-giant
-green
-greenery
-subreddit:imaginaryswamps
-subreddit:imnature
-title:swamps of shantyland
-title:swamps of shantyland by anton kurbatov
-uploader:fireflycities
+artwork,
+big,
+category:ine,
+commission,
+creator:antonkurbatov,
+digitalart,
+digitalartwork,
+digitallandscape,
+digitalpainting,
+fantasy,
+flora,
+forest,
+fungal,
+fungi,
+giant,
+green,
+greenery,
+subreddit:imaginaryswamps,
+subreddit:imnature,
+title:swamps of shantyland,
+title:swamps of shantyland by anton kurbatov,
+uploader:fireflycities,

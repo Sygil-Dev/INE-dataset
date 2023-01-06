@@ -1,22 +1,22 @@
-architecture
-art
-buildings
-category:ine
-city
-creator:raphael lacoste
-dusk
-genre:science fiction
-illustration
-landscape
-matte painting
-medium:concept art
-medium:digital 2d
-raphael lacoste
-sf
-structures
-subreddit:imaginarytowers
-subreddit:imarchitecture
-sunset
-title:the thinker
-title:the thinker by raphael lacoste
-uploader:panzer-kunst
+architecture,
+art,
+buildings,
+category:ine,
+city,
+creator:raphael lacoste,
+dusk,
+genre:science fiction,
+illustration,
+landscape,
+matte painting,
+medium:concept art,
+medium:digital 2d,
+raphael lacoste,
+sf,
+structures,
+subreddit:imaginarytowers,
+subreddit:imarchitecture,
+sunset,
+title:the thinker,
+title:the thinker by raphael lacoste,
+uploader:panzer-kunst,

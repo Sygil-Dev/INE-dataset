@@ -1,44 +1,44 @@
-ambiguous gender
-anthro
-bedding
-black eyes
-blanket
-branch
-category:ine
-creator:cryptid-creations
-cup
-feathered wings
-feathers
-feral
-gender:ambiguous
-glowing
-grey body
-grey feathers
-humor
-in tree
-meta:2018
-meta:digital media (artwork)
-meta:english text
-meta:url
-night
-phone
-plant
-pun
-rating:safe
-semi-anthro
-snow
-solo
-species:avian
-species:bird
-species:owl
-subreddit:imaginaryanimals
-subreddit:imnature
-text
-title:daily paint 2054# night owl
-title:night owl by piper thibodeau
-tree
-uploader:myrandall
-white body
-white feathers
-wings
-wood
+ambiguous gender,
+anthro,
+bedding,
+black eyes,
+blanket,
+branch,
+category:ine,
+creator:cryptid-creations,
+cup,
+feathered wings,
+feathers,
+feral,
+gender:ambiguous,
+glowing,
+grey body,
+grey feathers,
+humor,
+in tree,
+meta:2018,
+meta:digital media (artwork),
+meta:english text,
+meta:url,
+night,
+phone,
+plant,
+pun,
+rating:safe,
+semi-anthro,
+snow,
+solo,
+species:avian,
+species:bird,
+species:owl,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+text,
+title:daily paint 2054# night owl,
+title:night owl by piper thibodeau,
+tree,
+uploader:myrandall,
+white body,
+white feathers,
+wings,
+wood,

@@ -1,57 +1,57 @@
-3 males
-10s
-2015
-arm belt
-armor
-artist:livia prima
-belt
-black hat
-book
-category:ine
-clothing:headwear
-copyright name
-copyright:mobius final fantasy
-creator:livia prima
-dopaprime
-gauntlets
-gender:male
-hat
-headwear
-helmet
-horned helmet
-livia prima
-looking at viewer
-magic
-male focus
-medium:watermark
-meta:artstation sample
-meta:image sample
-mobius
-mortarboard
-multiple boys
-multiple males
-open book
-polearm
-pouch
-pov
-rating:safe
-series:final fantasy
-series:mobius final fantasy
-silver eyes
-spear
-standing
-studio:square enix
-subreddit:imaginaryclerics
-subreddit:imaginaryscholars
-subreddit:imcharacters
-tassel
-title:mobius final fantasy :scholar:
-title:mobius final fantasy :scholar: by livia prima
-title:mobius final fantasy: scholar by livia prima
-uploader:lol33ta
-uploader:synntara
-watermark
-weapon
-white hair
-wide sleeves
-year:2015
+3 males,
+10s,
+2015,
+arm belt,
+armor,
+artist:livia prima,
+belt,
+black hat,
+book,
+category:ine,
+clothing:headwear,
+copyright name,
+copyright:mobius final fantasy,
+creator:livia prima,
+dopaprime,
+gauntlets,
+gender:male,
+hat,
+headwear,
+helmet,
+horned helmet,
+livia prima,
+looking at viewer,
+magic,
+male focus,
+medium:watermark,
+meta:artstation sample,
+meta:image sample,
+mobius,
+mortarboard,
+multiple boys,
+multiple males,
+open book,
+polearm,
+pouch,
+pov,
+rating:safe,
+series:final fantasy,
+series:mobius final fantasy,
+silver eyes,
+spear,
+standing,
+studio:square enix,
+subreddit:imaginaryclerics,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+tassel,
+title:mobius final fantasy :scholar:,
+title:mobius final fantasy :scholar: by livia prima,
+title:mobius final fantasy: scholar by livia prima,
+uploader:lol33ta,
+uploader:synntara,
+watermark,
+weapon,
+white hair,
+wide sleeves,
+year:2015,

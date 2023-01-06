@@ -1,25 +1,25 @@
-bare tree
-branch
-category:ine
-day
-forest
-grass
-light rays
-moss
-nature
-outdoors
-overgrown
-plant
-rating:safe
-rock
-scenery
-subreddit:imaginaryswamps
-subreddit:imnature
-sunbeam
-sunlight
-sword
-title:the glade by jiawei xie
-tree
-uploader:nitemyria
-vines
-weapon
+bare tree,
+branch,
+category:ine,
+day,
+forest,
+grass,
+light rays,
+moss,
+nature,
+outdoors,
+overgrown,
+plant,
+rating:safe,
+rock,
+scenery,
+subreddit:imaginaryswamps,
+subreddit:imnature,
+sunbeam,
+sunlight,
+sword,
+title:the glade by jiawei xie,
+tree,
+uploader:nitemyria,
+vines,
+weapon,

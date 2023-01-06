@@ -1,75 +1,75 @@
-ambiguous gender
-ambiguous_gender
-anthropomorphism
-artist:cryptid-creations
-bandana
-bandanna
-bandolier
-black eyes
-black_eyes
-board:/k/
-bodypart:black eyes
-category:ine
-clothing
-clothing:hat
-clothing:headwear
-creator:cryptid-creations
-door
-dual wielding
-dual_wielding
-featureless crotch
-featureless_crotch
-firearm
-firearm:tagme
-fur
-gender:ambiguous
-gender:male
-gun
-guro
-handgun
-headgear
-headwear
-holding gun
-holding object
-holding weapon
-holding_gun
-holding_object
-holding_weapon
-humor
-kerchief
-male:1
-medium:text
-meme:humor
-meta:english text
-meta:english_text
-meta:nsfw
-neckerchief
-nude
-pistol
-pun
-ranged weapon
-ranged_weapon
-rating:explicit
-rating:mature
-rating:safe
-solo
-species:bandicoot
-species:mammal
-species:marsupial
-subreddit:imaginarycowboys
-subreddit:imcharacters
-tan body
-tan fur
-tan_body
-tan_fur
-title:banditcoot by piper thibodeau
-title:day 1404. banditcoot
-uploader:myrandall
-visual pun
-visual_pun
-weapon
-website:reddit
-white body
-white fur
-white_body
-white_fur
+ambiguous gender,
+ambiguous_gender,
+anthropomorphism,
+artist:cryptid-creations,
+bandana,
+bandanna,
+bandolier,
+black eyes,
+black_eyes,
+board:/k/,
+bodypart:black eyes,
+category:ine,
+clothing,
+clothing:hat,
+clothing:headwear,
+creator:cryptid-creations,
+door,
+dual wielding,
+dual_wielding,
+featureless crotch,
+featureless_crotch,
+firearm,
+firearm:tagme,
+fur,
+gender:ambiguous,
+gender:male,
+gun,
+guro,
+handgun,
+headgear,
+headwear,
+holding gun,
+holding object,
+holding weapon,
+holding_gun,
+holding_object,
+holding_weapon,
+humor,
+kerchief,
+male:1,
+medium:text,
+meme:humor,
+meta:english text,
+meta:english_text,
+meta:nsfw,
+neckerchief,
+nude,
+pistol,
+pun,
+ranged weapon,
+ranged_weapon,
+rating:explicit,
+rating:mature,
+rating:safe,
+solo,
+species:bandicoot,
+species:mammal,
+species:marsupial,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+tan body,
+tan fur,
+tan_body,
+tan_fur,
+title:banditcoot by piper thibodeau,
+title:day 1404. banditcoot,
+uploader:myrandall,
+visual pun,
+visual_pun,
+weapon,
+website:reddit,
+white body,
+white fur,
+white_body,
+white_fur,

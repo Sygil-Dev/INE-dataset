@@ -1,26 +1,26 @@
-ambiguous gender
-booru:e621
-category:ine
-creator:yakovlev-vad
-detailed background
-feral
-furry
-gender:ambiguous
-medium:detailed background
-medium:high resolution
-meta:hi res
-rating:safe
-scales
-series:asian mythology
-series:east asian mythology
-series:mythology
-solo
-species:dragon
-species:eastern dragon
-species:mythical
-species:scalie
-subreddit:imaginaryartifacts
-subreddit:immeta
-title:interesting find
-title:interesting find by yakovlev vadim
-uploader:myrandall
+ambiguous gender,
+booru:e621,
+category:ine,
+creator:yakovlev-vad,
+detailed background,
+feral,
+furry,
+gender:ambiguous,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+rating:safe,
+scales,
+series:asian mythology,
+series:east asian mythology,
+series:mythology,
+solo,
+species:dragon,
+species:eastern dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginaryartifacts,
+subreddit:immeta,
+title:interesting find,
+title:interesting find by yakovlev vadim,
+uploader:myrandall,

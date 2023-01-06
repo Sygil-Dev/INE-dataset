@@ -1,84 +1,84 @@
-1 female
-1girl
-alita
-alita:battle angel
-angel
-bangs
-battle
-battle angel
-black bodysuit
-black footwear
-black hair
-bodysuit
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-boots
-breasts
-brown eyes
-category:ine
-character:gally
-clothing
-clothing:black footwear
-clothing:bodysuit
-clothing:boots
-clothing:bottomwear
-clothing:footwear
-clothing:shirt
-clothing:sleeveless outfit
-clothing:topwear
-creator:raikoart
-creator:sean "raiko" tay
-creator:ライコ
-cyborg
-facial mark
-facing viewer
-fighting
-firing
-footwear
-gender:female
-genre:science fiction
-glowing
-glowing gun barrel
-glowing sword
-glowing weapon
-gunnm
-hair between eyes
-holding
-holding object
-holding sword
-holding weapon
-indoors
-lips
-looking away
-mechanical arm
-medium breasts
-medium:digital 2d
-open mouth
-rating:mature
-rating:safe
-robot
-science fiction
-series:alita: battle angel
-series:gunnm
-shiny
-shiny clothes
-shirt
-short hair
-signature
-sleeveless
-solo
-sparks
-species:robot
-subreddit:imaginarycybernetics
-subreddit:imaginarycyberpunk
-subreddit:imtechnology
-sword
-title:alita battle angel
-title:alita by sean "raiko" tay.
-title:alita by sean tay
-uploader:panzer-kunst
-uploader:turbologic
-weapon
-銃夢
+1 female,
+1girl,
+alita,
+alita:battle angel,
+angel,
+bangs,
+battle,
+battle angel,
+black bodysuit,
+black footwear,
+black hair,
+bodysuit,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+boots,
+breasts,
+brown eyes,
+category:ine,
+character:gally,
+clothing,
+clothing:black footwear,
+clothing:bodysuit,
+clothing:boots,
+clothing:bottomwear,
+clothing:footwear,
+clothing:shirt,
+clothing:sleeveless outfit,
+clothing:topwear,
+creator:raikoart,
+creator:sean "raiko" tay,
+creator:ライコ,
+cyborg,
+facial mark,
+facing viewer,
+fighting,
+firing,
+footwear,
+gender:female,
+genre:science fiction,
+glowing,
+glowing gun barrel,
+glowing sword,
+glowing weapon,
+gunnm,
+hair between eyes,
+holding,
+holding object,
+holding sword,
+holding weapon,
+indoors,
+lips,
+looking away,
+mechanical arm,
+medium breasts,
+medium:digital 2d,
+open mouth,
+rating:mature,
+rating:safe,
+robot,
+science fiction,
+series:alita: battle angel,
+series:gunnm,
+shiny,
+shiny clothes,
+shirt,
+short hair,
+signature,
+sleeveless,
+solo,
+sparks,
+species:robot,
+subreddit:imaginarycybernetics,
+subreddit:imaginarycyberpunk,
+subreddit:imtechnology,
+sword,
+title:alita battle angel,
+title:alita by sean "raiko" tay.,
+title:alita by sean tay,
+uploader:panzer-kunst,
+uploader:turbologic,
+weapon,
+銃夢,

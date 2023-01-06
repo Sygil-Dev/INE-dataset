@@ -1,28 +1,28 @@
-1girl
-armor
-arrow (projectile)
-boots
-burning
-candle
-cape
-category:ine
-dual wielding
-embers
-fire
-flame
-flaming sword
-flaming weapon
-gloves
-helmet
-holding
-holding sword
-holding weapon
-rating:safe
-solo
-subreddit:imaginaryarchers
-subreddit:imcharacters
-sword
-title:mabinogi duel_hunter rijet by un title.
-torch
-uploader:turbologic
-weapon
+1girl,
+armor,
+arrow (projectile),
+boots,
+burning,
+candle,
+cape,
+category:ine,
+dual wielding,
+embers,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+gloves,
+helmet,
+holding,
+holding sword,
+holding weapon,
+rating:safe,
+solo,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+sword,
+title:mabinogi duel_hunter rijet by un title.,
+torch,
+uploader:turbologic,
+weapon,

@@ -1,52 +1,52 @@
-1 female
-1girl
-animal
-animal ears
-artist name
-big cat
-black hair
-booru:danbooru
-brown eyes
-brown hair
-cat ears
-category:ine
-cloud
-creator:nakanoart
-creator:nana nakano
-creator:nana_nakano
-ears
-feline
-from side
-fur
-gender:female
-green eyes
-head down
-hikimayu
-holding
-in profile
-kimono
-long hair
-long sleeves
-medium:artist name
-medium:text
-orange eyes
-parted lips
-profile
-rating:safe
-ribbon
-series:original
-side view
-signature
-sky
-smile
-solo
-species:feline
-species:mammal
-species:tiger
-subreddit:imaginarypets
-subreddit:immeta
-title:tangled tiger by nakano art
-title:tangled tiger by nakanoart
-uploader:lol33ta
-uploader:myrandall
-whiskers
+1 female,
+1girl,
+animal,
+animal ears,
+artist name,
+big cat,
+black hair,
+booru:danbooru,
+brown eyes,
+brown hair,
+cat ears,
+category:ine,
+cloud,
+creator:nakanoart,
+creator:nana nakano,
+creator:nana_nakano,
+ears,
+feline,
+from side,
+fur,
+gender:female,
+green eyes,
+head down,
+hikimayu,
+holding,
+in profile,
+kimono,
+long hair,
+long sleeves,
+medium:artist name,
+medium:text,
+orange eyes,
+parted lips,
+profile,
+rating:safe,
+ribbon,
+series:original,
+side view,
+signature,
+sky,
+smile,
+solo,
+species:feline,
+species:mammal,
+species:tiger,
+subreddit:imaginarypets,
+subreddit:immeta,
+title:tangled tiger by nakano art,
+title:tangled tiger by nakanoart,
+uploader:lol33ta,
+uploader:myrandall,
+whiskers,

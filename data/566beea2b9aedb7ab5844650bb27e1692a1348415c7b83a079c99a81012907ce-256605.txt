@@ -1,43 +1,43 @@
-ancient
-caravan
-category:ine
-city
-civilization
-colony
-creator:joakim ericsson
-desert
-destruction
-droids
-escape
-evacuation
-event
-exodus
-expedition
-explorer
-fire
-flee
-frontier
-future
-genre:science fiction
-horror
-isolation
-jungle
-medium:digital 2d
-nomads
-off world
-pyramid
-refugee
-ship
-soldier
-storm
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-sun
-temple
-title:exodus
-title:exodus by joakim ericsson
-uploader:owntheknight
-vehicle
-war
-watercraft
-world
+ancient,
+caravan,
+category:ine,
+city,
+civilization,
+colony,
+creator:joakim ericsson,
+desert,
+destruction,
+droids,
+escape,
+evacuation,
+event,
+exodus,
+expedition,
+explorer,
+fire,
+flee,
+frontier,
+future,
+genre:science fiction,
+horror,
+isolation,
+jungle,
+medium:digital 2d,
+nomads,
+off world,
+pyramid,
+refugee,
+ship,
+soldier,
+storm,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+sun,
+temple,
+title:exodus,
+title:exodus by joakim ericsson,
+uploader:owntheknight,
+vehicle,
+war,
+watercraft,
+world,

@@ -1,18 +1,18 @@
-alien
-category:ine
-creator:dirk veldhuizen
-fire
-landscape
-medium:digital 2d
-planet
-red
-science fiction
-space ship
-star
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-sun
-title:expedition
-title:expedition by dirk veldhuizen [oc]
-uploader:digital_caffeine
-world
+alien,
+category:ine,
+creator:dirk veldhuizen,
+fire,
+landscape,
+medium:digital 2d,
+planet,
+red,
+science fiction,
+space ship,
+star,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+sun,
+title:expedition,
+title:expedition by dirk veldhuizen [oc],
+uploader:digital_caffeine,
+world,

@@ -1,72 +1,72 @@
-16:9
-2019
-artist:discordthege
-avian
-beak
-black beak
-black_beak
-category:ine
-closed eyes
-copyright:european_mythology
-copyright:greek_mythology
-copyright:mythology
-creator:discordthege
-day
-detailed background
-detailed_background
-digital media (artwork)
-discordthege
-eyes closed
-eyes_closed
-feathered wings
-feathered_wings
-feathers
-grass
-hi res
-hippogryph
-keyboard instrument
-keyboard_instrument
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:16:9
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:widescreen
-musical instrument
-musical_instrument
-open mouth
-open_mouth
-orange body
-orange feathers
-orange_body
-orange_feathers
-outside
-piano
-plant
-rating:safe
-red body
-red feathers
-red_body
-red_feathers
-series:european mythology
-series:greek mythology
-series:mythology
-smile
-solo
-species:avian
-species:hippogriff
-species:hippogryph
-species:mythical
-species:mythological avian
-species:mythological_avian
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"improvisation" by rodion bochenin (discordthege)
-title:improvisation
-uploader:torvusil
-wings
+16:9,
+2019,
+artist:discordthege,
+avian,
+beak,
+black beak,
+black_beak,
+category:ine,
+closed eyes,
+copyright:european_mythology,
+copyright:greek_mythology,
+copyright:mythology,
+creator:discordthege,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+discordthege,
+eyes closed,
+eyes_closed,
+feathered wings,
+feathered_wings,
+feathers,
+grass,
+hi res,
+hippogryph,
+keyboard instrument,
+keyboard_instrument,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:16:9,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+musical instrument,
+musical_instrument,
+open mouth,
+open_mouth,
+orange body,
+orange feathers,
+orange_body,
+orange_feathers,
+outside,
+piano,
+plant,
+rating:safe,
+red body,
+red feathers,
+red_body,
+red_feathers,
+series:european mythology,
+series:greek mythology,
+series:mythology,
+smile,
+solo,
+species:avian,
+species:hippogriff,
+species:hippogryph,
+species:mythical,
+species:mythological avian,
+species:mythological_avian,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"improvisation" by rodion bochenin (discordthege),
+title:improvisation,
+uploader:torvusil,
+wings,

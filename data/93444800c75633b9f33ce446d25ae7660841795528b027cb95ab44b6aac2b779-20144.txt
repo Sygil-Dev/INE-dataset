@@ -1,24 +1,24 @@
-blonde hair
-butterflies
-butterfly
-category:ine
-creator:anna steinbauer
-elf
-fantasy art
-fantasy girl
-forest
-medium:digital 2d
-mtg
-mtgo
-series:fairy tail
-subreddit:imaginaryelves
-subreddit:imaginaryspirits
-subreddit:immonsters
-subreddit:imraces
-title:elvish spirit guide by anna steinbauer
-title:mtg elvish spirit guide by anna steinbauer
-uploader:blood-n-cheese
-uploader:dievah
-uploader:lol33ta
-website:reddit
-white
+blonde hair,
+butterflies,
+butterfly,
+category:ine,
+creator:anna steinbauer,
+elf,
+fantasy art,
+fantasy girl,
+forest,
+medium:digital 2d,
+mtg,
+mtgo,
+series:fairy tail,
+subreddit:imaginaryelves,
+subreddit:imaginaryspirits,
+subreddit:immonsters,
+subreddit:imraces,
+title:elvish spirit guide by anna steinbauer,
+title:mtg elvish spirit guide by anna steinbauer,
+uploader:blood-n-cheese,
+uploader:dievah,
+uploader:lol33ta,
+website:reddit,
+white,

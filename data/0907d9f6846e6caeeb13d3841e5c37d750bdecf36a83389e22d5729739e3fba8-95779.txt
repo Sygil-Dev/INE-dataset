@@ -1,65 +1,65 @@
-1girl
-art
-artist name
-backlighting
-backlit
-booru:e621
-category:ine
-creator:james zapata
-female
-flags
-gender:female
-landscape
-light
-lighting
-melee weapon
-meta:lighting
-meta:official art
-monster
-monster girl (genre)
-outdoors
-outside
-particles
-profile
-rating:safe
-rocky shore
-sea
-sea spray
-seaside
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-side view
-silhouette
-sky
-solo
-species:centaur
-species:equid
-species:equid taur
-species:equine
-species:equine taur
-species:humanoid
-species:humanoid taur
-species:mammal
-species:mammal taur
-species:taur
-standing
-step pose
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarycentaurs
-subreddit:imraces
-sunset
-sword
-tag source:e621
-title:lagonna-band trailblazer by james zapata
-twitter username
-uploader:lol33ta
-uploader:tamander
-water
-watermark
-wave
-weapon
-web address
+1girl,
+art,
+artist name,
+backlighting,
+backlit,
+booru:e621,
+category:ine,
+creator:james zapata,
+female,
+flags,
+gender:female,
+landscape,
+light,
+lighting,
+melee weapon,
+meta:lighting,
+meta:official art,
+monster,
+monster girl (genre),
+outdoors,
+outside,
+particles,
+profile,
+rating:safe,
+rocky shore,
+sea,
+sea spray,
+seaside,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+side view,
+silhouette,
+sky,
+solo,
+species:centaur,
+species:equid,
+species:equid taur,
+species:equine,
+species:equine taur,
+species:humanoid,
+species:humanoid taur,
+species:mammal,
+species:mammal taur,
+species:taur,
+standing,
+step pose,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarycentaurs,
+subreddit:imraces,
+sunset,
+sword,
+tag source:e621,
+title:lagonna-band trailblazer by james zapata,
+twitter username,
+uploader:lol33ta,
+uploader:tamander,
+water,
+watermark,
+wave,
+weapon,
+web address,

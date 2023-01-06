@@ -1,90 +1,90 @@
-2017
-abs
-angry
-anthro
-anthropomorphism
-artist:manzanedo
-barefoot
-biceps
-big muscles
-biped
-bodypart:abs
-bodypart:ears
-bodypart:glowing eyes
-bodypart:muscles
-bodypart:red eyes
-bodypart:teeth
-bodypart:tongue
-category:ine
-claws
-creator:manzanedo
-digitigrade
-ears
-emotion:anger
-fangs
-feet
-full moon
-gender:male
-glowing
-glowing eyes
-guro
-humanoid pointy ears
-humanoid_pointy_ears
-male
-male:1
-mammal
-manzanedo
-medium:1:1 aspect ratio
-medium:simple background
-meta:1:1
-meta:2017
-meta:nsfw
-monster
-moon
-muscles
-muscular
-muscular anthro
-muscular male
-naturally censored
-naturally_censored
-no pupils
-nude
-outside
-pecs
-pointy ears
-rating:explicit
-rating:mature
-rating:safe
-red eyes
-rock
-sharp claws
-sharp teeth
-side view
-simple background
-solo
-source:e621
-species:canid
-species:canine
-species:canis
-species:humanoid
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-stone
-subreddit:imaginarywerewolves
-subreddit:immonsters
-teeth
-title:lycanthropus
-title:lycanthropus by antonio josé manzanedo
-tongue
-tongue out
-triceps
-uploader:nitemyria
-vein
-website:e621
-were
-year:2017
+2017,
+abs,
+angry,
+anthro,
+anthropomorphism,
+artist:manzanedo,
+barefoot,
+biceps,
+big muscles,
+biped,
+bodypart:abs,
+bodypart:ears,
+bodypart:glowing eyes,
+bodypart:muscles,
+bodypart:red eyes,
+bodypart:teeth,
+bodypart:tongue,
+category:ine,
+claws,
+creator:manzanedo,
+digitigrade,
+ears,
+emotion:anger,
+fangs,
+feet,
+full moon,
+gender:male,
+glowing,
+glowing eyes,
+guro,
+humanoid pointy ears,
+humanoid_pointy_ears,
+male,
+male:1,
+mammal,
+manzanedo,
+medium:1:1 aspect ratio,
+medium:simple background,
+meta:1:1,
+meta:2017,
+meta:nsfw,
+monster,
+moon,
+muscles,
+muscular,
+muscular anthro,
+muscular male,
+naturally censored,
+naturally_censored,
+no pupils,
+nude,
+outside,
+pecs,
+pointy ears,
+rating:explicit,
+rating:mature,
+rating:safe,
+red eyes,
+rock,
+sharp claws,
+sharp teeth,
+side view,
+simple background,
+solo,
+source:e621,
+species:canid,
+species:canine,
+species:canis,
+species:humanoid,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+stone,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+teeth,
+title:lycanthropus,
+title:lycanthropus by antonio josé manzanedo,
+tongue,
+tongue out,
+triceps,
+uploader:nitemyria,
+vein,
+website:e621,
+were,
+year:2017,

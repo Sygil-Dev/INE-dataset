@@ -1,32 +1,32 @@
-1863
-art
-category:ine
-concept art
-creator:jakub rozalski
-dark atmoshere
-digital painting
-fantasy
-genre:fantasy
-illustration
-medium:concept art
-monster
-scary
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:werewolf
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-subreddit:immonsters
-title:'hunt or be hunted' by jakub rozalski
-title:'hunt or be hunted' by jakub rozalski [x-post from /r/imaginarywerewolves]
-title:hunt or be hunted
-title:hunt or be hunted by jakub rozalski
-uploader:chroneeze
-uploader:m1dn1ght5un
-werewolf
-winter
-wolfpack
+1863,
+art,
+category:ine,
+concept art,
+creator:jakub rozalski,
+dark atmoshere,
+digital painting,
+fantasy,
+genre:fantasy,
+illustration,
+medium:concept art,
+monster,
+scary,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:werewolf,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+subreddit:immonsters,
+title:'hunt or be hunted' by jakub rozalski,
+title:'hunt or be hunted' by jakub rozalski [x-post from /r/imaginarywerewolves],
+title:hunt or be hunted,
+title:hunt or be hunted by jakub rozalski,
+uploader:chroneeze,
+uploader:m1dn1ght5un,
+werewolf,
+winter,
+wolfpack,

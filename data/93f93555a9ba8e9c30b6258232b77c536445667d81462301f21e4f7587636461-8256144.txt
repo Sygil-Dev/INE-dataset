@@ -1,45 +1,45 @@
-ambiguous gender
-booru:e621
-category:ine
-character:mistmane (mlp)
-claws
-creator:imalou
-detailed background
-female
-fire
-furry
-gender:ambiguous
-gender:female
-genre:fantasy
-group
-horn
-horns
-medium:detailed background
-medium:high resolution
-meta:hi res
-open mouth
-rating:safe
-scales
-series:asian mythology
-series:east asian mythology
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:mythology
-species:dragon
-species:eastern dragon
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:scalie
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-teeth
-title:"battle for beauty" by léa dabssi (imalou)
-title:battle for beauty
-tongue
-uploader:torvusil
+ambiguous gender,
+booru:e621,
+category:ine,
+character:mistmane (mlp),
+claws,
+creator:imalou,
+detailed background,
+female,
+fire,
+furry,
+gender:ambiguous,
+gender:female,
+genre:fantasy,
+group,
+horn,
+horns,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+open mouth,
+rating:safe,
+scales,
+series:asian mythology,
+series:east asian mythology,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:mythology,
+species:dragon,
+species:eastern dragon,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:scalie,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+teeth,
+title:"battle for beauty" by léa dabssi (imalou),
+title:battle for beauty,
+tongue,
+uploader:torvusil,

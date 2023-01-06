@@ -1,22 +1,22 @@
-artwork
-axe
-battle axe
-blue eyes
-category:ine
-character:death knight
-ears
-elven
-gender:female
-long hair
-medium:digital media
-pointy ears
-portrait display
-series:warcraft
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-title:luminissel by todor hristov
-uploader:lol33ta
-video games
-weapon
-white hair
+artwork,
+axe,
+battle axe,
+blue eyes,
+category:ine,
+character:death knight,
+ears,
+elven,
+gender:female,
+long hair,
+medium:digital media,
+pointy ears,
+portrait display,
+series:warcraft,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+title:luminissel by todor hristov,
+uploader:lol33ta,
+video games,
+weapon,
+white hair,

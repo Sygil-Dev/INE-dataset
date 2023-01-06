@@ -1,24 +1,24 @@
-1boy
-artist name
-belt
-brown belt
-brown pants
-category:ine
-dagger
-hat
-holding
-holding dagger
-knife
-male focus
-rating:safe
-solo
-subreddit:imaginaryassassins
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-sword
-title:cutthroat - gwent by karol bem
-title:cutthroat by karol bem
-uploader:knighterrannt
-uploader:lol33ta
-weapon
+1boy,
+artist name,
+belt,
+brown belt,
+brown pants,
+category:ine,
+dagger,
+hat,
+holding,
+holding dagger,
+knife,
+male focus,
+rating:safe,
+solo,
+subreddit:imaginaryassassins,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sword,
+title:cutthroat - gwent by karol bem,
+title:cutthroat by karol bem,
+uploader:knighterrannt,
+uploader:lol33ta,
+weapon,

@@ -1,48 +1,48 @@
-1 female
-1:1 aspect ratio
-1girl
-autumn
-autumn leaves
-bare shoulders
-booru:sankaku channel
-breeze
-category:ine
-chromatic aberration
-creator:wenqing yan
-creator:yuumei
-curly hair
-eyelashes
-from side
-garrison cap
-gender:female
-green eyes
-hands
-in profile
-leaf
-lips
-long hair
-looking up
-medium:1:1 aspect ratio
-medium:chromatic aberration
-medium:watermark
-medium:web address
-meta:commentary request
-meta:photoshop (medium)
-portrait
-rating:mature
-rating:safe
-red hair
-redhead
-series:original
-shadow
-short hair
-solo
-subreddit:imaginaryautumnscapes
-subreddit:imlandscapes
-sunlight
-title:autum breeze by wenqing yan
-title:autumn breeze
-uploader:nt337
-watermark
-web address
-yuumei
+1 female,
+1:1 aspect ratio,
+1girl,
+autumn,
+autumn leaves,
+bare shoulders,
+booru:sankaku channel,
+breeze,
+category:ine,
+chromatic aberration,
+creator:wenqing yan,
+creator:yuumei,
+curly hair,
+eyelashes,
+from side,
+garrison cap,
+gender:female,
+green eyes,
+hands,
+in profile,
+leaf,
+lips,
+long hair,
+looking up,
+medium:1:1 aspect ratio,
+medium:chromatic aberration,
+medium:watermark,
+medium:web address,
+meta:commentary request,
+meta:photoshop (medium),
+portrait,
+rating:mature,
+rating:safe,
+red hair,
+redhead,
+series:original,
+shadow,
+short hair,
+solo,
+subreddit:imaginaryautumnscapes,
+subreddit:imlandscapes,
+sunlight,
+title:autum breeze by wenqing yan,
+title:autumn breeze,
+uploader:nt337,
+watermark,
+web address,
+yuumei,

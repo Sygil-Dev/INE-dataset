@@ -1,22 +1,22 @@
-art
-category:ine
-cold
-creator:tiago alexandre
-digitalart
-digitalpainting
-granger
-harry
-hermione
-hogwarts
-illustration
-magic
-medium:digital 2d
-photoshop
-potter
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-talexior
-title:the brightest witch
-title:the brightest witch by tiago alexandre
-uploader:talexior
-witch
+art,
+category:ine,
+cold,
+creator:tiago alexandre,
+digitalart,
+digitalpainting,
+granger,
+harry,
+hermione,
+hogwarts,
+illustration,
+magic,
+medium:digital 2d,
+photoshop,
+potter,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+talexior,
+title:the brightest witch,
+title:the brightest witch by tiago alexandre,
+uploader:talexior,
+witch,

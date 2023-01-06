@@ -1,36 +1,36 @@
-ambiguous gender
-blue eyes
-booru:e621
-card
-category:ine
-character:harbinger (mass effect)
-character:saren arterius
-creator:alteya
-cybernetics
-gender:ambiguous
-gender:male
-glowing
-glowing eyes
-group
-machine
-male
-medium:high resolution
-meta:hi res
-minor arcana
-rating:safe
-series:mass effect
-seven of wands (tarot)
-solo focus
-species:alien
-species:cyborg
-species:geth
-species:reaper (mass effect)
-species:robot
-species:turian
-subreddit:imaginarymasseffect
-subreddit:imfandoms
-tarot card
-title:me: saren
-title:me: saren by alteya
-uploader:valar_m0rghul1s
-video games
+ambiguous gender,
+blue eyes,
+booru:e621,
+card,
+category:ine,
+character:harbinger (mass effect),
+character:saren arterius,
+creator:alteya,
+cybernetics,
+gender:ambiguous,
+gender:male,
+glowing,
+glowing eyes,
+group,
+machine,
+male,
+medium:high resolution,
+meta:hi res,
+minor arcana,
+rating:safe,
+series:mass effect,
+seven of wands (tarot),
+solo focus,
+species:alien,
+species:cyborg,
+species:geth,
+species:reaper (mass effect),
+species:robot,
+species:turian,
+subreddit:imaginarymasseffect,
+subreddit:imfandoms,
+tarot card,
+title:me: saren,
+title:me: saren by alteya,
+uploader:valar_m0rghul1s,
+video games,

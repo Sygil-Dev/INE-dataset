@@ -1,67 +1,67 @@
-aerial battle
-art
-artist:johnson ting
-battle
-black gloves
-broken glass
-category:ine
-character:tie fighter
-clothing:gloves
-cockpit
-controller
-copyright:star citizen
-copyright:star wars
-copyright:tie fighter (video game)
-cracked glass
-creator:johnson ting
-crossover
-dogfight
-explosion
-fake screenshot
-gameplay mechanics
-genre:science fiction
-glass
-gloves
-holographic monitor
-horizon
-johnsonting
-joystick
-lasers
-leather
-leather gloves
-medium:digital 2d
-medium:high resolution
-meta:commentary
-meta:crossover
-meta:english commentary
-meta:highres
-meta:official art
-pilot suit
-planet
-point of view
-pov
-production art
-prototype
-rating:mature
-rating:s
-rating:safe
-realistic
-science fiction
-series:original
-series:star citizen
-series:star wars
-series:tie fighter (video game)
-space
-space craft
-spacecraft interior
-spaceship
-starfighter
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-thrusters
-tie fighter (video game)
-title:interstellar dog fight
-title:interstellar dog fight by johnson ting
-uploader:valar_m0rghul1s
-video game
-video games
+aerial battle,
+art,
+artist:johnson ting,
+battle,
+black gloves,
+broken glass,
+category:ine,
+character:tie fighter,
+clothing:gloves,
+cockpit,
+controller,
+copyright:star citizen,
+copyright:star wars,
+copyright:tie fighter (video game),
+cracked glass,
+creator:johnson ting,
+crossover,
+dogfight,
+explosion,
+fake screenshot,
+gameplay mechanics,
+genre:science fiction,
+glass,
+gloves,
+holographic monitor,
+horizon,
+johnsonting,
+joystick,
+lasers,
+leather,
+leather gloves,
+medium:digital 2d,
+medium:high resolution,
+meta:commentary,
+meta:crossover,
+meta:english commentary,
+meta:highres,
+meta:official art,
+pilot suit,
+planet,
+point of view,
+pov,
+production art,
+prototype,
+rating:mature,
+rating:s,
+rating:safe,
+realistic,
+science fiction,
+series:original,
+series:star citizen,
+series:star wars,
+series:tie fighter (video game),
+space,
+space craft,
+spacecraft interior,
+spaceship,
+starfighter,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+thrusters,
+tie fighter (video game),
+title:interstellar dog fight,
+title:interstellar dog fight by johnson ting,
+uploader:valar_m0rghul1s,
+video game,
+video games,

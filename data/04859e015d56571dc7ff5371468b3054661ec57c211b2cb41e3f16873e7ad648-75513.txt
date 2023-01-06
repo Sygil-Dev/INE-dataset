@@ -1,31 +1,31 @@
-armor
-artist name
-bird
-category:ine
-cloud
-cloudy sky
-creator:jason kang
-flock
-grey sky
-holding
-holding staff
-holding weapon
-light rays
-lightning
-mountain
-outdoors
-polearm
-rating:safe
-sky
-spear
-staff
-standing
-subreddit:imaginaryvikings
-subreddit:imcharacters
-sun
-sunlight
-sunrise
-title:rune: ragnarok
-title:rune: ragnarok by jason kang
-uploader:lexxx20
-weapon
+armor,
+artist name,
+bird,
+category:ine,
+cloud,
+cloudy sky,
+creator:jason kang,
+flock,
+grey sky,
+holding,
+holding staff,
+holding weapon,
+light rays,
+lightning,
+mountain,
+outdoors,
+polearm,
+rating:safe,
+sky,
+spear,
+staff,
+standing,
+subreddit:imaginaryvikings,
+subreddit:imcharacters,
+sun,
+sunlight,
+sunrise,
+title:rune: ragnarok,
+title:rune: ragnarok by jason kang,
+uploader:lexxx20,
+weapon,

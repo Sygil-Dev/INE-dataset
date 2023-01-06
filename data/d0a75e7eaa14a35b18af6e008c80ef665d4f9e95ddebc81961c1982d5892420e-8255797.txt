@@ -1,20 +1,20 @@
-arm
-border break
-category:ine
-creator:liz kirby
-exploded
-hand
-industrial design
-keyshot
-maya
-mecha
-medium:digital 3d
-photoshop
-robot
-science fiction
-subreddit:imaginarymechs
-subreddit:imtechnology
-title:blast runner
-title:blast runner by liz kirby
-uploader:[deleted]
-zbrush
+arm,
+border break,
+category:ine,
+creator:liz kirby,
+exploded,
+hand,
+industrial design,
+keyshot,
+maya,
+mecha,
+medium:digital 3d,
+photoshop,
+robot,
+science fiction,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+title:blast runner,
+title:blast runner by liz kirby,
+uploader:[deleted],
+zbrush,

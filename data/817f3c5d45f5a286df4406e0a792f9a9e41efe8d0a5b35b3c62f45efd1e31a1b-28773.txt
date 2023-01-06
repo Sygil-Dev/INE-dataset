@@ -1,62 +1,62 @@
-2016
-age difference
-beady eyes
-black eyes
-bodypart:black eyes
-bodypart:loli body type
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-crown
-feral
-filename:dp1320_s
-fur
-gender:ambiguous
-gender:female
-gender:male
-grey fur
-group
-island
-loli body type
-male
-medium:patreon reward
-medium:simple background
-meme:humor
-meta:paid reward
-meta:patreon reward
-meta:white background
-palm tree
-parent and child
-parody
-pun
-rating:safe
-rock
-sea
-series:disney
-series:the lion king
-simple background
-site:patreon
-site:yiff.party
-size difference
-sky
-species:arthropod
-species:crab
-species:crustacean
-species:mammal
-species:marine
-species:pinniped
-species:sea lion
-studio:disney
-subreddit:imaginarydisney
-subreddit:imfandoms
-sun
-tan fur
-title:daily 1320. sea-lion king
-title:daily 1320. sea-lion king by piper thibodeau
-tree
-uploader:hvitserkr
-visual pun
-water
-whiskers
-year:2016
-yiff id:457132
+2016,
+age difference,
+beady eyes,
+black eyes,
+bodypart:black eyes,
+bodypart:loli body type,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+crown,
+feral,
+filename:dp1320_s,
+fur,
+gender:ambiguous,
+gender:female,
+gender:male,
+grey fur,
+group,
+island,
+loli body type,
+male,
+medium:patreon reward,
+medium:simple background,
+meme:humor,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+palm tree,
+parent and child,
+parody,
+pun,
+rating:safe,
+rock,
+sea,
+series:disney,
+series:the lion king,
+simple background,
+site:patreon,
+site:yiff.party,
+size difference,
+sky,
+species:arthropod,
+species:crab,
+species:crustacean,
+species:mammal,
+species:marine,
+species:pinniped,
+species:sea lion,
+studio:disney,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+sun,
+tan fur,
+title:daily 1320. sea-lion king,
+title:daily 1320. sea-lion king by piper thibodeau,
+tree,
+uploader:hvitserkr,
+visual pun,
+water,
+whiskers,
+year:2016,
+yiff id:457132,

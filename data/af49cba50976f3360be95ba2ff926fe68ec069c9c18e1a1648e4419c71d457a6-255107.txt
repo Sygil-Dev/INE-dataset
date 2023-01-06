@@ -1,43 +1,43 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-bodypart:black eyes
-category:ine
-creator:cryptid-creations
-eating
-feral
-fur
-gender:ambiguous
-glowing
-grass
-grey body
-grey fur
-grey_body
-grey_fur
-group
-humor
-meme:humor
-meta:2019
-meta:url
-night
-plant
-pun
-rating:safe
-sky
-species:bovid
-species:caprine
-species:mammal
-species:sheep
-star
-subreddit:imaginaryanimals
-subreddit:imnature
-text
-title:"stargrazing" by piper thibodeau
-title:daily paint 2281. stargrazing
-uploader:torvusil
-white body
-white fur
-white_body
-white_fur
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+category:ine,
+creator:cryptid-creations,
+eating,
+feral,
+fur,
+gender:ambiguous,
+glowing,
+grass,
+grey body,
+grey fur,
+grey_body,
+grey_fur,
+group,
+humor,
+meme:humor,
+meta:2019,
+meta:url,
+night,
+plant,
+pun,
+rating:safe,
+sky,
+species:bovid,
+species:caprine,
+species:mammal,
+species:sheep,
+star,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+text,
+title:"stargrazing" by piper thibodeau,
+title:daily paint 2281. stargrazing,
+uploader:torvusil,
+white body,
+white fur,
+white_body,
+white_fur,

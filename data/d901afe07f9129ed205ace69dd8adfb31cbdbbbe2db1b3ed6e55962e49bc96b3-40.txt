@@ -1,43 +1,43 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist:skaydie
-black bars
-black_bars
-category:ine
-character:dawn (disambiguation)
-character:dawn_(disambiguation)
-claws
-cloud
-creator:skaydie
-detailed background
-detailed_background
-feathered wings
-feathered_wings
-feathers
-feral
-flying
-furry
-gender:ambiguous
-hi res
-medium:detailed background
-medium:high resolution
-meta:2018
-meta:hi res
-meta:hi_res
-night
-outside
-rating:safe
-sky
-solo
-species:dragon
-species:feathered dragon
-species:feathered_dragon
-species:mythical
-species:scalie
-subreddit:imaginarydragons
-subreddit:immonsters
-title:"northern skies" by skaydie
-title:northern skies
-uploader:torvusil
-wings
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:skaydie,
+black bars,
+black_bars,
+category:ine,
+character:dawn (disambiguation),
+character:dawn_(disambiguation),
+claws,
+cloud,
+creator:skaydie,
+detailed background,
+detailed_background,
+feathered wings,
+feathered_wings,
+feathers,
+feral,
+flying,
+furry,
+gender:ambiguous,
+hi res,
+medium:detailed background,
+medium:high resolution,
+meta:2018,
+meta:hi res,
+meta:hi_res,
+night,
+outside,
+rating:safe,
+sky,
+solo,
+species:dragon,
+species:feathered dragon,
+species:feathered_dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:"northern skies" by skaydie,
+title:northern skies,
+uploader:torvusil,
+wings,

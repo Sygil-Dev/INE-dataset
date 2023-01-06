@@ -1,39 +1,39 @@
-booru:sankaku channel
-category:ine
-character:daenerys targaryen
-clothing:dress
-creator:prywinko
-cute
-daenerys
-daenerys targaryen
-daenerystargaryen
-dress
-fanart from deviantart
-female
-fire
-game of thrones
-gameofthrones
-gender:female
-girl
-gumroad
-hbo
-long hair
-medium:fanart from deviantart
-medium:realistic
-open mouth
-patreon
-prywinko
-rating:safe
-realistic
-series:a song of ice and fire
-series:game of thrones
-sexy
-site:deviantart
-solo
-subreddit:imaginarywesteros
-subreddit:imfandoms
-support
-title:daenerys
-title:daenerys by olga narhova
-uploader:l-ya
-whitehair
+booru:sankaku channel,
+category:ine,
+character:daenerys targaryen,
+clothing:dress,
+creator:prywinko,
+cute,
+daenerys,
+daenerys targaryen,
+daenerystargaryen,
+dress,
+fanart from deviantart,
+female,
+fire,
+game of thrones,
+gameofthrones,
+gender:female,
+girl,
+gumroad,
+hbo,
+long hair,
+medium:fanart from deviantart,
+medium:realistic,
+open mouth,
+patreon,
+prywinko,
+rating:safe,
+realistic,
+series:a song of ice and fire,
+series:game of thrones,
+sexy,
+site:deviantart,
+solo,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+support,
+title:daenerys,
+title:daenerys by olga narhova,
+uploader:l-ya,
+whitehair,

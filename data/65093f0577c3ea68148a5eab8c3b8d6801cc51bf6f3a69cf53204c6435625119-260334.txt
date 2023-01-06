@@ -1,49 +1,49 @@
-ambiguous_gender
-artist:cryptid-creations
-beady_eyes
-brown_eyes
-canid
-canine
-category:ine
-character:fennel
-creator:cryptid-creations
-fangs
-fennec
-fennel_(plant)
-flora fauna
-food
-food creature
-fox
-garden
-humor
-mammal
-meta:english_text
-meta:translated
-meta:url
-open_mouth
-plant
-plant_box
-pun
-rating:safe
-simple_background
-solo
-species:canid
-species:canine
-species:elemental_creature
-species:fennec
-species:flora fauna
-species:flora_fauna
-species:food creature
-species:food_creature
-species:fox
-species:mammal
-subreddit:imaginaryaww
-subreddit:immeta
-teeth
-text
-title:daily paint 1990# fennel fox
-title:fennel fox by piper thibodeau
-uploader:myrandall
-visual_pun
-whiskers
-white_background
+ambiguous_gender,
+artist:cryptid-creations,
+beady_eyes,
+brown_eyes,
+canid,
+canine,
+category:ine,
+character:fennel,
+creator:cryptid-creations,
+fangs,
+fennec,
+fennel_(plant),
+flora fauna,
+food,
+food creature,
+fox,
+garden,
+humor,
+mammal,
+meta:english_text,
+meta:translated,
+meta:url,
+open_mouth,
+plant,
+plant_box,
+pun,
+rating:safe,
+simple_background,
+solo,
+species:canid,
+species:canine,
+species:elemental_creature,
+species:fennec,
+species:flora fauna,
+species:flora_fauna,
+species:food creature,
+species:food_creature,
+species:fox,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:immeta,
+teeth,
+text,
+title:daily paint 1990# fennel fox,
+title:fennel fox by piper thibodeau,
+uploader:myrandall,
+visual_pun,
+whiskers,
+white_background,

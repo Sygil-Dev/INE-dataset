@@ -1,65 +1,65 @@
-amazing background
-armor
-booru:e621
-breasts
-brown hair
-category:ine
-claws
-clothed
-clothing
-clothing:armor
-clothing:hat
-clothing:headwear
-creator:sandara
-detailed background
-female
-firearm
-fur
-furry
-gender:female
-green body
-green fur
-green scales
-gun
-hair
-hat
-headgear
-headwear
-holding gun
-holding object
-holding weapon
-lxalan
-medium:amazing background
-medium:detailed background
-open mouth
-partially submerged
-pirate
-pyramid
-ranged weapon
-rating:safe
-scales
-species:dinosaur
-species:extinct
-species:human
-species:mammal
-species:primate
-species:reptile
-species:scalie
-species:theropod
-species:tyrannosaurid
-species:tyrannosaurus
-species:tyrannosaurus rex
-standing
-subreddit:imaginarydinosaurs
-subreddit:imaginarypirates
-subreddit:imcharacters
-subreddit:immonsters
-teeth
-title:dino and pirate
-title:dino and pirate by "sandara"
-tongue
-trex
-uploader:king_of_the_kobolds
-water
-weapon
-yellow eyes
+amazing background,
+armor,
+booru:e621,
+breasts,
+brown hair,
+category:ine,
+claws,
+clothed,
+clothing,
+clothing:armor,
+clothing:hat,
+clothing:headwear,
+creator:sandara,
+detailed background,
+female,
+firearm,
+fur,
+furry,
+gender:female,
+green body,
+green fur,
+green scales,
+gun,
+hair,
+hat,
+headgear,
+headwear,
+holding gun,
+holding object,
+holding weapon,
+lxalan,
+medium:amazing background,
+medium:detailed background,
+open mouth,
+partially submerged,
+pirate,
+pyramid,
+ranged weapon,
+rating:safe,
+scales,
+species:dinosaur,
+species:extinct,
+species:human,
+species:mammal,
+species:primate,
+species:reptile,
+species:scalie,
+species:theropod,
+species:tyrannosaurid,
+species:tyrannosaurus,
+species:tyrannosaurus rex,
+standing,
+subreddit:imaginarydinosaurs,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+subreddit:immonsters,
+teeth,
+title:dino and pirate,
+title:dino and pirate by "sandara",
+tongue,
+trex,
+uploader:king_of_the_kobolds,
+water,
+weapon,
+yellow eyes,

@@ -1,69 +1,69 @@
-2017
-action:closing eyes
-action:open mouth
-ambiguous_gender
-angry
-artist:cryptid-creations
-blue eyes
-blue_eyes
-bodily fluids
-bodily_fluids
-bodypart:blue eyes
-bodypart:horns
-bodypart:teeth
-bodypart:wings
-category:ine
-claws
-cloud
-creator:cryptid-creations
-drooling
-emotion:anger
-eyes closed
-eyes_closed
-feral
-fire hydrant
-fire_hydrant
-furry
-gender:ambiguous
-horn
-hydrant
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2017
-meta:english text
-meta:english_text
-meta:tagme
-meta:url
-open mouth
-open_mouth
-outside
-rating:safe
-red body
-red scales
-red_body
-red_scales
-saliva
-scales
-sky
-solo focus
-solo_focus
-species:avian
-species:bird
-species:dragon
-species:hydra
-species:mythical
-species:scalie
-subreddit:imaginarywtf
-subreddit:imnsfw
-tan body
-tan scales
-tan_body
-tan_scales
-teeth
-text
-title:daily painting 1666# - fire hydra-nt
-title:fire hydra-nt by piper thibodeau
-uploader:myrandall
-wings
+2017,
+action:closing eyes,
+action:open mouth,
+ambiguous_gender,
+angry,
+artist:cryptid-creations,
+blue eyes,
+blue_eyes,
+bodily fluids,
+bodily_fluids,
+bodypart:blue eyes,
+bodypart:horns,
+bodypart:teeth,
+bodypart:wings,
+category:ine,
+claws,
+cloud,
+creator:cryptid-creations,
+drooling,
+emotion:anger,
+eyes closed,
+eyes_closed,
+feral,
+fire hydrant,
+fire_hydrant,
+furry,
+gender:ambiguous,
+horn,
+hydrant,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2017,
+meta:english text,
+meta:english_text,
+meta:tagme,
+meta:url,
+open mouth,
+open_mouth,
+outside,
+rating:safe,
+red body,
+red scales,
+red_body,
+red_scales,
+saliva,
+scales,
+sky,
+solo focus,
+solo_focus,
+species:avian,
+species:bird,
+species:dragon,
+species:hydra,
+species:mythical,
+species:scalie,
+subreddit:imaginarywtf,
+subreddit:imnsfw,
+tan body,
+tan scales,
+tan_body,
+tan_scales,
+teeth,
+text,
+title:daily painting 1666# - fire hydra-nt,
+title:fire hydra-nt by piper thibodeau,
+uploader:myrandall,
+wings,

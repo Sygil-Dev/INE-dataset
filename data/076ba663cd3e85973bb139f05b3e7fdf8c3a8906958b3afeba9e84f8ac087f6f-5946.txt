@@ -1,40 +1,40 @@
-airship
-blue sky
-building
-burning
-category:ine
-city
-city lights
-cityscape
-cloud
-cloudy sky
-crane (machine)
-day
-explosion
-fire
-helicopter
-landscape
-letterboxed
-military vehicle
-mountain
-ocean
-outdoors
-power lines
-rating:safe
-rifle
-river
-scenery
-ship
-sky
-skyscraper
-smoke
-space craft
-subreddit:imaginarysteampunk
-subreddit:imtechnology
-sunset
-title:we, the seekers! by jason yao
-twilight
-uploader:sylvyrfyre
-warship
-water
-watercraft
+airship,
+blue sky,
+building,
+burning,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+crane (machine),
+day,
+explosion,
+fire,
+helicopter,
+landscape,
+letterboxed,
+military vehicle,
+mountain,
+ocean,
+outdoors,
+power lines,
+rating:safe,
+rifle,
+river,
+scenery,
+ship,
+sky,
+skyscraper,
+smoke,
+space craft,
+subreddit:imaginarysteampunk,
+subreddit:imtechnology,
+sunset,
+title:we, the seekers! by jason yao,
+twilight,
+uploader:sylvyrfyre,
+warship,
+water,
+watercraft,

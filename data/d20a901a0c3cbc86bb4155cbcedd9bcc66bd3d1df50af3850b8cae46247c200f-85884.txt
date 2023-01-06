@@ -1,70 +1,70 @@
-2017
-ambiguous_gender
-anthropomorphism
-artist:cryptid-creations
-black eyes
-black_eyes
-board:/k/
-bodypart:black eyes
-cape
-category:ine
-claws
-clothing
-clothing:armor
-clothing:cape
-clothing:tagme
-creator:cryptid-creations
-feathers
-furry
-gender:ambiguous
-gender:male
-grass
-green body
-green feathers
-green_body
-green_feathers
-headgear
-headwear
-helmet
-humor
-knight
-male:1
-melee weapon
-melee_weapon
-meme:humor
-meta:2017
-plant
-pun
-rating:safe
-red body
-red scales
-red_body
-red_scales
-scales
-shield
-solo
-species:dinosaur
-species:extinct
-species:reptile
-species:scalie
-species:theropod
-species:tyrannosaurid
-species:tyrannosaurus
-species:tyrannosaurus rex
-species:tyrannosaurus_rex
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-sword
-teeth
-title:daily paint 1638. paladino
-title:paladino by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-warrior
-weapon
-year:2017
-yellow body
-yellow scales
-yellow_body
-yellow_scales
+2017,
+ambiguous_gender,
+anthropomorphism,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+board:/k/,
+bodypart:black eyes,
+cape,
+category:ine,
+claws,
+clothing,
+clothing:armor,
+clothing:cape,
+clothing:tagme,
+creator:cryptid-creations,
+feathers,
+furry,
+gender:ambiguous,
+gender:male,
+grass,
+green body,
+green feathers,
+green_body,
+green_feathers,
+headgear,
+headwear,
+helmet,
+humor,
+knight,
+male:1,
+melee weapon,
+melee_weapon,
+meme:humor,
+meta:2017,
+plant,
+pun,
+rating:safe,
+red body,
+red scales,
+red_body,
+red_scales,
+scales,
+shield,
+solo,
+species:dinosaur,
+species:extinct,
+species:reptile,
+species:scalie,
+species:theropod,
+species:tyrannosaurid,
+species:tyrannosaurus,
+species:tyrannosaurus rex,
+species:tyrannosaurus_rex,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+sword,
+teeth,
+title:daily paint 1638. paladino,
+title:paladino by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+warrior,
+weapon,
+year:2017,
+yellow body,
+yellow scales,
+yellow_body,
+yellow_scales,

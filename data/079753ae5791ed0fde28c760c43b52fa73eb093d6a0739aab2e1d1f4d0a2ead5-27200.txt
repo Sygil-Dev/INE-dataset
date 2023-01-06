@@ -1,108 +1,108 @@
-1girl
-accessory
-ambiguous gender
-animal
-animal on shoulder
-anime
-art nouveau
-asian clothing
-bangs
-blunt bangs
-booru:e621
-brown eyes
-brown hair
-carrying
-category:ine
-chicken
-child
-chinese
-chinesezodiac
-christmas
-clothed
-clothing
-creator:farel
-creator:weijic
-detailed background
-dog
-duo
-east asian clothing
-female
-feral
-floral print
-flower
-front view
-fully clothed
-fur
-gender:ambiguous
-gender:female
-girl
-hair
-hair accessory
-hair flower
-hair ornament
-happy
-holding animal
-holding character
-hooves
-japan
-japanese
-japanese clothes
-japanese clothing
-japanesegirl
-japanesezodiac
-kid
-kimono
-kimonogirl
-lady
-lamb
-lips
-long hair
-looking at viewer
-manga
-medium:detailed background
-meta:4:5
-newyear
-newyear2015
-obi
-open mouth
-pigtails
-plant
-pov
-rating:safe
-red flower
-red kimono
-sash
-seigaiha
-series:chinese zodiac
-series:year of the goat
-sheep
-shiba inu
-smile
-solo
-species:bovid
-species:caprine
-species:domestic sheep
-species:human
-species:mammal
-species:primate
-species:sheep
-standing
-subreddit:imaginaryfashion
-subreddit:imaginarypets
-subreddit:immeta
-title:seasons greetings 2015, the year of the sheep
-title:seasons greetings 2015, the year of the sheep by weijic/eric chen
-uploader:chalkchick0
-upper body
-weijic
-white body
-white fur
-woman
-wool
-wool (fur)
-year of the goat
-year of the rooster
-yearofthesheep
-yellow eyes
-young
-zodiac
+1girl,
+accessory,
+ambiguous gender,
+animal,
+animal on shoulder,
+anime,
+art nouveau,
+asian clothing,
+bangs,
+blunt bangs,
+booru:e621,
+brown eyes,
+brown hair,
+carrying,
+category:ine,
+chicken,
+child,
+chinese,
+chinesezodiac,
+christmas,
+clothed,
+clothing,
+creator:farel,
+creator:weijic,
+detailed background,
+dog,
+duo,
+east asian clothing,
+female,
+feral,
+floral print,
+flower,
+front view,
+fully clothed,
+fur,
+gender:ambiguous,
+gender:female,
+girl,
+hair,
+hair accessory,
+hair flower,
+hair ornament,
+happy,
+holding animal,
+holding character,
+hooves,
+japan,
+japanese,
+japanese clothes,
+japanese clothing,
+japanesegirl,
+japanesezodiac,
+kid,
+kimono,
+kimonogirl,
+lady,
+lamb,
+lips,
+long hair,
+looking at viewer,
+manga,
+medium:detailed background,
+meta:4:5,
+newyear,
+newyear2015,
+obi,
+open mouth,
+pigtails,
+plant,
+pov,
+rating:safe,
+red flower,
+red kimono,
+sash,
+seigaiha,
+series:chinese zodiac,
+series:year of the goat,
+sheep,
+shiba inu,
+smile,
+solo,
+species:bovid,
+species:caprine,
+species:domestic sheep,
+species:human,
+species:mammal,
+species:primate,
+species:sheep,
+standing,
+subreddit:imaginaryfashion,
+subreddit:imaginarypets,
+subreddit:immeta,
+title:seasons greetings 2015, the year of the sheep,
+title:seasons greetings 2015, the year of the sheep by weijic/eric chen,
+uploader:chalkchick0,
+upper body,
+weijic,
+white body,
+white fur,
+woman,
+wool,
+wool (fur),
+year of the goat,
+year of the rooster,
+yearofthesheep,
+yellow eyes,
+young,
+zodiac,

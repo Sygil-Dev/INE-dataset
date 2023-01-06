@@ -1,24 +1,24 @@
-allegiance
-biomancer
-category:ine
-creator:bram sels
-illustration
-lab
-laboratory
-medium:digital 2d
-mtg
-ravnica
-series:magic: the gathering
-simic
-simic combine
-species:crab
-species:crustacean
-species:elf
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryelves
-subreddit:imraces
-title:growth-chamber guardian
-title:growth-chamber guardian by bram sels
-uploader:lol33ta
-warrior
+allegiance,
+biomancer,
+category:ine,
+creator:bram sels,
+illustration,
+lab,
+laboratory,
+medium:digital 2d,
+mtg,
+ravnica,
+series:magic: the gathering,
+simic,
+simic combine,
+species:crab,
+species:crustacean,
+species:elf,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryelves,
+subreddit:imraces,
+title:growth-chamber guardian,
+title:growth-chamber guardian by bram sels,
+uploader:lol33ta,
+warrior,

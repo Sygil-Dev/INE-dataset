@@ -1,140 +1,140 @@
-1girl
-accessory
-ambiguous_gender
-art
-artist:tsaoshin
-blonde
-blonde hair
-blonde_hair
-booru:e621
-booru:sankaku channel
-building
-carrying
-castle
-category:ine
-character:fletchling
-character:jolteon
-character:pokemon species
-character:rapunzel
-character:rapunzel (tangled)
-clothing
-collab
-collaboration
-colorful
-copyright:disney
-copyright:nintendo
-copyright:pokémon
-copyright:tangled_(disney)
-creator:tsaoshin
-crossover
-cute
-day
-digital
-disney
-dress
-eevee
-eeveelution
-ericproctor
-female
-fletchling
-flower
-flower in hair
-flower_in_hair
-flying-fox
-flyingfox
-freckles
-fur
-game
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-gender:female
-grass
-green eyes
-green_eyes
-hair
-hair flower
-hair ornament
-hair_accessory
-howto
-jolteon
-leaf
-lips
-long hair
-long_hair
-mashup
-medium:artist name
-medium:collaboration
-medium:fanart from deviantart
-medium:high resolution
-medium:text
-meta:2:3
-meta:2017
-meta:artist name
-meta:crossover
-meta:hi_res
-movie
-nature
-nintendo
-outdoors
-outside
-painting
-plant
-poke ball
-pokemon
-poké ball
-pokéball
-princess
-rapunzel
-rating:safe
-river
-rose
-rose (flower)
-series
-series:pokemon
-series:pokemon (game)
-series:pokemon red green blue & yellow
-series:pokemon x & y
-series:pokémon
-series:pokémon red green blue & yellow
-series:pokémon x & y
-series:rapunzel
-series:tangled
-series:tangled (disney)
-site:deviantart
-source:furaffinity.net
-species:avian
-species:eeveelution
-species:fletchling
-species:human
-species:jolteon
-species:mammal
-species:monster
-species:pokémon
-species:pokémon_(species)
-species:primate
-speed
-studio:disney
-studio:nintendo
-subreddit:imaginarydisney
-subreddit:imfandoms
-sunset
-sunsetdragon
-tangled
-timelapse
-title:i see the jolteon
-title:i see the jolteon by eric proctor
-tree
-tsaoshin
-twitch
-uploader:myrandall
-video
-video games
-video_games
-water
-waterfall
-yellow body
-yellow fur
-yellow_body
-yellow_fur
-youtube
+1girl,
+accessory,
+ambiguous_gender,
+art,
+artist:tsaoshin,
+blonde,
+blonde hair,
+blonde_hair,
+booru:e621,
+booru:sankaku channel,
+building,
+carrying,
+castle,
+category:ine,
+character:fletchling,
+character:jolteon,
+character:pokemon species,
+character:rapunzel,
+character:rapunzel (tangled),
+clothing,
+collab,
+collaboration,
+colorful,
+copyright:disney,
+copyright:nintendo,
+copyright:pokémon,
+copyright:tangled_(disney),
+creator:tsaoshin,
+crossover,
+cute,
+day,
+digital,
+disney,
+dress,
+eevee,
+eeveelution,
+ericproctor,
+female,
+fletchling,
+flower,
+flower in hair,
+flower_in_hair,
+flying-fox,
+flyingfox,
+freckles,
+fur,
+game,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+gender:female,
+grass,
+green eyes,
+green_eyes,
+hair,
+hair flower,
+hair ornament,
+hair_accessory,
+howto,
+jolteon,
+leaf,
+lips,
+long hair,
+long_hair,
+mashup,
+medium:artist name,
+medium:collaboration,
+medium:fanart from deviantart,
+medium:high resolution,
+medium:text,
+meta:2:3,
+meta:2017,
+meta:artist name,
+meta:crossover,
+meta:hi_res,
+movie,
+nature,
+nintendo,
+outdoors,
+outside,
+painting,
+plant,
+poke ball,
+pokemon,
+poké ball,
+pokéball,
+princess,
+rapunzel,
+rating:safe,
+river,
+rose,
+rose (flower),
+series,
+series:pokemon,
+series:pokemon (game),
+series:pokemon red green blue & yellow,
+series:pokemon x & y,
+series:pokémon,
+series:pokémon red green blue & yellow,
+series:pokémon x & y,
+series:rapunzel,
+series:tangled,
+series:tangled (disney),
+site:deviantart,
+source:furaffinity.net,
+species:avian,
+species:eeveelution,
+species:fletchling,
+species:human,
+species:jolteon,
+species:mammal,
+species:monster,
+species:pokémon,
+species:pokémon_(species),
+species:primate,
+speed,
+studio:disney,
+studio:nintendo,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+sunset,
+sunsetdragon,
+tangled,
+timelapse,
+title:i see the jolteon,
+title:i see the jolteon by eric proctor,
+tree,
+tsaoshin,
+twitch,
+uploader:myrandall,
+video,
+video games,
+video_games,
+water,
+waterfall,
+yellow body,
+yellow fur,
+yellow_body,
+yellow_fur,
+youtube,

@@ -1,60 +1,60 @@
-2017
-artist:manthos_(artist)
-big muscles
-black body
-black fur
-booru:e621
-canine
-category:ine
-claws
-creator:manthos (artist)
-detail background
-detailed background
-detailed fur
-full moon
-fur
-gender:male
-guro
-male
-mammal
-manthos (artist)
-medium:detailed background
-medium:high resolution
-meta:2017
-meta:detailed
-meta:hi res
-meta:hi_res
-monster
-moon
-muscles
-muscular
-muscular male
-night
-nude
-open mouth
-outside
-rating:explicit
-rating:mature
-rating:safe
-sharp teeth
-sky
-solo
-source:e621
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-teeth
-title:worok - card art by manthos lappas
-uploader:natezomby
-were
-werewolf
-year:2017
+2017,
+artist:manthos_(artist),
+big muscles,
+black body,
+black fur,
+booru:e621,
+canine,
+category:ine,
+claws,
+creator:manthos (artist),
+detail background,
+detailed background,
+detailed fur,
+full moon,
+fur,
+gender:male,
+guro,
+male,
+mammal,
+manthos (artist),
+medium:detailed background,
+medium:high resolution,
+meta:2017,
+meta:detailed,
+meta:hi res,
+meta:hi_res,
+monster,
+moon,
+muscles,
+muscular,
+muscular male,
+night,
+nude,
+open mouth,
+outside,
+rating:explicit,
+rating:mature,
+rating:safe,
+sharp teeth,
+sky,
+solo,
+source:e621,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+teeth,
+title:worok - card art by manthos lappas,
+uploader:natezomby,
+were,
+werewolf,
+year:2017,

@@ -1,20 +1,20 @@
-art
-artwork
-category:ine
-creator:jakub rozalski
-digital
-futuristic
-genre:science fiction
-iron harvest
-jakub różalski
-machine
-medium:concept art
-medium:digital 2d
-men
-subreddit:imaginarymechs
-subreddit:imaginarywinterscapes
-subreddit:imtechnology
-title:1920 - battle before the battle
-title:"1920 - battle before the battle" by jakub rozalski
-uploader:pyro_azer
-website:reddit
+art,
+artwork,
+category:ine,
+creator:jakub rozalski,
+digital,
+futuristic,
+genre:science fiction,
+iron harvest,
+jakub różalski,
+machine,
+medium:concept art,
+medium:digital 2d,
+men,
+subreddit:imaginarymechs,
+subreddit:imaginarywinterscapes,
+subreddit:imtechnology,
+title:1920 - battle before the battle,
+title:"1920 - battle before the battle" by jakub rozalski,
+uploader:pyro_azer,
+website:reddit,

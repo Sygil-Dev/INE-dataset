@@ -1,18 +1,18 @@
-2d
-category:ine
-conceptart
-creator:duncan halleck
-design
-digital
-hardsurface
-medium:digital 2d
-scifi
-ship
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-title:the bumble bee
-title:the bumble bee, duncan halleck
-turretship
-uploader:dhalleck
-vehicle
-watercraft
+2d,
+category:ine,
+conceptart,
+creator:duncan halleck,
+design,
+digital,
+hardsurface,
+medium:digital 2d,
+scifi,
+ship,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+title:the bumble bee,
+title:the bumble bee, duncan halleck,
+turretship,
+uploader:dhalleck,
+vehicle,
+watercraft,

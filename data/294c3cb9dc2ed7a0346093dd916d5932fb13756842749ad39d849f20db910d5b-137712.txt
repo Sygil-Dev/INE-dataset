@@ -1,65 +1,65 @@
-1 female
-1girl
-bioshock
-bioshock 1
-black hair
-booru:lolibooru
-booru:lolibooru.moe
-booru:sankaku channel
-bow
-category:ine
-character:big daddy
-character:big daddy (bioshock)
-character:big_daddy
-character:little sister
-character:little sister (bioshock)
-character:little_sister
-clothing:dress
-clothing:hair tie
-crack
-cracks
-creator:chomoran
-creator:huusen_uri
-creator:チョモラン
-crossed legs
-crossed legs (standing)
-crossed_legs_(standing)
-dress
-drill
-firearm
-gender:female
-gun
-legs crossed
-medium:wallpaper
-ponytail
-rating:safe
-series:bioshock
-series:bioshock 1
-short hair
-source:http://img08.pixiv.net/img/huusen uri/25730908.png
-standing
-stuffed animal
-stuffed toy
-stuffed_animal
-stuffed_toy
-subreddit:imaginaryfeels
-subreddit:imaginarygaming
-subreddit:imfandoms
-subreddit:immeta
-teddy bear
-teddy_bear
-tied hair
-title:goodbye daddy by shock gyutantei
-title:さよならダディ
-uploader:kuaiban
-uploader:myrandall
-weapon
-website:reddit
-なにこれ切ない
-ふつくしい
-バイオショック
-バイオショック1000users入り
-ビッグダディ
-ラプチャー
-リトルシスター
-洋ゲー
+1 female,
+1girl,
+bioshock,
+bioshock 1,
+black hair,
+booru:lolibooru,
+booru:lolibooru.moe,
+booru:sankaku channel,
+bow,
+category:ine,
+character:big daddy,
+character:big daddy (bioshock),
+character:big_daddy,
+character:little sister,
+character:little sister (bioshock),
+character:little_sister,
+clothing:dress,
+clothing:hair tie,
+crack,
+cracks,
+creator:chomoran,
+creator:huusen_uri,
+creator:チョモラン,
+crossed legs,
+crossed legs (standing),
+crossed_legs_(standing),
+dress,
+drill,
+firearm,
+gender:female,
+gun,
+legs crossed,
+medium:wallpaper,
+ponytail,
+rating:safe,
+series:bioshock,
+series:bioshock 1,
+short hair,
+source:http://img08.pixiv.net/img/huusen uri/25730908.png,
+standing,
+stuffed animal,
+stuffed toy,
+stuffed_animal,
+stuffed_toy,
+subreddit:imaginaryfeels,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+subreddit:immeta,
+teddy bear,
+teddy_bear,
+tied hair,
+title:goodbye daddy by shock gyutantei,
+title:さよならダディ,
+uploader:kuaiban,
+uploader:myrandall,
+weapon,
+website:reddit,
+なにこれ切ない,
+ふつくしい,
+バイオショック,
+バイオショック1000users入り,
+ビッグダディ,
+ラプチャー,
+リトルシスター,
+洋ゲー,

@@ -1,24 +1,24 @@
-ancient
-arsenal
-brush
-category:ine
-century
-composition
-creator:quentinvcastel
-dolphin
-illustration
-king
-louisxiv
-old
-painting
-polish
-rochefort
-royal
-ship
-stroke
-subreddit:imaginaryvessels
-subreddit:imtechnology
-title:royal dolphin
-title:royal dolphin, by quentin castel
-uploader:belledame-sans-serif
-videogame
+ancient,
+arsenal,
+brush,
+category:ine,
+century,
+composition,
+creator:quentinvcastel,
+dolphin,
+illustration,
+king,
+louisxiv,
+old,
+painting,
+polish,
+rochefort,
+royal,
+ship,
+stroke,
+subreddit:imaginaryvessels,
+subreddit:imtechnology,
+title:royal dolphin,
+title:royal dolphin, by quentin castel,
+uploader:belledame-sans-serif,
+videogame,

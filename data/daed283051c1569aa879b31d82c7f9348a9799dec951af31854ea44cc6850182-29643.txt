@@ -1,112 +1,112 @@
-1girl
-agrabah
-aladdin
-ambiguous_gender
-art
-artist:tsaoshin
-black body
-black eyes
-black fur
-black_body
-black_eyes
-black_fur
-building
-carpet
-category:ine
-character:jasmine (disney)
-character:princess jasmine (aladdin)
-character:princess_jasmine_(aladdin)
-character:umbreon
-clothing
-collab
-collaboration
-colored sclera
-colorful
-copyright:disney
-copyright:disney's_aladdin
-copyright:nintendo
-copyright:pokémon
-creator:tsaoshin
-crossover
-dark skin
-dark-skinned female
-desert
-digital
-disney
-duo
-eevee
-eeveelution
-ericproctor
-fanart
-female
-feral
-flying
-flyingcarpet
-flyingfox
-fur
-game
-gen 2 pokemon
-gender:ambiguous
-gender:female
-hair
-howto
-jasmine
-lips
-markings
-mashup
-meta:2:3
-meta:2017
-meta:hi_res
-meta:signature
-movie
-night
-nintendo
-open mouth
-open_mouth
-painting
-pokemon
-ponytail
-princess
-rating:safe
-red sclera
-red_sclera
-series
-series:aladdin (disney)
-series:creatures (company)
-series:disney's aladdin
-series:game freak
-series:nintendo
-series:pokemon
-series:pokémon
-source:furaffinity.net
-species:canid
-species:canine
-species:eeveelution
-species:human
-species:mammal
-species:monster
-species:pokémon
-species:pokémon_(species)
-species:primate
-species:umbreon
-speed
-studio:disney
-studio:nintendo
-subreddit:imaginarydisney
-subreddit:imfandoms
-sunset
-sunsetdragon
-tied hair
-timelapse
-title:a whole new umbreon
-title:a whole new umbreon by eric proctor
-tsaoshin
-twitch
-umbreon
-uploader:myrandall
-video
-video games
-video_games
-yellow markings
-yellow_markings
-youtube
+1girl,
+agrabah,
+aladdin,
+ambiguous_gender,
+art,
+artist:tsaoshin,
+black body,
+black eyes,
+black fur,
+black_body,
+black_eyes,
+black_fur,
+building,
+carpet,
+category:ine,
+character:jasmine (disney),
+character:princess jasmine (aladdin),
+character:princess_jasmine_(aladdin),
+character:umbreon,
+clothing,
+collab,
+collaboration,
+colored sclera,
+colorful,
+copyright:disney,
+copyright:disney's_aladdin,
+copyright:nintendo,
+copyright:pokémon,
+creator:tsaoshin,
+crossover,
+dark skin,
+dark-skinned female,
+desert,
+digital,
+disney,
+duo,
+eevee,
+eeveelution,
+ericproctor,
+fanart,
+female,
+feral,
+flying,
+flyingcarpet,
+flyingfox,
+fur,
+game,
+gen 2 pokemon,
+gender:ambiguous,
+gender:female,
+hair,
+howto,
+jasmine,
+lips,
+markings,
+mashup,
+meta:2:3,
+meta:2017,
+meta:hi_res,
+meta:signature,
+movie,
+night,
+nintendo,
+open mouth,
+open_mouth,
+painting,
+pokemon,
+ponytail,
+princess,
+rating:safe,
+red sclera,
+red_sclera,
+series,
+series:aladdin (disney),
+series:creatures (company),
+series:disney's aladdin,
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:eeveelution,
+species:human,
+species:mammal,
+species:monster,
+species:pokémon,
+species:pokémon_(species),
+species:primate,
+species:umbreon,
+speed,
+studio:disney,
+studio:nintendo,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+sunset,
+sunsetdragon,
+tied hair,
+timelapse,
+title:a whole new umbreon,
+title:a whole new umbreon by eric proctor,
+tsaoshin,
+twitch,
+umbreon,
+uploader:myrandall,
+video,
+video games,
+video_games,
+yellow markings,
+yellow_markings,
+youtube,

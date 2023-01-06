@@ -1,51 +1,51 @@
-2017
-afnet (clothing)
-booru:e621
-category:ine
-character:somnambula (mlp)
-character:sphinx (mlp)
-clothing
-creator:imalou
-duo
-egyptian clothes
-egyptian clothing
-egyptian headdress
-fangs
-female
-fur
-gender:ambiguous
-gender:female
-genre:fantasy
-headdress
-headgear
-headwear
-macro
-medium:digital media
-medium:high resolution
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-open mouth
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:mythology
-species:equid
-species:equine
-species:felid
-species:feline
-species:mammal
-species:mythical
-species:mythological sphinx
-species:pegasus
-species:pterippus
-species:sphinx
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:bow before me
-title:bow before me by léa d. (imalou)
-uploader:sparroew
-wings
-year:2017
+2017,
+afnet (clothing),
+booru:e621,
+category:ine,
+character:somnambula (mlp),
+character:sphinx (mlp),
+clothing,
+creator:imalou,
+duo,
+egyptian clothes,
+egyptian clothing,
+egyptian headdress,
+fangs,
+female,
+fur,
+gender:ambiguous,
+gender:female,
+genre:fantasy,
+headdress,
+headgear,
+headwear,
+macro,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+open mouth,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:mythology,
+species:equid,
+species:equine,
+species:felid,
+species:feline,
+species:mammal,
+species:mythical,
+species:mythological sphinx,
+species:pegasus,
+species:pterippus,
+species:sphinx,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:bow before me,
+title:bow before me by léa d. (imalou),
+uploader:sparroew,
+wings,
+year:2017,

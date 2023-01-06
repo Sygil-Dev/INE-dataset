@@ -1,63 +1,63 @@
-1 female
-1girl
-alternate costume
-art
-artist:kilart
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-breasts
-cable
-category:ine
-character:emilia leblanc
-character:emilia leblanc, the deceiver
-character:program leblanc
-commentary
-copyright:league of legends
-creator:kilart
-creator:kilart (choe, heonhwa)
-creator:kilartdev
-cyberpunk
-cyborg
-disembodied head
-english commentary
-eyelashes
-gender:female
-genre:cyberpunk
-genre:science fiction
-glowing
-green skin
-holding
-holding object
-holding weapon
-hologram
-joints
-medium hair
-medium:digital 2d
-medium:high resolution
-meta:commentary
-meta:english commentary
-meta:highres
-meta:official art
-no nipples
-program leblanc
-rating:general
-rating:mature
-rating:safe
-robot
-robot joints
-science fiction
-series:league of legends
-small breasts
-solo focus
-species:robot
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:program leblanc
-title:program leblanc by heonhwa choe
-title:program leblanc by kilart/choe, heonhwa
-uploader:ceally
-uploader:panzer-kunst
-weapon
+1 female,
+1girl,
+alternate costume,
+art,
+artist:kilart,
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+breasts,
+cable,
+category:ine,
+character:emilia leblanc,
+character:emilia leblanc, the deceiver,
+character:program leblanc,
+commentary,
+copyright:league of legends,
+creator:kilart,
+creator:kilart (choe, heonhwa),
+creator:kilartdev,
+cyberpunk,
+cyborg,
+disembodied head,
+english commentary,
+eyelashes,
+gender:female,
+genre:cyberpunk,
+genre:science fiction,
+glowing,
+green skin,
+holding,
+holding object,
+holding weapon,
+hologram,
+joints,
+medium hair,
+medium:digital 2d,
+medium:high resolution,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:official art,
+no nipples,
+program leblanc,
+rating:general,
+rating:mature,
+rating:safe,
+robot,
+robot joints,
+science fiction,
+series:league of legends,
+small breasts,
+solo focus,
+species:robot,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:program leblanc,
+title:program leblanc by heonhwa choe,
+title:program leblanc by kilart/choe, heonhwa,
+uploader:ceally,
+uploader:panzer-kunst,
+weapon,

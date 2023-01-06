@@ -1,48 +1,48 @@
-blonde hair
-booru:e621
-bridle
-brown body
-brown fur
-category:ine
-creator:alradeck
-creator:firefeathers
-day
-detailed background
-female
-feral
-fur
-gathering
-grass
-hair
-hooves
-host
-magic
-mechanic
-medium:detailed background
-medium:digital media
-meta:2017
-meta:digital media (artwork)
-mtg
-nature
-ordinary
-outside
-plant
-rating:safe
-reins
-saddle
-sky
-solo
-species:equid
-species:equine
-species:horse
-species:mammal
-standing
-subreddit:imaginaryanimals
-subreddit:imnature
-the
-title:mtg unstable: ordinary pony
-title:mtg unstable: ordinary pony by andrea radeck
-unstable
-uploader:myrandall
-website:reddit
-year:2017
+blonde hair,
+booru:e621,
+bridle,
+brown body,
+brown fur,
+category:ine,
+creator:alradeck,
+creator:firefeathers,
+day,
+detailed background,
+female,
+feral,
+fur,
+gathering,
+grass,
+hair,
+hooves,
+host,
+magic,
+mechanic,
+medium:detailed background,
+medium:digital media,
+meta:2017,
+meta:digital media (artwork),
+mtg,
+nature,
+ordinary,
+outside,
+plant,
+rating:safe,
+reins,
+saddle,
+sky,
+solo,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+standing,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+the,
+title:mtg unstable: ordinary pony,
+title:mtg unstable: ordinary pony by andrea radeck,
+unstable,
+uploader:myrandall,
+website:reddit,
+year:2017,

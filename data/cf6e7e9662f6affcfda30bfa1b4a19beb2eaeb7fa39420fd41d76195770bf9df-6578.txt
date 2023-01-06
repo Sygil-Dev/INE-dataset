@@ -1,25 +1,25 @@
-category:ine
-creator:kalmahul
-creator:ömer tunç
-dragon
-dwarf
-fantasticfour
-furry
-medium:digital 2d
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarydwarves
-subreddit:imaginarygiants
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imraces
-title:winter sleep by ömer tunç
-title:winter sleep by ömer tunç [x-post /r/imaginarydwarves]
-title:winter sleep by ömer tunç [x-post /r/imaginarygiants]
-title:winter sleep, by omer tunc
-title:winter sleep-
-uploader:adverserius
-uploader:blood-n-cheese
-uploader:sylvyrfyre
-uploader:valar_m0rghul1s
+category:ine,
+creator:kalmahul,
+creator:ömer tunç,
+dragon,
+dwarf,
+fantasticfour,
+furry,
+medium:digital 2d,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarydwarves,
+subreddit:imaginarygiants,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imraces,
+title:winter sleep by ömer tunç,
+title:winter sleep by ömer tunç [x-post /r/imaginarydwarves],
+title:winter sleep by ömer tunç [x-post /r/imaginarygiants],
+title:winter sleep, by omer tunc,
+title:winter sleep-,
+uploader:adverserius,
+uploader:blood-n-cheese,
+uploader:sylvyrfyre,
+uploader:valar_m0rghul1s,

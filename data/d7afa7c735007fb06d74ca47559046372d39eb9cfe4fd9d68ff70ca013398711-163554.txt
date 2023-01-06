@@ -1,40 +1,40 @@
-ambiguous gender
-backlighting
-backlit
-booru:e621
-category:ine
-cloudscape
-creator:cliff childs
-feral
-flying
-gender:ambiguous
-group
-light
-lighting
-medium:4:3 aspect ratio
-meta:4:3
-meta:lighting
-meta:official art
-outside
-rating:safe
-series:hasbro
-series:magic: the gathering
-series:official art
-size difference
-sky
-solo focus
-species:ambient bird
-species:avian
-species:bird
-species:cetacean
-species:mammal
-species:marine
-species:whale
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryanimals
-subreddit:imaginaryleviathans
-subreddit:immonsters
-subreddit:imnature
-title:long-finned skywhale by cliff childs
-uploader:faeryknight
+ambiguous gender,
+backlighting,
+backlit,
+booru:e621,
+category:ine,
+cloudscape,
+creator:cliff childs,
+feral,
+flying,
+gender:ambiguous,
+group,
+light,
+lighting,
+medium:4:3 aspect ratio,
+meta:4:3,
+meta:lighting,
+meta:official art,
+outside,
+rating:safe,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+size difference,
+sky,
+solo focus,
+species:ambient bird,
+species:avian,
+species:bird,
+species:cetacean,
+species:mammal,
+species:marine,
+species:whale,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryanimals,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+subreddit:imnature,
+title:long-finned skywhale by cliff childs,
+uploader:faeryknight,

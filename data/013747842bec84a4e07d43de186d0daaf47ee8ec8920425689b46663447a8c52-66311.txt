@@ -1,63 +1,63 @@
-assault rifle
-autumn
-battle
-breathing fire
-bullet hole
-burning
-campfire
-cannon
-casing ejection
-category:ine
-damaged
-destruction
-dirty
-dusk
-embers
-energy gun
-evening
-explosion
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-ground vehicle
-gun
-handgun
-helicopter
-helmet
-machine gun
-mecha
-military
-missile
-molten rock
-motor vehicle
-multiple boys
-muzzle flash
-orange sky
-rating:safe
-realistic
-rifle
-rocket launcher
-ruins
-science fiction
-shell casing
-smoke
-soldier
-sparks
-subreddit:imaginarysoldiers
-subreddit:imaginarywarhammer
-subreddit:imcharacters
-subreddit:imfandoms
-sun
-sunset
-tank
-title:raven guard strike force by conor burke
-torch
-twilight
-uniform
-uploader:knighterrannt
-uploader:myrandall
-war
-weapon
+assault rifle,
+autumn,
+battle,
+breathing fire,
+bullet hole,
+burning,
+campfire,
+cannon,
+casing ejection,
+category:ine,
+damaged,
+destruction,
+dirty,
+dusk,
+embers,
+energy gun,
+evening,
+explosion,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+ground vehicle,
+gun,
+handgun,
+helicopter,
+helmet,
+machine gun,
+mecha,
+military,
+missile,
+molten rock,
+motor vehicle,
+multiple boys,
+muzzle flash,
+orange sky,
+rating:safe,
+realistic,
+rifle,
+rocket launcher,
+ruins,
+science fiction,
+shell casing,
+smoke,
+soldier,
+sparks,
+subreddit:imaginarysoldiers,
+subreddit:imaginarywarhammer,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sun,
+sunset,
+tank,
+title:raven guard strike force by conor burke,
+torch,
+twilight,
+uniform,
+uploader:knighterrannt,
+uploader:myrandall,
+war,
+weapon,

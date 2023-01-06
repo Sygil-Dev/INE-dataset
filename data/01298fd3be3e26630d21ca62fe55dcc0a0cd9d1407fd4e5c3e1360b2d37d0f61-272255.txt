@@ -1,21 +1,21 @@
-1boy
-beard
-book
-category:ine
-colored pencil (medium)
-facial hair
-looking at viewer
-male focus
-manly
-marker (medium)
-mustache
-open mouth
-rating:safe
-realistic
-signature
-solo
-subreddit:imaginarymarvel
-subreddit:imfandoms
-title:drawing of captain america (infinity war) by drawitmild @youtube
-traditional media
-uploader:_drawitmild_
+1boy,
+beard,
+book,
+category:ine,
+colored pencil (medium),
+facial hair,
+looking at viewer,
+male focus,
+manly,
+marker (medium),
+mustache,
+open mouth,
+rating:safe,
+realistic,
+signature,
+solo,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+title:drawing of captain america (infinity war) by drawitmild @youtube,
+traditional media,
+uploader:_drawitmild_,

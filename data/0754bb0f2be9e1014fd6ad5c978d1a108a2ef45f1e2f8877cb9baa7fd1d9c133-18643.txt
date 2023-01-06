@@ -1,21 +1,21 @@
-1boy
-artist name
-category:ine
-full body
-grey background
-hat
-holding
-holding staff
-long hair
-long sleeves
-male focus
-rating:safe
-red headwear
-simple background
-solo
-staff
-standing
-subreddit:imaginarywizards
-subreddit:imcharacters
-title:"red wizard" by marta duda-żarczyńska
-uploader:torvusil
+1boy,
+artist name,
+category:ine,
+full body,
+grey background,
+hat,
+holding,
+holding staff,
+long hair,
+long sleeves,
+male focus,
+rating:safe,
+red headwear,
+simple background,
+solo,
+staff,
+standing,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+title:"red wizard" by marta duda-żarczyńska,
+uploader:torvusil,

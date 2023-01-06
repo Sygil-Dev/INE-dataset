@@ -1,23 +1,23 @@
-1girl
-artist name
-blurry
-branch
-category:ine
-cherry blossoms
-depth of field
-falling petals
-flower
-long hair
-petals
-pink flower
-rating:safe
-solo
-spring (season)
-subreddit:imaginaryanimals
-subreddit:imnature
-title:spring blossoms by hagge
-tree
-uploader:lunseeker
-very long hair
-wavy hair
-white flower
+1girl,
+artist name,
+blurry,
+branch,
+category:ine,
+cherry blossoms,
+depth of field,
+falling petals,
+flower,
+long hair,
+petals,
+pink flower,
+rating:safe,
+solo,
+spring (season),
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:spring blossoms by hagge,
+tree,
+uploader:lunseeker,
+very long hair,
+wavy hair,
+white flower,

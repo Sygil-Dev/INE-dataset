@@ -1,60 +1,60 @@
-ambiguous gender
-ambiguous_gender
-artist:arvalis
-category:ine
-creator:arvalis
-day
-detailed background
-detailed_background
-dinosaur
-dondi
-feral
-forest
-furry
-gender:ambiguous
-grass
-isle
-jurassicpark
-jurassicworld
-komododragon
-magnaraptor
-magnaraptorvulgis
-medium:detailed background
-medium:digital media
-meta:2017
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-monitorlizard
-moss
-open mouth
-open_mouth
-outside
-plant
-raptor
-rating:safe
-sky
-solo
-species:dinosaur
-species:dromaeosaurid
-species:extinct
-species:reptile
-species:scalie
-species:theropod
-subreddit:imaginarydinosaurs
-subreddit:imaginaryruins
-subreddit:imarchitecture
-subreddit:immonsters
-teeth
-theisle
-theislegame
-title:the isle-magnaraptor
-title:the isle-magnaraptor by rj palmer
-tongue
-tree
-uploader:king_of_the_kobolds
-velociraptor
-year:2017
+ambiguous gender,
+ambiguous_gender,
+artist:arvalis,
+category:ine,
+creator:arvalis,
+day,
+detailed background,
+detailed_background,
+dinosaur,
+dondi,
+feral,
+forest,
+furry,
+gender:ambiguous,
+grass,
+isle,
+jurassicpark,
+jurassicworld,
+komododragon,
+magnaraptor,
+magnaraptorvulgis,
+medium:detailed background,
+medium:digital media,
+meta:2017,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+monitorlizard,
+moss,
+open mouth,
+open_mouth,
+outside,
+plant,
+raptor,
+rating:safe,
+sky,
+solo,
+species:dinosaur,
+species:dromaeosaurid,
+species:extinct,
+species:reptile,
+species:scalie,
+species:theropod,
+subreddit:imaginarydinosaurs,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+subreddit:immonsters,
+teeth,
+theisle,
+theislegame,
+title:the isle-magnaraptor,
+title:the isle-magnaraptor by rj palmer,
+tongue,
+tree,
+uploader:king_of_the_kobolds,
+velociraptor,
+year:2017,

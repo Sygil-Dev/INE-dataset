@@ -1,63 +1,63 @@
-2017
-abstract background
-alicorn
-booru:e621
-category:ine
-character:fausticorn
-character:lauren faust
-character:lauren faust (character)
-creator:light262
-digitalpainting
-discordfriendzytradingcardgame
-elementsofharmony
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-green eyes
-hair
-horn
-horns
-illustratorvector
-laurenfaust
-light262
-looking at viewer
-loose feather
-lumic4
-magic
-medium:high resolution
-meta:2017
-meta:hi res
-mlpfimmylittleponyfriendship
-mlpmylittlepony
-paper
-photoshop
-pinkamenadianepie
-pov
-quill
-rain
-rainbowdash
-rating:safe
-red hair
-series:friendship is magic
-series:hasbro
-series:my little pony
-smile
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:[lum and light] princess fausticorn
-title:princess fausticorn by 'light262'
-uploader:myrandall
-white body
-white feathers
-white fur
-wings
-year:2017
+2017,
+abstract background,
+alicorn,
+booru:e621,
+category:ine,
+character:fausticorn,
+character:lauren faust,
+character:lauren faust (character),
+creator:light262,
+digitalpainting,
+discordfriendzytradingcardgame,
+elementsofharmony,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+green eyes,
+hair,
+horn,
+horns,
+illustratorvector,
+laurenfaust,
+light262,
+looking at viewer,
+loose feather,
+lumic4,
+magic,
+medium:high resolution,
+meta:2017,
+meta:hi res,
+mlpfimmylittleponyfriendship,
+mlpmylittlepony,
+paper,
+photoshop,
+pinkamenadianepie,
+pov,
+quill,
+rain,
+rainbowdash,
+rating:safe,
+red hair,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+smile,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:[lum and light] princess fausticorn,
+title:princess fausticorn by 'light262',
+uploader:myrandall,
+white body,
+white feathers,
+white fur,
+wings,
+year:2017,

@@ -1,22 +1,22 @@
-#combat
-#futuristic
-#gun
-#man
-#mario_wibisono
-#nativeamerican
-#raynkazuya
-#rickroyster
-#sci-fi
-#shotgun
-#spy
-#warrioratthegates
-#wibisono
-creator:mario wibisono
-digital
-medium:digital 2d
-soldier
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-title:blackbird
-title:blackbird by mario wibisono
-uploader:lol33ta
+#combat,
+#futuristic,
+#gun,
+#man,
+#mario_wibisono,
+#nativeamerican,
+#raynkazuya,
+#rickroyster,
+#sci-fi,
+#shotgun,
+#spy,
+#warrioratthegates,
+#wibisono,
+creator:mario wibisono,
+digital,
+medium:digital 2d,
+soldier,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+title:blackbird,
+title:blackbird by mario wibisono,
+uploader:lol33ta,

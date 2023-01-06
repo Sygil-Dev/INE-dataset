@@ -1,41 +1,41 @@
-ambiguous gender
-ambiguous_gender
-artist:arvalis
-category:ine
-creator:arvalis
-feral
-fin
-furry
-gender:ambiguous
-group
-language:english
-medium:digital media
-medium:english text
-medium:text
-meta:2018
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:english text
-meta:english_text
-meta:hi res
-meta:hi_res
-rating:safe
-species:dinosaur
-species:elasmosaurid
-species:elasmosaurus
-species:extinct
-species:marine
-species:plesiosaur
-species:reptile
-species:scalie
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-text
-title:elasmosaurus
-title:elasmosaurus by rj palmer
-underwater
-uploader:net-diver
-water
-year:2018
+ambiguous gender,
+ambiguous_gender,
+artist:arvalis,
+category:ine,
+creator:arvalis,
+feral,
+fin,
+furry,
+gender:ambiguous,
+group,
+language:english,
+medium:digital media,
+medium:english text,
+medium:text,
+meta:2018,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:english text,
+meta:english_text,
+meta:hi res,
+meta:hi_res,
+rating:safe,
+species:dinosaur,
+species:elasmosaurid,
+species:elasmosaurus,
+species:extinct,
+species:marine,
+species:plesiosaur,
+species:reptile,
+species:scalie,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+text,
+title:elasmosaurus,
+title:elasmosaurus by rj palmer,
+underwater,
+uploader:net-diver,
+water,
+year:2018,

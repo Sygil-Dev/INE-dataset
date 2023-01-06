@@ -1,33 +1,33 @@
-blue sky
-bush
-category:ine
-cliff
-cloud
-cloudy sky
-day
-fantasy
-field
-forest
-grass
-hill
-landscape
-moss
-mountain
-mountainous horizon
-nature
-outdoors
-path
-rating:safe
-river
-road
-scenery
-sky
-subreddit:imaginarybodyscapes
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-subreddit:imlandscapes
-title:hermit's house by gustavo lara
-tree
-uploader:lol33ta
-water
-waterfall
+blue sky,
+bush,
+category:ine,
+cliff,
+cloud,
+cloudy sky,
+day,
+fantasy,
+field,
+forest,
+grass,
+hill,
+landscape,
+moss,
+mountain,
+mountainous horizon,
+nature,
+outdoors,
+path,
+rating:safe,
+river,
+road,
+scenery,
+sky,
+subreddit:imaginarybodyscapes,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+title:hermit's house by gustavo lara,
+tree,
+uploader:lol33ta,
+water,
+waterfall,

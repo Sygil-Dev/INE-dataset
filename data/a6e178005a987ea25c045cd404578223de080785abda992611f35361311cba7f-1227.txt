@@ -1,63 +1,63 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-bodypart:black eyes
-campfire
-canoe
-category:ine
-creator:cryptid-creations
-feral
-gender:ambiguous
-gender:male
-humor
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:2018
-meta:url
-pawpads
-plant
-pun
-rating:safe
-river
-rock
-simple background
-simple_background
-solo
-species:bear
-species:elemental
-species:elemental creature
-species:elemental_creature
-species:flora fauna
-species:flora_fauna
-species:lutrine
-species:mammal
-species:mineral fauna
-species:mineral_fauna
-species:mustelid
-species:otter
-species:river otter
-species:river_otter
-species:ursid
-species:ursine
-species:water creature
-species:water elemental
-species:water_creature
-subreddit:imaginaryelementals
-subreddit:immonsters
-tent
-text
-title:river otter by piper thibodeau
-tree
-uploader:myrandall
-vehicle
-visual pun
-visual_pun
-water
-watercraft
-white background
-white_background
-year:2018
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+campfire,
+canoe,
+category:ine,
+creator:cryptid-creations,
+feral,
+gender:ambiguous,
+gender:male,
+humor,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2018,
+meta:url,
+pawpads,
+plant,
+pun,
+rating:safe,
+river,
+rock,
+simple background,
+simple_background,
+solo,
+species:bear,
+species:elemental,
+species:elemental creature,
+species:elemental_creature,
+species:flora fauna,
+species:flora_fauna,
+species:lutrine,
+species:mammal,
+species:mineral fauna,
+species:mineral_fauna,
+species:mustelid,
+species:otter,
+species:river otter,
+species:river_otter,
+species:ursid,
+species:ursine,
+species:water creature,
+species:water elemental,
+species:water_creature,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+tent,
+text,
+title:river otter by piper thibodeau,
+tree,
+uploader:myrandall,
+vehicle,
+visual pun,
+visual_pun,
+water,
+watercraft,
+white background,
+white_background,
+year:2018,

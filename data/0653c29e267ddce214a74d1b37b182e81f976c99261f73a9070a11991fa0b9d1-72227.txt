@@ -1,25 +1,25 @@
-bridge
-building
-category:ine
-city
-city lights
-cityscape
-cloud
-cloudy sky
-crane (machine)
-outdoors
-rating:safe
-scenery
-ship
-sky
-skyline
-skyscraper
-snowing
-subreddit:imaginaryairships
-subreddit:imtechnology
-title:sir ian mcque by mike winkelmann aka beeple
-tokyo (city)
-tower
-uploader:thydissembler
-water
-watercraft
+bridge,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+crane (machine),
+outdoors,
+rating:safe,
+scenery,
+ship,
+sky,
+skyline,
+skyscraper,
+snowing,
+subreddit:imaginaryairships,
+subreddit:imtechnology,
+title:sir ian mcque by mike winkelmann aka beeple,
+tokyo (city),
+tower,
+uploader:thydissembler,
+water,
+watercraft,

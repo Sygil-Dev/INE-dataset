@@ -1,58 +1,58 @@
-2014
-booru:e621
-canterlot
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-clothing:necklace
-cloud
-creator:aquagalaxy
-crown
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-grass
-hair
-hi res
-high resolution
-horn
-horns
-jewelry
-landscape
-long hair
-magic
-medium:high resolution
-mountain
-multicolored hair
-necklace
-outside
-rating:safe
-royalty
-running
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-sky
-solo
-species:avian
-species:bird
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sun
-tag source:e621
-title:"mlp c: celestia: ascension" by aquagalaxy
-title:mlp c: celestia : ascension
-uploader:torvusil
-white feathers
-white fur
-wings
-year:2014
+2014,
+booru:e621,
+canterlot,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+clothing:necklace,
+cloud,
+creator:aquagalaxy,
+crown,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+grass,
+hair,
+hi res,
+high resolution,
+horn,
+horns,
+jewelry,
+landscape,
+long hair,
+magic,
+medium:high resolution,
+mountain,
+multicolored hair,
+necklace,
+outside,
+rating:safe,
+royalty,
+running,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+solo,
+species:avian,
+species:bird,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sun,
+tag source:e621,
+title:"mlp c: celestia: ascension" by aquagalaxy,
+title:mlp c: celestia : ascension,
+uploader:torvusil,
+white feathers,
+white fur,
+wings,
+year:2014,

@@ -1,64 +1,64 @@
-!
-action:closing eyes
-action:licking
-action:smile
-ambiguous gender
-candy
-category:ine
-cherry
-chocolate
-closed eyes
-creator:cryptid-creations
-dessert
-duo
-eyes closed
-feral
-food
-fruit
-fur
-gender:ambiguous
-glass
-grey body
-grey fur
-humor
-ice cream
-licking
-licking lips
-medium:simple background
-medium:white background
-meme:humor
-meta:english text
-meta:url
-plant
-pun
-rating:safe
-scared
-self lick
-simple background
-smile
-species:cat
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:food creature
-species:mammal
-species:mouse
-species:murid
-species:murine
-species:rodent
-sprinkles
-subreddit:imaginaryaww
-subreddit:imaginaryfood
-subreddit:immeta
-text
-title:daily paint 2004# mice cream
-title:mice cream by piper thibodeau
-tongue
-tongue out
-uploader:myrandall
-visual pun
-website:e621
-white background
-white body
-white fur
+!,
+action:closing eyes,
+action:licking,
+action:smile,
+ambiguous gender,
+candy,
+category:ine,
+cherry,
+chocolate,
+closed eyes,
+creator:cryptid-creations,
+dessert,
+duo,
+eyes closed,
+feral,
+food,
+fruit,
+fur,
+gender:ambiguous,
+glass,
+grey body,
+grey fur,
+humor,
+ice cream,
+licking,
+licking lips,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:english text,
+meta:url,
+plant,
+pun,
+rating:safe,
+scared,
+self lick,
+simple background,
+smile,
+species:cat,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:food creature,
+species:mammal,
+species:mouse,
+species:murid,
+species:murine,
+species:rodent,
+sprinkles,
+subreddit:imaginaryaww,
+subreddit:imaginaryfood,
+subreddit:immeta,
+text,
+title:daily paint 2004# mice cream,
+title:mice cream by piper thibodeau,
+tongue,
+tongue out,
+uploader:myrandall,
+visual pun,
+website:e621,
+white background,
+white body,
+white fur,

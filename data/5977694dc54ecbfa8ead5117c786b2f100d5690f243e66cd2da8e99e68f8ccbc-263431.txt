@@ -1,27 +1,27 @@
-anthro
-booru:e621
-category:ine
-character:rocket raccoon
-clothed
-clothing
-creator:kenket
-gun
-looking at viewer
-male
-meta:2017
-meta:hi res
-ranged weapon
-series:guardians of the galaxy
-series:marvel
-simple background
-smile
-solo
-species:mammal
-species:procyonid
-species:raccoon
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-title:rocket raccoon
-title:rocket raccoon by tess garman
-uploader:myrandall
-weapon
+anthro,
+booru:e621,
+category:ine,
+character:rocket raccoon,
+clothed,
+clothing,
+creator:kenket,
+gun,
+looking at viewer,
+male,
+meta:2017,
+meta:hi res,
+ranged weapon,
+series:guardians of the galaxy,
+series:marvel,
+simple background,
+smile,
+solo,
+species:mammal,
+species:procyonid,
+species:raccoon,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+title:rocket raccoon,
+title:rocket raccoon by tess garman,
+uploader:myrandall,
+weapon,

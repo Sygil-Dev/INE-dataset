@@ -1,39 +1,39 @@
-1girl
-bite mark
-bleeding
-blood
-blood from eyes
-blood from mouth
-blood on clothes
-blood on face
-blood on hands
-blood on knife
-blood on weapon
-blood splatter
-blood stain
-bruise
-category:ine
-corpse
-creator:chrisrallis
-cuts
-death
-defloration
-dirty
-guro
-injury
-looking at viewer
-nosebleed
-pool of blood
-rating:safe
-scratches
-severed head
-solo
-spot color
-stab
-subreddit:imaginaryvampires
-subreddit:immonsters
-title:hisss
-title:hisss by chris rallis
-uploader:drunkindragon
-uploader:izzy
-uploader:lol33ta
+1girl,
+bite mark,
+bleeding,
+blood,
+blood from eyes,
+blood from mouth,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on knife,
+blood on weapon,
+blood splatter,
+blood stain,
+bruise,
+category:ine,
+corpse,
+creator:chrisrallis,
+cuts,
+death,
+defloration,
+dirty,
+guro,
+injury,
+looking at viewer,
+nosebleed,
+pool of blood,
+rating:safe,
+scratches,
+severed head,
+solo,
+spot color,
+stab,
+subreddit:imaginaryvampires,
+subreddit:immonsters,
+title:hisss,
+title:hisss by chris rallis,
+uploader:drunkindragon,
+uploader:izzy,
+uploader:lol33ta,

@@ -1,54 +1,54 @@
-1 male
-1boy
-artist name
-barefoot
-black hair
-border
-category:ine
-clothing:legwear
-clothing:pants
-creator:re°
-creator:rido (ridograph)
-creator:ridograph
-day
-denim
-facing away
-feet
-full body
-gender:male
-jeans
-long sleeves
-male focus
-medium:artist name
-medium:watermark
-medium:web address
-ocean
-outdoors
-outside
-pants
-rating:safe
-rido (ridograph)
-sand
-series:original
-shadow
-shirt
-short hair
-sitting
-subreddit:imaginaryfeels
-subreddit:immeta
-sunlight
-sunset
-title:ever
-title:ever by re°
-uploader:[deleted]
-water
-watermark
-web address
-website:reddit
-white border
-white shirt
-オリジナル
-オリジナル5000users入り
-ジーンズ
-波打ち際
-男の子
+1 male,
+1boy,
+artist name,
+barefoot,
+black hair,
+border,
+category:ine,
+clothing:legwear,
+clothing:pants,
+creator:re°,
+creator:rido (ridograph),
+creator:ridograph,
+day,
+denim,
+facing away,
+feet,
+full body,
+gender:male,
+jeans,
+long sleeves,
+male focus,
+medium:artist name,
+medium:watermark,
+medium:web address,
+ocean,
+outdoors,
+outside,
+pants,
+rating:safe,
+rido (ridograph),
+sand,
+series:original,
+shadow,
+shirt,
+short hair,
+sitting,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+sunlight,
+sunset,
+title:ever,
+title:ever by re°,
+uploader:[deleted],
+water,
+watermark,
+web address,
+website:reddit,
+white border,
+white shirt,
+オリジナル,
+オリジナル5000users入り,
+ジーンズ,
+波打ち際,
+男の子,

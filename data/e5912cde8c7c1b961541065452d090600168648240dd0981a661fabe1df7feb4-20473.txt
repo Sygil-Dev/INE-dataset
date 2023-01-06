@@ -1,40 +1,40 @@
-ambiguous gender
-anthro
-anthropomorphism
-booru:e621
-card
-category:ine
-character:space hamster (mass effect)
-cookie
-creator:alteya
-cute
-food
-fur
-gender:ambiguous
-medium:high resolution
-meta:hi res
-minor arcana
-rating:safe
-series:mass effect
-solo
-space
-spacesuit
-species:cricetid
-species:hamster
-species:mammal
-species:rodent
-species:space hamster
-star
-subreddit:imaginaryastronauts
-subreddit:imaginarymasseffect
-subreddit:imcharacters
-subreddit:imfandoms
-tan body
-tan fur
-tarot card
-ten of cups (tarot)
-title:me: space hamster
-title:me: space hamster by alteya
-uploader:hvitserkr
-uploader:valar_m0rghul1s
-video games
+ambiguous gender,
+anthro,
+anthropomorphism,
+booru:e621,
+card,
+category:ine,
+character:space hamster (mass effect),
+cookie,
+creator:alteya,
+cute,
+food,
+fur,
+gender:ambiguous,
+medium:high resolution,
+meta:hi res,
+minor arcana,
+rating:safe,
+series:mass effect,
+solo,
+space,
+spacesuit,
+species:cricetid,
+species:hamster,
+species:mammal,
+species:rodent,
+species:space hamster,
+star,
+subreddit:imaginaryastronauts,
+subreddit:imaginarymasseffect,
+subreddit:imcharacters,
+subreddit:imfandoms,
+tan body,
+tan fur,
+tarot card,
+ten of cups (tarot),
+title:me: space hamster,
+title:me: space hamster by alteya,
+uploader:hvitserkr,
+uploader:valar_m0rghul1s,
+video games,

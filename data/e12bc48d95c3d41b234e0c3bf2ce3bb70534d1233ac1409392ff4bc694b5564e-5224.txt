@@ -1,58 +1,58 @@
-2018
-artist:red-izak
-black border
-black_border
-blue body
-blue scales
-blue_body
-blue_scales
-boat
-border
-category:ine
-character:valinor
-cloud
-clouds
-creator:red-izak
-detailed background
-detailed_background
-digital media (artwork)
-dragon
-feral
-flying
-furry
-invalid tag
-jylland
-medium:detailed background
-medium:digital media
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-ocean
-rating:safe
-scales
-sea
-ship
-source:furaffinity.net
-species:dragon
-species:mythical
-species:scalie
-steam
-subreddit:imaginarydragons
-subreddit:immonsters
-sun
-temeraire
-title:"happy to sea you" by izabela kaszuba
-title:happy to sea you
-title:happy to sea you!
-uploader:nikephoros_ii_phokas
-valinor
-vehicle
-water
-watercraft
-wave
-wings
-year:2018
+2018,
+artist:red-izak,
+black border,
+black_border,
+blue body,
+blue scales,
+blue_body,
+blue_scales,
+boat,
+border,
+category:ine,
+character:valinor,
+cloud,
+clouds,
+creator:red-izak,
+detailed background,
+detailed_background,
+digital media (artwork),
+dragon,
+feral,
+flying,
+furry,
+invalid tag,
+jylland,
+medium:detailed background,
+medium:digital media,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+ocean,
+rating:safe,
+scales,
+sea,
+ship,
+source:furaffinity.net,
+species:dragon,
+species:mythical,
+species:scalie,
+steam,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+sun,
+temeraire,
+title:"happy to sea you" by izabela kaszuba,
+title:happy to sea you,
+title:happy to sea you!,
+uploader:nikephoros_ii_phokas,
+valinor,
+vehicle,
+water,
+watercraft,
+wave,
+wings,
+year:2018,

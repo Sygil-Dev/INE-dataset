@@ -1,43 +1,43 @@
-action:closing eyes
-ambiguous gender
-bucket
-category:ine
-closed eyes
-creator:cryptid-creations
-death
-eyes closed
-feral
-fur
-gender:ambiguous
-gender:male
-humor
-ice cube
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:english text
-meta:url
-meta:white background
-pawpads
-pun
-rating:safe
-real person
-simple background
-solo
-species:bear
-species:fish
-species:mammal
-species:marine
-species:polar bear
-species:ursid
-species:ursine
-subreddit:imaginaryanimals
-subreddit:imnature
-text
-title:unbearable heat by piper thibodeau
-uploader:myrandall
-website:reddit
-white body
-white fur
-x eyes
+action:closing eyes,
+ambiguous gender,
+bucket,
+category:ine,
+closed eyes,
+creator:cryptid-creations,
+death,
+eyes closed,
+feral,
+fur,
+gender:ambiguous,
+gender:male,
+humor,
+ice cube,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:english text,
+meta:url,
+meta:white background,
+pawpads,
+pun,
+rating:safe,
+real person,
+simple background,
+solo,
+species:bear,
+species:fish,
+species:mammal,
+species:marine,
+species:polar bear,
+species:ursid,
+species:ursine,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+text,
+title:unbearable heat by piper thibodeau,
+uploader:myrandall,
+website:reddit,
+white body,
+white fur,
+x eyes,

@@ -1,53 +1,53 @@
-ambiguous gender
-booru:e621
-brown background
-category:ine
-creator:arvalis
-feral
-furry
-gen 1 pokemon
-gen 2 pokemon
-gender:ambiguous
-gradient background
-medium:absurd resolution
-medium:brown background
-medium:gradient background
-medium:high resolution
-medium:simple background
-medium:white background
-meta:absurd res
-meta:hi res
-meta:url
-rating:safe
-realistic
-series:nintendo
-series:pokemon
-series:pokémon
-serpentine
-simple background
-species:elemental creature
-species:haxorus
-species:heatran
-species:legendary pokémon
-species:mineral fauna
-species:monster
-species:onix
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:reptile
-species:sableye
-species:scalie
-species:snake
-species:steelix
-studio:nintendo
-subreddit:imaginarybehemoths
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immonsters
-text
-title:steelix &amp; onix by rj palmer
-title:steelix-
-uploader:optimusprime1313
-video games
-white background
+ambiguous gender,
+booru:e621,
+brown background,
+category:ine,
+creator:arvalis,
+feral,
+furry,
+gen 1 pokemon,
+gen 2 pokemon,
+gender:ambiguous,
+gradient background,
+medium:absurd resolution,
+medium:brown background,
+medium:gradient background,
+medium:high resolution,
+medium:simple background,
+medium:white background,
+meta:absurd res,
+meta:hi res,
+meta:url,
+rating:safe,
+realistic,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+serpentine,
+simple background,
+species:elemental creature,
+species:haxorus,
+species:heatran,
+species:legendary pokémon,
+species:mineral fauna,
+species:monster,
+species:onix,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:reptile,
+species:sableye,
+species:scalie,
+species:snake,
+species:steelix,
+studio:nintendo,
+subreddit:imaginarybehemoths,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immonsters,
+text,
+title:steelix &amp; onix by rj palmer,
+title:steelix-,
+uploader:optimusprime1313,
+video games,
+white background,

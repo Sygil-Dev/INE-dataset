@@ -1,22 +1,22 @@
-category:ine
-character
-creator:kipine
-fantasy
-griff
-griffon
-gryphon
-hunt
-hunter
-lynx
-oc
-owl
-pilke
-snow
-snowy
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-title:wintery silhouette
-title:wintery silhouette by pauliina linjama
-uploader:myrandall
-white
-winter
+category:ine,
+character,
+creator:kipine,
+fantasy,
+griff,
+griffon,
+gryphon,
+hunt,
+hunter,
+lynx,
+oc,
+owl,
+pilke,
+snow,
+snowy,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+title:wintery silhouette,
+title:wintery silhouette by pauliina linjama,
+uploader:myrandall,
+white,
+winter,

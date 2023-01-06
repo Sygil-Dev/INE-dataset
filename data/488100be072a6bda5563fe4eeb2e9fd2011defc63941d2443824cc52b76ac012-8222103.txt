@@ -1,62 +1,62 @@
-1 female
-bare shoulders
-beaker
-black hair
-bottle
-brown hair
-category:ine
-character:rama (agents of mayhem)
-chemistry
-clothing:fingerless gloves
-clothing:gloves
-creator:valentina remenar
-creator:valentina-remenar
-curly hair
-erlenmeyer flask
-facial mark
-fingerless gloves
-flask
-forehead mark
-gender:female
-gloves
-graduated cylinder
-green eyes
-hood
-indoors
-lipstick
-looking away
-looking up
-makeup
-medium:artist name
-medium:high resolution
-meta:highres
-mismatched gloves
-partly fingerless gloves
-piping
-potion
-rama (agents of mayhem)
-rating:safe
-red lipstick
-ring stand
-round-bottom flask
-sash
-series:agents of mayhem
-shirt
-sleeveless
-smoke
-solo
-standing
-subreddit:imaginaryscholars
-subreddit:imcharacters
-test tube
-test tube rack
-title:agents of mayhem - rama
-title:agents of mayhem - rama, by valentina remenar
-unmoving pattern
-uploader:belledame-sans-serif
-upper body
-valentina remenar
-vapors
-veil
-volumetric flask
-website:reddit
+1 female,
+bare shoulders,
+beaker,
+black hair,
+bottle,
+brown hair,
+category:ine,
+character:rama (agents of mayhem),
+chemistry,
+clothing:fingerless gloves,
+clothing:gloves,
+creator:valentina remenar,
+creator:valentina-remenar,
+curly hair,
+erlenmeyer flask,
+facial mark,
+fingerless gloves,
+flask,
+forehead mark,
+gender:female,
+gloves,
+graduated cylinder,
+green eyes,
+hood,
+indoors,
+lipstick,
+looking away,
+looking up,
+makeup,
+medium:artist name,
+medium:high resolution,
+meta:highres,
+mismatched gloves,
+partly fingerless gloves,
+piping,
+potion,
+rama (agents of mayhem),
+rating:safe,
+red lipstick,
+ring stand,
+round-bottom flask,
+sash,
+series:agents of mayhem,
+shirt,
+sleeveless,
+smoke,
+solo,
+standing,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+test tube,
+test tube rack,
+title:agents of mayhem - rama,
+title:agents of mayhem - rama, by valentina remenar,
+unmoving pattern,
+uploader:belledame-sans-serif,
+upper body,
+valentina remenar,
+vapors,
+veil,
+volumetric flask,
+website:reddit,

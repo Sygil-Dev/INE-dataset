@@ -1,84 +1,84 @@
-1 female
-1girl
-antique firearm
-artist:guweiz
-black hair
-blue eyes
-booru:sankaku channel
-category:ine
-choker
-clothing:choker
-clothing:dress
-clothing:gloves
-clothing:hat
-clothing:headwear
-copyright:original
-creator:guweiz
-dark
-day
-dress
-face
-female
-finger on trigger
-firearm
-firelock
-flintlock
-flower
-forest
-gender:female
-gloves
-gun
-handgun
-hat
-hat flower
-headwear
-highres
-holding
-holding gun
-holding object
-holding weapon
-lips
-looking afar
-medium:high resolution
-medium:realistic
-meta:commentary
-meta:highres
-nature
-outdoors
-outside
-parted lips
-pistol
-rating:general
-rating:mature
-rating:safe
-rating:sensitive
-realistic
-red lips
-ribbon
-ribbon choker
-series:original
-short hair
-snow
-snowing
-solo
-subreddit:imaginarycowboys
-subreddit:imaginaryfashion
-subreddit:imaginaryhumans
-subreddit:imaginarywinterscapes
-subreddit:imcharacters
-subreddit:imlandscapes
-subreddit:immeta
-subreddit:imraces
-subreddit:reasonablefantasy
-sun hat
-title:snow by z.w. gu
-title:snow, by z. w. gu
-title:victoria snow by z.w. gu
-uploader:builtofstone
-uploader:lol33ta
-uploader:sylvyrfyre
-upper body
-weapon
-white dress
-white gloves
-white ribbon
+1 female,
+1girl,
+antique firearm,
+artist:guweiz,
+black hair,
+blue eyes,
+booru:sankaku channel,
+category:ine,
+choker,
+clothing:choker,
+clothing:dress,
+clothing:gloves,
+clothing:hat,
+clothing:headwear,
+copyright:original,
+creator:guweiz,
+dark,
+day,
+dress,
+face,
+female,
+finger on trigger,
+firearm,
+firelock,
+flintlock,
+flower,
+forest,
+gender:female,
+gloves,
+gun,
+handgun,
+hat,
+hat flower,
+headwear,
+highres,
+holding,
+holding gun,
+holding object,
+holding weapon,
+lips,
+looking afar,
+medium:high resolution,
+medium:realistic,
+meta:commentary,
+meta:highres,
+nature,
+outdoors,
+outside,
+parted lips,
+pistol,
+rating:general,
+rating:mature,
+rating:safe,
+rating:sensitive,
+realistic,
+red lips,
+ribbon,
+ribbon choker,
+series:original,
+short hair,
+snow,
+snowing,
+solo,
+subreddit:imaginarycowboys,
+subreddit:imaginaryfashion,
+subreddit:imaginaryhumans,
+subreddit:imaginarywinterscapes,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+subreddit:immeta,
+subreddit:imraces,
+subreddit:reasonablefantasy,
+sun hat,
+title:snow by z.w. gu,
+title:snow, by z. w. gu,
+title:victoria snow by z.w. gu,
+uploader:builtofstone,
+uploader:lol33ta,
+uploader:sylvyrfyre,
+upper body,
+weapon,
+white dress,
+white gloves,
+white ribbon,

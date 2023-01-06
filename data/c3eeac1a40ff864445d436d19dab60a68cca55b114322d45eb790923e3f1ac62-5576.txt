@@ -1,77 +1,77 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist:otakuap
-bath
-black nose
-booru:e621
-brown eyes
-category:ine
-character:flareon
-closed mouth
-copyright:nintendo
-copyright:pokémon
-creator:otakuap
-creature
-digital media (artwork)
-dirt
-dirty
-disembodied hand
-duo
-eeveelution
-eyebrows
-feral
-flareon
-fluffy
-fluffy tail
-fur
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-holding
-holding pokemon
-medium:digital media
-meta:2018
-meta:commentary
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:english commentary
-motion lines
-neck tuft
-otakuap
-pokemon
-pokémon
-pokémon (species)
-rating:safe
-red body
-red eyebrows
-red fur
-series:nintendo
-series:pokémon
-soap
-solo focus
-solo_focus
-species:eeveelution
-species:flareon
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immeta
-title:"flareon bath" by otakuap
-title:flareon bath
-tuft
-uploader:torvusil
-video games
-video_games
-water
-year:2018
-yellow body
-yellow fur
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:otakuap,
+bath,
+black nose,
+booru:e621,
+brown eyes,
+category:ine,
+character:flareon,
+closed mouth,
+copyright:nintendo,
+copyright:pokémon,
+creator:otakuap,
+creature,
+digital media (artwork),
+dirt,
+dirty,
+disembodied hand,
+duo,
+eeveelution,
+eyebrows,
+feral,
+flareon,
+fluffy,
+fluffy tail,
+fur,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+holding,
+holding pokemon,
+medium:digital media,
+meta:2018,
+meta:commentary,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:english commentary,
+motion lines,
+neck tuft,
+otakuap,
+pokemon,
+pokémon,
+pokémon (species),
+rating:safe,
+red body,
+red eyebrows,
+red fur,
+series:nintendo,
+series:pokémon,
+soap,
+solo focus,
+solo_focus,
+species:eeveelution,
+species:flareon,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immeta,
+title:"flareon bath" by otakuap,
+title:flareon bath,
+tuft,
+uploader:torvusil,
+video games,
+video_games,
+water,
+year:2018,
+yellow body,
+yellow fur,

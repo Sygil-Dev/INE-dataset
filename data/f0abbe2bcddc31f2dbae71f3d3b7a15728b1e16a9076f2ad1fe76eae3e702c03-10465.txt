@@ -1,25 +1,25 @@
-art
-category:concept art
-category:ine
-character art
-cloth
-concept art
-creator:leonardo silva carvalho
-creature
-creature art
-eldritch
-grey
-horror
-king
-lovecraft
-medium:traditional 3d
-scp
-subreddit:conceptart
-subreddit:imaginaryhorrors
-subreddit:imaginaryimmortals
-subreddit:immeta
-subreddit:immonsters
-subreddit:imraces
-the hanged king
-title:scp universe - the hanged king
-uploader:shademeadows
+art,
+category:concept art,
+category:ine,
+character art,
+cloth,
+concept art,
+creator:leonardo silva carvalho,
+creature,
+creature art,
+eldritch,
+grey,
+horror,
+king,
+lovecraft,
+medium:traditional 3d,
+scp,
+subreddit:conceptart,
+subreddit:imaginaryhorrors,
+subreddit:imaginaryimmortals,
+subreddit:immeta,
+subreddit:immonsters,
+subreddit:imraces,
+the hanged king,
+title:scp universe - the hanged king,
+uploader:shademeadows,

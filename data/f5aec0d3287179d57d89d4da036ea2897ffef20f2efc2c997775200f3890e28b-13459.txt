@@ -1,26 +1,26 @@
-battle for azeroth
-category:ine
-creator:jorge jacinto
-elf
-fantasy
-forest
-horde
-illustration
-jjcanvas
-jorge jacinto
-medium:digital 2d
-night elf
-painting
-series:warcraft
-species:elf
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imaginarybattlefields
-subreddit:imfandoms
-subreddit:imlandscapes
-title:world of warcraft - teldrassil invasion ii
-title:world of warcraft - teldrassil invasion ii by jorge jacinto
-uploader:e-leventy
-uploader:net-diver
-world of warcraft
-wow
+battle for azeroth,
+category:ine,
+creator:jorge jacinto,
+elf,
+fantasy,
+forest,
+horde,
+illustration,
+jjcanvas,
+jorge jacinto,
+medium:digital 2d,
+night elf,
+painting,
+series:warcraft,
+species:elf,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imaginarybattlefields,
+subreddit:imfandoms,
+subreddit:imlandscapes,
+title:world of warcraft - teldrassil invasion ii,
+title:world of warcraft - teldrassil invasion ii by jorge jacinto,
+uploader:e-leventy,
+uploader:net-diver,
+world of warcraft,
+wow,

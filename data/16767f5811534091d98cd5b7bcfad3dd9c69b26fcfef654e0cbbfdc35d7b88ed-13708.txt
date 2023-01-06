@@ -1,60 +1,60 @@
-1 female
-1girl
-arrow
-arrow (projectile)
-artist:hue vang
-bandage
-bandaged arm
-bandaged hand
-bandages
-bare shoulders
-booru:danbooru
-bow
-bow (weapon)
-brown eyes
-brown hair
-category:ine
-cave
-character:lara croft
-creator:huevang
-dirty
-dirty face
-facing viewer
-gender:female
-hair lift
-holding
-holding arrow
-holding bow
-holding bow (weapon)
-holding object
-holding weapon
-huevang
-jungle
-leaf
-light
-looking at viewer
-medium:high resolution
-meta:commentary
-meta:english commentary
-meta:highres
-nature
-outdoors
-outside
-parted lips
-pov
-quiver
-rating:mature
-rating:safe
-series:tomb raider
-series:tomb raider (2013)
-series:tomb raider (reboot)
-studio:square enix
-subreddit:imaginaryarchers
-subreddit:imaginarygaming
-subreddit:imcharacters
-subreddit:imfandoms
-tank top
-title:lara croft by hue vang
-torn clothes
-uploader:owntheknight
-weapon
+1 female,
+1girl,
+arrow,
+arrow (projectile),
+artist:hue vang,
+bandage,
+bandaged arm,
+bandaged hand,
+bandages,
+bare shoulders,
+booru:danbooru,
+bow,
+bow (weapon),
+brown eyes,
+brown hair,
+category:ine,
+cave,
+character:lara croft,
+creator:huevang,
+dirty,
+dirty face,
+facing viewer,
+gender:female,
+hair lift,
+holding,
+holding arrow,
+holding bow,
+holding bow (weapon),
+holding object,
+holding weapon,
+huevang,
+jungle,
+leaf,
+light,
+looking at viewer,
+medium:high resolution,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+nature,
+outdoors,
+outside,
+parted lips,
+pov,
+quiver,
+rating:mature,
+rating:safe,
+series:tomb raider,
+series:tomb raider (2013),
+series:tomb raider (reboot),
+studio:square enix,
+subreddit:imaginaryarchers,
+subreddit:imaginarygaming,
+subreddit:imcharacters,
+subreddit:imfandoms,
+tank top,
+title:lara croft by hue vang,
+torn clothes,
+uploader:owntheknight,
+weapon,

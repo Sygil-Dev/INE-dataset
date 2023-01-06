@@ -1,44 +1,44 @@
-1 female
-1girl
-against glass
-avogado6
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-category:ine
-clam
-creator:avogado6
-fish
-fish tank
-gender:female
-gills
-hose
-in container
-mackerel (fish)
-mermaid
-meta:commentary
-monster girl
-octopus
-open mouth
-rating:safe
-rating:sensitive
-scales
-series:original
-sharp teeth
-species:mermaid
-species:mollusc
-species:mythical
-species:squid
-squid
-subreddit:imaginaryfeels
-subreddit:imaginarymerfolk
-subreddit:immeta
-subreddit:imraces
-teeth
-title:corf by avogado6
-uploader:[deleted]
-uploader:myrandall
-webbed hands
-website:reddit
-yellow eyes
+1 female,
+1girl,
+against glass,
+avogado6,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+category:ine,
+clam,
+creator:avogado6,
+fish,
+fish tank,
+gender:female,
+gills,
+hose,
+in container,
+mackerel (fish),
+mermaid,
+meta:commentary,
+monster girl,
+octopus,
+open mouth,
+rating:safe,
+rating:sensitive,
+scales,
+series:original,
+sharp teeth,
+species:mermaid,
+species:mollusc,
+species:mythical,
+species:squid,
+squid,
+subreddit:imaginaryfeels,
+subreddit:imaginarymerfolk,
+subreddit:immeta,
+subreddit:imraces,
+teeth,
+title:corf by avogado6,
+uploader:[deleted],
+uploader:myrandall,
+webbed hands,
+website:reddit,
+yellow eyes,

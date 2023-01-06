@@ -1,51 +1,51 @@
-2018
-anthro
-anthropomorphism
-arrow
-booru:e621
-bow
-bow (weapon)
-brown body
-brown fur
-category:ine
-creator:alradeck
-day
-detailed background
-feral
-fur
-group
-holding object
-holding sword
-holding weapon
-medium:detailed background
-medium:digital media
-medium:high resolution
-melee weapon
-meta:2018
-meta:digital media (artwork)
-meta:hi res
-outside
-quiver
-ranged weapon
-rating:safe
-sleeping
-species:cat
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:mammal
-species:mouse
-species:murid
-species:murine
-species:rodent
-subreddit:imaginaryanimals
-subreddit:imnature
-sword
-title:three brave mice
-title:three brave mice by andrea radeck
-uploader:myrandall
-weapon
-white body
-white fur
-year:2018
+2018,
+anthro,
+anthropomorphism,
+arrow,
+booru:e621,
+bow,
+bow (weapon),
+brown body,
+brown fur,
+category:ine,
+creator:alradeck,
+day,
+detailed background,
+feral,
+fur,
+group,
+holding object,
+holding sword,
+holding weapon,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+melee weapon,
+meta:2018,
+meta:digital media (artwork),
+meta:hi res,
+outside,
+quiver,
+ranged weapon,
+rating:safe,
+sleeping,
+species:cat,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+species:mouse,
+species:murid,
+species:murine,
+species:rodent,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+sword,
+title:three brave mice,
+title:three brave mice by andrea radeck,
+uploader:myrandall,
+weapon,
+white body,
+white fur,
+year:2018,

@@ -1,81 +1,81 @@
-2017
-::c
-ambiguous gender
-ambiguous_gender
-art
-artist:tsaoshin
-backseat
-blue eyes
-blue_eyes
-booru:e621
-category:ine
-character:flareon
-copyright:nintendo
-copyright:pokémon
-creator:tsaoshin
-cute
-digital media (artwork)
-digitalart
-drawing
-eevee
-eeveelution
-ericproctor
-fanart
-feral
-flareon
-funny
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-gottadrawemall
-joshworlds
-livestream
-looking up
-looking_up
-medium:1:1 aspect ratio
-medium:digital media
-meta:1:1
-meta:2017
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-photoshop
-pokedex
-pokemon
-pokémon
-pokémon (species)
-pool:15535
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-show
-sitting
-sketch
-solo
-species:eeveelution
-species:flareon
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-stream
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immeta
-title:136 - flareon
-title:136 - flareon by tsaoshin (eric proctor)
-title:flareon by eric proctor
-tsaoshin
-twitch
-type
-uploader:hvitserkr
-uploader:lol33ta
-uploader:myrandall
-video
-video games
-video_games
-year:2017
-youtube
+2017,
+::c,
+ambiguous gender,
+ambiguous_gender,
+art,
+artist:tsaoshin,
+backseat,
+blue eyes,
+blue_eyes,
+booru:e621,
+category:ine,
+character:flareon,
+copyright:nintendo,
+copyright:pokémon,
+creator:tsaoshin,
+cute,
+digital media (artwork),
+digitalart,
+drawing,
+eevee,
+eeveelution,
+ericproctor,
+fanart,
+feral,
+flareon,
+funny,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+gottadrawemall,
+joshworlds,
+livestream,
+looking up,
+looking_up,
+medium:1:1 aspect ratio,
+medium:digital media,
+meta:1:1,
+meta:2017,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+photoshop,
+pokedex,
+pokemon,
+pokémon,
+pokémon (species),
+pool:15535,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+show,
+sitting,
+sketch,
+solo,
+species:eeveelution,
+species:flareon,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+stream,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immeta,
+title:136 - flareon,
+title:136 - flareon by tsaoshin (eric proctor),
+title:flareon by eric proctor,
+tsaoshin,
+twitch,
+type,
+uploader:hvitserkr,
+uploader:lol33ta,
+uploader:myrandall,
+video,
+video games,
+video_games,
+year:2017,
+youtube,

@@ -1,23 +1,23 @@
-anime
-category:ine
-clouds
-couple
-creator:natanatfan
-fairy
-fairytail
-fairytale
-fanart
-fantasy
-hair
-love
-manga
-mavisvermillion
-subreddit:imaginarylovers
-subreddit:imcharacters
-sweetandbitter
-title:zeref and mavis: the last time i see fairys
-title:zeref and mavis: the last time i see fairys by natalya/'natanatfan'
-uploader:myrandall
-zerefdragneel
-zerefmavis
-zervis
+anime,
+category:ine,
+clouds,
+couple,
+creator:natanatfan,
+fairy,
+fairytail,
+fairytale,
+fanart,
+fantasy,
+hair,
+love,
+manga,
+mavisvermillion,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+sweetandbitter,
+title:zeref and mavis: the last time i see fairys,
+title:zeref and mavis: the last time i see fairys by natalya/'natanatfan',
+uploader:myrandall,
+zerefdragneel,
+zerefmavis,
+zervis,

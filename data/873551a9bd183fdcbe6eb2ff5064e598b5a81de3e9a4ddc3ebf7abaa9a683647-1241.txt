@@ -1,21 +1,21 @@
-category:ine
-creator:kun52
-creator:kupe
-landscape
-original character
-pixiv work:51016393
-subreddit:imaginarybestof
-subreddit:imaginarycolorscapes
-subreddit:imaginaryweather
-subreddit:immeta
-subreddit:imnature
-title:[/r/imaginarycolorscapes] hydrangea of june by kupe
-title:hydrangea of june by kupe
-title:六月の紫陽花
-uploader:[deleted]
-uploader:lol33ta
-あじさい
-梅雨
-紫陽花
-雨
-風景1000users入り
+category:ine,
+creator:kun52,
+creator:kupe,
+landscape,
+original character,
+pixiv work:51016393,
+subreddit:imaginarybestof,
+subreddit:imaginarycolorscapes,
+subreddit:imaginaryweather,
+subreddit:immeta,
+subreddit:imnature,
+title:[/r/imaginarycolorscapes] hydrangea of june by kupe,
+title:hydrangea of june by kupe,
+title:六月の紫陽花,
+uploader:[deleted],
+uploader:lol33ta,
+あじさい,
+梅雨,
+紫陽花,
+雨,
+風景1000users入り,

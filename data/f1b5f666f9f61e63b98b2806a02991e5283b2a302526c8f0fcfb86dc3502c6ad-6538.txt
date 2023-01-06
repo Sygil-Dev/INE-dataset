@@ -1,67 +1,67 @@
-2017
-absurd res
-ambiguous gender
-blood
-bodily fluids
-booru:e621
-category:ine
-claws
-creator:arvalis
-day
-detailed background
-digital media (artwork)
-dinosaur
-dinosaurs
-feral
-forest
-furry
-gender:ambiguous
-hi res
-horn
-horns
-medium:absurd resolution
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2017
-meta:absurd res
-meta:digital media (artwork)
-meta:english text
-meta:hi res
-open mouth
-outside
-painting
-paleoart
-plant
-predator/prey
-rating:questionable
-species:ceratopsian
-species:dinosaur
-species:extinct
-species:ornithischian
-species:reptile
-species:scalie
-species:theropod
-species:triceratops
-species:tyrannosaurid
-species:tyrannosaurus
-species:tyrannosaurus rex
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-teeth
-text
-title:t. rex vs triceratops by rj palmer
-title:t. rex vs triceratops-
-title:t. rex vs triceratops- by arvalis on deviantart (rj palmer)
-tongue
-tree
-trex
-trexdinosaur
-triceratops
-triceratopshorridus
-tyrannosaurus
-tyrannosaurusrex
-uploader:adverserius
-uploader:lol33ta
-uploader:o_no_my_buttholes
-year:2017
+2017,
+absurd res,
+ambiguous gender,
+blood,
+bodily fluids,
+booru:e621,
+category:ine,
+claws,
+creator:arvalis,
+day,
+detailed background,
+digital media (artwork),
+dinosaur,
+dinosaurs,
+feral,
+forest,
+furry,
+gender:ambiguous,
+hi res,
+horn,
+horns,
+medium:absurd resolution,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:absurd res,
+meta:digital media (artwork),
+meta:english text,
+meta:hi res,
+open mouth,
+outside,
+painting,
+paleoart,
+plant,
+predator/prey,
+rating:questionable,
+species:ceratopsian,
+species:dinosaur,
+species:extinct,
+species:ornithischian,
+species:reptile,
+species:scalie,
+species:theropod,
+species:triceratops,
+species:tyrannosaurid,
+species:tyrannosaurus,
+species:tyrannosaurus rex,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+teeth,
+text,
+title:t. rex vs triceratops by rj palmer,
+title:t. rex vs triceratops-,
+title:t. rex vs triceratops- by arvalis on deviantart (rj palmer),
+tongue,
+tree,
+trex,
+trexdinosaur,
+triceratops,
+triceratopshorridus,
+tyrannosaurus,
+tyrannosaurusrex,
+uploader:adverserius,
+uploader:lol33ta,
+uploader:o_no_my_buttholes,
+year:2017,

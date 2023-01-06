@@ -1,36 +1,36 @@
-2d
-apes
-apocalyptic
-art
-artwork
-boars
-category:ine
-clothing:military uniform
-clothing:uniform
-digital painting
-drawing
-environment
-fantasy art
-firearm
-futuristic
-genre:science fiction
-gorillas
-illustration
-juan pablo roldan
-machine gun
-medium:concept art
-medium:digital media
-pigs
-soldier
-subreddit:imaginarybattlefields
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-subreddit:imlandscapes
-tank
-title:angry gorillas by juan pablo roldan
-uniform
-uploader:natezomby
-uploader:spoon_artillery
-uploader:valar_m0rghul1s
-war
-weapon
+2d,
+apes,
+apocalyptic,
+art,
+artwork,
+boars,
+category:ine,
+clothing:military uniform,
+clothing:uniform,
+digital painting,
+drawing,
+environment,
+fantasy art,
+firearm,
+futuristic,
+genre:science fiction,
+gorillas,
+illustration,
+juan pablo roldan,
+machine gun,
+medium:concept art,
+medium:digital media,
+pigs,
+soldier,
+subreddit:imaginarybattlefields,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+tank,
+title:angry gorillas by juan pablo roldan,
+uniform,
+uploader:natezomby,
+uploader:spoon_artillery,
+uploader:valar_m0rghul1s,
+war,
+weapon,

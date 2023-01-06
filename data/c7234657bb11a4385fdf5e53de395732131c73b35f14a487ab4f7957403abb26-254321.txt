@@ -1,22 +1,22 @@
-abrar khan
-art
-artwork
-black hair
-category:ine
-clayton haugen
-cyber
-futuristic
-gender:female
-genre:cyberpunk
-genre:science fiction
-mech
-medium:concept art
-soldier
-subreddit:imaginarycybernetics
-subreddit:imaginaryfuturewar
-subreddit:imaginaryfuturism
-subreddit:imtechnology
-tattoo
-title:war veteran 2058 by abrar khan
-uploader:barson2408
-uploader:lol33ta
+abrar khan,
+art,
+artwork,
+black hair,
+category:ine,
+clayton haugen,
+cyber,
+futuristic,
+gender:female,
+genre:cyberpunk,
+genre:science fiction,
+mech,
+medium:concept art,
+soldier,
+subreddit:imaginarycybernetics,
+subreddit:imaginaryfuturewar,
+subreddit:imaginaryfuturism,
+subreddit:imtechnology,
+tattoo,
+title:war veteran 2058 by abrar khan,
+uploader:barson2408,
+uploader:lol33ta,

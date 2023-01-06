@@ -1,47 +1,47 @@
-ambiguous gender
-ambiguous_gender
-artist:tsaoshin
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:tsaoshin
-gen 1 pokemon
-gender:ambiguous
-medium:1:1 aspect ratio
-medium:digital media
-meta:1:1
-meta:2017
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-pool:15535
-rating:safe
-rock
-series:nintendo
-series:pokemon
-series:pokémon
-solo
-species:elemental creature
-species:elemental_creature
-species:mineral fauna
-species:mineral_fauna
-species:monster
-species:onix
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:rock creature
-species:rock_creature
-studio:nintendo
-subreddit:imaginaryelementals
-subreddit:immonsters
-title:095 - onix
-title:onix by eric proctor
-tongue
-tongue out
-tongue_out
-uploader:myrandall
-video games
-video_games
-year:2017
+ambiguous gender,
+ambiguous_gender,
+artist:tsaoshin,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:tsaoshin,
+gen 1 pokemon,
+gender:ambiguous,
+medium:1:1 aspect ratio,
+medium:digital media,
+meta:1:1,
+meta:2017,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+pool:15535,
+rating:safe,
+rock,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+solo,
+species:elemental creature,
+species:elemental_creature,
+species:mineral fauna,
+species:mineral_fauna,
+species:monster,
+species:onix,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:rock creature,
+species:rock_creature,
+studio:nintendo,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+title:095 - onix,
+title:onix by eric proctor,
+tongue,
+tongue out,
+tongue_out,
+uploader:myrandall,
+video games,
+video_games,
+year:2017,

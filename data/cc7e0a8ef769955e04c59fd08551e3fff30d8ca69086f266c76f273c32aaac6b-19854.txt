@@ -1,19 +1,19 @@
-blood
-category:ine
-cosplay
-cover art
-creator:david nakayama
-grimm fairy tales
-halloween
-medium:digital 2d
-pinup
-pinup girl
-skye
-subreddit:imaginaryvampires
-subreddit:immonsters
-succubus
-title:vampire pinup by david nakayama
-uploader:natezomby
-vampire
-variant cover
-zenescope
+blood,
+category:ine,
+cosplay,
+cover art,
+creator:david nakayama,
+grimm fairy tales,
+halloween,
+medium:digital 2d,
+pinup,
+pinup girl,
+skye,
+subreddit:imaginaryvampires,
+subreddit:immonsters,
+succubus,
+title:vampire pinup by david nakayama,
+uploader:natezomby,
+vampire,
+variant cover,
+zenescope,

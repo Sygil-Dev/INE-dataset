@@ -1,78 +1,78 @@
-1 female
-armor
-armored boots
-art
-back
-blonde hair
-blood
-blood on face
-blood_on_face
-bodily fluids
-boots
-bracer
-category:ine
-character:vampire envoy
-clothing:footwear
-cloud
-cloudy sky
-creator:algenpfleger
-creator:johannes voss
-face
-floating
-footwear
-from behind
-full body
-gender:female
-grey legwear
-grey_legwear
-hemokinesis
-johannes_voss
-knee boots
-levitation
-lips
-long hair
-looking afar
-looking back
-magic
-magic:_the_gathering
-marking on cheek
-marking_on_cheek
-markings
-meta:official art
-monster
-octahedron
-outdoors
-outside
-pantyhose
-ponytail
-rating:mature
-rating:safe
-red eyes
-red lips
-red skirt
-red_lips
-red_skirt
-series:magic: the gathering
-series:magic:the gathering
-shoulder armor
-shoulder spikes
-shoulder_spikes
-skirt
-sky
-solo
-spaulders
-species:undead
-species:vampire
-spikes
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryvampires
-subreddit:immonsters
-tattoo
-telekinesis
-tied hair
-title:mtg: vampire envoy
-title:mtg: vampire envoy by johannes voß
-uploader:lol33ta
-vampire envoy
-vampire_envoy
+1 female,
+armor,
+armored boots,
+art,
+back,
+blonde hair,
+blood,
+blood on face,
+blood_on_face,
+bodily fluids,
+boots,
+bracer,
+category:ine,
+character:vampire envoy,
+clothing:footwear,
+cloud,
+cloudy sky,
+creator:algenpfleger,
+creator:johannes voss,
+face,
+floating,
+footwear,
+from behind,
+full body,
+gender:female,
+grey legwear,
+grey_legwear,
+hemokinesis,
+johannes_voss,
+knee boots,
+levitation,
+lips,
+long hair,
+looking afar,
+looking back,
+magic,
+magic:_the_gathering,
+marking on cheek,
+marking_on_cheek,
+markings,
+meta:official art,
+monster,
+octahedron,
+outdoors,
+outside,
+pantyhose,
+ponytail,
+rating:mature,
+rating:safe,
+red eyes,
+red lips,
+red skirt,
+red_lips,
+red_skirt,
+series:magic: the gathering,
+series:magic:the gathering,
+shoulder armor,
+shoulder spikes,
+shoulder_spikes,
+skirt,
+sky,
+solo,
+spaulders,
+species:undead,
+species:vampire,
+spikes,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryvampires,
+subreddit:immonsters,
+tattoo,
+telekinesis,
+tied hair,
+title:mtg: vampire envoy,
+title:mtg: vampire envoy by johannes voß,
+uploader:lol33ta,
+vampire envoy,
+vampire_envoy,

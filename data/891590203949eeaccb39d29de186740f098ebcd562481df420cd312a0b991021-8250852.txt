@@ -1,40 +1,40 @@
-5 fingers
-5_fingers
-ambiguous_gender
-anthro
-anthropomorphism
-artist:katie_hofgard
-black lips
-black nose
-black_lips
-black_nose
-category:ine
-creator:katie hofgard
-creator:katiehofgard
-creator:wolf-nymph
-fingers
-gender:ambiguous
-gender:male
-lips
-male
-medium:digital media
-meta:2015
-meta:digital_media_(artwork)
-rating:safe
-smile
-source:furaffinity.net
-species:avian
-species:bird
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:winter's gift
-title:winter's gift by katie hofgard
-uploader:sachyriel
-year:2015
-yellow eyes
-yellow_eyes
+5 fingers,
+5_fingers,
+ambiguous_gender,
+anthro,
+anthropomorphism,
+artist:katie_hofgard,
+black lips,
+black nose,
+black_lips,
+black_nose,
+category:ine,
+creator:katie hofgard,
+creator:katiehofgard,
+creator:wolf-nymph,
+fingers,
+gender:ambiguous,
+gender:male,
+lips,
+male,
+medium:digital media,
+meta:2015,
+meta:digital_media_(artwork),
+rating:safe,
+smile,
+source:furaffinity.net,
+species:avian,
+species:bird,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:winter's gift,
+title:winter's gift by katie hofgard,
+uploader:sachyriel,
+year:2015,
+yellow eyes,
+yellow_eyes,

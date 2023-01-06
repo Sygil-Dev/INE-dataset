@@ -1,23 +1,23 @@
-1girl
-artist name
-blurry
-bridge
-building
-category:ine
-city
-copyright name
-lake
-mountain
-outdoors
-rating:safe
-river
-scenery
-solo
-subreddit:imaginarywaterfalls
-subreddit:imnature
-title:spring by josu hernaiz
-tree
-uploader:lol33ta
-water
-waterfall
-website:reddit
+1girl,
+artist name,
+blurry,
+bridge,
+building,
+category:ine,
+city,
+copyright name,
+lake,
+mountain,
+outdoors,
+rating:safe,
+river,
+scenery,
+solo,
+subreddit:imaginarywaterfalls,
+subreddit:imnature,
+title:spring by josu hernaiz,
+tree,
+uploader:lol33ta,
+water,
+waterfall,
+website:reddit,

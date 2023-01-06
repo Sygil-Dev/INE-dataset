@@ -1,22 +1,22 @@
-2d
-bayard wu
-category:ine
-creator:bayard wu
-doom 4
-doom (2016)
-doom (game)
-doom eternal
-doom slayer
-fan art
-fantasy armor
-fantasy weapon
-medium:digital 2d
-medium:digital media
-subreddit:imaginarybehemoths
-subreddit:imaginarydemons
-subreddit:immonsters
-title:cyberdemon
-title:cyberdemon by bayard wu
-uploader:azalann
-vertical
-video games
+2d,
+bayard wu,
+category:ine,
+creator:bayard wu,
+doom 4,
+doom (2016),
+doom (game),
+doom eternal,
+doom slayer,
+fan art,
+fantasy armor,
+fantasy weapon,
+medium:digital 2d,
+medium:digital media,
+subreddit:imaginarybehemoths,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+title:cyberdemon,
+title:cyberdemon by bayard wu,
+uploader:azalann,
+vertical,
+video games,

@@ -1,44 +1,44 @@
-ambiguous gender
-ambiguous_gender
-artist name
-artist:cryptid-creations
-blue sky
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-cutenessoverload
-day
-desert
-english text
-feral
-filename:dp1853_s
-furry
-gender:ambiguous
-igloo
-medium:patreon reward
-meta:english text
-meta:english_text
-meta:paid reward
-meta:patreon reward
-no humans
-rating:safe
-site:patreon
-site:yiff.party
-sky
-snow
-solo
-species:reptile
-species:scalie
-species:turtle
-subreddit:imaginaryturtleworlds
-subreddit:immeta
-subtitled
-text
-title:1$ patreon pack - daily paint 1853# igloo turtle
-title:5$ patreon pack - daily paint 1853# igloo turtle
-title:daily paint 1853# igloo turtle
-title:igloo turtle by piper thibodeau
-uploader:lol33ta
-watermark
-web address
-yiff id:457132
+ambiguous gender,
+ambiguous_gender,
+artist name,
+artist:cryptid-creations,
+blue sky,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+cutenessoverload,
+day,
+desert,
+english text,
+feral,
+filename:dp1853_s,
+furry,
+gender:ambiguous,
+igloo,
+medium:patreon reward,
+meta:english text,
+meta:english_text,
+meta:paid reward,
+meta:patreon reward,
+no humans,
+rating:safe,
+site:patreon,
+site:yiff.party,
+sky,
+snow,
+solo,
+species:reptile,
+species:scalie,
+species:turtle,
+subreddit:imaginaryturtleworlds,
+subreddit:immeta,
+subtitled,
+text,
+title:1$ patreon pack - daily paint 1853# igloo turtle,
+title:5$ patreon pack - daily paint 1853# igloo turtle,
+title:daily paint 1853# igloo turtle,
+title:igloo turtle by piper thibodeau,
+uploader:lol33ta,
+watermark,
+web address,
+yiff id:457132,

@@ -1,62 +1,62 @@
-2018
-alliance
-ambiguous gender
-battleforazeroth
-beak
-brown body
-brown feathers
-category:ine
-claws
-creator:sandara
-detailed background
-duo
-feathered wings
-feathers
-feral
-flying
-furry
-gender:ambiguous
-green eyes
-horde
-medium:detailed background
-medium:digital media
-membrane (anatomy)
-membranous wings
-meta:2018
-meta:digital media (artwork)
-monster
-no sclera
-open mouth
-rating:safe
-series:blizzard entertainment
-series:iranian mythology
-series:middle eastern mythology
-series:mythology
-series:warcraft
-species:avian
-species:dragon
-species:felid
-species:gryphon
-species:hybrid
-species:mammal
-species:manticore
-species:mythical
-species:mythological avian
-species:scalie
-species:wyvern
-standing
-studio:blizzard entertainment
-subreddit:imaginarybeasts
-subreddit:imaginarygaming
-subreddit:imfandoms
-subreddit:immonsters
-teeth
-title:alliance vs horde - cute version
-title:alliance vs horde - cute version by sandara tang
-tongue
-uploader:net-diver
-video games
-wings
-wow
-year:2018
-yellow eyes
+2018,
+alliance,
+ambiguous gender,
+battleforazeroth,
+beak,
+brown body,
+brown feathers,
+category:ine,
+claws,
+creator:sandara,
+detailed background,
+duo,
+feathered wings,
+feathers,
+feral,
+flying,
+furry,
+gender:ambiguous,
+green eyes,
+horde,
+medium:detailed background,
+medium:digital media,
+membrane (anatomy),
+membranous wings,
+meta:2018,
+meta:digital media (artwork),
+monster,
+no sclera,
+open mouth,
+rating:safe,
+series:blizzard entertainment,
+series:iranian mythology,
+series:middle eastern mythology,
+series:mythology,
+series:warcraft,
+species:avian,
+species:dragon,
+species:felid,
+species:gryphon,
+species:hybrid,
+species:mammal,
+species:manticore,
+species:mythical,
+species:mythological avian,
+species:scalie,
+species:wyvern,
+standing,
+studio:blizzard entertainment,
+subreddit:imaginarybeasts,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+subreddit:immonsters,
+teeth,
+title:alliance vs horde - cute version,
+title:alliance vs horde - cute version by sandara tang,
+tongue,
+uploader:net-diver,
+video games,
+wings,
+wow,
+year:2018,
+yellow eyes,

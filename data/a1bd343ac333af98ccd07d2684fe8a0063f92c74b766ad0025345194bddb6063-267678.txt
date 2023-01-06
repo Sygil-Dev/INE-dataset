@@ -1,72 +1,72 @@
-1 female
-1girl
-3d
-anime
-aqua eyes
-arm cannon
-armor
-art
-art:wallpaper
-artist:wen jr
-blonde hair
-blue eyes
-bodysuit
-booru:danbooru
-category:ine
-character:samus aran
-charging
-clothing:armor
-clothing:bodysuit
-clothing:bottomwear
-clothing:topwear
-copyright:metroid
-covered erect nipples
-creator:romeo jonathon
-creator:wen jr
-creator:wen-jr
-erect nipples
-female
-female focus
-filename:samus_tribute_by_wen_jr-d7dwi73
-firearm
-futuristic
-gender:female
-gun
-headwear
-helmet
-high resolution
-highres
-medium:3d rendering
-medium:digital media
-medium:high resolution
-medium:image
-meta:commentary request
-meta:highres
-metroid prime
-neon trim
-neon_trim
-nipples
-power armor
-powering up
-rating:safe
-rating:sensitive
-realistic
-series:metroid
-series:nintendo
-solo
-studio:nintendo
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-tagme
-title:metroid tribute by roméo jonathan
-uploader:ethan_kahn
-varia suit
-varia_suit
-video game art
-video game heroes
-video games
-wallpaper
-weapon
-wen_jr
-zero suit
-zero_suit
+1 female,
+1girl,
+3d,
+anime,
+aqua eyes,
+arm cannon,
+armor,
+art,
+art:wallpaper,
+artist:wen jr,
+blonde hair,
+blue eyes,
+bodysuit,
+booru:danbooru,
+category:ine,
+character:samus aran,
+charging,
+clothing:armor,
+clothing:bodysuit,
+clothing:bottomwear,
+clothing:topwear,
+copyright:metroid,
+covered erect nipples,
+creator:romeo jonathon,
+creator:wen jr,
+creator:wen-jr,
+erect nipples,
+female,
+female focus,
+filename:samus_tribute_by_wen_jr-d7dwi73,
+firearm,
+futuristic,
+gender:female,
+gun,
+headwear,
+helmet,
+high resolution,
+highres,
+medium:3d rendering,
+medium:digital media,
+medium:high resolution,
+medium:image,
+meta:commentary request,
+meta:highres,
+metroid prime,
+neon trim,
+neon_trim,
+nipples,
+power armor,
+powering up,
+rating:safe,
+rating:sensitive,
+realistic,
+series:metroid,
+series:nintendo,
+solo,
+studio:nintendo,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+tagme,
+title:metroid tribute by roméo jonathan,
+uploader:ethan_kahn,
+varia suit,
+varia_suit,
+video game art,
+video game heroes,
+video games,
+wallpaper,
+weapon,
+wen_jr,
+zero suit,
+zero_suit,

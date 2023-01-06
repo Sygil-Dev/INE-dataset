@@ -1,24 +1,24 @@
-boat
-bridge
-building
-category:ine
-city
-city lights
-cityscape
-cloud
-cloudy sky
-fantasy
-ocean
-outdoors
-rating:safe
-river
-scenery
-ship
-sky
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-title:iceage ark by leon tukker
-tower
-uploader:syndrel
-water
-watercraft
+boat,
+bridge,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+fantasy,
+ocean,
+outdoors,
+rating:safe,
+river,
+scenery,
+ship,
+sky,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+title:iceage ark by leon tukker,
+tower,
+uploader:syndrel,
+water,
+watercraft,

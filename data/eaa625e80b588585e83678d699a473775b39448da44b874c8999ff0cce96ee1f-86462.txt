@@ -1,24 +1,24 @@
-boat
-cargo ship
-category:ine
-concept art
-creator:uber matik
-deck
-design
-environment
-medium:digital 2d
-mysterious
-rough seas
-sea
-ship
-shipping containers
-subreddit:imaginaryseascapes
-subreddit:imaginaryvessels
-subreddit:imlandscapes
-subreddit:imtechnology
-title:cargo ship
-title:cargo ship by theo hodkin [oc]
-title:cargo ship, by theo hodkin [oc]
-uploader:ubermatik
-vehicle
-watercraft
+boat,
+cargo ship,
+category:ine,
+concept art,
+creator:uber matik,
+deck,
+design,
+environment,
+medium:digital 2d,
+mysterious,
+rough seas,
+sea,
+ship,
+shipping containers,
+subreddit:imaginaryseascapes,
+subreddit:imaginaryvessels,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+title:cargo ship,
+title:cargo ship by theo hodkin [oc],
+title:cargo ship, by theo hodkin [oc],
+uploader:ubermatik,
+vehicle,
+watercraft,

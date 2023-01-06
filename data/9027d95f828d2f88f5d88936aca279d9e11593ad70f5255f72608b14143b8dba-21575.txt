@@ -1,27 +1,27 @@
-blizzard
-blizzardfest
-category:ine
-challenge
-clothing:armor
-creator:paul spitzyn
-genre:fantasy
-knight
-medium:detailed background
-mounted
-necromancer
-plate armor
-rating:safe
-skeleton
-species:undead
-spectral
-subreddit:imaginaryknights
-subreddit:imaginaryspirits
-subreddit:imaginaryundead
-subreddit:imcharacters
-subreddit:immonsters
-sword
-title:spectral knight
-title:spectral knight by paul spitzyn
-undead
-uploader:tamander
-weapon
+blizzard,
+blizzardfest,
+category:ine,
+challenge,
+clothing:armor,
+creator:paul spitzyn,
+genre:fantasy,
+knight,
+medium:detailed background,
+mounted,
+necromancer,
+plate armor,
+rating:safe,
+skeleton,
+species:undead,
+spectral,
+subreddit:imaginaryknights,
+subreddit:imaginaryspirits,
+subreddit:imaginaryundead,
+subreddit:imcharacters,
+subreddit:immonsters,
+sword,
+title:spectral knight,
+title:spectral knight by paul spitzyn,
+undead,
+uploader:tamander,
+weapon,

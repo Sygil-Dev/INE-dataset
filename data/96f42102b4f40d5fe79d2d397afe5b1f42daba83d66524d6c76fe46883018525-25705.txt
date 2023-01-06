@@ -1,33 +1,33 @@
-1 male
-1boy
-art
-blue lipstick
-cape
-category:ine
-character:caster (fate/grand order)
-character:mephistopheles (fate/grand order)
-clothing:headwear
-clown
-creator:simosi
-gender:male
-hat
-lipstick
-long hair
-makeup
-male focus
-medium:transparent background
-meta:official art
-pale skin
-pantyhose
-purple hair
-rating:safe
-scissors
-series:fate
-series:fate (series)
-series:fate/grand order
-shimokoshi
-solo
-subreddit:imaginarydemons
-subreddit:immonsters
-title:mephistopheles by simosi (シモシ)
-uploader:zwegria707
+1 male,
+1boy,
+art,
+blue lipstick,
+cape,
+category:ine,
+character:caster (fate/grand order),
+character:mephistopheles (fate/grand order),
+clothing:headwear,
+clown,
+creator:simosi,
+gender:male,
+hat,
+lipstick,
+long hair,
+makeup,
+male focus,
+medium:transparent background,
+meta:official art,
+pale skin,
+pantyhose,
+purple hair,
+rating:safe,
+scissors,
+series:fate,
+series:fate (series),
+series:fate/grand order,
+shimokoshi,
+solo,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+title:mephistopheles by simosi (シモシ),
+uploader:zwegria707,

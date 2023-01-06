@@ -1,21 +1,21 @@
-aliens
-attack
-car
-category:ine
-creator:col price
-desert
-film making
-ground vehicle
-lookdev
-motor vehicle
-production art
-scifi
-spaceship
-subreddit:imaginarystarships
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-title:the chase
-title:the chase by col price
-ufo
-uploader:net-diver
-vehicle
+aliens,
+attack,
+car,
+category:ine,
+creator:col price,
+desert,
+film making,
+ground vehicle,
+lookdev,
+motor vehicle,
+production art,
+scifi,
+spaceship,
+subreddit:imaginarystarships,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+title:the chase,
+title:the chase by col price,
+ufo,
+uploader:net-diver,
+vehicle,

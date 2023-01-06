@@ -1,96 +1,96 @@
-african grey
-alternate species
-alternate_species
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-bird
-black eyes
-black_eyes
-blue body
-blue feathers
-blue_body
-blue_feathers
-bodypart:black eyes
-branch
-category:ine
-character:gandalf the grey
-character:gandalf_the_grey
-clothing
-clothing:cape
-clothing:hat
-clothing:headwear
-copyright:j._r._r._tolkien
-copyright:middle-earth_(tolkien)
-copyright:the_lord_of_the_rings
-creator:cryptid-creations
-feathered wings
-feathered_wings
-feathers
-feral
-furrification
-gender:ambiguous
-grey body
-grey feathers
-grey_body
-grey_feathers
-group
-hat
-headgear
-headwear
-humor
-medium:simple background
-medium:white background
-meme:humor
-meta:english text
-meta:english_text
-meta:url
-prehensile feet
-prehensile_feet
-pun
-rating:safe
-red wings
-red_wings
-series:j. r. r. tolkien
-series:middle-earth (tolkien)
-series:the lord of the rings
-simple background
-simple_background
-size difference
-size_difference
-species:african grey
-species:african_grey
-species:afrotropical parrot
-species:afrotropical_parrot
-species:avian
-species:bird
-species:budgerigar
-species:loriinae
-species:parakeet
-species:parrot
-species:true parrot
-species:true_parrot
-staff
-subreddit:imaginaryanimals
-subreddit:imaginarymiddleearth
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imfandoms
-subreddit:imnature
-text
-title:gandalf the african grey by piper thibodeau
-uploader:lol33ta
-uploader:myrandall
-visual pun
-visual_pun
-website:reddit
-white background
-white_background
-wings
-wizard hat
-wizard_hat
-wood
-yellow body
-yellow feathers
-yellow_body
-yellow_feathers
+african grey,
+alternate species,
+alternate_species,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+bird,
+black eyes,
+black_eyes,
+blue body,
+blue feathers,
+blue_body,
+blue_feathers,
+bodypart:black eyes,
+branch,
+category:ine,
+character:gandalf the grey,
+character:gandalf_the_grey,
+clothing,
+clothing:cape,
+clothing:hat,
+clothing:headwear,
+copyright:j._r._r._tolkien,
+copyright:middle-earth_(tolkien),
+copyright:the_lord_of_the_rings,
+creator:cryptid-creations,
+feathered wings,
+feathered_wings,
+feathers,
+feral,
+furrification,
+gender:ambiguous,
+grey body,
+grey feathers,
+grey_body,
+grey_feathers,
+group,
+hat,
+headgear,
+headwear,
+humor,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:english text,
+meta:english_text,
+meta:url,
+prehensile feet,
+prehensile_feet,
+pun,
+rating:safe,
+red wings,
+red_wings,
+series:j. r. r. tolkien,
+series:middle-earth (tolkien),
+series:the lord of the rings,
+simple background,
+simple_background,
+size difference,
+size_difference,
+species:african grey,
+species:african_grey,
+species:afrotropical parrot,
+species:afrotropical_parrot,
+species:avian,
+species:bird,
+species:budgerigar,
+species:loriinae,
+species:parakeet,
+species:parrot,
+species:true parrot,
+species:true_parrot,
+staff,
+subreddit:imaginaryanimals,
+subreddit:imaginarymiddleearth,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imfandoms,
+subreddit:imnature,
+text,
+title:gandalf the african grey by piper thibodeau,
+uploader:lol33ta,
+uploader:myrandall,
+visual pun,
+visual_pun,
+website:reddit,
+white background,
+white_background,
+wings,
+wizard hat,
+wizard_hat,
+wood,
+yellow body,
+yellow feathers,
+yellow_body,
+yellow_feathers,

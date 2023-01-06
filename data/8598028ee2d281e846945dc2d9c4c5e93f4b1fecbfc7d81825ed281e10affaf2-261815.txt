@@ -1,24 +1,24 @@
-animal
-artwork
-boat
-carrot
-carrots
-category:ine
-fantasy art
-forest
-rabbits
-subreddit:imaginaryanimals
-subreddit:imaginarymindscapes
-subreddit:imaginaryswamps
-subreddit:imnature
-swamp
-title:"collapse of darkness" by gediminas pranckevicius
-title:collapse of darkness by gediminas pranckevicius
-title:collapse of darkness by gediminas pranckevičius
-trees
-uploader:3dom
-uploader:o-shi
-uploader:valar_m0rghul1s
-vegetable
-vehicle
-watercraft
+animal,
+artwork,
+boat,
+carrot,
+carrots,
+category:ine,
+fantasy art,
+forest,
+rabbits,
+subreddit:imaginaryanimals,
+subreddit:imaginarymindscapes,
+subreddit:imaginaryswamps,
+subreddit:imnature,
+swamp,
+title:"collapse of darkness" by gediminas pranckevicius,
+title:collapse of darkness by gediminas pranckevicius,
+title:collapse of darkness by gediminas pranckevičius,
+trees,
+uploader:3dom,
+uploader:o-shi,
+uploader:valar_m0rghul1s,
+vegetable,
+vehicle,
+watercraft,

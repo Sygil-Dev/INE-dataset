@@ -1,70 +1,70 @@
-action:open mouth
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-beef
-black eyes
-black_eyes
-bodypart:black eyes
-broccoli
-category:ine
-claws
-creator:cryptid-creations
-duo
-feral
-food
-furry
-gender:ambiguous
-humor
-hungry
-meat
-medium:simple background
-medium:white background
-meme:humor
-meta:white background
-open mouth
-open_mouth
-outside
-plant
-pun
-rating:safe
-running
-scared
-simple background
-simple_background
-sky
-species:brachiosaurid
-species:brachiosaurus
-species:dinosaur
-species:elemental creature
-species:elemental_creature
-species:extinct
-species:flora fauna
-species:flora_fauna
-species:food creature
-species:food_creature
-species:living vegetable
-species:living_vegetable
-species:reptile
-species:sauropod
-species:scalie
-species:theropod
-species:tyrannosaurid
-species:tyrannosaurus
-species:tyrannosaurus rex
-species:tyrannosaurus_rex
-steak
-subreddit:imaginarydinosaurs
-subreddit:imaginaryfood
-subreddit:immeta
-subreddit:immonsters
-teeth
-title:daily paint 1602. t-bone rex vs. brocciosaurus
-title:t-bone rex vs. brocciosaurus by piper thibodeau
-tongue
-tree
-uploader:myrandall
-vegetable
-visual pun
-visual_pun
-white_background
+action:open mouth,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+beef,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+broccoli,
+category:ine,
+claws,
+creator:cryptid-creations,
+duo,
+feral,
+food,
+furry,
+gender:ambiguous,
+humor,
+hungry,
+meat,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:white background,
+open mouth,
+open_mouth,
+outside,
+plant,
+pun,
+rating:safe,
+running,
+scared,
+simple background,
+simple_background,
+sky,
+species:brachiosaurid,
+species:brachiosaurus,
+species:dinosaur,
+species:elemental creature,
+species:elemental_creature,
+species:extinct,
+species:flora fauna,
+species:flora_fauna,
+species:food creature,
+species:food_creature,
+species:living vegetable,
+species:living_vegetable,
+species:reptile,
+species:sauropod,
+species:scalie,
+species:theropod,
+species:tyrannosaurid,
+species:tyrannosaurus,
+species:tyrannosaurus rex,
+species:tyrannosaurus_rex,
+steak,
+subreddit:imaginarydinosaurs,
+subreddit:imaginaryfood,
+subreddit:immeta,
+subreddit:immonsters,
+teeth,
+title:daily paint 1602. t-bone rex vs. brocciosaurus,
+title:t-bone rex vs. brocciosaurus by piper thibodeau,
+tongue,
+tree,
+uploader:myrandall,
+vegetable,
+visual pun,
+visual_pun,
+white_background,

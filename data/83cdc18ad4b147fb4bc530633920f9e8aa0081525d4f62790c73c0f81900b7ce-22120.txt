@@ -1,76 +1,76 @@
-armor
-art
-black hair
-booru:e621
-boots
-bottomwear
-bracers
-branch
-cape
-category:ine
-character:nissa revane
-character:planeswalker
-cloak
-clothing
-clothing:armor
-clothing:cape
-clothing:footwear
-clothing:skirt
-clothing:tagme
-cloud
-creator:petemohrbacher
-creator:peter mohrbacher
-day
-ears
-female
-footwear
-forest
-gender:female
-greaves
-green eyes
-hair
-hedron
-holding object
-holding weapon
-humanoid pointy ears
-in tree
-melee weapon
-meta:official art
-midriff
-not furry
-outside
-planeswalker
-plant
-pointy ears
-polearm
-rating:safe
-rock
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-side view
-skirt
-sky
-solo
-species:elf
-species:humanoid
-staff
-standing
-stone
-studded armor
-studio:hasbro
-studio:wizards of the coast
-studs
-subreddit:imaginaryelves
-subreddit:imraces
-tag source:e621
-tan body
-tan skin
-tattoo
-title:nissa, worldwaker
-title:nissa, worldwaker by peter mohrbacher
-tree
-uploader:tamander
-weapon
+armor,
+art,
+black hair,
+booru:e621,
+boots,
+bottomwear,
+bracers,
+branch,
+cape,
+category:ine,
+character:nissa revane,
+character:planeswalker,
+cloak,
+clothing,
+clothing:armor,
+clothing:cape,
+clothing:footwear,
+clothing:skirt,
+clothing:tagme,
+cloud,
+creator:petemohrbacher,
+creator:peter mohrbacher,
+day,
+ears,
+female,
+footwear,
+forest,
+gender:female,
+greaves,
+green eyes,
+hair,
+hedron,
+holding object,
+holding weapon,
+humanoid pointy ears,
+in tree,
+melee weapon,
+meta:official art,
+midriff,
+not furry,
+outside,
+planeswalker,
+plant,
+pointy ears,
+polearm,
+rating:safe,
+rock,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+side view,
+skirt,
+sky,
+solo,
+species:elf,
+species:humanoid,
+staff,
+standing,
+stone,
+studded armor,
+studio:hasbro,
+studio:wizards of the coast,
+studs,
+subreddit:imaginaryelves,
+subreddit:imraces,
+tag source:e621,
+tan body,
+tan skin,
+tattoo,
+title:nissa, worldwaker,
+title:nissa, worldwaker by peter mohrbacher,
+tree,
+uploader:tamander,
+weapon,

@@ -1,21 +1,21 @@
-alive
-blackandwhite
-category:ine
-creator:quentinvcastel
-creepy
-cute
-dead
-digital
-digitalpainting
-girl
-grey
-livingdead
-painting
-series
-sketch
-subreddit:imaginaryundead
-subreddit:immonsters
-title:zombie girl - 4
-title:zombie girl by quentin vladimir castel
-uploader:o-shi
-zombie
+alive,
+blackandwhite,
+category:ine,
+creator:quentinvcastel,
+creepy,
+cute,
+dead,
+digital,
+digitalpainting,
+girl,
+grey,
+livingdead,
+painting,
+series,
+sketch,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+title:zombie girl - 4,
+title:zombie girl by quentin vladimir castel,
+uploader:o-shi,
+zombie,

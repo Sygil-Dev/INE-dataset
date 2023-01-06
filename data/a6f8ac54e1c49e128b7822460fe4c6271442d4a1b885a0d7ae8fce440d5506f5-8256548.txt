@@ -1,67 +1,67 @@
-2017
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-creator:queen-kittykat
-creator:ukulilia
-creek
-cutie mark
-detailed background
-feathered wings
-feathers
-female
-feral
-full-length portrait
-gender:female
-genre:fantasy
-grass
-guro
-horn
-horns
-medium:absurd resolution
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2017
-meta:absurd res
-meta:digital media (artwork)
-meta:full-length portrait
-meta:hi res
-meta:nsfw
-meta:portrait
-mountain
-night
-nude
-plant
-portrait
-rating:explicit
-rating:mature
-rating:safe
-scenery
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-side view
-sitting
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-spread wings
-star
-starry sky
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sunset
-title:she is the night
-title:she is the night by "queen-kittykat"
-uploader:king_of_the_kobolds
-wind
-wings
-year:2017
+2017,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+creator:queen-kittykat,
+creator:ukulilia,
+creek,
+cutie mark,
+detailed background,
+feathered wings,
+feathers,
+female,
+feral,
+full-length portrait,
+gender:female,
+genre:fantasy,
+grass,
+guro,
+horn,
+horns,
+medium:absurd resolution,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:absurd res,
+meta:digital media (artwork),
+meta:full-length portrait,
+meta:hi res,
+meta:nsfw,
+meta:portrait,
+mountain,
+night,
+nude,
+plant,
+portrait,
+rating:explicit,
+rating:mature,
+rating:safe,
+scenery,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+side view,
+sitting,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+spread wings,
+star,
+starry sky,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sunset,
+title:she is the night,
+title:she is the night by "queen-kittykat",
+uploader:king_of_the_kobolds,
+wind,
+wings,
+year:2017,

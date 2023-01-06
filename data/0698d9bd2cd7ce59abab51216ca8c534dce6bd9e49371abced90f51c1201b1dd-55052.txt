@@ -1,37 +1,37 @@
-1girl
-black eyes
-black hair
-blood
-blood on clothes
-blood on face
-blood on hands
-blood on weapon
-blood splatter
-blue background
-category:ine
-character:ogata hyakunosuke
-dirty
-dirty face
-hair strand
-holding
-holding weapon
-injury
-long hair
-long sleeves
-military
-military uniform
-nosebleed
-open mouth
-rating:safe
-scar
-scar on cheek
-scar on face
-solo
-subreddit:imaginarywesteros
-subreddit:imfandoms
-teeth
-title:arya by ami thompson
-uniform
-uploader:malign-god
-upper body
-weapon
+1girl,
+black eyes,
+black hair,
+blood,
+blood on clothes,
+blood on face,
+blood on hands,
+blood on weapon,
+blood splatter,
+blue background,
+category:ine,
+character:ogata hyakunosuke,
+dirty,
+dirty face,
+hair strand,
+holding,
+holding weapon,
+injury,
+long hair,
+long sleeves,
+military,
+military uniform,
+nosebleed,
+open mouth,
+rating:safe,
+scar,
+scar on cheek,
+scar on face,
+solo,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+teeth,
+title:arya by ami thompson,
+uniform,
+uploader:malign-god,
+upper body,
+weapon,

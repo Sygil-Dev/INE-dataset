@@ -1,22 +1,22 @@
-castle
-category:ine
-concept art
-creator:raphael lacoste
-film
-illustration
-jupiter ascending
-matte painting
-medium:digital 2d
-movie
-science fiction
-sf
-subreddit:imaginarycastles
-subreddit:imarchitecture
-sunset
-title:jupiter ascending castle
-title:jupiter ascending castle art by raphael lacoste
-title:jupiter ascending castle by raphael lacoste
-uploader:panzer-kunst
-uploader:racconccity
-wa
-wachowski
+castle,
+category:ine,
+concept art,
+creator:raphael lacoste,
+film,
+illustration,
+jupiter ascending,
+matte painting,
+medium:digital 2d,
+movie,
+science fiction,
+sf,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+sunset,
+title:jupiter ascending castle,
+title:jupiter ascending castle art by raphael lacoste,
+title:jupiter ascending castle by raphael lacoste,
+uploader:panzer-kunst,
+uploader:racconccity,
+wa,
+wachowski,

@@ -1,48 +1,48 @@
-2018
-booru:e621
-category:ine
-clothed
-clothing
-clothing:tagme
-creator:yakovlev-vad
-day
-detailed background
-digital media (artwork)
-female
-gender:female
-medium:detailed background
-medium:digital media
-medium:high resolution
-medium:sketch
-medium:video game
-meta:2018
-meta:digital media (artwork)
-meta:hi res
-meta:monochrome
-meta:sketch
-outside
-rating:safe
-series:blizzard entertainment
-series:warcraft
-sketch
-solo
-species:cervid
-species:cervid taur
-species:cervine
-species:cervine taur
-species:deer
-species:deertaur
-species:dryad
-species:elf
-species:humanoid
-species:mammal
-species:mammal taur
-species:taur
-studio:blizzard entertainment
-subreddit:imaginarycentaurs
-subreddit:imraces
-title:dryad sketch by yakovlev vadim
-title:sketch (patreon reward)
-uploader:myrandall
-video games
-year:2018
+2018,
+booru:e621,
+category:ine,
+clothed,
+clothing,
+clothing:tagme,
+creator:yakovlev-vad,
+day,
+detailed background,
+digital media (artwork),
+female,
+gender:female,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+medium:sketch,
+medium:video game,
+meta:2018,
+meta:digital media (artwork),
+meta:hi res,
+meta:monochrome,
+meta:sketch,
+outside,
+rating:safe,
+series:blizzard entertainment,
+series:warcraft,
+sketch,
+solo,
+species:cervid,
+species:cervid taur,
+species:cervine,
+species:cervine taur,
+species:deer,
+species:deertaur,
+species:dryad,
+species:elf,
+species:humanoid,
+species:mammal,
+species:mammal taur,
+species:taur,
+studio:blizzard entertainment,
+subreddit:imaginarycentaurs,
+subreddit:imraces,
+title:dryad sketch by yakovlev vadim,
+title:sketch (patreon reward),
+uploader:myrandall,
+video games,
+year:2018,

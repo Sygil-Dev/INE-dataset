@@ -1,71 +1,71 @@
-1 female
-1 male
-1boy
-1girl
-armor
-booru:gelbooru
-booru:sankaku channel
-booru:tbib
-category:ine
-chromatic aberration
-closed mouth
-clothing:armor
-clothing:hair tie
-creator:sakimichan
-elf
-fairy
-fairy wings
-from side
-gender:female
-gender:male
-glowing
-glowing eyes
-guro
-hair tie
-headwear
-helmet
-horns
-in profile
-looking at another
-male
-male focus
-medium:2d art
-medium:chromatic aberration
-medium:high resolution
-medium:realistic
-medium:simple background
-medium:white background
-meta:highres
-meta:pixiv-import
-metal
-minigirl
-naked
-nude
-ponytail
-profile
-rating:explicit
-rating:mature
-rating:safe
-rating:sensitive
-realistic
-sad
-sakimichan
-series:original
-sharp nails
-simple background
-site:deviant art
-size difference
-species:fairy
-species:mythical
-studio:metal
-subreddit:imaginaryelves
-subreddit:imaginaryfaeries
-subreddit:imraces
-tied hair
-title:hello friend by yue wang
-uploader:forsureaturtle
-uploader:myrandall
-upper body
-white background
-white eyes
-wings
+1 female,
+1 male,
+1boy,
+1girl,
+armor,
+booru:gelbooru,
+booru:sankaku channel,
+booru:tbib,
+category:ine,
+chromatic aberration,
+closed mouth,
+clothing:armor,
+clothing:hair tie,
+creator:sakimichan,
+elf,
+fairy,
+fairy wings,
+from side,
+gender:female,
+gender:male,
+glowing,
+glowing eyes,
+guro,
+hair tie,
+headwear,
+helmet,
+horns,
+in profile,
+looking at another,
+male,
+male focus,
+medium:2d art,
+medium:chromatic aberration,
+medium:high resolution,
+medium:realistic,
+medium:simple background,
+medium:white background,
+meta:highres,
+meta:pixiv-import,
+metal,
+minigirl,
+naked,
+nude,
+ponytail,
+profile,
+rating:explicit,
+rating:mature,
+rating:safe,
+rating:sensitive,
+realistic,
+sad,
+sakimichan,
+series:original,
+sharp nails,
+simple background,
+site:deviant art,
+size difference,
+species:fairy,
+species:mythical,
+studio:metal,
+subreddit:imaginaryelves,
+subreddit:imaginaryfaeries,
+subreddit:imraces,
+tied hair,
+title:hello friend by yue wang,
+uploader:forsureaturtle,
+uploader:myrandall,
+upper body,
+white background,
+white eyes,
+wings,

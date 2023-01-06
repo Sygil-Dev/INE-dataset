@@ -1,45 +1,45 @@
-1 male
-1boy
-artist:avogado6
-bag
-black background
-category:ine
-clothing:collared shirt
-clothing:school uniform
-clothing:shirt
-clothing:short sleeves
-clothing:shoulder bag
-clothing:uniform
-collared shirt
-copyright:original
-creator:avogado6
-gender:male
-male focus
-medium:black background
-medium:focus on male character
-medium:simple background
-medium:spot color
-meta:commentary
-meta:tagme
-noose
-rating:mature
-rating:safe
-rope
-school bag
-school uniform
-series:original
-shadow
-shirt
-short hair
-short sleeves
-shoulder bag
-simple background
-sitting
-solo
-spot color
-subreddit:imaginaryfeels
-subreddit:immeta
-title:i don't want to go by avogado6
-uniform
-uploader:[deleted]
-website:reddit
+1 male,
+1boy,
+artist:avogado6,
+bag,
+black background,
+category:ine,
+clothing:collared shirt,
+clothing:school uniform,
+clothing:shirt,
+clothing:short sleeves,
+clothing:shoulder bag,
+clothing:uniform,
+collared shirt,
+copyright:original,
+creator:avogado6,
+gender:male,
+male focus,
+medium:black background,
+medium:focus on male character,
+medium:simple background,
+medium:spot color,
+meta:commentary,
+meta:tagme,
+noose,
+rating:mature,
+rating:safe,
+rope,
+school bag,
+school uniform,
+series:original,
+shadow,
+shirt,
+short hair,
+short sleeves,
+shoulder bag,
+simple background,
+sitting,
+solo,
+spot color,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+title:i don't want to go by avogado6,
+uniform,
+uploader:[deleted],
+website:reddit,

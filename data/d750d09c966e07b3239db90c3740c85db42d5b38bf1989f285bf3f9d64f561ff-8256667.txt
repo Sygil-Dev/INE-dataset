@@ -1,79 +1,79 @@
-armor
-artist:juliagoldfox
-black sclera
-black_sclera
-blue eyes
-blue_eyes
-booru:e621
-category:ine
-character:daybreaker (mlp)
-character:daybreaker_(mlp)
-character:nightmare moon
-character:nightmare moon (mlp)
-character:nightmare_moon_(mlp)
-character:princess celestia
-character:princess celestia (mlp)
-character:princess_celestia_(mlp)
-character:starlight glimmer
-character:starlight glimmer (mlp)
-character:starlight_glimmer_(mlp)
-collar
-colored sclera
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:my_little_pony
-cosmic hair
-cosmic_hair
-creator:juliagoldfox
-cutie mark
-cutie_mark
-duo focus
-duo_focus
-ethereal hair
-ethereal_hair
-feathered wings
-feathered_wings
-feathers
-flying
-genre:fantasy
-grin
-group
-headgear
-headwear
-helmet
-horn
-horns
-magic
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-meta:2017
-meta:absurd_res
-meta:digital_media_(artwork)
-meta:hi_res
-pseudo hair
-pseudo_hair
-pupils
-rating:safe
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-slit pupils
-slit_pupils
-smile
-species:equid
-species:mammal
-species:winged unicorn
-species:winged_unicorn
-square crossover
-square_crossover
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:arise
-title:arise by juliagoldfox
-uploader:caligari87
-wings
-year:2017
-yellow eyes
-yellow_eyes
+armor,
+artist:juliagoldfox,
+black sclera,
+black_sclera,
+blue eyes,
+blue_eyes,
+booru:e621,
+category:ine,
+character:daybreaker (mlp),
+character:daybreaker_(mlp),
+character:nightmare moon,
+character:nightmare moon (mlp),
+character:nightmare_moon_(mlp),
+character:princess celestia,
+character:princess celestia (mlp),
+character:princess_celestia_(mlp),
+character:starlight glimmer,
+character:starlight glimmer (mlp),
+character:starlight_glimmer_(mlp),
+collar,
+colored sclera,
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:my_little_pony,
+cosmic hair,
+cosmic_hair,
+creator:juliagoldfox,
+cutie mark,
+cutie_mark,
+duo focus,
+duo_focus,
+ethereal hair,
+ethereal_hair,
+feathered wings,
+feathered_wings,
+feathers,
+flying,
+genre:fantasy,
+grin,
+group,
+headgear,
+headwear,
+helmet,
+horn,
+horns,
+magic,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:absurd_res,
+meta:digital_media_(artwork),
+meta:hi_res,
+pseudo hair,
+pseudo_hair,
+pupils,
+rating:safe,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+slit pupils,
+slit_pupils,
+smile,
+species:equid,
+species:mammal,
+species:winged unicorn,
+species:winged_unicorn,
+square crossover,
+square_crossover,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:arise,
+title:arise by juliagoldfox,
+uploader:caligari87,
+wings,
+year:2017,
+yellow eyes,
+yellow_eyes,

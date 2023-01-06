@@ -1,61 +1,61 @@
-anthropomorphism
-artist:chromamancer
-blue eyes
-blue_eyes
-book
-books
-booru:e621
-candle
-candlelight
-category:ine
-claws
-creator:arathdragon
-creator:chromamancer
-detailed background
-detailed_background
-dragon
-fantasy
-feral
-fire
-furry
-genre:fantasy
-horn
-horns
-library
-medium:detailed background
-medium:high resolution
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:hi res
-meta:hi_res
-pillow
-pupils
-rating:safe
-reading
-red body
-red scales
-red_body
-red_scales
-scales
-slit pupils
-slit_pupils
-solo
-source:furaffinity.net
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-subreddit:imaginaryscholars
-subreddit:imcharacters
-title:bookwyrm
-title:bookwyrm, by chromamancer
-uploader:belledame-sans-serif
-wax
-website:reddit
-western
-wings
-writing (disambiguation)
-writing_(disambiguation)
+anthropomorphism,
+artist:chromamancer,
+blue eyes,
+blue_eyes,
+book,
+books,
+booru:e621,
+candle,
+candlelight,
+category:ine,
+claws,
+creator:arathdragon,
+creator:chromamancer,
+detailed background,
+detailed_background,
+dragon,
+fantasy,
+feral,
+fire,
+furry,
+genre:fantasy,
+horn,
+horns,
+library,
+medium:detailed background,
+medium:high resolution,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:hi res,
+meta:hi_res,
+pillow,
+pupils,
+rating:safe,
+reading,
+red body,
+red scales,
+red_body,
+red_scales,
+scales,
+slit pupils,
+slit_pupils,
+solo,
+source:furaffinity.net,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+title:bookwyrm,
+title:bookwyrm, by chromamancer,
+uploader:belledame-sans-serif,
+wax,
+website:reddit,
+western,
+wings,
+writing (disambiguation),
+writing_(disambiguation),

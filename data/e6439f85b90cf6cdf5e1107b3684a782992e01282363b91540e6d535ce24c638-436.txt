@@ -1,38 +1,38 @@
-booru:e621
-category:ine
-cloudscape
-creator:jason felix
-detailed background
-dutch angle
-feral
-flying
-furry
-medium:detailed background
-membrane (anatomy)
-membranous wings
-meta:official art
-meta:signature
-open mouth
-outside
-rating:safe
-series:hasbro
-series:magic: the gathering
-series:official art
-sharp teeth
-signature
-sky
-solo
-species:dragon
-species:mythical
-species:scalie
-species:wyvern
-spines
-spread wings
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-teeth
-title:thunderclap wyvern by jason felix
-uploader:malign-god
-wings
+booru:e621,
+category:ine,
+cloudscape,
+creator:jason felix,
+detailed background,
+dutch angle,
+feral,
+flying,
+furry,
+medium:detailed background,
+membrane (anatomy),
+membranous wings,
+meta:official art,
+meta:signature,
+open mouth,
+outside,
+rating:safe,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+sharp teeth,
+signature,
+sky,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+species:wyvern,
+spines,
+spread wings,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+teeth,
+title:thunderclap wyvern by jason felix,
+uploader:malign-god,
+wings,

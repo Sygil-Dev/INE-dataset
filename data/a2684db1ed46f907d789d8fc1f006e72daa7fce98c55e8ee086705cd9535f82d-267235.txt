@@ -1,46 +1,46 @@
-1 female
-1girl
-animal tail
-beach
-black hair
-blue eyes
-category:ine
-character:capricorn (zodiac)
-character:original character
-character:zodiac
-constellation
-creator:fdasuarez
-female
-fish tail
-gender:female
-horns
-long hair
-looking at viewer
-mole
-monster girl
-night
-ocean
-outdoors
-outside
-point of view
-pov
-rating:q
-rating:questionable
-rock
-saturn
-series:capricorn
-series:original
-sitting
-sitting on floor
-studio:capricorn
-subreddit:imaginarymerfolk
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-subreddit:imraces
-tail
-title:cinders and rain by fernanda suarez
-uploader:myrandall
-uploader:n0laloth
-water
-waves
-zodiac (personification)
+1 female,
+1girl,
+animal tail,
+beach,
+black hair,
+blue eyes,
+category:ine,
+character:capricorn (zodiac),
+character:original character,
+character:zodiac,
+constellation,
+creator:fdasuarez,
+female,
+fish tail,
+gender:female,
+horns,
+long hair,
+looking at viewer,
+mole,
+monster girl,
+night,
+ocean,
+outdoors,
+outside,
+point of view,
+pov,
+rating:q,
+rating:questionable,
+rock,
+saturn,
+series:capricorn,
+series:original,
+sitting,
+sitting on floor,
+studio:capricorn,
+subreddit:imaginarymerfolk,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+subreddit:imraces,
+tail,
+title:cinders and rain by fernanda suarez,
+uploader:myrandall,
+uploader:n0laloth,
+water,
+waves,
+zodiac (personification),

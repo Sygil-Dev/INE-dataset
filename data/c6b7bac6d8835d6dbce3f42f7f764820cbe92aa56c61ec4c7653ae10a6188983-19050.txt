@@ -1,61 +1,61 @@
-1 female
-1girl
-arang
-bangs
-blunt bangs
-breasts
-brown hair
-category:ine
-collar
-collared jacket
-creator:taekwon kim
-creator:taekwon kim / a-rang
-dated
-drawing
-earrings
-eyeshadow
-gender:female
-high ponytail
-illustration
-jacket
-jacket on shoulders
-jewelry
-lips
-lipstick
-long hair
-long sleeves
-looking at viewer
-makeup
-medium:absurd resolution
-medium:dated
-medium:digital 2d
-medium:high resolution
-mole
-mole under eye
-necklace
-open clothes
-open jacket
-painting
-parted lips
-pink lips
-point of view
-ponytail
-pov
-rating:mature
-rating:safe
-realistic
-series:original
-smile
-smirk
-solo
-subreddit:imaginaryfashion
-subreddit:immeta
-sweater
-tied hair
-title:fashion girl
-title:fashion girl by taekwon kim / a-rang
-turtleneck
-turtleneck sweater
-uploader:net-diver
-upper body
-yellow eyes
+1 female,
+1girl,
+arang,
+bangs,
+blunt bangs,
+breasts,
+brown hair,
+category:ine,
+collar,
+collared jacket,
+creator:taekwon kim,
+creator:taekwon kim / a-rang,
+dated,
+drawing,
+earrings,
+eyeshadow,
+gender:female,
+high ponytail,
+illustration,
+jacket,
+jacket on shoulders,
+jewelry,
+lips,
+lipstick,
+long hair,
+long sleeves,
+looking at viewer,
+makeup,
+medium:absurd resolution,
+medium:dated,
+medium:digital 2d,
+medium:high resolution,
+mole,
+mole under eye,
+necklace,
+open clothes,
+open jacket,
+painting,
+parted lips,
+pink lips,
+point of view,
+ponytail,
+pov,
+rating:mature,
+rating:safe,
+realistic,
+series:original,
+smile,
+smirk,
+solo,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+sweater,
+tied hair,
+title:fashion girl,
+title:fashion girl by taekwon kim / a-rang,
+turtleneck,
+turtleneck sweater,
+uploader:net-diver,
+upper body,
+yellow eyes,

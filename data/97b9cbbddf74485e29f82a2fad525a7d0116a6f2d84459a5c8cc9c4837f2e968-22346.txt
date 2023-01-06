@@ -1,32 +1,32 @@
-1 male
-1boy
-10s
-blurry
-character:kogitsunemaru
-chromatic aberration
-clothing:gloves
-creator:penguin frontier
-depth of field
-flower
-gender:male
-gloves
-katana
-kogitsunemaru
-long hair
-male focus
-nipples
-open mouth
-partly fingerless gloves
-rating:safe
-series:touken ranbu
-shirtless
-solo
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-sword
-title:kogitsunemaru, by penguinfrontier
-touken ranbu
-uploader:belledame-sans-serif
-very long hair
-weapon
-white hair
+1 male,
+1boy,
+10s,
+blurry,
+character:kogitsunemaru,
+chromatic aberration,
+clothing:gloves,
+creator:penguin frontier,
+depth of field,
+flower,
+gender:male,
+gloves,
+katana,
+kogitsunemaru,
+long hair,
+male focus,
+nipples,
+open mouth,
+partly fingerless gloves,
+rating:safe,
+series:touken ranbu,
+shirtless,
+solo,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+sword,
+title:kogitsunemaru, by penguinfrontier,
+touken ranbu,
+uploader:belledame-sans-serif,
+very long hair,
+weapon,
+white hair,

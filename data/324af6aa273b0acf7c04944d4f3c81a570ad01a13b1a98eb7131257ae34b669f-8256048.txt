@@ -1,42 +1,42 @@
-armor
-booru:e621
-building
-category:ine
-character:king sombra
-cloak
-clothing
-clothing:armor
-creator:shamanguli
-day
-fangs
-gender:male
-genre:fantasy
-hooves
-horns
-landscape
-medium:detailed background
-medium:high resolution
-melee weapon
-orange theme
-outside
-rating:safe
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sword
-title:"unholy warcry" by shamanguli
-title:unholy warcry
-tower
-uploader:torvusil
-weapon
+armor,
+booru:e621,
+building,
+category:ine,
+character:king sombra,
+cloak,
+clothing,
+clothing:armor,
+creator:shamanguli,
+day,
+fangs,
+gender:male,
+genre:fantasy,
+hooves,
+horns,
+landscape,
+medium:detailed background,
+medium:high resolution,
+melee weapon,
+orange theme,
+outside,
+rating:safe,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sword,
+title:"unholy warcry" by shamanguli,
+title:unholy warcry,
+tower,
+uploader:torvusil,
+weapon,

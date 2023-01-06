@@ -1,34 +1,34 @@
-1 female
-1girl
-artist name
-artist:chuby mi
-blue eyes
-booru:danbooru
-booru:gelbooru
-category:ine
-clothing:gloves
-copyright:original
-creator:chuby mi
-crossed arms
-gender:female
-gloves
-lips
-long hair
-medium:artist name
-medium:digital 2d
-overcast
-portrait
-rating:mature
-rating:safe
-series:original
-shawl
-smile
-solo
-subreddit:imaginaryhumans
-subreddit:imraces
-title:storm
-title:storm by chuby mi
-uploader:net-diver
-upper body
-white hair
-wind
+1 female,
+1girl,
+artist name,
+artist:chuby mi,
+blue eyes,
+booru:danbooru,
+booru:gelbooru,
+category:ine,
+clothing:gloves,
+copyright:original,
+creator:chuby mi,
+crossed arms,
+gender:female,
+gloves,
+lips,
+long hair,
+medium:artist name,
+medium:digital 2d,
+overcast,
+portrait,
+rating:mature,
+rating:safe,
+series:original,
+shawl,
+smile,
+solo,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:storm,
+title:storm by chuby mi,
+uploader:net-diver,
+upper body,
+white hair,
+wind,

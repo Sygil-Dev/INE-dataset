@@ -1,32 +1,32 @@
-art
-artwork
-category:ine
-concepart
-creator:kyu_yong_eom
-creator:kyuyong eom
-design
-digitalart
-draw
-elartist
-elartist@naver.com
-eom kyu yong
-fantasy art
-https://www.facebook.com/kyuyong.eom
-https://www.instagram.com/kyuyong_eom/
-illustration
-kye
-kyu yong eom
-medium:digital 2d
-painting
-rating:safe
-sexy
-subreddit:imaginaryboners
-subreddit:imnsfw
-title:you and me
-title:you and me by kyuyong eom
-uploader:barson2408
-uploader:i_burn_cereal
-아트웍
-엄규용
-일러스트
-일러스트레이션
+art,
+artwork,
+category:ine,
+concepart,
+creator:kyu_yong_eom,
+creator:kyuyong eom,
+design,
+digitalart,
+draw,
+elartist,
+elartist@naver.com,
+eom kyu yong,
+fantasy art,
+https://www.facebook.com/kyuyong.eom,
+https://www.instagram.com/kyuyong_eom/,
+illustration,
+kye,
+kyu yong eom,
+medium:digital 2d,
+painting,
+rating:safe,
+sexy,
+subreddit:imaginaryboners,
+subreddit:imnsfw,
+title:you and me,
+title:you and me by kyuyong eom,
+uploader:barson2408,
+uploader:i_burn_cereal,
+아트웍,
+엄규용,
+일러스트,
+일러스트레이션,

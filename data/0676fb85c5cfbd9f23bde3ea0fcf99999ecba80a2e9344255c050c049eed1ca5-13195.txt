@@ -1,23 +1,23 @@
-burning
-category:ine
-coat
-embers
-fire
-giant
-holding
-holding sword
-holding weapon
-multiple boys
-night
-night sky
-rating:safe
-sky
-standing
-star (sky)
-starry sky
-subreddit:imaginarygiants
-subreddit:imraces
-sword
-title:the clash by madink 2000
-uploader:elumental
-weapon
+burning,
+category:ine,
+coat,
+embers,
+fire,
+giant,
+holding,
+holding sword,
+holding weapon,
+multiple boys,
+night,
+night sky,
+rating:safe,
+sky,
+standing,
+star (sky),
+starry sky,
+subreddit:imaginarygiants,
+subreddit:imraces,
+sword,
+title:the clash by madink 2000,
+uploader:elumental,
+weapon,

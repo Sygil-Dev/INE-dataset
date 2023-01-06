@@ -1,22 +1,22 @@
-active camouflage
-assault rifle
-category:ine
-creator:johnsonting
-cybernetics
-depth of field
-emerging
-firearm
-future
-genre:fantasy
-raining
-rifle
-soldier
-stealth camouflage
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-suppressor
-title:neo japan 2202 - phantoms
-title:neo japan 2202 - phantoms by johnson ting
-uploader:sacredserenity
-water
-weapon
+active camouflage,
+assault rifle,
+category:ine,
+creator:johnsonting,
+cybernetics,
+depth of field,
+emerging,
+firearm,
+future,
+genre:fantasy,
+raining,
+rifle,
+soldier,
+stealth camouflage,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+suppressor,
+title:neo japan 2202 - phantoms,
+title:neo japan 2202 - phantoms by johnson ting,
+uploader:sacredserenity,
+water,
+weapon,

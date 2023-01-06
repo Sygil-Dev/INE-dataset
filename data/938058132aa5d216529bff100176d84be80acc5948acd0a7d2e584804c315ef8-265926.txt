@@ -1,62 +1,62 @@
-1 female
-1girl
-bent knee (knees)
-blue eyes
-bodysuit
-category:ine
-character:black widow
-character:black widow (marvel)
-character:natasha romanoff
-cleavage
-clothing:bottomwear
-clothing:topwear
-creator:artgerm
-creator:stanley lau
-dark skin
-dual wielding
-female
-firearm
-fringe
-gender:female
-gloves
-green eyes
-gun
-high resolution
-knife
-large breasts
-light skin
-light-skinned
-lips
-lipstick
-long hair
-medium:high resolution
-medium:signature
-meta:highres
-no bra
-rating:mature
-rating:s
-rating:safe
-realistic
-red hair
-rifle
-series:avengers
-series:marvel
-series:s.h.i.e.l.d.
-signature
-signed
-single
-smile
-sniper rifle
-solo
-solo female
-standing
-studio:marvel
-studio:marvel comics
-subreddit:imaginarymarvel
-subreddit:imfandoms
-title:black widow art xm by stanley lau
-title:black widow art xm studio statue
-topwear
-uploader:incredibel
-wall
-weapon
+1 female,
+1girl,
+bent knee (knees),
+blue eyes,
+bodysuit,
+category:ine,
+character:black widow,
+character:black widow (marvel),
+character:natasha romanoff,
+cleavage,
+clothing:bottomwear,
+clothing:topwear,
+creator:artgerm,
+creator:stanley lau,
+dark skin,
+dual wielding,
+female,
+firearm,
+fringe,
+gender:female,
+gloves,
+green eyes,
+gun,
+high resolution,
+knife,
+large breasts,
+light skin,
+light-skinned,
+lips,
+lipstick,
+long hair,
+medium:high resolution,
+medium:signature,
+meta:highres,
+no bra,
+rating:mature,
+rating:s,
+rating:safe,
+realistic,
+red hair,
+rifle,
+series:avengers,
+series:marvel,
+series:s.h.i.e.l.d.,
+signature,
+signed,
+single,
+smile,
+sniper rifle,
+solo,
+solo female,
+standing,
+studio:marvel,
+studio:marvel comics,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+title:black widow art xm by stanley lau,
+title:black widow art xm studio statue,
+topwear,
+uploader:incredibel,
+wall,
+weapon,

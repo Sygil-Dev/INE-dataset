@@ -1,51 +1,51 @@
-2018
-ambiguous gender
-blurred background
-booru:e621
-brown body
-brown eyes
-brown fur
-category:ine
-character:sullivan coyote
-creator:kenket
-day
-feral
-fur
-gender:ambiguous
-headshot portrait
-looking at viewer
-looking back
-medium:traditional media
-meta:2018
-meta:headshot portrait
-meta:painting (artwork)
-meta:portrait
-meta:traditional media (artwork)
-meta:url
-outside
-painting (artwork)
-portrait
-pov
-rating:safe
-side view
-smile
-smirks
-snow
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:coyote
-species:mammal
-subreddit:imaginaryanimals
-subreddit:imnature
-sullivan
-text
-title:sullivan
-title:sullivan by tess garman
-uploader:myrandall
-url
-white body
-white fur
-year:2018
+2018,
+ambiguous gender,
+blurred background,
+booru:e621,
+brown body,
+brown eyes,
+brown fur,
+category:ine,
+character:sullivan coyote,
+creator:kenket,
+day,
+feral,
+fur,
+gender:ambiguous,
+headshot portrait,
+looking at viewer,
+looking back,
+medium:traditional media,
+meta:2018,
+meta:headshot portrait,
+meta:painting (artwork),
+meta:portrait,
+meta:traditional media (artwork),
+meta:url,
+outside,
+painting (artwork),
+portrait,
+pov,
+rating:safe,
+side view,
+smile,
+smirks,
+snow,
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:coyote,
+species:mammal,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+sullivan,
+text,
+title:sullivan,
+title:sullivan by tess garman,
+uploader:myrandall,
+url,
+white body,
+white fur,
+year:2018,

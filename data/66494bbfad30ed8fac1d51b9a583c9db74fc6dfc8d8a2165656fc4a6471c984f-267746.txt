@@ -1,115 +1,115 @@
-2015
-2016
-action:standing upright
-angry
-anthropomorphism
-artist:slawomir_maniak
-biceps
-big muscles
-bodypart:hair
-bodypart:multicolored fur
-bodypart:muscles
-bodypart:tail
-bodypart:teeth
-bodypart:white hair
-bodypart:yellow eyes
-booru:e621
-bright eyes
-bright_eyes
-brown body
-brown fur
-category:ine
-claws
-clenched teeth
-copyright:magic:_the_gathering
-copyright:official_art
-creator:slawomir maniak
-detailed
-detailed background
-emotion:anger
-fighting pose
-fighting stance
-fighting_pose
-fire
-forest
-fur
-gender:female
-gender:male
-guro
-hair
-hi res
-huge muscles
-light
-long claws
-long_claws
-magic
-male
-medium:detailed background
-medium:digital media
-medium:high resolution
-medium:watermark
-meta:2015
-meta:detailed
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:nsfw
-meta:official art
-meta:tagme
-meta:watermark
-monster
-multicolored body
-multicolored fur
-muscles
-muscular
-nature
-no pupils
-nude
-official art
-outside
-pecs
-plant
-pose
-raised tail
-rating:explicit
-rating:mature
-rating:safe
-series:hasbro
-series:magic: the gathering
-series:wizards of the coast
-sharp claws
-sharp teeth
-slawomir maniak
-source:e621
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-standing
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarywerewolves
-subreddit:immonsters
-tail
-teeth
-title:werewolf of ancient by slawomir maniak
-tree
-two tone body
-two tone fur
-uploader:[deleted]
-uploader:tamander
-vein
-watermark
-website:e621
-were
-white body
-white fur
-white hair
-year:2015
-year:2016
-yellow eyes
+2015,
+2016,
+action:standing upright,
+angry,
+anthropomorphism,
+artist:slawomir_maniak,
+biceps,
+big muscles,
+bodypart:hair,
+bodypart:multicolored fur,
+bodypart:muscles,
+bodypart:tail,
+bodypart:teeth,
+bodypart:white hair,
+bodypart:yellow eyes,
+booru:e621,
+bright eyes,
+bright_eyes,
+brown body,
+brown fur,
+category:ine,
+claws,
+clenched teeth,
+copyright:magic:_the_gathering,
+copyright:official_art,
+creator:slawomir maniak,
+detailed,
+detailed background,
+emotion:anger,
+fighting pose,
+fighting stance,
+fighting_pose,
+fire,
+forest,
+fur,
+gender:female,
+gender:male,
+guro,
+hair,
+hi res,
+huge muscles,
+light,
+long claws,
+long_claws,
+magic,
+male,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+medium:watermark,
+meta:2015,
+meta:detailed,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:nsfw,
+meta:official art,
+meta:tagme,
+meta:watermark,
+monster,
+multicolored body,
+multicolored fur,
+muscles,
+muscular,
+nature,
+no pupils,
+nude,
+official art,
+outside,
+pecs,
+plant,
+pose,
+raised tail,
+rating:explicit,
+rating:mature,
+rating:safe,
+series:hasbro,
+series:magic: the gathering,
+series:wizards of the coast,
+sharp claws,
+sharp teeth,
+slawomir maniak,
+source:e621,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+standing,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+tail,
+teeth,
+title:werewolf of ancient by slawomir maniak,
+tree,
+two tone body,
+two tone fur,
+uploader:[deleted],
+uploader:tamander,
+vein,
+watermark,
+website:e621,
+were,
+white body,
+white fur,
+white hair,
+year:2015,
+year:2016,
+yellow eyes,

@@ -1,26 +1,26 @@
-bridge
-burning
-category:ine
-cloud
-fantasy
-fire
-fog
-forest
-mountain
-mountainous horizon
-nature
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginaryhellscapes
-subreddit:imaginarypathways
-subreddit:imaginarywastelands
-subreddit:imlandscapes
-title:enter by richard sashigane
-title:enter by richard sashigane [x-post /r/imaginarypathways]
-torch
-tree
-uploader:ethereeal
-uploader:lol33ta
-uploader:valar_m0rghul1s
+bridge,
+burning,
+category:ine,
+cloud,
+fantasy,
+fire,
+fog,
+forest,
+mountain,
+mountainous horizon,
+nature,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryhellscapes,
+subreddit:imaginarypathways,
+subreddit:imaginarywastelands,
+subreddit:imlandscapes,
+title:enter by richard sashigane,
+title:enter by richard sashigane [x-post /r/imaginarypathways],
+torch,
+tree,
+uploader:ethereeal,
+uploader:lol33ta,
+uploader:valar_m0rghul1s,

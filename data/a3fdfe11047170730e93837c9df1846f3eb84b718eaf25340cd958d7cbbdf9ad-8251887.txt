@@ -1,63 +1,63 @@
-4 toes
-action:open mouth
-anisodactyl
-artist:cryptid-creations
-bird feet
-bird_feet
-black body
-black eyes
-black feathers
-bodypart:black eyes
-booru:e621
-category:ine
-creator:cryptid-creations
-empty eyes
-feathered wings
-feathers
-feet
-feral
-furry
-group
-humor
-medium:simple background
-medium:white background
-meme:humor
-meta:2018
-meta:english text
-meta:url
-open mouth
-pun
-rating:safe
-scales
-simple background
-species:avian
-species:bird
-species:corvid
-species:corvus (genus)
-species:corvus_(genus)
-species:crocodile
-species:crocodilian
-species:crocodylid
-species:crow
-species:hybrid
-species:oscine
-species:passerine
-species:reptile
-species:scalie
-subreddit:imaginaryhybrids
-subreddit:immonsters
-teeth
-telephone wire
-telephone_wire
-text
-title:crowcodile by piper thibodeau
-title:daily paint 1921# crowcodile
-toes
-uploader:myrandall
-website:e621
-white background
-white body
-white eyes
-white scales
-wings
-year:2018
+4 toes,
+action:open mouth,
+anisodactyl,
+artist:cryptid-creations,
+bird feet,
+bird_feet,
+black body,
+black eyes,
+black feathers,
+bodypart:black eyes,
+booru:e621,
+category:ine,
+creator:cryptid-creations,
+empty eyes,
+feathered wings,
+feathers,
+feet,
+feral,
+furry,
+group,
+humor,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2018,
+meta:english text,
+meta:url,
+open mouth,
+pun,
+rating:safe,
+scales,
+simple background,
+species:avian,
+species:bird,
+species:corvid,
+species:corvus (genus),
+species:corvus_(genus),
+species:crocodile,
+species:crocodilian,
+species:crocodylid,
+species:crow,
+species:hybrid,
+species:oscine,
+species:passerine,
+species:reptile,
+species:scalie,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+teeth,
+telephone wire,
+telephone_wire,
+text,
+title:crowcodile by piper thibodeau,
+title:daily paint 1921# crowcodile,
+toes,
+uploader:myrandall,
+website:e621,
+white background,
+white body,
+white eyes,
+white scales,
+wings,
+year:2018,

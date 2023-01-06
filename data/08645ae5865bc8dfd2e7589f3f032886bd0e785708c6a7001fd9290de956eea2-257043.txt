@@ -1,25 +1,25 @@
-arkham
-book
-bookshelf
-bottle
-category:ine
-chair
-creator:richard wright
-cthulhu
-dark
-hat
-indoors
-innsmouth
-lovecraft
-medium:digital 2d
-office
-rating:safe
-scenery
-searching
-sitting
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-table
-title:the office
-title:the office by richard wright
-uploader:e-leventy
+arkham,
+book,
+bookshelf,
+bottle,
+category:ine,
+chair,
+creator:richard wright,
+cthulhu,
+dark,
+hat,
+indoors,
+innsmouth,
+lovecraft,
+medium:digital 2d,
+office,
+rating:safe,
+scenery,
+searching,
+sitting,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+table,
+title:the office,
+title:the office by richard wright,
+uploader:e-leventy,

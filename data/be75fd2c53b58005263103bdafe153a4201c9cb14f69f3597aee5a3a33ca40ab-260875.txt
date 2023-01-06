@@ -1,62 +1,62 @@
-ambiguous gender
-black body
-black eyes
-black fur
-bodypart:black eyes
-brown body
-brown fur
-category:ine
-character:harry houdini
-clothing
-clothing:bow tie
-clothing:collar
-clothing:hat
-clothing:headwear
-collar
-creator:cryptid-creations
-duo
-feral
-fur
-gender:ambiguous
-half-closed eyes
-hat
-headgear
-headwear
-humor
-medium:simple background
-medium:white background
-meme:humor
-meta:2018
-meta:english text
-meta:url
-narrowed eyes
-pun
-rating:safe
-simple background
-species:basset hound
-species:canid
-species:canine
-species:canis
-species:dog
-species:domestic dog
-species:hunting dog
-species:lagomorph
-species:leporid
-species:mammal
-species:rabbit
-species:scent hound
-stick
-subreddit:imaginaryanimals
-subreddit:imnature
-text
-title:daily paint 1909# houndini
-title:houndini by piper thibodeau
-top hat
-uploader:myrandall
-wand
-website:e621
-white background
-white body
-white fur
-wood
-year:2018
+ambiguous gender,
+black body,
+black eyes,
+black fur,
+bodypart:black eyes,
+brown body,
+brown fur,
+category:ine,
+character:harry houdini,
+clothing,
+clothing:bow tie,
+clothing:collar,
+clothing:hat,
+clothing:headwear,
+collar,
+creator:cryptid-creations,
+duo,
+feral,
+fur,
+gender:ambiguous,
+half-closed eyes,
+hat,
+headgear,
+headwear,
+humor,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2018,
+meta:english text,
+meta:url,
+narrowed eyes,
+pun,
+rating:safe,
+simple background,
+species:basset hound,
+species:canid,
+species:canine,
+species:canis,
+species:dog,
+species:domestic dog,
+species:hunting dog,
+species:lagomorph,
+species:leporid,
+species:mammal,
+species:rabbit,
+species:scent hound,
+stick,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+text,
+title:daily paint 1909# houndini,
+title:houndini by piper thibodeau,
+top hat,
+uploader:myrandall,
+wand,
+website:e621,
+white background,
+white body,
+white fur,
+wood,
+year:2018,

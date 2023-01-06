@@ -1,73 +1,73 @@
-4:3
-anthro
-anthropomorphism
-armor
-art
-booru:e621
-cape
-category:ine
-character:ajani goldmane
-character:planeswalker
-charging
-chris rallis
-city
-cityscape
-cloak
-clothing
-clothing:armor
-clothing:cape
-clothing:tagme
-creator:chris rallis
-feline
-fight
-fur
-gold (metal)
-group
-holding object
-holding sword
-holding weapon
-human
-kukri
-leonin
-lion
-mammal
-mane
-medium:4:3 aspect ratio
-melee weapon
-meta:4:3
-meta:official art
-monk's spade
-muscular
-pauldron
-planeswalker
-rating:safe
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-snarling
-solo focus
-species:catfolk
-species:felid
-species:feline
-species:human
-species:leonin
-species:lion
-species:mammal
-species:pantherine
-species:primate
-species:white lion
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryhybrids
-subreddit:immonsters
-sword
-title:impeccable timing by chris rallis
-uploader:drunkindragon
-warrior
-weapon
-website:reddit
-whiskers
-white body
-white fur
+4:3,
+anthro,
+anthropomorphism,
+armor,
+art,
+booru:e621,
+cape,
+category:ine,
+character:ajani goldmane,
+character:planeswalker,
+charging,
+chris rallis,
+city,
+cityscape,
+cloak,
+clothing,
+clothing:armor,
+clothing:cape,
+clothing:tagme,
+creator:chris rallis,
+feline,
+fight,
+fur,
+gold (metal),
+group,
+holding object,
+holding sword,
+holding weapon,
+human,
+kukri,
+leonin,
+lion,
+mammal,
+mane,
+medium:4:3 aspect ratio,
+melee weapon,
+meta:4:3,
+meta:official art,
+monk's spade,
+muscular,
+pauldron,
+planeswalker,
+rating:safe,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+snarling,
+solo focus,
+species:catfolk,
+species:felid,
+species:feline,
+species:human,
+species:leonin,
+species:lion,
+species:mammal,
+species:pantherine,
+species:primate,
+species:white lion,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+sword,
+title:impeccable timing by chris rallis,
+uploader:drunkindragon,
+warrior,
+weapon,
+website:reddit,
+whiskers,
+white body,
+white fur,

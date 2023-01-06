@@ -1,66 +1,66 @@
-2019
-absurd res
-ambiguous gender
-ambiguous_gender
-artist:deviant-soulmates
-black body
-black scales
-black_body
-black_scales
-blue body
-blue scales
-blue_body
-blue_scales
-category:ine
-claws
-copyright:flight_rising
-creator:deviant-soulmates
-detailed
-detailed scales
-detailed_scales
-digital media (artwork)
-feathers
-feral
-furry
-gender:ambiguous
-hi res
-high resolution
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-medium:simple background
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:absurd res
-meta:absurd_res
-meta:detailed
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-rating:safe
-scales
-series:flight rising
-simple background
-simple_background
-solo
-species:dragon
-species:feathered dragon
-species:feathered_dragon
-species:mythical
-species:scalie
-species:skydancer dragon
-species:skydancer_dragon
-species:western dragon
-species:western_dragon
-standing
-subreddit:imaginarydragons
-subreddit:immonsters
-title:"flight rising dragon, win." by saphire (deviant-soulmates)
-title:flight rising dragon, win.
-uploader:torvusil
-wings
-year:2019
+2019,
+absurd res,
+ambiguous gender,
+ambiguous_gender,
+artist:deviant-soulmates,
+black body,
+black scales,
+black_body,
+black_scales,
+blue body,
+blue scales,
+blue_body,
+blue_scales,
+category:ine,
+claws,
+copyright:flight_rising,
+creator:deviant-soulmates,
+detailed,
+detailed scales,
+detailed_scales,
+digital media (artwork),
+feathers,
+feral,
+furry,
+gender:ambiguous,
+hi res,
+high resolution,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+medium:simple background,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:absurd res,
+meta:absurd_res,
+meta:detailed,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+rating:safe,
+scales,
+series:flight rising,
+simple background,
+simple_background,
+solo,
+species:dragon,
+species:feathered dragon,
+species:feathered_dragon,
+species:mythical,
+species:scalie,
+species:skydancer dragon,
+species:skydancer_dragon,
+species:western dragon,
+species:western_dragon,
+standing,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:"flight rising dragon, win." by saphire (deviant-soulmates),
+title:flight rising dragon, win.,
+uploader:torvusil,
+wings,
+year:2019,

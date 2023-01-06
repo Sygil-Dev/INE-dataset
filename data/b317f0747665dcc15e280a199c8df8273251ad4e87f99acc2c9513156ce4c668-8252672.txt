@@ -1,43 +1,43 @@
-1 male
-1boy
-alex_milne
-arm cannon
-art
-autobot
-cannon
-category:ine
-character:megatron
-character:megatron (idw)
-creator:alex milne
-creator:markerguru
-gender:male
-genre:science fiction
-male focus
-mecha
-medium:high resolution
-megatron
-meta:commentary request
-meta:highres
-meta:official art
-meta:photoshop (medium)
-mtmte
-no humans
-rating:mature
-rating:safe
-rating:sensitive
-robot
-science fiction
-science_fiction
-series:the transformers (idw)
-series:transformers
-solo
-species:robot
-studio:hasbro
-subreddit:imaginarymechs
-subreddit:imtechnology
-the transformers (idw)
-title:mtmte megatron
-title:mtmte megatron by alex milne
-transformers
-uploader:godnaruto21
-weapon
+1 male,
+1boy,
+alex_milne,
+arm cannon,
+art,
+autobot,
+cannon,
+category:ine,
+character:megatron,
+character:megatron (idw),
+creator:alex milne,
+creator:markerguru,
+gender:male,
+genre:science fiction,
+male focus,
+mecha,
+medium:high resolution,
+megatron,
+meta:commentary request,
+meta:highres,
+meta:official art,
+meta:photoshop (medium),
+mtmte,
+no humans,
+rating:mature,
+rating:safe,
+rating:sensitive,
+robot,
+science fiction,
+science_fiction,
+series:the transformers (idw),
+series:transformers,
+solo,
+species:robot,
+studio:hasbro,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+the transformers (idw),
+title:mtmte megatron,
+title:mtmte megatron by alex milne,
+transformers,
+uploader:godnaruto21,
+weapon,

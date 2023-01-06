@@ -1,26 +1,26 @@
-art
-bomb
-boom
-cat
-category:ine
-creator:svetlin velinov
-digitalart
-drawing
-fantasy
-goblin
-guildsofravnica
-illustration
-magicthegathering
-medium:digital 2d
-mtg
-mtggrn
-sketch
-subreddit:imaginarygoblins
-subreddit:imraces
-title:goblin cratermaker
-title:goblin cratermaker art by svetlin velinov
-title:goblin cratermaker by svetlin velinov
-uploader:racconccity
-uploader:tallantas
-wizards
-wotc
+art,
+bomb,
+boom,
+cat,
+category:ine,
+creator:svetlin velinov,
+digitalart,
+drawing,
+fantasy,
+goblin,
+guildsofravnica,
+illustration,
+magicthegathering,
+medium:digital 2d,
+mtg,
+mtggrn,
+sketch,
+subreddit:imaginarygoblins,
+subreddit:imraces,
+title:goblin cratermaker,
+title:goblin cratermaker art by svetlin velinov,
+title:goblin cratermaker by svetlin velinov,
+uploader:racconccity,
+uploader:tallantas,
+wizards,
+wotc,

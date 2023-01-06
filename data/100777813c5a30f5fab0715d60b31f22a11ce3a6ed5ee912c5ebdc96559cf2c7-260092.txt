@@ -1,62 +1,62 @@
-ambiguous_gender
-anthropomorphism
-artist:cryptid-creations
-black eyes
-black_eyes
-bodypart:black eyes
-book
-bottle
-category:ine
-clothing:eyewear
-creator:cryptid-creations
-english text
-feathers
-feral
-furry
-gender:ambiguous
-gender:male
-green body
-green scales
-green_body
-green_scales
-humor
-ink bottle
-ink_bottle
-language:english
-loose feather
-loose_feather
-male:1
-medium:english text
-medium:simple background
-medium:text
-medium:white background
-meme:humor
-meta:english text
-meta:english_text
-meta:white background
-monocle
-pun
-quill
-rating:safe
-scales
-simple background
-simple_background
-solo
-species:reptile
-species:scalie
-species:snake
-subreddit:imaginaryaww
-subreddit:imaginaryscholars
-subreddit:imcharacters
-subreddit:immeta
-text
-title:daily painting 1713# hissstorian
-title:hissstorian by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-white_background
-yellow body
-yellow scales
-yellow_body
-yellow_scales
+ambiguous_gender,
+anthropomorphism,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+book,
+bottle,
+category:ine,
+clothing:eyewear,
+creator:cryptid-creations,
+english text,
+feathers,
+feral,
+furry,
+gender:ambiguous,
+gender:male,
+green body,
+green scales,
+green_body,
+green_scales,
+humor,
+ink bottle,
+ink_bottle,
+language:english,
+loose feather,
+loose_feather,
+male:1,
+medium:english text,
+medium:simple background,
+medium:text,
+medium:white background,
+meme:humor,
+meta:english text,
+meta:english_text,
+meta:white background,
+monocle,
+pun,
+quill,
+rating:safe,
+scales,
+simple background,
+simple_background,
+solo,
+species:reptile,
+species:scalie,
+species:snake,
+subreddit:imaginaryaww,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+subreddit:immeta,
+text,
+title:daily painting 1713# hissstorian,
+title:hissstorian by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white_background,
+yellow body,
+yellow scales,
+yellow_body,
+yellow_scales,

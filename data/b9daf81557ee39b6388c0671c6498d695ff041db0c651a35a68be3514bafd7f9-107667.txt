@@ -1,35 +1,35 @@
-category:ine
-character:twilight sparkle
-chasingthesilverstag
-creator:chasingthesilverstag
-ethereal mane
-floating
-galaxy mane
-gender:female
-genre:fantasy
-glowing
-glowing eyes
-large wings
-long mane
-mare
-rating:safe
-safe
-series:my little pony
-series:my little pony friendship is magic
-solo
-space
-species:alicorn
-species:equine
-species:mammal
-species:pony
-starry mane
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"galaxy sparkle" by chasingthesilverstag
-title:galaxy sparkle
-twilight sparkle (alicorn)
-ultimate twilight
-uploader:torvusil
-wings
+category:ine,
+character:twilight sparkle,
+chasingthesilverstag,
+creator:chasingthesilverstag,
+ethereal mane,
+floating,
+galaxy mane,
+gender:female,
+genre:fantasy,
+glowing,
+glowing eyes,
+large wings,
+long mane,
+mare,
+rating:safe,
+safe,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+space,
+species:alicorn,
+species:equine,
+species:mammal,
+species:pony,
+starry mane,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"galaxy sparkle" by chasingthesilverstag,
+title:galaxy sparkle,
+twilight sparkle (alicorn),
+ultimate twilight,
+uploader:torvusil,
+wings,

@@ -1,29 +1,29 @@
-1girl
-bangs
-black hair
-black-framed eyewear
-category:ine
-closed mouth
-collared shirt
-glasses
-hogwarts school uniform
-lips
-looking at viewer
-necktie
-rating:safe
-realistic
-shirt
-short hair
-signature
-simple background
-smile
-solo
-striped
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-title:harry potter by okan bülbül
-uploader:lol33ta
-upper body
-white background
-white shirt
-wing collar
+1girl,
+bangs,
+black hair,
+black-framed eyewear,
+category:ine,
+closed mouth,
+collared shirt,
+glasses,
+hogwarts school uniform,
+lips,
+looking at viewer,
+necktie,
+rating:safe,
+realistic,
+shirt,
+short hair,
+signature,
+simple background,
+smile,
+solo,
+striped,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+title:harry potter by okan bülbül,
+uploader:lol33ta,
+upper body,
+white background,
+white shirt,
+wing collar,

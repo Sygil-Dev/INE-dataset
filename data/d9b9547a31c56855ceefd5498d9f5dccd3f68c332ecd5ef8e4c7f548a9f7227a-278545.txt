@@ -1,28 +1,28 @@
-beard
-black hair
-category:ine
-character:albus dumbledore
-character:severus snape
-clothing grab
-creator:mistressainley
-duo
-eyes closed
-gender:male
-glasses
-hand on head
-hug
-kneeling
-long hair
-medium hair
-outside
-petting
-site:deviantart
-snow
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-tears
-title:redemption
-title:redemption by carla luz
-tree
-uploader:lol33ta
-white hair
+beard,
+black hair,
+category:ine,
+character:albus dumbledore,
+character:severus snape,
+clothing grab,
+creator:mistressainley,
+duo,
+eyes closed,
+gender:male,
+glasses,
+hand on head,
+hug,
+kneeling,
+long hair,
+medium hair,
+outside,
+petting,
+site:deviantart,
+snow,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+tears,
+title:redemption,
+title:redemption by carla luz,
+tree,
+uploader:lol33ta,
+white hair,

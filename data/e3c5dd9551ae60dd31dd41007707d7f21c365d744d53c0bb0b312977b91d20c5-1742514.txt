@@ -1,53 +1,53 @@
-2013
-birds
-booru:e621
-category:ine
-character:drone (mlp)
-character:queen chrysalis
-character:queen chrysalis (mlp)
-cloud
-creator:huussii
-dark magic
-detailed background
-exiled
-female
-gender:female
-genre:fantasy
-green eyes
-green hair
-group
-hair
-hi res
-horn
-horns
-medium:detailed background
-medium:high resolution
-meta:2013
-meta:hi res
-meta:signature
-outside
-plant
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-signature
-sky
-species:arthropod
-species:avian
-species:bird
-species:changeling
-species:equid
-species:equine
-species:mammal
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:"the unsung end" by teemu husso (huussii)
-title:the unsung end
-tree
-uploader:torvusil
-wings
-year:2013
+2013,
+birds,
+booru:e621,
+category:ine,
+character:drone (mlp),
+character:queen chrysalis,
+character:queen chrysalis (mlp),
+cloud,
+creator:huussii,
+dark magic,
+detailed background,
+exiled,
+female,
+gender:female,
+genre:fantasy,
+green eyes,
+green hair,
+group,
+hair,
+hi res,
+horn,
+horns,
+medium:detailed background,
+medium:high resolution,
+meta:2013,
+meta:hi res,
+meta:signature,
+outside,
+plant,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+signature,
+sky,
+species:arthropod,
+species:avian,
+species:bird,
+species:changeling,
+species:equid,
+species:equine,
+species:mammal,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:"the unsung end" by teemu husso (huussii),
+title:the unsung end,
+tree,
+uploader:torvusil,
+wings,
+year:2013,

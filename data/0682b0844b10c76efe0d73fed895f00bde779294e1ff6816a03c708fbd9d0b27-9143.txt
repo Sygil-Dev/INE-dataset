@@ -1,33 +1,33 @@
-1other
-assault rifle
-category:ine
-cloudy sky
-facing away
-forest
-from behind
-grass
-gun
-holding
-holding gun
-holding weapon
-light rays
-long hair
-nature
-outdoors
-rain
-rating:safe
-rifle
-river
-ruins
-scenery
-standing
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-title:wreckage by j.c park
-tree
-uploader:[deleted]
-uploader:emotionalyak3
-very long hair
-water
-waterfall
-weapon
+1other,
+assault rifle,
+category:ine,
+cloudy sky,
+facing away,
+forest,
+from behind,
+grass,
+gun,
+holding,
+holding gun,
+holding weapon,
+light rays,
+long hair,
+nature,
+outdoors,
+rain,
+rating:safe,
+rifle,
+river,
+ruins,
+scenery,
+standing,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+title:wreckage by j.c park,
+tree,
+uploader:[deleted],
+uploader:emotionalyak3,
+very long hair,
+water,
+waterfall,
+weapon,

@@ -1,44 +1,44 @@
-ambiguous_gender
-artist:jesper_ejsing
-category:ine
-character:colossal dreadmaw
-character:colossal_dreadmaw
-copyright:hasbro
-copyright:magic:_the_gathering
-copyright:wizards_of_the_coast
-creator:jesper ejsing
-feathers
-feral
-furry
-gender:ambiguous
-jungle
-meta:hi_res
-rating:safe
-river
-sailing ship
-sailing watercraft
-sailing_ship
-sailing_watercraft
-series:hasbro
-series:magic: the gathering
-series:wizards of the coast
-ship
-solo focus
-solo_focus
-species:dinosaur
-species:extinct
-species:feathered dinosaur
-species:feathered_dinosaur
-species:reptile
-species:scalie
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydinosaurs
-subreddit:imaginaryvessels
-subreddit:immonsters
-subreddit:imtechnology
-title:colossal dreadmaw by jesper ejsing
-uploader:lol33ta
-uploader:natezomby
-vehicle
-watercraft
+ambiguous_gender,
+artist:jesper_ejsing,
+category:ine,
+character:colossal dreadmaw,
+character:colossal_dreadmaw,
+copyright:hasbro,
+copyright:magic:_the_gathering,
+copyright:wizards_of_the_coast,
+creator:jesper ejsing,
+feathers,
+feral,
+furry,
+gender:ambiguous,
+jungle,
+meta:hi_res,
+rating:safe,
+river,
+sailing ship,
+sailing watercraft,
+sailing_ship,
+sailing_watercraft,
+series:hasbro,
+series:magic: the gathering,
+series:wizards of the coast,
+ship,
+solo focus,
+solo_focus,
+species:dinosaur,
+species:extinct,
+species:feathered dinosaur,
+species:feathered_dinosaur,
+species:reptile,
+species:scalie,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydinosaurs,
+subreddit:imaginaryvessels,
+subreddit:immonsters,
+subreddit:imtechnology,
+title:colossal dreadmaw by jesper ejsing,
+uploader:lol33ta,
+uploader:natezomby,
+vehicle,
+watercraft,

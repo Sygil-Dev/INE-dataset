@@ -1,56 +1,56 @@
-2 males
-2boys
-artist:conar cross
-black hair
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-building
-castle
-category:ine
-character:griffith
-character:guts
-cloud
-clouds
-commentary
-conar cross
-copyright:berserk
-creator:conar cross
-english commentary
-fence
-forest
-gender:male
-grass
-hands on hips
-hips
-letterboxed
-male focus
-medium:high resolution
-medium:letterboxed
-meta:commentary
-meta:english commentary
-meta:highres
-multiple boys
-multiple males
-nature
-outdoors
-outside
-rating:mature
-rating:safe
-river
-series:berserk
-signature
-sky
-smoke
-subreddit:imaginarygatherings
-subreddit:imcharacters
-sunset
-sword
-tent
-title:first camp by conar cross
-tree
-uploader:e-leventy
-weapon
-white hair
+2 males,
+2boys,
+artist:conar cross,
+black hair,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+building,
+castle,
+category:ine,
+character:griffith,
+character:guts,
+cloud,
+clouds,
+commentary,
+conar cross,
+copyright:berserk,
+creator:conar cross,
+english commentary,
+fence,
+forest,
+gender:male,
+grass,
+hands on hips,
+hips,
+letterboxed,
+male focus,
+medium:high resolution,
+medium:letterboxed,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+multiple boys,
+multiple males,
+nature,
+outdoors,
+outside,
+rating:mature,
+rating:safe,
+river,
+series:berserk,
+signature,
+sky,
+smoke,
+subreddit:imaginarygatherings,
+subreddit:imcharacters,
+sunset,
+sword,
+tent,
+title:first camp by conar cross,
+tree,
+uploader:e-leventy,
+weapon,
+white hair,

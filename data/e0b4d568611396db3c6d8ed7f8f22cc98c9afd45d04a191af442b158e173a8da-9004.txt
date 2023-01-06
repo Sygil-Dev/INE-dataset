@@ -1,23 +1,23 @@
-2d
-category:ine
-concept
-conceptart
-crash
-creator:ismail inceoglu
-digital
-digitalart
-environment
-landing
-landscape
-medium:digital 2d
-planet
-scenery
-seventeenthart
-ship
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-title:arial
-title:arial by ismail inceoglu
-uploader:l-ya
-vehicle
-watercraft
+2d,
+category:ine,
+concept,
+conceptart,
+crash,
+creator:ismail inceoglu,
+digital,
+digitalart,
+environment,
+landing,
+landscape,
+medium:digital 2d,
+planet,
+scenery,
+seventeenthart,
+ship,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+title:arial,
+title:arial by ismail inceoglu,
+uploader:l-ya,
+vehicle,
+watercraft,

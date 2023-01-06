@@ -1,38 +1,38 @@
-1 male
-1boy
-adventure time
-animal skull
-belt
-belt buckle
-buckle
-category:ine
-character:death (adventure time)
-character:death (entity)
-clothing:headwear
-coin
-creator:artdoge
-creator:jimmy xu
-dark background
-death (adventure time)
-emaciated
-eye socket
-fingernails
-gender:male
-hands
-hat
-holding
-jimmy xu
-male focus
-rating:general
-rating:safe
-series:adventure time
-series:cartoon network
-skeleton
-skull
-solo
-subreddit:imaginaryooo
-subreddit:imfandoms
-teeth
-title:rattling bloom
-title:rattling bloom by jimmy xu
-uploader:gigabeto
+1 male,
+1boy,
+adventure time,
+animal skull,
+belt,
+belt buckle,
+buckle,
+category:ine,
+character:death (adventure time),
+character:death (entity),
+clothing:headwear,
+coin,
+creator:artdoge,
+creator:jimmy xu,
+dark background,
+death (adventure time),
+emaciated,
+eye socket,
+fingernails,
+gender:male,
+hands,
+hat,
+holding,
+jimmy xu,
+male focus,
+rating:general,
+rating:safe,
+series:adventure time,
+series:cartoon network,
+skeleton,
+skull,
+solo,
+subreddit:imaginaryooo,
+subreddit:imfandoms,
+teeth,
+title:rattling bloom,
+title:rattling bloom by jimmy xu,
+uploader:gigabeto,

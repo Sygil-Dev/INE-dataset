@@ -1,21 +1,21 @@
-arkham
-artwork
-category:ine
-city
-clouds
-creator:richard wright
-cthulhu
-digital
-dunwich
-innsmouth
-landscape
-lovecraft
-medium:digital 2d
-miskatonic
-richard wright
-river
-subreddit:imaginaryrivers
-subreddit:imnature
-title:arkham
-title:arkham by richard wright
-uploader:e-leventy
+arkham,
+artwork,
+category:ine,
+city,
+clouds,
+creator:richard wright,
+cthulhu,
+digital,
+dunwich,
+innsmouth,
+landscape,
+lovecraft,
+medium:digital 2d,
+miskatonic,
+richard wright,
+river,
+subreddit:imaginaryrivers,
+subreddit:imnature,
+title:arkham,
+title:arkham by richard wright,
+uploader:e-leventy,

@@ -1,51 +1,51 @@
-arm cannon
-battle
-bomb
-breathing fire
-bullet hole
-burning
-campfire
-candle
-cannon
-casing ejection
-category:ine
-cooking
-damaged
-destruction
-electricity
-embers
-energy
-explosion
-fiery hair
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-gun
-laser
-machinery
-mecha
-missile
-molten rock
-muzzle flash
-no humans
-pyrokinesis
-rating:safe
-realistic
-robot
-rocket launcher
-science fiction
-shell casing
-signature
-smoke
-sparks
-subreddit:imaginarysteampunk
-subreddit:imtechnology
-tail-tip fire
-thrusters
-title:steampunk warmachine by conor burke
-torch
-uploader:knighterrannt
-weapon
+arm cannon,
+battle,
+bomb,
+breathing fire,
+bullet hole,
+burning,
+campfire,
+candle,
+cannon,
+casing ejection,
+category:ine,
+cooking,
+damaged,
+destruction,
+electricity,
+embers,
+energy,
+explosion,
+fiery hair,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+gun,
+laser,
+machinery,
+mecha,
+missile,
+molten rock,
+muzzle flash,
+no humans,
+pyrokinesis,
+rating:safe,
+realistic,
+robot,
+rocket launcher,
+science fiction,
+shell casing,
+signature,
+smoke,
+sparks,
+subreddit:imaginarysteampunk,
+subreddit:imtechnology,
+tail-tip fire,
+thrusters,
+title:steampunk warmachine by conor burke,
+torch,
+uploader:knighterrannt,
+weapon,

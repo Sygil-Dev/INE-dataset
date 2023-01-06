@@ -1,30 +1,30 @@
-art
-booru:e621
-category:ine
-creator:howard lyon
-duo
-female
-gender:female
-leaf
-leaves
-magic
-meta:official art
-not furry
-rating:safe
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-species:dryad
-species:humanoid
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryelves
-subreddit:imaginarywitches
-subreddit:imcharacters
-subreddit:imraces
-tag source:e621
-title:conclave naturalists by howard lyon
-uploader:drunkindragon
-uploader:errantsadvocate
-uploader:spirtomb1831
+art,
+booru:e621,
+category:ine,
+creator:howard lyon,
+duo,
+female,
+gender:female,
+leaf,
+leaves,
+magic,
+meta:official art,
+not furry,
+rating:safe,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+species:dryad,
+species:humanoid,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryelves,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+subreddit:imraces,
+tag source:e621,
+title:conclave naturalists by howard lyon,
+uploader:drunkindragon,
+uploader:errantsadvocate,
+uploader:spirtomb1831,

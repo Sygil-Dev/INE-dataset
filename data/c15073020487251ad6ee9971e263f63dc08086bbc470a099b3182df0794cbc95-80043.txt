@@ -1,49 +1,49 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-avian
-bird
-boat
-canid
-canine
-canis
-category:ine
-clothed
-clothed feral
-clothed_feral
-clothing
-creator:cryptid-creations
-domestic dog
-feral
-mammal
-molosser
-pug
-rating:safe
-simple background
-simple_background
-small molosser
-species:avian
-species:bird
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:domestic_dog
-species:mammal
-species:molosser
-species:pug
-species:small molosser
-species:small_molosser
-species:toy dog
-species:toy_dog
-subreddit:imaginaryaww
-subreddit:imaginaryvessels
-subreddit:immeta
-subreddit:imtechnology
-title:pugboat by piper thibodeau
-toy dog
-uploader:myrandall
-vehicle
-watercraft
-white background
-white_background
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+avian,
+bird,
+boat,
+canid,
+canine,
+canis,
+category:ine,
+clothed,
+clothed feral,
+clothed_feral,
+clothing,
+creator:cryptid-creations,
+domestic dog,
+feral,
+mammal,
+molosser,
+pug,
+rating:safe,
+simple background,
+simple_background,
+small molosser,
+species:avian,
+species:bird,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:domestic_dog,
+species:mammal,
+species:molosser,
+species:pug,
+species:small molosser,
+species:small_molosser,
+species:toy dog,
+species:toy_dog,
+subreddit:imaginaryaww,
+subreddit:imaginaryvessels,
+subreddit:immeta,
+subreddit:imtechnology,
+title:pugboat by piper thibodeau,
+toy dog,
+uploader:myrandall,
+vehicle,
+watercraft,
+white background,
+white_background,

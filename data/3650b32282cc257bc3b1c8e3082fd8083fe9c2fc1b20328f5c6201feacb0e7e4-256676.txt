@@ -1,57 +1,57 @@
-action:open mouth
-artist:cryptid-creations
-bee
-black eyes
-black_eyes
-bodypart:black eyes
-category:ine
-clothing:collar
-cloud
-collar
-creator:cryptid-creations
-feral
-frisbee
-fur
-group
-honeycomb
-humor
-insect wings
-insect_wings
-meme:humor
-meta:url
-open mouth
-open_mouth
-outside
-pawpads
-pun
-rating:safe
-sky
-species:arthropod
-species:bee
-species:bird dog
-species:bird_dog
-species:canid
-species:canine
-species:canis
-species:dog
-species:domestic dog
-species:domestic_dog
-species:golden retriever
-species:golden_retriever
-species:hunting dog
-species:hunting_dog
-species:hymenopteran
-species:insect
-species:mammal
-species:retriever
-subreddit:imaginaryaww
-subreddit:immeta
-teeth
-text
-title:frisbees by piper thibodeau
-uploader:myrandall
-wings
-yellow body
-yellow fur
-yellow_body
-yellow_fur
+action:open mouth,
+artist:cryptid-creations,
+bee,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+category:ine,
+clothing:collar,
+cloud,
+collar,
+creator:cryptid-creations,
+feral,
+frisbee,
+fur,
+group,
+honeycomb,
+humor,
+insect wings,
+insect_wings,
+meme:humor,
+meta:url,
+open mouth,
+open_mouth,
+outside,
+pawpads,
+pun,
+rating:safe,
+sky,
+species:arthropod,
+species:bee,
+species:bird dog,
+species:bird_dog,
+species:canid,
+species:canine,
+species:canis,
+species:dog,
+species:domestic dog,
+species:domestic_dog,
+species:golden retriever,
+species:golden_retriever,
+species:hunting dog,
+species:hunting_dog,
+species:hymenopteran,
+species:insect,
+species:mammal,
+species:retriever,
+subreddit:imaginaryaww,
+subreddit:immeta,
+teeth,
+text,
+title:frisbees by piper thibodeau,
+uploader:myrandall,
+wings,
+yellow body,
+yellow fur,
+yellow_body,
+yellow_fur,

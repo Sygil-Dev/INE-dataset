@@ -1,18 +1,18 @@
-category:ine
-corki fan art
-corkifanart
-creator:kon ghard
-konstant.g.k
-konstantgk
-konstantinos g. koukis
-league of legends
-lol corki
-lolcorki
-medium:digital 2d
-scarlet red corki
-scarletredcorki
-subreddit:imaginaryaviation
-subreddit:imtechnology
-title:artstation - scarlet red corki , konstant g.k
-title:scarlet red corki league of legends [fa]
-uploader:konhgard
+category:ine,
+corki fan art,
+corkifanart,
+creator:kon ghard,
+konstant.g.k,
+konstantgk,
+konstantinos g. koukis,
+league of legends,
+lol corki,
+lolcorki,
+medium:digital 2d,
+scarlet red corki,
+scarletredcorki,
+subreddit:imaginaryaviation,
+subreddit:imtechnology,
+title:artstation - scarlet red corki , konstant g.k,
+title:scarlet red corki league of legends [fa],
+uploader:konhgard,

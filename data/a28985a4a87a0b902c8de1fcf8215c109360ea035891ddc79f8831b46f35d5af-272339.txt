@@ -1,39 +1,39 @@
-abstract background
-ambiguous form
-ambiguous gender
-booru:e621
-broken chain
-category:ine
-chain
-character:jager (darlenewolfen)
-creator:novawuff
-ears back
-gender:ambiguous
-medium:red background
-medium:simple background
-meta:portrait
-meta:red theme
-open mouth
-pivoted ears
-portrait
-rating:safe
-red background
-red theme
-roaring
-sharp teeth
-simple background
-snarling
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-teeth
-title:you're next
-title:you're next by heather (schumacher) meuser on deviantart
-tongue
-uploader:nikephoros_ii_phokas
-yellow eyes
+abstract background,
+ambiguous form,
+ambiguous gender,
+booru:e621,
+broken chain,
+category:ine,
+chain,
+character:jager (darlenewolfen),
+creator:novawuff,
+ears back,
+gender:ambiguous,
+medium:red background,
+medium:simple background,
+meta:portrait,
+meta:red theme,
+open mouth,
+pivoted ears,
+portrait,
+rating:safe,
+red background,
+red theme,
+roaring,
+sharp teeth,
+simple background,
+snarling,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+teeth,
+title:you're next,
+title:you're next by heather (schumacher) meuser on deviantart,
+tongue,
+uploader:nikephoros_ii_phokas,
+yellow eyes,

@@ -1,48 +1,48 @@
-1 female
-10s
-absurdres
-artist:dao trong le
-bangs
-black hair
-category:ine
-clothing:necklace
-copyright:original
-creator:dao le trong
-creator:dao trong le
-dated
-eyebrows
-gender:female
-girl
-green eyes
-illustration
-jewelry
-lips
-long hair
-looking to the side
-medium:absurd resolution
-medium:artist name
-medium:digital 2d
-medium:high resolution
-meta:absurdres
-meta:artstation sample
-meta:commentary
-meta:highres
-meta:image sample
-necklace
-nose
-parted bangs
-portrait
-rating:mature
-rating:safe
-series:original
-signature
-solo
-subreddit:imaginaryhumans
-subreddit:imraces
-title:forest flower
-title:forest flower by dao trong le
-title:village by dao le trong
-uploader:musaibwadkar
-uploader:net-diver
-upper body
-year:2016
+1 female,
+10s,
+absurdres,
+artist:dao trong le,
+bangs,
+black hair,
+category:ine,
+clothing:necklace,
+copyright:original,
+creator:dao le trong,
+creator:dao trong le,
+dated,
+eyebrows,
+gender:female,
+girl,
+green eyes,
+illustration,
+jewelry,
+lips,
+long hair,
+looking to the side,
+medium:absurd resolution,
+medium:artist name,
+medium:digital 2d,
+medium:high resolution,
+meta:absurdres,
+meta:artstation sample,
+meta:commentary,
+meta:highres,
+meta:image sample,
+necklace,
+nose,
+parted bangs,
+portrait,
+rating:mature,
+rating:safe,
+series:original,
+signature,
+solo,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:forest flower,
+title:forest flower by dao trong le,
+title:village by dao le trong,
+uploader:musaibwadkar,
+uploader:net-diver,
+upper body,
+year:2016,

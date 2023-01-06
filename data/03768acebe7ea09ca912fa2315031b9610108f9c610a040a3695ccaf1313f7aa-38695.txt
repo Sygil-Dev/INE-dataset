@@ -1,21 +1,21 @@
-building
-castle
-category:ine
-city
-cloud
-cloudy sky
-day
-horizon
-mountain
-mountainous horizon
-outdoors
-rating:safe
-ruins
-scenery
-sky
-subreddit:imaginaryscience
-subreddit:imtechnology
-sunset
-title:station by ferdinand ladera
-tower
-uploader:elumental
+building,
+castle,
+category:ine,
+city,
+cloud,
+cloudy sky,
+day,
+horizon,
+mountain,
+mountainous horizon,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+sky,
+subreddit:imaginaryscience,
+subreddit:imtechnology,
+sunset,
+title:station by ferdinand ladera,
+tower,
+uploader:elumental,

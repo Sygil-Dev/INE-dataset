@@ -1,21 +1,21 @@
-architectural design
-category:ine
-creator:cathleen mcallister
-cutaway
-design
-fantasy
-harry potter
-interior
-interior design
-isometric
-magic
-subreddit:imaginaryinteriors
-subreddit:imaginaryscience
-subreddit:imarchitecture
-subreddit:imtechnology
-title:the astronomy tower
-title:the astronomy tower by cathleen mcallister
-uploader:lol33ta
-uploader:net-diver
-visdev
-visual development
+architectural design,
+category:ine,
+creator:cathleen mcallister,
+cutaway,
+design,
+fantasy,
+harry potter,
+interior,
+interior design,
+isometric,
+magic,
+subreddit:imaginaryinteriors,
+subreddit:imaginaryscience,
+subreddit:imarchitecture,
+subreddit:imtechnology,
+title:the astronomy tower,
+title:the astronomy tower by cathleen mcallister,
+uploader:lol33ta,
+uploader:net-diver,
+visdev,
+visual development,

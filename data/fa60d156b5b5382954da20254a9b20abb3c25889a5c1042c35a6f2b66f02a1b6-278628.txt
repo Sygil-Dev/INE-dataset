@@ -1,116 +1,116 @@
-5 toes
-2016
-abs
-action:open mouth
-angry
-artist:trọng_hiếu
-barefoot
-biceps
-big muscles
-blue body
-blue fur
-bodypart:abs
-bodypart:facial piercing
-bodypart:hair
-bodypart:long hair
-bodypart:muscles
-bodypart:teeth
-bodypart:toes
-booru:e621
-bright eyes
-bright_eyes
-category:ine
-claws
-clothed
-clothing
-creator:trọng hiếu
-demon
-duo
-ear piercing
-emotion:anger
-facial piercing
-fangs
-feathers
-feet
-female
-fighting pose
-fighting stance
-fighting_pose
-forest
-fur
-gender:female
-gender:male
-ghost
-guardian
-guro
-hair
-high resolution
-human
-larger male
-long hair
-looking away
-magic
-male
-mammal
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-meta:2016
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:tagme
-monster
-muscles
-muscular
-native
-no pupils
-nude
-open mouth
-outside
-pecs
-piercing
-plant
-plantigrade
-pose
-rating:explicit
-rating:mature
-rating:safe
-sharp teeth
-side view
-size difference
-smaller female
-source:e621
-species:canid
-species:canine
-species:canis
-species:demon
-species:ghost
-species:human
-species:mammal
-species:mythical
-species:primate
-species:spirit
-species:undead
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-spirit
-subreddit:imaginarynatives
-subreddit:imcharacters
-tattoo
-teeth
-title:werewolf soul by trọng hiếu
-toes
-tree
-trọng hiếu
-uploader:lol33ta
-walking
-website:e621
-were
-year:2016
+5 toes,
+2016,
+abs,
+action:open mouth,
+angry,
+artist:trọng_hiếu,
+barefoot,
+biceps,
+big muscles,
+blue body,
+blue fur,
+bodypart:abs,
+bodypart:facial piercing,
+bodypart:hair,
+bodypart:long hair,
+bodypart:muscles,
+bodypart:teeth,
+bodypart:toes,
+booru:e621,
+bright eyes,
+bright_eyes,
+category:ine,
+claws,
+clothed,
+clothing,
+creator:trọng hiếu,
+demon,
+duo,
+ear piercing,
+emotion:anger,
+facial piercing,
+fangs,
+feathers,
+feet,
+female,
+fighting pose,
+fighting stance,
+fighting_pose,
+forest,
+fur,
+gender:female,
+gender:male,
+ghost,
+guardian,
+guro,
+hair,
+high resolution,
+human,
+larger male,
+long hair,
+looking away,
+magic,
+male,
+mammal,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+meta:2016,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:tagme,
+monster,
+muscles,
+muscular,
+native,
+no pupils,
+nude,
+open mouth,
+outside,
+pecs,
+piercing,
+plant,
+plantigrade,
+pose,
+rating:explicit,
+rating:mature,
+rating:safe,
+sharp teeth,
+side view,
+size difference,
+smaller female,
+source:e621,
+species:canid,
+species:canine,
+species:canis,
+species:demon,
+species:ghost,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:spirit,
+species:undead,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+spirit,
+subreddit:imaginarynatives,
+subreddit:imcharacters,
+tattoo,
+teeth,
+title:werewolf soul by trọng hiếu,
+toes,
+tree,
+trọng hiếu,
+uploader:lol33ta,
+walking,
+website:e621,
+were,
+year:2016,

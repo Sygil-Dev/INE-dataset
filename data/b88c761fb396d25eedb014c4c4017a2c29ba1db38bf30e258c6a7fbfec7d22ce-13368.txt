@@ -1,40 +1,40 @@
-alia
-animation
-arrakis
-atreides
-bene gesserit
-category:ine
-creator:andrii shafetov
-desert
-dune
-dust storm
-fade
-flow
-frank herbert
-freemen
-fremen
-fx
-harkonnen
-harvester
-kwisatz haderach
-leto
-lissan al gaib
-medium:digital 2d
-muad'dib
-muaddib
-paul
-rabban
-sand
-sand storm
-shai hulud
-spice
-subreddit:imaginaryarrakis
-subreddit:imfandoms
-title:frank herbert's "dune" - "arrival"
-title:frank herbert's "dune" - "arrival" by andrii shafetov
-title:frank herbert's dune - arrival by andrii shafetov
-uploader:manowar0264
-uploader:richesandrags
-usul
-visual effects
-worm
+alia,
+animation,
+arrakis,
+atreides,
+bene gesserit,
+category:ine,
+creator:andrii shafetov,
+desert,
+dune,
+dust storm,
+fade,
+flow,
+frank herbert,
+freemen,
+fremen,
+fx,
+harkonnen,
+harvester,
+kwisatz haderach,
+leto,
+lissan al gaib,
+medium:digital 2d,
+muad'dib,
+muaddib,
+paul,
+rabban,
+sand,
+sand storm,
+shai hulud,
+spice,
+subreddit:imaginaryarrakis,
+subreddit:imfandoms,
+title:frank herbert's "dune" - "arrival",
+title:frank herbert's "dune" - "arrival" by andrii shafetov,
+title:frank herbert's dune - arrival by andrii shafetov,
+uploader:manowar0264,
+uploader:richesandrags,
+usul,
+visual effects,
+worm,

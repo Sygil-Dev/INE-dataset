@@ -1,32 +1,32 @@
-armor
-artist name
-battle
-breathing fire
-burning
-campfire
-category:ine
-embers
-explosion
-fire
-firing
-flame
-flaming sword
-flaming weapon
-glowing
-helmet
-holding
-holding sword
-magic
-molten rock
-rating:safe
-subreddit:imaginarydemons
-subreddit:imaginaryhellscapes
-subreddit:imlandscapes
-subreddit:immonsters
-sword
-title:fire prince by júlio rocha
-torch
-uploader:[deleted]
-uploader:faeryknight
-uploader:lol33ta
-weapon
+armor,
+artist name,
+battle,
+breathing fire,
+burning,
+campfire,
+category:ine,
+embers,
+explosion,
+fire,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+glowing,
+helmet,
+holding,
+holding sword,
+magic,
+molten rock,
+rating:safe,
+subreddit:imaginarydemons,
+subreddit:imaginaryhellscapes,
+subreddit:imlandscapes,
+subreddit:immonsters,
+sword,
+title:fire prince by júlio rocha,
+torch,
+uploader:[deleted],
+uploader:faeryknight,
+uploader:lol33ta,
+weapon,

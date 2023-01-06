@@ -1,67 +1,67 @@
-16:9
-2017
-booru:e621
-category:ine
-character:starlight glimmer
-character:starlight glimmer (mlp)
-character:sunset shimmer
-character:sunset shimmer (eg)
-clothing
-creator:vanillaghosties
-cutie mark
-duo
-equine
-female
-feral
-gender:female
-genre:fantasy
-hair
-hi res
-hooves
-horn
-horns
-mammal
-medium:16:9 aspect ratio
-medium:high resolution
-medium:wallpaper
-meta:16:9
-meta:2017
-meta:hi res
-meta:wallpaper
-meta:widescreen
-mlp
-multicolored hair
-open mouth
-outside
-pool
-rating:safe
-reformationparty
-series:equestria girls
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony equestria girls
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-starlightglimmer
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sunsetshimmer
-swimsuit
-swimwear
-title:"when twilight isn't home" by vanillaghosties
-title:when twilight isn't home
-two tone hair
-underhoof
-unicorn
-uploader:torvusil
-vanillaghosties
-wallpaper
-water
-year:2017
+16:9,
+2017,
+booru:e621,
+category:ine,
+character:starlight glimmer,
+character:starlight glimmer (mlp),
+character:sunset shimmer,
+character:sunset shimmer (eg),
+clothing,
+creator:vanillaghosties,
+cutie mark,
+duo,
+equine,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+hooves,
+horn,
+horns,
+mammal,
+medium:16:9 aspect ratio,
+medium:high resolution,
+medium:wallpaper,
+meta:16:9,
+meta:2017,
+meta:hi res,
+meta:wallpaper,
+meta:widescreen,
+mlp,
+multicolored hair,
+open mouth,
+outside,
+pool,
+rating:safe,
+reformationparty,
+series:equestria girls,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony equestria girls,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+starlightglimmer,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sunsetshimmer,
+swimsuit,
+swimwear,
+title:"when twilight isn't home" by vanillaghosties,
+title:when twilight isn't home,
+two tone hair,
+underhoof,
+unicorn,
+uploader:torvusil,
+vanillaghosties,
+wallpaper,
+water,
+year:2017,

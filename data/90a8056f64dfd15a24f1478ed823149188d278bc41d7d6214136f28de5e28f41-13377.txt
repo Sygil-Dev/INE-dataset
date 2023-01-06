@@ -1,22 +1,22 @@
-aleksa stajsic
-category:ine
-concept art
-conceptart
-creator:aleksa stajsic
-creature
-demon
-mage
-medium:digital 2d
-painting
-subreddit:imaginaryaliens
-subreddit:imaginaryassassins
-subreddit:imaginarydemons
-subreddit:imaginaryimmortals
-subreddit:imaginaryknights
-subreddit:imaginaryundead
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:immonsters
-subreddit:imraces
-title:practice
-uploader:al3ks4
+aleksa stajsic,
+category:ine,
+concept art,
+conceptart,
+creator:aleksa stajsic,
+creature,
+demon,
+mage,
+medium:digital 2d,
+painting,
+subreddit:imaginaryaliens,
+subreddit:imaginaryassassins,
+subreddit:imaginarydemons,
+subreddit:imaginaryimmortals,
+subreddit:imaginaryknights,
+subreddit:imaginaryundead,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:immonsters,
+subreddit:imraces,
+title:practice,
+uploader:al3ks4,

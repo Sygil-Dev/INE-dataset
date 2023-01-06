@@ -1,68 +1,68 @@
-1girl
-aerial fireworks
-antlers
-aurora
-bare tree
-campfire
-category:ine
-chimney
-christmas
-christmas lights
-christmas ornaments
-christmas tree
-city lights
-cloud
-constellation
-crescent moon
-earth (planet)
-fireflies
-fireworks
-full moon
-galaxy
-house
-lantern
-letterboxed
-light
-light particles
-long hair
-milky way
-moon
-moonlight
-mountain
-mountainous horizon
-night
-night sky
-onsen
-outdoors
-pine tree
-planet
-rating:safe
-reindeer
-reindeer antlers
-scenery
-shooting star
-sky
-skyline
-snow
-snowflakes
-snowing
-snowman
-solo
-space
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-sunrise
-tanabata
-tanzaku
-telescope
-title:winter by bogdan bungardean
-tree
-twilight
-uploader:ntrx
-winter
-winter clothes
+1girl,
+aerial fireworks,
+antlers,
+aurora,
+bare tree,
+campfire,
+category:ine,
+chimney,
+christmas,
+christmas lights,
+christmas ornaments,
+christmas tree,
+city lights,
+cloud,
+constellation,
+crescent moon,
+earth (planet),
+fireflies,
+fireworks,
+full moon,
+galaxy,
+house,
+lantern,
+letterboxed,
+light,
+light particles,
+long hair,
+milky way,
+moon,
+moonlight,
+mountain,
+mountainous horizon,
+night,
+night sky,
+onsen,
+outdoors,
+pine tree,
+planet,
+rating:safe,
+reindeer,
+reindeer antlers,
+scenery,
+shooting star,
+sky,
+skyline,
+snow,
+snowflakes,
+snowing,
+snowman,
+solo,
+space,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+sunrise,
+tanabata,
+tanzaku,
+telescope,
+title:winter by bogdan bungardean,
+tree,
+twilight,
+uploader:ntrx,
+winter,
+winter clothes,

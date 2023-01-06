@@ -1,55 +1,55 @@
-armor
-blue fur
-category:ine
-character:zacian
-character:zamazenta
-claws
-clothing:armor
-creator:versiris
-fangs
-full body
-fur
-gen 8 pokemon
-gender:male
-holding
-holding object
-holding sword
-holding weapon
-multicolored
-multicolored eyes
-multiple males
-no humans
-open mouth
-outline
-rating:mature
-rating:safe
-red eyes
-series:creatures (company)
-series:game freak
-series:pokemon
-series:pokemon sword & shield
-series:pokémon
-sharp teeth
-solo
-species:canine
-species:canis
-species:legendary pokémon
-species:mammal
-species:monster
-species:pokemon
-species:pokémon
-species:wolf
-standing
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-sword
-teeth
-title:"the sword and the shield" by tanya kozak (versiris)
-uploader:torvusil
-weapon
-white outline
-yellow eyes
+armor,
+blue fur,
+category:ine,
+character:zacian,
+character:zamazenta,
+claws,
+clothing:armor,
+creator:versiris,
+fangs,
+full body,
+fur,
+gen 8 pokemon,
+gender:male,
+holding,
+holding object,
+holding sword,
+holding weapon,
+multicolored,
+multicolored eyes,
+multiple males,
+no humans,
+open mouth,
+outline,
+rating:mature,
+rating:safe,
+red eyes,
+series:creatures (company),
+series:game freak,
+series:pokemon,
+series:pokemon sword & shield,
+series:pokémon,
+sharp teeth,
+solo,
+species:canine,
+species:canis,
+species:legendary pokémon,
+species:mammal,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:wolf,
+standing,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sword,
+teeth,
+title:"the sword and the shield" by tanya kozak (versiris),
+uploader:torvusil,
+weapon,
+white outline,
+yellow eyes,

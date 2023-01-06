@@ -1,78 +1,78 @@
-2015
-amazing background
-anthro
-anthropomorphism
-booru:e621
-bowl
-brown body
-brown fur
-calendar
-canine
-carvings
-category:ine
-cave
-creator:rhyu
-creator:silvixen
-desert
-detailed background
-filename:1439337800.rhyu_posting.png
-fur
-furry
-gender:male
-grey body
-grey fur
-guro
-lizard
-looking down
-male
-mammal
-markings
-medium:amazing background
-medium:detailed background
-meta:2015
-meta:nsfw
-meta:portrait
-monster
-nude
-outside
-pool
-portrait
-rajewel
-rating:explicit
-rating:mature
-rating:safe
-reptile
-rhyu
-rock
-scalie
-series:werewolf calendar
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:lizard
-species:mammal
-species:mythical
-species:reptile
-species:scalie
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-stuff
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:desert oasis
-title:desert oasis by rajewel/robyn drayson (x-post r/anthro)
-uploader:chalkchick0
-water
-were
-werewolf
-werewolf calendar
-white body
-white fur
-wolf
-year:2015
-yellow eyes
+2015,
+amazing background,
+anthro,
+anthropomorphism,
+booru:e621,
+bowl,
+brown body,
+brown fur,
+calendar,
+canine,
+carvings,
+category:ine,
+cave,
+creator:rhyu,
+creator:silvixen,
+desert,
+detailed background,
+filename:1439337800.rhyu_posting.png,
+fur,
+furry,
+gender:male,
+grey body,
+grey fur,
+guro,
+lizard,
+looking down,
+male,
+mammal,
+markings,
+medium:amazing background,
+medium:detailed background,
+meta:2015,
+meta:nsfw,
+meta:portrait,
+monster,
+nude,
+outside,
+pool,
+portrait,
+rajewel,
+rating:explicit,
+rating:mature,
+rating:safe,
+reptile,
+rhyu,
+rock,
+scalie,
+series:werewolf calendar,
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:lizard,
+species:mammal,
+species:mythical,
+species:reptile,
+species:scalie,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+stuff,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:desert oasis,
+title:desert oasis by rajewel/robyn drayson (x-post r/anthro),
+uploader:chalkchick0,
+water,
+were,
+werewolf,
+werewolf calendar,
+white body,
+white fur,
+wolf,
+year:2015,
+yellow eyes,

@@ -1,65 +1,65 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-bread
-category:ine
-cloud
-creator:cryptid-creations
-feathers
-feral
-food
-furry
-gender:ambiguous
-gender:male
-humor
-male:1
-medium:simple background
-medium:text
-medium:white background
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meme:humor
-meta:url
-meta:white background
-orange body
-orange feathers
-orange_body
-orange_feathers
-pun
-rating:safe
-simple background
-simple_background
-sky
-solo
-species:anatid
-species:anseriform
-species:avian
-species:bird
-species:duck
-species:hybrid
-species:pterodactylus
-species:pterosaur
-species:reptile
-species:scalie
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-text
-title:daily paint 1538. pteroducktyl
-title:pteroducktyl by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-white background
-white body
-white feathers
-white_background
-white_body
-white_feathers
-wings
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+bread,
+category:ine,
+cloud,
+creator:cryptid-creations,
+feathers,
+feral,
+food,
+furry,
+gender:ambiguous,
+gender:male,
+humor,
+male:1,
+medium:simple background,
+medium:text,
+medium:white background,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meme:humor,
+meta:url,
+meta:white background,
+orange body,
+orange feathers,
+orange_body,
+orange_feathers,
+pun,
+rating:safe,
+simple background,
+simple_background,
+sky,
+solo,
+species:anatid,
+species:anseriform,
+species:avian,
+species:bird,
+species:duck,
+species:hybrid,
+species:pterodactylus,
+species:pterosaur,
+species:reptile,
+species:scalie,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+text,
+title:daily paint 1538. pteroducktyl,
+title:pteroducktyl by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white background,
+white body,
+white feathers,
+white_background,
+white_body,
+white_feathers,
+wings,

@@ -1,64 +1,64 @@
-artem rhads
-artist name
-beach
-blue sky
-blue theme
-boat
-booru:wallhaven.cc
-category:ine
-caustics
-character:lapras
-cloud
-clouds
-cloudy sky
-condensation trail
-creator:artem chebokha
-day
-dock
-earth (planet)
-fish
-fisheye
-horizon
-island
-lake
-medium:digital 2d
-mountain
-mountainous horizon
-no humans
-ocean
-octopus
-outdoors
-painting
-partially underwater shot
-pier
-planet
-pokemon (creature)
-pool
-rating:safe
-ripples
-river
-scenery
-sea
-seagull
-ship
-shore
-signature
-sky
-species:fish
-species:shark
-standing on liquid
-subreddit:imaginarybestof
-subreddit:imaginaryislands
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-subreddit:immeta
-subreddit:imnature
-title:[/r/imaginaryislands] dangerous waters by artem rhads
-title:dangerous waters
-title:dangerous waters by artem rhads
-uploader:lol33ta
-uploader:valar_m0rghul1s
-walking on liquid
-water
-watercraft
-waves
+artem rhads,
+artist name,
+beach,
+blue sky,
+blue theme,
+boat,
+booru:wallhaven.cc,
+category:ine,
+caustics,
+character:lapras,
+cloud,
+clouds,
+cloudy sky,
+condensation trail,
+creator:artem chebokha,
+day,
+dock,
+earth (planet),
+fish,
+fisheye,
+horizon,
+island,
+lake,
+medium:digital 2d,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+octopus,
+outdoors,
+painting,
+partially underwater shot,
+pier,
+planet,
+pokemon (creature),
+pool,
+rating:safe,
+ripples,
+river,
+scenery,
+sea,
+seagull,
+ship,
+shore,
+signature,
+sky,
+species:fish,
+species:shark,
+standing on liquid,
+subreddit:imaginarybestof,
+subreddit:imaginaryislands,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+subreddit:immeta,
+subreddit:imnature,
+title:[/r/imaginaryislands] dangerous waters by artem rhads,
+title:dangerous waters,
+title:dangerous waters by artem rhads,
+uploader:lol33ta,
+uploader:valar_m0rghul1s,
+walking on liquid,
+water,
+watercraft,
+waves,

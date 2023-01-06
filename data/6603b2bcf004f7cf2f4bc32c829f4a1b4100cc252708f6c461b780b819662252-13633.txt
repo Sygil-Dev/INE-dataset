@@ -1,31 +1,31 @@
-artist:hwanggyu kim
-black border
-blue sky
-border
-category:ine
-cliff
-copyright:original
-creator:hwanggyu kim
-day
-grass
-hwanggyu kim
-meta:commentary
-meta:photoshop (medium)
-no humans
-outdoors
-outside
-rating:general
-rating:mature
-rating:safe
-robot
-ruins
-rust
-scenery
-series:original
-sky
-species:robot
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-title:matte painting 01 by hwanggyu kim (xpost /r/birdsforscale)
-tree
-uploader:lol33ta
+artist:hwanggyu kim,
+black border,
+blue sky,
+border,
+category:ine,
+cliff,
+copyright:original,
+creator:hwanggyu kim,
+day,
+grass,
+hwanggyu kim,
+meta:commentary,
+meta:photoshop (medium),
+no humans,
+outdoors,
+outside,
+rating:general,
+rating:mature,
+rating:safe,
+robot,
+ruins,
+rust,
+scenery,
+series:original,
+sky,
+species:robot,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+title:matte painting 01 by hwanggyu kim (xpost /r/birdsforscale),
+tree,
+uploader:lol33ta,

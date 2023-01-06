@@ -1,21 +1,21 @@
-beiya'ren
-bone
-category:ine
-child
-cloth
-creator:kenneth solis
-crest
-dinosaur
-feather
-leather
-medium:digital 2d
-mother
-northmen
-society
-subreddit:imaginaryfamilies
-subreddit:imcharacters
-title:beiya'ren mother and child
-title:beiya'ren mother and child by kenneth solis
-uploader:ryguy325
-viking
-warrior
+beiya'ren,
+bone,
+category:ine,
+child,
+cloth,
+creator:kenneth solis,
+crest,
+dinosaur,
+feather,
+leather,
+medium:digital 2d,
+mother,
+northmen,
+society,
+subreddit:imaginaryfamilies,
+subreddit:imcharacters,
+title:beiya'ren mother and child,
+title:beiya'ren mother and child by kenneth solis,
+uploader:ryguy325,
+viking,
+warrior,

@@ -1,16 +1,16 @@
-category:ine
-character
-commission
-creator:gerson andrade
-elf
-fantasy
-medium:digital 2d
-species:elf
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-title:luviana - void elf (world of warcraft character)
-title:luviana void elf (art commissioned)
-uploader:gohasen382
-voidelf
-world of warcraft
-wow
+category:ine,
+character,
+commission,
+creator:gerson andrade,
+elf,
+fantasy,
+medium:digital 2d,
+species:elf,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+title:luviana - void elf (world of warcraft character),
+title:luviana void elf (art commissioned),
+uploader:gohasen382,
+voidelf,
+world of warcraft,
+wow,

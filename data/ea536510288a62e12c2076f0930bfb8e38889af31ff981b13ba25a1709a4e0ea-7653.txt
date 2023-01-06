@@ -1,22 +1,22 @@
-category:ine
-clothing:jewelry
-creator:diego gisbert llorens
-dark rider
-jewelry
-khamul
-lotr
-medium:digital 2d
-middle earth
-nazgûl
-ring
-sauron
-series:the lord of the rings
-species:undead
-spectre
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-the shire
-title:sniffing
-title:sniffing by diego gisbert llorens
-tolkien
-uploader:adverserius
+category:ine,
+clothing:jewelry,
+creator:diego gisbert llorens,
+dark rider,
+jewelry,
+khamul,
+lotr,
+medium:digital 2d,
+middle earth,
+nazgûl,
+ring,
+sauron,
+series:the lord of the rings,
+species:undead,
+spectre,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+the shire,
+title:sniffing,
+title:sniffing by diego gisbert llorens,
+tolkien,
+uploader:adverserius,

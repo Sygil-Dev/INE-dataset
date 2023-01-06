@@ -1,23 +1,23 @@
-blood elf
-category:ine
-creator:nixri
-creator:nixri ✦
-creator:rudy duca
-elf
-fan art
-fantasy
-medium:2d art
-medium:digital 2d
-nixri
-portrait
-rudy duca
-species:elf
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-subreddit:inegentlemanboners
-title:christmas elf
-title:christmas elf by rudy duca
-title:elves compilation 2018
-title:elves portraits i've done over the year
-uploader:nixri
-warcraft
+blood elf,
+category:ine,
+creator:nixri,
+creator:nixri ✦,
+creator:rudy duca,
+elf,
+fan art,
+fantasy,
+medium:2d art,
+medium:digital 2d,
+nixri,
+portrait,
+rudy duca,
+species:elf,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+subreddit:inegentlemanboners,
+title:christmas elf,
+title:christmas elf by rudy duca,
+title:elves compilation 2018,
+title:elves portraits i've done over the year,
+uploader:nixri,
+warcraft,

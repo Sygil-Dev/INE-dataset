@@ -1,30 +1,30 @@
-1boy
-argyle background
-blue fire
-cape
-category:ine
-checkered
-checkered background
-checkered floor
-copyright
-copyright name
-fire
-full body
-hat
-hitodama
-magic
-rating:safe
-solo
-standing
-subreddit:imaginarynobles
-subreddit:imaginaryspirits
-subreddit:imcharacters
-subreddit:immonsters
-sword
-tile floor
-tiles
-title:righteous heir by xavier ribeiro
-uploader:tamander
-watermark
-weapon
-web address
+1boy,
+argyle background,
+blue fire,
+cape,
+category:ine,
+checkered,
+checkered background,
+checkered floor,
+copyright,
+copyright name,
+fire,
+full body,
+hat,
+hitodama,
+magic,
+rating:safe,
+solo,
+standing,
+subreddit:imaginarynobles,
+subreddit:imaginaryspirits,
+subreddit:imcharacters,
+subreddit:immonsters,
+sword,
+tile floor,
+tiles,
+title:righteous heir by xavier ribeiro,
+uploader:tamander,
+watermark,
+weapon,
+web address,

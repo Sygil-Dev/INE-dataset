@@ -1,61 +1,61 @@
-2018
-ambiguous gender
-animal
-bengaltiger
-blue eyes
-booru:e621
-cat
-category:ine
-conceptart
-creator:arvalis
-day
-detailed background
-digital painting (artwork)
-feathered wings
-feathers
-feral
-fur
-gender:ambiguous
-green eyes
-griffin
-gryphongriffin
-heterochromia
-illustration
-medium:absurd resolution
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2018
-meta:absurd res
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:hi res
-meta:url
-nature
-open mouth
-outside
-owl
-rating:safe
-siberiantiger
-solo
-species:felid
-species:feline
-species:hybrid
-species:mammal
-species:pantherine
-species:tiger
-striped
-striped body
-striped fur
-stripes
-subreddit:imaginaryhybrids
-subreddit:immonsters
-teeth
-text
-tiger
-title:"danny the tiger owl griffin" by rj palmer (arvalis)
-title:danny the tiger owl griffin
-uploader:torvusil
-white tigers
-wings
-year:2018
+2018,
+ambiguous gender,
+animal,
+bengaltiger,
+blue eyes,
+booru:e621,
+cat,
+category:ine,
+conceptart,
+creator:arvalis,
+day,
+detailed background,
+digital painting (artwork),
+feathered wings,
+feathers,
+feral,
+fur,
+gender:ambiguous,
+green eyes,
+griffin,
+gryphongriffin,
+heterochromia,
+illustration,
+medium:absurd resolution,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2018,
+meta:absurd res,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:hi res,
+meta:url,
+nature,
+open mouth,
+outside,
+owl,
+rating:safe,
+siberiantiger,
+solo,
+species:felid,
+species:feline,
+species:hybrid,
+species:mammal,
+species:pantherine,
+species:tiger,
+striped,
+striped body,
+striped fur,
+stripes,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+teeth,
+text,
+tiger,
+title:"danny the tiger owl griffin" by rj palmer (arvalis),
+title:danny the tiger owl griffin,
+uploader:torvusil,
+white tigers,
+wings,
+year:2018,

@@ -1,63 +1,63 @@
-2015
-absurd res
-amazing background
-art nouveau
-booru:e621
-building
-canterlot
-castle
-category:ine
-character:bonbon
-character:bonbon (mlp)
-character:diamond tiara
-character:diamond tiara (mlp)
-character:fan character
-character:fancy pants (mlp)
-character:fancypants (mlp)
-character:filthy rich (mlp)
-character:fleur de lis (mlp)
-creator:devinian
-detailed background
-duo
-feathered wings
-feathers
-female
-gender:female
-genre:fantasy
-hi res
-horn
-horns
-medium:absurd resolution
-medium:amazing background
-medium:detailed background
-medium:high resolution
-meta:2015
-meta:absurd res
-meta:hi res
-meta:original character
-original character
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tag source:e621
-title:commission: piercing the sky
-title:piercing the sky by devinian
-uploader:coelacanth0794
-wings
-year:2015
+2015,
+absurd res,
+amazing background,
+art nouveau,
+booru:e621,
+building,
+canterlot,
+castle,
+category:ine,
+character:bonbon,
+character:bonbon (mlp),
+character:diamond tiara,
+character:diamond tiara (mlp),
+character:fan character,
+character:fancy pants (mlp),
+character:fancypants (mlp),
+character:filthy rich (mlp),
+character:fleur de lis (mlp),
+creator:devinian,
+detailed background,
+duo,
+feathered wings,
+feathers,
+female,
+gender:female,
+genre:fantasy,
+hi res,
+horn,
+horns,
+medium:absurd resolution,
+medium:amazing background,
+medium:detailed background,
+medium:high resolution,
+meta:2015,
+meta:absurd res,
+meta:hi res,
+meta:original character,
+original character,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tag source:e621,
+title:commission: piercing the sky,
+title:piercing the sky by devinian,
+uploader:coelacanth0794,
+wings,
+year:2015,

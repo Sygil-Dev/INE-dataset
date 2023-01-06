@@ -1,36 +1,36 @@
-barge
-building
-category:ine
-city
-classic
-creator:joakim ericsson
-desert
-dirty
-future
-genre:science fiction
-guy
-headwear
-helmet
-medium:digital 2d
-movie
-power
-refinery
-shanty
-ship
-smog
-space
-species:canine
-species:dog
-species:mammal
-subreddit:imaginarycityscapes
-subreddit:imaginaryfuturism
-subreddit:imlandscapes
-subreddit:imtechnology
-sunset
-title:dog watch
-title:dog watch by joakim ericsson
-tower
-uploader:drunkindragon
-vehicle
-watch
-watercraft
+barge,
+building,
+category:ine,
+city,
+classic,
+creator:joakim ericsson,
+desert,
+dirty,
+future,
+genre:science fiction,
+guy,
+headwear,
+helmet,
+medium:digital 2d,
+movie,
+power,
+refinery,
+shanty,
+ship,
+smog,
+space,
+species:canine,
+species:dog,
+species:mammal,
+subreddit:imaginarycityscapes,
+subreddit:imaginaryfuturism,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+sunset,
+title:dog watch,
+title:dog watch by joakim ericsson,
+tower,
+uploader:drunkindragon,
+vehicle,
+watch,
+watercraft,

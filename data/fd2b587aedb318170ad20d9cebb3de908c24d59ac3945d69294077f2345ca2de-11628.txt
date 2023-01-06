@@ -1,38 +1,38 @@
-1 female
-arms up
-artist:chirun
-black hair
-blue background
-booru:danbooru
-bow (weapon)
-breasts
-category:ine
-chirun
-clothing:gloves
-copyright:original
-creator:chirun
-crossbow
-gender:female
-genre:steampunk
-gloves
-goggles
-holding
-holding object
-holding weapon
-long hair
-looking at viewer
-medium:blue background
-meta:commentary
-meta:english commentary
-open mouth
-pov
-rating:mature
-rating:safe
-series:original
-solo
-subreddit:imaginaryarchers
-subreddit:imcharacters
-title:balestrieri by karina s.
-uploader:myrandall
-very long hair
-weapon
+1 female,
+arms up,
+artist:chirun,
+black hair,
+blue background,
+booru:danbooru,
+bow (weapon),
+breasts,
+category:ine,
+chirun,
+clothing:gloves,
+copyright:original,
+creator:chirun,
+crossbow,
+gender:female,
+genre:steampunk,
+gloves,
+goggles,
+holding,
+holding object,
+holding weapon,
+long hair,
+looking at viewer,
+medium:blue background,
+meta:commentary,
+meta:english commentary,
+open mouth,
+pov,
+rating:mature,
+rating:safe,
+series:original,
+solo,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+title:balestrieri by karina s.,
+uploader:myrandall,
+very long hair,
+weapon,

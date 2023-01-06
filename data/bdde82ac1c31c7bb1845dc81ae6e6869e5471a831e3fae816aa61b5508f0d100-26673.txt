@@ -1,53 +1,53 @@
-3 fingers
-abstract background
-ambiguous gender
-black body
-black scales
-blue fire
-booru:e621
-category:ine
-charizard
-charizardpokemon
-charizardx
-charizardy
-claws
-colored fire
-creator:orangetavi
-creator:super-tuler
-duo
-fingers
-fire
-gender:ambiguous
-medium:high resolution
-megaevolution
-meta:2016
-meta:hi res
-open mouth
-orange body
-orange scales
-pokemon
-pokemonfanart
-pokemonnintendo
-pokemonxandy
-pokemonxy
-rating:safe
-roaring
-scales
-series:nintendo
-series:pokemon
-series:pokémon
-species:mega charizard
-species:mega charizard x
-species:mega charizard y
-species:mega evolution
-species:monster
-species:pokemon
-species:pokémon (species)
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"mega charizard xy" by justin vu (orangetavi)
-title:mega charizard xy
-uploader:torvusil
-video games
-year:2016
+3 fingers,
+abstract background,
+ambiguous gender,
+black body,
+black scales,
+blue fire,
+booru:e621,
+category:ine,
+charizard,
+charizardpokemon,
+charizardx,
+charizardy,
+claws,
+colored fire,
+creator:orangetavi,
+creator:super-tuler,
+duo,
+fingers,
+fire,
+gender:ambiguous,
+medium:high resolution,
+megaevolution,
+meta:2016,
+meta:hi res,
+open mouth,
+orange body,
+orange scales,
+pokemon,
+pokemonfanart,
+pokemonnintendo,
+pokemonxandy,
+pokemonxy,
+rating:safe,
+roaring,
+scales,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+species:mega charizard,
+species:mega charizard x,
+species:mega charizard y,
+species:mega evolution,
+species:monster,
+species:pokemon,
+species:pokémon (species),
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"mega charizard xy" by justin vu (orangetavi),
+title:mega charizard xy,
+uploader:torvusil,
+video games,
+year:2016,

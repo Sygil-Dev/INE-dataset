@@ -1,24 +1,24 @@
-avengers
-black panther
-captain america
-category:ine
-civil war
-concept art
-costume
-creator:ryan meinerding
-design
-iron man
-marvel
-mcu
-medium:digital 2d
-ryan meinerding
-spider-man
-spider-man:homecoming
-spiderman
-subreddit:imaginarymarvel
-subreddit:imfandoms
-title:the winter soldier
-title:the winter soldier, by ryan meinerding
-ultron
-uploader:awesomehp
-winter soldier
+avengers,
+black panther,
+captain america,
+category:ine,
+civil war,
+concept art,
+costume,
+creator:ryan meinerding,
+design,
+iron man,
+marvel,
+mcu,
+medium:digital 2d,
+ryan meinerding,
+spider-man,
+spider-man:homecoming,
+spiderman,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+title:the winter soldier,
+title:the winter soldier, by ryan meinerding,
+ultron,
+uploader:awesomehp,
+winter soldier,

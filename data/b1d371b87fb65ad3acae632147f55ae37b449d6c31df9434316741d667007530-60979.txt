@@ -1,65 +1,65 @@
-1 female
-1girl
-armor
-artist:dongho kang
-bangs
-black dress
-black legwear
-blunt bangs
-breastplate
-category:ine
-claymore (sword)
-clothing:black dress
-clothing:black legwear
-clothing:dress
-clothing:hair tie
-clothing:legwear
-clothing:puffy sleeves
-clothing:thigh-highs
-copyright:original
-cowboy shot
-creator:dongho kang
-creator:dongho_kang
-dress
-female
-from side
-gauntlets
-gender:female
-hand on hip
-holding
-holding object
-holding sword
-holding weapon
-in profile
-lips
-long hair
-medium breasts
-medium:cowboy shot
-medium:digital 2d
-medium:high resolution
-meta:bad artstation id
-meta:bad id
-meta:commentary
-meta:highres
-nose
-ponytail
-puffy sleeves
-rating:mature
-rating:safe
-red eyes
-series:original
-serious
-solo
-subreddit:imaginaryknights
-subreddit:imcharacters
-sword
-thigh-highs
-thighhighs
-thighs
-tied hair
-title:sword lady
-title:sword lady by dongho kang
-uploader:lexxx20
-weapon
-white hair
-zettai ryouiki
+1 female,
+1girl,
+armor,
+artist:dongho kang,
+bangs,
+black dress,
+black legwear,
+blunt bangs,
+breastplate,
+category:ine,
+claymore (sword),
+clothing:black dress,
+clothing:black legwear,
+clothing:dress,
+clothing:hair tie,
+clothing:legwear,
+clothing:puffy sleeves,
+clothing:thigh-highs,
+copyright:original,
+cowboy shot,
+creator:dongho kang,
+creator:dongho_kang,
+dress,
+female,
+from side,
+gauntlets,
+gender:female,
+hand on hip,
+holding,
+holding object,
+holding sword,
+holding weapon,
+in profile,
+lips,
+long hair,
+medium breasts,
+medium:cowboy shot,
+medium:digital 2d,
+medium:high resolution,
+meta:bad artstation id,
+meta:bad id,
+meta:commentary,
+meta:highres,
+nose,
+ponytail,
+puffy sleeves,
+rating:mature,
+rating:safe,
+red eyes,
+series:original,
+serious,
+solo,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+sword,
+thigh-highs,
+thighhighs,
+thighs,
+tied hair,
+title:sword lady,
+title:sword lady by dongho kang,
+uploader:lexxx20,
+weapon,
+white hair,
+zettai ryouiki,

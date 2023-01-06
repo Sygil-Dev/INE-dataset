@@ -1,53 +1,53 @@
-2 toes
-armor
-booru:e621
-boots
-bow (weapon)
-category:ine
-chainmail
-character:garrus vakarian
-clothing
-clothing:armor
-clothing:footwear
-creator:andrewryanart
-crossover
-feet
-footwear
-gender:male
-headgear
-headwear
-helmet
-holding object
-holding weapon
-looking away
-male
-markings
-medieval
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-medium:simple background
-meta:absurd res
-meta:crossover
-meta:digital media (artwork)
-meta:hi res
-ranged weapon
-rating:safe
-series:dragon age
-series:mass effect
-simple background
-soldier
-solo
-spaulders
-species:alien
-species:turian
-standing
-subreddit:imaginarymasseffect
-subreddit:imfandoms
-title:inquisition garrus
-title:inquistion garrus by andrew ryan
-toes
-uploader:cvance1
-video games
-warrior
-weapon
+2 toes,
+armor,
+booru:e621,
+boots,
+bow (weapon),
+category:ine,
+chainmail,
+character:garrus vakarian,
+clothing,
+clothing:armor,
+clothing:footwear,
+creator:andrewryanart,
+crossover,
+feet,
+footwear,
+gender:male,
+headgear,
+headwear,
+helmet,
+holding object,
+holding weapon,
+looking away,
+male,
+markings,
+medieval,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+medium:simple background,
+meta:absurd res,
+meta:crossover,
+meta:digital media (artwork),
+meta:hi res,
+ranged weapon,
+rating:safe,
+series:dragon age,
+series:mass effect,
+simple background,
+soldier,
+solo,
+spaulders,
+species:alien,
+species:turian,
+standing,
+subreddit:imaginarymasseffect,
+subreddit:imfandoms,
+title:inquisition garrus,
+title:inquistion garrus by andrew ryan,
+toes,
+uploader:cvance1,
+video games,
+warrior,
+weapon,

@@ -1,55 +1,55 @@
-abandoned
-abandoned building
-albino
-ambiguous gender
-anthropomorphism
-bandage
-booru:e621
-building
-cafeteria
-category:ine
-character:deathclaw
-character:deathclaw desu ga
-clothed
-clothing
-cockroach
-creator:shia
-deathclaw desu ga
-detailed background
-diner
-feral
-food
-furry
-horn
-horns
-indoors
-insect
-inside
-medium:detailed background
-monster
-pip-boy
-radroach
-rating:safe
-red eyes
-semi-anthro
-series:bethesda softworks
-series:fallout
-solo
-species:arthropod
-species:blattodea
-species:cockroach
-species:deathclaw
-species:insect
-species:lizard
-species:monster
-species:radroach
-species:radroach (fallout)
-species:reptile
-species:scalie
-studio:bethesda softworks
-subreddit:imaginaryfallout
-subreddit:imfandoms
-title:deathclaw's living in vaults -me
-uploader:shia_drunkfu
-vault suit
-video games
+abandoned,
+abandoned building,
+albino,
+ambiguous gender,
+anthropomorphism,
+bandage,
+booru:e621,
+building,
+cafeteria,
+category:ine,
+character:deathclaw,
+character:deathclaw desu ga,
+clothed,
+clothing,
+cockroach,
+creator:shia,
+deathclaw desu ga,
+detailed background,
+diner,
+feral,
+food,
+furry,
+horn,
+horns,
+indoors,
+insect,
+inside,
+medium:detailed background,
+monster,
+pip-boy,
+radroach,
+rating:safe,
+red eyes,
+semi-anthro,
+series:bethesda softworks,
+series:fallout,
+solo,
+species:arthropod,
+species:blattodea,
+species:cockroach,
+species:deathclaw,
+species:insect,
+species:lizard,
+species:monster,
+species:radroach,
+species:radroach (fallout),
+species:reptile,
+species:scalie,
+studio:bethesda softworks,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+title:deathclaw's living in vaults -me,
+uploader:shia_drunkfu,
+vault suit,
+video games,

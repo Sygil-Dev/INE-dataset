@@ -1,80 +1,80 @@
-1 female
-1girl
-6+ males
-6+boys
-animal
-armor
-artist name
-bare shoulders
-big cat
-black hair
-booru:sankaku
-booru:sankaku channel
-bow (weapon)
-category:ine
-cavalry
-character:aeolian
-character:princess aeolian
-character:tiger
-circlet
-clothing:armor
-clothing:tank top
-creator:cavalry
-creator:wlop
-crossbow
-fangs
-feline
-female
-gender:female
-gender:male
-ghostblade
-green eyes
-group
-headwear
-helmet
-highres
-horns
-horse
-horseback riding
-long hair
-male
-mane
-mask
-medium:16:9 aspect ratio
-medium:1600x900 wallpaper
-medium:artist name
-medium:high resolution
-medium:wallpaper
-meta:artist name
-meta:highres
-multiple boys
-multiple males
-pauldrons
-polearm
-quintet
-rating:mature
-rating:s
-rating:safe
-riding
-series:ghostblade
-series:original
-shoulder armor
-sitting
-spaulders
-spear
-species:equine
-species:feline
-species:horse
-species:mammal
-species:tiger
-standard bearer
-studio:quintet
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-tank top
-tiger
-title:battle
-title:battle by wang ling
-uploader:ethan_kahn
-weapon
-weapon:spear
+1 female,
+1girl,
+6+ males,
+6+boys,
+animal,
+armor,
+artist name,
+bare shoulders,
+big cat,
+black hair,
+booru:sankaku,
+booru:sankaku channel,
+bow (weapon),
+category:ine,
+cavalry,
+character:aeolian,
+character:princess aeolian,
+character:tiger,
+circlet,
+clothing:armor,
+clothing:tank top,
+creator:cavalry,
+creator:wlop,
+crossbow,
+fangs,
+feline,
+female,
+gender:female,
+gender:male,
+ghostblade,
+green eyes,
+group,
+headwear,
+helmet,
+highres,
+horns,
+horse,
+horseback riding,
+long hair,
+male,
+mane,
+mask,
+medium:16:9 aspect ratio,
+medium:1600x900 wallpaper,
+medium:artist name,
+medium:high resolution,
+medium:wallpaper,
+meta:artist name,
+meta:highres,
+multiple boys,
+multiple males,
+pauldrons,
+polearm,
+quintet,
+rating:mature,
+rating:s,
+rating:safe,
+riding,
+series:ghostblade,
+series:original,
+shoulder armor,
+sitting,
+spaulders,
+spear,
+species:equine,
+species:feline,
+species:horse,
+species:mammal,
+species:tiger,
+standard bearer,
+studio:quintet,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+tank top,
+tiger,
+title:battle,
+title:battle by wang ling,
+uploader:ethan_kahn,
+weapon,
+weapon:spear,

@@ -1,26 +1,26 @@
-1girl
-1other
-arch
-architecture
-bridge
-building
-category:ine
-city
-cloud
-day
-outdoors
-pillar
-rating:safe
-ruins
-scenery
-sky
-subreddit:imaginaryarchitecture
-subreddit:imaginarybestof
-subreddit:imaginarytemples
-subreddit:imarchitecture
-subreddit:immeta
-title:[/r/imaginaryarchitecture] old temple by julian calle
-title:old temple by julian calle
-tower
-uploader:incredibel
-uploader:lol33ta
+1girl,
+1other,
+arch,
+architecture,
+bridge,
+building,
+category:ine,
+city,
+cloud,
+day,
+outdoors,
+pillar,
+rating:safe,
+ruins,
+scenery,
+sky,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarybestof,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+subreddit:immeta,
+title:[/r/imaginaryarchitecture] old temple by julian calle,
+title:old temple by julian calle,
+tower,
+uploader:incredibel,
+uploader:lol33ta,

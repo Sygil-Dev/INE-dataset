@@ -1,34 +1,34 @@
-artwork
-category:ine
-city
-colorful
-creator:david legnon
-david legnon
-digital
-fantasy art
-firearm
-futurism
-futuristic
-genre:science fiction
-genre:synthwave
-medium:digital media
-mist
-neon
-neon lights
-night
-outrun
-people
-pink
-retrowave
-sci fi
-subreddit:imaginarycyberpunk
-subreddit:imaginaryfuturism
-subreddit:imtechnology
-synthwave
-title:"a new job" by david legnon
-title:a new job
-uploader:donnie_dark0
-uploader:pyro_azer
-vaporwave
-water
-weapon
+artwork,
+category:ine,
+city,
+colorful,
+creator:david legnon,
+david legnon,
+digital,
+fantasy art,
+firearm,
+futurism,
+futuristic,
+genre:science fiction,
+genre:synthwave,
+medium:digital media,
+mist,
+neon,
+neon lights,
+night,
+outrun,
+people,
+pink,
+retrowave,
+sci fi,
+subreddit:imaginarycyberpunk,
+subreddit:imaginaryfuturism,
+subreddit:imtechnology,
+synthwave,
+title:"a new job" by david legnon,
+title:a new job,
+uploader:donnie_dark0,
+uploader:pyro_azer,
+vaporwave,
+water,
+weapon,

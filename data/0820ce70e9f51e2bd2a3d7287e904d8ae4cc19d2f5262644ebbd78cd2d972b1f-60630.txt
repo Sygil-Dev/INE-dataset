@@ -1,35 +1,35 @@
-1girl
-assault rifle
-bolt action
-category:ine
-finger on trigger
-full body
-grey hair
-gun
-hair ornament
-holding gun
-holding weapon
-kalashnikov rifle
-machine gun
-military
-military uniform
-pistol
-rating:safe
-red eyes
-rifle
-scope
-short hair
-shotgun
-simple background
-sniper rifle
-solo
-standing
-submachine gun
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:warhammer weapons humanization(warning! - anime content)
-trigger discipline
-uniform
-uploader:lg_home
-weapon
-white background
+1girl,
+assault rifle,
+bolt action,
+category:ine,
+finger on trigger,
+full body,
+grey hair,
+gun,
+hair ornament,
+holding gun,
+holding weapon,
+kalashnikov rifle,
+machine gun,
+military,
+military uniform,
+pistol,
+rating:safe,
+red eyes,
+rifle,
+scope,
+short hair,
+shotgun,
+simple background,
+sniper rifle,
+solo,
+standing,
+submachine gun,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:warhammer weapons humanization(warning! - anime content),
+trigger discipline,
+uniform,
+uploader:lg_home,
+weapon,
+white background,

@@ -1,69 +1,69 @@
-2016
-amber eyes
-armor
-booru:e621
-bubble
-category:ine
-character:marine
-character:nami (lol)
-character:nami of the marai, the tidecaller
-clothing:armor
-creator:zig-word
-creator:zigword
-crossover
-dolphin
-equine
-female
-fish
-friendship
-gender:female
-hi res
-high resolution
-league
-legends
-little
-lol
-magic
-mammal
-marine
-medium:high resolution
-meta:2016
-meta:crossover
-meta:hi res
-nami
-ponification
-pony
-rating:safe
-seahorse
-series:hasbro
-series:league of legends
-series:my little pony
-series:riot games
-solo
-species:cetacean
-species:delphinoid
-species:dolphin
-species:equid
-species:equine
-species:fish
-species:horse
-species:mammal
-species:marine
-species:pony
-species:seahorse
-species:syngnathid
-species:syngnathiform
-species:toothed whale
-studio:hasbro
-studio:riot games
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"nami" by zig-word
-title:nami
-underwater
-uploader:torvusil
-video games
-water
-year:2016
-yellow eyes
-zigword
+2016,
+amber eyes,
+armor,
+booru:e621,
+bubble,
+category:ine,
+character:marine,
+character:nami (lol),
+character:nami of the marai, the tidecaller,
+clothing:armor,
+creator:zig-word,
+creator:zigword,
+crossover,
+dolphin,
+equine,
+female,
+fish,
+friendship,
+gender:female,
+hi res,
+high resolution,
+league,
+legends,
+little,
+lol,
+magic,
+mammal,
+marine,
+medium:high resolution,
+meta:2016,
+meta:crossover,
+meta:hi res,
+nami,
+ponification,
+pony,
+rating:safe,
+seahorse,
+series:hasbro,
+series:league of legends,
+series:my little pony,
+series:riot games,
+solo,
+species:cetacean,
+species:delphinoid,
+species:dolphin,
+species:equid,
+species:equine,
+species:fish,
+species:horse,
+species:mammal,
+species:marine,
+species:pony,
+species:seahorse,
+species:syngnathid,
+species:syngnathiform,
+species:toothed whale,
+studio:hasbro,
+studio:riot games,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"nami" by zig-word,
+title:nami,
+underwater,
+uploader:torvusil,
+video games,
+water,
+year:2016,
+yellow eyes,
+zigword,

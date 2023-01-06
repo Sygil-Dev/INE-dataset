@@ -1,28 +1,28 @@
-1boy
-armor
-book
-bookshelf
-breathing fire
-burning
-campfire
-candle
-category:ine
-chain
-embers
-explosion
-fiery hair
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-male focus
-molten rock
-rating:safe
-red hair
-solo
-subreddit:imaginarygnomes
-subreddit:imraces
-title:gnome mage by edgar sánchez hidalgo
-torch
-uploader:lol33ta
+1boy,
+armor,
+book,
+bookshelf,
+breathing fire,
+burning,
+campfire,
+candle,
+category:ine,
+chain,
+embers,
+explosion,
+fiery hair,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+male focus,
+molten rock,
+rating:safe,
+red hair,
+solo,
+subreddit:imaginarygnomes,
+subreddit:imraces,
+title:gnome mage by edgar sánchez hidalgo,
+torch,
+uploader:lol33ta,

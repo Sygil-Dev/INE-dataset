@@ -1,21 +1,21 @@
-category:ine
-creator:livia prima
-dopaprime
-fantasy
-fantasy art
-genre:fantasy
-legendofthecryptids
-livia prima
-monster
-pirate
-subreddit:imaginarypets
-subreddit:imaginarypirates
-subreddit:imcharacters
-subreddit:immeta
-title::lotc: master pirate juan
-title::lotc: master pirate juan by livia prima
-title:master pirate juan - regular by livia prima
-title:master pirate juan, reg by livia prima
-uploader:lol33ta
-uploader:net-diver
-uploader:synntara
+category:ine,
+creator:livia prima,
+dopaprime,
+fantasy,
+fantasy art,
+genre:fantasy,
+legendofthecryptids,
+livia prima,
+monster,
+pirate,
+subreddit:imaginarypets,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+subreddit:immeta,
+title::lotc: master pirate juan,
+title::lotc: master pirate juan by livia prima,
+title:master pirate juan - regular by livia prima,
+title:master pirate juan, reg by livia prima,
+uploader:lol33ta,
+uploader:net-diver,
+uploader:synntara,

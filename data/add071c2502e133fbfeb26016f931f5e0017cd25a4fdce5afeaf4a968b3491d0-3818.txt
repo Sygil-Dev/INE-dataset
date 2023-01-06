@@ -1,58 +1,58 @@
-ambiguous gender
-baby
-booru:e621
-category:ine
-closed eyes
-commentary
-creator:tamarinfrog
-cub
-cute
-egg
-eggshell
-eyes closed
-fallen down
-fang
-fangs
-feral
-gen 4 pokemon
-gender:ambiguous
-grass
-group
-hatching
-light particles
-mammal
-medium:video game
-medium:watermark
-medium:web address
-meta:commentary
-meta:url
-no humans
-open mouth
-rating:mature
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-signature
-species:felid
-species:feline
-species:mammal
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:shinx
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immeta
-text
-title:"rise and shine and greet the world" by tamarinfrog
-title:rise and shine and greet the world
-uploader:torvusil
-uvula
-video games
-yawning
-young
+ambiguous gender,
+baby,
+booru:e621,
+category:ine,
+closed eyes,
+commentary,
+creator:tamarinfrog,
+cub,
+cute,
+egg,
+eggshell,
+eyes closed,
+fallen down,
+fang,
+fangs,
+feral,
+gen 4 pokemon,
+gender:ambiguous,
+grass,
+group,
+hatching,
+light particles,
+mammal,
+medium:video game,
+medium:watermark,
+medium:web address,
+meta:commentary,
+meta:url,
+no humans,
+open mouth,
+rating:mature,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+signature,
+species:felid,
+species:feline,
+species:mammal,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:shinx,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immeta,
+text,
+title:"rise and shine and greet the world" by tamarinfrog,
+title:rise and shine and greet the world,
+uploader:torvusil,
+uvula,
+video games,
+yawning,
+young,

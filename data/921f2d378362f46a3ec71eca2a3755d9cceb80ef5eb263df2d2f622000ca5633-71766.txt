@@ -1,26 +1,26 @@
-art
-artwork
-category:ine
-concepart
-creator:kyuyong eom
-design
-digitalart
-draw
-elartist
-elartist@naver.com
-eom kyu yong
-fantasy art
-illustration
-kyu yong eom
-medium:digital 2d
-painting
-sexy
-solo female
-subreddit:imaginaryboners
-subreddit:imnsfw
-title:'you and i'
-title:you and i by kyuyong eom
-uploader:keep_on_keepin
-아트웍
-일러스트
-일러스트레이션
+art,
+artwork,
+category:ine,
+concepart,
+creator:kyuyong eom,
+design,
+digitalart,
+draw,
+elartist,
+elartist@naver.com,
+eom kyu yong,
+fantasy art,
+illustration,
+kyu yong eom,
+medium:digital 2d,
+painting,
+sexy,
+solo female,
+subreddit:imaginaryboners,
+subreddit:imnsfw,
+title:'you and i',
+title:you and i by kyuyong eom,
+uploader:keep_on_keepin,
+아트웍,
+일러스트,
+일러스트레이션,

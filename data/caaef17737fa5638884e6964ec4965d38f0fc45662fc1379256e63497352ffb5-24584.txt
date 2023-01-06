@@ -1,78 +1,78 @@
-1 female
-1girl
-adapted costume
-akira ikko
-armwear
-bare shoulders
-black dress
-black hair ornament
-black hairband
-black_hairband
-blue eyes
-bob cut
-bob_cut
-breasts
-category:ine
-character:yorha no.2 type b
-character:yorha no. 2 type b
-clavicle
-clothing:dress
-collarbone
-creator:akira ikko
-creator:artist request
-creator:li chunfu
-dress
-elbow gloves
-eyeliner
-female
-flower
-gender:female
-gloves
-hair flower
-hair ornament
-hair over one eye
-hairband
-halter top
-halter_top
-halterneck
-lily (flower)
-lily_(flower)
-lips
-makeup
-mascara
-medium breasts
-meta:artist request
-nier_(series)
-nose
-one eye covered
-one_eye_covered
-parted lips
-pink lips
-rating:mature
-rating:safe
-series:nier
-series:nier (series)
-series:nier automata
-series:nier: automata
-shirt
-short hair
-sleeveless
-sleeveless dress
-solo
-species:android
-species:robot
-standing
-subreddit:imaginaryfashion
-subreddit:immeta
-sweater
-teeth
-title:"sketch 23" by li didivi
-turtleneck
-uploader:torvusil
-upper body
-upper teeth
-upper_teeth
-white flower
-white gloves
-white_flower
-yorha_no._2_type_b
+1 female,
+1girl,
+adapted costume,
+akira ikko,
+armwear,
+bare shoulders,
+black dress,
+black hair ornament,
+black hairband,
+black_hairband,
+blue eyes,
+bob cut,
+bob_cut,
+breasts,
+category:ine,
+character:yorha no.2 type b,
+character:yorha no. 2 type b,
+clavicle,
+clothing:dress,
+collarbone,
+creator:akira ikko,
+creator:artist request,
+creator:li chunfu,
+dress,
+elbow gloves,
+eyeliner,
+female,
+flower,
+gender:female,
+gloves,
+hair flower,
+hair ornament,
+hair over one eye,
+hairband,
+halter top,
+halter_top,
+halterneck,
+lily (flower),
+lily_(flower),
+lips,
+makeup,
+mascara,
+medium breasts,
+meta:artist request,
+nier_(series),
+nose,
+one eye covered,
+one_eye_covered,
+parted lips,
+pink lips,
+rating:mature,
+rating:safe,
+series:nier,
+series:nier (series),
+series:nier automata,
+series:nier: automata,
+shirt,
+short hair,
+sleeveless,
+sleeveless dress,
+solo,
+species:android,
+species:robot,
+standing,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+sweater,
+teeth,
+title:"sketch 23" by li didivi,
+turtleneck,
+uploader:torvusil,
+upper body,
+upper teeth,
+upper_teeth,
+white flower,
+white gloves,
+white_flower,
+yorha_no._2_type_b,

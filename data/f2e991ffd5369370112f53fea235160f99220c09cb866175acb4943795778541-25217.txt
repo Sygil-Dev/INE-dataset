@@ -1,88 +1,88 @@
-ambiguous gender
-ambiguous_gender
-artist:kuitsuku
-beak
-black body
-black eyes
-black_body
-black_eyes
-booru:e621
-category:ine
-closed eyes
-copyright:nintendo
-copyright:pokémon
-creator:kuitsuku
-eyes closed
-eyes_closed
-fangs
-feathers
-feral
-fur
-furry
-gen 1 pokémon
-gen 2 pokemon
-grey body
-grey_body
-group
-medium:purple background
-medium:simple background
-meta:2016
-poké ball
-pokéball
-pupils
-purple background
-purple_background
-rating:safe
-red body
-red eyes
-red_body
-red_eyes
-series:nintendo
-series:pokémon
-simple background
-simple_background
-slit pupils
-slit_pupils
-smile
-species:amphibian
-species:avian
-species:bulbasaur
-species:canid
-species:canine
-species:charmander
-species:chespin
-species:chikorita
-species:chimchar
-species:cyndaquil
-species:felid
-species:feline
-species:fennekin
-species:froakie
-species:litten
-species:mammal
-species:mudkip
-species:oshawott
-species:piplup
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:popplio
-species:reptile
-species:rowlet
-species:scalie
-species:snivy
-species:squirtle
-species:tepig
-species:torchic
-species:totodile
-species:treecko
-species:turtwig
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:lets get it started by krista nicholson (kuitsuku)
-uploader:lol33ta
-video games
-video_games
-white body
-white_body
+ambiguous gender,
+ambiguous_gender,
+artist:kuitsuku,
+beak,
+black body,
+black eyes,
+black_body,
+black_eyes,
+booru:e621,
+category:ine,
+closed eyes,
+copyright:nintendo,
+copyright:pokémon,
+creator:kuitsuku,
+eyes closed,
+eyes_closed,
+fangs,
+feathers,
+feral,
+fur,
+furry,
+gen 1 pokémon,
+gen 2 pokemon,
+grey body,
+grey_body,
+group,
+medium:purple background,
+medium:simple background,
+meta:2016,
+poké ball,
+pokéball,
+pupils,
+purple background,
+purple_background,
+rating:safe,
+red body,
+red eyes,
+red_body,
+red_eyes,
+series:nintendo,
+series:pokémon,
+simple background,
+simple_background,
+slit pupils,
+slit_pupils,
+smile,
+species:amphibian,
+species:avian,
+species:bulbasaur,
+species:canid,
+species:canine,
+species:charmander,
+species:chespin,
+species:chikorita,
+species:chimchar,
+species:cyndaquil,
+species:felid,
+species:feline,
+species:fennekin,
+species:froakie,
+species:litten,
+species:mammal,
+species:mudkip,
+species:oshawott,
+species:piplup,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:popplio,
+species:reptile,
+species:rowlet,
+species:scalie,
+species:snivy,
+species:squirtle,
+species:tepig,
+species:torchic,
+species:totodile,
+species:treecko,
+species:turtwig,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:lets get it started by krista nicholson (kuitsuku),
+uploader:lol33ta,
+video games,
+video_games,
+white body,
+white_body,

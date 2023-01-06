@@ -1,29 +1,29 @@
-artwork
-category:ine
-concepart
-coverart
-creator:kyuyong eom
-design
-digitalart
-draw
-drowing
-eom kyuyong
-fantasy art
-game art
-gameart
-gameartwork
-gameconcep
-illustration
-kyu yong eom
-medium:digital 2d
-medium:sketch
-painting
-sketch
-subreddit:imaginarydemons
-subreddit:immonsters
-title:succubus
-title:succubus by kyuyong eompro
-uploader:bleeding_choker
-게임원화
-아트웍
-일러스트레이션
+artwork,
+category:ine,
+concepart,
+coverart,
+creator:kyuyong eom,
+design,
+digitalart,
+draw,
+drowing,
+eom kyuyong,
+fantasy art,
+game art,
+gameart,
+gameartwork,
+gameconcep,
+illustration,
+kyu yong eom,
+medium:digital 2d,
+medium:sketch,
+painting,
+sketch,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+title:succubus,
+title:succubus by kyuyong eompro,
+uploader:bleeding_choker,
+게임원화,
+아트웍,
+일러스트레이션,

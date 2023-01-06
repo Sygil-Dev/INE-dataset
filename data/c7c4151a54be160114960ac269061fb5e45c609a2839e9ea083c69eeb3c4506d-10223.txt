@@ -1,28 +1,28 @@
-aloy
-ayya saparniyazova
-booru:sankaku channel
-category:ine
-character:aloy
-character:aloy (horizon)
-creator:ayya saparniyazova
-creator:ayyasap
-fanart from deviantart
-female
-gender:female
-horizon zero dawn
-looking at viewer
-medium:fanart from deviantart
-medium:realistic
-rating:safe
-realistic
-series:horizon
-series:horizon zero dawn
-site:deviantart
-solo
-subreddit:imaginaryarchers
-subreddit:imaginarygaming
-subreddit:imcharacters
-subreddit:imfandoms
-title:aloy
-title:aloy by ayya saparniyazova
-uploader:myrandall
+aloy,
+ayya saparniyazova,
+booru:sankaku channel,
+category:ine,
+character:aloy,
+character:aloy (horizon),
+creator:ayya saparniyazova,
+creator:ayyasap,
+fanart from deviantart,
+female,
+gender:female,
+horizon zero dawn,
+looking at viewer,
+medium:fanart from deviantart,
+medium:realistic,
+rating:safe,
+realistic,
+series:horizon,
+series:horizon zero dawn,
+site:deviantart,
+solo,
+subreddit:imaginaryarchers,
+subreddit:imaginarygaming,
+subreddit:imcharacters,
+subreddit:imfandoms,
+title:aloy,
+title:aloy by ayya saparniyazova,
+uploader:myrandall,

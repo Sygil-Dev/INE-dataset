@@ -1,24 +1,24 @@
-beach
-building
-category:ine
-cliff
-creator:chateaugrief
-creator:jean guillet
-house
-landscape
-meta:sfw
-ocean
-rating:safe
-san francisco
-scenery
-subreddit:imaginarydwellings
-subreddit:imaginaryislands
-subreddit:imarchitecture
-subreddit:imnature
-sunrise
-sunset
-tag source:deviantart
-title:cliff house
-title:cliff house by chateaugrief/jean guillet
-uploader:chalkchick0
-waves
+beach,
+building,
+category:ine,
+cliff,
+creator:chateaugrief,
+creator:jean guillet,
+house,
+landscape,
+meta:sfw,
+ocean,
+rating:safe,
+san francisco,
+scenery,
+subreddit:imaginarydwellings,
+subreddit:imaginaryislands,
+subreddit:imarchitecture,
+subreddit:imnature,
+sunrise,
+sunset,
+tag source:deviantart,
+title:cliff house,
+title:cliff house by chateaugrief/jean guillet,
+uploader:chalkchick0,
+waves,

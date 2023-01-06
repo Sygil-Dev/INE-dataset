@@ -1,54 +1,54 @@
-ambiguous gender
-armor
-army
-booru:e621
-category:ine
-clothed
-clothing
-clothing:armor
-creator:88grzes
-creator:greg rutkowski
-day
-detailed background
-feral
-fire
-furry
-gender:ambiguous
-group
-medium:detailed background
-medium:digital media
-medium:high resolution
-melee weapon
-membrane (anatomy)
-membranous wings
-meta:2:1
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-open mouth
-outside
-plant
-polearm
-rating:safe
-sky
-spear
-species:dragon
-species:equid
-species:equine
-species:horse
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-subreddit:imaginarybattlefields
-subreddit:imaginarydragons
-subreddit:imlandscapes
-subreddit:immonsters
-title:the last one by greg rutkowski
-tree
-uploader:manowar0264
-uploader:myrandall
-weapon
-wings
-year:2017
+ambiguous gender,
+armor,
+army,
+booru:e621,
+category:ine,
+clothed,
+clothing,
+clothing:armor,
+creator:88grzes,
+creator:greg rutkowski,
+day,
+detailed background,
+feral,
+fire,
+furry,
+gender:ambiguous,
+group,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+melee weapon,
+membrane (anatomy),
+membranous wings,
+meta:2:1,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+open mouth,
+outside,
+plant,
+polearm,
+rating:safe,
+sky,
+spear,
+species:dragon,
+species:equid,
+species:equine,
+species:horse,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+subreddit:imaginarybattlefields,
+subreddit:imaginarydragons,
+subreddit:imlandscapes,
+subreddit:immonsters,
+title:the last one by greg rutkowski,
+tree,
+uploader:manowar0264,
+uploader:myrandall,
+weapon,
+wings,
+year:2017,

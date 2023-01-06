@@ -1,71 +1,71 @@
-3:2
-4 fingers
-black body
-black scales
-blue body
-blue claws
-blue eyes
-blue fur
-blue nose
-bodily fluids
-booru:e621
-category:ine
-character:stitch
-character:stitch (lilo and stitch)
-character:toothless
-chest tuft
-claws
-colored sclera
-creator:tsaoshin
-crossover
-duo
-fingers
-forked tongue
-fur
-furry
-green sclera
-head tuft
-licking
-looking at viewer
-medium:digital media
-meta:3:2
-meta:2017
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:signature
-no sclera
-notched ear
-open mouth
-open smile
-pov
-rating:safe
-saliva
-scales
-screen lick
-series:disney
-series:dreamworks
-series:how to train your dragon
-series:lilo & stitch
-series:lilo and stitch
-signature
-silly
-smile
-species:alien
-species:dragon
-species:experiment (lilo and stitch)
-species:experiment (species)
-species:mythical
-species:night fury
-species:scalie
-species:western dragon
-studio:disney
-studio:dreamworks
-subreddit:imaginarydisney
-subreddit:imfandoms
-title:spit brothers
-title:spit brothers by eric proctor
-tongue
-tongue out
-tuft
-uploader:myrandall
-year:2017
+3:2,
+4 fingers,
+black body,
+black scales,
+blue body,
+blue claws,
+blue eyes,
+blue fur,
+blue nose,
+bodily fluids,
+booru:e621,
+category:ine,
+character:stitch,
+character:stitch (lilo and stitch),
+character:toothless,
+chest tuft,
+claws,
+colored sclera,
+creator:tsaoshin,
+crossover,
+duo,
+fingers,
+forked tongue,
+fur,
+furry,
+green sclera,
+head tuft,
+licking,
+looking at viewer,
+medium:digital media,
+meta:3:2,
+meta:2017,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:signature,
+no sclera,
+notched ear,
+open mouth,
+open smile,
+pov,
+rating:safe,
+saliva,
+scales,
+screen lick,
+series:disney,
+series:dreamworks,
+series:how to train your dragon,
+series:lilo & stitch,
+series:lilo and stitch,
+signature,
+silly,
+smile,
+species:alien,
+species:dragon,
+species:experiment (lilo and stitch),
+species:experiment (species),
+species:mythical,
+species:night fury,
+species:scalie,
+species:western dragon,
+studio:disney,
+studio:dreamworks,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+title:spit brothers,
+title:spit brothers by eric proctor,
+tongue,
+tongue out,
+tuft,
+uploader:myrandall,
+year:2017,

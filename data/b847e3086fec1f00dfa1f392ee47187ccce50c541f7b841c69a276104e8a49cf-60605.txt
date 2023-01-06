@@ -1,61 +1,61 @@
-anthro
-anthropomorphism
-art
-booru:e621
-cape
-category:ine
-clothing
-clothing:cape
-clothing:tagme
-creator:james zapata
-creator:jameszapata
-creature
-fantasy
-female
-gender:female
-grass
-jameszapata
-lantern
-lion
-low-angle view
-magicthegathering
-meta:official art
-meta:signature
-midriff
-mtg
-navel
-night
-nyx
-outside
-plant
-rating:safe
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-signature
-sky
-solo
-species:catfolk
-species:felid
-species:feline
-species:leonin
-species:lion
-species:mammal
-species:pantherine
-staff
-standing
-star
-starry sky
-stars
-stomach
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryportals
-subreddit:imtechnology
-title:enlightened ascetic
-title:enlightened ascetic by james zapata
-uploader:lol33ta
-wizardsofthecoast
-wotc
+anthro,
+anthropomorphism,
+art,
+booru:e621,
+cape,
+category:ine,
+clothing,
+clothing:cape,
+clothing:tagme,
+creator:james zapata,
+creator:jameszapata,
+creature,
+fantasy,
+female,
+gender:female,
+grass,
+jameszapata,
+lantern,
+lion,
+low-angle view,
+magicthegathering,
+meta:official art,
+meta:signature,
+midriff,
+mtg,
+navel,
+night,
+nyx,
+outside,
+plant,
+rating:safe,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+signature,
+sky,
+solo,
+species:catfolk,
+species:felid,
+species:feline,
+species:leonin,
+species:lion,
+species:mammal,
+species:pantherine,
+staff,
+standing,
+star,
+starry sky,
+stars,
+stomach,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryportals,
+subreddit:imtechnology,
+title:enlightened ascetic,
+title:enlightened ascetic by james zapata,
+uploader:lol33ta,
+wizardsofthecoast,
+wotc,

@@ -1,81 +1,81 @@
-2018
-blonde hair
-book
-booru:e621
-car
-category:ine
-character:applejack
-character:applejack (mlp)
-character:fluttershy
-character:fluttershy (mlp)
-character:pinkie pie
-character:pinkie pie (mlp)
-character:rainbow dash
-character:rainbow dash (mlp)
-character:rarity
-character:rarity (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-closed eyes
-clothing
-clothing:hat
-clothing:headwear
-copyright:friendship is magic
-copyright:my little pony
-cowboy hat
-creator:inowiseei
-cutie mark
-eyes closed
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-ground vehicle
-group
-hair
-hat
-headgear
-headwear
-hi res
-horn
-horns
-lying
-medium:digital media
-medium:high resolution
-meta:2018
-meta:digital media (artwork)
-meta:hi res
-motor vehicle
-multicolored hair
-pink hair
-purple hair
-rainbow hair
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-sleeping
-smile
-species:earth pony
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"sleepy heads" by artyom (inowiseei)
-title:sleepy heads
-two tone hair
-uploader:torvusil
-vehicle
-wings
-year:2018
+2018,
+blonde hair,
+book,
+booru:e621,
+car,
+category:ine,
+character:applejack,
+character:applejack (mlp),
+character:fluttershy,
+character:fluttershy (mlp),
+character:pinkie pie,
+character:pinkie pie (mlp),
+character:rainbow dash,
+character:rainbow dash (mlp),
+character:rarity,
+character:rarity (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+closed eyes,
+clothing,
+clothing:hat,
+clothing:headwear,
+copyright:friendship is magic,
+copyright:my little pony,
+cowboy hat,
+creator:inowiseei,
+cutie mark,
+eyes closed,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+ground vehicle,
+group,
+hair,
+hat,
+headgear,
+headwear,
+hi res,
+horn,
+horns,
+lying,
+medium:digital media,
+medium:high resolution,
+meta:2018,
+meta:digital media (artwork),
+meta:hi res,
+motor vehicle,
+multicolored hair,
+pink hair,
+purple hair,
+rainbow hair,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+sleeping,
+smile,
+species:earth pony,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"sleepy heads" by artyom (inowiseei),
+title:sleepy heads,
+two tone hair,
+uploader:torvusil,
+vehicle,
+wings,
+year:2018,

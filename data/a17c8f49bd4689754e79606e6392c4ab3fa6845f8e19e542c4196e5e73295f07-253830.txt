@@ -1,50 +1,50 @@
-1 male
-1boy
-armor
-beard
-boy
-brown eyes
-brown hair
-buckles
-bullet
-cape
-category:ine
-character:jesse mccree
-character:mccree (overwatch)
-cigar
-clothing:headwear
-cowboy hat
-creator:quirkilicious
-facial hair
-firearm
-gender:male
-genre:science fiction
-gloves
-gun
-hat
-hat over eyes
-male focus
-mccree_(overwatch)
-mechanical arms
-overwatch
-rating:mature
-rating:questionable
-revolver
-series:overwatch
-short hair
-single
-site:anime-pictures.net
-site:art abyss
-smoke
-smoking
-solo
-studio:blizzard entertainment
-subreddit:imaginarycowboys
-subreddit:imcharacters
-tall image
-title:it's high noon
-title:it's high noon by drake tsui
-uploader:myrandall
-video games
-weapon
-young
+1 male,
+1boy,
+armor,
+beard,
+boy,
+brown eyes,
+brown hair,
+buckles,
+bullet,
+cape,
+category:ine,
+character:jesse mccree,
+character:mccree (overwatch),
+cigar,
+clothing:headwear,
+cowboy hat,
+creator:quirkilicious,
+facial hair,
+firearm,
+gender:male,
+genre:science fiction,
+gloves,
+gun,
+hat,
+hat over eyes,
+male focus,
+mccree_(overwatch),
+mechanical arms,
+overwatch,
+rating:mature,
+rating:questionable,
+revolver,
+series:overwatch,
+short hair,
+single,
+site:anime-pictures.net,
+site:art abyss,
+smoke,
+smoking,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+tall image,
+title:it's high noon,
+title:it's high noon by drake tsui,
+uploader:myrandall,
+video games,
+weapon,
+young,

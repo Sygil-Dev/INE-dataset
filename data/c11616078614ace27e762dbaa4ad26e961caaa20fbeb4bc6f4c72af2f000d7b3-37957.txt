@@ -1,39 +1,39 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-bone
-bowl
-canid
-canis
-category:ine
-character:skeleton
-clothing:collar
-collar
-creator:cryptid-creations
-creator:piperdraws
-domestic dog
-feral
-filename:dp1798_s
-medium:patreon reward
-rating:safe
-site:patreon
-site:yiff.party
-skeleton
-solo
-species:animated skeleton
-species:animated_skeleton
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:domestic_dog
-species:mammal
-species:undead
-subreddit:imaginaryundead
-subreddit:immonsters
-title:1$ patreon pack - daily paint 1798# bone appã©tit
-title:5$ patreon pack - daily paint 1798# bone appã©tit
-title:bone appetit by piper thibodeau
-title:daily paint 1798# bone appetit
-uploader:myrandall
-yiff id:457132
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+bone,
+bowl,
+canid,
+canis,
+category:ine,
+character:skeleton,
+clothing:collar,
+collar,
+creator:cryptid-creations,
+creator:piperdraws,
+domestic dog,
+feral,
+filename:dp1798_s,
+medium:patreon reward,
+rating:safe,
+site:patreon,
+site:yiff.party,
+skeleton,
+solo,
+species:animated skeleton,
+species:animated_skeleton,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:domestic_dog,
+species:mammal,
+species:undead,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+title:1$ patreon pack - daily paint 1798# bone appã©tit,
+title:5$ patreon pack - daily paint 1798# bone appã©tit,
+title:bone appetit by piper thibodeau,
+title:daily paint 1798# bone appetit,
+uploader:myrandall,
+yiff id:457132,

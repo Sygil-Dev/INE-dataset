@@ -1,36 +1,36 @@
-animal
-bird
-black cat
-blue flower
-branch
-butterfly
-cat
-category:ine
-daisy
-dandelion
-flower
-garden
-grass
-green eyes
-hair flower
-heterochromia
-hydrangea
-lily pad
-lotus
-nature
-no humans
-outdoors
-pink flower
-pink rose
-plant
-purple flower
-rating:safe
-subreddit:imaginaryanimals
-subreddit:imaginaryhybrids
-subreddit:immonsters
-subreddit:imnature
-title:cat owls by susann houndsville
-tree
-uploader:dievah
-uploader:myrandall
-white flower
+animal,
+bird,
+black cat,
+blue flower,
+branch,
+butterfly,
+cat,
+category:ine,
+daisy,
+dandelion,
+flower,
+garden,
+grass,
+green eyes,
+hair flower,
+heterochromia,
+hydrangea,
+lily pad,
+lotus,
+nature,
+no humans,
+outdoors,
+pink flower,
+pink rose,
+plant,
+purple flower,
+rating:safe,
+subreddit:imaginaryanimals,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+subreddit:imnature,
+title:cat owls by susann houndsville,
+tree,
+uploader:dievah,
+uploader:myrandall,
+white flower,

@@ -1,24 +1,24 @@
-art
-backseatdrawing
-category:ine
-creator:tsaoshin
-cute
-drawing
-easter
-flowers
-livestream
-markers
-prismacolor
-sketch
-stitch
-stream
-subreddit:imaginaryaww
-subreddit:imaginarydisney
-subreddit:imfandoms
-subreddit:immeta
-title:easter stitch
-title:easter stitch by eric proctor
-traditional
-tsaoshin
-twitch
-uploader:myrandall
+art,
+backseatdrawing,
+category:ine,
+creator:tsaoshin,
+cute,
+drawing,
+easter,
+flowers,
+livestream,
+markers,
+prismacolor,
+sketch,
+stitch,
+stream,
+subreddit:imaginaryaww,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+subreddit:immeta,
+title:easter stitch,
+title:easter stitch by eric proctor,
+traditional,
+tsaoshin,
+twitch,
+uploader:myrandall,

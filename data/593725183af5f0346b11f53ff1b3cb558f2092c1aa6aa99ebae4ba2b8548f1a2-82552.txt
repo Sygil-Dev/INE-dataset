@@ -1,84 +1,84 @@
-1 female
-1 male
-1boy
-1girl
-1113425
-age difference
-age_difference
-atlus
-black hair
-black_hair
-brown hair
-brown_hair
-category:ine
-character:doujima nanako
-character:doujima ryoutarou
-child
-clothing:dress shirt
-clothing:legwear
-clothing:necktie
-clothing:pants
-clothing:shirt
-clothing:skirt
-clothing:sweater
-clothing:turtleneck sweater
-copyright name
-copyright_name
-creator:nilam sari
-creator:nilampwns
-doujima_nanako
-doujima_ryou
-doujima_ryoutarou
-dress shirt
-facial hair
-family
-father and daughter
-female
-from behind
-gender:female
-gender:male
-height difference
-height_difference
-hug
-kneeling
-male
-medium:copyright name
-medium:simple background
-medium:text
-medium:text focus
-medium:white background
-necktie
-nilam_sari
-nilampwns
-pants
-persona
-rating:safe
-series:atlus
-series:persona
-series:persona 4
-series:shin megami tensei
-shirt
-short hair
-short twintails
-short_twintails
-simple background
-skirt
-standing
-stubble
-studio:atlus
-subreddit:imaginaryfamilies
-subreddit:imcharacters
-sweater
-sweater vest
-sweater_vest
-text
-text focus
-tied hair
-title drop
-title:family by nilampwns
-title_drop
-turtleneck
-twintails
-uploader:sethrysethmcd
-white background
-young
+1 female,
+1 male,
+1boy,
+1girl,
+1113425,
+age difference,
+age_difference,
+atlus,
+black hair,
+black_hair,
+brown hair,
+brown_hair,
+category:ine,
+character:doujima nanako,
+character:doujima ryoutarou,
+child,
+clothing:dress shirt,
+clothing:legwear,
+clothing:necktie,
+clothing:pants,
+clothing:shirt,
+clothing:skirt,
+clothing:sweater,
+clothing:turtleneck sweater,
+copyright name,
+copyright_name,
+creator:nilam sari,
+creator:nilampwns,
+doujima_nanako,
+doujima_ryou,
+doujima_ryoutarou,
+dress shirt,
+facial hair,
+family,
+father and daughter,
+female,
+from behind,
+gender:female,
+gender:male,
+height difference,
+height_difference,
+hug,
+kneeling,
+male,
+medium:copyright name,
+medium:simple background,
+medium:text,
+medium:text focus,
+medium:white background,
+necktie,
+nilam_sari,
+nilampwns,
+pants,
+persona,
+rating:safe,
+series:atlus,
+series:persona,
+series:persona 4,
+series:shin megami tensei,
+shirt,
+short hair,
+short twintails,
+short_twintails,
+simple background,
+skirt,
+standing,
+stubble,
+studio:atlus,
+subreddit:imaginaryfamilies,
+subreddit:imcharacters,
+sweater,
+sweater vest,
+sweater_vest,
+text,
+text focus,
+tied hair,
+title drop,
+title:family by nilampwns,
+title_drop,
+turtleneck,
+twintails,
+uploader:sethrysethmcd,
+white background,
+young,

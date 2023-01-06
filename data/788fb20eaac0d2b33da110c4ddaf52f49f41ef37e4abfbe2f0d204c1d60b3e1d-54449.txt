@@ -1,49 +1,49 @@
-ambiguous gender
-angry
-berry
-birdhouse
-bodypart:green eyes
-booru:e621
-branch
-brown body
-brown feathers
-category:ine
-cloud
-creator:cryptid-creations
-emotion:anger
-feathers
-feral
-food
-fruit
-gender:ambiguous
-gender:male
-green eyes
-grey body
-grey feathers
-in tree
-male:1
-meta:tagme
-monster
-night
-plant
-rating:safe
-series:mythology
-sky
-solo
-species:avian
-species:bird
-species:gryphon
-species:hybrid
-species:mythical
-species:mythological avian
-star
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:daily paint 1961# mythical birdhouse - griffon
-title:mythical birdhouse - griffon by piper thibodeau
-tree
-uploader:myrandall
-website:e621
-white body
-white feathers
-window
+ambiguous gender,
+angry,
+berry,
+birdhouse,
+bodypart:green eyes,
+booru:e621,
+branch,
+brown body,
+brown feathers,
+category:ine,
+cloud,
+creator:cryptid-creations,
+emotion:anger,
+feathers,
+feral,
+food,
+fruit,
+gender:ambiguous,
+gender:male,
+green eyes,
+grey body,
+grey feathers,
+in tree,
+male:1,
+meta:tagme,
+monster,
+night,
+plant,
+rating:safe,
+series:mythology,
+sky,
+solo,
+species:avian,
+species:bird,
+species:gryphon,
+species:hybrid,
+species:mythical,
+species:mythological avian,
+star,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:daily paint 1961# mythical birdhouse - griffon,
+title:mythical birdhouse - griffon by piper thibodeau,
+tree,
+uploader:myrandall,
+website:e621,
+white body,
+white feathers,
+window,

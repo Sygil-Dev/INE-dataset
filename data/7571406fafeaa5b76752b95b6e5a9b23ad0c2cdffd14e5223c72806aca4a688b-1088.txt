@@ -1,23 +1,23 @@
-artwork
-category:ine
-city
-eddie mendoza
-futuristic
-gender:female
-genre:cyberpunk
-genre:science fiction
-ground vehicle
-medium:digital media
-motor vehicle
-motorcycle
-street
-subreddit:imaginarybestof
-subreddit:imaginarycyberpunk
-subreddit:imaginaryfuturism
-subreddit:imaginaryvehicles
-subreddit:immeta
-title:[/r/imaginaryvehicles] spherical wheel bike by eddie mendoza
-title:spherical wheel bike by eddie mendoza
-uploader:l-ya
-uploader:lol33ta
-vehicle
+artwork,
+category:ine,
+city,
+eddie mendoza,
+futuristic,
+gender:female,
+genre:cyberpunk,
+genre:science fiction,
+ground vehicle,
+medium:digital media,
+motor vehicle,
+motorcycle,
+street,
+subreddit:imaginarybestof,
+subreddit:imaginarycyberpunk,
+subreddit:imaginaryfuturism,
+subreddit:imaginaryvehicles,
+subreddit:immeta,
+title:[/r/imaginaryvehicles] spherical wheel bike by eddie mendoza,
+title:spherical wheel bike by eddie mendoza,
+uploader:l-ya,
+uploader:lol33ta,
+vehicle,

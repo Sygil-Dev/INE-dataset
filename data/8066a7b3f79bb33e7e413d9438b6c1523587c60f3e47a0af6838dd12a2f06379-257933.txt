@@ -1,55 +1,55 @@
-action:smile
-anthropomorphism
-artist:bludgeon
-artist:cryptid-creations
-baseball bat
-bat (object)
-bat_(object)
-black body
-black feathers
-category:ine
-clothing
-clothing:hat
-clothing:headwear
-clothing:necktie
-creator:bludgeon
-creator:cryptid-creations
-death
-feathered wings
-feathers
-gender:male
-grin
-group
-hat
-headgear
-headwear
-humor
-male
-medium:simple background
-medium:white background
-meme:humor
-meta:2018
-necktie
-pool:15600
-pun
-rating:safe
-simple background
-smile
-species:avian
-species:bird
-species:corvid
-species:corvus (genus)
-species:corvus_(genus)
-species:crow
-species:oscine
-species:passerine
-subreddit:imaginaryanimals
-subreddit:imnature
-teeth
-title:murder of crows by piper thibodeau
-top hat
-uploader:myrandall
-white background
-wings
-year:2018
-yellow eyes
+action:smile,
+anthropomorphism,
+artist:bludgeon,
+artist:cryptid-creations,
+baseball bat,
+bat (object),
+bat_(object),
+black body,
+black feathers,
+category:ine,
+clothing,
+clothing:hat,
+clothing:headwear,
+clothing:necktie,
+creator:bludgeon,
+creator:cryptid-creations,
+death,
+feathered wings,
+feathers,
+gender:male,
+grin,
+group,
+hat,
+headgear,
+headwear,
+humor,
+male,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2018,
+necktie,
+pool:15600,
+pun,
+rating:safe,
+simple background,
+smile,
+species:avian,
+species:bird,
+species:corvid,
+species:corvus (genus),
+species:corvus_(genus),
+species:crow,
+species:oscine,
+species:passerine,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+teeth,
+title:murder of crows by piper thibodeau,
+top hat,
+uploader:myrandall,
+white background,
+wings,
+year:2018,
+yellow eyes,

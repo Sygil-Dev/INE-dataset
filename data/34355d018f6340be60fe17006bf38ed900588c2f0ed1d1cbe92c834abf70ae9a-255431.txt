@@ -1,35 +1,35 @@
-ambiguous gender
-ambiguous_gender
-artist:nambroth
-blue body
-blue feathers
-blue_body
-blue_feathers
-brown eyes
-brown_eyes
-category:ine
-creator:nambroth
-feathers
-feral
-meta:oil painting (artwork)
-meta:oil_painting_(artwork)
-meta:painting (artwork)
-meta:painting_(artwork)
-meta:traditional media (artwork)
-meta:traditional_media_(artwork)
-meta:url
-rating:safe
-realistic
-solo
-species:avian
-species:bird
-species:galliform
-species:peafowl
-species:phasianid
-subreddit:imaginaryanimals
-subreddit:imnature
-text
-title:"gleam" by jennifer miller (nambroth)
-title:gleam
-uploader:torvusil
-website:reddit
+ambiguous gender,
+ambiguous_gender,
+artist:nambroth,
+blue body,
+blue feathers,
+blue_body,
+blue_feathers,
+brown eyes,
+brown_eyes,
+category:ine,
+creator:nambroth,
+feathers,
+feral,
+meta:oil painting (artwork),
+meta:oil_painting_(artwork),
+meta:painting (artwork),
+meta:painting_(artwork),
+meta:traditional media (artwork),
+meta:traditional_media_(artwork),
+meta:url,
+rating:safe,
+realistic,
+solo,
+species:avian,
+species:bird,
+species:galliform,
+species:peafowl,
+species:phasianid,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+text,
+title:"gleam" by jennifer miller (nambroth),
+title:gleam,
+uploader:torvusil,
+website:reddit,

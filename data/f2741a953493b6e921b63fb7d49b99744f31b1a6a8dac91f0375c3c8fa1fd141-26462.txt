@@ -1,26 +1,26 @@
-2d
-art
-autumn
-brothers
-brush
-category:ine
-creator:lorenzo lanfranconi
-digital
-illustration
-lanfranconi
-medium:digital 2d
-orange
-painting
-redih
-river
-siblings
-snow
-subreddit:imaginaryautumnscapes
-subreddit:imaginaryfood
-subreddit:imaginarypathways
-subreddit:imlandscapes
-subreddit:immeta
-title:the dudj brothers
-title:the dudj brothers by lorenzo lanfranconi
-uploader:saltysolomon
-uploader:sr_myers
+2d,
+art,
+autumn,
+brothers,
+brush,
+category:ine,
+creator:lorenzo lanfranconi,
+digital,
+illustration,
+lanfranconi,
+medium:digital 2d,
+orange,
+painting,
+redih,
+river,
+siblings,
+snow,
+subreddit:imaginaryautumnscapes,
+subreddit:imaginaryfood,
+subreddit:imaginarypathways,
+subreddit:imlandscapes,
+subreddit:immeta,
+title:the dudj brothers,
+title:the dudj brothers by lorenzo lanfranconi,
+uploader:saltysolomon,
+uploader:sr_myers,

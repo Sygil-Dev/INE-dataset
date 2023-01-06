@@ -1,78 +1,78 @@
-ambiguous gender
-animal
-anthro
-anthropomorphism
-bear
-bird
-black eyes
-blue sky
-brown body
-brown fur
-card
-category:ine
-clothed
-clothing
-clothing:necktie
-cloud
-crayon
-creator:cryptid-creations
-day
-drinking straw
-english text
-feral
-ferret
-fur
-gender:ambiguous
-gender:male
-glasses
-group
-heart
-humor
-lamp
-language:english
-letter
-lightbulb
-looking at viewer
-male
-medium:english text
-medium:text
-meta:english text
-meta:url
-nameplate
-necktie
-no humans
-open mouth
-outdoors
-paper
-polar bear
-pov
-pun
-rating:safe
-red necktie
-shirt
-sign
-signature
-sky
-species:domestic ferret
-species:ferret
-species:mammal
-species:mustela
-species:mustelid
-species:musteline
-species:true musteline
-spoken heart
-striped
-striped necktie
-subreddit:imaginaryanimals
-subreddit:imaginaryaww
-subreddit:immeta
-subreddit:imnature
-suit
-tan body
-tan fur
-text
-title:business of ferrets by piper thibodeau
-uploader:myrandall
-white body
-white fur
-window
+ambiguous gender,
+animal,
+anthro,
+anthropomorphism,
+bear,
+bird,
+black eyes,
+blue sky,
+brown body,
+brown fur,
+card,
+category:ine,
+clothed,
+clothing,
+clothing:necktie,
+cloud,
+crayon,
+creator:cryptid-creations,
+day,
+drinking straw,
+english text,
+feral,
+ferret,
+fur,
+gender:ambiguous,
+gender:male,
+glasses,
+group,
+heart,
+humor,
+lamp,
+language:english,
+letter,
+lightbulb,
+looking at viewer,
+male,
+medium:english text,
+medium:text,
+meta:english text,
+meta:url,
+nameplate,
+necktie,
+no humans,
+open mouth,
+outdoors,
+paper,
+polar bear,
+pov,
+pun,
+rating:safe,
+red necktie,
+shirt,
+sign,
+signature,
+sky,
+species:domestic ferret,
+species:ferret,
+species:mammal,
+species:mustela,
+species:mustelid,
+species:musteline,
+species:true musteline,
+spoken heart,
+striped,
+striped necktie,
+subreddit:imaginaryanimals,
+subreddit:imaginaryaww,
+subreddit:immeta,
+subreddit:imnature,
+suit,
+tan body,
+tan fur,
+text,
+title:business of ferrets by piper thibodeau,
+uploader:myrandall,
+white body,
+white fur,
+window,

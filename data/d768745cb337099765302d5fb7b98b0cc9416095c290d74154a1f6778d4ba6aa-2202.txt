@@ -1,21 +1,21 @@
-category:ine
-cave
-christian benavides
-colorful
-fantasy art
-illustration
-medium:digital media
-men
-mushroom
-nature
-plants
-subreddit:imaginarybestof
-subreddit:imaginarycaves
-subreddit:immeta
-subreddit:imnature
-title:[/r/imaginarycaves] the cavern by christian benavides
-title:the cavern (cover book illustration) by christian benavides
-underground
-uploader:hvitserkr
-uploader:lol33ta
-water
+category:ine,
+cave,
+christian benavides,
+colorful,
+fantasy art,
+illustration,
+medium:digital media,
+men,
+mushroom,
+nature,
+plants,
+subreddit:imaginarybestof,
+subreddit:imaginarycaves,
+subreddit:immeta,
+subreddit:imnature,
+title:[/r/imaginarycaves] the cavern by christian benavides,
+title:the cavern (cover book illustration) by christian benavides,
+underground,
+uploader:hvitserkr,
+uploader:lol33ta,
+water,

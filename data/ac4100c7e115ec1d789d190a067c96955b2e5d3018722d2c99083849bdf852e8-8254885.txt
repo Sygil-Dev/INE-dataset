@@ -1,86 +1,86 @@
-2014
-beverage
-booru:e621
-building
-candy
-carouselboutique
-category:ine
-character:rarity
-character:rarity (mlp)
-character:sweetie belle
-character:sweetie belle (mlp)
-chocolate
-closed eyes
-creator:cmaggot
-cub
-cup
-cute
-dessert
-duo
-eyelashes
-eyes closed
-eyeshadow
-female
-fim
-food
-gender:female
-genre:fantasy
-hair
-hi res
-holding object
-horn
-horns
-hot chocolate
-house
-indoors
-inside
-light
-makeup
-mammal
-mascara
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:2014
-meta:hi res
-meta:widescreen
-mlp
-multicolored hair
-mylittlepony
-ponyville
-purple eyes
-purple eyeshadow
-purple hair
-rarity
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sibling
-siblings
-sister
-sisters
-smile
-snow
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-steam
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sweetiebelle
-title:"wintersnow's waltz" by cmaggot
-title:wintersnow's waltz
-town
-two tone hair
-unicorn
-uploader:schnitzellover
-window
-winter
-year:2014
-young
+2014,
+beverage,
+booru:e621,
+building,
+candy,
+carouselboutique,
+category:ine,
+character:rarity,
+character:rarity (mlp),
+character:sweetie belle,
+character:sweetie belle (mlp),
+chocolate,
+closed eyes,
+creator:cmaggot,
+cub,
+cup,
+cute,
+dessert,
+duo,
+eyelashes,
+eyes closed,
+eyeshadow,
+female,
+fim,
+food,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+holding object,
+horn,
+horns,
+hot chocolate,
+house,
+indoors,
+inside,
+light,
+makeup,
+mammal,
+mascara,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:2014,
+meta:hi res,
+meta:widescreen,
+mlp,
+multicolored hair,
+mylittlepony,
+ponyville,
+purple eyes,
+purple eyeshadow,
+purple hair,
+rarity,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sibling,
+siblings,
+sister,
+sisters,
+smile,
+snow,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+steam,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sweetiebelle,
+title:"wintersnow's waltz" by cmaggot,
+title:wintersnow's waltz,
+town,
+two tone hair,
+unicorn,
+uploader:schnitzellover,
+window,
+winter,
+year:2014,
+young,

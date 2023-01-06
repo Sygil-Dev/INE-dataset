@@ -1,20 +1,20 @@
-alien
-beast
-bike
-biker
-category:ine
-creator:sergey musin
-fighting
-girl
-ground vehicle
-medium:digital 2d
-monster
-motorsycle
-sexy
-sketch
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-title:twisted dodge
-title:twisted dodge by sergey musin
-uploader:o_no_my_buttholes
-vehicle
+alien,
+beast,
+bike,
+biker,
+category:ine,
+creator:sergey musin,
+fighting,
+girl,
+ground vehicle,
+medium:digital 2d,
+monster,
+motorsycle,
+sexy,
+sketch,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+title:twisted dodge,
+title:twisted dodge by sergey musin,
+uploader:o_no_my_buttholes,
+vehicle,

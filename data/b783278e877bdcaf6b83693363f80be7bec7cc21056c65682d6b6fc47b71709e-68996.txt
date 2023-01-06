@@ -1,25 +1,25 @@
-bright
-card
-category:ine
-creator:magdalena radziej
-creature
-flight
-game
-gold
-harpiya
-hex
-medium:digital 2d
-mountain
-sky
-species:equine
-species:horse
-species:mammal
-subreddit:imaginarybeasts
-subreddit:imaginarymythology
-subreddit:imcharacters
-subreddit:immonsters
-sun
-tcg
-title:dawnsteed by magdalena radziej
-title:hex tcg: dawnsteed
-uploader:lol33ta
+bright,
+card,
+category:ine,
+creator:magdalena radziej,
+creature,
+flight,
+game,
+gold,
+harpiya,
+hex,
+medium:digital 2d,
+mountain,
+sky,
+species:equine,
+species:horse,
+species:mammal,
+subreddit:imaginarybeasts,
+subreddit:imaginarymythology,
+subreddit:imcharacters,
+subreddit:immonsters,
+sun,
+tcg,
+title:dawnsteed by magdalena radziej,
+title:hex tcg: dawnsteed,
+uploader:lol33ta,

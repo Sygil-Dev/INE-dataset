@@ -1,34 +1,34 @@
-ambiguous gender
-booru:e621
-category:ine
-creator:jademere
-creator:jademerien
-duo
-feral
-flying
-grass
-machine
-medium:digital media
-medium:high resolution
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-plant
-raining
-rating:safe
-series:horizon zero dawn
-series:sony corporation
-series:sony interactive entertainment
-species:arthropod
-species:butterfly
-species:insect
-species:lepidopteran
-species:monarch butterfly
-species:robot
-species:watcher (species)
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-title:horizon: friendly machine, by jade mere
-uploader:belledame-sans-serif
-video games
-year:2017
+ambiguous gender,
+booru:e621,
+category:ine,
+creator:jademere,
+creator:jademerien,
+duo,
+feral,
+flying,
+grass,
+machine,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+plant,
+raining,
+rating:safe,
+series:horizon zero dawn,
+series:sony corporation,
+series:sony interactive entertainment,
+species:arthropod,
+species:butterfly,
+species:insect,
+species:lepidopteran,
+species:monarch butterfly,
+species:robot,
+species:watcher (species),
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+title:horizon: friendly machine, by jade mere,
+uploader:belledame-sans-serif,
+video games,
+year:2017,

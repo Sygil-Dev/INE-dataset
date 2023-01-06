@@ -1,23 +1,23 @@
-category:ine
-commission
-corp
-creator:dragonith
-dragonith
-fuse
-fusemon
-fusion
-genesect
-lab
-megamewtwoy
-megaporygenyz
-pokemon
-pokesplice
-porygonz
-request
-special
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"f.u.s.e corp special: mega porygen-yz" by dragonith
-title:f.u.s.e corp special: mega porygen-yz
-uploader:torvusil
+category:ine,
+commission,
+corp,
+creator:dragonith,
+dragonith,
+fuse,
+fusemon,
+fusion,
+genesect,
+lab,
+megamewtwoy,
+megaporygenyz,
+pokemon,
+pokesplice,
+porygonz,
+request,
+special,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"f.u.s.e corp special: mega porygen-yz" by dragonith,
+title:f.u.s.e corp special: mega porygen-yz,
+uploader:torvusil,

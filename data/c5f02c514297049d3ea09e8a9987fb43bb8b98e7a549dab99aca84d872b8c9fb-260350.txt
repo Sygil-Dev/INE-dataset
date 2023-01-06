@@ -1,42 +1,42 @@
-ambiguous gender
-ambiguous_gender
-artist:coleslaw
-artist:cryptid-creations
-bowl
-category:ine
-creator:coleslaw
-creator:cryptid-creations
-feral
-food
-humor
-mammal
-pilosan
-pun
-rating:safe
-simple background
-simple_background
-sloth
-smile
-solo
-species:food creature
-species:food_creature
-species:mammal
-species:pilosan
-species:sloth
-species:three-toed sloth
-species:three-toed_sloth
-species:xenarthran
-subreddit:imaginaryanimals
-subreddit:imaginaryfood
-subreddit:imaginaryhybrids
-subreddit:immeta
-subreddit:immonsters
-subreddit:imnature
-title:"colesloth" by piper thibodeau (cryptid-creations)
-title:daily paint 1919# colesloth
-uploader:torvusil
-visual pun
-visual_pun
-white background
-white_background
-xenarthran
+ambiguous gender,
+ambiguous_gender,
+artist:coleslaw,
+artist:cryptid-creations,
+bowl,
+category:ine,
+creator:coleslaw,
+creator:cryptid-creations,
+feral,
+food,
+humor,
+mammal,
+pilosan,
+pun,
+rating:safe,
+simple background,
+simple_background,
+sloth,
+smile,
+solo,
+species:food creature,
+species:food_creature,
+species:mammal,
+species:pilosan,
+species:sloth,
+species:three-toed sloth,
+species:three-toed_sloth,
+species:xenarthran,
+subreddit:imaginaryanimals,
+subreddit:imaginaryfood,
+subreddit:imaginaryhybrids,
+subreddit:immeta,
+subreddit:immonsters,
+subreddit:imnature,
+title:"colesloth" by piper thibodeau (cryptid-creations),
+title:daily paint 1919# colesloth,
+uploader:torvusil,
+visual pun,
+visual_pun,
+white background,
+white_background,
+xenarthran,

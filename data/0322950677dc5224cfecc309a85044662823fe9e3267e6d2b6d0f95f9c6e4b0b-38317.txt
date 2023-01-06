@@ -1,25 +1,25 @@
-1boy
-beard
-category:ine
-facial hair
-gradient
-gradient background
-holding
-holding shield
-holding sword
-holding weapon
-long hair
-male focus
-muscular
-mustache
-rating:safe
-shield
-solo
-standing
-subreddit:imaginaryhumans
-subreddit:imraces
-sword
-title:warrior by georgi georgiev
-torn clothes
-uploader:lol33ta
-weapon
+1boy,
+beard,
+category:ine,
+facial hair,
+gradient,
+gradient background,
+holding,
+holding shield,
+holding sword,
+holding weapon,
+long hair,
+male focus,
+muscular,
+mustache,
+rating:safe,
+shield,
+solo,
+standing,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+sword,
+title:warrior by georgi georgiev,
+torn clothes,
+uploader:lol33ta,
+weapon,

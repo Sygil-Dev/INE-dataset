@@ -1,31 +1,31 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-brush
-category:ine
-creator:cryptid-creations
-feral
-furry
-gender:ambiguous
-lily pad
-lily_pad
-meta:url
-plant
-rating:safe
-species:alligator
-species:alligatorid
-species:avian
-species:bird
-species:crocodilian
-species:reptile
-species:scalie
-stick
-subreddit:imaginaryanimals
-subreddit:imaginaryaww
-subreddit:immeta
-subreddit:imnature
-text
-title:bird dentist by piper thibodeau
-title:daily paint 1968# bird dentist
-toothbrush
-uploader:myrandall
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+brush,
+category:ine,
+creator:cryptid-creations,
+feral,
+furry,
+gender:ambiguous,
+lily pad,
+lily_pad,
+meta:url,
+plant,
+rating:safe,
+species:alligator,
+species:alligatorid,
+species:avian,
+species:bird,
+species:crocodilian,
+species:reptile,
+species:scalie,
+stick,
+subreddit:imaginaryanimals,
+subreddit:imaginaryaww,
+subreddit:immeta,
+subreddit:imnature,
+text,
+title:bird dentist by piper thibodeau,
+title:daily paint 1968# bird dentist,
+toothbrush,
+uploader:myrandall,

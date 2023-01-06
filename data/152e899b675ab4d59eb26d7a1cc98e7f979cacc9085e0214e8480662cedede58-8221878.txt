@@ -1,26 +1,26 @@
-category:ine
-cernunnos
-creator:raphael lacoste
-druids
-forest
-genre:fantasy
-huge
-illustration
-landscape
-magic
-medium:digital 2d
-mystic
-overthetop
-raphael lacoste
-subreddit:imaginarybehemoths
-subreddit:imaginaryforests
-subreddit:imaginaryimmortals
-subreddit:imnature
-subreddit:imraces
-title:cernunnos and his druids
-title:cernunnos and his druids by raphael lacoste
-title:cernunnos and his druids by raphael lacoste [x-post /r/imaginarydruids]
-title:cernunnos and his druids, by raphael lacoste
-uploader:panzer-kunst
-uploader:sylvyrfyre
-uploader:valar_m0rghul1s
+category:ine,
+cernunnos,
+creator:raphael lacoste,
+druids,
+forest,
+genre:fantasy,
+huge,
+illustration,
+landscape,
+magic,
+medium:digital 2d,
+mystic,
+overthetop,
+raphael lacoste,
+subreddit:imaginarybehemoths,
+subreddit:imaginaryforests,
+subreddit:imaginaryimmortals,
+subreddit:imnature,
+subreddit:imraces,
+title:cernunnos and his druids,
+title:cernunnos and his druids by raphael lacoste,
+title:cernunnos and his druids by raphael lacoste [x-post /r/imaginarydruids],
+title:cernunnos and his druids, by raphael lacoste,
+uploader:panzer-kunst,
+uploader:sylvyrfyre,
+uploader:valar_m0rghul1s,

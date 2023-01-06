@@ -1,74 +1,74 @@
-action:open mouth
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-blue body
-blue feathers
-blue scales
-blue_body
-blue_feathers
-blue_scales
-bodypart:black eyes
-category:ine
-chef hat
-chef_hat
-clothing
-clothing:hat
-clothing:headwear
-cookware
-creator:cryptid-creations
-creator:piperdraws
-egg
-feathers
-feral
-filename:dp1220_s
-fried egg
-fried_egg
-frying pan
-frying_pan
-furry
-gender:ambiguous
-gender:male
-hat
-headgear
-headwear
-humor
-kitchen utensils
-kitchen_utensils
-male:1
-medium:patreon reward
-meme:humor
-meta:paid reward
-meta:patreon reward
-meta:tagme
-open mouth
-open_mouth
-orange body
-orange scales
-orange_body
-orange_scales
-pun
-rating:safe
-scales
-site:patreon
-site:yiff.party
-solo
-species:dinosaur
-species:extinct
-species:oviraptor
-species:oviraptorid
-species:reptile
-species:scalie
-species:theropod
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-teeth
-title:'oviraptor' by piper thibodeau
-title:daily paint #1220. oviraptor
-tools
-uploader:myrandall
-visual pun
-visual_pun
+action:open mouth,
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+blue body,
+blue feathers,
+blue scales,
+blue_body,
+blue_feathers,
+blue_scales,
+bodypart:black eyes,
+category:ine,
+chef hat,
+chef_hat,
+clothing,
+clothing:hat,
+clothing:headwear,
+cookware,
+creator:cryptid-creations,
+creator:piperdraws,
+egg,
+feathers,
+feral,
+filename:dp1220_s,
+fried egg,
+fried_egg,
+frying pan,
+frying_pan,
+furry,
+gender:ambiguous,
+gender:male,
+hat,
+headgear,
+headwear,
+humor,
+kitchen utensils,
+kitchen_utensils,
+male:1,
+medium:patreon reward,
+meme:humor,
+meta:paid reward,
+meta:patreon reward,
+meta:tagme,
+open mouth,
+open_mouth,
+orange body,
+orange scales,
+orange_body,
+orange_scales,
+pun,
+rating:safe,
+scales,
+site:patreon,
+site:yiff.party,
+solo,
+species:dinosaur,
+species:extinct,
+species:oviraptor,
+species:oviraptorid,
+species:reptile,
+species:scalie,
+species:theropod,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+teeth,
+title:'oviraptor' by piper thibodeau,
+title:daily paint #1220. oviraptor,
+tools,
+uploader:myrandall,
+visual pun,
+visual_pun,

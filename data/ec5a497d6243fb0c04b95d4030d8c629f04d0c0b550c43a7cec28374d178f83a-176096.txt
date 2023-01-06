@@ -1,90 +1,90 @@
-1 male
-1boy
-2 females
-2girls
-armor
-armwear
-black hair
-blonde
-blonde hair
-blurry
-booru:sankaku
-booru:sankaku channel
-buster sword
-category:ine
-character:barret wallace
-character:cloud strife
-character:tifa lockhart
-clothing:earrings
-clothing:elbow gloves
-clothing:eyewear
-clothing:gloves
-clothing:hair tie
-clothing:jacket
-clothing:jewelry
-clothing:sunglasses
-cloud
-creator:dishwasher1910
-dark background
-dark skin
-depth of field
-elbow gloves
-eyewear
-female
-finalfantasy
-finalfantasyvii
-finalfantasyⅶ
-firearm
-gatling gun
-gender bender
-gender:female
-gender:male
-genderswap
-genderswap (ftm)
-genderswap (mtf)
-genre:genderswap
-genre:genderswap (ftm)
-genre:genderswap (mtf)
-gloves
-gun
-jacket
-jewelry
-large male
-looking to the side
-male
-mechanical arm
-mechanical arms
-medium:dark background
-medium:depth of field
-medium:image
-medium:no audio
-medium:video
-meta:commentary
-meta:english commentary
-multiple females
-multiple girls
-pixiv id:13408193
-pixiv work:75362653
-ponytail
-rating:general
-rating:s
-rating:safe
-rating:sensitive
-series:final fantasy
-series:final fantasy vii
-serious
-shoulder armor
-single mechanical arm
-spiked hair
-spiky hair
-studio:square enix
-subreddit:imaginarygaming
-subreddit:imfandoms
-sunglasses
-sword
-tied hair
-title:vii
-title:vii by bach do
-transformation
-uploader:net-diver
-weapon
+1 male,
+1boy,
+2 females,
+2girls,
+armor,
+armwear,
+black hair,
+blonde,
+blonde hair,
+blurry,
+booru:sankaku,
+booru:sankaku channel,
+buster sword,
+category:ine,
+character:barret wallace,
+character:cloud strife,
+character:tifa lockhart,
+clothing:earrings,
+clothing:elbow gloves,
+clothing:eyewear,
+clothing:gloves,
+clothing:hair tie,
+clothing:jacket,
+clothing:jewelry,
+clothing:sunglasses,
+cloud,
+creator:dishwasher1910,
+dark background,
+dark skin,
+depth of field,
+elbow gloves,
+eyewear,
+female,
+finalfantasy,
+finalfantasyvii,
+finalfantasyⅶ,
+firearm,
+gatling gun,
+gender bender,
+gender:female,
+gender:male,
+genderswap,
+genderswap (ftm),
+genderswap (mtf),
+genre:genderswap,
+genre:genderswap (ftm),
+genre:genderswap (mtf),
+gloves,
+gun,
+jacket,
+jewelry,
+large male,
+looking to the side,
+male,
+mechanical arm,
+mechanical arms,
+medium:dark background,
+medium:depth of field,
+medium:image,
+medium:no audio,
+medium:video,
+meta:commentary,
+meta:english commentary,
+multiple females,
+multiple girls,
+pixiv id:13408193,
+pixiv work:75362653,
+ponytail,
+rating:general,
+rating:s,
+rating:safe,
+rating:sensitive,
+series:final fantasy,
+series:final fantasy vii,
+serious,
+shoulder armor,
+single mechanical arm,
+spiked hair,
+spiky hair,
+studio:square enix,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+sunglasses,
+sword,
+tied hair,
+title:vii,
+title:vii by bach do,
+transformation,
+uploader:net-diver,
+weapon,

@@ -1,28 +1,28 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-category:ine
-creator:cryptid-creations
-feral
-giant panda
-group
-mammal
-rating:safe
-simple background
-simple_background
-species:giant panda
-species:giant_panda
-species:mammal
-species:undead
-species:ursid
-species:zombie
-subreddit:imaginaryundead
-subreddit:immonsters
-title:daily paint 2058# pandademic
-title:pandademic by piper thibodeau
-undead
-uploader:myrandall
-ursid
-white background
-white_background
-zombie
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+category:ine,
+creator:cryptid-creations,
+feral,
+giant panda,
+group,
+mammal,
+rating:safe,
+simple background,
+simple_background,
+species:giant panda,
+species:giant_panda,
+species:mammal,
+species:undead,
+species:ursid,
+species:zombie,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+title:daily paint 2058# pandademic,
+title:pandademic by piper thibodeau,
+undead,
+uploader:myrandall,
+ursid,
+white background,
+white_background,
+zombie,

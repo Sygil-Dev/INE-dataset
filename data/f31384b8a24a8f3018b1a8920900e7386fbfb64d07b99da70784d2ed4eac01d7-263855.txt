@@ -1,33 +1,33 @@
-armor
-booru:e621
-card
-category:ine
-character:mordin solus
-clothed
-clothing
-clothing:armor
-creator:alteya
-gender:male
-hi res
-horn
-horns
-major arcana
-male
-medium:high resolution
-meta:hi res
-old
-rating:safe
-series:mass effect
-series:mass effect 2
-solo
-species:alien
-species:salarian
-subreddit:imaginarymasseffect
-subreddit:imfandoms
-tarot card
-the hierophant (tarot)
-title:me: mordin
-title:me: mordin by alteya
-uploader:cvance1
-video games
-wrinkles
+armor,
+booru:e621,
+card,
+category:ine,
+character:mordin solus,
+clothed,
+clothing,
+clothing:armor,
+creator:alteya,
+gender:male,
+hi res,
+horn,
+horns,
+major arcana,
+male,
+medium:high resolution,
+meta:hi res,
+old,
+rating:safe,
+series:mass effect,
+series:mass effect 2,
+solo,
+species:alien,
+species:salarian,
+subreddit:imaginarymasseffect,
+subreddit:imfandoms,
+tarot card,
+the hierophant (tarot),
+title:me: mordin,
+title:me: mordin by alteya,
+uploader:cvance1,
+video games,
+wrinkles,

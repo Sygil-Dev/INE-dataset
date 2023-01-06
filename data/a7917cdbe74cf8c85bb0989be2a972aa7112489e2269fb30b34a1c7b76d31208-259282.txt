@@ -1,62 +1,62 @@
-2018
-ambiguous gender
-artist:hioshiru
-black nose
-blood
-blood on face
-blood on fur
-bodily fluids
-butt fluff
-canine
-category:ine
-creator:hioshiru
-creator:hioshiru-alter
-dark body
-dark fur
-day
-detailed background
-digitigrade
-face
-fallen tree
-feral
-forest
-fur
-furaffinity
-gender:ambiguous
-grass
-head down
-huntress
-looking at viewer
-loose feather
-mammal
-medium:detailed background
-meta:2018
-mountain
-orange eyes
-outside
-paws
-plant
-quadruped
-rating:questionable
-shinyuu
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:mammal
-species:non-human animal
-species:wolf
-standing
-subreddit:imaginaryanimals
-subreddit:imnature
-title:huntress
-title:huntress by 'hioshiru-alter'
-tree
-uploader:myrandall
-whiskers
-white
-white body
-white fur
-wolf
-year:2018
+2018,
+ambiguous gender,
+artist:hioshiru,
+black nose,
+blood,
+blood on face,
+blood on fur,
+bodily fluids,
+butt fluff,
+canine,
+category:ine,
+creator:hioshiru,
+creator:hioshiru-alter,
+dark body,
+dark fur,
+day,
+detailed background,
+digitigrade,
+face,
+fallen tree,
+feral,
+forest,
+fur,
+furaffinity,
+gender:ambiguous,
+grass,
+head down,
+huntress,
+looking at viewer,
+loose feather,
+mammal,
+medium:detailed background,
+meta:2018,
+mountain,
+orange eyes,
+outside,
+paws,
+plant,
+quadruped,
+rating:questionable,
+shinyuu,
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:non-human animal,
+species:wolf,
+standing,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:huntress,
+title:huntress by 'hioshiru-alter',
+tree,
+uploader:myrandall,
+whiskers,
+white,
+white body,
+white fur,
+wolf,
+year:2018,

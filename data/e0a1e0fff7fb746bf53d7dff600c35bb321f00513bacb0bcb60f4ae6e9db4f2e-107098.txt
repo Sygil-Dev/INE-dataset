@@ -1,86 +1,86 @@
-adventure
-ancient
-ankh
-antique
-antique store
-artist:discordthege
-background
-blue eyes
-blue hair
-blue_eyes
-blue_hair
-category:ine
-character:oc
-character:oc only
-clothes
-clothing
-commission
-copyright:hasbro
-copyright:my_little_pony
-creator:discordthege
-detailed background
-detailed_background
-digital art
-discordthege
-female
-friendship
-fur
-gender:female
-glowing
-glowing horn
-hair
-hi res
-horn
-horns
-house
-levitation
-magic
-mare
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:16:9
-meta:hi res
-meta:hi_res
-meta:widescreen
-mlp
-oc
-oc only
-old
-open mouth
-open_mouth
-pony
-purple body
-purple fur
-purple_body
-purple_fur
-rating:safe
-red tongue
-red_tongue
-safe
-series:hasbro
-series:my little pony
-shelf
-signature
-smile
-smiling
-solo
-species:equid
-species:equine
-species:horse
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-teeth
-telekinesis
-the book of the dead
-title:"house of antiquities" by rodion bochenin (discordthege)
-title:house of antiquities
-tongue
-unicorn
-uploader:torvusil
+adventure,
+ancient,
+ankh,
+antique,
+antique store,
+artist:discordthege,
+background,
+blue eyes,
+blue hair,
+blue_eyes,
+blue_hair,
+category:ine,
+character:oc,
+character:oc only,
+clothes,
+clothing,
+commission,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:discordthege,
+detailed background,
+detailed_background,
+digital art,
+discordthege,
+female,
+friendship,
+fur,
+gender:female,
+glowing,
+glowing horn,
+hair,
+hi res,
+horn,
+horns,
+house,
+levitation,
+magic,
+mare,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:16:9,
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+mlp,
+oc,
+oc only,
+old,
+open mouth,
+open_mouth,
+pony,
+purple body,
+purple fur,
+purple_body,
+purple_fur,
+rating:safe,
+red tongue,
+red_tongue,
+safe,
+series:hasbro,
+series:my little pony,
+shelf,
+signature,
+smile,
+smiling,
+solo,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+teeth,
+telekinesis,
+the book of the dead,
+title:"house of antiquities" by rodion bochenin (discordthege),
+title:house of antiquities,
+tongue,
+unicorn,
+uploader:torvusil,

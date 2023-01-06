@@ -1,49 +1,49 @@
-angel
-artist name
-booru:sankaku channel
-category:ine
-cloud
-creator:sakimichan
-ears
-fanart from deviantart
-fantasy
-female
-fog
-forest
-gender:female
-gender:male
-genre:fantasy
-group
-halo
-island (personification)
-male
-medium:artist name
-medium:fanart from deviantart
-medium:realistic
-medium:text
-meta:artist name
-nature
-original
-outdoors
-outside
-pointed ears
-pointy ears
-rating:safe
-realistic
-sakimichan
-series:original
-site:deviant art
-site:deviantart
-sky
-species:angel
-studio:waterfall
-subreddit:imaginarybodyscapes
-subreddit:imlandscapes
-text
-title:angel's play ground
-title:angel's play ground, by sakimichan
-tree
-uploader:belledame-sans-serif
-water
-waterfall
-wings
+angel,
+artist name,
+booru:sankaku channel,
+category:ine,
+cloud,
+creator:sakimichan,
+ears,
+fanart from deviantart,
+fantasy,
+female,
+fog,
+forest,
+gender:female,
+gender:male,
+genre:fantasy,
+group,
+halo,
+island (personification),
+male,
+medium:artist name,
+medium:fanart from deviantart,
+medium:realistic,
+medium:text,
+meta:artist name,
+nature,
+original,
+outdoors,
+outside,
+pointed ears,
+pointy ears,
+rating:safe,
+realistic,
+sakimichan,
+series:original,
+site:deviant art,
+site:deviantart,
+sky,
+species:angel,
+studio:waterfall,
+subreddit:imaginarybodyscapes,
+subreddit:imlandscapes,
+text,
+title:angel's play ground,
+title:angel's play ground, by sakimichan,
+tree,
+uploader:belledame-sans-serif,
+water,
+waterfall,
+wings,

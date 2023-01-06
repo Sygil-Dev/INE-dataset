@@ -1,51 +1,51 @@
-ambiguous gender
-art
-atrucian
-booru:e621
-category:ine
-claws
-commission
-creator:isvoc
-creator:leilryu
-digital
-fantasy
-feral
-fire
-furry
-gender:ambiguous
-guro
-horn
-horns
-isvoc
-kin
-magic
-medium:digital media
-medium:simple background
-membrane (anatomy)
-membranous wings
-meta:digital media (artwork)
-nude
-r3dscale
-rating:explicit
-rating:mature
-rating:safe
-red body
-red scales
-ridged horn
-scales
-simple background
-solo
-source:furaffinity.net
-species:dragon
-species:mythical
-species:reptile
-species:scalie
-spread wings
-standing
-subreddit:imaginarydragons
-subreddit:immonsters
-textured background
-title:"atrucian" by karolina plutowska
-title:before inferno
-uploader:nikephoros_ii_phokas
-wings
+ambiguous gender,
+art,
+atrucian,
+booru:e621,
+category:ine,
+claws,
+commission,
+creator:isvoc,
+creator:leilryu,
+digital,
+fantasy,
+feral,
+fire,
+furry,
+gender:ambiguous,
+guro,
+horn,
+horns,
+isvoc,
+kin,
+magic,
+medium:digital media,
+medium:simple background,
+membrane (anatomy),
+membranous wings,
+meta:digital media (artwork),
+nude,
+r3dscale,
+rating:explicit,
+rating:mature,
+rating:safe,
+red body,
+red scales,
+ridged horn,
+scales,
+simple background,
+solo,
+source:furaffinity.net,
+species:dragon,
+species:mythical,
+species:reptile,
+species:scalie,
+spread wings,
+standing,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+textured background,
+title:"atrucian" by karolina plutowska,
+title:before inferno,
+uploader:nikephoros_ii_phokas,
+wings,

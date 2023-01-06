@@ -1,23 +1,23 @@
-bare tree
-bush
-category:ine
-cloud
-cloudy sky
-day
-forest
-grass
-lake
-letterboxed
-mountain
-nature
-outdoors
-rating:safe
-river
-road
-scenery
-sky
-subreddit:imaginaryswamps
-subreddit:imnature
-title:control by conar cross
-tree
-uploader:e-leventy
+bare tree,
+bush,
+category:ine,
+cloud,
+cloudy sky,
+day,
+forest,
+grass,
+lake,
+letterboxed,
+mountain,
+nature,
+outdoors,
+rating:safe,
+river,
+road,
+scenery,
+sky,
+subreddit:imaginaryswamps,
+subreddit:imnature,
+title:control by conar cross,
+tree,
+uploader:e-leventy,

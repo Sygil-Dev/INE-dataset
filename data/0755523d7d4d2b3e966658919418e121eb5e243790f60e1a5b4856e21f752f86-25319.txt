@@ -1,44 +1,44 @@
-1boy
-3d
-architecture
-armor
-beard
-blurry
-blurry background
-blurry foreground
-book
-bookshelf
-building
-category:ine
-chain-link fence
-depth of field
-east asian architecture
-facial hair
-fence
-gloves
-holding
-holding book
-house
-indoors
-library
-male focus
-mustache
-newspaper
-old
-old man
-open book
-photo (medium)
-rating:safe
-reading
-realistic
-shouji
-skyscraper
-sliding doors
-solo
-stained glass
-subreddit:imaginaryclerics
-subreddit:imcharacters
-tatami
-title:sir boen fairbanks by marijana gluhović
-uploader:lol33ta
-wrinkled skin
+1boy,
+3d,
+architecture,
+armor,
+beard,
+blurry,
+blurry background,
+blurry foreground,
+book,
+bookshelf,
+building,
+category:ine,
+chain-link fence,
+depth of field,
+east asian architecture,
+facial hair,
+fence,
+gloves,
+holding,
+holding book,
+house,
+indoors,
+library,
+male focus,
+mustache,
+newspaper,
+old,
+old man,
+open book,
+photo (medium),
+rating:safe,
+reading,
+realistic,
+shouji,
+skyscraper,
+sliding doors,
+solo,
+stained glass,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+tatami,
+title:sir boen fairbanks by marijana gluhović,
+uploader:lol33ta,
+wrinkled skin,

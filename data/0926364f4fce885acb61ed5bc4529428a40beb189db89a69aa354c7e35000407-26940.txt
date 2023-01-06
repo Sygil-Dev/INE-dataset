@@ -1,27 +1,27 @@
-1boy
-cape
-category:ine
-cloud
-cloudy sky
-glowing
-jewelry
-male focus
-moon
-mountain
-necklace
-night
-night sky
-outdoors
-rating:safe
-shooting star
-sky
-snow
-snowing
-solo
-star (sky)
-starry sky
-subreddit:imaginarygiants
-subreddit:imaginaryimmortals
-subreddit:imraces
-title:夜游神 by zhang bo
-uploader:lol33ta
+1boy,
+cape,
+category:ine,
+cloud,
+cloudy sky,
+glowing,
+jewelry,
+male focus,
+moon,
+mountain,
+necklace,
+night,
+night sky,
+outdoors,
+rating:safe,
+shooting star,
+sky,
+snow,
+snowing,
+solo,
+star (sky),
+starry sky,
+subreddit:imaginarygiants,
+subreddit:imaginaryimmortals,
+subreddit:imraces,
+title:夜游神 by zhang bo,
+uploader:lol33ta,

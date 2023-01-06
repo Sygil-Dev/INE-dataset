@@ -1,77 +1,77 @@
-4 toes
-5 fingers
-accessory
-anthro
-anthropomorphism
-barefoot
-black nose
-booru:e621
-carrying
-category:ine
-child
-clothed
-clothing
-clothing:dress
-creator:hibbary
-cub
-day
-detailed
-dress
-duo
-feet
-female
-feral
-fingers
-flower
-flower in hair
-flying
-fully clothed
-fur
-gender:female
-gender:male
-grass
-green eyes
-hair
-hair accessory
-hair ornament
-larger female
-looking aside
-looking to the side
-male
-medium:traditional media
-meta:detailed
-meta:traditional media (artwork)
-open mouth
-open smile
-orange eyes
-outside
-piggyback
-plant
-rating:safe
-size difference
-sky
-smaller male
-smile
-source:furaffinity.net
-species:ailurid
-species:arthropod
-species:butterfly
-species:insect
-species:lepidopteran
-species:mammal
-species:non-human animal
-species:red panda
-standing
-striped
-stripes
-subreddit:imaginaryfamilies
-subreddit:imcharacters
-title:brother and sister by hillary luetkemeyer
-title:sister, brother
-toes
-traditional media (artwork)
-uploader:myrandall
-white body
-white fur
-yellow eyes
-young
+4 toes,
+5 fingers,
+accessory,
+anthro,
+anthropomorphism,
+barefoot,
+black nose,
+booru:e621,
+carrying,
+category:ine,
+child,
+clothed,
+clothing,
+clothing:dress,
+creator:hibbary,
+cub,
+day,
+detailed,
+dress,
+duo,
+feet,
+female,
+feral,
+fingers,
+flower,
+flower in hair,
+flying,
+fully clothed,
+fur,
+gender:female,
+gender:male,
+grass,
+green eyes,
+hair,
+hair accessory,
+hair ornament,
+larger female,
+looking aside,
+looking to the side,
+male,
+medium:traditional media,
+meta:detailed,
+meta:traditional media (artwork),
+open mouth,
+open smile,
+orange eyes,
+outside,
+piggyback,
+plant,
+rating:safe,
+size difference,
+sky,
+smaller male,
+smile,
+source:furaffinity.net,
+species:ailurid,
+species:arthropod,
+species:butterfly,
+species:insect,
+species:lepidopteran,
+species:mammal,
+species:non-human animal,
+species:red panda,
+standing,
+striped,
+stripes,
+subreddit:imaginaryfamilies,
+subreddit:imcharacters,
+title:brother and sister by hillary luetkemeyer,
+title:sister, brother,
+toes,
+traditional media (artwork),
+uploader:myrandall,
+white body,
+white fur,
+yellow eyes,
+young,

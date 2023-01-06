@@ -1,36 +1,36 @@
-6+boys
-axe
-bamboo
-bare tree
-beach
-boots
-branch
-cactus
-category:ine
-chair
-couch
-creator:francis001
-desert
-fire
-gun
-leaf
-military
-multiple boys
-multiple girls
-palm tree
-plant
-potted plant
-rating:safe
-rifle
-sand
-shield
-sitting
-staff
-subreddit:imaginarydeserts
-subreddit:imnature
-sword
-title:anauroch
-title:anauroch by francis tsai
-tree
-uploader:lol33ta
-weapon
+6+boys,
+axe,
+bamboo,
+bare tree,
+beach,
+boots,
+branch,
+cactus,
+category:ine,
+chair,
+couch,
+creator:francis001,
+desert,
+fire,
+gun,
+leaf,
+military,
+multiple boys,
+multiple girls,
+palm tree,
+plant,
+potted plant,
+rating:safe,
+rifle,
+sand,
+shield,
+sitting,
+staff,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+sword,
+title:anauroch,
+title:anauroch by francis tsai,
+tree,
+uploader:lol33ta,
+weapon,

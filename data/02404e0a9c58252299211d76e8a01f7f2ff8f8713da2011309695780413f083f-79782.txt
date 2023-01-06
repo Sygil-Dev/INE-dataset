@@ -1,21 +1,21 @@
-black hair
-boots
-category:ine
-character:elezen
-elf
-gun
-holding gun
-military uniform
-multiple girls
-pointy ears
-rating:safe
-realistic
-rifle
-sitting
-subreddit:imaginaryfamilies
-subreddit:imcharacters
-title:commission: akachi by jackson tjota
-trigger discipline
-uniform
-uploader:hvitserkr
-weapon
+black hair,
+boots,
+category:ine,
+character:elezen,
+elf,
+gun,
+holding gun,
+military uniform,
+multiple girls,
+pointy ears,
+rating:safe,
+realistic,
+rifle,
+sitting,
+subreddit:imaginaryfamilies,
+subreddit:imcharacters,
+title:commission: akachi by jackson tjota,
+trigger discipline,
+uniform,
+uploader:hvitserkr,
+weapon,

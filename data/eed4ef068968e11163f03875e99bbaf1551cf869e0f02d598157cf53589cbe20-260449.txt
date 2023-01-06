@@ -1,54 +1,54 @@
-25:24
-action:closing eyes
-ambiguous_gender
-artist:cryptid-creations
-category:ine
-creator:cryptid-creations
-cutlery
-dairy_products
-dessert
-eyes closed
-eyes_closed
-food
-gelatin
-gender:ambiguous
-gender:male
-humor
-kitchen utensils
-kitchen_utensils
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:english_text
-meta:url
-meta:white background
-pun
-rating:safe
-simple background
-simple_background
-solo
-species:elephant
-species:elephantid
-species:food creature
-species:food_creature
-species:mammal
-species:pachyderm
-species:proboscidean
-spoon
-subreddit:imaginaryaww
-subreddit:imaginaryfood
-subreddit:imaginaryhybrids
-subreddit:immeta
-subreddit:immonsters
-text
-title:"jellophant" by piper thibodeau (cryptid-creations)
-title:daily paint 1967# jellophant
-tools
-tusks
-uploader:torvusil
-visual pun
-visual_pun
-whipped cream
-whipped_cream
-white_background
+25:24,
+action:closing eyes,
+ambiguous_gender,
+artist:cryptid-creations,
+category:ine,
+creator:cryptid-creations,
+cutlery,
+dairy_products,
+dessert,
+eyes closed,
+eyes_closed,
+food,
+gelatin,
+gender:ambiguous,
+gender:male,
+humor,
+kitchen utensils,
+kitchen_utensils,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:english_text,
+meta:url,
+meta:white background,
+pun,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:elephant,
+species:elephantid,
+species:food creature,
+species:food_creature,
+species:mammal,
+species:pachyderm,
+species:proboscidean,
+spoon,
+subreddit:imaginaryaww,
+subreddit:imaginaryfood,
+subreddit:imaginaryhybrids,
+subreddit:immeta,
+subreddit:immonsters,
+text,
+title:"jellophant" by piper thibodeau (cryptid-creations),
+title:daily paint 1967# jellophant,
+tools,
+tusks,
+uploader:torvusil,
+visual pun,
+visual_pun,
+whipped cream,
+whipped_cream,
+white_background,

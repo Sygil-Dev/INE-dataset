@@ -1,28 +1,28 @@
-artist name
-building
-category:ine
-cloud
-cloudy sky
-copyright name
-evening
-field
-gradient sky
-grass
-horizon
-mountain
-mountainous horizon
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarystarships
-subreddit:imtechnology
-sunset
-title:return of the prodigal son by steven stahlberg
-tower
-tree
-twilight
-uploader:malign-god
-watermark
-web address
+artist name,
+building,
+category:ine,
+cloud,
+cloudy sky,
+copyright name,
+evening,
+field,
+gradient sky,
+grass,
+horizon,
+mountain,
+mountainous horizon,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarystarships,
+subreddit:imtechnology,
+sunset,
+title:return of the prodigal son by steven stahlberg,
+tower,
+tree,
+twilight,
+uploader:malign-god,
+watermark,
+web address,

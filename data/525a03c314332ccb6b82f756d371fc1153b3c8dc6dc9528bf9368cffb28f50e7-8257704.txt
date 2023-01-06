@@ -1,73 +1,73 @@
-1 female
-1girl
-beanie hat
-black coat
-black outerwear
-blonde hair
-blue eyes
-booru:sankaku channel
-category:ine
-character:tess (raikoart)
-character:tess turner
-clothing:gloves
-clothing:hat
-clothing:headwear
-coat
-creator:raiko
-creator:raikoart
-creator:sean "raiko" tay
-creator:ライコ
-female
-female focus
-female only
-firearm
-gender:female
-genre:science fiction
-gloves
-gun
-handgun
-hat
-holding
-holding gun
-holding object
-holding weapon
-long coat
-long hair
-looking at viewer
-medium:digital 2d
-medium:high resolution
-meta:highres
-night
-oc
-pin-up
-pixiv id:12969170
-pixiv work:75953094
-point of view
-pov
-rating:mature
-rating:safe
-real person
-scifi
-series:original
-serious
-site:patreon
-site:yiff.party
-snow
-snowing
-solo
-solo female
-standing
-subreddit:imaginaryassassins
-subreddit:imcharacters
-subreddit:inegentlemanboners
-tess
-title:dress warmer
-title:i do not want to build a snowman
-title:oc tess sketch
-title:tess by sean "raiko" tay
-title:tess sketches
-uploader:lol33ta
-weapon
-winter
-yiff id:991939
-冬服
+1 female,
+1girl,
+beanie hat,
+black coat,
+black outerwear,
+blonde hair,
+blue eyes,
+booru:sankaku channel,
+category:ine,
+character:tess (raikoart),
+character:tess turner,
+clothing:gloves,
+clothing:hat,
+clothing:headwear,
+coat,
+creator:raiko,
+creator:raikoart,
+creator:sean "raiko" tay,
+creator:ライコ,
+female,
+female focus,
+female only,
+firearm,
+gender:female,
+genre:science fiction,
+gloves,
+gun,
+handgun,
+hat,
+holding,
+holding gun,
+holding object,
+holding weapon,
+long coat,
+long hair,
+looking at viewer,
+medium:digital 2d,
+medium:high resolution,
+meta:highres,
+night,
+oc,
+pin-up,
+pixiv id:12969170,
+pixiv work:75953094,
+point of view,
+pov,
+rating:mature,
+rating:safe,
+real person,
+scifi,
+series:original,
+serious,
+site:patreon,
+site:yiff.party,
+snow,
+snowing,
+solo,
+solo female,
+standing,
+subreddit:imaginaryassassins,
+subreddit:imcharacters,
+subreddit:inegentlemanboners,
+tess,
+title:dress warmer,
+title:i do not want to build a snowman,
+title:oc tess sketch,
+title:tess by sean "raiko" tay,
+title:tess sketches,
+uploader:lol33ta,
+weapon,
+winter,
+yiff id:991939,
+冬服,

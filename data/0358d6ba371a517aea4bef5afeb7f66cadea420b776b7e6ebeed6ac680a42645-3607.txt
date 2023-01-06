@@ -1,22 +1,22 @@
-category:ine
-forest
-hat
-holding
-holding weapon
-monster
-mountain
-nature
-outdoors
-rating:safe
-rock
-scenery
-snow
-subreddit:imaginarycarnage
-subreddit:imaginaryninjas
-subreddit:imcharacters
-subreddit:imnsfw
-sword
-title:night attack by li lin
-tree
-uploader:lol33ta
-weapon
+category:ine,
+forest,
+hat,
+holding,
+holding weapon,
+monster,
+mountain,
+nature,
+outdoors,
+rating:safe,
+rock,
+scenery,
+snow,
+subreddit:imaginarycarnage,
+subreddit:imaginaryninjas,
+subreddit:imcharacters,
+subreddit:imnsfw,
+sword,
+title:night attack by li lin,
+tree,
+uploader:lol33ta,
+weapon,

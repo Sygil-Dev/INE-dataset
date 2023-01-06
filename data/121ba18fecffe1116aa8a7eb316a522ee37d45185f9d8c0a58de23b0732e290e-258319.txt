@@ -1,42 +1,42 @@
-ambiguous gender
-and
-bass
-booru:e621
-brown body
-brown eyes
-brown fur
-category:ine
-collection
-creator:alradeck
-creator:firefeathers
-creature
-cute
-day
-detailed background
-feral
-fish
-friends
-fur
-group
-medium:detailed background
-medium:digital media
-meta:digital media (artwork)
-rating:safe
-scg
-smile
-source:furaffinity.net
-species:fish
-species:lutrine
-species:mammal
-species:marine
-species:mustelid
-species:otter
-subreddit:imaginaryanimals
-subreddit:imnature
-sunfish
-title:creature collection: otter
-title:creature collection: otter by a.l. radeck
-underwater
-uploader:myrandall
-water
-whiskers
+ambiguous gender,
+and,
+bass,
+booru:e621,
+brown body,
+brown eyes,
+brown fur,
+category:ine,
+collection,
+creator:alradeck,
+creator:firefeathers,
+creature,
+cute,
+day,
+detailed background,
+feral,
+fish,
+friends,
+fur,
+group,
+medium:detailed background,
+medium:digital media,
+meta:digital media (artwork),
+rating:safe,
+scg,
+smile,
+source:furaffinity.net,
+species:fish,
+species:lutrine,
+species:mammal,
+species:marine,
+species:mustelid,
+species:otter,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+sunfish,
+title:creature collection: otter,
+title:creature collection: otter by a.l. radeck,
+underwater,
+uploader:myrandall,
+water,
+whiskers,

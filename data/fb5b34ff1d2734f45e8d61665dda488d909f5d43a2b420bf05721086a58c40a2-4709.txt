@@ -1,87 +1,87 @@
-2019
-absurd res
-ambiguous gender
-ambiguous_gender
-anthropomorphism
-artist:twistedgrimtv
-black eyes
-black_eyes
-booru:e621
-category:ine
-character:asui "froppy" tsuyu
-character:asui tsuyu
-character:asui_tsuyu
-clothed
-clothing
-clothing:tagme
-copyright:my_hero_academia
-copyright:nintendo
-copyright:pokémon
-creator:twistedgrim
-creator:twistedgrimtv
-crossover
-duo
-eyewear
-female
-furry
-gender:ambiguous
-gender:female
-goggles
-green hair
-green_hair
-hair
-hi res
-human
-long hair
-long_hair
-mammal
-medium:absurd resolution
-medium:high resolution
-medium:simple background
-medium:video game
-meta:2019
-meta:absurd res
-meta:absurd_res
-meta:crossover
-meta:hi res
-meta:hi_res
-meta:signature
-meta:tagme
-my hero academia
-open mouth
-open_mouth
-pokémon
-pokémon (species)
-rating:safe
-reptile
-scalie
-series:boku no hero academia
-series:my hero academia
-series:nintendo
-series:pokémon
-signature
-simple background
-simple_background
-sobble
-species:human
-species:mammal
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:primate
-species:reptile
-species:scalie
-species:sobble
-studio:nintendo
-subreddit:imaginaryanime
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"tsu and sobble" by twistedgrim
-title:tsu and sobble
-twistedgrimtv
-uploader:torvusil
-video games
-video_games
-year:2019
+2019,
+absurd res,
+ambiguous gender,
+ambiguous_gender,
+anthropomorphism,
+artist:twistedgrimtv,
+black eyes,
+black_eyes,
+booru:e621,
+category:ine,
+character:asui "froppy" tsuyu,
+character:asui tsuyu,
+character:asui_tsuyu,
+clothed,
+clothing,
+clothing:tagme,
+copyright:my_hero_academia,
+copyright:nintendo,
+copyright:pokémon,
+creator:twistedgrim,
+creator:twistedgrimtv,
+crossover,
+duo,
+eyewear,
+female,
+furry,
+gender:ambiguous,
+gender:female,
+goggles,
+green hair,
+green_hair,
+hair,
+hi res,
+human,
+long hair,
+long_hair,
+mammal,
+medium:absurd resolution,
+medium:high resolution,
+medium:simple background,
+medium:video game,
+meta:2019,
+meta:absurd res,
+meta:absurd_res,
+meta:crossover,
+meta:hi res,
+meta:hi_res,
+meta:signature,
+meta:tagme,
+my hero academia,
+open mouth,
+open_mouth,
+pokémon,
+pokémon (species),
+rating:safe,
+reptile,
+scalie,
+series:boku no hero academia,
+series:my hero academia,
+series:nintendo,
+series:pokémon,
+signature,
+simple background,
+simple_background,
+sobble,
+species:human,
+species:mammal,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:primate,
+species:reptile,
+species:scalie,
+species:sobble,
+studio:nintendo,
+subreddit:imaginaryanime,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"tsu and sobble" by twistedgrim,
+title:tsu and sobble,
+twistedgrimtv,
+uploader:torvusil,
+video games,
+video_games,
+year:2019,

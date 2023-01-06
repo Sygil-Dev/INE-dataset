@@ -1,30 +1,30 @@
-1girl
-animal
-architecture
-barefoot
-cat
-category:ine
-cushion
-east asian architecture
-flower
-hair flower
-hair ornament
-japanese clothes
-kimono
-lantern
-long hair
-open mouth
-rating:safe
-round window
-seiza
-shouji
-sitting
-sliding doors
-smile
-subreddit:imaginarypets
-subreddit:immeta
-tatami
-title:food battle by nise
-uploader:lol33ta
-veranda
-zabuton
+1girl,
+animal,
+architecture,
+barefoot,
+cat,
+category:ine,
+cushion,
+east asian architecture,
+flower,
+hair flower,
+hair ornament,
+japanese clothes,
+kimono,
+lantern,
+long hair,
+open mouth,
+rating:safe,
+round window,
+seiza,
+shouji,
+sitting,
+sliding doors,
+smile,
+subreddit:imaginarypets,
+subreddit:immeta,
+tatami,
+title:food battle by nise,
+uploader:lol33ta,
+veranda,
+zabuton,

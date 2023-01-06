@@ -1,25 +1,25 @@
-ambiguous gender
-bite
-booru:e621
-category:ine
-creator:clint cearley
-creator:clintcearley
-gender:ambiguous
-magic
-meta:official art
-pain
-rating:safe
-screaming
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-solo
-species:genie
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-title:mind rot - mtg
-title:mind rot - mtg by clint cearley
-uploader:tamander
+ambiguous gender,
+bite,
+booru:e621,
+category:ine,
+creator:clint cearley,
+creator:clintcearley,
+gender:ambiguous,
+magic,
+meta:official art,
+pain,
+rating:safe,
+screaming,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+solo,
+species:genie,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+title:mind rot - mtg,
+title:mind rot - mtg by clint cearley,
+uploader:tamander,

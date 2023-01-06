@@ -1,60 +1,60 @@
-action:open mouth
-artist:cryptid-creations
-black eyes
-black_eyes
-bodypart:black eyes
-bow
-bow (disambiguation)
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-clothing:bow
-creator:cryptid-creations
-dot eyes
-dot_eyes
-duo
-emotion:sadness
-female
-feral
-fur
-gender:female
-gender:male
-howl
-humor
-male
-meme:humor
-meta:english text
-meta:english_text
-meta:url
-moon
-night
-open mouth
-open_mouth
-outside
-pun
-rating:safe
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-star
-subreddit:imaginaryfeels
-subreddit:immeta
-tan body
-tan fur
-tan_body
-tan_fur
-teeth
-text
-title:daily paint 2134. forever alone wolf
-title:daily paint 2134. forever alone wolf by by piper thibodeau
-title:forever alone wolf by piper thibodeau
-uploader:myrandall
-uploader:net-diver
-white body
-white fur
-white_body
-white_fur
+action:open mouth,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+bow,
+bow (disambiguation),
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+clothing:bow,
+creator:cryptid-creations,
+dot eyes,
+dot_eyes,
+duo,
+emotion:sadness,
+female,
+feral,
+fur,
+gender:female,
+gender:male,
+howl,
+humor,
+male,
+meme:humor,
+meta:english text,
+meta:english_text,
+meta:url,
+moon,
+night,
+open mouth,
+open_mouth,
+outside,
+pun,
+rating:safe,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+star,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+tan body,
+tan fur,
+tan_body,
+tan_fur,
+teeth,
+text,
+title:daily paint 2134. forever alone wolf,
+title:daily paint 2134. forever alone wolf by by piper thibodeau,
+title:forever alone wolf by piper thibodeau,
+uploader:myrandall,
+uploader:net-diver,
+white body,
+white fur,
+white_body,
+white_fur,

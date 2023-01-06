@@ -1,38 +1,38 @@
-armor
-cannibalus
-category:ine
-character:oc
-character:oc only
-character:oc:nox selune
-commission
-creator:cannibalus
-gender:female
-glowing
-glowing eyes
-headwear
-helmet
-lich king
-lichking
-mare
-meta:crossover
-mlp
-noxselune
-oc
-oc only
-oc:nox selune
-ponified
-rating:safe
-safe
-series:warcraft
-series:world of warcraft
-snow
-solo
-species:equine
-species:mammal
-species:pony
-studio:blizzard entertainment
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"mare of the night" by vitaliy (cannibalus)
-title:mare of the night
-uploader:torvusil
+armor,
+cannibalus,
+category:ine,
+character:oc,
+character:oc only,
+character:oc:nox selune,
+commission,
+creator:cannibalus,
+gender:female,
+glowing,
+glowing eyes,
+headwear,
+helmet,
+lich king,
+lichking,
+mare,
+meta:crossover,
+mlp,
+noxselune,
+oc,
+oc only,
+oc:nox selune,
+ponified,
+rating:safe,
+safe,
+series:warcraft,
+series:world of warcraft,
+snow,
+solo,
+species:equine,
+species:mammal,
+species:pony,
+studio:blizzard entertainment,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"mare of the night" by vitaliy (cannibalus),
+title:mare of the night,
+uploader:torvusil,

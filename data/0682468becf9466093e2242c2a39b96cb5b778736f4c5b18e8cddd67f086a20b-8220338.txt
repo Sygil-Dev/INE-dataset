@@ -1,44 +1,44 @@
-1boy
-adventurer
-advisor
-artist name
-beard
-bird
-boots
-cape
-category:ine
-copyright name
-creator:sandra duchiewicz
-facial hair
-full body
-games workshop
-gradient
-gradient background
-grey background
-grey hair
-jewelry
-mage
-male focus
-man
-medium:digital 2d
-mustache
-npc
-old
-old man
-owl
-rating:safe
-solo
-standing
-subreddit:imaginaryscholars
-subreddit:imcharacters
-title:total war: warhammer - advisor
-title:total war: warhammer - advisor by sandra duchiewicz
-total war
-traveler
-tzeentch
-uploader:net-diver
-warhammer
-watermark
-web address
-wise
-wrinkled skin
+1boy,
+adventurer,
+advisor,
+artist name,
+beard,
+bird,
+boots,
+cape,
+category:ine,
+copyright name,
+creator:sandra duchiewicz,
+facial hair,
+full body,
+games workshop,
+gradient,
+gradient background,
+grey background,
+grey hair,
+jewelry,
+mage,
+male focus,
+man,
+medium:digital 2d,
+mustache,
+npc,
+old,
+old man,
+owl,
+rating:safe,
+solo,
+standing,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+title:total war: warhammer - advisor,
+title:total war: warhammer - advisor by sandra duchiewicz,
+total war,
+traveler,
+tzeentch,
+uploader:net-diver,
+warhammer,
+watermark,
+web address,
+wise,
+wrinkled skin,

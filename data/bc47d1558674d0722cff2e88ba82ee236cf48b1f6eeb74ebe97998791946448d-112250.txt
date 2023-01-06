@@ -1,32 +1,32 @@
-bed
-blonde
-commission
-creator:curanto
-creator:hands
-curly
-cute
-dark-skinned female
-ebony
-female/female
-gender:female
-guro
-interracial
-lesbian
-nude
-oc
-original
-rating:contains female nudity
-rating:explicit
-rating:mature
-rating:nudity
-rating:sexual content
-rating:shoujo-ai (female homosexual) context
-subreddit:imaginarylesboners
-subreddit:imnsfw
-tender
-title:in
-title:in good hands
-title:in good hands, by curanto
-uploader:belledame-sans-serif
-website:reddit
-yuri
+bed,
+blonde,
+commission,
+creator:curanto,
+creator:hands,
+curly,
+cute,
+dark-skinned female,
+ebony,
+female/female,
+gender:female,
+guro,
+interracial,
+lesbian,
+nude,
+oc,
+original,
+rating:contains female nudity,
+rating:explicit,
+rating:mature,
+rating:nudity,
+rating:sexual content,
+rating:shoujo-ai (female homosexual) context,
+subreddit:imaginarylesboners,
+subreddit:imnsfw,
+tender,
+title:in,
+title:in good hands,
+title:in good hands, by curanto,
+uploader:belledame-sans-serif,
+website:reddit,
+yuri,

@@ -1,62 +1,62 @@
-alien
-andy
-bounty hunter
-buzz
-buzz lightyear
-category:ine
-command
-cosmos
-creator:peter scott
-cruiser
-dc
-disney
-double negative
-dreadnought
-evil
-fantasy
-fighter
-framestore
-freighter
-fun
-galaxy
-girl
-good
-gun
-ilm
-jesse
-jet
-laser
-marvel
-mecha
-medium:digital 3d
-mpc
-mr. potato head
-pig
-pixar
-pizza planet
-planet
-plastic
-rocket
-sci fi
-shader
-sky
-slinky
-space
-spaceship
-star
-star trek
-star wars
-starfighter
-subreddit:imaginarydisney
-subreddit:imfandoms
-title:buzz lightyear’s spaceship
-title:buzz lightyear’s spaceship, pete scott - original artwork
-tomb
-toy
-toy story
-universe
-uploader:pjscottartist
-vehicle
-wing
-woody
-zurg
+alien,
+andy,
+bounty hunter,
+buzz,
+buzz lightyear,
+category:ine,
+command,
+cosmos,
+creator:peter scott,
+cruiser,
+dc,
+disney,
+double negative,
+dreadnought,
+evil,
+fantasy,
+fighter,
+framestore,
+freighter,
+fun,
+galaxy,
+girl,
+good,
+gun,
+ilm,
+jesse,
+jet,
+laser,
+marvel,
+mecha,
+medium:digital 3d,
+mpc,
+mr. potato head,
+pig,
+pixar,
+pizza planet,
+planet,
+plastic,
+rocket,
+sci fi,
+shader,
+sky,
+slinky,
+space,
+spaceship,
+star,
+star trek,
+star wars,
+starfighter,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+title:buzz lightyear’s spaceship,
+title:buzz lightyear’s spaceship, pete scott - original artwork,
+tomb,
+toy,
+toy story,
+universe,
+uploader:pjscottartist,
+vehicle,
+wing,
+woody,
+zurg,

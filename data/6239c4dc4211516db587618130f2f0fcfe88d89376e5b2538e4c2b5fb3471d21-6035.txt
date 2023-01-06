@@ -1,65 +1,65 @@
-action:open mouth
-alternate species
-ambiguous gender
-anthropomorphism
-black body
-black scales
-blue body
-blue feathers
-board:/v/
-bottomless
-brown body
-brown eyes
-brown feathers
-category:ine
-character:parappa
-claws
-clothed
-clothing
-clothing:hat
-clothing:headwear
-creator:cryptid-creations
-feathers
-feral
-furry
-gender:ambiguous
-headgear
-headwear
-humor
-medium:orange background
-medium:simple background
-meme:humor
-meta:2018
-meta:english text
-meta:url
-microphone
-open mouth
-orange background
-pun
-rating:safe
-scales
-series:parappa the rapper
-series:sony corporation
-series:sony interactive entertainment
-simple background
-singing
-site:4chan.org
-species:deinonychus
-species:dinosaur
-species:dromaeosaurid
-species:extinct
-species:reptile
-species:scalie
-species:theropod
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-tan body
-tan scales
-teeth
-text
-title:daily paint 1899# paraptor
-title:paraptor by piper thibodeau
-uploader:myrandall
-website:chan style imageboards
-website:e621
-year:2018
+action:open mouth,
+alternate species,
+ambiguous gender,
+anthropomorphism,
+black body,
+black scales,
+blue body,
+blue feathers,
+board:/v/,
+bottomless,
+brown body,
+brown eyes,
+brown feathers,
+category:ine,
+character:parappa,
+claws,
+clothed,
+clothing,
+clothing:hat,
+clothing:headwear,
+creator:cryptid-creations,
+feathers,
+feral,
+furry,
+gender:ambiguous,
+headgear,
+headwear,
+humor,
+medium:orange background,
+medium:simple background,
+meme:humor,
+meta:2018,
+meta:english text,
+meta:url,
+microphone,
+open mouth,
+orange background,
+pun,
+rating:safe,
+scales,
+series:parappa the rapper,
+series:sony corporation,
+series:sony interactive entertainment,
+simple background,
+singing,
+site:4chan.org,
+species:deinonychus,
+species:dinosaur,
+species:dromaeosaurid,
+species:extinct,
+species:reptile,
+species:scalie,
+species:theropod,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+tan body,
+tan scales,
+teeth,
+text,
+title:daily paint 1899# paraptor,
+title:paraptor by piper thibodeau,
+uploader:myrandall,
+website:chan style imageboards,
+website:e621,
+year:2018,

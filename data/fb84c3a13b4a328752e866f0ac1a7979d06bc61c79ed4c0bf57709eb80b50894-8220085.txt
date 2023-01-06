@@ -1,32 +1,32 @@
-a
-alcohol
-barrel
-built
-category:ine
-class:mammal
-creator:werethrope
-literally
-long
-mists
-monk
-muscular
-of
-old
-pandaria
-sake
-series:warcraft
-series:world of warcraft
-source:furaffinity.net
-species:canine
-species:canis
-species:wolf
-species:worgen
-stick
-studio:blizzard entertainment
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:the olden
-title:the olden by werethrope (real name not given)
-uploader:trustmeimleifericson
-with
-year:2013
+a,
+alcohol,
+barrel,
+built,
+category:ine,
+class:mammal,
+creator:werethrope,
+literally,
+long,
+mists,
+monk,
+muscular,
+of,
+old,
+pandaria,
+sake,
+series:warcraft,
+series:world of warcraft,
+source:furaffinity.net,
+species:canine,
+species:canis,
+species:wolf,
+species:worgen,
+stick,
+studio:blizzard entertainment,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:the olden,
+title:the olden by werethrope (real name not given),
+uploader:trustmeimleifericson,
+with,
+year:2013,

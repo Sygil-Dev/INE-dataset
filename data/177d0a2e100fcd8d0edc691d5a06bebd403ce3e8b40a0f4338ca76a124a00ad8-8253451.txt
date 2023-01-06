@@ -1,64 +1,64 @@
-2018
-artist:discordthege
-black body
-black feathers
-black_body
-black_feathers
-blue eyes
-blue hair
-blue_eyes
-blue_hair
-booru:e621
-category:ine
-character:fan character
-character:fan_character
-closed eyes
-copyright:my_little_pony
-creator:discordthege
-day
-detailed background
-detailed_background
-duo
-eyes closed
-eyes_closed
-feathered wings
-feathered_wings
-feathers
-female
-feral
-gender:female
-gender:male
-hair
-male
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:16:9
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:original character
-meta:widescreen
-original character
-outside
-purple hair
-purple_hair
-rating:safe
-series:my little pony
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"planetary skating" by discordthege
-title:planetary skating
-uploader:torvusil
-wings
-year:2018
+2018,
+artist:discordthege,
+black body,
+black feathers,
+black_body,
+black_feathers,
+blue eyes,
+blue hair,
+blue_eyes,
+blue_hair,
+booru:e621,
+category:ine,
+character:fan character,
+character:fan_character,
+closed eyes,
+copyright:my_little_pony,
+creator:discordthege,
+day,
+detailed background,
+detailed_background,
+duo,
+eyes closed,
+eyes_closed,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+feral,
+gender:female,
+gender:male,
+hair,
+male,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:16:9,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:original character,
+meta:widescreen,
+original character,
+outside,
+purple hair,
+purple_hair,
+rating:safe,
+series:my little pony,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"planetary skating" by discordthege,
+title:planetary skating,
+uploader:torvusil,
+wings,
+year:2018,

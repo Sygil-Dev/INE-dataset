@@ -1,23 +1,23 @@
-1boy
-1girl
-bird
-black hair
-blonde hair
-category:ine
-dress
-earrings
-facial mark
-flower
-formal
-gloves
-hair ornament
-hetero
-holding hands
-jewelry
-long hair
-moon
-rating:safe
-subreddit:imaginaryfashion
-subreddit:immeta
-title:labyrinth by india mayes
-uploader:lol33ta
+1boy,
+1girl,
+bird,
+black hair,
+blonde hair,
+category:ine,
+dress,
+earrings,
+facial mark,
+flower,
+formal,
+gloves,
+hair ornament,
+hetero,
+holding hands,
+jewelry,
+long hair,
+moon,
+rating:safe,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+title:labyrinth by india mayes,
+uploader:lol33ta,

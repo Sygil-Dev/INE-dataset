@@ -1,26 +1,26 @@
-artwork
-asian
-booru:wallhaven.cc
-category:ine
-colorful
-creator:jp nik
-drawing
-fall
-gender:female
-illustration
-japanese
-lamp
-medium:digital 2d
-medium:digital media
-portrait display
-stones
-stream
-subreddit:imaginarywaterfalls
-subreddit:imnature
-title:origin
-title:origin by jp nik
-torii
-trees
-uploader:valar_m0rghul1s
-water
-waterfall
+artwork,
+asian,
+booru:wallhaven.cc,
+category:ine,
+colorful,
+creator:jp nik,
+drawing,
+fall,
+gender:female,
+illustration,
+japanese,
+lamp,
+medium:digital 2d,
+medium:digital media,
+portrait display,
+stones,
+stream,
+subreddit:imaginarywaterfalls,
+subreddit:imnature,
+title:origin,
+title:origin by jp nik,
+torii,
+trees,
+uploader:valar_m0rghul1s,
+water,
+waterfall,

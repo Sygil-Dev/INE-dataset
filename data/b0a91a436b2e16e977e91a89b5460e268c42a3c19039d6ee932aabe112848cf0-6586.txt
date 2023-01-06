@@ -1,44 +1,44 @@
-booru:e621
-category:ine
-creator:telleryspyro
-female
-feral
-gen 1 pokemon
-gender:female
-kanto
-kantopokemon
-kantoregion
-medium:digital media
-medium:high resolution
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-nidorina
-nidorinapokemon
-nintendo
-nintendogamefreak
-pokemon
-pokemonnintendo
-rating:safe
-red eyes
-series:nintendo
-series:pokemon
-series:pokémon
-sitting
-snow
-snowing
-solo
-species:monster
-species:nidorina
-species:pokemon
-species:pokémon (species)
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"winter's wind" by telleryspyro
-title:winter's wind
-uploader:torvusil
-video games
-winter
-year:2017
+booru:e621,
+category:ine,
+creator:telleryspyro,
+female,
+feral,
+gen 1 pokemon,
+gender:female,
+kanto,
+kantopokemon,
+kantoregion,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+nidorina,
+nidorinapokemon,
+nintendo,
+nintendogamefreak,
+pokemon,
+pokemonnintendo,
+rating:safe,
+red eyes,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+sitting,
+snow,
+snowing,
+solo,
+species:monster,
+species:nidorina,
+species:pokemon,
+species:pokémon (species),
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"winter's wind" by telleryspyro,
+title:winter's wind,
+uploader:torvusil,
+video games,
+winter,
+year:2017,

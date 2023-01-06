@@ -1,31 +1,31 @@
-artist:arvalis
-category:ine
-claws
-copyright:alien_(franchise)
-creator:arvalis
-medium:digital media
-meta:2018
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-open mouth
-open_mouth
-rating:safe
-series:alien
-series:alien (franchise)
-solo
-species:alien
-species:xenomorph
-species:xenomorph queen
-species:xenomorph_queen
-subreddit:imaginaryaliens
-subreddit:imraces
-teeth
-title:alien queen -
-title:alien queen by rj palmer
-tongue
-uploader:evergreenlimabean
-year:2018
+artist:arvalis,
+category:ine,
+claws,
+copyright:alien_(franchise),
+creator:arvalis,
+medium:digital media,
+meta:2018,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+open mouth,
+open_mouth,
+rating:safe,
+series:alien,
+series:alien (franchise),
+solo,
+species:alien,
+species:xenomorph,
+species:xenomorph queen,
+species:xenomorph_queen,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+teeth,
+title:alien queen -,
+title:alien queen by rj palmer,
+tongue,
+uploader:evergreenlimabean,
+year:2018,

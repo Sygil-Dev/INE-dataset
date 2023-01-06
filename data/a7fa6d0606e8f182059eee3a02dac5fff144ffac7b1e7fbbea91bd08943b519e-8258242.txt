@@ -1,68 +1,68 @@
-1 male
-1boy
-alternate costume
-alternate_costume
-armor
-blackwatch genji
-blackwatch_genji
-booru:danbooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-booru:tbib
-category:ine
-character:blackwatch genji
-character:blackwatch genji (overwatch)
-character:genji (overwatch)
-character:genji shimada
-character:genji shimada (overwatch)
-character:shimada genji
-character:victor "cyborg" stone
-clothing:armor
-creator:raikoart
-creator:sean "raiko" tay
-creator:ライコ
-cyborg
-dark background
-dark_background
-gender:male
-genji
-genji_(overwatch)
-genre:science fiction
-glowing
-glowing eyes
-looking at viewer
-male focus
-mask
-medium:1:1 aspect ratio
-medium:dark background
-medium:focus on male character
-muscle
-muscles
-muscular
-ninja
-overwatch
-pectorals
-point of view
-pov
-raikoart
-rating:mature
-rating:safe
-red eyes
-scar
-series:overwatch
-solo
-studio:blizzard entertainment
-subreddit:imaginaryassassins
-subreddit:imaginaryoverwatch
-subreddit:imcharacters
-subreddit:imfandoms
-title:blackwatch genji
-title:blackwatch genji by raikoart
-title:blackwatch genji by sean tay
-uploader:bassoeg
-uploader:myrandall
-upper body
-upper_body
-オーバーウォッチ
-源氏
+1 male,
+1boy,
+alternate costume,
+alternate_costume,
+armor,
+blackwatch genji,
+blackwatch_genji,
+booru:danbooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+booru:tbib,
+category:ine,
+character:blackwatch genji,
+character:blackwatch genji (overwatch),
+character:genji (overwatch),
+character:genji shimada,
+character:genji shimada (overwatch),
+character:shimada genji,
+character:victor "cyborg" stone,
+clothing:armor,
+creator:raikoart,
+creator:sean "raiko" tay,
+creator:ライコ,
+cyborg,
+dark background,
+dark_background,
+gender:male,
+genji,
+genji_(overwatch),
+genre:science fiction,
+glowing,
+glowing eyes,
+looking at viewer,
+male focus,
+mask,
+medium:1:1 aspect ratio,
+medium:dark background,
+medium:focus on male character,
+muscle,
+muscles,
+muscular,
+ninja,
+overwatch,
+pectorals,
+point of view,
+pov,
+raikoart,
+rating:mature,
+rating:safe,
+red eyes,
+scar,
+series:overwatch,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryassassins,
+subreddit:imaginaryoverwatch,
+subreddit:imcharacters,
+subreddit:imfandoms,
+title:blackwatch genji,
+title:blackwatch genji by raikoart,
+title:blackwatch genji by sean tay,
+uploader:bassoeg,
+uploader:myrandall,
+upper body,
+upper_body,
+オーバーウォッチ,
+源氏,

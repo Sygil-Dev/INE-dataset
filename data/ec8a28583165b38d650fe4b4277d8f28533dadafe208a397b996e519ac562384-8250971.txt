@@ -1,44 +1,44 @@
-2018
-<3
-anthro
-artist:quvr
-beak
-category:ine
-cloud
-copyright:hasbro
-copyright:my_little_pony
-creator:quvr
-detailed background
-detailed_background
-female
-gender:female
-grass
-heart symbol
-hi res
-looking at viewer
-looking_at_viewer
-medium:1:1 aspect ratio
-medium:detailed background
-medium:high resolution
-meta:1:1
-meta:2018
-meta:hi res
-meta:hi_res
-outside
-plant
-pov
-quvr
-rating:safe
-series:hasbro
-series:my little pony
-solo
-species:avian
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"love" by quvr
-title:love
-tree
-uploader:torvusil
-wings
-year:2018
+2018,
+<3,
+anthro,
+artist:quvr,
+beak,
+category:ine,
+cloud,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:quvr,
+detailed background,
+detailed_background,
+female,
+gender:female,
+grass,
+heart symbol,
+hi res,
+looking at viewer,
+looking_at_viewer,
+medium:1:1 aspect ratio,
+medium:detailed background,
+medium:high resolution,
+meta:1:1,
+meta:2018,
+meta:hi res,
+meta:hi_res,
+outside,
+plant,
+pov,
+quvr,
+rating:safe,
+series:hasbro,
+series:my little pony,
+solo,
+species:avian,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"love" by quvr,
+title:love,
+tree,
+uploader:torvusil,
+wings,
+year:2018,

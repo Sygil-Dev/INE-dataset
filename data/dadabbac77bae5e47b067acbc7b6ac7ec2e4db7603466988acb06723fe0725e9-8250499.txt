@@ -1,19 +1,19 @@
-adventure
-bubblegum
-cake
-category:ine
-creator:toroyo
-creator:toviorogers
-fionna
-gender
-ice
-marshall
-monochromacorn
-subreddit:imaginaryooo
-subreddit:imfandoms
-swap
-time
-title:at: with fionna and cake
-title:with fionna....and cake!
-title:with fionna....and cake! by tovio rogers
-uploader:lol33ta
+adventure,
+bubblegum,
+cake,
+category:ine,
+creator:toroyo,
+creator:toviorogers,
+fionna,
+gender,
+ice,
+marshall,
+monochromacorn,
+subreddit:imaginaryooo,
+subreddit:imfandoms,
+swap,
+time,
+title:at: with fionna and cake,
+title:with fionna....and cake!,
+title:with fionna....and cake! by tovio rogers,
+uploader:lol33ta,

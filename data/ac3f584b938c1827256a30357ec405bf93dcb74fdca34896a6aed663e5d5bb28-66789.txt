@@ -1,37 +1,37 @@
-black hair
-booru:e621
-category:ine
-creator:natoli
-detailed background
-duo
-feral
-fur
-furry
-green hair
-hair
-horn
-horns
-medium:detailed background
-medium:digital media
-membrane (anatomy)
-membranous wings
-meta:2015
-meta:digital media (artwork)
-moon
-night
-outside
-rating:safe
-sky
-species:dragon
-species:furred dragon
-species:mythical
-species:scalie
-subreddit:imaginarylovers
-subreddit:imcharacters
-title:"blood moon" by natoli
-title:blood moon
-uploader:torvusil
-white body
-white fur
-wings
-year:2015
+black hair,
+booru:e621,
+category:ine,
+creator:natoli,
+detailed background,
+duo,
+feral,
+fur,
+furry,
+green hair,
+hair,
+horn,
+horns,
+medium:detailed background,
+medium:digital media,
+membrane (anatomy),
+membranous wings,
+meta:2015,
+meta:digital media (artwork),
+moon,
+night,
+outside,
+rating:safe,
+sky,
+species:dragon,
+species:furred dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+title:"blood moon" by natoli,
+title:blood moon,
+uploader:torvusil,
+white body,
+white fur,
+wings,
+year:2015,

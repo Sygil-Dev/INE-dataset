@@ -1,24 +1,24 @@
-apocalypse
-category:ine
-creator:diego gisbert llorens
-creator:diegogisbertllorens
-diegogisbertllorens
-infestation
-invasion
-landscape
-laststand
-lictor
-medium:digital 2d
-planetary
-series:warhammer 40,000
-space marine
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-swarm
-title:the great devourer
-title:the great devourer by diego gisbert llorens
-tyranids
-uploader:adverserius
-venomthrope
-warhammer
+apocalypse,
+category:ine,
+creator:diego gisbert llorens,
+creator:diegogisbertllorens,
+diegogisbertllorens,
+infestation,
+invasion,
+landscape,
+laststand,
+lictor,
+medium:digital 2d,
+planetary,
+series:warhammer 40,000,
+space marine,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+swarm,
+title:the great devourer,
+title:the great devourer by diego gisbert llorens,
+tyranids,
+uploader:adverserius,
+venomthrope,
+warhammer,

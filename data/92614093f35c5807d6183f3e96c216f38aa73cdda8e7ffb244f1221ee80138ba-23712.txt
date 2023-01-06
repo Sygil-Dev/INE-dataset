@@ -1,27 +1,27 @@
-booru:sankaku channel
-character:katsuki yuuri
-creator:sakimichan
-gender:male
-male
-male only
-medium:2d art
-medium:fanart from deviantart
-medium:mobile wallpaper
-medium:patreon reward
-medium:phone wallpaper
-medium:wallpaper
-meta:paid reward
-meta:patreon reward
-mobile wallpaper
-rating:safe
-series:deviantart
-series:yuri!!! on ice
-site:deviant art
-site:deviantart
-site:patreon
-site:yiff.party
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-title:yuri katsuki eros
-title:yuri katsuki eros, by sakimichan
-uploader:belledame-sans-serif
+booru:sankaku channel,
+character:katsuki yuuri,
+creator:sakimichan,
+gender:male,
+male,
+male only,
+medium:2d art,
+medium:fanart from deviantart,
+medium:mobile wallpaper,
+medium:patreon reward,
+medium:phone wallpaper,
+medium:wallpaper,
+meta:paid reward,
+meta:patreon reward,
+mobile wallpaper,
+rating:safe,
+series:deviantart,
+series:yuri!!! on ice,
+site:deviant art,
+site:deviantart,
+site:patreon,
+site:yiff.party,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+title:yuri katsuki eros,
+title:yuri katsuki eros, by sakimichan,
+uploader:belledame-sans-serif,

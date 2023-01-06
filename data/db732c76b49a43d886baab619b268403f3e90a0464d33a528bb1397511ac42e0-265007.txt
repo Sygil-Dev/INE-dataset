@@ -1,58 +1,58 @@
-action:looking at viewer
-ambiguous_gender
-angry
-anzka
-artist:anzka
-board:/v/
-bodypart:green eyes
-bodypart:hair
-bodypart:teeth
-category:ine
-character:li li stormstout
-character:li_li_stormstout
-clenched teeth
-clenched_teeth
-clothing
-clothing:hair tie
-copyright:blizzard_entertainment
-copyright:warcraft
-creator:anzka
-emotion:anger
-female
-fist
-furry
-gender:ambiguous
-gender:female
-gender:male
-green eyes
-green_eyes
-hair
-looking at viewer
-looking_at_viewer
-male:1
-meta:tagme
-pandaren
-ponytail
-pov
-rating:safe
-series:warcraft
-series:world of warcraft
-site:4chan.org
-solo
-species:dragon
-species:mammal
-species:mythical
-species:pandaren
-species:scalie
-species:ursid
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-teeth
-tied hair
-title:li li stormstout by anzka nguyen
-uploader:lol33ta
-ursid
-video games
-video_games
-website:chan style imageboards
+action:looking at viewer,
+ambiguous_gender,
+angry,
+anzka,
+artist:anzka,
+board:/v/,
+bodypart:green eyes,
+bodypart:hair,
+bodypart:teeth,
+category:ine,
+character:li li stormstout,
+character:li_li_stormstout,
+clenched teeth,
+clenched_teeth,
+clothing,
+clothing:hair tie,
+copyright:blizzard_entertainment,
+copyright:warcraft,
+creator:anzka,
+emotion:anger,
+female,
+fist,
+furry,
+gender:ambiguous,
+gender:female,
+gender:male,
+green eyes,
+green_eyes,
+hair,
+looking at viewer,
+looking_at_viewer,
+male:1,
+meta:tagme,
+pandaren,
+ponytail,
+pov,
+rating:safe,
+series:warcraft,
+series:world of warcraft,
+site:4chan.org,
+solo,
+species:dragon,
+species:mammal,
+species:mythical,
+species:pandaren,
+species:scalie,
+species:ursid,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+teeth,
+tied hair,
+title:li li stormstout by anzka nguyen,
+uploader:lol33ta,
+ursid,
+video games,
+video_games,
+website:chan style imageboards,

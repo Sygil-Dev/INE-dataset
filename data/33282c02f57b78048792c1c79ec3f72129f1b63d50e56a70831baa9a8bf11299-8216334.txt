@@ -1,46 +1,46 @@
-2017
-booru:e621
-category:ine
-character:daybreaker (mlp)
-character:princess celestia
-creator:begasuslu
-creator:begasustiube
-crown
-cutie mark
-duo
-feathered wings
-feathers
-female
-feral
-gender:female
-genre:fantasy
-hair
-horn
-horns
-medium:high resolution
-meta:2017
-meta:hi res
-multicolored hair
-princess
-purple eyes
-rating:safe
-royalty
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"fall day" by 兲馬之翼 (begasuslu)
-title:fall day[pony/horse]
-uploader:torvusil
-white body
-white feathers
-wings
-year:2017
+2017,
+booru:e621,
+category:ine,
+character:daybreaker (mlp),
+character:princess celestia,
+creator:begasuslu,
+creator:begasustiube,
+crown,
+cutie mark,
+duo,
+feathered wings,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+horn,
+horns,
+medium:high resolution,
+meta:2017,
+meta:hi res,
+multicolored hair,
+princess,
+purple eyes,
+rating:safe,
+royalty,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"fall day" by 兲馬之翼 (begasuslu),
+title:fall day[pony/horse],
+uploader:torvusil,
+white body,
+white feathers,
+wings,
+year:2017,

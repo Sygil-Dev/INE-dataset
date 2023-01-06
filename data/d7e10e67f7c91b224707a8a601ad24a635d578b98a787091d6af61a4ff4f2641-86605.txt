@@ -1,49 +1,49 @@
-2014
-ambiguous gender
-artwork:digital media
-bat
-beak
-blue eyes
-booru:e621
-category:ine
-commission
-creator:alradeck
-creator:firefeathers
-dinosaur
-family
-feral
-forest
-furry
-gallodactylus
-gender:ambiguous
-ish
-long mouth
-medium:digital media
-membrane (anatomy)
-membranous wings
-meta:2014
-meta:digital media (artwork)
-open mouth
-plant
-prehistoric
-pterodactyl
-rating:safe
-sharp teeth
-solo
-species:avian
-species:dinosaur
-species:extinct
-species:reptile
-species:scalie
-speedpaint
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-teeth
-thing
-title:thesi
-title:thesi by a.l. radeck
-title:thesi speedpaint
-tree
-uploader:myrandall
-wings
-year:2014
+2014,
+ambiguous gender,
+artwork:digital media,
+bat,
+beak,
+blue eyes,
+booru:e621,
+category:ine,
+commission,
+creator:alradeck,
+creator:firefeathers,
+dinosaur,
+family,
+feral,
+forest,
+furry,
+gallodactylus,
+gender:ambiguous,
+ish,
+long mouth,
+medium:digital media,
+membrane (anatomy),
+membranous wings,
+meta:2014,
+meta:digital media (artwork),
+open mouth,
+plant,
+prehistoric,
+pterodactyl,
+rating:safe,
+sharp teeth,
+solo,
+species:avian,
+species:dinosaur,
+species:extinct,
+species:reptile,
+species:scalie,
+speedpaint,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+teeth,
+thing,
+title:thesi,
+title:thesi by a.l. radeck,
+title:thesi speedpaint,
+tree,
+uploader:myrandall,
+wings,
+year:2014,

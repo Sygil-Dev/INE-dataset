@@ -1,20 +1,20 @@
-arkham horror
-card art
-card game
-category:ine
-creator:aurore folny
-cthulhu
-fantasy flight games
-ffg
-gender:female
-lcg
-medium:digital 2d
-subreddit:imaginarybooks
-subreddit:imaginarywitches
-subreddit:immeta
-title:olive mcbride
-title:olive mcbride by aurore folny
-title:olive mcbride, by aurore folny
-uploader:lol33ta
-uploader:net-diver
-uploader:sylvyrfyre
+arkham horror,
+card art,
+card game,
+category:ine,
+creator:aurore folny,
+cthulhu,
+fantasy flight games,
+ffg,
+gender:female,
+lcg,
+medium:digital 2d,
+subreddit:imaginarybooks,
+subreddit:imaginarywitches,
+subreddit:immeta,
+title:olive mcbride,
+title:olive mcbride by aurore folny,
+title:olive mcbride, by aurore folny,
+uploader:lol33ta,
+uploader:net-diver,
+uploader:sylvyrfyre,

@@ -1,42 +1,42 @@
-1 male
-1boy
-category:ine
-character:hatake kakashi
-clothing:gloves
-creator:lasahido
-fingerless gloves
-forehead protector
-from side
-gender:male
-gloves
-half mask
-heterochromia
-konohagakure symbol
-kuji-in
-looking at viewer
-male focus
-mask
-meta:commentary request
-meta:photoshop (medium)
-pov
-rating:mature
-rating:safe
-realistic
-red eyes
-scar
-scar across eye
-scar on face
-series:naruto
-series:naruto (series)
-serious
-sharingan
-short hair
-silver hair
-solo
-spiked hair
-subreddit:imaginaryninjas
-subreddit:imcharacters
-title:hatake kakashi
-title:hatake kakashi by lius lasahido
-upper body
-vest
+1 male,
+1boy,
+category:ine,
+character:hatake kakashi,
+clothing:gloves,
+creator:lasahido,
+fingerless gloves,
+forehead protector,
+from side,
+gender:male,
+gloves,
+half mask,
+heterochromia,
+konohagakure symbol,
+kuji-in,
+looking at viewer,
+male focus,
+mask,
+meta:commentary request,
+meta:photoshop (medium),
+pov,
+rating:mature,
+rating:safe,
+realistic,
+red eyes,
+scar,
+scar across eye,
+scar on face,
+series:naruto,
+series:naruto (series),
+serious,
+sharingan,
+short hair,
+silver hair,
+solo,
+spiked hair,
+subreddit:imaginaryninjas,
+subreddit:imcharacters,
+title:hatake kakashi,
+title:hatake kakashi by lius lasahido,
+upper body,
+vest,

@@ -1,24 +1,24 @@
-1920
-art
-battle of warsaw
-category:ine
-cavalry
-concept
-concept art
-creator:jakub rozalski
-illustration
-mech
-medium:concept art
-medium:digital 2d
-painting
-scythe
-subreddit:imaginarybattlefields
-subreddit:imaginaryhistory
-subreddit:imlandscapes
-subreddit:immeta
-title:1920 - final charge
-title:1920 - final charge by jakub rozalski
-title:"the final charge" (alternate version of the battle of warsaw) by jakub rozalski.
-uploader:crowe410
-uploader:ethan_kahn
-war
+1920,
+art,
+battle of warsaw,
+category:ine,
+cavalry,
+concept,
+concept art,
+creator:jakub rozalski,
+illustration,
+mech,
+medium:concept art,
+medium:digital 2d,
+painting,
+scythe,
+subreddit:imaginarybattlefields,
+subreddit:imaginaryhistory,
+subreddit:imlandscapes,
+subreddit:immeta,
+title:1920 - final charge,
+title:1920 - final charge by jakub rozalski,
+title:"the final charge" (alternate version of the battle of warsaw) by jakub rozalski.,
+uploader:crowe410,
+uploader:ethan_kahn,
+war,

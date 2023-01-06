@@ -1,27 +1,27 @@
-2d
-art
-category:ine
-concept
-creator:ismail inceoglu
-daily
-digital
-environment
-fantasyart
-forest
-gender:female
-magic
-medium:traditional 3d
-real person
-scenery
-sign
-species:canine
-species:dog
-species:mammal
-subreddit:imaginaryarchers
-subreddit:imaginarytrees
-subreddit:imcharacters
-subreddit:imnature
-title:a sign
-title:a sign by ismail inceoglu
-uploader:davekayaus
-uploader:myrandall
+2d,
+art,
+category:ine,
+concept,
+creator:ismail inceoglu,
+daily,
+digital,
+environment,
+fantasyart,
+forest,
+gender:female,
+magic,
+medium:traditional 3d,
+real person,
+scenery,
+sign,
+species:canine,
+species:dog,
+species:mammal,
+subreddit:imaginaryarchers,
+subreddit:imaginarytrees,
+subreddit:imcharacters,
+subreddit:imnature,
+title:a sign,
+title:a sign by ismail inceoglu,
+uploader:davekayaus,
+uploader:myrandall,

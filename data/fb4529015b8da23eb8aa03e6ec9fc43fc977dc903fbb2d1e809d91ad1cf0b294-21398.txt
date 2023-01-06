@@ -1,23 +1,23 @@
-blade
-blood
-bodily fluids
-category:ine
-conceptart
-costume
-creator:anastasia bulgakova
-cruelty
-fanart
-medium:digital 2d
-mercury
-monster
-movie
-species:undead
-species:vampire
-subreddit:imaginaryfashion
-subreddit:immeta
-suit
-sword
-title:mercury
-title:mercury by anastasia bulgakova
-uploader:drunkindragon
-weapon
+blade,
+blood,
+bodily fluids,
+category:ine,
+conceptart,
+costume,
+creator:anastasia bulgakova,
+cruelty,
+fanart,
+medium:digital 2d,
+mercury,
+monster,
+movie,
+species:undead,
+species:vampire,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+suit,
+sword,
+title:mercury,
+title:mercury by anastasia bulgakova,
+uploader:drunkindragon,
+weapon,

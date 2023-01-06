@@ -1,42 +1,42 @@
-booru:e621
-category:ine
-character:spike
-character:spike (mlp)
-claws
-creator:imalou
-duo
-feral
-fire
-furry
-gender:male
-genre:fantasy
-glowing
-glowing eyes
-green eyes
-green theme
-male
-medium:high resolution
-meta:2017
-meta:green theme
-meta:hi res
-open mouth
-pupils
-purple body
-purple scales
-rating:safe
-scales
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-slit pupils
-species:dragon
-species:mythical
-species:scalie
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:emerald cavern
-title:emerald cavern by lèa d. (imalou)
-uploader:sparroew
-year:2017
+booru:e621,
+category:ine,
+character:spike,
+character:spike (mlp),
+claws,
+creator:imalou,
+duo,
+feral,
+fire,
+furry,
+gender:male,
+genre:fantasy,
+glowing,
+glowing eyes,
+green eyes,
+green theme,
+male,
+medium:high resolution,
+meta:2017,
+meta:green theme,
+meta:hi res,
+open mouth,
+pupils,
+purple body,
+purple scales,
+rating:safe,
+scales,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+slit pupils,
+species:dragon,
+species:mythical,
+species:scalie,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:emerald cavern,
+title:emerald cavern by lèa d. (imalou),
+uploader:sparroew,
+year:2017,

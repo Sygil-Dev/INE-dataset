@@ -1,86 +1,86 @@
-1 female
-1girl
-adjusting eyewear
-arms up
-artist:fahmi fauzi
-autumn leaves
-bangs
-beak
-beast
-bird
-black eyes
-black hair
-black jacket
-black kimono
-blunt bangs
-blurry
-book
-bookshelf
-brown kimono
-category:ine
-clothing:earrings
-clothing:headwear
-copyright:original
-creator:fahmi fauzi
-dangle earrings
-day
-depth of field
-desk
-earrings
-eyewear
-fahmi fauzi
-fantasy
-feathers
-flower
-focused
-gender:female
-genre:fantasy
-glasses
-glowing
-hanging earrings
-hat
-holding
-holding book
-holding object
-indoors
-jacket
-japanese clothes
-jewelry
-kimono
-leaf
-long hair
-looking down
-meta:commentary request
-open book
-parted lips
-personification
-pink flower
-plant
-rating:mature
-rating:safe
-sash
-science
-series:original
-skull
-smile
-solo
-species:avian
-standing
-student
-subreddit:imaginarybestof
-subreddit:imaginaryscholars
-subreddit:imcharacters
-subreddit:immeta
-sunlight
-talons
-teacher
-test tube
-title:[/r/imaginaryscholars] the experiments by fahmi fauzi
-title:the experiments by fahmi fauzi
-uploader:lol33ta
-upper body
-white bird
-wide sleeves
-wide-eyed
-window
-witch hat
+1 female,
+1girl,
+adjusting eyewear,
+arms up,
+artist:fahmi fauzi,
+autumn leaves,
+bangs,
+beak,
+beast,
+bird,
+black eyes,
+black hair,
+black jacket,
+black kimono,
+blunt bangs,
+blurry,
+book,
+bookshelf,
+brown kimono,
+category:ine,
+clothing:earrings,
+clothing:headwear,
+copyright:original,
+creator:fahmi fauzi,
+dangle earrings,
+day,
+depth of field,
+desk,
+earrings,
+eyewear,
+fahmi fauzi,
+fantasy,
+feathers,
+flower,
+focused,
+gender:female,
+genre:fantasy,
+glasses,
+glowing,
+hanging earrings,
+hat,
+holding,
+holding book,
+holding object,
+indoors,
+jacket,
+japanese clothes,
+jewelry,
+kimono,
+leaf,
+long hair,
+looking down,
+meta:commentary request,
+open book,
+parted lips,
+personification,
+pink flower,
+plant,
+rating:mature,
+rating:safe,
+sash,
+science,
+series:original,
+skull,
+smile,
+solo,
+species:avian,
+standing,
+student,
+subreddit:imaginarybestof,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+subreddit:immeta,
+sunlight,
+talons,
+teacher,
+test tube,
+title:[/r/imaginaryscholars] the experiments by fahmi fauzi,
+title:the experiments by fahmi fauzi,
+uploader:lol33ta,
+upper body,
+white bird,
+wide sleeves,
+wide-eyed,
+window,
+witch hat,

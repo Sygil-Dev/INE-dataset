@@ -1,61 +1,61 @@
-1 female
-1 male
-1boy
-1girl
-buzz cut
-buzz_cut
-category:ine
-chalkboard
-character:commander shepard
-character:commander shepard (female)
-character:commander shepard (male)
-character:jennifer hale
-character:robert lutece
-character:rosalind lutece
-charlie wilcher
-charlie_wilcher
-commander_shepard_(female)
-commander_shepard_(male)
-commentary
-creator:charlie wilcher
-creator:charliewilcher
-dual persona
-facial hair
-firearm
-gender:female
-gender:male
-gun
-hand on hip
-handgun
-jennifer hale
-jennifer_hale
-mass_effect_3
-medium:parody
-medium:sign
-meta:commentary
-meta:english commentary
-parody
-pistol
-power armor
-rating:mature
-rating:s
-rating:safe
-red hair
-robert_lutece
-rosalind_lutece
-seiyuu connection
-seiyuu_connection
-series:bioshock
-series:bioshock infinite
-series:mass effect
-series:mass effect 3
-short hair
-sign
-stubble
-subreddit:imaginarymasseffect
-subreddit:imfandoms
-title:the shepard siblings
-title:the shepard siblings by charlie wilcher
-tray
-uploader:valar_m0rghul1s
-weapon
+1 female,
+1 male,
+1boy,
+1girl,
+buzz cut,
+buzz_cut,
+category:ine,
+chalkboard,
+character:commander shepard,
+character:commander shepard (female),
+character:commander shepard (male),
+character:jennifer hale,
+character:robert lutece,
+character:rosalind lutece,
+charlie wilcher,
+charlie_wilcher,
+commander_shepard_(female),
+commander_shepard_(male),
+commentary,
+creator:charlie wilcher,
+creator:charliewilcher,
+dual persona,
+facial hair,
+firearm,
+gender:female,
+gender:male,
+gun,
+hand on hip,
+handgun,
+jennifer hale,
+jennifer_hale,
+mass_effect_3,
+medium:parody,
+medium:sign,
+meta:commentary,
+meta:english commentary,
+parody,
+pistol,
+power armor,
+rating:mature,
+rating:s,
+rating:safe,
+red hair,
+robert_lutece,
+rosalind_lutece,
+seiyuu connection,
+seiyuu_connection,
+series:bioshock,
+series:bioshock infinite,
+series:mass effect,
+series:mass effect 3,
+short hair,
+sign,
+stubble,
+subreddit:imaginarymasseffect,
+subreddit:imfandoms,
+title:the shepard siblings,
+title:the shepard siblings by charlie wilcher,
+tray,
+uploader:valar_m0rghul1s,
+weapon,

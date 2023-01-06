@@ -1,53 +1,53 @@
-2019
-artist:telleryspyro
-blue eyes
-blue_eyes
-bluedragon
-category:ine
-character:cirrus amnera
-character:cirrus_amnera
-copyright:heralds_of_the_avirentes
-creator:telleryspyro
-detailed background
-detailed_background
-dragon
-dragonart
-dragonartwork
-dragons
-fantasy
-fantasycharacter
-fantasycreature
-feral
-furry
-hi res
-high resolution
-horn
-horns
-looking at viewer
-looking_at_viewer
-medium:detailed background
-medium:high resolution
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:hi res
-meta:hi_res
-pov
-rating:safe
-scales
-series:heralds of the avirentes
-solo
-species:dragon
-species:mythical
-species:scalie
-species:wyvern
-subreddit:imaginarydragons
-subreddit:immonsters
-telleryspyro
-title:"guardian of silence" by eugene (telleryspyro)
-title:guardian of silence
-uploader:torvusil
-wings
-wyvern
+2019,
+artist:telleryspyro,
+blue eyes,
+blue_eyes,
+bluedragon,
+category:ine,
+character:cirrus amnera,
+character:cirrus_amnera,
+copyright:heralds_of_the_avirentes,
+creator:telleryspyro,
+detailed background,
+detailed_background,
+dragon,
+dragonart,
+dragonartwork,
+dragons,
+fantasy,
+fantasycharacter,
+fantasycreature,
+feral,
+furry,
+hi res,
+high resolution,
+horn,
+horns,
+looking at viewer,
+looking_at_viewer,
+medium:detailed background,
+medium:high resolution,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:hi res,
+meta:hi_res,
+pov,
+rating:safe,
+scales,
+series:heralds of the avirentes,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+species:wyvern,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+telleryspyro,
+title:"guardian of silence" by eugene (telleryspyro),
+title:guardian of silence,
+uploader:torvusil,
+wings,
+wyvern,

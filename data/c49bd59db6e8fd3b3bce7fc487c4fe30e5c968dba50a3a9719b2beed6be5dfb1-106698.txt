@@ -1,53 +1,53 @@
-2018
-artist:vanillaghosties
-category:ine
-character:sunset shimmer
-character:sunset shimmer (eg)
-character:sunset_shimmer_(eg)
-clothed
-clothing
-copyright:equestria_girls
-copyright:hasbro
-copyright:my_little_pony
-creator:vanillaghosties
-curtains
-detailed background
-detailed_background
-female
-gender:female
-hi res
-horn
-horns
-indoors
-inside
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:2018
-meta:absurd res
-meta:absurd_res
-meta:hi res
-meta:hi_res
-petals
-plant
-potted plant
-potted_plant
-rating:safe
-series:equestria girls
-series:hasbro
-series:my little pony
-series:my little pony equestria girls
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"style and sophistication" by vanillaghosties
-title:style and sophistication
-uploader:torvusil
-year:2018
+2018,
+artist:vanillaghosties,
+category:ine,
+character:sunset shimmer,
+character:sunset shimmer (eg),
+character:sunset_shimmer_(eg),
+clothed,
+clothing,
+copyright:equestria_girls,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:vanillaghosties,
+curtains,
+detailed background,
+detailed_background,
+female,
+gender:female,
+hi res,
+horn,
+horns,
+indoors,
+inside,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:2018,
+meta:absurd res,
+meta:absurd_res,
+meta:hi res,
+meta:hi_res,
+petals,
+plant,
+potted plant,
+potted_plant,
+rating:safe,
+series:equestria girls,
+series:hasbro,
+series:my little pony,
+series:my little pony equestria girls,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"style and sophistication" by vanillaghosties,
+title:style and sophistication,
+uploader:torvusil,
+year:2018,

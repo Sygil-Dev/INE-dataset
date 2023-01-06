@@ -1,32 +1,32 @@
-artwork
-butterfly
-category:ine
-clothing:footwear
-clothing:jacket
-clothing:legwear
-clothing:pants
-clothing:shoes
-creator:fahmi fauzi
-fahmi fauzi
-footwear
-gender:female
-illustration
-medium:digital media
-noai
-original characters
-pet
-portrait display
-smiling
-sneakers
-species:canine
-species:dog
-species:mammal
-stairs
-stomach
-subreddit:imaginarypets
-subreddit:immeta
-title:agnes
-title:agnes by fahmi fauzi
-uploader:net-diver
-walking
-white hair
+artwork,
+butterfly,
+category:ine,
+clothing:footwear,
+clothing:jacket,
+clothing:legwear,
+clothing:pants,
+clothing:shoes,
+creator:fahmi fauzi,
+fahmi fauzi,
+footwear,
+gender:female,
+illustration,
+medium:digital media,
+noai,
+original characters,
+pet,
+portrait display,
+smiling,
+sneakers,
+species:canine,
+species:dog,
+species:mammal,
+stairs,
+stomach,
+subreddit:imaginarypets,
+subreddit:immeta,
+title:agnes,
+title:agnes by fahmi fauzi,
+uploader:net-diver,
+walking,
+white hair,

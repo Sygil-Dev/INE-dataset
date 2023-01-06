@@ -1,97 +1,97 @@
-1 female
-1girl
-animal
-ankle bell
-anklet
-backlighting
-bag
-barefoot
-bell
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-braid
-braiding hair
-brown bag
-brown hair
-category:ine
-caucasian
-clavicle
-closed eyes
-closed mouth
-clothing:dress
-clothing:white dress
-collarbone
-creator:ian perks
-creator:ianperks
-dappled sunlight
-day
-dress
-eyes closed
-feet
-female
-forehead
-forest
-fox
-full body
-gender:female
-grass
-hairdressing
-holding
-holding object
-holding staff
-ian perks
-ianperks
-jewelry
-light particles
-light smile
-lips
-long hair
-long sleeves
-looking at animal
-medium dress
-medium:backlighting
-medium:realistic
-medium:sepia
-meta:commentary
-meta:english commentary
-nature
-no lineart
-non-asian
-nose
-on grass
-outdoors
-outside
-path
-paws
-rating:mature
-rating:safe
-realistic
-road
-sash
-satchel
-sepia
-series:original
-shepherd
-shepherd's crook
-smile
-solo
-species:canine
-species:fox
-species:mammal
-staff
-subreddit:imaginaryhumans
-subreddit:imaginarypets
-subreddit:immeta
-subreddit:imraces
-sunlight
-tied hair
-title:shepherdess
-title:shepherdess by ian perks
-too many foxes
-tree
-uploader:net-diver
-walking
-white dress
+1 female,
+1girl,
+animal,
+ankle bell,
+anklet,
+backlighting,
+bag,
+barefoot,
+bell,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+braid,
+braiding hair,
+brown bag,
+brown hair,
+category:ine,
+caucasian,
+clavicle,
+closed eyes,
+closed mouth,
+clothing:dress,
+clothing:white dress,
+collarbone,
+creator:ian perks,
+creator:ianperks,
+dappled sunlight,
+day,
+dress,
+eyes closed,
+feet,
+female,
+forehead,
+forest,
+fox,
+full body,
+gender:female,
+grass,
+hairdressing,
+holding,
+holding object,
+holding staff,
+ian perks,
+ianperks,
+jewelry,
+light particles,
+light smile,
+lips,
+long hair,
+long sleeves,
+looking at animal,
+medium dress,
+medium:backlighting,
+medium:realistic,
+medium:sepia,
+meta:commentary,
+meta:english commentary,
+nature,
+no lineart,
+non-asian,
+nose,
+on grass,
+outdoors,
+outside,
+path,
+paws,
+rating:mature,
+rating:safe,
+realistic,
+road,
+sash,
+satchel,
+sepia,
+series:original,
+shepherd,
+shepherd's crook,
+smile,
+solo,
+species:canine,
+species:fox,
+species:mammal,
+staff,
+subreddit:imaginaryhumans,
+subreddit:imaginarypets,
+subreddit:immeta,
+subreddit:imraces,
+sunlight,
+tied hair,
+title:shepherdess,
+title:shepherdess by ian perks,
+too many foxes,
+tree,
+uploader:net-diver,
+walking,
+white dress,

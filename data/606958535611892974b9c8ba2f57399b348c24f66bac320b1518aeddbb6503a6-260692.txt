@@ -1,31 +1,31 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-basket
-canid
-canine
-category:ine
-chick
-copyright:easter
-creator:cryptid-creations
-egg
-feral
-fox
-holidays
-mammal
-rating:safe
-series:easter
-simple background
-simple_background
-species:canid
-species:canine
-species:chick
-species:fox
-species:mammal
-subreddit:imaginaryaww
-subreddit:immeta
-title:baskit by piper thibodeau
-title:daily paint 1957# baskit
-uploader:myrandall
-white background
-white_background
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+basket,
+canid,
+canine,
+category:ine,
+chick,
+copyright:easter,
+creator:cryptid-creations,
+egg,
+feral,
+fox,
+holidays,
+mammal,
+rating:safe,
+series:easter,
+simple background,
+simple_background,
+species:canid,
+species:canine,
+species:chick,
+species:fox,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:baskit by piper thibodeau,
+title:daily paint 1957# baskit,
+uploader:myrandall,
+white background,
+white_background,

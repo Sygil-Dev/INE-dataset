@@ -1,33 +1,33 @@
-beach
-building
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-creator:jjcanvas
-dusk
-evening
-gradient sky
-horizon
-house
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginarydeserts
-subreddit:imnature
-sun
-sunset
-title:the curse of fire
-title:the curse of fire by jorge jacinto
-tower
-twilight
-uploader:fireflycities
-water
+beach,
+building,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+creator:jjcanvas,
+dusk,
+evening,
+gradient sky,
+horizon,
+house,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+sun,
+sunset,
+title:the curse of fire,
+title:the curse of fire by jorge jacinto,
+tower,
+twilight,
+uploader:fireflycities,
+water,

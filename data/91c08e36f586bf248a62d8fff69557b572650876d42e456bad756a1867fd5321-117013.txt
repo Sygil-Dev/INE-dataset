@@ -1,23 +1,23 @@
-anthro
-blood
-category:ine
-creator:doom_the_wolf
-creator:doomthewolf
-demon_girl
-digital
-gore
-hatred
-hybrid
-language:japanese
-oc
-page:83
-sisterhood_of_shadows
-source:furaffinity.net
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:(artist) doomthewolf collection
-title:were-hatred
-title:were-hatred - by doom_the_wolf
-uploader:bleeding_choker
-website:exhentai
-werewolf
+anthro,
+blood,
+category:ine,
+creator:doom_the_wolf,
+creator:doomthewolf,
+demon_girl,
+digital,
+gore,
+hatred,
+hybrid,
+language:japanese,
+oc,
+page:83,
+sisterhood_of_shadows,
+source:furaffinity.net,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:(artist) doomthewolf collection,
+title:were-hatred,
+title:were-hatred - by doom_the_wolf,
+uploader:bleeding_choker,
+website:exhentai,
+werewolf,

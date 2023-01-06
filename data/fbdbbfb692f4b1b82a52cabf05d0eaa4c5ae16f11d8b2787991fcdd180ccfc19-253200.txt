@@ -1,21 +1,21 @@
-category:ine
-creator:bram sels
-environment
-gibbons
-lush
-medium:digital 2d
-monkeys
-monkeysareawesome
-nature
-rocks
-subreddit:imaginarywaterfalls
-subreddit:imaginarywildlands
-subreddit:imlandscapes
-subreddit:imnature
-title:gibbon rock
-title:gibbon rock by bram sels
-title:gibbon's rock by bram sels
-uploader:faeryknight
-uploader:lol33ta
-water
-waterfalls
+category:ine,
+creator:bram sels,
+environment,
+gibbons,
+lush,
+medium:digital 2d,
+monkeys,
+monkeysareawesome,
+nature,
+rocks,
+subreddit:imaginarywaterfalls,
+subreddit:imaginarywildlands,
+subreddit:imlandscapes,
+subreddit:imnature,
+title:gibbon rock,
+title:gibbon rock by bram sels,
+title:gibbon's rock by bram sels,
+uploader:faeryknight,
+uploader:lol33ta,
+water,
+waterfalls,

@@ -1,84 +1,84 @@
-1 female
-1girl
-artist:raikoart
-bent knees
-bloodborne
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-boots
-cape
-category:ine
-character:lady maria of the astral clocktower
-clothing:boots
-clothing:cape
-clothing:footwear
-clothing:gloves
-clothing:hair tie
-clothing:hat
-clothing:headwear
-commentary
-copyright:bloodborne
-copyright:the old hunters
-creator:raikoart
-creator:sean "raiko" tay
-creator:ライコ
-dual wielding
-english commentary
-female
-footwear
-full body
-gender:female
-gloves
-hat
-hat feather
-holding
-holding object
-holding weapon
-jumping
-lady
-lady maria
-lady maria of the astral clocktower
-lady_maria
-long hair
-looking at viewer
-maria
-medium:artist name
-medium:digital 2d
-medium:fanart from deviantart
-medium:text
-meta:artstation sample
-meta:commentary
-meta:english commentary
-meta:image sample
-meta:potential duplicate
-point of view
-ponytail
-pov
-rating:mature
-rating:s
-rating:safe
-series:bloodborne
-series:bloodborne: the old hunters
-series:the old hunters
-site:deviantart
-solo
-subreddit:imaginarygaming
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imfandoms
-sword
-tied hair
-title:lady maria
-title:lady maria by nana nakano
-title:lady maria by sean (raikoart)
-tricorne
-uploader:myrandall
-uploader:net-diver
-weapon
-white hair
-なにこれかっこいい
-時計塔のマリア
+1 female,
+1girl,
+artist:raikoart,
+bent knees,
+bloodborne,
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+boots,
+cape,
+category:ine,
+character:lady maria of the astral clocktower,
+clothing:boots,
+clothing:cape,
+clothing:footwear,
+clothing:gloves,
+clothing:hair tie,
+clothing:hat,
+clothing:headwear,
+commentary,
+copyright:bloodborne,
+copyright:the old hunters,
+creator:raikoart,
+creator:sean "raiko" tay,
+creator:ライコ,
+dual wielding,
+english commentary,
+female,
+footwear,
+full body,
+gender:female,
+gloves,
+hat,
+hat feather,
+holding,
+holding object,
+holding weapon,
+jumping,
+lady,
+lady maria,
+lady maria of the astral clocktower,
+lady_maria,
+long hair,
+looking at viewer,
+maria,
+medium:artist name,
+medium:digital 2d,
+medium:fanart from deviantart,
+medium:text,
+meta:artstation sample,
+meta:commentary,
+meta:english commentary,
+meta:image sample,
+meta:potential duplicate,
+point of view,
+ponytail,
+pov,
+rating:mature,
+rating:s,
+rating:safe,
+series:bloodborne,
+series:bloodborne: the old hunters,
+series:the old hunters,
+site:deviantart,
+solo,
+subreddit:imaginarygaming,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sword,
+tied hair,
+title:lady maria,
+title:lady maria by nana nakano,
+title:lady maria by sean (raikoart),
+tricorne,
+uploader:myrandall,
+uploader:net-diver,
+weapon,
+white hair,
+なにこれかっこいい,
+時計塔のマリア,

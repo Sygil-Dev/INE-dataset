@@ -1,60 +1,60 @@
-anthro
-anthropomorphism
-armor
-arrow
-arthur bozonnet (artist)
-blood
-bodily fluids
-booru:e621
-bottle
-bow (weapon)
-bow(weapon)
-building
-category:ine
-city
-clothed
-clothing
-clothing:armor
-clothing:tagme
-creator:arthur bozonnet (artist)
-crouching
-cut (disambiguation)
-detailed background
-female
-fur
-furry
-gender:female
-green eyes
-hair
-hi res
-high resolution
-holding (disambiguation)
-holding object
-medium:detailed background
-medium:high resolution
-meta:hi res
-on roof
-outside
-ranged weapon
-rating:questionable
-roof top
-rooftop
-series:bethesda softworks
-series:the elder scrolls
-solo
-species:cat
-species:felid
-species:feline
-species:khajiit
-species:mammal
-subreddit:imaginaryhybrids
-subreddit:imaginarytamriel
-subreddit:imfandoms
-subreddit:immonsters
-title:narcotic clarity - khajiit thief by arthur bozonnet
-title:narcotic clarity by arthur bozonnet
-uploader:malign-god
-uploader:stroy1
-video games
-weapon
-wounded
+anthro,
+anthropomorphism,
+armor,
+arrow,
+arthur bozonnet (artist),
+blood,
+bodily fluids,
+booru:e621,
+bottle,
+bow (weapon),
+bow(weapon),
+building,
+category:ine,
+city,
+clothed,
+clothing,
+clothing:armor,
+clothing:tagme,
+creator:arthur bozonnet (artist),
+crouching,
+cut (disambiguation),
+detailed background,
+female,
+fur,
+furry,
+gender:female,
+green eyes,
+hair,
+hi res,
+high resolution,
+holding (disambiguation),
+holding object,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+on roof,
+outside,
+ranged weapon,
+rating:questionable,
+roof top,
+rooftop,
+series:bethesda softworks,
+series:the elder scrolls,
+solo,
+species:cat,
+species:felid,
+species:feline,
+species:khajiit,
+species:mammal,
+subreddit:imaginaryhybrids,
+subreddit:imaginarytamriel,
+subreddit:imfandoms,
+subreddit:immonsters,
+title:narcotic clarity - khajiit thief by arthur bozonnet,
+title:narcotic clarity by arthur bozonnet,
+uploader:malign-god,
+uploader:stroy1,
+video games,
+weapon,
+wounded,

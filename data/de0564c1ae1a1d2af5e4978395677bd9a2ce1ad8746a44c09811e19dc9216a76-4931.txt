@@ -1,54 +1,54 @@
-1:1
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-category:ine
-creator:cryptid-creations
-feral
-food
-fruit
-furry
-gender:ambiguous
-kiwifruit
-language:english
-lime
-medium:1:1 aspect ratio
-medium:english text
-medium:simple background
-medium:text
-medium:white background
-meta:1:1
-meta:english text
-meta:english_text
-meta:pillarbox
-meta:url
-pillarbox
-plant
-pool:20834
-rating:safe
-simple background
-simple_background
-smile
-solo
-sorbet
-species:ankylosaurian
-species:ankylosaurid
-species:ankylosaurus
-species:dinosaur
-species:extinct
-species:food creature
-species:food_creature
-species:ornithischian
-species:reptile
-species:scalie
-species:thyreophoran
-subreddit:imaginarydinosaurs
-subreddit:imaginaryfood
-subreddit:immeta
-subreddit:immonsters
-text
-title:ankylosaurbet by piper thibodeau
-uploader:myrandall
-url
-white background
-white_background
+1:1,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+category:ine,
+creator:cryptid-creations,
+feral,
+food,
+fruit,
+furry,
+gender:ambiguous,
+kiwifruit,
+language:english,
+lime,
+medium:1:1 aspect ratio,
+medium:english text,
+medium:simple background,
+medium:text,
+medium:white background,
+meta:1:1,
+meta:english text,
+meta:english_text,
+meta:pillarbox,
+meta:url,
+pillarbox,
+plant,
+pool:20834,
+rating:safe,
+simple background,
+simple_background,
+smile,
+solo,
+sorbet,
+species:ankylosaurian,
+species:ankylosaurid,
+species:ankylosaurus,
+species:dinosaur,
+species:extinct,
+species:food creature,
+species:food_creature,
+species:ornithischian,
+species:reptile,
+species:scalie,
+species:thyreophoran,
+subreddit:imaginarydinosaurs,
+subreddit:imaginaryfood,
+subreddit:immeta,
+subreddit:immonsters,
+text,
+title:ankylosaurbet by piper thibodeau,
+uploader:myrandall,
+url,
+white background,
+white_background,

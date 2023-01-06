@@ -1,89 +1,89 @@
-1 female
-1girl
-alternate costume
-alternate_costume
-ana_(overwatch)
-bangs
-braid
-breasts
-brown coat
-brown eyes
-brown jacket
-brown_coat
-brown_jacket
-category:ine
-character:ana (overwatch)
-character:ana amari
-character:ana amari (overwatch)
-closed mouth
-closed_mouth
-clothing:coat
-clothing:hair ornament
-clothing:hair tie
-clothing:jacket
-coat
-creator:nat10730
-creator:nat vitchayed
-facial mark
-facial tattoo
-facial_mark
-facial_tattoo
-female
-gender:female
-genre:science fiction
-hair ornament
-hair over shoulder
-hair tie
-hair_over_shoulder
-hair_tie
-jacket
-lips
-long hair
-long sleeves
-looking at viewer
-medium breasts
-medium:absurd resolution
-medium:high resolution
-medium:very high resolution
-meta:absurdres
-meta:highres
-nat vitchayed
-nat_vitchayed
-no eyepatch
-no pupils
-no_eyepatch
-no_pupils
-nose
-old
-old woman
-old_woman
-parted bangs
-parted_bangs
-point of view
-portrait
-pov
-rating:mature
-rating:safe
-scar
-scar across eye
-scar_across_eye
-series:overwatch
-single braid
-single_braid
-site:deviantart
-solo
-studio:blizzard entertainment
-subreddit:imaginaryhumans
-subreddit:imaginaryoverwatch
-subreddit:imfandoms
-subreddit:imraces
-tattoo
-tied hair
-title:ana
-title:ana by nat vitchayed
-uploader:myrandall
-upper body
-upper_body
-website:reddit
-white hair
-zipper
+1 female,
+1girl,
+alternate costume,
+alternate_costume,
+ana_(overwatch),
+bangs,
+braid,
+breasts,
+brown coat,
+brown eyes,
+brown jacket,
+brown_coat,
+brown_jacket,
+category:ine,
+character:ana (overwatch),
+character:ana amari,
+character:ana amari (overwatch),
+closed mouth,
+closed_mouth,
+clothing:coat,
+clothing:hair ornament,
+clothing:hair tie,
+clothing:jacket,
+coat,
+creator:nat10730,
+creator:nat vitchayed,
+facial mark,
+facial tattoo,
+facial_mark,
+facial_tattoo,
+female,
+gender:female,
+genre:science fiction,
+hair ornament,
+hair over shoulder,
+hair tie,
+hair_over_shoulder,
+hair_tie,
+jacket,
+lips,
+long hair,
+long sleeves,
+looking at viewer,
+medium breasts,
+medium:absurd resolution,
+medium:high resolution,
+medium:very high resolution,
+meta:absurdres,
+meta:highres,
+nat vitchayed,
+nat_vitchayed,
+no eyepatch,
+no pupils,
+no_eyepatch,
+no_pupils,
+nose,
+old,
+old woman,
+old_woman,
+parted bangs,
+parted_bangs,
+point of view,
+portrait,
+pov,
+rating:mature,
+rating:safe,
+scar,
+scar across eye,
+scar_across_eye,
+series:overwatch,
+single braid,
+single_braid,
+site:deviantart,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginaryhumans,
+subreddit:imaginaryoverwatch,
+subreddit:imfandoms,
+subreddit:imraces,
+tattoo,
+tied hair,
+title:ana,
+title:ana by nat vitchayed,
+uploader:myrandall,
+upper body,
+upper_body,
+website:reddit,
+white hair,
+zipper,

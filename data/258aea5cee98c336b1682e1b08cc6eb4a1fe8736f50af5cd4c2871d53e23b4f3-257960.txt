@@ -1,29 +1,29 @@
-3d
-90s
-booru:danbooru
-booru:gelbooru
-category:ine
-character:dendrobium schema
-character:dendrobium stamen
-character:gundam gp-03 stamen
-creator:sandrum
-dendrobium schema
-mecha
-medium:3d rendering
-medium:digital media
-medium:text focus
-meta:photoshop (medium)
-no humans
-rating:safe
-series:gundam
-series:gundam 0083
-series:mobile suit gundam
-solo
-source:http://anaheimmachines.blogspot.com/
-subreddit:imaginaryscience
-subreddit:imtechnology
-text
-text focus
-title:dendrobium schema
-title:dendrobium schema by sandrum
-uploader:ecclectic
+3d,
+90s,
+booru:danbooru,
+booru:gelbooru,
+category:ine,
+character:dendrobium schema,
+character:dendrobium stamen,
+character:gundam gp-03 stamen,
+creator:sandrum,
+dendrobium schema,
+mecha,
+medium:3d rendering,
+medium:digital media,
+medium:text focus,
+meta:photoshop (medium),
+no humans,
+rating:safe,
+series:gundam,
+series:gundam 0083,
+series:mobile suit gundam,
+solo,
+source:http://anaheimmachines.blogspot.com/,
+subreddit:imaginaryscience,
+subreddit:imtechnology,
+text,
+text focus,
+title:dendrobium schema,
+title:dendrobium schema by sandrum,
+uploader:ecclectic,

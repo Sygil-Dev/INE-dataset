@@ -1,27 +1,27 @@
-agnidevi
-bolt pistol
-bolter
-category:ine
-chainaxe
-chainsword
-chaos
-creator:agnidevi
-dreadnought
-emperors children
-imperium
-iron hands
-mechanicus
-military watercraft
-rain
-series:warhammer 40,000
-space marines
-studio:games workshop
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-techmarine
-title:iron hands
-title:iron hands by leonid kozienko
-uploader:aloneballi
-vehicle
-warship
-watercraft
+agnidevi,
+bolt pistol,
+bolter,
+category:ine,
+chainaxe,
+chainsword,
+chaos,
+creator:agnidevi,
+dreadnought,
+emperors children,
+imperium,
+iron hands,
+mechanicus,
+military watercraft,
+rain,
+series:warhammer 40,000,
+space marines,
+studio:games workshop,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+techmarine,
+title:iron hands,
+title:iron hands by leonid kozienko,
+uploader:aloneballi,
+vehicle,
+warship,
+watercraft,

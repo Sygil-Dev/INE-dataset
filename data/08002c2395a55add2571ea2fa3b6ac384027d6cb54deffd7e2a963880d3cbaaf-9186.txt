@@ -1,30 +1,30 @@
-beach
-boat
-bridge
-building
-category:ine
-clock
-cloud
-cloudy sky
-day
-earth (planet)
-horizon
-island
-lake
-landscape
-mountain
-ocean
-outdoors
-planet
-rating:safe
-river
-scenery
-ship
-sky
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-title:destroyer in the snow by krzysztof piasek
-uploader:azalann
-water
-watercraft
-waves
+beach,
+boat,
+bridge,
+building,
+category:ine,
+clock,
+cloud,
+cloudy sky,
+day,
+earth (planet),
+horizon,
+island,
+lake,
+landscape,
+mountain,
+ocean,
+outdoors,
+planet,
+rating:safe,
+river,
+scenery,
+ship,
+sky,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+title:destroyer in the snow by krzysztof piasek,
+uploader:azalann,
+water,
+watercraft,
+waves,

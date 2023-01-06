@@ -1,28 +1,28 @@
-3d
-category:ine
-creator:michael hogan
-gpu rendering
-huge
-huge robot
-marmoset toolbag
-maya
-mech
-medium:digital 3d
-medium:digital media
-modelling
-photoshop
-quadriped
-robot
-scifi
-steampunk
-subreddit:imaginarymechs
-subreddit:imaginaryrobotics
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-substance painter
-texturing
-title:steam powered mech walker
-turntable
-uploader:probablydyslexic
-uvlayout
-zbrush
+3d,
+category:ine,
+creator:michael hogan,
+gpu rendering,
+huge,
+huge robot,
+marmoset toolbag,
+maya,
+mech,
+medium:digital 3d,
+medium:digital media,
+modelling,
+photoshop,
+quadriped,
+robot,
+scifi,
+steampunk,
+subreddit:imaginarymechs,
+subreddit:imaginaryrobotics,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+substance painter,
+texturing,
+title:steam powered mech walker,
+turntable,
+uploader:probablydyslexic,
+uvlayout,
+zbrush,

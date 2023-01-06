@@ -1,53 +1,53 @@
-2018
-ambiguous gender
-bird's-eye view
-booru:e621
-brown eyes
-bust portrait
-category:ine
-creator:kenket
-day
-feral
-fur
-gender:ambiguous
-grey body
-grey fur
-hi res
-high-angle view
-looking at viewer
-lying
-medium:high resolution
-medium:traditional media
-meta:2018
-meta:bust portrait
-meta:hi res
-meta:painting (artwork)
-meta:portrait
-meta:traditional media (artwork)
-meta:url
-on back
-outside
-painting (artwork)
-portrait
-pov
-rating:safe
-realistic
-snow
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-subreddit:imaginaryanimals
-subreddit:imnature
-text
-title:wolf flail
-title:wolf flail by tess garman
-traditional media (artwork)
-uploader:myrandall
-url
-whiskers
-white body
-white fur
-year:2018
+2018,
+ambiguous gender,
+bird's-eye view,
+booru:e621,
+brown eyes,
+bust portrait,
+category:ine,
+creator:kenket,
+day,
+feral,
+fur,
+gender:ambiguous,
+grey body,
+grey fur,
+hi res,
+high-angle view,
+looking at viewer,
+lying,
+medium:high resolution,
+medium:traditional media,
+meta:2018,
+meta:bust portrait,
+meta:hi res,
+meta:painting (artwork),
+meta:portrait,
+meta:traditional media (artwork),
+meta:url,
+on back,
+outside,
+painting (artwork),
+portrait,
+pov,
+rating:safe,
+realistic,
+snow,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+text,
+title:wolf flail,
+title:wolf flail by tess garman,
+traditional media (artwork),
+uploader:myrandall,
+url,
+whiskers,
+white body,
+white fur,
+year:2018,

@@ -1,60 +1,60 @@
-1 female
-alternate hair color
-artworks
-bangs
-bare shoulders
-black hair
-blue butterfly
-blue eyes
-blue fire
-blue lips
-blue nails
-blunt bangs
-book
-breasts
-bug
-butterfly
-category:ine
-character
-character:aoandon
-character:storyteller aoandon
-cleavage
-clothing:hair ornament
-clothing:jewelry
-clothing:necklace
-cloud
-colored nails
-creator:hoàng lập (solan)
-creator:solan
-fantasy art
-fire
-game art
-gender:female
-hair ornament
-jewelry
-lantern
-long hair
-medium:digital 2d
-medium:watermark
-medium:web address
-meta:artist name
-nail polish
-onmyoji
-open book
-rating:safe
-scroll
-series:onmyoji
-solan
-species:arthropod
-species:insect
-storyteller aoandon
-subreddit:imaginaryscholars
-subreddit:imaginarywitches
-subreddit:imaginarywizards
-subreddit:imcharacters
-title:storyteller aoandon
-title:storyteller aoandon by hoàng lập (solan)
-uploader:malign-god
-uploader:net-diver
-very long hair
-wide sleeves
+1 female,
+alternate hair color,
+artworks,
+bangs,
+bare shoulders,
+black hair,
+blue butterfly,
+blue eyes,
+blue fire,
+blue lips,
+blue nails,
+blunt bangs,
+book,
+breasts,
+bug,
+butterfly,
+category:ine,
+character,
+character:aoandon,
+character:storyteller aoandon,
+cleavage,
+clothing:hair ornament,
+clothing:jewelry,
+clothing:necklace,
+cloud,
+colored nails,
+creator:hoàng lập (solan),
+creator:solan,
+fantasy art,
+fire,
+game art,
+gender:female,
+hair ornament,
+jewelry,
+lantern,
+long hair,
+medium:digital 2d,
+medium:watermark,
+medium:web address,
+meta:artist name,
+nail polish,
+onmyoji,
+open book,
+rating:safe,
+scroll,
+series:onmyoji,
+solan,
+species:arthropod,
+species:insect,
+storyteller aoandon,
+subreddit:imaginaryscholars,
+subreddit:imaginarywitches,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+title:storyteller aoandon,
+title:storyteller aoandon by hoàng lập (solan),
+uploader:malign-god,
+uploader:net-diver,
+very long hair,
+wide sleeves,

@@ -1,38 +1,38 @@
-booru:e621
-category:ine
-character:trixie (mlp)
-character:trixie lulamoon
-creator:cannibalus
-day
-female
-feral
-gender:female
-genre:fantasy
-hair
-horn
-horns
-mlp
-outside
-plant
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-smile
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"the great and giftful trixie" by vitaliy (cannibalus)
-title:the great and giftful trixie
-tree
-trixiethegreatandpowerful
-uploader:crystallord
-white hair
+booru:e621,
+category:ine,
+character:trixie (mlp),
+character:trixie lulamoon,
+creator:cannibalus,
+day,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+horn,
+horns,
+mlp,
+outside,
+plant,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+smile,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"the great and giftful trixie" by vitaliy (cannibalus),
+title:the great and giftful trixie,
+tree,
+trixiethegreatandpowerful,
+uploader:crystallord,
+white hair,

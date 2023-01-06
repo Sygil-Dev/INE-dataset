@@ -1,92 +1,92 @@
-aircraft
-airplane
-artist name
-autumn
-autumn leaves
-bat
-battle
-bird
-bomb
-breathing fire
-burning
-burnt clothes
-campfire
-candle
-candlelight
-category:ine
-character:charizard
-character:charmander
-character:fujiwara no mokou
-character:squirtle
-cloud
-cooking
-copyright
-copyright name
-crow
-dated
-destruction
-dragonfly
-dusk
-embers
-evening
-explosion
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-flock
-frying pan
-ginkgo leaf
-gradient sky
-holding leaf
-honey
-japanese clothes
-leaf
-magic
-male focus
-molten rock
-mountain
-mountainous horizon
-muzzle flash
-orange background
-orange sky
-orange theme
-phoenix
-pyrokinesis
-rating:safe
-red sky
-ruins
-silhouette
-sky
-smoke
-sparkler
-sparks
-starter pokemon trio
-subreddit:imaginaryelves
-subreddit:imaginarytamriel
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imfandoms
-subreddit:imraces
-sun
-sunrise
-sunset
-sweet potato
-sword of hisou
-tail-tip fire
-tent
-title:temple conjurer by roman chaliy
-topknot
-torch
-twilight
-uploader:drunkindragon
-uploader:myrandall
-volcano
-war
-watermark
-web address
-yellow sky
+aircraft,
+airplane,
+artist name,
+autumn,
+autumn leaves,
+bat,
+battle,
+bird,
+bomb,
+breathing fire,
+burning,
+burnt clothes,
+campfire,
+candle,
+candlelight,
+category:ine,
+character:charizard,
+character:charmander,
+character:fujiwara no mokou,
+character:squirtle,
+cloud,
+cooking,
+copyright,
+copyright name,
+crow,
+dated,
+destruction,
+dragonfly,
+dusk,
+embers,
+evening,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+flock,
+frying pan,
+ginkgo leaf,
+gradient sky,
+holding leaf,
+honey,
+japanese clothes,
+leaf,
+magic,
+male focus,
+molten rock,
+mountain,
+mountainous horizon,
+muzzle flash,
+orange background,
+orange sky,
+orange theme,
+phoenix,
+pyrokinesis,
+rating:safe,
+red sky,
+ruins,
+silhouette,
+sky,
+smoke,
+sparkler,
+sparks,
+starter pokemon trio,
+subreddit:imaginaryelves,
+subreddit:imaginarytamriel,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imfandoms,
+subreddit:imraces,
+sun,
+sunrise,
+sunset,
+sweet potato,
+sword of hisou,
+tail-tip fire,
+tent,
+title:temple conjurer by roman chaliy,
+topknot,
+torch,
+twilight,
+uploader:drunkindragon,
+uploader:myrandall,
+volcano,
+war,
+watermark,
+web address,
+yellow sky,

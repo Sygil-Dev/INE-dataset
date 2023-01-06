@@ -1,48 +1,48 @@
-autumn
-autumn leaves
-bridge
-burning
-campfire
-category:ine
-cloud
-cloudy sky
-dusk
-embers
-evening
-explosion
-fire
-fireplace
-flame
-flaming weapon
-gradient sky
-horizon
-molten rock
-multiple torii
-ocean
-orange sky
-outdoors
-power lines
-rating:safe
-red background
-red moon
-red sky
-red theme
-reflection
-river
-scenery
-silhouette
-sky
-standing on liquid
-subreddit:imaginaryvessels
-subreddit:imtechnology
-sun
-sunset
-title:vision in the fire by dominik mayer
-torch
-torii
-twilight
-uploader:kapitankurt
-utility pole
-volcano
-warship
-water
+autumn,
+autumn leaves,
+bridge,
+burning,
+campfire,
+category:ine,
+cloud,
+cloudy sky,
+dusk,
+embers,
+evening,
+explosion,
+fire,
+fireplace,
+flame,
+flaming weapon,
+gradient sky,
+horizon,
+molten rock,
+multiple torii,
+ocean,
+orange sky,
+outdoors,
+power lines,
+rating:safe,
+red background,
+red moon,
+red sky,
+red theme,
+reflection,
+river,
+scenery,
+silhouette,
+sky,
+standing on liquid,
+subreddit:imaginaryvessels,
+subreddit:imtechnology,
+sun,
+sunset,
+title:vision in the fire by dominik mayer,
+torch,
+torii,
+twilight,
+uploader:kapitankurt,
+utility pole,
+volcano,
+warship,
+water,

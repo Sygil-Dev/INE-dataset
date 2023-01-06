@@ -1,20 +1,20 @@
-arcade
-beast
-category:ine
-comic book art
-cover art
-creator:david nakayama
-cyclops
-gambit
-jean grey
-jubilee
-marvel
-medium:digital 2d
-murderworld
-subreddit:imaginarymarvel
-subreddit:imfandoms
-title:x-men in murderworld by david nakayama
-uploader:lol33ta
-wolverine
-xmen
-xmen 92
+arcade,
+beast,
+category:ine,
+comic book art,
+cover art,
+creator:david nakayama,
+cyclops,
+gambit,
+jean grey,
+jubilee,
+marvel,
+medium:digital 2d,
+murderworld,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+title:x-men in murderworld by david nakayama,
+uploader:lol33ta,
+wolverine,
+xmen,
+xmen 92,

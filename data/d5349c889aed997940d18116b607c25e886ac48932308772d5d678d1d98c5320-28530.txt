@@ -1,30 +1,30 @@
-2d
-asian
-category:ine
-creator:justice wong
-darkness
-demon
-evil
-ghost
-hi rez
-illustration
-japanese
-knight
-medium:digital 2d
-monster
-oni
-paladins
-poster
-red
-samurai
-shooter
-snipper
-species:demon
-species:mythical
-species:oni
-subreddit:imaginarydemons
-subreddit:immonsters
-title:team oni !!
-title:team oni !! by justice wong
-uploader:net-diver
-warrior
+2d,
+asian,
+category:ine,
+creator:justice wong,
+darkness,
+demon,
+evil,
+ghost,
+hi rez,
+illustration,
+japanese,
+knight,
+medium:digital 2d,
+monster,
+oni,
+paladins,
+poster,
+red,
+samurai,
+shooter,
+snipper,
+species:demon,
+species:mythical,
+species:oni,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+title:team oni !!,
+title:team oni !! by justice wong,
+uploader:net-diver,
+warrior,

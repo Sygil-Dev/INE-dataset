@@ -1,35 +1,35 @@
-2017
-ambiguous gender
-ambiguous_gender
-artist:ryky
-category:ine
-city
-creator:ryky
-day
-detailed background
-detailed_background
-digital media (artwork)
-feral
-fur
-gender:ambiguous
-grass
-medium:detailed background
-medium:digital media
-meta:2017
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-outside
-plant
-rating:safe
-ryky
-sky
-solo
-species:unknown species
-species:unknown_species
-standing
-subreddit:imaginaryruins
-subreddit:imarchitecture
-title:abandoned by benjamin cehelsky
-unknown species
-uploader:lol33ta
-year:2017
+2017,
+ambiguous gender,
+ambiguous_gender,
+artist:ryky,
+category:ine,
+city,
+creator:ryky,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+feral,
+fur,
+gender:ambiguous,
+grass,
+medium:detailed background,
+medium:digital media,
+meta:2017,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+outside,
+plant,
+rating:safe,
+ryky,
+sky,
+solo,
+species:unknown species,
+species:unknown_species,
+standing,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+title:abandoned by benjamin cehelsky,
+unknown species,
+uploader:lol33ta,
+year:2017,

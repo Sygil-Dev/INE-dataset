@@ -1,21 +1,21 @@
-antonin jury
-art
-cartoon
-category:ine
-characters
-creator:antonin jury
-design
-dinosaur
-dinosaurs
-dumb
-graduation project
-island
-jurassic park
-medium:digital 2d
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-title:dinos shapes &amp; colors...
-title:dinos shapes and colors... by antonin jury
-uploader:hvitserkr
-videogame
-visitors
+antonin jury,
+art,
+cartoon,
+category:ine,
+characters,
+creator:antonin jury,
+design,
+dinosaur,
+dinosaurs,
+dumb,
+graduation project,
+island,
+jurassic park,
+medium:digital 2d,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+title:dinos shapes &amp; colors...,
+title:dinos shapes and colors... by antonin jury,
+uploader:hvitserkr,
+videogame,
+visitors,

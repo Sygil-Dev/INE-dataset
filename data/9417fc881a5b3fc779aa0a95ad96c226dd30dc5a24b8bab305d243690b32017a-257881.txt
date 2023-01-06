@@ -1,24 +1,24 @@
-battle
-category:ine
-creator:agnidevi
-explosion
-firing
-halo
-laser
-medium:high resolution
-meta:highres
-no humans
-planet
-rating:mature
-rating:s
-rating:safe
-scenery
-series:halo
-series:halo (game)
-space craft
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-title:escape from reach
-title:escape from reach by leonid kozienko
-uploader:inofrest
-wreckage
+battle,
+category:ine,
+creator:agnidevi,
+explosion,
+firing,
+halo,
+laser,
+medium:high resolution,
+meta:highres,
+no humans,
+planet,
+rating:mature,
+rating:s,
+rating:safe,
+scenery,
+series:halo,
+series:halo (game),
+space craft,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+title:escape from reach,
+title:escape from reach by leonid kozienko,
+uploader:inofrest,
+wreckage,

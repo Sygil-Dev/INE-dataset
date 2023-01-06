@@ -1,88 +1,88 @@
-1 female
-1girl
-action:looking at viewer
-action:open mouth
-art:portrait
-banned artist
-bare shoulders
-bodypart:breasts
-bodypart:fiery hair
-bodypart:flowing hair
-bodypart:glowing hair
-bodypart:long hair
-bodypart:pink eyes
-bodypart:red eyes
-bodypart:teeth
-booru:danbooru
-booru:gelbooru
-booru:sankaku channel
-booru:tbib
-breasts
-category:ine
-cleavage
-creator:sakimichan
-fang
-fang (fangs)
-fangs
-female
-female only
-female:1
-fiery hair
-fire
-flowing hair
-from:f95zone
-gender:female
-girl
-glowing
-glowing hair
-hair:flaming
-light erotic
-lips
-long hair
-looking at viewer
-male:1
-medium breasts
-medium:2d art
-medium:4:3 aspect ratio
-medium:image
-meta:duplicate
-meta:original character
-meta:pixiv-import
-monster
-no bra
-no pupils
-open clothes
-open mouth
-orange eyes
-original
-pink eyes
-point of view
-pointy ears
-portrait
-pov
-rating:mature
-rating:safe
-realistic
-red eyes
-series:original
-sharp teeth
-single
-site:anime-pictures.net
-site:deviant art
-site:f95zone
-solo
-species:undead
-species:vampire
-studio:vampire
-subreddit:imaginaryvampires
-subreddit:immonsters
-teeth
-title:fire vampire
-title:fire vampire by sakimichan
-tongue
-topless
-uploader:nt337
-upper body
-website:f95zone
-website:tbib
-website:yande.re
+1 female,
+1girl,
+action:looking at viewer,
+action:open mouth,
+art:portrait,
+banned artist,
+bare shoulders,
+bodypart:breasts,
+bodypart:fiery hair,
+bodypart:flowing hair,
+bodypart:glowing hair,
+bodypart:long hair,
+bodypart:pink eyes,
+bodypart:red eyes,
+bodypart:teeth,
+booru:danbooru,
+booru:gelbooru,
+booru:sankaku channel,
+booru:tbib,
+breasts,
+category:ine,
+cleavage,
+creator:sakimichan,
+fang,
+fang (fangs),
+fangs,
+female,
+female only,
+female:1,
+fiery hair,
+fire,
+flowing hair,
+from:f95zone,
+gender:female,
+girl,
+glowing,
+glowing hair,
+hair:flaming,
+light erotic,
+lips,
+long hair,
+looking at viewer,
+male:1,
+medium breasts,
+medium:2d art,
+medium:4:3 aspect ratio,
+medium:image,
+meta:duplicate,
+meta:original character,
+meta:pixiv-import,
+monster,
+no bra,
+no pupils,
+open clothes,
+open mouth,
+orange eyes,
+original,
+pink eyes,
+point of view,
+pointy ears,
+portrait,
+pov,
+rating:mature,
+rating:safe,
+realistic,
+red eyes,
+series:original,
+sharp teeth,
+single,
+site:anime-pictures.net,
+site:deviant art,
+site:f95zone,
+solo,
+species:undead,
+species:vampire,
+studio:vampire,
+subreddit:imaginaryvampires,
+subreddit:immonsters,
+teeth,
+title:fire vampire,
+title:fire vampire by sakimichan,
+tongue,
+topless,
+uploader:nt337,
+upper body,
+website:f95zone,
+website:tbib,
+website:yande.re,

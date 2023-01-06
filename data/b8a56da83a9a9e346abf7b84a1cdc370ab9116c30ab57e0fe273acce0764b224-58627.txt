@@ -1,20 +1,20 @@
-castle
-category:ine
-cover
-creator:candra
-dark
-elf
-fantasy
-magic
-magick
-medium:digital 2d
-moonlight
-night
-pathfinder
-pathfinderwarlock
-rpg
-scroll
-subreddit:imaginaryportals
-subreddit:imtechnology
-title:pathfinder warlock by candra gloomblade
-uploader:lol33ta
+castle,
+category:ine,
+cover,
+creator:candra,
+dark,
+elf,
+fantasy,
+magic,
+magick,
+medium:digital 2d,
+moonlight,
+night,
+pathfinder,
+pathfinderwarlock,
+rpg,
+scroll,
+subreddit:imaginaryportals,
+subreddit:imtechnology,
+title:pathfinder warlock by candra gloomblade,
+uploader:lol33ta,

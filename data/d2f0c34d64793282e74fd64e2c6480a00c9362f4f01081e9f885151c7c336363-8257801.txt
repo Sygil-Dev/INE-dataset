@@ -1,23 +1,23 @@
-awwlowiscious
-beautiful
-category:ine
-character:owlowiscious
-creator:maggwai
-cute
-derpibooru
-detailed
-eyebrows
-maggwai
-owlowiscious
-rating:safe
-realistic
-safe
-series:my little pony friendship is magic
-solo
-species:bird
-species:owl
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"owlowicious" by maggwai [source lost]
-tree stump
-uploader:crystallord
+awwlowiscious,
+beautiful,
+category:ine,
+character:owlowiscious,
+creator:maggwai,
+cute,
+derpibooru,
+detailed,
+eyebrows,
+maggwai,
+owlowiscious,
+rating:safe,
+realistic,
+safe,
+series:my little pony friendship is magic,
+solo,
+species:bird,
+species:owl,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"owlowicious" by maggwai [source lost],
+tree stump,
+uploader:crystallord,

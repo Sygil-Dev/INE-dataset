@@ -1,19 +1,19 @@
-category:ine
-city
-concept art
-creator:justin spice
-guns
-mech
-mecha
-medium:digital 2d
-photoshop
-rorobts
-scifi
-subreddit:imaginaryfuturewar
-subreddit:imaginarymechs
-subreddit:imtechnology
-title:another concept art piece i did for a vr game called iron rain.
-title:another piece i did for the vr game iron rain
-title:calling home.
-uploader:justinspice
-vr
+category:ine,
+city,
+concept art,
+creator:justin spice,
+guns,
+mech,
+mecha,
+medium:digital 2d,
+photoshop,
+rorobts,
+scifi,
+subreddit:imaginaryfuturewar,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+title:another concept art piece i did for a vr game called iron rain.,
+title:another piece i did for the vr game iron rain,
+title:calling home.,
+uploader:justinspice,
+vr,

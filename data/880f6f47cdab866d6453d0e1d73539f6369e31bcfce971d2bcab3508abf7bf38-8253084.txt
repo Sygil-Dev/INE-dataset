@@ -1,54 +1,54 @@
-alicorn
-bright
-canterlot
-canterlot castle
-castle
-category:ine
-cave
-character:princess luna
-clothes
-creator:duskie-06
-crescent moon
-crown
-cute
-digital art
-dress
-duskie-06
-female
-flower
-genre:fantasy
-glow
-horn
-jewelry
-light
-looking at you
-lotus (flower)
-luminous
-luna
-mare
-moon
-mountain
-night
-pond
-pretty
-princess luna
-rating:safe
-reflection
-regalia
-rocks
-safe
-series:my little pony
-series:my little pony friendship is magic
-signature
-solo
-species:winged unicorn
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"dress of affection" by jervis tan (duskie-06)
-title:dress of affection
-uploader:torvusil
-water
-waterfall
-wings
+alicorn,
+bright,
+canterlot,
+canterlot castle,
+castle,
+category:ine,
+cave,
+character:princess luna,
+clothes,
+creator:duskie-06,
+crescent moon,
+crown,
+cute,
+digital art,
+dress,
+duskie-06,
+female,
+flower,
+genre:fantasy,
+glow,
+horn,
+jewelry,
+light,
+looking at you,
+lotus (flower),
+luminous,
+luna,
+mare,
+moon,
+mountain,
+night,
+pond,
+pretty,
+princess luna,
+rating:safe,
+reflection,
+regalia,
+rocks,
+safe,
+series:my little pony,
+series:my little pony friendship is magic,
+signature,
+solo,
+species:winged unicorn,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"dress of affection" by jervis tan (duskie-06),
+title:dress of affection,
+uploader:torvusil,
+water,
+waterfall,
+wings,

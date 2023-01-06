@@ -1,21 +1,21 @@
-artstation
-blonde hair
-booru:sankaku channel
-category:ine
-character:bowser
-character:bowsette
-character:fan character
-female
-horns
-medium:fanart
-medium:high resolution
-medium:very high resolution
-nakashima8kazuma
-rating:safe
-series:mario (series)
-series:super mario bros.
-solo
-subreddit:imaginarygaming
-subreddit:imfandoms
-title:"bowsette" by manish d3mon
-uploader:torvusil
+artstation,
+blonde hair,
+booru:sankaku channel,
+category:ine,
+character:bowser,
+character:bowsette,
+character:fan character,
+female,
+horns,
+medium:fanart,
+medium:high resolution,
+medium:very high resolution,
+nakashima8kazuma,
+rating:safe,
+series:mario (series),
+series:super mario bros.,
+solo,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+title:"bowsette" by manish d3mon,
+uploader:torvusil,

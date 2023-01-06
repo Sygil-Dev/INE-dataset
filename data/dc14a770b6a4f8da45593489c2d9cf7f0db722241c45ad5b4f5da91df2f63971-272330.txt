@@ -1,62 +1,62 @@
-amazing
-anthro
-booru:e621
-breasts
-category:ine
-cecaelia
-cephalopod
-character:scylla
-creator:steve argyle
-creator:steveargyle
-creepy
-female
-gender:female
-guro
-hi res
-hybrid
-marine
-medium:high resolution
-melee weapon
-meta:hi res
-meta:nsfw
-meta:url
-monster
-monster girl (genre)
-nude
-octopus
-polearm
-rating:explicit
-rating:mature
-rating:questionable
-solo
-spear
-species:animal humanoid
-species:cecaelia
-species:cephalopod
-species:cephalopod humanoid
-species:coleoid
-species:humanoid
-species:hybrid
-species:marine
-species:marine humanoid
-species:mollusc
-species:mollusk
-species:mollusk humanoid
-species:monster
-species:octopodiform
-species:octopus
-species:scylla
-species:tentacle monster
-steve argyle
-subreddit:imaginarymerfolk
-subreddit:imraces
-tentacle monster
-tentacles
-text
-title:lord of the kraken
-title:lord of the kraken by steve argyle
-title:lord of the kraken, by steve argyle
-uploader:belledame-sans-serif
-uploader:faeryknight
-weapon
-weapon:polearm
+amazing,
+anthro,
+booru:e621,
+breasts,
+category:ine,
+cecaelia,
+cephalopod,
+character:scylla,
+creator:steve argyle,
+creator:steveargyle,
+creepy,
+female,
+gender:female,
+guro,
+hi res,
+hybrid,
+marine,
+medium:high resolution,
+melee weapon,
+meta:hi res,
+meta:nsfw,
+meta:url,
+monster,
+monster girl (genre),
+nude,
+octopus,
+polearm,
+rating:explicit,
+rating:mature,
+rating:questionable,
+solo,
+spear,
+species:animal humanoid,
+species:cecaelia,
+species:cephalopod,
+species:cephalopod humanoid,
+species:coleoid,
+species:humanoid,
+species:hybrid,
+species:marine,
+species:marine humanoid,
+species:mollusc,
+species:mollusk,
+species:mollusk humanoid,
+species:monster,
+species:octopodiform,
+species:octopus,
+species:scylla,
+species:tentacle monster,
+steve argyle,
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+tentacle monster,
+tentacles,
+text,
+title:lord of the kraken,
+title:lord of the kraken by steve argyle,
+title:lord of the kraken, by steve argyle,
+uploader:belledame-sans-serif,
+uploader:faeryknight,
+weapon,
+weapon:polearm,

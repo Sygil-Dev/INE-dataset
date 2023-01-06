@@ -1,21 +1,21 @@
-barbarian
-bobkehl
-buccaneer
-carribean
-club
-crab
-creator:bobkehl
-hawaiian
-kingston
-pirate
-pirates
-pirateship
-piratesofthecaribbean
-port
-subreddit:imaginarystash
-subreddit:imnsfw
-sumo
-title:defender of the rums
-title:defender of the rums by bob kehl
-tortuga
-uploader:myrandall
+barbarian,
+bobkehl,
+buccaneer,
+carribean,
+club,
+crab,
+creator:bobkehl,
+hawaiian,
+kingston,
+pirate,
+pirates,
+pirateship,
+piratesofthecaribbean,
+port,
+subreddit:imaginarystash,
+subreddit:imnsfw,
+sumo,
+title:defender of the rums,
+title:defender of the rums by bob kehl,
+tortuga,
+uploader:myrandall,

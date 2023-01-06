@@ -1,21 +1,21 @@
-category:ine
-characterdesign
-clothes
-creator:overlordneon
-fashion
-feathers
-jalisco
-jarabetapatio
-mexican
-monstergirl
-monsteroc
-myth
-mythagency
-oc
-originalcharacter
-siren
-subreddit:imaginaryfashion
-subreddit:immeta
-title:siren fashion
-title:siren fashion by neon yo
-uploader:myrandall
+category:ine,
+characterdesign,
+clothes,
+creator:overlordneon,
+fashion,
+feathers,
+jalisco,
+jarabetapatio,
+mexican,
+monstergirl,
+monsteroc,
+myth,
+mythagency,
+oc,
+originalcharacter,
+siren,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+title:siren fashion,
+title:siren fashion by neon yo,
+uploader:myrandall,

@@ -1,43 +1,43 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist:clockbirds
-category:ine
-clockbirds
-creator:clockbirds
-digital
-digital media (artwork)
-dragon
-feral
-furry
-gender:ambiguous
-illustration
-lanterns
-medium:digital media
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-nature
-paper lanterns
-paper_lanterns
-photoshop
-plant
-rating:safe
-scales
-snow
-solo
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-species:western_dragon
-spines
-standing
-subreddit:imaginarydragons
-subreddit:immonsters
-title:"relight" by jax (clockbirds)
-title:relight
-tree
-uploader:torvusil
-westerndragon
-year:2018
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:clockbirds,
+category:ine,
+clockbirds,
+creator:clockbirds,
+digital,
+digital media (artwork),
+dragon,
+feral,
+furry,
+gender:ambiguous,
+illustration,
+lanterns,
+medium:digital media,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+nature,
+paper lanterns,
+paper_lanterns,
+photoshop,
+plant,
+rating:safe,
+scales,
+snow,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+species:western_dragon,
+spines,
+standing,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:"relight" by jax (clockbirds),
+title:relight,
+tree,
+uploader:torvusil,
+westerndragon,
+year:2018,

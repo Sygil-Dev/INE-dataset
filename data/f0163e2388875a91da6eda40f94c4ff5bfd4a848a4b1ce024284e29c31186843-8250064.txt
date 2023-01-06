@@ -1,27 +1,27 @@
-art
-bad
-category:ine
-character
-concept
-creator:filippo ubertino
-design
-draw
-fiction
-gun
-hard
-helmet
-mech
-medium:digital 2d
-outlaws
-pirate
-scifi
-skull
-space
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-suit
-surface
-title:captain henry avery ii by filippo ubertino
-tubes
-tutorial
-uploader:lexxx20
+art,
+bad,
+category:ine,
+character,
+concept,
+creator:filippo ubertino,
+design,
+draw,
+fiction,
+gun,
+hard,
+helmet,
+mech,
+medium:digital 2d,
+outlaws,
+pirate,
+scifi,
+skull,
+space,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+suit,
+surface,
+title:captain henry avery ii by filippo ubertino,
+tubes,
+tutorial,
+uploader:lexxx20,

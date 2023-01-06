@@ -1,60 +1,60 @@
-2018
-ambiguous gender
-black eyes
-blue background
-booru:e621
-category:ine
-claws
-creator:kenket
-front view
-furry
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-horn
-horns
-medium:blue background
-medium:high resolution
-medium:simple background
-medium:text
-medium:traditional media
-membrane (anatomy)
-membranous wings
-meta:2018
-meta:hi res
-meta:painting (artwork)
-meta:shaded
-meta:traditional media (artwork)
-meta:url
-orange body
-orange skin
-painting (artwork)
-rating:safe
-scales
-series:nintendo
-series:pokémon
-shaded
-simple background
-solo
-species:dragon
-species:dragonite
-species:monster
-species:mythical
-species:pokémon
-species:pokémon (species)
-species:scalie
-spread wings
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-teal skin
-text
-title:dragonite
-title:dragonite by tess garman
-uploader:myrandall
-url
-video games
-white body
-white scales
-wings
-year:2018
+2018,
+ambiguous gender,
+black eyes,
+blue background,
+booru:e621,
+category:ine,
+claws,
+creator:kenket,
+front view,
+furry,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+horn,
+horns,
+medium:blue background,
+medium:high resolution,
+medium:simple background,
+medium:text,
+medium:traditional media,
+membrane (anatomy),
+membranous wings,
+meta:2018,
+meta:hi res,
+meta:painting (artwork),
+meta:shaded,
+meta:traditional media (artwork),
+meta:url,
+orange body,
+orange skin,
+painting (artwork),
+rating:safe,
+scales,
+series:nintendo,
+series:pokémon,
+shaded,
+simple background,
+solo,
+species:dragon,
+species:dragonite,
+species:monster,
+species:mythical,
+species:pokémon,
+species:pokémon (species),
+species:scalie,
+spread wings,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+teal skin,
+text,
+title:dragonite,
+title:dragonite by tess garman,
+uploader:myrandall,
+url,
+video games,
+white body,
+white scales,
+wings,
+year:2018,

@@ -1,33 +1,33 @@
-ambiguous gender
-booru:e621
-category:ine
-cloud
-creator:lenika
-fantasy
-flower
-gender:ambiguous
-genre:fantasy
-hair
-medium:digital media
-meta:2013
-meta:digital media (artwork)
-plant
-rating:safe
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-subreddit:imaginaryanimals
-subreddit:imaginaryhybrids
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-subreddit:immonsters
-subreddit:imnature
-title:sky blue dream by lenika86/elena davydova
-uploader:chalkchick0
-website:reddit
-wings
-year:2013
+ambiguous gender,
+booru:e621,
+category:ine,
+cloud,
+creator:lenika,
+fantasy,
+flower,
+gender:ambiguous,
+genre:fantasy,
+hair,
+medium:digital media,
+meta:2013,
+meta:digital media (artwork),
+plant,
+rating:safe,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+subreddit:imaginaryanimals,
+subreddit:imaginaryhybrids,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+subreddit:immonsters,
+subreddit:imnature,
+title:sky blue dream by lenika86/elena davydova,
+uploader:chalkchick0,
+website:reddit,
+wings,
+year:2013,

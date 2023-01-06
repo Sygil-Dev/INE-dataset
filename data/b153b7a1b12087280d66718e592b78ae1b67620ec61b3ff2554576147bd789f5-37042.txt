@@ -1,33 +1,33 @@
-ballista
-category:ine
-concept
-creator:lars sowig
-hard
-machine
-mech
-medium:3d rendering
-medium:digital 3d
-medium:digital media
-rendering
-roman
-scorpio
-sirens
-sowig
-species:arachnid
-species:arthropod
-species:robot
-species:spider
-subreddit:imaginarymechs
-subreddit:imaginaryrobotics
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-surface
-tank
-tech
-title:ballista by lars sowig
-title:the sirens - ballista
-title:the sirens - ballista by lars sowig
-uploader:lol33ta
-uploader:natezomby
-vehicle
-zbrush
+ballista,
+category:ine,
+concept,
+creator:lars sowig,
+hard,
+machine,
+mech,
+medium:3d rendering,
+medium:digital 3d,
+medium:digital media,
+rendering,
+roman,
+scorpio,
+sirens,
+sowig,
+species:arachnid,
+species:arthropod,
+species:robot,
+species:spider,
+subreddit:imaginarymechs,
+subreddit:imaginaryrobotics,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+surface,
+tank,
+tech,
+title:ballista by lars sowig,
+title:the sirens - ballista,
+title:the sirens - ballista by lars sowig,
+uploader:lol33ta,
+uploader:natezomby,
+vehicle,
+zbrush,

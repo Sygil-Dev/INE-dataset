@@ -1,21 +1,21 @@
-alien
-barghesi
-bhargesi
-category:ine
-creator:thomas mack
-fan concept
-games workshop
-medium:digital 2d
-monster
-ogre
-sci fi
-science fiction
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:barghesi concepts
-title:barghesi concepts, by zuboros
-troll
-uploader:zuboros
-warhammer
-warhammer 40k
-warhammer 40000
+alien,
+barghesi,
+bhargesi,
+category:ine,
+creator:thomas mack,
+fan concept,
+games workshop,
+medium:digital 2d,
+monster,
+ogre,
+sci fi,
+science fiction,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:barghesi concepts,
+title:barghesi concepts, by zuboros,
+troll,
+uploader:zuboros,
+warhammer,
+warhammer 40k,
+warhammer 40000,

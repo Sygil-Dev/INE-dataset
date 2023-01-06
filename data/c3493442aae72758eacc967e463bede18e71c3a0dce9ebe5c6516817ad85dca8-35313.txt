@@ -1,29 +1,29 @@
-armor
-bookillustration
-category:ine
-characterconcept
-creator:sirielle
-ereinion
-fantasy
-gilgalad
-illustration
-knight
-lord
-lordoftherings
-lotr
-noldor
-platearmor
-quendi
-rings
-rodnor
-shield
-silmarillion
-stars
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-title:scion of kings (gil-galad), a double portrait by karolina węgrzyn 'sirielle'
-title:scion of kings - gil-galad as son of fingon (col)
-title:scion of kings - son of fingon (col)
-tolkien
-tolkienart
-uploader:sirielle
+armor,
+bookillustration,
+category:ine,
+characterconcept,
+creator:sirielle,
+ereinion,
+fantasy,
+gilgalad,
+illustration,
+knight,
+lord,
+lordoftherings,
+lotr,
+noldor,
+platearmor,
+quendi,
+rings,
+rodnor,
+shield,
+silmarillion,
+stars,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+title:scion of kings (gil-galad), a double portrait by karolina węgrzyn 'sirielle',
+title:scion of kings - gil-galad as son of fingon (col),
+title:scion of kings - son of fingon (col),
+tolkien,
+tolkienart,
+uploader:sirielle,

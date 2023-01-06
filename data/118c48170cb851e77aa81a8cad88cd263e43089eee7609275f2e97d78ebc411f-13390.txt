@@ -1,21 +1,21 @@
-archer
-category:ine
-character
-concept
-creator:mj pajaron
-digitalpainting
-fantasy
-female
-illustration
-medieval
-medium:digital 2d
-outlaw
-pet
-ranger
-soldier
-stylized
-subreddit:imaginaryarchers
-subreddit:imcharacters
-title:catch me if you can
-title:catch me if you can by mj pajaron
-uploader:net-diver
+archer,
+category:ine,
+character,
+concept,
+creator:mj pajaron,
+digitalpainting,
+fantasy,
+female,
+illustration,
+medieval,
+medium:digital 2d,
+outlaw,
+pet,
+ranger,
+soldier,
+stylized,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+title:catch me if you can,
+title:catch me if you can by mj pajaron,
+uploader:net-diver,

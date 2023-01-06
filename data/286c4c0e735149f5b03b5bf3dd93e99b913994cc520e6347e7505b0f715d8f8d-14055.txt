@@ -1,70 +1,70 @@
-art
-backseat
-bodily fluids
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-brown eyes
-bubble
-bubble pipe
-category:ine
-character:detective pikachu
-character:detective pikachu (character)
-character:mimikyu
-character:pikachu
-creator:eric proctor
-creator:tsaoshin
-detectivepikachu
-digital
-drawing
-fanart
-gen 1 pokemon
-gen 7 pokemon
-grass
-great detective pikachu:the birth of a new duo
-holding
-holding magnifying glass
-holding pipe
-livestream
-magnifying glass
-mimikyu
-nintendo
-no humans
-one eye closed
-outdoors
-outside
-photoshop
-pikachu
-pipe
-pokemon
-pokemon (creature)
-rating:mature
-rating:safe
-recording
-series:creatures (company)
-series:detective pikachu
-series:detective pikachu (game)
-series:game freak
-series:great detective pikachu: the birth of a new duo
-series:pokemon
-series:pokémon
-signature
-sketch
-species:mimikyu
-species:monster
-species:pikachu
-species:pokémon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-sweat
-sweatdrop
-title:detective pikachu
-title:detective pikachu by eric proctor
-tree
-tsaoshin
-twitch
-uploader:myrandall
-video
-youtube
+art,
+backseat,
+bodily fluids,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+brown eyes,
+bubble,
+bubble pipe,
+category:ine,
+character:detective pikachu,
+character:detective pikachu (character),
+character:mimikyu,
+character:pikachu,
+creator:eric proctor,
+creator:tsaoshin,
+detectivepikachu,
+digital,
+drawing,
+fanart,
+gen 1 pokemon,
+gen 7 pokemon,
+grass,
+great detective pikachu:the birth of a new duo,
+holding,
+holding magnifying glass,
+holding pipe,
+livestream,
+magnifying glass,
+mimikyu,
+nintendo,
+no humans,
+one eye closed,
+outdoors,
+outside,
+photoshop,
+pikachu,
+pipe,
+pokemon,
+pokemon (creature),
+rating:mature,
+rating:safe,
+recording,
+series:creatures (company),
+series:detective pikachu,
+series:detective pikachu (game),
+series:game freak,
+series:great detective pikachu: the birth of a new duo,
+series:pokemon,
+series:pokémon,
+signature,
+sketch,
+species:mimikyu,
+species:monster,
+species:pikachu,
+species:pokémon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sweat,
+sweatdrop,
+title:detective pikachu,
+title:detective pikachu by eric proctor,
+tree,
+tsaoshin,
+twitch,
+uploader:myrandall,
+video,
+youtube,

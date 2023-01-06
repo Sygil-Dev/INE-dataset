@@ -1,27 +1,27 @@
-architecture
-category:ine
-character
-creator:magdalena radziej
-fashion
-flowers
-garden
-gate
-gender:female
-genre:fantasy
-gold
-light
-medium:digital 2d
-neon
-scroll
-subreddit:imaginaryinteriors
-subreddit:imaginaryscholars
-subreddit:imarchitecture
-subreddit:imcharacters
-temple
-title:ancestral scrolls, by magdalena radziej
-title:dr: ancestry
-title:dr: ancestry by magdalena radziej
-uploader:lol33ta
-uploader:sylvyrfyre
-website:reddit
-yellow
+architecture,
+category:ine,
+character,
+creator:magdalena radziej,
+fashion,
+flowers,
+garden,
+gate,
+gender:female,
+genre:fantasy,
+gold,
+light,
+medium:digital 2d,
+neon,
+scroll,
+subreddit:imaginaryinteriors,
+subreddit:imaginaryscholars,
+subreddit:imarchitecture,
+subreddit:imcharacters,
+temple,
+title:ancestral scrolls, by magdalena radziej,
+title:dr: ancestry,
+title:dr: ancestry by magdalena radziej,
+uploader:lol33ta,
+uploader:sylvyrfyre,
+website:reddit,
+yellow,

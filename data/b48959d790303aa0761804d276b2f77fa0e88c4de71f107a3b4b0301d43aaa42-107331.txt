@@ -1,56 +1,56 @@
-2019
-absurd res
-artist:vanillaghosties
-booru:e621
-category:ine
-character:starlight glimmer
-character:starlight glimmer (mlp)
-character:starlight_glimmer_(mlp)
-clothing
-cloud
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:vanillaghosties
-cutie mark
-cutie_mark
-detailed background
-detailed_background
-female
-feral
-full moon
-full_moon
-gender:female
-genre:fantasy
-hi res
-horn
-horns
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:2019
-meta:absurd res
-meta:absurd_res
-meta:hi res
-meta:hi_res
-moon
-night
-open mouth
-open_mouth
-outside
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"joyride" by vanillaghosties
-title:joyride
-uploader:torvusil
+2019,
+absurd res,
+artist:vanillaghosties,
+booru:e621,
+category:ine,
+character:starlight glimmer,
+character:starlight glimmer (mlp),
+character:starlight_glimmer_(mlp),
+clothing,
+cloud,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:vanillaghosties,
+cutie mark,
+cutie_mark,
+detailed background,
+detailed_background,
+female,
+feral,
+full moon,
+full_moon,
+gender:female,
+genre:fantasy,
+hi res,
+horn,
+horns,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:2019,
+meta:absurd res,
+meta:absurd_res,
+meta:hi res,
+meta:hi_res,
+moon,
+night,
+open mouth,
+open_mouth,
+outside,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"joyride" by vanillaghosties,
+title:joyride,
+uploader:torvusil,

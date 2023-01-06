@@ -1,21 +1,21 @@
-1boy
-artist name
-category:ine
-cloud
-cloudy sky
-electricity
-energy
-fire
-glowing
-male focus
-no humans
-open mouth
-rating:safe
-realistic
-sky
-subreddit:imaginaryanimals
-subreddit:imnature
-teeth
-title:sparkyspine by giselle almeida
-uploader:hvitserkr
-watermark
+1boy,
+artist name,
+category:ine,
+cloud,
+cloudy sky,
+electricity,
+energy,
+fire,
+glowing,
+male focus,
+no humans,
+open mouth,
+rating:safe,
+realistic,
+sky,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+teeth,
+title:sparkyspine by giselle almeida,
+uploader:hvitserkr,
+watermark,

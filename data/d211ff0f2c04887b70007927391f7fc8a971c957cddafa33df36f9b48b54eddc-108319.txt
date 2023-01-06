@@ -1,61 +1,61 @@
-16:9
-2019
-apple
-artist:discordthege
-autumn
-bag
-bench
-booru:e621
-category:ine
-character:trixie (mlp)
-character:trixie lulamoon
-character:trixie_(mlp)
-cold
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:discordthege
-equestria
-female
-food
-fruit
-gender:female
-genre:fantasy
-hi res
-hopes
-horn
-horns
-leaf
-lying
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:2019
-meta:hi_res
-meta:widescreen
-mlp
-plant
-rain
-rating:safe
-road
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-shattered
-sleeping
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"cold road" by rodion bochenin (discordthege)
-title:cold road
-train station
-train_station
-trip
-trixie
-unicorn
-uploader:torvusil
+16:9,
+2019,
+apple,
+artist:discordthege,
+autumn,
+bag,
+bench,
+booru:e621,
+category:ine,
+character:trixie (mlp),
+character:trixie lulamoon,
+character:trixie_(mlp),
+cold,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:discordthege,
+equestria,
+female,
+food,
+fruit,
+gender:female,
+genre:fantasy,
+hi res,
+hopes,
+horn,
+horns,
+leaf,
+lying,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:2019,
+meta:hi_res,
+meta:widescreen,
+mlp,
+plant,
+rain,
+rating:safe,
+road,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+shattered,
+sleeping,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"cold road" by rodion bochenin (discordthege),
+title:cold road,
+train station,
+train_station,
+trip,
+trixie,
+unicorn,
+uploader:torvusil,

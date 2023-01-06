@@ -1,69 +1,69 @@
-angry
-anthro
-anthropomorphism
-beak
-board:/v/
-bodypart:teeth
-bottomwear
-category:ine
-character:gregg (nitw)
-character:gregg lee
-character:mae borowski
-claws
-clothing
-clothing:boots
-clothing:bottomwear
-clothing:footwear
-clothing:jacket
-clothing:legwear
-clothing:pants
-clothing:topwear
-creator:yacrical
-darkness
-emotion:anger
-emotion:confusion
-fangs
-feathers
-feral
-footwear
-jacket
-leather
-leather clothing
-leather jacket
-leather topwear
-lockpick
-medium:high resolution
-medium:watermark
-meta:hi res
-meta:tagme
-meta:watermark
-night
-one eye closed
-rating:safe
-series:night in the woods
-sharp teeth
-site:4chan.org
-species:avian
-species:bird
-species:canid
-species:canine
-species:cat
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:fox
-species:mammal
-species:owl
-subreddit:imaginaryanimals
-subreddit:imnature
-surprise
-teeth
-title:owl attack
-title:owl attack by 'yacrical'
-topwear
-uploader:myrandall
-video games
-watermark
-website:chan style imageboards
-website:e621
+angry,
+anthro,
+anthropomorphism,
+beak,
+board:/v/,
+bodypart:teeth,
+bottomwear,
+category:ine,
+character:gregg (nitw),
+character:gregg lee,
+character:mae borowski,
+claws,
+clothing,
+clothing:boots,
+clothing:bottomwear,
+clothing:footwear,
+clothing:jacket,
+clothing:legwear,
+clothing:pants,
+clothing:topwear,
+creator:yacrical,
+darkness,
+emotion:anger,
+emotion:confusion,
+fangs,
+feathers,
+feral,
+footwear,
+jacket,
+leather,
+leather clothing,
+leather jacket,
+leather topwear,
+lockpick,
+medium:high resolution,
+medium:watermark,
+meta:hi res,
+meta:tagme,
+meta:watermark,
+night,
+one eye closed,
+rating:safe,
+series:night in the woods,
+sharp teeth,
+site:4chan.org,
+species:avian,
+species:bird,
+species:canid,
+species:canine,
+species:cat,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:fox,
+species:mammal,
+species:owl,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+surprise,
+teeth,
+title:owl attack,
+title:owl attack by 'yacrical',
+topwear,
+uploader:myrandall,
+video games,
+watermark,
+website:chan style imageboards,
+website:e621,

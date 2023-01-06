@@ -1,56 +1,56 @@
-art
-booru:e621
-category:ine
-creator:jasper sandner
-creator:jaspersandner
-detailed background
-forest
-gender:male
-hair
-holding object
-holding weapon
-long hair
-looking at viewer
-low-angle view
-male
-medium:detailed background
-melee weapon
-meta:official art
-meta:restricted palette
-monster
-muscular
-muscular male
-muscular taur
-nature
-on hind legs
-outside
-plant
-polearm
-pov
-rating:safe
-real person
-restricted palette
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-solo
-spear
-species:centaur
-species:equid
-species:equid taur
-species:equine
-species:equine taur
-species:humanoid taur
-species:mammal
-species:mammal taur
-species:taur
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarycentaurs
-subreddit:imraces
-title:savage surge
-title:savage surge by jasper sandner
-tree
-uploader:lol33ta
-weapon
+art,
+booru:e621,
+category:ine,
+creator:jasper sandner,
+creator:jaspersandner,
+detailed background,
+forest,
+gender:male,
+hair,
+holding object,
+holding weapon,
+long hair,
+looking at viewer,
+low-angle view,
+male,
+medium:detailed background,
+melee weapon,
+meta:official art,
+meta:restricted palette,
+monster,
+muscular,
+muscular male,
+muscular taur,
+nature,
+on hind legs,
+outside,
+plant,
+polearm,
+pov,
+rating:safe,
+real person,
+restricted palette,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+solo,
+spear,
+species:centaur,
+species:equid,
+species:equid taur,
+species:equine,
+species:equine taur,
+species:humanoid taur,
+species:mammal,
+species:mammal taur,
+species:taur,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarycentaurs,
+subreddit:imraces,
+title:savage surge,
+title:savage surge by jasper sandner,
+tree,
+uploader:lol33ta,
+weapon,

@@ -1,36 +1,36 @@
-cardgame
-cards
-cat
-category:ine
-character
-coins
-creator:jeffrey read
-deck
-elder scrolls
-fantasy
-furry
-genre:fantasy
-khajit
-leather armor
-legends
-medium:detailed background
-medium:digital 2d
-morning
-rating:safe
-rogue
-series:the elder scrolls
-species:cat
-species:feline
-species:khajiit
-species:mammal
-species:tabaxi
-subreddit:imaginaryassassins
-subreddit:imaginarytamriel
-subreddit:imcharacters
-subreddit:imfandoms
-thief
-title:legends decks - thieves guild fence
-title:legends decks - thieves guild fence by jeffrey read
-title:thieves guild fence by jeffrey read
-uploader:knighterrannt
-uploader:lol33ta
+cardgame,
+cards,
+cat,
+category:ine,
+character,
+coins,
+creator:jeffrey read,
+deck,
+elder scrolls,
+fantasy,
+furry,
+genre:fantasy,
+khajit,
+leather armor,
+legends,
+medium:detailed background,
+medium:digital 2d,
+morning,
+rating:safe,
+rogue,
+series:the elder scrolls,
+species:cat,
+species:feline,
+species:khajiit,
+species:mammal,
+species:tabaxi,
+subreddit:imaginaryassassins,
+subreddit:imaginarytamriel,
+subreddit:imcharacters,
+subreddit:imfandoms,
+thief,
+title:legends decks - thieves guild fence,
+title:legends decks - thieves guild fence by jeffrey read,
+title:thieves guild fence by jeffrey read,
+uploader:knighterrannt,
+uploader:lol33ta,

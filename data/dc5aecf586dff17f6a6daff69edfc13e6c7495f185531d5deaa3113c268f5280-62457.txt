@@ -1,21 +1,21 @@
-blue
-category:ine
-creator:bastien grivet
-door
-elven
-genre:fantasy
-ipad
-lake
-magic
-magical
-medium:digital 2d
-mountain
-mystical
-procreate
-river
-rock
-subreddit:imaginarypathways
-subreddit:imlandscapes
-title:the door - procreate
-title:the door by bastien grivet
-uploader:incredibel
+blue,
+category:ine,
+creator:bastien grivet,
+door,
+elven,
+genre:fantasy,
+ipad,
+lake,
+magic,
+magical,
+medium:digital 2d,
+mountain,
+mystical,
+procreate,
+river,
+rock,
+subreddit:imaginarypathways,
+subreddit:imlandscapes,
+title:the door - procreate,
+title:the door by bastien grivet,
+uploader:incredibel,

@@ -1,24 +1,24 @@
-aircraft
-airplane
-category:ine
-cloud
-condensation trail
-dated
-fighter jet
-flying
-jet
-lens flare
-light rays
-military
-military vehicle
-pilot
-rating:safe
-realistic
-signature
-sky
-subreddit:imaginaryaviation
-subreddit:imtechnology
-sun
-sunlight
-title:inc: from out of the sun by jeremy cook
-uploader:synntara
+aircraft,
+airplane,
+category:ine,
+cloud,
+condensation trail,
+dated,
+fighter jet,
+flying,
+jet,
+lens flare,
+light rays,
+military,
+military vehicle,
+pilot,
+rating:safe,
+realistic,
+signature,
+sky,
+subreddit:imaginaryaviation,
+subreddit:imtechnology,
+sun,
+sunlight,
+title:inc: from out of the sun by jeremy cook,
+uploader:synntara,

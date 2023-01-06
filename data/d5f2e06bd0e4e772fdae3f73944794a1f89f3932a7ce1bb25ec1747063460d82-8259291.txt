@@ -1,51 +1,51 @@
-booru:e621
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-cloud
-creator:cannibalus
-crown
-cutie mark
-day
-eyelashes
-feathered wings
-feathers
-female
-feral
-fur
-gender:female
-genre:fantasy
-hair
-horn
-horns
-jewelry
-medium:high resolution
-meta:hi res
-multicolored hair
-multicolored tail
-outside
-purple eyes
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-spread wings
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-tail
-tiara
-title:celestia by 'cannibalus'
-unicorn horn
-uploader:myrandall
-white body
-white feathers
-white fur
-wings
+booru:e621,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+cloud,
+creator:cannibalus,
+crown,
+cutie mark,
+day,
+eyelashes,
+feathered wings,
+feathers,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+horn,
+horns,
+jewelry,
+medium:high resolution,
+meta:hi res,
+multicolored hair,
+multicolored tail,
+outside,
+purple eyes,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+spread wings,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+tail,
+tiara,
+title:celestia by 'cannibalus',
+unicorn horn,
+uploader:myrandall,
+white body,
+white feathers,
+white fur,
+wings,

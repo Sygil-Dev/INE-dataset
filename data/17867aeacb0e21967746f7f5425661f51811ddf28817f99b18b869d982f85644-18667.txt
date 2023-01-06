@@ -1,94 +1,94 @@
-1 female
-1girl
-air jordan
-air jordan 1
-artist name
-asymmetrical hair
-bike shorts
-blonde hair
-blue eyes
-blush
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-casual
-category:ine
-character:gwen stacy
-character:gwen stacy (into the spider-verse)
-character:gwendolyn maxine stacy
-character:spider-gwen
-clothes writing
-clothing:bike shorts
-clothing:footwear
-clothing:hood
-clothing:hoodie
-clothing:legwear
-clothing:shoes
-clothing:shorts
-creator:kai
-creator:kairan-momochi
-creator:umigraphics
-eyebrow piercing
-facial piercing
-female
-footwear
-gender:female
-gwenstacy
-hood
-hoodie
-kneeling
-legwear
-light blush
-looking at viewer
-medium:1:1 aspect ratio
-medium:2d art
-medium:artist name
-medium:simple background
-medium:white background
-meta:artist name
-meta:commentary request
-nike
-parted lips
-piercing
-pixiv id:2126109
-pixiv work:73805384
-pov
-rating:general
-rating:safe
-rating:sensitive
-series:air jordan
-series:air jordan 1
-series:marvel
-series:nike
-series:spider-man
-series:spider-man (series)
-series:spider-man: into the spider-verse
-shoes
-short hair
-shorts
-sidecut
-simple background
-smile
-sneakers
-solo
-spats
-spiderverse
-studio:marvel
-subreddit:imaginaryfashion
-subreddit:immeta
-text on clothes
-title:gwen x air jordan 1
-title:gwen x air jordan 1 by kai - umigraphics
-umigraphics
-undercut
-uploader:incredibel
-white background
-white hoodie
-グウェン・ステーシー
-スパイダーグウェン
-スパイダーバース
-スパイダーマン
-マーベル
-厚塗り
+1 female,
+1girl,
+air jordan,
+air jordan 1,
+artist name,
+asymmetrical hair,
+bike shorts,
+blonde hair,
+blue eyes,
+blush,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+casual,
+category:ine,
+character:gwen stacy,
+character:gwen stacy (into the spider-verse),
+character:gwendolyn maxine stacy,
+character:spider-gwen,
+clothes writing,
+clothing:bike shorts,
+clothing:footwear,
+clothing:hood,
+clothing:hoodie,
+clothing:legwear,
+clothing:shoes,
+clothing:shorts,
+creator:kai,
+creator:kairan-momochi,
+creator:umigraphics,
+eyebrow piercing,
+facial piercing,
+female,
+footwear,
+gender:female,
+gwenstacy,
+hood,
+hoodie,
+kneeling,
+legwear,
+light blush,
+looking at viewer,
+medium:1:1 aspect ratio,
+medium:2d art,
+medium:artist name,
+medium:simple background,
+medium:white background,
+meta:artist name,
+meta:commentary request,
+nike,
+parted lips,
+piercing,
+pixiv id:2126109,
+pixiv work:73805384,
+pov,
+rating:general,
+rating:safe,
+rating:sensitive,
+series:air jordan,
+series:air jordan 1,
+series:marvel,
+series:nike,
+series:spider-man,
+series:spider-man (series),
+series:spider-man: into the spider-verse,
+shoes,
+short hair,
+shorts,
+sidecut,
+simple background,
+smile,
+sneakers,
+solo,
+spats,
+spiderverse,
+studio:marvel,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+text on clothes,
+title:gwen x air jordan 1,
+title:gwen x air jordan 1 by kai - umigraphics,
+umigraphics,
+undercut,
+uploader:incredibel,
+white background,
+white hoodie,
+グウェン・ステーシー,
+スパイダーグウェン,
+スパイダーバース,
+スパイダーマン,
+マーベル,
+厚塗り,

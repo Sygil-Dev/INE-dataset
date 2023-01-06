@@ -1,33 +1,33 @@
-animal
-artist name
-beach
-bird
-blue sky
-blurry
-blurry background
-blurry foreground
-boat
-category:ine
-cloud
-day
-depth of field
-fish
-flock
-horizon
-motion blur
-ocean
-outdoors
-rating:safe
-scenery
-seagull
-ship
-signature
-sky
-subreddit:imaginaryanimals
-subreddit:imnature
-title:project here: coda by julian seifert
-uploader:chroneeze
-water
-watercraft
-waves
-whale
+animal,
+artist name,
+beach,
+bird,
+blue sky,
+blurry,
+blurry background,
+blurry foreground,
+boat,
+category:ine,
+cloud,
+day,
+depth of field,
+fish,
+flock,
+horizon,
+motion blur,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+seagull,
+ship,
+signature,
+sky,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:project here: coda by julian seifert,
+uploader:chroneeze,
+water,
+watercraft,
+waves,
+whale,

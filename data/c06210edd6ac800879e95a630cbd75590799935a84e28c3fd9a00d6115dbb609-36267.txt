@@ -1,51 +1,51 @@
-1 female
-armor
-art
-blue eyes
-braid
-breastplate
-category:ine
-clothing:armor
-clothing:hair tie
-commentary
-creator:kir-tat
-creator:tatiana kirgetova
-dated
-freckles
-full armor
-full_armor
-gender:female
-greaves
-halberd
-image_sample
-legend_of_the_cryptids
-lips
-long hair
-medium:dated
-medium:realistic
-meta:commentary
-meta:english commentary
-meta:official art
-multiple swords
-nose
-plate armor
-plate_armor
-polearm
-rating:mature
-rating:safe
-realistic
-red hair
-scabbard
-series:legend of the cryptids
-sheath
-single braid
-solo
-subreddit:imaginaryclerics
-subreddit:imcharacters
-sword
-tatiana_kirgetova
-title:christina 1
-title:christina 1 by tatiana kirgetova
-unsheathing
-uploader:lol33ta
-weapon
+1 female,
+armor,
+art,
+blue eyes,
+braid,
+breastplate,
+category:ine,
+clothing:armor,
+clothing:hair tie,
+commentary,
+creator:kir-tat,
+creator:tatiana kirgetova,
+dated,
+freckles,
+full armor,
+full_armor,
+gender:female,
+greaves,
+halberd,
+image_sample,
+legend_of_the_cryptids,
+lips,
+long hair,
+medium:dated,
+medium:realistic,
+meta:commentary,
+meta:english commentary,
+meta:official art,
+multiple swords,
+nose,
+plate armor,
+plate_armor,
+polearm,
+rating:mature,
+rating:safe,
+realistic,
+red hair,
+scabbard,
+series:legend of the cryptids,
+sheath,
+single braid,
+solo,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+sword,
+tatiana_kirgetova,
+title:christina 1,
+title:christina 1 by tatiana kirgetova,
+unsheathing,
+uploader:lol33ta,
+weapon,

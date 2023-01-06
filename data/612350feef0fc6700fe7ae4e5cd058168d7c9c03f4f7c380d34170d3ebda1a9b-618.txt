@@ -1,21 +1,21 @@
-art
-category:ine
-color
-concept
-creator:todd ulrich
-design
-drawing
-fantasy
-illustration
-medium:digital 2d
-scifi
-sketch
-subreddit:imaginarydwarves
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imraces
-title:haaz
-title:haaz by todd ulrich
-uploader:myrandall
-uploader:net-diver
-weapon
+art,
+category:ine,
+color,
+concept,
+creator:todd ulrich,
+design,
+drawing,
+fantasy,
+illustration,
+medium:digital 2d,
+scifi,
+sketch,
+subreddit:imaginarydwarves,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imraces,
+title:haaz,
+title:haaz by todd ulrich,
+uploader:myrandall,
+uploader:net-diver,
+weapon,

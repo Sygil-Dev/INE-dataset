@@ -1,45 +1,45 @@
-1 male
-aiming
-arm cannon
-blue eyes
-capcom
-category:ine
-character name
-character:rockman
-creator:mike luckas
-creator:mikeluckas
-firing
-gaming
-gender:male
-gradient
-gradient background
-headwear
-helmet
-male focus
-medium:gradient background
-medium:simple background
-medium:watermark
-medium:web address
-mega_man
-megaman
-nintendo
-rating:safe
-robot
-rockman
-series:rockman
-series:rockman (classic)
-signature
-smoke
-solo
-striped
-striped background
-studio:capcom
-subreddit:imaginarygaming
-subreddit:imfandoms
-title:"megaman" by mike luckas
-title:megaman
-uploader:torvusil
-videogames
-watermark
-weapon
-web address
+1 male,
+aiming,
+arm cannon,
+blue eyes,
+capcom,
+category:ine,
+character name,
+character:rockman,
+creator:mike luckas,
+creator:mikeluckas,
+firing,
+gaming,
+gender:male,
+gradient,
+gradient background,
+headwear,
+helmet,
+male focus,
+medium:gradient background,
+medium:simple background,
+medium:watermark,
+medium:web address,
+mega_man,
+megaman,
+nintendo,
+rating:safe,
+robot,
+rockman,
+series:rockman,
+series:rockman (classic),
+signature,
+smoke,
+solo,
+striped,
+striped background,
+studio:capcom,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+title:"megaman" by mike luckas,
+title:megaman,
+uploader:torvusil,
+videogames,
+watermark,
+weapon,
+web address,

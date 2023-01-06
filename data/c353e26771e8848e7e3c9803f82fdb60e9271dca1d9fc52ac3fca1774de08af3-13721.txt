@@ -1,35 +1,35 @@
-anthro
-blue pawpads
-blue sclera
-booru:e621
-category:ine
-creator:kenket
-crouching
-fur
-male
-meow
-meta:2018
-meta:hi res
-meta:url
-nude
-pawpads
-paws
-rating:safe
-series:nintendo
-series:pokémon
-simple background
-solo
-source:furaffinity.net
-species:legendary pokémon
-species:pokémon (species)
-species:zeraora
-subreddit:imaginarykanto
-subreddit:imfandoms
-text
-title:zeraora
-title:zeraora by tess garman
-uploader:myrandall
-video games
-white background
-yellow body
-yellow fur
+anthro,
+blue pawpads,
+blue sclera,
+booru:e621,
+category:ine,
+creator:kenket,
+crouching,
+fur,
+male,
+meow,
+meta:2018,
+meta:hi res,
+meta:url,
+nude,
+pawpads,
+paws,
+rating:safe,
+series:nintendo,
+series:pokémon,
+simple background,
+solo,
+source:furaffinity.net,
+species:legendary pokémon,
+species:pokémon (species),
+species:zeraora,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+text,
+title:zeraora,
+title:zeraora by tess garman,
+uploader:myrandall,
+video games,
+white background,
+yellow body,
+yellow fur,

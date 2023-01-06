@@ -1,44 +1,44 @@
-architecture
-beach
-blue sky
-boat
-bridge
-building
-castle
-category:ine
-chimney
-city
-city lights
-cityscape
-cloud
-cloudy sky
-day
-dock
-fantasy
-floating island
-horizon
-house
-island
-landscape
-moon
-mountain
-no humans
-ocean
-outdoors
-planet
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-sun
-sunset
-title:castle town by ast ralf
-tower
-uploader:princess-leiya
-water
-watercraft
-waterfall
-website:reddit
-windmill
+architecture,
+beach,
+blue sky,
+boat,
+bridge,
+building,
+castle,
+category:ine,
+chimney,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+day,
+dock,
+fantasy,
+floating island,
+horizon,
+house,
+island,
+landscape,
+moon,
+mountain,
+no humans,
+ocean,
+outdoors,
+planet,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+sun,
+sunset,
+title:castle town by ast ralf,
+tower,
+uploader:princess-leiya,
+water,
+watercraft,
+waterfall,
+website:reddit,
+windmill,

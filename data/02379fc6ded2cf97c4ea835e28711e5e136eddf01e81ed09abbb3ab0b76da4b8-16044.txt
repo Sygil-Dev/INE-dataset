@@ -1,24 +1,24 @@
-1girl
-air bubble
-boat
-bubble
-category:ine
-caustics
-horizon
-long hair
-ocean
-open mouth
-purple hair
-rating:safe
-ship
-splashing
-subreddit:imaginarywizards
-subreddit:imcharacters
-swimming
-title:fathom mage by dan scott
-underwater
-uploader:tellanas
-water
-water drop
-watercraft
-waves
+1girl,
+air bubble,
+boat,
+bubble,
+category:ine,
+caustics,
+horizon,
+long hair,
+ocean,
+open mouth,
+purple hair,
+rating:safe,
+ship,
+splashing,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+swimming,
+title:fathom mage by dan scott,
+underwater,
+uploader:tellanas,
+water,
+water drop,
+watercraft,
+waves,

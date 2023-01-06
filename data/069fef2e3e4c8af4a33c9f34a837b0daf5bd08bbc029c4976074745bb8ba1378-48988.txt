@@ -1,22 +1,22 @@
-burning
-category:ine
-cloud
-cloudy sky
-evening
-fire
-helmet
-orange sky
-rating:safe
-red sky
-sky
-solo
-standing
-subreddit:imaginaryhellscapes
-subreddit:imlandscapes
-sun
-sunset
-title:soothsayer by tomasz ryger
-twilight
-uploader:lol33ta
-uploader:merigemini
-website:reddit
+burning,
+category:ine,
+cloud,
+cloudy sky,
+evening,
+fire,
+helmet,
+orange sky,
+rating:safe,
+red sky,
+sky,
+solo,
+standing,
+subreddit:imaginaryhellscapes,
+subreddit:imlandscapes,
+sun,
+sunset,
+title:soothsayer by tomasz ryger,
+twilight,
+uploader:lol33ta,
+uploader:merigemini,
+website:reddit,

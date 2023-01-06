@@ -1,23 +1,23 @@
-2d
-architecture
-art
-artwork
-birds
-buddhism
-category:ine
-eddie mendoza
-environment
-fantasy art
-medium:concept art
-medium:digital media
-monks
-plants
-religion
-subreddit:imaginarybestof
-subreddit:imaginarytemples
-subreddit:immeta
-temple
-title:[/r/imaginaryarchitecture] the meditation garden by eddie mendoza
-title:the meditation garden by eddie mendoza
-uploader:[deleted]
-uploader:lol33ta
+2d,
+architecture,
+art,
+artwork,
+birds,
+buddhism,
+category:ine,
+eddie mendoza,
+environment,
+fantasy art,
+medium:concept art,
+medium:digital media,
+monks,
+plants,
+religion,
+subreddit:imaginarybestof,
+subreddit:imaginarytemples,
+subreddit:immeta,
+temple,
+title:[/r/imaginaryarchitecture] the meditation garden by eddie mendoza,
+title:the meditation garden by eddie mendoza,
+uploader:[deleted],
+uploader:lol33ta,

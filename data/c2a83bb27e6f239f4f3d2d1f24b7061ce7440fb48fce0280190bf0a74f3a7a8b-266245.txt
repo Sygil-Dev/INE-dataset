@@ -1,31 +1,31 @@
-ambiguous gender
-booru:e621
-category:ine
-creator:kitchiki
-day
-detailed background
-feral
-fur
-gender:ambiguous
-grass
-medium:detailed background
-outside
-paws
-rating:safe
-sky
-solo
-species:canid
-species:canine
-species:canis
-species:dog
-species:domestic dog
-species:ghost
-species:mammal
-species:spirit
-species:undead
-subreddit:imaginaryspirits
-subreddit:immonsters
-title:"ghost" by phoebe warries (kitchiki)
-title:ghost
-uploader:torvusil
-white fur
+ambiguous gender,
+booru:e621,
+category:ine,
+creator:kitchiki,
+day,
+detailed background,
+feral,
+fur,
+gender:ambiguous,
+grass,
+medium:detailed background,
+outside,
+paws,
+rating:safe,
+sky,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:dog,
+species:domestic dog,
+species:ghost,
+species:mammal,
+species:spirit,
+species:undead,
+subreddit:imaginaryspirits,
+subreddit:immonsters,
+title:"ghost" by phoebe warries (kitchiki),
+title:ghost,
+uploader:torvusil,
+white fur,

@@ -1,52 +1,52 @@
-booru:e621
-category:ine
-character:twilight sparkle
-character:twilight sparkle (mlp)
-creator:shamanguli
-detailed background
-female
-feral
-forest
-gender:female
-genre:fantasy
-hi res
-hooves
-horn
-horns
-landscape
-magic
-medium:detailed background
-medium:high resolution
-meta:hi res
-mylittlepony
-mylittleponyfriendshipismagic
-nature
-outside
-painting
-plant
-portal
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imaginaryportals
-subreddit:imfandoms
-subreddit:imtechnology
-title:"dispersion" by shamanguli
-title:dispersion
-title:dispersion by shamanguli
-tree
-twilight
-twilightsparkle
-unicorn
-uploader:myrandall
-uploader:torvusil
+booru:e621,
+category:ine,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+creator:shamanguli,
+detailed background,
+female,
+feral,
+forest,
+gender:female,
+genre:fantasy,
+hi res,
+hooves,
+horn,
+horns,
+landscape,
+magic,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+mylittlepony,
+mylittleponyfriendshipismagic,
+nature,
+outside,
+painting,
+plant,
+portal,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imaginaryportals,
+subreddit:imfandoms,
+subreddit:imtechnology,
+title:"dispersion" by shamanguli,
+title:dispersion,
+title:dispersion by shamanguli,
+tree,
+twilight,
+twilightsparkle,
+unicorn,
+uploader:myrandall,
+uploader:torvusil,

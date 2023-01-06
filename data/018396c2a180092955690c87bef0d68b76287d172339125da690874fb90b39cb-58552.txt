@@ -1,24 +1,24 @@
-1boy
-beard
-belt
-belt pouch
-boots
-category:ine
-facial hair
-full body
-gloves
-gun
-holding
-holding gun
-holding weapon
-male focus
-pouch
-rating:safe
-shield
-solo
-standing
-subreddit:imaginaryknights
-subreddit:imcharacters
-title:poor knight by alexander shatohin
-uploader:natezomby
-weapon
+1boy,
+beard,
+belt,
+belt pouch,
+boots,
+category:ine,
+facial hair,
+full body,
+gloves,
+gun,
+holding,
+holding gun,
+holding weapon,
+male focus,
+pouch,
+rating:safe,
+shield,
+solo,
+standing,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+title:poor knight by alexander shatohin,
+uploader:natezomby,
+weapon,

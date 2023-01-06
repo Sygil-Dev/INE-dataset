@@ -1,27 +1,27 @@
-aircraft
-airplane
-alex
-alien
-aviation
-birrin
-category:ine
-creator:abiogenisis
-desert
-plane
-ries
-sciencefiction
-scifi
-subreddit:imaginaryaliens
-subreddit:imaginaryaviation
-subreddit:imaginaryfuturewar
-subreddit:imaginaryvehicles
-subreddit:imraces
-subreddit:imtechnology
-title:close air support
-title:close air support by abiogenisis
-title:close air support by alex ries
-uploader:lol33ta
-uploader:myrandall
-uploader:nachtigall44
-war
-xenobiology
+aircraft,
+airplane,
+alex,
+alien,
+aviation,
+birrin,
+category:ine,
+creator:abiogenisis,
+desert,
+plane,
+ries,
+sciencefiction,
+scifi,
+subreddit:imaginaryaliens,
+subreddit:imaginaryaviation,
+subreddit:imaginaryfuturewar,
+subreddit:imaginaryvehicles,
+subreddit:imraces,
+subreddit:imtechnology,
+title:close air support,
+title:close air support by abiogenisis,
+title:close air support by alex ries,
+uploader:lol33ta,
+uploader:myrandall,
+uploader:nachtigall44,
+war,
+xenobiology,

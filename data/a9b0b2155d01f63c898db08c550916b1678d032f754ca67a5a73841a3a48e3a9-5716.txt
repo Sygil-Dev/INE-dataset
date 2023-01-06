@@ -1,21 +1,21 @@
-armor
-artwork
-astronaut
-category:ine
-creator:thibault girard
-fantasy art
-futuristic
-gender:female
-helmet
-illustration
-medium:digital 2d
-medium:digital media
-space
-subreddit:imaginaryastronauts
-subreddit:imaginarycyberpunk
-subreddit:imcharacters
-subreddit:imtechnology
-suit
-title:suit
-title:thibault girard: suit
-uploader:nfcwalletcard
+armor,
+artwork,
+astronaut,
+category:ine,
+creator:thibault girard,
+fantasy art,
+futuristic,
+gender:female,
+helmet,
+illustration,
+medium:digital 2d,
+medium:digital media,
+space,
+subreddit:imaginaryastronauts,
+subreddit:imaginarycyberpunk,
+subreddit:imcharacters,
+subreddit:imtechnology,
+suit,
+title:suit,
+title:thibault girard: suit,
+uploader:nfcwalletcard,

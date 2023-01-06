@@ -1,25 +1,25 @@
-category:ine
-cherry
-creator:bjpentecost
-creator:silverone
-cupcake
-desert
-dessert
-dino
-dinosaur
-frosting
-fruit
-humans
-icing
-nom
-noms
-offering
-people
-sacrifice
-species:extinct
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-title:the offering is accepted
-title:the offering, it is accepted
-title:the offering, it is accepted by bobbie jean pentecost (xpost /r/sympatheticmonsters)
-uploader:lol33ta
+category:ine,
+cherry,
+creator:bjpentecost,
+creator:silverone,
+cupcake,
+desert,
+dessert,
+dino,
+dinosaur,
+frosting,
+fruit,
+humans,
+icing,
+nom,
+noms,
+offering,
+people,
+sacrifice,
+species:extinct,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+title:the offering is accepted,
+title:the offering, it is accepted,
+title:the offering, it is accepted by bobbie jean pentecost (xpost /r/sympatheticmonsters),
+uploader:lol33ta,

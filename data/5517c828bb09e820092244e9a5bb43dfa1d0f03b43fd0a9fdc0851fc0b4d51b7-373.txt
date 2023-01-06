@@ -1,28 +1,28 @@
-alien
-archive
-armor plates
-bone
-category:concept art
-category:ine
-concept art
-creator:leonardo silva carvalho
-creature
-creature art
-file
-glowing eyes
-medium:digital 2d
-monster
-nocturnal
-old paper
-organic
-ribcage
-subreddit:conceptart
-subreddit:imaginaryaliens
-subreddit:imaginarybeasts
-subreddit:imaginarybehemoths
-subreddit:immeta
-subreddit:immonsters
-subreddit:imraces
-title:the narkarak - creature file
-title:the narkarak - creature file (artstation)
-uploader:shademeadows
+alien,
+archive,
+armor plates,
+bone,
+category:concept art,
+category:ine,
+concept art,
+creator:leonardo silva carvalho,
+creature,
+creature art,
+file,
+glowing eyes,
+medium:digital 2d,
+monster,
+nocturnal,
+old paper,
+organic,
+ribcage,
+subreddit:conceptart,
+subreddit:imaginaryaliens,
+subreddit:imaginarybeasts,
+subreddit:imaginarybehemoths,
+subreddit:immeta,
+subreddit:immonsters,
+subreddit:imraces,
+title:the narkarak - creature file,
+title:the narkarak - creature file (artstation),
+uploader:shademeadows,

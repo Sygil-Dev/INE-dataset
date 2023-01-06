@@ -1,56 +1,56 @@
-ambiguous gender
-booru:e621
-booru:safebooru
-category:ine
-cloud
-creator:dekunobou kizakura
-creator:dekunobou-kizakura
-creator:teru sakura
-dekunobou kizakura
-fangs
-feral
-furry
-gen 2 pokemon
-gender:ambiguous
-looking at viewer
-meta:commentary request
-no humans
-ocean
-open mouth
-photorealism
-pokemon (creature)
-pov
-rating:mature
-rating:safe
-realistic
-red eyes
-series:nintendo
-series:pokemon
-series:pokémon
-slit pupils
-solo
-species:aquatic dragon
-species:dragon
-species:legendary pokémon
-species:lugia
-species:marine
-species:monster
-species:mythical
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:scalie
-splash
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-surfacing
-teeth
-title:lugia
-title:lugia by dekunobou-kizakura on deviantart (real name unknown)
-uploader:o_no_my_buttholes
-water
-wet
-white body
-white skin
-wings
+ambiguous gender,
+booru:e621,
+booru:safebooru,
+category:ine,
+cloud,
+creator:dekunobou kizakura,
+creator:dekunobou-kizakura,
+creator:teru sakura,
+dekunobou kizakura,
+fangs,
+feral,
+furry,
+gen 2 pokemon,
+gender:ambiguous,
+looking at viewer,
+meta:commentary request,
+no humans,
+ocean,
+open mouth,
+photorealism,
+pokemon (creature),
+pov,
+rating:mature,
+rating:safe,
+realistic,
+red eyes,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+slit pupils,
+solo,
+species:aquatic dragon,
+species:dragon,
+species:legendary pokémon,
+species:lugia,
+species:marine,
+species:monster,
+species:mythical,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:scalie,
+splash,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+surfacing,
+teeth,
+title:lugia,
+title:lugia by dekunobou-kizakura on deviantart (real name unknown),
+uploader:o_no_my_buttholes,
+water,
+wet,
+white body,
+white skin,
+wings,

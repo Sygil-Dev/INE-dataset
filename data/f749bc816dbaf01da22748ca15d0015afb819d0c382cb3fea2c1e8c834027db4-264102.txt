@@ -1,24 +1,24 @@
-art
-artwork
-category:ine
-character
-concept art
-creator:sergey vasnev
-desert
-desrt
-drone
-dust
-fallout
-fantasy art
-futuristic
-hoverbike
-hovercraft
-medium:concept art
-medium:digital 2d
-medium:digital media
-postapocalyptic
-rider
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-title:desert rider by sergey vasnev
-uploader:ethereeal
+art,
+artwork,
+category:ine,
+character,
+concept art,
+creator:sergey vasnev,
+desert,
+desrt,
+drone,
+dust,
+fallout,
+fantasy art,
+futuristic,
+hoverbike,
+hovercraft,
+medium:concept art,
+medium:digital 2d,
+medium:digital media,
+postapocalyptic,
+rider,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+title:desert rider by sergey vasnev,
+uploader:ethereeal,

@@ -1,23 +1,23 @@
-boat
-category:ine
-creator:bastien grivet
-medium:digital 2d
-monster
-ocean
-storm
-subreddit:imaginaryseascapes
-subreddit:imaginaryvessels
-subreddit:imaginaryweather
-subreddit:imlandscapes
-subreddit:imnature
-subreddit:imtechnology
-tempest
-title:the big one
-title:the big one by bastien grivet
-uploader:imwaaal
-uploader:lol33ta
-uploader:panzer-kunst
-uploader:valar_m0rghul1s
-vehicle
-watercraft
-wave
+boat,
+category:ine,
+creator:bastien grivet,
+medium:digital 2d,
+monster,
+ocean,
+storm,
+subreddit:imaginaryseascapes,
+subreddit:imaginaryvessels,
+subreddit:imaginaryweather,
+subreddit:imlandscapes,
+subreddit:imnature,
+subreddit:imtechnology,
+tempest,
+title:the big one,
+title:the big one by bastien grivet,
+uploader:imwaaal,
+uploader:lol33ta,
+uploader:panzer-kunst,
+uploader:valar_m0rghul1s,
+vehicle,
+watercraft,
+wave,

@@ -1,26 +1,26 @@
-aleksa stajsic
-axe
-barbarian
-category:ine
-conan
-conceptart
-creator:aleksa stajsic
-creature
-death dealer
-deathdealer
-demon
-demon warrior
-frank franzetta
-frankfranzetta
-knight
-medium:digital 2d
-painting
-soldier
-subreddit:imaginaryknights
-subreddit:imaginarysoldiers
-subreddit:imaginarywarriors
-subreddit:imcharacters
-title:death dealer
-uploader:al3ks4
-warrior
-weapon
+aleksa stajsic,
+axe,
+barbarian,
+category:ine,
+conan,
+conceptart,
+creator:aleksa stajsic,
+creature,
+death dealer,
+deathdealer,
+demon,
+demon warrior,
+frank franzetta,
+frankfranzetta,
+knight,
+medium:digital 2d,
+painting,
+soldier,
+subreddit:imaginaryknights,
+subreddit:imaginarysoldiers,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+title:death dealer,
+uploader:al3ks4,
+warrior,
+weapon,

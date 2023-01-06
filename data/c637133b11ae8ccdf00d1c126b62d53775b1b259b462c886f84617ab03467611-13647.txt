@@ -1,58 +1,58 @@
-2018
-ambiguous gender
-black eyes
-blue body
-blue skin
-booru:e621
-category:ine
-creator:kenket
-day
-ditto
-fin
-gen 1 pokemon
-gen 2 pokemon
-gender:ambiguous
-group
-medium:high resolution
-medium:traditional media
-meta:2018
-meta:hi res
-meta:painting (artwork)
-meta:traditional media (artwork)
-meta:url
-outside
-painting (artwork)
-rating:safe
-red body
-red skin
-sea
-series:nintendo
-series:pokémon
-size difference
-smile
-source:furaffinity.net
-species:ditto
-species:ditto (pokémon)
-species:hybrid
-species:magikarp
-species:marine
-species:monster
-species:pokémon
-species:pokémon (species)
-species:qwilfish
-species:wailord
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-swimming
-text
-title:wailord
-title:wailord by tess garman
-underwater
-uploader:myrandall
-url
-video games
-water
-white body
-white skin
-year:2018
+2018,
+ambiguous gender,
+black eyes,
+blue body,
+blue skin,
+booru:e621,
+category:ine,
+creator:kenket,
+day,
+ditto,
+fin,
+gen 1 pokemon,
+gen 2 pokemon,
+gender:ambiguous,
+group,
+medium:high resolution,
+medium:traditional media,
+meta:2018,
+meta:hi res,
+meta:painting (artwork),
+meta:traditional media (artwork),
+meta:url,
+outside,
+painting (artwork),
+rating:safe,
+red body,
+red skin,
+sea,
+series:nintendo,
+series:pokémon,
+size difference,
+smile,
+source:furaffinity.net,
+species:ditto,
+species:ditto (pokémon),
+species:hybrid,
+species:magikarp,
+species:marine,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:qwilfish,
+species:wailord,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+swimming,
+text,
+title:wailord,
+title:wailord by tess garman,
+underwater,
+uploader:myrandall,
+url,
+video games,
+water,
+white body,
+white skin,
+year:2018,

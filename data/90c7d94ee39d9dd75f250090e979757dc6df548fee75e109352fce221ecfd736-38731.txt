@@ -1,102 +1,102 @@
-1 female
-1girl
-amazon
-arm guards
-armlet
-armor
-bare shoulders
-belt
-black hair
-blue eyes
-blue sky
-blurry
-boots
-bracer
-breastplate
-building
-category:ine
-character:diana prince
-character:wonder woman
-city
-clavicle
-clenched hand
-close-up
-clothing:earrings
-clothing:footwear
-cloud
-clouds
-cloudy sky
-collarbone
-copyright name
-creator:artgerm
-creator:stanley lau
-day
-depth of field
-earrings
-exposed shoulders
-female
-female only
-female solo
-floating hair
-flying
-footwear
-gauntlets
-gender:female
-headband
-holding
-holding object
-holding weapon
-holding whip
-hong kong
-jewelry
-knee boots
-lasso
-lasso of truth
-leotard
-light rays
-long hair
-looking at viewer
-medium:copyright name
-medium:depth of field
-medium:fanart from deviantart
-medium:realistic
-midair
-motion lines
-outdoors
-outside
-piercing
-pov
-rating:mature
-rating:safe
-realistic
-red boots
-red footwear
-river
-series:dc comics
-series:wonder woman
-series:wonder woman (series)
-shirt
-shoes
-site:deviantart
-sky
-skyscraper
-sleeveless
-solo
-speed lines
-star
-star (symbol)
-star print
-studio:dc comics
-subreddit:imaginarydc
-subreddit:imfandoms
-sunlight
-superhero
-superheroine
-tiara
-title:wonder woman hk
-title:wonder woman hk by stanley lau
-uploader:incredibel
-water
-weapon
-whip
-wind
+1 female,
+1girl,
+amazon,
+arm guards,
+armlet,
+armor,
+bare shoulders,
+belt,
+black hair,
+blue eyes,
+blue sky,
+blurry,
+boots,
+bracer,
+breastplate,
+building,
+category:ine,
+character:diana prince,
+character:wonder woman,
+city,
+clavicle,
+clenched hand,
+close-up,
+clothing:earrings,
+clothing:footwear,
+cloud,
+clouds,
+cloudy sky,
+collarbone,
+copyright name,
+creator:artgerm,
+creator:stanley lau,
+day,
+depth of field,
+earrings,
+exposed shoulders,
+female,
+female only,
+female solo,
+floating hair,
+flying,
+footwear,
+gauntlets,
+gender:female,
+headband,
+holding,
+holding object,
+holding weapon,
+holding whip,
+hong kong,
+jewelry,
+knee boots,
+lasso,
+lasso of truth,
+leotard,
+light rays,
+long hair,
+looking at viewer,
+medium:copyright name,
+medium:depth of field,
+medium:fanart from deviantart,
+medium:realistic,
+midair,
+motion lines,
+outdoors,
+outside,
+piercing,
+pov,
+rating:mature,
+rating:safe,
+realistic,
+red boots,
+red footwear,
+river,
+series:dc comics,
+series:wonder woman,
+series:wonder woman (series),
+shirt,
+shoes,
+site:deviantart,
+sky,
+skyscraper,
+sleeveless,
+solo,
+speed lines,
+star,
+star (symbol),
+star print,
+studio:dc comics,
+subreddit:imaginarydc,
+subreddit:imfandoms,
+sunlight,
+superhero,
+superheroine,
+tiara,
+title:wonder woman hk,
+title:wonder woman hk by stanley lau,
+uploader:incredibel,
+water,
+weapon,
+whip,
+wind,

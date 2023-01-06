@@ -1,42 +1,42 @@
-1boy
-armor
-blue cape
-breathing fire
-burning
-campfire
-cape
-category:ine
-cloud
-cloudy sky
-dusk
-embers
-evening
-explosion
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-gauntlets
-helmet
-male focus
-molten rock
-orange sky
-rating:safe
-red cape
-red sky
-sky
-subreddit:imaginaryknights
-subreddit:imaginarywitcher
-subreddit:imcharacters
-subreddit:imfandoms
-sun
-sunrise
-sunset
-sword
-title:gregoire de gorgon by grosnez
-torch
-twilight
-uploader:l-ya
-weapon
-yellow sky
+1boy,
+armor,
+blue cape,
+breathing fire,
+burning,
+campfire,
+cape,
+category:ine,
+cloud,
+cloudy sky,
+dusk,
+embers,
+evening,
+explosion,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+gauntlets,
+helmet,
+male focus,
+molten rock,
+orange sky,
+rating:safe,
+red cape,
+red sky,
+sky,
+subreddit:imaginaryknights,
+subreddit:imaginarywitcher,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sun,
+sunrise,
+sunset,
+sword,
+title:gregoire de gorgon by grosnez,
+torch,
+twilight,
+uploader:l-ya,
+weapon,
+yellow sky,

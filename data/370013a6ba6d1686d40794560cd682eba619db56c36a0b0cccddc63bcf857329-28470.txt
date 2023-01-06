@@ -1,57 +1,57 @@
-1girl
-absurdres
-arm at side
-arrow
-belt
-black hair
-black shoes
-blue eyes
-bow (weapon)
-category:ine
-clothing:footwear
-commentary
-creator:kim han seul
-cross
-cross necklace
-crossbow
-dated
-english
-facial mark
-flying paper
-footwear
-forehead mark
-full body
-gender:female
-grey background
-hand in hair
-highres
-holding arrow
-holster
-jewelry
-long hair
-long sleeves
-looking away
-mary janes
-medium:high resolution
-medium:simple background
-necklace
-number
-nun
-paper
-parted lips
-puffy long sleeves
-puffy sleeves
-series:original
-shoes
-solo
-standing
-subreddit:imaginaryarchers
-subreddit:imaginaryclerics
-subreddit:imcharacters
-thigh holster
-thighhighs
-title:study - nun + archer - holy arrow by kim han seul (aka haren)
-uploader:lol33ta
-uploader:natezomby
-weapon
-white legwear
+1girl,
+absurdres,
+arm at side,
+arrow,
+belt,
+black hair,
+black shoes,
+blue eyes,
+bow (weapon),
+category:ine,
+clothing:footwear,
+commentary,
+creator:kim han seul,
+cross,
+cross necklace,
+crossbow,
+dated,
+english,
+facial mark,
+flying paper,
+footwear,
+forehead mark,
+full body,
+gender:female,
+grey background,
+hand in hair,
+highres,
+holding arrow,
+holster,
+jewelry,
+long hair,
+long sleeves,
+looking away,
+mary janes,
+medium:high resolution,
+medium:simple background,
+necklace,
+number,
+nun,
+paper,
+parted lips,
+puffy long sleeves,
+puffy sleeves,
+series:original,
+shoes,
+solo,
+standing,
+subreddit:imaginaryarchers,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+thigh holster,
+thighhighs,
+title:study - nun + archer - holy arrow by kim han seul (aka haren),
+uploader:lol33ta,
+uploader:natezomby,
+weapon,
+white legwear,

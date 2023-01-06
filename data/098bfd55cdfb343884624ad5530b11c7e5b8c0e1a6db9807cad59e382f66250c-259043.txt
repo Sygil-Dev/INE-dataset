@@ -1,26 +1,26 @@
-4 toes
-ambiguous gender
-black nose
-booru:e621
-category:ine
-claws
-creator:kenket
-feet
-feral
-fur
-meta:2018
-meta:traditional media (artwork)
-solo
-species:binturong
-species:mammal
-species:viverrid
-subreddit:imaginaryanimals
-subreddit:imnature
-title:binturight
-title:binturight by tess garman
-toe claws
-toes
-uploader:myrandall
-website:reddit
-whiskers
-yellow eyes
+4 toes,
+ambiguous gender,
+black nose,
+booru:e621,
+category:ine,
+claws,
+creator:kenket,
+feet,
+feral,
+fur,
+meta:2018,
+meta:traditional media (artwork),
+solo,
+species:binturong,
+species:mammal,
+species:viverrid,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:binturight,
+title:binturight by tess garman,
+toe claws,
+toes,
+uploader:myrandall,
+website:reddit,
+whiskers,
+yellow eyes,

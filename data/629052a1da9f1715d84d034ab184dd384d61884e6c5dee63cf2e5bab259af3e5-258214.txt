@@ -1,35 +1,35 @@
-2d
-art
-artwork
-back
-black hair
-category:ine
-clothing:armor
-cyborg
-digital painting
-drawing
-environment
-fantasy art
-fire
-firearm
-futuristic
-gender:female
-genre:cyberpunk
-genre:science fiction
-illustration
-juan pablo roldan
-long hair
-medium:concept art
-medium:digital media
-profile
-rain
-shotgun
-soldier
-subreddit:imaginarycybernetics
-subreddit:imaginarycyberpunk
-subreddit:imtechnology
-sword
-title:juan pablo roldan: alice - los cielos inversos
-uploader:nfcwalletcard
-warrior
-weapon
+2d,
+art,
+artwork,
+back,
+black hair,
+category:ine,
+clothing:armor,
+cyborg,
+digital painting,
+drawing,
+environment,
+fantasy art,
+fire,
+firearm,
+futuristic,
+gender:female,
+genre:cyberpunk,
+genre:science fiction,
+illustration,
+juan pablo roldan,
+long hair,
+medium:concept art,
+medium:digital media,
+profile,
+rain,
+shotgun,
+soldier,
+subreddit:imaginarycybernetics,
+subreddit:imaginarycyberpunk,
+subreddit:imtechnology,
+sword,
+title:juan pablo roldan: alice - los cielos inversos,
+uploader:nfcwalletcard,
+warrior,
+weapon,

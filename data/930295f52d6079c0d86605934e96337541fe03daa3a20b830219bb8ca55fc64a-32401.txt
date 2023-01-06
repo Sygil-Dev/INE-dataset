@@ -1,19 +1,19 @@
-aleksa stajsic
-category:ine
-character design
-conceptart
-creator:aleksa stajsic
-creature
-fantasy
-illustration
-medium:digital 2d
-subreddit:imaginaryassassins
-subreddit:imaginarycarnage
-subreddit:imaginaryimmortals
-subreddit:imaginaryundead
-subreddit:imcharacters
-subreddit:immonsters
-subreddit:imnsfw
-subreddit:imraces
-title:hungry
-uploader:al3ks4
+aleksa stajsic,
+category:ine,
+character design,
+conceptart,
+creator:aleksa stajsic,
+creature,
+fantasy,
+illustration,
+medium:digital 2d,
+subreddit:imaginaryassassins,
+subreddit:imaginarycarnage,
+subreddit:imaginaryimmortals,
+subreddit:imaginaryundead,
+subreddit:imcharacters,
+subreddit:immonsters,
+subreddit:imnsfw,
+subreddit:imraces,
+title:hungry,
+uploader:al3ks4,

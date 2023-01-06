@@ -1,39 +1,39 @@
-ambiguous gender
-black eyes
-bodypart:black eyes
-brown body
-brown fur
-category:ine
-creator:cryptid-creations
-envelope
-feral
-fur
-gender:ambiguous
-gender:male
-grass
-humor
-mail
-male:1
-medium:simple background
-medium:white background
-meme:humor
-orange body
-orange fur
-plant
-pun
-rating:safe
-simple background
-solo
-species:canid
-species:canine
-species:fox
-species:mammal
-subreddit:imaginaryaww
-subreddit:immeta
-title:daily paint 2045# mail fox
-title:mail fox by piper thibodeau
-uploader:myrandall
-white background
-white body
-white fur
-wood
+ambiguous gender,
+black eyes,
+bodypart:black eyes,
+brown body,
+brown fur,
+category:ine,
+creator:cryptid-creations,
+envelope,
+feral,
+fur,
+gender:ambiguous,
+gender:male,
+grass,
+humor,
+mail,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+orange body,
+orange fur,
+plant,
+pun,
+rating:safe,
+simple background,
+solo,
+species:canid,
+species:canine,
+species:fox,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:daily paint 2045# mail fox,
+title:mail fox by piper thibodeau,
+uploader:myrandall,
+white background,
+white body,
+white fur,
+wood,

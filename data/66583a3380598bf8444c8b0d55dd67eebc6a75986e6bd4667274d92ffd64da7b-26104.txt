@@ -1,60 +1,60 @@
-beverage
-black body
-black fur
-blue eyes
-booru:e621
-bow
-bow (disambiguation)
-category:ine
-chair
-character:mad hatter
-clothing
-clothing:bow
-clothing:hat
-clothing:headwear
-creator:cryptid-creations
-cup
-eyes:blue
-feathers
-female
-feral
-flower
-fur
-furniture
-gender:female
-gender:male
-headgear
-headwear
-humor
-male:1
-meme:humor
-meta:english text
-orange body
-orange fur
-plant
-pun
-rating:safe
-saucer
-series:alice in wonderland
-series:batman
-solo
-species:cat
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:mammal
-studio:dc comics
-subreddit:imaginaryaww
-subreddit:imaginaryfashion
-subreddit:immeta
-tea
-tea cup
-text
-title:daily paint 1945# mad catter
-title:mad catter by piper thibodeau
-uploader:myrandall
-website:e621
-whiskers
-white body
-white fur
+beverage,
+black body,
+black fur,
+blue eyes,
+booru:e621,
+bow,
+bow (disambiguation),
+category:ine,
+chair,
+character:mad hatter,
+clothing,
+clothing:bow,
+clothing:hat,
+clothing:headwear,
+creator:cryptid-creations,
+cup,
+eyes:blue,
+feathers,
+female,
+feral,
+flower,
+fur,
+furniture,
+gender:female,
+gender:male,
+headgear,
+headwear,
+humor,
+male:1,
+meme:humor,
+meta:english text,
+orange body,
+orange fur,
+plant,
+pun,
+rating:safe,
+saucer,
+series:alice in wonderland,
+series:batman,
+solo,
+species:cat,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+studio:dc comics,
+subreddit:imaginaryaww,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+tea,
+tea cup,
+text,
+title:daily paint 1945# mad catter,
+title:mad catter by piper thibodeau,
+uploader:myrandall,
+website:e621,
+whiskers,
+white body,
+white fur,

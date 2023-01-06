@@ -1,120 +1,120 @@
-1 female
-1 male
-1boy
-1girl
-10s
-ahoge
-artist name
-bangs
-black hair
-black suit
-black_suit
-blue eyes
-blush
-booru:sankaku
-booru:sankaku channel
-bow
-bowtie
-breasts
-brown eyes
-brown hair
-buttons
-category:ine
-character:tanya degurechaff
-character:tanya degurechaff (male)
-character:viktoriya ivanovna serebryakov
-chromatic aberration
-chromatic_aberration
-closed mouth
-clothing:bowtie
-clothing:collared shirt
-clothing:dress shirt
-clothing:gloves
-clothing:shirt
-coffee mug
-coffee_mug
-collared shirt
-commentary request
-computer
-creator:kawacy
-creator:kawano chihaya
-cup
-desk
-deviantart
-drawer
-dress shirt
-eyebrows
-eyebrows visible through hair
-fanart
-fanart from deviantart
-fanart from pixiv
-female
-flying paper
-flying_paper
-formal
-gender:female
-gender:male
-genre:hetero
-gloves
-graph
-graph (object)
-half-closed eyes
-hetero
-indoors
-kawacy
-knee up
-long hair
-long sleeves
-looking at another
-male
-medium:artist name
-medium:chromatic aberration
-medium:fanart from deviantart
-meta:commentary request
-monitor
-mug
-nail polish
-office
-office lady
-office_lady
-orange nails
-paper
-pie chart
-pink bow
-pink bowtie
-pink neckwear
-pink_neckwear
-pixiv
-rating:mature
-rating:s
-rating:safe
-rating:sensitive
-series:saga of tanya the evil
-series:youjo senki
-shirt
-short hair
-sitting
-sitting on lap
-sitting on person
-sitting_on_lap
-sitting_on_person
-smile
-subreddit:imaginarylovers
-subreddit:imcharacters
-suit
-tanya degurechaff
-tanya degurechaff (before reincarnation)
-tanya degurechaff (before...
-tanya degurechaff (male)
-tanya_degurechaff_(male)
-time paradox
-time_paradox
-title:break time
-title:break time by 河cy (kawacy)
-uploader:goldentogepi
-viktoriya ivanovna serebr...
-viktoriya ivanovna serebryakov
-viktoriya_ivanovna_serebryakov
-white gloves
-youjo senki
-youjo_senki
+1 female,
+1 male,
+1boy,
+1girl,
+10s,
+ahoge,
+artist name,
+bangs,
+black hair,
+black suit,
+black_suit,
+blue eyes,
+blush,
+booru:sankaku,
+booru:sankaku channel,
+bow,
+bowtie,
+breasts,
+brown eyes,
+brown hair,
+buttons,
+category:ine,
+character:tanya degurechaff,
+character:tanya degurechaff (male),
+character:viktoriya ivanovna serebryakov,
+chromatic aberration,
+chromatic_aberration,
+closed mouth,
+clothing:bowtie,
+clothing:collared shirt,
+clothing:dress shirt,
+clothing:gloves,
+clothing:shirt,
+coffee mug,
+coffee_mug,
+collared shirt,
+commentary request,
+computer,
+creator:kawacy,
+creator:kawano chihaya,
+cup,
+desk,
+deviantart,
+drawer,
+dress shirt,
+eyebrows,
+eyebrows visible through hair,
+fanart,
+fanart from deviantart,
+fanart from pixiv,
+female,
+flying paper,
+flying_paper,
+formal,
+gender:female,
+gender:male,
+genre:hetero,
+gloves,
+graph,
+graph (object),
+half-closed eyes,
+hetero,
+indoors,
+kawacy,
+knee up,
+long hair,
+long sleeves,
+looking at another,
+male,
+medium:artist name,
+medium:chromatic aberration,
+medium:fanart from deviantart,
+meta:commentary request,
+monitor,
+mug,
+nail polish,
+office,
+office lady,
+office_lady,
+orange nails,
+paper,
+pie chart,
+pink bow,
+pink bowtie,
+pink neckwear,
+pink_neckwear,
+pixiv,
+rating:mature,
+rating:s,
+rating:safe,
+rating:sensitive,
+series:saga of tanya the evil,
+series:youjo senki,
+shirt,
+short hair,
+sitting,
+sitting on lap,
+sitting on person,
+sitting_on_lap,
+sitting_on_person,
+smile,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+suit,
+tanya degurechaff,
+tanya degurechaff (before reincarnation),
+tanya degurechaff (before...,
+tanya degurechaff (male),
+tanya_degurechaff_(male),
+time paradox,
+time_paradox,
+title:break time,
+title:break time by 河cy (kawacy),
+uploader:goldentogepi,
+viktoriya ivanovna serebr...,
+viktoriya ivanovna serebryakov,
+viktoriya_ivanovna_serebryakov,
+white gloves,
+youjo senki,
+youjo_senki,

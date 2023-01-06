@@ -1,88 +1,88 @@
-2018
-anthropomorphism
-artist:hioshiru
-category:ine
-character:fan character
-character:fan_character
-character:kate (character)
-character:kate (hioshiru)
-character:kate_(character)
-character:kej (character)
-character:kej (kejifox)
-character:kej_(character)
-copyright:my_little_pony
-creator:hioshiru
-creator:hioshiru-alter
-cutie mark
-cutie_mark
-digital media (artwork)
-duo
-equine
-fan character
-feathered wings
-feathered_wings
-feathers
-fur
-furaffinity
-furry
-grey body
-grey fur
-grey_body
-grey_fur
-hi res
-horn
-horns
-kate
-katekej
-kej
-mammal
-medium:digital media
-medium:high resolution
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:original character
-mlp
-mlpfim
-moon
-mylittlepony
-mylittleponyfriendshipismagic
-night
-original character
-outside
-pegasus
-rating:safe
-series:hasbro
-series:my little pony
-sky
-smile
-source:furaffinity.net
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pony
-species:pterippus
-species:unicorn
-star
-starry sky
-starry_sky
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"moondance" by hioshiru
-title:moondance
-unicorn
-uploader:torvusil
-white body
-white feathers
-white fur
-white_body
-white_feathers
-white_fur
-wings
-year:2018
+2018,
+anthropomorphism,
+artist:hioshiru,
+category:ine,
+character:fan character,
+character:fan_character,
+character:kate (character),
+character:kate (hioshiru),
+character:kate_(character),
+character:kej (character),
+character:kej (kejifox),
+character:kej_(character),
+copyright:my_little_pony,
+creator:hioshiru,
+creator:hioshiru-alter,
+cutie mark,
+cutie_mark,
+digital media (artwork),
+duo,
+equine,
+fan character,
+feathered wings,
+feathered_wings,
+feathers,
+fur,
+furaffinity,
+furry,
+grey body,
+grey fur,
+grey_body,
+grey_fur,
+hi res,
+horn,
+horns,
+kate,
+katekej,
+kej,
+mammal,
+medium:digital media,
+medium:high resolution,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:original character,
+mlp,
+mlpfim,
+moon,
+mylittlepony,
+mylittleponyfriendshipismagic,
+night,
+original character,
+outside,
+pegasus,
+rating:safe,
+series:hasbro,
+series:my little pony,
+sky,
+smile,
+source:furaffinity.net,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:unicorn,
+star,
+starry sky,
+starry_sky,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"moondance" by hioshiru,
+title:moondance,
+unicorn,
+uploader:torvusil,
+white body,
+white feathers,
+white fur,
+white_body,
+white_feathers,
+white_fur,
+wings,
+year:2018,

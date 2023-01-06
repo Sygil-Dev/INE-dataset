@@ -1,44 +1,44 @@
-amazing
-anthro
-anthropomorphism
-battle
-blood
-bodily fluids
-booru:e621
-bottomwear
-category:ine
-clothing
-clothing:bottomwear
-corpse
-creator:maniaks
-dead
-death
-fangs
-gender:male
-loincloth
-male
-maniaks
-melee weapon
-muscular
-muscular anthro
-muscular male
-outside
-rating:questionable
-roaring
-solo
-species:canid
-species:canine
-species:felid
-species:feline
-species:mammal
-species:pantherine
-species:tiger
-striped
-stripes
-subreddit:imaginaryhybrids
-subreddit:immonsters
-sword
-title:revenger by slawomir maniak
-uploader:tamander
-victory
-weapon
+amazing,
+anthro,
+anthropomorphism,
+battle,
+blood,
+bodily fluids,
+booru:e621,
+bottomwear,
+category:ine,
+clothing,
+clothing:bottomwear,
+corpse,
+creator:maniaks,
+dead,
+death,
+fangs,
+gender:male,
+loincloth,
+male,
+maniaks,
+melee weapon,
+muscular,
+muscular anthro,
+muscular male,
+outside,
+rating:questionable,
+roaring,
+solo,
+species:canid,
+species:canine,
+species:felid,
+species:feline,
+species:mammal,
+species:pantherine,
+species:tiger,
+striped,
+stripes,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+sword,
+title:revenger by slawomir maniak,
+uploader:tamander,
+victory,
+weapon,

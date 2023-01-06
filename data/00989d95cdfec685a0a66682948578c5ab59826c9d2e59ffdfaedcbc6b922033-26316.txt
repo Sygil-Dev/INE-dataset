@@ -1,22 +1,22 @@
-blurry
-blurry background
-blurry foreground
-breathing fire
-burning
-category:ine
-depth of field
-embers
-explosion
-fire
-flame
-molten rock
-monster
-motion blur
-rating:safe
-realistic
-sharp teeth
-subreddit:imaginarydemons
-subreddit:immonsters
-teeth
-title:alien demon by sergio cupido
-uploader:panzer-kunst
+blurry,
+blurry background,
+blurry foreground,
+breathing fire,
+burning,
+category:ine,
+depth of field,
+embers,
+explosion,
+fire,
+flame,
+molten rock,
+monster,
+motion blur,
+rating:safe,
+realistic,
+sharp teeth,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+teeth,
+title:alien demon by sergio cupido,
+uploader:panzer-kunst,

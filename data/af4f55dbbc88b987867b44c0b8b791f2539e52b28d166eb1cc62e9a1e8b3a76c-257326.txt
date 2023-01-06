@@ -1,56 +1,56 @@
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-bread
-canid
-canis
-category:ine
-creator:cryptid-creations
-domestic dog
-feral
-food
-food creature
-fur
-gender:ambiguous
-gender:male
-humor
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:2018
-meta:url
-meta:white background
-pun
-rating:safe
-simple background
-simple_background
-solo
-species:canid
-species:canine
-species:canis
-species:domestic dog
-species:domestic_dog
-species:food creature
-species:food_creature
-species:mammal
-subreddit:imaginaryaww
-subreddit:immeta
-tailwag
-text
-title:halfbread by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-white fur
-white_background
-white_body
-white_fur
-year:2018
-yellow fur
-yellow_body
-yellow_fur
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+bread,
+canid,
+canis,
+category:ine,
+creator:cryptid-creations,
+domestic dog,
+feral,
+food,
+food creature,
+fur,
+gender:ambiguous,
+gender:male,
+humor,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2018,
+meta:url,
+meta:white background,
+pun,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:domestic dog,
+species:domestic_dog,
+species:food creature,
+species:food_creature,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:immeta,
+tailwag,
+text,
+title:halfbread by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white fur,
+white_background,
+white_body,
+white_fur,
+year:2018,
+yellow fur,
+yellow_body,
+yellow_fur,

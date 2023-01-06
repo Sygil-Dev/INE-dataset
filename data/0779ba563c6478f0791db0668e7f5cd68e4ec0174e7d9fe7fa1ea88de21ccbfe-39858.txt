@@ -1,26 +1,26 @@
-1girl
-armor
-art
-artwork
-building
-category:ine
-city
-cityscape
-genre:cyberpunk
-genre:science fiction
-hoods
-mech
-medium:3d rendering
-medium:concept art
-medium:digital media
-rating:safe
-science fiction
-skyscraper
-subreddit:imaginarycybernetics
-subreddit:imaginarymechs
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-title:"twin souls" by maxime gainche
-title:maxime gainche: twin souls
-uploader:3dom
-uploader:nfcwalletcard
+1girl,
+armor,
+art,
+artwork,
+building,
+category:ine,
+city,
+cityscape,
+genre:cyberpunk,
+genre:science fiction,
+hoods,
+mech,
+medium:3d rendering,
+medium:concept art,
+medium:digital media,
+rating:safe,
+science fiction,
+skyscraper,
+subreddit:imaginarycybernetics,
+subreddit:imaginarymechs,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+title:"twin souls" by maxime gainche,
+title:maxime gainche: twin souls,
+uploader:3dom,
+uploader:nfcwalletcard,

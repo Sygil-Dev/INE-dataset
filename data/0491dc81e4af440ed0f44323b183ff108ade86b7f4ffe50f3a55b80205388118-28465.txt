@@ -1,21 +1,21 @@
-baron
-category:ine
-concept
-creator:ismail inceoglu
-elbaron
-glowing
-medium:digital 2d
-monster
-rating:safe
-realistic
-reborn
-red
-red eyes
-redbaron
-species:robot
-spikes
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-title:red baron
-title:red baron by ismail inceoglu
-uploader:l-ya
+baron,
+category:ine,
+concept,
+creator:ismail inceoglu,
+elbaron,
+glowing,
+medium:digital 2d,
+monster,
+rating:safe,
+realistic,
+reborn,
+red,
+red eyes,
+redbaron,
+species:robot,
+spikes,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+title:red baron,
+title:red baron by ismail inceoglu,
+uploader:l-ya,

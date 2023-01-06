@@ -1,44 +1,44 @@
-battle
-breathing fire
-building
-burning
-category:ine
-character:godzilla
-city
-cloud
-cloudy sky
-copyright name
-destruction
-embers
-energy
-evening
-explosion
-fire
-flame
-flaming weapon
-giant
-gradient sky
-kaijuu
-lens flare
-lightning
-molten rock
-monster
-mountainous horizon
-no humans
-orange sky
-rating:safe
-realistic
-red sky
-ruins
-sky
-sparks
-subreddit:imaginarybehemoths
-subreddit:immonsters
-sun
-sunlight
-sunset
-title:groundhog day (adv) by james zapata
-torch
-twilight
-uploader:tamander
-volcano
+battle,
+breathing fire,
+building,
+burning,
+category:ine,
+character:godzilla,
+city,
+cloud,
+cloudy sky,
+copyright name,
+destruction,
+embers,
+energy,
+evening,
+explosion,
+fire,
+flame,
+flaming weapon,
+giant,
+gradient sky,
+kaijuu,
+lens flare,
+lightning,
+molten rock,
+monster,
+mountainous horizon,
+no humans,
+orange sky,
+rating:safe,
+realistic,
+red sky,
+ruins,
+sky,
+sparks,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+sun,
+sunlight,
+sunset,
+title:groundhog day (adv) by james zapata,
+torch,
+twilight,
+uploader:tamander,
+volcano,

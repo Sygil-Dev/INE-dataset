@@ -1,28 +1,28 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-category:ine
-creator:cryptid-creations
-feral
-furry
-gender:ambiguous
-meta:english text
-meta:english_text
-meta:url
-rating:safe
-smile
-species:anthozoan
-species:cnidarian
-species:coral
-species:fish
-species:marine
-species:reptile
-species:scalie
-species:snake
-subreddit:imaginaryaww
-subreddit:immeta
-text
-title:coral snake by piper thibodeau
-underwater
-uploader:myrandall
-water
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+category:ine,
+creator:cryptid-creations,
+feral,
+furry,
+gender:ambiguous,
+meta:english text,
+meta:english_text,
+meta:url,
+rating:safe,
+smile,
+species:anthozoan,
+species:cnidarian,
+species:coral,
+species:fish,
+species:marine,
+species:reptile,
+species:scalie,
+species:snake,
+subreddit:imaginaryaww,
+subreddit:immeta,
+text,
+title:coral snake by piper thibodeau,
+underwater,
+uploader:myrandall,
+water,

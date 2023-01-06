@@ -1,22 +1,22 @@
-1boy
-animal
-black gloves
-category:ine
-creator:fahmi fauzi
-fantasy
-feathers
-fingerless gloves
-gloves
-hat
-long hair
-male focus
-rating:safe
-raven
-red hair
-samurai
-solo
-subreddit:imaginarywarriors
-subreddit:imcharacters
-title:ravenclaw
-title:ravenclaw by fahmi fauzi
-uploader:net-diver
+1boy,
+animal,
+black gloves,
+category:ine,
+creator:fahmi fauzi,
+fantasy,
+feathers,
+fingerless gloves,
+gloves,
+hat,
+long hair,
+male focus,
+rating:safe,
+raven,
+red hair,
+samurai,
+solo,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+title:ravenclaw,
+title:ravenclaw by fahmi fauzi,
+uploader:net-diver,

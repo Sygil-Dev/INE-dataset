@@ -1,31 +1,31 @@
-category:ine
-creator:alradeck
-creator:firefeathers
-dinosaur
-fanart
-friday
-jurassic
-mon
-park
-patreon
-poke
-pokeman
-pokemon
-red
-rex
-source:furaffinity.net
-species:extinct
-subreddit:imaginarydinosaurs
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immonsters
-t
-title:fanart friday - tyrantrum!
-title:ff- tyrantrum
-title:tyrantrum by al radeck
-tyrannosaurus
-uploader:optimusprime1313
-voted
-white
-world
-yellow
+category:ine,
+creator:alradeck,
+creator:firefeathers,
+dinosaur,
+fanart,
+friday,
+jurassic,
+mon,
+park,
+patreon,
+poke,
+pokeman,
+pokemon,
+red,
+rex,
+source:furaffinity.net,
+species:extinct,
+subreddit:imaginarydinosaurs,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immonsters,
+t,
+title:fanart friday - tyrantrum!,
+title:ff- tyrantrum,
+title:tyrantrum by al radeck,
+tyrannosaurus,
+uploader:optimusprime1313,
+voted,
+white,
+world,
+yellow,

@@ -1,38 +1,38 @@
-1girl
-bare tree
-blue sky
-category:ine
-cloud
-cloudy sky
-cowboy
-creator:stayinwonderland
-day
-facing away
-hat
-horse
-lake
-landscape
-long hair
-mountain
-mountainous horizon
-nature
-outdoors
-pine tree
-rating:safe
-rider
-scenery
-signature
-sky
-snow
-solo
-standing
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-sword
-title:snow rider
-title:snow rider by andy walsh
-tree
-uploader:ldov
-uploader:sacredserenity
-weapon
-winter
+1girl,
+bare tree,
+blue sky,
+category:ine,
+cloud,
+cloudy sky,
+cowboy,
+creator:stayinwonderland,
+day,
+facing away,
+hat,
+horse,
+lake,
+landscape,
+long hair,
+mountain,
+mountainous horizon,
+nature,
+outdoors,
+pine tree,
+rating:safe,
+rider,
+scenery,
+signature,
+sky,
+snow,
+solo,
+standing,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+sword,
+title:snow rider,
+title:snow rider by andy walsh,
+tree,
+uploader:ldov,
+uploader:sacredserenity,
+weapon,
+winter,

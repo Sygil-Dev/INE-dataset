@@ -1,55 +1,55 @@
-1 female
-annastein bauer
-bare legs
-barefoot
-black hair
-braid
-category:ine
-character:shaman
-cloak
-clothing:dress
-clothing:earrings
-clothing:necklace
-creator:depingo
-earrings
-feet
-flock
-footprints
-fur
-gender:female
-genre:fantasy
-hair ornament
-headdress
-horns
-ice
-jewelry
-legs
-long hair
-mountain
-necklace
-outdoors
-outside
-rating:safe
-realistic
-robe
-sash
-scenery
-series:original
-shaman
-snow
-solo
-species:caprine
-species:goat
-species:mammal
-spirit
-subreddit:imaginarynatives
-subreddit:imaginarywinterscapes
-subreddit:imcharacters
-subreddit:imlandscapes
-sweater
-title:lyssa
-title:lyssa by anna steinbauer
-title:lyssa by anna steinbauer (xpost /r/imaginarynatives)
-turtleneck
-uploader:lol33ta
-winter
+1 female,
+annastein bauer,
+bare legs,
+barefoot,
+black hair,
+braid,
+category:ine,
+character:shaman,
+cloak,
+clothing:dress,
+clothing:earrings,
+clothing:necklace,
+creator:depingo,
+earrings,
+feet,
+flock,
+footprints,
+fur,
+gender:female,
+genre:fantasy,
+hair ornament,
+headdress,
+horns,
+ice,
+jewelry,
+legs,
+long hair,
+mountain,
+necklace,
+outdoors,
+outside,
+rating:safe,
+realistic,
+robe,
+sash,
+scenery,
+series:original,
+shaman,
+snow,
+solo,
+species:caprine,
+species:goat,
+species:mammal,
+spirit,
+subreddit:imaginarynatives,
+subreddit:imaginarywinterscapes,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+sweater,
+title:lyssa,
+title:lyssa by anna steinbauer,
+title:lyssa by anna steinbauer (xpost /r/imaginarynatives),
+turtleneck,
+uploader:lol33ta,
+winter,

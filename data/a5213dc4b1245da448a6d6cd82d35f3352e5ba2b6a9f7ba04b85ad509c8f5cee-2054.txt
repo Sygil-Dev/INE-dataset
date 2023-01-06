@@ -1,55 +1,55 @@
-1 female
-1girl
-art
-artist name
-artist:nestor ossandon
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-bracer
-brown eyes
-brown hair
-category:ine
-chain
-chains
-character:tamana (legend of the cryptids)
-clothing:earrings
-clothing:jewelry
-clothing:short sleeves
-company name
-copyright name
-copyright:legend of the cryptids
-creator:nestor ossandon
-earrings
-gender:female
-golem
-hand up
-jewelry
-long hair
-looking at viewer
-medium:artist name
-medium:company name
-medium:copyright name
-medium:watermark
-meta:artist name
-meta:commentary
-meta:english commentary
-meta:official art
-nestor ossandon
-outdoors
-outside
-pov
-rating:mature
-rating:safe
-ruins
-series:legend of the cryptids
-short sleeves
-standing
-subreddit:imaginaryelementals
-subreddit:immonsters
-tamana (legend of the cryptids)
-title:tamana and golem by nezt
-title:tamana and golem by nezt oss (nestor ossandon)
-uploader:lol33ta
-watermark
+1 female,
+1girl,
+art,
+artist name,
+artist:nestor ossandon,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+bracer,
+brown eyes,
+brown hair,
+category:ine,
+chain,
+chains,
+character:tamana (legend of the cryptids),
+clothing:earrings,
+clothing:jewelry,
+clothing:short sleeves,
+company name,
+copyright name,
+copyright:legend of the cryptids,
+creator:nestor ossandon,
+earrings,
+gender:female,
+golem,
+hand up,
+jewelry,
+long hair,
+looking at viewer,
+medium:artist name,
+medium:company name,
+medium:copyright name,
+medium:watermark,
+meta:artist name,
+meta:commentary,
+meta:english commentary,
+meta:official art,
+nestor ossandon,
+outdoors,
+outside,
+pov,
+rating:mature,
+rating:safe,
+ruins,
+series:legend of the cryptids,
+short sleeves,
+standing,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+tamana (legend of the cryptids),
+title:tamana and golem by nezt,
+title:tamana and golem by nezt oss (nestor ossandon),
+uploader:lol33ta,
+watermark,

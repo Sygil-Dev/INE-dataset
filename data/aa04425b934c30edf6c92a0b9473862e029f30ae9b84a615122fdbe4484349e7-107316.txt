@@ -1,75 +1,75 @@
-2019
-ambiguous gender
-ambiguous_gender
-artist:discordthege
-bandage
-blue body
-blue eyes
-blue fur
-blue_body
-blue_eyes
-blue_fur
-bullet
-category:ine
-character:fan character
-character:fan_character
-copyright:hasbro
-copyright:my_little_pony
-creator:discordthege
-curved horn
-curved_horn
-day
-detailed background
-detailed_background
-feral
-firearm
-fur
-gender:ambiguous
-gun
-hair
-hi res
-holding gun
-holding object
-holding weapon
-holding_gun
-holding_object
-holding_weapon
-horn
-horns
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-medkit
-meta:16:9
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:original character
-meta:widescreen
-original character
-outside
-ranged weapon
-ranged_weapon
-rating:safe
-series:hasbro
-series:my little pony
-solo
-species:bovid
-species:caprine
-species:equid
-species:equine
-species:goat
-species:hybrid
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"silent sands" by rodion bochenin (discordthege)
-title:silent sands
-uploader:torvusil
-weapon
+2019,
+ambiguous gender,
+ambiguous_gender,
+artist:discordthege,
+bandage,
+blue body,
+blue eyes,
+blue fur,
+blue_body,
+blue_eyes,
+blue_fur,
+bullet,
+category:ine,
+character:fan character,
+character:fan_character,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:discordthege,
+curved horn,
+curved_horn,
+day,
+detailed background,
+detailed_background,
+feral,
+firearm,
+fur,
+gender:ambiguous,
+gun,
+hair,
+hi res,
+holding gun,
+holding object,
+holding weapon,
+holding_gun,
+holding_object,
+holding_weapon,
+horn,
+horns,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+medkit,
+meta:16:9,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:original character,
+meta:widescreen,
+original character,
+outside,
+ranged weapon,
+ranged_weapon,
+rating:safe,
+series:hasbro,
+series:my little pony,
+solo,
+species:bovid,
+species:caprine,
+species:equid,
+species:equine,
+species:goat,
+species:hybrid,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"silent sands" by rodion bochenin (discordthege),
+title:silent sands,
+uploader:torvusil,
+weapon,

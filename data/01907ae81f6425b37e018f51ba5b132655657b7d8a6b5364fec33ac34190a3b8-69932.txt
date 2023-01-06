@@ -1,24 +1,24 @@
-1girl
-armor
-bandaged arm
-bandages
-category:ine
-gauntlets
-greyscale
-helmet
-holding
-holding sword
-holding weapon
-monochrome
-rating:safe
-simple background
-solo
-standing
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-sword
-title:champions of nagash by eric tan
-torn clothes
-uploader:levthered
-weapon
-white background
+1girl,
+armor,
+bandaged arm,
+bandages,
+category:ine,
+gauntlets,
+greyscale,
+helmet,
+holding,
+holding sword,
+holding weapon,
+monochrome,
+rating:safe,
+simple background,
+solo,
+standing,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+sword,
+title:champions of nagash by eric tan,
+torn clothes,
+uploader:levthered,
+weapon,
+white background,

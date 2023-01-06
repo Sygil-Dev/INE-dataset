@@ -1,39 +1,39 @@
-armor
-booru:e621
-category:ine
-character:fan character
-clothing:armor
-creator:assasinmonkey
-cutie mark
-detailed background
-eyelashes
-female
-feral
-fur
-gender:female
-green body
-green fur
-hair
-hooves
-kemono.party
-lying
-medium:detailed background
-medium:high resolution
-meta:hi res
-meta:original character
-orange eyes
-orange hair
-original character
-rating:safe
-series:my little pony
-smile
-solo
-species:equid
-species:equine
-species:mammal
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:faint retinue
-title:faint retinue by myron c. p.
-uploader:myrandall
+armor,
+booru:e621,
+category:ine,
+character:fan character,
+clothing:armor,
+creator:assasinmonkey,
+cutie mark,
+detailed background,
+eyelashes,
+female,
+feral,
+fur,
+gender:female,
+green body,
+green fur,
+hair,
+hooves,
+kemono.party,
+lying,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+meta:original character,
+orange eyes,
+orange hair,
+original character,
+rating:safe,
+series:my little pony,
+smile,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:faint retinue,
+title:faint retinue by myron c. p.,
+uploader:myrandall,

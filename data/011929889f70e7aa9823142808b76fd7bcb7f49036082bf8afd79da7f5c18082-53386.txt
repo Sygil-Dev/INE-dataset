@@ -1,24 +1,24 @@
-1girl
-armor
-blue sky
-category:ine
-cloud
-condensation trail
-damaged
-day
-field
-grass
-helmet
-mountain
-outdoors
-rating:safe
-realistic
-signature
-sky
-soldier
-subreddit:imaginaryknights
-subreddit:imcharacters
-title:redgrass by adam harvey
-uploader:[deleted]
-uploader:faeryknight
-weapon
+1girl,
+armor,
+blue sky,
+category:ine,
+cloud,
+condensation trail,
+damaged,
+day,
+field,
+grass,
+helmet,
+mountain,
+outdoors,
+rating:safe,
+realistic,
+signature,
+sky,
+soldier,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+title:redgrass by adam harvey,
+uploader:[deleted],
+uploader:faeryknight,
+weapon,

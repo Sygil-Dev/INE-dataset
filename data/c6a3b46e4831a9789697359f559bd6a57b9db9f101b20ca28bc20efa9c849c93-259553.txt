@@ -1,48 +1,48 @@
-black eyes
-bodypart:black eyes
-brown body
-brown fur
-candy
-category:ine
-creator:cryptid-creations
-dessert
-emotion:sadness
-english text
-feral
-food
-fur
-gender:ambiguous
-gender:male
-humor
-language:english
-lollipop
-male:1
-medium:english text
-medium:simple background
-medium:text
-medium:white background
-membrane (anatomy)
-meme:humor
-meta:english text
-meta:white background
-patagium
-pun
-rating:safe
-simple background
-solo
-species:mammal
-species:marsupial
-species:petaurid
-species:phalangeriform
-species:sugar glider
-subreddit:imaginaryaww
-subreddit:imaginaryfeels
-subreddit:immeta
-tan body
-tan fur
-text
-title:daily paint 2026# sugar-free glider
-title:sugar-free glider by piper thibodeau
-uploader:myrandall
-visual pun
-website:e621
+black eyes,
+bodypart:black eyes,
+brown body,
+brown fur,
+candy,
+category:ine,
+creator:cryptid-creations,
+dessert,
+emotion:sadness,
+english text,
+feral,
+food,
+fur,
+gender:ambiguous,
+gender:male,
+humor,
+language:english,
+lollipop,
+male:1,
+medium:english text,
+medium:simple background,
+medium:text,
+medium:white background,
+membrane (anatomy),
+meme:humor,
+meta:english text,
+meta:white background,
+patagium,
+pun,
+rating:safe,
+simple background,
+solo,
+species:mammal,
+species:marsupial,
+species:petaurid,
+species:phalangeriform,
+species:sugar glider,
+subreddit:imaginaryaww,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+tan body,
+tan fur,
+text,
+title:daily paint 2026# sugar-free glider,
+title:sugar-free glider by piper thibodeau,
+uploader:myrandall,
+visual pun,
+website:e621,

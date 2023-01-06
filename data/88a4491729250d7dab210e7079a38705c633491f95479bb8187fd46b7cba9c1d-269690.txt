@@ -1,20 +1,20 @@
-category:ine
-creator:denise jones
-medium:digital 2d
-monster
-moonlight
-night
-silver sword
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:undead
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:clash
-title:clash, denise jones, artstation.com
-uploader:nikephoros_ii_phokas
-vampire
-werewolf
+category:ine,
+creator:denise jones,
+medium:digital 2d,
+monster,
+moonlight,
+night,
+silver sword,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:undead,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:clash,
+title:clash, denise jones, artstation.com,
+uploader:nikephoros_ii_phokas,
+vampire,
+werewolf,

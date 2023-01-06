@@ -1,22 +1,22 @@
-bird
-category:ine
-cloud
-cloudy sky
-day
-glowing
-mountain
-nature
-no humans
-outdoors
-rating:safe
-sky
-subreddit:imaginarybehemoths
-subreddit:imaginaryelementals
-subreddit:immonsters
-title:monsters 3 (tree ent) by gal or
-title:skywars: archon rises, tree ent by gal or
-title:tree ent by gal or
-tree
-uploader:blood-n-cheese
-uploader:killerbunnyfamily
-uploader:l-ya
+bird,
+category:ine,
+cloud,
+cloudy sky,
+day,
+glowing,
+mountain,
+nature,
+no humans,
+outdoors,
+rating:safe,
+sky,
+subreddit:imaginarybehemoths,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+title:monsters 3 (tree ent) by gal or,
+title:skywars: archon rises, tree ent by gal or,
+title:tree ent by gal or,
+tree,
+uploader:blood-n-cheese,
+uploader:killerbunnyfamily,
+uploader:l-ya,

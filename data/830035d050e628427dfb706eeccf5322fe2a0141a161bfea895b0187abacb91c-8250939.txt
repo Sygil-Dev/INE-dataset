@@ -1,59 +1,59 @@
-16:9
-2018
-artist:discordthege
-ass
-butt
-category:ine
-character:fan character
-character:fan_character
-copyright:my_little_pony
-creator:discordthege
-crescent moon
-crescent_moon
-cutie mark
-cutie_mark
-detailed background
-detailed_background
-digital media (artwork)
-female
-feral
-gender:female
-hair
-hi res
-horn
-horns
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-medium:wallpaper
-meta:16:9
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:original character
-meta:wallpaper
-meta:widescreen
-moon
-night
-original character
-outside
-rating:safe
-series:hasbro
-series:my little pony
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"moonpath" by discordthege
-title:moonpath
-uploader:torvusil
-wallpaper
-year:2018
+16:9,
+2018,
+artist:discordthege,
+ass,
+butt,
+category:ine,
+character:fan character,
+character:fan_character,
+copyright:my_little_pony,
+creator:discordthege,
+crescent moon,
+crescent_moon,
+cutie mark,
+cutie_mark,
+detailed background,
+detailed_background,
+digital media (artwork),
+female,
+feral,
+gender:female,
+hair,
+hi res,
+horn,
+horns,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+medium:wallpaper,
+meta:16:9,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:original character,
+meta:wallpaper,
+meta:widescreen,
+moon,
+night,
+original character,
+outside,
+rating:safe,
+series:hasbro,
+series:my little pony,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"moonpath" by discordthege,
+title:moonpath,
+uploader:torvusil,
+wallpaper,
+year:2018,

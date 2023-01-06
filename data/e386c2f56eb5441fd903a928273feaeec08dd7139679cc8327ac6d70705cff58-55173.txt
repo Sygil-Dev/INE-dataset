@@ -1,25 +1,25 @@
-blizzard
-blizzardentertainment
-category:ine
-contest
-creator:tsylore
-gnome
-goblin
-goblinsvsgnomes
-goblinsvsgnomeschallenge
-hearthstone
-subreddit:imaginarygnomes
-subreddit:imaginaryportals
-subreddit:imaginaryscholars
-subreddit:imcharacters
-subreddit:imraces
-subreddit:imtechnology
-title:gnomish wormhole physicist
-title:gnomish wormhole physicist by tyler chow (xpost r/imaginaryscholars)
-title:gnomish wormhole physicist, by tyler chow
-uploader:belledame-sans-serif
-uploader:lol33ta
-warcraft
-website:reddit
-worldofwarcraft
-wowworldofwarcraft
+blizzard,
+blizzardentertainment,
+category:ine,
+contest,
+creator:tsylore,
+gnome,
+goblin,
+goblinsvsgnomes,
+goblinsvsgnomeschallenge,
+hearthstone,
+subreddit:imaginarygnomes,
+subreddit:imaginaryportals,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+subreddit:imraces,
+subreddit:imtechnology,
+title:gnomish wormhole physicist,
+title:gnomish wormhole physicist by tyler chow (xpost r/imaginaryscholars),
+title:gnomish wormhole physicist, by tyler chow,
+uploader:belledame-sans-serif,
+uploader:lol33ta,
+warcraft,
+website:reddit,
+worldofwarcraft,
+wowworldofwarcraft,

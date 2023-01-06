@@ -1,27 +1,27 @@
-blue sky
-category:ine
-cloud
-cloudy sky
-evening
-fire
-forest
-gradient sky
-horizon
-mountain
-mountainous horizon
-nature
-no humans
-ocean
-orange sky
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarycanyons
-subreddit:imnature
-sunrise
-sunset
-title:canyon by dan zhao
-tree
-twilight
-uploader:lol33ta
+blue sky,
+category:ine,
+cloud,
+cloudy sky,
+evening,
+fire,
+forest,
+gradient sky,
+horizon,
+mountain,
+mountainous horizon,
+nature,
+no humans,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarycanyons,
+subreddit:imnature,
+sunrise,
+sunset,
+title:canyon by dan zhao,
+tree,
+twilight,
+uploader:lol33ta,

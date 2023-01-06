@@ -1,61 +1,61 @@
-2018
-ambiguous gender
-blue eyes
-booru:e621
-category:ine
-creator:kenket
-day
-detailed background
-digital media (artwork)
-domestic dog
-duo
-feral
-gender:ambiguous
-grass
-hi res
-medium:detailed background
-medium:digital media
-medium:high resolution
-medium:traditional media
-medium:watercolor
-meta:2018
-meta:hi res
-meta:painting (artwork)
-meta:traditional media (artwork)
-meta:watercolor (artwork)
-open mouth
-outside
-painting (artwork)
-paws
-plant
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-sky
-smile
-species:canid
-species:canine
-species:dog
-species:mammal
-species:marowak
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:rockruff
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immeta
-teeth
-title:fetch
-title:fetch by tess garman
-tongue
-traditional media (artwork)
-tree
-uploader:myrandall
-video games
-watercolor (artwork)
-year:2018
+2018,
+ambiguous gender,
+blue eyes,
+booru:e621,
+category:ine,
+creator:kenket,
+day,
+detailed background,
+digital media (artwork),
+domestic dog,
+duo,
+feral,
+gender:ambiguous,
+grass,
+hi res,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+medium:traditional media,
+medium:watercolor,
+meta:2018,
+meta:hi res,
+meta:painting (artwork),
+meta:traditional media (artwork),
+meta:watercolor (artwork),
+open mouth,
+outside,
+painting (artwork),
+paws,
+plant,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+sky,
+smile,
+species:canid,
+species:canine,
+species:dog,
+species:mammal,
+species:marowak,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:rockruff,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immeta,
+teeth,
+title:fetch,
+title:fetch by tess garman,
+tongue,
+traditional media (artwork),
+tree,
+uploader:myrandall,
+video games,
+watercolor (artwork),
+year:2018,

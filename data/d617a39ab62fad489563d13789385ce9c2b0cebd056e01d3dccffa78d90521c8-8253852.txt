@@ -1,74 +1,74 @@
-2018
-alicorn
-blue eyes
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-cosmic hair
-creator:plaguedogs123
-crown
-cutie mark
-ethereal hair
-eyelashes
-eyeshadow
-feathered wings
-feathers
-female
-feral
-fim
-fire
-friendship_is_magic
-gender:female
-genre:fantasy
-gradient background
-hair
-horn
-horns
-horse
-inner ear fluff
-long hair
-luna
-makeup
-mascara
-medium:absurd resolution
-medium:gradient background
-medium:high resolution
-medium:simple background
-meta:2018
-meta:absurd res
-meta:hi res
-meta:portrait
-meta:three-quarter portrait
-mlp
-mlp_fim
-my_little_pony
-my_little_pony_friendship_is_magic
-pony
-portrait
-princess
-princess_luna
-pseudo hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-simple background
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-star
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-teeth
-three-quarter portrait
-title:"night princess" by stephanie (plaguedogs123)
-title:night princess
-tuft
-uploader:torvusil
-wings
-year:2018
+2018,
+alicorn,
+blue eyes,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+cosmic hair,
+creator:plaguedogs123,
+crown,
+cutie mark,
+ethereal hair,
+eyelashes,
+eyeshadow,
+feathered wings,
+feathers,
+female,
+feral,
+fim,
+fire,
+friendship_is_magic,
+gender:female,
+genre:fantasy,
+gradient background,
+hair,
+horn,
+horns,
+horse,
+inner ear fluff,
+long hair,
+luna,
+makeup,
+mascara,
+medium:absurd resolution,
+medium:gradient background,
+medium:high resolution,
+medium:simple background,
+meta:2018,
+meta:absurd res,
+meta:hi res,
+meta:portrait,
+meta:three-quarter portrait,
+mlp,
+mlp_fim,
+my_little_pony,
+my_little_pony_friendship_is_magic,
+pony,
+portrait,
+princess,
+princess_luna,
+pseudo hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+simple background,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+star,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+teeth,
+three-quarter portrait,
+title:"night princess" by stephanie (plaguedogs123),
+title:night princess,
+tuft,
+uploader:torvusil,
+wings,
+year:2018,

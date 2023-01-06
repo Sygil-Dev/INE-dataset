@@ -1,47 +1,47 @@
-2018
-beak
-black beak
-blue eyes
-booru:e621
-brown body
-brown feathers
-brown fur
-category:ine
-countershading
-creator:sandara
-digital media (artwork)
-feathered wings
-feathers
-feral
-fur
-grey background
-griffin
-medium:digital media
-medium:grey background
-medium:simple background
-meta:2018
-meta:digital media (artwork)
-monster
-orange body
-orange feathers
-paws
-rating:safe
-series:mythology
-simple background
-smile
-solo
-species:avian
-species:gryphon
-species:hybrid
-species:mythical
-species:mythological avian
-subreddit:imaginarybeasts
-subreddit:immonsters
-title:lanterntail
-title:lanterntail by sandara tang
-uploader:myrandall
-white body
-white countershading
-white feathers
-wings
-year:2018
+2018,
+beak,
+black beak,
+blue eyes,
+booru:e621,
+brown body,
+brown feathers,
+brown fur,
+category:ine,
+countershading,
+creator:sandara,
+digital media (artwork),
+feathered wings,
+feathers,
+feral,
+fur,
+grey background,
+griffin,
+medium:digital media,
+medium:grey background,
+medium:simple background,
+meta:2018,
+meta:digital media (artwork),
+monster,
+orange body,
+orange feathers,
+paws,
+rating:safe,
+series:mythology,
+simple background,
+smile,
+solo,
+species:avian,
+species:gryphon,
+species:hybrid,
+species:mythical,
+species:mythological avian,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+title:lanterntail,
+title:lanterntail by sandara tang,
+uploader:myrandall,
+white body,
+white countershading,
+white feathers,
+wings,
+year:2018,

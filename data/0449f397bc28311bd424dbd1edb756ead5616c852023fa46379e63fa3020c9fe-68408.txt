@@ -1,45 +1,45 @@
-aiming
-ak-47
-ammunition belt
-armor
-assault rifle
-category:ine
-coat
-creator:leeroy plambeck
-dawn of war
-death korps of krieg
-finger on trigger
-flag background
-gas mask
-gun
-handgun
-holding
-holding gun
-holding weapon
-japanese flag
-kalashnikov rifle
-krieg
-machine gun
-pistol
-rating:safe
-red background
-red moon
-red sky
-red theme
-revolver
-rifle
-rising sun
-shotgun
-solo
-space marines
-submachine gun
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:the death korps
-title:the death korps, by leeroy plambeck
-trigger discipline
-ultramarines
-uploader:victorianamcadia
-warhammer
-warhammer 40k
-weapon
+aiming,
+ak-47,
+ammunition belt,
+armor,
+assault rifle,
+category:ine,
+coat,
+creator:leeroy plambeck,
+dawn of war,
+death korps of krieg,
+finger on trigger,
+flag background,
+gas mask,
+gun,
+handgun,
+holding,
+holding gun,
+holding weapon,
+japanese flag,
+kalashnikov rifle,
+krieg,
+machine gun,
+pistol,
+rating:safe,
+red background,
+red moon,
+red sky,
+red theme,
+revolver,
+rifle,
+rising sun,
+shotgun,
+solo,
+space marines,
+submachine gun,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:the death korps,
+title:the death korps, by leeroy plambeck,
+trigger discipline,
+ultramarines,
+uploader:victorianamcadia,
+warhammer,
+warhammer 40k,
+weapon,

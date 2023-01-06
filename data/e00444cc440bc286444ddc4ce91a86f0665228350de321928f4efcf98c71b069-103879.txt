@@ -1,22 +1,22 @@
-armed
-blaster
-category:ine
-class
-creator:lukas singer
-destroyer
-grey
-medium:digital 3d
-republic
-spacecraft
-spaceship
-star
-star wars
-subreddit:imaginarystarships
-subreddit:imtechnology
-title:venator class star destroyer
-title:venator class star destroyer by lukas singer
-turret
-uploader:mr_gibbys
-venator
-wars
-weapon
+armed,
+blaster,
+category:ine,
+class,
+creator:lukas singer,
+destroyer,
+grey,
+medium:digital 3d,
+republic,
+spacecraft,
+spaceship,
+star,
+star wars,
+subreddit:imaginarystarships,
+subreddit:imtechnology,
+title:venator class star destroyer,
+title:venator class star destroyer by lukas singer,
+turret,
+uploader:mr_gibbys,
+venator,
+wars,
+weapon,

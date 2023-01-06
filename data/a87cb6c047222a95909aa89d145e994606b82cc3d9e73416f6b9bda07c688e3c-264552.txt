@@ -1,26 +1,26 @@
-booru:sankaku channel
-category:ine
-character:nami (league of legends)
-character:nami of the marai, the tidecaller
-creator:zarory
-female
-fish
-gender:female
-medium:high resolution
-mermaid
-meta:source request
-monster girl
-rating:safe
-series:league of legends
-solo
-species:merfolk
-species:mythical
-staff
-subreddit:imaginarymerfolk
-subreddit:imaginarymonstergirls
-subreddit:immonsters
-subreddit:imraces
-title:"nami, the tidecaller" by casper hansen (zarory)
-title:nami, the tidecaller
-uploader:torvusil
-weapon
+booru:sankaku channel,
+category:ine,
+character:nami (league of legends),
+character:nami of the marai, the tidecaller,
+creator:zarory,
+female,
+fish,
+gender:female,
+medium:high resolution,
+mermaid,
+meta:source request,
+monster girl,
+rating:safe,
+series:league of legends,
+solo,
+species:merfolk,
+species:mythical,
+staff,
+subreddit:imaginarymerfolk,
+subreddit:imaginarymonstergirls,
+subreddit:immonsters,
+subreddit:imraces,
+title:"nami, the tidecaller" by casper hansen (zarory),
+title:nami, the tidecaller,
+uploader:torvusil,
+weapon,

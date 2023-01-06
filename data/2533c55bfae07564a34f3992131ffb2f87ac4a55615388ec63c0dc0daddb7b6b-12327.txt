@@ -1,29 +1,29 @@
-apocalyptic
-art
-artwork
-category:ine
-drawing
-environment
-fantasy art
-firearm
-futuristic
-genre:science fiction
-illustration
-juan pablo roldan
-machine gun
-medium:concept art
-medium:digital media
-men
-rain
-skeleton
-skull
-species:equine
-species:horse
-species:mammal
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-tank
-title:remains by juan pablo roldan
-uploader:panzer-kunst
-war
-weapon
+apocalyptic,
+art,
+artwork,
+category:ine,
+drawing,
+environment,
+fantasy art,
+firearm,
+futuristic,
+genre:science fiction,
+illustration,
+juan pablo roldan,
+machine gun,
+medium:concept art,
+medium:digital media,
+men,
+rain,
+skeleton,
+skull,
+species:equine,
+species:horse,
+species:mammal,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+tank,
+title:remains by juan pablo roldan,
+uploader:panzer-kunst,
+war,
+weapon,

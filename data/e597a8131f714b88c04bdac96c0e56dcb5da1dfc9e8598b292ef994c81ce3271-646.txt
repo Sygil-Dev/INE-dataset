@@ -1,65 +1,65 @@
-2019
-all fours
-all_fours
-ambiguous gender
-ambiguous_gender
-artist
-artist:khyaber
-category:ine
-character:khyaber (character)
-character:khyaber_(character)
-claws
-creating art
-creating_art
-creator:caraid
-creator:khyaber
-creator:zephyxus
-cute scene
-digital media (artwork)
-dragon
-drawing
-feral
-frills
-furry
-gender:ambiguous
-green eyes
-green_eyes
-horn
-horns
-humor
-medium:digital media
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-object in mouth
-object_in_mouth
-paper
-pencil (disambiguation)
-pencil (object)
-pencil_(object)
-rating:safe
-realistic
-red body
-red scales
-red_body
-red_scales
-scales
-scalie
-solo
-source:furaffinity.net
-species:dragon
-species:mythical
-species:scalie
-species:wyvern
-subreddit:imaginarydragons
-subreddit:immonsters
-title:the wyvern artist
-title:the wyvern artist by khyaber
-uploader:dquu3qls
-wings
-wyvern
-year:2019
+2019,
+all fours,
+all_fours,
+ambiguous gender,
+ambiguous_gender,
+artist,
+artist:khyaber,
+category:ine,
+character:khyaber (character),
+character:khyaber_(character),
+claws,
+creating art,
+creating_art,
+creator:caraid,
+creator:khyaber,
+creator:zephyxus,
+cute scene,
+digital media (artwork),
+dragon,
+drawing,
+feral,
+frills,
+furry,
+gender:ambiguous,
+green eyes,
+green_eyes,
+horn,
+horns,
+humor,
+medium:digital media,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+object in mouth,
+object_in_mouth,
+paper,
+pencil (disambiguation),
+pencil (object),
+pencil_(object),
+rating:safe,
+realistic,
+red body,
+red scales,
+red_body,
+red_scales,
+scales,
+scalie,
+solo,
+source:furaffinity.net,
+species:dragon,
+species:mythical,
+species:scalie,
+species:wyvern,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:the wyvern artist,
+title:the wyvern artist by khyaber,
+uploader:dquu3qls,
+wings,
+wyvern,
+year:2019,

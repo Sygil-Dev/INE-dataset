@@ -1,22 +1,22 @@
-beard
-category:ine
-character
-concept art
-creator:aleksa stajsic
-creatures
-facial hair
-medium:digital 2d
-monster
-painting
-pale
-scholar
-subreddit:imaginarydemons
-subreddit:imaginaryimmortals
-subreddit:imaginarynobles
-subreddit:imaginaryundead
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:immonsters
-subreddit:imraces
-title:andrei
-uploader:al3ks4
+beard,
+category:ine,
+character,
+concept art,
+creator:aleksa stajsic,
+creatures,
+facial hair,
+medium:digital 2d,
+monster,
+painting,
+pale,
+scholar,
+subreddit:imaginarydemons,
+subreddit:imaginaryimmortals,
+subreddit:imaginarynobles,
+subreddit:imaginaryundead,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:immonsters,
+subreddit:imraces,
+title:andrei,
+uploader:al3ks4,

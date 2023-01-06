@@ -1,57 +1,57 @@
-1 female
-1girl
-armor
-armored boots
-art
-blonde hair
-blue eyes
-booru:danbooru
-booru:gelbooru
-boots
-cape
-category:ine
-clothes removed
-clothing:armor
-clothing:armored boots
-clothing:boots
-clothing:cape
-clothing:footwear
-clothing:gloves
-cloud
-clouds
-copyright name
-creator:hong yu cheng
-creator:yuchenghong
-dated
-fantasy
-footwear
-gender:female
-genre:fantasy
-gloves
-headwear
-headwear removed
-helmet
-helmet removed
-long hair
-medium:copyright name
-medium:dated
-meta:official art
-open mouth
-rating:mature
-rating:safe
-series:legend of the cryptids
-sky
-solo
-subreddit:imaginaryknights
-subreddit:imaginaryweaponry
-subreddit:imcharacters
-subreddit:imtechnology
-sword
-teeth
-title:vesa, sword salvager
-title:vesa, sword salvager by yucheng hong
-title:vesa, sword salvager by yuchenghong
-tree
-uploader:lol33ta
-uploader:lordjimbob01
-weapon
+1 female,
+1girl,
+armor,
+armored boots,
+art,
+blonde hair,
+blue eyes,
+booru:danbooru,
+booru:gelbooru,
+boots,
+cape,
+category:ine,
+clothes removed,
+clothing:armor,
+clothing:armored boots,
+clothing:boots,
+clothing:cape,
+clothing:footwear,
+clothing:gloves,
+cloud,
+clouds,
+copyright name,
+creator:hong yu cheng,
+creator:yuchenghong,
+dated,
+fantasy,
+footwear,
+gender:female,
+genre:fantasy,
+gloves,
+headwear,
+headwear removed,
+helmet,
+helmet removed,
+long hair,
+medium:copyright name,
+medium:dated,
+meta:official art,
+open mouth,
+rating:mature,
+rating:safe,
+series:legend of the cryptids,
+sky,
+solo,
+subreddit:imaginaryknights,
+subreddit:imaginaryweaponry,
+subreddit:imcharacters,
+subreddit:imtechnology,
+sword,
+teeth,
+title:vesa, sword salvager,
+title:vesa, sword salvager by yucheng hong,
+title:vesa, sword salvager by yuchenghong,
+tree,
+uploader:lol33ta,
+uploader:lordjimbob01,
+weapon,

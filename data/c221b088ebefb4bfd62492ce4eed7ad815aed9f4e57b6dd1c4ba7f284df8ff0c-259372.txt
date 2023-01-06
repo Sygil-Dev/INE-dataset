@@ -1,33 +1,33 @@
-android
-black hair
-bodysuit
-brown eyes
-category:ine
-character:gally
-city
-cityscape
-copyright name
-creator:tracy zhao
-cuts
-debris
-destruction
-fighting stance
-fist
-girl
-injury
-lips
-looking away
-mechanical arms
-outdoors
-realistic
-series:battle angel alita
-short hair
-signed
-single
-site:anime-pictures.net
-standing
-stone (stones)
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:alita by tracy zhao
-uploader:lol33ta
+android,
+black hair,
+bodysuit,
+brown eyes,
+category:ine,
+character:gally,
+city,
+cityscape,
+copyright name,
+creator:tracy zhao,
+cuts,
+debris,
+destruction,
+fighting stance,
+fist,
+girl,
+injury,
+lips,
+looking away,
+mechanical arms,
+outdoors,
+realistic,
+series:battle angel alita,
+short hair,
+signed,
+single,
+site:anime-pictures.net,
+standing,
+stone (stones),
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:alita by tracy zhao,
+uploader:lol33ta,

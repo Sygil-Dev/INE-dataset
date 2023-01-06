@@ -1,40 +1,40 @@
-art
-booru:e621
-category:ine
-claws
-creator:tomasz jedruszek
-faceless character
-feral
-group
-holding object
-holding weapon
-looking at viewer
-melee weapon
-meta:official art
-polearm
-pov
-quadruped
-rating:safe
-scales
-series:hasbro
-series:magic: the gathering
-series:official art
-size difference
-solo focus
-spear
-species:human
-species:mammal
-species:monster
-species:pangolin
-species:primate
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarybehemoths
-subreddit:immonsters
-swamp
-title:prowling pangolin by tomasz jedruszek
-tongue
-tongue out
-uploader:faeryknight
-water
-weapon
+art,
+booru:e621,
+category:ine,
+claws,
+creator:tomasz jedruszek,
+faceless character,
+feral,
+group,
+holding object,
+holding weapon,
+looking at viewer,
+melee weapon,
+meta:official art,
+polearm,
+pov,
+quadruped,
+rating:safe,
+scales,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+size difference,
+solo focus,
+spear,
+species:human,
+species:mammal,
+species:monster,
+species:pangolin,
+species:primate,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarybehemoths,
+subreddit:immonsters,
+swamp,
+title:prowling pangolin by tomasz jedruszek,
+tongue,
+tongue out,
+uploader:faeryknight,
+water,
+weapon,

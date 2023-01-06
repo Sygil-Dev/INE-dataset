@@ -1,42 +1,42 @@
-2018
-anthro
-armymilitary
-attack
-black hair
-booru:e621
-category:ine
-clothed
-clothing
-creator:alradeck
-day
-demon
-detailed background
-furry
-group
-hair
-hoard
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2018
-meta:digital media (artwork)
-meta:hi res
-opalescent
-open mouth
-outside
-rating:safe
-sergal
-snarly
-species:felid
-species:feline
-species:mammal
-species:serval
-subreddit:imaginarywtf
-subreddit:imnsfw
-swarm
-teeth
-title:rebellious swarm
-title:rebellious swarm by andrea radeck
-tongue
-uploader:myrandall
-year:2018
+2018,
+anthro,
+armymilitary,
+attack,
+black hair,
+booru:e621,
+category:ine,
+clothed,
+clothing,
+creator:alradeck,
+day,
+demon,
+detailed background,
+furry,
+group,
+hair,
+hoard,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2018,
+meta:digital media (artwork),
+meta:hi res,
+opalescent,
+open mouth,
+outside,
+rating:safe,
+sergal,
+snarly,
+species:felid,
+species:feline,
+species:mammal,
+species:serval,
+subreddit:imaginarywtf,
+subreddit:imnsfw,
+swarm,
+teeth,
+title:rebellious swarm,
+title:rebellious swarm by andrea radeck,
+tongue,
+uploader:myrandall,
+year:2018,

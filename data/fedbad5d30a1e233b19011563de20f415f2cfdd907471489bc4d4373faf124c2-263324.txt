@@ -1,28 +1,28 @@
-art
-battle
-category:ine
-creator:adam burn
-creator:adamburn
-destruction
-engine
-epic
-explosion
-fire
-genre:science fiction
-inetgrafx
-laser
-medium:letterboxed
-meta:official art
-no humans
-planet
-rating:safe
-series:novus aeterno
-series:original
-smoke
-space
-space craft
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-title:wars symphony
-title:wars symphony by adam burn
-uploader:mrxd15
+art,
+battle,
+category:ine,
+creator:adam burn,
+creator:adamburn,
+destruction,
+engine,
+epic,
+explosion,
+fire,
+genre:science fiction,
+inetgrafx,
+laser,
+medium:letterboxed,
+meta:official art,
+no humans,
+planet,
+rating:safe,
+series:novus aeterno,
+series:original,
+smoke,
+space,
+space craft,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+title:wars symphony,
+title:wars symphony by adam burn,
+uploader:mrxd15,

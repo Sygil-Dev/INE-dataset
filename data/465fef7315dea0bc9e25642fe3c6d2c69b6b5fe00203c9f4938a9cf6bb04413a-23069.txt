@@ -1,42 +1,42 @@
-1 male
-1boy
-artist:task utsushita
-ball
-basket
-black hair
-black hat
-black headwear
-category:ine
-chair
-clothing:hat
-clothing:headwear
-copyright:original
-creator:task utsushita
-cup
-food
-fork
-from above
-gender:male
-globe
-hat
-jar
-knife
-looking away
-messy room
-pie
-pillow
-plate
-rating:mature
-rating:safe
-scarf
-series:original
-short hair
-sitting
-subreddit:imaginaryinteriors
-subreddit:imaginarywizards
-subreddit:imarchitecture
-subreddit:imcharacters
-teacup
-title:room [utsushita]
-uploader:myrandall
-witch hat
+1 male,
+1boy,
+artist:task utsushita,
+ball,
+basket,
+black hair,
+black hat,
+black headwear,
+category:ine,
+chair,
+clothing:hat,
+clothing:headwear,
+copyright:original,
+creator:task utsushita,
+cup,
+food,
+fork,
+from above,
+gender:male,
+globe,
+hat,
+jar,
+knife,
+looking away,
+messy room,
+pie,
+pillow,
+plate,
+rating:mature,
+rating:safe,
+scarf,
+series:original,
+short hair,
+sitting,
+subreddit:imaginaryinteriors,
+subreddit:imaginarywizards,
+subreddit:imarchitecture,
+subreddit:imcharacters,
+teacup,
+title:room [utsushita],
+uploader:myrandall,
+witch hat,

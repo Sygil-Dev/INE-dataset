@@ -1,31 +1,31 @@
-baneblade
-battle
-board:/k/
-cadian
-catachan
-category:ine
-chainsword
-creator:xi-zhang
-flag
-imperial guard
-imperium
-implant eye
-knights
-lasgun
-medium:image
-meta:character request
-officer
-ogrun
-series:warhammer 40,000
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-sword
-tank
-tank:tagme
-tau
-title:warhammer - imperial planetfall by xi zhang
-uploader:adverserius
-weapon
-website:chan style imageboards
-xi-zhang
+baneblade,
+battle,
+board:/k/,
+cadian,
+catachan,
+category:ine,
+chainsword,
+creator:xi-zhang,
+flag,
+imperial guard,
+imperium,
+implant eye,
+knights,
+lasgun,
+medium:image,
+meta:character request,
+officer,
+ogrun,
+series:warhammer 40,000,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+sword,
+tank,
+tank:tagme,
+tau,
+title:warhammer - imperial planetfall by xi zhang,
+uploader:adverserius,
+weapon,
+website:chan style imageboards,
+xi-zhang,

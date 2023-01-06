@@ -1,30 +1,30 @@
-bare tree
-bat
-bat wings
-branch
-castle
-category:ine
-demon wings
-full moon
-graveyard
-hat
-moon
-moonlight
-night
-night sky
-outdoors
-rating:safe
-red moon
-sky
-solo
-subreddit:imaginaryvampires
-subreddit:imaginarywitcher
-subreddit:immonsters
-title:gwent: regis by marek madej
-title:regis, marek madej
-tombstone
-tree
-uploader:knighterrannt
-uploader:manowar0264
-weapon
-wings
+bare tree,
+bat,
+bat wings,
+branch,
+castle,
+category:ine,
+demon wings,
+full moon,
+graveyard,
+hat,
+moon,
+moonlight,
+night,
+night sky,
+outdoors,
+rating:safe,
+red moon,
+sky,
+solo,
+subreddit:imaginaryvampires,
+subreddit:imaginarywitcher,
+subreddit:immonsters,
+title:gwent: regis by marek madej,
+title:regis, marek madej,
+tombstone,
+tree,
+uploader:knighterrannt,
+uploader:manowar0264,
+weapon,
+wings,

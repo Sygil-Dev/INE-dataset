@@ -1,33 +1,33 @@
-1 female
-1girl
-booru:sankaku channel
-brown hair
-category:ine
-closed mouth
-creator:guweiz
-female
-gender:female
-in profile
-light
-lips
-long hair
-medium:realistic
-meta:commentary
-meta:photoshop (medium)
-nose
-profile
-rating:mature
-rating:safe
-rating:sensitive
-realistic
-self hug
-series:original
-solo
-species:human
-species:mammal
-species:primate
-subreddit:imaginaryhumans
-subreddit:imraces
-title:warm
-title:warm by 炜炜
-uploader:net-diver
+1 female,
+1girl,
+booru:sankaku channel,
+brown hair,
+category:ine,
+closed mouth,
+creator:guweiz,
+female,
+gender:female,
+in profile,
+light,
+lips,
+long hair,
+medium:realistic,
+meta:commentary,
+meta:photoshop (medium),
+nose,
+profile,
+rating:mature,
+rating:safe,
+rating:sensitive,
+realistic,
+self hug,
+series:original,
+solo,
+species:human,
+species:mammal,
+species:primate,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:warm,
+title:warm by 炜炜,
+uploader:net-diver,

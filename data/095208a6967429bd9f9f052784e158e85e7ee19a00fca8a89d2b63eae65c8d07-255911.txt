@@ -1,23 +1,23 @@
-category:ine
-cloud
-concept art
-creator:james ross mcnab
-digital painting
-environment
-environments
-graphic composition
-greyscale
-matte painting
-medium:digital 2d
-monochrome
-outdoors
-painting
-rating:safe
-scenery
-sky
-subreddit:imaginaryislands
-subreddit:imnature
-title:arrival
-title:arrival - james ross mcnab
-tree
-uploader:redoctoberrising
+category:ine,
+cloud,
+concept art,
+creator:james ross mcnab,
+digital painting,
+environment,
+environments,
+graphic composition,
+greyscale,
+matte painting,
+medium:digital 2d,
+monochrome,
+outdoors,
+painting,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginaryislands,
+subreddit:imnature,
+title:arrival,
+title:arrival - james ross mcnab,
+tree,
+uploader:redoctoberrising,

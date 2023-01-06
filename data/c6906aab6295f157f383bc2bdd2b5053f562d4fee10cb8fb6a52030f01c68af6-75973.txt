@@ -1,83 +1,83 @@
-1 female
-1girl
-action
-anime
-animegirl
-bandage
-bandaged leg
-bandages
-bare shoulders
-bike shorts
-black gloves
-black shirt
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-breasts
-canyon
-category:ine
-character:haruno sakura
-cleavage
-closed mouth
-clothing:gloves
-clothing:legwear
-cloud
-clouds
-creator:xong
-creator:xongbros
-cute
-cutekawaii
-elbow sleeve
-epic
-facial mark
-fanart
-fight
-fighter
-fighting
-fighting stance
-forehead mark
-forehead protector
-gender:female
-gloves
-green eyes
-holding
-kunai
-manga
-meta:commentary
-meta:photoshop (medium)
-naruto
-ninja
-outdoors
-outside
-patreon
-patreonartist
-patreonreward
-pink
-pink hair
-pixiv work:72762065
-rating:mature
-rating:safe
-rating:sensitive
-rock
-sakuraharuno
-sakuranaruto
-scroll
-series:naruto
-series:naruto (series)
-series:naruto shippuuden
-shirt
-shorts
-sky
-sleeveless
-sleeveless shirt
-solo
-subreddit:imaginaryanime
-subreddit:imfandoms
-title:sakura haruno
-title:sakura haruno by krishna and balram banerjee
-uploader:net-diver
-weapon
-xong
-zipper
-zipper pull tab
+1 female,
+1girl,
+action,
+anime,
+animegirl,
+bandage,
+bandaged leg,
+bandages,
+bare shoulders,
+bike shorts,
+black gloves,
+black shirt,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+breasts,
+canyon,
+category:ine,
+character:haruno sakura,
+cleavage,
+closed mouth,
+clothing:gloves,
+clothing:legwear,
+cloud,
+clouds,
+creator:xong,
+creator:xongbros,
+cute,
+cutekawaii,
+elbow sleeve,
+epic,
+facial mark,
+fanart,
+fight,
+fighter,
+fighting,
+fighting stance,
+forehead mark,
+forehead protector,
+gender:female,
+gloves,
+green eyes,
+holding,
+kunai,
+manga,
+meta:commentary,
+meta:photoshop (medium),
+naruto,
+ninja,
+outdoors,
+outside,
+patreon,
+patreonartist,
+patreonreward,
+pink,
+pink hair,
+pixiv work:72762065,
+rating:mature,
+rating:safe,
+rating:sensitive,
+rock,
+sakuraharuno,
+sakuranaruto,
+scroll,
+series:naruto,
+series:naruto (series),
+series:naruto shippuuden,
+shirt,
+shorts,
+sky,
+sleeveless,
+sleeveless shirt,
+solo,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+title:sakura haruno,
+title:sakura haruno by krishna and balram banerjee,
+uploader:net-diver,
+weapon,
+xong,
+zipper,
+zipper pull tab,

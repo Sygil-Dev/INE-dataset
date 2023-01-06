@@ -1,42 +1,42 @@
-blue sky
-booru:sankaku channel
-category:ine
-cloud
-creator:donkey
-creator:k-takano
-crystal
-dirt road
-fantasy
-flower
-genre:fantasy
-ground vehicle
-lake
-landscape
-meadow
-medium:high resolution
-medium:signature
-meta:highres
-mountain
-nature
-outside
-path
-rating:general
-rating:mature
-rating:safe
-road
-rock
-scenery
-series:original
-sky
-staff
-subreddit:imaginarymountains
-subreddit:imnature
-sunlight
-title:kenzan by kou takano
-tree
-uploader:ethereeal
-vehicle
-very wide shot
-wagon
-water
-waterfall
+blue sky,
+booru:sankaku channel,
+category:ine,
+cloud,
+creator:donkey,
+creator:k-takano,
+crystal,
+dirt road,
+fantasy,
+flower,
+genre:fantasy,
+ground vehicle,
+lake,
+landscape,
+meadow,
+medium:high resolution,
+medium:signature,
+meta:highres,
+mountain,
+nature,
+outside,
+path,
+rating:general,
+rating:mature,
+rating:safe,
+road,
+rock,
+scenery,
+series:original,
+sky,
+staff,
+subreddit:imaginarymountains,
+subreddit:imnature,
+sunlight,
+title:kenzan by kou takano,
+tree,
+uploader:ethereeal,
+vehicle,
+very wide shot,
+wagon,
+water,
+waterfall,

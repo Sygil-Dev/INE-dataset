@@ -1,36 +1,36 @@
-airship
-blue sky
-bridge
-building
-castle
-category:ine
-city
-cliff
-cloud
-cloudy sky
-day
-fantasy
-floating island
-horizon
-landscape
-mountain
-no humans
-ocean
-outdoors
-rating:safe
-river
-ruins
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imaginarymindscapes
-subreddit:imarchitecture
-subreddit:imlandscapes
-title:downwind by j line
-tower
-tree
-uploader:elumental
-uploader:wiildman8
-water
-waterfall
-website:reddit
+airship,
+blue sky,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cliff,
+cloud,
+cloudy sky,
+day,
+fantasy,
+floating island,
+horizon,
+landscape,
+mountain,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+river,
+ruins,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imaginarymindscapes,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+title:downwind by j line,
+tower,
+tree,
+uploader:elumental,
+uploader:wiildman8,
+water,
+waterfall,
+website:reddit,

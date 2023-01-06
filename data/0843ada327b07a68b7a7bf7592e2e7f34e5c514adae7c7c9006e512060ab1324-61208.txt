@@ -1,21 +1,21 @@
-6+boys
-armor
-battle
-beard
-category:ine
-cloud
-facial hair
-fire
-helmet
-holding
-holding weapon
-multiple boys
-polearm
-rating:safe
-spear
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-sword
-title:compilation by dima sokolov
-uploader:levthered
-weapon
+6+boys,
+armor,
+battle,
+beard,
+category:ine,
+cloud,
+facial hair,
+fire,
+helmet,
+holding,
+holding weapon,
+multiple boys,
+polearm,
+rating:safe,
+spear,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+sword,
+title:compilation by dima sokolov,
+uploader:levthered,
+weapon,

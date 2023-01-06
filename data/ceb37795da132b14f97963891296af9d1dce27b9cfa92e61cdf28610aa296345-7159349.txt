@@ -1,43 +1,43 @@
-2017
-bag
-booru:e621
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-character:princess luna
-character:princess luna (mlp)
-creator:imalou
-egg
-female
-fire
-furry
-gender:female
-genre:fantasy
-green theme
-group
-horn
-horns
-medium:high resolution
-meta:2017
-meta:green theme
-meta:hi res
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-species:dragon
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:scalie
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:flight of the robber
-title:flight of the robber by lèa d. (imalou)
-uploader:sparroew
-wings
-year:2017
+2017,
+bag,
+booru:e621,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+character:princess luna,
+character:princess luna (mlp),
+creator:imalou,
+egg,
+female,
+fire,
+furry,
+gender:female,
+genre:fantasy,
+green theme,
+group,
+horn,
+horns,
+medium:high resolution,
+meta:2017,
+meta:green theme,
+meta:hi res,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+species:dragon,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:scalie,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:flight of the robber,
+title:flight of the robber by lèa d. (imalou),
+uploader:sparroew,
+wings,
+year:2017,

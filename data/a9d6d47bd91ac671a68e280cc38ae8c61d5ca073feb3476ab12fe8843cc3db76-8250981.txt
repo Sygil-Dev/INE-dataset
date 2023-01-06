@@ -1,20 +1,20 @@
-armor
-category:ine
-creator:remy paul
-cyborg
-fliying
-girl
-headwear
-helmet
-machine
-mask
-mecha
-medium:digital 2d
-subreddit:imaginarymechs
-subreddit:imtechnology
-title:cyborg girl 32 - ptéromecha
-title:cyborg girl 32 - ptéromecha by remy paul
-uploader:net-diver
-vehicule
-weapon
-woman
+armor,
+category:ine,
+creator:remy paul,
+cyborg,
+fliying,
+girl,
+headwear,
+helmet,
+machine,
+mask,
+mecha,
+medium:digital 2d,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+title:cyborg girl 32 - ptéromecha,
+title:cyborg girl 32 - ptéromecha by remy paul,
+uploader:net-diver,
+vehicule,
+weapon,
+woman,

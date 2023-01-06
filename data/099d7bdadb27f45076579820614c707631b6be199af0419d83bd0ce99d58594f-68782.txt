@@ -1,58 +1,58 @@
-autumn leaves
-breathing fire
-brick
-brick wall
-building
-burning
-campfire
-candle
-castle
-category:ine
-chain-link fence
-character:charmander
-chimney
-city
-city lights
-cityscape
-destruction
-embers
-explosion
-fence
-fiery hair
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-full moon
-gate
-honeycomb (pattern)
-house
-magic
-molten rock
-moon
-muzzle flash
-night
-night sky
-orange sky
-pyrokinesis
-rating:safe
-red moon
-red sky
-rooftop
-scenery
-sky
-skyscraper
-smoke
-subreddit:imaginarywesteros
-subreddit:imfandoms
-sun
-sunset
-tail-tip fire
-title:summerhall visions by ramercila
-torch
-tower
-town
-uploader:sparklyflowers
-volcano
-wall
+autumn leaves,
+breathing fire,
+brick,
+brick wall,
+building,
+burning,
+campfire,
+candle,
+castle,
+category:ine,
+chain-link fence,
+character:charmander,
+chimney,
+city,
+city lights,
+cityscape,
+destruction,
+embers,
+explosion,
+fence,
+fiery hair,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+full moon,
+gate,
+honeycomb (pattern),
+house,
+magic,
+molten rock,
+moon,
+muzzle flash,
+night,
+night sky,
+orange sky,
+pyrokinesis,
+rating:safe,
+red moon,
+red sky,
+rooftop,
+scenery,
+sky,
+skyscraper,
+smoke,
+subreddit:imaginarywesteros,
+subreddit:imfandoms,
+sun,
+sunset,
+tail-tip fire,
+title:summerhall visions by ramercila,
+torch,
+tower,
+town,
+uploader:sparklyflowers,
+volcano,
+wall,

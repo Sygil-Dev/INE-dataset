@@ -1,28 +1,28 @@
-art
-category:ine
-creator:saturnspace
-genre:fantasy
-humanized
-moon
-mylittleponyfriendshipismagic
-pony
-princess
-princess luna
-princesscadance
-princesscelestia
-princessluna
-rating:safe
-series:my little pony
-series:my little pony friendship is magic
-sfw
-species:equine
-species:mammal
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imaginaryfashion
-subreddit:imfandoms
-subreddit:immeta
-title:"symphony of the nightmare" by comet sign (saturnspace)
-title:symphony of the nightmare
-twilightsparkle
-uploader:torvusil
+art,
+category:ine,
+creator:saturnspace,
+genre:fantasy,
+humanized,
+moon,
+mylittleponyfriendshipismagic,
+pony,
+princess,
+princess luna,
+princesscadance,
+princesscelestia,
+princessluna,
+rating:safe,
+series:my little pony,
+series:my little pony friendship is magic,
+sfw,
+species:equine,
+species:mammal,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imaginaryfashion,
+subreddit:imfandoms,
+subreddit:immeta,
+title:"symphony of the nightmare" by comet sign (saturnspace),
+title:symphony of the nightmare,
+twilightsparkle,
+uploader:torvusil,

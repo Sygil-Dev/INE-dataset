@@ -1,28 +1,28 @@
-azog
-category:ine
-cintiq
-creator:kerembeyit
-digitalart
-digitalpainting
-fanart
-fantasyart
-greatgoblin
-hobbit
-hobbitfanart
-kerembeyit
-kinggoblin
-lordoftherings
-orc
-photoshop
-subreddit:imaginarygoblins
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-subreddit:imraces
-thegoblinking
-title:hobbit fanart - the goblin king
-title:hobbit fanart - the goblin king by kerem beyit
-title:the goblin king by kerem beyit
-tolkienfanart
-uploader:lol33ta
-uploader:net-diver
-wacom
+azog,
+category:ine,
+cintiq,
+creator:kerembeyit,
+digitalart,
+digitalpainting,
+fanart,
+fantasyart,
+greatgoblin,
+hobbit,
+hobbitfanart,
+kerembeyit,
+kinggoblin,
+lordoftherings,
+orc,
+photoshop,
+subreddit:imaginarygoblins,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+subreddit:imraces,
+thegoblinking,
+title:hobbit fanart - the goblin king,
+title:hobbit fanart - the goblin king by kerem beyit,
+title:the goblin king by kerem beyit,
+tolkienfanart,
+uploader:lol33ta,
+uploader:net-diver,
+wacom,

@@ -1,44 +1,44 @@
-ahealthofinformation
-ambiguous gender
-booru:e621
-category:ine
-cattail
-character:cattail (mlp)
-character:fluttershy
-character:fluttershy (mlp)
-character:twilight sparkle
-character:twilight sparkle (mlp)
-creator:assasinmonkey
-episode20
-fluttershy
-gender:ambiguous
-genre:fantasy
-group
-hair
-mask
-medium:high resolution
-meta:2017
-meta:hi res
-mlpfim
-mylittleponyfriendshipismagic
-pink hair
-rating:safe
-season7
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:equid
-species:equine
-species:horse
-species:mammal
-species:pony
-studio:hasbro
-subreddit:imaginaryartifacts
-subreddit:immeta
-title:masked health
-title:masked health by myron c. p.
-twilightsparkle
-uploader:myrandall
-year:2017
+ahealthofinformation,
+ambiguous gender,
+booru:e621,
+category:ine,
+cattail,
+character:cattail (mlp),
+character:fluttershy,
+character:fluttershy (mlp),
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+creator:assasinmonkey,
+episode20,
+fluttershy,
+gender:ambiguous,
+genre:fantasy,
+group,
+hair,
+mask,
+medium:high resolution,
+meta:2017,
+meta:hi res,
+mlpfim,
+mylittleponyfriendshipismagic,
+pink hair,
+rating:safe,
+season7,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:equid,
+species:equine,
+species:horse,
+species:mammal,
+species:pony,
+studio:hasbro,
+subreddit:imaginaryartifacts,
+subreddit:immeta,
+title:masked health,
+title:masked health by myron c. p.,
+twilightsparkle,
+uploader:myrandall,
+year:2017,

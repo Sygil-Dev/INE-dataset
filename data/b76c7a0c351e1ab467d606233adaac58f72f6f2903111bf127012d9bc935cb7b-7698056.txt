@@ -1,56 +1,56 @@
-4k
-2017
-antlers
-artist:starblaze25
-booru:e621
-category:ine
-character:discord
-character:discord (mlp)
-character:discord_(mlp)
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:starblaze25
-detailed background
-eating
-female
-feral
-gender:female
-gender:male
-genre:fantasy
-grass
-group
-horn
-horns
-male
-medium:16:9 aspect ratio
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:4k
-meta:16:9
-meta:2017
-meta:absurd res
-meta:absurd_res
-meta:hi res
-meta:hi_res
-meta:widescreen
-plant
-rating:safe
-rock
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-species:cervid
-species:cervine
-species:deer
-species:mammal
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:deerscord
-title:deerscord by 'starblaze25'
-tree
-uploader:myrandall
-year:2017
+4k,
+2017,
+antlers,
+artist:starblaze25,
+booru:e621,
+category:ine,
+character:discord,
+character:discord (mlp),
+character:discord_(mlp),
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:starblaze25,
+detailed background,
+eating,
+female,
+feral,
+gender:female,
+gender:male,
+genre:fantasy,
+grass,
+group,
+horn,
+horns,
+male,
+medium:16:9 aspect ratio,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:4k,
+meta:16:9,
+meta:2017,
+meta:absurd res,
+meta:absurd_res,
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+plant,
+rating:safe,
+rock,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+species:cervid,
+species:cervine,
+species:deer,
+species:mammal,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:deerscord,
+title:deerscord by 'starblaze25',
+tree,
+uploader:myrandall,
+year:2017,

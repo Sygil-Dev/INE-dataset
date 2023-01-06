@@ -1,23 +1,23 @@
-1boy
-category:ine
-coat
-creator:bjorn hurri
-gradient
-gradient background
-green background
-holding
-holding weapon
-hood
-hood up
-male focus
-rating:safe
-sandals
-signature
-solo
-standing
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:cyborg assassin by bjorn hurri
-title:some design practise
-uploader:lol33ta
-weapon
+1boy,
+category:ine,
+coat,
+creator:bjorn hurri,
+gradient,
+gradient background,
+green background,
+holding,
+holding weapon,
+hood,
+hood up,
+male focus,
+rating:safe,
+sandals,
+signature,
+solo,
+standing,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:cyborg assassin by bjorn hurri,
+title:some design practise,
+uploader:lol33ta,
+weapon,

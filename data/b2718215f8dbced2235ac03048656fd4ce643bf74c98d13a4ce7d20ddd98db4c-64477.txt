@@ -1,18 +1,18 @@
-30k
-astartes
-category:ine
-creator:diego gisbert llorens
-dorn
-imperial fists
-imperium
-legion
-medium:digital 2d
-sigismund
-space marine
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-templar
-title:sigismund of the 7th
-title:sigismund of the 7th by diego gisbert llorens
-uploader:adverserius
-warhammer
+30k,
+astartes,
+category:ine,
+creator:diego gisbert llorens,
+dorn,
+imperial fists,
+imperium,
+legion,
+medium:digital 2d,
+sigismund,
+space marine,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+templar,
+title:sigismund of the 7th,
+title:sigismund of the 7th by diego gisbert llorens,
+uploader:adverserius,
+warhammer,

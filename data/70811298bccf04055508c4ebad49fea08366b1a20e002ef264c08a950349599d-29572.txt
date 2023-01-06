@@ -1,109 +1,109 @@
-1 male
-abs
-anthropomorphism
-anthropomorphization
-armwear
-art:character art
-blonde
-blonde hair
-bodypart:abs
-bodypart:blonde hair
-bodypart:breasts
-bodypart:brown eyes
-bodypart:long hair
-bodypart:nipples
-booru:danbooru
-booru:gelbooru
-booru:sankaku channel
-booru:tbib
-breasts
-brown eyes
-character:pikachu (human)
-character:pokemon species
-character:super saiyan
-clothing:collar
-clothing:elbow gloves
-clothing:gloves
-clothing:legwear
-clothing:painted face
-clothing:pants
-collar
-commentary
-creator:sakimichan
-elbow gloves
-electricity
-english commentary
-facepaint
-filename:pikachu_02
-gen 1 pokemon
-gen 1 pokémon
-gender:male
-gloves
-gradient
-gradient background
-hair:blonde
-humanization
-legwear
-long hair
-male
-male focus
-male only
-male:1
-medium:2d art
-medium:focus on male character
-medium:gradient background
-medium:patreon reward
-medium:simple background
-medium:watermark
-medium:web address
-medium:yellow theme
-meta:commentary
-meta:english commentary
-meta:paid reward
-meta:patreon reward
-muscle
-muscles
-muscular
-navel
-nipples
-pants
-personification
-rating:mature
-rating:questionable
-rating:safe
-sakimichan
-series:dragon ball
-series:dragon ball z
-series:nintendo
-series:pokémon
-shirtless
-site:deviant art
-site:patreon
-site:yiff.party
-smile
-solo
-species:monster
-species:pikachu
-species:pokémon
-spiked collar
-spikes
-stomach
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-super saiyan
-super saiyan 1
-title:pika pika (term 17 reward)
-title:super saiyan pikachu
-title:super saiyan pikachu by sakimi chan
-topless male
-watermark
-web address
-website:danbooru
-website:gelbooru
-yellow
-yellow gloves
-yellow pants
-yellow theme
+1 male,
+abs,
+anthropomorphism,
+anthropomorphization,
+armwear,
+art:character art,
+blonde,
+blonde hair,
+bodypart:abs,
+bodypart:blonde hair,
+bodypart:breasts,
+bodypart:brown eyes,
+bodypart:long hair,
+bodypart:nipples,
+booru:danbooru,
+booru:gelbooru,
+booru:sankaku channel,
+booru:tbib,
+breasts,
+brown eyes,
+character:pikachu (human),
+character:pokemon species,
+character:super saiyan,
+clothing:collar,
+clothing:elbow gloves,
+clothing:gloves,
+clothing:legwear,
+clothing:painted face,
+clothing:pants,
+collar,
+commentary,
+creator:sakimichan,
+elbow gloves,
+electricity,
+english commentary,
+facepaint,
+filename:pikachu_02,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:male,
+gloves,
+gradient,
+gradient background,
+hair:blonde,
+humanization,
+legwear,
+long hair,
+male,
+male focus,
+male only,
+male:1,
+medium:2d art,
+medium:focus on male character,
+medium:gradient background,
+medium:patreon reward,
+medium:simple background,
+medium:watermark,
+medium:web address,
+medium:yellow theme,
+meta:commentary,
+meta:english commentary,
+meta:paid reward,
+meta:patreon reward,
+muscle,
+muscles,
+muscular,
+navel,
+nipples,
+pants,
+personification,
+rating:mature,
+rating:questionable,
+rating:safe,
+sakimichan,
+series:dragon ball,
+series:dragon ball z,
+series:nintendo,
+series:pokémon,
+shirtless,
+site:deviant art,
+site:patreon,
+site:yiff.party,
+smile,
+solo,
+species:monster,
+species:pikachu,
+species:pokémon,
+spiked collar,
+spikes,
+stomach,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+super saiyan,
+super saiyan 1,
+title:pika pika (term 17 reward),
+title:super saiyan pikachu,
+title:super saiyan pikachu by sakimi chan,
+topless male,
+watermark,
+web address,
+website:danbooru,
+website:gelbooru,
+yellow,
+yellow gloves,
+yellow pants,
+yellow theme,

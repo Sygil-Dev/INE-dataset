@@ -1,29 +1,29 @@
-1boy
-1girl
-artist name
-bokeh
-bubble
-category:ine
-couple
-creator:siwoo kim
-dress
-earrings
-fanart
-formal
-glasses
-hetero
-illustration
-jewelry
-lens flare
-medium:digital 2d
-movie
-rating:safe
-short hair
-smile
-subreddit:imaginarylovers
-subreddit:imcharacters
-suit
-sun
-title:the theory of everything
-title:the theory of everything by siwoo kim
-uploader:lol33ta
+1boy,
+1girl,
+artist name,
+bokeh,
+bubble,
+category:ine,
+couple,
+creator:siwoo kim,
+dress,
+earrings,
+fanart,
+formal,
+glasses,
+hetero,
+illustration,
+jewelry,
+lens flare,
+medium:digital 2d,
+movie,
+rating:safe,
+short hair,
+smile,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+suit,
+sun,
+title:the theory of everything,
+title:the theory of everything by siwoo kim,
+uploader:lol33ta,

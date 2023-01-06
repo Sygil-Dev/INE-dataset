@@ -1,25 +1,25 @@
-botw
-breathofthewild
-category:ine
-creator:caycowa
-digitalart
-digitalfanart
-fanart
-flowers
-legendofzelda
-legendofzeldabreathofthewild
-loz
-lozbotw
-mastersword
-shield
-silentprincess
-silentprincessflower
-subreddit:imaginaryartifacts
-subreddit:imaginaryweaponry
-subreddit:immeta
-subreddit:imtechnology
-sword
-title:loz breath of the wild - sword and shield
-title:loz breath of the wild - sword and shield by stephan black
-travelersshield
-uploader:myrandall
+botw,
+breathofthewild,
+category:ine,
+creator:caycowa,
+digitalart,
+digitalfanart,
+fanart,
+flowers,
+legendofzelda,
+legendofzeldabreathofthewild,
+loz,
+lozbotw,
+mastersword,
+shield,
+silentprincess,
+silentprincessflower,
+subreddit:imaginaryartifacts,
+subreddit:imaginaryweaponry,
+subreddit:immeta,
+subreddit:imtechnology,
+sword,
+title:loz breath of the wild - sword and shield,
+title:loz breath of the wild - sword and shield by stephan black,
+travelersshield,
+uploader:myrandall,

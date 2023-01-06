@@ -1,40 +1,40 @@
-ambiguous gender
-ambiguous_gender
-anthro
-anthropomorphism
-armor
-artist:rofelrolf
-biped
-category:ine
-creator:rofelrolf
-detailed background
-detailed_background
-feral
-furry
-gender:ambiguous
-gender:male
-group
-machine
-male
-medium:detailed background
-medium:high resolution
-meta:hi res
-meta:hi_res
-outside
-quadruped
-ranged weapon
-ranged_weapon
-rating:safe
-species:humanoid
-species:reptile
-species:robot
-species:scalie
-species:tortoise
-species:turtle
-standing
-subreddit:imaginaryscience
-subreddit:imtechnology
-title:mech turtle
-title:mech turtle by rolf bertz
-uploader:lordjimbob01
-weapon
+ambiguous gender,
+ambiguous_gender,
+anthro,
+anthropomorphism,
+armor,
+artist:rofelrolf,
+biped,
+category:ine,
+creator:rofelrolf,
+detailed background,
+detailed_background,
+feral,
+furry,
+gender:ambiguous,
+gender:male,
+group,
+machine,
+male,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+meta:hi_res,
+outside,
+quadruped,
+ranged weapon,
+ranged_weapon,
+rating:safe,
+species:humanoid,
+species:reptile,
+species:robot,
+species:scalie,
+species:tortoise,
+species:turtle,
+standing,
+subreddit:imaginaryscience,
+subreddit:imtechnology,
+title:mech turtle,
+title:mech turtle by rolf bertz,
+uploader:lordjimbob01,
+weapon,

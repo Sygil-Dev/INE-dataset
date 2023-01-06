@@ -1,26 +1,26 @@
-1boy
-1girl
-belt
-black gloves
-category:ine
-cowboy hat
-full body
-gloves
-gun
-hat
-holding
-holding gun
-holding weapon
-male focus
-rating:safe
-simple background
-sleeves rolled up
-solo
-standing
-subreddit:imaginaryfallout
-subreddit:imfandoms
-title:ghost by penett
-title:ghost by pennet pennet
-uploader:valar_m0rghul1s
-weapon
-white background
+1boy,
+1girl,
+belt,
+black gloves,
+category:ine,
+cowboy hat,
+full body,
+gloves,
+gun,
+hat,
+holding,
+holding gun,
+holding weapon,
+male focus,
+rating:safe,
+simple background,
+sleeves rolled up,
+solo,
+standing,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+title:ghost by penett,
+title:ghost by pennet pennet,
+uploader:valar_m0rghul1s,
+weapon,
+white background,

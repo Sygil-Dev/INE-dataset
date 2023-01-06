@@ -1,46 +1,46 @@
-4 toes
-5 fingers
-2018
-anthro
-anthropomorphism
-barefoot
-booru:e621
-category:ine
-clothed
-clothing
-creator:alradeck
-day
-detailed background
-duo
-feet
-fingers
-fur
-medium:detailed background
-medium:digital media
-meta:2018
-meta:digital media (artwork)
-outside
-rating:safe
-species:canid
-species:canine
-species:canis
-species:felid
-species:feline
-species:mammal
-species:pantherine
-species:tiger
-species:wolf
-striped
-striped body
-striped fur
-stripes
-subreddit:imaginaryanimals
-subreddit:imnature
-title:show of power
-title:show of power by andrea radeck
-toes
-topless
-uploader:myrandall
-website:reddit
-whiskers
-year:2018
+4 toes,
+5 fingers,
+2018,
+anthro,
+anthropomorphism,
+barefoot,
+booru:e621,
+category:ine,
+clothed,
+clothing,
+creator:alradeck,
+day,
+detailed background,
+duo,
+feet,
+fingers,
+fur,
+medium:detailed background,
+medium:digital media,
+meta:2018,
+meta:digital media (artwork),
+outside,
+rating:safe,
+species:canid,
+species:canine,
+species:canis,
+species:felid,
+species:feline,
+species:mammal,
+species:pantherine,
+species:tiger,
+species:wolf,
+striped,
+striped body,
+striped fur,
+stripes,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:show of power,
+title:show of power by andrea radeck,
+toes,
+topless,
+uploader:myrandall,
+website:reddit,
+whiskers,
+year:2018,

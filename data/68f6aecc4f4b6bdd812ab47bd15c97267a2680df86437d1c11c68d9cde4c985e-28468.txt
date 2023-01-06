@@ -1,27 +1,27 @@
-alley
-autumn
-autumn leaves
-bench
-booru:sankaku
-category:ine
-creator:arsenixc
-leaf
-light pole
-medium:16:9 aspect ratio
-medium:1920x1080 wallpaper
-medium:high resolution
-medium:wallpaper
-nature
-no humans
-outdoors
-pole
-rating:s
-road
-series:original
-street
-subreddit:imaginaryautumnscapes
-subreddit:imlandscapes
-title:autumn
-title:autumn street by アルス (arsenixc)
-tree
-uploader:lol33ta
+alley,
+autumn,
+autumn leaves,
+bench,
+booru:sankaku,
+category:ine,
+creator:arsenixc,
+leaf,
+light pole,
+medium:16:9 aspect ratio,
+medium:1920x1080 wallpaper,
+medium:high resolution,
+medium:wallpaper,
+nature,
+no humans,
+outdoors,
+pole,
+rating:s,
+road,
+series:original,
+street,
+subreddit:imaginaryautumnscapes,
+subreddit:imlandscapes,
+title:autumn,
+title:autumn street by アルス (arsenixc),
+tree,
+uploader:lol33ta,

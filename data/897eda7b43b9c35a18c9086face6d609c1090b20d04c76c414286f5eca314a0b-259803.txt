@@ -1,33 +1,33 @@
-2018
-ambiguous gender
-animoji
-booru:e621
-category:ine
-creator:tsitra360
-gender:ambiguous
-hair
-horn
-horns
-looking at viewer
-medium:high resolution
-meta:1:1
-meta:2018
-meta:hi res
-multicolored hair
-pov
-rainbow hair
-rating:safe
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-subreddit:imaginaryaww
-subreddit:immeta
-title:sparkled tongue
-title:sparkled tongue by 'tsitra360'
-tongue
-tongue out
-uploader:myrandall
-year:2018
+2018,
+ambiguous gender,
+animoji,
+booru:e621,
+category:ine,
+creator:tsitra360,
+gender:ambiguous,
+hair,
+horn,
+horns,
+looking at viewer,
+medium:high resolution,
+meta:1:1,
+meta:2018,
+meta:hi res,
+multicolored hair,
+pov,
+rainbow hair,
+rating:safe,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:sparkled tongue,
+title:sparkled tongue by 'tsitra360',
+tongue,
+tongue out,
+uploader:myrandall,
+year:2018,

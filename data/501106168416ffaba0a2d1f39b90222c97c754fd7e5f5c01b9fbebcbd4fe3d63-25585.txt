@@ -1,58 +1,58 @@
-16:9
-2018
-artist:ryky
-category:ine
-copyright:disney
-copyright:the_lion_king
-creator:ryky
-day
-detailed background
-detailed_background
-digital media (artwork)
-disney
-disneyfanart
-felid
-feral
-grass
-hi res
-lion
-lionking
-lionkingdisney
-mammal
-medium:16:9 aspect ratio
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:16:9
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:widescreen
-outside
-pantherine
-plant
-pride rock
-pride_rock
-rating:safe
-ryky
-savanna
-series:disney
-series:the lion king
-simbamufasa
-sky
-solo
-species:felid
-species:feline
-species:lion
-species:mammal
-species:pantherine
-studio:disney
-subreddit:imaginarydisney
-subreddit:imfandoms
-title:lion king
-title:lion king by benjamin cehelsky
-tree
-uploader:myrandall
-year:2018
+16:9,
+2018,
+artist:ryky,
+category:ine,
+copyright:disney,
+copyright:the_lion_king,
+creator:ryky,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+disney,
+disneyfanart,
+felid,
+feral,
+grass,
+hi res,
+lion,
+lionking,
+lionkingdisney,
+mammal,
+medium:16:9 aspect ratio,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:16:9,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+outside,
+pantherine,
+plant,
+pride rock,
+pride_rock,
+rating:safe,
+ryky,
+savanna,
+series:disney,
+series:the lion king,
+simbamufasa,
+sky,
+solo,
+species:felid,
+species:feline,
+species:lion,
+species:mammal,
+species:pantherine,
+studio:disney,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+title:lion king,
+title:lion king by benjamin cehelsky,
+tree,
+uploader:myrandall,
+year:2018,

@@ -1,58 +1,58 @@
-2018
-ambiguous gender
-booru:e621
-botanical
-bulba
-bulbasaur
-bulbasaurfanart
-category:ine
-claws
-creator:kenket
-feral
-full body
-furry
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-illustration
-leaf
-medium:traditional media
-meta:2018
-meta:traditional media (artwork)
-no humans
-notched ear
-onionturtle
-outdoors
-plant
-poekmon
-pokemon (creature)
-pokemonart
-pokemonfanart
-rating:safe
-realistic
-series:nintendo
-series:pokémon
-solo
-source:furaffinity.net
-species:bulbasaur
-species:elemental creature
-species:flora fauna
-species:monster
-species:pokémon
-species:pokémon (species)
-species:scalie
-sprout
-studio:nintendo
-subreddit:imaginaryaww
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immeta
-title:bulbasaur
-title:bulbasaur by kenket
-title:bulbasaur by tess garman
-title:bulbasaur by tess garman (kenket)
-toe claws
-uploader:lol33ta
-uploader:myrandall
-video games
-year:2018
+2018,
+ambiguous gender,
+booru:e621,
+botanical,
+bulba,
+bulbasaur,
+bulbasaurfanart,
+category:ine,
+claws,
+creator:kenket,
+feral,
+full body,
+furry,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+illustration,
+leaf,
+medium:traditional media,
+meta:2018,
+meta:traditional media (artwork),
+no humans,
+notched ear,
+onionturtle,
+outdoors,
+plant,
+poekmon,
+pokemon (creature),
+pokemonart,
+pokemonfanart,
+rating:safe,
+realistic,
+series:nintendo,
+series:pokémon,
+solo,
+source:furaffinity.net,
+species:bulbasaur,
+species:elemental creature,
+species:flora fauna,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:scalie,
+sprout,
+studio:nintendo,
+subreddit:imaginaryaww,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immeta,
+title:bulbasaur,
+title:bulbasaur by kenket,
+title:bulbasaur by tess garman,
+title:bulbasaur by tess garman (kenket),
+toe claws,
+uploader:lol33ta,
+uploader:myrandall,
+video games,
+year:2018,

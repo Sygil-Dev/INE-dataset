@@ -1,37 +1,37 @@
-bags under eyes
-black outfit
-book
-book (object)
-booru:sankaku channel
-category:ine
-character:kaneki ken
-closed eyes
-cloud
-colored nails
-creator:pixiv id 4771579
-eyes closed
-flower
-gender:male
-hand holding
-hand on cheek
-hand on head
-holding
-holding book
-holding hands
-holding object
-leaf
-male
-nail polish
-open mouth
-rating:safe
-series:tokyo ghoul
-short hair
-sky
-solo
-subreddit:imaginarycolorscapes
-subreddit:immeta
-title:live, with by 降島ツカサ
-unnaturally white skin
-uploader:[deleted]
-white hair
-white nails
+bags under eyes,
+black outfit,
+book,
+book (object),
+booru:sankaku channel,
+category:ine,
+character:kaneki ken,
+closed eyes,
+cloud,
+colored nails,
+creator:pixiv id 4771579,
+eyes closed,
+flower,
+gender:male,
+hand holding,
+hand on cheek,
+hand on head,
+holding,
+holding book,
+holding hands,
+holding object,
+leaf,
+male,
+nail polish,
+open mouth,
+rating:safe,
+series:tokyo ghoul,
+short hair,
+sky,
+solo,
+subreddit:imaginarycolorscapes,
+subreddit:immeta,
+title:live, with by 降島ツカサ,
+unnaturally white skin,
+uploader:[deleted],
+white hair,
+white nails,

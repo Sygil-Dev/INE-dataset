@@ -1,27 +1,27 @@
-1boy
-belt
-boots
-creator:dsillustration
-desert
-energy gun
-explosion
-facial hair
-gun
-handgun
-holding gun
-m1911
-male focus
-moon
-pistol
-rating:safe
-ray gun
-realistic
-revolver
-science fiction
-solo
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-title:malcolm reynolds
-title:malcolm reynolds by dan dos santos
-uploader:lol33ta
-weapon
+1boy,
+belt,
+boots,
+creator:dsillustration,
+desert,
+energy gun,
+explosion,
+facial hair,
+gun,
+handgun,
+holding gun,
+m1911,
+male focus,
+moon,
+pistol,
+rating:safe,
+ray gun,
+realistic,
+revolver,
+science fiction,
+solo,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+title:malcolm reynolds,
+title:malcolm reynolds by dan dos santos,
+uploader:lol33ta,
+weapon,

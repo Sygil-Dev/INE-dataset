@@ -1,39 +1,39 @@
-aircraft
-airplane
-artist name
-artwork
-blue sky
-booru:sankaku
-category:ine
-cloud
-cloudy sky
-condensation trail
-creator:tommy830219
-dated
-day
-fighter jet
-flying
-genre:science fiction
-jet
-medium:artist name
-medium:dated
-medium:digital media
-medium:signature
-meta:commentary request
-military
-military vehicle
-outdoors
-outside
-rating:mature
-rating:s
-rating:safe
-science fiction
-series:original
-signature
-sky
-subreddit:imaginaryaviation
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-title:originalfighter 5/23 by kare huang
-uploader:nachtigall44
-vehicle
+aircraft,
+airplane,
+artist name,
+artwork,
+blue sky,
+booru:sankaku,
+category:ine,
+cloud,
+cloudy sky,
+condensation trail,
+creator:tommy830219,
+dated,
+day,
+fighter jet,
+flying,
+genre:science fiction,
+jet,
+medium:artist name,
+medium:dated,
+medium:digital media,
+medium:signature,
+meta:commentary request,
+military,
+military vehicle,
+outdoors,
+outside,
+rating:mature,
+rating:s,
+rating:safe,
+science fiction,
+series:original,
+signature,
+sky,
+subreddit:imaginaryaviation,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+title:originalfighter 5/23 by kare huang,
+uploader:nachtigall44,
+vehicle,

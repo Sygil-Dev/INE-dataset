@@ -1,28 +1,28 @@
-bird
-bridge
-building
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-dusk
-evening
-fire
-gradient sky
-mountain
-no humans
-orange sky
-outdoors
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginaryastronauts
-subreddit:imcharacters
-sunset
-title:broken generator by mike winkelmann (beeple)
-tower
-twilight
-uploader:elumental
-water
+bird,
+bridge,
+building,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+dusk,
+evening,
+fire,
+gradient sky,
+mountain,
+no humans,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+sunset,
+title:broken generator by mike winkelmann (beeple),
+tower,
+twilight,
+uploader:elumental,
+water,

@@ -1,94 +1,94 @@
-1 female
-1 male
-1boy
-1girl
-backlighting
-bag
-bangs
-bare arms
-bare shoulders
-black hair
-black pants
-blue jacket
-blurry
-blurry background
-booru:yande.re
-buttons
-carousel
-category:ine
-character:okada takuya
-character:watarase mamizu
-clothing:dress
-clothing:footwear
-clothing:headwear
-clothing:legwear
-creator:kyoppy
-creator:loundraw
-day
-depth of field
-dress
-floating hair
-footwear
-gender:female
-gender:male
-hand holding
-hat
-hat ribbon
-heels
-high heels
-holding hands
-jacket
-light particles
-long hair
-long sleeves
-looking at another
-medium:high resolution
-meta:commentary request
-meta:highres
-midair
-motion lines
-open clothes
-open jacket
-open mouth
-pants
-parted lips
-profile
-rating:mature
-rating:safe
-red footwear
-reflection
-ribbon
-see through
-see-through
-series:kimi wa tsukiyo ni hikari kagayaku
-series:original
-shirt
-shoes
-short hair
-shoulder bag
-sidelocks
-signature
-sleeveless
-sleeveless dress
-subreddit:imaginaryfeels
-subreddit:immeta
-summer dress
-sun hat
-teeth
-title:if, for example by loundraw
-title:もしも、例えば
-uploader:[deleted]
-website:reddit
-white dress
-white footwear
-white hat
-white headwear
-white ribbon
-white shirt
-オリジナル
-オリジナル10000users入り
-メリーゴーランド
-君は月夜に光り輝く
-女の子
-本家
-遊園地
+1 female,
+1 male,
+1boy,
+1girl,
+backlighting,
+bag,
+bangs,
+bare arms,
+bare shoulders,
+black hair,
+black pants,
+blue jacket,
+blurry,
+blurry background,
+booru:yande.re,
+buttons,
+carousel,
+category:ine,
+character:okada takuya,
+character:watarase mamizu,
+clothing:dress,
+clothing:footwear,
+clothing:headwear,
+clothing:legwear,
+creator:kyoppy,
+creator:loundraw,
+day,
+depth of field,
+dress,
+floating hair,
+footwear,
+gender:female,
+gender:male,
+hand holding,
+hat,
+hat ribbon,
+heels,
+high heels,
+holding hands,
+jacket,
+light particles,
+long hair,
+long sleeves,
+looking at another,
+medium:high resolution,
+meta:commentary request,
+meta:highres,
+midair,
+motion lines,
+open clothes,
+open jacket,
+open mouth,
+pants,
+parted lips,
+profile,
+rating:mature,
+rating:safe,
+red footwear,
+reflection,
+ribbon,
+see through,
+see-through,
+series:kimi wa tsukiyo ni hikari kagayaku,
+series:original,
+shirt,
+shoes,
+short hair,
+shoulder bag,
+sidelocks,
+signature,
+sleeveless,
+sleeveless dress,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+summer dress,
+sun hat,
+teeth,
+title:if, for example by loundraw,
+title:もしも、例えば,
+uploader:[deleted],
+website:reddit,
+white dress,
+white footwear,
+white hat,
+white headwear,
+white ribbon,
+white shirt,
+オリジナル,
+オリジナル10000users入り,
+メリーゴーランド,
+君は月夜に光り輝く,
+女の子,
+本家,
+遊園地,

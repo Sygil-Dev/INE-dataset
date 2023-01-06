@@ -1,24 +1,24 @@
-art
-autumn
-bastien
-category:ine
-cosy
-creator:bastien grivet
-digital painting
-fall
-gender:female
-grivet
-grivetart
-medium:concept art
-medium:digital 2d
-medium:photoshop
-season
-species:robot
-subreddit:imaginaryautumnscapes
-subreddit:imlandscapes
-sun
-tattoo
-title:autumn
-title:autumn by bastien grivet
-uploader:panzer-kunst
-warm
+art,
+autumn,
+bastien,
+category:ine,
+cosy,
+creator:bastien grivet,
+digital painting,
+fall,
+gender:female,
+grivet,
+grivetart,
+medium:concept art,
+medium:digital 2d,
+medium:photoshop,
+season,
+species:robot,
+subreddit:imaginaryautumnscapes,
+subreddit:imlandscapes,
+sun,
+tattoo,
+title:autumn,
+title:autumn by bastien grivet,
+uploader:panzer-kunst,
+warm,

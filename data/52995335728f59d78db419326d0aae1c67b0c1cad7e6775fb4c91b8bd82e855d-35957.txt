@@ -1,23 +1,23 @@
-category:ine
-creator:duncan halleck
-design
-dieselpunk
-futuristic
-mecha
-mechanical
-medium:digital 2d
-near future
-robot
-space
-subreddit:imaginaryfuturism
-subreddit:imaginarymechs
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-title:mech concept
-title:xumai z-75 "the loyal blade", duncan halleck
-uploader:dhalleck
-vehicle
-vr
-war machine
-warfare
-weapons
+category:ine,
+creator:duncan halleck,
+design,
+dieselpunk,
+futuristic,
+mecha,
+mechanical,
+medium:digital 2d,
+near future,
+robot,
+space,
+subreddit:imaginaryfuturism,
+subreddit:imaginarymechs,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+title:mech concept,
+title:xumai z-75 "the loyal blade", duncan halleck,
+uploader:dhalleck,
+vehicle,
+vr,
+war machine,
+warfare,
+weapons,

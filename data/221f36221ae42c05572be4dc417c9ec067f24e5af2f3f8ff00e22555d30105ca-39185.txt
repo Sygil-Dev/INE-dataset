@@ -1,91 +1,91 @@
-1 female
-1girl
-10s
-artist:raikoart
-artstation
-bangs
-blonde hair
-blue eyes
-blue jacket
-booru:sankaku channel
-braid
-brooch
-category:ine
-character:violet evergarden
-character:violet evergarden (character)
-clothing:dress
-clothing:gloves
-clothing:hair ribbon
-clothing:jacket
-clothing:jewelry
-clothing:necklace
-clothing:red ribbon
-clothing:ribbon
-copyright:violet evergarden
-creator:paper
-creator:raikoart
-creator:ライコ
-double bun
-dress
-envelope
-evergarden
-flying paper
-frills
-from side
-gender:female
-gloves
-hair between eyes
-hair bun
-hair intakes
-hair ornament
-hair ribbon
-highres
-holding
-holding letter
-in profile
-jacket
-jewelry
-letter
-letters
-long sleeves
-looking down
-mecha
-mecha musume
-mechanical arm
-mechanical hands
-medium hair
-medium:compression artifacts
-medium:high resolution
-medium:low quality
-medium:realistic
-medium:simple background
-meta:commentary
-meta:english commentary
-meta:highres
-meta:photoshop (medium)
-meta:revision
-necklace
-paper
-prosthesis
-prosthetic arm
-prosthetic hand
-rating:mature
-rating:safe
-red ribbon
-ribbon
-series:violet evergarden
-short hair
-site:deviantart
-solo
-subreddit:imaginaryhumans
-subreddit:imraces
-tied hair
-title:violet evergarden
-title:violet evergarden by sean tay
-uploader:myrandall
-violet
-year:10s
-ヴァイオレット
-ヴァイオレット・エヴァーガーデン
-ヴァイオレット・エヴァーガーデン1000users入り
-ヴァイオレット・エヴァーガーデン(キャラクター)
+1 female,
+1girl,
+10s,
+artist:raikoart,
+artstation,
+bangs,
+blonde hair,
+blue eyes,
+blue jacket,
+booru:sankaku channel,
+braid,
+brooch,
+category:ine,
+character:violet evergarden,
+character:violet evergarden (character),
+clothing:dress,
+clothing:gloves,
+clothing:hair ribbon,
+clothing:jacket,
+clothing:jewelry,
+clothing:necklace,
+clothing:red ribbon,
+clothing:ribbon,
+copyright:violet evergarden,
+creator:paper,
+creator:raikoart,
+creator:ライコ,
+double bun,
+dress,
+envelope,
+evergarden,
+flying paper,
+frills,
+from side,
+gender:female,
+gloves,
+hair between eyes,
+hair bun,
+hair intakes,
+hair ornament,
+hair ribbon,
+highres,
+holding,
+holding letter,
+in profile,
+jacket,
+jewelry,
+letter,
+letters,
+long sleeves,
+looking down,
+mecha,
+mecha musume,
+mechanical arm,
+mechanical hands,
+medium hair,
+medium:compression artifacts,
+medium:high resolution,
+medium:low quality,
+medium:realistic,
+medium:simple background,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:photoshop (medium),
+meta:revision,
+necklace,
+paper,
+prosthesis,
+prosthetic arm,
+prosthetic hand,
+rating:mature,
+rating:safe,
+red ribbon,
+ribbon,
+series:violet evergarden,
+short hair,
+site:deviantart,
+solo,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+tied hair,
+title:violet evergarden,
+title:violet evergarden by sean tay,
+uploader:myrandall,
+violet,
+year:10s,
+ヴァイオレット,
+ヴァイオレット・エヴァーガーデン,
+ヴァイオレット・エヴァーガーデン1000users入り,
+ヴァイオレット・エヴァーガーデン(キャラクター),

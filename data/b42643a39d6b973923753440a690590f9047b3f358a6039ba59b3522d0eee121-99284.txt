@@ -1,57 +1,57 @@
-::3
-alternate color
-anthro
-anthropomorphism
-ass
-biceps
-big muscles
-booru:e621
-bunny
-butt
-category:ine
-character:cute bunny (character)
-character:cute bunny(character)
-character:invalid color
-creator:draggincat
-creator:seyumei
-cute
-cute bunny(character)
-cutebunny
-digital painting (artwork)
-draggincat
-face::3
-gender:male
-guro
-looking at viewer
-male
-medium:digital media
-medium:simple background
-meta:2013
-meta:digital media (artwork)
-meta:digital painting (artwork)
-meta:nsfw
-musclebunny
-muscles
-muscular
-muscular anthro
-muscular male
-nude
-pecs
-pov
-rating:explicit
-rating:mature
-rating:questionable
-simple background
-solo
-source:e621
-species:lagomorph
-species:leporid
-species:mammal
-species:rabbit
-subreddit:imaginarywtf
-subreddit:imnsfw
-title:cute bunny
-title:cute bunny by draggincat (april seymour)
-uploader:lol33ta
-wtf
-year:2013
+::3,
+alternate color,
+anthro,
+anthropomorphism,
+ass,
+biceps,
+big muscles,
+booru:e621,
+bunny,
+butt,
+category:ine,
+character:cute bunny (character),
+character:cute bunny(character),
+character:invalid color,
+creator:draggincat,
+creator:seyumei,
+cute,
+cute bunny(character),
+cutebunny,
+digital painting (artwork),
+draggincat,
+face::3,
+gender:male,
+guro,
+looking at viewer,
+male,
+medium:digital media,
+medium:simple background,
+meta:2013,
+meta:digital media (artwork),
+meta:digital painting (artwork),
+meta:nsfw,
+musclebunny,
+muscles,
+muscular,
+muscular anthro,
+muscular male,
+nude,
+pecs,
+pov,
+rating:explicit,
+rating:mature,
+rating:questionable,
+simple background,
+solo,
+source:e621,
+species:lagomorph,
+species:leporid,
+species:mammal,
+species:rabbit,
+subreddit:imaginarywtf,
+subreddit:imnsfw,
+title:cute bunny,
+title:cute bunny by draggincat (april seymour),
+uploader:lol33ta,
+wtf,
+year:2013,

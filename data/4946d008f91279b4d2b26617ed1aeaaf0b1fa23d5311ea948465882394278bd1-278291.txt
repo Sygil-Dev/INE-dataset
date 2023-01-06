@@ -1,28 +1,28 @@
-blonde hair
-blue eyes
-category:ine
-character:luna lovegood
-creator:inma
-creator:inma r.
-flower
-gender:female
-language:english
-long hair
-looking at viewer
-medium:english text
-medium:text
-necktie
-pov
-scarf
-series:harry potter
-snow
-snowflakes
-solo
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-text
-title:hp - you are my little moon.
-title:you are my little moon by inma r.
-uniform
-uploader:lol33ta
-winter
+blonde hair,
+blue eyes,
+category:ine,
+character:luna lovegood,
+creator:inma,
+creator:inma r.,
+flower,
+gender:female,
+language:english,
+long hair,
+looking at viewer,
+medium:english text,
+medium:text,
+necktie,
+pov,
+scarf,
+series:harry potter,
+snow,
+snowflakes,
+solo,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+text,
+title:hp - you are my little moon.,
+title:you are my little moon by inma r.,
+uniform,
+uploader:lol33ta,
+winter,

@@ -1,24 +1,24 @@
-1girl
-brown hair
-category:ine
-dark skin
-dark-skinned female
-dark-skinned male
-dress
-full body
-holding
-holding staff
-jewelry
-male focus
-outstretched arm
-rating:safe
-sandals
-simple background
-solo
-staff
-standing
-subreddit:imaginaryclerics
-subreddit:imcharacters
-title:lady bethrynna galanodel by mirella spencer
-uploader:myrandall
-white background
+1girl,
+brown hair,
+category:ine,
+dark skin,
+dark-skinned female,
+dark-skinned male,
+dress,
+full body,
+holding,
+holding staff,
+jewelry,
+male focus,
+outstretched arm,
+rating:safe,
+sandals,
+simple background,
+solo,
+staff,
+standing,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+title:lady bethrynna galanodel by mirella spencer,
+uploader:myrandall,
+white background,

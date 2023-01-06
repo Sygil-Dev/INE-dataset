@@ -1,36 +1,36 @@
-1 male
-abs
-beard
-blue eyes
-brown hair
-character:big boss
-character:naked snake
-clothing:eyewear
-creator:doubleleaf
-creator:gb (doubleleaf)
-eyepatch
-facial hair
-gender:male
-japanese clothes
-katana
-male focus
-manly
-medium:purple background
-medium:simple background
-muscle
-mustache
-nipples
-rating:safe
-scar
-scar on chest
-series:metal gear
-series:metal gear (series)
-shirtless
-solo
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-sword
-title:big boss, metal gear solid by doubleleaf
-title:commish:bossamurai
-uploader:cvance1
-weapon
+1 male,
+abs,
+beard,
+blue eyes,
+brown hair,
+character:big boss,
+character:naked snake,
+clothing:eyewear,
+creator:doubleleaf,
+creator:gb (doubleleaf),
+eyepatch,
+facial hair,
+gender:male,
+japanese clothes,
+katana,
+male focus,
+manly,
+medium:purple background,
+medium:simple background,
+muscle,
+mustache,
+nipples,
+rating:safe,
+scar,
+scar on chest,
+series:metal gear,
+series:metal gear (series),
+shirtless,
+solo,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+sword,
+title:big boss, metal gear solid by doubleleaf,
+title:commish:bossamurai,
+uploader:cvance1,
+weapon,

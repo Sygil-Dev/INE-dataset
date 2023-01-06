@@ -1,26 +1,26 @@
-1girl
-black border
-blue sky
-border
-bracelet
-category:ine
-cloud
-cloudy sky
-day
-grass
-horizon
-jewelry
-long hair
-ocean
-outdoors
-palm tree
-plant
-rating:safe
-sky
-solo
-subreddit:imaginarygiants
-subreddit:imraces
-title:wind, by rob rey
-uploader:belledame-sans-serif
-water
-wind
+1girl,
+black border,
+blue sky,
+border,
+bracelet,
+category:ine,
+cloud,
+cloudy sky,
+day,
+grass,
+horizon,
+jewelry,
+long hair,
+ocean,
+outdoors,
+palm tree,
+plant,
+rating:safe,
+sky,
+solo,
+subreddit:imaginarygiants,
+subreddit:imraces,
+title:wind, by rob rey,
+uploader:belledame-sans-serif,
+water,
+wind,

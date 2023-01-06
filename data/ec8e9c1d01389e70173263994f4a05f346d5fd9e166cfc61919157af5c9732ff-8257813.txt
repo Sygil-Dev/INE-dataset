@@ -1,31 +1,31 @@
-category:ine
-character:nightmare moon
-character:sweetie belle
-creator:maggwai
-dead source
-derpibooru
-filly
-gender:female
-genre:fantasy
-headwear
-helmet
-maggwai
-mare
-nightmare sweetie belle
-prone
-rating:safe
-safe
-series:my little pony
-series:my little pony friendship is magic
-species:alicorn
-species:equine
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"nightmare belle" by maggwai [source lost]
-uploader:crystallord
-young
+category:ine,
+character:nightmare moon,
+character:sweetie belle,
+creator:maggwai,
+dead source,
+derpibooru,
+filly,
+gender:female,
+genre:fantasy,
+headwear,
+helmet,
+maggwai,
+mare,
+nightmare sweetie belle,
+prone,
+rating:safe,
+safe,
+series:my little pony,
+series:my little pony friendship is magic,
+species:alicorn,
+species:equine,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"nightmare belle" by maggwai [source lost],
+uploader:crystallord,
+young,

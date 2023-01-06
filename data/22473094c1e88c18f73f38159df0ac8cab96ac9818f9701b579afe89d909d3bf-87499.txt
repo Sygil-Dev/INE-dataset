@@ -1,55 +1,55 @@
-1 male
-1boy
-baymax
-bighero6
-black hair
-bodily fluids
-category:ine
-character:baymax
-character:hiro hamada
-character:hiro takachiho
-closed eyes
-creator:nviek5
-creator:xx1100
-eyes closed
-eyes:closed
-gender:male
-hair:black
-hair:short
-headwear
-helmet
-highres
-hug
-medium:high resolution
-meta:commentary
-meta:highres
-meta:spoilers
-nviek5
-pixiv profile:2809505
-pixiv work:47972616
-rating:safe
-rating:sensitive
-robot
-series:big hero 6
-series:disney
-series:marvel
-short hair
-smile
-species:robot
-spoilers
-studio:disney
-studio:marvel
-subreddit:imaginaryfeels
-subreddit:immeta
-tears
-title:'i am satisfied with my care."
-title:'i am satisfied with my care." by nviek5
-uploader:[deleted]
-website:reddit
-なにこれ切ない
-ディズニー
-ヒロ・ハマダ
-ベイマックス
-涙腺崩壊
-素敵
-素晴らしい
+1 male,
+1boy,
+baymax,
+bighero6,
+black hair,
+bodily fluids,
+category:ine,
+character:baymax,
+character:hiro hamada,
+character:hiro takachiho,
+closed eyes,
+creator:nviek5,
+creator:xx1100,
+eyes closed,
+eyes:closed,
+gender:male,
+hair:black,
+hair:short,
+headwear,
+helmet,
+highres,
+hug,
+medium:high resolution,
+meta:commentary,
+meta:highres,
+meta:spoilers,
+nviek5,
+pixiv profile:2809505,
+pixiv work:47972616,
+rating:safe,
+rating:sensitive,
+robot,
+series:big hero 6,
+series:disney,
+series:marvel,
+short hair,
+smile,
+species:robot,
+spoilers,
+studio:disney,
+studio:marvel,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+tears,
+title:'i am satisfied with my care.",
+title:'i am satisfied with my care." by nviek5,
+uploader:[deleted],
+website:reddit,
+なにこれ切ない,
+ディズニー,
+ヒロ・ハマダ,
+ベイマックス,
+涙腺崩壊,
+素敵,
+素晴らしい,

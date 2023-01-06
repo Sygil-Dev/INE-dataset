@@ -1,45 +1,45 @@
-1girl
-advertisements
-black jacket
-bridge
-building
-category:ine
-city
-city lights
-cityscape
-cyberpunk
-ferris wheel
-futuristic
-futuristic city
-genre:cyberpunk
-genre:science fiction
-jacket
-lights
-long hair
-medium:digital media
-metropolis
-neon lights
-neon trim
-night
-night sky
-outdoors
-rating:safe
-rooftop
-scenery
-science fiction
-sky
-skyline
-skyscraper
-snowing
-solo
-star (sky)
-starry sky
-street
-street light
-subreddit:imaginarybestof
-subreddit:immeta
-title:[/r/imaginarycityscapes] cyberpunk city by artur sadlos
-tower
-uploader:lol33ta
-very long hair
-white hair
+1girl,
+advertisements,
+black jacket,
+bridge,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+cyberpunk,
+ferris wheel,
+futuristic,
+futuristic city,
+genre:cyberpunk,
+genre:science fiction,
+jacket,
+lights,
+long hair,
+medium:digital media,
+metropolis,
+neon lights,
+neon trim,
+night,
+night sky,
+outdoors,
+rating:safe,
+rooftop,
+scenery,
+science fiction,
+sky,
+skyline,
+skyscraper,
+snowing,
+solo,
+star (sky),
+starry sky,
+street,
+street light,
+subreddit:imaginarybestof,
+subreddit:immeta,
+title:[/r/imaginarycityscapes] cyberpunk city by artur sadlos,
+tower,
+uploader:lol33ta,
+very long hair,
+white hair,

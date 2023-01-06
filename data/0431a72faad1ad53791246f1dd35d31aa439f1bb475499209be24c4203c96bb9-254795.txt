@@ -1,25 +1,25 @@
-beach
-category:ine
-cloud
-cloudy sky
-creator:sangvine
-desert
-horizon
-landscape
-mountain
-mountainous horizon
-ocean
-outdoors
-rating:safe
-sand
-scenery
-shore
-sky
-subreddit:imaginarydeserts
-subreddit:imnature
-sunset
-title:exploring
-title:exploring by constantinescu george
-twilight
-uploader:ldov
-water
+beach,
+category:ine,
+cloud,
+cloudy sky,
+creator:sangvine,
+desert,
+horizon,
+landscape,
+mountain,
+mountainous horizon,
+ocean,
+outdoors,
+rating:safe,
+sand,
+scenery,
+shore,
+sky,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+sunset,
+title:exploring,
+title:exploring by constantinescu george,
+twilight,
+uploader:ldov,
+water,

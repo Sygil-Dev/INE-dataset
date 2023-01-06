@@ -1,20 +1,20 @@
-3d
-3dart
-category:ine
-colt
-colt 1911
-creator:arek woźniak
-creator:arkadiusz wozniak
-gameart
-gamedev
-gun
-handgun
-lowpoly
-medium:digital 3d
-medium:digital media
-subreddit:imaginaryweaponry
-subreddit:imtechnology
-title:colt 1911 yakuza style
-title:colt 1911 yakuza style, arkadiusz woźniak
-uploader:thegypsyslayer
-weapon
+3d,
+3dart,
+category:ine,
+colt,
+colt 1911,
+creator:arek woźniak,
+creator:arkadiusz wozniak,
+gameart,
+gamedev,
+gun,
+handgun,
+lowpoly,
+medium:digital 3d,
+medium:digital media,
+subreddit:imaginaryweaponry,
+subreddit:imtechnology,
+title:colt 1911 yakuza style,
+title:colt 1911 yakuza style, arkadiusz woźniak,
+uploader:thegypsyslayer,
+weapon,

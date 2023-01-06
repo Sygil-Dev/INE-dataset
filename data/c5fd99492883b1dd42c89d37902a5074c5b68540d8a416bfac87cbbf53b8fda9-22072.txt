@@ -1,70 +1,70 @@
-1 female
-1girl
-akagi shun
-back bow
-blonde hair
-blue dress
-blue hat
-blue headwear
-book
-book stack
-bow
-branch
-category:ine
-closed mouth
-clothing:dress
-clothing:footwear
-clothing:hat
-clothing:headwear
-clothing:thigh-highs
-creator:akagi shun
-creator:teatime0
-creator:紅木春
-dress
-footwear
-from behind
-gender:female
-grey background
-hat
-holding
-holding book
-holding object
-legs apart
-looking at viewer
-looking back
-medium:grey background
-medium:simple background
-meta:commentary request
-original 10000 users bookmark
-original character
-pixiv profile:1979059
-pixiv work:60955123
-platform footwear
-pov
-rating:mature
-rating:safe
-red eyes
-sandals
-series:original
-shoes
-short hair
-solo
-standing
-striped
-striped legwear
-subreddit:imaginaryfashion
-subreddit:immeta
-thighhighs
-title:alice in plum kingdom by camellia
-title:梅の國のアリス
-top hat
-uploader:[deleted]
-アリス10000users入り
-オリジナル
-オリジナル10000users入り
-タイツ
-トップハット
-和ロリ
-和洋折衷
-梅の花
-着物ドレス
+1 female,
+1girl,
+akagi shun,
+back bow,
+blonde hair,
+blue dress,
+blue hat,
+blue headwear,
+book,
+book stack,
+bow,
+branch,
+category:ine,
+closed mouth,
+clothing:dress,
+clothing:footwear,
+clothing:hat,
+clothing:headwear,
+clothing:thigh-highs,
+creator:akagi shun,
+creator:teatime0,
+creator:紅木春,
+dress,
+footwear,
+from behind,
+gender:female,
+grey background,
+hat,
+holding,
+holding book,
+holding object,
+legs apart,
+looking at viewer,
+looking back,
+medium:grey background,
+medium:simple background,
+meta:commentary request,
+original 10000 users bookmark,
+original character,
+pixiv profile:1979059,
+pixiv work:60955123,
+platform footwear,
+pov,
+rating:mature,
+rating:safe,
+red eyes,
+sandals,
+series:original,
+shoes,
+short hair,
+solo,
+standing,
+striped,
+striped legwear,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+thighhighs,
+title:alice in plum kingdom by camellia,
+title:梅の國のアリス,
+top hat,
+uploader:[deleted],
+アリス10000users入り,
+オリジナル,
+オリジナル10000users入り,
+タイツ,
+トップハット,
+和ロリ,
+和洋折衷,
+梅の花,
+着物ドレス,

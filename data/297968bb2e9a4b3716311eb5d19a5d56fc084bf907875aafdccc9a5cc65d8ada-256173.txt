@@ -1,47 +1,47 @@
-1 female
-1girl
-blonde
-blonde hair
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:safebooru
-booru:sankaku
-booru:sankaku channel
-category:ine
-character:princess zelda
-character:zelda (original design)
-creator:paul kwon
-creator:zeronis
-ears
-elf
-female
-fur
-fur trim
-gender:female
-genre:fantasy
-lips
-long hair
-looking at viewer
-medium:high resolution
-medium:portrait
-meta:highres
-parted lips
-point of view
-pointed ears
-pointy ears
-portrait
-pov
-rating:s
-rating:safe
-series:banned artist
-series:the legend of zelda
-sidelocks
-solo
-studio:nintendo
-subreddit:imaginaryelves
-subreddit:imraces
-teeth
-title:zelda by zeronis
-triforce
-uploader:lol33ta
+1 female,
+1girl,
+blonde,
+blonde hair,
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:safebooru,
+booru:sankaku,
+booru:sankaku channel,
+category:ine,
+character:princess zelda,
+character:zelda (original design),
+creator:paul kwon,
+creator:zeronis,
+ears,
+elf,
+female,
+fur,
+fur trim,
+gender:female,
+genre:fantasy,
+lips,
+long hair,
+looking at viewer,
+medium:high resolution,
+medium:portrait,
+meta:highres,
+parted lips,
+point of view,
+pointed ears,
+pointy ears,
+portrait,
+pov,
+rating:s,
+rating:safe,
+series:banned artist,
+series:the legend of zelda,
+sidelocks,
+solo,
+studio:nintendo,
+subreddit:imaginaryelves,
+subreddit:imraces,
+teeth,
+title:zelda by zeronis,
+triforce,
+uploader:lol33ta,

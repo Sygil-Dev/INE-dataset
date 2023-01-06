@@ -1,28 +1,28 @@
-1boy
-armor
-artist name
-beard
-cape
-category:ine
-facial hair
-full moon
-gauntlets
-holding
-holding sword
-holding weapon
-male focus
-moon
-old
-old man
-rating:safe
-sky
-snow
-solo
-subreddit:imaginaryclerics
-subreddit:imcharacters
-sun
-sword
-title:abzan battle-priest by chris rahn
-tree
-uploader:the-thirteenth
-weapon
+1boy,
+armor,
+artist name,
+beard,
+cape,
+category:ine,
+facial hair,
+full moon,
+gauntlets,
+holding,
+holding sword,
+holding weapon,
+male focus,
+moon,
+old,
+old man,
+rating:safe,
+sky,
+snow,
+solo,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+sun,
+sword,
+title:abzan battle-priest by chris rahn,
+tree,
+uploader:the-thirteenth,
+weapon,

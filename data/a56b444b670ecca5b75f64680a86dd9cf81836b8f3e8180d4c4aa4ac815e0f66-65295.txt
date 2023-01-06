@@ -1,24 +1,24 @@
-cardgame
-category:ine
-conceptart
-conceptdesign
-creator:cobaltplasma
-creature
-fantasyart
-fantasycreature
-fieldsofeleria
-firebird
-lightning
-monster
-mythicalcreature
-phoenix
-sketch
-speedpaint
-spitpaint
-storm
-stormbird
-subreddit:imaginarybeasts
-subreddit:immonsters
-title:"storm phoenix" by aaron nakahara (cobaltplasma)
-title:storm phoenix
-uploader:torvusil
+cardgame,
+category:ine,
+conceptart,
+conceptdesign,
+creator:cobaltplasma,
+creature,
+fantasyart,
+fantasycreature,
+fieldsofeleria,
+firebird,
+lightning,
+monster,
+mythicalcreature,
+phoenix,
+sketch,
+speedpaint,
+spitpaint,
+storm,
+stormbird,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+title:"storm phoenix" by aaron nakahara (cobaltplasma),
+title:storm phoenix,
+uploader:torvusil,

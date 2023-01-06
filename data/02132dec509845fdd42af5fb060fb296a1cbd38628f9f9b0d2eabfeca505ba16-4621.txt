@@ -1,27 +1,27 @@
-1boy
-artist name
-beard
-cape
-category:ine
-dated
-facial hair
-fire
-fur trim
-gloves
-hat
-magic
-male focus
-mustache
-old
-old man
-rating:safe
-signature
-solo
-staff
-subreddit:imaginarydwarves
-subreddit:imraces
-title:the dwarf mage by diogo carneiro
-uploader:chalkchick0
-weapon
-white hair
-wizard
+1boy,
+artist name,
+beard,
+cape,
+category:ine,
+dated,
+facial hair,
+fire,
+fur trim,
+gloves,
+hat,
+magic,
+male focus,
+mustache,
+old,
+old man,
+rating:safe,
+signature,
+solo,
+staff,
+subreddit:imaginarydwarves,
+subreddit:imraces,
+title:the dwarf mage by diogo carneiro,
+uploader:chalkchick0,
+weapon,
+white hair,
+wizard,

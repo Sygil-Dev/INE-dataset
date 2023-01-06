@@ -1,70 +1,70 @@
-1 male
-animal
-armor
-artist:kyoung hwan kim
-beard
-belt
-breastplate
-candle
-category:ine
-cloak
-collar
-commentary
-copyright:original
-creator:kyoung hwan kim
-creator:tahra
-cross
-curtains
-danbooru
-eyebrows
-facial hair
-full body
-gauntlets
-gender:male
-greaves
-hand on hip
-headwear
-helmet
-indoors
-knight
-kyoung_hwan_kim
-looking to the side
-looking_to_the_side
-medal
-meta:commentary
-mustache
-old
-old man
-old_man
-original
-pauldrons
-pillar
-rating:mature
-rating:safe
-red carpet
-red_carpet
-sash
-series:original
-shoulder armor
-spaulders
-species:canine
-species:dog
-species:mammal
-subreddit:imaginaryarmor
-subreddit:imaginarybestof
-subreddit:imaginaryknights
-subreddit:imaginarypets
-subreddit:imcharacters
-subreddit:immeta
-subreddit:imtechnology
-sword
-table
-title:[/r/imaginaryknights] the retirement ceremony of an old knight by kyoung hwan kim
-title:the retirement ceremony of an old knight by kyoung hwan kim
-title:the retirement ceremony of an old knight by kyoung hwan kim (x-post r/imaginaryknights)
-uploader:chalkchick0
-uploader:faeryknight
-uploader:lol33ta
-weapon
-white hair
-wrinkles
+1 male,
+animal,
+armor,
+artist:kyoung hwan kim,
+beard,
+belt,
+breastplate,
+candle,
+category:ine,
+cloak,
+collar,
+commentary,
+copyright:original,
+creator:kyoung hwan kim,
+creator:tahra,
+cross,
+curtains,
+danbooru,
+eyebrows,
+facial hair,
+full body,
+gauntlets,
+gender:male,
+greaves,
+hand on hip,
+headwear,
+helmet,
+indoors,
+knight,
+kyoung_hwan_kim,
+looking to the side,
+looking_to_the_side,
+medal,
+meta:commentary,
+mustache,
+old,
+old man,
+old_man,
+original,
+pauldrons,
+pillar,
+rating:mature,
+rating:safe,
+red carpet,
+red_carpet,
+sash,
+series:original,
+shoulder armor,
+spaulders,
+species:canine,
+species:dog,
+species:mammal,
+subreddit:imaginaryarmor,
+subreddit:imaginarybestof,
+subreddit:imaginaryknights,
+subreddit:imaginarypets,
+subreddit:imcharacters,
+subreddit:immeta,
+subreddit:imtechnology,
+sword,
+table,
+title:[/r/imaginaryknights] the retirement ceremony of an old knight by kyoung hwan kim,
+title:the retirement ceremony of an old knight by kyoung hwan kim,
+title:the retirement ceremony of an old knight by kyoung hwan kim (x-post r/imaginaryknights),
+uploader:chalkchick0,
+uploader:faeryknight,
+uploader:lol33ta,
+weapon,
+white hair,
+wrinkles,

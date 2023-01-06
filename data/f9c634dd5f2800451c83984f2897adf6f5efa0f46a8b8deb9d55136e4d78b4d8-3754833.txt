@@ -1,49 +1,49 @@
-2016
-armor
-booru:e621
-category:ine
-character:fluttershy
-character:fluttershy (mlp)
-clothing
-clothing:armor
-creator:dreatos
-creator:valcron
-feathered wings
-feathers
-female
-feral
-fire
-fluttershy
-flying
-gender:female
-genre:fantasy
-medium:high resolution
-meta:2016
-meta:hi res
-mlpfim
-mylittleponyfriendshipismagic
-rating:safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-staff
-star
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:pegasus fluttershy, keeper of the flame
-title:pegasus fluttershy, keeper of the flame by 'dreatos'
-uploader:myrandall
-wings
-year:2016
-yellow body
-yellow feathers
+2016,
+armor,
+booru:e621,
+category:ine,
+character:fluttershy,
+character:fluttershy (mlp),
+clothing,
+clothing:armor,
+creator:dreatos,
+creator:valcron,
+feathered wings,
+feathers,
+female,
+feral,
+fire,
+fluttershy,
+flying,
+gender:female,
+genre:fantasy,
+medium:high resolution,
+meta:2016,
+meta:hi res,
+mlpfim,
+mylittleponyfriendshipismagic,
+rating:safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+staff,
+star,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:pegasus fluttershy, keeper of the flame,
+title:pegasus fluttershy, keeper of the flame by 'dreatos',
+uploader:myrandall,
+wings,
+year:2016,
+yellow body,
+yellow feathers,

@@ -1,39 +1,39 @@
-booru:e621
-category:ine
-character:kolaghan
-claws
-creator:jason rainville
-duo
-electricity
-fangs
-feathered wings
-feathers
-feral
-furry
-gender:male
-intimidate
-intimidating
-intimidation
-male
-membrane (anatomy)
-membranous wings
-meta:official art
-rating:safe
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-size difference
-species:dragon
-species:humanoid
-species:mythical
-species:orc
-species:orc humanoid
-species:scalie
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-title:duress by jason rainville
-uploader:the-thirteenth
-wings
+booru:e621,
+category:ine,
+character:kolaghan,
+claws,
+creator:jason rainville,
+duo,
+electricity,
+fangs,
+feathered wings,
+feathers,
+feral,
+furry,
+gender:male,
+intimidate,
+intimidating,
+intimidation,
+male,
+membrane (anatomy),
+membranous wings,
+meta:official art,
+rating:safe,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+size difference,
+species:dragon,
+species:humanoid,
+species:mythical,
+species:orc,
+species:orc humanoid,
+species:scalie,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+title:duress by jason rainville,
+uploader:the-thirteenth,
+wings,

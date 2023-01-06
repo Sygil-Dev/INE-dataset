@@ -1,32 +1,32 @@
-booru:e621
-category:ine
-claws
-creator:jonasdero
-day
-detailed background
-feral
-group
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-open mouth
-outside
-rating:safe
-sky
-species:canid
-species:canine
-species:felid
-species:feline
-species:mammal
-subreddit:imaginaryimmortals
-subreddit:imraces
-teeth
-title:gods of sound
-title:gods of sound by jonas de ro
-tongue
-uploader:hvitserkr
-year:2017
-yellow eyes
+booru:e621,
+category:ine,
+claws,
+creator:jonasdero,
+day,
+detailed background,
+feral,
+group,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+open mouth,
+outside,
+rating:safe,
+sky,
+species:canid,
+species:canine,
+species:felid,
+species:feline,
+species:mammal,
+subreddit:imaginaryimmortals,
+subreddit:imraces,
+teeth,
+title:gods of sound,
+title:gods of sound by jonas de ro,
+tongue,
+uploader:hvitserkr,
+year:2017,
+yellow eyes,

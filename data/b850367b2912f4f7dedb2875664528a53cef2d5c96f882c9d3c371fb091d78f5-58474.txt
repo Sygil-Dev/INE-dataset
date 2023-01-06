@@ -1,20 +1,20 @@
-category:ine
-creator:madeline boni x madnoliet
-creator:mady madnoliet
-dena
-digital painting
-fantasy
-hellfire
-medium:digital 2d
-queen
-subreddit:imaginarylovers
-subreddit:imaginarynobles
-subreddit:imaginaryspirits
-subreddit:imcharacters
-subreddit:immonsters
-sun
-title:dusk queen
-title:dusk queen by mady madnoliet
-uploader:killashard
-uploader:myrandall
-uploader:net-diver
+category:ine,
+creator:madeline boni x madnoliet,
+creator:mady madnoliet,
+dena,
+digital painting,
+fantasy,
+hellfire,
+medium:digital 2d,
+queen,
+subreddit:imaginarylovers,
+subreddit:imaginarynobles,
+subreddit:imaginaryspirits,
+subreddit:imcharacters,
+subreddit:immonsters,
+sun,
+title:dusk queen,
+title:dusk queen by mady madnoliet,
+uploader:killashard,
+uploader:myrandall,
+uploader:net-diver,

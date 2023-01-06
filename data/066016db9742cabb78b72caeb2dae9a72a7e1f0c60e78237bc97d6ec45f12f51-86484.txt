@@ -1,47 +1,47 @@
-architecture
-autumn
-breathing fire
-bridge
-building
-burning
-campfire
-candle
-category:ine
-city
-city lights
-cityscape
-destruction
-dusk
-east asian architecture
-embers
-evening
-explosion
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-gate
-gradient sky
-molten rock
-orange sky
-outdoors
-pagoda
-rating:safe
-red sky
-scenery
-sky
-skyscraper
-smoke
-street
-subreddit:imaginaryrivers
-subreddit:imaginaryvessels
-subreddit:imnature
-subreddit:imtechnology
-sunset
-title:dusk river by darek zabrocki
-torch
-tower
-twilight
-uploader:evejou
-uploader:suzzerain
+architecture,
+autumn,
+breathing fire,
+bridge,
+building,
+burning,
+campfire,
+candle,
+category:ine,
+city,
+city lights,
+cityscape,
+destruction,
+dusk,
+east asian architecture,
+embers,
+evening,
+explosion,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+gate,
+gradient sky,
+molten rock,
+orange sky,
+outdoors,
+pagoda,
+rating:safe,
+red sky,
+scenery,
+sky,
+skyscraper,
+smoke,
+street,
+subreddit:imaginaryrivers,
+subreddit:imaginaryvessels,
+subreddit:imnature,
+subreddit:imtechnology,
+sunset,
+title:dusk river by darek zabrocki,
+torch,
+tower,
+twilight,
+uploader:evejou,
+uploader:suzzerain,

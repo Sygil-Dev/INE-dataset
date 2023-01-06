@@ -1,52 +1,52 @@
-anthro
-anthropomorphism
-armlet
-axe
-battle axe
-belt
-booru:e621
-bottomwear
-bracelet
-braid
-braided hair
-brown body
-brown fur
-category:ine
-claws
-clothed
-clothing
-clothing:bracelet
-clothing:legwear
-clothing:necklace
-clothing:pants
-creator:whiluna
-fur
-gender:male
-grey body
-grey fur
-hair
-jewelry
-male
-medium:high resolution
-melee weapon
-meta:hi res
-necklace
-pants
-rating:safe
-scar
-snow
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-tattoo
-title:"a young warrior" by zsofia dankova
-title:a young warrior
-topless
-uploader:nikephoros_ii_phokas
-viking
-weapon
+anthro,
+anthropomorphism,
+armlet,
+axe,
+battle axe,
+belt,
+booru:e621,
+bottomwear,
+bracelet,
+braid,
+braided hair,
+brown body,
+brown fur,
+category:ine,
+claws,
+clothed,
+clothing,
+clothing:bracelet,
+clothing:legwear,
+clothing:necklace,
+clothing:pants,
+creator:whiluna,
+fur,
+gender:male,
+grey body,
+grey fur,
+hair,
+jewelry,
+male,
+medium:high resolution,
+melee weapon,
+meta:hi res,
+necklace,
+pants,
+rating:safe,
+scar,
+snow,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+tattoo,
+title:"a young warrior" by zsofia dankova,
+title:a young warrior,
+topless,
+uploader:nikephoros_ii_phokas,
+viking,
+weapon,

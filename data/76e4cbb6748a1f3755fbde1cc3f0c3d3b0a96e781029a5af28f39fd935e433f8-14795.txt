@@ -1,20 +1,20 @@
-category:ine
-clothing:armor
-drawing
-firearm
-genre:science fiction
-gold
-long hair
-ponytail
-red hair
-rifle
-sniper rifle
-sparks
-subreddit:imaginaryaetherpunk
-subreddit:imtechnology
-suits
-tied hair
-title:lara by yue yue
-uploader:valar_m0rghul1s
-weapon
-yue yue
+category:ine,
+clothing:armor,
+drawing,
+firearm,
+genre:science fiction,
+gold,
+long hair,
+ponytail,
+red hair,
+rifle,
+sniper rifle,
+sparks,
+subreddit:imaginaryaetherpunk,
+subreddit:imtechnology,
+suits,
+tied hair,
+title:lara by yue yue,
+uploader:valar_m0rghul1s,
+weapon,
+yue yue,

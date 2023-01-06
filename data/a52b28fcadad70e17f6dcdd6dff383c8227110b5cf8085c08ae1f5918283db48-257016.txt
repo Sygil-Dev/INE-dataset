@@ -1,29 +1,29 @@
-artist:ling xiang
-category:ine
-copyright:original
-creator:ling xiang
-day
-foam
-grass
-medium:digital 3d
-medium:high resolution
-meta:commentary
-meta:highres
-moss
-no humans
-outdoors
-outside
-rating:mature
-rating:safe
-river
-rock
-scenery
-series:original
-subreddit:imaginarywaterfalls
-subreddit:imnature
-title:practice
-title:practice by ling xiang
-uploader:valar_m0rghul1s
-water
-waterfall
-website:reddit
+artist:ling xiang,
+category:ine,
+copyright:original,
+creator:ling xiang,
+day,
+foam,
+grass,
+medium:digital 3d,
+medium:high resolution,
+meta:commentary,
+meta:highres,
+moss,
+no humans,
+outdoors,
+outside,
+rating:mature,
+rating:safe,
+river,
+rock,
+scenery,
+series:original,
+subreddit:imaginarywaterfalls,
+subreddit:imnature,
+title:practice,
+title:practice by ling xiang,
+uploader:valar_m0rghul1s,
+water,
+waterfall,
+website:reddit,

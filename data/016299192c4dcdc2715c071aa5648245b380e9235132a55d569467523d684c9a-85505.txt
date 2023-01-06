@@ -1,33 +1,33 @@
-bird
-breathing fire
-category:ine
-character:godzilla
-cloud
-dusk
-evening
-explosion
-fangs
-fire
-horizon
-kaijuu
-molten rock
-monster
-no humans
-ocean
-open mouth
-orange sky
-rating:safe
-realistic
-red sky
-sharp teeth
-sky
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-sun
-sunset
-teeth
-title:mine! [oc]
-twilight
-uploader:kiavu
-volcano
-water
+bird,
+breathing fire,
+category:ine,
+character:godzilla,
+cloud,
+dusk,
+evening,
+explosion,
+fangs,
+fire,
+horizon,
+kaijuu,
+molten rock,
+monster,
+no humans,
+ocean,
+open mouth,
+orange sky,
+rating:safe,
+realistic,
+red sky,
+sharp teeth,
+sky,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+sun,
+sunset,
+teeth,
+title:mine! [oc],
+twilight,
+uploader:kiavu,
+volcano,
+water,

@@ -1,49 +1,49 @@
-1 female
-1girl
-artist:chenbo
-banner
-book
-books
-booru:gelbooru
-booru:safebooru
-bug
-butterflies
-butterfly
-category:ine
-chain
-chains
-chenbo
-clothing:armor
-clothing:dress
-creator:chenbo
-email address
-fantasy art
-fantasy girl
-gender:female
-insect
-insignia
-long hair
-mace
-medium:artist name
-paladin
-rating:mature
-rating:s
-rating:safe
-series:warcraft
-series:world of warcraft
-shield
-solo
-species:arthropod
-species:insect
-studio:blizzard entertainment
-subreddit:imaginarybooks
-subreddit:imaginaryclerics
-subreddit:imcharacters
-subreddit:immeta
-title:history of lordaeron
-title:history of lordaeron by chen bo
-title:history of lordaeron by chenbo (xpost /r/imaginaryazeroth)
-uploader:karmicviolence
-uploader:lol33ta
-weapon
-world_of_warcraft
+1 female,
+1girl,
+artist:chenbo,
+banner,
+book,
+books,
+booru:gelbooru,
+booru:safebooru,
+bug,
+butterflies,
+butterfly,
+category:ine,
+chain,
+chains,
+chenbo,
+clothing:armor,
+clothing:dress,
+creator:chenbo,
+email address,
+fantasy art,
+fantasy girl,
+gender:female,
+insect,
+insignia,
+long hair,
+mace,
+medium:artist name,
+paladin,
+rating:mature,
+rating:s,
+rating:safe,
+series:warcraft,
+series:world of warcraft,
+shield,
+solo,
+species:arthropod,
+species:insect,
+studio:blizzard entertainment,
+subreddit:imaginarybooks,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+subreddit:immeta,
+title:history of lordaeron,
+title:history of lordaeron by chen bo,
+title:history of lordaeron by chenbo (xpost /r/imaginaryazeroth),
+uploader:karmicviolence,
+uploader:lol33ta,
+weapon,
+world_of_warcraft,

@@ -1,30 +1,30 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-category:ine
-creator:cryptid-creations
-feral
-mammal
-meta:pillarbox
-pillarbox
-pilosan
-rating:safe
-simple background
-simple_background
-slot machine
-slot_machine
-sloth
-smile
-solo
-species:mammal
-species:pilosan
-species:sloth
-species:xenarthran
-subreddit:imaginaryanimals
-subreddit:imnature
-title:daily paint 2052# sloth machine
-title:sloth machine by piper thibodeau
-uploader:myrandall
-white background
-white_background
-xenarthran
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+category:ine,
+creator:cryptid-creations,
+feral,
+mammal,
+meta:pillarbox,
+pillarbox,
+pilosan,
+rating:safe,
+simple background,
+simple_background,
+slot machine,
+slot_machine,
+sloth,
+smile,
+solo,
+species:mammal,
+species:pilosan,
+species:sloth,
+species:xenarthran,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:daily paint 2052# sloth machine,
+title:sloth machine by piper thibodeau,
+uploader:myrandall,
+white background,
+white_background,
+xenarthran,

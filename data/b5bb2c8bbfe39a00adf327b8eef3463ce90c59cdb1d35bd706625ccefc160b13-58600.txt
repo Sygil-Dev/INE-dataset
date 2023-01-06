@@ -1,24 +1,24 @@
-axe
-category:ine
-chaos
-creator:hammk
-creator:wannatryme1138
-dreadnought
-grey knights
-imperium
-khorne
-military watercraft
-series:warhammer 40,000
-space marines
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-terminator
-title:grey knight
-title:grey knight by hammk
-uploader:levthered
-vehicle
-wannatryme1138
-warship
-watercraft
-weapon
+axe,
+category:ine,
+chaos,
+creator:hammk,
+creator:wannatryme1138,
+dreadnought,
+grey knights,
+imperium,
+khorne,
+military watercraft,
+series:warhammer 40,000,
+space marines,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+terminator,
+title:grey knight,
+title:grey knight by hammk,
+uploader:levthered,
+vehicle,
+wannatryme1138,
+warship,
+watercraft,
+weapon,

@@ -1,128 +1,128 @@
-2018
-artist:vanillaghosties
-barefoot
-blue hair
-blue_hair
-booru:e621
-category:ine
-chain
-character:cozy glow (mlp)
-character:cozy_glow_(mlp)
-character:starlight glimmer
-character:starlight glimmer (mlp)
-character:starlight_glimmer_(mlp)
-cleaver
-cleaver (weapon)
-cleaver_(weapon)
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:vanillaghosties
-curled hair
-curled_hair
-duo
-eyebrows
-eyelashes
-eyeliner
-feathered wings
-feathered_wings
-feathers
-feet
-female
-feral
-fur
-gender:female
-genre:fantasy
-green hair
-green_hair
-hair
-hi res
-hooves
-horn
-horns
-indoors
-inside
-light
-long hair
-long_hair
-looking aside
-looking at another
-looking at viewer
-looking_aside
-looking_at_another
-looking_at_viewer
-makeup
-mascara
-medium:absurd resolution
-medium:high resolution
-melee weapon
-melee_weapon
-meta:3:4
-meta:2018
-meta:absurd res
-meta:absurd_res
-meta:hi res
-meta:hi_res
-moonlight
-mouth hold
-mouth_hold
-multicolored hair
-multicolored_hair
-night
-object in mouth
-object_in_mouth
-one eye closed
-one_eye_closed
-open mouth
-open_mouth
-orange eyes
-orange_eyes
-outside
-pink body
-pink feathers
-pink fur
-pink horn
-pink tongue
-pink_body
-pink_feathers
-pink_fur
-pink_horn
-pink_tongue
-pov
-purple eyes
-purple hair
-purple_eyes
-purple_hair
-rating:safe
-screaming
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-shadow
-short hair
-short_hair
-slim
-smile
-snout
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-teeth
-title:"knock knock, let the devil in" by vanillaghosties
-title:knock knock, let the devil in
-tongue
-unicorn horn
-unicorn_horn
-uploader:torvusil
-weapon
-window
-wings
-year:2018
+2018,
+artist:vanillaghosties,
+barefoot,
+blue hair,
+blue_hair,
+booru:e621,
+category:ine,
+chain,
+character:cozy glow (mlp),
+character:cozy_glow_(mlp),
+character:starlight glimmer,
+character:starlight glimmer (mlp),
+character:starlight_glimmer_(mlp),
+cleaver,
+cleaver (weapon),
+cleaver_(weapon),
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:vanillaghosties,
+curled hair,
+curled_hair,
+duo,
+eyebrows,
+eyelashes,
+eyeliner,
+feathered wings,
+feathered_wings,
+feathers,
+feet,
+female,
+feral,
+fur,
+gender:female,
+genre:fantasy,
+green hair,
+green_hair,
+hair,
+hi res,
+hooves,
+horn,
+horns,
+indoors,
+inside,
+light,
+long hair,
+long_hair,
+looking aside,
+looking at another,
+looking at viewer,
+looking_aside,
+looking_at_another,
+looking_at_viewer,
+makeup,
+mascara,
+medium:absurd resolution,
+medium:high resolution,
+melee weapon,
+melee_weapon,
+meta:3:4,
+meta:2018,
+meta:absurd res,
+meta:absurd_res,
+meta:hi res,
+meta:hi_res,
+moonlight,
+mouth hold,
+mouth_hold,
+multicolored hair,
+multicolored_hair,
+night,
+object in mouth,
+object_in_mouth,
+one eye closed,
+one_eye_closed,
+open mouth,
+open_mouth,
+orange eyes,
+orange_eyes,
+outside,
+pink body,
+pink feathers,
+pink fur,
+pink horn,
+pink tongue,
+pink_body,
+pink_feathers,
+pink_fur,
+pink_horn,
+pink_tongue,
+pov,
+purple eyes,
+purple hair,
+purple_eyes,
+purple_hair,
+rating:safe,
+screaming,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+shadow,
+short hair,
+short_hair,
+slim,
+smile,
+snout,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+teeth,
+title:"knock knock, let the devil in" by vanillaghosties,
+title:knock knock, let the devil in,
+tongue,
+unicorn horn,
+unicorn_horn,
+uploader:torvusil,
+weapon,
+window,
+wings,
+year:2018,

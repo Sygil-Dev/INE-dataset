@@ -1,22 +1,22 @@
-artwork
-blue eyes
-category:ine
-character:jaina proudmoore
-creator:qichao wang
-gender:female
-magician
-medium:digital 2d
-medium:digital media
-series:warcraft
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imaginarygaming
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imfandoms
-title:"jaina proudmoore" by qichao wang
-title:jaina proudmoore by qichao wang
-uploader:tallantas
-uploader:the-thirteenth
-uploader:torvusil
-video games
+artwork,
+blue eyes,
+category:ine,
+character:jaina proudmoore,
+creator:qichao wang,
+gender:female,
+magician,
+medium:digital 2d,
+medium:digital media,
+series:warcraft,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imaginarygaming,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imfandoms,
+title:"jaina proudmoore" by qichao wang,
+title:jaina proudmoore by qichao wang,
+uploader:tallantas,
+uploader:the-thirteenth,
+uploader:torvusil,
+video games,

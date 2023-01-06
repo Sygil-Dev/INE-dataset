@@ -1,21 +1,21 @@
-armor
-beard
-boots
-category:ine
-comparison
-facial hair
-greyscale
-helmet
-monochrome
-multiple boys
-multiple girls
-muscular
-rating:safe
-short hair
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:warhammer weapon, armor, vehicles and aircraft part 2 “adepta sororitas power armor“ (by gray-skull)
-twitter username
-uploader:adeptus_illustratum
-watermark
-web address
+armor,
+beard,
+boots,
+category:ine,
+comparison,
+facial hair,
+greyscale,
+helmet,
+monochrome,
+multiple boys,
+multiple girls,
+muscular,
+rating:safe,
+short hair,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:warhammer weapon, armor, vehicles and aircraft part 2 “adepta sororitas power armor“ (by gray-skull),
+twitter username,
+uploader:adeptus_illustratum,
+watermark,
+web address,

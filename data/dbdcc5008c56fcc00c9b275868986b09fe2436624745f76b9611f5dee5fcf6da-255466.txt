@@ -1,34 +1,34 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-beak
-branch
-category:ine
-clothing
-creator:cryptid-creations
-feathers
-feral
-hat
-headgear
-headwear
-looking back
-looking_back
-meta:url
-outside
-plant
-rating:safe
-smile
-snow
-solo
-species:avian
-species:bird
-species:toucan
-subreddit:imaginaryanimals
-subreddit:imnature
-text
-title:toquecan by piper thibodeau
-toque
-tree
-uploader:myrandall
-website:reddit
-wings
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+beak,
+branch,
+category:ine,
+clothing,
+creator:cryptid-creations,
+feathers,
+feral,
+hat,
+headgear,
+headwear,
+looking back,
+looking_back,
+meta:url,
+outside,
+plant,
+rating:safe,
+smile,
+snow,
+solo,
+species:avian,
+species:bird,
+species:toucan,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+text,
+title:toquecan by piper thibodeau,
+toque,
+tree,
+uploader:myrandall,
+website:reddit,
+wings,

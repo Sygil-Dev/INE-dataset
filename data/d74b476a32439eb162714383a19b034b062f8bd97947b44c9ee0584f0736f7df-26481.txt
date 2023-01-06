@@ -1,45 +1,45 @@
-ambiguous gender
-booru:e621
-category:ine
-creator:catandcrown
-female
-gen 2 pokemon
-gender:ambiguous
-gender:female
-gender:male
-lava
-male
-medium:absurd resolution
-medium:high resolution
-meta:absurd res
-meta:english text
-meta:hi res
-rating:safe
-realistic
-series:nintendo
-series:pokemon
-series:pokémon
-species:elemental creature
-species:groudon
-species:human
-species:lava creature
-species:legendary pokémon
-species:magcargo
-species:mammal
-species:mineral fauna
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:scalie
-species:slugma
-spikes
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-text
-title:#383 - groudon
-title:#383 - groudon by jamie flack
-uploader:o_no_my_buttholes
-video games
-volcano
+ambiguous gender,
+booru:e621,
+category:ine,
+creator:catandcrown,
+female,
+gen 2 pokemon,
+gender:ambiguous,
+gender:female,
+gender:male,
+lava,
+male,
+medium:absurd resolution,
+medium:high resolution,
+meta:absurd res,
+meta:english text,
+meta:hi res,
+rating:safe,
+realistic,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+species:elemental creature,
+species:groudon,
+species:human,
+species:lava creature,
+species:legendary pokémon,
+species:magcargo,
+species:mammal,
+species:mineral fauna,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:scalie,
+species:slugma,
+spikes,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+text,
+title:#383 - groudon,
+title:#383 - groudon by jamie flack,
+uploader:o_no_my_buttholes,
+video games,
+volcano,

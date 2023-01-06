@@ -1,40 +1,40 @@
-ayya saparniyazova
-booru:sankaku
-booru:sankaku channel
-category:ine
-character:gym leader
-character:nessa (pokemon)
-character:rurina (pokemon)
-character:rurina (pokémon)
-creator:ayya saparniyazova
-creator:ayyasap
-dark skin
-dark-skinned female
-fanart from deviantart
-female
-gender:female
-gym leader
-holding
-holding object
-medium:fanart from deviantart
-medium:realistic
-multicolored hair
-nessa (pokemon)
-pokemon
-pokemon (game)
-pokemon sword &amp; shield
-rating:s
-rating:safe
-realistic
-series:pokemon
-series:pokemon (game)
-series:pokemon sword & shield
-series:pokémon
-series:pokémon sword and shield
-site:deviantart
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"nessa" by ayya saparniyazova
-title:nessa (pokemon sns)
-uploader:torvusil
+ayya saparniyazova,
+booru:sankaku,
+booru:sankaku channel,
+category:ine,
+character:gym leader,
+character:nessa (pokemon),
+character:rurina (pokemon),
+character:rurina (pokémon),
+creator:ayya saparniyazova,
+creator:ayyasap,
+dark skin,
+dark-skinned female,
+fanart from deviantart,
+female,
+gender:female,
+gym leader,
+holding,
+holding object,
+medium:fanart from deviantart,
+medium:realistic,
+multicolored hair,
+nessa (pokemon),
+pokemon,
+pokemon (game),
+pokemon sword &amp; shield,
+rating:s,
+rating:safe,
+realistic,
+series:pokemon,
+series:pokemon (game),
+series:pokemon sword & shield,
+series:pokémon,
+series:pokémon sword and shield,
+site:deviantart,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"nessa" by ayya saparniyazova,
+title:nessa (pokemon sns),
+uploader:torvusil,

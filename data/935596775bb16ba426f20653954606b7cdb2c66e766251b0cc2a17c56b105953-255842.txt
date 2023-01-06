@@ -1,19 +1,19 @@
-bags
-burden mounts
-category:ine
-concept
-concept art
-creator:tim alexander
-creature
-horns
-lion
-medium:digital 2d
-mount
-ram
-saddles
-subreddit:imaginaryanimals
-subreddit:imnature
-tiger
-title:burden mount ram-lion concept
-title:burden mount ram-lion concept by tim persson
-uploader:net-diver
+bags,
+burden mounts,
+category:ine,
+concept,
+concept art,
+creator:tim alexander,
+creature,
+horns,
+lion,
+medium:digital 2d,
+mount,
+ram,
+saddles,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+tiger,
+title:burden mount ram-lion concept,
+title:burden mount ram-lion concept by tim persson,
+uploader:net-diver,

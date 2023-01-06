@@ -1,21 +1,21 @@
-2d
-category:ine
-concept
-conceptart
-creator:ismail inceoglu
-digital
-digitalart
-environment
-genre:science fiction
-glasssphere
-landscape
-medium:digital 2d
-mountain
-scenery
-snow
-sphere
-subreddit:imaginaryruins
-subreddit:imarchitecture
-title:7'th morning
-title:7th morning by ismail inceoglu
-uploader:l-ya
+2d,
+category:ine,
+concept,
+conceptart,
+creator:ismail inceoglu,
+digital,
+digitalart,
+environment,
+genre:science fiction,
+glasssphere,
+landscape,
+medium:digital 2d,
+mountain,
+scenery,
+snow,
+sphere,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+title:7'th morning,
+title:7th morning by ismail inceoglu,
+uploader:l-ya,

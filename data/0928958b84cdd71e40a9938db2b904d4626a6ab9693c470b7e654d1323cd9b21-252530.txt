@@ -1,34 +1,34 @@
-architecture
-black border
-blue sky
-building
-castle
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-creator:g liulian
-day
-fantasy
-fire
-gliulian
-horizon
-landscape
-letterboxed
-medium:digital 2d
-mountain
-mountainous horizon
-ocean
-outdoors
-pillarboxed
-rating:safe
-scenery
-sky
-subreddit:imaginarydeserts
-subreddit:imnature
-sunset
-title:desert fortress, by g. liulian
-title:苍梧城
-tower
-uploader:sylvyrfyre
+architecture,
+black border,
+blue sky,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+creator:g liulian,
+day,
+fantasy,
+fire,
+gliulian,
+horizon,
+landscape,
+letterboxed,
+medium:digital 2d,
+mountain,
+mountainous horizon,
+ocean,
+outdoors,
+pillarboxed,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+sunset,
+title:desert fortress, by g. liulian,
+title:苍梧城,
+tower,
+uploader:sylvyrfyre,

@@ -1,108 +1,108 @@
-alcohol
-amazing background
-apple
-art nouveau
-balcony
-blue body
-blue feathers
-blue hair
-body modification
-book
-booru:e621
-category:ine
-character:princess celestia
-character:princess luna
-character:princess luna (mlp)
-character:tiberius
-clothed
-clothing
-clothing:dress
-clouds
-cosmic hair
-couch
-creator:devinian
-detailed background
-drapes
-drinking glass
-ear piercing
-ethereal hair
-eyelashes
-facial piercing
-feathered wings
-feathers
-female
-feral
-filly
-flower
-foal
-food
-fruit
-gender:female
-genre:fantasy
-glass
-grapes
-green eyes
-hooves
-horn
-horn ring
-horns
-hug
-indoors
-inside
-interior
-jewelry
-lidded eyes
-looking back
-lying
-medium:absurd resolution
-medium:amazing background
-medium:detailed background
-medium:high resolution
-meta:absurd res
-meta:hi res
-moon
-multicolored hair
-night
-picture
-piercing
-pink hair
-prone
-pseudo hair
-purple body
-purple hair
-rating:safe
-royalty
-scenery
-series:friendship is magic
-series:hasbro
-series:mlp:generation 4
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sitting
-smile
-solo
-species:alicorn
-species:equid
-species:equine
-species:mammal
-species:opossum
-species:pony
-species:winged unicorn
-studio:hasbro
-stuffed animal
-subreddit:imaginaryequestria
-subreddit:imfandoms
-table
-teddy bear
-title:nature of the moon
-title:nature of the moon by devinian
-two color hair
-uploader:abccba882
-vase
-white body
-window
-wine
-wine glass
-wings
-young
+alcohol,
+amazing background,
+apple,
+art nouveau,
+balcony,
+blue body,
+blue feathers,
+blue hair,
+body modification,
+book,
+booru:e621,
+category:ine,
+character:princess celestia,
+character:princess luna,
+character:princess luna (mlp),
+character:tiberius,
+clothed,
+clothing,
+clothing:dress,
+clouds,
+cosmic hair,
+couch,
+creator:devinian,
+detailed background,
+drapes,
+drinking glass,
+ear piercing,
+ethereal hair,
+eyelashes,
+facial piercing,
+feathered wings,
+feathers,
+female,
+feral,
+filly,
+flower,
+foal,
+food,
+fruit,
+gender:female,
+genre:fantasy,
+glass,
+grapes,
+green eyes,
+hooves,
+horn,
+horn ring,
+horns,
+hug,
+indoors,
+inside,
+interior,
+jewelry,
+lidded eyes,
+looking back,
+lying,
+medium:absurd resolution,
+medium:amazing background,
+medium:detailed background,
+medium:high resolution,
+meta:absurd res,
+meta:hi res,
+moon,
+multicolored hair,
+night,
+picture,
+piercing,
+pink hair,
+prone,
+pseudo hair,
+purple body,
+purple hair,
+rating:safe,
+royalty,
+scenery,
+series:friendship is magic,
+series:hasbro,
+series:mlp:generation 4,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sitting,
+smile,
+solo,
+species:alicorn,
+species:equid,
+species:equine,
+species:mammal,
+species:opossum,
+species:pony,
+species:winged unicorn,
+studio:hasbro,
+stuffed animal,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+table,
+teddy bear,
+title:nature of the moon,
+title:nature of the moon by devinian,
+two color hair,
+uploader:abccba882,
+vase,
+white body,
+window,
+wine,
+wine glass,
+wings,
+young,

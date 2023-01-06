@@ -1,37 +1,37 @@
-ambiguous gender
-booru:e621
-category:ine
-creator:telleryspyro
-detailed background
-feral
-gen 1 pokemon
-gender:ambiguous
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-night
-outside
-rating:safe
-red eyes
-series:nintendo
-series:pokemon
-series:pokémon
-serpentine
-solo
-species:dragonair
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:"a deal with nature" by eugene (telleryspyro)
-uploader:torvusil
-video games
-water
-year:2017
+ambiguous gender,
+booru:e621,
+category:ine,
+creator:telleryspyro,
+detailed background,
+feral,
+gen 1 pokemon,
+gender:ambiguous,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+night,
+outside,
+rating:safe,
+red eyes,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+serpentine,
+solo,
+species:dragonair,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:"a deal with nature" by eugene (telleryspyro),
+uploader:torvusil,
+video games,
+water,
+year:2017,

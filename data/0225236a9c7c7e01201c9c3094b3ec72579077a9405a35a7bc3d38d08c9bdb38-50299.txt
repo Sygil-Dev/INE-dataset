@@ -1,25 +1,25 @@
-bird
-car
-category:ine
-cloud
-cloudy sky
-evening
-ground vehicle
-long hair
-military
-military vehicle
-motor vehicle
-mountain
-orange sky
-outdoors
-palm tree
-rating:safe
-sky
-subreddit:imaginaryairships
-subreddit:imtechnology
-sunset
-tank
-title:birds know the way they should go, by toruchi
-tree
-twilight
-uploader:prinncessbride
+bird,
+car,
+category:ine,
+cloud,
+cloudy sky,
+evening,
+ground vehicle,
+long hair,
+military,
+military vehicle,
+motor vehicle,
+mountain,
+orange sky,
+outdoors,
+palm tree,
+rating:safe,
+sky,
+subreddit:imaginaryairships,
+subreddit:imtechnology,
+sunset,
+tank,
+title:birds know the way they should go, by toruchi,
+tree,
+twilight,
+uploader:prinncessbride,

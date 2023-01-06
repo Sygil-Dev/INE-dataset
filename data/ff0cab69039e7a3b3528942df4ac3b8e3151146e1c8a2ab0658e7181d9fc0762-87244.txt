@@ -1,39 +1,39 @@
-1 female
-blue dress
-blue hair
-category:ine
-character:karakasa obake
-character:tatara kogasa
-child
-clothing:dress
-creator:koto inari
-dress
-gender:female
-juliet sleeves
-karakasa obake
-lonely
-long sleeves
-meta:commentary
-meta:commentary request
-parent and child
-puffy sleeves
-rain
-rating:mature
-rating:safe
-series:touhou
-shirt
-short hair
-silver hair
-sitting
-solo focus
-subreddit:imaginaryfeels
-subreddit:immeta
-swing
-teruterubouzu
-title:waiting in vain by kotoinari
-tree
-umbrella
-uploader:[deleted]
-waiting
-wet
-young
+1 female,
+blue dress,
+blue hair,
+category:ine,
+character:karakasa obake,
+character:tatara kogasa,
+child,
+clothing:dress,
+creator:koto inari,
+dress,
+gender:female,
+juliet sleeves,
+karakasa obake,
+lonely,
+long sleeves,
+meta:commentary,
+meta:commentary request,
+parent and child,
+puffy sleeves,
+rain,
+rating:mature,
+rating:safe,
+series:touhou,
+shirt,
+short hair,
+silver hair,
+sitting,
+solo focus,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+swing,
+teruterubouzu,
+title:waiting in vain by kotoinari,
+tree,
+umbrella,
+uploader:[deleted],
+waiting,
+wet,
+young,

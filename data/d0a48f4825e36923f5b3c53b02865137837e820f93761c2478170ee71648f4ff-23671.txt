@@ -1,28 +1,28 @@
-black
-commissioartwork
-commission
-commissionwork
-creator:everybery
-darkelf
-discount
-drawing
-elf
-elfelves
-elffantasy
-guy
-man
-painting
-portrait
-realism
-realistic
-sale
-semi
-semirealism
-semirealistic
-skin
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-title:commission - dark man
-title:commission - dark man, by gregory welter
-uploader:belledame-sans-serif
-young
+black,
+commissioartwork,
+commission,
+commissionwork,
+creator:everybery,
+darkelf,
+discount,
+drawing,
+elf,
+elfelves,
+elffantasy,
+guy,
+man,
+painting,
+portrait,
+realism,
+realistic,
+sale,
+semi,
+semirealism,
+semirealistic,
+skin,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+title:commission - dark man,
+title:commission - dark man, by gregory welter,
+uploader:belledame-sans-serif,
+young,

@@ -1,24 +1,24 @@
-art
-boardgame
-boxart
-cannon
-category:ine
-creator:darko kreculj
-dark
-digitalart
-dungeoncrawler
-dwarf
-engineer
-expansion
-googles
-hero
-locomotive
-medium:traditional 3d
-steampunk
-subreddit:imaginarydwarves
-subreddit:imraces
-title:"martinez," by darko kreculj - a dieselpunk dwarf with a self-propelled mortar.
-title:martinez
-train
-uploader:nikephoros_ii_phokas
-wheelchair
+art,
+boardgame,
+boxart,
+cannon,
+category:ine,
+creator:darko kreculj,
+dark,
+digitalart,
+dungeoncrawler,
+dwarf,
+engineer,
+expansion,
+googles,
+hero,
+locomotive,
+medium:traditional 3d,
+steampunk,
+subreddit:imaginarydwarves,
+subreddit:imraces,
+title:"martinez," by darko kreculj - a dieselpunk dwarf with a self-propelled mortar.,
+title:martinez,
+train,
+uploader:nikephoros_ii_phokas,
+wheelchair,

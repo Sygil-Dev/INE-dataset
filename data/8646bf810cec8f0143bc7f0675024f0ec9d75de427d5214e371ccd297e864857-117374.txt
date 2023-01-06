@@ -1,22 +1,22 @@
-2d
-category:ine
-concept
-conceptart
-creator:ismail inceoglu
-dailysketch
-digital
-digitalart
-environment
-landscape
-medium:digital 2d
-planet
-scenery
-seventeenthart
-sketch
-sphere
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-title:'venus fail' by ismail inceoglu
-title:venus fail
-uploader:jaykirsch
-venus
+2d,
+category:ine,
+concept,
+conceptart,
+creator:ismail inceoglu,
+dailysketch,
+digital,
+digitalart,
+environment,
+landscape,
+medium:digital 2d,
+planet,
+scenery,
+seventeenthart,
+sketch,
+sphere,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+title:'venus fail' by ismail inceoglu,
+title:venus fail,
+uploader:jaykirsch,
+venus,

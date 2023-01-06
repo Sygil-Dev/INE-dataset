@@ -1,51 +1,51 @@
-2017
-armor
-booru:e621
-category:ine
-character:princess luna
-character:princess luna (mlp)
-closed eyes
-clothing:armor
-cosmic hair
-creator:neytirix
-detailed background
-ethereal hair
-eyes closed
-feathered wings
-feathers
-female
-feral
-gender:female
-genre:fantasy
-grass
-hair
-hooves
-horn
-horns
-medium:detailed background
-medium:high resolution
-meta:2017
-meta:hi res
-plant
-pseudo hair
-purple hair
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"scorching moonlight" by neytirix
-title:scorching moonlight (mlp)
-uploader:torvusil
-video in description
-wings
-year:2017
+2017,
+armor,
+booru:e621,
+category:ine,
+character:princess luna,
+character:princess luna (mlp),
+closed eyes,
+clothing:armor,
+cosmic hair,
+creator:neytirix,
+detailed background,
+ethereal hair,
+eyes closed,
+feathered wings,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+grass,
+hair,
+hooves,
+horn,
+horns,
+medium:detailed background,
+medium:high resolution,
+meta:2017,
+meta:hi res,
+plant,
+pseudo hair,
+purple hair,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"scorching moonlight" by neytirix,
+title:scorching moonlight (mlp),
+uploader:torvusil,
+video in description,
+wings,
+year:2017,

@@ -1,45 +1,45 @@
-ambiguous gender
-blue body
-blue feathers
-booru:e621
-category:ine
-character:fan character
-creator:devinian
-day
-detailed background
-duo
-feathered wings
-feathers
-female
-feral
-flying
-gender:ambiguous
-gender:female
-hooves
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:absurd res
-meta:hi res
-original character
-outside
-rating:safe
-series:my little pony
-smile
-species:avian
-species:bird
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"befriending clouds" by devinian
-title:commission: befriending clouds
-uploader:torvusil
-white body
-white feathers
-wings
+ambiguous gender,
+blue body,
+blue feathers,
+booru:e621,
+category:ine,
+character:fan character,
+creator:devinian,
+day,
+detailed background,
+duo,
+feathered wings,
+feathers,
+female,
+feral,
+flying,
+gender:ambiguous,
+gender:female,
+hooves,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:absurd res,
+meta:hi res,
+original character,
+outside,
+rating:safe,
+series:my little pony,
+smile,
+species:avian,
+species:bird,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"befriending clouds" by devinian,
+title:commission: befriending clouds,
+uploader:torvusil,
+white body,
+white feathers,
+wings,

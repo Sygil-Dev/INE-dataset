@@ -1,25 +1,25 @@
-arkham
-category:ine
-creator:richard wright
-cthulhu
-firearm
-gender:female
-girl
-gun
-innsmouth
-lovecraft
-medium:digital 2d
-subreddit:imaginarybattlefields
-subreddit:imaginaryhumans
-subreddit:imaginarywarriors
-subreddit:imcharacters
-subreddit:imlandscapes
-subreddit:imraces
-tentacles
-title:'last stand' by richard wright
-title:last stand
-title:last stand by richard wright
-uploader:jaykirsch
-uploader:net-diver
-weapon
-woman
+arkham,
+category:ine,
+creator:richard wright,
+cthulhu,
+firearm,
+gender:female,
+girl,
+gun,
+innsmouth,
+lovecraft,
+medium:digital 2d,
+subreddit:imaginarybattlefields,
+subreddit:imaginaryhumans,
+subreddit:imaginarywarriors,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+subreddit:imraces,
+tentacles,
+title:'last stand' by richard wright,
+title:last stand,
+title:last stand by richard wright,
+uploader:jaykirsch,
+uploader:net-diver,
+weapon,
+woman,

@@ -1,38 +1,38 @@
-#mario_wibisono
-#raynkazuya
-#wibisono
-artist
-artwork
-asian
-blood
-bodily fluids
-bones
-category:ine
-clothing:japanese clothes
-clothing:kimono
-costumes
-creator:mario wibisono
-culture
-digital
-fantasy art
-geisha
-gender:female
-genre:fantasy
-illustration
-japan
-japanese clothes
-legend of the five rings
-mario wibisono
-medium:digital 2d
-medium:digital media
-painting
-skeleton
-skull
-subreddit:imaginarycarnage
-subreddit:imaginarywtf
-subreddit:imnsfw
-title:art of bones and blood by mario wibisono
-title:m'rika
-uploader:lol33ta
-video games
-woman
+#mario_wibisono,
+#raynkazuya,
+#wibisono,
+artist,
+artwork,
+asian,
+blood,
+bodily fluids,
+bones,
+category:ine,
+clothing:japanese clothes,
+clothing:kimono,
+costumes,
+creator:mario wibisono,
+culture,
+digital,
+fantasy art,
+geisha,
+gender:female,
+genre:fantasy,
+illustration,
+japan,
+japanese clothes,
+legend of the five rings,
+mario wibisono,
+medium:digital 2d,
+medium:digital media,
+painting,
+skeleton,
+skull,
+subreddit:imaginarycarnage,
+subreddit:imaginarywtf,
+subreddit:imnsfw,
+title:art of bones and blood by mario wibisono,
+title:m'rika,
+uploader:lol33ta,
+video games,
+woman,

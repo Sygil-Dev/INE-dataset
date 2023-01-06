@@ -1,36 +1,36 @@
-ambiguous gender
-ambiguous_gender
-artist:arvalis
-category:ine
-creator:arvalis
-day
-detailed background
-detailed_background
-group
-male
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-medium:text
-meta:2012
-meta:absurd_res
-meta:hi_res
-meta:url
-outside
-rating:safe
-species:human
-species:leviathan
-species:mammal
-species:primate
-subreddit:imaginarydinosaurs
-subreddit:imaginaryhistory
-subreddit:immeta
-subreddit:immonsters
-text
-title:"sport fishing 1906" by rj palmer
-title:sport fishing-1906
-title:sport fishing-1906 by rj palmer (xpost /r/imaginaryleviathans)
-uploader:3dom
-uploader:karmicviolence
-website:reddit
-year:2012
+ambiguous gender,
+ambiguous_gender,
+artist:arvalis,
+category:ine,
+creator:arvalis,
+day,
+detailed background,
+detailed_background,
+group,
+male,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+medium:text,
+meta:2012,
+meta:absurd_res,
+meta:hi_res,
+meta:url,
+outside,
+rating:safe,
+species:human,
+species:leviathan,
+species:mammal,
+species:primate,
+subreddit:imaginarydinosaurs,
+subreddit:imaginaryhistory,
+subreddit:immeta,
+subreddit:immonsters,
+text,
+title:"sport fishing 1906" by rj palmer,
+title:sport fishing-1906,
+title:sport fishing-1906 by rj palmer (xpost /r/imaginaryleviathans),
+uploader:3dom,
+uploader:karmicviolence,
+website:reddit,
+year:2012,

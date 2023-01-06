@@ -1,38 +1,38 @@
-1girl
-bare tree
-branch
-card game
-category:ine
-character art
-copyright name
-creator:hoàng lập (solan)
-elves
-faeries
-fairytale
-fantasyart
-flower
-forest
-freelance
-gothic
-jewelry
-long hair
-medium:digital 2d
-nature
-plant
-pointy ears
-purple hair
-rating:safe
-solo
-subreddit:imaginaryfaeries
-subreddit:imaginaryfashion
-subreddit:immeta
-subreddit:imraces
-title:prisoner of memories
-title:prisoner of memories by hoàng lập
-title:prisoner of memories by hoàng lập (solan)
-tree
-uploader:lol33ta
-uploader:malign-god
-uploader:octanemembrane_
-virgo
-zodiac
+1girl,
+bare tree,
+branch,
+card game,
+category:ine,
+character art,
+copyright name,
+creator:hoàng lập (solan),
+elves,
+faeries,
+fairytale,
+fantasyart,
+flower,
+forest,
+freelance,
+gothic,
+jewelry,
+long hair,
+medium:digital 2d,
+nature,
+plant,
+pointy ears,
+purple hair,
+rating:safe,
+solo,
+subreddit:imaginaryfaeries,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+subreddit:imraces,
+title:prisoner of memories,
+title:prisoner of memories by hoàng lập,
+title:prisoner of memories by hoàng lập (solan),
+tree,
+uploader:lol33ta,
+uploader:malign-god,
+uploader:octanemembrane_,
+virgo,
+zodiac,

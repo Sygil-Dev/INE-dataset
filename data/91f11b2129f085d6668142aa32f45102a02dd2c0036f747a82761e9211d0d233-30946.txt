@@ -1,24 +1,24 @@
-black hair
-booru:sankaku channel
-braid
-category:ine
-character:toph bei fong
-creator:lilsuika
-dress
-flower
-grey eyes
-medium:4:3 aspect ratio
-meta:potential duplicate
-nancy duong
-rating:safe
-series:avatar the last airbender
-series:avatar: the last airbender
-smile
-studio:nickelodeon
-subreddit:imaginaryfashion
-subreddit:immeta
-tied hair
-title:toph bei fong
-title:toph bei fong by nan (lilsuika)
-twintails
-uploader:eunra
+black hair,
+booru:sankaku channel,
+braid,
+category:ine,
+character:toph bei fong,
+creator:lilsuika,
+dress,
+flower,
+grey eyes,
+medium:4:3 aspect ratio,
+meta:potential duplicate,
+nancy duong,
+rating:safe,
+series:avatar the last airbender,
+series:avatar: the last airbender,
+smile,
+studio:nickelodeon,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+tied hair,
+title:toph bei fong,
+title:toph bei fong by nan (lilsuika),
+twintails,
+uploader:eunra,

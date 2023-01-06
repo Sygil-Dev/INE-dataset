@@ -1,42 +1,42 @@
-beach
-boat
-category:ine
-cityscape
-cloud
-cloudy sky
-diffraction spikes
-dusk
-earth (planet)
-evening
-gradient sky
-horizon
-island
-lake
-landscape
-lens flare
-lighthouse
-mountain
-mountainous horizon
-ocean
-orange sky
-outdoors
-planet
-rating:safe
-red sky
-river
-sand
-scenery
-shore
-sky
-subreddit:imaginarystarscapes
-subreddit:imlandscapes
-sun
-sunlight
-sunrise
-sunset
-title:orbital sunset by linden stirk
-twilight
-uploader:lol33ta
-water
-waves
-yellow sky
+beach,
+boat,
+category:ine,
+cityscape,
+cloud,
+cloudy sky,
+diffraction spikes,
+dusk,
+earth (planet),
+evening,
+gradient sky,
+horizon,
+island,
+lake,
+landscape,
+lens flare,
+lighthouse,
+mountain,
+mountainous horizon,
+ocean,
+orange sky,
+outdoors,
+planet,
+rating:safe,
+red sky,
+river,
+sand,
+scenery,
+shore,
+sky,
+subreddit:imaginarystarscapes,
+subreddit:imlandscapes,
+sun,
+sunlight,
+sunrise,
+sunset,
+title:orbital sunset by linden stirk,
+twilight,
+uploader:lol33ta,
+water,
+waves,
+yellow sky,

@@ -1,47 +1,47 @@
-ambiguous gender
-ambiguous_gender
-animal tail
-artist:cryptid-creations
-category:ine
-creator:cryptid-creations
-feral
-furry
-gender:ambiguous
-gender:female
-humor
-living tail
-living_tail
-medium:simple background
-medium:text
-medium:white background
-meta:url
-pun
-rating:safe
-simple background
-simple_background
-snake tail
-snake_tail
-solo
-source:e621
-species:bovid
-species:caprine
-species:chimera
-species:felid
-species:hybrid
-species:mammal
-species:marine
-species:merfolk
-species:mythical
-species:reptile
-species:scalie
-species:snake
-split form
-subreddit:imaginaryhybrids
-subreddit:immonsters
-tail
-text
-title:chimermaid by piper thibodeau
-title:daily paint 2015# chimermaid
-uploader:myrandall
-white background
-white_background
+ambiguous gender,
+ambiguous_gender,
+animal tail,
+artist:cryptid-creations,
+category:ine,
+creator:cryptid-creations,
+feral,
+furry,
+gender:ambiguous,
+gender:female,
+humor,
+living tail,
+living_tail,
+medium:simple background,
+medium:text,
+medium:white background,
+meta:url,
+pun,
+rating:safe,
+simple background,
+simple_background,
+snake tail,
+snake_tail,
+solo,
+source:e621,
+species:bovid,
+species:caprine,
+species:chimera,
+species:felid,
+species:hybrid,
+species:mammal,
+species:marine,
+species:merfolk,
+species:mythical,
+species:reptile,
+species:scalie,
+species:snake,
+split form,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+tail,
+text,
+title:chimermaid by piper thibodeau,
+title:daily paint 2015# chimermaid,
+uploader:myrandall,
+white background,
+white_background,

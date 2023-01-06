@@ -1,37 +1,37 @@
-architecture
-autumn
-bare tree
-branch
-bush
-category:ine
-day
-east asian architecture
-fence
-forest
-house
-lantern
-mountain
-nature
-night
-night sky
-no humans
-outdoors
-path
-pine tree
-rating:safe
-rope
-scenery
-shimenawa
-shrine
-sky
-snow
-stairs
-stone lantern
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:"cabin scene." by igzell vázquez
-torii
-tree
-tree shade
-uploader:pyro_azer
-winter
+architecture,
+autumn,
+bare tree,
+branch,
+bush,
+category:ine,
+day,
+east asian architecture,
+fence,
+forest,
+house,
+lantern,
+mountain,
+nature,
+night,
+night sky,
+no humans,
+outdoors,
+path,
+pine tree,
+rating:safe,
+rope,
+scenery,
+shimenawa,
+shrine,
+sky,
+snow,
+stairs,
+stone lantern,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:"cabin scene." by igzell vázquez,
+torii,
+tree,
+tree shade,
+uploader:pyro_azer,
+winter,

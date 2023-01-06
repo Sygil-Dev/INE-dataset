@@ -1,31 +1,31 @@
-armor
-candle
-category:ine
-character:bmo
-character:finn (adventure time)
-character:ice king
-character:jake the dog
-character:marceline
-character:princess bonnibel bubblegum
-clothing
-creator:jasonchanart
-dungeon
-fire
-robe
-series:adventure time
-series:dark souls
-skull
-species:canine
-species:dog
-species:human
-species:mammal
-species:mimic
-species:primate
-studio:from software
-subreddit:imaginaryooo
-subreddit:imfandoms
-sword
-title:adventure souls by jason chan
-uploader:valar_m0rghul1s
-wand
-weapon
+armor,
+candle,
+category:ine,
+character:bmo,
+character:finn (adventure time),
+character:ice king,
+character:jake the dog,
+character:marceline,
+character:princess bonnibel bubblegum,
+clothing,
+creator:jasonchanart,
+dungeon,
+fire,
+robe,
+series:adventure time,
+series:dark souls,
+skull,
+species:canine,
+species:dog,
+species:human,
+species:mammal,
+species:mimic,
+species:primate,
+studio:from software,
+subreddit:imaginaryooo,
+subreddit:imfandoms,
+sword,
+title:adventure souls by jason chan,
+uploader:valar_m0rghul1s,
+wand,
+weapon,

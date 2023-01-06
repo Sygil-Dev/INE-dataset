@@ -1,33 +1,33 @@
-anthro
-anthropomorphism
-beak
-booru:e621
-category:ine
-clothing
-clothing:tagme
-creator:zack stella
-feathered wings
-feathers
-female
-gender:female
-meta:official art
-rating:safe
-robe
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-solo
-species:aven
-species:avian
-species:bird
-staff
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryhybrids
-subreddit:immonsters
-title:ishai, ojutai dragonspeaker by zack stella
-uploader:tallantas
-winged arms
-wings
+anthro,
+anthropomorphism,
+beak,
+booru:e621,
+category:ine,
+clothing,
+clothing:tagme,
+creator:zack stella,
+feathered wings,
+feathers,
+female,
+gender:female,
+meta:official art,
+rating:safe,
+robe,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+solo,
+species:aven,
+species:avian,
+species:bird,
+staff,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+title:ishai, ojutai dragonspeaker by zack stella,
+uploader:tallantas,
+winged arms,
+wings,

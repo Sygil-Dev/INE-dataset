@@ -1,26 +1,26 @@
-2d
-3d
-asylum
-book cover
-category:ine
-cover art
-creator:denise a.
-creator:débora denise azevedo
-digital art
-environment
-fairytale
-fantasy
-horror
-illustration
-manipulation
-medium:digital 2d
-medium:digital media
-model
-spooky
-subreddit:imaginaryasylums
-subreddit:imarchitecture
-terror
-title:insanity
-title:insanity by deni von k
-uploader:o_no_my_buttholes
-woman
+2d,
+3d,
+asylum,
+book cover,
+category:ine,
+cover art,
+creator:denise a.,
+creator:débora denise azevedo,
+digital art,
+environment,
+fairytale,
+fantasy,
+horror,
+illustration,
+manipulation,
+medium:digital 2d,
+medium:digital media,
+model,
+spooky,
+subreddit:imaginaryasylums,
+subreddit:imarchitecture,
+terror,
+title:insanity,
+title:insanity by deni von k,
+uploader:o_no_my_buttholes,
+woman,

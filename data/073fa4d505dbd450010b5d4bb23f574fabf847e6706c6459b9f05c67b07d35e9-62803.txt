@@ -1,26 +1,26 @@
-bare tree
-branch
-building
-category:ine
-city
-city lights
-cloud
-cloudy sky
-fence
-gradient sky
-horizon
-mountain
-no humans
-outdoors
-rating:safe
-river
-scenery
-sky
-snow
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-sunset
-title:daybreak by alex jessup
-tree
-twilight
-uploader:imwaaal
+bare tree,
+branch,
+building,
+category:ine,
+city,
+city lights,
+cloud,
+cloudy sky,
+fence,
+gradient sky,
+horizon,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+snow,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+sunset,
+title:daybreak by alex jessup,
+tree,
+twilight,
+uploader:imwaaal,

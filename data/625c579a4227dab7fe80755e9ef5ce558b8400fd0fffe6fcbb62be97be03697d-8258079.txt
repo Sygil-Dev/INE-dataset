@@ -1,70 +1,70 @@
-1 female
-1 other
-1girl
-1other
-armor
-armwear
-blonde hair
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-cape
-category:ine
-character:kirby
-character:princess zelda
-clothing:cape
-clothing:earrings
-clothing:elbow gloves
-clothing:gloves
-clothing:jewelry
-clothing:white gloves
-commentary
-copy ability
-creator:ross tran
-creator:rossdraws
-crossover
-crown
-earrings
-ears
-elbow gloves
-english commentary
-fanart
-fanartdigital
-gender:female
-genre:fantasy
-gloves
-jewelry
-kirby
-kirbynintendo
-long hair
-magic
-meta:commentary
-meta:crossover
-meta:english commentary
-meta:photoshop (medium)
-orb
-pauldrons
-pointy ears
-princesszelda
-rating:mature
-rating:s
-rating:safe
-rating:sensitive
-ross tran
-series:kirby
-series:kirby (series)
-series:nintendo
-series:super smash bros.
-series:the legend of zelda
-shoulder armor
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imfandoms
-title:princess zelda and kirby
-title:princess zelda and kirby by ross tran
-triforce
-uploader:net-diver
-white gloves
-zelda
+1 female,
+1 other,
+1girl,
+1other,
+armor,
+armwear,
+blonde hair,
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+cape,
+category:ine,
+character:kirby,
+character:princess zelda,
+clothing:cape,
+clothing:earrings,
+clothing:elbow gloves,
+clothing:gloves,
+clothing:jewelry,
+clothing:white gloves,
+commentary,
+copy ability,
+creator:ross tran,
+creator:rossdraws,
+crossover,
+crown,
+earrings,
+ears,
+elbow gloves,
+english commentary,
+fanart,
+fanartdigital,
+gender:female,
+genre:fantasy,
+gloves,
+jewelry,
+kirby,
+kirbynintendo,
+long hair,
+magic,
+meta:commentary,
+meta:crossover,
+meta:english commentary,
+meta:photoshop (medium),
+orb,
+pauldrons,
+pointy ears,
+princesszelda,
+rating:mature,
+rating:s,
+rating:safe,
+rating:sensitive,
+ross tran,
+series:kirby,
+series:kirby (series),
+series:nintendo,
+series:super smash bros.,
+series:the legend of zelda,
+shoulder armor,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+title:princess zelda and kirby,
+title:princess zelda and kirby by ross tran,
+triforce,
+uploader:net-diver,
+white gloves,
+zelda,

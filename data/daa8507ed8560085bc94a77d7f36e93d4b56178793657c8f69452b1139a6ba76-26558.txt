@@ -1,77 +1,77 @@
-artist:arvalis
-arvalis
-blue
-booru:e621
-category:ine
-clamperl
-cloyster
-copyright:nintendo
-copyright:pokémon
-creator:arvalis
-eel
-feral
-fish
-gen 1 pokemon
-gen 1 pokémon
-gorebyss
-group
-gulpereel
-gyarados
-kanto
-lancet
-lancetfish
-magikarp
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-medium:video game
-meta:2014
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-nintendo
-oarfish
-open mouth
-open_mouth
-palmer
-pokemon
-pokemonxy
-pokes
-rating:safe
-realistic
-red
-relicanth
-rj
-rjpalmer
-series:nintendo
-series:pokémon
-shellder
-species:clamperl
-species:cloyster
-species:gorebyss
-species:gyarados
-species:magikarp
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:relicanth
-species:shellder
-species:tentacool
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-teeth
-tentacool
-title:gyarados-
-title:gyarados- by arvalis on deviantart (rj palmer)
-uploader:o_no_my_buttholes
-video games
-video_games
-viper
-viperfish
-xy
-year:2014
+artist:arvalis,
+arvalis,
+blue,
+booru:e621,
+category:ine,
+clamperl,
+cloyster,
+copyright:nintendo,
+copyright:pokémon,
+creator:arvalis,
+eel,
+feral,
+fish,
+gen 1 pokemon,
+gen 1 pokémon,
+gorebyss,
+group,
+gulpereel,
+gyarados,
+kanto,
+lancet,
+lancetfish,
+magikarp,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+medium:video game,
+meta:2014,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+nintendo,
+oarfish,
+open mouth,
+open_mouth,
+palmer,
+pokemon,
+pokemonxy,
+pokes,
+rating:safe,
+realistic,
+red,
+relicanth,
+rj,
+rjpalmer,
+series:nintendo,
+series:pokémon,
+shellder,
+species:clamperl,
+species:cloyster,
+species:gorebyss,
+species:gyarados,
+species:magikarp,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:relicanth,
+species:shellder,
+species:tentacool,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+teeth,
+tentacool,
+title:gyarados-,
+title:gyarados- by arvalis on deviantart (rj palmer),
+uploader:o_no_my_buttholes,
+video games,
+video_games,
+viper,
+viperfish,
+xy,
+year:2014,

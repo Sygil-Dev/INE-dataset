@@ -1,52 +1,52 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-bottomless
-category:ine
-claws
-clothed
-clothing
-clothing:sweater
-coffee mug
-coffee_mug
-creator:cryptid-creations
-drinking
-furry
-gender:ambiguous
-gender:male
-humor
-male:1
-medium:simple background
-medium:white background
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meme:humor
-meta:2018
-meta:tagme
-meta:url
-mug
-plaid
-pun
-rating:safe
-rock
-simple background
-simple_background
-solo
-species:gargoyle
-species:scalie
-subreddit:imaginarybeasts
-subreddit:immonsters
-text
-title:gargyle by piper thibodeau
-topwear
-uploader:myrandall
-visual pun
-visual_pun
-white background
-white_background
-wings
-year:2018
-yellow eyes
-yellow_eyes
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+bottomless,
+category:ine,
+claws,
+clothed,
+clothing,
+clothing:sweater,
+coffee mug,
+coffee_mug,
+creator:cryptid-creations,
+drinking,
+furry,
+gender:ambiguous,
+gender:male,
+humor,
+male:1,
+medium:simple background,
+medium:white background,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meme:humor,
+meta:2018,
+meta:tagme,
+meta:url,
+mug,
+plaid,
+pun,
+rating:safe,
+rock,
+simple background,
+simple_background,
+solo,
+species:gargoyle,
+species:scalie,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+text,
+title:gargyle by piper thibodeau,
+topwear,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white background,
+white_background,
+wings,
+year:2018,
+yellow eyes,
+yellow_eyes,

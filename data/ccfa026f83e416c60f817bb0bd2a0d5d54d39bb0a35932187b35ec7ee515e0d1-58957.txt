@@ -1,56 +1,56 @@
-artist:arvalis
-category:ine
-creator:arvalis
-day
-detailed background
-detailed_background
-duo
-elephant
-feral
-forest
-grass
-language:english
-mammoth
-mastodon
-medium:detailed background
-medium:digital media
-medium:english text
-medium:text
-meta:2019
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:english text
-meta:english_text
-meta:hi res
-meta:hi_res
-namadicus
-nose
-oliphaunt
-outside
-palaeoloxodon
-paleoart
-paleontology
-plant
-rating:safe
-species:elephant
-species:elephantid
-species:human
-species:mammal
-species:pachyderm
-species:primate
-species:proboscidean
-subreddit:imaginaryanimals
-subreddit:imaginarybeasts
-subreddit:immonsters
-subreddit:imnature
-text
-title:palaeoloxodon namadicus
-title:palaeoloxodon namadicus by rj palmer
-tree
-trunks
-tusks
-uploader:net-diver
-website:reddit
-year:2019
+artist:arvalis,
+category:ine,
+creator:arvalis,
+day,
+detailed background,
+detailed_background,
+duo,
+elephant,
+feral,
+forest,
+grass,
+language:english,
+mammoth,
+mastodon,
+medium:detailed background,
+medium:digital media,
+medium:english text,
+medium:text,
+meta:2019,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:english text,
+meta:english_text,
+meta:hi res,
+meta:hi_res,
+namadicus,
+nose,
+oliphaunt,
+outside,
+palaeoloxodon,
+paleoart,
+paleontology,
+plant,
+rating:safe,
+species:elephant,
+species:elephantid,
+species:human,
+species:mammal,
+species:pachyderm,
+species:primate,
+species:proboscidean,
+subreddit:imaginaryanimals,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+subreddit:imnature,
+text,
+title:palaeoloxodon namadicus,
+title:palaeoloxodon namadicus by rj palmer,
+tree,
+trunks,
+tusks,
+uploader:net-diver,
+website:reddit,
+year:2019,

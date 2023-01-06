@@ -1,85 +1,85 @@
-1 female
-1girl
-4 males
-4boys
-90s
-black hair
-blood
-bodily fluids
-breasts
-cable
-category:ine
-character:cloud strife
-character:hojo
-character:houjou (ff7)
-character:houjou (final fantasy vii)
-character:jenova
-character:vincent valentine
-character:zack fair
-clothing:eyewear
-clothing:glasses
-clothing:hair tie
-clothing:headband
-creator:ashleycope
-creator:glassshard
-electrode (object)
-electrodes
-eyewear
-gender:female
-gender:male
-glasses
-green
-green theme
-guro
-hair
-headband
-hojo
-in container
-jenova
-labcoat
-laboratory
-machine
-male focus
-medium breasts
-medium:focus on male character
-medium:watermark
-meta:nsfw
-meta:photoshop (medium)
-meta:spoilers
-meta:watermark
-monster girl
-multiple boys
-multiple males
-muscle
-muscles
-name tag
-nipples
-nude
-oxygen mask
-ponytail
-rating:explicit
-rating:mature
-rating:questionable
-science
-scientist
-series:final fantasy
-series:final fantasy vii
-smile
-spoilers
-stasis
-stasis tank
-stasis tube
-studio:square enix
-subreddit:imaginaryscholars
-subreddit:imcharacters
-tears
-tied hair
-title:a series of tubes
-title:a series of tubes, by ashley cope
-tube
-uploader:belledame-sans-serif
-vincent valentine
-watermark
-website:reddit
-wire
-zack fair
+1 female,
+1girl,
+4 males,
+4boys,
+90s,
+black hair,
+blood,
+bodily fluids,
+breasts,
+cable,
+category:ine,
+character:cloud strife,
+character:hojo,
+character:houjou (ff7),
+character:houjou (final fantasy vii),
+character:jenova,
+character:vincent valentine,
+character:zack fair,
+clothing:eyewear,
+clothing:glasses,
+clothing:hair tie,
+clothing:headband,
+creator:ashleycope,
+creator:glassshard,
+electrode (object),
+electrodes,
+eyewear,
+gender:female,
+gender:male,
+glasses,
+green,
+green theme,
+guro,
+hair,
+headband,
+hojo,
+in container,
+jenova,
+labcoat,
+laboratory,
+machine,
+male focus,
+medium breasts,
+medium:focus on male character,
+medium:watermark,
+meta:nsfw,
+meta:photoshop (medium),
+meta:spoilers,
+meta:watermark,
+monster girl,
+multiple boys,
+multiple males,
+muscle,
+muscles,
+name tag,
+nipples,
+nude,
+oxygen mask,
+ponytail,
+rating:explicit,
+rating:mature,
+rating:questionable,
+science,
+scientist,
+series:final fantasy,
+series:final fantasy vii,
+smile,
+spoilers,
+stasis,
+stasis tank,
+stasis tube,
+studio:square enix,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+tears,
+tied hair,
+title:a series of tubes,
+title:a series of tubes, by ashley cope,
+tube,
+uploader:belledame-sans-serif,
+vincent valentine,
+watermark,
+website:reddit,
+wire,
+zack fair,

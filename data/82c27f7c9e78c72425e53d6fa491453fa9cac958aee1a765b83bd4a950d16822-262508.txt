@@ -1,21 +1,21 @@
-boat
-building
-category:ine
-fantasy art
-flowers
-forest
-house
-medium:digital media
-river
-stream
-subreddit:imaginarydwellings
-subreddit:imaginaryforests
-subreddit:imarchitecture
-subreddit:imnature
-sun rays
-title:the tree by huasen zhang
-tree house
-uploader:lol33ta
-vehicle
-water
-watercraft
+boat,
+building,
+category:ine,
+fantasy art,
+flowers,
+forest,
+house,
+medium:digital media,
+river,
+stream,
+subreddit:imaginarydwellings,
+subreddit:imaginaryforests,
+subreddit:imarchitecture,
+subreddit:imnature,
+sun rays,
+title:the tree by huasen zhang,
+tree house,
+uploader:lol33ta,
+vehicle,
+water,
+watercraft,

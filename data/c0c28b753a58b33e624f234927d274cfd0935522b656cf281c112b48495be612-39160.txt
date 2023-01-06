@@ -1,83 +1,83 @@
-1 female
-1girl
-artist name
-artist:raikoart
-bird
-black choker
-black hair
-black neckwear
-booru:sankaku channel
-breasts
-category:ine
-character:witcher
-character:yennefer
-character:yennefer of vengerberg
-choker
-cleavage
-clothing:choker
-clothing:jewelry
-collarbone
-commentary
-copyright:the witcher
-copyright:the witcher 3
-creator:raikoart
-creator:sean "raiko" tay
-gender:female
-hair over one eye
-jewelry
-large breasts
-lips
-long hair
-looking at viewer
-md5 mismatch
-medium:16:10 aspect ratio
-medium:1280x800 wallpaper
-medium:artist name
-medium:digital 2d
-medium:high resolution
-medium:realistic
-medium:wallpaper
-meta:artist name
-meta:commentary
-meta:english commentary
-meta:highres
-meta:md5 mismatch
-meta:revision
-meta:wallpaper
-mole
-mole under mouth
-open mouth
-parted lips
-pendant
-pentagram
-pov
-purple eyes
-raikoart
-rating:mature
-rating:s
-rating:safe
-red lips
-revision
-series:original
-series:the witcher
-series:the witcher 3
-series:the witcher 3: wild hunt
-site:deviantart
-sky
-solo
-species:avian
-species:bird
-subreddit:imaginaryhumans
-subreddit:imaginarywitcher
-subreddit:imfandoms
-subreddit:imraces
-title:witcher: yennefer of vengerberg
-title:yennefer of vengerberg
-title:yennefer of vengerberg by sean tay
-uploader:myrandall
-upper body
-wallpaper
-wing collar
-witcher
-yen
-yennefer
+1 female,
+1girl,
+artist name,
+artist:raikoart,
+bird,
+black choker,
+black hair,
+black neckwear,
+booru:sankaku channel,
+breasts,
+category:ine,
+character:witcher,
+character:yennefer,
+character:yennefer of vengerberg,
+choker,
+cleavage,
+clothing:choker,
+clothing:jewelry,
+collarbone,
+commentary,
+copyright:the witcher,
+copyright:the witcher 3,
+creator:raikoart,
+creator:sean "raiko" tay,
+gender:female,
+hair over one eye,
+jewelry,
+large breasts,
+lips,
+long hair,
+looking at viewer,
+md5 mismatch,
+medium:16:10 aspect ratio,
+medium:1280x800 wallpaper,
+medium:artist name,
+medium:digital 2d,
+medium:high resolution,
+medium:realistic,
+medium:wallpaper,
+meta:artist name,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:md5 mismatch,
+meta:revision,
+meta:wallpaper,
+mole,
+mole under mouth,
+open mouth,
+parted lips,
+pendant,
+pentagram,
+pov,
+purple eyes,
+raikoart,
+rating:mature,
+rating:s,
+rating:safe,
+red lips,
+revision,
+series:original,
+series:the witcher,
+series:the witcher 3,
+series:the witcher 3: wild hunt,
+site:deviantart,
+sky,
+solo,
+species:avian,
+species:bird,
+subreddit:imaginaryhumans,
+subreddit:imaginarywitcher,
+subreddit:imfandoms,
+subreddit:imraces,
+title:witcher: yennefer of vengerberg,
+title:yennefer of vengerberg,
+title:yennefer of vengerberg by sean tay,
+uploader:myrandall,
+upper body,
+wallpaper,
+wing collar,
+witcher,
+yen,
+yennefer,

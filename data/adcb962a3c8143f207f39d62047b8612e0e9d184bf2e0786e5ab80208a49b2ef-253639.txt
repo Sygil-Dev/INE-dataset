@@ -1,23 +1,23 @@
-artwork
-category:ine
-computer
-computer screen
-eddie mendoza
-gender:female
-ibm
-mech
-men
-retro computers
-science
-species:robot
-subreddit:imaginaryinteriors
-subreddit:imaginaryscholars
-subreddit:imarchitecture
-subreddit:imcharacters
-technology
-title:"information age" by eddie mendoza
-title:'information age' by eddie mendoza
-title:information age by eddie mendoza
-uploader:ionlands
-uploader:jaykirsch
-uploader:lol33ta
+artwork,
+category:ine,
+computer,
+computer screen,
+eddie mendoza,
+gender:female,
+ibm,
+mech,
+men,
+retro computers,
+science,
+species:robot,
+subreddit:imaginaryinteriors,
+subreddit:imaginaryscholars,
+subreddit:imarchitecture,
+subreddit:imcharacters,
+technology,
+title:"information age" by eddie mendoza,
+title:'information age' by eddie mendoza,
+title:information age by eddie mendoza,
+uploader:ionlands,
+uploader:jaykirsch,
+uploader:lol33ta,

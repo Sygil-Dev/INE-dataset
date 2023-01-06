@@ -1,23 +1,23 @@
-1girl
-book
-bookshelf
-bottle
-brown hair
-category:ine
-cup
-drinking glass
-food
-indoors
-jar
-menu
-mug
-plate
-rating:safe
-scenery
-short hair
-solo
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-table
-title:sake and ramen [honoka]
-uploader:lol33ta
+1girl,
+book,
+bookshelf,
+bottle,
+brown hair,
+category:ine,
+cup,
+drinking glass,
+food,
+indoors,
+jar,
+menu,
+mug,
+plate,
+rating:safe,
+scenery,
+short hair,
+solo,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+table,
+title:sake and ramen [honoka],
+uploader:lol33ta,

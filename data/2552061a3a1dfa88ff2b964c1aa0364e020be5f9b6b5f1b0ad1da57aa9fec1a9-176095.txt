@@ -1,101 +1,101 @@
-1 female
-1girl
-artist name
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku
-booru:sankaku channel
-booru:yande.re
-bow
-brown gloves
-category:ine
-character:lady maria of the astral clocktower
-clothing:gloves
-clothing:hair bow
-clothing:hair ornament
-clothing:hair tie
-clothing:hat
-clothing:headwear
-clothing:ribbon
-commentary
-creator:wlop
-dark background
-dual wielding
-eyelashes
-female
-firearm
-from behind
-from side
-gender:female
-gloves
-grey eyes
-grey hair
-hair bow
-hair ornament
-hat
-headwear
-higher resolution
-highres
-holding
-in profile
-lady maria
-lady maria of the astral clocktower
-lips
-long hair
-looking at viewer
-looking back
-low ponytail
-maria
-medium:2:1 aspect ratio
-medium:absurd resolution
-medium:artist name
-medium:dark background
-medium:fanart from deviantart
-medium:high resolution
-medium:patreon username
-medium:realistic
-medium:very high resolution
-medium:watermark
-medium:web address
-meta:absurdres
-meta:artist name
-meta:commentary
-meta:highres
-meta:patreon username
-meta:photoshop (medium)
-meta:potential duplicate
-meta:watermark
-patreon username
-ponytail
-pov
-rating:mature
-rating:s
-rating:safe
-rating:sensitive
-realistic
-ribbon
-series:bloodborne
-series:bloodborne: the old hunters
-series:the old hunters
-silver hair
-site:deviantart
-site:pixiv
-smile
-solo
-subreddit:imaginarygaming
-subreddit:imfandoms
-sword
-tied hair
-title:lady maria
-title:lady maria, by wang ling (wlop) on deviantart
-tricorne
-uploader:deluded_fruitcake
-upper body
-watermark
-weapon
-web address
-三角帽子
-勇ましきもの
-時計塔のマリア
+1 female,
+1girl,
+artist name,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku,
+booru:sankaku channel,
+booru:yande.re,
+bow,
+brown gloves,
+category:ine,
+character:lady maria of the astral clocktower,
+clothing:gloves,
+clothing:hair bow,
+clothing:hair ornament,
+clothing:hair tie,
+clothing:hat,
+clothing:headwear,
+clothing:ribbon,
+commentary,
+creator:wlop,
+dark background,
+dual wielding,
+eyelashes,
+female,
+firearm,
+from behind,
+from side,
+gender:female,
+gloves,
+grey eyes,
+grey hair,
+hair bow,
+hair ornament,
+hat,
+headwear,
+higher resolution,
+highres,
+holding,
+in profile,
+lady maria,
+lady maria of the astral clocktower,
+lips,
+long hair,
+looking at viewer,
+looking back,
+low ponytail,
+maria,
+medium:2:1 aspect ratio,
+medium:absurd resolution,
+medium:artist name,
+medium:dark background,
+medium:fanart from deviantart,
+medium:high resolution,
+medium:patreon username,
+medium:realistic,
+medium:very high resolution,
+medium:watermark,
+medium:web address,
+meta:absurdres,
+meta:artist name,
+meta:commentary,
+meta:highres,
+meta:patreon username,
+meta:photoshop (medium),
+meta:potential duplicate,
+meta:watermark,
+patreon username,
+ponytail,
+pov,
+rating:mature,
+rating:s,
+rating:safe,
+rating:sensitive,
+realistic,
+ribbon,
+series:bloodborne,
+series:bloodborne: the old hunters,
+series:the old hunters,
+silver hair,
+site:deviantart,
+site:pixiv,
+smile,
+solo,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+sword,
+tied hair,
+title:lady maria,
+title:lady maria, by wang ling (wlop) on deviantart,
+tricorne,
+uploader:deluded_fruitcake,
+upper body,
+watermark,
+weapon,
+web address,
+三角帽子,
+勇ましきもの,
+時計塔のマリア,

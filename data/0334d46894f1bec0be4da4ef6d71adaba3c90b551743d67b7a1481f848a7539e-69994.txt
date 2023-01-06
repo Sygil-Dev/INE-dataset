@@ -1,26 +1,26 @@
-1girl
-5boys
-6+boys
-armor
-bald
-beard
-category:ine
-facial hair
-full armor
-greyscale
-helmet
-monochrome
-multiple boys
-mustache
-old
-old man
-pauldrons
-rating:safe
-shield
-shoulder armor
-statue
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:horus heresy - "the flight of the eisenstein" (by gray-skull)
-uploader:adeptus_illustratum
-wrinkled skin
+1girl,
+5boys,
+6+boys,
+armor,
+bald,
+beard,
+category:ine,
+facial hair,
+full armor,
+greyscale,
+helmet,
+monochrome,
+multiple boys,
+mustache,
+old,
+old man,
+pauldrons,
+rating:safe,
+shield,
+shoulder armor,
+statue,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:horus heresy - "the flight of the eisenstein" (by gray-skull),
+uploader:adeptus_illustratum,
+wrinkled skin,

@@ -1,64 +1,64 @@
-2018
-ambiguous gender
-anthro
-anthropomorphism
-beverage
-black body
-black eyes
-black feathers
-black tie (suit)
-bodypart:black eyes
-bow tie
-category:ine
-clothing
-clothing:bow tie
-clothing:hat
-clothing:headwear
-container
-creator:cryptid-creations
-cup
-death
-feathers
-feral
-formal wear
-gender:ambiguous
-gender:female
-goblet
-group
-hat
-headgear
-headwear
-humor
-ice
-loli body type
-medium:simple background
-medium:white background
-meme:humor
-meta:2018
-meta:url
-orange body
-orange feathers
-pun
-rating:safe
-simple background
-species:avian
-species:bird
-species:fish
-species:marine
-species:penguin
-subreddit:imaginaryanimals
-subreddit:imnature
-suit
-text
-title:tuxedo of penguins by piper thibodeau
-top hat
-tuxedo
-uploader:myrandall
-water
-website:reddit
-white background
-white body
-white feathers
-x eyes
-year:2018
-young
+2018,
+ambiguous gender,
+anthro,
+anthropomorphism,
+beverage,
+black body,
+black eyes,
+black feathers,
+black tie (suit),
+bodypart:black eyes,
+bow tie,
+category:ine,
+clothing,
+clothing:bow tie,
+clothing:hat,
+clothing:headwear,
+container,
+creator:cryptid-creations,
+cup,
+death,
+feathers,
+feral,
+formal wear,
+gender:ambiguous,
+gender:female,
+goblet,
+group,
+hat,
+headgear,
+headwear,
+humor,
+ice,
+loli body type,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2018,
+meta:url,
+orange body,
+orange feathers,
+pun,
+rating:safe,
+simple background,
+species:avian,
+species:bird,
+species:fish,
+species:marine,
+species:penguin,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+suit,
+text,
+title:tuxedo of penguins by piper thibodeau,
+top hat,
+tuxedo,
+uploader:myrandall,
+water,
+website:reddit,
+white background,
+white body,
+white feathers,
+x eyes,
+year:2018,
+young,

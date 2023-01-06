@@ -1,52 +1,52 @@
-2018
-ambiguous gender
-booru:e621
-brown body
-brown fur
-category:ine
-creator:kenket
-day
-fangs
-feral
-front view
-fur
-gender:ambiguous
-headshot portrait
-medium:high resolution
-medium:traditional media
-meta:2018
-meta:headshot portrait
-meta:hi res
-meta:painting (artwork)
-meta:portrait
-meta:traditional media (artwork)
-meta:url
-mouth shot
-open mouth
-outside
-painting (artwork)
-pink tongue
-portrait
-rating:safe
-sharp teeth
-sky
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:wolf
-subreddit:imaginaryanimals
-subreddit:imnature
-teeth
-text
-title:yawp
-title:yawp by tess garman
-tongue
-tongue out
-uploader:myrandall
-url
-website:reddit
-white body
-white fur
-year:2018
+2018,
+ambiguous gender,
+booru:e621,
+brown body,
+brown fur,
+category:ine,
+creator:kenket,
+day,
+fangs,
+feral,
+front view,
+fur,
+gender:ambiguous,
+headshot portrait,
+medium:high resolution,
+medium:traditional media,
+meta:2018,
+meta:headshot portrait,
+meta:hi res,
+meta:painting (artwork),
+meta:portrait,
+meta:traditional media (artwork),
+meta:url,
+mouth shot,
+open mouth,
+outside,
+painting (artwork),
+pink tongue,
+portrait,
+rating:safe,
+sharp teeth,
+sky,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:wolf,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+teeth,
+text,
+title:yawp,
+title:yawp by tess garman,
+tongue,
+tongue out,
+uploader:myrandall,
+url,
+website:reddit,
+white body,
+white fur,
+year:2018,

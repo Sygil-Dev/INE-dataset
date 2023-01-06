@@ -1,39 +1,39 @@
-1 other
-1other
-ambiguous gender
-blue sky
-boat
-building
-castle
-category:ine
-city
-cloud
-cloudy sky
-creator:alayna
-creator:alayna danner
-day
-fantasy
-fog
-gender:ambiguous
-genre:fantasy
-hill
-lake
-medium:high resolution
-meta:commentary
-meta:english commentary
-meta:highres
-mountain
-outdoors
-outside
-rating:mature
-rating:safe
-scenery
-series:original
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:aldis, city of the blue rose
-title:aldis, city of the blue rose by alayna lemmer-danner
-uploader:fireflycities
-vehicle
-watercraft
+1 other,
+1other,
+ambiguous gender,
+blue sky,
+boat,
+building,
+castle,
+category:ine,
+city,
+cloud,
+cloudy sky,
+creator:alayna,
+creator:alayna danner,
+day,
+fantasy,
+fog,
+gender:ambiguous,
+genre:fantasy,
+hill,
+lake,
+medium:high resolution,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+mountain,
+outdoors,
+outside,
+rating:mature,
+rating:safe,
+scenery,
+series:original,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:aldis, city of the blue rose,
+title:aldis, city of the blue rose by alayna lemmer-danner,
+uploader:fireflycities,
+vehicle,
+watercraft,

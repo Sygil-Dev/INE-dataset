@@ -1,26 +1,26 @@
-apocalypse
-category:ine
-character
-city
-creator:joakim ericsson
-fog
-medium:digital 2d
-post
-rebel
-resistance
-sci fi
-shanty town
-ship
-snow
-species:alien
-stockholm
-subreddit:imaginarywastelands
-subreddit:imlandscapes
-title:they came from the skies
-title:they came from the skies by joakim ericsson
-trash
-uploader:spoon_artillery
-vehicle
-war
-waste
-watercraft
+apocalypse,
+category:ine,
+character,
+city,
+creator:joakim ericsson,
+fog,
+medium:digital 2d,
+post,
+rebel,
+resistance,
+sci fi,
+shanty town,
+ship,
+snow,
+species:alien,
+stockholm,
+subreddit:imaginarywastelands,
+subreddit:imlandscapes,
+title:they came from the skies,
+title:they came from the skies by joakim ericsson,
+trash,
+uploader:spoon_artillery,
+vehicle,
+war,
+waste,
+watercraft,

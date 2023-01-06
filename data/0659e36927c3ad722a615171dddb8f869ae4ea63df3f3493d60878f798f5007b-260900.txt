@@ -1,32 +1,32 @@
-1boy
-artist name
-bald
-beard
-belt
-black coat
-category:ine
-chain-link fence
-coat
-copyright name
-facial hair
-gradient
-gradient background
-hexagon
-honeycomb (pattern)
-honeycomb background
-long coat
-male focus
-rating:safe
-signature
-skeleton
-skull
-solo
-standing
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-tile floor
-tile wall
-tiles
-title:anamorphic systems 02 by david benzal
-uploader:lol33ta
-weapon
+1boy,
+artist name,
+bald,
+beard,
+belt,
+black coat,
+category:ine,
+chain-link fence,
+coat,
+copyright name,
+facial hair,
+gradient,
+gradient background,
+hexagon,
+honeycomb (pattern),
+honeycomb background,
+long coat,
+male focus,
+rating:safe,
+signature,
+skeleton,
+skull,
+solo,
+standing,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+tile floor,
+tile wall,
+tiles,
+title:anamorphic systems 02 by david benzal,
+uploader:lol33ta,
+weapon,

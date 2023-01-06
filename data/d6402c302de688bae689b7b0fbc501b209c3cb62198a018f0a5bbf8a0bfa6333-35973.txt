@@ -1,63 +1,63 @@
-1 female
-1girl
-art
-artist name
-barefoot
-bird
-booru:sankaku
-breasts
-brown eyes
-brown hair
-category:ine
-circlet
-cleavage
-clothing:jewelry
-clothing:necklace
-cloud
-clouds
-copyright name
-creator:liang xing - 星星梁
-creator:liang-xing
-dated
-feet
-female
-gender:female
-high resolution
-jewelry
-legend of the cryptids
-long hair
-medium:artist name
-medium:copyright name
-medium:dated
-medium:high resolution
-medium:official art
-medium:watermark
-medium:web address
-meta:artist name
-meta:commentary request
-meta:highres
-meta:official art
-meta:photoshop (medium)
-meta:pixiv-import
-meta:watermark
-midriff
-navel
-necklace
-official art
-rating:mature
-rating:s
-rating:safe
-series:legend of the cryptids
-sparkle
-species:avian
-species:bird
-staff
-stomach
-subreddit:imaginaryclerics
-subreddit:imcharacters
-sun
-title:sun-kissed madeline-reg
-title:sun-kissed madeline-reg by liangxing
-uploader:joniak
-watermark
-web address
+1 female,
+1girl,
+art,
+artist name,
+barefoot,
+bird,
+booru:sankaku,
+breasts,
+brown eyes,
+brown hair,
+category:ine,
+circlet,
+cleavage,
+clothing:jewelry,
+clothing:necklace,
+cloud,
+clouds,
+copyright name,
+creator:liang xing - 星星梁,
+creator:liang-xing,
+dated,
+feet,
+female,
+gender:female,
+high resolution,
+jewelry,
+legend of the cryptids,
+long hair,
+medium:artist name,
+medium:copyright name,
+medium:dated,
+medium:high resolution,
+medium:official art,
+medium:watermark,
+medium:web address,
+meta:artist name,
+meta:commentary request,
+meta:highres,
+meta:official art,
+meta:photoshop (medium),
+meta:pixiv-import,
+meta:watermark,
+midriff,
+navel,
+necklace,
+official art,
+rating:mature,
+rating:s,
+rating:safe,
+series:legend of the cryptids,
+sparkle,
+species:avian,
+species:bird,
+staff,
+stomach,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+sun,
+title:sun-kissed madeline-reg,
+title:sun-kissed madeline-reg by liangxing,
+uploader:joniak,
+watermark,
+web address,

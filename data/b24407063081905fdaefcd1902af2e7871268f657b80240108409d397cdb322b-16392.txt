@@ -1,21 +1,21 @@
-architecture
-category:ine
-comission
-creator:anthony avon
-creator:anthonyavon
-digital artwork
-garden
-genre:fantasy
-illustration
-medium:digital 2d
-painting
-source:furaffinity.net
-subreddit:imaginaryarchitecture
-subreddit:imaginarypathways
-subreddit:imaginaryportals
-subreddit:imtechnology
-title:hanging gardens
-title:hanging gardens by anthony avon
-title:hanging gardens by anthony avon (x-post from r/imaginaryarchitecture)
-uploader:jorgeamvf
-uploader:lol33ta
+architecture,
+category:ine,
+comission,
+creator:anthony avon,
+creator:anthonyavon,
+digital artwork,
+garden,
+genre:fantasy,
+illustration,
+medium:digital 2d,
+painting,
+source:furaffinity.net,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarypathways,
+subreddit:imaginaryportals,
+subreddit:imtechnology,
+title:hanging gardens,
+title:hanging gardens by anthony avon,
+title:hanging gardens by anthony avon (x-post from r/imaginaryarchitecture),
+uploader:jorgeamvf,
+uploader:lol33ta,

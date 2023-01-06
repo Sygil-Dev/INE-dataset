@@ -1,33 +1,33 @@
-art
-birds
-category:ine
-concept art
-creator:david tilton
-crying
-david tilton
-davidtilton
-decuria
-design
-digital
-dune
-dust
-exploration
-fantasy
-medium:digital 2d
-mine
-moody
-mountains
-painting
-photoshop
-sand
-sci-fi
-science fiction
-scifi
-smoke
-statue
-subreddit:imaginarymonuments
-subreddit:imarchitecture
-sulfur
-title:decuira: so many tears
-title:decuira: so many tears by david tilton
-uploader:o_no_my_buttholes
+art,
+birds,
+category:ine,
+concept art,
+creator:david tilton,
+crying,
+david tilton,
+davidtilton,
+decuria,
+design,
+digital,
+dune,
+dust,
+exploration,
+fantasy,
+medium:digital 2d,
+mine,
+moody,
+mountains,
+painting,
+photoshop,
+sand,
+sci-fi,
+science fiction,
+scifi,
+smoke,
+statue,
+subreddit:imaginarymonuments,
+subreddit:imarchitecture,
+sulfur,
+title:decuira: so many tears,
+title:decuira: so many tears by david tilton,
+uploader:o_no_my_buttholes,

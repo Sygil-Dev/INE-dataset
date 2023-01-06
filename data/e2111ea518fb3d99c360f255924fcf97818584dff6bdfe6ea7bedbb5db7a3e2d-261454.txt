@@ -1,33 +1,33 @@
-2018
-booru:e621
-category:ine
-clothed
-clothing
-creator:alradeck
-digital media (artwork)
-feral
-hi res
-medium:digital media
-medium:high resolution
-meta:2018
-meta:digital media (artwork)
-meta:hi res
-paws
-rating:safe
-solo
-species:cat
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:mammal
-string
-subreddit:imaginaryanimals
-subreddit:imnature
-title:creature collection: string theory
-title:creature collection: string theory by andrea radeck
-uploader:myrandall
-website:reddit
-whiskers
-yarn
-year:2018
+2018,
+booru:e621,
+category:ine,
+clothed,
+clothing,
+creator:alradeck,
+digital media (artwork),
+feral,
+hi res,
+medium:digital media,
+medium:high resolution,
+meta:2018,
+meta:digital media (artwork),
+meta:hi res,
+paws,
+rating:safe,
+solo,
+species:cat,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+string,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:creature collection: string theory,
+title:creature collection: string theory by andrea radeck,
+uploader:myrandall,
+website:reddit,
+whiskers,
+yarn,
+year:2018,

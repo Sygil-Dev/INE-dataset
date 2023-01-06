@@ -1,56 +1,56 @@
-1 female
-1girl
-artist:mathias leth
-blue eyes
-booru:sankaku
-booru:yande.re
-brown hair
-category:ine
-character:brooke (mathias leth)
-character:brooke (mleth)
-character:dawn
-copyright:original
-creator:mathias leth
-creator:mleth
-dawn
-eclipse
-female
-female only
-gender:female
-landscape
-light smile
-lunar eclipse
-medium:2d
-medium:absurd resolution
-medium:high resolution
-medium:huge filesize
-medium:large filesize
-medium:very high resolution
-meta:absurdres
-meta:commentary
-meta:english commentary
-meta:highres
-meta:huge filesize
-moon
-night
-night sky
-outdoors
-outside
-rating:adult
-rating:mature
-rating:s
-rating:safe
-scarf
-series:original
-sky
-smile
-solo
-star (sky)
-starry sky
-stars
-subreddit:imaginaryhumans
-subreddit:imraces
-title:"brooke of dawn" by mathias leth (mleth)
-title:brooke of dawn
-uploader:torvusil
-upper body
+1 female,
+1girl,
+artist:mathias leth,
+blue eyes,
+booru:sankaku,
+booru:yande.re,
+brown hair,
+category:ine,
+character:brooke (mathias leth),
+character:brooke (mleth),
+character:dawn,
+copyright:original,
+creator:mathias leth,
+creator:mleth,
+dawn,
+eclipse,
+female,
+female only,
+gender:female,
+landscape,
+light smile,
+lunar eclipse,
+medium:2d,
+medium:absurd resolution,
+medium:high resolution,
+medium:huge filesize,
+medium:large filesize,
+medium:very high resolution,
+meta:absurdres,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:huge filesize,
+moon,
+night,
+night sky,
+outdoors,
+outside,
+rating:adult,
+rating:mature,
+rating:s,
+rating:safe,
+scarf,
+series:original,
+sky,
+smile,
+solo,
+star (sky),
+starry sky,
+stars,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:"brooke of dawn" by mathias leth (mleth),
+title:brooke of dawn,
+uploader:torvusil,
+upper body,

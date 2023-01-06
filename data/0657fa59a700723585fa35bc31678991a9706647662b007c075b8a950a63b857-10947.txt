@@ -1,25 +1,25 @@
-1girl
-armor
-black hair
-breastplate
-cape
-category:ine
-full body
-gauntlets
-glowing
-grey background
-holding
-holding sword
-holding weapon
-long hair
-looking at viewer
-rating:safe
-shoulder armor
-solo
-standing
-subreddit:imaginaryaetherpunk
-subreddit:imtechnology
-sword
-title:stalker by daryl mandryk
-uploader:godforesaken
-weapon
+1girl,
+armor,
+black hair,
+breastplate,
+cape,
+category:ine,
+full body,
+gauntlets,
+glowing,
+grey background,
+holding,
+holding sword,
+holding weapon,
+long hair,
+looking at viewer,
+rating:safe,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryaetherpunk,
+subreddit:imtechnology,
+sword,
+title:stalker by daryl mandryk,
+uploader:godforesaken,
+weapon,

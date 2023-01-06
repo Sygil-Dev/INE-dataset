@@ -1,68 +1,68 @@
-ambiguous gender
-armor
-blue eyes
-booru:e621
-category:ine
-character:maokai
-character:maokai (lol)
-character:rek'sai
-character:rek'sai (lol)
-clothing:armor
-creator:zig-word
-creator:zigword
-crossover
-detailed background
-duo
-female
-feral
-friendship
-fur
-gender:ambiguous
-gender:female
-glowing
-glowing eyes
-hair
-jungle
-league
-legend
-litte
-magic
-maokai
-medium:detailed background
-medium:high resolution
-meta:2017
-meta:hi res
-pink body
-pink fur
-plant
-ponification
-pony
-purple eyes
-purple hair
-rating:safe
-reksai
-series:hasbro
-series:league of legends
-series:my little pony
-series:riot games
-species:elemental creature
-species:equid
-species:equine
-species:flora fauna
-species:horse
-species:mammal
-species:pony
-species:treant
-species:xer'sai
-studio:hasbro
-studio:riot games
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"in the jungle" by zig-word
-title:in the jungle
-tongue
-tree
-uploader:torvusil
-video games
-year:2017
-zigword
+ambiguous gender,
+armor,
+blue eyes,
+booru:e621,
+category:ine,
+character:maokai,
+character:maokai (lol),
+character:rek'sai,
+character:rek'sai (lol),
+clothing:armor,
+creator:zig-word,
+creator:zigword,
+crossover,
+detailed background,
+duo,
+female,
+feral,
+friendship,
+fur,
+gender:ambiguous,
+gender:female,
+glowing,
+glowing eyes,
+hair,
+jungle,
+league,
+legend,
+litte,
+magic,
+maokai,
+medium:detailed background,
+medium:high resolution,
+meta:2017,
+meta:hi res,
+pink body,
+pink fur,
+plant,
+ponification,
+pony,
+purple eyes,
+purple hair,
+rating:safe,
+reksai,
+series:hasbro,
+series:league of legends,
+series:my little pony,
+series:riot games,
+species:elemental creature,
+species:equid,
+species:equine,
+species:flora fauna,
+species:horse,
+species:mammal,
+species:pony,
+species:treant,
+species:xer'sai,
+studio:hasbro,
+studio:riot games,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"in the jungle" by zig-word,
+title:in the jungle,
+tongue,
+tree,
+uploader:torvusil,
+video games,
+year:2017,
+zigword,

@@ -1,49 +1,49 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-bone
-canid
-canine
-canis
-category:ine
-creator:cryptid-creations
-domestic dog
-feral
-furry
-gender:ambiguous
-hunting dog
-hybrid
-mammal
-medium:simple background
-medium:white background
-nest
-pterodactylus
-pterosaur
-rating:safe
-reptile
-scalie
-simple background
-simple_background
-solo
-species:canid
-species:canine
-species:canis
-species:dog
-species:domestic dog
-species:domestic_dog
-species:hunting dog
-species:hunting_dog
-species:hybrid
-species:mammal
-species:pterodactylus
-species:pterosaur
-species:reptile
-species:scalie
-species:terrier
-subreddit:imaginaryhybrids
-subreddit:immonsters
-terrier
-title:terrierdactyl by piper thibodeau
-uploader:myrandall
-white background
-white_background
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+bone,
+canid,
+canine,
+canis,
+category:ine,
+creator:cryptid-creations,
+domestic dog,
+feral,
+furry,
+gender:ambiguous,
+hunting dog,
+hybrid,
+mammal,
+medium:simple background,
+medium:white background,
+nest,
+pterodactylus,
+pterosaur,
+rating:safe,
+reptile,
+scalie,
+simple background,
+simple_background,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:dog,
+species:domestic dog,
+species:domestic_dog,
+species:hunting dog,
+species:hunting_dog,
+species:hybrid,
+species:mammal,
+species:pterodactylus,
+species:pterosaur,
+species:reptile,
+species:scalie,
+species:terrier,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+terrier,
+title:terrierdactyl by piper thibodeau,
+uploader:myrandall,
+white background,
+white_background,

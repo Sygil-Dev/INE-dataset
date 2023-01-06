@@ -1,80 +1,80 @@
-2017
-alicorn
-amazing background
-amazing_background
-artist:discordthege
-blue hair
-blue_hair
-booru:e621
-category:ine
-celestia
-character:princess celestia
-character:princess celestia (mlp)
-character:princess_celestia_(mlp)
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:discordthege
-cutie mark
-cutie_mark
-day
-detailed background
-detailed_background
-equine
-feathered wings
-feathered_wings
-feathers
-female
-feral
-fim
-fuji
-gender:female
-genre:fantasy
-green hair
-green_hair
-hair
-horn
-horns
-japan
-medium:16:9 aspect ratio
-medium:amazing background
-medium:detailed background
-medium:high resolution
-meta:16:9
-meta:2017
-meta:hi res
-meta:hi_res
-meta:widescreen
-mlp
-pink eyes
-pink_eyes
-pony
-purple hair
-purple_hair
-rain
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-smile
-sofa
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-species:winged_unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"friday sunset" by borax (discordthege)
-title:friday sunset
-uploader:torvusil
-weekend
-white body
-white feathers
-white_body
-white_feathers
-wings
-year:2017
+2017,
+alicorn,
+amazing background,
+amazing_background,
+artist:discordthege,
+blue hair,
+blue_hair,
+booru:e621,
+category:ine,
+celestia,
+character:princess celestia,
+character:princess celestia (mlp),
+character:princess_celestia_(mlp),
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:discordthege,
+cutie mark,
+cutie_mark,
+day,
+detailed background,
+detailed_background,
+equine,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+feral,
+fim,
+fuji,
+gender:female,
+genre:fantasy,
+green hair,
+green_hair,
+hair,
+horn,
+horns,
+japan,
+medium:16:9 aspect ratio,
+medium:amazing background,
+medium:detailed background,
+medium:high resolution,
+meta:16:9,
+meta:2017,
+meta:hi res,
+meta:hi_res,
+meta:widescreen,
+mlp,
+pink eyes,
+pink_eyes,
+pony,
+purple hair,
+purple_hair,
+rain,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+smile,
+sofa,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+species:winged_unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"friday sunset" by borax (discordthege),
+title:friday sunset,
+uploader:torvusil,
+weekend,
+white body,
+white feathers,
+white_body,
+white_feathers,
+wings,
+year:2017,

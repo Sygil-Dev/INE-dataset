@@ -1,63 +1,63 @@
-2018
-artist:nemo2d
-booru:e621
-category:ine
-character:twilight sparkle
-character:twilight sparkle (mlp)
-character:twilight_sparkle_(mlp)
-commission
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:nemo2d
-day
-detailed background
-detailed_background
-digital media (artwork)
-feathered wings
-feathered_wings
-feathers
-female
-feral
-gender:female
-genre:fantasy
-goldenoaklibrary
-hi res
-horn
-horns
-illustration
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:url
-mlp
-mlpfim
-mlpmylittlepony
-outside
-rating:safe
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-species:winged_unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-text
-title:"golden oak library" by nemo2d
-title:golden oak library
-twilightsparkle
-uploader:caligari87
-wings
-year:2018
+2018,
+artist:nemo2d,
+booru:e621,
+category:ine,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+character:twilight_sparkle_(mlp),
+commission,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:nemo2d,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+feathered wings,
+feathered_wings,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+goldenoaklibrary,
+hi res,
+horn,
+horns,
+illustration,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:url,
+mlp,
+mlpfim,
+mlpmylittlepony,
+outside,
+rating:safe,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+species:winged_unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+text,
+title:"golden oak library" by nemo2d,
+title:golden oak library,
+twilightsparkle,
+uploader:caligari87,
+wings,
+year:2018,

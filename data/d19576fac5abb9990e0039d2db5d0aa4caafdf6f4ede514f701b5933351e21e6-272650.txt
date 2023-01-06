@@ -1,88 +1,88 @@
-1 female
-1girl
-alternate species
-alternate_species
-animal ears
-bodily fluids
-bodily_fluids
-brown hair
-brown_hair
-cat ears
-category:ine
-character:hermione granger
-character:hermione_granger
-clothing
-clothing:necktie
-clothing:school uniform
-clothing:uniform
-colored sclera
-copyright:harry_potter
-creator:ilya kuvshinov
-creator:ilya_kuvshinov
-creator:kr0npr1nz
-creator:kuvshinov-ilya
-dark
-ears
-female
-garrison cap
-gender:female
-green eyes
-green_eyes
-hair
-harrypotter
-hogwarts school uniform
-indoors
-inside
-kemonomimi mode
-lips
-medium:1:1 aspect ratio
-meta:1:1
-meta:2015
-meta:bust portrait
-meta:photoshop (medium)
-meta:portrait
-necktie
-portrait
-pupils
-rating:safe
-robe
-sad
-school uniform
-school_uniform
-series:harry potter
-series:harry potter: hogwarts mystery
-series:harry_potter
-slit pupils
-slit_pupils
-solo
-source:http://i4.pixiv.net/img-original/img/2015/01/24/16/13/05/48346583 p0.jpg
-species:animal humanoid
-species:animal_humanoid
-species:cat
-species:cat humanoid
-species:cat_humanoid
-species:domestic cat
-species:domestic_cat
-species:felid
-species:felid humanoid
-species:felid_humanoid
-species:feline
-species:feline humanoid
-species:feline_humanoid
-species:felis
-species:humanoid
-species:mammal
-species:mammal humanoid
-species:mammal_humanoid
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-tears
-title:"second year hermione" by ilya kuvshinov
-title:second year hermione
-uniform
-uploader:mysalmonhasfeets
-whiskers
-yellow eyes
-yellow sclera
-yellow_sclera
-ハーマイオニー・グレンジャー
+1 female,
+1girl,
+alternate species,
+alternate_species,
+animal ears,
+bodily fluids,
+bodily_fluids,
+brown hair,
+brown_hair,
+cat ears,
+category:ine,
+character:hermione granger,
+character:hermione_granger,
+clothing,
+clothing:necktie,
+clothing:school uniform,
+clothing:uniform,
+colored sclera,
+copyright:harry_potter,
+creator:ilya kuvshinov,
+creator:ilya_kuvshinov,
+creator:kr0npr1nz,
+creator:kuvshinov-ilya,
+dark,
+ears,
+female,
+garrison cap,
+gender:female,
+green eyes,
+green_eyes,
+hair,
+harrypotter,
+hogwarts school uniform,
+indoors,
+inside,
+kemonomimi mode,
+lips,
+medium:1:1 aspect ratio,
+meta:1:1,
+meta:2015,
+meta:bust portrait,
+meta:photoshop (medium),
+meta:portrait,
+necktie,
+portrait,
+pupils,
+rating:safe,
+robe,
+sad,
+school uniform,
+school_uniform,
+series:harry potter,
+series:harry potter: hogwarts mystery,
+series:harry_potter,
+slit pupils,
+slit_pupils,
+solo,
+source:http://i4.pixiv.net/img-original/img/2015/01/24/16/13/05/48346583 p0.jpg,
+species:animal humanoid,
+species:animal_humanoid,
+species:cat,
+species:cat humanoid,
+species:cat_humanoid,
+species:domestic cat,
+species:domestic_cat,
+species:felid,
+species:felid humanoid,
+species:felid_humanoid,
+species:feline,
+species:feline humanoid,
+species:feline_humanoid,
+species:felis,
+species:humanoid,
+species:mammal,
+species:mammal humanoid,
+species:mammal_humanoid,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+tears,
+title:"second year hermione" by ilya kuvshinov,
+title:second year hermione,
+uniform,
+uploader:mysalmonhasfeets,
+whiskers,
+yellow eyes,
+yellow sclera,
+yellow_sclera,
+ハーマイオニー・グレンジャー,

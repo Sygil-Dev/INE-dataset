@@ -1,49 +1,49 @@
-anthro
-anthropomorphism
-armor
-beak
-booru:e621
-category:ine
-character:captain celaeno (mlp)
-clothing
-clothing:armor
-clothing:hat
-clothing:headwear
-creator:starblaze25
-female
-gender:female
-genre:fantasy
-hat
-headgear
-headwear
-medium:absurd resolution
-medium:high resolution
-melee weapon
-meta:2017
-meta:absurd res
-meta:hi res
-rating:safe
-rope
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony the movie
-series:my little pony: friendship is magic
-series:my little pony: the movie (2017)
-ship
-solo
-species:avian
-species:bird
-species:parrot
-studio:hasbro
-subreddit:imaginarypirates
-subreddit:imcharacters
-sword
-title:captain celaeno
-title:captain celaeno by 'starblaze25'
-uploader:myrandall
-vehicle
-watercraft
-weapon
-year:2017
+anthro,
+anthropomorphism,
+armor,
+beak,
+booru:e621,
+category:ine,
+character:captain celaeno (mlp),
+clothing,
+clothing:armor,
+clothing:hat,
+clothing:headwear,
+creator:starblaze25,
+female,
+gender:female,
+genre:fantasy,
+hat,
+headgear,
+headwear,
+medium:absurd resolution,
+medium:high resolution,
+melee weapon,
+meta:2017,
+meta:absurd res,
+meta:hi res,
+rating:safe,
+rope,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony the movie,
+series:my little pony: friendship is magic,
+series:my little pony: the movie (2017),
+ship,
+solo,
+species:avian,
+species:bird,
+species:parrot,
+studio:hasbro,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+sword,
+title:captain celaeno,
+title:captain celaeno by 'starblaze25',
+uploader:myrandall,
+vehicle,
+watercraft,
+weapon,
+year:2017,

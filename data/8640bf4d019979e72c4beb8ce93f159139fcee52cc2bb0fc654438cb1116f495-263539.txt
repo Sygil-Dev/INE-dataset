@@ -1,27 +1,27 @@
-blue eyes
-booru:wallhaven.cc
-boots
-category:ine
-clothing:boots
-clothing:footwear
-cyborg
-drawing
-face
-firearm
-footwear
-futuristic
-gender:female
-girls with guns
-long hair
-medium:digital media
-medium:text
-numbers
-pink hair
-sergey zabelin
-sitting
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-text
-title:cyber girl. neorun by sergey zabelin
-uploader:hvitserkr
-weapon
+blue eyes,
+booru:wallhaven.cc,
+boots,
+category:ine,
+clothing:boots,
+clothing:footwear,
+cyborg,
+drawing,
+face,
+firearm,
+footwear,
+futuristic,
+gender:female,
+girls with guns,
+long hair,
+medium:digital media,
+medium:text,
+numbers,
+pink hair,
+sergey zabelin,
+sitting,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+text,
+title:cyber girl. neorun by sergey zabelin,
+uploader:hvitserkr,
+weapon,

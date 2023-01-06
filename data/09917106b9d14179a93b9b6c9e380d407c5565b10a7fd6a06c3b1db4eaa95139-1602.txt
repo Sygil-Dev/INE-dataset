@@ -1,27 +1,27 @@
-bridge
-building
-castle
-category:ine
-city
-city lights
-cityscape
-cloud
-cloudy sky
-fantasy
-horizon
-mountain
-ocean
-outdoors
-rating:safe
-river
-scenery
-sky
-subreddit:imaginarybestof
-subreddit:immeta
-sunset
-title:[/r/imaginaryseascapes] storm is coming by danny kundzinsh
-tower
-twilight
-uploader:lol33ta
-water
-watercraft
+bridge,
+building,
+castle,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+fantasy,
+horizon,
+mountain,
+ocean,
+outdoors,
+rating:safe,
+river,
+scenery,
+sky,
+subreddit:imaginarybestof,
+subreddit:immeta,
+sunset,
+title:[/r/imaginaryseascapes] storm is coming by danny kundzinsh,
+tower,
+twilight,
+uploader:lol33ta,
+water,
+watercraft,

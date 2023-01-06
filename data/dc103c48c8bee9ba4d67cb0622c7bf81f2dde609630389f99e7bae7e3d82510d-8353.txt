@@ -1,57 +1,57 @@
-1girl
-aurora (sleeping beauty)
-axsens
-blonde
-blonde hair
-blue eyes
-booru:sankaku
-booru:sankaku channel
-category:ine
-character:aurora (disney)
-character:aurora (sleeping beauty)
-character:sleeping beauty (character)
-creator:axsens
-fairy
-fanart from deviantart
-female
-female only
-gender:female
-high resolution
-long hair
-medium:high resolution
-medium:realistic
-medium:very high resolution
-meta:low quality duplicate
-meta:potential duplicate
-moon
-potential duplicate
-rating:s
-rating:safe
-realistic
-series:disney
-series:sleeping beauty
-series:sleeping beauty (disney)
-site:deviantart
-sky
-sleeping beauty
-sleeping beauty (character)
-sleeping beauty (disney)
-solo
-species:fairy
-species:mythical
-star (sky)
-starry sky
-studio:disney
-subreddit:imaginarydisney
-subreddit:imfandoms
-thigh-highs
-thighhighs
-thorns
-title:fairy tales: sleeping beauty
-title:fairy tales: sleeping beauty by axsens
-uploader:sw4ahl
-very long hair
-white legwear
-white thighhighs
-window
-wings
+1girl,
+aurora (sleeping beauty),
+axsens,
+blonde,
+blonde hair,
+blue eyes,
+booru:sankaku,
+booru:sankaku channel,
+category:ine,
+character:aurora (disney),
+character:aurora (sleeping beauty),
+character:sleeping beauty (character),
+creator:axsens,
+fairy,
+fanart from deviantart,
+female,
+female only,
+gender:female,
+high resolution,
+long hair,
+medium:high resolution,
+medium:realistic,
+medium:very high resolution,
+meta:low quality duplicate,
+meta:potential duplicate,
+moon,
+potential duplicate,
+rating:s,
+rating:safe,
+realistic,
+series:disney,
+series:sleeping beauty,
+series:sleeping beauty (disney),
+site:deviantart,
+sky,
+sleeping beauty,
+sleeping beauty (character),
+sleeping beauty (disney),
+solo,
+species:fairy,
+species:mythical,
+star (sky),
+starry sky,
+studio:disney,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+thigh-highs,
+thighhighs,
+thorns,
+title:fairy tales: sleeping beauty,
+title:fairy tales: sleeping beauty by axsens,
+uploader:sw4ahl,
+very long hair,
+white legwear,
+white thighhighs,
+window,
+wings,

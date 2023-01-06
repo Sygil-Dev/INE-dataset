@@ -1,62 +1,62 @@
-1 female
-1girl
-bare shoulders
-baseball cap
-baseball_cap
-breasts
-category:ine
-clothes around waist
-clothes_around_waist
-clothing:footwear
-clothing:headwear
-creator:kokecit
-cyborg
-dog tags
-dog_tags
-footwear
-gender:female
-grey hair
-hat
-kokecit
-lips
-long hair
-mechanical leg
-mechanical legs
-mechanical_leg
-medium breasts
-medium:simple background
-medium:white background
-meta:commentary request
-meta:photoshop (medium)
-nose
-original
-ponytail
-prosthesis
-prosthetic leg
-prosthetic_leg
-rating:mature
-rating:safe
-rating:sensitive
-realistic
-screwdriver
-series:original
-shoes
-simple background
-single mechanical leg
-single shoe
-single_shoe
-sitting
-sneakers
-solo
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-sweater
-sweater around waist
-sweater_around_waist
-tank top
-tied hair
-title:jill by kokecit (sonny)
-uploader:hvitserkr
-watch
-white background
-wristwatch
+1 female,
+1girl,
+bare shoulders,
+baseball cap,
+baseball_cap,
+breasts,
+category:ine,
+clothes around waist,
+clothes_around_waist,
+clothing:footwear,
+clothing:headwear,
+creator:kokecit,
+cyborg,
+dog tags,
+dog_tags,
+footwear,
+gender:female,
+grey hair,
+hat,
+kokecit,
+lips,
+long hair,
+mechanical leg,
+mechanical legs,
+mechanical_leg,
+medium breasts,
+medium:simple background,
+medium:white background,
+meta:commentary request,
+meta:photoshop (medium),
+nose,
+original,
+ponytail,
+prosthesis,
+prosthetic leg,
+prosthetic_leg,
+rating:mature,
+rating:safe,
+rating:sensitive,
+realistic,
+screwdriver,
+series:original,
+shoes,
+simple background,
+single mechanical leg,
+single shoe,
+single_shoe,
+sitting,
+sneakers,
+solo,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+sweater,
+sweater around waist,
+sweater_around_waist,
+tank top,
+tied hair,
+title:jill by kokecit (sonny),
+uploader:hvitserkr,
+watch,
+white background,
+wristwatch,

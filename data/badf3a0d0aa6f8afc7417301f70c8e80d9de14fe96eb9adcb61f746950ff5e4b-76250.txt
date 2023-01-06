@@ -1,21 +1,21 @@
-1girl
-angel
-angel girl
-belt
-category:ine
-character:angewomon
-creator:magion02
-mask
-rating:general
-series:digimon
-solo
-subreddit:imaginaryangels
-subreddit:imaginaryanime
-subreddit:imfandoms
-subreddit:imraces
-title:"angewomon digimon" by magion02
-title:angewomon digimon
-title:angewomon digimon by magion02
-uploader:obsignate
-uploader:torvusil
-wings
+1girl,
+angel,
+angel girl,
+belt,
+category:ine,
+character:angewomon,
+creator:magion02,
+mask,
+rating:general,
+series:digimon,
+solo,
+subreddit:imaginaryangels,
+subreddit:imaginaryanime,
+subreddit:imfandoms,
+subreddit:imraces,
+title:"angewomon digimon" by magion02,
+title:angewomon digimon,
+title:angewomon digimon by magion02,
+uploader:obsignate,
+uploader:torvusil,
+wings,

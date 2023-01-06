@@ -1,104 +1,104 @@
-4 toes
-2015
-action pose
-action:open mouth
-angry
-armband
-athletic
-barefoot
-battle
-board:/k/
-bodypart:hair
-bodypart:toes
-bodypart:white hair
-bone
-bones
-booru:e621
-cape
-category:ine
-chris dien
-claws
-clothed
-clothing
-clothing:armband
-clothing:armor
-clothing:cape
-clothing:collar
-cloud
-collar
-creator:chris dien
-detailed
-detailed background
-digitigrade
-duel
-duo
-emotion:anger
-fangs
-feet
-fight
-forest
-full moon
-gender:male
-hair
-hammer
-holding object
-holding sword
-holding weapon
-jumping
-male
-medium:detailed background
-medium:digital media
-medium:high resolution
-melee weapon
-meta:2015
-meta:detailed
-meta:digital media (artwork)
-meta:hi res
-meta:tagme
-monster
-moon
-night
-open mouth
-outside
-plant
-polearm
-pose
-rage
-raised arm
-rating:safe
-series:rage
-skull
-small eyes
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:undead
-species:vampire
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-spikes
-stones
-subreddit:imaginarywerewolves
-subreddit:immonsters
-sword
-title:werewolf by chris dien
-toe claws
-toes
-tools
-topless
-tree
-unconvincing armor
-uploader:hvitserkr
-walking
-weapon
-website:e621
-were
-white body
-white hair
-white skin
-year:2015
+4 toes,
+2015,
+action pose,
+action:open mouth,
+angry,
+armband,
+athletic,
+barefoot,
+battle,
+board:/k/,
+bodypart:hair,
+bodypart:toes,
+bodypart:white hair,
+bone,
+bones,
+booru:e621,
+cape,
+category:ine,
+chris dien,
+claws,
+clothed,
+clothing,
+clothing:armband,
+clothing:armor,
+clothing:cape,
+clothing:collar,
+cloud,
+collar,
+creator:chris dien,
+detailed,
+detailed background,
+digitigrade,
+duel,
+duo,
+emotion:anger,
+fangs,
+feet,
+fight,
+forest,
+full moon,
+gender:male,
+hair,
+hammer,
+holding object,
+holding sword,
+holding weapon,
+jumping,
+male,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+melee weapon,
+meta:2015,
+meta:detailed,
+meta:digital media (artwork),
+meta:hi res,
+meta:tagme,
+monster,
+moon,
+night,
+open mouth,
+outside,
+plant,
+polearm,
+pose,
+rage,
+raised arm,
+rating:safe,
+series:rage,
+skull,
+small eyes,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:undead,
+species:vampire,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+spikes,
+stones,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+sword,
+title:werewolf by chris dien,
+toe claws,
+toes,
+tools,
+topless,
+tree,
+unconvincing armor,
+uploader:hvitserkr,
+walking,
+weapon,
+website:e621,
+were,
+white body,
+white hair,
+white skin,
+year:2015,

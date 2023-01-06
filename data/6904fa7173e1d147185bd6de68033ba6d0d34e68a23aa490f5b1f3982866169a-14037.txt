@@ -1,23 +1,23 @@
-2d
-art
-boat
-category:ine
-circle
-concept
-creator:ismail inceoglu
-digital
-environment
-forest
-medium:digital 2d
-mist
-orangecircle
-scenery
-signs
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-swamp
-title:ruined sunday
-title:ruined sunday by ismail inceoglu
-uploader:l-ya
-vehicle
-watercraft
+2d,
+art,
+boat,
+category:ine,
+circle,
+concept,
+creator:ismail inceoglu,
+digital,
+environment,
+forest,
+medium:digital 2d,
+mist,
+orangecircle,
+scenery,
+signs,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+swamp,
+title:ruined sunday,
+title:ruined sunday by ismail inceoglu,
+uploader:l-ya,
+vehicle,
+watercraft,

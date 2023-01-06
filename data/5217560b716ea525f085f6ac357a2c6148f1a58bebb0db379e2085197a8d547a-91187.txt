@@ -1,59 +1,59 @@
-ambiguous gender
-beady eyes
-black eyes
-book
-booru:e621
-category:ine
-clothing:eyewear
-clothing:glasses
-creator:cryptid-creations
-creator:piperdraws
-dictionary
-eyewear
-filename:dp1139_s
-furry
-gender:ambiguous
-gender:male
-green body
-green scales
-male:1
-medium:patreon reward
-medium:simple background
-medium:white background
-meme:humor
-meta:paid reward
-meta:patreon reward
-pun
-rating:safe
-reading
-scales
-simple background
-site:patreon
-site:yiff.party
-solo
-species:animate inanimate
-species:dinosaur
-species:extinct
-species:ornithischian
-species:reptile
-species:scalie
-species:stegosaurian
-species:thyreophoran
-subreddit:imaginarybooks
-subreddit:imaginarydinosaurs
-subreddit:immeta
-subreddit:immonsters
-text
-thesaurus
-title:"thesaurus" by piper thibodeau
-title:daily paint #1139. thesaurus
-title:daily paint #1139. thesaurus by piper thibodeau
-uploader:hvitserkr
-uploader:mysalmonhasfeets
-visual pun
-website:e621
-white background
-year:2015
-yellow body
-yellow scales
-yiff id:457132
+ambiguous gender,
+beady eyes,
+black eyes,
+book,
+booru:e621,
+category:ine,
+clothing:eyewear,
+clothing:glasses,
+creator:cryptid-creations,
+creator:piperdraws,
+dictionary,
+eyewear,
+filename:dp1139_s,
+furry,
+gender:ambiguous,
+gender:male,
+green body,
+green scales,
+male:1,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:paid reward,
+meta:patreon reward,
+pun,
+rating:safe,
+reading,
+scales,
+simple background,
+site:patreon,
+site:yiff.party,
+solo,
+species:animate inanimate,
+species:dinosaur,
+species:extinct,
+species:ornithischian,
+species:reptile,
+species:scalie,
+species:stegosaurian,
+species:thyreophoran,
+subreddit:imaginarybooks,
+subreddit:imaginarydinosaurs,
+subreddit:immeta,
+subreddit:immonsters,
+text,
+thesaurus,
+title:"thesaurus" by piper thibodeau,
+title:daily paint #1139. thesaurus,
+title:daily paint #1139. thesaurus by piper thibodeau,
+uploader:hvitserkr,
+uploader:mysalmonhasfeets,
+visual pun,
+website:e621,
+white background,
+year:2015,
+yellow body,
+yellow scales,
+yiff id:457132,

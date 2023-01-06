@@ -1,55 +1,55 @@
-1 male
-1boy
-2 females
-2girls
-andromeda
-angara
-asari
-assault rifle
-blue skin
-category:ine
-character:jaal ama darav
-character:pelessaria b'sayle
-character:vetra nyx
-creator:kuroi-tsuki
-creator:quirkilicious
-cyclone (mass effect)
-firearm
-gender:female
-gender:male
-genre:science fiction
-green eyes
-grey skin
-grin
-gun
-handgun
-jaal ama darav
-mass effect:andromeda
-masseffect
-masseffectandromeda
-multiple females
-multiple girls
-naladen
-pelessaria b'sayle
-purple skin
-rating:mature
-rating:safe
-rifle
-science fiction
-scouter
-series:mass effect
-series:mass effect: andromeda
-sidewinder (mass effect)
-smile
-sniper rifle
-species:alien
-species:asari
-species:turian
-subreddit:imaginaryaliens
-subreddit:imraces
-title:andromeda
-title:andromeda by drake tsui
-turian
-uploader:myrandall
-vetra nyx
-weapon
+1 male,
+1boy,
+2 females,
+2girls,
+andromeda,
+angara,
+asari,
+assault rifle,
+blue skin,
+category:ine,
+character:jaal ama darav,
+character:pelessaria b'sayle,
+character:vetra nyx,
+creator:kuroi-tsuki,
+creator:quirkilicious,
+cyclone (mass effect),
+firearm,
+gender:female,
+gender:male,
+genre:science fiction,
+green eyes,
+grey skin,
+grin,
+gun,
+handgun,
+jaal ama darav,
+mass effect:andromeda,
+masseffect,
+masseffectandromeda,
+multiple females,
+multiple girls,
+naladen,
+pelessaria b'sayle,
+purple skin,
+rating:mature,
+rating:safe,
+rifle,
+science fiction,
+scouter,
+series:mass effect,
+series:mass effect: andromeda,
+sidewinder (mass effect),
+smile,
+sniper rifle,
+species:alien,
+species:asari,
+species:turian,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+title:andromeda,
+title:andromeda by drake tsui,
+turian,
+uploader:myrandall,
+vetra nyx,
+weapon,

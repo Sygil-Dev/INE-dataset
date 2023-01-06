@@ -1,54 +1,54 @@
-2018
-ambiguous_gender
-anthro
-anthropomorphism
-artist:kenket
-biped
-black_body
-black_fur
-booru:e621
-category:ine
-claws
-copyright:nintendo
-copyright:pokémon
-creator:kenket
-fur
-gender:ambiguous
-medium:traditional media
-meta:2018
-meta:traditional_media_(artwork)
-no pupils
-no_pupils
-open_mouth
-rating:safe
-red_body
-red_fur
-series:nintendo
-series:pokémon
-sharp_teeth
-solo
-source:furaffinity.net
-species:canid
-species:mammal
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:zoroark
-species:zorua
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-teeth
-tf
-title:zoroark
-title:zoroark by tess garman
-tongue
-tongue_out
-transformation
-uploader:myrandall
-video games
-video_games
-white eyes
-white_eyes
-year:2018
+2018,
+ambiguous_gender,
+anthro,
+anthropomorphism,
+artist:kenket,
+biped,
+black_body,
+black_fur,
+booru:e621,
+category:ine,
+claws,
+copyright:nintendo,
+copyright:pokémon,
+creator:kenket,
+fur,
+gender:ambiguous,
+medium:traditional media,
+meta:2018,
+meta:traditional_media_(artwork),
+no pupils,
+no_pupils,
+open_mouth,
+rating:safe,
+red_body,
+red_fur,
+series:nintendo,
+series:pokémon,
+sharp_teeth,
+solo,
+source:furaffinity.net,
+species:canid,
+species:mammal,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:zoroark,
+species:zorua,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+teeth,
+tf,
+title:zoroark,
+title:zoroark by tess garman,
+tongue,
+tongue_out,
+transformation,
+uploader:myrandall,
+video games,
+video_games,
+white eyes,
+white_eyes,
+year:2018,

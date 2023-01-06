@@ -1,35 +1,35 @@
-army
-assault
-category:ine
-cinematic
-creator:peter zoppi
-devgru
-digital camo
-eyes
-goggle
-goggles
-headwear
-helmet
-iris
-medium:digital 3d
-military
-navy
-operator
-pouch
-real
-realism
-realistic
-rifle
-scar
-seal
-skin
-soldier
-sss
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-subsurface
-tactical
-title:devgru
-title:devgru by peter zoppi
-uploader:shixma
-vray
+army,
+assault,
+category:ine,
+cinematic,
+creator:peter zoppi,
+devgru,
+digital camo,
+eyes,
+goggle,
+goggles,
+headwear,
+helmet,
+iris,
+medium:digital 3d,
+military,
+navy,
+operator,
+pouch,
+real,
+realism,
+realistic,
+rifle,
+scar,
+seal,
+skin,
+soldier,
+sss,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+subsurface,
+tactical,
+title:devgru,
+title:devgru by peter zoppi,
+uploader:shixma,
+vray,

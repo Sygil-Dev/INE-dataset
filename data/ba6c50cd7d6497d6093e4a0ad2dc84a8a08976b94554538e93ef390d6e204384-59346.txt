@@ -1,27 +1,27 @@
-boar
-category:ine
-creator:inert-ren
-creator:striderden
-deer
-elf
-elk
-forest
-horns
-inertren
-ram
-source:furaffinity.net
-species:boar
-species:canine
-species:canis
-species:cervine
-species:deer
-species:mammal
-species:wolf
-spirit
-striderden
-subreddit:imaginarybeasts
-subreddit:immonsters
-title:wolf spirit
-title:wolf spirit by rodrigo martins
-uploader:net-diver
-wolf
+boar,
+category:ine,
+creator:inert-ren,
+creator:striderden,
+deer,
+elf,
+elk,
+forest,
+horns,
+inertren,
+ram,
+source:furaffinity.net,
+species:boar,
+species:canine,
+species:canis,
+species:cervine,
+species:deer,
+species:mammal,
+species:wolf,
+spirit,
+striderden,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+title:wolf spirit,
+title:wolf spirit by rodrigo martins,
+uploader:net-diver,
+wolf,

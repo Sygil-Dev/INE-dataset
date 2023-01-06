@@ -1,19 +1,19 @@
-blood
-category:ine
-creator:ala kapustka
-gwent
-medium:digital 2d
-subreddit:imaginarycarnage
-subreddit:imaginaryvampires
-subreddit:imaginarywitcher
-subreddit:imfandoms
-subreddit:immonsters
-subreddit:imnsfw
-thronebreaker
-title:blood by ala kapustka
-title:gwent - blood
-title:gwent - blood by ala kapustka
-uploader:lol33ta
-uploader:tallantas
-vampire
-witcher
+blood,
+category:ine,
+creator:ala kapustka,
+gwent,
+medium:digital 2d,
+subreddit:imaginarycarnage,
+subreddit:imaginaryvampires,
+subreddit:imaginarywitcher,
+subreddit:imfandoms,
+subreddit:immonsters,
+subreddit:imnsfw,
+thronebreaker,
+title:blood by ala kapustka,
+title:gwent - blood,
+title:gwent - blood by ala kapustka,
+uploader:lol33ta,
+uploader:tallantas,
+vampire,
+witcher,

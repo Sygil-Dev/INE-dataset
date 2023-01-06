@@ -1,38 +1,38 @@
-1 male
-american flag
-blood
-bodily fluids
-category:ine
-character:george washington
-contemporary
-creator:sharpwriter
-dual wielding
-epaulettes
-fingerless gloves
-firearm
-gender:male
-gloves
-gun
-handgun
-highres
-holding
-knee pads
-medium:high resolution
-meta:highres
-pistol
-prison clothes
-rating:safe
-signature
-species:undead
-species:zombie
-subreddit:imaginaryhistory
-subreddit:imaginarypolitics
-subreddit:immeta
-title:george washington zombiehunter
-title:george washington zombiehunter - by jason odin heuser
-title:george washington zombiehunter by jason heuser
-uploader:greypo
-uploader:karmicviolence
-weapon
-white hair
-zombie
+1 male,
+american flag,
+blood,
+bodily fluids,
+category:ine,
+character:george washington,
+contemporary,
+creator:sharpwriter,
+dual wielding,
+epaulettes,
+fingerless gloves,
+firearm,
+gender:male,
+gloves,
+gun,
+handgun,
+highres,
+holding,
+knee pads,
+medium:high resolution,
+meta:highres,
+pistol,
+prison clothes,
+rating:safe,
+signature,
+species:undead,
+species:zombie,
+subreddit:imaginaryhistory,
+subreddit:imaginarypolitics,
+subreddit:immeta,
+title:george washington zombiehunter,
+title:george washington zombiehunter - by jason odin heuser,
+title:george washington zombiehunter by jason heuser,
+uploader:greypo,
+uploader:karmicviolence,
+weapon,
+white hair,
+zombie,

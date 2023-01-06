@@ -1,52 +1,52 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-autumn
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-category:ine
-creator:cryptid-creations
-creator:piperdraws
-feral
-filename:dp1053_s
-furry
-gender:ambiguous
-green body
-green scales
-green_body
-green_scales
-leaf
-leaf pile
-leaf_pile
-medium:patreon reward
-medium:simple background
-medium:white background
-meta:paid reward
-meta:patreon reward
-pool:17805
-rating:safe
-scales
-scarf
-simple background
-simple_background
-site:patreon
-site:yiff.party
-smile
-solo
-species:apatosaurus
-species:dinosaur
-species:diplodocid
-species:extinct
-species:reptile
-species:sauropod
-species:scalie
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-title:daily paint #1053. autumn dinos - apatosaurus
-title:daily paint #1053. autumn dinos - apatosaurus by piper thibodeau
-uploader:hvitserkr
-white background
-white_background
-yiff id:457132
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+autumn,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+category:ine,
+creator:cryptid-creations,
+creator:piperdraws,
+feral,
+filename:dp1053_s,
+furry,
+gender:ambiguous,
+green body,
+green scales,
+green_body,
+green_scales,
+leaf,
+leaf pile,
+leaf_pile,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meta:paid reward,
+meta:patreon reward,
+pool:17805,
+rating:safe,
+scales,
+scarf,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+smile,
+solo,
+species:apatosaurus,
+species:dinosaur,
+species:diplodocid,
+species:extinct,
+species:reptile,
+species:sauropod,
+species:scalie,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+title:daily paint #1053. autumn dinos - apatosaurus,
+title:daily paint #1053. autumn dinos - apatosaurus by piper thibodeau,
+uploader:hvitserkr,
+white background,
+white_background,
+yiff id:457132,

@@ -1,70 +1,70 @@
-2018
-ambiguous gender
-anthro
-artist:kenket
-black body
-black eyes
-black fur
-blue body
-blue fur
-bone
-bone rush
-bonecharge
-booru:e621
-canine
-category:ine
-character:lucario
-colored sclera
-creator:kenket
-front view
-fur
-gen 4 pokemon
-gender:ambiguous
-glow
-glowing
-ketsketch
-lucario
-lucariofanart
-lucariopokemon
-medium:traditional media
-meta:2018
-meta:commentary
-meta:english commentary
-meta:traditional media (artwork)
-multicolored body
-multicolored fur
-no humans
-piolu
-pokemon (creature)
-pokémon move
-rating:mature
-rating:safe
-red eyes
-red sclera
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokémon
-solo
-source type:game
-source:furaffinity.net
-species:canid
-species:canine
-species:lucario
-species:mammal
-species:monster
-species:pokémon
-species:pokémon (species)
-spikes
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:bone rush
-title:lucario
-title:lucario by tess garman
-uploader:myrandall
-video games
-year:2018
-yellow body
-yellow fur
+2018,
+ambiguous gender,
+anthro,
+artist:kenket,
+black body,
+black eyes,
+black fur,
+blue body,
+blue fur,
+bone,
+bone rush,
+bonecharge,
+booru:e621,
+canine,
+category:ine,
+character:lucario,
+colored sclera,
+creator:kenket,
+front view,
+fur,
+gen 4 pokemon,
+gender:ambiguous,
+glow,
+glowing,
+ketsketch,
+lucario,
+lucariofanart,
+lucariopokemon,
+medium:traditional media,
+meta:2018,
+meta:commentary,
+meta:english commentary,
+meta:traditional media (artwork),
+multicolored body,
+multicolored fur,
+no humans,
+piolu,
+pokemon (creature),
+pokémon move,
+rating:mature,
+rating:safe,
+red eyes,
+red sclera,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+solo,
+source type:game,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:lucario,
+species:mammal,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+spikes,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:bone rush,
+title:lucario,
+title:lucario by tess garman,
+uploader:myrandall,
+video games,
+year:2018,
+yellow body,
+yellow fur,

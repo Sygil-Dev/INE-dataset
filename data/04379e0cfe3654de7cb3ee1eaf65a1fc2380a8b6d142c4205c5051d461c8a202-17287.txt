@@ -1,25 +1,25 @@
-armor
-beach
-cape
-category:ine
-desert
-full armor
-full body
-gauntlets
-greaves
-helmet
-holding
-holding sword
-holding weapon
-knight
-rating:safe
-sand
-solo
-standing
-subreddit:imaginaryknights
-subreddit:imcharacters
-sword
-title:the knights 9 (10) by kekai kotaki
-uploader:godforesaken
-weapon
-yellow sky
+armor,
+beach,
+cape,
+category:ine,
+desert,
+full armor,
+full body,
+gauntlets,
+greaves,
+helmet,
+holding,
+holding sword,
+holding weapon,
+knight,
+rating:safe,
+sand,
+solo,
+standing,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+sword,
+title:the knights 9 (10) by kekai kotaki,
+uploader:godforesaken,
+weapon,
+yellow sky,

@@ -1,58 +1,58 @@
-2016
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-bodypart:black eyes
-brown body
-brown scales
-brown_body
-brown_scales
-category:ine
-claws
-compass
-creator:cryptid-creations
-feral
-furry
-gender:ambiguous
-gender:male
-grass
-humor
-male:1
-map
-medium:simple background
-medium:white background
-meme:humor
-meta:2016
-meta:english text
-meta:english_text
-meta:white background
-plant
-pond
-pun
-rating:safe
-scales
-simple background
-simple_background
-solo
-species:map turtle
-species:map_turtle
-species:reptile
-species:scalie
-species:turtle
-subreddit:imaginaryturtleworlds
-subreddit:immeta
-swimming
-tan body
-tan scales
-tan_body
-tan_scales
-text
-title:day 1416. map turtle
-title:map turtle by piper thibodeau
-uploader:lol33ta
-visual pun
-visual_pun
-water
-white_background
-year:2016
+2016,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+brown body,
+brown scales,
+brown_body,
+brown_scales,
+category:ine,
+claws,
+compass,
+creator:cryptid-creations,
+feral,
+furry,
+gender:ambiguous,
+gender:male,
+grass,
+humor,
+male:1,
+map,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:english_text,
+meta:white background,
+plant,
+pond,
+pun,
+rating:safe,
+scales,
+simple background,
+simple_background,
+solo,
+species:map turtle,
+species:map_turtle,
+species:reptile,
+species:scalie,
+species:turtle,
+subreddit:imaginaryturtleworlds,
+subreddit:immeta,
+swimming,
+tan body,
+tan scales,
+tan_body,
+tan_scales,
+text,
+title:day 1416. map turtle,
+title:map turtle by piper thibodeau,
+uploader:lol33ta,
+visual pun,
+visual_pun,
+water,
+white_background,
+year:2016,

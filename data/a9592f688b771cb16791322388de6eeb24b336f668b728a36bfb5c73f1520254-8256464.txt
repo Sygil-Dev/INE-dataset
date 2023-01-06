@@ -1,68 +1,68 @@
-2017
-black hair
-book
-booru:e621
-category:ine
-character:midnight sparkle (eg)
-character:twilight sparkle
-creator:yakovlev-vad
-cutie mark
-equine
-evil
-feathered wings
-feathers
-female
-feral
-fire
-flying
-gender:female
-genre:fantasy
-grin
-hair
-horn
-horns
-magic
-mask
-medium:absurd resolution
-medium:high resolution
-meta:2017
-meta:hi res
-multicolored hair
-outside
-pink hair
-purple body
-purple eyes
-purple feathers
-purple hair
-rating:safe
-ruins
-series:equestria girls
-series:friendship is magic
-series:hasbro
-series:mlp:equestria girls
-series:mlp:generation 4
-series:my little pony
-series:my little pony equestria girls
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sky
-slit pupils
-smile
-solo
-species:alicorn
-species:equid
-species:equine
-species:mammal
-species:pony
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-three color hair
-title:supreme
-title:supreme by yakovlev vadim
-transformation
-unicorn horn
-uploader:sparroew
-wings
-year:2017
+2017,
+black hair,
+book,
+booru:e621,
+category:ine,
+character:midnight sparkle (eg),
+character:twilight sparkle,
+creator:yakovlev-vad,
+cutie mark,
+equine,
+evil,
+feathered wings,
+feathers,
+female,
+feral,
+fire,
+flying,
+gender:female,
+genre:fantasy,
+grin,
+hair,
+horn,
+horns,
+magic,
+mask,
+medium:absurd resolution,
+medium:high resolution,
+meta:2017,
+meta:hi res,
+multicolored hair,
+outside,
+pink hair,
+purple body,
+purple eyes,
+purple feathers,
+purple hair,
+rating:safe,
+ruins,
+series:equestria girls,
+series:friendship is magic,
+series:hasbro,
+series:mlp:equestria girls,
+series:mlp:generation 4,
+series:my little pony,
+series:my little pony equestria girls,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sky,
+slit pupils,
+smile,
+solo,
+species:alicorn,
+species:equid,
+species:equine,
+species:mammal,
+species:pony,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+three color hair,
+title:supreme,
+title:supreme by yakovlev vadim,
+transformation,
+unicorn horn,
+uploader:sparroew,
+wings,
+year:2017,

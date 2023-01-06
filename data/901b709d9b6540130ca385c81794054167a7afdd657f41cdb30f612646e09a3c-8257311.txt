@@ -1,36 +1,36 @@
-10s
-aura
-booru:sankaku
-booru:sankaku channel
-category:ine
-character:denial gundam
-creator:daniel kamarudin
-creator:thedurianart
-creator:thedurrrrian
-denial gundam
-full body
-glowing
-glowing eyes
-gradient
-gradient background
-looking at viewer
-mecha
-medium:gradient background
-medium:simple background
-point of view
-pov
-rating:mature
-rating:s
-rating:safe
-rating:sensitive
-robot
-series:gundam
-series:gundam build fighters
-series:gundam build fighters try
-smoke
-standing
-subreddit:imaginarymechs
-subreddit:imtechnology
-title:denial gundam
-title:denial gundam by thedurrrrian (daniel kamarudin)
-uploader:outlander94
+10s,
+aura,
+booru:sankaku,
+booru:sankaku channel,
+category:ine,
+character:denial gundam,
+creator:daniel kamarudin,
+creator:thedurianart,
+creator:thedurrrrian,
+denial gundam,
+full body,
+glowing,
+glowing eyes,
+gradient,
+gradient background,
+looking at viewer,
+mecha,
+medium:gradient background,
+medium:simple background,
+point of view,
+pov,
+rating:mature,
+rating:s,
+rating:safe,
+rating:sensitive,
+robot,
+series:gundam,
+series:gundam build fighters,
+series:gundam build fighters try,
+smoke,
+standing,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+title:denial gundam,
+title:denial gundam by thedurrrrian (daniel kamarudin),
+uploader:outlander94,

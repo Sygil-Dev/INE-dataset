@@ -1,63 +1,63 @@
-autumn
-bird
-blue eyes
-booru:safebooru
-brown
-brown eyes
-brown theme
-category:ine
-closed eyes
-creator:finni chang
-creator:zimmay
-creature
-fang
-fiery tail
-fire
-food
-gen 1 pokemon
-gen 2 pokemon
-gen 3 pokemon
-gen 4 pokemon
-gen 5 pokemon
-gender:female
-grey eyes
-holding
-looking up
-marshmallow
-mundane utility
-nature
-no humans
-orange (color)
-orange theme
-outdoors
-outside
-pokemon (creature)
-rating:safe
-series:creatures (company)
-series:game freak
-series:pokemon
-series:pokémon
-species:avian
-species:charmander
-species:chikorita
-species:chimchar
-species:cyndaquil
-species:monster
-species:pokemon
-species:pokémon
-species:tepig
-species:torchic
-standing
-stick
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-tail
-tail-tip fire
-title:"the fire starters" by missy pena
-title:the fire starters by missy pena
-tongue
-tongue out
-uploader:lol33ta
-uploader:torvusil
+autumn,
+bird,
+blue eyes,
+booru:safebooru,
+brown,
+brown eyes,
+brown theme,
+category:ine,
+closed eyes,
+creator:finni chang,
+creator:zimmay,
+creature,
+fang,
+fiery tail,
+fire,
+food,
+gen 1 pokemon,
+gen 2 pokemon,
+gen 3 pokemon,
+gen 4 pokemon,
+gen 5 pokemon,
+gender:female,
+grey eyes,
+holding,
+looking up,
+marshmallow,
+mundane utility,
+nature,
+no humans,
+orange (color),
+orange theme,
+outdoors,
+outside,
+pokemon (creature),
+rating:safe,
+series:creatures (company),
+series:game freak,
+series:pokemon,
+series:pokémon,
+species:avian,
+species:charmander,
+species:chikorita,
+species:chimchar,
+species:cyndaquil,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:tepig,
+species:torchic,
+standing,
+stick,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tail,
+tail-tip fire,
+title:"the fire starters" by missy pena,
+title:the fire starters by missy pena,
+tongue,
+tongue out,
+uploader:lol33ta,
+uploader:torvusil,
