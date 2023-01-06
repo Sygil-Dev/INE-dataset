@@ -1,24 +1,24 @@
-art
-category:ine
-creator:sviatoslav gerasimchuk
-digital art
-digital painting
-environment
-fantasy
-landscape
-medium:digital 2d
-medium:digital media
-sci-fi
-subreddit:imaginaryarchitecture
-subreddit:imaginarycastles
-subreddit:imaginarypathways
-subreddit:imaginarywaterfalls
-subreddit:imarchitecture
-subreddit:imlandscapes
-subreddit:imnature
-title:waterfall rock castle
-title:waterfall rock castle by sviatoslav gerasimchuk
-title:waterfall rock castle, by sviatoslav gerasimchuk
-uploader:dr_mrs_them0narch
-uploader:lol33ta
-uploader:sylvyrfyre
+art,
+category:ine,
+creator:sviatoslav gerasimchuk,
+digital art,
+digital painting,
+environment,
+fantasy,
+landscape,
+medium:digital 2d,
+medium:digital media,
+sci-fi,
+subreddit:imaginaryarchitecture,
+subreddit:imaginarycastles,
+subreddit:imaginarypathways,
+subreddit:imaginarywaterfalls,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+subreddit:imnature,
+title:waterfall rock castle,
+title:waterfall rock castle by sviatoslav gerasimchuk,
+title:waterfall rock castle, by sviatoslav gerasimchuk,
+uploader:dr_mrs_them0narch,
+uploader:lol33ta,
+uploader:sylvyrfyre,

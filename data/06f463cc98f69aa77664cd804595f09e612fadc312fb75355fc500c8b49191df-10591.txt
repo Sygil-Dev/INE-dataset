@@ -1,23 +1,23 @@
-battle
-burning
-category:ine
-creator:johnson ting
-desert
-explosion
-fire
-giant
-johnsonting
-medium:digital 2d
-medium:photoshop
-monster
-no humans
-rating:safe
-realistic
-science fiction
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-sunset
-title:downed
-title:downed by johnson ting
-uploader:hvitserkr
-weapon
+battle,
+burning,
+category:ine,
+creator:johnson ting,
+desert,
+explosion,
+fire,
+giant,
+johnsonting,
+medium:digital 2d,
+medium:photoshop,
+monster,
+no humans,
+rating:safe,
+realistic,
+science fiction,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+sunset,
+title:downed,
+title:downed by johnson ting,
+uploader:hvitserkr,
+weapon,

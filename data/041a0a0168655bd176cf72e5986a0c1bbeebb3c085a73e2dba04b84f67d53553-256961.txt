@@ -1,22 +1,22 @@
-2boys
-black hair
-category:ine
-denim
-facial hair
-full body
-hat
-jeans
-multiple boys
-pants
-rating:safe
-shirt
-shoes
-short sleeves
-subreddit:imaginaryfallout
-subreddit:imfandoms
-sunglasses
-title:nick and deacon chattin it up by ambrosine (underneonlights)
-torn clothes
-torn jeans
-torn pants
-uploader:i_burn_cereal
+2boys,
+black hair,
+category:ine,
+denim,
+facial hair,
+full body,
+hat,
+jeans,
+multiple boys,
+pants,
+rating:safe,
+shirt,
+shoes,
+short sleeves,
+subreddit:imaginaryfallout,
+subreddit:imfandoms,
+sunglasses,
+title:nick and deacon chattin it up by ambrosine (underneonlights),
+torn clothes,
+torn jeans,
+torn pants,
+uploader:i_burn_cereal,

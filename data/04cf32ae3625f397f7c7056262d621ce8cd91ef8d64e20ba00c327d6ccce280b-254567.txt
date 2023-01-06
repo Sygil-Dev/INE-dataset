@@ -1,50 +1,50 @@
-1 male
-1boy
-ashes
-black eyes
-black hair
-booru:danbooru
-booru:danbooru-safebooru
-booru:safebooru
-category:ine
-character:jesse mccree
-character:mccree (overwatch)
-chocofing r
-cigar
-clothing:cowboy hat
-clothing:hat
-clothing:headwear
-clothing:torn clothes
-cowboy
-cowboy hat
-creator:chocofing r
-embers
-face
-facial hair
-gender:male
-genre:science fiction
-hat
-headwear
-male focus
-medium:focus on male character
-meta:commentary
-meta:photoshop (medium)
-outdoors
-outside
-parted lips
-rating:safe
-series:overwatch
-shaded face
-silhouette
-smoke
-smoking
-solo
-studio:blizzard entertainment
-subreddit:imaginarycowboys
-subreddit:imcharacters
-sunrise
-title:mccree by chocofing r
-torn clothes
-uploader:lol33ta
-website:reddit
-western
+1 male,
+1boy,
+ashes,
+black eyes,
+black hair,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:safebooru,
+category:ine,
+character:jesse mccree,
+character:mccree (overwatch),
+chocofing r,
+cigar,
+clothing:cowboy hat,
+clothing:hat,
+clothing:headwear,
+clothing:torn clothes,
+cowboy,
+cowboy hat,
+creator:chocofing r,
+embers,
+face,
+facial hair,
+gender:male,
+genre:science fiction,
+hat,
+headwear,
+male focus,
+medium:focus on male character,
+meta:commentary,
+meta:photoshop (medium),
+outdoors,
+outside,
+parted lips,
+rating:safe,
+series:overwatch,
+shaded face,
+silhouette,
+smoke,
+smoking,
+solo,
+studio:blizzard entertainment,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+sunrise,
+title:mccree by chocofing r,
+torn clothes,
+uploader:lol33ta,
+website:reddit,
+western,

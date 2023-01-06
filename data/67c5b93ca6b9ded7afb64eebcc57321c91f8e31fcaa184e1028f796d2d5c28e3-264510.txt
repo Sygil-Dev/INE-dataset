@@ -1,20 +1,20 @@
-cafe
-cat
-category:ine
-comic
-creator:silke kähler
-dining
-french
-illustration
-kitty
-lady
-medium:digital 2d
-paris
-restaurant
-subreddit:imaginarygatherings
-subreddit:imcharacters
-title:café cat
-title:café cat by silke kähler
-uploader:sikahl
-website:reddit
-wine
+cafe,
+cat,
+category:ine,
+comic,
+creator:silke kähler,
+dining,
+french,
+illustration,
+kitty,
+lady,
+medium:digital 2d,
+paris,
+restaurant,
+subreddit:imaginarygatherings,
+subreddit:imcharacters,
+title:café cat,
+title:café cat by silke kähler,
+uploader:sikahl,
+website:reddit,
+wine,

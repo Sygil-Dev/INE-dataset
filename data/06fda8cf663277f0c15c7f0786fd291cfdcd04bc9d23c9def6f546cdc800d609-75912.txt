@@ -1,31 +1,31 @@
-1boy
-animal
-arrow (projectile)
-bow (weapon)
-brown footwear
-brown hair
-category:ine
-day
-field
-grass
-holding
-layered sleeves
-male focus
-mountain
-nature
-on head
-outdoors
-quiver
-rating:safe
-signature
-sky
-solo
-standing
-subreddit:imaginaryanime
-subreddit:imaginaryarchers
-subreddit:imcharacters
-subreddit:imfandoms
-title:to see with eyes unclouded by manuel castanon
-tree
-uploader:valar_m0rghul1s
-weapon
+1boy,
+animal,
+arrow (projectile),
+bow (weapon),
+brown footwear,
+brown hair,
+category:ine,
+day,
+field,
+grass,
+holding,
+layered sleeves,
+male focus,
+mountain,
+nature,
+on head,
+outdoors,
+quiver,
+rating:safe,
+signature,
+sky,
+solo,
+standing,
+subreddit:imaginaryanime,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+subreddit:imfandoms,
+title:to see with eyes unclouded by manuel castanon,
+tree,
+uploader:valar_m0rghul1s,
+weapon,

@@ -1,24 +1,24 @@
-artwork
-blonde hair
-bow
-category:ine
-character:sylvanas windrunner, the banshee queen
-ears
-elven
-fantasy art
-gender:female
-medium:digital media
-pointy ears
-series:warcraft
-series:world of warcraft
-species:elf
-species:high elf
-species:night elf
-stomach
-studio:blizzard entertainment
-subreddit:imaginaryarchers
-subreddit:imcharacters
-title:warbringers: sylvanas by will murai
-uploader:lol33ta
-video games
-world of warcraft:battle for azeroth
+artwork,
+blonde hair,
+bow,
+category:ine,
+character:sylvanas windrunner, the banshee queen,
+ears,
+elven,
+fantasy art,
+gender:female,
+medium:digital media,
+pointy ears,
+series:warcraft,
+series:world of warcraft,
+species:elf,
+species:high elf,
+species:night elf,
+stomach,
+studio:blizzard entertainment,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+title:warbringers: sylvanas by will murai,
+uploader:lol33ta,
+video games,
+world of warcraft:battle for azeroth,

@@ -1,65 +1,65 @@
-2017
-ambiguous_gender
-angry
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-bubble
-category:ine
-chain
-creator:cryptid-creations
-creator:piperdraws
-feral
-filename:dp1818_s
-gem
-gender:ambiguous
-gender:male
-humor
-lock
-male:1
-medium:patreon reward
-medium:simple background
-medium:white background
-meme:humor
-meta:2017
-meta:english text
-meta:english_text
-meta:paid reward
-meta:patreon reward
-meta:url
-meta:white background
-pun
-rating:safe
-sand
-simple background
-simple_background
-site:patreon
-site:yiff.party
-solo
-species:cephalopod
-species:coleoid
-species:marine
-species:mollusc
-species:mollusk
-species:octopodiform
-species:octopus
-subreddit:imaginaryanimals
-subreddit:imnature
-tentacles
-text
-title:1$ patreon pack - daily paint 1818# locktopus
-title:5$ patreon pack - daily paint 1818# locktopus
-title:daily paint 1818# locktopus
-title:locktopus by piper thibodeau
-treasure chest
-treasure_chest
-uploader:myrandall
-visual pun
-visual_pun
-website:reddit
-white_background
-year:2017
-yiff id:457132
+2017,
+ambiguous_gender,
+angry,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+bubble,
+category:ine,
+chain,
+creator:cryptid-creations,
+creator:piperdraws,
+feral,
+filename:dp1818_s,
+gem,
+gender:ambiguous,
+gender:male,
+humor,
+lock,
+male:1,
+medium:patreon reward,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2017,
+meta:english text,
+meta:english_text,
+meta:paid reward,
+meta:patreon reward,
+meta:url,
+meta:white background,
+pun,
+rating:safe,
+sand,
+simple background,
+simple_background,
+site:patreon,
+site:yiff.party,
+solo,
+species:cephalopod,
+species:coleoid,
+species:marine,
+species:mollusc,
+species:mollusk,
+species:octopodiform,
+species:octopus,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+tentacles,
+text,
+title:1$ patreon pack - daily paint 1818# locktopus,
+title:5$ patreon pack - daily paint 1818# locktopus,
+title:daily paint 1818# locktopus,
+title:locktopus by piper thibodeau,
+treasure chest,
+treasure_chest,
+uploader:myrandall,
+visual pun,
+visual_pun,
+website:reddit,
+white_background,
+year:2017,
+yiff id:457132,

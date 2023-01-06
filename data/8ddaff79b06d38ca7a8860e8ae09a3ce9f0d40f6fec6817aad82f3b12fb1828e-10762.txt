@@ -1,67 +1,67 @@
-artist:dao trong le
-category:ine
-character:gym leader
-character:kasumi (pokemon)
-character:mewtwo
-character:misty (pokemon)
-clothing:denim shorts
-clothing:fingerless gloves
-clothing:gloves
-clothing:hair tie
-clothing:legwear
-clothing:shirt
-clothing:shorts
-clothing:suspenders
-clothing:yellow shirt
-creator:dao le trong
-creator:dao trong le
-denim
-denim shorts
-drawing
-fanart
-fingerless gloves
-forest
-gen 1 pokemon
-gloves
-green eyes
-gym leader
-hiding
-legendary pokemon
-medium:high resolution
-meo 2
-meta:highres
-misty
-nature
-orange hair
-pokemon
-pokemon (creature)
-ponytail
-rating:mature
-rating:safe
-rating:sensitive
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (anime)
-series:pokemon (classic anime)
-series:pokémon
-shirt
-shorts
-side ponytail
-species:legendary pokémon
-species:mewtwo
-species:monster
-species:pokemon
-species:pokémon
-studio:creatures (company)
-studio:game freak
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-suspenders
-tied hair
-title:pokemon fanart
-title:pokemon fanart by dao le trong
-uploader:net-diver
-yellow shirt
+artist:dao trong le,
+category:ine,
+character:gym leader,
+character:kasumi (pokemon),
+character:mewtwo,
+character:misty (pokemon),
+clothing:denim shorts,
+clothing:fingerless gloves,
+clothing:gloves,
+clothing:hair tie,
+clothing:legwear,
+clothing:shirt,
+clothing:shorts,
+clothing:suspenders,
+clothing:yellow shirt,
+creator:dao le trong,
+creator:dao trong le,
+denim,
+denim shorts,
+drawing,
+fanart,
+fingerless gloves,
+forest,
+gen 1 pokemon,
+gloves,
+green eyes,
+gym leader,
+hiding,
+legendary pokemon,
+medium:high resolution,
+meo 2,
+meta:highres,
+misty,
+nature,
+orange hair,
+pokemon,
+pokemon (creature),
+ponytail,
+rating:mature,
+rating:safe,
+rating:sensitive,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (anime),
+series:pokemon (classic anime),
+series:pokémon,
+shirt,
+shorts,
+side ponytail,
+species:legendary pokémon,
+species:mewtwo,
+species:monster,
+species:pokemon,
+species:pokémon,
+studio:creatures (company),
+studio:game freak,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+suspenders,
+tied hair,
+title:pokemon fanart,
+title:pokemon fanart by dao le trong,
+uploader:net-diver,
+yellow shirt,

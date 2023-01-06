@@ -1,26 +1,26 @@
-ambiguous gender
-booru:e621
-category:ine
-creator:pechschwinge
-digital media (artwork)
-feral
-fin
-furry
-gender:ambiguous
-medium:digital media
-meta:digital media (artwork)
-rating:safe
-species:cetacean
-species:delphinoid
-species:dolphin
-species:mammal
-species:marine
-species:reptile
-species:scalie
-species:toothed whale
-species:turtle
-subreddit:imaginaryturtleworlds
-subreddit:immeta
-title:gruene hoelle - drachenschildkroete
-title:gruene hoelle - drachenschildkroete by nadine schäkel
-uploader:hvitserkr
+ambiguous gender,
+booru:e621,
+category:ine,
+creator:pechschwinge,
+digital media (artwork),
+feral,
+fin,
+furry,
+gender:ambiguous,
+medium:digital media,
+meta:digital media (artwork),
+rating:safe,
+species:cetacean,
+species:delphinoid,
+species:dolphin,
+species:mammal,
+species:marine,
+species:reptile,
+species:scalie,
+species:toothed whale,
+species:turtle,
+subreddit:imaginaryturtleworlds,
+subreddit:immeta,
+title:gruene hoelle - drachenschildkroete,
+title:gruene hoelle - drachenschildkroete by nadine schäkel,
+uploader:hvitserkr,

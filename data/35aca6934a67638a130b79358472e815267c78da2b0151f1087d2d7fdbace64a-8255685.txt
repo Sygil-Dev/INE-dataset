@@ -1,106 +1,106 @@
-2 males
-2boys
-80s
-arm cannon
-armor
-artrobot9000
-astro delta megazord
-autobot
-battle
-beam
-bodysuit
-cannon
-category:ine
-character:abominus
-character:bruticus
-character:computron
-character:defensor
-character:devastator (transformers)
-character:dragon ranger
-character:green ranger
-character:grimlock
-character:kiba ranger
-character:megazord
-character:menasor
-character:metroplex
-character:omega supreme
-character:rumble (transformers)
-character:slag (transformers)
-character:sludge (transformers)
-character:superion
-character:thunderzords
-character:white ranger
-city
-claws
-clothing:bottomwear
-clothing:gloves
-clothing:topwear
-creator:artrobot9000
-crossover
-daijinryuu
-decepticon
-destruction
-epic
-explosion
-falconzord
-gender:male
-genre:science fiction
-gloves
-headwear
-helmet
-holding
-insignia
-machine
-machinery
-male focus
-mecha
-medium:high resolution
-meta:1980s (style)
-meta:character request
-meta:crossover
-meta:highres
-meta:tagme
-mighty morphin alien rangers
-multiple boys
-multiple males
-ninja megazord
-ninjazords
-oldschool
-open mouth
-power rangers in space
-power rangers:turbo
-power rangers:zeo
-rating:mature
-rating:safe
-rating:sensitive
-retro artstyle
-robot
-science fiction
-series:chouriki sentai ohranger
-series:denji sentai megaranger
-series:gekisou sentai carranger
-series:gosei sentai dairanger
-series:kyouryuu sentai zyuranger
-series:mahou sentai magiranger
-series:mighty morphin power rangers
-series:ninja sentai kakuranger
-series:power rangers
-series:power rangers in space
-series:super sentai
-series:transformers
-serpentera (mighty morphin power rangers)
-serpenterra (mighty morphin power rangers)
-shogunzords
-size difference
-species:robot
-studio:hasbro
-subreddit:imaginarymechs
-subreddit:imtechnology
-sword
-title:power rangers vs transformers by yen nguyen
-title:power rangers vs transformers color
-uploader:godnaruto21
-weapon
-white falcon ninjazord
-white ranger
-zeo megazord
+2 males,
+2boys,
+80s,
+arm cannon,
+armor,
+artrobot9000,
+astro delta megazord,
+autobot,
+battle,
+beam,
+bodysuit,
+cannon,
+category:ine,
+character:abominus,
+character:bruticus,
+character:computron,
+character:defensor,
+character:devastator (transformers),
+character:dragon ranger,
+character:green ranger,
+character:grimlock,
+character:kiba ranger,
+character:megazord,
+character:menasor,
+character:metroplex,
+character:omega supreme,
+character:rumble (transformers),
+character:slag (transformers),
+character:sludge (transformers),
+character:superion,
+character:thunderzords,
+character:white ranger,
+city,
+claws,
+clothing:bottomwear,
+clothing:gloves,
+clothing:topwear,
+creator:artrobot9000,
+crossover,
+daijinryuu,
+decepticon,
+destruction,
+epic,
+explosion,
+falconzord,
+gender:male,
+genre:science fiction,
+gloves,
+headwear,
+helmet,
+holding,
+insignia,
+machine,
+machinery,
+male focus,
+mecha,
+medium:high resolution,
+meta:1980s (style),
+meta:character request,
+meta:crossover,
+meta:highres,
+meta:tagme,
+mighty morphin alien rangers,
+multiple boys,
+multiple males,
+ninja megazord,
+ninjazords,
+oldschool,
+open mouth,
+power rangers in space,
+power rangers:turbo,
+power rangers:zeo,
+rating:mature,
+rating:safe,
+rating:sensitive,
+retro artstyle,
+robot,
+science fiction,
+series:chouriki sentai ohranger,
+series:denji sentai megaranger,
+series:gekisou sentai carranger,
+series:gosei sentai dairanger,
+series:kyouryuu sentai zyuranger,
+series:mahou sentai magiranger,
+series:mighty morphin power rangers,
+series:ninja sentai kakuranger,
+series:power rangers,
+series:power rangers in space,
+series:super sentai,
+series:transformers,
+serpentera (mighty morphin power rangers),
+serpenterra (mighty morphin power rangers),
+shogunzords,
+size difference,
+species:robot,
+studio:hasbro,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+sword,
+title:power rangers vs transformers by yen nguyen,
+title:power rangers vs transformers color,
+uploader:godnaruto21,
+weapon,
+white falcon ninjazord,
+white ranger,
+zeo megazord,

@@ -1,44 +1,44 @@
-1boy
-autumn
-breathing fire
-burning
-campfire
-candle
-cape
-category:ine
-creator:maik beiersdorf
-embers
-explosion
-fiery hair
-fiery wings
-fire
-fireplace
-flame
-flaming sword
-flaming weapon
-mage
-magic
-male focus
-medium:digital 2d
-molten rock
-pyrokinesis
-pyromancer
-rating:safe
-red sky
-red theme
-smoke
-solo
-sorceress
-sparks
-standing
-subreddit:imaginarywizards
-subreddit:imcharacters
-sunset
-tail-tip fire
-title:pyromancer
-title:pyromancer by maik beiersdorf
-torch
-uploader:[deleted]
-uploader:emotionalyak3
-volcano
-witch
+1boy,
+autumn,
+breathing fire,
+burning,
+campfire,
+candle,
+cape,
+category:ine,
+creator:maik beiersdorf,
+embers,
+explosion,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+flame,
+flaming sword,
+flaming weapon,
+mage,
+magic,
+male focus,
+medium:digital 2d,
+molten rock,
+pyrokinesis,
+pyromancer,
+rating:safe,
+red sky,
+red theme,
+smoke,
+solo,
+sorceress,
+sparks,
+standing,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+sunset,
+tail-tip fire,
+title:pyromancer,
+title:pyromancer by maik beiersdorf,
+torch,
+uploader:[deleted],
+uploader:emotionalyak3,
+volcano,
+witch,

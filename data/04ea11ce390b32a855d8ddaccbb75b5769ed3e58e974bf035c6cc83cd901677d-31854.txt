@@ -1,26 +1,26 @@
-alex
-category:ine
-creator:abiogenisis
-fiction
-helmet
-logo
-mecha
-pilot
-pilot suit
-power armor
-rating:safe
-realistic
-retro artstyle
-ries
-robot
-robotics
-science
-science fiction
-scifi
-solo
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-super robot
-title:futurebot
-title:futurebot by alex ries
-uploader:myrandall
+alex,
+category:ine,
+creator:abiogenisis,
+fiction,
+helmet,
+logo,
+mecha,
+pilot,
+pilot suit,
+power armor,
+rating:safe,
+realistic,
+retro artstyle,
+ries,
+robot,
+robotics,
+science,
+science fiction,
+scifi,
+solo,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+super robot,
+title:futurebot,
+title:futurebot by alex ries,
+uploader:myrandall,

@@ -1,18 +1,18 @@
-bluepigart
-category:ine
-creator:santiago varela bluepigart
-digital
-drawing
-fanart
-fantasy
-fantasy art
-illustration card
-medium:digital 2d
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-title:tyrande
-title:tyrande by bluepigart
-tyrande
-uploader:bluepigart
-world of warcraft
-wow
+bluepigart,
+category:ine,
+creator:santiago varela bluepigart,
+digital,
+drawing,
+fanart,
+fantasy,
+fantasy art,
+illustration card,
+medium:digital 2d,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+title:tyrande,
+title:tyrande by bluepigart,
+tyrande,
+uploader:bluepigart,
+world of warcraft,
+wow,

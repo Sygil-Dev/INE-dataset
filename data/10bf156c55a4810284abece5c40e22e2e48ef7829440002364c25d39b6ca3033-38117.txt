@@ -1,41 +1,41 @@
-aircraft
-airplane
-booru:e621
-category:ine
-claws
-cloud
-creator:mechagen
-day
-detailed background
-feral
-furry
-jet
-machine
-medium:detailed background
-mountain
-not furry
-outside
-rating:safe
-river
-sky
-solo
-species:dire aircraft
-species:dire machine
-species:dragon
-species:feral aircraft
-species:living aircraft
-species:living machine
-species:living vehicle
-species:mythical
-species:scalie
-subreddit:imaginarydinosaurs
-subreddit:imaginaryrobotics
-subreddit:immonsters
-subreddit:imtechnology
-title:ancient bird
-title:ancient bird by alex/'mechagen'
-tree
-uploader:myrandall
-vehicle
-water
-wings
+aircraft,
+airplane,
+booru:e621,
+category:ine,
+claws,
+cloud,
+creator:mechagen,
+day,
+detailed background,
+feral,
+furry,
+jet,
+machine,
+medium:detailed background,
+mountain,
+not furry,
+outside,
+rating:safe,
+river,
+sky,
+solo,
+species:dire aircraft,
+species:dire machine,
+species:dragon,
+species:feral aircraft,
+species:living aircraft,
+species:living machine,
+species:living vehicle,
+species:mythical,
+species:scalie,
+subreddit:imaginarydinosaurs,
+subreddit:imaginaryrobotics,
+subreddit:immonsters,
+subreddit:imtechnology,
+title:ancient bird,
+title:ancient bird by alex/'mechagen',
+tree,
+uploader:myrandall,
+vehicle,
+water,
+wings,

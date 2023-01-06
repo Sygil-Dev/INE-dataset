@@ -1,31 +1,31 @@
-1boy
-black cape
-black hair
-book
-cape
-category:ine
-cloak
-gloves
-holding
-holding book
-jewelry
-male focus
-open book
-rating:safe
-reading
-simple background
-solo
-standing
-subreddit:imaginaryladyboners
-subreddit:imaginaryscholars
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imnsfw
-title:royal researcher by woong seok kim
-title:royal researcher, by woong seok kim on artstation
-uploader:[deleted]
-uploader:deluded_fruitcake
-uploader:emotionalyak3
-uploader:myrandall
-website:reddit
-white background
+1boy,
+black cape,
+black hair,
+book,
+cape,
+category:ine,
+cloak,
+gloves,
+holding,
+holding book,
+jewelry,
+male focus,
+open book,
+rating:safe,
+reading,
+simple background,
+solo,
+standing,
+subreddit:imaginaryladyboners,
+subreddit:imaginaryscholars,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imnsfw,
+title:royal researcher by woong seok kim,
+title:royal researcher, by woong seok kim on artstation,
+uploader:[deleted],
+uploader:deluded_fruitcake,
+uploader:emotionalyak3,
+uploader:myrandall,
+website:reddit,
+white background,

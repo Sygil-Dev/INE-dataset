@@ -1,25 +1,25 @@
-aircraft
-airplane
-battle
-category:ine
-creator:glennclovis
-explosion
-fake screenshot
-lens flare
-letterboxed
-military
-ocean
-planet
-rating:safe
-science fiction
-space
-space craft
-star (sky)
-subreddit:imaginaryscience
-subreddit:imtechnology
-sun
-sunset
-title:pinnacle station
-title:pinnacle station - by glenn clovis
-twitter username
-uploader:lntrinsic
+aircraft,
+airplane,
+battle,
+category:ine,
+creator:glennclovis,
+explosion,
+fake screenshot,
+lens flare,
+letterboxed,
+military,
+ocean,
+planet,
+rating:safe,
+science fiction,
+space,
+space craft,
+star (sky),
+subreddit:imaginaryscience,
+subreddit:imtechnology,
+sun,
+sunset,
+title:pinnacle station,
+title:pinnacle station - by glenn clovis,
+twitter username,
+uploader:lntrinsic,

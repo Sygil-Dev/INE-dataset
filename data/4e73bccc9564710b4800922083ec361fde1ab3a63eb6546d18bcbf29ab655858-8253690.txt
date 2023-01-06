@@ -1,35 +1,35 @@
-2018
-ambiguous gender
-booru:e621
-category:ine
-city wall
-creator:shamanguli
-fire
-gate
-gender:ambiguous
-group
-hi res
-medium:digital media
-medium:high resolution
-meta:2018
-meta:digital media (artwork)
-meta:hi res
-mountain
-rating:safe
-sculpture
-series:hasbro
-series:my little pony
-species:bovid
-species:bovine
-species:mammal
-species:yak
-statue
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"gates of yakyakistan" by shamanguli
-title:gates of yakyakistan
-uploader:torvusil
-wall (disambiguation)
-yakyakistan
-year:2018
+2018,
+ambiguous gender,
+booru:e621,
+category:ine,
+city wall,
+creator:shamanguli,
+fire,
+gate,
+gender:ambiguous,
+group,
+hi res,
+medium:digital media,
+medium:high resolution,
+meta:2018,
+meta:digital media (artwork),
+meta:hi res,
+mountain,
+rating:safe,
+sculpture,
+series:hasbro,
+series:my little pony,
+species:bovid,
+species:bovine,
+species:mammal,
+species:yak,
+statue,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"gates of yakyakistan" by shamanguli,
+title:gates of yakyakistan,
+uploader:torvusil,
+wall (disambiguation),
+yakyakistan,
+year:2018,

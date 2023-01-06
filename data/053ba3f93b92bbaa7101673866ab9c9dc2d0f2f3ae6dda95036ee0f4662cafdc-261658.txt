@@ -1,24 +1,24 @@
-bush
-category:ine
-day
-fantasy
-forest
-grass
-lake
-landscape
-mountain
-nature
-no humans
-outdoors
-path
-rating:safe
-river
-scenery
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:home sweet home by michael douglas
-tree
-uploader:[deleted]
-uploader:owntheknight
-water
-waterfall
+bush,
+category:ine,
+day,
+fantasy,
+forest,
+grass,
+lake,
+landscape,
+mountain,
+nature,
+no humans,
+outdoors,
+path,
+rating:safe,
+river,
+scenery,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:home sweet home by michael douglas,
+tree,
+uploader:[deleted],
+uploader:owntheknight,
+water,
+waterfall,

@@ -1,22 +1,22 @@
-1 female
-arm cannon
-armor
-battle
-beam
-category:ine
-character:mother brain
-character:samus aran
-creator:adam vehige
-gender:female
-horns
-monster
-power armor
-series:metroid
-series:nintendo
-single eye
-studio:nintendo
-subreddit:imaginaryaliens
-subreddit:imraces
-title:samus vs. motherbrain by vegasmike/adam vehige
-uploader:chalkchick0
-weapon
+1 female,
+arm cannon,
+armor,
+battle,
+beam,
+category:ine,
+character:mother brain,
+character:samus aran,
+creator:adam vehige,
+gender:female,
+horns,
+monster,
+power armor,
+series:metroid,
+series:nintendo,
+single eye,
+studio:nintendo,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+title:samus vs. motherbrain by vegasmike/adam vehige,
+uploader:chalkchick0,
+weapon,

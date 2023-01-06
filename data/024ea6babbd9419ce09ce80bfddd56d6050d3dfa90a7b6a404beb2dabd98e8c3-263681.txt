@@ -1,25 +1,25 @@
-animal
-architecture
-bird
-bridge
-building
-castle
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-day
-fantasy
-flock
-mountain
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:autumn town by zhang huiyi
-tower
-tree
-uploader:lol33ta
+animal,
+architecture,
+bird,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+day,
+fantasy,
+flock,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:autumn town by zhang huiyi,
+tower,
+tree,
+uploader:lol33ta,

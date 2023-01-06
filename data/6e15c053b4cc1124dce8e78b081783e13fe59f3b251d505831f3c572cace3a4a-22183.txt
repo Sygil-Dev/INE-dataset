@@ -1,23 +1,23 @@
-artofinca
-category:ine
-creator:alexander nanitchkov
-dark elf
-dominion
-elf
-fantasy
-girl
-guardian
-illustration
-magic
-medium:digital 2d
-power
-species:elf
-subreddit:imaginaryelves
-subreddit:imaginarynobles
-subreddit:imaginarywitches
-subreddit:imcharacters
-subreddit:imraces
-throne
-title:dreyla, ruthless opressor
-title:dreyla, ruthless opressor by alexander nanitchkov
-uploader:net-diver
+artofinca,
+category:ine,
+creator:alexander nanitchkov,
+dark elf,
+dominion,
+elf,
+fantasy,
+girl,
+guardian,
+illustration,
+magic,
+medium:digital 2d,
+power,
+species:elf,
+subreddit:imaginaryelves,
+subreddit:imaginarynobles,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+subreddit:imraces,
+throne,
+title:dreyla, ruthless opressor,
+title:dreyla, ruthless opressor by alexander nanitchkov,
+uploader:net-diver,

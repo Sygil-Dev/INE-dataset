@@ -1,34 +1,34 @@
-aircraft
-artist name
-category:ine
-cloud
-cloudy sky
-dusk
-evening
-field
-fire
-grass
-ground vehicle
-helicopter
-military
-military vehicle
-motor vehicle
-mountain
-no humans
-orange sky
-outdoors
-rating:safe
-realistic
-red sky
-sky
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-sun
-sunset
-tank
-tank focus
-title:battering ram, by david demaret
-tree
-twilight
-uploader:crowe410
-vehicle focus
+aircraft,
+artist name,
+category:ine,
+cloud,
+cloudy sky,
+dusk,
+evening,
+field,
+fire,
+grass,
+ground vehicle,
+helicopter,
+military,
+military vehicle,
+motor vehicle,
+mountain,
+no humans,
+orange sky,
+outdoors,
+rating:safe,
+realistic,
+red sky,
+sky,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+sun,
+sunset,
+tank,
+tank focus,
+title:battering ram, by david demaret,
+tree,
+twilight,
+uploader:crowe410,
+vehicle focus,

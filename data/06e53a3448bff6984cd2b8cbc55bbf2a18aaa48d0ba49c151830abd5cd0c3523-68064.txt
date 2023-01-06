@@ -1,25 +1,25 @@
-category:ine
-cloud
-copyright name
-creator:ourlak
-monster
-mountain
-outdoors
-rating:safe
-scenery
-signature
-sky
-snow
-subreddit:imaginarytrolls
-subreddit:imaginaryvillages
-subreddit:imaginarywinterscapes
-subreddit:imarchitecture
-subreddit:imlandscapes
-subreddit:imraces
-title:troll
-title:troll by tierno beauregard
-title:troll giant by tierno beauregard
-tree
-uploader:[deleted]
-uploader:ethan_kahn
-uploader:valar_m0rghul1s
+category:ine,
+cloud,
+copyright name,
+creator:ourlak,
+monster,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+signature,
+sky,
+snow,
+subreddit:imaginarytrolls,
+subreddit:imaginaryvillages,
+subreddit:imaginarywinterscapes,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+subreddit:imraces,
+title:troll,
+title:troll by tierno beauregard,
+title:troll giant by tierno beauregard,
+tree,
+uploader:[deleted],
+uploader:ethan_kahn,
+uploader:valar_m0rghul1s,

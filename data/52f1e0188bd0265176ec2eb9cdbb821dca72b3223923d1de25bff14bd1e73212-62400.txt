@@ -1,45 +1,45 @@
-2018
-black scales
-booru:e621
-category:ine
-character:angelfonds
-character:tyr thorn
-cloud
-creator:red-izak
-flying
-fur
-furry
-gender:female
-gender:male
-horns
-insect wings
-invalid tag
-jewelry
-kiss
-landscape
-love
-medium:detailed background
-medium:digital media
-medium:high resolution
-membranous wings
-rating:safe
-romantic
-scales
-source:furaffinity.net
-species:dragon
-species:mythical
-species:scalie
-species:western dragon
-subreddit:imaginarybeasts
-subreddit:imaginarylovers
-subreddit:imcharacters
-subreddit:immonsters
-sunset
-title:"love is in the air" by izabela kaszuba (red-izak)
-title:love is in the air
-title:love is in the air by izabela kaszuba/red-izak (x-post from r/imaginarylovers)
-uploader:jorgeamvf
-uploader:torvusil
-white fur
-wings
-year:2018
+2018,
+black scales,
+booru:e621,
+category:ine,
+character:angelfonds,
+character:tyr thorn,
+cloud,
+creator:red-izak,
+flying,
+fur,
+furry,
+gender:female,
+gender:male,
+horns,
+insect wings,
+invalid tag,
+jewelry,
+kiss,
+landscape,
+love,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+membranous wings,
+rating:safe,
+romantic,
+scales,
+source:furaffinity.net,
+species:dragon,
+species:mythical,
+species:scalie,
+species:western dragon,
+subreddit:imaginarybeasts,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+subreddit:immonsters,
+sunset,
+title:"love is in the air" by izabela kaszuba (red-izak),
+title:love is in the air,
+title:love is in the air by izabela kaszuba/red-izak (x-post from r/imaginarylovers),
+uploader:jorgeamvf,
+uploader:torvusil,
+white fur,
+wings,
+year:2018,

@@ -1,57 +1,57 @@
-artist:arvalis
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:arvalis
-feral
-gen 2 pokemon
-group
-language:english
-medium:absurd resolution
-medium:digital media
-medium:english text
-medium:high resolution
-medium:text
-medium:video game
-meta:2013
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:english text
-meta:english_text
-meta:hi res
-meta:hi_res
-meta:model sheet
-model sheet
-model_sheet
-open mouth
-open_mouth
-rating:safe
-realistic
-series:nintendo
-series:pokémon
-species:croconaw
-species:feraligatr
-species:monster
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:shuckle
-species:surskit
-species:totodile
-standing
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-teeth
-text
-title:"feraligatr" by rj palmer (arvalis)
-title:feraligatr-
-tongue
-uploader:torvusil
-video games
-video_games
-year:2013
+artist:arvalis,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:arvalis,
+feral,
+gen 2 pokemon,
+group,
+language:english,
+medium:absurd resolution,
+medium:digital media,
+medium:english text,
+medium:high resolution,
+medium:text,
+medium:video game,
+meta:2013,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:english text,
+meta:english_text,
+meta:hi res,
+meta:hi_res,
+meta:model sheet,
+model sheet,
+model_sheet,
+open mouth,
+open_mouth,
+rating:safe,
+realistic,
+series:nintendo,
+series:pokémon,
+species:croconaw,
+species:feraligatr,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:shuckle,
+species:surskit,
+species:totodile,
+standing,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+teeth,
+text,
+title:"feraligatr" by rj palmer (arvalis),
+title:feraligatr-,
+tongue,
+uploader:torvusil,
+video games,
+video_games,
+year:2013,

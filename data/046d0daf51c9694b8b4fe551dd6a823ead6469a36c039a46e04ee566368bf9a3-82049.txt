@@ -1,22 +1,22 @@
-1girl
-bird
-cable
-category:ine
-cloud
-cloudy sky
-long hair
-ocean
-outdoors
-power lines
-rating:safe
-river
-ruins
-scenery
-sky
-subreddit:imaginaryvessels
-subreddit:imtechnology
-title:magic the gathering : drowned catacomb by jung park
-uploader:hvitserkr
-utility pole
-very long hair
-water
+1girl,
+bird,
+cable,
+category:ine,
+cloud,
+cloudy sky,
+long hair,
+ocean,
+outdoors,
+power lines,
+rating:safe,
+river,
+ruins,
+scenery,
+sky,
+subreddit:imaginaryvessels,
+subreddit:imtechnology,
+title:magic the gathering : drowned catacomb by jung park,
+uploader:hvitserkr,
+utility pole,
+very long hair,
+water,

@@ -1,21 +1,21 @@
-category:ine
-character
-city
-creator:refiend
-environment
-grass
-hero
-hills
-landscape
-subreddit:imaginaryautumnscapes
-subreddit:imaginaryforests
-subreddit:imaginarytrees
-subreddit:imlandscapes
-subreddit:imnature
-sunset
-title:great oak
-title:great oak by max suleimanov
-trees
-treesforest
-uploader:fireflycities
-uploader:lol33ta
+category:ine,
+character,
+city,
+creator:refiend,
+environment,
+grass,
+hero,
+hills,
+landscape,
+subreddit:imaginaryautumnscapes,
+subreddit:imaginaryforests,
+subreddit:imaginarytrees,
+subreddit:imlandscapes,
+subreddit:imnature,
+sunset,
+title:great oak,
+title:great oak by max suleimanov,
+trees,
+treesforest,
+uploader:fireflycities,
+uploader:lol33ta,

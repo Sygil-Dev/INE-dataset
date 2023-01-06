@@ -1,23 +1,23 @@
-artwork
-building
-category:ine
-creator:robertogatto
-death
-digital
-fantasy art
-forest
-house
-hut
-landscape
-lights
-medium:digital media
-nature
-snow
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-title:son of death
-title:son of death by roberto gatto
-trees
-uploader:fireflycities
-winter
-wood
+artwork,
+building,
+category:ine,
+creator:robertogatto,
+death,
+digital,
+fantasy art,
+forest,
+house,
+hut,
+landscape,
+lights,
+medium:digital media,
+nature,
+snow,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+title:son of death,
+title:son of death by roberto gatto,
+trees,
+uploader:fireflycities,
+winter,
+wood,

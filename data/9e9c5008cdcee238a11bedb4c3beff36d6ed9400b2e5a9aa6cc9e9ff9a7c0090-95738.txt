@@ -1,102 +1,102 @@
-alicorn
-aqua hair
-balloon
-blue sky
-booru:sankaku
-booru:sankaku channel
-brown hair
-building
-canterlot
-castle
-category:ine
-centaur
-centauress
-centaurlestia
-centauroid
-character:princess celestia
-character:twilight sparkle
-chrischan
-city
-clothes
-clothing
-creator:chris chan
-creator:chrischan
-creator:gjschoolart
-creator:gyxycn
-crowd
-crown
-day
-ears
-elf ears
-feathered wings
-feathers
-female
-gender:female
-gender:male
-genre:fantasy
-gjschoolart
-green hair
-grey hair
-group
-horned humanization
-horns
-hot air balloon
-human
-humanized
-jewelry
-large wings
-long hair
-majestic
-male
-medium:high resolution
-monster
-multicolored hair
-pointed ears
-pointy ears
-pony
-ponytaur
-praise the sun
-princess celestia
-princess celestia (eg)
-purple hair
-queen celestia
-rating:s
-rating:safe
-realistic
-realistic anatomy
-regalia
-royal
-safe
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-series:original
-sky
-smile
-spear
-species:alicorn
-species:centaur
-species:equine
-species:human
-species:mammal
-species:mythical
-species:pony
-species:primate
-species:unicorn
-spread wings
-staff
-studio:hasbro
-subreddit:imaginarycentaurs
-subreddit:imaginaryequestria
-subreddit:imfandoms
-subreddit:imraces
-taur
-technically advanced
-title:"half kingdom" by chris chan (gjschoolart)
-title:half kingdom
-twilight sparkle
-unicorn
-uploader:torvusil
-weapon
-winged humanization
-wings
+alicorn,
+aqua hair,
+balloon,
+blue sky,
+booru:sankaku,
+booru:sankaku channel,
+brown hair,
+building,
+canterlot,
+castle,
+category:ine,
+centaur,
+centauress,
+centaurlestia,
+centauroid,
+character:princess celestia,
+character:twilight sparkle,
+chrischan,
+city,
+clothes,
+clothing,
+creator:chris chan,
+creator:chrischan,
+creator:gjschoolart,
+creator:gyxycn,
+crowd,
+crown,
+day,
+ears,
+elf ears,
+feathered wings,
+feathers,
+female,
+gender:female,
+gender:male,
+genre:fantasy,
+gjschoolart,
+green hair,
+grey hair,
+group,
+horned humanization,
+horns,
+hot air balloon,
+human,
+humanized,
+jewelry,
+large wings,
+long hair,
+majestic,
+male,
+medium:high resolution,
+monster,
+multicolored hair,
+pointed ears,
+pointy ears,
+pony,
+ponytaur,
+praise the sun,
+princess celestia,
+princess celestia (eg),
+purple hair,
+queen celestia,
+rating:s,
+rating:safe,
+realistic,
+realistic anatomy,
+regalia,
+royal,
+safe,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+series:original,
+sky,
+smile,
+spear,
+species:alicorn,
+species:centaur,
+species:equine,
+species:human,
+species:mammal,
+species:mythical,
+species:pony,
+species:primate,
+species:unicorn,
+spread wings,
+staff,
+studio:hasbro,
+subreddit:imaginarycentaurs,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+subreddit:imraces,
+taur,
+technically advanced,
+title:"half kingdom" by chris chan (gjschoolart),
+title:half kingdom,
+twilight sparkle,
+unicorn,
+uploader:torvusil,
+weapon,
+winged humanization,
+wings,

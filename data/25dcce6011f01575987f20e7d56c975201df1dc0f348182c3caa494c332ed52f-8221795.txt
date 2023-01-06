@@ -1,60 +1,60 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-avian
-black body
-black eyes
-black feathers
-black_body
-black_eyes
-black_feathers
-canid
-canine
-category:ine
-copyright:mythology
-creator:cryptid-creations
-feathered wings
-feathered_wings
-feathers
-feral
-fox
-gender:ambiguous
-gryphon
-hybrid
-mammal
-medium:simple background
-medium:white background
-monster
-orange body
-orange feathers
-orange_body
-orange_feathers
-rating:safe
-series:mythology
-simple background
-simple_background
-solo
-species:avian
-species:canid
-species:canine
-species:chimera
-species:fox
-species:gryphon
-species:hybrid
-species:mammal
-species:mythical
-species:mythological avian
-species:mythological_avian
-species:red fox
-species:red_fox
-subreddit:imaginaryhybrids
-subreddit:immonsters
-title:hybird #2 by piper thibodeau
-uploader:myrandall
-white background
-white body
-white feathers
-white_background
-white_body
-white_feathers
-wings
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+avian,
+black body,
+black eyes,
+black feathers,
+black_body,
+black_eyes,
+black_feathers,
+canid,
+canine,
+category:ine,
+copyright:mythology,
+creator:cryptid-creations,
+feathered wings,
+feathered_wings,
+feathers,
+feral,
+fox,
+gender:ambiguous,
+gryphon,
+hybrid,
+mammal,
+medium:simple background,
+medium:white background,
+monster,
+orange body,
+orange feathers,
+orange_body,
+orange_feathers,
+rating:safe,
+series:mythology,
+simple background,
+simple_background,
+solo,
+species:avian,
+species:canid,
+species:canine,
+species:chimera,
+species:fox,
+species:gryphon,
+species:hybrid,
+species:mammal,
+species:mythical,
+species:mythological avian,
+species:mythological_avian,
+species:red fox,
+species:red_fox,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+title:hybird #2 by piper thibodeau,
+uploader:myrandall,
+white background,
+white body,
+white feathers,
+white_background,
+white_body,
+white_feathers,
+wings,

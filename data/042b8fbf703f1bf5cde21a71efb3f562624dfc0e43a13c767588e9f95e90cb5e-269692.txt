@@ -1,32 +1,32 @@
-6+boys
-architecture
-brick wall
-bridge
-building
-castle
-category:ine
-chain-link fence
-chimney
-city
-cityscape
-clock tower
-day
-fence
-gate
-gun
-house
-multiple boys
-outdoors
-rating:safe
-rifle
-rooftop
-scenery
-sky
-skyscraper
-street
-subreddit:imaginarywalls
-subreddit:imarchitecture
-title:city gate by leroy steinmann
-tower
-town
-uploader:valar_m0rghul1s
+6+boys,
+architecture,
+brick wall,
+bridge,
+building,
+castle,
+category:ine,
+chain-link fence,
+chimney,
+city,
+cityscape,
+clock tower,
+day,
+fence,
+gate,
+gun,
+house,
+multiple boys,
+outdoors,
+rating:safe,
+rifle,
+rooftop,
+scenery,
+sky,
+skyscraper,
+street,
+subreddit:imaginarywalls,
+subreddit:imarchitecture,
+title:city gate by leroy steinmann,
+tower,
+town,
+uploader:valar_m0rghul1s,

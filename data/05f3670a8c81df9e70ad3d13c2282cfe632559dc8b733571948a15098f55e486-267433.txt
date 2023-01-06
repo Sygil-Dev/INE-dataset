@@ -1,43 +1,43 @@
-1boy
-burning
-campfire
-category:ine
-cliff
-cloud
-cloudy sky
-creator:halil ural
-dusk
-evening
-explosion
-fire
-flame
-gradient sky
-hat
-horizon
-landscape
-male focus
-medium:digital 2d
-molten rock
-mountain
-mountainous horizon
-ocean
-orange sky
-outdoors
-rating:safe
-red sky
-scenery
-sky
-smoke
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-sun
-sunrise
-sunset
-title:distant world
-title:distant world by halil ural
-torch
-twilight
-uploader:saltysolomon
-volcano
-water
-yellow sky
+1boy,
+burning,
+campfire,
+category:ine,
+cliff,
+cloud,
+cloudy sky,
+creator:halil ural,
+dusk,
+evening,
+explosion,
+fire,
+flame,
+gradient sky,
+hat,
+horizon,
+landscape,
+male focus,
+medium:digital 2d,
+molten rock,
+mountain,
+mountainous horizon,
+ocean,
+orange sky,
+outdoors,
+rating:safe,
+red sky,
+scenery,
+sky,
+smoke,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+sun,
+sunrise,
+sunset,
+title:distant world,
+title:distant world by halil ural,
+torch,
+twilight,
+uploader:saltysolomon,
+volcano,
+water,
+yellow sky,

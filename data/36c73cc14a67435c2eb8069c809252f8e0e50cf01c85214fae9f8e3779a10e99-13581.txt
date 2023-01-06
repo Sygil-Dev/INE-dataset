@@ -1,34 +1,34 @@
-ambiguous_gender
-artist:cryptid-creations
-beady eyes
-beady_eyes
-black eyes
-black_eyes
-bodypart:black eyes
-category:ine
-claws
-creator:cryptid-creations
-feral
-gender:ambiguous
-gender:male
-glowing
-humor
-laser
-male:1
-meme:humor
-pedestal
-pun
-rating:safe
-solo
-species:arachnid
-species:arthropod
-species:spider
-spy
-subreddit:imaginaryartifacts
-subreddit:immeta
-title:daily paint 1608. spyder
-title:spyder by piper thibodeau
-treasure
-uploader:myrandall
-visual pun
-visual_pun
+ambiguous_gender,
+artist:cryptid-creations,
+beady eyes,
+beady_eyes,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+category:ine,
+claws,
+creator:cryptid-creations,
+feral,
+gender:ambiguous,
+gender:male,
+glowing,
+humor,
+laser,
+male:1,
+meme:humor,
+pedestal,
+pun,
+rating:safe,
+solo,
+species:arachnid,
+species:arthropod,
+species:spider,
+spy,
+subreddit:imaginaryartifacts,
+subreddit:immeta,
+title:daily paint 1608. spyder,
+title:spyder by piper thibodeau,
+treasure,
+uploader:myrandall,
+visual pun,
+visual_pun,

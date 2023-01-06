@@ -1,22 +1,22 @@
-breathing fire
-burning
-campfire
-category:ine
-cloud
-explosion
-fire
-flame
-molten rock
-nature
-rating:safe
-red sky
-scenery
-sky
-subreddit:imaginarycanyons
-subreddit:imnature
-sunset
-title:collapse by anato finnstark
-torch
-tree
-uploader:drunkindragon
-volcano
+breathing fire,
+burning,
+campfire,
+category:ine,
+cloud,
+explosion,
+fire,
+flame,
+molten rock,
+nature,
+rating:safe,
+red sky,
+scenery,
+sky,
+subreddit:imaginarycanyons,
+subreddit:imnature,
+sunset,
+title:collapse by anato finnstark,
+torch,
+tree,
+uploader:drunkindragon,
+volcano,

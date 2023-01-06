@@ -1,68 +1,68 @@
-all fours
-all_fours
-ambiguous gender
-ambiguous_gender
-anthro
-anthropomorphism
-artist:cryptid-creations
-black eyes
-black_eyes
-blue background
-blue_background
-bodypart:black eyes
-bottomless
-brown body
-brown fur
-brown_body
-brown_fur
-category:ine
-clothed
-clothing
-creator:cryptid-creations
-english text
-fangs
-folder
-fur
-gender:ambiguous
-gender:male
-humor
-language:english
-male:1
-medium:blue background
-medium:english text
-medium:simple background
-medium:text
-meme:humor
-meme:trash
-meta:english text
-meta:english_text
-meta:url
-monster
-pun
-rating:safe
-simple background
-simple_background
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-text
-title:malwarewolf by piper thibodeau
-tongue
-tongue out
-tongue_out
-trash can
-trash_can
-uploader:myrandall
-visual pun
-visual_pun
-whiskers
+all fours,
+all_fours,
+ambiguous gender,
+ambiguous_gender,
+anthro,
+anthropomorphism,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+blue background,
+blue_background,
+bodypart:black eyes,
+bottomless,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+category:ine,
+clothed,
+clothing,
+creator:cryptid-creations,
+english text,
+fangs,
+folder,
+fur,
+gender:ambiguous,
+gender:male,
+humor,
+language:english,
+male:1,
+medium:blue background,
+medium:english text,
+medium:simple background,
+medium:text,
+meme:humor,
+meme:trash,
+meta:english text,
+meta:english_text,
+meta:url,
+monster,
+pun,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+text,
+title:malwarewolf by piper thibodeau,
+tongue,
+tongue out,
+tongue_out,
+trash can,
+trash_can,
+uploader:myrandall,
+visual pun,
+visual_pun,
+whiskers,

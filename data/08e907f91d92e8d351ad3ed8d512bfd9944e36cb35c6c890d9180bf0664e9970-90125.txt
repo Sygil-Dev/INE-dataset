@@ -1,101 +1,101 @@
-ally
-angel
-angelic
-armor
-artist name
-assassin
-berserk
-blades
-blizzard
-canada
-card
-card art
-category:ine
-ccg
-chiloe
-creator:josu hernaiz
-eldrazi
-eldritch
-eldritch abomination
-eldritch moon
-elf
-fantasma
-fantasy
-female
-fire
-frost
-gift
-glowing
-goblin
-gpquebec
-grand prix
-guts
-gutts
-hagra
-healer
-healing
-hearthstone
-hernaiz
-horror
-innistrad
-josu
-josu hernaiz
-josuoh
-knight
-lady
-magic
-magic the gathering
-mecha
-medium:digital 2d
-mermaid
-monster
-moon
-moose
-mtg
-multiple tails
-niblis
-odyssey
-open mouth
-phantom
-pincoya
-playmat
-quebec
-rating:safe
-rider
-serra
-sharpshooter
-sirena
-soldier
-species:canine
-species:canis
-species:elf
-species:mammal
-species:mythical
-species:wolf
-steampunk
-subreddit:imaginaryleviathans
-subreddit:imaginaryworldeaters
-subreddit:immonsters
-sword
-tail
-tcg
-teeth
-tentacles
-terror
-the gathering
-title:cuthulazi
-title:cuthulazi by josu hernaiz
-token
-ulrich
-uploader:o_no_my_buttholes
-uploader:synntara
-veteran
-warleader
-warrior
-weapon
-web address
-werewolf
-white
-woman
-wow
-zodd
+ally,
+angel,
+angelic,
+armor,
+artist name,
+assassin,
+berserk,
+blades,
+blizzard,
+canada,
+card,
+card art,
+category:ine,
+ccg,
+chiloe,
+creator:josu hernaiz,
+eldrazi,
+eldritch,
+eldritch abomination,
+eldritch moon,
+elf,
+fantasma,
+fantasy,
+female,
+fire,
+frost,
+gift,
+glowing,
+goblin,
+gpquebec,
+grand prix,
+guts,
+gutts,
+hagra,
+healer,
+healing,
+hearthstone,
+hernaiz,
+horror,
+innistrad,
+josu,
+josu hernaiz,
+josuoh,
+knight,
+lady,
+magic,
+magic the gathering,
+mecha,
+medium:digital 2d,
+mermaid,
+monster,
+moon,
+moose,
+mtg,
+multiple tails,
+niblis,
+odyssey,
+open mouth,
+phantom,
+pincoya,
+playmat,
+quebec,
+rating:safe,
+rider,
+serra,
+sharpshooter,
+sirena,
+soldier,
+species:canine,
+species:canis,
+species:elf,
+species:mammal,
+species:mythical,
+species:wolf,
+steampunk,
+subreddit:imaginaryleviathans,
+subreddit:imaginaryworldeaters,
+subreddit:immonsters,
+sword,
+tail,
+tcg,
+teeth,
+tentacles,
+terror,
+the gathering,
+title:cuthulazi,
+title:cuthulazi by josu hernaiz,
+token,
+ulrich,
+uploader:o_no_my_buttholes,
+uploader:synntara,
+veteran,
+warleader,
+warrior,
+weapon,
+web address,
+werewolf,
+white,
+woman,
+wow,
+zodd,

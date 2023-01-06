@@ -1,37 +1,37 @@
-2018
-ambiguous gender
-brown eyes
-category:ine
-creator:sandara
-digital media (artwork)
-duo
-feral
-fur
-gender:ambiguous
-green body
-green fur
-in tree
-medium:digital media
-meta:2018
-meta:digital media (artwork)
-moth
-paws
-plant
-rating:safe
-smile
-species:arthropod
-species:beetle
-species:cucujoid
-species:hybrid
-species:insect
-species:ladybug
-species:mammal
-squirrel
-subreddit:imaginarybeasts
-subreddit:immonsters
-title:fluffy
-title:fluffy by sandara tang
-tree
-uploader:net-diver
-whiskers
-year:2018
+2018,
+ambiguous gender,
+brown eyes,
+category:ine,
+creator:sandara,
+digital media (artwork),
+duo,
+feral,
+fur,
+gender:ambiguous,
+green body,
+green fur,
+in tree,
+medium:digital media,
+meta:2018,
+meta:digital media (artwork),
+moth,
+paws,
+plant,
+rating:safe,
+smile,
+species:arthropod,
+species:beetle,
+species:cucujoid,
+species:hybrid,
+species:insect,
+species:ladybug,
+species:mammal,
+squirrel,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+title:fluffy,
+title:fluffy by sandara tang,
+tree,
+uploader:net-diver,
+whiskers,
+year:2018,

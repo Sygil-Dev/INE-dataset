@@ -1,31 +1,31 @@
-beach
-blue sky
-building
-category:ine
-city
-cloud
-cloudy sky
-copyright name
-creator:joakim stigsson
-day
-evening
-gradient sky
-horizon
-landscape
-medium:digital 3d
-mountain
-mountainous horizon
-no humans
-ocean
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarydeserts
-subreddit:imnature
-sunset
-title:battlefield 1: sinai desert
-title:battlefield 1: sinai desert by joakim stigsson
-twilight
-uploader:syndrel
-water
+beach,
+blue sky,
+building,
+category:ine,
+city,
+cloud,
+cloudy sky,
+copyright name,
+creator:joakim stigsson,
+day,
+evening,
+gradient sky,
+horizon,
+landscape,
+medium:digital 3d,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+sunset,
+title:battlefield 1: sinai desert,
+title:battlefield 1: sinai desert by joakim stigsson,
+twilight,
+uploader:syndrel,
+water,

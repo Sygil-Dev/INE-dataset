@@ -1,26 +1,26 @@
-2d
-art
-artwork
-birds
-category:ine
-clothing:armor
-creature
-fantasy art
-forest
-knight
-medium:concept art
-medium:digital media
-sangyeop park
-species:avian
-species:bird
-species:owl
-subreddit:imaginaryautumnscapes
-subreddit:imaginaryforests
-subreddit:imlandscapes
-subreddit:imnature
-sword
-title:"knights of wisdom" by sangyeob park
-title:knights of wisdom, by sang yeop park
-uploader:pyro_azer
-uploader:sylvyrfyre
-weapon
+2d,
+art,
+artwork,
+birds,
+category:ine,
+clothing:armor,
+creature,
+fantasy art,
+forest,
+knight,
+medium:concept art,
+medium:digital media,
+sangyeop park,
+species:avian,
+species:bird,
+species:owl,
+subreddit:imaginaryautumnscapes,
+subreddit:imaginaryforests,
+subreddit:imlandscapes,
+subreddit:imnature,
+sword,
+title:"knights of wisdom" by sangyeob park,
+title:knights of wisdom, by sang yeop park,
+uploader:pyro_azer,
+uploader:sylvyrfyre,
+weapon,

@@ -1,21 +1,21 @@
-category:ine
-comic artist
-comic book artist
-cover art
-cover artist
-creator:david nakayama
-cyclops
-david nakayama
-dracula
-jean grey
-jubilee
-marvel
-rogue
-storm
-subreddit:imaginarymarvel
-subreddit:imfandoms
-title:storm, bride of dracula by david nakayama
-uploader:lol33ta
-wolverine
-xmen
-xmen 92
+category:ine,
+comic artist,
+comic book artist,
+cover art,
+cover artist,
+creator:david nakayama,
+cyclops,
+david nakayama,
+dracula,
+jean grey,
+jubilee,
+marvel,
+rogue,
+storm,
+subreddit:imaginarymarvel,
+subreddit:imfandoms,
+title:storm, bride of dracula by david nakayama,
+uploader:lol33ta,
+wolverine,
+xmen,
+xmen 92,

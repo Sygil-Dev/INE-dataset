@@ -1,36 +1,36 @@
-ambiguous gender
-booru:e621
-category:ine
-creator:lindseywart
-creator:twodd
-day
-feral
-gender:ambiguous
-outside
-rating:safe
-realistic
-rock
-series:jewish mythology
-series:mythology
-series:nintendo
-series:pokemon
-series:pokémon
-solo
-species:elemental creature
-species:golem
-species:golem (pokémon)
-species:mineral fauna
-species:monster
-species:mythological golem
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:rock creature
-species:scalie
-studio:nintendo
-subreddit:imaginaryelementals
-subreddit:immonsters
-title:golem used rock slide!
-title:golem used rock slide! by lindsey wakefield
-uploader:lol33ta
-video games
+ambiguous gender,
+booru:e621,
+category:ine,
+creator:lindseywart,
+creator:twodd,
+day,
+feral,
+gender:ambiguous,
+outside,
+rating:safe,
+realistic,
+rock,
+series:jewish mythology,
+series:mythology,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+solo,
+species:elemental creature,
+species:golem,
+species:golem (pokémon),
+species:mineral fauna,
+species:monster,
+species:mythological golem,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:rock creature,
+species:scalie,
+studio:nintendo,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+title:golem used rock slide!,
+title:golem used rock slide! by lindsey wakefield,
+uploader:lol33ta,
+video games,

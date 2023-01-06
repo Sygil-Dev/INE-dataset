@@ -1,33 +1,33 @@
-1 female
-1girl
-armor
-bikini armor
-breasts
-cape
-category:ine
-character:sylvanas windrunner
-creator:cj l
-creator:gantzu
-female
-female focus
-female only
-gender:female
-helmet
-long hair
-pauldrons
-rating:safe
-series:warcraft
-shoulder armor
-solo
-solo female
-species:elf
-species:night elf
-species:undead
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-title:sylvanas windrunner
-title:sylvanas windrunner - long live the queen
-title:sylvanas windrunner: world of warcraft
-uploader:ignit3e
-weapon
+1 female,
+1girl,
+armor,
+bikini armor,
+breasts,
+cape,
+category:ine,
+character:sylvanas windrunner,
+creator:cj l,
+creator:gantzu,
+female,
+female focus,
+female only,
+gender:female,
+helmet,
+long hair,
+pauldrons,
+rating:safe,
+series:warcraft,
+shoulder armor,
+solo,
+solo female,
+species:elf,
+species:night elf,
+species:undead,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+title:sylvanas windrunner,
+title:sylvanas windrunner - long live the queen,
+title:sylvanas windrunner: world of warcraft,
+uploader:ignit3e,
+weapon,

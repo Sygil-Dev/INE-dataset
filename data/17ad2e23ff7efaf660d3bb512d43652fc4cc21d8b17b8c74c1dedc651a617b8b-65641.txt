@@ -1,29 +1,29 @@
-booru:e621
-category:ine
-creator:sandara
-detailed background
-duo
-eye contact
-feral
-gender:male
-looking at another
-male
-medium:1:1 aspect ratio
-medium:detailed background
-meta:1:1
-meta:purple theme
-meta:tagme
-mountain
-purple theme
-rating:safe
-species:felid
-species:feline
-species:lion
-species:mammal
-species:pantherine
-subreddit:imaginarylovers
-subreddit:imcharacters
-sunset
-title:lions
-title:lions by sandara tang
-uploader:myrandall
+booru:e621,
+category:ine,
+creator:sandara,
+detailed background,
+duo,
+eye contact,
+feral,
+gender:male,
+looking at another,
+male,
+medium:1:1 aspect ratio,
+medium:detailed background,
+meta:1:1,
+meta:purple theme,
+meta:tagme,
+mountain,
+purple theme,
+rating:safe,
+species:felid,
+species:feline,
+species:lion,
+species:mammal,
+species:pantherine,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+sunset,
+title:lions,
+title:lions by sandara tang,
+uploader:myrandall,

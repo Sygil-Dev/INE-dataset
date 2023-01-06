@@ -1,39 +1,39 @@
-armor
-booru:sankaku channel
-brown hair
-category:ine
-closed eyes
-clothing:armor
-clothing:jewelry
-creator:sakimichan
-dragon
-ears
-eyes closed
-furry
-gender:male
-hair jewelry
-headdress
-jewelry
-male
-male focus
-male only
-medium:2d art
-medium:high resolution
-medium:realistic
-meta:pixiv-import
-pauldron
-pointed ears
-pointy ears
-rating:safe
-realistic
-sakimichan
-short hair
-shoulder armor
-site:deviant art
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarypets
-subreddit:immeta
-title:faithful by sakimi chan
-uploader:hvitserkr
+armor,
+booru:sankaku channel,
+brown hair,
+category:ine,
+closed eyes,
+clothing:armor,
+clothing:jewelry,
+creator:sakimichan,
+dragon,
+ears,
+eyes closed,
+furry,
+gender:male,
+hair jewelry,
+headdress,
+jewelry,
+male,
+male focus,
+male only,
+medium:2d art,
+medium:high resolution,
+medium:realistic,
+meta:pixiv-import,
+pauldron,
+pointed ears,
+pointy ears,
+rating:safe,
+realistic,
+sakimichan,
+short hair,
+shoulder armor,
+site:deviant art,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarypets,
+subreddit:immeta,
+title:faithful by sakimi chan,
+uploader:hvitserkr,

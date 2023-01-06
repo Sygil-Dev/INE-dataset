@@ -1,26 +1,26 @@
-2ddrawing
-aftermath
-apocalypce
-art
-category:ine
-church
-concept
-creator:ismail inceoglu
-digitalart
-drawing
-genre:science fiction
-illustration
-landscape
-medium:digital 2d
-painting
-sand
-sandstorm
-storm
-subreddit:imaginaryruins
-subreddit:imaginarywastelands
-subreddit:imarchitecture
-subreddit:imlandscapes
-title:shelter
-title:shelter by ismail inceoglu
-uploader:godforesaken
-uploader:l-ya
+2ddrawing,
+aftermath,
+apocalypce,
+art,
+category:ine,
+church,
+concept,
+creator:ismail inceoglu,
+digitalart,
+drawing,
+genre:science fiction,
+illustration,
+landscape,
+medium:digital 2d,
+painting,
+sand,
+sandstorm,
+storm,
+subreddit:imaginaryruins,
+subreddit:imaginarywastelands,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+title:shelter,
+title:shelter by ismail inceoglu,
+uploader:godforesaken,
+uploader:l-ya,

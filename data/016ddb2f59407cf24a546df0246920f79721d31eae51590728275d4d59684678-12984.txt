@@ -1,32 +1,32 @@
-1girl
-baseball cap
-black hair
-brown eyes
-category:ine
-character:ash ketchum
-character:charizard
-character:charmander
-character:eevee
-character:flareon
-character:pichu
-character:pikachu
-character:raichu
-character:squirtle
-creature
-fox
-hat
-holding
-holding pokemon
-long hair
-on shoulder
-pokemon (creature)
-pokemon on head
-pokemon on shoulder
-rating:safe
-short sleeves
-simple background
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:sunny by k3lly art (kelly)
-uploader:lol33ta
-white background
+1girl,
+baseball cap,
+black hair,
+brown eyes,
+category:ine,
+character:ash ketchum,
+character:charizard,
+character:charmander,
+character:eevee,
+character:flareon,
+character:pichu,
+character:pikachu,
+character:raichu,
+character:squirtle,
+creature,
+fox,
+hat,
+holding,
+holding pokemon,
+long hair,
+on shoulder,
+pokemon (creature),
+pokemon on head,
+pokemon on shoulder,
+rating:safe,
+short sleeves,
+simple background,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:sunny by k3lly art (kelly),
+uploader:lol33ta,
+white background,

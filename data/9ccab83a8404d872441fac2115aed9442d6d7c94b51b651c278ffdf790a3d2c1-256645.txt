@@ -1,86 +1,86 @@
-<3
-belt
-booru:e621
-category:ine
-clothing
-clothing:gloves
-clothing:hat
-clothing:headwear
-clothing:necklace
-clothing:shirt
-cowboy
-cowboy hat
-cowgirl
-creator:ranged weapon
-creator:waldemar von kozak
-creator:waldemar-kazak
-ear piercing
-english text
-facial piercing
-female
-firearm
-flower
-gender:female
-gloves
-grey eyes
-gun
-hair
-handgun
-handwear
-hat
-headgear
-headwear
-heart symbol
-hi res
-holster
-jewelry
-language:english
-medium:english text
-medium:high resolution
-medium:text
-meta:english text
-meta:hi res
-meta:nsfw
-monster
-monster girl (genre)
-necklace
-piercing
-plant
-poster
-ranged weapon
-rating:explicit
-rating:safe
-red hair
-revolver
-shirt
-site:discord
-solo
-species:centaur
-species:equid
-species:equid taur
-species:equine
-species:equine taur
-species:human
-species:humanoid
-species:humanoid taur
-species:mammal
-species:mammal taur
-species:primate
-species:taur
-split form
-subreddit:imaginarycentaurs
-subreddit:imaginarycowboys
-subreddit:imcharacters
-subreddit:imraces
-tag source:e621
-taur
-text
-tied shirt
-title:horsegirl
-title:horsegirl by waldemar von kozak
-title:horsegirl by waldemar von kozak (xpost /r/inegentlemanboners)
-topwear
-uploader:lol33ta
-uploader:natezomby
-weapon
-western
+<3,
+belt,
+booru:e621,
+category:ine,
+clothing,
+clothing:gloves,
+clothing:hat,
+clothing:headwear,
+clothing:necklace,
+clothing:shirt,
+cowboy,
+cowboy hat,
+cowgirl,
+creator:ranged weapon,
+creator:waldemar von kozak,
+creator:waldemar-kazak,
+ear piercing,
+english text,
+facial piercing,
+female,
+firearm,
+flower,
+gender:female,
+gloves,
+grey eyes,
+gun,
+hair,
+handgun,
+handwear,
+hat,
+headgear,
+headwear,
+heart symbol,
+hi res,
+holster,
+jewelry,
+language:english,
+medium:english text,
+medium:high resolution,
+medium:text,
+meta:english text,
+meta:hi res,
+meta:nsfw,
+monster,
+monster girl (genre),
+necklace,
+piercing,
+plant,
+poster,
+ranged weapon,
+rating:explicit,
+rating:safe,
+red hair,
+revolver,
+shirt,
+site:discord,
+solo,
+species:centaur,
+species:equid,
+species:equid taur,
+species:equine,
+species:equine taur,
+species:human,
+species:humanoid,
+species:humanoid taur,
+species:mammal,
+species:mammal taur,
+species:primate,
+species:taur,
+split form,
+subreddit:imaginarycentaurs,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+subreddit:imraces,
+tag source:e621,
+taur,
+text,
+tied shirt,
+title:horsegirl,
+title:horsegirl by waldemar von kozak,
+title:horsegirl by waldemar von kozak (xpost /r/inegentlemanboners),
+topwear,
+uploader:lol33ta,
+uploader:natezomby,
+weapon,
+western,

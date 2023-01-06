@@ -1,92 +1,92 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-avian
-bird
-black eyes
-black_eyes
-blue body
-blue feathers
-blue_body
-blue_feathers
-branch
-category:ine
-character:felis
-claws
-copyright:mythology
-creator:cryptid-creations
-death
-domestic cat
-feathered wings
-feathered_wings
-feathers
-felid
-feline
-feral
-fur
-green eyes
-green_eyes
-grey body
-grey fur
-grey_body
-grey_fur
-group
-humor
-hybrid
-mammal
-medium:simple background
-meta:2018
-meta:url
-monster
-mouse
-murid
-murine
-owl
-pun
-rating:safe
-rodent
-scared
-series:mythology
-simple background
-simple_background
-species:avian
-species:bird
-species:cat
-species:domestic cat
-species:domestic_cat
-species:felid
-species:feline
-species:felis
-species:gryphon
-species:hybrid
-species:mammal
-species:mouse
-species:murid
-species:murine
-species:mythical
-species:mythological avian
-species:mythological_avian
-species:owl
-species:rodent
-subreddit:imaginaryhybrids
-subreddit:immonsters
-tan body
-tan feathers
-tan_body
-tan_feathers
-text
-title:hybird 1# by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-white background
-white body
-white feathers
-white_background
-white_body
-white_feathers
-wings
-wood
-x eyes
-x_eyes
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+avian,
+bird,
+black eyes,
+black_eyes,
+blue body,
+blue feathers,
+blue_body,
+blue_feathers,
+branch,
+category:ine,
+character:felis,
+claws,
+copyright:mythology,
+creator:cryptid-creations,
+death,
+domestic cat,
+feathered wings,
+feathered_wings,
+feathers,
+felid,
+feline,
+feral,
+fur,
+green eyes,
+green_eyes,
+grey body,
+grey fur,
+grey_body,
+grey_fur,
+group,
+humor,
+hybrid,
+mammal,
+medium:simple background,
+meta:2018,
+meta:url,
+monster,
+mouse,
+murid,
+murine,
+owl,
+pun,
+rating:safe,
+rodent,
+scared,
+series:mythology,
+simple background,
+simple_background,
+species:avian,
+species:bird,
+species:cat,
+species:domestic cat,
+species:domestic_cat,
+species:felid,
+species:feline,
+species:felis,
+species:gryphon,
+species:hybrid,
+species:mammal,
+species:mouse,
+species:murid,
+species:murine,
+species:mythical,
+species:mythological avian,
+species:mythological_avian,
+species:owl,
+species:rodent,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+tan body,
+tan feathers,
+tan_body,
+tan_feathers,
+text,
+title:hybird 1# by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white background,
+white body,
+white feathers,
+white_background,
+white_body,
+white_feathers,
+wings,
+wood,
+x eyes,
+x_eyes,

@@ -1,39 +1,39 @@
-1 eye
-alien
-arthropod
-booru:tbib
-category:ine
-character:doctor zoidberg
-character:marine
-character:turanga leela
-comedy central
-creator:missuspatches
-crustacean
-cyclops
-decapodian (futurama)
-duo
-female
-hair
-lips
-male
-male/female
-missuspatches
-open mouth
-purple hair
-rating:safe
-series:comedy central
-series:futurama
-site:deviantart
-species:alien
-species:arthropod
-species:crustacean
-species:cyclops
-species:decapodian (futurama)
-species:humanoid
-species:marine
-subreddit:imaginarynewnewyork
-subreddit:imfandoms
-teeth
-title:sssslllurrrpp
-title:sssslllurrrpp by missuspatches
-uploader:lol33ta
+1 eye,
+alien,
+arthropod,
+booru:tbib,
+category:ine,
+character:doctor zoidberg,
+character:marine,
+character:turanga leela,
+comedy central,
+creator:missuspatches,
+crustacean,
+cyclops,
+decapodian (futurama),
+duo,
+female,
+hair,
+lips,
+male,
+male/female,
+missuspatches,
+open mouth,
+purple hair,
+rating:safe,
+series:comedy central,
+series:futurama,
+site:deviantart,
+species:alien,
+species:arthropod,
+species:crustacean,
+species:cyclops,
+species:decapodian (futurama),
+species:humanoid,
+species:marine,
+subreddit:imaginarynewnewyork,
+subreddit:imfandoms,
+teeth,
+title:sssslllurrrpp,
+title:sssslllurrrpp by missuspatches,
+uploader:lol33ta,

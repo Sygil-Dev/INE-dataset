@@ -1,29 +1,29 @@
-animal
-architecture
-bird
-blue sky
-building
-bush
-category:ine
-cloud
-cloudy sky
-day
-field
-flock
-grass
-mountain
-mountainous horizon
-outdoors
-rating:safe
-ruins
-scenery
-seagull
-shrine
-sky
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:collapse by tim kaminski
-torii
-tower
-tree
-uploader:valar_m0rghul1s
+animal,
+architecture,
+bird,
+blue sky,
+building,
+bush,
+category:ine,
+cloud,
+cloudy sky,
+day,
+field,
+flock,
+grass,
+mountain,
+mountainous horizon,
+outdoors,
+rating:safe,
+ruins,
+scenery,
+seagull,
+shrine,
+sky,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:collapse by tim kaminski,
+torii,
+tower,
+tree,
+uploader:valar_m0rghul1s,

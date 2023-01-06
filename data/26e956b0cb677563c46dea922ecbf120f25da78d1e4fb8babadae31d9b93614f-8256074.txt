@@ -1,48 +1,48 @@
-2017
-booru:e621
-category:ine
-character:twilight sparkle
-character:twilight sparkle (mlp)
-creator:shamanguli
-cutie mark
-day
-detailed background
-feathered wings
-feathers
-female
-feral
-gem
-gender:female
-genre:fantasy
-group
-horn
-horns
-medium:detailed background
-medium:high resolution
-meta:2017
-meta:hi res
-outside
-rating:safe
-river
-sculpture
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-sky
-species:equid
-species:equine
-species:mammal
-species:winged unicorn
-standing
-statue
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"throne of the elements" by shamanguli
-title:throne of the elements
-uploader:flaminscribblenaut
-water
-waterfall
-wings
-year:2017
+2017,
+booru:e621,
+category:ine,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+creator:shamanguli,
+cutie mark,
+day,
+detailed background,
+feathered wings,
+feathers,
+female,
+feral,
+gem,
+gender:female,
+genre:fantasy,
+group,
+horn,
+horns,
+medium:detailed background,
+medium:high resolution,
+meta:2017,
+meta:hi res,
+outside,
+rating:safe,
+river,
+sculpture,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+sky,
+species:equid,
+species:equine,
+species:mammal,
+species:winged unicorn,
+standing,
+statue,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"throne of the elements" by shamanguli,
+title:throne of the elements,
+uploader:flaminscribblenaut,
+water,
+waterfall,
+wings,
+year:2017,

@@ -1,30 +1,30 @@
-1boy
-artist name
-black hair
-blurry
-blurry background
-blurry foreground
-category:ine
-chromatic aberration
-closed mouth
-depth of field
-facial hair
-focused
-grass
-green eyes
-hair strand
-jacket
-leaf
-long hair
-looking at viewer
-male focus
-motion blur
-outdoors
-photo (medium)
-plant
-rating:safe
-solo
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-title:professor snape by aj nazzaro
-uploader:lol33ta
+1boy,
+artist name,
+black hair,
+blurry,
+blurry background,
+blurry foreground,
+category:ine,
+chromatic aberration,
+closed mouth,
+depth of field,
+facial hair,
+focused,
+grass,
+green eyes,
+hair strand,
+jacket,
+leaf,
+long hair,
+looking at viewer,
+male focus,
+motion blur,
+outdoors,
+photo (medium),
+plant,
+rating:safe,
+solo,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+title:professor snape by aj nazzaro,
+uploader:lol33ta,

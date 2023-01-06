@@ -1,71 +1,71 @@
-2017
-ambiguous gender
-ambiguous_gender
-art
-artist:tsaoshin
-artwork:digital media
-backseat
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:tsaoshin
-cute
-digitalart
-drawing
-ericproctor
-fanart
-feral
-funny
-gen 1 pokemon
-gender:ambiguous
-gottadrawemall
-joshworlds
-livestream
-looking at viewer
-looking_at_viewer
-medium:1:1 aspect ratio
-medium:digital media
-meta:1:1
-meta:2017
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-omanyte
-photoshop
-pokedex
-pokemon
-pool:15535
-pov
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-show
-sketch
-solo
-species:cephalopod
-species:fossil pokémon
-species:fossil_pokémon
-species:marine
-species:mollusk
-species:monster
-species:omanyte
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-stream
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:138 - omanyte
-title:omanyte by eric proctor
-tsaoshin
-twitch
-type
-uploader:myrandall
-video
-video games
-video_games
-year:2017
-youtube
+2017,
+ambiguous gender,
+ambiguous_gender,
+art,
+artist:tsaoshin,
+artwork:digital media,
+backseat,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:tsaoshin,
+cute,
+digitalart,
+drawing,
+ericproctor,
+fanart,
+feral,
+funny,
+gen 1 pokemon,
+gender:ambiguous,
+gottadrawemall,
+joshworlds,
+livestream,
+looking at viewer,
+looking_at_viewer,
+medium:1:1 aspect ratio,
+medium:digital media,
+meta:1:1,
+meta:2017,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+omanyte,
+photoshop,
+pokedex,
+pokemon,
+pool:15535,
+pov,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+show,
+sketch,
+solo,
+species:cephalopod,
+species:fossil pokémon,
+species:fossil_pokémon,
+species:marine,
+species:mollusk,
+species:monster,
+species:omanyte,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+stream,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:138 - omanyte,
+title:omanyte by eric proctor,
+tsaoshin,
+twitch,
+type,
+uploader:myrandall,
+video,
+video games,
+video_games,
+year:2017,
+youtube,

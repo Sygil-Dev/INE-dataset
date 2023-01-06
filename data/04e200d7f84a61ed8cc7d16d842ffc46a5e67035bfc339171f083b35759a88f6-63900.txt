@@ -1,37 +1,37 @@
-battle
-burning
-category:ine
-chaos
-creator:diego gisbert llorens
-embers
-eternal crusade
-explosion
-fire
-firing
-glowing
-glowing eyes
-group
-gun
-holding gun
-legion
-mecha
-medium:digital 2d
-mmo
-rating:safe
-realistic
-rhino
-ruins
-science fiction
-series:warhammer 40,000
-space marine
-species:raptor
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-title:eternal crusade-chaos sm
-title:eternal crusade-chaos sm by diego gisbert llorens
-traitor
-uploader:adverserius
-warband
-warhammer
-weapon
+battle,
+burning,
+category:ine,
+chaos,
+creator:diego gisbert llorens,
+embers,
+eternal crusade,
+explosion,
+fire,
+firing,
+glowing,
+glowing eyes,
+group,
+gun,
+holding gun,
+legion,
+mecha,
+medium:digital 2d,
+mmo,
+rating:safe,
+realistic,
+rhino,
+ruins,
+science fiction,
+series:warhammer 40,000,
+space marine,
+species:raptor,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+title:eternal crusade-chaos sm,
+title:eternal crusade-chaos sm by diego gisbert llorens,
+traitor,
+uploader:adverserius,
+warband,
+warhammer,
+weapon,

@@ -1,19 +1,19 @@
-3d
-blender
-category:ine
-cell shaded
-concept art
-creator:nikola pavić
-game art
-medium:digital 3d
-medium:digital media
-rifle
-sci-fi
-science fiction
-stylized
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-title:mk.1 ced-ar
-title:sci-fi rifle concept
-uploader:nikolapavic
-weapons
+3d,
+blender,
+category:ine,
+cell shaded,
+concept art,
+creator:nikola pavić,
+game art,
+medium:digital 3d,
+medium:digital media,
+rifle,
+sci-fi,
+science fiction,
+stylized,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+title:mk.1 ced-ar,
+title:sci-fi rifle concept,
+uploader:nikolapavic,
+weapons,

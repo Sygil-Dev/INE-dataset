@@ -1,184 +1,184 @@
-ambiguous gender
-ambiguous_gender
-aquarius (constellation)
-aquarius (zodiac)
-aries (constellation)
-aries (zodiac)
-arkeis
-artist:arkeis-pokemon
-booru:e621
-cancer (constellation)
-cancer (zodiac)
-capricorn (zodiac)
-capricornus (constellation)
-category:ine
-character:aquarius (zodiac)
-character:aquarius_(zodiac)
-character:aries (zodiac)
-character:aries_(zodiac)
-character:baltoy
-character:cancer (zodiac)
-character:cancer_(zodiac)
-character:capricorn (zodiac)
-character:capricorn_(zodiac)
-character:ekans
-character:flaaffy
-character:gardevoir
-character:gemini (zodiac)
-character:gemini_(zodiac)
-character:goldeen
-character:krabby
-character:leo (zodiac)
-character:leo_(zodiac)
-character:libra (zodiac)
-character:libra_(zodiac)
-character:lombre
-character:luxray
-character:machoke
-character:mareep
-character:minun
-character:ophiuchus
-character:ophiuchus (zodiac)
-character:ophiuchus_(zodiac)
-character:pisces (zodiac)
-character:pisces_(zodiac)
-character:plusle
-character:pokemon species
-character:rapidash
-character:sagittarius (zodiac)
-character:sagittarius_(zodiac)
-character:scorpio (zodiac)
-character:scorpio_(zodiac)
-character:skorupi
-character:tauros
-character:taurus (zodiac)
-character:taurus_(zodiac)
-character:vaporeon
-character:virgo (zodiac)
-character:virgo_(zodiac)
-character:zodiac
-constellation
-copyright:nintendo
-copyright:pokémon
-copyright:western_zodiac
-creator:arkeis-pokemon
-creator:zodiac
-detailed background
-detailed_background
-earth
-eeveelution
-equine
-equine taur
-feral
-flaafy
-galaxy
-gemini (constellation)
-gemini (zodiac)
-gen 1 pokemon
-gen 1 pokémon
-gen 2 pokemon
-gender:ambiguous
-leo (constellation)
-leo (zodiac)
-libra (constellation)
-libra (zodiac)
-mammal
-medium:artist name
-medium:detailed background
-medium:fanart from deviantart
-medium:text
-meta:libra
-meta:potential duplicate
-minun
-ophiuchus (constellation)
-ophiuchus (zodiac)
-pisces (constellation)
-pisces (zodiac)
-planet
-pokémon
-pokémon (species)
-rating:safe
-sagittarius (constellation)
-sagittarius (zodiac)
-scorpio
-scorpio (zodiac)
-scorpius (constellation)
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon diamond pearl & platinum
-series:pokemon gold silver & crystal
-series:pokemon red green blue & yellow
-series:pokemon ruby sapphire & emerald
-series:pokémon
-series:western zodiac
-serpens (constellation)
-sitting
-sky
-space
-spacescape
-species:baltoy
-species:eeveelution
-species:ekans
-species:equid
-species:equid taur
-species:equid_taur
-species:equine
-species:equine taur
-species:equine_taur
-species:flaaffy
-species:flaafy
-species:gardevoir
-species:goldeen
-species:krabby
-species:lombre
-species:luxray
-species:machoke
-species:mammal
-species:mammal taur
-species:mammal_taur
-species:minun
-species:monster
-species:plusle
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-species:rapidash
-species:skorupi
-species:taur
-species:tauros
-species:vaporeon
-standing
-star
-star (sky)
-starry sky
-starry_sky
-stars
-studio:aquarius
-studio:aries
-studio:cancer
-studio:gemini
-studio:nintendo
-studio:pisces
-studio:sagittarius
-studio:virgo
-subreddit:imaginarykanto
-subreddit:imfandoms
-sun
-sunbeam
-sunlight
-taur
-taurus
-taurus (constellation)
-taurus (zodiac)
-title:the pokemon zodiac by arkeis
-uploader:hvitserkr
-video games
-video_games
-virgo (constellation)
-virgo (zodiac)
-zero pictured
-zero_pictured
-zodiac
-zodiac (symbol)
+ambiguous gender,
+ambiguous_gender,
+aquarius (constellation),
+aquarius (zodiac),
+aries (constellation),
+aries (zodiac),
+arkeis,
+artist:arkeis-pokemon,
+booru:e621,
+cancer (constellation),
+cancer (zodiac),
+capricorn (zodiac),
+capricornus (constellation),
+category:ine,
+character:aquarius (zodiac),
+character:aquarius_(zodiac),
+character:aries (zodiac),
+character:aries_(zodiac),
+character:baltoy,
+character:cancer (zodiac),
+character:cancer_(zodiac),
+character:capricorn (zodiac),
+character:capricorn_(zodiac),
+character:ekans,
+character:flaaffy,
+character:gardevoir,
+character:gemini (zodiac),
+character:gemini_(zodiac),
+character:goldeen,
+character:krabby,
+character:leo (zodiac),
+character:leo_(zodiac),
+character:libra (zodiac),
+character:libra_(zodiac),
+character:lombre,
+character:luxray,
+character:machoke,
+character:mareep,
+character:minun,
+character:ophiuchus,
+character:ophiuchus (zodiac),
+character:ophiuchus_(zodiac),
+character:pisces (zodiac),
+character:pisces_(zodiac),
+character:plusle,
+character:pokemon species,
+character:rapidash,
+character:sagittarius (zodiac),
+character:sagittarius_(zodiac),
+character:scorpio (zodiac),
+character:scorpio_(zodiac),
+character:skorupi,
+character:tauros,
+character:taurus (zodiac),
+character:taurus_(zodiac),
+character:vaporeon,
+character:virgo (zodiac),
+character:virgo_(zodiac),
+character:zodiac,
+constellation,
+copyright:nintendo,
+copyright:pokémon,
+copyright:western_zodiac,
+creator:arkeis-pokemon,
+creator:zodiac,
+detailed background,
+detailed_background,
+earth,
+eeveelution,
+equine,
+equine taur,
+feral,
+flaafy,
+galaxy,
+gemini (constellation),
+gemini (zodiac),
+gen 1 pokemon,
+gen 1 pokémon,
+gen 2 pokemon,
+gender:ambiguous,
+leo (constellation),
+leo (zodiac),
+libra (constellation),
+libra (zodiac),
+mammal,
+medium:artist name,
+medium:detailed background,
+medium:fanart from deviantart,
+medium:text,
+meta:libra,
+meta:potential duplicate,
+minun,
+ophiuchus (constellation),
+ophiuchus (zodiac),
+pisces (constellation),
+pisces (zodiac),
+planet,
+pokémon,
+pokémon (species),
+rating:safe,
+sagittarius (constellation),
+sagittarius (zodiac),
+scorpio,
+scorpio (zodiac),
+scorpius (constellation),
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon diamond pearl & platinum,
+series:pokemon gold silver & crystal,
+series:pokemon red green blue & yellow,
+series:pokemon ruby sapphire & emerald,
+series:pokémon,
+series:western zodiac,
+serpens (constellation),
+sitting,
+sky,
+space,
+spacescape,
+species:baltoy,
+species:eeveelution,
+species:ekans,
+species:equid,
+species:equid taur,
+species:equid_taur,
+species:equine,
+species:equine taur,
+species:equine_taur,
+species:flaaffy,
+species:flaafy,
+species:gardevoir,
+species:goldeen,
+species:krabby,
+species:lombre,
+species:luxray,
+species:machoke,
+species:mammal,
+species:mammal taur,
+species:mammal_taur,
+species:minun,
+species:monster,
+species:plusle,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+species:rapidash,
+species:skorupi,
+species:taur,
+species:tauros,
+species:vaporeon,
+standing,
+star,
+star (sky),
+starry sky,
+starry_sky,
+stars,
+studio:aquarius,
+studio:aries,
+studio:cancer,
+studio:gemini,
+studio:nintendo,
+studio:pisces,
+studio:sagittarius,
+studio:virgo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sun,
+sunbeam,
+sunlight,
+taur,
+taurus,
+taurus (constellation),
+taurus (zodiac),
+title:the pokemon zodiac by arkeis,
+uploader:hvitserkr,
+video games,
+video_games,
+virgo (constellation),
+virgo (zodiac),
+zero pictured,
+zero_pictured,
+zodiac,
+zodiac (symbol),

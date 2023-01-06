@@ -1,37 +1,37 @@
-1girl
-artist name
-blue fire
-bubble
-bubble blowing
-category:ine
-chewing gum
-closed eyes
-earmuffs
-eighth note
-electricity
-energy
-energy ball
-fire
-glowing
-headphones
-hitodama
-hood
-hoodie
-jellyfish
-jewelry
-lightning
-listening to music
-magic
-musical note
-necklace
-orb
-purple fire
-rating:safe
-signature
-soap bubbles
-solo
-spirit
-subreddit:imaginarymindscapes
-subreddit:imlandscapes
-title:dreamland competition entry by rico cilliers
-uploader:johncarterofares
+1girl,
+artist name,
+blue fire,
+bubble,
+bubble blowing,
+category:ine,
+chewing gum,
+closed eyes,
+earmuffs,
+eighth note,
+electricity,
+energy,
+energy ball,
+fire,
+glowing,
+headphones,
+hitodama,
+hood,
+hoodie,
+jellyfish,
+jewelry,
+lightning,
+listening to music,
+magic,
+musical note,
+necklace,
+orb,
+purple fire,
+rating:safe,
+signature,
+soap bubbles,
+solo,
+spirit,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+title:dreamland competition entry by rico cilliers,
+uploader:johncarterofares,

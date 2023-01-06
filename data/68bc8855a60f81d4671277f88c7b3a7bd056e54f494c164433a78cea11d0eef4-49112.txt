@@ -1,62 +1,62 @@
-ambiguous gender
-androgynous
-anthro
-art
-booru:e621
-brandishing
-category:ine
-character:planeswalker
-character:sorin
-character:ugin
-cloud
-creator:raymond swanland
-detailed background
-dragon
-duo
-feathered wings
-feathers
-feral
-fine art
-flying
-furry
-gender:ambiguous
-magic
-medium:detailed background
-medium:official art
-melee weapon
-meta:extreme content
-meta:official art
-monster
-mountain
-outdoors
-outside
-planeswalker
-proper art
-rating:questionable
-rating:safe
-raymond swanland
-scalie
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-sky
-snow
-sorin
-species:dragon
-species:mythical
-species:scalie
-species:undead
-species:vampire
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryspirits
-subreddit:immonsters
-sword
-title:haven of the spirit dragon by raymond swanland
-ugin
-uploader:tamander
-vampire
-weapon
-website:reddit
-wings
+ambiguous gender,
+androgynous,
+anthro,
+art,
+booru:e621,
+brandishing,
+category:ine,
+character:planeswalker,
+character:sorin,
+character:ugin,
+cloud,
+creator:raymond swanland,
+detailed background,
+dragon,
+duo,
+feathered wings,
+feathers,
+feral,
+fine art,
+flying,
+furry,
+gender:ambiguous,
+magic,
+medium:detailed background,
+medium:official art,
+melee weapon,
+meta:extreme content,
+meta:official art,
+monster,
+mountain,
+outdoors,
+outside,
+planeswalker,
+proper art,
+rating:questionable,
+rating:safe,
+raymond swanland,
+scalie,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+sky,
+snow,
+sorin,
+species:dragon,
+species:mythical,
+species:scalie,
+species:undead,
+species:vampire,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryspirits,
+subreddit:immonsters,
+sword,
+title:haven of the spirit dragon by raymond swanland,
+ugin,
+uploader:tamander,
+vampire,
+weapon,
+website:reddit,
+wings,

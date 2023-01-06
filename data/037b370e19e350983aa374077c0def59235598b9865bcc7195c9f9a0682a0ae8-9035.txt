@@ -1,26 +1,26 @@
-1girl
-building
-category:ine
-city
-city lights
-cityscape
-long hair
-neon lights
-neon trim
-outdoors
-rain
-rating:safe
-scenery
-science fiction
-skyscraper
-solo
-standing
-subreddit:imaginarycityscapes
-subreddit:imaginarycyberpunk
-subreddit:imaginaryfuturism
-subreddit:imlandscapes
-subreddit:imtechnology
-title:job menting: cyberpunk practice
-uploader:nfcwalletcard
-very long hair
-water
+1girl,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+long hair,
+neon lights,
+neon trim,
+outdoors,
+rain,
+rating:safe,
+scenery,
+science fiction,
+skyscraper,
+solo,
+standing,
+subreddit:imaginarycityscapes,
+subreddit:imaginarycyberpunk,
+subreddit:imaginaryfuturism,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+title:job menting: cyberpunk practice,
+uploader:nfcwalletcard,
+very long hair,
+water,

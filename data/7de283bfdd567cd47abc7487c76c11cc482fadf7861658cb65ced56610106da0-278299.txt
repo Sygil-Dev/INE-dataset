@@ -1,58 +1,58 @@
-5 fingers
-anthro
-anthropomorphism
-booru:e621
-category:ine
-claws
-clothed
-clothing
-creator:leo hao
-day
-detailed background
-english text
-fingers
-fur
-gender:male
-group
-language:english
-male
-medium:absurd resolution
-medium:detailed background
-medium:digital media
-medium:english text
-medium:high resolution
-medium:text
-meta:absurd res
-meta:digital media (artwork)
-meta:english text
-meta:hi res
-outside
-pipe
-rating:safe
-series:blizzard entertainment
-series:warcraft
-size difference
-sky
-species:bear
-species:humanoid
-species:mammal
-species:mouse
-species:murid
-species:murine
-species:orc
-species:panda
-species:pandaren
-species:rodent
-species:ursid
-species:ursine
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-teeth
-text
-title:how to get to pandaria ?
-title:how to get to pandaria ? by leo hao
-uploader:net-diver
-video games
-white body
-white fur
+5 fingers,
+anthro,
+anthropomorphism,
+booru:e621,
+category:ine,
+claws,
+clothed,
+clothing,
+creator:leo hao,
+day,
+detailed background,
+english text,
+fingers,
+fur,
+gender:male,
+group,
+language:english,
+male,
+medium:absurd resolution,
+medium:detailed background,
+medium:digital media,
+medium:english text,
+medium:high resolution,
+medium:text,
+meta:absurd res,
+meta:digital media (artwork),
+meta:english text,
+meta:hi res,
+outside,
+pipe,
+rating:safe,
+series:blizzard entertainment,
+series:warcraft,
+size difference,
+sky,
+species:bear,
+species:humanoid,
+species:mammal,
+species:mouse,
+species:murid,
+species:murine,
+species:orc,
+species:panda,
+species:pandaren,
+species:rodent,
+species:ursid,
+species:ursine,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+teeth,
+text,
+title:how to get to pandaria ?,
+title:how to get to pandaria ? by leo hao,
+uploader:net-diver,
+video games,
+white body,
+white fur,

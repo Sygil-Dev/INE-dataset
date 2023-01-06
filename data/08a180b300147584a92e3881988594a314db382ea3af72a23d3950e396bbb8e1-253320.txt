@@ -1,43 +1,43 @@
-1girl
-3boys
-bandolier
-beard
-belt
-bullet hole
-category:ine
-cigar
-cloud
-coat
-cowboy hat
-cowboy western
-creator:andreameloni
-facial hair
-firing
-formal
-gloves
-gun
-handgun
-hat
-holding
-holding gun
-holding weapon
-holster
-kalashnikov rifle
-multiple boys
-mustache
-pistol
-rating:safe
-revolver
-rifle
-shotgun
-sky
-submachine gun
-subreddit:imaginarycowboys
-subreddit:imcharacters
-suit
-sunset
-title:gunsmoke and dragonfire
-title:gunsmoke and dragonfire by andrea meloni
-trigger discipline
-uploader:lol33ta
-weapon
+1girl,
+3boys,
+bandolier,
+beard,
+belt,
+bullet hole,
+category:ine,
+cigar,
+cloud,
+coat,
+cowboy hat,
+cowboy western,
+creator:andreameloni,
+facial hair,
+firing,
+formal,
+gloves,
+gun,
+handgun,
+hat,
+holding,
+holding gun,
+holding weapon,
+holster,
+kalashnikov rifle,
+multiple boys,
+mustache,
+pistol,
+rating:safe,
+revolver,
+rifle,
+shotgun,
+sky,
+submachine gun,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+suit,
+sunset,
+title:gunsmoke and dragonfire,
+title:gunsmoke and dragonfire by andrea meloni,
+trigger discipline,
+uploader:lol33ta,
+weapon,

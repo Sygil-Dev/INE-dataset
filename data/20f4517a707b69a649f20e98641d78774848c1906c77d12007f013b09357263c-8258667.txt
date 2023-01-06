@@ -1,28 +1,28 @@
-blade runner
-building
-category:ine
-city
-city lights
-cityscape
-creator:david legnon
-dark
-david legnon
-fuschia
-genre:cyberpunk
-genre:science fiction
-medium:wallpaper
-mist
-neon
-neon glow
-night
-outrun
-pink
-retrowave
-sci-fi
-series:blade runner
-skyscraper
-subreddit:imaginaryfuturism
-subreddit:imtechnology
-title:"the hive mainframe" by david legnon
-title:the hive mainframe
-uploader:donnie_dark0
+blade runner,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+creator:david legnon,
+dark,
+david legnon,
+fuschia,
+genre:cyberpunk,
+genre:science fiction,
+medium:wallpaper,
+mist,
+neon,
+neon glow,
+night,
+outrun,
+pink,
+retrowave,
+sci-fi,
+series:blade runner,
+skyscraper,
+subreddit:imaginaryfuturism,
+subreddit:imtechnology,
+title:"the hive mainframe" by david legnon,
+title:the hive mainframe,
+uploader:donnie_dark0,

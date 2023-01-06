@@ -1,53 +1,53 @@
-5 fingers
-5_fingers
-2019
-artist:sandara
-black hair
-black_hair
-category:ine
-copyright:iranian_mythology
-copyright:middle_eastern_mythology
-copyright:mythology
-creator:sandara
-day
-detailed background
-detailed_background
-digital media (artwork)
-equid
-felid
-female
-fingers
-gender:female
-group
-hair
-hooves
-horn
-horns
-iranian mythology
-manticore
-medium:detailed background
-medium:digital media
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-middle eastern mythology
-outside
-paws
-rating:safe
-series:iranian mythology
-series:middle eastern mythology
-series:mythology
-species:elf
-species:equid
-species:equine
-species:felid
-species:horse
-species:humanoid
-species:mammal
-species:manticore
-species:mythical
-subreddit:imaginarybeasts
-subreddit:immonsters
-title:mounts
-title:mounts by sandara tang
-uploader:myrandall
+5 fingers,
+5_fingers,
+2019,
+artist:sandara,
+black hair,
+black_hair,
+category:ine,
+copyright:iranian_mythology,
+copyright:middle_eastern_mythology,
+copyright:mythology,
+creator:sandara,
+day,
+detailed background,
+detailed_background,
+digital media (artwork),
+equid,
+felid,
+female,
+fingers,
+gender:female,
+group,
+hair,
+hooves,
+horn,
+horns,
+iranian mythology,
+manticore,
+medium:detailed background,
+medium:digital media,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+middle eastern mythology,
+outside,
+paws,
+rating:safe,
+series:iranian mythology,
+series:middle eastern mythology,
+series:mythology,
+species:elf,
+species:equid,
+species:equine,
+species:felid,
+species:horse,
+species:humanoid,
+species:mammal,
+species:manticore,
+species:mythical,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+title:mounts,
+title:mounts by sandara tang,
+uploader:myrandall,

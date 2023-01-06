@@ -1,61 +1,61 @@
-2018
-action:smile
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-bodypart:black eyes
-bonesaw
-category:ine
-copyright:bonesaw
-creator:cryptid-creations
-doctor
-first aid kit
-first_aid_kit
-gender:ambiguous
-gender:male
-humor
-jar
-male:1
-medical instrument
-medical syringe
-medical_instrument
-medical_syringe
-medium:simple background
-medium:white background
-meme:humor
-meta:2018
-meta:url
-meta:white background
-pun
-rating:safe
-reflex hammer
-reflex_hammer
-sand
-saw
-scientific instrument
-scientific_instrument
-series:bonesaw
-simple background
-simple_background
-smile
-solo
-species:cephalopod
-species:coleoid
-species:marine
-species:mollusc
-species:mollusk
-species:octopodiform
-species:octopus
-subreddit:imaginaryanimals
-subreddit:imnature
-syringe
-text
-title:"daily paint 1903# doctopus" by piper thibodeau (cryptid-creations)
-title:daily paint 1903# doctopus
-tools
-uploader:torvusil
-visual pun
-visual_pun
-white_background
-year:2018
+2018,
+action:smile,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+bonesaw,
+category:ine,
+copyright:bonesaw,
+creator:cryptid-creations,
+doctor,
+first aid kit,
+first_aid_kit,
+gender:ambiguous,
+gender:male,
+humor,
+jar,
+male:1,
+medical instrument,
+medical syringe,
+medical_instrument,
+medical_syringe,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2018,
+meta:url,
+meta:white background,
+pun,
+rating:safe,
+reflex hammer,
+reflex_hammer,
+sand,
+saw,
+scientific instrument,
+scientific_instrument,
+series:bonesaw,
+simple background,
+simple_background,
+smile,
+solo,
+species:cephalopod,
+species:coleoid,
+species:marine,
+species:mollusc,
+species:mollusk,
+species:octopodiform,
+species:octopus,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+syringe,
+text,
+title:"daily paint 1903# doctopus" by piper thibodeau (cryptid-creations),
+title:daily paint 1903# doctopus,
+tools,
+uploader:torvusil,
+visual pun,
+visual_pun,
+white_background,
+year:2018,

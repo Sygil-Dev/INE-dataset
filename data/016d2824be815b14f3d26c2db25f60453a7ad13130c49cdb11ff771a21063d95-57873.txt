@@ -1,23 +1,23 @@
-1girl
-animal
-armor
-bird
-blood
-blood on weapon
-category:ine
-facial hair
-gloves
-long hair
-mountain
-rating:safe
-rock
-snow
-solo
-standing
-subreddit:imaginaryknights
-subreddit:imcharacters
-sword
-title:hussar by tatyana kupriyanova
-uploader:lol33ta
-water
-weapon
+1girl,
+animal,
+armor,
+bird,
+blood,
+blood on weapon,
+category:ine,
+facial hair,
+gloves,
+long hair,
+mountain,
+rating:safe,
+rock,
+snow,
+solo,
+standing,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+sword,
+title:hussar by tatyana kupriyanova,
+uploader:lol33ta,
+water,
+weapon,

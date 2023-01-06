@@ -1,25 +1,25 @@
-category:ine
-cinematic
-concept
-creator:duncan halleck
-fantasy
-film
-guard
-keyframe
-lord of the rings
-lotr
-medieval
-medium:digital 2d
-rennaisance
-snow
-subreddit:imaginarycastles
-subreddit:imaginarywinterscapes
-subreddit:imarchitecture
-subreddit:imlandscapes
-title:winter is coming
-title:winter is coming by duncan halleck
-town walls
-uploader:l-ya
-uploader:net-diver
-village
-winter
+category:ine,
+cinematic,
+concept,
+creator:duncan halleck,
+fantasy,
+film,
+guard,
+keyframe,
+lord of the rings,
+lotr,
+medieval,
+medium:digital 2d,
+rennaisance,
+snow,
+subreddit:imaginarycastles,
+subreddit:imaginarywinterscapes,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+title:winter is coming,
+title:winter is coming by duncan halleck,
+town walls,
+uploader:l-ya,
+uploader:net-diver,
+village,
+winter,

@@ -1,23 +1,23 @@
-1boy
-artist name
-beard
-bird
-category:ine
-creator:jamesryman
-dated
-facial hair
-horns
-male focus
-rating:safe
-signature
-snow
-subreddit:imaginarytrolls
-subreddit:imaginaryweaponry
-subreddit:imraces
-subreddit:imtechnology
-sword
-title:troll beserker
-title:troll beserker by james ryman
-uploader:lol33ta
-uploader:lordjimbob01
-weapon
+1boy,
+artist name,
+beard,
+bird,
+category:ine,
+creator:jamesryman,
+dated,
+facial hair,
+horns,
+male focus,
+rating:safe,
+signature,
+snow,
+subreddit:imaginarytrolls,
+subreddit:imaginaryweaponry,
+subreddit:imraces,
+subreddit:imtechnology,
+sword,
+title:troll beserker,
+title:troll beserker by james ryman,
+uploader:lol33ta,
+uploader:lordjimbob01,
+weapon,

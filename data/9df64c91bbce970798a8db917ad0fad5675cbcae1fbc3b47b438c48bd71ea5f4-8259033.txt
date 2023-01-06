@@ -1,23 +1,23 @@
-anime
-category:ine
-creator:axsens
-dragonscrown
-games
-gender:female
-girl
-guro
-halloween
-nude
-rating:contains female nudity
-rating:explicit
-rating:mature
-sorceress
-subreddit:imaginarygaming
-subreddit:imaginarywitches
-subreddit:imcharacters
-subreddit:imfandoms
-title:"sorceress" by axsens
-title:sorceress
-title:sorceress :18+ optional:
-uploader:torvusil
-witch
+anime,
+category:ine,
+creator:axsens,
+dragonscrown,
+games,
+gender:female,
+girl,
+guro,
+halloween,
+nude,
+rating:contains female nudity,
+rating:explicit,
+rating:mature,
+sorceress,
+subreddit:imaginarygaming,
+subreddit:imaginarywitches,
+subreddit:imcharacters,
+subreddit:imfandoms,
+title:"sorceress" by axsens,
+title:sorceress,
+title:sorceress :18+ optional:,
+uploader:torvusil,
+witch,

@@ -1,27 +1,27 @@
-art
-category:ine
-clothing:armor
-drawing
-field
-fire
-god
-headwear
-helmet
-medium:concept art
-melkor
-men
-painting
-ruins
-series:the lord of the rings
-storm
-subreddit:imaginarybestof
-subreddit:imaginarymiddleearth
-subreddit:imfandoms
-subreddit:immeta
-the silmarillion
-title:"morgoth and the silmarils" by justin gerard
-title:[/r/imaginarymiddleearth] morgoth and the silmarils by justin gerard
-uploader:lol33ta
-uploader:refreshsuggestions7
-war
-wings
+art,
+category:ine,
+clothing:armor,
+drawing,
+field,
+fire,
+god,
+headwear,
+helmet,
+medium:concept art,
+melkor,
+men,
+painting,
+ruins,
+series:the lord of the rings,
+storm,
+subreddit:imaginarybestof,
+subreddit:imaginarymiddleearth,
+subreddit:imfandoms,
+subreddit:immeta,
+the silmarillion,
+title:"morgoth and the silmarils" by justin gerard,
+title:[/r/imaginarymiddleearth] morgoth and the silmarils by justin gerard,
+uploader:lol33ta,
+uploader:refreshsuggestions7,
+war,
+wings,

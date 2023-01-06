@@ -1,58 +1,58 @@
-1:1
-action:smile
-ambiguous_gender
-artist:cryptid-creations
-banana
-brown eyes
-brown_eyes
-category:ine
-creator:cryptid-creations
-feral
-food
-food creature
-fruit
-furry
-gender:ambiguous
-gender:male
-humor
-iguanid
-leaf
-male:1
-medium:1:1 aspect ratio
-medium:simple background
-medium:white background
-meme:humor
-meta:1:1
-meta:white background
-pillarbox
-plant
-pun
-rating:safe
-simple background
-simple_background
-smile
-solo
-species:elemental_creature
-species:flora fauna
-species:flora_fauna
-species:food creature
-species:food_creature
-species:iguanid
-species:living fruit
-species:living_fruit
-species:lizard
-species:reptile
-species:scalie
-subreddit:imaginaryanimals
-subreddit:imaginaryaww
-subreddit:imaginaryfood
-subreddit:imaginaryhybrids
-subreddit:immeta
-subreddit:immonsters
-subreddit:imnature
-title:"iguanana" by piper thibodeau
-title:daily paint #2073. iguanana
-uploader:torvusil
-visual pun
-visual_pun
-white_background
+1:1,
+action:smile,
+ambiguous_gender,
+artist:cryptid-creations,
+banana,
+brown eyes,
+brown_eyes,
+category:ine,
+creator:cryptid-creations,
+feral,
+food,
+food creature,
+fruit,
+furry,
+gender:ambiguous,
+gender:male,
+humor,
+iguanid,
+leaf,
+male:1,
+medium:1:1 aspect ratio,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:1:1,
+meta:white background,
+pillarbox,
+plant,
+pun,
+rating:safe,
+simple background,
+simple_background,
+smile,
+solo,
+species:elemental_creature,
+species:flora fauna,
+species:flora_fauna,
+species:food creature,
+species:food_creature,
+species:iguanid,
+species:living fruit,
+species:living_fruit,
+species:lizard,
+species:reptile,
+species:scalie,
+subreddit:imaginaryanimals,
+subreddit:imaginaryaww,
+subreddit:imaginaryfood,
+subreddit:imaginaryhybrids,
+subreddit:immeta,
+subreddit:immonsters,
+subreddit:imnature,
+title:"iguanana" by piper thibodeau,
+title:daily paint #2073. iguanana,
+uploader:torvusil,
+visual pun,
+visual_pun,
+white_background,

@@ -1,26 +1,26 @@
-1boy
-1other
-ambiguous gender
-armor
-artist name
-breastplate
-category:ine
-full armor
-gauntlets
-helmet
-holding
-holding sword
-holding weapon
-knight
-male focus
-pauldrons
-rating:safe
-shoulder armor
-solo
-standing
-subreddit:imaginaryknights
-subreddit:imcharacters
-sword
-title:azrael by linda lithén
-uploader:lol33ta
-weapon
+1boy,
+1other,
+ambiguous gender,
+armor,
+artist name,
+breastplate,
+category:ine,
+full armor,
+gauntlets,
+helmet,
+holding,
+holding sword,
+holding weapon,
+knight,
+male focus,
+pauldrons,
+rating:safe,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+sword,
+title:azrael by linda lithén,
+uploader:lol33ta,
+weapon,

@@ -1,29 +1,29 @@
-bethesda
-card
-cardgame
-category:ine
-creator:edward chee
-elder scroll
-elder scrolls
-elder scrolls legends
-elderscroll
-elderscrolllegends
-elderscrolls
-elderscrollslegends
-illustration
-medium:digital 2d
-subreddit:imaginaryfeels
-subreddit:imaginarymusic
-subreddit:imaginarytamriel
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-subreddit:imfandoms
-subreddit:immeta
-the elder scrolls
-the elder scrolls:legends
-title:star-sung bard by edward chee
-title:the elder scrolls: legends
-title:the elder scrolls: legends - star-sung bard by edward chee
-uploader:faeryknight
-uploader:knighterrannt
-zenimax
+bethesda,
+card,
+cardgame,
+category:ine,
+creator:edward chee,
+elder scroll,
+elder scrolls,
+elder scrolls legends,
+elderscroll,
+elderscrolllegends,
+elderscrolls,
+elderscrollslegends,
+illustration,
+medium:digital 2d,
+subreddit:imaginaryfeels,
+subreddit:imaginarymusic,
+subreddit:imaginarytamriel,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+subreddit:imfandoms,
+subreddit:immeta,
+the elder scrolls,
+the elder scrolls:legends,
+title:star-sung bard by edward chee,
+title:the elder scrolls: legends,
+title:the elder scrolls: legends - star-sung bard by edward chee,
+uploader:faeryknight,
+uploader:knighterrannt,
+zenimax,

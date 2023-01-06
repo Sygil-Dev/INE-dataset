@@ -1,21 +1,21 @@
-category:ine
-cloak
-cloak and dagger
-comic
-comic artist
-comic book art
-comic book artist
-comics
-cover art
-cover artist
-creator:david nakayama
-dagger
-david nakayama
-freeform
-marvel
-medium:digital 2d
-subreddit:imaginarylovers
-subreddit:imcharacters
-title:cloak and dagger by david nakayama
-ultimates
-uploader:lol33ta
+category:ine,
+cloak,
+cloak and dagger,
+comic,
+comic artist,
+comic book art,
+comic book artist,
+comics,
+cover art,
+cover artist,
+creator:david nakayama,
+dagger,
+david nakayama,
+freeform,
+marvel,
+medium:digital 2d,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+title:cloak and dagger by david nakayama,
+ultimates,
+uploader:lol33ta,

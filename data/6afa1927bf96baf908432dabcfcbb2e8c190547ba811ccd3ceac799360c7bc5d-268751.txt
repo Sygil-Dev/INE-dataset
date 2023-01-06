@@ -1,21 +1,21 @@
-category:ine
-creator:james nauman
-creator:yoji grey
-innistrad
-magic fan art
-medium:digital 2d
-monster
-mtg
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:undead
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:zombie werecat
-title:zombie werecat, by james nauman
-uploader:nikephoros_ii_phokas
-werewolf
-zombie
+category:ine,
+creator:james nauman,
+creator:yoji grey,
+innistrad,
+magic fan art,
+medium:digital 2d,
+monster,
+mtg,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:undead,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:zombie werecat,
+title:zombie werecat, by james nauman,
+uploader:nikephoros_ii_phokas,
+werewolf,
+zombie,

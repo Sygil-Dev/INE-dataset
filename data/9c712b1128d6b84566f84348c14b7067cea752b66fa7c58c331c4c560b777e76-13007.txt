@@ -1,23 +1,23 @@
-barbarian
-battle
-category:ine
-centurion
-creator:joakim ericsson
-darpa
-fire
-genre:fantasy
-gladiator
-history
-mech
-medium:digital 2d
-rome
-ruins
-subreddit:imaginarybattlefields
-subreddit:imaginarygiants
-subreddit:imlandscapes
-subreddit:imraces
-title:pax romana
-title:pax romana by joakim ericsson
-uploader:adverserius
-war
-warrior
+barbarian,
+battle,
+category:ine,
+centurion,
+creator:joakim ericsson,
+darpa,
+fire,
+genre:fantasy,
+gladiator,
+history,
+mech,
+medium:digital 2d,
+rome,
+ruins,
+subreddit:imaginarybattlefields,
+subreddit:imaginarygiants,
+subreddit:imlandscapes,
+subreddit:imraces,
+title:pax romana,
+title:pax romana by joakim ericsson,
+uploader:adverserius,
+war,
+warrior,

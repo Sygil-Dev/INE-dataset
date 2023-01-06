@@ -1,26 +1,26 @@
-artist name
-bat wings
-blonde hair
-category:ine
-dated
-demon wings
-dragon
-dragon girl
-dragon horns
-dragon tail
-dragon wings
-fins
-glowing
-horns
-long hair
-rating:safe
-signature
-solo
-star (sky)
-subreddit:imaginarymerfolk
-subreddit:imraces
-tail
-title:beneath the waves cdc: merman 3 by vignesh s
-underwater
-uploader:synntara
-wings
+artist name,
+bat wings,
+blonde hair,
+category:ine,
+dated,
+demon wings,
+dragon,
+dragon girl,
+dragon horns,
+dragon tail,
+dragon wings,
+fins,
+glowing,
+horns,
+long hair,
+rating:safe,
+signature,
+solo,
+star (sky),
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+tail,
+title:beneath the waves cdc: merman 3 by vignesh s,
+underwater,
+uploader:synntara,
+wings,

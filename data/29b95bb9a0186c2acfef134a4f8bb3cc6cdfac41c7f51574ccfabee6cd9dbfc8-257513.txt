@@ -1,46 +1,46 @@
-2 females
-\(^o^)/
-action:closing eyes
-book
-book stack
-bookshelf
-category:ine
-closed eyes
-clothing:hair tie
-creator:denki
-emotion:joy
-eyes closed
-female:2
-female:2+
-flower
-folder:pics
-gender:female
-genre:fantasy
-hair flower
-hair ornament
-indoors
-ladder
-library
-medium:wallpaper
-multiple females
-multiple girls
-overgrown
-plant
-pop-up book
-rating:safe
-ref
-room
-roomscape
-roomscapes
-scenery
-series:original
-subreddit:imaginaryinteriors
-subreddit:imaginaryscholars
-subreddit:imarchitecture
-subreddit:imcharacters
-tied hair
-title:natural research by denki
-title:natural research by denki [xpost /r/imaginaryinteriors]
-twintails
-uploader:[deleted]
-uploader:belledame-sans-serif
+2 females,
+\(^o^)/,
+action:closing eyes,
+book,
+book stack,
+bookshelf,
+category:ine,
+closed eyes,
+clothing:hair tie,
+creator:denki,
+emotion:joy,
+eyes closed,
+female:2,
+female:2+,
+flower,
+folder:pics,
+gender:female,
+genre:fantasy,
+hair flower,
+hair ornament,
+indoors,
+ladder,
+library,
+medium:wallpaper,
+multiple females,
+multiple girls,
+overgrown,
+plant,
+pop-up book,
+rating:safe,
+ref,
+room,
+roomscape,
+roomscapes,
+scenery,
+series:original,
+subreddit:imaginaryinteriors,
+subreddit:imaginaryscholars,
+subreddit:imarchitecture,
+subreddit:imcharacters,
+tied hair,
+title:natural research by denki,
+title:natural research by denki [xpost /r/imaginaryinteriors],
+twintails,
+uploader:[deleted],
+uploader:belledame-sans-serif,

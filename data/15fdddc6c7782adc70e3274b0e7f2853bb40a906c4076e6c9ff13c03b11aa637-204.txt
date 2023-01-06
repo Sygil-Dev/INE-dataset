@@ -1,29 +1,29 @@
-category:ine
-creator:leonardo silva carvalho
-dragon
-eletricity
-furry
-giant
-godzilla
-godzilla king of the monsters
-gold
-hydra
-kaiju
-king ghidorah
-medium:digital 2d
-skull
-species:monster
-species:mythical
-species:scalie
-subreddit:imaginaryaliens
-subreddit:imaginaryanimals
-subreddit:imaginarybeasts
-subreddit:imaginarybehemoths
-subreddit:imaginarydragons
-subreddit:imaginaryworldeaters
-subreddit:immonsters
-subreddit:imnature
-subreddit:imraces
-title:king ghidorah - godzilla king of the monsters.
-title:king ghidorah - godzilla king of the monsters. (2 versions)
-uploader:shademeadows
+category:ine,
+creator:leonardo silva carvalho,
+dragon,
+eletricity,
+furry,
+giant,
+godzilla,
+godzilla king of the monsters,
+gold,
+hydra,
+kaiju,
+king ghidorah,
+medium:digital 2d,
+skull,
+species:monster,
+species:mythical,
+species:scalie,
+subreddit:imaginaryaliens,
+subreddit:imaginaryanimals,
+subreddit:imaginarybeasts,
+subreddit:imaginarybehemoths,
+subreddit:imaginarydragons,
+subreddit:imaginaryworldeaters,
+subreddit:immonsters,
+subreddit:imnature,
+subreddit:imraces,
+title:king ghidorah - godzilla king of the monsters.,
+title:king ghidorah - godzilla king of the monsters. (2 versions),
+uploader:shademeadows,

@@ -1,38 +1,38 @@
-armor
-art
-bust
-category:ine
-character
-commission
-couple
-creator:oscar [shadowpriest] lazo
-disorian
-draenei
-druids
-elf
-fantasy
-leather
-lightforged
-love
-medium:digital 2d
-night elf
-night elves
-portrait
-priestess
-quick
-rogue
-roleplaying
-series:warcraft
-shadowpriest
-species:elf
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imaginarylovers
-subreddit:imcharacters
-subreddit:imfandoms
-title:...custom request commissions...
-title:...half body commissions part ii... by oscar lazo
-troll
-uploader:net-diver
-world of warcraft
-wow
+armor,
+art,
+bust,
+category:ine,
+character,
+commission,
+couple,
+creator:oscar [shadowpriest] lazo,
+disorian,
+draenei,
+druids,
+elf,
+fantasy,
+leather,
+lightforged,
+love,
+medium:digital 2d,
+night elf,
+night elves,
+portrait,
+priestess,
+quick,
+rogue,
+roleplaying,
+series:warcraft,
+shadowpriest,
+species:elf,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+subreddit:imfandoms,
+title:...custom request commissions...,
+title:...half body commissions part ii... by oscar lazo,
+troll,
+uploader:net-diver,
+world of warcraft,
+wow,

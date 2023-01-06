@@ -1,27 +1,27 @@
-anthro
-barefoot
-booru:e621
-brown hair
-category:ine
-clothed
-clothing
-creator:alradeck
-feet
-gender:male
-hair
-horns
-medium:digital media
-rating:safe
-solo
-species:fish
-species:marine
-species:shark
-spines
-subreddit:imaginaryartifacts
-subreddit:immeta
-title:generations of the lost
-title:generations of the lost by a.l. radeck
-topless
-uploader:myrandall
-white bars
-year:2013
+anthro,
+barefoot,
+booru:e621,
+brown hair,
+category:ine,
+clothed,
+clothing,
+creator:alradeck,
+feet,
+gender:male,
+hair,
+horns,
+medium:digital media,
+rating:safe,
+solo,
+species:fish,
+species:marine,
+species:shark,
+spines,
+subreddit:imaginaryartifacts,
+subreddit:immeta,
+title:generations of the lost,
+title:generations of the lost by a.l. radeck,
+topless,
+uploader:myrandall,
+white bars,
+year:2013,

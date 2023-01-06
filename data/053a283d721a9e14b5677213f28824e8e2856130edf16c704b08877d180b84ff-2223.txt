@@ -1,32 +1,32 @@
-1boy
-armor
-breathing fire
-burning
-campfire
-category:ine
-cloud
-cloudy sky
-embers
-explosion
-fire
-flame
-flaming sword
-flaming weapon
-glowing weapon
-holding
-lightning
-male focus
-molten rock
-night
-rating:safe
-sky
-smoke
-solo
-subreddit:imaginaryelementals
-subreddit:immonsters
-sunset
-sword
-title:lanz blade good of fire by jaun del pino
-uploader:[deleted]
-uploader:owntheknight
-weapon
+1boy,
+armor,
+breathing fire,
+burning,
+campfire,
+category:ine,
+cloud,
+cloudy sky,
+embers,
+explosion,
+fire,
+flame,
+flaming sword,
+flaming weapon,
+glowing weapon,
+holding,
+lightning,
+male focus,
+molten rock,
+night,
+rating:safe,
+sky,
+smoke,
+solo,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+sunset,
+sword,
+title:lanz blade good of fire by jaun del pino,
+uploader:[deleted],
+uploader:owntheknight,
+weapon,

@@ -1,59 +1,59 @@
-ambiguous gender
-androgynous
-art
-arthropod
-booru:e621
-category:ine
-character:kraken
-coiling
-creator:jack wang
-crustacean
-gender:ambiguous
-group
-kraken
-macro
-mammal
-marine
-medium:official art
-melee weapon
-meta:official art
-meta:useless tags
-ocean
-outdoors
-outside
-pincers
-polearm
-rain
-raining
-rating:questionable
-rating:safe
-sea
-seaside
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-size difference
-soldier
-solo focus
-spear
-species:arthropod
-species:crustacean
-species:human
-species:kraken
-species:mammal
-species:marine
-species:mythical
-species:primate
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryleviathans
-subreddit:immonsters
-title:shipbreaker kraken by jack wang
-uploader:malign-god
-warrior
-water
-weapon
-weapon:polearm
-weapon:spear
+ambiguous gender,
+androgynous,
+art,
+arthropod,
+booru:e621,
+category:ine,
+character:kraken,
+coiling,
+creator:jack wang,
+crustacean,
+gender:ambiguous,
+group,
+kraken,
+macro,
+mammal,
+marine,
+medium:official art,
+melee weapon,
+meta:official art,
+meta:useless tags,
+ocean,
+outdoors,
+outside,
+pincers,
+polearm,
+rain,
+raining,
+rating:questionable,
+rating:safe,
+sea,
+seaside,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+size difference,
+soldier,
+solo focus,
+spear,
+species:arthropod,
+species:crustacean,
+species:human,
+species:kraken,
+species:mammal,
+species:marine,
+species:mythical,
+species:primate,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryleviathans,
+subreddit:immonsters,
+title:shipbreaker kraken by jack wang,
+uploader:malign-god,
+warrior,
+water,
+weapon,
+weapon:polearm,
+weapon:spear,

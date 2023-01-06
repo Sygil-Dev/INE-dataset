@@ -1,79 +1,79 @@
-2018
-ambiguous gender
-ambiguous_gender
-anthro
-artist name
-artist:cryptid-creations
-black eyes
-black_eyes
-bone
-bovid
-brown body
-brown fur
-brown_body
-brown_fur
-caprine
-category:ine
-creator:cryptid-creations
-dot eyes
-dot_eyes
-faun
-feral
-fur
-ghost
-glowing
-grass
-group
-haunting
-horn
-horn (musical instrument)
-horn_(musical_instrument)
-humor
-mammal
-meme:humor
-meta:2018
-meta:url
-musical instrument
-musical_instrument
-night
-no humans
-open mouth
-open_mouth
-outdoors
-plant
-pokemon (creature)
-pun
-purple body
-purple fur
-purple_body
-purple_fur
-rating:safe
-sheep
-skull
-sky
-species:bovid
-species:caprine
-species:faun
-species:ghost
-species:mammal
-species:sheep
-species:spirit
-species:undead
-spirit
-stump
-subreddit:imaginaryspirits
-subreddit:immonsters
-teeth
-text
-title:faunted by piper thibodeau
-tree
-uploader:myrandall
-visual pun
-visual_pun
-watermark
-web address
-website:reddit
-wind instrument
-wind_instrument
-yellow eyes
-yellow_eyes
+2018,
+ambiguous gender,
+ambiguous_gender,
+anthro,
+artist name,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+bone,
+bovid,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+caprine,
+category:ine,
+creator:cryptid-creations,
+dot eyes,
+dot_eyes,
+faun,
+feral,
+fur,
+ghost,
+glowing,
+grass,
+group,
+haunting,
+horn,
+horn (musical instrument),
+horn_(musical_instrument),
+humor,
+mammal,
+meme:humor,
+meta:2018,
+meta:url,
+musical instrument,
+musical_instrument,
+night,
+no humans,
+open mouth,
+open_mouth,
+outdoors,
+plant,
+pokemon (creature),
+pun,
+purple body,
+purple fur,
+purple_body,
+purple_fur,
+rating:safe,
+sheep,
+skull,
+sky,
+species:bovid,
+species:caprine,
+species:faun,
+species:ghost,
+species:mammal,
+species:sheep,
+species:spirit,
+species:undead,
+spirit,
+stump,
+subreddit:imaginaryspirits,
+subreddit:immonsters,
+teeth,
+text,
+title:faunted by piper thibodeau,
+tree,
+uploader:myrandall,
+visual pun,
+visual_pun,
+watermark,
+web address,
+website:reddit,
+wind instrument,
+wind_instrument,
+yellow eyes,
+yellow_eyes,

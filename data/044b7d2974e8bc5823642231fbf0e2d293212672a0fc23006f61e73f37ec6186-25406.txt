@@ -1,25 +1,25 @@
-axe
-bat wings
-breathing fire
-burning
-candle
-category:ine
-demon wings
-dragon
-dragon wings
-embers
-fire
-flame
-holding
-monster
-rating:safe
-subreddit:imaginarybehemoths
-subreddit:imaginarydemons
-subreddit:immonsters
-sword
-title:the summoning by cristi balanescu
-torch
-uploader:drunkindragon
-uploader:lol33ta
-weapon
-wings
+axe,
+bat wings,
+breathing fire,
+burning,
+candle,
+category:ine,
+demon wings,
+dragon,
+dragon wings,
+embers,
+fire,
+flame,
+holding,
+monster,
+rating:safe,
+subreddit:imaginarybehemoths,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+sword,
+title:the summoning by cristi balanescu,
+torch,
+uploader:drunkindragon,
+uploader:lol33ta,
+weapon,
+wings,

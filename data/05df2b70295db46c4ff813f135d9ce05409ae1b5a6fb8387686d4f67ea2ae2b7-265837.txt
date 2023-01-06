@@ -1,31 +1,31 @@
-1boy
-air bubble
-aurora
-beach
-blue eyes
-blurry
-blurry background
-blurry foreground
-bubble
-category:ine
-depth of field
-facial hair
-full body
-light particles
-night sky
-open mouth
-rating:safe
-red hair
-sand
-sky
-snowing
-solo
-space
-star (sky)
-starry sky
-subreddit:imaginarydisney
-subreddit:imaginarymerfolk
-subreddit:imraces
-title:mermay 2019 ariel by sergey klyuchnikov
-underwater
-uploader:lol33ta
+1boy,
+air bubble,
+aurora,
+beach,
+blue eyes,
+blurry,
+blurry background,
+blurry foreground,
+bubble,
+category:ine,
+depth of field,
+facial hair,
+full body,
+light particles,
+night sky,
+open mouth,
+rating:safe,
+red hair,
+sand,
+sky,
+snowing,
+solo,
+space,
+star (sky),
+starry sky,
+subreddit:imaginarydisney,
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+title:mermay 2019 ariel by sergey klyuchnikov,
+underwater,
+uploader:lol33ta,

@@ -1,110 +1,110 @@
-1 female
-1 male
-1boy
-1girl
-bangs
-black dress
-black hair
-black jacket
-blonde
-blonde hair
-blurry
-blurry foreground
-booru:danbooru
-booru:danbooru-safebooru
-booru:safebooru
-booru:sankaku
-booru:sankaku channel
-brown hair
-category:ine
-character:shinomiya kaguya
-character:shirogane miyuki
-closed eyes
-clothing:black dress
-clothing:black jacket
-clothing:dress
-clothing:hair ornament
-clothing:hair ribbon
-clothing:hair tie
-clothing:jacket
-clothing:red ribbon
-clothing:ribbon
-clothing:sailor collar
-clothing:school uniform
-clothing:uniform
-commentary
-couple
-creator:dishwasher1910
-creator:shirogane miyuki
-depth of field
-dress
-duo
-english commentary
-eyebrows
-eyebrows visible through hair
-eyes closed
-female
-folded ponytail
-gakuran
-gender:female
-gender:male
-genre:hetero
-hair ornament
-hair ribbon
-heart
-hetero
-jacket
-kaguya
-kaguya-sama:love is war
-kaguya_sama_wa_kokurasetai
-kaguyasamaloveiswar
-kiss
-long sleeves
-male
-medium:blurry foreground
-medium:depth of field
-medium:watermark
-medium:web address
-meta:commentary
-meta:english commentary
-meta:spoilers
-meta:watermark
-page:1
-ponytail
-rating:general
-rating:s
-rating:safe
-rating:sensitive
-red ribbon
-ribbon
-sailor collar
-sailor dress
-school uniform
-schoolboy uniform
-series:kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~
-series:kaguya-sama: love is war
-short hair
-shuuchiin academy school uniform
-shuuchiin academy uniform
-spoilers
-straight
-subreddit:imaginaryanime
-subreddit:imaginarylovers
-subreddit:imcharacters
-subreddit:imfandoms
-tied hair
-title:frenched
-title:frenched by bach do
-uniform
-uploader:net-diver
-upper body
-watermark
-web address
-white sailor collar
-かぐや様は告らせたい
-かぐや様は告らせたい1000users入り
-ウルトラロマンティック
-キス
-四宮かぐや
-白かぐ
-白銀御行
+1 female,
+1 male,
+1boy,
+1girl,
+bangs,
+black dress,
+black hair,
+black jacket,
+blonde,
+blonde hair,
+blurry,
+blurry foreground,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:safebooru,
+booru:sankaku,
+booru:sankaku channel,
+brown hair,
+category:ine,
+character:shinomiya kaguya,
+character:shirogane miyuki,
+closed eyes,
+clothing:black dress,
+clothing:black jacket,
+clothing:dress,
+clothing:hair ornament,
+clothing:hair ribbon,
+clothing:hair tie,
+clothing:jacket,
+clothing:red ribbon,
+clothing:ribbon,
+clothing:sailor collar,
+clothing:school uniform,
+clothing:uniform,
+commentary,
+couple,
+creator:dishwasher1910,
+creator:shirogane miyuki,
+depth of field,
+dress,
+duo,
+english commentary,
+eyebrows,
+eyebrows visible through hair,
+eyes closed,
+female,
+folded ponytail,
+gakuran,
+gender:female,
+gender:male,
+genre:hetero,
+hair ornament,
+hair ribbon,
+heart,
+hetero,
+jacket,
+kaguya,
+kaguya-sama:love is war,
+kaguya_sama_wa_kokurasetai,
+kaguyasamaloveiswar,
+kiss,
+long sleeves,
+male,
+medium:blurry foreground,
+medium:depth of field,
+medium:watermark,
+medium:web address,
+meta:commentary,
+meta:english commentary,
+meta:spoilers,
+meta:watermark,
+page:1,
+ponytail,
+rating:general,
+rating:s,
+rating:safe,
+rating:sensitive,
+red ribbon,
+ribbon,
+sailor collar,
+sailor dress,
+school uniform,
+schoolboy uniform,
+series:kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~,
+series:kaguya-sama: love is war,
+short hair,
+shuuchiin academy school uniform,
+shuuchiin academy uniform,
+spoilers,
+straight,
+subreddit:imaginaryanime,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+subreddit:imfandoms,
+tied hair,
+title:frenched,
+title:frenched by bach do,
+uniform,
+uploader:net-diver,
+upper body,
+watermark,
+web address,
+white sailor collar,
+かぐや様は告らせたい,
+かぐや様は告らせたい1000users入り,
+ウルトラロマンティック,
+キス,
+四宮かぐや,
+白かぐ,
+白銀御行,

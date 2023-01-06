@@ -1,53 +1,53 @@
-2019
-antennae
-antennae (anatomy)
-antennae_(anatomy)
-artist:cryptid-creations
-blue body
-blue fur
-blue_body
-blue_fur
-bodypart:antennae
-brown body
-brown eyes
-brown fur
-brown_body
-brown_eyes
-brown_fur
-brush
-category:ine
-creator:cryptid-creations
-feral
-fur
-gender:male
-humor
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:2019
-meta:url
-paint
-paintbrush
-pun
-rating:safe
-simple background
-simple_background
-solo
-species:arthropod
-species:bee
-species:hymenopteran
-species:insect
-subreddit:imaginarycolorscapes
-subreddit:immeta
-text
-title:rgbee by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-white background
-white_background
-yellow body
-yellow fur
-yellow_body
-yellow_fur
+2019,
+antennae,
+antennae (anatomy),
+antennae_(anatomy),
+artist:cryptid-creations,
+blue body,
+blue fur,
+blue_body,
+blue_fur,
+bodypart:antennae,
+brown body,
+brown eyes,
+brown fur,
+brown_body,
+brown_eyes,
+brown_fur,
+brush,
+category:ine,
+creator:cryptid-creations,
+feral,
+fur,
+gender:male,
+humor,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2019,
+meta:url,
+paint,
+paintbrush,
+pun,
+rating:safe,
+simple background,
+simple_background,
+solo,
+species:arthropod,
+species:bee,
+species:hymenopteran,
+species:insect,
+subreddit:imaginarycolorscapes,
+subreddit:immeta,
+text,
+title:rgbee by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white background,
+white_background,
+yellow body,
+yellow fur,
+yellow_body,
+yellow_fur,

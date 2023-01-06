@@ -1,89 +1,89 @@
-4.211 brass knuckles
-alien
-amputee
-arm blade
-arm support
-armor
-assault mount 3.25 sting-blades
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-brass knuckles
-building
-category:ine
-character:crimson typhoon
-character:gigan
-character:jaeger (pacific rim)
-character:striker eureka
-city
-cityscape
-cloud
-commentary
-creator:jaeger
-creator:ldn-rdnt
-creature
-crossover
-cyber
-cyborg
-damaged
-directed-energy weapon
-energy weapon
-english commentary
-extra arms
-gender:female
-gigan
-godzilla
-grey sky
-horns
-kaiju
-kaijuu
-kneeling
-ldn-rdnt
-mecha
-mechanical arms
-medium:16:9 aspect ratio
-meta:commentary
-meta:crossover
-meta:english commentary
-meta:photoshop (medium)
-meta:tagme
-monster
-no humans
-outdoors
-outside
-pacificrim
-pan pacific defense corps
-prosthesis
-prosthetic arm
-rating:mature
-rating:s
-rating:safe
-rating:sensitive
-red eyes
-ruins
-saw
-saw blade
-series:godzilla
-series:godzilla (series)
-series:legendary pictures
-series:pacific rim
-site:deviantart
-sky
-skyline
-smoke
-space monster
-spark
-species:kaiju
-species:monster
-spikes
-standing
-striker_eureka
-subreddit:imaginarymechs
-subreddit:imtechnology
-tail
-title:02 category x
-title:category x by elden ardiente
-uploader:godnaruto21
-weapon
+4.211 brass knuckles,
+alien,
+amputee,
+arm blade,
+arm support,
+armor,
+assault mount 3.25 sting-blades,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+brass knuckles,
+building,
+category:ine,
+character:crimson typhoon,
+character:gigan,
+character:jaeger (pacific rim),
+character:striker eureka,
+city,
+cityscape,
+cloud,
+commentary,
+creator:jaeger,
+creator:ldn-rdnt,
+creature,
+crossover,
+cyber,
+cyborg,
+damaged,
+directed-energy weapon,
+energy weapon,
+english commentary,
+extra arms,
+gender:female,
+gigan,
+godzilla,
+grey sky,
+horns,
+kaiju,
+kaijuu,
+kneeling,
+ldn-rdnt,
+mecha,
+mechanical arms,
+medium:16:9 aspect ratio,
+meta:commentary,
+meta:crossover,
+meta:english commentary,
+meta:photoshop (medium),
+meta:tagme,
+monster,
+no humans,
+outdoors,
+outside,
+pacificrim,
+pan pacific defense corps,
+prosthesis,
+prosthetic arm,
+rating:mature,
+rating:s,
+rating:safe,
+rating:sensitive,
+red eyes,
+ruins,
+saw,
+saw blade,
+series:godzilla,
+series:godzilla (series),
+series:legendary pictures,
+series:pacific rim,
+site:deviantart,
+sky,
+skyline,
+smoke,
+space monster,
+spark,
+species:kaiju,
+species:monster,
+spikes,
+standing,
+striker_eureka,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+tail,
+title:02 category x,
+title:category x by elden ardiente,
+uploader:godnaruto21,
+weapon,

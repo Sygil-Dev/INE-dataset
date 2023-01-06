@@ -1,34 +1,34 @@
-1 female
-1girl
-blonde hair
-booru:sankaku channel
-category:ine
-character:elsa (frozen)
-character:elsa of arendelle
-character:olaf (frozen)
-character:olaf the snowman
-character:queen
-character:queen elsa of arendelle
-creator:alex garner
-dress
-female
-footwear
-frozen
-gender:female
-heels
-high heels
-queen
-rating:safe
-rating:sensitive
-sequins
-series:disney
-series:frozen
-series:frozen (disney)
-snowman
-solo
-standing
-studio:disney
-subreddit:imaginarydisney
-subreddit:imfandoms
-title:frozen by alex garner
-uploader:anndromedda
+1 female,
+1girl,
+blonde hair,
+booru:sankaku channel,
+category:ine,
+character:elsa (frozen),
+character:elsa of arendelle,
+character:olaf (frozen),
+character:olaf the snowman,
+character:queen,
+character:queen elsa of arendelle,
+creator:alex garner,
+dress,
+female,
+footwear,
+frozen,
+gender:female,
+heels,
+high heels,
+queen,
+rating:safe,
+rating:sensitive,
+sequins,
+series:disney,
+series:frozen,
+series:frozen (disney),
+snowman,
+solo,
+standing,
+studio:disney,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+title:frozen by alex garner,
+uploader:anndromedda,

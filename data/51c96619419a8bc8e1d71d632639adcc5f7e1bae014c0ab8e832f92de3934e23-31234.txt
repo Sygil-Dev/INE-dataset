@@ -1,25 +1,25 @@
-15thcentury
-16thcentury
-banbi
-category:ine
-china
-clothing
-creator:lilsuika
-dynasty
-eastasianculture
-fashion
-hanbok
-historicalfashion
-japan
-japanese
-kimono
-korea
-ledynasty
-mingdynasty
-sinosphere
-subreddit:imaginaryfashion
-subreddit:immeta
-title:15th-16th century east asian cultural sphere
-title:15th-16th century east asian cultural sphere by lilsuika (nan)
-uploader:[deleted]
-vietnam
+15thcentury,
+16thcentury,
+banbi,
+category:ine,
+china,
+clothing,
+creator:lilsuika,
+dynasty,
+eastasianculture,
+fashion,
+hanbok,
+historicalfashion,
+japan,
+japanese,
+kimono,
+korea,
+ledynasty,
+mingdynasty,
+sinosphere,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+title:15th-16th century east asian cultural sphere,
+title:15th-16th century east asian cultural sphere by lilsuika (nan),
+uploader:[deleted],
+vietnam,

@@ -1,83 +1,83 @@
-2017
-autumn
-booru:e621
-building
-category:ine
-character:ray
-character:sunset shimmer
-character:sunset shimmer (eg)
-closed eyes
-clothed
-clothing
-cloud
-colored pupils
-creator:light262
-cute
-digitalpainting
-digitalpaintingphotoshop
-duo
-equestria girls
-featured image
-female
-furry
-gecko
-gekko
-gekkomlp
-gender:female
-green eyes
-hair
-house
-jacket
-leather jacket
-leopard gecko
-lidded eyes
-light262
-lumic4
-medium:16:9 aspect ratio
-medium:high resolution
-meta:16:9
-meta:2017
-meta:hi res
-meta:widescreen
-morning
-multicolored hair
-nuzzling
-open mouth
-outside
-pet project
-plant
-rating:safe
-ray
-ray (eg)
-safe
-series:equestria girls
-series:hasbro
-series:my little pony
-series:my little pony equestria girls
-series:my little pony friendship is magic
-shimmerbetes
-signature
-sky
-smile
-smiling
-species:gecko
-species:human
-species:lizard
-species:mammal
-species:primate
-species:reptile
-species:scalie
-studio:hasbro
-subreddit:imaginarypets
-subreddit:immeta
-sunset_shimmer
-sunsetshimmer
-sunsetshimmerequestriagirls
-title:morning hugs by 'light'
-title:morning hugs by light
-tree
-two tone hair
-uploader:myrandall
-windswept hair
-windswept mane
-year:2017
+2017,
+autumn,
+booru:e621,
+building,
+category:ine,
+character:ray,
+character:sunset shimmer,
+character:sunset shimmer (eg),
+closed eyes,
+clothed,
+clothing,
+cloud,
+colored pupils,
+creator:light262,
+cute,
+digitalpainting,
+digitalpaintingphotoshop,
+duo,
+equestria girls,
+featured image,
+female,
+furry,
+gecko,
+gekko,
+gekkomlp,
+gender:female,
+green eyes,
+hair,
+house,
+jacket,
+leather jacket,
+leopard gecko,
+lidded eyes,
+light262,
+lumic4,
+medium:16:9 aspect ratio,
+medium:high resolution,
+meta:16:9,
+meta:2017,
+meta:hi res,
+meta:widescreen,
+morning,
+multicolored hair,
+nuzzling,
+open mouth,
+outside,
+pet project,
+plant,
+rating:safe,
+ray,
+ray (eg),
+safe,
+series:equestria girls,
+series:hasbro,
+series:my little pony,
+series:my little pony equestria girls,
+series:my little pony friendship is magic,
+shimmerbetes,
+signature,
+sky,
+smile,
+smiling,
+species:gecko,
+species:human,
+species:lizard,
+species:mammal,
+species:primate,
+species:reptile,
+species:scalie,
+studio:hasbro,
+subreddit:imaginarypets,
+subreddit:immeta,
+sunset_shimmer,
+sunsetshimmer,
+sunsetshimmerequestriagirls,
+title:morning hugs by 'light',
+title:morning hugs by light,
+tree,
+two tone hair,
+uploader:myrandall,
+windswept hair,
+windswept mane,
+year:2017,

@@ -1,24 +1,24 @@
-1girl
-building
-category:ine
-city
-city lights
-cityscape
-cyberpunk
-gun
-jacket
-long hair
-neon trim
-outdoors
-rain
-rating:safe
-scenery
-science fiction
-skyscraper
-solo
-standing
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:street freaks by marc simonetti
-uploader:[deleted]
-uploader:faeryknight
+1girl,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+cyberpunk,
+gun,
+jacket,
+long hair,
+neon trim,
+outdoors,
+rain,
+rating:safe,
+scenery,
+science fiction,
+skyscraper,
+solo,
+standing,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:street freaks by marc simonetti,
+uploader:[deleted],
+uploader:faeryknight,

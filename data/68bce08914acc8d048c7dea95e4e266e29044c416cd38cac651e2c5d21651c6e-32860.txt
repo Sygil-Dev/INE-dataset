@@ -1,71 +1,71 @@
-2 males
-90s
-artist:erickzilla
-battle
-blank eyes
-blood
-bodily fluids
-booru:danbooru
-booru:gelbooru
-category:ine
-character:destoroyah
-character:devilman (character)
-character:fudou akira
-character:godzilla
-claws
-copyright:devilman
-copyright:godzilla (series)
-creator:erickzilla
-creature
-crossover
-demon
-demon horns
-demon wings
-erickzilla
-erickzilla (artist)
-fang
-fangs
-fighting
-gender:male
-glowing
-glowing eyes
-guro
-head wings
-horn
-horns
-kaijuu
-male focus
-medium:90s
-medium:high resolution
-meta:character request
-meta:commentary
-meta:copyright request
-meta:crossover
-meta:english commentary
-meta:extreme content
-meta:highres
-meta:nsfw
-monster
-multiple boys
-multiple males
-no humans
-rating:explicit
-rating:mature
-rating:safe
-scar
-series:devilman
-series:devilman crybaby
-series:godzilla
-series:godzilla (series)
-species:demon
-species:kaiju
-species:monster
-subreddit:imaginarydemons
-subreddit:immonsters
-tagme:series
-teeth
-title:devilman vs. destoroyah
-title:devilman vs. destoroyah by erick borja
-uploader:godnaruto21
-wings
-yellow eyes
+2 males,
+90s,
+artist:erickzilla,
+battle,
+blank eyes,
+blood,
+bodily fluids,
+booru:danbooru,
+booru:gelbooru,
+category:ine,
+character:destoroyah,
+character:devilman (character),
+character:fudou akira,
+character:godzilla,
+claws,
+copyright:devilman,
+copyright:godzilla (series),
+creator:erickzilla,
+creature,
+crossover,
+demon,
+demon horns,
+demon wings,
+erickzilla,
+erickzilla (artist),
+fang,
+fangs,
+fighting,
+gender:male,
+glowing,
+glowing eyes,
+guro,
+head wings,
+horn,
+horns,
+kaijuu,
+male focus,
+medium:90s,
+medium:high resolution,
+meta:character request,
+meta:commentary,
+meta:copyright request,
+meta:crossover,
+meta:english commentary,
+meta:extreme content,
+meta:highres,
+meta:nsfw,
+monster,
+multiple boys,
+multiple males,
+no humans,
+rating:explicit,
+rating:mature,
+rating:safe,
+scar,
+series:devilman,
+series:devilman crybaby,
+series:godzilla,
+series:godzilla (series),
+species:demon,
+species:kaiju,
+species:monster,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+tagme:series,
+teeth,
+title:devilman vs. destoroyah,
+title:devilman vs. destoroyah by erick borja,
+uploader:godnaruto21,
+wings,
+yellow eyes,

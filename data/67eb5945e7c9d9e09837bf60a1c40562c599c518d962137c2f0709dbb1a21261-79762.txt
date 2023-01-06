@@ -1,71 +1,71 @@
-armor
-axe
-battle axe
-beard
-blood
-bodily fluids
-booru:e621
-category:ine
-clothing
-clothing:armor
-clothing:hat
-clothing:headwear
-clothing:tagme
-cloud
-creator:sharpwriter
-detailed background
-duo
-facial hair
-feral
-fight
-fish
-fur
-gender:male
-great white shark
-hat
-headgear
-headwear
-helmet
-holding object
-holding weapon
-jaws
-male
-marine
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-melee weapon
-meta:absurd res
-meta:hi res
-open mouth
-outside
-rating:questionable
-scar
-scratch
-scratches
-sea
-seascape
-series:jaws (film)
-series:universal studios
-sharpwriter
-shield
-sky
-species:fish
-species:great white shark
-species:human
-species:lamnid
-species:lamniform
-species:mammal
-species:marine
-species:primate
-species:shark
-subreddit:imaginaryvikings
-subreddit:imcharacters
-teeth
-title:viking vs shark by jason heuser
-title:viking vs. shark
-tongue
-uploader:lol33ta
-viking
-water
-weapon
+armor,
+axe,
+battle axe,
+beard,
+blood,
+bodily fluids,
+booru:e621,
+category:ine,
+clothing,
+clothing:armor,
+clothing:hat,
+clothing:headwear,
+clothing:tagme,
+cloud,
+creator:sharpwriter,
+detailed background,
+duo,
+facial hair,
+feral,
+fight,
+fish,
+fur,
+gender:male,
+great white shark,
+hat,
+headgear,
+headwear,
+helmet,
+holding object,
+holding weapon,
+jaws,
+male,
+marine,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+melee weapon,
+meta:absurd res,
+meta:hi res,
+open mouth,
+outside,
+rating:questionable,
+scar,
+scratch,
+scratches,
+sea,
+seascape,
+series:jaws (film),
+series:universal studios,
+sharpwriter,
+shield,
+sky,
+species:fish,
+species:great white shark,
+species:human,
+species:lamnid,
+species:lamniform,
+species:mammal,
+species:marine,
+species:primate,
+species:shark,
+subreddit:imaginaryvikings,
+subreddit:imcharacters,
+teeth,
+title:viking vs shark by jason heuser,
+title:viking vs. shark,
+tongue,
+uploader:lol33ta,
+viking,
+water,
+weapon,

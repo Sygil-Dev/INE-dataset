@@ -1,25 +1,25 @@
-2d
-category:ine
-concept
-conceptart
-creator:ismail inceoglu
-digital
-digitalart
-environment
-games
-genre:science fiction
-holes
-images and maps
-ismail-inceoglu-staircase-to-the-sun
-landscape
-level design
-medium:digital 2d
-scenery
-seventeenthart
-subreddit:imaginarycaves
-subreddit:imnature
-title:staircase to the sun
-title:staircase to the sun by ismail inceoglu
-train
-uploader:l-ya
-vehicle
+2d,
+category:ine,
+concept,
+conceptart,
+creator:ismail inceoglu,
+digital,
+digitalart,
+environment,
+games,
+genre:science fiction,
+holes,
+images and maps,
+ismail-inceoglu-staircase-to-the-sun,
+landscape,
+level design,
+medium:digital 2d,
+scenery,
+seventeenthart,
+subreddit:imaginarycaves,
+subreddit:imnature,
+title:staircase to the sun,
+title:staircase to the sun by ismail inceoglu,
+train,
+uploader:l-ya,
+vehicle,

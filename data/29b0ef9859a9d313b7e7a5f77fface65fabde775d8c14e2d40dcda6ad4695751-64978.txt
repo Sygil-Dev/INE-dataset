@@ -1,60 +1,60 @@
-alayna
-alayna danner
-alaynadanner
-alaynalemmer
-architecture
-armor
-art
-artist name
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-bridge
-building
-castle
-category:ine
-city
-cityscape
-clothing:armor
-commentary
-creator:alayna
-creator:alayna danner
-english commentary
-fantasy
-fantasyart
-fantasyillustration
-fantasylandscape
-genre:fantasy
-landscape
-magic
-magicthegathering
-medium:artist name
-medium:high resolution
-medium:watermark
-meta:commentary
-meta:english commentary
-meta:highres
-meta:official art
-mtg
-nature
-outdoors
-outside
-rating:general
-rating:mature
-rating:safe
-ravnica
-scenery
-selesnya
-series:magic: the gathering
-soldier
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarycityscapes
-subreddit:imlandscapes
-title:pause for reflection from magic: the gathering grn
-title:pause for reflection from magic: the gathering grn by alayna lemmer-danner
-tree
-uploader:fireflycities
-watermark
+alayna,
+alayna danner,
+alaynadanner,
+alaynalemmer,
+architecture,
+armor,
+art,
+artist name,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+clothing:armor,
+commentary,
+creator:alayna,
+creator:alayna danner,
+english commentary,
+fantasy,
+fantasyart,
+fantasyillustration,
+fantasylandscape,
+genre:fantasy,
+landscape,
+magic,
+magicthegathering,
+medium:artist name,
+medium:high resolution,
+medium:watermark,
+meta:commentary,
+meta:english commentary,
+meta:highres,
+meta:official art,
+mtg,
+nature,
+outdoors,
+outside,
+rating:general,
+rating:mature,
+rating:safe,
+ravnica,
+scenery,
+selesnya,
+series:magic: the gathering,
+soldier,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarycityscapes,
+subreddit:imlandscapes,
+title:pause for reflection from magic: the gathering grn,
+title:pause for reflection from magic: the gathering grn by alayna lemmer-danner,
+tree,
+uploader:fireflycities,
+watermark,

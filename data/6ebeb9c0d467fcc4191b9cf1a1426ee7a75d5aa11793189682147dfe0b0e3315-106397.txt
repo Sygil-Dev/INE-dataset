@@ -1,23 +1,23 @@
-apocalyptic
-atmosphere
-bladerunner
-category:ine
-creator:duncan halleck
-cyberpunk
-dark
-distopian
-future
-futuristic
-industrial
-medium:digital 2d
-scifi
-spaceship
-subreddit:imaginaryfuturism
-subreddit:imaginarywastelands
-subreddit:imlandscapes
-subreddit:imtechnology
-title:time for school, kids!
-title:time for school, kids! - duncan halleck
-title:time for school, kids!, duncan halleck
-uploader:dhalleck
-uploader:ethan_kahn
+apocalyptic,
+atmosphere,
+bladerunner,
+category:ine,
+creator:duncan halleck,
+cyberpunk,
+dark,
+distopian,
+future,
+futuristic,
+industrial,
+medium:digital 2d,
+scifi,
+spaceship,
+subreddit:imaginaryfuturism,
+subreddit:imaginarywastelands,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+title:time for school, kids!,
+title:time for school, kids! - duncan halleck,
+title:time for school, kids!, duncan halleck,
+uploader:dhalleck,
+uploader:ethan_kahn,

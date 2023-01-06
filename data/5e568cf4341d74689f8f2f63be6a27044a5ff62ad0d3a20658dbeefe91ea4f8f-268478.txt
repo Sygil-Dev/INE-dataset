@@ -1,21 +1,21 @@
-3d print
-category:ine
-creator:liam keating
-distrcit 9
-ground vehicle
-hilux
-medium:digital 3d
-mnu
-motor vehicle
-pickup
-science fiction
-scifi
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-technical
-title:district 9 pickup truck concept art
-title:district 9, mnu 2007 toyota hilux
-toyota
-truck
-uploader:scifi887
-vehicle
+3d print,
+category:ine,
+creator:liam keating,
+distrcit 9,
+ground vehicle,
+hilux,
+medium:digital 3d,
+mnu,
+motor vehicle,
+pickup,
+science fiction,
+scifi,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+technical,
+title:district 9 pickup truck concept art,
+title:district 9, mnu 2007 toyota hilux,
+toyota,
+truck,
+uploader:scifi887,
+vehicle,

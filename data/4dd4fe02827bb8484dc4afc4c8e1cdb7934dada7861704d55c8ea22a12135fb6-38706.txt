@@ -1,24 +1,24 @@
-backtothefuture
-badass
-category:ine
-creator:izzy medrano
-docbrown
-funny
-headwear
-helmet
-illustration
-izzymedrano
-magic
-medium:digital 2d
-meme:humor
-mtg
-mtgart
-painting
-subreddit:imaginaryscholars
-subreddit:imaginaryscience
-subreddit:imcharacters
-subreddit:imtechnology
-title:inspiration
-title:inspiration by izzy medrano
-uploader:net-diver
-uploader:tamander
+backtothefuture,
+badass,
+category:ine,
+creator:izzy medrano,
+docbrown,
+funny,
+headwear,
+helmet,
+illustration,
+izzymedrano,
+magic,
+medium:digital 2d,
+meme:humor,
+mtg,
+mtgart,
+painting,
+subreddit:imaginaryscholars,
+subreddit:imaginaryscience,
+subreddit:imcharacters,
+subreddit:imtechnology,
+title:inspiration,
+title:inspiration by izzy medrano,
+uploader:net-diver,
+uploader:tamander,

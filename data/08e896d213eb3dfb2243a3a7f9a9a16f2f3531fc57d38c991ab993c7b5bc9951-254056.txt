@@ -1,21 +1,21 @@
-blue sky
-building
-category:ine
-city
-cloud
-cloudy sky
-copyright name
-creator:joakim stigsson
-day
-desert
-medium:digital 3d
-mountain
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarydeserts
-subreddit:imnature
-title:battlefield 1: sinai desert
-title:battlefield 1: sinai desert by joakim stigsson
-uploader:syndrel
+blue sky,
+building,
+category:ine,
+city,
+cloud,
+cloudy sky,
+copyright name,
+creator:joakim stigsson,
+day,
+desert,
+medium:digital 3d,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarydeserts,
+subreddit:imnature,
+title:battlefield 1: sinai desert,
+title:battlefield 1: sinai desert by joakim stigsson,
+uploader:syndrel,

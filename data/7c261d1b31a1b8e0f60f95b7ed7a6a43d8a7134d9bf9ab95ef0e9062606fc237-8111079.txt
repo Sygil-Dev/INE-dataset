@@ -1,33 +1,33 @@
-4 toes
-blue body
-blue scales
-booru:e621
-category:ine
-claws
-creator:selianth
-day
-detailed background
-feet
-feral
-furry
-horn
-horns
-medium:detailed background
-membrane (anatomy)
-membranous wings
-outside
-rating:safe
-scales
-smile
-solo
-species:dragon
-species:mythical
-species:scalie
-spread wings
-subreddit:imaginaryforests
-subreddit:imnature
-title:"magic waters" by sylvia (selianth)
-title:magic waters
-toes
-uploader:torvusil
-wings
+4 toes,
+blue body,
+blue scales,
+booru:e621,
+category:ine,
+claws,
+creator:selianth,
+day,
+detailed background,
+feet,
+feral,
+furry,
+horn,
+horns,
+medium:detailed background,
+membrane (anatomy),
+membranous wings,
+outside,
+rating:safe,
+scales,
+smile,
+solo,
+species:dragon,
+species:mythical,
+species:scalie,
+spread wings,
+subreddit:imaginaryforests,
+subreddit:imnature,
+title:"magic waters" by sylvia (selianth),
+title:magic waters,
+toes,
+uploader:torvusil,
+wings,

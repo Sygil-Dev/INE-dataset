@@ -1,25 +1,25 @@
-1other
-ambiguous gender
-armor
-category:ine
-creator:mike franchina
-grey background
-helmet
-holding
-male focus
-medium:digital 2d
-rating:safe
-shoulder armor
-solo
-standing
-subreddit:imaginaryarmor
-subreddit:imaginaryclerics
-subreddit:imaginaryknights
-subreddit:imcharacters
-subreddit:imtechnology
-title:"paladin of the 3rd circle" by mike franchina
-title:paladin of the 3rd circle
-title:paladin of the 3rd circle by mike franchina
-uploader:azalann
-uploader:pyro_azer
-weapon
+1other,
+ambiguous gender,
+armor,
+category:ine,
+creator:mike franchina,
+grey background,
+helmet,
+holding,
+male focus,
+medium:digital 2d,
+rating:safe,
+shoulder armor,
+solo,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imaginaryclerics,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+subreddit:imtechnology,
+title:"paladin of the 3rd circle" by mike franchina,
+title:paladin of the 3rd circle,
+title:paladin of the 3rd circle by mike franchina,
+uploader:azalann,
+uploader:pyro_azer,
+weapon,

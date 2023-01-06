@@ -1,28 +1,28 @@
-1boy
-bara
-bird
-category:ine
-creator:lingrimm
-glowing
-male focus
-monster
-muscular
-nipples
-pectorals
-rating:safe
-ref
-reference
-reylai
-sheet
-source:furaffinity.net
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:werewolf
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:cold rage
-title:cold rage - by lingrimm
-uploader:bleeding_choker
+1boy,
+bara,
+bird,
+category:ine,
+creator:lingrimm,
+glowing,
+male focus,
+monster,
+muscular,
+nipples,
+pectorals,
+rating:safe,
+ref,
+reference,
+reylai,
+sheet,
+source:furaffinity.net,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:werewolf,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:cold rage,
+title:cold rage - by lingrimm,
+uploader:bleeding_choker,

@@ -1,33 +1,33 @@
-1boy
-1girl
-angel and devil
-axe
-bat
-bat print
-bat wings
-castle
-category:ine
-character:morrigan aensland
-demon
-demon boy
-demon girl
-demon tail
-demon wings
-dragon
-flying
-full moon
-halloween
-head wings
-low wings
-moon
-purple sky
-rating:safe
-red moon
-red sky
-subreddit:imaginaryhellscapes
-subreddit:imlandscapes
-sunset
-title:crimson blade by mark zug
-uploader:lol33ta
-weapon
-wings
+1boy,
+1girl,
+angel and devil,
+axe,
+bat,
+bat print,
+bat wings,
+castle,
+category:ine,
+character:morrigan aensland,
+demon,
+demon boy,
+demon girl,
+demon tail,
+demon wings,
+dragon,
+flying,
+full moon,
+halloween,
+head wings,
+low wings,
+moon,
+purple sky,
+rating:safe,
+red moon,
+red sky,
+subreddit:imaginaryhellscapes,
+subreddit:imlandscapes,
+sunset,
+title:crimson blade by mark zug,
+uploader:lol33ta,
+weapon,
+wings,

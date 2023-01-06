@@ -1,83 +1,83 @@
-4k
-5 fingers
-2018
-ambiguous gender
-antennae
-antennae (anatomy)
-bioluminescence
-bioluminescent plants
-blue eyes
-booru:e621
-brown hair
-category:ine
-character:jacksepticeye
-character:protagonist (subnautica)
-character:sean mcloughlin (jacksepticeye)
-character:septic eye sam (jacksepticeye)
-character:septic sam
-clothed
-clothing
-cosplay
-costume
-creator:neytirix
-detailed background
-duo
-feral
-fingers
-gender:ambiguous
-gender:male
-glowing
-glowing plants
-hair
-kelp
-light body
-light skin
-male
-medium:16:9 aspect ratio
-medium:absurd resolution
-medium:detailed background
-medium:high resolution
-meta:4k
-meta:16:9
-meta:2018
-meta:absurd res
-meta:hi res
-meta:widescreen
-oxygen tank
-plant
-rating:safe
-sea grass
-series:jacksepticeye
-series:subnautica
-series:unknown worlds entertainment
-series:youtube
-species:alien
-species:anthozoan
-species:cephalopod
-species:cnidarian
-species:coleoid
-species:coral
-species:eye creature
-species:fish
-species:human
-species:leviathan
-species:mammal
-species:marine
-species:mollusk
-species:octopodiform
-species:peeper
-species:peeper (subnautica)
-species:primate
-species:sea emperor leviathan
-species:sea emperor leviathan (subnautica)
-species:unknown species
-subreddit:imaginaryaliens
-subreddit:imraces
-title:[subnautica spoiler] keeping a promise by ney/'neytirix'
-title:keeping a promise (jacksepticeye fanart)
-underwater
-uploader:myrandall
-video in description
-water
-year:2018
-youtuber
+4k,
+5 fingers,
+2018,
+ambiguous gender,
+antennae,
+antennae (anatomy),
+bioluminescence,
+bioluminescent plants,
+blue eyes,
+booru:e621,
+brown hair,
+category:ine,
+character:jacksepticeye,
+character:protagonist (subnautica),
+character:sean mcloughlin (jacksepticeye),
+character:septic eye sam (jacksepticeye),
+character:septic sam,
+clothed,
+clothing,
+cosplay,
+costume,
+creator:neytirix,
+detailed background,
+duo,
+feral,
+fingers,
+gender:ambiguous,
+gender:male,
+glowing,
+glowing plants,
+hair,
+kelp,
+light body,
+light skin,
+male,
+medium:16:9 aspect ratio,
+medium:absurd resolution,
+medium:detailed background,
+medium:high resolution,
+meta:4k,
+meta:16:9,
+meta:2018,
+meta:absurd res,
+meta:hi res,
+meta:widescreen,
+oxygen tank,
+plant,
+rating:safe,
+sea grass,
+series:jacksepticeye,
+series:subnautica,
+series:unknown worlds entertainment,
+series:youtube,
+species:alien,
+species:anthozoan,
+species:cephalopod,
+species:cnidarian,
+species:coleoid,
+species:coral,
+species:eye creature,
+species:fish,
+species:human,
+species:leviathan,
+species:mammal,
+species:marine,
+species:mollusk,
+species:octopodiform,
+species:peeper,
+species:peeper (subnautica),
+species:primate,
+species:sea emperor leviathan,
+species:sea emperor leviathan (subnautica),
+species:unknown species,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+title:[subnautica spoiler] keeping a promise by ney/'neytirix',
+title:keeping a promise (jacksepticeye fanart),
+underwater,
+uploader:myrandall,
+video in description,
+water,
+year:2018,
+youtuber,

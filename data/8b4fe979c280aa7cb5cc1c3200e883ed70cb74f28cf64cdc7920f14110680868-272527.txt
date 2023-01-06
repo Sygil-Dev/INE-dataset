@@ -1,44 +1,44 @@
-1 female
-animal
-animal ears
-animal tail
-bird
-blonde hair
-blush
-braid
-category:ine
-creator:akamidoriao (rgb)
-creator:satoshi-takahara
-ears
-feet
-feet in water
-forest
-fox ears
-fox tail
-gender:female
-long hair
-magic
-nature
-outdoors
-outside
-rating:mature
-rating:safe
-red eyes
-scenery
-series:original
-sitting
-smile
-soaking feet
-solo
-species:avian
-subreddit:imaginaryspirits
-subreddit:immonsters
-tail
-title:water animals
-title:water animals by akamidori ao
-tree
-twin braids
-uploader:octoberoctopus
-water
-wet
-wide sleeves
+1 female,
+animal,
+animal ears,
+animal tail,
+bird,
+blonde hair,
+blush,
+braid,
+category:ine,
+creator:akamidoriao (rgb),
+creator:satoshi-takahara,
+ears,
+feet,
+feet in water,
+forest,
+fox ears,
+fox tail,
+gender:female,
+long hair,
+magic,
+nature,
+outdoors,
+outside,
+rating:mature,
+rating:safe,
+red eyes,
+scenery,
+series:original,
+sitting,
+smile,
+soaking feet,
+solo,
+species:avian,
+subreddit:imaginaryspirits,
+subreddit:immonsters,
+tail,
+title:water animals,
+title:water animals by akamidori ao,
+tree,
+twin braids,
+uploader:octoberoctopus,
+water,
+wet,
+wide sleeves,

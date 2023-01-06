@@ -1,66 +1,66 @@
-16:10
-2016
-booru:e621
-category:ine
-character:twilight sparkle
-character:twilight sparkle (mlp)
-closed eyes
-cloud
-creator:dstears
-cute
-cutie mark
-dstears
-eyes closed
-feathered wings
-feathers
-female
-feral
-floating
-gender:female
-genre:fantasy
-hair
-hi res
-high resolution
-hooves
-horn
-horns
-inflatable
-inner tube
-medium:16:10 aspect ratio
-medium:high resolution
-meta:16:10
-meta:2016
-meta:hi res
-meta:widescreen
-multicolored hair
-ocean
-outside
-pool toy
-rating:safe
-relaxing
-safe
-sea
-series:friendship is magic
-series:hasbro
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-solo
-species:alicorn
-species:equid
-species:equine
-species:mammal
-species:pony
-species:winged unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-swim ring
-title:" chillin' " by dstears
-title:chillin'
-twiabetes
-twilight sparkle (alicorn)
-uploader:crystallord
-water
-wings
-year:2016
+16:10,
+2016,
+booru:e621,
+category:ine,
+character:twilight sparkle,
+character:twilight sparkle (mlp),
+closed eyes,
+cloud,
+creator:dstears,
+cute,
+cutie mark,
+dstears,
+eyes closed,
+feathered wings,
+feathers,
+female,
+feral,
+floating,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+high resolution,
+hooves,
+horn,
+horns,
+inflatable,
+inner tube,
+medium:16:10 aspect ratio,
+medium:high resolution,
+meta:16:10,
+meta:2016,
+meta:hi res,
+meta:widescreen,
+multicolored hair,
+ocean,
+outside,
+pool toy,
+rating:safe,
+relaxing,
+safe,
+sea,
+series:friendship is magic,
+series:hasbro,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+solo,
+species:alicorn,
+species:equid,
+species:equine,
+species:mammal,
+species:pony,
+species:winged unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+swim ring,
+title:" chillin' " by dstears,
+title:chillin',
+twiabetes,
+twilight sparkle (alicorn),
+uploader:crystallord,
+water,
+wings,
+year:2016,

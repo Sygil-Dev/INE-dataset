@@ -1,57 +1,57 @@
-artist:plainoasis
-booru:e621
-building
-canterlot
-caravan
-category:ine
-character:trixie (mlp)
-character:trixie lulamoon
-character:trixie_(mlp)
-city
-cliff
-clothing:headwear
-copyright:friendship_is_magic
-copyright:hasbro
-copyright:my_little_pony
-creator:plainoasis
-gender:female
-genre:fantasy
-glowing
-ground vehicle
-harness
-hat
-horns
-house
-lamp
-lantern
-medium:high resolution
-meta:2017
-meta:hi_res
-mountain
-night
-outside
-rating:safe
-series:mlp:generation 4
-series:my little pony
-series:my little pony: friendship is magic
-sky
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pony
-species:unicorn
-star
-stars
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:canterlot starscape (untitled 20170605 by zhu / plainoasis)
-title:untitled (20170605)
-tower
-uploader:xhazxmatx
-vehicle
-wagon
-wizard hat
-year:2017
+artist:plainoasis,
+booru:e621,
+building,
+canterlot,
+caravan,
+category:ine,
+character:trixie (mlp),
+character:trixie lulamoon,
+character:trixie_(mlp),
+city,
+cliff,
+clothing:headwear,
+copyright:friendship_is_magic,
+copyright:hasbro,
+copyright:my_little_pony,
+creator:plainoasis,
+gender:female,
+genre:fantasy,
+glowing,
+ground vehicle,
+harness,
+hat,
+horns,
+house,
+lamp,
+lantern,
+medium:high resolution,
+meta:2017,
+meta:hi_res,
+mountain,
+night,
+outside,
+rating:safe,
+series:mlp:generation 4,
+series:my little pony,
+series:my little pony: friendship is magic,
+sky,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pony,
+species:unicorn,
+star,
+stars,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:canterlot starscape (untitled 20170605 by zhu / plainoasis),
+title:untitled (20170605),
+tower,
+uploader:xhazxmatx,
+vehicle,
+wagon,
+wizard hat,
+year:2017,

@@ -1,26 +1,26 @@
-ausonia 23
-building
-category:ine
-creature
-dark
-details
-door
-dungeon
-gender:female
-horror
-house
-log
-nightmare
-people
-room
-skeleton
-skull
-species:demon
-subreddit:imaginarybestof
-subreddit:imaginaryhorrors
-subreddit:immeta
-subreddit:immonsters
-title:[/r/imaginaryhorrors] taenia by ausonia 23
-title:taenia by ausonia 23
-uploader:ethereeal
-uploader:lol33ta
+ausonia 23,
+building,
+category:ine,
+creature,
+dark,
+details,
+door,
+dungeon,
+gender:female,
+horror,
+house,
+log,
+nightmare,
+people,
+room,
+skeleton,
+skull,
+species:demon,
+subreddit:imaginarybestof,
+subreddit:imaginaryhorrors,
+subreddit:immeta,
+subreddit:immonsters,
+title:[/r/imaginaryhorrors] taenia by ausonia 23,
+title:taenia by ausonia 23,
+uploader:ethereeal,
+uploader:lol33ta,

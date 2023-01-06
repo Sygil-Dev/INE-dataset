@@ -1,46 +1,46 @@
-blue eyes
-booru:e621
-cape
-category:ine
-character:jaal ama darav
-clothed
-clothing
-creator:ghostfire
-detailed background
-firearm
-fully clothed
-furgonomics
-furry-specific piercing
-gender:male
-gun
-hi res
-looking at viewer
-male
-medium:detailed background
-medium:high resolution
-meta:hi res
-not furry
-outside
-piercing
-pov
-pupils
-purple body
-purple skin
-ranged weapon
-rating:safe
-scar
-series:mass effect
-slit pupils
-smile
-snow
-solo
-species:alien
-species:angara
-species:humanoid
-subreddit:imaginarymasseffect
-subreddit:imfandoms
-title:"heir of freedom" by ghostfire (julia lichty)
-title:mass effect andromeda - heir of freedom
-uploader:ghostfire
-video games
-weapon
+blue eyes,
+booru:e621,
+cape,
+category:ine,
+character:jaal ama darav,
+clothed,
+clothing,
+creator:ghostfire,
+detailed background,
+firearm,
+fully clothed,
+furgonomics,
+furry-specific piercing,
+gender:male,
+gun,
+hi res,
+looking at viewer,
+male,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+not furry,
+outside,
+piercing,
+pov,
+pupils,
+purple body,
+purple skin,
+ranged weapon,
+rating:safe,
+scar,
+series:mass effect,
+slit pupils,
+smile,
+snow,
+solo,
+species:alien,
+species:angara,
+species:humanoid,
+subreddit:imaginarymasseffect,
+subreddit:imfandoms,
+title:"heir of freedom" by ghostfire (julia lichty),
+title:mass effect andromeda - heir of freedom,
+uploader:ghostfire,
+video games,
+weapon,

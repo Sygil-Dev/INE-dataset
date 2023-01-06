@@ -1,57 +1,57 @@
-1girl
-ambiguous gender
-artist name
-booru:e621
-bridge
-category:ine
-charging
-creator:jason rainville
-debris
-destruction
-detailed background
-feral
-fight
-fleeing
-flying
-forest
-furry
-gender:ambiguous
-grass
-group
-medium:detailed background
-membrane (anatomy)
-membranous wings
-meta:official art
-monster
-nature
-open mouth
-outside
-plant
-quadruped
-rating:safe
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-size difference
-species:dragon
-species:human
-species:mammal
-species:mythical
-species:primate
-species:scalie
-spikes
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-teeth
-temple
-title:wardscale dragon by jason rainville
-tongue
-tree
-twitter username
-uploader:the-thirteenth
-watermark
-weapon
-wings
+1girl,
+ambiguous gender,
+artist name,
+booru:e621,
+bridge,
+category:ine,
+charging,
+creator:jason rainville,
+debris,
+destruction,
+detailed background,
+feral,
+fight,
+fleeing,
+flying,
+forest,
+furry,
+gender:ambiguous,
+grass,
+group,
+medium:detailed background,
+membrane (anatomy),
+membranous wings,
+meta:official art,
+monster,
+nature,
+open mouth,
+outside,
+plant,
+quadruped,
+rating:safe,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+size difference,
+species:dragon,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+spikes,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+teeth,
+temple,
+title:wardscale dragon by jason rainville,
+tongue,
+tree,
+twitter username,
+uploader:the-thirteenth,
+watermark,
+weapon,
+wings,

@@ -1,64 +1,64 @@
-2018
-action:open mouth
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-blue eyes
-blue_eyes
-category:ine
-copyright:tiger_balm
-creator:cryptid-creations
-english text
-eyes:blue
-feral
-fur
-gender:ambiguous
-gender:male
-humor
-jar
-language:english
-liniment
-looking at viewer
-looking_at_viewer
-male:1
-medium:english text
-medium:simple background
-medium:text
-medium:white background
-meme:humor
-meta:2018
-meta:english text
-meta:english_text
-open mouth
-open_mouth
-orange body
-orange fur
-orange_body
-orange_fur
-pov
-pun
-rating:safe
-series:tiger balm
-simple background
-simple_background
-solo
-species:felid
-species:feline
-species:mammal
-species:pantherine
-species:tiger
-subreddit:imaginaryaww
-subreddit:immeta
-teeth
-text
-title:tiger balm by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-white background
-white body
-white fur
-white_background
-white_body
-white_fur
-year:2018
+2018,
+action:open mouth,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+blue eyes,
+blue_eyes,
+category:ine,
+copyright:tiger_balm,
+creator:cryptid-creations,
+english text,
+eyes:blue,
+feral,
+fur,
+gender:ambiguous,
+gender:male,
+humor,
+jar,
+language:english,
+liniment,
+looking at viewer,
+looking_at_viewer,
+male:1,
+medium:english text,
+medium:simple background,
+medium:text,
+medium:white background,
+meme:humor,
+meta:2018,
+meta:english text,
+meta:english_text,
+open mouth,
+open_mouth,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+pov,
+pun,
+rating:safe,
+series:tiger balm,
+simple background,
+simple_background,
+solo,
+species:felid,
+species:feline,
+species:mammal,
+species:pantherine,
+species:tiger,
+subreddit:imaginaryaww,
+subreddit:immeta,
+teeth,
+text,
+title:tiger balm by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white background,
+white body,
+white fur,
+white_background,
+white_body,
+white_fur,
+year:2018,

@@ -1,30 +1,30 @@
-art
-art of the day
-buggy
-category:ine
-clay render
-creator:liam keating
-design
-digital art
-digital design
-esa
-hotrod
-illustration
-lineart
-mars
-medium:digital 3d
-medium:digital media
-moon
-nasa
-ron cobb
-rover
-scifi
-space
-spaceship
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-syd mead
-thea
-title:moon
-uploader:scifi887
-wheel
+art,
+art of the day,
+buggy,
+category:ine,
+clay render,
+creator:liam keating,
+design,
+digital art,
+digital design,
+esa,
+hotrod,
+illustration,
+lineart,
+mars,
+medium:digital 3d,
+medium:digital media,
+moon,
+nasa,
+ron cobb,
+rover,
+scifi,
+space,
+spaceship,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+syd mead,
+thea,
+title:moon,
+uploader:scifi887,
+wheel,

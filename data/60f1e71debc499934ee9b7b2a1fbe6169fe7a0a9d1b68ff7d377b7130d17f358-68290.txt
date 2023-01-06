@@ -1,43 +1,43 @@
-1 male
-1boy
-boulder
-category:ine
-character:boulder
-clothing:headwear
-cloud
-creator:makarori
-creator:makarori (noah)
-creator:noah-kh
-dragon
-fantasy
-fighting
-fire
-flame
-furry
-gender:male
-genre:fantasy
-hat
-male
-medium:4:3 aspect ratio
-monster
-mountain
-night
-rating:safe
-rock
-series:original
-sharp teeth
-size difference
-sky
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginarybeasts
-subreddit:immonsters
-sword
-teeth
-title:mountaintop
-title:mountaintop by kuang hong
-torch
-uploader:hvitserkr
-weapon
-wizard hat
+1 male,
+1boy,
+boulder,
+category:ine,
+character:boulder,
+clothing:headwear,
+cloud,
+creator:makarori,
+creator:makarori (noah),
+creator:noah-kh,
+dragon,
+fantasy,
+fighting,
+fire,
+flame,
+furry,
+gender:male,
+genre:fantasy,
+hat,
+male,
+medium:4:3 aspect ratio,
+monster,
+mountain,
+night,
+rating:safe,
+rock,
+series:original,
+sharp teeth,
+size difference,
+sky,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginarybeasts,
+subreddit:immonsters,
+sword,
+teeth,
+title:mountaintop,
+title:mountaintop by kuang hong,
+torch,
+uploader:hvitserkr,
+weapon,
+wizard hat,

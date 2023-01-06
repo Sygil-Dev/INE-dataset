@@ -1,42 +1,42 @@
-1girl
-ajirogasa
-bird
-black umbrella
-blue umbrella
-border
-bus stop
-category:ine
-character:tatara kogasa
-holding
-holding umbrella
-hydrangea
-karakasa obake
-leaf umbrella
-oil-paper umbrella
-outdoors
-parasol
-pink umbrella
-puddle
-purple umbrella
-rain
-raincoat
-rating:safe
-red umbrella
-reflection
-rubber boots
-shared umbrella
-snail
-subreddit:imaginaryhogwarts
-subreddit:imaginaryweather
-subreddit:imfandoms
-subreddit:imnature
-title:my neighbor hagrid by erik rábago
-title:my neighbour hagrid, by erik rábago
-transparent umbrella
-umbrella
-uploader:crowe410
-uploader:lol33ta
-water drop
-wet
-white umbrella
-yellow raincoat
+1girl,
+ajirogasa,
+bird,
+black umbrella,
+blue umbrella,
+border,
+bus stop,
+category:ine,
+character:tatara kogasa,
+holding,
+holding umbrella,
+hydrangea,
+karakasa obake,
+leaf umbrella,
+oil-paper umbrella,
+outdoors,
+parasol,
+pink umbrella,
+puddle,
+purple umbrella,
+rain,
+raincoat,
+rating:safe,
+red umbrella,
+reflection,
+rubber boots,
+shared umbrella,
+snail,
+subreddit:imaginaryhogwarts,
+subreddit:imaginaryweather,
+subreddit:imfandoms,
+subreddit:imnature,
+title:my neighbor hagrid by erik rábago,
+title:my neighbour hagrid, by erik rábago,
+transparent umbrella,
+umbrella,
+uploader:crowe410,
+uploader:lol33ta,
+water drop,
+wet,
+white umbrella,
+yellow raincoat,

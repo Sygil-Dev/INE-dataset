@@ -1,37 +1,37 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-bodypart:black eyes
-branch
-category:ine
-caterpillar
-catterpillar
-clothing
-clothing:hat
-clothing:headwear
-creator:cryptid-creations
-feral
-gender:ambiguous
-gender:male
-headgear
-headwear
-humor
-larva
-leaf
-male:1
-meme:humor
-outside
-pun
-rating:safe
-solo
-species:arthropod
-species:insect
-subreddit:imaginaryaww
-subreddit:immeta
-title:"hatterpillar" by piper thibodeau
-title:daily paint 2286. hatterpillar
-uploader:shadowsgirl9
-visual pun
-visual_pun
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+branch,
+category:ine,
+caterpillar,
+catterpillar,
+clothing,
+clothing:hat,
+clothing:headwear,
+creator:cryptid-creations,
+feral,
+gender:ambiguous,
+gender:male,
+headgear,
+headwear,
+humor,
+larva,
+leaf,
+male:1,
+meme:humor,
+outside,
+pun,
+rating:safe,
+solo,
+species:arthropod,
+species:insect,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:"hatterpillar" by piper thibodeau,
+title:daily paint 2286. hatterpillar,
+uploader:shadowsgirl9,
+visual pun,
+visual_pun,

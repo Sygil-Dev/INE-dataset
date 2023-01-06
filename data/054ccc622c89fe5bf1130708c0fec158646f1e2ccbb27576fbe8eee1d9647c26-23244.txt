@@ -1,25 +1,25 @@
-1boy
-abs
-belt
-blonde hair
-boots
-brown footwear
-category:ine
-dark-skinned male
-facial hair
-fire
-full body
-gloves
-jewelry
-male focus
-muscular
-necklace
-pants
-rating:safe
-scar
-solo
-standing
-subreddit:imaginarywizards
-subreddit:imcharacters
-title:mage by weihua chen
-uploader:lol33ta
+1boy,
+abs,
+belt,
+blonde hair,
+boots,
+brown footwear,
+category:ine,
+dark-skinned male,
+facial hair,
+fire,
+full body,
+gloves,
+jewelry,
+male focus,
+muscular,
+necklace,
+pants,
+rating:safe,
+scar,
+solo,
+standing,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+title:mage by weihua chen,
+uploader:lol33ta,

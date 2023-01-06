@@ -1,48 +1,48 @@
-2018
-anthro
-anthropomorphism
-artist:ryky
-category:ine
-clothed
-clothing
-creator:ryky
-detailed background
-detailed_background
-digital media (artwork)
-grass
-holding object
-holding sword
-holding weapon
-holding_object
-holding_sword
-holding_weapon
-mammal
-medium:detailed background
-medium:digital media
-melee weapon
-melee_weapon
-meta:2018
-meta:digital_media_(artwork)
-mouse
-murid
-murine
-outside
-rating:safe
-rodent
-ryky
-solo
-species:mammal
-species:mouse
-species:murid
-species:murine
-species:rodent
-subreddit:imaginarywaterfalls
-subreddit:imnature
-sword
-title:hero
-title:hero by benjamin cehelsky
-uploader:myrandall
-water
-waterfall
-weapon
-year:2018
+2018,
+anthro,
+anthropomorphism,
+artist:ryky,
+category:ine,
+clothed,
+clothing,
+creator:ryky,
+detailed background,
+detailed_background,
+digital media (artwork),
+grass,
+holding object,
+holding sword,
+holding weapon,
+holding_object,
+holding_sword,
+holding_weapon,
+mammal,
+medium:detailed background,
+medium:digital media,
+melee weapon,
+melee_weapon,
+meta:2018,
+meta:digital_media_(artwork),
+mouse,
+murid,
+murine,
+outside,
+rating:safe,
+rodent,
+ryky,
+solo,
+species:mammal,
+species:mouse,
+species:murid,
+species:murine,
+species:rodent,
+subreddit:imaginarywaterfalls,
+subreddit:imnature,
+sword,
+title:hero,
+title:hero by benjamin cehelsky,
+uploader:myrandall,
+water,
+waterfall,
+weapon,
+year:2018,

@@ -1,25 +1,25 @@
-bare tree
-branch
-bush
-category:ine
-day
-forest
-grass
-gun
-jungle
-nature
-outdoors
-palm tree
-rating:safe
-realistic
-scenery
-snow
-subreddit:imaginaryanimals
-subreddit:imaginarysoldiers
-subreddit:imcharacters
-subreddit:imnature
-title:badgers, hold the line! by larry macdougall
-tree
-uploader:myrandall
-weapon
-website:reddit
+bare tree,
+branch,
+bush,
+category:ine,
+day,
+forest,
+grass,
+gun,
+jungle,
+nature,
+outdoors,
+palm tree,
+rating:safe,
+realistic,
+scenery,
+snow,
+subreddit:imaginaryanimals,
+subreddit:imaginarysoldiers,
+subreddit:imcharacters,
+subreddit:imnature,
+title:badgers, hold the line! by larry macdougall,
+tree,
+uploader:myrandall,
+weapon,
+website:reddit,

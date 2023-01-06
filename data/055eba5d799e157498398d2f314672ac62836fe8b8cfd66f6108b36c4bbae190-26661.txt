@@ -1,21 +1,21 @@
-1girl
-blonde hair
-book
-braid
-category:ine
-full body
-gradient
-gradient background
-holding
-holding book
-jewelry
-long hair
-long sleeves
-open book
-rating:safe
-solo
-standing
-subreddit:imaginaryclerics
-subreddit:imcharacters
-title:the hierarch by sam keiser
-uploader:lol33ta
+1girl,
+blonde hair,
+book,
+braid,
+category:ine,
+full body,
+gradient,
+gradient background,
+holding,
+holding book,
+jewelry,
+long hair,
+long sleeves,
+open book,
+rating:safe,
+solo,
+standing,
+subreddit:imaginaryclerics,
+subreddit:imcharacters,
+title:the hierarch by sam keiser,
+uploader:lol33ta,

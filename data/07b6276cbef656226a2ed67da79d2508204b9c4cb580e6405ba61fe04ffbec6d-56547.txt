@@ -1,37 +1,37 @@
-1girl
-ahoge
-armor
-armored dress
-blonde hair
-braid
-category:ine
-character:artoria pendragon (fate)
-character:saber
-creator:astri lohne
-dress
-excalibur (fate/stay night)
-gauntlets
-green eyes
-hair ribbon
-hand on hilt
-hands on hilt
-holding sword
-medium:digital 2d
-planted
-planted sword
-rating:safe
-realistic
-ribbon
-signature
-solo
-standing
-subreddit:imaginaryarmor
-subreddit:imaginaryknights
-subreddit:imcharacters
-subreddit:imtechnology
-sword
-title:saber
-title:saber by astri lohne
-uploader:net-diver
-uploader:suzzerain
-weapon
+1girl,
+ahoge,
+armor,
+armored dress,
+blonde hair,
+braid,
+category:ine,
+character:artoria pendragon (fate),
+character:saber,
+creator:astri lohne,
+dress,
+excalibur (fate/stay night),
+gauntlets,
+green eyes,
+hair ribbon,
+hand on hilt,
+hands on hilt,
+holding sword,
+medium:digital 2d,
+planted,
+planted sword,
+rating:safe,
+realistic,
+ribbon,
+signature,
+solo,
+standing,
+subreddit:imaginaryarmor,
+subreddit:imaginaryknights,
+subreddit:imcharacters,
+subreddit:imtechnology,
+sword,
+title:saber,
+title:saber by astri lohne,
+uploader:net-diver,
+uploader:suzzerain,
+weapon,

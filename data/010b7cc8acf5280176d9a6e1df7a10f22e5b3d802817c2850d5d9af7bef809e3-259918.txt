@@ -1,32 +1,32 @@
-apple
-artist name
-bird
-branch
-category:ine
-creator:kiri ø. leonard
-food
-fruit
-halloween
-halloween costume
-happy halloween
-hat
-holding vegetable
-jack o'lantern
-jack-o'-lantern
-medium:digital 2d
-no humans
-orange (fruit)
-pumpkin
-pumpkin hat
-rating:safe
-signature
-sparrow
-species:avian
-subreddit:imaginaryanimals
-subreddit:imnature
-title:pumpkin sparrow series
-title:pumpkin sparrow series, kiri østergaard leonard
-uploader:hvitserkr
-vegetable
-wings
-witch hat
+apple,
+artist name,
+bird,
+branch,
+category:ine,
+creator:kiri ø. leonard,
+food,
+fruit,
+halloween,
+halloween costume,
+happy halloween,
+hat,
+holding vegetable,
+jack o'lantern,
+jack-o'-lantern,
+medium:digital 2d,
+no humans,
+orange (fruit),
+pumpkin,
+pumpkin hat,
+rating:safe,
+signature,
+sparrow,
+species:avian,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:pumpkin sparrow series,
+title:pumpkin sparrow series, kiri østergaard leonard,
+uploader:hvitserkr,
+vegetable,
+wings,
+witch hat,

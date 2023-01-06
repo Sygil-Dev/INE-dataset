@@ -1,26 +1,26 @@
-1girl
-armor
-black hair
-castle
-category:ine
-crescent moon
-holding
-holding weapon
-kunai
-moon
-night
-night sky
-ninja
-pagoda
-rating:safe
-realistic
-shuriken
-sky
-solo
-subreddit:imaginaryninjas
-subreddit:imcharacters
-sword
-title:moonshadow by dan dos santos
-topknot
-uploader:juqu
-weapon
+1girl,
+armor,
+black hair,
+castle,
+category:ine,
+crescent moon,
+holding,
+holding weapon,
+kunai,
+moon,
+night,
+night sky,
+ninja,
+pagoda,
+rating:safe,
+realistic,
+shuriken,
+sky,
+solo,
+subreddit:imaginaryninjas,
+subreddit:imcharacters,
+sword,
+title:moonshadow by dan dos santos,
+topknot,
+uploader:juqu,
+weapon,

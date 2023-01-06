@@ -1,119 +1,119 @@
-1 female
-1girl
-10s
-armband
-armlet
-artist name
-asymmetrical armwear
-asymmetrical hair
-asymmetrical hairstyle
-booru:danbooru
-booru:gelbooru
-booru:sankaku channel
-bracelet
-breasts
-buttons
-category:ine
-character:serah farron
-cleavage
-clothing:armlet
-clothing:bracelet
-clothing:earrings
-clothing:hair tie
-clothing:jacket
-clothing:jewelry
-clothing:necklace
-clothing:shirt
-clothing:sleeveless outfit
-clothing:white shirt
-collaboration
-collar (clothes)
-creator:jonathan hamilton
-creator:lisa buijteweg
-creator:lisa_buijteweg
-creator:sky
-creator:tsuaii
-creator:tsuaii (artist)
-creator:zolaida
-drawn
-earrings
-exposed shoulders
-female
-female focus
-female only
-gem
-gender:female
-grey eyes
-hair tie
-hair:pink hair
-jacket
-jewelry
-language:english
-long hair
-looking at viewer
-medium:artist name
-medium:collaboration
-medium:english text
-medium:fanart from deviantart
-medium:focus on female character
-medium:high resolution
-medium:realistic
-medium:text
-meta:artist name
-meta:collaboration
-meta:commentary request
-meta:highres
-meta:photoshop (medium)
-necklace
-non-nude
-open clothes
-open mouth
-open vest
-outdoors
-outside
-piercing
-pink gem
-pink hair
-point of view
-ponytail
-pov
-rating:general
-rating:mature
-rating:questionable
-rating:s
-rating:safe
-realistic
-sarah farron
-see-through
-see-through clothing
-series:final fantasy
-series:final fantasy xiii
-series:square enix
-shirt
-side ponytail
-silver eyes
-site:deviantart
-sky
-sleeveless
-sleeveless shirt
-slight smile
-smile
-solo
-solo female
-sparkle
-studio:square enix
-subreddit:imaginaryfashion
-subreddit:immeta
-teeth
-text
-tied hair
-title:serah
-title:serah by jonathan hamilton
-transparent clothing
-uploader:lol33ta
-upper body
-vest
-waist up
-white shirt
-wind
-year:10s
+1 female,
+1girl,
+10s,
+armband,
+armlet,
+artist name,
+asymmetrical armwear,
+asymmetrical hair,
+asymmetrical hairstyle,
+booru:danbooru,
+booru:gelbooru,
+booru:sankaku channel,
+bracelet,
+breasts,
+buttons,
+category:ine,
+character:serah farron,
+cleavage,
+clothing:armlet,
+clothing:bracelet,
+clothing:earrings,
+clothing:hair tie,
+clothing:jacket,
+clothing:jewelry,
+clothing:necklace,
+clothing:shirt,
+clothing:sleeveless outfit,
+clothing:white shirt,
+collaboration,
+collar (clothes),
+creator:jonathan hamilton,
+creator:lisa buijteweg,
+creator:lisa_buijteweg,
+creator:sky,
+creator:tsuaii,
+creator:tsuaii (artist),
+creator:zolaida,
+drawn,
+earrings,
+exposed shoulders,
+female,
+female focus,
+female only,
+gem,
+gender:female,
+grey eyes,
+hair tie,
+hair:pink hair,
+jacket,
+jewelry,
+language:english,
+long hair,
+looking at viewer,
+medium:artist name,
+medium:collaboration,
+medium:english text,
+medium:fanart from deviantart,
+medium:focus on female character,
+medium:high resolution,
+medium:realistic,
+medium:text,
+meta:artist name,
+meta:collaboration,
+meta:commentary request,
+meta:highres,
+meta:photoshop (medium),
+necklace,
+non-nude,
+open clothes,
+open mouth,
+open vest,
+outdoors,
+outside,
+piercing,
+pink gem,
+pink hair,
+point of view,
+ponytail,
+pov,
+rating:general,
+rating:mature,
+rating:questionable,
+rating:s,
+rating:safe,
+realistic,
+sarah farron,
+see-through,
+see-through clothing,
+series:final fantasy,
+series:final fantasy xiii,
+series:square enix,
+shirt,
+side ponytail,
+silver eyes,
+site:deviantart,
+sky,
+sleeveless,
+sleeveless shirt,
+slight smile,
+smile,
+solo,
+solo female,
+sparkle,
+studio:square enix,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+teeth,
+text,
+tied hair,
+title:serah,
+title:serah by jonathan hamilton,
+transparent clothing,
+uploader:lol33ta,
+upper body,
+vest,
+waist up,
+white shirt,
+wind,
+year:10s,

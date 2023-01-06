@@ -1,47 +1,47 @@
-4 toes
-ambiguous gender
-anisodactyl
-beak
-bird feet
-booru:e621
-category:ine
-creator:aquasixio
-detailed background
-feathered wings
-feathers
-feet
-feral
-flower
-gender:ambiguous
-grey body
-grey feathers
-indoors
-inside
-keyboard instrument
-light
-medium:detailed background
-medium:high resolution
-meta:hi res
-musical instrument
-musical note
-piano
-plant
-playing music
-rating:safe
-sheet music
-solo
-species:avian
-species:bird
-species:owl
-standing
-subreddit:imaginaryanimals
-subreddit:imnature
-sunbeam
-sunlight
-tail feathers
-title:piano lesson by cyril rolando
-toes
-uploader:lambentenigma
-website:reddit
-window
-wings
+4 toes,
+ambiguous gender,
+anisodactyl,
+beak,
+bird feet,
+booru:e621,
+category:ine,
+creator:aquasixio,
+detailed background,
+feathered wings,
+feathers,
+feet,
+feral,
+flower,
+gender:ambiguous,
+grey body,
+grey feathers,
+indoors,
+inside,
+keyboard instrument,
+light,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+musical instrument,
+musical note,
+piano,
+plant,
+playing music,
+rating:safe,
+sheet music,
+solo,
+species:avian,
+species:bird,
+species:owl,
+standing,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+sunbeam,
+sunlight,
+tail feathers,
+title:piano lesson by cyril rolando,
+toes,
+uploader:lambentenigma,
+website:reddit,
+window,
+wings,

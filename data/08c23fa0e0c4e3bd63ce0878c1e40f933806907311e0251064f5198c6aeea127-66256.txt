@@ -1,25 +1,25 @@
-1girl
-blonde hair
-bug
-butterfly
-category:ine
-forest
-ghost
-glowing
-grass
-hitodama
-holding
-japanese clothes
-katana
-nature
-rating:safe
-signature
-subreddit:imaginaryfaeries
-subreddit:imaginarylovers
-subreddit:imcharacters
-subreddit:imraces
-sword
-title:strange magic by zeng lin
-tree
-uploader:lol33ta
-weapon
+1girl,
+blonde hair,
+bug,
+butterfly,
+category:ine,
+forest,
+ghost,
+glowing,
+grass,
+hitodama,
+holding,
+japanese clothes,
+katana,
+nature,
+rating:safe,
+signature,
+subreddit:imaginaryfaeries,
+subreddit:imaginarylovers,
+subreddit:imcharacters,
+subreddit:imraces,
+sword,
+title:strange magic by zeng lin,
+tree,
+uploader:lol33ta,
+weapon,

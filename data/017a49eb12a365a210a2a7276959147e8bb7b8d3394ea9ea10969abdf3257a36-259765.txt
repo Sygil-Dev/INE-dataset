@@ -1,29 +1,29 @@
-1girl
-book
-bookshelf
-bottle
-brown hair
-cactus
-cat
-category:ine
-chair
-clock
-cup
-flower
-flower pot
-indoors
-leaf
-long hair
-plant
-potted plant
-rating:safe
-shirt
-solo
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-title:habitat by sarah webb
-uploader:[deleted]
-uploader:ethan_kahn
-vines
-watering can
-window
+1girl,
+book,
+bookshelf,
+bottle,
+brown hair,
+cactus,
+cat,
+category:ine,
+chair,
+clock,
+cup,
+flower,
+flower pot,
+indoors,
+leaf,
+long hair,
+plant,
+potted plant,
+rating:safe,
+shirt,
+solo,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+title:habitat by sarah webb,
+uploader:[deleted],
+uploader:ethan_kahn,
+vines,
+watering can,
+window,

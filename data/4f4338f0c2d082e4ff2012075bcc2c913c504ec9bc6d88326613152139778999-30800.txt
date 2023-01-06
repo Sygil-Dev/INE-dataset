@@ -1,23 +1,23 @@
-animals
-cardgame
-cat
-category:ine
-colloseum
-creator:ala kapustka
-feline
-gameart
-games
-gwent
-keeper
-medium:digital 2d
-menagerie
-panther
-subreddit:imaginaryanimals
-subreddit:imaginarypets
-subreddit:immeta
-subreddit:imnature
-title:gwent - menagerie keeper
-title:gwent - menagerie keeper by ala kapustka
-uploader:tallantas
-website:reddit
-witcher
+animals,
+cardgame,
+cat,
+category:ine,
+colloseum,
+creator:ala kapustka,
+feline,
+gameart,
+games,
+gwent,
+keeper,
+medium:digital 2d,
+menagerie,
+panther,
+subreddit:imaginaryanimals,
+subreddit:imaginarypets,
+subreddit:immeta,
+subreddit:imnature,
+title:gwent - menagerie keeper,
+title:gwent - menagerie keeper by ala kapustka,
+uploader:tallantas,
+website:reddit,
+witcher,

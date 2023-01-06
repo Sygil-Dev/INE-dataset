@@ -1,37 +1,37 @@
-assault rifle
-beach
-category:ine
-character:g11 (girls' frontline)
-character:hk416 (girls' frontline)
-character:ump9 (girls' frontline)
-character:ump45 (girls' frontline)
-city lights
-earth (planet)
-gun
-helicopter
-horizon
-island
-lake
-long hair
-multiple girls
-ocean
-outdoors
-planet
-rating:safe
-rifle
-river
-sand
-scenery
-space
-subreddit:imaginarycolorscapes
-subreddit:imaginaryforests
-subreddit:imaginarywaterfalls
-subreddit:imaginaryworlds
-subreddit:imlandscapes
-subreddit:immeta
-subreddit:imnature
-title:setting up camp by czepeku (me)
-uploader:czepeku
-water
-watercraft
-weapon
+assault rifle,
+beach,
+category:ine,
+character:g11 (girls' frontline),
+character:hk416 (girls' frontline),
+character:ump9 (girls' frontline),
+character:ump45 (girls' frontline),
+city lights,
+earth (planet),
+gun,
+helicopter,
+horizon,
+island,
+lake,
+long hair,
+multiple girls,
+ocean,
+outdoors,
+planet,
+rating:safe,
+rifle,
+river,
+sand,
+scenery,
+space,
+subreddit:imaginarycolorscapes,
+subreddit:imaginaryforests,
+subreddit:imaginarywaterfalls,
+subreddit:imaginaryworlds,
+subreddit:imlandscapes,
+subreddit:immeta,
+subreddit:imnature,
+title:setting up camp by czepeku (me),
+uploader:czepeku,
+water,
+watercraft,
+weapon,

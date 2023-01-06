@@ -1,53 +1,53 @@
-aircraft
-airplane
-artist:ling xiang
-battleship
-category:ine
-cloud
-cloudy sky
-copyright:original
-creator:ling xiang
-day
-flying
-historical event
-medium:digital 2d
-medium:high resolution
-meta:commentary
-meta:highres
-military
-military vehicle
-military watercraft
-no humans
-ocean
-outdoors
-outside
-rating:mature
-rating:safe
-scenery
-seascape
-series:original
-ship
-signature
-sky
-subreddit:imaginaryseascapes
-subreddit:imaginaryvessels
-subreddit:imaginarywarships
-subreddit:imlandscapes
-subreddit:imtechnology
-tbf avenger
-title:naval battle
-title:naval battle by ling xiang
-title:naval battle by ling xiang [x-post /r/imaginaryairships]
-title:naval battle, by ling xiang
-torpedo
-uploader:danilosaur
-uploader:miciy5
-uploader:valar_m0rghul1s
-vehicle
-war
-warship
-water
-watercraft
-waves
-world war ii
-yamato (battleship)
+aircraft,
+airplane,
+artist:ling xiang,
+battleship,
+category:ine,
+cloud,
+cloudy sky,
+copyright:original,
+creator:ling xiang,
+day,
+flying,
+historical event,
+medium:digital 2d,
+medium:high resolution,
+meta:commentary,
+meta:highres,
+military,
+military vehicle,
+military watercraft,
+no humans,
+ocean,
+outdoors,
+outside,
+rating:mature,
+rating:safe,
+scenery,
+seascape,
+series:original,
+ship,
+signature,
+sky,
+subreddit:imaginaryseascapes,
+subreddit:imaginaryvessels,
+subreddit:imaginarywarships,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+tbf avenger,
+title:naval battle,
+title:naval battle by ling xiang,
+title:naval battle by ling xiang [x-post /r/imaginaryairships],
+title:naval battle, by ling xiang,
+torpedo,
+uploader:danilosaur,
+uploader:miciy5,
+uploader:valar_m0rghul1s,
+vehicle,
+war,
+warship,
+water,
+watercraft,
+waves,
+world war ii,
+yamato (battleship),

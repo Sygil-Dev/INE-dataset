@@ -1,25 +1,25 @@
-car
-category:ine
-caterpillar tracks
-cloud
-day
-desert
-dust
-emblem
-ground vehicle
-military
-military vehicle
-motor vehicle
-no humans
-outdoors
-rating:safe
-sky
-star (sky)
-starry sky
-subreddit:imaginaryvehicles
-subreddit:imtechnology
-tank
-tank focus
-title:boy-c.mobile.31 by mike winkelmann (beeple)
-uploader:elumental
-vehicle focus
+car,
+category:ine,
+caterpillar tracks,
+cloud,
+day,
+desert,
+dust,
+emblem,
+ground vehicle,
+military,
+military vehicle,
+motor vehicle,
+no humans,
+outdoors,
+rating:safe,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginaryvehicles,
+subreddit:imtechnology,
+tank,
+tank focus,
+title:boy-c.mobile.31 by mike winkelmann (beeple),
+uploader:elumental,
+vehicle focus,

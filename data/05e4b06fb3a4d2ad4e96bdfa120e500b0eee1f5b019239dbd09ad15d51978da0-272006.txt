@@ -1,23 +1,23 @@
-1boy
-1girl
-black hair
-cape
-category:ine
-closed eyes
-creator:sigune
-double bun
-dress
-hair bun
-jewelry
-multiple boys
-painting (medium)
-rating:safe
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-sword
-title:a patented daydream
-title:a patented daydream by sigune
-traditional media
-uploader:lol33ta
-watercolor (medium)
-weapon
+1boy,
+1girl,
+black hair,
+cape,
+category:ine,
+closed eyes,
+creator:sigune,
+double bun,
+dress,
+hair bun,
+jewelry,
+multiple boys,
+painting (medium),
+rating:safe,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+sword,
+title:a patented daydream,
+title:a patented daydream by sigune,
+traditional media,
+uploader:lol33ta,
+watercolor (medium),
+weapon,

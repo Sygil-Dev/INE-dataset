@@ -1,25 +1,25 @@
-azevedo
-category:ine
-creator:mike azevedo
-crocodile
-detective
-family
-furry
-medium:digital 2d
-mike
-mike azevedo
-shaman
-species:crocodile
-species:crocodilian
-species:reptile
-species:scalie
-subreddit:imaginaryscholars
-subreddit:imcharacters
-thu
-thutv
-title:"i'm coming for her, detective"
-title:"i'm coming for her, detective" by mike azevedo
-trojan horse
-undead dragon
-unicorn
-uploader:lol33ta
+azevedo,
+category:ine,
+creator:mike azevedo,
+crocodile,
+detective,
+family,
+furry,
+medium:digital 2d,
+mike,
+mike azevedo,
+shaman,
+species:crocodile,
+species:crocodilian,
+species:reptile,
+species:scalie,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+thu,
+thutv,
+title:"i'm coming for her, detective",
+title:"i'm coming for her, detective" by mike azevedo,
+trojan horse,
+undead dragon,
+unicorn,
+uploader:lol33ta,

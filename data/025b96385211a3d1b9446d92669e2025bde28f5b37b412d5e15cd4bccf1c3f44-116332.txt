@@ -1,25 +1,25 @@
-artcenter
-category:ine
-concept art
-concept sketches
-creator:maja rogocka
-cult temple
-fall 2019
-fantasy
-final concept art
-game design
-lineart
-medium:digital 2d
-portfolio
-project
-rating:safe
-sisterhood
-sketch
-subreddit:imaginarytemples
-subreddit:imarchitecture
-temple design
-title:sisterhood | cult temple
-title:sisterhood | cult temple by maja rogocka
-tree
-uploader:net-diver
-weapon
+artcenter,
+category:ine,
+concept art,
+concept sketches,
+creator:maja rogocka,
+cult temple,
+fall 2019,
+fantasy,
+final concept art,
+game design,
+lineart,
+medium:digital 2d,
+portfolio,
+project,
+rating:safe,
+sisterhood,
+sketch,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+temple design,
+title:sisterhood | cult temple,
+title:sisterhood | cult temple by maja rogocka,
+tree,
+uploader:net-diver,
+weapon,

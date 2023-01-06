@@ -1,26 +1,26 @@
-ambush
-armor
-beard
-cardgame
-category:ine
-creator:jackson tjota
-facial hair
-fangs
-forest
-helmet
-hunter
-medium:digital 2d
-nature
-open mouth
-ortor
-plant
-rating:safe
-subreddit:imaginarywerewolves
-subreddit:immonsters
-tcg
-teeth
-title:wildwood hunter, jackson tjota from artstation
-title:zems - wildwood hunter
-tree
-uploader:nikephoros_ii_phokas
-zems
+ambush,
+armor,
+beard,
+cardgame,
+category:ine,
+creator:jackson tjota,
+facial hair,
+fangs,
+forest,
+helmet,
+hunter,
+medium:digital 2d,
+nature,
+open mouth,
+ortor,
+plant,
+rating:safe,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+tcg,
+teeth,
+title:wildwood hunter, jackson tjota from artstation,
+title:zems - wildwood hunter,
+tree,
+uploader:nikephoros_ii_phokas,
+zems,

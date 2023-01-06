@@ -1,49 +1,49 @@
-1 female
-1girl
-category:ine
-character:quarian
-character:tali'zorah
-character:tali'zorah vas normandy
-creator:shilin
-digital
-drawing
-fanart
-fewer digits
-gender:female
-girl
-headwear
-helmet
-illustration
-mask
-mask removed
-masseffect
-masseffect3
-okolnir
-painting
-patreon
-photoshop
-portrait
-purple skin
-quarian
-race:quarian
-rating:mature
-rating:s
-rating:safe
-series:mass effect
-shilin
-smile
-solo
-species:alien
-species:human
-species:mammal
-species:quarian
-subreddit:imaginarymasseffect
-subreddit:imfandoms
-tali
-talizorah
-talizorahvasnormandy
-title:tali'zorah vas normandy - rough piece for patreon
-title:tali'zorah vas normandy - rough piece for patreon by shilin huang
-uploader:net-diver
-upper body
-woman
+1 female,
+1girl,
+category:ine,
+character:quarian,
+character:tali'zorah,
+character:tali'zorah vas normandy,
+creator:shilin,
+digital,
+drawing,
+fanart,
+fewer digits,
+gender:female,
+girl,
+headwear,
+helmet,
+illustration,
+mask,
+mask removed,
+masseffect,
+masseffect3,
+okolnir,
+painting,
+patreon,
+photoshop,
+portrait,
+purple skin,
+quarian,
+race:quarian,
+rating:mature,
+rating:s,
+rating:safe,
+series:mass effect,
+shilin,
+smile,
+solo,
+species:alien,
+species:human,
+species:mammal,
+species:quarian,
+subreddit:imaginarymasseffect,
+subreddit:imfandoms,
+tali,
+talizorah,
+talizorahvasnormandy,
+title:tali'zorah vas normandy - rough piece for patreon,
+title:tali'zorah vas normandy - rough piece for patreon by shilin huang,
+uploader:net-diver,
+upper body,
+woman,

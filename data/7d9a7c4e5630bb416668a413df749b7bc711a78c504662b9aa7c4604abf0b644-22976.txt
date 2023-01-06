@@ -1,28 +1,28 @@
-beautiful
-creator:takayama7
-creator:takayama toshiaki
-creator:タカヤマトシアキ
-creator:タカヤマトシアキ@ティア展26
-creator:タカヤマトシアキ@月曜ハ08a
-furry
-genre:fantasy
-original
-original 1000 users bookmark
-original character
-pixiv artist id:37577
-pixiv illust id:51925258
-pixiv work:51925258
-series:original
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-title:gold forest, by toshiaki takayama
-title:黄金の森
-uploader:belledame-sans-serif
-ふつくしい
-オリジナル
-オリジナル1000users入り
-ファンタジー
-美男子
+beautiful,
+creator:takayama7,
+creator:takayama toshiaki,
+creator:タカヤマトシアキ,
+creator:タカヤマトシアキ@ティア展26,
+creator:タカヤマトシアキ@月曜ハ08a,
+furry,
+genre:fantasy,
+original,
+original 1000 users bookmark,
+original character,
+pixiv artist id:37577,
+pixiv illust id:51925258,
+pixiv work:51925258,
+series:original,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+title:gold forest, by toshiaki takayama,
+title:黄金の森,
+uploader:belledame-sans-serif,
+ふつくしい,
+オリジナル,
+オリジナル1000users入り,
+ファンタジー,
+美男子,

@@ -1,70 +1,70 @@
-1 female
-1girl
-black hair
-black legwear
-blue sky
-blurry
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-bridge
-cable
-category:ine
-clothing:legwear
-coat
-commentary request
-creator:yomochi (y0m0chi)
-day
-depth of field
-facing away
-feet out of frame
-from behind
-fur
-fur trim
-fur trimm
-fur-trimmed
-fur-trimmed hood
-gender:female
-ground vehicle
-hand up
-highres
-hood
-hood down
-hooded coat
-lamppost
-lens flare
-long hair
-medium:high resolution
-meta:commentary request
-meta:highres
-outdoors
-outside
-pantyhose
-power lines
-railroad tracks
-rating:mature
-rating:safe
-red string
-scenery
-series:original
-sky
-snow
-snowing
-solo
-standing
-string
-string of fate
-subreddit:imaginaryfeels
-subreddit:immeta
-title:"i'm supposed to say goodbye and yet still..." by yomochi (xpost /r/imaginarysliceoflife)
-train
-train station
-uploader:zerociipher
-vehicle
-waving
-white coat
-winter
-winter clothes
-winter coat
-yomochi (y0m0chi)
+1 female,
+1girl,
+black hair,
+black legwear,
+blue sky,
+blurry,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+bridge,
+cable,
+category:ine,
+clothing:legwear,
+coat,
+commentary request,
+creator:yomochi (y0m0chi),
+day,
+depth of field,
+facing away,
+feet out of frame,
+from behind,
+fur,
+fur trim,
+fur trimm,
+fur-trimmed,
+fur-trimmed hood,
+gender:female,
+ground vehicle,
+hand up,
+highres,
+hood,
+hood down,
+hooded coat,
+lamppost,
+lens flare,
+long hair,
+medium:high resolution,
+meta:commentary request,
+meta:highres,
+outdoors,
+outside,
+pantyhose,
+power lines,
+railroad tracks,
+rating:mature,
+rating:safe,
+red string,
+scenery,
+series:original,
+sky,
+snow,
+snowing,
+solo,
+standing,
+string,
+string of fate,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+title:"i'm supposed to say goodbye and yet still..." by yomochi (xpost /r/imaginarysliceoflife),
+train,
+train station,
+uploader:zerociipher,
+vehicle,
+waving,
+white coat,
+winter,
+winter clothes,
+winter coat,
+yomochi (y0m0chi),

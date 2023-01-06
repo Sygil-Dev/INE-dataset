@@ -1,59 +1,59 @@
-air
-airman
-arm cannon
-art
-blue eyes
-bubble
-bubbleman
-capcom
-category:ine
-character:air man
-character:bubble man
-character:crash man
-character:flash man
-character:heat man
-character:metal man
-character:quick man
-character:wood man
-clash
-clashman
-crash
-crashman
-creator:iandimas
-drill
-drill hand
-fanart
-flash
-flashman
-full body
-heat
-heatman
-looking at viewer
-man
-mega
-megaman
-meta:highres
-metal
-metalman
-no humans
-pose
-quick
-quickman
-rating:sensitive
-red eyes
-robot
-robot ears
-rock
-rockman
-series:capcom
-series:mega man 2
-series:mega man (classic)
-series:mega man (series)
-subreddit:imaginarygaming
-subreddit:imfandoms
-title:"daily rockman - rockman 2 robot masters" by ian dimas de almeida
-title:daily rockman - rockman 2 robot masters
-uploader:torvusil
-weapon
-wood
-woodman
+air,
+airman,
+arm cannon,
+art,
+blue eyes,
+bubble,
+bubbleman,
+capcom,
+category:ine,
+character:air man,
+character:bubble man,
+character:crash man,
+character:flash man,
+character:heat man,
+character:metal man,
+character:quick man,
+character:wood man,
+clash,
+clashman,
+crash,
+crashman,
+creator:iandimas,
+drill,
+drill hand,
+fanart,
+flash,
+flashman,
+full body,
+heat,
+heatman,
+looking at viewer,
+man,
+mega,
+megaman,
+meta:highres,
+metal,
+metalman,
+no humans,
+pose,
+quick,
+quickman,
+rating:sensitive,
+red eyes,
+robot,
+robot ears,
+rock,
+rockman,
+series:capcom,
+series:mega man 2,
+series:mega man (classic),
+series:mega man (series),
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+title:"daily rockman - rockman 2 robot masters" by ian dimas de almeida,
+title:daily rockman - rockman 2 robot masters,
+uploader:torvusil,
+weapon,
+wood,
+woodman,

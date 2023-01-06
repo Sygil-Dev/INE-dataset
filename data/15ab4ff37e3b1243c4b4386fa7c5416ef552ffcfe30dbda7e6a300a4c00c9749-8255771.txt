@@ -1,80 +1,80 @@
-1 female
-1girl
-aiming
-blonde hair
-blue eyes
-booru:danbooru
-booru:danbooru-safebooru
-booru:gelbooru
-booru:safebooru
-booru:sankaku channel
-boots
-category:ine
-character:tess turner
-clothing:boots
-clothing:footwear
-clothing:hat
-clothing:headwear
-clothing:legwear
-clothing:pants
-creator:raikoart
-creator:sean "raiko" tay
-creator:sean tay
-creator:ライコ
-facing viewer
-female
-firearm
-fireworks
-footwear
-gender:female
-genre:science fiction
-gun
-hair between eyes
-hat
-high collar
-holding
-holding object
-holding weapon
-knee boots
-legwear
-lips
-long coat
-looking away
-looking through legs
-medium:digital 2d
-medium:sketch
-meta:commentary request
-meta:sketch
-oc
-outdoors
-outside
-page:1
-pants
-parted lips
-raiko
-raikoart
-railgun
-rating:mature
-rating:safe
-rating:sensitive
-science fiction
-scifi
-series:original
-short hair
-sitting
-sketch
-smoke
-smoking gun
-solo
-spy
-studio:fireworks
-subreddit:imaginaryassassins
-subreddit:imcharacters
-tess
-tess turner
-title:oc tess sketches 3
-title:tess sketches 4
-title:tess sketches 4 by sean "raiko" tay
-uploader:panzer-kunst
-weapon
-スパイ
+1 female,
+1girl,
+aiming,
+blonde hair,
+blue eyes,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:gelbooru,
+booru:safebooru,
+booru:sankaku channel,
+boots,
+category:ine,
+character:tess turner,
+clothing:boots,
+clothing:footwear,
+clothing:hat,
+clothing:headwear,
+clothing:legwear,
+clothing:pants,
+creator:raikoart,
+creator:sean "raiko" tay,
+creator:sean tay,
+creator:ライコ,
+facing viewer,
+female,
+firearm,
+fireworks,
+footwear,
+gender:female,
+genre:science fiction,
+gun,
+hair between eyes,
+hat,
+high collar,
+holding,
+holding object,
+holding weapon,
+knee boots,
+legwear,
+lips,
+long coat,
+looking away,
+looking through legs,
+medium:digital 2d,
+medium:sketch,
+meta:commentary request,
+meta:sketch,
+oc,
+outdoors,
+outside,
+page:1,
+pants,
+parted lips,
+raiko,
+raikoart,
+railgun,
+rating:mature,
+rating:safe,
+rating:sensitive,
+science fiction,
+scifi,
+series:original,
+short hair,
+sitting,
+sketch,
+smoke,
+smoking gun,
+solo,
+spy,
+studio:fireworks,
+subreddit:imaginaryassassins,
+subreddit:imcharacters,
+tess,
+tess turner,
+title:oc tess sketches 3,
+title:tess sketches 4,
+title:tess sketches 4 by sean "raiko" tay,
+uploader:panzer-kunst,
+weapon,
+スパイ,

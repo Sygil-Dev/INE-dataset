@@ -1,53 +1,53 @@
-2018
-ambiguous gender
-ambiguous_gender
-artist:themefinland
-category:ine
-claws
-creator:themefinland
-gender:ambiguous
-glowing
-glowing eyes
-glowing_eyes
-group
-medium:16:9 aspect ratio
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-meta:16:9
-meta:2018
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-monster
-moon
-night
-open mouth
-open_mouth
-outside
-rating:safe
-red eyes
-red_eyes
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-standing
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:"cult of the old moon" by themefinland
-title:cult of the old moon
-tongue
-tongue out
-tongue_out
-uploader:torvusil
-year:2018
+2018,
+ambiguous gender,
+ambiguous_gender,
+artist:themefinland,
+category:ine,
+claws,
+creator:themefinland,
+gender:ambiguous,
+glowing,
+glowing eyes,
+glowing_eyes,
+group,
+medium:16:9 aspect ratio,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+meta:16:9,
+meta:2018,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+monster,
+moon,
+night,
+open mouth,
+open_mouth,
+outside,
+rating:safe,
+red eyes,
+red_eyes,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+standing,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:"cult of the old moon" by themefinland,
+title:cult of the old moon,
+tongue,
+tongue out,
+tongue_out,
+uploader:torvusil,
+year:2018,

@@ -1,26 +1,26 @@
-1boy
-artist name
-beard
-cape
-category:ine
-coat
-copyright name
-facial hair
-fur collar
-fur trim
-holding
-male focus
-mustache
-old
-old man
-rating:safe
-solo
-subreddit:imaginarydemons
-subreddit:immonsters
-sword
-title:gwent - madmen: udalryk by anna podedworna
-uploader:knighterrannt
-watermark
-weapon
-web address
-wrinkled skin
+1boy,
+artist name,
+beard,
+cape,
+category:ine,
+coat,
+copyright name,
+facial hair,
+fur collar,
+fur trim,
+holding,
+male focus,
+mustache,
+old,
+old man,
+rating:safe,
+solo,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+sword,
+title:gwent - madmen: udalryk by anna podedworna,
+uploader:knighterrannt,
+watermark,
+weapon,
+web address,
+wrinkled skin,

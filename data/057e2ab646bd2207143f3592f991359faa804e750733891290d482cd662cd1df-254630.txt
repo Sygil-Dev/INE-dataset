@@ -1,25 +1,25 @@
-animal
-artist name
-bird
-cat
-category:ine
-constellation
-crescent moon
-english text
-moon
-night
-night sky
-no humans
-penguin
-rating:safe
-sky
-space
-star (sky)
-star (symbol)
-starry sky
-starry sky print
-subreddit:imaginaryaww
-subreddit:immeta
-title:music fox by piper thibodeau
-uploader:lol33ta
-watermark
+animal,
+artist name,
+bird,
+cat,
+category:ine,
+constellation,
+crescent moon,
+english text,
+moon,
+night,
+night sky,
+no humans,
+penguin,
+rating:safe,
+sky,
+space,
+star (sky),
+star (symbol),
+starry sky,
+starry sky print,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:music fox by piper thibodeau,
+uploader:lol33ta,
+watermark,

@@ -1,35 +1,35 @@
-army
-balrog
-barad dur
-blur
-category:ine
-cinematic
-concept
-creator:wardenlight studio
-earth
-epic
-fx
-jewelry
-keyart
-lord
-medium:digital 2d
-middle
-minas
-mordor
-morgul
-mount doom
-mountain
-ring
-sauron
-shadow of war
-soldiers
-subreddit:imaginaryhellscapes
-subreddit:imaginarymiddleearth
-subreddit:imaginarytowers
-subreddit:imfandoms
-subreddit:imlandscapes
-title:shadow of war cinematic - minas morgul
-title:shadow of war cinematic - minas morgul by jessica rossier of wardenlight studio
-uploader:natezomby
-volcano
-warner
+army,
+balrog,
+barad dur,
+blur,
+category:ine,
+cinematic,
+concept,
+creator:wardenlight studio,
+earth,
+epic,
+fx,
+jewelry,
+keyart,
+lord,
+medium:digital 2d,
+middle,
+minas,
+mordor,
+morgul,
+mount doom,
+mountain,
+ring,
+sauron,
+shadow of war,
+soldiers,
+subreddit:imaginaryhellscapes,
+subreddit:imaginarymiddleearth,
+subreddit:imaginarytowers,
+subreddit:imfandoms,
+subreddit:imlandscapes,
+title:shadow of war cinematic - minas morgul,
+title:shadow of war cinematic - minas morgul by jessica rossier of wardenlight studio,
+uploader:natezomby,
+volcano,
+warner,

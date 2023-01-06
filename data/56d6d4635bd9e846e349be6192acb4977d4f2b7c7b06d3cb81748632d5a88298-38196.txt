@@ -1,24 +1,24 @@
-aeg
-alderac
-armor
-card
-category:ine
-ccg
-clothing:armor
-creator:damie-m
-creator:damie_m
-darkart
-edgeofdarkness
-game
-monster
-rpg
-shield
-skeleton
-source:furaffinity.net
-species:undead
-subreddit:imaginaryundead
-subreddit:immonsters
-title:dark agent - edge of darkness
-title:dark agent - edge of darkness by damien mammoliti
-undead
-uploader:myrandall
+aeg,
+alderac,
+armor,
+card,
+category:ine,
+ccg,
+clothing:armor,
+creator:damie-m,
+creator:damie_m,
+darkart,
+edgeofdarkness,
+game,
+monster,
+rpg,
+shield,
+skeleton,
+source:furaffinity.net,
+species:undead,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+title:dark agent - edge of darkness,
+title:dark agent - edge of darkness by damien mammoliti,
+undead,
+uploader:myrandall,

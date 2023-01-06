@@ -1,52 +1,52 @@
-aircraft
-airplane
-beach
-boat
-bridge
-category:ine
-city
-city lights
-cityscape
-cloud
-cloudy sky
-dock
-dusk
-evening
-fire
-gradient sky
-horizon
-island
-lake
-lighthouse
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-pier
-planet
-rating:safe
-red sky
-reflection
-river
-scenery
-seagull
-ship
-shore
-sky
-subreddit:imaginaryvessels
-subreddit:imaginarywarships
-subreddit:imtechnology
-sun
-sunlight
-sunrise
-sunset
-title:electronic battleship by dave seeley
-twilight
-uploader:faeryknight
-uploader:kingswhiskey
-uploader:yannirotten
-water
-watercraft
-waves
+aircraft,
+airplane,
+beach,
+boat,
+bridge,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+dock,
+dusk,
+evening,
+fire,
+gradient sky,
+horizon,
+island,
+lake,
+lighthouse,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+pier,
+planet,
+rating:safe,
+red sky,
+reflection,
+river,
+scenery,
+seagull,
+ship,
+shore,
+sky,
+subreddit:imaginaryvessels,
+subreddit:imaginarywarships,
+subreddit:imtechnology,
+sun,
+sunlight,
+sunrise,
+sunset,
+title:electronic battleship by dave seeley,
+twilight,
+uploader:faeryknight,
+uploader:kingswhiskey,
+uploader:yannirotten,
+water,
+watercraft,
+waves,

@@ -1,23 +1,23 @@
-antropomorphism
-big cat
-brushwork
-card game art
-category:ine
-character
-creator:guilherme da cas
-digital painting
-fantasy
-feline
-illustration
-jaguar
-medium:digital 2d
-night scene
-onça
-rogue
-smoke
-subreddit:imaginarywerewolves
-subreddit:immonsters
-tiger
-title:jaguar rogue
-title:jaguar rogue, guilherme da cas, artstation.com
-uploader:nikephoros_ii_phokas
+antropomorphism,
+big cat,
+brushwork,
+card game art,
+category:ine,
+character,
+creator:guilherme da cas,
+digital painting,
+fantasy,
+feline,
+illustration,
+jaguar,
+medium:digital 2d,
+night scene,
+onça,
+rogue,
+smoke,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+tiger,
+title:jaguar rogue,
+title:jaguar rogue, guilherme da cas, artstation.com,
+uploader:nikephoros_ii_phokas,

@@ -1,21 +1,21 @@
-beauty
-category:ine
-cold
-creator:thatoneplay
-crystal
-darkness
-fantasy
-fjord
-freezing
-lake
-landscape
-moonlight
-mountains
-mystery
-nature
-night
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-title:fjord norge
-title:fjord norge by ovidiu vladut
-uploader:fireflycities
+beauty,
+category:ine,
+cold,
+creator:thatoneplay,
+crystal,
+darkness,
+fantasy,
+fjord,
+freezing,
+lake,
+landscape,
+moonlight,
+mountains,
+mystery,
+nature,
+night,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+title:fjord norge,
+title:fjord norge by ovidiu vladut,
+uploader:fireflycities,

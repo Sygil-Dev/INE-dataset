@@ -1,58 +1,58 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-band-aid
-bandage
-black eyes
-black_eyes
-bodypart:black eyes
-bottle
-category:ine
-creator:cryptid-creations
-feral
-first aid kit
-first_aid_kit
-fur
-gender:ambiguous
-gender:female
-grey body
-grey fur
-grey_body
-grey_fur
-group
-humor
-loli body type
-medical instrument
-medical_instrument
-medicine
-medium:simple background
-medium:white background
-meme:humor
-orange body
-orange fur
-orange_body
-orange_fur
-pun
-rating:safe
-scientific instrument
-scientific_instrument
-simple background
-simple_background
-species:cat
-species:domestic cat
-species:domestic_cat
-species:felid
-species:feline
-species:felis
-species:mammal
-subreddit:imaginaryaww
-subreddit:immeta
-title:first aid kittens by piper thibodeau
-uploader:myrandall
-white background
-white body
-white fur
-white_background
-white_body
-white_fur
-young
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+band-aid,
+bandage,
+black eyes,
+black_eyes,
+bodypart:black eyes,
+bottle,
+category:ine,
+creator:cryptid-creations,
+feral,
+first aid kit,
+first_aid_kit,
+fur,
+gender:ambiguous,
+gender:female,
+grey body,
+grey fur,
+grey_body,
+grey_fur,
+group,
+humor,
+loli body type,
+medical instrument,
+medical_instrument,
+medicine,
+medium:simple background,
+medium:white background,
+meme:humor,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+pun,
+rating:safe,
+scientific instrument,
+scientific_instrument,
+simple background,
+simple_background,
+species:cat,
+species:domestic cat,
+species:domestic_cat,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:first aid kittens by piper thibodeau,
+uploader:myrandall,
+white background,
+white body,
+white fur,
+white_background,
+white_body,
+white_fur,
+young,

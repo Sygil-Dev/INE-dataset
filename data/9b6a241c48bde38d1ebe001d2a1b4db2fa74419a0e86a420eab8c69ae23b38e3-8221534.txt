@@ -1,52 +1,52 @@
-ambiguous gender
-anthro
-anthropomorphism
-armor
-beak
-booru:e621
-brown body
-brown feathers
-category:ine
-clothing
-clothing:armor
-clothing:tagme
-creator:zack stella
-crest
-detailed background
-feathered wings
-feathers
-furgonomics
-furry
-gender:ambiguous
-greaves
-group
-head crest
-medium:detailed background
-meta:official art
-orange sky
-outside
-rating:safe
-robe
-series:hasbro
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-species:aven
-species:avian
-species:bird
-species:dragon
-species:mythical
-species:scalie
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryhybrids
-subreddit:immonsters
-sunset
-title:orator of ojutai - m:tg dragons of tarkir byzack stella
-uploader:tallantas
-website:reddit
-wing claws
-wingclaws
-winged arms
-wings
-wraps
+ambiguous gender,
+anthro,
+anthropomorphism,
+armor,
+beak,
+booru:e621,
+brown body,
+brown feathers,
+category:ine,
+clothing,
+clothing:armor,
+clothing:tagme,
+creator:zack stella,
+crest,
+detailed background,
+feathered wings,
+feathers,
+furgonomics,
+furry,
+gender:ambiguous,
+greaves,
+group,
+head crest,
+medium:detailed background,
+meta:official art,
+orange sky,
+outside,
+rating:safe,
+robe,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+species:aven,
+species:avian,
+species:bird,
+species:dragon,
+species:mythical,
+species:scalie,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryhybrids,
+subreddit:immonsters,
+sunset,
+title:orator of ojutai - m:tg dragons of tarkir byzack stella,
+uploader:tallantas,
+website:reddit,
+wing claws,
+wingclaws,
+winged arms,
+wings,
+wraps,

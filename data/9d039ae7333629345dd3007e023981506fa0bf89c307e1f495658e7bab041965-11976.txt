@@ -1,64 +1,64 @@
-2 males
-alola form
-alolan form
-baseball cap
-beach
-black hair
-booru:safebooru
-brown hair
-category:ine
-character:alolan exeggutor
-character:exeggutor
-character:ookido green
-character:ookido green (sm)
-character:pokemon (creature)
-character:pokemon character
-character:protagonist (pokemon)
-character:red (pokemon sm)
-character:red (pokemon)
-character:red (pokemon) (sm)
-clothing:eyewear
-clothing:hat
-clothing:headwear
-clothing:shirt
-clothing:t-shirt
-creator:kumatani
-creator:miimmiim3333
-day
-eyewear
-gen 1 pokemon
-gen 7 pokemon
-gender:male
-hat
-high resolution
-looking over eyewear
-looking over sunglasses
-male focus
-medium:high resolution
-meta:highres
-multiple boys
-multiple males
-ocean
-ookido green (sm)
-pokemon (creature)
-rating:safe
-red (pokemon) (sm)
-series:creatures (company)
-series:game freak
-series:pokemon (game)
-series:pokémon
-series:pokémon sun & moon
-shirt
-species:alolan exeggutor
-species:exeggutor
-species:monster
-species:pikachu
-species:pokémon
-spiked hair
-spiky hair
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-sunglasses
-t-shirt
-title:breathtaking alola by ミミミ☆彡彡彡
+2 males,
+alola form,
+alolan form,
+baseball cap,
+beach,
+black hair,
+booru:safebooru,
+brown hair,
+category:ine,
+character:alolan exeggutor,
+character:exeggutor,
+character:ookido green,
+character:ookido green (sm),
+character:pokemon (creature),
+character:pokemon character,
+character:protagonist (pokemon),
+character:red (pokemon sm),
+character:red (pokemon),
+character:red (pokemon) (sm),
+clothing:eyewear,
+clothing:hat,
+clothing:headwear,
+clothing:shirt,
+clothing:t-shirt,
+creator:kumatani,
+creator:miimmiim3333,
+day,
+eyewear,
+gen 1 pokemon,
+gen 7 pokemon,
+gender:male,
+hat,
+high resolution,
+looking over eyewear,
+looking over sunglasses,
+male focus,
+medium:high resolution,
+meta:highres,
+multiple boys,
+multiple males,
+ocean,
+ookido green (sm),
+pokemon (creature),
+rating:safe,
+red (pokemon) (sm),
+series:creatures (company),
+series:game freak,
+series:pokemon (game),
+series:pokémon,
+series:pokémon sun & moon,
+shirt,
+species:alolan exeggutor,
+species:exeggutor,
+species:monster,
+species:pikachu,
+species:pokémon,
+spiked hair,
+spiky hair,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sunglasses,
+t-shirt,
+title:breathtaking alola by ミミミ☆彡彡彡,

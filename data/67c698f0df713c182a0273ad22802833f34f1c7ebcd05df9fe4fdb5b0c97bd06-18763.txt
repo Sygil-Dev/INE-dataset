@@ -1,48 +1,48 @@
-art
-booru:e621
-category:ine
-creator:dan scott
-detailed background
-duo
-female
-feral
-forest
-gender:female
-glowing weapon
-horn
-horns
-magic
-magic user
-medium:detailed background
-melee weapon
-meta:official art
-nature
-outside
-plant
-polearm
-rating:safe
-riding
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-series:wizards of the coast
-shaman
-spear
-species:cervid
-species:cervine
-species:elf
-species:humanoid
-species:mammal
-species:unknown species
-straddling
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryelves
-subreddit:imraces
-tag source:e621
-title:shaman of the pack by dan scott
-tree
-tribal spellcaster
-uploader:tellanas
-weapon
+art,
+booru:e621,
+category:ine,
+creator:dan scott,
+detailed background,
+duo,
+female,
+feral,
+forest,
+gender:female,
+glowing weapon,
+horn,
+horns,
+magic,
+magic user,
+medium:detailed background,
+melee weapon,
+meta:official art,
+nature,
+outside,
+plant,
+polearm,
+rating:safe,
+riding,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+series:wizards of the coast,
+shaman,
+spear,
+species:cervid,
+species:cervine,
+species:elf,
+species:humanoid,
+species:mammal,
+species:unknown species,
+straddling,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryelves,
+subreddit:imraces,
+tag source:e621,
+title:shaman of the pack by dan scott,
+tree,
+tribal spellcaster,
+uploader:tellanas,
+weapon,

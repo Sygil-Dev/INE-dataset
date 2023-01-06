@@ -1,23 +1,23 @@
-black border
-boots
-category:ine
-creator:brad wright
-ground vehicle
-gun
-letterboxed
-medium:digital 2d
-military
-military vehicle
-motor vehicle
-multiple girls
-pillarboxed
-rain
-rating:safe
-rifle
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-tank
-title:obsidian reverie_keyframe moments
-title:obsidian reverie_keyframe moments by brad wright
-uploader:natezomby
-weapon
+black border,
+boots,
+category:ine,
+creator:brad wright,
+ground vehicle,
+gun,
+letterboxed,
+medium:digital 2d,
+military,
+military vehicle,
+motor vehicle,
+multiple girls,
+pillarboxed,
+rain,
+rating:safe,
+rifle,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+tank,
+title:obsidian reverie_keyframe moments,
+title:obsidian reverie_keyframe moments by brad wright,
+uploader:natezomby,
+weapon,

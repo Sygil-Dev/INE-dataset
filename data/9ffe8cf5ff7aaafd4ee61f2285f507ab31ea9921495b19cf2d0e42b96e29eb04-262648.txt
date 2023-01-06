@@ -1,41 +1,41 @@
-1 female
-art
-artist:siwoo kim
-artwork
-category:ine
-closed mouth
-copyright:original
-creator:siwoo kim
-fantasy art
-full body
-gender:female
-gradient
-headwear
-helmet
-looking away
-medium:absurd resolution
-medium:concept art
-medium:digital 2d
-medium:gradient background
-medium:high resolution
-medium:simple background
-meta:absurdres
-meta:commentary
-meta:highres
-multicolored
-multicolored clothes
-multicolored footwear
-pink helmet
-rating:mature
-rating:safe
-series:original
-siwoo kim
-solo
-standing
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:x
-title:x by siwoo kim
-uploader:godforesaken
-uploader:lol33ta
-vest
+1 female,
+art,
+artist:siwoo kim,
+artwork,
+category:ine,
+closed mouth,
+copyright:original,
+creator:siwoo kim,
+fantasy art,
+full body,
+gender:female,
+gradient,
+headwear,
+helmet,
+looking away,
+medium:absurd resolution,
+medium:concept art,
+medium:digital 2d,
+medium:gradient background,
+medium:high resolution,
+medium:simple background,
+meta:absurdres,
+meta:commentary,
+meta:highres,
+multicolored,
+multicolored clothes,
+multicolored footwear,
+pink helmet,
+rating:mature,
+rating:safe,
+series:original,
+siwoo kim,
+solo,
+standing,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:x,
+title:x by siwoo kim,
+uploader:godforesaken,
+uploader:lol33ta,
+vest,

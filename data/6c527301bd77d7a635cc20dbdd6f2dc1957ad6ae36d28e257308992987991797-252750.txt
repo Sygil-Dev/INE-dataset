@@ -1,26 +1,26 @@
-1 male
-1boy
-blonde hair
-booru:sankaku channel
-category:ine
-character:vash the stampede
-creator:mike nesbitt
-creator:vashperado
-eyewear
-gender:male
-glasses
-male
-megane
-rating:safe
-series:trigun
-solo
-spiky hair
-subreddit:imaginaryanime
-subreddit:imaginarycowboys
-subreddit:imcharacters
-subreddit:imfandoms
-sunset
-title:between the wasteland and sky
-title:between the wasteland and sky by vash perado
-uploader:net-diver
-walking
+1 male,
+1boy,
+blonde hair,
+booru:sankaku channel,
+category:ine,
+character:vash the stampede,
+creator:mike nesbitt,
+creator:vashperado,
+eyewear,
+gender:male,
+glasses,
+male,
+megane,
+rating:safe,
+series:trigun,
+solo,
+spiky hair,
+subreddit:imaginaryanime,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+subreddit:imfandoms,
+sunset,
+title:between the wasteland and sky,
+title:between the wasteland and sky by vash perado,
+uploader:net-diver,
+walking,

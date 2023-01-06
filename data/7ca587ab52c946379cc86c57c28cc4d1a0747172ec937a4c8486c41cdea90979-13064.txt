@@ -1,21 +1,21 @@
-card
-category:ine
-creator:ishmael hoover
-doom
-evil
-hearthstone
-medium:digital 2d
-mirror
-reflection
-series:id software
-sorcerer
-studio:blizzard entertainment
-studio:id software
-subreddit:imaginaryartifacts
-subreddit:imaginaryportals
-subreddit:immeta
-subreddit:imtechnology
-title:(hearthstone) mirror of doom
-title:mirror of doom by ishmael hoover
-uploader:lol33ta
-wizard
+card,
+category:ine,
+creator:ishmael hoover,
+doom,
+evil,
+hearthstone,
+medium:digital 2d,
+mirror,
+reflection,
+series:id software,
+sorcerer,
+studio:blizzard entertainment,
+studio:id software,
+subreddit:imaginaryartifacts,
+subreddit:imaginaryportals,
+subreddit:immeta,
+subreddit:imtechnology,
+title:(hearthstone) mirror of doom,
+title:mirror of doom by ishmael hoover,
+uploader:lol33ta,
+wizard,

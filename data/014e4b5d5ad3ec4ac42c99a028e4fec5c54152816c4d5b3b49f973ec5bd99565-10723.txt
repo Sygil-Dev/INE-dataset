@@ -1,25 +1,25 @@
-1girl
-blackjack
-building
-category:ine
-city
-creator:davemoon
-creator:david demaret
-david
-demaret
-fleet
-geary
-glowing
-john
-lost
-monster
-moonchild
-pixiv work:28214936
-rating:safe
-scenery
-subreddit:imaginaryaliens
-subreddit:imraces
-the
-title:lost fleet:invincible
-title:the lost fleet: invincible by david demaret
-uploader:tamander
+1girl,
+blackjack,
+building,
+category:ine,
+city,
+creator:davemoon,
+creator:david demaret,
+david,
+demaret,
+fleet,
+geary,
+glowing,
+john,
+lost,
+monster,
+moonchild,
+pixiv work:28214936,
+rating:safe,
+scenery,
+subreddit:imaginaryaliens,
+subreddit:imraces,
+the,
+title:lost fleet:invincible,
+title:the lost fleet: invincible by david demaret,
+uploader:tamander,

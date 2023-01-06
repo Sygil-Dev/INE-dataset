@@ -1,26 +1,26 @@
-3d environment
-architecture
-box
-cafe
-category:ine
-coffee shop
-contemporary
-creator:michael manfredi
-environment art
-environments
-game art
-indoors
-medium:traditional 3d
-modern
-new york city
-no humans
-nyc
-rating:safe
-scenery
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-table
-title:coffee shop
-title:coffee shop by michael manfredi
-unreal engine
-uploader:mj709
+3d environment,
+architecture,
+box,
+cafe,
+category:ine,
+coffee shop,
+contemporary,
+creator:michael manfredi,
+environment art,
+environments,
+game art,
+indoors,
+medium:traditional 3d,
+modern,
+new york city,
+no humans,
+nyc,
+rating:safe,
+scenery,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+table,
+title:coffee shop,
+title:coffee shop by michael manfredi,
+unreal engine,
+uploader:mj709,

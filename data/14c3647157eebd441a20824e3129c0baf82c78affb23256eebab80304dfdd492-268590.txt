@@ -1,67 +1,67 @@
-3d (artwork)
-2018
-anthro
-anthropomorphism
-artist:hooman_raad
-black sclera
-black_sclera
-category:ine
-colored sclera
-copyright:kunoichi_studio
-creator:hooman raad
-creator:hooman_raad
-fur
-guro
-hooman raad
-kunoichi studio
-medium:3d rendering
-medium:16:9 aspect ratio
-medium:digital 3d
-medium:digital media
-medium:high resolution
-medium:simple background
-meta:3d (artwork)
-meta:3d_(artwork)
-meta:16:9
-meta:2018
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-meta:nsfw
-meta:widescreen
-monster
-muscular
-muscular anthro
-muscular_anthro
-nude
-orange eyes
-orange_eyes
-photorealism
-rating:explicit
-rating:mature
-rating:safe
-series:kunoichi studio
-simple background
-simple_background
-snout
-solo
-species:canid
-species:canine
-species:canis
-species:mammal
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-standing
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:"werewolf," by hooman raad (sic)
-title:werewolf
-uploader:nikephoros_ii_phokas
-were
-werecanine
-year:2018
+3d (artwork),
+2018,
+anthro,
+anthropomorphism,
+artist:hooman_raad,
+black sclera,
+black_sclera,
+category:ine,
+colored sclera,
+copyright:kunoichi_studio,
+creator:hooman raad,
+creator:hooman_raad,
+fur,
+guro,
+hooman raad,
+kunoichi studio,
+medium:3d rendering,
+medium:16:9 aspect ratio,
+medium:digital 3d,
+medium:digital media,
+medium:high resolution,
+medium:simple background,
+meta:3d (artwork),
+meta:3d_(artwork),
+meta:16:9,
+meta:2018,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+meta:nsfw,
+meta:widescreen,
+monster,
+muscular,
+muscular anthro,
+muscular_anthro,
+nude,
+orange eyes,
+orange_eyes,
+photorealism,
+rating:explicit,
+rating:mature,
+rating:safe,
+series:kunoichi studio,
+simple background,
+simple_background,
+snout,
+solo,
+species:canid,
+species:canine,
+species:canis,
+species:mammal,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+standing,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:"werewolf," by hooman raad (sic),
+title:werewolf,
+uploader:nikephoros_ii_phokas,
+were,
+werecanine,
+year:2018,

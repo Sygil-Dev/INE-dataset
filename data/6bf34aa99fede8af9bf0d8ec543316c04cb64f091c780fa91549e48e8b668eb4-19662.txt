@@ -1,26 +1,26 @@
-apple
-blue bird
-category:ine
-character:princess snow white
-creator:mioree
-disney
-drawing
-fairytale
-fashion
-girl
-light
-magic
-medium:digital 2d
-owl
-painting
-poison
-princess
-ray
-series:snow white and the seven dwarfs (disney)
-snow white
-subreddit:imaginarydisney
-subreddit:imfandoms
-sun
-title:snow white by mioree
-uploader:prinncessbride
-woods
+apple,
+blue bird,
+category:ine,
+character:princess snow white,
+creator:mioree,
+disney,
+drawing,
+fairytale,
+fashion,
+girl,
+light,
+magic,
+medium:digital 2d,
+owl,
+painting,
+poison,
+princess,
+ray,
+series:snow white and the seven dwarfs (disney),
+snow white,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+sun,
+title:snow white by mioree,
+uploader:prinncessbride,
+woods,

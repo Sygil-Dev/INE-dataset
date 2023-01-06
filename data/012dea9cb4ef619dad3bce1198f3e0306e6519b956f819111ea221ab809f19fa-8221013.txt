@@ -1,80 +1,80 @@
-1girl
-2019
-angel
-angel wings
-anthro
-anthropomorphic
-anthropomorphism
-artist name
-artist:assasinmonkey
-assasinmonkey
-biped
-booru:e621
-category:ine
-character:fluttershy
-character:fluttershy (mlp)
-character:fluttershy_(mlp)
-closed eyes
-clothed
-clothes
-clothing
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:assasinmonkey
-detailed
-digital media (artwork)
-digitalpainting
-dress
-feathered wings
-feathered_wings
-feathers
-female
-fine art emulation
-fluttershy
-flying
-gender:female
-genre:fantasy
-halo
-hands
-hooves
-long hair
-mare
-medium:digital media
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-mlpfim
-mylittleponyfriendshipismagic
-pegasus
-pink hair
-rating:safe
-safe
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-signature
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"paint of flutter" by myron c. p. (assasinmonkey)
-title:paint of flutter
-underhoof
-unguligrade anthro
-uploader:torvusil
-very long hair
-white dress
-white wings
-wings
-year:2019
-yellow body
-yellow feathers
-yellow_body
-yellow_feathers
+1girl,
+2019,
+angel,
+angel wings,
+anthro,
+anthropomorphic,
+anthropomorphism,
+artist name,
+artist:assasinmonkey,
+assasinmonkey,
+biped,
+booru:e621,
+category:ine,
+character:fluttershy,
+character:fluttershy (mlp),
+character:fluttershy_(mlp),
+closed eyes,
+clothed,
+clothes,
+clothing,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:assasinmonkey,
+detailed,
+digital media (artwork),
+digitalpainting,
+dress,
+feathered wings,
+feathered_wings,
+feathers,
+female,
+fine art emulation,
+fluttershy,
+flying,
+gender:female,
+genre:fantasy,
+halo,
+hands,
+hooves,
+long hair,
+mare,
+medium:digital media,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+mlpfim,
+mylittleponyfriendshipismagic,
+pegasus,
+pink hair,
+rating:safe,
+safe,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+signature,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"paint of flutter" by myron c. p. (assasinmonkey),
+title:paint of flutter,
+underhoof,
+unguligrade anthro,
+uploader:torvusil,
+very long hair,
+white dress,
+white wings,
+wings,
+year:2019,
+yellow body,
+yellow feathers,
+yellow_body,
+yellow_feathers,

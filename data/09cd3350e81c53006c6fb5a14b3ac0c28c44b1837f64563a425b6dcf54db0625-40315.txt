@@ -1,30 +1,30 @@
-1boy
-aurora
-black background
-black border
-cape
-category:ine
-earth (planet)
-letterboxed
-light particles
-male focus
-milky way
-night
-night sky
-pillarboxed
-planet
-pointy ears
-rating:safe
-shooting star
-sky
-solo
-space
-star (sky)
-star (symbol)
-starry background
-starry sky
-starry sky print
-subreddit:imaginarygoblins
-subreddit:imraces
-title:godrok, the little thief by daniel zrom
-uploader:lol33ta
+1boy,
+aurora,
+black background,
+black border,
+cape,
+category:ine,
+earth (planet),
+letterboxed,
+light particles,
+male focus,
+milky way,
+night,
+night sky,
+pillarboxed,
+planet,
+pointy ears,
+rating:safe,
+shooting star,
+sky,
+solo,
+space,
+star (sky),
+star (symbol),
+starry background,
+starry sky,
+starry sky print,
+subreddit:imaginarygoblins,
+subreddit:imraces,
+title:godrok, the little thief by daniel zrom,
+uploader:lol33ta,

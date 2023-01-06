@@ -1,27 +1,27 @@
-5 fingers
-anthro
-anthropomorphism
-category:ine
-clothed
-clothing
-creator:bra1neater
-detailed background
-eyewear
-fingers
-gender:male
-glasses
-male
-medium:detailed background
-medium:high resolution
-meta:hi res
-rating:safe
-solo
-species:mammal
-species:procyonid
-species:raccoon
-subreddit:imaginaryanimals
-subreddit:imnature
-title:enot
-title:enot by vadim/'bra1neater'
-uploader:myrandall
-whiskers
+5 fingers,
+anthro,
+anthropomorphism,
+category:ine,
+clothed,
+clothing,
+creator:bra1neater,
+detailed background,
+eyewear,
+fingers,
+gender:male,
+glasses,
+male,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+rating:safe,
+solo,
+species:mammal,
+species:procyonid,
+species:raccoon,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:enot,
+title:enot by vadim/'bra1neater',
+uploader:myrandall,
+whiskers,

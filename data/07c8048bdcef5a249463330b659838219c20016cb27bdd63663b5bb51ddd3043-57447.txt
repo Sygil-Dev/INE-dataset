@@ -1,25 +1,25 @@
-1girl
-boots
-bow (instrument)
-braid
-brown hair
-category:ine
-elf
-full body
-gloves
-holding instrument
-instrument
-jewelry
-long hair
-music
-playing instrument
-pointy ears
-rating:safe
-simple background
-solo
-subreddit:imaginarygnomes
-subreddit:imraces
-title:thalie, gnome bard by gwendoline houzelot
-traditional media
-uploader:dall0o
-violin
+1girl,
+boots,
+bow (instrument),
+braid,
+brown hair,
+category:ine,
+elf,
+full body,
+gloves,
+holding instrument,
+instrument,
+jewelry,
+long hair,
+music,
+playing instrument,
+pointy ears,
+rating:safe,
+simple background,
+solo,
+subreddit:imaginarygnomes,
+subreddit:imraces,
+title:thalie, gnome bard by gwendoline houzelot,
+traditional media,
+uploader:dall0o,
+violin,

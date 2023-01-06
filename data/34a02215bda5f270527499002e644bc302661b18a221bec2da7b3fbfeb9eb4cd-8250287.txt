@@ -1,93 +1,93 @@
-2012
-anthro
-anthropomorphism
-armband
-artist:gerezon
-athletic
-bag
-barefoot
-black nose
-blade
-booru:e621
-canine
-caprine
-carrying
-category:ine
-claws
-clothed
-clothing
-clothing:gloves
-cold
-cradling
-creator:gerezon
-detailed background
-digital media (artwork)
-digitigrade
-duo
-ear piercing
-facial piercing
-feet
-feral
-food
-forest
-fur
-gender:male
-gerezon
-gloves
-grass
-grey body
-grey fur
-handwear
-hooves
-legband
-light
-looking at viewer
-male
-mammal
-medium:detailed background
-medium:digital media
-meta:2012
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-monster
-night
-outside
-piercing
-pink nose
-plant
-pov
-rating:safe
-sheep
-short
-solo
-solo focus
-species:bovid
-species:canid
-species:canine
-species:canis
-species:caprine
-species:domestic sheep
-species:domestic_sheep
-species:mammal
-species:mythical
-species:sheep
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-subreddit:imaginarywerewolves
-subreddit:immonsters
-title:thief
-title:thief by jonas åkerlund
-toe claws
-tree
-uploader:freethebroccoli
-walking
-were
-werewolf
-white body
-white eyes
-white fur
-year:2012
-yellow eyes
+2012,
+anthro,
+anthropomorphism,
+armband,
+artist:gerezon,
+athletic,
+bag,
+barefoot,
+black nose,
+blade,
+booru:e621,
+canine,
+caprine,
+carrying,
+category:ine,
+claws,
+clothed,
+clothing,
+clothing:gloves,
+cold,
+cradling,
+creator:gerezon,
+detailed background,
+digital media (artwork),
+digitigrade,
+duo,
+ear piercing,
+facial piercing,
+feet,
+feral,
+food,
+forest,
+fur,
+gender:male,
+gerezon,
+gloves,
+grass,
+grey body,
+grey fur,
+handwear,
+hooves,
+legband,
+light,
+looking at viewer,
+male,
+mammal,
+medium:detailed background,
+medium:digital media,
+meta:2012,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+monster,
+night,
+outside,
+piercing,
+pink nose,
+plant,
+pov,
+rating:safe,
+sheep,
+short,
+solo,
+solo focus,
+species:bovid,
+species:canid,
+species:canine,
+species:canis,
+species:caprine,
+species:domestic sheep,
+species:domestic_sheep,
+species:mammal,
+species:mythical,
+species:sheep,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+title:thief,
+title:thief by jonas åkerlund,
+toe claws,
+tree,
+uploader:freethebroccoli,
+walking,
+were,
+werewolf,
+white body,
+white eyes,
+white fur,
+year:2012,
+yellow eyes,

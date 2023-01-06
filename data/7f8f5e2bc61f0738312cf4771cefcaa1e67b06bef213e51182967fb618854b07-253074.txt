@@ -1,22 +1,22 @@
-attack
-building
-category:ine
-city
-creator:tarmo juhola
-creator:tarmojuhola
-lobby
-medium:digital 2d
-metropolis
-office
-reception
-skyscraper
-subreddit:imaginaryinteriors
-subreddit:imaginarysoldiers
-subreddit:imarchitecture
-subreddit:imcharacters
-title:office llobby by juhola
-title:office lobby
-title:office lobby by tarmo juhola
-uploader:lol33ta
-uploader:tellanas
-website:reddit
+attack,
+building,
+category:ine,
+city,
+creator:tarmo juhola,
+creator:tarmojuhola,
+lobby,
+medium:digital 2d,
+metropolis,
+office,
+reception,
+skyscraper,
+subreddit:imaginaryinteriors,
+subreddit:imaginarysoldiers,
+subreddit:imarchitecture,
+subreddit:imcharacters,
+title:office llobby by juhola,
+title:office lobby,
+title:office lobby by tarmo juhola,
+uploader:lol33ta,
+uploader:tellanas,
+website:reddit,

@@ -1,42 +1,42 @@
-ambiguous gender
-army
-beak
-biped
-booru:e621
-carrying
-category:ine
-creator:daniel ljunggren
-disembodied hand
-feathered wings
-feathers
-feral
-flag
-flying
-gender:ambiguous
-group
-holding object
-holding weapon
-landscape
-low-angle view
-melee weapon
-meta:official art
-outside
-polearm
-rating:safe
-series:hasbro
-series:magic the gathering
-series:magic: the gathering
-series:official art
-sky
-spear
-species:avian
-species:bird
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginaryanimals
-subreddit:imnature
-title:supply-line cranes by daniel ljunggren
-uploader:tamander
-weapon
-website:reddit
-wings
+ambiguous gender,
+army,
+beak,
+biped,
+booru:e621,
+carrying,
+category:ine,
+creator:daniel ljunggren,
+disembodied hand,
+feathered wings,
+feathers,
+feral,
+flag,
+flying,
+gender:ambiguous,
+group,
+holding object,
+holding weapon,
+landscape,
+low-angle view,
+melee weapon,
+meta:official art,
+outside,
+polearm,
+rating:safe,
+series:hasbro,
+series:magic the gathering,
+series:magic: the gathering,
+series:official art,
+sky,
+spear,
+species:avian,
+species:bird,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+title:supply-line cranes by daniel ljunggren,
+uploader:tamander,
+weapon,
+website:reddit,
+wings,

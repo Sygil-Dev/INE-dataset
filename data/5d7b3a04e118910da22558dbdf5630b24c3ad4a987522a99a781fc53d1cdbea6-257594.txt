@@ -1,47 +1,47 @@
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-balloon
-black eyes
-black_eyes
-blue eyes
-blue_eyes
-bodypart:black eyes
-category:ine
-cloud
-creator:cryptid-creations
-detailed background
-detailed_background
-eyes:blue
-feral
-fur
-gender:ambiguous
-grey body
-grey fur
-grey_body
-grey_fur
-group
-humor
-ice
-inflatable
-medium:detailed background
-meme:humor
-meta:1:1
-meta:2018
-meta:url
-outside
-pun
-rating:safe
-sea
-sky
-species:mammal
-species:marine
-species:pinniped
-species:seal
-subreddit:imaginaryaww
-subreddit:immeta
-text
-title:sealium by piper thibodeau
-uploader:myrandall
-water
-year:2018
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+balloon,
+black eyes,
+black_eyes,
+blue eyes,
+blue_eyes,
+bodypart:black eyes,
+category:ine,
+cloud,
+creator:cryptid-creations,
+detailed background,
+detailed_background,
+eyes:blue,
+feral,
+fur,
+gender:ambiguous,
+grey body,
+grey fur,
+grey_body,
+grey_fur,
+group,
+humor,
+ice,
+inflatable,
+medium:detailed background,
+meme:humor,
+meta:1:1,
+meta:2018,
+meta:url,
+outside,
+pun,
+rating:safe,
+sea,
+sky,
+species:mammal,
+species:marine,
+species:pinniped,
+species:seal,
+subreddit:imaginaryaww,
+subreddit:immeta,
+text,
+title:sealium by piper thibodeau,
+uploader:myrandall,
+water,
+year:2018,

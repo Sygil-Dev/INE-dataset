@@ -1,91 +1,91 @@
-1 female
-1girl
-arm cannon
-arm_cannon
-artist:quirkilicious
-blue background
-blue_background
-bottomwear
-category:ine
-centauroid
-character:omnic
-character:orisa
-character:orisa (overwatch)
-character:orisa_(overwatch)
-character:shockwave
-clothing
-clothing:bottomwear
-commentary
-copyright:blizzard_entertainment
-copyright:overwatch
-creator:kuroi-tsuki
-creator:quirkilicious
-creator:quirkilicious (kuroi-tsuki)
-electricity
-female
-front view
-front_view
-gender:female
-genre:science fiction
-glowing
-glowing eyes
-glowing_eyes
-green clothing
-green_clothing
-horn
-horns
-kuroi-tsuki
-lightning
-loincloth
-looking down
-looking_down
-low-angle view
-low-angle_view
-machine
-medium:blue background
-medium:simple background
-meta:commentary
-meta:english commentary
-meta:nsfw
-meta:photoshop (medium)
-not furry
-not_furry
-omnic
-orisa
-orisa (overwatch)
-orisa_(overwatch)
-overwatch
-pelvic curtain
-pelvic_curtain
-quadruped
-quirkilicious
-rating:explicit
-rating:mature
-rating:safe
-robot
-series:blizzard entertainment
-series:overwatch
-shockwave
-simple background
-simple_background
-site:discord
-solo
-species:omnic
-species:robot
-species:taur
-studio:blizzard entertainment
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-symbol-shaped pupils
-symbol-shaped_pupils
-taur
-three-quarter view
-three-quarter_view
-title:cease your resistance!
-title:cease your resistance! by drake tsui
-uploader:myrandall
-video games
-video_games
-weapon
-yellow eyes
-yellow_eyes
+1 female,
+1girl,
+arm cannon,
+arm_cannon,
+artist:quirkilicious,
+blue background,
+blue_background,
+bottomwear,
+category:ine,
+centauroid,
+character:omnic,
+character:orisa,
+character:orisa (overwatch),
+character:orisa_(overwatch),
+character:shockwave,
+clothing,
+clothing:bottomwear,
+commentary,
+copyright:blizzard_entertainment,
+copyright:overwatch,
+creator:kuroi-tsuki,
+creator:quirkilicious,
+creator:quirkilicious (kuroi-tsuki),
+electricity,
+female,
+front view,
+front_view,
+gender:female,
+genre:science fiction,
+glowing,
+glowing eyes,
+glowing_eyes,
+green clothing,
+green_clothing,
+horn,
+horns,
+kuroi-tsuki,
+lightning,
+loincloth,
+looking down,
+looking_down,
+low-angle view,
+low-angle_view,
+machine,
+medium:blue background,
+medium:simple background,
+meta:commentary,
+meta:english commentary,
+meta:nsfw,
+meta:photoshop (medium),
+not furry,
+not_furry,
+omnic,
+orisa,
+orisa (overwatch),
+orisa_(overwatch),
+overwatch,
+pelvic curtain,
+pelvic_curtain,
+quadruped,
+quirkilicious,
+rating:explicit,
+rating:mature,
+rating:safe,
+robot,
+series:blizzard entertainment,
+series:overwatch,
+shockwave,
+simple background,
+simple_background,
+site:discord,
+solo,
+species:omnic,
+species:robot,
+species:taur,
+studio:blizzard entertainment,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+symbol-shaped pupils,
+symbol-shaped_pupils,
+taur,
+three-quarter view,
+three-quarter_view,
+title:cease your resistance!,
+title:cease your resistance! by drake tsui,
+uploader:myrandall,
+video games,
+video_games,
+weapon,
+yellow eyes,
+yellow_eyes,

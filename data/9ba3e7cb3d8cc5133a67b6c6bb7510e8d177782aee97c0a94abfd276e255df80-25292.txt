@@ -1,61 +1,61 @@
-ambiguous gender
-ambiguous_gender
-art
-artist:tsaoshin
-backseat
-bone
-booru:e621
-category:ine
-copyright:nintendo
-copyright:pokémon
-creator:tsaoshin
-cubone
-cute
-digitalart
-drawing
-ericproctor
-fanart
-funny
-gen 1 pokemon
-gender:ambiguous
-gottadrawemall
-joshworlds
-livestream
-medium:1:1 aspect ratio
-medium:digital media
-meta:1:1
-meta:2017
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-photoshop
-pokedex
-pokemon
-pool:15535
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-show
-sketch
-solo
-species:cubone
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:pokémon_(species)
-stream
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:104 - cubone
-title:cubone by eric proctor
-tsaoshin
-twitch
-type
-uploader:myrandall
-video
-video games
-video_games
-year:2017
-youtube
+ambiguous gender,
+ambiguous_gender,
+art,
+artist:tsaoshin,
+backseat,
+bone,
+booru:e621,
+category:ine,
+copyright:nintendo,
+copyright:pokémon,
+creator:tsaoshin,
+cubone,
+cute,
+digitalart,
+drawing,
+ericproctor,
+fanart,
+funny,
+gen 1 pokemon,
+gender:ambiguous,
+gottadrawemall,
+joshworlds,
+livestream,
+medium:1:1 aspect ratio,
+medium:digital media,
+meta:1:1,
+meta:2017,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+photoshop,
+pokedex,
+pokemon,
+pool:15535,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+show,
+sketch,
+solo,
+species:cubone,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:pokémon_(species),
+stream,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:104 - cubone,
+title:cubone by eric proctor,
+tsaoshin,
+twitch,
+type,
+uploader:myrandall,
+video,
+video games,
+video_games,
+year:2017,
+youtube,

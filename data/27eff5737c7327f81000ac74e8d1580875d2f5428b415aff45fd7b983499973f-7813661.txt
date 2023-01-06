@@ -1,46 +1,46 @@
-blue eyes
-booru:e621
-category:ine
-character:fan character
-creator:yakovlev-vad
-cutie mark
-detailed background
-female
-feral
-fluffy
-fur
-gender:female
-genre:fantasy
-hair
-hi res
-hooves
-horn
-horns
-looking at viewer
-medium:detailed background
-medium:high resolution
-meta:hi res
-meta:original character
-original character
-pillow
-point of view
-pov
-rating:safe
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-smile
-solo
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:unicorn
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"color picture" by yakovlev vadim (yakovlev-vad)
-title:color picture (patreon reward)
-uploader:torvusil
-white body
-white fur
+blue eyes,
+booru:e621,
+category:ine,
+character:fan character,
+creator:yakovlev-vad,
+cutie mark,
+detailed background,
+female,
+feral,
+fluffy,
+fur,
+gender:female,
+genre:fantasy,
+hair,
+hi res,
+hooves,
+horn,
+horns,
+looking at viewer,
+medium:detailed background,
+medium:high resolution,
+meta:hi res,
+meta:original character,
+original character,
+pillow,
+point of view,
+pov,
+rating:safe,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+smile,
+solo,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:unicorn,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"color picture" by yakovlev vadim (yakovlev-vad),
+title:color picture (patreon reward),
+uploader:torvusil,
+white body,
+white fur,

@@ -1,119 +1,119 @@
-3d (artwork)
-4 toes
-2016
-abs
-action:looking at viewer
-action:open mouth
-action:standing upright
-angry
-animal humanoid
-art:portrait
-biceps
-big muscles
-blood
-blood on hand
-blood on mouth
-bodily fluids
-bodypart:abs
-bodypart:grey fur
-bodypart:grey hair
-bodypart:hair
-bodypart:muscles
-bodypart:orange eyes
-bodypart:pubic hair
-bodypart:teeth
-bodypart:toes
-booru:e621
-category:ine
-claws
-creator:takayuki tsujimoto
-digitigrade
-emotion:anger
-feet
-fighting pose
-fighting stance
-front view
-full-length portrait
-fur
-gender:male
-grey body
-grey fur
-grey hair
-guro
-hair
-hand
-humanoid
-looking at viewer
-male
-male:1
-medium:3d rendering
-medium:absurd resolution
-medium:digital 3d
-medium:digital media
-medium:high resolution
-medium:simple background
-meta:3d (artwork)
-meta:4:5
-meta:2016
-meta:absurd res
-meta:digital media (artwork)
-meta:full-length portrait
-meta:hi res
-meta:portrait
-meta:tagme
-monster
-muscles
-muscular
-muscular humanoid
-muscular male
-naturally censored
-nude
-open mouth
-orange eyes
-pecs
-portrait
-pose
-pov
-pubes
-pubic hair
-rating:explicit
-rating:mature
-rating:questionable
-scarly
-sharp claws
-sharp teeth
-simple background
-solo
-source:e621
-species:animal humanoid
-species:canid
-species:canid humanoid
-species:canine
-species:canine humanoid
-species:canis
-species:humanoid
-species:mammal
-species:mammal humanoid
-species:mythical
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-species:wolf humanoid
-standing
-subreddit:imaginarywerewolves
-subreddit:immonsters
-takayuki tsujimoto
-teeth
-title:creature concept art
-title:werewolf - concept art - takayuki tsujimoto
-toe claws
-toes
-uploader:nikephoros_ii_phokas
-vein
-website:e621
-were
-werewolf
-wolf humanoid
-year:2016
+3d (artwork),
+4 toes,
+2016,
+abs,
+action:looking at viewer,
+action:open mouth,
+action:standing upright,
+angry,
+animal humanoid,
+art:portrait,
+biceps,
+big muscles,
+blood,
+blood on hand,
+blood on mouth,
+bodily fluids,
+bodypart:abs,
+bodypart:grey fur,
+bodypart:grey hair,
+bodypart:hair,
+bodypart:muscles,
+bodypart:orange eyes,
+bodypart:pubic hair,
+bodypart:teeth,
+bodypart:toes,
+booru:e621,
+category:ine,
+claws,
+creator:takayuki tsujimoto,
+digitigrade,
+emotion:anger,
+feet,
+fighting pose,
+fighting stance,
+front view,
+full-length portrait,
+fur,
+gender:male,
+grey body,
+grey fur,
+grey hair,
+guro,
+hair,
+hand,
+humanoid,
+looking at viewer,
+male,
+male:1,
+medium:3d rendering,
+medium:absurd resolution,
+medium:digital 3d,
+medium:digital media,
+medium:high resolution,
+medium:simple background,
+meta:3d (artwork),
+meta:4:5,
+meta:2016,
+meta:absurd res,
+meta:digital media (artwork),
+meta:full-length portrait,
+meta:hi res,
+meta:portrait,
+meta:tagme,
+monster,
+muscles,
+muscular,
+muscular humanoid,
+muscular male,
+naturally censored,
+nude,
+open mouth,
+orange eyes,
+pecs,
+portrait,
+pose,
+pov,
+pubes,
+pubic hair,
+rating:explicit,
+rating:mature,
+rating:questionable,
+scarly,
+sharp claws,
+sharp teeth,
+simple background,
+solo,
+source:e621,
+species:animal humanoid,
+species:canid,
+species:canid humanoid,
+species:canine,
+species:canine humanoid,
+species:canis,
+species:humanoid,
+species:mammal,
+species:mammal humanoid,
+species:mythical,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+species:wolf humanoid,
+standing,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+takayuki tsujimoto,
+teeth,
+title:creature concept art,
+title:werewolf - concept art - takayuki tsujimoto,
+toe claws,
+toes,
+uploader:nikephoros_ii_phokas,
+vein,
+website:e621,
+were,
+werewolf,
+wolf humanoid,
+year:2016,

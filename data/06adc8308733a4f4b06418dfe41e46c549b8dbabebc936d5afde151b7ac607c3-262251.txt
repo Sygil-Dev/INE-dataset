@@ -1,29 +1,29 @@
-1boy
-beard
-belt
-boots
-brown hair
-category:ine
-cigar
-cowboy hat
-facial hair
-full body
-gloves
-gun
-handgun
-hat
-holster
-looking at viewer
-male focus
-mechanical arms
-mustache
-rating:safe
-simple background
-solo
-standing
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:gunslinger by carlo arellano
-uploader:lol33ta
-weapon
-white background
+1boy,
+beard,
+belt,
+boots,
+brown hair,
+category:ine,
+cigar,
+cowboy hat,
+facial hair,
+full body,
+gloves,
+gun,
+handgun,
+hat,
+holster,
+looking at viewer,
+male focus,
+mechanical arms,
+mustache,
+rating:safe,
+simple background,
+solo,
+standing,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:gunslinger by carlo arellano,
+uploader:lol33ta,
+weapon,
+white background,

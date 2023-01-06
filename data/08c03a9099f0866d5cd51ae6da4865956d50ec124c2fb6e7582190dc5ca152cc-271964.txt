@@ -1,22 +1,22 @@
-architecture
-blurry
-blurry background
-blurry foreground
-building
-category:ine
-cloud
-depth of field
-hakurei shrine
-house
-motion blur
-no humans
-outdoors
-rating:safe
-scenery
-sky
-smoke
-subreddit:imaginaryhogwarts
-subreddit:imfandoms
-title:the burrow by loucrow
-tree
-uploader:lou__crow
+architecture,
+blurry,
+blurry background,
+blurry foreground,
+building,
+category:ine,
+cloud,
+depth of field,
+hakurei shrine,
+house,
+motion blur,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+smoke,
+subreddit:imaginaryhogwarts,
+subreddit:imfandoms,
+title:the burrow by loucrow,
+tree,
+uploader:lou__crow,

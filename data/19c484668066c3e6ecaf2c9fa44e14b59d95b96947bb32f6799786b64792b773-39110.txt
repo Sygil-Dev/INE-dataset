@@ -1,44 +1,44 @@
-bear
-booru:e621
-brown body
-brown fur
-category:ine
-creator:sandara
-duo
-elf
-female
-feral
-forest
-fur
-gender:female
-mae
-medium:high resolution
-meta:hi res
-moon
-moss
-night
-outside
-plant
-rating:safe
-sky
-smile
-species:bear
-species:elf
-species:humanoid
-species:mammal
-species:ursid
-species:ursine
-star
-starry sky
-stars
-subreddit:imaginaryelves
-subreddit:imaginaryforests
-subreddit:imaginarypets
-subreddit:immeta
-subreddit:imnature
-titha
-title:the ballad of titha mae cover
-title:the ballad of titha mae cover by sandara tang
-uploader:myrandall
-water
-waterfall
+bear,
+booru:e621,
+brown body,
+brown fur,
+category:ine,
+creator:sandara,
+duo,
+elf,
+female,
+feral,
+forest,
+fur,
+gender:female,
+mae,
+medium:high resolution,
+meta:hi res,
+moon,
+moss,
+night,
+outside,
+plant,
+rating:safe,
+sky,
+smile,
+species:bear,
+species:elf,
+species:humanoid,
+species:mammal,
+species:ursid,
+species:ursine,
+star,
+starry sky,
+stars,
+subreddit:imaginaryelves,
+subreddit:imaginaryforests,
+subreddit:imaginarypets,
+subreddit:immeta,
+subreddit:imnature,
+titha,
+title:the ballad of titha mae cover,
+title:the ballad of titha mae cover by sandara tang,
+uploader:myrandall,
+water,
+waterfall,

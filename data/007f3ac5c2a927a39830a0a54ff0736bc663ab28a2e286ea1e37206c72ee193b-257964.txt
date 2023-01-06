@@ -1,22 +1,22 @@
-1girl
-abstract
-category:ine
-character:kujikawa rise
-character:kuma (persona 4)
-colorful
-confetti
-ginkgo leaf
-gradient
-multicolored background
-orange sky
-rainbow background
-rating:safe
-subreddit:imaginaryaviation
-subreddit:imtechnology
-surreal
-title:p-40 mash up by nathan smith
-triangle
-uploader:lol33ta
-yellow background
-yellow sky
-yellow theme
+1girl,
+abstract,
+category:ine,
+character:kujikawa rise,
+character:kuma (persona 4),
+colorful,
+confetti,
+ginkgo leaf,
+gradient,
+multicolored background,
+orange sky,
+rainbow background,
+rating:safe,
+subreddit:imaginaryaviation,
+subreddit:imtechnology,
+surreal,
+title:p-40 mash up by nathan smith,
+triangle,
+uploader:lol33ta,
+yellow background,
+yellow sky,
+yellow theme,

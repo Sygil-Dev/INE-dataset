@@ -1,65 +1,65 @@
-2011
-ambiguous gender
-black nose
-bltoch
-booru:e621
-brown eyes
-canine
-category:ine
-claws
-creator:blotch
-creator:deyvarah
-creator:kenket
-cute
-dog
-female
-feral
-fluffy
-forest
-fur
-gender:ambiguous
-gender:female
-husky
-inner ear fluff
-kenket
-looking at viewer
-mammal
-medium:detailed background
-medium:traditional media
-meta:2011
-meta:painting (artwork)
-meta:traditional media (artwork)
-non-anthro
-outside
-painting (artwork)
-pawpads
-paws
-pink pawpads
-plant
-rating:safe
-sky
-sled
-snow
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:canis
-species:dog
-species:domestic dog
-species:husky
-species:mammal
-species:nordic sled dog
-species:spitz
-subreddit:imaginaryanimals
-subreddit:imnature
-tag source:e621
-title:lemmikki paws
-title:lemmikki paws by screwbald
-tree
-tuft
-uploader:hvitserkr
-white body
-white fur
-winter
-year:2011
+2011,
+ambiguous gender,
+black nose,
+bltoch,
+booru:e621,
+brown eyes,
+canine,
+category:ine,
+claws,
+creator:blotch,
+creator:deyvarah,
+creator:kenket,
+cute,
+dog,
+female,
+feral,
+fluffy,
+forest,
+fur,
+gender:ambiguous,
+gender:female,
+husky,
+inner ear fluff,
+kenket,
+looking at viewer,
+mammal,
+medium:detailed background,
+medium:traditional media,
+meta:2011,
+meta:painting (artwork),
+meta:traditional media (artwork),
+non-anthro,
+outside,
+painting (artwork),
+pawpads,
+paws,
+pink pawpads,
+plant,
+rating:safe,
+sky,
+sled,
+snow,
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:canis,
+species:dog,
+species:domestic dog,
+species:husky,
+species:mammal,
+species:nordic sled dog,
+species:spitz,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+tag source:e621,
+title:lemmikki paws,
+title:lemmikki paws by screwbald,
+tree,
+tuft,
+uploader:hvitserkr,
+white body,
+white fur,
+winter,
+year:2011,

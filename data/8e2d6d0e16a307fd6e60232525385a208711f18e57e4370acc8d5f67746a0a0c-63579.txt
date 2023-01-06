@@ -1,31 +1,31 @@
-assault
-battle
-category:ine
-creator:diego gisbert llorens
-dark angels
-deathwing
-dreadnought
-fortress
-imperium
-medium:digital 2d
-military watercraft
-monastery
-series:warhammer 40,000
-space marines
-species:eldar
-stronghold
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-terminator
-title:eternal crusade - fortress assault by diego gisbert llorens
-title:eternal crusade wallpaper
-ulthwé
-uploader:adverserius
-vehicle
-venerable
-warhammer
-warseer
-warship
-watercraft
-xenos
+assault,
+battle,
+category:ine,
+creator:diego gisbert llorens,
+dark angels,
+deathwing,
+dreadnought,
+fortress,
+imperium,
+medium:digital 2d,
+military watercraft,
+monastery,
+series:warhammer 40,000,
+space marines,
+species:eldar,
+stronghold,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+terminator,
+title:eternal crusade - fortress assault by diego gisbert llorens,
+title:eternal crusade wallpaper,
+ulthwé,
+uploader:adverserius,
+vehicle,
+venerable,
+warhammer,
+warseer,
+warship,
+watercraft,
+xenos,

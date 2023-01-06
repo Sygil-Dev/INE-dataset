@@ -1,24 +1,24 @@
-branch
-bush
-category:ine
-dappled sunlight
-day
-foliage
-forest
-grass
-nature
-no humans
-outdoors
-park
-path
-plant
-rating:safe
-scenery
-sky
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-sunlight
-title:berserk witch's mansion, by chitan biswas
-tree
-tree shade
-uploader:sylvyrfyre
+branch,
+bush,
+category:ine,
+dappled sunlight,
+day,
+foliage,
+forest,
+grass,
+nature,
+no humans,
+outdoors,
+park,
+path,
+plant,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+sunlight,
+title:berserk witch's mansion, by chitan biswas,
+tree,
+tree shade,
+uploader:sylvyrfyre,

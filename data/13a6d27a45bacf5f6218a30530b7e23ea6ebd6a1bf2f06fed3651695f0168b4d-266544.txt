@@ -1,21 +1,21 @@
-category:ine
-creator:bram sels
-green
-lab
-medium:digital 2d
-mtg
-mutant
-series:magic: the gathering
-simic
-species:crab
-species:crustacean
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarymerfolk
-subreddit:imraces
-title:neoform
-title:neoform by bram sels
-toxic
-uploader:lol33ta
-war of the spark
-water
+category:ine,
+creator:bram sels,
+green,
+lab,
+medium:digital 2d,
+mtg,
+mutant,
+series:magic: the gathering,
+simic,
+species:crab,
+species:crustacean,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+title:neoform,
+title:neoform by bram sels,
+toxic,
+uploader:lol33ta,
+war of the spark,
+water,

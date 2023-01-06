@@ -1,30 +1,30 @@
-age
-blackwall
-creator:legoman
-creator:vintem
-dai
-dragon
-dragon age
-dragonageinquisition
-furry
-games
-gender:male
-guro
-inquisition
-nude
-nude male
-nudity
-rating:contains male nudity
-rating:explicit
-rating:mature
-rating:nudity
-series:dragon age
-species:dragon
-species:mythical
-species:scalie
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-title:blackwall
-title:blackwall by corvus vintem
-uploader:lol33ta
-vintem
+age,
+blackwall,
+creator:legoman,
+creator:vintem,
+dai,
+dragon,
+dragon age,
+dragonageinquisition,
+furry,
+games,
+gender:male,
+guro,
+inquisition,
+nude,
+nude male,
+nudity,
+rating:contains male nudity,
+rating:explicit,
+rating:mature,
+rating:nudity,
+series:dragon age,
+species:dragon,
+species:mythical,
+species:scalie,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+title:blackwall,
+title:blackwall by corvus vintem,
+uploader:lol33ta,
+vintem,

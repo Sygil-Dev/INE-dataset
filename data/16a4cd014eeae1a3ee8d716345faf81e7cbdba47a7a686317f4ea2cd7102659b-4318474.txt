@@ -1,118 +1,118 @@
-anthro
-anthropomorphism
-armor
-arrow
-artlon (artist)
-avian
-axe
-battle axe
-battlefield
-bikini
-bikini armor
-bikini plate
-bird
-bodily fluids
-booru:e621
-booru:furry
-bovine
-bracers
-canine
-category:ine
-claws
-cloth
-clothed
-clothing
-clothing:armor
-clothing:gloves
-cloud
-crate
-creator:artlon
-creator:artlon (artist)
-crying
-death
-detailed background
-digitalpainting
-female
-fire
-fur
-gauntlets
-gender:female
-gloves
-gnome
-grass
-greaves
-hair
-handwear
-headgear
-headwear
-helmet
-holding (disambiguation)
-holding object
-horn
-horns
-human
-humanoid
-kneeling
-mammal
-medium:16:9 aspect ratio
-medium:detailed background
-melee weapon
-meta:16:9
-meta:widescreen
-monster
-outside
-plant
-raining
-rating:safe
-revealing armor
-series:battlefield
-series:blizzard entertainment
-series:warcraft
-series:world of warcraft
-shield
-smoke
-species:avian
-species:bird
-species:bovid
-species:bovine
-species:canid
-species:canine
-species:canis
-species:gnome
-species:human
-species:humanoid
-species:mammal
-species:mythical
-species:primate
-species:tauren
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-species:worgen
-storm
-studio:blizzard entertainment
-subreddit:imaginarywerewolves
-subreddit:immonsters
-swimsuit
-sword
-tauren
-tears
-teeth
-tent
-title:fauxpaw - too little too late
-title:fauxpaw - too little too late by marlon molina
-toe claws
-tree
-uploader:lol33ta
-video games
-war
-warcraft
-weapon
-were
-werewolf
-wolf
-worgen
-worldofwarcraft
-wowart
+anthro,
+anthropomorphism,
+armor,
+arrow,
+artlon (artist),
+avian,
+axe,
+battle axe,
+battlefield,
+bikini,
+bikini armor,
+bikini plate,
+bird,
+bodily fluids,
+booru:e621,
+booru:furry,
+bovine,
+bracers,
+canine,
+category:ine,
+claws,
+cloth,
+clothed,
+clothing,
+clothing:armor,
+clothing:gloves,
+cloud,
+crate,
+creator:artlon,
+creator:artlon (artist),
+crying,
+death,
+detailed background,
+digitalpainting,
+female,
+fire,
+fur,
+gauntlets,
+gender:female,
+gloves,
+gnome,
+grass,
+greaves,
+hair,
+handwear,
+headgear,
+headwear,
+helmet,
+holding (disambiguation),
+holding object,
+horn,
+horns,
+human,
+humanoid,
+kneeling,
+mammal,
+medium:16:9 aspect ratio,
+medium:detailed background,
+melee weapon,
+meta:16:9,
+meta:widescreen,
+monster,
+outside,
+plant,
+raining,
+rating:safe,
+revealing armor,
+series:battlefield,
+series:blizzard entertainment,
+series:warcraft,
+series:world of warcraft,
+shield,
+smoke,
+species:avian,
+species:bird,
+species:bovid,
+species:bovine,
+species:canid,
+species:canine,
+species:canis,
+species:gnome,
+species:human,
+species:humanoid,
+species:mammal,
+species:mythical,
+species:primate,
+species:tauren,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+species:worgen,
+storm,
+studio:blizzard entertainment,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+swimsuit,
+sword,
+tauren,
+tears,
+teeth,
+tent,
+title:fauxpaw - too little too late,
+title:fauxpaw - too little too late by marlon molina,
+toe claws,
+tree,
+uploader:lol33ta,
+video games,
+war,
+warcraft,
+weapon,
+were,
+werewolf,
+wolf,
+worgen,
+worldofwarcraft,
+wowart,

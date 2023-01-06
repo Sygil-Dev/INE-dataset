@@ -1,29 +1,29 @@
-aurora
-category:ine
-city lights
-constellation
-galaxy
-giant
-glowing
-glowing eyes
-male focus
-milky way
-motion lines
-night
-night sky
-no humans
-planet
-rain
-rating:safe
-shooting star
-sky
-solo
-space
-space craft
-star (sky)
-starry sky
-subreddit:imaginaryscience
-subreddit:imtechnology
-title:tesla bot by antoine collignon
-uploader:lol33ta
-website:reddit
+aurora,
+category:ine,
+city lights,
+constellation,
+galaxy,
+giant,
+glowing,
+glowing eyes,
+male focus,
+milky way,
+motion lines,
+night,
+night sky,
+no humans,
+planet,
+rain,
+rating:safe,
+shooting star,
+sky,
+solo,
+space,
+space craft,
+star (sky),
+starry sky,
+subreddit:imaginaryscience,
+subreddit:imtechnology,
+title:tesla bot by antoine collignon,
+uploader:lol33ta,
+website:reddit,

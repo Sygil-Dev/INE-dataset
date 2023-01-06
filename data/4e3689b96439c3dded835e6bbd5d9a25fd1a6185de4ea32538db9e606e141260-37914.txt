@@ -1,68 +1,68 @@
-1 female
-aloy
-armor
-booru:e621
-bow
-bow (weapon)
-bracer
-braid
-category:ine
-character:aloy (horizon)
-charge
-clothing:armor
-creator:sandara
-dawn
-detailed background
-female
-fog
-freckles
-fur
-fur trim
-gender:female
-glowing
-glowing eyes
-group
-hair
-horizon
-human
-lancehorn
-leather
-leather armor
-machine
-mammal
-medium:detailed background
-medium:simple background
-melee weapon
-mount
-mountain
-pelt
-plant
-polearm
-quiver
-ranged weapon
-rating:safe
-red hair
-riding
-robot
-sawtooth
-scrapper
-series:horizon
-series:horizon zero dawn
-series:sony corporation
-series:sony interactive entertainment
-simple background
-snow
-spear
-species:human
-species:mammal
-species:robot
-standing
-subreddit:imaginaryrobotics
-subreddit:imtechnology
-title:machine hunters
-title:machine hunters by sandara tang
-tribal
-uploader:myrandall
-video games
-weapon
-zero
+1 female,
+aloy,
+armor,
+booru:e621,
+bow,
+bow (weapon),
+bracer,
+braid,
+category:ine,
+character:aloy (horizon),
+charge,
+clothing:armor,
+creator:sandara,
+dawn,
+detailed background,
+female,
+fog,
+freckles,
+fur,
+fur trim,
+gender:female,
+glowing,
+glowing eyes,
+group,
+hair,
+horizon,
+human,
+lancehorn,
+leather,
+leather armor,
+machine,
+mammal,
+medium:detailed background,
+medium:simple background,
+melee weapon,
+mount,
+mountain,
+pelt,
+plant,
+polearm,
+quiver,
+ranged weapon,
+rating:safe,
+red hair,
+riding,
+robot,
+sawtooth,
+scrapper,
+series:horizon,
+series:horizon zero dawn,
+series:sony corporation,
+series:sony interactive entertainment,
+simple background,
+snow,
+spear,
+species:human,
+species:mammal,
+species:robot,
+standing,
+subreddit:imaginaryrobotics,
+subreddit:imtechnology,
+title:machine hunters,
+title:machine hunters by sandara tang,
+tribal,
+uploader:myrandall,
+video games,
+weapon,
+zero,

@@ -1,62 +1,62 @@
-1 female
-1girl
-amazon
-bare shoulders
-black hair
-blue eyes
-booru:danbooru
-booru:gelbooru
-booru:tbib
-category:ine
-character:diana prince
-character:wonder woman
-creator:banned artist
-creator:sakimichan
-earrings
-female
-gender:female
-high resolution
-highres
-jewelry
-lasso
-leotard
-light skin
-light-skinned
-light-skinned female
-lips
-lipstick
-long hair
-makeup
-medium:2d art
-medium:high resolution
-medium:realistic
-medium:watermark
-meta:highres
-meta:md5 mismatch
-meta:pixiv-import
-rating:safe
-realistic
-red leotard
-red lips
-red lipstick
-rope
-series:dc comics
-series:wonder woman
-series:wonder woman (series)
-shirt
-site:deviant art
-sleeveless
-smile
-solo
-star
-star (symbol)
-strapless
-studio:dc comics
-subreddit:imaginarydc
-subreddit:imfandoms
-superheroine
-tiara
-title:wonder woman
-title:wonder woman by sakimi chan
-uploader:incredibel
-watermark
+1 female,
+1girl,
+amazon,
+bare shoulders,
+black hair,
+blue eyes,
+booru:danbooru,
+booru:gelbooru,
+booru:tbib,
+category:ine,
+character:diana prince,
+character:wonder woman,
+creator:banned artist,
+creator:sakimichan,
+earrings,
+female,
+gender:female,
+high resolution,
+highres,
+jewelry,
+lasso,
+leotard,
+light skin,
+light-skinned,
+light-skinned female,
+lips,
+lipstick,
+long hair,
+makeup,
+medium:2d art,
+medium:high resolution,
+medium:realistic,
+medium:watermark,
+meta:highres,
+meta:md5 mismatch,
+meta:pixiv-import,
+rating:safe,
+realistic,
+red leotard,
+red lips,
+red lipstick,
+rope,
+series:dc comics,
+series:wonder woman,
+series:wonder woman (series),
+shirt,
+site:deviant art,
+sleeveless,
+smile,
+solo,
+star,
+star (symbol),
+strapless,
+studio:dc comics,
+subreddit:imaginarydc,
+subreddit:imfandoms,
+superheroine,
+tiara,
+title:wonder woman,
+title:wonder woman by sakimi chan,
+uploader:incredibel,
+watermark,

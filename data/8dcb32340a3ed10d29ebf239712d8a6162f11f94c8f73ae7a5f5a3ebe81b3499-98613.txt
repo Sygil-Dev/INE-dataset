@@ -1,23 +1,23 @@
-2d
-art
-arthur
-arthur morgan
-category:ine
-concept
-creator:ismail inceoglu
-digital
-environment
-fanart
-medium:digital 2d
-morgan
-rdr
-rdr2
-red dead redemption 2
-scenery
-subreddit:imaginarycowboys
-subreddit:imcharacters
-title:sunday prayer
-title:sunday prayer by ismail inceoglu
-uploader:faeryknight
-village
-western
+2d,
+art,
+arthur,
+arthur morgan,
+category:ine,
+concept,
+creator:ismail inceoglu,
+digital,
+environment,
+fanart,
+medium:digital 2d,
+morgan,
+rdr,
+rdr2,
+red dead redemption 2,
+scenery,
+subreddit:imaginarycowboys,
+subreddit:imcharacters,
+title:sunday prayer,
+title:sunday prayer by ismail inceoglu,
+uploader:faeryknight,
+village,
+western,

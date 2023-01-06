@@ -1,30 +1,30 @@
-architecture
-bridge
-building
-castle
-category:ine
-chimney
-city
-cityscape
-donation box
-east asian architecture
-gate
-hakurei shrine
-house
-no humans
-pagoda
-rating:safe
-scenery
-shide
-shimenawa
-shrine
-stairs
-stone lantern
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-temple
-title:house design by pengzhen zhang
-torii
-tower
-tree
-uploader:lol33ta
+architecture,
+bridge,
+building,
+castle,
+category:ine,
+chimney,
+city,
+cityscape,
+donation box,
+east asian architecture,
+gate,
+hakurei shrine,
+house,
+no humans,
+pagoda,
+rating:safe,
+scenery,
+shide,
+shimenawa,
+shrine,
+stairs,
+stone lantern,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+temple,
+title:house design by pengzhen zhang,
+torii,
+tower,
+tree,
+uploader:lol33ta,

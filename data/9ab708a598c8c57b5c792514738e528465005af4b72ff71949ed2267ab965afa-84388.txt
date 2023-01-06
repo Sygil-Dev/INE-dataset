@@ -1,27 +1,27 @@
-blood
-blue eyes
-bodily fluids
-category:ine
-character:yoshi
-creator:dan luvisi
-creator:danluvisiart
-dinosaur
-fang
-medium:high resolution
-meta:highres
-monster
-no humans
-rating:safe
-realistic
-saddle
-scar
-series:super mario brothers
-series:super mario world
-species:extinct
-studio:nintendo
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-tag source:deviantart
-title:yoshi - maxed out
-title:yoshi - maxed out by dan luvisi
-uploader:hvitserkr
+blood,
+blue eyes,
+bodily fluids,
+category:ine,
+character:yoshi,
+creator:dan luvisi,
+creator:danluvisiart,
+dinosaur,
+fang,
+medium:high resolution,
+meta:highres,
+monster,
+no humans,
+rating:safe,
+realistic,
+saddle,
+scar,
+series:super mario brothers,
+series:super mario world,
+species:extinct,
+studio:nintendo,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+tag source:deviantart,
+title:yoshi - maxed out,
+title:yoshi - maxed out by dan luvisi,
+uploader:hvitserkr,

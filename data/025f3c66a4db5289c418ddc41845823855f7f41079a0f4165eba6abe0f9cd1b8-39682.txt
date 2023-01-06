@@ -1,23 +1,23 @@
-category:ine
-character:batman
-cloud
-cloudy sky
-creator:artgerm
-full moon
-glowing
-greyscale
-monochrome
-moon
-outdoors
-rating:safe
-sharp teeth
-signature
-sky
-solo
-spikes
-subreddit:imaginarygotham
-subreddit:imfandoms
-teeth
-title:bat for mercy
-title:bat for mercy by stanley lau
-uploader:incredibel
+category:ine,
+character:batman,
+cloud,
+cloudy sky,
+creator:artgerm,
+full moon,
+glowing,
+greyscale,
+monochrome,
+moon,
+outdoors,
+rating:safe,
+sharp teeth,
+signature,
+sky,
+solo,
+spikes,
+subreddit:imaginarygotham,
+subreddit:imfandoms,
+teeth,
+title:bat for mercy,
+title:bat for mercy by stanley lau,
+uploader:incredibel,

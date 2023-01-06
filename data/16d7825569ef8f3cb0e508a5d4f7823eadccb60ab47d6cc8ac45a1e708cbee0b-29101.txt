@@ -1,127 +1,127 @@
-1girl
-ambiguous_gender
-art
-artist:tsaoshin
-barefoot
-category:ine
-character:flareon
-character:lapras
-character:moana waialiki
-character:moana_waialiki
-character:shellder
-character:tepig
-character:wingull
-clothing
-collab
-collaboration
-colorful
-copyright:disney
-copyright:moana
-copyright:nintendo
-copyright:pokémon
-creator:tsaoshin
-crossover
-curled hair
-curled_hair
-dark skin
-dark-skinned female
-digital
-disney
-eevee
-eeveelution
-ericproctor
-espeon
-eyelashes
-female
-feral
-flareon
-flyingfox
-game
-gen 1 pokemon
-gen 1 pokémon
-gen 3 pokemon
-gen 5 pokemon
-gender:ambiguous
-gender:female
-hair
-holding
-holding poke ball
-howto
-jewelry
-laparas
-lips
-long hair
-mashup
-meta:2:3
-meta:2017
-meta:hi_res
-meta:signature
-moana
-mountain
-movie
-necklace
-night
-nintendo
-orange body
-orange_body
-outdoors
-painting
-poke ball
-pokemon
-poké ball
-pokéball
-princess
-rating:safe
-series
-series:creatures (company)
-series:game freak
-series:moana
-series:moana (movie)
-series:nintendo
-series:pokemon
-series:pokémon
-shell
-shellder
-smile
-species:avian
-species:eeveelution
-species:flareon
-species:human
-species:lapras
-species:mammal
-species:monster
-species:pokémon
-species:pokémon_(species)
-species:primate
-species:shellder
-species:suid
-species:suina
-species:sus (pig)
-species:sus_(pig)
-species:tepig
-species:wingull
-speed
-standing
-studio:disney
-studio:nintendo
-subreddit:imaginarydisney
-subreddit:imfandoms
-sunset
-sunsetdragon
-tepig
-timelapse
-title:we know the flareon
-title:we know the flareon by eric proctor
-toes
-tree
-tsaoshin
-tuft
-twitch
-umbreon
-uploader:myrandall
-video
-video games
-video_games
-water
-wingull
-youtube
+1girl,
+ambiguous_gender,
+art,
+artist:tsaoshin,
+barefoot,
+category:ine,
+character:flareon,
+character:lapras,
+character:moana waialiki,
+character:moana_waialiki,
+character:shellder,
+character:tepig,
+character:wingull,
+clothing,
+collab,
+collaboration,
+colorful,
+copyright:disney,
+copyright:moana,
+copyright:nintendo,
+copyright:pokémon,
+creator:tsaoshin,
+crossover,
+curled hair,
+curled_hair,
+dark skin,
+dark-skinned female,
+digital,
+disney,
+eevee,
+eeveelution,
+ericproctor,
+espeon,
+eyelashes,
+female,
+feral,
+flareon,
+flyingfox,
+game,
+gen 1 pokemon,
+gen 1 pokémon,
+gen 3 pokemon,
+gen 5 pokemon,
+gender:ambiguous,
+gender:female,
+hair,
+holding,
+holding poke ball,
+howto,
+jewelry,
+laparas,
+lips,
+long hair,
+mashup,
+meta:2:3,
+meta:2017,
+meta:hi_res,
+meta:signature,
+moana,
+mountain,
+movie,
+necklace,
+night,
+nintendo,
+orange body,
+orange_body,
+outdoors,
+painting,
+poke ball,
+pokemon,
+poké ball,
+pokéball,
+princess,
+rating:safe,
+series,
+series:creatures (company),
+series:game freak,
+series:moana,
+series:moana (movie),
+series:nintendo,
+series:pokemon,
+series:pokémon,
+shell,
+shellder,
+smile,
+species:avian,
+species:eeveelution,
+species:flareon,
+species:human,
+species:lapras,
+species:mammal,
+species:monster,
+species:pokémon,
+species:pokémon_(species),
+species:primate,
+species:shellder,
+species:suid,
+species:suina,
+species:sus (pig),
+species:sus_(pig),
+species:tepig,
+species:wingull,
+speed,
+standing,
+studio:disney,
+studio:nintendo,
+subreddit:imaginarydisney,
+subreddit:imfandoms,
+sunset,
+sunsetdragon,
+tepig,
+timelapse,
+title:we know the flareon,
+title:we know the flareon by eric proctor,
+toes,
+tree,
+tsaoshin,
+tuft,
+twitch,
+umbreon,
+uploader:myrandall,
+video,
+video games,
+video_games,
+water,
+wingull,
+youtube,

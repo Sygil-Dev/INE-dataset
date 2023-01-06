@@ -1,49 +1,49 @@
-1:1
-2019
-artist:thomas_chamberlain_-_keen
-blush
-category:ine
-creator:thomas chamberlain - keen
-dumpling
-dumplings
-fire
-food
-food creature
-fungus
-gas
-hi res
-lettuce
-medium:1:1 aspect ratio
-medium:high resolution
-medium:simple background
-meta:1:1
-meta:2019
-meta:hi_res
-mushroom
-noodles
-open mouth
-open_mouth
-plant
-pot (disambiguation)
-pot_(disambiguation)
-potato
-prawn (food)
-prawn_(food)
-ramen
-rating:questionable
-simple_background
-soup
-species:food creature
-species:food_creature
-subreddit:imaginaryaww
-subreddit:imaginaryfood
-subreddit:immeta
-tagme
-thomas chamberlain - keen
-title:hotpot! by thomas chamberlain - keen
-tofu
-tofu_(food)
-tongue
-uploader:lol33ta
-uploader:myrandall
-vegetable
+1:1,
+2019,
+artist:thomas_chamberlain_-_keen,
+blush,
+category:ine,
+creator:thomas chamberlain - keen,
+dumpling,
+dumplings,
+fire,
+food,
+food creature,
+fungus,
+gas,
+hi res,
+lettuce,
+medium:1:1 aspect ratio,
+medium:high resolution,
+medium:simple background,
+meta:1:1,
+meta:2019,
+meta:hi_res,
+mushroom,
+noodles,
+open mouth,
+open_mouth,
+plant,
+pot (disambiguation),
+pot_(disambiguation),
+potato,
+prawn (food),
+prawn_(food),
+ramen,
+rating:questionable,
+simple_background,
+soup,
+species:food creature,
+species:food_creature,
+subreddit:imaginaryaww,
+subreddit:imaginaryfood,
+subreddit:immeta,
+tagme,
+thomas chamberlain - keen,
+title:hotpot! by thomas chamberlain - keen,
+tofu,
+tofu_(food),
+tongue,
+uploader:lol33ta,
+uploader:myrandall,
+vegetable,

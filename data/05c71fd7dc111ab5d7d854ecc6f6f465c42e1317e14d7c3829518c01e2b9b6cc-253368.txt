@@ -1,25 +1,25 @@
-architecture
-bridge
-building
-castle
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-fantasy
-mountain
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarytemples
-subreddit:imaginarywaterfalls
-subreddit:imarchitecture
-subreddit:imnature
-sunset
-title:waterfall temple by huy tr
-tower
-uploader:lol33ta
-water
+architecture,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+fantasy,
+mountain,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarytemples,
+subreddit:imaginarywaterfalls,
+subreddit:imarchitecture,
+subreddit:imnature,
+sunset,
+title:waterfall temple by huy tr,
+tower,
+uploader:lol33ta,
+water,

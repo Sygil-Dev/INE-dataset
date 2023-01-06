@@ -1,21 +1,21 @@
-bare tree
-category:ine
-creator:jonone
-forest
-grass
-gun
-monster
-nature
-outdoors
-palm tree
-plant
-rating:safe
-scenery
-subreddit:imaginaryderelicts
-subreddit:imtechnology
-sunset
-title:jungle crash
-title:jungle crash by ioan dumitrescu
-tree
-uploader:incredibel
-weapon
+bare tree,
+category:ine,
+creator:jonone,
+forest,
+grass,
+gun,
+monster,
+nature,
+outdoors,
+palm tree,
+plant,
+rating:safe,
+scenery,
+subreddit:imaginaryderelicts,
+subreddit:imtechnology,
+sunset,
+title:jungle crash,
+title:jungle crash by ioan dumitrescu,
+tree,
+uploader:incredibel,
+weapon,

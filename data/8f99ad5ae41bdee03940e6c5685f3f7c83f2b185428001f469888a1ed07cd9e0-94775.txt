@@ -1,28 +1,28 @@
-1 female
-1girl
-armband
-blue eyes
-category:ine
-character:sheryl nome
-clothing:dress
-creator:ikeda masateru
-creator:masateru
-dress
-gender:female
-glowing
-glowing hair
-long hair
-open mouth
-rating:safe
-series:macross
-series:macross frontier
-solo
-space
-strapless
-strapless dress
-subreddit:imaginarystarscapes
-subreddit:imlandscapes
-title:sheryl nome
-title:sheryl nome, by masateru ikeda
-uploader:belledame-sans-serif
-white hair
+1 female,
+1girl,
+armband,
+blue eyes,
+category:ine,
+character:sheryl nome,
+clothing:dress,
+creator:ikeda masateru,
+creator:masateru,
+dress,
+gender:female,
+glowing,
+glowing hair,
+long hair,
+open mouth,
+rating:safe,
+series:macross,
+series:macross frontier,
+solo,
+space,
+strapless,
+strapless dress,
+subreddit:imaginarystarscapes,
+subreddit:imlandscapes,
+title:sheryl nome,
+title:sheryl nome, by masateru ikeda,
+uploader:belledame-sans-serif,
+white hair,

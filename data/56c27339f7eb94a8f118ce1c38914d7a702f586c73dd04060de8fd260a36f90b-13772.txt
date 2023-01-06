@@ -1,21 +1,21 @@
-artwork
-building
-category:ine
-creator:tarmo juhola
-creator:tarmojuhola
-fantasy art
-forest
-haunted
-house
-landscape
-medium:digital 2d
-medium:digital media
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-swamp
-title:forest cabin
-title:forest cabin by tarmo juhola
-title:forest cabin, by tarmo juhola
-trees
-uploader:l-ya
-uploader:sylvyrfyre
+artwork,
+building,
+category:ine,
+creator:tarmo juhola,
+creator:tarmojuhola,
+fantasy art,
+forest,
+haunted,
+house,
+landscape,
+medium:digital 2d,
+medium:digital media,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+swamp,
+title:forest cabin,
+title:forest cabin by tarmo juhola,
+title:forest cabin, by tarmo juhola,
+trees,
+uploader:l-ya,
+uploader:sylvyrfyre,

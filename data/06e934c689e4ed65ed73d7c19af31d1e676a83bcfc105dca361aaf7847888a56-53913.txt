@@ -1,32 +1,32 @@
-architecture
-bridge
-building
-bush
-category:ine
-city
-city lights
-cityscape
-cloud
-day
-east asian architecture
-flower
-mountain
-nature
-no humans
-outdoors
-pagoda
-rating:safe
-river
-ruins
-scenery
-sky
-skyscraper
-subreddit:imaginarydwellings
-subreddit:imarchitecture
-title:cabin by vasiliy kovpak
-torii
-tower
-tree
-uploader:lol33ta
-water
-waterfall
+architecture,
+bridge,
+building,
+bush,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+day,
+east asian architecture,
+flower,
+mountain,
+nature,
+no humans,
+outdoors,
+pagoda,
+rating:safe,
+river,
+ruins,
+scenery,
+sky,
+skyscraper,
+subreddit:imaginarydwellings,
+subreddit:imarchitecture,
+title:cabin by vasiliy kovpak,
+torii,
+tower,
+tree,
+uploader:lol33ta,
+water,
+waterfall,

@@ -1,51 +1,51 @@
-1 female
-1girl
-artist:kun52
-black footwear
-black hair
-brown hair
-category:ine
-closed umbrella
-clothing:footwear
-clothing:school uniform
-copyright:original
-creator:kun52
-facing away
-flower
-footwear
-full body
-gender:female
-grass
-hydrangea
-landscape
-long hair
-medium:high resolution
-meta:highres
-railing
-rainbow
-rating:adult
-rating:mature
-rating:safe
-road
-road sign
-scenery
-school uniform
-schoolgirl uniform
-serafuku
-series:original
-shoes
-short twintails
-sign
-sky
-snail
-socks
-subreddit:imaginarycolorscapes
-subreddit:immeta
-sunlight
-tied hair
-title:on the way home after the rain by kupe
-tree
-twintails
-umbrella
-uniform
-uploader:[deleted]
+1 female,
+1girl,
+artist:kun52,
+black footwear,
+black hair,
+brown hair,
+category:ine,
+closed umbrella,
+clothing:footwear,
+clothing:school uniform,
+copyright:original,
+creator:kun52,
+facing away,
+flower,
+footwear,
+full body,
+gender:female,
+grass,
+hydrangea,
+landscape,
+long hair,
+medium:high resolution,
+meta:highres,
+railing,
+rainbow,
+rating:adult,
+rating:mature,
+rating:safe,
+road,
+road sign,
+scenery,
+school uniform,
+schoolgirl uniform,
+serafuku,
+series:original,
+shoes,
+short twintails,
+sign,
+sky,
+snail,
+socks,
+subreddit:imaginarycolorscapes,
+subreddit:immeta,
+sunlight,
+tied hair,
+title:on the way home after the rain by kupe,
+tree,
+twintails,
+umbrella,
+uniform,
+uploader:[deleted],

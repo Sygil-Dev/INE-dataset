@@ -1,26 +1,26 @@
-blade runner
-category:ine
-creator:david legnon
-david legnon
-flashlight
-flying car
-futuristic
-genre:cyberpunk
-genre:science fiction
-music
-neon
-neon glow
-night
-police
-rain
-reflections
-retrowave
-sci-fi
-series:blade runner
-subreddit:imaginaryfuturism
-subreddit:imtechnology
-synthwave
-title:"new toronto" by david legnon
-title:new toronto
-uploader:donnie_dark0
-water
+blade runner,
+category:ine,
+creator:david legnon,
+david legnon,
+flashlight,
+flying car,
+futuristic,
+genre:cyberpunk,
+genre:science fiction,
+music,
+neon,
+neon glow,
+night,
+police,
+rain,
+reflections,
+retrowave,
+sci-fi,
+series:blade runner,
+subreddit:imaginaryfuturism,
+subreddit:imtechnology,
+synthwave,
+title:"new toronto" by david legnon,
+title:new toronto,
+uploader:donnie_dark0,
+water,

@@ -1,41 +1,41 @@
-4k
-2018
-artist:underpable
-booru:e621
-category:ine
-copyright:dark_souls
-copyright:fromsoftware
-creator:underpable
-medium:16:9 aspect ratio
-medium:absurd resolution
-medium:digital media
-medium:high resolution
-membrane (anatomy)
-membrane_(anatomy)
-membranous wings
-membranous_wings
-meta:4k
-meta:16:9
-meta:2018
-meta:absurd res
-meta:absurd_res
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-meta:hi res
-meta:hi_res
-rating:safe
-series:dark souls
-series:fromsoftware
-species:demon
-studio:from software
-subreddit:imaginarydemons
-subreddit:imaginarygaming
-subreddit:imfandoms
-subreddit:immonsters
-title:demon prince
-title:demon prince by 'underpable'
-uploader:myrandall
-video games
-video_games
-wings
-year:2018
+4k,
+2018,
+artist:underpable,
+booru:e621,
+category:ine,
+copyright:dark_souls,
+copyright:fromsoftware,
+creator:underpable,
+medium:16:9 aspect ratio,
+medium:absurd resolution,
+medium:digital media,
+medium:high resolution,
+membrane (anatomy),
+membrane_(anatomy),
+membranous wings,
+membranous_wings,
+meta:4k,
+meta:16:9,
+meta:2018,
+meta:absurd res,
+meta:absurd_res,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+meta:hi res,
+meta:hi_res,
+rating:safe,
+series:dark souls,
+series:fromsoftware,
+species:demon,
+studio:from software,
+subreddit:imaginarydemons,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+subreddit:immonsters,
+title:demon prince,
+title:demon prince by 'underpable',
+uploader:myrandall,
+video games,
+video_games,
+wings,
+year:2018,

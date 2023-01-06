@@ -1,24 +1,24 @@
-assassin
-category:ine
-court
-courtofthedead
-creator:mr--jack
-dead
-drimdram
-exraille
-ghost
-haunted
-horror
-loach
-mansion
-sideshow
-staircase
-subreddit:imaginaryundead
-subreddit:immonsters
-title:conclave of shadows
-title:conclave of shadows by luke mancini
-undead
-underworld
-uploader:agkistrodonsinfernal
-uploader:lexxx20
-wraif
+assassin,
+category:ine,
+court,
+courtofthedead,
+creator:mr--jack,
+dead,
+drimdram,
+exraille,
+ghost,
+haunted,
+horror,
+loach,
+mansion,
+sideshow,
+staircase,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+title:conclave of shadows,
+title:conclave of shadows by luke mancini,
+undead,
+underworld,
+uploader:agkistrodonsinfernal,
+uploader:lexxx20,
+wraif,

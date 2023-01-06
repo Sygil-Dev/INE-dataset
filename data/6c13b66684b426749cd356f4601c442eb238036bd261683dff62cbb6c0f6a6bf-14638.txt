@@ -1,67 +1,67 @@
-2018
-ambiguous gender
-big eyes
-bird's-eye view
-booru:e621
-brown body
-brown eyes
-brown fur
-category:ine
-creator:kenket
-cute
-day
-feral
-firefox
-fluffy
-fluffy tail
-forgive
-fur
-gender:ambiguous
-gender:female
-grass
-high-angle view
-looking up
-medium:traditional media
-meta:2018
-meta:painting (artwork)
-meta:traditional media (artwork)
-meta:url
-multi tail
-multiple tails
-ninetales
-outside
-painting (artwork)
-paws
-plant
-pls
-pokemon
-pokemonart
-pokemonfanart
-rating:safe
-series:nintendo
-series:pokémon
-solo
-source:furaffinity.net
-species:monster
-species:pokémon
-species:pokémon (species)
-species:vulpix
-studio:nintendo
-subreddit:imaginarygaming
-subreddit:imaginarykanto
-subreddit:imfandoms
-tail
-text
-title:"vulpix of innocence" by tess garman (kenket)
-title:vulpix of innocence
-title:vulpix of innocence by tess garman
-traditional media (artwork)
-uploader:myrandall
-uploader:torvusil
-url
-video games
-vulpix
-vulpixpokemon
-white body
-white fur
-year:2018
+2018,
+ambiguous gender,
+big eyes,
+bird's-eye view,
+booru:e621,
+brown body,
+brown eyes,
+brown fur,
+category:ine,
+creator:kenket,
+cute,
+day,
+feral,
+firefox,
+fluffy,
+fluffy tail,
+forgive,
+fur,
+gender:ambiguous,
+gender:female,
+grass,
+high-angle view,
+looking up,
+medium:traditional media,
+meta:2018,
+meta:painting (artwork),
+meta:traditional media (artwork),
+meta:url,
+multi tail,
+multiple tails,
+ninetales,
+outside,
+painting (artwork),
+paws,
+plant,
+pls,
+pokemon,
+pokemonart,
+pokemonfanart,
+rating:safe,
+series:nintendo,
+series:pokémon,
+solo,
+source:furaffinity.net,
+species:monster,
+species:pokémon,
+species:pokémon (species),
+species:vulpix,
+studio:nintendo,
+subreddit:imaginarygaming,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+tail,
+text,
+title:"vulpix of innocence" by tess garman (kenket),
+title:vulpix of innocence,
+title:vulpix of innocence by tess garman,
+traditional media (artwork),
+uploader:myrandall,
+uploader:torvusil,
+url,
+video games,
+vulpix,
+vulpixpokemon,
+white body,
+white fur,
+year:2018,

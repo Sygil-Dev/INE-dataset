@@ -1,21 +1,21 @@
-category:ine
-cyan
-feathers
-matthew dobrich
-men
-purple
-red
-species:avian
-species:bird
-species:canine
-species:fox
-species:mammal
-species:owl
-spring
-subreddit:imaginaryhybrids
-subreddit:imaginaryspirits
-subreddit:immonsters
-title:owl spirit by matthew dobrich
-trees
-uploader:lol33ta
-uploader:valar_m0rghul1s
+category:ine,
+cyan,
+feathers,
+matthew dobrich,
+men,
+purple,
+red,
+species:avian,
+species:bird,
+species:canine,
+species:fox,
+species:mammal,
+species:owl,
+spring,
+subreddit:imaginaryhybrids,
+subreddit:imaginaryspirits,
+subreddit:immonsters,
+title:owl spirit by matthew dobrich,
+trees,
+uploader:lol33ta,
+uploader:valar_m0rghul1s,

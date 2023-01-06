@@ -1,79 +1,79 @@
-1girl
-animal
-autumn
-beach
-bird
-bond
-booru:e621
-breathing fire
-burning
-campfire
-category:ine
-character:charmander
-cloud
-creator:aquasixio
-day
-dragonfly
-dusk
-evening
-explosion
-fire
-flame
-flock
-flying
-forest
-grass
-group
-hand
-hat
-horizon
-island
-lake
-lens flare
-light rays
-link
-love
-medium:4:3 aspect ratio
-medium:digital media
-meta:4:3
-meta:digital media (artwork)
-molten rock
-mountain
-mountainous horizon
-nature
-ocean
-orange sky
-outdoors
-outside
-picnic
-plant
-pokemon (creature)
-rating:safe
-reflection
-river
-scenery
-seagull
-shore
-sky
-species:ambient bird
-species:avian
-species:bird
-species:human
-species:mammal
-species:primate
-subreddit:imaginarybodyscapes
-subreddit:imlandscapes
-sun
-sunbeam
-sunlight
-sunrise
-sunset
-title:us
-title:us, by cyril rolando
-twilight
-uploader:belledame-sans-serif
-us
-volcano
-water
-waves
-youth
+1girl,
+animal,
+autumn,
+beach,
+bird,
+bond,
+booru:e621,
+breathing fire,
+burning,
+campfire,
+category:ine,
+character:charmander,
+cloud,
+creator:aquasixio,
+day,
+dragonfly,
+dusk,
+evening,
+explosion,
+fire,
+flame,
+flock,
+flying,
+forest,
+grass,
+group,
+hand,
+hat,
+horizon,
+island,
+lake,
+lens flare,
+light rays,
+link,
+love,
+medium:4:3 aspect ratio,
+medium:digital media,
+meta:4:3,
+meta:digital media (artwork),
+molten rock,
+mountain,
+mountainous horizon,
+nature,
+ocean,
+orange sky,
+outdoors,
+outside,
+picnic,
+plant,
+pokemon (creature),
+rating:safe,
+reflection,
+river,
+scenery,
+seagull,
+shore,
+sky,
+species:ambient bird,
+species:avian,
+species:bird,
+species:human,
+species:mammal,
+species:primate,
+subreddit:imaginarybodyscapes,
+subreddit:imlandscapes,
+sun,
+sunbeam,
+sunlight,
+sunrise,
+sunset,
+title:us,
+title:us, by cyril rolando,
+twilight,
+uploader:belledame-sans-serif,
+us,
+volcano,
+water,
+waves,
+youth,

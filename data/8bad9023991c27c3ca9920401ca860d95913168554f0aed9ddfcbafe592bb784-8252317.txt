@@ -1,31 +1,31 @@
-2 tails
-ambiguous gender
-anthro
-anthropomorphism
-book
-booru:e621
-candle
-category:ine
-creator:themefinland
-feathers
-fire
-gender:ambiguous
-gender:female
-guardian
-horn
-horns
-medium:high resolution
-meta:hi res
-multi tail
-multiple tails
-plant
-rating:safe
-solo
-species:monster
-subreddit:imaginaryscholars
-subreddit:imcharacters
-tail
-title:scribe
-title:scribe [oc]
-tree
-uploader:themefinland
+2 tails,
+ambiguous gender,
+anthro,
+anthropomorphism,
+book,
+booru:e621,
+candle,
+category:ine,
+creator:themefinland,
+feathers,
+fire,
+gender:ambiguous,
+gender:female,
+guardian,
+horn,
+horns,
+medium:high resolution,
+meta:hi res,
+multi tail,
+multiple tails,
+plant,
+rating:safe,
+solo,
+species:monster,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+tail,
+title:scribe,
+title:scribe [oc],
+tree,
+uploader:themefinland,

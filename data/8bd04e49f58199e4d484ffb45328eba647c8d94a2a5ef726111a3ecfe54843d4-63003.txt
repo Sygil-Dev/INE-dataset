@@ -1,68 +1,68 @@
-1 female
-1girl
-armor
-black eyes
-black hair
-booru:gelbooru
-category:ine
-character:emperor of mankind
-character:komi shouko
-clothing:armor
-cosplay
-creator:flick-the-thief
-crossed legs
-emperor of mankind
-emperor of mankind (cosplay)
-english
-english text
-female
-flick-the-thief
-gender:female
-godemperor
-gold armor
-halo
-holding
-holding sign
-komi shouko
-komi-san wa komyushou desu
-komisanwakomyushoudesu
-language:english
-laurel crown
-legs crossed
-long hair
-looking at viewer
-medium:english text
-medium:simple background
-medium:text
-medium:white background
-meta:commentary
-meta:signature
-notebook
-pauldron
-pauldrons
-pov
-power armor
-rating:mature
-rating:safe
-rating:sensitive
-series:komi-san wa komyushou desu
-series:warhammer 40,000
-series:warhammer 40k
-shiny
-shoulder armor
-sign
-signature
-simple background
-solo
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-text
-throne
-title:empress
-title:empress by flick-the-thief
-two-headed eagle
-uploader:crnislshr
-warhammer40000
-warhammer 40k
-white background
+1 female,
+1girl,
+armor,
+black eyes,
+black hair,
+booru:gelbooru,
+category:ine,
+character:emperor of mankind,
+character:komi shouko,
+clothing:armor,
+cosplay,
+creator:flick-the-thief,
+crossed legs,
+emperor of mankind,
+emperor of mankind (cosplay),
+english,
+english text,
+female,
+flick-the-thief,
+gender:female,
+godemperor,
+gold armor,
+halo,
+holding,
+holding sign,
+komi shouko,
+komi-san wa komyushou desu,
+komisanwakomyushoudesu,
+language:english,
+laurel crown,
+legs crossed,
+long hair,
+looking at viewer,
+medium:english text,
+medium:simple background,
+medium:text,
+medium:white background,
+meta:commentary,
+meta:signature,
+notebook,
+pauldron,
+pauldrons,
+pov,
+power armor,
+rating:mature,
+rating:safe,
+rating:sensitive,
+series:komi-san wa komyushou desu,
+series:warhammer 40,000,
+series:warhammer 40k,
+shiny,
+shoulder armor,
+sign,
+signature,
+simple background,
+solo,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+text,
+throne,
+title:empress,
+title:empress by flick-the-thief,
+two-headed eagle,
+uploader:crnislshr,
+warhammer40000,
+warhammer 40k,
+white background,

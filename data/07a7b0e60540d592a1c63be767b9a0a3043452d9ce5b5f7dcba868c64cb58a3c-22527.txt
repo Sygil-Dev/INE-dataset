@@ -1,31 +1,31 @@
-1girl
-architecture
-breathing fire
-bridge
-building
-castle
-category:ine
-city
-cityscape
-cloud
-dragon
-east asian architecture
-fantasy
-fire
-holding
-long hair
-mountain
-outdoors
-pagoda
-rating:safe
-scenery
-sitting
-sky
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-sunset
-sword
-title:dragon siege by jon hrubesch
-tower
-uploader:chalkchick0
-weapon
+1girl,
+architecture,
+breathing fire,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+cloud,
+dragon,
+east asian architecture,
+fantasy,
+fire,
+holding,
+long hair,
+mountain,
+outdoors,
+pagoda,
+rating:safe,
+scenery,
+sitting,
+sky,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+sunset,
+sword,
+title:dragon siege by jon hrubesch,
+tower,
+uploader:chalkchick0,
+weapon,

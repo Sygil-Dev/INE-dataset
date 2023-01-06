@@ -1,47 +1,47 @@
-aircraft
-bomb
-burning
-campfire
-category:ine
-cloud
-cloudy sky
-copyright name
-dated
-dusk
-evening
-explosion
-fire
-firing
-flame
-flying
-gradient sky
-horizon
-lens flare
-light rays
-molten rock
-mountain
-mountainous horizon
-ocean
-orange sky
-rating:safe
-red sky
-scenery
-signature
-sky
-subreddit:imaginarybattlefields
-subreddit:imaginaryfuturewar
-subreddit:imlandscapes
-subreddit:imtechnology
-sun
-sunbeam
-sunlight
-sunrise
-sunset
-title:sundown on tanarsus [oc]
-title:sundown on tnaarsus [oc]
-twilight
-uploader:keithkenkade
-uploader:treatmentstripped
-volcano
-watermark
-web address
+aircraft,
+bomb,
+burning,
+campfire,
+category:ine,
+cloud,
+cloudy sky,
+copyright name,
+dated,
+dusk,
+evening,
+explosion,
+fire,
+firing,
+flame,
+flying,
+gradient sky,
+horizon,
+lens flare,
+light rays,
+molten rock,
+mountain,
+mountainous horizon,
+ocean,
+orange sky,
+rating:safe,
+red sky,
+scenery,
+signature,
+sky,
+subreddit:imaginarybattlefields,
+subreddit:imaginaryfuturewar,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+sun,
+sunbeam,
+sunlight,
+sunrise,
+sunset,
+title:sundown on tanarsus [oc],
+title:sundown on tnaarsus [oc],
+twilight,
+uploader:keithkenkade,
+uploader:treatmentstripped,
+volcano,
+watermark,
+web address,

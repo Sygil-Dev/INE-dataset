@@ -1,72 +1,72 @@
-1 female
-1girl
-angel wings
-asymmetrical wings
-bad id
-bad pixiv id
-bare shoulders
-booru:danbooru
-booru:gelbooru
-booru:sankaku channel
-booru:tbib
-bracelet
-category:ine
-choker
-closed eyes
-clothing:bracelet
-clothing:choker
-clothing:gloves
-clothing:jewelry
-creator:sakimichan
-cyber
-eyes closed
-feathered wings
-feathers
-female
-floating hair
-from:f95zone
-furry
-gender:female
-girl
-gloves
-hair:multicolored
-hair:two-toned
-headphones
-highlights
-jewelry
-lips
-long hair
-medium:realistic
-medium:text
-meta:artist name
-meta:bad id
-meta:bad pixiv id
-multicolored hair
-original
-rating:mature
-rating:safe
-realistic
-robotic
-sakimichan
-semi-realism
-series:original
-site:anime-pictures.net
-site:deviant art
-site:deviantart
-site:f95zone
-solo
-species:reptile
-species:scalie
-species:snake
-split-color hair
-subreddit:imaginaryimmortals
-subreddit:imraces
-title:yin yang goddess by sakimi chan
-two tone hair
-two-tone hair
-uploader:chalkchick0
-website:f95zone
-white hair
-white wings
-wings
-yin yang (symbol)
+1 female,
+1girl,
+angel wings,
+asymmetrical wings,
+bad id,
+bad pixiv id,
+bare shoulders,
+booru:danbooru,
+booru:gelbooru,
+booru:sankaku channel,
+booru:tbib,
+bracelet,
+category:ine,
+choker,
+closed eyes,
+clothing:bracelet,
+clothing:choker,
+clothing:gloves,
+clothing:jewelry,
+creator:sakimichan,
+cyber,
+eyes closed,
+feathered wings,
+feathers,
+female,
+floating hair,
+from:f95zone,
+furry,
+gender:female,
+girl,
+gloves,
+hair:multicolored,
+hair:two-toned,
+headphones,
+highlights,
+jewelry,
+lips,
+long hair,
+medium:realistic,
+medium:text,
+meta:artist name,
+meta:bad id,
+meta:bad pixiv id,
+multicolored hair,
+original,
+rating:mature,
+rating:safe,
+realistic,
+robotic,
+sakimichan,
+semi-realism,
+series:original,
+site:anime-pictures.net,
+site:deviant art,
+site:deviantart,
+site:f95zone,
+solo,
+species:reptile,
+species:scalie,
+species:snake,
+split-color hair,
+subreddit:imaginaryimmortals,
+subreddit:imraces,
+title:yin yang goddess by sakimi chan,
+two tone hair,
+two-tone hair,
+uploader:chalkchick0,
+website:f95zone,
+white hair,
+white wings,
+wings,
+yin yang (symbol),

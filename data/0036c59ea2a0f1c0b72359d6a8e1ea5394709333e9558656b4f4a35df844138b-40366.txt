@@ -1,36 +1,36 @@
-1boy
-angel
-archer
-arrow
-arrow (projectile)
-bird
-black hair
-boots
-bow
-bow (weapon)
-category:ine
-copyright name
-creator:billy christian
-crow
-feathers
-gloves
-holding
-knight
-male focus
-medium:digital 2d
-ranger
-rating:safe
-species:avian
-species:bird
-subreddit:imaginaryangels
-subreddit:imaginaryarchers
-subreddit:imcharacters
-subreddit:imraces
-title:unforgiving rasdrax - reg &amp; adv
-title:unforgiving rasdrax - reg by billy christian
-title:unforgiving rasdrax reg by billy christian
-uploader:drunkindragon
-uploader:lol33ta
-war
-weapon
-wing
+1boy,
+angel,
+archer,
+arrow,
+arrow (projectile),
+bird,
+black hair,
+boots,
+bow,
+bow (weapon),
+category:ine,
+copyright name,
+creator:billy christian,
+crow,
+feathers,
+gloves,
+holding,
+knight,
+male focus,
+medium:digital 2d,
+ranger,
+rating:safe,
+species:avian,
+species:bird,
+subreddit:imaginaryangels,
+subreddit:imaginaryarchers,
+subreddit:imcharacters,
+subreddit:imraces,
+title:unforgiving rasdrax - reg &amp; adv,
+title:unforgiving rasdrax - reg by billy christian,
+title:unforgiving rasdrax reg by billy christian,
+uploader:drunkindragon,
+uploader:lol33ta,
+war,
+weapon,
+wing,

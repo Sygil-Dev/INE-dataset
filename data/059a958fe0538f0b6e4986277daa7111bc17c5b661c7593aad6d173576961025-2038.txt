@@ -1,28 +1,28 @@
-architecture
-blue sky
-building
-castle
-category:ine
-cloud
-cloudy sky
-copyright name
-day
-mountain
-outdoors
-rating:safe
-scenery
-sky
-standing
-subreddit:imaginarybestof
-subreddit:imaginarymonuments
-subreddit:imaginarytemples
-subreddit:imarchitecture
-subreddit:immeta
-title:[/r/imaginarymonuments] the temple of the lightbringers by joon ahn
-title:[/r/imaginarytemples] the temple of the lightbringers by joon ahn
-title:the temple of the lightbringers by joon ahn
-title:the temple of the lightbringers, joon ahn.
-tower
-uploader:lol33ta
-uploader:tellanas
-uploader:turbologic
+architecture,
+blue sky,
+building,
+castle,
+category:ine,
+cloud,
+cloudy sky,
+copyright name,
+day,
+mountain,
+outdoors,
+rating:safe,
+scenery,
+sky,
+standing,
+subreddit:imaginarybestof,
+subreddit:imaginarymonuments,
+subreddit:imaginarytemples,
+subreddit:imarchitecture,
+subreddit:immeta,
+title:[/r/imaginarymonuments] the temple of the lightbringers by joon ahn,
+title:[/r/imaginarytemples] the temple of the lightbringers by joon ahn,
+title:the temple of the lightbringers by joon ahn,
+title:the temple of the lightbringers, joon ahn.,
+tower,
+uploader:lol33ta,
+uploader:tellanas,
+uploader:turbologic,

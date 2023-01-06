@@ -1,24 +1,24 @@
-armor
-axe
-battle
-breathing fire
-category:ine
-crown
-embers
-fire
-flame
-gun
-hat
-helmet
-rating:safe
-subreddit:imaginarybattlefields
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-subreddit:imlandscapes
-sword
-teeth
-title:bloodwrack shrine - daughters of khaine by jaime martinez
-torch
-uploader:levthered
-uploader:lol33ta
-weapon
+armor,
+axe,
+battle,
+breathing fire,
+category:ine,
+crown,
+embers,
+fire,
+flame,
+gun,
+hat,
+helmet,
+rating:safe,
+subreddit:imaginarybattlefields,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+subreddit:imlandscapes,
+sword,
+teeth,
+title:bloodwrack shrine - daughters of khaine by jaime martinez,
+torch,
+uploader:levthered,
+uploader:lol33ta,
+weapon,

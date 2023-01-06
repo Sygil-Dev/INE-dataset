@@ -1,21 +1,21 @@
-architecture
-bridge
-building
-category:ine
-city
-cityscape
-cloud
-day
-fantasy
-no humans
-outdoors
-rating:safe
-scenery
-sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:the last men, by kunrong yap
-tower
-tree
-uploader:sylvyrfyre
-waterfall
+architecture,
+bridge,
+building,
+category:ine,
+city,
+cityscape,
+cloud,
+day,
+fantasy,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:the last men, by kunrong yap,
+tower,
+tree,
+uploader:sylvyrfyre,
+waterfall,

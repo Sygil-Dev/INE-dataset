@@ -1,22 +1,22 @@
-artwork
-back
-category:ine
-creator:david legnon
-futurism
-gender:female
-genre:cyberpunk
-genre:science fiction
-japan
-medium:digital media
-neon
-outrun
-retrowave
-sci fi
-subreddit:imaginarycyberpunk
-subreddit:imaginaryfuturism
-subreddit:imtechnology
-synthwave
-title:"a new job" by david legnon
-title:a new job
-tokyo
-uploader:donnie_dark0
+artwork,
+back,
+category:ine,
+creator:david legnon,
+futurism,
+gender:female,
+genre:cyberpunk,
+genre:science fiction,
+japan,
+medium:digital media,
+neon,
+outrun,
+retrowave,
+sci fi,
+subreddit:imaginarycyberpunk,
+subreddit:imaginaryfuturism,
+subreddit:imtechnology,
+synthwave,
+title:"a new job" by david legnon,
+title:a new job,
+tokyo,
+uploader:donnie_dark0,

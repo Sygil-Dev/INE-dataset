@@ -1,21 +1,21 @@
-category:ine
-character:godzilla
-city
-fire
-giant
-glowing
-kaijuu
-letterboxed
-monster
-open mouth
-rating:safe
-scales
-sharp teeth
-spikes
-subreddit:imaginarybehemoths
-subreddit:imaginarydemons
-subreddit:immonsters
-teeth
-title:the djinn al ra'ad al-kasif, by richard corben [1978]
-transparent background
-uploader:4_bit_forever
+category:ine,
+character:godzilla,
+city,
+fire,
+giant,
+glowing,
+kaijuu,
+letterboxed,
+monster,
+open mouth,
+rating:safe,
+scales,
+sharp teeth,
+spikes,
+subreddit:imaginarybehemoths,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+teeth,
+title:the djinn al ra'ad al-kasif, by richard corben [1978],
+transparent background,
+uploader:4_bit_forever,

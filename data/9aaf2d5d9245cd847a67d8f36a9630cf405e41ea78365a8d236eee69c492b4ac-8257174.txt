@@ -1,55 +1,55 @@
-asteroid
-asteroid (space)
-battle
-beam
-beam rifle
-cannon
-category:ine
-character name
-character:nu gundam
-creator:daniel kamarudin
-creator:thedurianart
-creator:thedurrrrian
-debris
-energy gun
-explosion
-explosions
-fin funnels
-firearm
-funnels
-funnels (gundam)
-genre:science fiction
-glowing
-glowing eyes
-gradient
-gradient background
-gun
-mecha
-medium:character name
-medium:gradient background
-medium:realistic
-medium:simple background
-meta:commentary request
-meta:photoshop (medium)
-no humans
-planet
-rating:general
-rating:mature
-rating:s
-rating:safe
-rating:sensitive
-realistic
-robot
-science fiction
-series:char's counterattack
-series:gundam
-space
-star (sky)
-studio:asteroid
-studio:planet
-subreddit:imaginarymechs
-subreddit:imtechnology
-title:nu gundam
-title:rx-93 nu gundam by: thedurrrrian
-uploader:outlander94
-weapon
+asteroid,
+asteroid (space),
+battle,
+beam,
+beam rifle,
+cannon,
+category:ine,
+character name,
+character:nu gundam,
+creator:daniel kamarudin,
+creator:thedurianart,
+creator:thedurrrrian,
+debris,
+energy gun,
+explosion,
+explosions,
+fin funnels,
+firearm,
+funnels,
+funnels (gundam),
+genre:science fiction,
+glowing,
+glowing eyes,
+gradient,
+gradient background,
+gun,
+mecha,
+medium:character name,
+medium:gradient background,
+medium:realistic,
+medium:simple background,
+meta:commentary request,
+meta:photoshop (medium),
+no humans,
+planet,
+rating:general,
+rating:mature,
+rating:s,
+rating:safe,
+rating:sensitive,
+realistic,
+robot,
+science fiction,
+series:char's counterattack,
+series:gundam,
+space,
+star (sky),
+studio:asteroid,
+studio:planet,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+title:nu gundam,
+title:rx-93 nu gundam by: thedurrrrian,
+uploader:outlander94,
+weapon,

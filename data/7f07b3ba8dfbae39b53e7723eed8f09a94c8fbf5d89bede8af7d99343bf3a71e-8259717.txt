@@ -1,52 +1,52 @@
-armor
-blue body
-blue feathers
-booru:e621
-category:ine
-character:fan character
-clothing:armor
-creator:locksto
-cutie mark
-day
-detailed background
-duo
-feathered wings
-feathers
-female
-feral
-gender:female
-gender:male
-green eyes
-grey eyes
-hair
-hooves
-horn
-horns
-male
-medium:16:10 aspect ratio
-medium:detailed background
-medium:high resolution
-meta:16:10
-meta:hi res
-meta:original character
-meta:widescreen
-orange hair
-original character
-outside
-rating:safe
-series:my little pony
-species:equid
-species:equine
-species:mammal
-species:mythical
-species:pegasus
-species:pterippus
-species:unicorn
-standing
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"on the way" by alex kush (locksto)
-title:on the way
-uploader:torvusil
-wings
+armor,
+blue body,
+blue feathers,
+booru:e621,
+category:ine,
+character:fan character,
+clothing:armor,
+creator:locksto,
+cutie mark,
+day,
+detailed background,
+duo,
+feathered wings,
+feathers,
+female,
+feral,
+gender:female,
+gender:male,
+green eyes,
+grey eyes,
+hair,
+hooves,
+horn,
+horns,
+male,
+medium:16:10 aspect ratio,
+medium:detailed background,
+medium:high resolution,
+meta:16:10,
+meta:hi res,
+meta:original character,
+meta:widescreen,
+orange hair,
+original character,
+outside,
+rating:safe,
+series:my little pony,
+species:equid,
+species:equine,
+species:mammal,
+species:mythical,
+species:pegasus,
+species:pterippus,
+species:unicorn,
+standing,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"on the way" by alex kush (locksto),
+title:on the way,
+uploader:torvusil,
+wings,

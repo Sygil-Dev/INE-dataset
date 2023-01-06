@@ -1,97 +1,97 @@
-action:smile
-ambiguous gender
-ambiguous_gender
-artist:cryptid-creations
-beach
-black eyes
-black_eyes
-boat
-bodypart:black eyes
-category:ine
-character:marine
-coconut
-creator:cryptid-creations
-crustacean
-cryptid-creations
-drupe (fruit)
-drupe_(fruit)
-feral
-fish
-food
-fruit
-gender:ambiguous
-gender:male
-humor
-idol singer
-male:1
-medium:simple background
-medium:white background
-meme:humor
-meta:2018
-meta:url
-meta:white background
-palm tree
-palm_tree
-pier
-plant
-pun
-rating:safe
-real person
-sailboat
-sailing boat
-sailing watercraft
-sailing_boat
-sailing_watercraft
-sand
-sea otter
-seashell
-seaside
-shell
-simple background
-simple_background
-smile
-solo
-species:ambient arthropod
-species:ambient crustacean
-species:ambient sealife
-species:ambient starfish
-species:ambient_arthropod
-species:ambient_crustacean
-species:ambient_sealife
-species:ambient_starfish
-species:arthropod
-species:asterozoan
-species:crab
-species:crustacean
-species:decapoda
-species:echinoderm
-species:elemental
-species:elemental creature
-species:elemental_creature
-species:fish
-species:lutrine
-species:malacostracan
-species:mammal
-species:marine
-species:mustelid
-species:otter
-species:sea otter
-species:sea_otter
-species:starfish
-species:water creature
-species:water elemental
-species:water_creature
-starfish
-subreddit:imaginaryelementals
-subreddit:immonsters
-text
-title:sea otter by piper thibodeau
-tree
-uploader:myrandall
-vehicle
-visual pun
-visual_pun
-water
-watercraft
-white_background
-year:2018
+action:smile,
+ambiguous gender,
+ambiguous_gender,
+artist:cryptid-creations,
+beach,
+black eyes,
+black_eyes,
+boat,
+bodypart:black eyes,
+category:ine,
+character:marine,
+coconut,
+creator:cryptid-creations,
+crustacean,
+cryptid-creations,
+drupe (fruit),
+drupe_(fruit),
+feral,
+fish,
+food,
+fruit,
+gender:ambiguous,
+gender:male,
+humor,
+idol singer,
+male:1,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2018,
+meta:url,
+meta:white background,
+palm tree,
+palm_tree,
+pier,
+plant,
+pun,
+rating:safe,
+real person,
+sailboat,
+sailing boat,
+sailing watercraft,
+sailing_boat,
+sailing_watercraft,
+sand,
+sea otter,
+seashell,
+seaside,
+shell,
+simple background,
+simple_background,
+smile,
+solo,
+species:ambient arthropod,
+species:ambient crustacean,
+species:ambient sealife,
+species:ambient starfish,
+species:ambient_arthropod,
+species:ambient_crustacean,
+species:ambient_sealife,
+species:ambient_starfish,
+species:arthropod,
+species:asterozoan,
+species:crab,
+species:crustacean,
+species:decapoda,
+species:echinoderm,
+species:elemental,
+species:elemental creature,
+species:elemental_creature,
+species:fish,
+species:lutrine,
+species:malacostracan,
+species:mammal,
+species:marine,
+species:mustelid,
+species:otter,
+species:sea otter,
+species:sea_otter,
+species:starfish,
+species:water creature,
+species:water elemental,
+species:water_creature,
+starfish,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+text,
+title:sea otter by piper thibodeau,
+tree,
+uploader:myrandall,
+vehicle,
+visual pun,
+visual_pun,
+water,
+watercraft,
+white_background,
+year:2018,

@@ -1,45 +1,45 @@
-beach
-building
-category:ine
-city
-city lights
-cityscape
-cloud
-cloudy sky
-creator:masahiro sawada
-dusk
-evening
-gradient sky
-horizon
-lake
-landscape
-medium:digital 2d
-mountain
-mountainous horizon
-no humans
-ocean
-orange sky
-outdoors
-purple sky
-rating:safe
-red sky
-river
-scenery
-shore
-signature
-sky
-subreddit:imaginaryislands
-subreddit:imaginaryprisons
-subreddit:imarchitecture
-subreddit:imnature
-sun
-sunlight
-sunrise
-sunset
-title:penal colony
-title:penal colony by masahiro sawada
-twilight
-uploader:drunkindragon
-uploader:johncarterofares
-uploader:lol33ta
-water
+beach,
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+cloud,
+cloudy sky,
+creator:masahiro sawada,
+dusk,
+evening,
+gradient sky,
+horizon,
+lake,
+landscape,
+medium:digital 2d,
+mountain,
+mountainous horizon,
+no humans,
+ocean,
+orange sky,
+outdoors,
+purple sky,
+rating:safe,
+red sky,
+river,
+scenery,
+shore,
+signature,
+sky,
+subreddit:imaginaryislands,
+subreddit:imaginaryprisons,
+subreddit:imarchitecture,
+subreddit:imnature,
+sun,
+sunlight,
+sunrise,
+sunset,
+title:penal colony,
+title:penal colony by masahiro sawada,
+twilight,
+uploader:drunkindragon,
+uploader:johncarterofares,
+uploader:lol33ta,
+water,

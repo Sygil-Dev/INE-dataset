@@ -1,71 +1,71 @@
-1 female
-1girl
-::d
-amputee
-arm support
-bike shorts
-blue shirt
-blush
-bodily fluids
-brown hair
-category:ine
-character:ibarazaki emi
-character:ibarazaki meiko
-clenched hand
-clothing:bike shorts
-clothing:blue shirt
-clothing:hair bobbles
-clothing:hair ornament
-clothing:legwear
-clothing:shirt
-clothing:short sleeves
-clothing:shorts
-creator:bukimi isan
-crying
-crying with eyes open
-double amputee
-face::d
-faceless
-faceless male
-gender:female
-gender:male
-gold
-gradient
-grin
-hair bobbles
-hair ornament
-hand on another's head
-hand on head
-hand on hip
-knees together feet apart
-leaning
-leaning forward
-medal
-medium:high resolution
-meta:bad id
-meta:bad twitter id
-meta:commentary
-meta:highres
-meta:translation request
-nose blush
-one eye closed
-open mouth
-photo (object)
-prosthesis
-prosthetic leg
-rating:safe
-series:katawa shoujo
-shirt
-short sleeves
-shorts
-sky
-smile
-solo focus
-standing
-subreddit:imaginaryfeels
-subreddit:immeta
-tears
-tied hair
-title:standing tall by bukimi isan
-twintails
-website:reddit
+1 female,
+1girl,
+::d,
+amputee,
+arm support,
+bike shorts,
+blue shirt,
+blush,
+bodily fluids,
+brown hair,
+category:ine,
+character:ibarazaki emi,
+character:ibarazaki meiko,
+clenched hand,
+clothing:bike shorts,
+clothing:blue shirt,
+clothing:hair bobbles,
+clothing:hair ornament,
+clothing:legwear,
+clothing:shirt,
+clothing:short sleeves,
+clothing:shorts,
+creator:bukimi isan,
+crying,
+crying with eyes open,
+double amputee,
+face::d,
+faceless,
+faceless male,
+gender:female,
+gender:male,
+gold,
+gradient,
+grin,
+hair bobbles,
+hair ornament,
+hand on another's head,
+hand on head,
+hand on hip,
+knees together feet apart,
+leaning,
+leaning forward,
+medal,
+medium:high resolution,
+meta:bad id,
+meta:bad twitter id,
+meta:commentary,
+meta:highres,
+meta:translation request,
+nose blush,
+one eye closed,
+open mouth,
+photo (object),
+prosthesis,
+prosthetic leg,
+rating:safe,
+series:katawa shoujo,
+shirt,
+short sleeves,
+shorts,
+sky,
+smile,
+solo focus,
+standing,
+subreddit:imaginaryfeels,
+subreddit:immeta,
+tears,
+tied hair,
+title:standing tall by bukimi isan,
+twintails,
+website:reddit,

@@ -1,38 +1,38 @@
-booru:e621
-category:ine
-clothed
-clothing
-creator:tamberella
-duo
-eeveelution
-female
-feral
-gender:female
-green hair
-hair
-medium:5:4 aspect ratio
-medium:digital media
-meta:5:4
-meta:digital media (artwork)
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-solo
-species:eeveelution
-species:human
-species:leafeon
-species:mammal
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:primate
-studio:nintendo
-subreddit:imaginarybestof
-subreddit:immeta
-title:[/r/imaginarykanto] leafeon moss sprite by devin elle kurtz
-uploader:lol33ta
-video games
-white body
-white skin
+booru:e621,
+category:ine,
+clothed,
+clothing,
+creator:tamberella,
+duo,
+eeveelution,
+female,
+feral,
+gender:female,
+green hair,
+hair,
+medium:5:4 aspect ratio,
+medium:digital media,
+meta:5:4,
+meta:digital media (artwork),
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+solo,
+species:eeveelution,
+species:human,
+species:leafeon,
+species:mammal,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:primate,
+studio:nintendo,
+subreddit:imaginarybestof,
+subreddit:immeta,
+title:[/r/imaginarykanto] leafeon moss sprite by devin elle kurtz,
+uploader:lol33ta,
+video games,
+white body,
+white skin,

@@ -1,25 +1,25 @@
-aircraft
-bird
-category:ine
-city
-cloud
-creator:sergey vasnev
-full moon
-letterboxed
-medium:digital 2d
-moon
-moonlight
-night
-night sky
-outdoors
-rating:safe
-scenery
-silhouette
-sky
-subreddit:imaginaryundead
-subreddit:immonsters
-title:halloween artwork for zombie gunship
-title:halloween artwork for zombie gunship by sergey vasnev
-tower
-uploader:ethereeal
-watercraft
+aircraft,
+bird,
+category:ine,
+city,
+cloud,
+creator:sergey vasnev,
+full moon,
+letterboxed,
+medium:digital 2d,
+moon,
+moonlight,
+night,
+night sky,
+outdoors,
+rating:safe,
+scenery,
+silhouette,
+sky,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+title:halloween artwork for zombie gunship,
+title:halloween artwork for zombie gunship by sergey vasnev,
+tower,
+uploader:ethereeal,
+watercraft,

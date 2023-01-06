@@ -1,25 +1,25 @@
-artem rhads
-booru:wallhaven.cc
-category:ine
-clouds
-creator:artem chebokha
-eagle
-evening
-medium:digital 2d
-painting
-sky
-species:equine
-species:horse
-species:mammal
-subreddit:imaginaryanimals
-subreddit:imaginarybestof
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-subreddit:immeta
-subreddit:imnature
-title:[/r/imaginaryskyscapes] to the light by artem rhads
-title:to the light
-title:to the light by artem rhads
-uploader:lol33ta
-uploader:valar_m0rghul1s
-water
+artem rhads,
+booru:wallhaven.cc,
+category:ine,
+clouds,
+creator:artem chebokha,
+eagle,
+evening,
+medium:digital 2d,
+painting,
+sky,
+species:equine,
+species:horse,
+species:mammal,
+subreddit:imaginaryanimals,
+subreddit:imaginarybestof,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+subreddit:immeta,
+subreddit:imnature,
+title:[/r/imaginaryskyscapes] to the light by artem rhads,
+title:to the light,
+title:to the light by artem rhads,
+uploader:lol33ta,
+uploader:valar_m0rghul1s,
+water,

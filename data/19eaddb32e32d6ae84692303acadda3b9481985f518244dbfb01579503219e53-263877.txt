@@ -1,23 +1,23 @@
-boy
-category:ine
-cool
-creator:michael vincent manalo
-dream
-dreamy
-environment
-hills
-light
-medium:digital 2d
-melancholic
-mountains
-night time
-nostalgic
-rocks
-stars
-strange
-subreddit:imaginaryskyscapes
-subreddit:imlandscapes
-title:sketch day 46
-title:sketch day 46 by michael vincent manalo
-uploader:johncarterofares
-wonder
+boy,
+category:ine,
+cool,
+creator:michael vincent manalo,
+dream,
+dreamy,
+environment,
+hills,
+light,
+medium:digital 2d,
+melancholic,
+mountains,
+night time,
+nostalgic,
+rocks,
+stars,
+strange,
+subreddit:imaginaryskyscapes,
+subreddit:imlandscapes,
+title:sketch day 46,
+title:sketch day 46 by michael vincent manalo,
+uploader:johncarterofares,
+wonder,

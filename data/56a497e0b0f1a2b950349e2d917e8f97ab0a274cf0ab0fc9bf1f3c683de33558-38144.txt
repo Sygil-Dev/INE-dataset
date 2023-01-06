@@ -1,34 +1,34 @@
-1 female
-1girl
-artist name
-artist:chuby mi
-black hair
-booru:danbooru
-booru:gelbooru
-category:ine
-copyright:original
-creator:chuby mi
-gender:female
-green eyes
-hairband
-lips
-looking at viewer
-medium:artist name
-medium:digital 2d
-portrait
-pov
-rating:mature
-rating:safe
-scar
-series:original
-short hair
-silver trim
-smile
-solo
-subreddit:imaginaryhumans
-subreddit:imraces
-title:black
-title:black by chuby mi
-uploader:net-diver
-upper body
-wind
+1 female,
+1girl,
+artist name,
+artist:chuby mi,
+black hair,
+booru:danbooru,
+booru:gelbooru,
+category:ine,
+copyright:original,
+creator:chuby mi,
+gender:female,
+green eyes,
+hairband,
+lips,
+looking at viewer,
+medium:artist name,
+medium:digital 2d,
+portrait,
+pov,
+rating:mature,
+rating:safe,
+scar,
+series:original,
+short hair,
+silver trim,
+smile,
+solo,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:black,
+title:black by chuby mi,
+uploader:net-diver,
+upper body,
+wind,

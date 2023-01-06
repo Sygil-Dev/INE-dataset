@@ -1,28 +1,28 @@
-blizzard
-category:ine
-cg
-creator:tatiana hordiienko
-digitalart
-dress
-elf
-fantasy
-lake
-medium:digital 2d
-nightelf
-oc
-portrait
-series:warcraft
-source of eternity
-species:elf
-studio:blizzard entertainment
-subreddit:imaginaryazeroth
-subreddit:imaginaryelves
-subreddit:imfandoms
-subreddit:imraces
-title:10,000 years ago
-title:10,000 years ago by tatiana hordiienko
-uploader:net-diver
-wet
-worldofwarcraft
-wow
-zin-azshari
+blizzard,
+category:ine,
+cg,
+creator:tatiana hordiienko,
+digitalart,
+dress,
+elf,
+fantasy,
+lake,
+medium:digital 2d,
+nightelf,
+oc,
+portrait,
+series:warcraft,
+source of eternity,
+species:elf,
+studio:blizzard entertainment,
+subreddit:imaginaryazeroth,
+subreddit:imaginaryelves,
+subreddit:imfandoms,
+subreddit:imraces,
+title:10,000 years ago,
+title:10,000 years ago by tatiana hordiienko,
+uploader:net-diver,
+wet,
+worldofwarcraft,
+wow,
+zin-azshari,

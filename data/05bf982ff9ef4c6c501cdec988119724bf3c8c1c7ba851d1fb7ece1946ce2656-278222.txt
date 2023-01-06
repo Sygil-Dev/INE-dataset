@@ -1,23 +1,23 @@
-artist name
-category:ine
-earth (planet)
-ground vehicle
-gun
-holding gun
-military
-motor vehicle
-motorcycle
-ocean
-planet
-rating:safe
-realistic
-sand
-science fiction
-subreddit:imaginarysoldiers
-subreddit:imaginaryvehicles
-subreddit:imcharacters
-title:hydrobike concept by patrick faulwetter
-uploader:lol33ta
-uploader:myrandall
-water
-weapon
+artist name,
+category:ine,
+earth (planet),
+ground vehicle,
+gun,
+holding gun,
+military,
+motor vehicle,
+motorcycle,
+ocean,
+planet,
+rating:safe,
+realistic,
+sand,
+science fiction,
+subreddit:imaginarysoldiers,
+subreddit:imaginaryvehicles,
+subreddit:imcharacters,
+title:hydrobike concept by patrick faulwetter,
+uploader:lol33ta,
+uploader:myrandall,
+water,
+weapon,

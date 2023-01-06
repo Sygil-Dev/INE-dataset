@@ -1,24 +1,24 @@
-building
-campfire
-category:ine
-city
-desert
-dusk
-evening
-fire
-gun
-military
-orange sky
-rating:safe
-realistic
-science fiction
-subreddit:imaginaryfeels
-subreddit:imaginarywastelands
-subreddit:imlandscapes
-subreddit:immeta
-sunset
-title:'infinity and beyond' by beeple, aka mike winkelmann
-twilight
-uploader:jaykirsch
-weapon
-website:reddit
+building,
+campfire,
+category:ine,
+city,
+desert,
+dusk,
+evening,
+fire,
+gun,
+military,
+orange sky,
+rating:safe,
+realistic,
+science fiction,
+subreddit:imaginaryfeels,
+subreddit:imaginarywastelands,
+subreddit:imlandscapes,
+subreddit:immeta,
+sunset,
+title:'infinity and beyond' by beeple, aka mike winkelmann,
+twilight,
+uploader:jaykirsch,
+weapon,
+website:reddit,

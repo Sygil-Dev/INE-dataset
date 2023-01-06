@@ -1,65 +1,65 @@
-2018
-ambiguous gender
-anthro
-anthropomorphism
-armor
-art
-blastoise
-blue body
-blue skin
-booru:e621
-category:ine
-claws
-clothing:armor
-clothing:eyewear
-creator:kenket
-eyewear
-firearm
-furry
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-gesture
-gun
-ketsketch
-medium:simple background
-mega
-meta:2018
-poekmon
-pogo
-pogotrainer
-pointing
-pokemonfanart
-pokemonpainting
-ranged weapon
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-shell
-simple background
-smile
-solo
-source:furaffinity.net
-species:blastoise
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-species:reptile
-species:scalie
-species:squirtle
-squirtle
-standing
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-sunglasses
-title:have a blast
-title:have a blast by tess garman
-title:have a blast by tess garman (kenket)
-turtle shell
-uploader:myrandall
-video games
-weapon
-year:2018
+2018,
+ambiguous gender,
+anthro,
+anthropomorphism,
+armor,
+art,
+blastoise,
+blue body,
+blue skin,
+booru:e621,
+category:ine,
+claws,
+clothing:armor,
+clothing:eyewear,
+creator:kenket,
+eyewear,
+firearm,
+furry,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+gesture,
+gun,
+ketsketch,
+medium:simple background,
+mega,
+meta:2018,
+poekmon,
+pogo,
+pogotrainer,
+pointing,
+pokemonfanart,
+pokemonpainting,
+ranged weapon,
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+shell,
+simple background,
+smile,
+solo,
+source:furaffinity.net,
+species:blastoise,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+species:reptile,
+species:scalie,
+species:squirtle,
+squirtle,
+standing,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+sunglasses,
+title:have a blast,
+title:have a blast by tess garman,
+title:have a blast by tess garman (kenket),
+turtle shell,
+uploader:myrandall,
+video games,
+weapon,
+year:2018,

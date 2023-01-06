@@ -1,27 +1,27 @@
-animated
-animation
-background
-balistiq
-bg art
-category:ine
-color
-color theory
-creator:nicholas kennedy
-design
-flowers
-imagine
-imagine fx
-imaginefx
-medium:digital 2d
-painting
-paintings
-publishing
-studio
-subreddit:imaginarycolorscapes
-subreddit:imaginaryinteriors
-subreddit:imarchitecture
-subreddit:immeta
-title:artist studio - imagine fx workshop
-title:artist studio by nicholas kennedy
-uploader:lol33ta
-uploader:myrandall
+animated,
+animation,
+background,
+balistiq,
+bg art,
+category:ine,
+color,
+color theory,
+creator:nicholas kennedy,
+design,
+flowers,
+imagine,
+imagine fx,
+imaginefx,
+medium:digital 2d,
+painting,
+paintings,
+publishing,
+studio,
+subreddit:imaginarycolorscapes,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+subreddit:immeta,
+title:artist studio - imagine fx workshop,
+title:artist studio by nicholas kennedy,
+uploader:lol33ta,
+uploader:myrandall,

@@ -1,78 +1,78 @@
-1 female
-1girl
-10s
-absurdres
-bag
-bare legs
-beanie
-black hair
-blurry
-bracelet
-brown eyes
-category:ine
-character:female protagonist (pokemon sm)
-character:litten
-character:litten (pokemon)
-character:mizuki (pokemon sm)
-character:mizuki (pokemon)
-character:pokemon (creature)
-character:pokemon character
-character:protagonist (pokemon)
-character:selene (pokemon)
-clothing:bracelet
-clothing:footwear
-clothing:headwear
-clothing:legwear
-copyright name
-creator:shiimo
-depth of field
-english
-english text
-footwear
-gen 7 pokemon
-gender:female
-handbag
-hat
-jewelry
-language:english
-legs
-lifebuoy
-medium:absurd resolution
-medium:english text
-medium:high resolution
-medium:text
-meta:absurdres
-meta:highres
-palm tree
-pokemon (creature)
-rating:mature
-rating:safe
-rating:sensitive
-red hat
-red headwear
-series:creatures (company)
-series:game freak
-series:nintendo
-series:pokemon
-series:pokemon (game)
-series:pokemon sm
-series:pokémon
-series:pokémon sun & moon
-shirt
-shoes
-short hair
-short shorts
-shorts
-sneakers
-species:litten
-species:monster
-species:pokémon
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-suitcase
-t-shirt
-text
-title:alola walk by shimo
-tree
-walking
+1 female,
+1girl,
+10s,
+absurdres,
+bag,
+bare legs,
+beanie,
+black hair,
+blurry,
+bracelet,
+brown eyes,
+category:ine,
+character:female protagonist (pokemon sm),
+character:litten,
+character:litten (pokemon),
+character:mizuki (pokemon sm),
+character:mizuki (pokemon),
+character:pokemon (creature),
+character:pokemon character,
+character:protagonist (pokemon),
+character:selene (pokemon),
+clothing:bracelet,
+clothing:footwear,
+clothing:headwear,
+clothing:legwear,
+copyright name,
+creator:shiimo,
+depth of field,
+english,
+english text,
+footwear,
+gen 7 pokemon,
+gender:female,
+handbag,
+hat,
+jewelry,
+language:english,
+legs,
+lifebuoy,
+medium:absurd resolution,
+medium:english text,
+medium:high resolution,
+medium:text,
+meta:absurdres,
+meta:highres,
+palm tree,
+pokemon (creature),
+rating:mature,
+rating:safe,
+rating:sensitive,
+red hat,
+red headwear,
+series:creatures (company),
+series:game freak,
+series:nintendo,
+series:pokemon,
+series:pokemon (game),
+series:pokemon sm,
+series:pokémon,
+series:pokémon sun & moon,
+shirt,
+shoes,
+short hair,
+short shorts,
+shorts,
+sneakers,
+species:litten,
+species:monster,
+species:pokémon,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+suitcase,
+t-shirt,
+text,
+title:alola walk by shimo,
+tree,
+walking,

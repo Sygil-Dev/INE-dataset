@@ -1,22 +1,22 @@
-category:ine
-character design
-concept
-creator:dan pilla
-creator:daniel pilla
-digital 2d
-fantasy
-gandalf
-illustration
-lotr
-mage
-medium:digital 2d
-radagast
-saruman
-subreddit:imaginarymiddleearth
-subreddit:imaginarywizards
-subreddit:imcharacters
-subreddit:imfandoms
-title:gandalf by daniel pilla
-title:wizards of the lord of the rings
-uploader:net-diver
-wizard
+category:ine,
+character design,
+concept,
+creator:dan pilla,
+creator:daniel pilla,
+digital 2d,
+fantasy,
+gandalf,
+illustration,
+lotr,
+mage,
+medium:digital 2d,
+radagast,
+saruman,
+subreddit:imaginarymiddleearth,
+subreddit:imaginarywizards,
+subreddit:imcharacters,
+subreddit:imfandoms,
+title:gandalf by daniel pilla,
+title:wizards of the lord of the rings,
+uploader:net-diver,
+wizard,

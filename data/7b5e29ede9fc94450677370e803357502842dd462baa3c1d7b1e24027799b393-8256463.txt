@@ -1,48 +1,48 @@
-art
-artist
-artwork
-category:ine
-creator:kyuyong eom
-design
-dragon
-drow
-elartist@naver.com
-furry
-gameart
-gamedesign
-gametitle
-illustration
-illustrator
-ire blood memory
-kyu yong eom
-maintitle
-medium:digital 2d
-medium:sketch
-mobilgame
-rpg
-sketch
-species:dragon
-species:drow
-species:elf
-species:mythical
-species:scalie
-subreddit:imaginaryarmor
-subreddit:imaginaryhellscapes
-subreddit:imaginaryruins
-subreddit:imarchitecture
-subreddit:imlandscapes
-subreddit:imtechnology
-title:blood memory, by kyu yong eom
-title:ire blood memory by kyuyong eom
-uploader:drunkindragon
-uploader:lol33ta
-uploader:sylvyrfyre
-게임아트
-게임아트웍
-그림
-디자인
-모바일게임
-아이어 블러드 메모리
-원화
-일러스트
-일러스트레이션
+art,
+artist,
+artwork,
+category:ine,
+creator:kyuyong eom,
+design,
+dragon,
+drow,
+elartist@naver.com,
+furry,
+gameart,
+gamedesign,
+gametitle,
+illustration,
+illustrator,
+ire blood memory,
+kyu yong eom,
+maintitle,
+medium:digital 2d,
+medium:sketch,
+mobilgame,
+rpg,
+sketch,
+species:dragon,
+species:drow,
+species:elf,
+species:mythical,
+species:scalie,
+subreddit:imaginaryarmor,
+subreddit:imaginaryhellscapes,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+subreddit:imlandscapes,
+subreddit:imtechnology,
+title:blood memory, by kyu yong eom,
+title:ire blood memory by kyuyong eom,
+uploader:drunkindragon,
+uploader:lol33ta,
+uploader:sylvyrfyre,
+게임아트,
+게임아트웍,
+그림,
+디자인,
+모바일게임,
+아이어 블러드 메모리,
+원화,
+일러스트,
+일러스트레이션,

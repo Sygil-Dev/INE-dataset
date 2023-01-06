@@ -1,35 +1,35 @@
-ambiguous gender
-booru:e621
-category:ine
-creator:pechschwinge
-fur
-furry
-gender:ambiguous
-group
-medium:digital media
-medium:high resolution
-membrane (anatomy)
-membranous wings
-meta:digital media (artwork)
-meta:hi res
-open mouth
-rating:safe
-species:dragon
-species:equid
-species:equine
-species:horse
-species:human
-species:hybrid
-species:mammal
-species:mythical
-species:primate
-species:scalie
-species:wyvern
-subreddit:imaginarybattlefields
-subreddit:imlandscapes
-teeth
-title:the battle of brig-lo
-title:the battle of brig-lo by nadine schäkel
-tongue
-uploader:hvitserkr
-wings
+ambiguous gender,
+booru:e621,
+category:ine,
+creator:pechschwinge,
+fur,
+furry,
+gender:ambiguous,
+group,
+medium:digital media,
+medium:high resolution,
+membrane (anatomy),
+membranous wings,
+meta:digital media (artwork),
+meta:hi res,
+open mouth,
+rating:safe,
+species:dragon,
+species:equid,
+species:equine,
+species:horse,
+species:human,
+species:hybrid,
+species:mammal,
+species:mythical,
+species:primate,
+species:scalie,
+species:wyvern,
+subreddit:imaginarybattlefields,
+subreddit:imlandscapes,
+teeth,
+title:the battle of brig-lo,
+title:the battle of brig-lo by nadine schäkel,
+tongue,
+uploader:hvitserkr,
+wings,

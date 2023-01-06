@@ -1,69 +1,69 @@
-1 female
-1girl
-artist:artstation username
-artist:manda schank
-artstation username
-bare arms
-bare shoulders
-booru:danbooru
-booru:sankaku channel
-bottomless
-breasts
-category:ine
-character:scylla
-cleavage
-closed mouth
-copyright:original
-crab
-creator:artstation username
-creator:manda schank
-dark background
-deviantart username
-eyeliner
-fish
-gender:female
-gradient skin
-grey skin
-headgear
-holding
-holding object
-holding weapon
-instagram username
-lips
-long hair
-looking at viewer
-makeup
-manda schank
-medium:dark background
-medium:high resolution
-medium:instagram username
-meta:commentary
-meta:deviantart username
-meta:english commentary
-meta:highres
-metadata:highres
-monster girl
-pink eyes
-pink hair
-polearm
-pov
-rating:safe
-scylla
-series:original
-solo
-species:crab
-species:crustacean
-subreddit:imaginarymerfolk
-subreddit:imraces
-suction cup
-suction cups
-tentacle
-tentacles
-title:octomaiden by manda schank
-trident
-two-handed
-underwater
-uploader:knighterrannt
-very long hair
-water
-weapon
+1 female,
+1girl,
+artist:artstation username,
+artist:manda schank,
+artstation username,
+bare arms,
+bare shoulders,
+booru:danbooru,
+booru:sankaku channel,
+bottomless,
+breasts,
+category:ine,
+character:scylla,
+cleavage,
+closed mouth,
+copyright:original,
+crab,
+creator:artstation username,
+creator:manda schank,
+dark background,
+deviantart username,
+eyeliner,
+fish,
+gender:female,
+gradient skin,
+grey skin,
+headgear,
+holding,
+holding object,
+holding weapon,
+instagram username,
+lips,
+long hair,
+looking at viewer,
+makeup,
+manda schank,
+medium:dark background,
+medium:high resolution,
+medium:instagram username,
+meta:commentary,
+meta:deviantart username,
+meta:english commentary,
+meta:highres,
+metadata:highres,
+monster girl,
+pink eyes,
+pink hair,
+polearm,
+pov,
+rating:safe,
+scylla,
+series:original,
+solo,
+species:crab,
+species:crustacean,
+subreddit:imaginarymerfolk,
+subreddit:imraces,
+suction cup,
+suction cups,
+tentacle,
+tentacles,
+title:octomaiden by manda schank,
+trident,
+two-handed,
+underwater,
+uploader:knighterrannt,
+very long hair,
+water,
+weapon,

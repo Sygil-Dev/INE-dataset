@@ -1,91 +1,91 @@
-2016
-ambiguous_gender
-artist:cryptid-creations
-black eyes
-black_eyes
-blue body
-blue scales
-blue_body
-blue_scales
-bodypart:black eyes
-book
-category:ine
-cauldron
-clothing
-clothing:hat
-clothing:headwear
-coals
-copyright:patreon
-creator:cryptid-creations
-duo
-feral
-fire
-furry
-gender:ambiguous
-grass
-green body
-green scales
-green_body
-green_scales
-hat
-headgear
-headwear
-humor
-log
-magic user
-magic_user
-medium:simple background
-medium:white background
-meme:humor
-meta:2016
-meta:english text
-meta:paid reward
-meta:patreon reward
-meta:tagme
-meta:white background
-patreon logo
-plant
-potion
-pun
-rating:safe
-red body
-red scales
-red_body
-red_scales
-scales
-simple background
-simple_background
-species:dinosaur
-species:extinct
-species:reptile
-species:scalie
-species:theropod
-species:tyrannosaurid
-species:tyrannosaurus
-species:tyrannosaurus rex
-species:tyrannosaurus_rex
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-tan body
-tan scales
-tan_body
-tan_scales
-text
-title:day 1427. saurceress
-title:saurceress by piper thibodeau
-uploader:myrandall
-visual pun
-visual_pun
-white background
-white body
-white scales
-white_background
-white_body
-white_scales
-witch
-witch hat
-witch_hat
-wood
-year:2016
-yellow eyes
-yellow_eyes
+2016,
+ambiguous_gender,
+artist:cryptid-creations,
+black eyes,
+black_eyes,
+blue body,
+blue scales,
+blue_body,
+blue_scales,
+bodypart:black eyes,
+book,
+category:ine,
+cauldron,
+clothing,
+clothing:hat,
+clothing:headwear,
+coals,
+copyright:patreon,
+creator:cryptid-creations,
+duo,
+feral,
+fire,
+furry,
+gender:ambiguous,
+grass,
+green body,
+green scales,
+green_body,
+green_scales,
+hat,
+headgear,
+headwear,
+humor,
+log,
+magic user,
+magic_user,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:paid reward,
+meta:patreon reward,
+meta:tagme,
+meta:white background,
+patreon logo,
+plant,
+potion,
+pun,
+rating:safe,
+red body,
+red scales,
+red_body,
+red_scales,
+scales,
+simple background,
+simple_background,
+species:dinosaur,
+species:extinct,
+species:reptile,
+species:scalie,
+species:theropod,
+species:tyrannosaurid,
+species:tyrannosaurus,
+species:tyrannosaurus rex,
+species:tyrannosaurus_rex,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+tan body,
+tan scales,
+tan_body,
+tan_scales,
+text,
+title:day 1427. saurceress,
+title:saurceress by piper thibodeau,
+uploader:myrandall,
+visual pun,
+visual_pun,
+white background,
+white body,
+white scales,
+white_background,
+white_body,
+white_scales,
+witch,
+witch hat,
+witch_hat,
+wood,
+year:2016,
+yellow eyes,
+yellow_eyes,

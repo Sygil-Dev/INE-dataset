@@ -1,21 +1,21 @@
-2d
-category:ine
-cold
-concept
-conceptart
-creator:ismail inceoglu
-digital
-digitalart
-environment
-fire
-hot
-landscape
-medium:digital 2d
-scenery
-seventeenthart
-snow
-subreddit:imaginaryelementals
-subreddit:immonsters
-title:abraska by ismail inceoglu
-title:аbraska
-uploader:l-ya
+2d,
+category:ine,
+cold,
+concept,
+conceptart,
+creator:ismail inceoglu,
+digital,
+digitalart,
+environment,
+fire,
+hot,
+landscape,
+medium:digital 2d,
+scenery,
+seventeenthart,
+snow,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+title:abraska by ismail inceoglu,
+title:аbraska,
+uploader:l-ya,

@@ -1,61 +1,61 @@
-2017
-ambiguous gender
-black eyes
-bodypart:black eyes
-box
-category:ine
-cheese
-creator:cryptid-creations
-creator:piperdraws
-dairy products
-english text
-feral
-filename:dp1764_s
-food
-furry
-gender:ambiguous
-gender:male
-humor
-language:english
-male:1
-medium:english text
-medium:patreon reward
-medium:simple background
-medium:text
-medium:white background
-meme:humor
-meta:2017
-meta:english text
-meta:paid reward
-meta:patreon reward
-meta:white background
-pizza
-pizza box
-pun
-rating:safe
-simple background
-site:patreon
-site:yiff.party
-solo
-species:dinosaur
-species:extinct
-species:food creature
-species:hybrid
-species:reptile
-species:scalie
-species:spinosaurid
-species:spinosaurus
-species:theropod
-subreddit:imaginarydinosaurs
-subreddit:imaginaryfood
-subreddit:immeta
-subreddit:immonsters
-text
-title:1$ patreon pack - daily paint 1764# pizzasaurus - the carnivore
-title:5-10$ patreon pack - daily paint 1764# pizzasaurus - the carnivore
-title:daily paint 1764# pizzasaurus - the carnivore
-title:pizzasaurus - the carnivore by piper thibodeau
-uploader:myrandall
-website:e621
-year:2017
-yiff id:457132
+2017,
+ambiguous gender,
+black eyes,
+bodypart:black eyes,
+box,
+category:ine,
+cheese,
+creator:cryptid-creations,
+creator:piperdraws,
+dairy products,
+english text,
+feral,
+filename:dp1764_s,
+food,
+furry,
+gender:ambiguous,
+gender:male,
+humor,
+language:english,
+male:1,
+medium:english text,
+medium:patreon reward,
+medium:simple background,
+medium:text,
+medium:white background,
+meme:humor,
+meta:2017,
+meta:english text,
+meta:paid reward,
+meta:patreon reward,
+meta:white background,
+pizza,
+pizza box,
+pun,
+rating:safe,
+simple background,
+site:patreon,
+site:yiff.party,
+solo,
+species:dinosaur,
+species:extinct,
+species:food creature,
+species:hybrid,
+species:reptile,
+species:scalie,
+species:spinosaurid,
+species:spinosaurus,
+species:theropod,
+subreddit:imaginarydinosaurs,
+subreddit:imaginaryfood,
+subreddit:immeta,
+subreddit:immonsters,
+text,
+title:1$ patreon pack - daily paint 1764# pizzasaurus - the carnivore,
+title:5-10$ patreon pack - daily paint 1764# pizzasaurus - the carnivore,
+title:daily paint 1764# pizzasaurus - the carnivore,
+title:pizzasaurus - the carnivore by piper thibodeau,
+uploader:myrandall,
+website:e621,
+year:2017,
+yiff id:457132,

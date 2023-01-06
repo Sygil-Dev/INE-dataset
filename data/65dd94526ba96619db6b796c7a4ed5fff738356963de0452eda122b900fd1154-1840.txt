@@ -1,37 +1,37 @@
-blue body
-blue scales
-category:ine
-cloud
-creator:cryptid-creations
-electric eel
-electricity
-feral
-fish
-gender:ambiguous
-gender:male
-green body
-green eyes
-green scales
-humor
-knifefish
-lightning
-male:1
-marine
-meme:humor
-meta:english text
-pun
-raining
-rating:safe
-scales
-solo
-species:electric eel
-species:fish
-species:knifefish
-species:marine
-species:naked-back knifefish
-subreddit:imaginaryelementals
-subreddit:immonsters
-text
-thunderstorm
-title:eelectric storm by piper thibodeau
-uploader:myrandall
+blue body,
+blue scales,
+category:ine,
+cloud,
+creator:cryptid-creations,
+electric eel,
+electricity,
+feral,
+fish,
+gender:ambiguous,
+gender:male,
+green body,
+green eyes,
+green scales,
+humor,
+knifefish,
+lightning,
+male:1,
+marine,
+meme:humor,
+meta:english text,
+pun,
+raining,
+rating:safe,
+scales,
+solo,
+species:electric eel,
+species:fish,
+species:knifefish,
+species:marine,
+species:naked-back knifefish,
+subreddit:imaginaryelementals,
+subreddit:immonsters,
+text,
+thunderstorm,
+title:eelectric storm by piper thibodeau,
+uploader:myrandall,

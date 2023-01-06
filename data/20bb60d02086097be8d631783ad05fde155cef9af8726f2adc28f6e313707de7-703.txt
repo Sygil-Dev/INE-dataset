@@ -1,45 +1,45 @@
-art
-booru:e621
-breath powers
-category:ine
-claws
-creator:chris rahn
-elemental manipulation
-feral
-fire
-fire breathing
-fire manipulation
-flying
-fur
-furry
-gender:ambiguous
-landscape
-long tail
-low-angle view
-membrane (anatomy)
-membranous wings
-meta:official art
-open mouth
-outside
-rating:safe
-restricted palette
-roaring
-series:hasbro
-series:magic: the gathering
-series:official art
-signature
-solo
-species:dragon
-species:furred dragon
-species:mythical
-species:scalie
-spread wings
-studio:hasbro
-studio:wizards of the coast
-subreddit:imaginarydragons
-subreddit:immonsters
-tail
-title:skyship stalker by chris rahn
-uploader:felo-de-se-
-uploader:the-thirteenth
-wings
+art,
+booru:e621,
+breath powers,
+category:ine,
+claws,
+creator:chris rahn,
+elemental manipulation,
+feral,
+fire,
+fire breathing,
+fire manipulation,
+flying,
+fur,
+furry,
+gender:ambiguous,
+landscape,
+long tail,
+low-angle view,
+membrane (anatomy),
+membranous wings,
+meta:official art,
+open mouth,
+outside,
+rating:safe,
+restricted palette,
+roaring,
+series:hasbro,
+series:magic: the gathering,
+series:official art,
+signature,
+solo,
+species:dragon,
+species:furred dragon,
+species:mythical,
+species:scalie,
+spread wings,
+studio:hasbro,
+studio:wizards of the coast,
+subreddit:imaginarydragons,
+subreddit:immonsters,
+tail,
+title:skyship stalker by chris rahn,
+uploader:felo-de-se-,
+uploader:the-thirteenth,
+wings,

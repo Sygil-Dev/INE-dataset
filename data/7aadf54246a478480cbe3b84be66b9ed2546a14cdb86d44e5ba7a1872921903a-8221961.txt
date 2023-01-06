@@ -1,89 +1,89 @@
-action:looking at viewer
-angry
-attack
-beard
-blood
-bodily fluids
-bodypart:facial hair
-bodypart:teeth
-bodypart:tongue
-booru:e621
-category:ine
-claws
-clenched teeth
-clothing
-clothing:shirt
-clothing:tagme
-clothing:topwear
-clothing:torn clothes
-creator:fobiapharmer
-detailed
-detailed background
-emotion:anger
-facial hair
-fangs
-fobiapharmer
-foreshortening
-gender:female
-gender:male
-group
-growth
-hand on head
-hi res
-human
-looking at viewer
-male
-medium:detailed background
-medium:high resolution
-medium:monochrome
-medium:traditional media
-meta:2009
-meta:detailed
-meta:monochrome
-meta:tagme
-meta:traditional media (artwork)
-monochrome
-monster
-muscular
-night
-nightmare fuel
-outside
-pencil
-pencil (object)
-pov
-rage
-rating:questionable
-saliva
-sharp claws
-sharp teeth
-shirt
-solo focus
-species:canid
-species:canine
-species:canis
-species:human
-species:mammal
-species:mythical
-species:primate
-species:were
-species:werecanid
-species:werecanine
-species:werewolf
-species:wolf
-star
-subreddit:imaginarywerewolves
-subreddit:immonsters
-teeth
-title:full moon offering xiii - by fobiapharmer (ron spencer) at deviantart
-tongue
-tongue out
-topwear
-torn clothes
-torn clothing
-traditional media (artwork)
-transformation
-uploader:[deleted]
-website:e621
-were
-wounded
-year:2009
+action:looking at viewer,
+angry,
+attack,
+beard,
+blood,
+bodily fluids,
+bodypart:facial hair,
+bodypart:teeth,
+bodypart:tongue,
+booru:e621,
+category:ine,
+claws,
+clenched teeth,
+clothing,
+clothing:shirt,
+clothing:tagme,
+clothing:topwear,
+clothing:torn clothes,
+creator:fobiapharmer,
+detailed,
+detailed background,
+emotion:anger,
+facial hair,
+fangs,
+fobiapharmer,
+foreshortening,
+gender:female,
+gender:male,
+group,
+growth,
+hand on head,
+hi res,
+human,
+looking at viewer,
+male,
+medium:detailed background,
+medium:high resolution,
+medium:monochrome,
+medium:traditional media,
+meta:2009,
+meta:detailed,
+meta:monochrome,
+meta:tagme,
+meta:traditional media (artwork),
+monochrome,
+monster,
+muscular,
+night,
+nightmare fuel,
+outside,
+pencil,
+pencil (object),
+pov,
+rage,
+rating:questionable,
+saliva,
+sharp claws,
+sharp teeth,
+shirt,
+solo focus,
+species:canid,
+species:canine,
+species:canis,
+species:human,
+species:mammal,
+species:mythical,
+species:primate,
+species:were,
+species:werecanid,
+species:werecanine,
+species:werewolf,
+species:wolf,
+star,
+subreddit:imaginarywerewolves,
+subreddit:immonsters,
+teeth,
+title:full moon offering xiii - by fobiapharmer (ron spencer) at deviantart,
+tongue,
+tongue out,
+topwear,
+torn clothes,
+torn clothing,
+traditional media (artwork),
+transformation,
+uploader:[deleted],
+website:e621,
+were,
+wounded,
+year:2009,

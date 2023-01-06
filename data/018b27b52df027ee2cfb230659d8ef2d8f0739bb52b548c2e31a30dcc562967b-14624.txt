@@ -1,24 +1,24 @@
-1girl
-ahoge
-animal
-black border
-black eyes
-border
-category:ine
-closed mouth
-english text
-greyscale
-heart
-letterboxed
-looking at viewer
-monochrome
-one eye closed
-phone screen
-pillarboxed
-rating:safe
-smile
-solo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:yellow and pika
-uploader:morningsun92
+1girl,
+ahoge,
+animal,
+black border,
+black eyes,
+border,
+category:ine,
+closed mouth,
+english text,
+greyscale,
+heart,
+letterboxed,
+looking at viewer,
+monochrome,
+one eye closed,
+phone screen,
+pillarboxed,
+rating:safe,
+smile,
+solo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:yellow and pika,
+uploader:morningsun92,

@@ -1,51 +1,51 @@
-artist:cryptid-creations
-bird
-black eyes
-black_eyes
-category:ine
-creator:cryptid-creations
-crystal
-crystal feathers
-crystal_feathers
-feathered wings
-feathered_wings
-feathers
-feral
-gender:male
-glowing
-glowing body
-glowing feathers
-glowing_body
-glowing_feathers
-humor
-hybrid
-male
-meta:url
-peafowl
-pink body
-pink feathers
-pink_body
-pink_feathers
-pun
-rating:safe
-smile
-solo
-species:avian
-species:bird
-species:galliform
-species:hybrid
-species:peafowl
-species:phasianid
-subreddit:imaginaryanimals
-subreddit:imaginaryaww
-subreddit:imaginaryhybrids
-subreddit:immeta
-subreddit:immonsters
-subreddit:imnature
-text
-title:"crystail" by piper thibodeau
-title:daily paint 2247. crystail
-uploader:torvusil
-visual pun
-visual_pun
-wings
+artist:cryptid-creations,
+bird,
+black eyes,
+black_eyes,
+category:ine,
+creator:cryptid-creations,
+crystal,
+crystal feathers,
+crystal_feathers,
+feathered wings,
+feathered_wings,
+feathers,
+feral,
+gender:male,
+glowing,
+glowing body,
+glowing feathers,
+glowing_body,
+glowing_feathers,
+humor,
+hybrid,
+male,
+meta:url,
+peafowl,
+pink body,
+pink feathers,
+pink_body,
+pink_feathers,
+pun,
+rating:safe,
+smile,
+solo,
+species:avian,
+species:bird,
+species:galliform,
+species:hybrid,
+species:peafowl,
+species:phasianid,
+subreddit:imaginaryanimals,
+subreddit:imaginaryaww,
+subreddit:imaginaryhybrids,
+subreddit:immeta,
+subreddit:immonsters,
+subreddit:imnature,
+text,
+title:"crystail" by piper thibodeau,
+title:daily paint 2247. crystail,
+uploader:torvusil,
+visual pun,
+visual_pun,
+wings,

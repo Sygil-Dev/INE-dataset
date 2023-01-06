@@ -1,33 +1,33 @@
-2d
-art
-artwork
-bell
-category:ine
-clothing:hat
-clothing:headwear
-creature
-dark fantasy
-drawing
-fangs
-fantasy art
-fantasy men
-long hair
-medium:concept art
-medium:digital media
-medium:simple background
-monks
-shirtless
-skinny
-staff
-subreddit:imaginarybestof
-subreddit:imaginarydemons
-subreddit:imaginaryhorrors
-subreddit:immeta
-subreddit:immonsters
-title:[/r/imaginarydemons] devourer of ghosts by tooth wu
-title:devourer of ghosts by tooth wu
-title:devourer of ghosts, by tooth wu
-uploader:lol33ta
-uploader:myrandall
-uploader:sylvyrfyre
-white hair
+2d,
+art,
+artwork,
+bell,
+category:ine,
+clothing:hat,
+clothing:headwear,
+creature,
+dark fantasy,
+drawing,
+fangs,
+fantasy art,
+fantasy men,
+long hair,
+medium:concept art,
+medium:digital media,
+medium:simple background,
+monks,
+shirtless,
+skinny,
+staff,
+subreddit:imaginarybestof,
+subreddit:imaginarydemons,
+subreddit:imaginaryhorrors,
+subreddit:immeta,
+subreddit:immonsters,
+title:[/r/imaginarydemons] devourer of ghosts by tooth wu,
+title:devourer of ghosts by tooth wu,
+title:devourer of ghosts, by tooth wu,
+uploader:lol33ta,
+uploader:myrandall,
+uploader:sylvyrfyre,
+white hair,

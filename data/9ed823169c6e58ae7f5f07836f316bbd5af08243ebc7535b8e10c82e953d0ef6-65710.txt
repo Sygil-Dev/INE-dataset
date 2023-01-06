@@ -1,22 +1,22 @@
-architecture
-baneblade
-battle
-battlesuit
-battlesuit stormsurge
-cadian
-category:ine
-creator:nemanja-s
-drone
-fire warrior
-flame
-imperial guard
-imperium
-nemanja-s
-series:warhammer 40,000
-studio:games workshop
-subreddit:imaginarywarhammer
-subreddit:imfandoms
-tank
-tau
-title:banblades vs stormsurges by nemanja stankovic
-uploader:adverserius
+architecture,
+baneblade,
+battle,
+battlesuit,
+battlesuit stormsurge,
+cadian,
+category:ine,
+creator:nemanja-s,
+drone,
+fire warrior,
+flame,
+imperial guard,
+imperium,
+nemanja-s,
+series:warhammer 40,000,
+studio:games workshop,
+subreddit:imaginarywarhammer,
+subreddit:imfandoms,
+tank,
+tau,
+title:banblades vs stormsurges by nemanja stankovic,
+uploader:adverserius,

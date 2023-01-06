@@ -1,94 +1,94 @@
-american flag
-arrow
-artist:sharpwriter
-blue lightsaber
-blue_lightsaber
-board:/k/
-bodypart:red eyes
-bodypart:scar
-bow (weapon)
-bow_(weapon)
-category:ine
-character:barack obama
-character:barack_obama
-clothed
-clothing
-clothing:necktie
-copyright:real_world
-copyright:star_wars
-country:usa
-creator:sharpwriter
-crossbow
-detailed background
-dual wielding
-duo
-edit
-edited
-emotion:confusion
-feral
-flag
-flags
-fully clothed
-fully_clothed
-gender:male
-genre:science fiction
-holding object
-holding sword
-holding weapon
-holding_object
-holding_sword
-holding_weapon
-inside
-laser
-lightsaber
-male
-medium:high resolution
-melee weapon
-melee_weapon
-meta:2012
-meta:edit
-meta:hi res
-meta:hi_res
-meta:shopped
-meta:tagme
-multicolor lightsaber
-multicolor_lightsaber
-not furry
-quiver
-ranged weapon
-ranged_weapon
-rating:safe
-red eyes
-red lightsaber
-red_eyes
-red_lightsaber
-riding
-scar
-series:real world
-series:star wars
-shopped
-species:felid
-species:feline
-species:human
-species:lion
-species:mammal
-species:pantherine
-species:primate
-stars and stripes
-stars_and_stripes
-straddling
-subreddit:imaginarypolitics
-subreddit:immeta
-suit
-sword
-text
-title:obama riding a lion
-title:obama riding a lion by jason heuser
-united states of america
-united_states_of_america
-uploader:davidreiss666
-weapon
-website:e621
-where is your god now
-where_is_your_god_now
-year:2012
+american flag,
+arrow,
+artist:sharpwriter,
+blue lightsaber,
+blue_lightsaber,
+board:/k/,
+bodypart:red eyes,
+bodypart:scar,
+bow (weapon),
+bow_(weapon),
+category:ine,
+character:barack obama,
+character:barack_obama,
+clothed,
+clothing,
+clothing:necktie,
+copyright:real_world,
+copyright:star_wars,
+country:usa,
+creator:sharpwriter,
+crossbow,
+detailed background,
+dual wielding,
+duo,
+edit,
+edited,
+emotion:confusion,
+feral,
+flag,
+flags,
+fully clothed,
+fully_clothed,
+gender:male,
+genre:science fiction,
+holding object,
+holding sword,
+holding weapon,
+holding_object,
+holding_sword,
+holding_weapon,
+inside,
+laser,
+lightsaber,
+male,
+medium:high resolution,
+melee weapon,
+melee_weapon,
+meta:2012,
+meta:edit,
+meta:hi res,
+meta:hi_res,
+meta:shopped,
+meta:tagme,
+multicolor lightsaber,
+multicolor_lightsaber,
+not furry,
+quiver,
+ranged weapon,
+ranged_weapon,
+rating:safe,
+red eyes,
+red lightsaber,
+red_eyes,
+red_lightsaber,
+riding,
+scar,
+series:real world,
+series:star wars,
+shopped,
+species:felid,
+species:feline,
+species:human,
+species:lion,
+species:mammal,
+species:pantherine,
+species:primate,
+stars and stripes,
+stars_and_stripes,
+straddling,
+subreddit:imaginarypolitics,
+subreddit:immeta,
+suit,
+sword,
+text,
+title:obama riding a lion,
+title:obama riding a lion by jason heuser,
+united states of america,
+united_states_of_america,
+uploader:davidreiss666,
+weapon,
+website:e621,
+where is your god now,
+where_is_your_god_now,
+year:2012,

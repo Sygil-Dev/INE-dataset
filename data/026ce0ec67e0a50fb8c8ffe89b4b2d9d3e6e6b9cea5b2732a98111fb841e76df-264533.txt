@@ -1,28 +1,28 @@
-1other
-architecture
-artist name
-bridge
-building
-castle
-category:ine
-city
-cityscape
-cloud
-cloudy sky
-full moon
-moon
-mountain
-night
-night sky
-no humans
-outdoors
-rating:safe
-scenery
-sky
-star (sky)
-starry sky
-subreddit:imaginarycastles
-subreddit:imarchitecture
-title:a fire in the heavens by jorge jacinto
-tower
-uploader:e-leventy
+1other,
+architecture,
+artist name,
+bridge,
+building,
+castle,
+category:ine,
+city,
+cityscape,
+cloud,
+cloudy sky,
+full moon,
+moon,
+mountain,
+night,
+night sky,
+no humans,
+outdoors,
+rating:safe,
+scenery,
+sky,
+star (sky),
+starry sky,
+subreddit:imaginarycastles,
+subreddit:imarchitecture,
+title:a fire in the heavens by jorge jacinto,
+tower,
+uploader:e-leventy,

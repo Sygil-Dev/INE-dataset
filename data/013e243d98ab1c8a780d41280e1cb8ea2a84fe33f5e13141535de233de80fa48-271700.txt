@@ -1,29 +1,29 @@
-1boy
-armor
-artist name
-blue fire
-cape
-category:ine
-character:king hassan (fate)
-fake horns
-gauntlets
-glowing
-glowing eyes
-helmet
-holding
-holding sword
-holding weapon
-horns
-male focus
-pauldrons
-rating:safe
-shoulder armor
-signature
-skull
-solo
-subreddit:imaginaryazeroth
-subreddit:imfandoms
-sword
-title:arthas painting to celebrate 10 years of wrath and warcraft 3 reforged!
-uploader:tomcii
-weapon
+1boy,
+armor,
+artist name,
+blue fire,
+cape,
+category:ine,
+character:king hassan (fate),
+fake horns,
+gauntlets,
+glowing,
+glowing eyes,
+helmet,
+holding,
+holding sword,
+holding weapon,
+horns,
+male focus,
+pauldrons,
+rating:safe,
+shoulder armor,
+signature,
+skull,
+solo,
+subreddit:imaginaryazeroth,
+subreddit:imfandoms,
+sword,
+title:arthas painting to celebrate 10 years of wrath and warcraft 3 reforged!,
+uploader:tomcii,
+weapon,

@@ -1,40 +1,40 @@
-ambiguous gender
-booru:e621
-category:ine
-character:jolteon
-chiakiro
-creator:chiakiro
-eeveelution
-electricity
-feline
-fur
-gen 1 pokemon
-gen 1 pokémon
-gender:ambiguous
-mammal
-pokémon
-pokémon (species)
-rating:safe
-series:nintendo
-series:pokemon
-series:pokémon
-species:eeveelution
-species:felid
-species:feline
-species:jolteon
-species:mammal
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-spiky fur
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:the eon of jolts by chiakiro (real name unknown)
-uploader:o_no_my_buttholes
-video games
-white body
-white fur
-yellow body
-yellow fur
+ambiguous gender,
+booru:e621,
+category:ine,
+character:jolteon,
+chiakiro,
+creator:chiakiro,
+eeveelution,
+electricity,
+feline,
+fur,
+gen 1 pokemon,
+gen 1 pokémon,
+gender:ambiguous,
+mammal,
+pokémon,
+pokémon (species),
+rating:safe,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+species:eeveelution,
+species:felid,
+species:feline,
+species:jolteon,
+species:mammal,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+spiky fur,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:the eon of jolts by chiakiro (real name unknown),
+uploader:o_no_my_buttholes,
+video games,
+white body,
+white fur,
+yellow body,
+yellow fur,

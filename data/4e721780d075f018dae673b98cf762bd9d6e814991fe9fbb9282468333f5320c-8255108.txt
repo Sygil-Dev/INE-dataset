@@ -1,29 +1,29 @@
-abandoned
-alone
-art
-building
-category:ine
-challenge
-corruption
-creator:alessandro paviolo
-curset
-dark
-design
-flowers
-japan
-medium:digital 2d
-painting
-roots
-ruins
-sad
-shogunate
-smoke
-souls
-subreddit:imaginaryruins
-subreddit:imarchitecture
-temple
-title:flowers and crows | exterior
-title:flowers and crows | exterior by alessandro paviolo
-uploader:net-diver
-villagers
-water
+abandoned,
+alone,
+art,
+building,
+category:ine,
+challenge,
+corruption,
+creator:alessandro paviolo,
+curset,
+dark,
+design,
+flowers,
+japan,
+medium:digital 2d,
+painting,
+roots,
+ruins,
+sad,
+shogunate,
+smoke,
+souls,
+subreddit:imaginaryruins,
+subreddit:imarchitecture,
+temple,
+title:flowers and crows | exterior,
+title:flowers and crows | exterior by alessandro paviolo,
+uploader:net-diver,
+villagers,
+water,

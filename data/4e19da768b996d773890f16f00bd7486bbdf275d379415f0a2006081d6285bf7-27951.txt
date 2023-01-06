@@ -1,25 +1,25 @@
-blue person
-category:ine
-chaos
-character
-corruption
-crazy
-creator:owen neighbour
-dark
-demons
-madness
-magic
-medium:digital 2d
-overwhelming
-pain
-power
-sacrifice
-scary
-skinny
-subreddit:imaginarydemons
-subreddit:immonsters
-title:farce siic
-title:farce siic by owen neighbour
-uploader:owenneibz
-warlock
-wizard
+blue person,
+category:ine,
+chaos,
+character,
+corruption,
+crazy,
+creator:owen neighbour,
+dark,
+demons,
+madness,
+magic,
+medium:digital 2d,
+overwhelming,
+pain,
+power,
+sacrifice,
+scary,
+skinny,
+subreddit:imaginarydemons,
+subreddit:immonsters,
+title:farce siic,
+title:farce siic by owen neighbour,
+uploader:owenneibz,
+warlock,
+wizard,

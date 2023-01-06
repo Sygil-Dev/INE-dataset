@@ -1,31 +1,31 @@
-animal
-blurry
-blurry background
-blurry foreground
-category:ine
-depth of field
-lake
-leaf
-motion blur
-night
-no humans
-outdoors
-partially submerged
-plant
-puddle
-rain
-rating:safe
-reflection
-ripples
-sparkle
-splashing
-star (sky)
-subreddit:imaginaryaww
-subreddit:immeta
-title:a new friend by sebastián montecinos
-tree
-umbrella
-uploader:lol33ta
-water
-water drop
-wet
+animal,
+blurry,
+blurry background,
+blurry foreground,
+category:ine,
+depth of field,
+lake,
+leaf,
+motion blur,
+night,
+no humans,
+outdoors,
+partially submerged,
+plant,
+puddle,
+rain,
+rating:safe,
+reflection,
+ripples,
+sparkle,
+splashing,
+star (sky),
+subreddit:imaginaryaww,
+subreddit:immeta,
+title:a new friend by sebastián montecinos,
+tree,
+umbrella,
+uploader:lol33ta,
+water,
+water drop,
+wet,

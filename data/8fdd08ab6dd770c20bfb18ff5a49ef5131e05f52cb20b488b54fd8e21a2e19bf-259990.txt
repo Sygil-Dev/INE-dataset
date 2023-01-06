@@ -1,59 +1,59 @@
-1 female
-1 male
-1boy
-1girl
-10s
-2015
-alien
-artist name
-artist:marek okon
-bodily fluids
-category:ine
-character:xenomorph
-claws
-copyright:alien (movie)
-creator:marek okon
-crossed arms
-cyborg
-fangs
-firearm
-gender:female
-gender:male
-genre:science fiction
-gun
-medium:artist name
-medium:high resolution
-meta:artist name
-meta:artstation sample
-meta:highres
-meta:image sample
-meta:signature
-military
-military uniform
-military vehicle
-monster
-open mouth
-rating:mature
-rating:safe
-rating:sensitive
-realistic
-saliva
-science fiction
-series:alien
-series:alien (movie)
-signature
-smoke
-species:alien
-species:xenomorph
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-tail
-teeth
-title:under control by marek okon
-turret
-uniform
-uploader:3dom
-vehicle
-weapon
-year:10s
-year:2015
+1 female,
+1 male,
+1boy,
+1girl,
+10s,
+2015,
+alien,
+artist name,
+artist:marek okon,
+bodily fluids,
+category:ine,
+character:xenomorph,
+claws,
+copyright:alien (movie),
+creator:marek okon,
+crossed arms,
+cyborg,
+fangs,
+firearm,
+gender:female,
+gender:male,
+genre:science fiction,
+gun,
+medium:artist name,
+medium:high resolution,
+meta:artist name,
+meta:artstation sample,
+meta:highres,
+meta:image sample,
+meta:signature,
+military,
+military uniform,
+military vehicle,
+monster,
+open mouth,
+rating:mature,
+rating:safe,
+rating:sensitive,
+realistic,
+saliva,
+science fiction,
+series:alien,
+series:alien (movie),
+signature,
+smoke,
+species:alien,
+species:xenomorph,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+tail,
+teeth,
+title:under control by marek okon,
+turret,
+uniform,
+uploader:3dom,
+vehicle,
+weapon,
+year:10s,
+year:2015,

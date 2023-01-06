@@ -1,77 +1,77 @@
-2016
-artist:u-min
-black nose
-black_nose
-blue eyes
-blue_eyes
-brother
-brothers
-butter
-category:ine
-character:chip (disney)
-character:chip_(disney)
-character:cinnamon
-character:dale (disney)
-character:dale_(disney)
-chip (disney)
-chipanddale
-cinnamon
-cinnamon (disambiguation)
-cinnamon_(disambiguation)
-cookie cutter
-cookie_cutter
-copyright:disney
-creator:u-min
-creator:umintsu
-dairy products
-dairy_products
-dale (disney)
-detailed background
-detailed_background
-disneyfanart
-duo
-egg
-flour
-food
-gender:male
-ground squirrel
-male
-mammal
-measuring cup
-measuring_cup
-medium:detailed background
-meta:2016
-milk
-open mouth
-open smile
-open_mouth
-open_smile
-rating:safe
-red nose
-red_nose
-rolling pin
-rolling_pin
-sciurid
-series:disney
-sibling
-siblings
-smile
-species:chipmunk
-species:ground squirrel
-species:ground_squirrel
-species:mammal
-species:rodent
-species:sciurid
-studio:disney
-subreddit:imaginarydisney
-subreddit:imaginaryfood
-subreddit:imfandoms
-subreddit:immeta
-sugar
-title:patisserie chip and dale
-title:patisserie chip and dale by umintsu
-u-min
-uploader:lol33ta
-vanilla (ingredient)
-vanilla_(ingredient)
-year:2016
+2016,
+artist:u-min,
+black nose,
+black_nose,
+blue eyes,
+blue_eyes,
+brother,
+brothers,
+butter,
+category:ine,
+character:chip (disney),
+character:chip_(disney),
+character:cinnamon,
+character:dale (disney),
+character:dale_(disney),
+chip (disney),
+chipanddale,
+cinnamon,
+cinnamon (disambiguation),
+cinnamon_(disambiguation),
+cookie cutter,
+cookie_cutter,
+copyright:disney,
+creator:u-min,
+creator:umintsu,
+dairy products,
+dairy_products,
+dale (disney),
+detailed background,
+detailed_background,
+disneyfanart,
+duo,
+egg,
+flour,
+food,
+gender:male,
+ground squirrel,
+male,
+mammal,
+measuring cup,
+measuring_cup,
+medium:detailed background,
+meta:2016,
+milk,
+open mouth,
+open smile,
+open_mouth,
+open_smile,
+rating:safe,
+red nose,
+red_nose,
+rolling pin,
+rolling_pin,
+sciurid,
+series:disney,
+sibling,
+siblings,
+smile,
+species:chipmunk,
+species:ground squirrel,
+species:ground_squirrel,
+species:mammal,
+species:rodent,
+species:sciurid,
+studio:disney,
+subreddit:imaginarydisney,
+subreddit:imaginaryfood,
+subreddit:imfandoms,
+subreddit:immeta,
+sugar,
+title:patisserie chip and dale,
+title:patisserie chip and dale by umintsu,
+u-min,
+uploader:lol33ta,
+vanilla (ingredient),
+vanilla_(ingredient),
+year:2016,

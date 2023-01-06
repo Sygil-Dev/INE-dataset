@@ -1,63 +1,63 @@
-action:open mouth
-action:standing upright
-ambiguous gender
-angry
-bodypart:teeth
-bodypart:tongue
-bodypart:yellow eyes
-category:ine
-claws
-creator:sandara
-day
-destruction
-detailed background
-dinosaurs
-emotion:anger
-fangs
-feathers
-feral
-forest
-furry
-gender:ambiguous
-green body
-green feathers
-group
-medium:detailed background
-medium:digital media
-meta:2017
-meta:digital media (artwork)
-meta:tagme
-open mouth
-outside
-plant
-rating:safe
-red body
-red feathers
-roaring
-scales
-sharp teeth
-sky
-species:dinosaur
-species:dromaeosaurid
-species:extinct
-species:feathered dinosaur
-species:raptor
-species:reptile
-species:scalie
-species:theropod
-species:tyrannosaurid
-species:tyrannosaurus
-species:tyrannosaurus rex
-species:velociraptor
-standing
-subreddit:imaginarydinosaurs
-subreddit:immonsters
-teeth
-title:stampede
-title:stampede by sandara tang
-tongue
-tree
-uploader:myrandall
-website:e621
-year:2017
-yellow eyes
+action:open mouth,
+action:standing upright,
+ambiguous gender,
+angry,
+bodypart:teeth,
+bodypart:tongue,
+bodypart:yellow eyes,
+category:ine,
+claws,
+creator:sandara,
+day,
+destruction,
+detailed background,
+dinosaurs,
+emotion:anger,
+fangs,
+feathers,
+feral,
+forest,
+furry,
+gender:ambiguous,
+green body,
+green feathers,
+group,
+medium:detailed background,
+medium:digital media,
+meta:2017,
+meta:digital media (artwork),
+meta:tagme,
+open mouth,
+outside,
+plant,
+rating:safe,
+red body,
+red feathers,
+roaring,
+scales,
+sharp teeth,
+sky,
+species:dinosaur,
+species:dromaeosaurid,
+species:extinct,
+species:feathered dinosaur,
+species:raptor,
+species:reptile,
+species:scalie,
+species:theropod,
+species:tyrannosaurid,
+species:tyrannosaurus,
+species:tyrannosaurus rex,
+species:velociraptor,
+standing,
+subreddit:imaginarydinosaurs,
+subreddit:immonsters,
+teeth,
+title:stampede,
+title:stampede by sandara tang,
+tongue,
+tree,
+uploader:myrandall,
+website:e621,
+year:2017,
+yellow eyes,

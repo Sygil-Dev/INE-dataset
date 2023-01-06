@@ -1,78 +1,78 @@
-artist name
-artstation
-barbarian
-battle
-breathing fire
-burning
-campfire
-candle
-category:ine
-character
-character design
-creator:conor burke
-creature
-creature design
-dated
-demon
-design
-destruction
-dusk
-embers
-evening
-explosion
-fantasy
-fiery hair
-fiery wings
-fire
-fireplace
-firing
-flame
-flaming sword
-flaming weapon
-full body
-glowing
-glowing eyes
-heat
-horror
-hot
-kaijuu
-knight
-lightning
-male focus
-medium:digital 2d
-molten rock
-muzzle flash
-orange background
-orange sky
-orange theme
-pyrokinesis
-rating:safe
-red sky
-samurai
-signature
-skeleton
-sketch
-sketches
-skull
-smoke
-solo
-sparks
-speedpaint
-spitpaint
-subreddit:imaginarydemons
-subreddit:imaginaryundead
-subreddit:immonsters
-sun
-sunset
-tail-tip fire
-title:fire warriors
-title:fire warriors (2) by conor burke
-title:fire warriors, conor burke, at www.artstation.com - i wouldn't suggest they're not demons.
-torch
-twilight
-uploader:knighterrannt
-uploader:nikephoros_ii_phokas
-viking
-volcano
-warrior
-zombie
+artist name,
+artstation,
+barbarian,
+battle,
+breathing fire,
+burning,
+campfire,
+candle,
+category:ine,
+character,
+character design,
+creator:conor burke,
+creature,
+creature design,
+dated,
+demon,
+design,
+destruction,
+dusk,
+embers,
+evening,
+explosion,
+fantasy,
+fiery hair,
+fiery wings,
+fire,
+fireplace,
+firing,
+flame,
+flaming sword,
+flaming weapon,
+full body,
+glowing,
+glowing eyes,
+heat,
+horror,
+hot,
+kaijuu,
+knight,
+lightning,
+male focus,
+medium:digital 2d,
+molten rock,
+muzzle flash,
+orange background,
+orange sky,
+orange theme,
+pyrokinesis,
+rating:safe,
+red sky,
+samurai,
+signature,
+skeleton,
+sketch,
+sketches,
+skull,
+smoke,
+solo,
+sparks,
+speedpaint,
+spitpaint,
+subreddit:imaginarydemons,
+subreddit:imaginaryundead,
+subreddit:immonsters,
+sun,
+sunset,
+tail-tip fire,
+title:fire warriors,
+title:fire warriors (2) by conor burke,
+title:fire warriors, conor burke, at www.artstation.com - i wouldn't suggest they're not demons.,
+torch,
+twilight,
+uploader:knighterrannt,
+uploader:nikephoros_ii_phokas,
+viking,
+volcano,
+warrior,
+zombie,

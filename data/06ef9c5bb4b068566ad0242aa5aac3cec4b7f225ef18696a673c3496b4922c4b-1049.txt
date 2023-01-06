@@ -1,31 +1,31 @@
-1boy
-aura
-beard
-biribiri
-blue fire
-category:ine
-electricity
-energy
-energy ball
-facial hair
-flaming eye
-glowing
-glowing eye
-glowing eyes
-hitodama
-horns
-lightning
-magic
-magic circle
-male focus
-multiple tails
-purple fire
-rating:safe
-signature
-solo
-subreddit:imaginaryazeroth
-subreddit:imaginarydwarves
-subreddit:imfandoms
-subreddit:imraces
-title:overpowered by yuchen henry wang
-uploader:lol33ta
+1boy,
+aura,
+beard,
+biribiri,
+blue fire,
+category:ine,
+electricity,
+energy,
+energy ball,
+facial hair,
+flaming eye,
+glowing,
+glowing eye,
+glowing eyes,
+hitodama,
+horns,
+lightning,
+magic,
+magic circle,
+male focus,
+multiple tails,
+purple fire,
+rating:safe,
+signature,
+solo,
+subreddit:imaginaryazeroth,
+subreddit:imaginarydwarves,
+subreddit:imfandoms,
+subreddit:imraces,
+title:overpowered by yuchen henry wang,
+uploader:lol33ta,

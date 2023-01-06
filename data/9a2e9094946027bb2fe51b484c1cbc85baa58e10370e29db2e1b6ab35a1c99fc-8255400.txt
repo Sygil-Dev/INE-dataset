@@ -1,116 +1,116 @@
-2017
-applebloom
-armor
-babs
-babsseed
-beak
-booru:e621
-category:ine
-character:apple bloom
-character:apple bloom (mlp)
-character:babs seed
-character:babs seed (mlp)
-character:gabby
-character:gabby (mlp)
-character:scootaloo
-character:scootaloo (mlp)
-character:sweetie belle
-character:sweetie belle (mlp)
-claws
-clothing:armor
-clothing:headwear
-cmc
-creator:harwick
-creator:harwicks-art
-cutie mark
-cutiemark
-cutiemarkcrusaders
-day
-detailed background
-digital media (artwork)
-dirt
-dust
-eyelashes
-female
-filly
-foal
-gabby
-gabbythegriffon
-gender:female
-genre:fantasy
-grass
-green eyes
-grey body
-ground vehicle
-group
-hat
-headgear
-headwear
-helmet
-hill
-horns
-magenta hair
-medium:detailed background
-medium:digital media
-medium:high resolution
-meta:2017
-meta:digital media (artwork)
-meta:hi res
-mlp
-monster
-mountain
-multicolored hair
-mylittlepony
-orange body
-orange eyes
-outside
-path
-pink hair
-purple eyes
-purple hair
-rating:safe
-red eyes
-red hair
-rock
-scootaloo
-scooter
-series:friendship is magic
-series:mlp:generation 4
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-series:mythology
-sky
-smile
-species:avian
-species:earth pony
-species:equid
-species:equine
-species:griffon
-species:gryphon
-species:hybrid
-species:mammal
-species:mythical
-species:mythological avian
-species:pegasus
-species:pony
-species:pterippus
-species:unicorn
-spikes
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-sweetiebelle
-title:"cmc forever!" by harwicks-art
-title:cmc forever!
-tree
-tufted tail
-two color hair
-uploader:torvusil
-vehicle
-wagon
-wings
-year:2017
-yellow beak
-yellow body
-young
+2017,
+applebloom,
+armor,
+babs,
+babsseed,
+beak,
+booru:e621,
+category:ine,
+character:apple bloom,
+character:apple bloom (mlp),
+character:babs seed,
+character:babs seed (mlp),
+character:gabby,
+character:gabby (mlp),
+character:scootaloo,
+character:scootaloo (mlp),
+character:sweetie belle,
+character:sweetie belle (mlp),
+claws,
+clothing:armor,
+clothing:headwear,
+cmc,
+creator:harwick,
+creator:harwicks-art,
+cutie mark,
+cutiemark,
+cutiemarkcrusaders,
+day,
+detailed background,
+digital media (artwork),
+dirt,
+dust,
+eyelashes,
+female,
+filly,
+foal,
+gabby,
+gabbythegriffon,
+gender:female,
+genre:fantasy,
+grass,
+green eyes,
+grey body,
+ground vehicle,
+group,
+hat,
+headgear,
+headwear,
+helmet,
+hill,
+horns,
+magenta hair,
+medium:detailed background,
+medium:digital media,
+medium:high resolution,
+meta:2017,
+meta:digital media (artwork),
+meta:hi res,
+mlp,
+monster,
+mountain,
+multicolored hair,
+mylittlepony,
+orange body,
+orange eyes,
+outside,
+path,
+pink hair,
+purple eyes,
+purple hair,
+rating:safe,
+red eyes,
+red hair,
+rock,
+scootaloo,
+scooter,
+series:friendship is magic,
+series:mlp:generation 4,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+series:mythology,
+sky,
+smile,
+species:avian,
+species:earth pony,
+species:equid,
+species:equine,
+species:griffon,
+species:gryphon,
+species:hybrid,
+species:mammal,
+species:mythical,
+species:mythological avian,
+species:pegasus,
+species:pony,
+species:pterippus,
+species:unicorn,
+spikes,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+sweetiebelle,
+title:"cmc forever!" by harwicks-art,
+title:cmc forever!,
+tree,
+tufted tail,
+two color hair,
+uploader:torvusil,
+vehicle,
+wagon,
+wings,
+year:2017,
+yellow beak,
+yellow body,
+young,

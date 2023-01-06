@@ -1,31 +1,31 @@
-acap
-andreysarafanov
-category:ine
-city lights
-claws
-creator:andrey sarafanov
-cyberpunk
-cyborg
-glowing
-glowing eyes
-iron man
-medium:digital 3d
-night
-night sky
-no humans
-octopus
-planet
-rating:safe
-robocop
-sci-fi
-science fiction
-solo
-space
-star (sky)
-starry sky
-subreddit:imaginaryfuturewar
-subreddit:imtechnology
-tail
-title:[oc] technician - mix of iron man, dr. octopus, robocop and black panther.
-title:technician
-uploader:acap99
+acap,
+andreysarafanov,
+category:ine,
+city lights,
+claws,
+creator:andrey sarafanov,
+cyberpunk,
+cyborg,
+glowing,
+glowing eyes,
+iron man,
+medium:digital 3d,
+night,
+night sky,
+no humans,
+octopus,
+planet,
+rating:safe,
+robocop,
+sci-fi,
+science fiction,
+solo,
+space,
+star (sky),
+starry sky,
+subreddit:imaginaryfuturewar,
+subreddit:imtechnology,
+tail,
+title:[oc] technician - mix of iron man, dr. octopus, robocop and black panther.,
+title:technician,
+uploader:acap99,

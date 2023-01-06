@@ -1,45 +1,45 @@
-2007
-aids
-ambiguous gender
-anthro
-anthropomorphism
-blue border
-booru:e621
-border
-cancer
-cancer (disease)
-category:ine
-commentary
-creator:rabidsquirrelninja
-dialog
-dialogue
-duo
-english text
-for science!
-gender:ambiguous
-ill
-language:english
-medium:digital media
-medium:english text
-medium:text
-meta:2007
-meta:digital media (artwork)
-meta:english text
-politics
-rating:safe
-sick
-sitting
-species:cancer
-species:mammal
-species:murid
-species:murine
-species:rat
-species:rodent
-subreddit:imaginarypolitics
-subreddit:immeta
-text
-title:atrocity
-title:atrocity by rabidsquirrelninja
-tumor
-uploader:karmicviolence
-year:2007
+2007,
+aids,
+ambiguous gender,
+anthro,
+anthropomorphism,
+blue border,
+booru:e621,
+border,
+cancer,
+cancer (disease),
+category:ine,
+commentary,
+creator:rabidsquirrelninja,
+dialog,
+dialogue,
+duo,
+english text,
+for science!,
+gender:ambiguous,
+ill,
+language:english,
+medium:digital media,
+medium:english text,
+medium:text,
+meta:2007,
+meta:digital media (artwork),
+meta:english text,
+politics,
+rating:safe,
+sick,
+sitting,
+species:cancer,
+species:mammal,
+species:murid,
+species:murine,
+species:rat,
+species:rodent,
+subreddit:imaginarypolitics,
+subreddit:immeta,
+text,
+title:atrocity,
+title:atrocity by rabidsquirrelninja,
+tumor,
+uploader:karmicviolence,
+year:2007,

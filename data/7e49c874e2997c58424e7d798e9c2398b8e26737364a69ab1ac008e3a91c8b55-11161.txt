@@ -1,75 +1,75 @@
-1 female
-1girl
-artist:pippi (pixiv 1922055)
-bandana
-bandanna
-bike shorts
-black legwear
-blue eyes
-bridge
-brown hair
-category:ine
-character:haruka (pokemon)
-character:may (pokemon)
-character:mightyena
-character:pokemon character
-character:protagonist (pokemon)
-character:swablu
-clothing:footwear
-clothing:legwear
-copyright:pokemon rse
-creator:p3i2
-creator:pippi (pixiv 1922055)
-creator:ぴっぴ
-creator:ぴっぴ＠春コミ東2ム11a
-day
-footwear
-forest
-fortree city
-from behind
-gen 3 pokemon
-gender:female
-hut
-looking up
-medium:high resolution
-meta:character request
-meta:highres
-nature
-open mouth
-outdoors
-outside
-page:1
-pixiv artist id:1922055
-pixiv illust id:65981469
-pokemon 5000 users bookmark
-pokemon (creature)
-pouch
-rating:mature
-rating:safe
-red vest
-series:pokemon
-series:pokemon (game)
-series:pokemon rse
-series:pokémon
-series:pokémon ruby sapphire & emerald
-shoes
-short hair
-shorts
-socks
-species:mightyena
-species:monster
-species:pokemon
-species:pokémon
-species:swablu
-standing
-studio:nintendo
-subreddit:imaginarykanto
-subreddit:imfandoms
-title:pokemon summary by ぴっぴ
-title:ポケモンまとめ
-tree
-vest
-wooden bridge
-wristband
-トウヤ(トレーナー)
-ハルカ(トレーナー)
+1 female,
+1girl,
+artist:pippi (pixiv 1922055),
+bandana,
+bandanna,
+bike shorts,
+black legwear,
+blue eyes,
+bridge,
+brown hair,
+category:ine,
+character:haruka (pokemon),
+character:may (pokemon),
+character:mightyena,
+character:pokemon character,
+character:protagonist (pokemon),
+character:swablu,
+clothing:footwear,
+clothing:legwear,
+copyright:pokemon rse,
+creator:p3i2,
+creator:pippi (pixiv 1922055),
+creator:ぴっぴ,
+creator:ぴっぴ＠春コミ東2ム11a,
+day,
+footwear,
+forest,
+fortree city,
+from behind,
+gen 3 pokemon,
+gender:female,
+hut,
+looking up,
+medium:high resolution,
+meta:character request,
+meta:highres,
+nature,
+open mouth,
+outdoors,
+outside,
+page:1,
+pixiv artist id:1922055,
+pixiv illust id:65981469,
+pokemon 5000 users bookmark,
+pokemon (creature),
+pouch,
+rating:mature,
+rating:safe,
+red vest,
+series:pokemon,
+series:pokemon (game),
+series:pokemon rse,
+series:pokémon,
+series:pokémon ruby sapphire & emerald,
+shoes,
+short hair,
+shorts,
+socks,
+species:mightyena,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:swablu,
+standing,
+studio:nintendo,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+title:pokemon summary by ぴっぴ,
+title:ポケモンまとめ,
+tree,
+vest,
+wooden bridge,
+wristband,
+トウヤ(トレーナー),
+ハルカ(トレーナー),

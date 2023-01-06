@@ -1,20 +1,20 @@
-alcohol
-beer
-category:ine
-dwarfs
-fantasy art
-fantasy girl
-map
-orks
-red hair
-species:orc
-subreddit:imaginarygatherings
-subreddit:imaginarytaverns
-subreddit:imarchitecture
-subreddit:imcharacters
-tavern
-title:warstones box illustration by grace liu
-title:warstones box illustration by grace liu.
-uploader:lol33ta
-uploader:turbologic
-warrior
+alcohol,
+beer,
+category:ine,
+dwarfs,
+fantasy art,
+fantasy girl,
+map,
+orks,
+red hair,
+species:orc,
+subreddit:imaginarygatherings,
+subreddit:imaginarytaverns,
+subreddit:imarchitecture,
+subreddit:imcharacters,
+tavern,
+title:warstones box illustration by grace liu,
+title:warstones box illustration by grace liu.,
+uploader:lol33ta,
+uploader:turbologic,
+warrior,

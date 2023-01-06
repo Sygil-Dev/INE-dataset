@@ -1,55 +1,55 @@
-alien
-category:ine
-character:edi (mass effect)
-character:garrus vakarian
-character:jack (mass effect)
-character:jacob taylor
-character:james vega
-character:javik
-character:jeff moreau
-character:kai leng
-character:kaidan alenko
-character:kasumi goto
-character:krogan
-character:legion (mass effect)
-character:liara t'soni
-character:matriarch benezia
-character:miranda lawson
-character:mordin solus
-character:quarian
-character:reaper (mass effect)
-character:samantha traynor
-character:samara
-character:saren arterius
-character:steve cortez
-character:tali'zorah vas normandy
-character:thane krios
-character:turian
-character:urdnot wrex
-creator:illusive man
-creator:virak
-cyborg
-drell
-gender:female
-gender:male
-grunt
-jane shepard
-jeff "joker" moreau
-john shepard
-medium:16:9 aspect ratio
-normandy
-planet
-race:quarian
-series:mass effect
-series:mass effect 2
-species:asari
-species:geth
-species:quarian
-subreddit:imaginarymasseffect
-subreddit:imfandoms
-tattoo
-title:mass effect
-title:saga by virak (virak)
-uploader:[deleted]
-urdnot bakara
-zaeed massani
+alien,
+category:ine,
+character:edi (mass effect),
+character:garrus vakarian,
+character:jack (mass effect),
+character:jacob taylor,
+character:james vega,
+character:javik,
+character:jeff moreau,
+character:kai leng,
+character:kaidan alenko,
+character:kasumi goto,
+character:krogan,
+character:legion (mass effect),
+character:liara t'soni,
+character:matriarch benezia,
+character:miranda lawson,
+character:mordin solus,
+character:quarian,
+character:reaper (mass effect),
+character:samantha traynor,
+character:samara,
+character:saren arterius,
+character:steve cortez,
+character:tali'zorah vas normandy,
+character:thane krios,
+character:turian,
+character:urdnot wrex,
+creator:illusive man,
+creator:virak,
+cyborg,
+drell,
+gender:female,
+gender:male,
+grunt,
+jane shepard,
+jeff "joker" moreau,
+john shepard,
+medium:16:9 aspect ratio,
+normandy,
+planet,
+race:quarian,
+series:mass effect,
+series:mass effect 2,
+species:asari,
+species:geth,
+species:quarian,
+subreddit:imaginarymasseffect,
+subreddit:imfandoms,
+tattoo,
+title:mass effect,
+title:saga by virak (virak),
+uploader:[deleted],
+urdnot bakara,
+zaeed massani,

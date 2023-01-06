@@ -1,50 +1,50 @@
-2016
-blue eyes
-booru:e621
-category:ine
-claws
-creator:grypwolf
-creator:vooron
-day
-dead tree
-detailed background
-digital drawing (artwork)
-digital media (artwork)
-female
-gender:female
-grypwolf
-ice
-icicle
-kohu
-medium:detailed background
-medium:digital media
-meta:2016
-meta:digital drawing (artwork)
-meta:digital media (artwork)
-mountain
-outside
-paws
-peaceful
-plant
-rating:safe
-sitting
-snow
-snowing
-solo
-species:felid
-species:feline
-species:lion
-species:mammal
-species:pantherine
-stairs
-stargrovestudios
-subreddit:imaginarywinterscapes
-subreddit:imlandscapes
-sunrise
-temple
-title:stay and make it a home
-title:stay and make it a home by grypwolf/jonna.k
-top
-tree
-uploader:chalkchick0
-year:2016
+2016,
+blue eyes,
+booru:e621,
+category:ine,
+claws,
+creator:grypwolf,
+creator:vooron,
+day,
+dead tree,
+detailed background,
+digital drawing (artwork),
+digital media (artwork),
+female,
+gender:female,
+grypwolf,
+ice,
+icicle,
+kohu,
+medium:detailed background,
+medium:digital media,
+meta:2016,
+meta:digital drawing (artwork),
+meta:digital media (artwork),
+mountain,
+outside,
+paws,
+peaceful,
+plant,
+rating:safe,
+sitting,
+snow,
+snowing,
+solo,
+species:felid,
+species:feline,
+species:lion,
+species:mammal,
+species:pantherine,
+stairs,
+stargrovestudios,
+subreddit:imaginarywinterscapes,
+subreddit:imlandscapes,
+sunrise,
+temple,
+title:stay and make it a home,
+title:stay and make it a home by grypwolf/jonna.k,
+top,
+tree,
+uploader:chalkchick0,
+year:2016,

@@ -1,66 +1,66 @@
-ambiguous gender
-ambiguous_gender
-artist:johis
-black nose
-black_nose
-brown body
-brown fur
-brown_body
-brown_fur
-brr
-category:ine
-closed eyes
-clothing:socks
-creator:johis
-detailed
-dipstick ears
-dipstick tail
-dipstick_ears
-dipstick_tail
-eyes closed
-eyes_closed
-feral
-fluffy
-fluffy tail
-fluffy_tail
-fur
-gender:ambiguous
-gender:female
-leg markings
-leg_markings
-markings
-meta:detailed
-multicolored ears
-multicolored tail
-multicolored_ears
-multicolored_tail
-orange body
-orange fur
-orange_body
-orange_fur
-outside
-rating:safe
-red
-shake
-shaking
-snow
-snowing
-socks (marking)
-socks_(marking)
-solo
-source:furaffinity.net
-species:canid
-species:canine
-species:fox
-species:mammal
-subreddit:imaginaryanimals
-subreddit:imnature
-tail
-title:first snow
-title:first snow by lhuin/johanna tarkela
-uploader:chalkchick0
-whiskers
-white body
-white fur
-white_body
-white_fur
+ambiguous gender,
+ambiguous_gender,
+artist:johis,
+black nose,
+black_nose,
+brown body,
+brown fur,
+brown_body,
+brown_fur,
+brr,
+category:ine,
+closed eyes,
+clothing:socks,
+creator:johis,
+detailed,
+dipstick ears,
+dipstick tail,
+dipstick_ears,
+dipstick_tail,
+eyes closed,
+eyes_closed,
+feral,
+fluffy,
+fluffy tail,
+fluffy_tail,
+fur,
+gender:ambiguous,
+gender:female,
+leg markings,
+leg_markings,
+markings,
+meta:detailed,
+multicolored ears,
+multicolored tail,
+multicolored_ears,
+multicolored_tail,
+orange body,
+orange fur,
+orange_body,
+orange_fur,
+outside,
+rating:safe,
+red,
+shake,
+shaking,
+snow,
+snowing,
+socks (marking),
+socks_(marking),
+solo,
+source:furaffinity.net,
+species:canid,
+species:canine,
+species:fox,
+species:mammal,
+subreddit:imaginaryanimals,
+subreddit:imnature,
+tail,
+title:first snow,
+title:first snow by lhuin/johanna tarkela,
+uploader:chalkchick0,
+whiskers,
+white body,
+white fur,
+white_body,
+white_fur,

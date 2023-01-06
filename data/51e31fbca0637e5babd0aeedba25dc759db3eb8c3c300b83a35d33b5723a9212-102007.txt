@@ -1,90 +1,90 @@
-1 eye
-2016
-action:licking
-angry
-beady eyes
-bird
-black eyes
-blue body
-blue feathers
-bodypart:black eyes
-bodypart:facial piercing
-bodypart:grey fur
-bodypart:tongue
-category:ine
-character:felis
-clothing
-clothing:eyewear
-clothing:hat
-clothing:headwear
-creator:cryptid-creations
-domestic cat
-ear piercing
-ear ring
-emotion:anger
-eye patch
-eyepatch
-eyewear
-facial piercing
-fangs
-feathered wings
-feathers
-felid
-feral
-fur
-gender:ambiguous
-grey body
-grey fur
-group
-hat
-headgear
-headwear
-humor
-knife
-licking
-licking lips
-medium:simple background
-medium:white background
-meme:humor
-meta:2016
-meta:english text
-meta:tagme
-meta:white background
-one-eyed
-orange body
-pegleg
-piercing
-pirate
-pirate hat
-pun
-rating:safe
-self lick
-simple background
-species:avian
-species:bird
-species:cat
-species:domestic cat
-species:felid
-species:feline
-species:felis
-species:mammal
-species:parrot
-subreddit:imaginarypirates
-subreddit:imcharacters
-text
-title:day 1383. purrates
-title:purrates by piper thibodeau
-tongue
-tongue out
-uploader:myrandall
-visual pun
-whiskers
-white body
-white fur
-wings
-worried
-x eyes
-year:2016
-yellow body
-yellow eyes
-yellow feathers
+1 eye,
+2016,
+action:licking,
+angry,
+beady eyes,
+bird,
+black eyes,
+blue body,
+blue feathers,
+bodypart:black eyes,
+bodypart:facial piercing,
+bodypart:grey fur,
+bodypart:tongue,
+category:ine,
+character:felis,
+clothing,
+clothing:eyewear,
+clothing:hat,
+clothing:headwear,
+creator:cryptid-creations,
+domestic cat,
+ear piercing,
+ear ring,
+emotion:anger,
+eye patch,
+eyepatch,
+eyewear,
+facial piercing,
+fangs,
+feathered wings,
+feathers,
+felid,
+feral,
+fur,
+gender:ambiguous,
+grey body,
+grey fur,
+group,
+hat,
+headgear,
+headwear,
+humor,
+knife,
+licking,
+licking lips,
+medium:simple background,
+medium:white background,
+meme:humor,
+meta:2016,
+meta:english text,
+meta:tagme,
+meta:white background,
+one-eyed,
+orange body,
+pegleg,
+piercing,
+pirate,
+pirate hat,
+pun,
+rating:safe,
+self lick,
+simple background,
+species:avian,
+species:bird,
+species:cat,
+species:domestic cat,
+species:felid,
+species:feline,
+species:felis,
+species:mammal,
+species:parrot,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+text,
+title:day 1383. purrates,
+title:purrates by piper thibodeau,
+tongue,
+tongue out,
+uploader:myrandall,
+visual pun,
+whiskers,
+white body,
+white fur,
+wings,
+worried,
+x eyes,
+year:2016,
+yellow body,
+yellow eyes,
+yellow feathers,

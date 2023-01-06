@@ -1,41 +1,41 @@
-2019
-artist:sandara
-category:ine
-clothed
-clothing
-creator:sandara
-digital media (artwork)
-duo
-feathered wings
-feathered_wings
-feathers
-gender:male
-hair
-holding object
-holding sword
-holding weapon
-holding_object
-holding_sword
-holding_weapon
-male
-medium:digital media
-melee weapon
-melee_weapon
-meta:2019
-meta:digital media (artwork)
-meta:digital_media_(artwork)
-rating:safe
-species:angel
-standing
-subreddit:imaginaryangels
-subreddit:imaginarybattlefields
-subreddit:imaginarydemons
-subreddit:imlandscapes
-subreddit:immonsters
-subreddit:imraces
-sword
-title:good omens
-title:good omens by sandara tang
-uploader:net-diver
-weapon
-wings
+2019,
+artist:sandara,
+category:ine,
+clothed,
+clothing,
+creator:sandara,
+digital media (artwork),
+duo,
+feathered wings,
+feathered_wings,
+feathers,
+gender:male,
+hair,
+holding object,
+holding sword,
+holding weapon,
+holding_object,
+holding_sword,
+holding_weapon,
+male,
+medium:digital media,
+melee weapon,
+melee_weapon,
+meta:2019,
+meta:digital media (artwork),
+meta:digital_media_(artwork),
+rating:safe,
+species:angel,
+standing,
+subreddit:imaginaryangels,
+subreddit:imaginarybattlefields,
+subreddit:imaginarydemons,
+subreddit:imlandscapes,
+subreddit:immonsters,
+subreddit:imraces,
+sword,
+title:good omens,
+title:good omens by sandara tang,
+uploader:net-diver,
+weapon,
+wings,

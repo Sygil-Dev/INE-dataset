@@ -1,70 +1,70 @@
-animal focus
-anthropomorphism
-artist name
-assasinmonkey
-beak
-beauty mark
-bird
-black background
-blurry
-blurry background
-blurry foreground
-brown eyes
-captain celaeno
-captaincelaeno
-category:ine
-character:captain celaeno
-close-up
-clothes
-clothing
-clothing:earrings
-clothing:headwear
-cream body
-creator:assasinmonkey
-cute
-depth of field
-earrings
-feathers
-female
-fur collar
-fur trim
-gender:female
-hat
-jacket
-jewelry
-leaf
-medium:black background
-medium:simple background
-mlpfim
-mlpmovie
-mlpthemovie2017
-motion blur
-my little pony:the movie
-mylittleponyfriendshipismagic
-no humans
-open mouth
-pirate
-rating:safe
-realistic
-safe
-series:mlp:generation 4
-series:mlp:the movie
-series:my little pony
-signature
-small res
-solo
-species:avian
-species:bird
-species:parrot
-spoiler
-spoiler alert
-spoiler warning
-studio:hasbro
-subreddit:imaginaryanimals
-subreddit:imaginarypirates
-subreddit:imcharacters
-subreddit:imnature
-title:little captain celaeno
-title:little captain celaeno by myron c.p.
-uploader:myrandall
-younger
+animal focus,
+anthropomorphism,
+artist name,
+assasinmonkey,
+beak,
+beauty mark,
+bird,
+black background,
+blurry,
+blurry background,
+blurry foreground,
+brown eyes,
+captain celaeno,
+captaincelaeno,
+category:ine,
+character:captain celaeno,
+close-up,
+clothes,
+clothing,
+clothing:earrings,
+clothing:headwear,
+cream body,
+creator:assasinmonkey,
+cute,
+depth of field,
+earrings,
+feathers,
+female,
+fur collar,
+fur trim,
+gender:female,
+hat,
+jacket,
+jewelry,
+leaf,
+medium:black background,
+medium:simple background,
+mlpfim,
+mlpmovie,
+mlpthemovie2017,
+motion blur,
+my little pony:the movie,
+mylittleponyfriendshipismagic,
+no humans,
+open mouth,
+pirate,
+rating:safe,
+realistic,
+safe,
+series:mlp:generation 4,
+series:mlp:the movie,
+series:my little pony,
+signature,
+small res,
+solo,
+species:avian,
+species:bird,
+species:parrot,
+spoiler,
+spoiler alert,
+spoiler warning,
+studio:hasbro,
+subreddit:imaginaryanimals,
+subreddit:imaginarypirates,
+subreddit:imcharacters,
+subreddit:imnature,
+title:little captain celaeno,
+title:little captain celaeno by myron c.p.,
+uploader:myrandall,
+younger,

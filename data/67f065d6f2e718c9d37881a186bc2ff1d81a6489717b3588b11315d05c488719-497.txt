@@ -1,78 +1,78 @@
-1 male
-1 other
-1boy
-1other
-animal
-attack
-battle
-black hair
-booru:danbooru
-booru:danbooru-safebooru
-booru:safebooru
-category:ine
-character:great serpent
-character:maw
-character:sekiro
-clothing:hair tie
-clothing:jacket
-clothing:scarf
-cloud.d
-creator:cloud _d
-creator:cloud.d
-forked tongue
-from behind
-full body
-furry
-gender:male
-great serpent
-holding
-holding object
-holding sword
-holding weapon
-incoming attack
-jacket
-jumping
-katana
-long jacket
-maw
-mechanical arm
-medium:absurd resolution
-medium:high resolution
-medium:traditional 2d
-meta:absurdres
-meta:highres
-monster
-ninja
-open mouth
-oversized animal
-ponytail
-prosthesis
-prosthetic arm
-rating:safe
-scarf
-sekiro
-sekiro:shadows die twice
-series:sekiro: shadows die twice
-sharp teeth
-short hair
-short ponytail
-size difference
-snake
-species:reptile
-species:scalie
-species:snake
-subreddit:imaginarybehemoths
-subreddit:imaginarygaming
-subreddit:imfandoms
-subreddit:immonsters
-sword
-sword behind back
-teeth
-tied hair
-title:sekiro: white snake by cloud d
-title:只狼 sekiro
-tongue
-topknot
-uploader:godforesaken
-uploader:myrandall
-weapon
+1 male,
+1 other,
+1boy,
+1other,
+animal,
+attack,
+battle,
+black hair,
+booru:danbooru,
+booru:danbooru-safebooru,
+booru:safebooru,
+category:ine,
+character:great serpent,
+character:maw,
+character:sekiro,
+clothing:hair tie,
+clothing:jacket,
+clothing:scarf,
+cloud.d,
+creator:cloud _d,
+creator:cloud.d,
+forked tongue,
+from behind,
+full body,
+furry,
+gender:male,
+great serpent,
+holding,
+holding object,
+holding sword,
+holding weapon,
+incoming attack,
+jacket,
+jumping,
+katana,
+long jacket,
+maw,
+mechanical arm,
+medium:absurd resolution,
+medium:high resolution,
+medium:traditional 2d,
+meta:absurdres,
+meta:highres,
+monster,
+ninja,
+open mouth,
+oversized animal,
+ponytail,
+prosthesis,
+prosthetic arm,
+rating:safe,
+scarf,
+sekiro,
+sekiro:shadows die twice,
+series:sekiro: shadows die twice,
+sharp teeth,
+short hair,
+short ponytail,
+size difference,
+snake,
+species:reptile,
+species:scalie,
+species:snake,
+subreddit:imaginarybehemoths,
+subreddit:imaginarygaming,
+subreddit:imfandoms,
+subreddit:immonsters,
+sword,
+sword behind back,
+teeth,
+tied hair,
+title:sekiro: white snake by cloud d,
+title:只狼 sekiro,
+tongue,
+topknot,
+uploader:godforesaken,
+uploader:myrandall,
+weapon,

@@ -1,67 +1,67 @@
-1 male
-1boy
-black hair
-booru:danbooru
-booru:gelbooru
-booru:sankaku channel
-booru:tbib
-bracelet
-cape
-character:maleficent
-cleavage
-cleavage cutout
-clothing cutout
-clothing:bracelet
-clothing:cape
-clothing:jewelry
-colored skin
-creator:sakimichan
-crossed arms
-digital drawing (artwork)
-dragon horns
-dragon wings
-ears
-fake horns
-fangs
-gender bender
-gender swap
-gender:male
-genderswap
-genderswap (ftm)
-glowing
-gothic
-green skin
-hair:black
-horned headwear
-horns
-jewelry
-male
-male only
-medium:2d art
-medium:digital media
-medium:watermark
-meta:watermark
-plant
-pointy ears
-rating:mature
-rating:safe
-sakimichan
-series:disney
-series:sleeping beauty
-series:sleeping beauty (disney)
-site:deviant art
-slit pupils
-spiked bracelet
-spikes
-studio:disney
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-title:maleficent
-title:maleficent by 'sakimi chan'. (x-post /r/impracticalarmour)
-transformation
-uploader:samalamalam
-vines
-watermark
-wings
-wizard
-yellow eyes
+1 male,
+1boy,
+black hair,
+booru:danbooru,
+booru:gelbooru,
+booru:sankaku channel,
+booru:tbib,
+bracelet,
+cape,
+character:maleficent,
+cleavage,
+cleavage cutout,
+clothing cutout,
+clothing:bracelet,
+clothing:cape,
+clothing:jewelry,
+colored skin,
+creator:sakimichan,
+crossed arms,
+digital drawing (artwork),
+dragon horns,
+dragon wings,
+ears,
+fake horns,
+fangs,
+gender bender,
+gender swap,
+gender:male,
+genderswap,
+genderswap (ftm),
+glowing,
+gothic,
+green skin,
+hair:black,
+horned headwear,
+horns,
+jewelry,
+male,
+male only,
+medium:2d art,
+medium:digital media,
+medium:watermark,
+meta:watermark,
+plant,
+pointy ears,
+rating:mature,
+rating:safe,
+sakimichan,
+series:disney,
+series:sleeping beauty,
+series:sleeping beauty (disney),
+site:deviant art,
+slit pupils,
+spiked bracelet,
+spikes,
+studio:disney,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+title:maleficent,
+title:maleficent by 'sakimi chan'. (x-post /r/impracticalarmour),
+transformation,
+uploader:samalamalam,
+vines,
+watermark,
+wings,
+wizard,
+yellow eyes,

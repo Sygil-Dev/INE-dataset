@@ -1,21 +1,21 @@
-1other
-armor
-category:ine
-copyright name
-gauntlets
-holding
-holding sword
-holding weapon
-rating:safe
-standing
-subreddit:imaginaryclerics
-subreddit:imaginaryhellscapes
-subreddit:imcharacters
-subreddit:imlandscapes
-sword
-title:a sacrifice to the abyss by aaron nakahara
-uploader:[deleted]
-uploader:danilosaur
-uploader:ethan_kahn
-weapon
-website:reddit
+1other,
+armor,
+category:ine,
+copyright name,
+gauntlets,
+holding,
+holding sword,
+holding weapon,
+rating:safe,
+standing,
+subreddit:imaginaryclerics,
+subreddit:imaginaryhellscapes,
+subreddit:imcharacters,
+subreddit:imlandscapes,
+sword,
+title:a sacrifice to the abyss by aaron nakahara,
+uploader:[deleted],
+uploader:danilosaur,
+uploader:ethan_kahn,
+weapon,
+website:reddit,

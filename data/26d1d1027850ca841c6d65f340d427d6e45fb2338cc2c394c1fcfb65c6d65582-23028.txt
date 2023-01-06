@@ -1,26 +1,26 @@
-booru:sankaku channel
-character:rose
-clothing:coat
-coat
-creator:sakimichan
-flower
-gender:male
-long hair
-male
-male focus
-male only
-open clothes
-open coat
-original
-pixiv
-rating:safe
-rose
-sakimichan
-series:original
-site:zerochan anime image board
-sitting
-solo
-subreddit:imaginaryladyboners
-subreddit:imnsfw
-title:red seduction, by sakimichan
-uploader:belledame-sans-serif
+booru:sankaku channel,
+character:rose,
+clothing:coat,
+coat,
+creator:sakimichan,
+flower,
+gender:male,
+long hair,
+male,
+male focus,
+male only,
+open clothes,
+open coat,
+original,
+pixiv,
+rating:safe,
+rose,
+sakimichan,
+series:original,
+site:zerochan anime image board,
+sitting,
+solo,
+subreddit:imaginaryladyboners,
+subreddit:imnsfw,
+title:red seduction, by sakimichan,
+uploader:belledame-sans-serif,

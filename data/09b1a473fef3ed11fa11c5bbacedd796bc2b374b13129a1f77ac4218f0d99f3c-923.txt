@@ -1,27 +1,27 @@
-1boy
-animal
-category:ine
-closed eyes
-creator:clint cearley
-dog
-glasses
-medium:digital 2d
-old
-old man
-open mouth
-rating:safe
-realistic
-simple background
-subreddit:imaginarydwarves
-subreddit:imaginaryscholars
-subreddit:imcharacters
-subreddit:imraces
-teeth
-title:dwarven scholar by clint cearley
-title:dwarven scholar concept
-title:dwarven scholar concept by clint cearley
-tongue
-tongue out
-uploader:lol33ta
-uploader:net-diver
-website:reddit
+1boy,
+animal,
+category:ine,
+closed eyes,
+creator:clint cearley,
+dog,
+glasses,
+medium:digital 2d,
+old,
+old man,
+open mouth,
+rating:safe,
+realistic,
+simple background,
+subreddit:imaginarydwarves,
+subreddit:imaginaryscholars,
+subreddit:imcharacters,
+subreddit:imraces,
+teeth,
+title:dwarven scholar by clint cearley,
+title:dwarven scholar concept,
+title:dwarven scholar concept by clint cearley,
+tongue,
+tongue out,
+uploader:lol33ta,
+uploader:net-diver,
+website:reddit,

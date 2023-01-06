@@ -1,73 +1,73 @@
-2018
-ambiguous gender
-artist:kenket
-black nose
-bone
-booru:e621
-brown theme
-category:ine
-creator:kenket
-demon
-demonic
-doberman
-dog
-feral
-front view
-gen 2 pokemon
-gender:ambiguous
-gender:female
-horn
-horns
-houndoom
-houndour
-ketsketch
-looking at viewer
-medium:video game
-meta:2018
-meta:brown theme
-meta:brown_theme
-meta:restricted palette
-meta:restricted_palette
-pokemon
-pokemonfanart
-pokemonpainting
-pov
-ram
-rating:safe
-realistic
-restricted palette
-series:nintendo
-series:pokemon
-series:pokémon
-skull
-solo
-source:furaffinity.net
-spade tail
-spade_tail
-species:canid
-species:canid demon
-species:canid_demon
-species:canine
-species:demon
-species:hellhound
-species:houndoom
-species:mammal
-species:monster
-species:pokemon
-species:pokémon
-species:pokémon (species)
-studio:nintendo
-subreddit:imaginarydemons
-subreddit:imaginarykanto
-subreddit:imfandoms
-subreddit:immonsters
-tail
-title:houndoom
-title:houndoom by kenket
-title:houndoom by tess garman
-uploader:comics0026
-uploader:lol33ta
-uploader:myrandall
-video games
-white eyes
-year:2018
+2018,
+ambiguous gender,
+artist:kenket,
+black nose,
+bone,
+booru:e621,
+brown theme,
+category:ine,
+creator:kenket,
+demon,
+demonic,
+doberman,
+dog,
+feral,
+front view,
+gen 2 pokemon,
+gender:ambiguous,
+gender:female,
+horn,
+horns,
+houndoom,
+houndour,
+ketsketch,
+looking at viewer,
+medium:video game,
+meta:2018,
+meta:brown theme,
+meta:brown_theme,
+meta:restricted palette,
+meta:restricted_palette,
+pokemon,
+pokemonfanart,
+pokemonpainting,
+pov,
+ram,
+rating:safe,
+realistic,
+restricted palette,
+series:nintendo,
+series:pokemon,
+series:pokémon,
+skull,
+solo,
+source:furaffinity.net,
+spade tail,
+spade_tail,
+species:canid,
+species:canid demon,
+species:canid_demon,
+species:canine,
+species:demon,
+species:hellhound,
+species:houndoom,
+species:mammal,
+species:monster,
+species:pokemon,
+species:pokémon,
+species:pokémon (species),
+studio:nintendo,
+subreddit:imaginarydemons,
+subreddit:imaginarykanto,
+subreddit:imfandoms,
+subreddit:immonsters,
+tail,
+title:houndoom,
+title:houndoom by kenket,
+title:houndoom by tess garman,
+uploader:comics0026,
+uploader:lol33ta,
+uploader:myrandall,
+video games,
+white eyes,
+year:2018,

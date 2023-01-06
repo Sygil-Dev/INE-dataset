@@ -1,62 +1,62 @@
-artist:audrarius
-bodypaint
-bone
-booru:e621
-braid
-braided hair
-braided_hair
-category:ine
-character:princess celestia
-character:princess celestia (mlp)
-character:princess_celestia_(mlp)
-clothing:painted face
-copyright:friendship_is_magic
-copyright:my_little_pony
-creator:audrarius
-ear piercing
-ear_piercing
-face paint
-face_paint
-facial piercing
-feathers
-female
-feral
-gender:female
-genre:fantasy
-hair
-horn
-horns
-mask
-medium:high resolution
-medium:simple background
-meta:hi res
-meta:hi_res
-multicolored hair
-multicolored_hair
-piercing
-pink eyes
-pink_eyes
-rating:safe
-ridged horn
-ridged_horn
-series:friendship is magic
-series:my little pony
-series:my little pony friendship is magic
-series:my little pony: friendship is magic
-sharp horn
-sharp_horn
-simple background
-simple_background
-skull
-skull mask
-skull_mask
-species:equid
-species:equine
-species:mammal
-studio:hasbro
-subreddit:imaginaryequestria
-subreddit:imfandoms
-title:"deer" by malus (audrarius)
-title:deer
-tribal
-uploader:torvusil
+artist:audrarius,
+bodypaint,
+bone,
+booru:e621,
+braid,
+braided hair,
+braided_hair,
+category:ine,
+character:princess celestia,
+character:princess celestia (mlp),
+character:princess_celestia_(mlp),
+clothing:painted face,
+copyright:friendship_is_magic,
+copyright:my_little_pony,
+creator:audrarius,
+ear piercing,
+ear_piercing,
+face paint,
+face_paint,
+facial piercing,
+feathers,
+female,
+feral,
+gender:female,
+genre:fantasy,
+hair,
+horn,
+horns,
+mask,
+medium:high resolution,
+medium:simple background,
+meta:hi res,
+meta:hi_res,
+multicolored hair,
+multicolored_hair,
+piercing,
+pink eyes,
+pink_eyes,
+rating:safe,
+ridged horn,
+ridged_horn,
+series:friendship is magic,
+series:my little pony,
+series:my little pony friendship is magic,
+series:my little pony: friendship is magic,
+sharp horn,
+sharp_horn,
+simple background,
+simple_background,
+skull,
+skull mask,
+skull_mask,
+species:equid,
+species:equine,
+species:mammal,
+studio:hasbro,
+subreddit:imaginaryequestria,
+subreddit:imfandoms,
+title:"deer" by malus (audrarius),
+title:deer,
+tribal,
+uploader:torvusil,

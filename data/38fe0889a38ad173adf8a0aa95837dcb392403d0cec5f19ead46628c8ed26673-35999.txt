@@ -1,77 +1,77 @@
-1 female
-1girl
-armwear
-black hair
-booru:danbooru
-booru:gelbooru
-booru:sankaku
-booru:sankaku channel
-borrowed character
-category:ine
-clothing:dress
-clothing:elbow gloves
-clothing:gloves
-clothing:hat
-clothing:headwear
-clothing:jewelry
-clothing:necklace
-clothing:ribbon
-clothing:white gloves
-commentary
-creator:jonathan hamilton
-creator:jonathan_hamilton
-creator:sky
-creator:tsuaii
-drawn
-dress
-elbow gloves
-female
-female focus
-female only
-flat chest
-flower
-gender:female
-gloves
-hat
-headwear
-jewelry
-lips
-lipstick
-long hair
-makeup
-medium:focus on female character
-medium:watermark
-medium:web address
-meta:borrowed character
-meta:commentary
-meta:commission
-meta:english commentary
-meta:photoshop (medium)
-meta:watermark
-necklace
-nose
-parasol
-pearl necklace
-pettanko
-purple dress
-purple eyes
-rating:general
-rating:mature
-rating:s
-rating:safe
-ribbon
-series:original
-shawl
-sky
-solo
-solo female
-subreddit:imaginaryfashion
-subreddit:immeta
-sun hat
-title:parasol
-title:parasol by jonathan hamilton
-umbrella
-uploader:lol33ta
-watermark
-web address
-white gloves
+1 female,
+1girl,
+armwear,
+black hair,
+booru:danbooru,
+booru:gelbooru,
+booru:sankaku,
+booru:sankaku channel,
+borrowed character,
+category:ine,
+clothing:dress,
+clothing:elbow gloves,
+clothing:gloves,
+clothing:hat,
+clothing:headwear,
+clothing:jewelry,
+clothing:necklace,
+clothing:ribbon,
+clothing:white gloves,
+commentary,
+creator:jonathan hamilton,
+creator:jonathan_hamilton,
+creator:sky,
+creator:tsuaii,
+drawn,
+dress,
+elbow gloves,
+female,
+female focus,
+female only,
+flat chest,
+flower,
+gender:female,
+gloves,
+hat,
+headwear,
+jewelry,
+lips,
+lipstick,
+long hair,
+makeup,
+medium:focus on female character,
+medium:watermark,
+medium:web address,
+meta:borrowed character,
+meta:commentary,
+meta:commission,
+meta:english commentary,
+meta:photoshop (medium),
+meta:watermark,
+necklace,
+nose,
+parasol,
+pearl necklace,
+pettanko,
+purple dress,
+purple eyes,
+rating:general,
+rating:mature,
+rating:s,
+rating:safe,
+ribbon,
+series:original,
+shawl,
+sky,
+solo,
+solo female,
+subreddit:imaginaryfashion,
+subreddit:immeta,
+sun hat,
+title:parasol,
+title:parasol by jonathan hamilton,
+umbrella,
+uploader:lol33ta,
+watermark,
+web address,
+white gloves,

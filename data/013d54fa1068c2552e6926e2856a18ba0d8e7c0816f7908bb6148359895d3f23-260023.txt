@@ -1,31 +1,31 @@
-building
-category:ine
-city
-city lights
-cityscape
-earth (planet)
-explosion
-fire
-galaxy
-giant
-glowing
-glowing eyes
-milky way
-night
-night sky
-planet
-rating:safe
-realistic
-reflection
-science fiction
-shooting star
-sky
-skyscraper
-space
-space craft
-star (sky)
-starry sky
-subreddit:imaginarycybernetics
-subreddit:imtechnology
-title:cyborg young anna vs. reanimated freddy mercury by mike winkelmann (beeple)
-uploader:elumental
+building,
+category:ine,
+city,
+city lights,
+cityscape,
+earth (planet),
+explosion,
+fire,
+galaxy,
+giant,
+glowing,
+glowing eyes,
+milky way,
+night,
+night sky,
+planet,
+rating:safe,
+realistic,
+reflection,
+science fiction,
+shooting star,
+sky,
+skyscraper,
+space,
+space craft,
+star (sky),
+starry sky,
+subreddit:imaginarycybernetics,
+subreddit:imtechnology,
+title:cyborg young anna vs. reanimated freddy mercury by mike winkelmann (beeple),
+uploader:elumental,

@@ -1,26 +1,26 @@
-1girl
-animal
-animal on shoulder
-belt
-black hair
-blue eyes
-cat
-category:ine
-coat
-fur
-fur collar
-fur trim
-gloves
-lips
-nose
-rating:safe
-realistic
-short hair
-solo
-subreddit:imaginarypets
-subreddit:immeta
-sword
-title:questing road by dan dos santos (xpost r/reasonablefantasy)
-uploader:lol33ta
-weapon
-wolf
+1girl,
+animal,
+animal on shoulder,
+belt,
+black hair,
+blue eyes,
+cat,
+category:ine,
+coat,
+fur,
+fur collar,
+fur trim,
+gloves,
+lips,
+nose,
+rating:safe,
+realistic,
+short hair,
+solo,
+subreddit:imaginarypets,
+subreddit:immeta,
+sword,
+title:questing road by dan dos santos (xpost r/reasonablefantasy),
+uploader:lol33ta,
+weapon,
+wolf,
