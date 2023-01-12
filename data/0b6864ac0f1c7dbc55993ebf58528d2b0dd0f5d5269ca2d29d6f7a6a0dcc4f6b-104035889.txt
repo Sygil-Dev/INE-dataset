@@ -1,4 +1,5 @@
 armor,
+breastplate,
 full armor,
 full body,
 gauntlets,
