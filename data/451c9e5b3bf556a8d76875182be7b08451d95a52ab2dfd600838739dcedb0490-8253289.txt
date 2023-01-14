@@ -1,6 +1,7 @@
 category:ine,
 creator:antoine collignon,
 medium:digital 2d,
+noai,
 subreddit:conceptart,
 subreddit:imaginaryarchitecture,
 subreddit:imaginaryfuturism,
