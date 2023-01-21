@@ -1,0 +1,8 @@
+animal,
+english text,
+rating:safe,
+shirt,
+speech bubble,
+subreddit:imaginarysliceoflife,
+title:tv time by jolo,
+uploader:suspicious_toe_4784,

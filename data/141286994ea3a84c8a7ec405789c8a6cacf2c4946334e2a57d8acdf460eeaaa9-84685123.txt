@@ -1,0 +1,8 @@
+english text,
+greyscale,
+monochrome,
+rating:safe,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+title:zenonian zoo: exemplar 2.0,
+uploader:mazolt,

@@ -1,0 +1,8 @@
+english text,
+parody,
+poster (medium),
+rating:safe,
+subreddit:imaginaryvessels,
+subreddit:imtechnology,
+title:"the rogue ship with a sub-hating soul!" (1942) by ray quigley,
+uploader:yannirotten,

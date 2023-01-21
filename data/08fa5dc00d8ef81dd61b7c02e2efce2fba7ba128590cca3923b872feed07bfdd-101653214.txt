@@ -1,0 +1,7 @@
+blood,
+english text,
+rating:safe,
+sketch,
+subreddit:imaginarywarhammer,
+title:have to be a good dad to your army of 120 000 evil vampires,
+uploader:thecatherd,

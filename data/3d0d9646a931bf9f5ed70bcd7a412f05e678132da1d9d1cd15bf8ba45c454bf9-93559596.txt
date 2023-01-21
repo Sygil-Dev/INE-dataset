@@ -1,0 +1,8 @@
+english text,
+no humans,
+rating:safe,
+subreddit:imaginarymindscapes,
+subreddit:imlandscapes,
+title:big bang by me,
+traditional media,
+uploader:wiildman8,

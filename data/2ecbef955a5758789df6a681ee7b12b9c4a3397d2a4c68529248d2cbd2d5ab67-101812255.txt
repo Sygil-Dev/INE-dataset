@@ -1,0 +1,6 @@
+english text,
+rating:safe,
+subreddit:imaginarymiddleearth,
+title:the green dragon pub sign, an acrylic painting by me,
+traditional media,
+uploader:themorningthunder,

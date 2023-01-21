@@ -1,0 +1,5 @@
+english text,
+rating:safe,
+subreddit:imaginarypropaganda,
+title:“lannisters win wars! be on the right side of history!” by olivia desianti [game of thrones],
+uploader:yannirotten,

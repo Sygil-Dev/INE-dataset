@@ -1,0 +1,7 @@
+english text,
+rating:safe,
+subreddit:imaginarycolorscapes,
+subreddit:immeta,
+text focus,
+title:circle patter painting - ink and acrylic ink,
+uploader:stephenferris,

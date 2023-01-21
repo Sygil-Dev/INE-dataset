@@ -1,0 +1,8 @@
+english text,
+hat,
+monochrome,
+rating:safe,
+subreddit:imaginaryhorrors,
+subreddit:immonsters,
+title:tribunal - in ode to pure ocd, by me (ink + charcoal),
+uploader:jghkc,

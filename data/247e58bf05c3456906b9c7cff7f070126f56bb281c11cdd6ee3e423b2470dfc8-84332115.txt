@@ -1,0 +1,7 @@
+english text,
+explosion,
+rating:safe,
+subreddit:imaginaryastronauts,
+subreddit:imcharacters,
+title:barry n. malzberg, the falling astronauts, arrow, 1975. cover: david bergen.,
+uploader:mavmaramis,

@@ -1,0 +1,8 @@
+bug,
+english text,
+heart,
+rating:safe,
+subreddit:imaginarycarnage,
+subreddit:imnsfw,
+title:epic gamer moment by sequ0ia,
+uploader:sequ0ia,

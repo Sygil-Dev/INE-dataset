@@ -1,0 +1,6 @@
+english text,
+no humans,
+rating:safe,
+subreddit:imaginarytechnology,
+title:print ad for a microcomputer designed to access the socialist internet.,
+uploader:prokhorvlg,

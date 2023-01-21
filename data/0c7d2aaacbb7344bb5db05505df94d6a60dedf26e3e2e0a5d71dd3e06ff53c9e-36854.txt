@@ -1,0 +1,8 @@
+category:ine,
+english text,
+no humans,
+rating:safe,
+subreddit:imaginaryhumans,
+subreddit:imraces,
+title:‘fun with your new head’ by thomas m. disch. cover by gene szafran, 1972.,
+uploader:spell-czech,

@@ -1,0 +1,8 @@
+1girl,
+english text,
+profanity,
+rating:safe,
+speech bubble,
+subreddit:imaginarywarhammer,
+title:"four gods. one man." (by emwattnot),
+uploader:riot-knight,

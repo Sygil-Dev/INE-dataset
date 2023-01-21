@@ -1,0 +1,7 @@
+animal,
+brown background,
+rating:safe,
+subreddit:sympatheticmonsters,
+text focus,
+title:a door to door salesman but it’s an awkward demon trying to buy your soul. come on, he has a quota to meet,
+uploader:rum-ham-sam,

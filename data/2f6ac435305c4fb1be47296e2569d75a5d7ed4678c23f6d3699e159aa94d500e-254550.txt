@@ -1,0 +1,7 @@
+category:ine,
+english text,
+rating:safe,
+subreddit:imaginaryinteriors,
+subreddit:imarchitecture,
+title:the wizard's living room by julia blattman,
+uploader:myrandall,

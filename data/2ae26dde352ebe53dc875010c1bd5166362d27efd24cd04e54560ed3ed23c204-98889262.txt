@@ -1,0 +1,8 @@
+album cover,
+artist name,
+english text,
+rating:safe,
+subreddit:imaginarymindscapes,
+title:window of opportunity, by harrypackart (myself), procreate, 2021,
+traditional media,
+uploader:harrypackart,

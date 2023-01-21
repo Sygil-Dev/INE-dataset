@@ -1,0 +1,8 @@
+english text,
+rating:safe,
+subreddit:imaginaryarmor,
+subreddit:imtechnology,
+title:the queen bee's shield by foresterdesigns,
+uploader:comics0026,
+watermark,
+web address,

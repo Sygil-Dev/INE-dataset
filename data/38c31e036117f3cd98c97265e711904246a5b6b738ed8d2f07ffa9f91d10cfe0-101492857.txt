@@ -1,0 +1,7 @@
+english text,
+japanese clothes,
+long hair,
+rating:safe,
+subreddit:imaginarypropaganda,
+title:the new jersey empire propaganda,
+uploader:brohibi,

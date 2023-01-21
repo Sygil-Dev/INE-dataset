@@ -1,0 +1,8 @@
+english text,
+military,
+rating:safe,
+realistic,
+subreddit:imaginarymechs,
+subreddit:imtechnology,
+title:surveillance crawler - modelled in blender,
+uploader:_captainflint,

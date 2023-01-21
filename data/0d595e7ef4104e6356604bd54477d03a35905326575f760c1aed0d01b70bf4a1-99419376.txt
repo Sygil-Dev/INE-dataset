@@ -1,0 +1,6 @@
+english text,
+no humans,
+rating:safe,
+subreddit:imaginarymiddleearth,
+title:"middle-earth heraldry: ecthelion (fountain)" one of the houses of gondolin, by aglargon,
+uploader:nikephoros_ii_phokas,

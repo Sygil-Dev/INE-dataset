@@ -1,0 +1,8 @@
+english text,
+gradient,
+no humans,
+rating:safe,
+subreddit:imaginaryaliens,
+title:shadow leviathan concepts 2 by artist alex ries,
+uploader:anon_ymou5,
+web address,
