@@ -1,4 +1,4 @@
-::d,
+:d,
 blue sky,
 blurry,
 category:ine,

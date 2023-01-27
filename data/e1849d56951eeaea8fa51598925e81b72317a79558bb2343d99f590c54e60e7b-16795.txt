@@ -1,6 +1,6 @@
 1 female,
 1girl,
-::d,
+:d,
 air bubble,
 artist name,
 bare shoulders,

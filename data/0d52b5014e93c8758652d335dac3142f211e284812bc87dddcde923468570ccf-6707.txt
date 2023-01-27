@@ -1,5 +1,5 @@
 1girl,
-::d,
+:d,
 aqua eyes,
 blue eyes,
 category:ine,

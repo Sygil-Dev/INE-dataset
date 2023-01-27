@@ -1,7 +1,7 @@
 00s,
 1 female,
 1girl,
-::p,
+:p,
 aqua eyes,
 bare shoulders,
 booru:sankaku,

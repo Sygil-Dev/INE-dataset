@@ -1,7 +1,7 @@
 1 female,
 1girl,
 10s,
-::d,
+:d,
 >:d,
 animal ears,
 armpits,

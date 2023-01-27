@@ -1,6 +1,6 @@
 1boy,
 2019,
-::p,
+:p,
 artist name,
 artist:conditional_dnp,
 artist:oksara,

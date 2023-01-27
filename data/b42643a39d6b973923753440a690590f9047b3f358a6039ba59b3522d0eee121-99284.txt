@@ -1,4 +1,4 @@
-::3,
+:3,
 alternate color,
 anthro,
 anthropomorphism,

@@ -1,6 +1,6 @@
 1 female,
 1girl,
-::d,
+:d,
 alternate costume,
 alternate hairstyle,
 alternative age,

@@ -1,6 +1,6 @@
 1 female,
 1girl,
-::o,
+:o,
 artist name,
 black footwear,
 black legwear,

@@ -1,6 +1,6 @@
 1 female,
 1girl,
-::o,
+:o,
 aircraft,
 airplane,
 animal,

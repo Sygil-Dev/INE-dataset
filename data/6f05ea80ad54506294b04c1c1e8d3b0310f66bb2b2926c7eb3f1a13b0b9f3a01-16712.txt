@@ -1,6 +1,6 @@
 1 female,
 1girl,
-::q,
+:q,
 armlet,
 art,
 artist:hellstern,

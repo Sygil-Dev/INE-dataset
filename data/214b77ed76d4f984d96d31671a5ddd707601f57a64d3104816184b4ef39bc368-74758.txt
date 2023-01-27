@@ -1,4 +1,4 @@
-::p,
+:p,
 animal,
 beach,
 bear,

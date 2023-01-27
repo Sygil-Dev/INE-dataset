@@ -1,5 +1,5 @@
 90s,
-::d,
+:d,
 ambiguous gender,
 ambiguous_gender,
 art,

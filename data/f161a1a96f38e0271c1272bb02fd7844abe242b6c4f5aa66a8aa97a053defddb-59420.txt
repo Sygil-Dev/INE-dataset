@@ -1,7 +1,7 @@
 1 female,
 1girl,
 !,
-::o,
+:o,
 anglerfish,
 antennae,
 arthropod girl,

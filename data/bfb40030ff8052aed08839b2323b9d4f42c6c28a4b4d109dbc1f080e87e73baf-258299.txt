@@ -1,7 +1,7 @@
 1 female,
 1 male,
 1girl,
-::p,
+:p,
 action:open mouth,
 action:raising arms,
 action:standing upright,

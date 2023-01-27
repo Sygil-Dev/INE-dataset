@@ -1,5 +1,5 @@
 2017,
-::c,
+:c,
 ambiguous gender,
 ambiguous_gender,
 art,

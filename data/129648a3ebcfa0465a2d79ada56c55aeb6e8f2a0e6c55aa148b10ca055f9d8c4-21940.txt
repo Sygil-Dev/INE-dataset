@@ -3,7 +3,7 @@
 2boys,
 2girls,
 10s,
-::d,
+:d,
 ^ ^,
 ^_^,
 absurdres,

@@ -1,4 +1,4 @@
-::3,
+:3,
 ambiguous gender,
 ambiguous_gender,
 artist:seyumei,
