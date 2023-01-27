@@ -1,5 +1,5 @@
 2018,
-::d,
+:d,
 artist:scaleeth,
 belly scales,
 belly_scales,

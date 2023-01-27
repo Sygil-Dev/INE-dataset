@@ -1,5 +1,5 @@
 1girl,
-::t,
+:t,
 artist name,
 asymmetrical legwear,
 bangs,

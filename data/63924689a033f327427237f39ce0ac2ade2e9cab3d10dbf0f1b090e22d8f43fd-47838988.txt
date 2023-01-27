@@ -1,4 +1,4 @@
-::d,
+:d,
 character:gardevoir,
 character:ralts,
 cloud,

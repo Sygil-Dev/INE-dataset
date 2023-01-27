@@ -1,5 +1,5 @@
 1girl,
-::q,
+:q,
 animal,
 animal ear fluff,
 animal ears,

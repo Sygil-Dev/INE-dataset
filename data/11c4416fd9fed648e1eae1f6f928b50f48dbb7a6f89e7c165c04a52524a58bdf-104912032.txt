@@ -1,5 +1,5 @@
 1girl,
-::d,
+:d,
 bat,
 black border,
 border,

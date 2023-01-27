@@ -1,5 +1,5 @@
 3 females,
-::>,
+:>,
 alternate species,
 alternate_species,
 art,

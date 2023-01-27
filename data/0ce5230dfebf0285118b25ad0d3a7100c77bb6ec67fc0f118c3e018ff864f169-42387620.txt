@@ -1,4 +1,4 @@
-::d,
+:d,
 black eyes,
 blue sky,
 category:ine,

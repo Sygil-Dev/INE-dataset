@@ -1,4 +1,4 @@
-::d,
+:d,
 bamboo,
 bamboo forest,
 blinds,

@@ -1,5 +1,5 @@
 1girl,
-::3,
+:3,
 animal ears,
 black background,
 blonde hair,

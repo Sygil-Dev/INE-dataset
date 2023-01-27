@@ -3,7 +3,7 @@
 2 males,
 2boys,
 10s,
-::3,
+:3,
 airport,
 alternate universe,
 artist:chocogrotto,

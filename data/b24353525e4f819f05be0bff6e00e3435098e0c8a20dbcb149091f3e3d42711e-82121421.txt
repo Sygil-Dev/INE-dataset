@@ -1,4 +1,4 @@
-::<,
+:<,
 blurry,
 character:swadloon,
 closed mouth,

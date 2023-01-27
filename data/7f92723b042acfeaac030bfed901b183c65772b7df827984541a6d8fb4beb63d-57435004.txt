@@ -1,5 +1,5 @@
 1girl,
-::t,
+:t,
 \o/,
 aircraft,
 airship,

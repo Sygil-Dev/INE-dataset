@@ -1,6 +1,6 @@
 1boy,
 1girl,
-::p,
+:p,
 abs,
 cloak,
 fingerless gloves,

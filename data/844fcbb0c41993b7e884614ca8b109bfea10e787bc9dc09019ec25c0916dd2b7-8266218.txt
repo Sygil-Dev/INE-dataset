@@ -1,6 +1,6 @@
 1 female,
 1girl,
-::p,
+:p,
 android 21,
 anime & manga,
 axsens,

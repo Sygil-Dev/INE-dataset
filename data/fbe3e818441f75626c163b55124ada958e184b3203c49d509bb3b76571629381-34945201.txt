@@ -1,4 +1,4 @@
-::3,
+:3,
 blue sky,
 blurry,
 blurry background,

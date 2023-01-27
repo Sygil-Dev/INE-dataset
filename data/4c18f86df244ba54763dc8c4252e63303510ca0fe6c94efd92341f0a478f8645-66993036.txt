@@ -1,6 +1,6 @@
 1boy,
 6+girls,
-::3,
+:3,
 angel,
 animal ears,
 anniversary,

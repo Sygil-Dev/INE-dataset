@@ -1,4 +1,4 @@
-::d,
+:d,
 > <,
 ^ ^,
 animal on head,

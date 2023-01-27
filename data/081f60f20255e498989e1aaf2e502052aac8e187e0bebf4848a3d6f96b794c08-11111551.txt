@@ -1,6 +1,6 @@
 1 female,
 1girl,
-::d,
+:d,
 angel,
 angel wings,
 art,

@@ -1,6 +1,6 @@
 1 female,
 1girl,
-::t,
+:t,
 bangs,
 bare arms,
 bare shoulders,

@@ -1,4 +1,4 @@
-::d,
+:d,
 artist name,
 bat wings,
 black eyes,

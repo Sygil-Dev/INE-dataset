@@ -1,6 +1,6 @@
 4girls,
-::<,
-::d,
+:<,
+:d,
 ^ ^,
 animal,
 animal on head,

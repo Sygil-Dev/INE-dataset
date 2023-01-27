@@ -1,5 +1,5 @@
 1girl,
-::d,
+:d,
 category:ine,
 green eyes,
 hat,

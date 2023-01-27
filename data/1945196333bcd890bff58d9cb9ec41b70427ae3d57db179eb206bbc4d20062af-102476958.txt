@@ -1,4 +1,4 @@
-::3,
+:3,
 character:eevee,
 character:espeon,
 character:glaceon,

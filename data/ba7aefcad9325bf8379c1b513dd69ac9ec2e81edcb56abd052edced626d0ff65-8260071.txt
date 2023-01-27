@@ -1,6 +1,6 @@
 1 female,
 1girl,
-::d,
+:d,
 <3,
 <3 eyes,
 <3_eyes,

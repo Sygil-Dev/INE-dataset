@@ -1,4 +1,4 @@
-::d,
+:d,
 category:concept art,
 category:ine,
 creator:dick jones,

@@ -1,5 +1,5 @@
 1girl,
-::q,
+:q,
 armor,
 belt,
 breastplate,

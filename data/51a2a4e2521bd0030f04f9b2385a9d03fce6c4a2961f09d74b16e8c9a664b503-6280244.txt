@@ -2,7 +2,7 @@
 1boy,
 2 females,
 2girls,
-::3,
+:3,
 ^ ^,
 ^_^,
 ahoge,

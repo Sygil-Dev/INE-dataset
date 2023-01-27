@@ -1,6 +1,6 @@
 1 female,
 1girl,
-::3,
+:3,
 >:3,
 acronym,
 animal,

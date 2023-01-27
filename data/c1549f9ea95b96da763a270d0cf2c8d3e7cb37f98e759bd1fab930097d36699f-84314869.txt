@@ -1,5 +1,5 @@
 1girl,
-::<,
+:<,
 akari (pokemon),
 beak,
 character:akari (pokemon),

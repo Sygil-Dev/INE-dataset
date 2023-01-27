@@ -1,5 +1,5 @@
 1girl,
-::t,
+:t,
 bamboo,
 black legwear,
 blue eyes,

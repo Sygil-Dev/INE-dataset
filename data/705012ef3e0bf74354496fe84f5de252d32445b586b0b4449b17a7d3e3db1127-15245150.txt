@@ -1,5 +1,5 @@
 1 toe,
-::3,
+:3,
 ambiguous gender,
 art,
 beady eyes,

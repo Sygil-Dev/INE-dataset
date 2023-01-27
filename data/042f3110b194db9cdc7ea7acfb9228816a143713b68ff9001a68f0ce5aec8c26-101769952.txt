@@ -1,4 +1,4 @@
-::d,
+:d,
 beach,
 colored pencil (medium),
 full body,

@@ -1,4 +1,4 @@
-::d,
+:d,
 apple,
 artist name,
 balloon,

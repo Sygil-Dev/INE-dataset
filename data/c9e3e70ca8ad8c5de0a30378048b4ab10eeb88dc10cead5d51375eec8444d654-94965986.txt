@@ -1,6 +1,6 @@
 1girl,
-::>,
-::d,
+:>,
+:d,
 armor,
 bangs,
 belt,

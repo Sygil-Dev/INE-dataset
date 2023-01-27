@@ -1,5 +1,5 @@
 90s,
-::o,
+:o,
 artist name,
 blue eyes,
 booru:safebooru,

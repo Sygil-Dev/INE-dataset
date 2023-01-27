@@ -1,6 +1,6 @@
 1boy,
 2girls,
-::d,
+:d,
 > <,
 animal ears,
 armor,

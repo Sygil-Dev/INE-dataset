@@ -1,4 +1,4 @@
-::i,
+:i,
 action:closing eyes,
 action:open mouth,
 action:raising arms,

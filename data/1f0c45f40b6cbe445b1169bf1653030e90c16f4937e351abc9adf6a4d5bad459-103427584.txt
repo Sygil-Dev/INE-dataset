@@ -1,4 +1,4 @@
-::d,
+:d,
 artist name,
 crying,
 crying with eyes open,

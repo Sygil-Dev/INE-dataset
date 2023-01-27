@@ -1,4 +1,4 @@
-::3,
+:3,
 aqua eyes,
 artist:paleona,
 black eyes,

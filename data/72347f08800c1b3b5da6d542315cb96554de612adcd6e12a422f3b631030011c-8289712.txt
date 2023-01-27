@@ -1,5 +1,5 @@
-::d,
-::p,
+:d,
+:p,
 action:closing eyes,
 action:open mouth,
 action:sitting,

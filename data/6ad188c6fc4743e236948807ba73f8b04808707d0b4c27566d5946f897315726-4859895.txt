@@ -1,5 +1,5 @@
 10s,
-::d,
+:d,
 blush,
 blush stickers,
 booru:safebooru,

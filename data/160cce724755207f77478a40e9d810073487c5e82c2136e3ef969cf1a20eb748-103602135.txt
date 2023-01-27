@@ -1,5 +1,5 @@
 4koma,
-::3,
+:3,
 bangs,
 blunt bangs,
 comic,

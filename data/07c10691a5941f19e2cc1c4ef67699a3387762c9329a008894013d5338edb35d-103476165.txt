@@ -1,5 +1,5 @@
 1girl,
-::d,
+:d,
 abs,
 afterword,
 album cover,

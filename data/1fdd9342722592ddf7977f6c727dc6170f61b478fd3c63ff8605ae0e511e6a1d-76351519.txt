@@ -1,5 +1,5 @@
 1girl,
-::d,
+:d,
 bangs,
 blue bow,
 blush,
