@@ -1,5 +1,6 @@
 autumn,
 autumn leaves,
+category:ine,
 cloud,
 fire,
 forest,

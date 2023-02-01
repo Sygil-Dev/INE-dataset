@@ -1,6 +1,7 @@
 6+boys,
 blue sky,
 bow (weapon),
+category:ine,
 cloud,
 cloudy sky,
 dandelion,

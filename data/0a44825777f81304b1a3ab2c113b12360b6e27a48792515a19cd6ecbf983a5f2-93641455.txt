@@ -1,5 +1,6 @@
 angry,
 blue eyes,
+blue_eyes,
 cave,
 claws,
 conditional dnp,

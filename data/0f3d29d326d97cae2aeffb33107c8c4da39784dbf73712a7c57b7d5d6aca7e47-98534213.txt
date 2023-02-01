@@ -1,6 +1,7 @@
 bird,
 bridge,
 building,
+category:ine,
 city,
 cloud,
 cloudy sky,

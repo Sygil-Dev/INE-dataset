@@ -1,6 +1,7 @@
 1boy,
 armor,
 axe,
+category:ine,
 cloud,
 copyright name,
 fire,

@@ -1,6 +1,7 @@
 ^^^,
 animal ears,
 blue hair,
+blue_hair,
 blurry,
 blurry background,
 blurry foreground,

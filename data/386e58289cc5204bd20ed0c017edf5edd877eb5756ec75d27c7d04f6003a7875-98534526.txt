@@ -1,5 +1,6 @@
 armor,
 blood on weapon,
+category:ine,
 cloud,
 cloudy sky,
 embers,

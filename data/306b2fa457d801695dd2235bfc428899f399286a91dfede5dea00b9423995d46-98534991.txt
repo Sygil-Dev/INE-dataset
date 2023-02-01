@@ -3,6 +3,7 @@
 blonde hair,
 blue hair,
 braid,
+category:ine,
 character:link,
 character:princess ruto,
 comforting,

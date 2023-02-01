@@ -1,5 +1,6 @@
 aurora,
 campfire,
+category:ine,
 earth (planet),
 embers,
 fire,

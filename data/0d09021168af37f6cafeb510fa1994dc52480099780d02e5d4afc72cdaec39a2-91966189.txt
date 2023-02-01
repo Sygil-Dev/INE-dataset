@@ -2,6 +2,7 @@
 bandaged arm,
 bandages,
 braid,
+category:ine,
 crown braid,
 ear piercing,
 earrings,

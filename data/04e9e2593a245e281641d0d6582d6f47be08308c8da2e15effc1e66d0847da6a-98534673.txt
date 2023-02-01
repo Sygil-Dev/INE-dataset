@@ -1,4 +1,5 @@
 beach,
+category:ine,
 cloud,
 cloudy sky,
 desert,

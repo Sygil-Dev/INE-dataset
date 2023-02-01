@@ -1,6 +1,7 @@
 1boy,
 beard,
 cape,
+category:ine,
 creator:flowerzzxu,
 facial hair,
 full body,

@@ -2,6 +2,7 @@
 artist name,
 braid,
 cape,
+category:ine,
 feather boa,
 fur,
 fur cape,

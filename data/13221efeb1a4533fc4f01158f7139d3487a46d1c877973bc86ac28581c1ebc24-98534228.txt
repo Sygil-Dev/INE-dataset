@@ -1,6 +1,7 @@
 animal,
 aurora,
 building,
+category:ine,
 city,
 cloud,
 cloudy sky,

@@ -1,5 +1,6 @@
 breathing fire,
 burning,
+category:ine,
 cloud,
 cloudy sky,
 embers,

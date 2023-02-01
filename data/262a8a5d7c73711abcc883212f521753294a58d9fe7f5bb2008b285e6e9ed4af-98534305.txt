@@ -1,6 +1,7 @@
 1girl,
 armor,
 artist name,
+category:ine,
 gauntlets,
 greaves,
 helmet,

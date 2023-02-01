@@ -1,5 +1,6 @@
 beach,
 building,
+category:ine,
 city,
 city lights,
 cityscape,

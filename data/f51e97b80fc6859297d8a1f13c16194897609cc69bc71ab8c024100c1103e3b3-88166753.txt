@@ -1,4 +1,5 @@
 blue hair,
+blue_hair,
 claws,
 conditional dnp,
 creator:blitzdrachin,

@@ -1,6 +1,7 @@
 animal,
 artwork,
 birds,
+category:ine,
 clouds,
 fantasy art,
 flying,

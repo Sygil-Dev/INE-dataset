@@ -2,6 +2,7 @@
 barefoot,
 blue eyes,
 brown hair,
+category:ine,
 choker,
 earrings,
 indoors,

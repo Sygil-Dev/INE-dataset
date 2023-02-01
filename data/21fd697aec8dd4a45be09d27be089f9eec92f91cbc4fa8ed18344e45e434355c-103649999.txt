@@ -2,6 +2,7 @@
 6+boys,
 armor,
 beard,
+category:ine,
 cloud,
 facial hair,
 fire,

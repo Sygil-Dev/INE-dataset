@@ -1,5 +1,6 @@
 1girl,
 burning,
+category:ine,
 embers,
 fire,
 gun,

@@ -1,6 +1,7 @@
 1girl,
 2boys,
 book,
+category:ine,
 chair,
 facial hair,
 hat,

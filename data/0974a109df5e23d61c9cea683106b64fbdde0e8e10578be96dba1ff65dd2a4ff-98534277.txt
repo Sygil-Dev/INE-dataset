@@ -1,5 +1,6 @@
 1boy,
 black hair,
+category:ine,
 fireworks,
 glowing,
 long hair,

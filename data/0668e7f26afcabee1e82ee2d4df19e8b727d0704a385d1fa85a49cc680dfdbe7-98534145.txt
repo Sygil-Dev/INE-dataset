@@ -2,6 +2,7 @@
 beard,
 boots,
 brown footwear,
+category:ine,
 facial hair,
 full body,
 grey background,

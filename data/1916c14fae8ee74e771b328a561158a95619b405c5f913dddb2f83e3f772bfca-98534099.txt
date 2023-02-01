@@ -1,6 +1,7 @@
 armor,
 battle,
 bush,
+category:ine,
 day,
 field,
 forest,

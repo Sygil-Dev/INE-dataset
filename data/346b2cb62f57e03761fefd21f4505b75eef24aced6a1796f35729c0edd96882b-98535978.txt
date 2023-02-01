@@ -1,6 +1,7 @@
 1girl,
 armor,
 cape,
+category:ine,
 dragon,
 facing away,
 gauntlets,

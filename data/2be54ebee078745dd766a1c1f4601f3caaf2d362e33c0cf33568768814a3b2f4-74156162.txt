@@ -1,6 +1,7 @@
 air bubble,
 artist name,
 bubble,
+category:ine,
 fish,
 light particles,
 no humans,
