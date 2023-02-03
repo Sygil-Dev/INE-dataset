@@ -1,6 +1,7 @@
 1girl,
 afterword,
 blush,
+category:ine,
 credits,
 credits page,
 english text,

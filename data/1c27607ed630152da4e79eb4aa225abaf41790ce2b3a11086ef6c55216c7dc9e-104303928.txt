@@ -2,6 +2,7 @@
 afterword,
 album cover,
 blush,
+category:ine,
 character profile,
 chat log,
 credits,
