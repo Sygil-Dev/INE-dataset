@@ -1,5 +1,6 @@
 axe,
 bat wings,
+category:ine,
 city,
 claws,
 cloud,

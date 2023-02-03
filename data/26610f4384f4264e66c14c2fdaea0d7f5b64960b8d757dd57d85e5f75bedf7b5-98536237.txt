@@ -1,6 +1,7 @@
 1girl,
 1other,
 building,
+category:ine,
 character:hunter (bloodborne),
 city,
 cloud,

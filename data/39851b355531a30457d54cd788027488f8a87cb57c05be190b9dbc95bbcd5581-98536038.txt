@@ -1,6 +1,7 @@
 blue sky,
 bridge,
 building,
+category:ine,
 censored,
 city,
 city lights,

@@ -3,6 +3,7 @@
 artist:muju,
 blue eyes,
 brown hair,
+category:ine,
 character:shiba tsukune,
 clothing:hair ribbon,
 clothing:hair tie,

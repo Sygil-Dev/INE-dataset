@@ -1,4 +1,6 @@
+artist:sandara,
 brown hair,
+brown_hair,
 claws,
 clothed,
 clothing,

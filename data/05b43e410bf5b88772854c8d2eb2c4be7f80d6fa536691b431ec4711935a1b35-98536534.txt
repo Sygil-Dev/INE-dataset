@@ -1,5 +1,6 @@
 animal ears,
 artist name,
+category:ine,
 full body,
 happy,
 open mouth,

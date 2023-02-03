@@ -1,6 +1,7 @@
 :3,
 artist name,
 bubble,
+category:ine,
 character:eevee,
 character:pikachu,
 cup,
